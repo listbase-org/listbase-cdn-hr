@@ -1,0 +1,546 @@
+{
+  "id": "hr-sudovi",
+  "name": "Sudovi",
+  "title": "Sudovi",
+  "description": "Sudovi u Hrvatskoj (101 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=courthouse), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Centar za mirno rješavanje sporova",
+      "latitude": 45.797595,
+      "longitude": 15.960604
+    },
+    {
+      "name": "Katastar Pag",
+      "latitude": 44.442629,
+      "longitude": 15.055936
+    },
+    {
+      "name": "Kuća",
+      "latitude": 44.885489,
+      "longitude": 13.871782
+    },
+    {
+      "name": "Općinski građanski sud u Zagrebu",
+      "latitude": 45.799851,
+      "longitude": 15.980716
+    },
+    {
+      "name": "Općinski građanski sud, Zemljišnoknjižni odjel Zagreb",
+      "latitude": 45.796636,
+      "longitude": 15.911851
+    },
+    {
+      "name": "Općinski kazneni sud u Zagrebu",
+      "latitude": 45.813075,
+      "longitude": 15.940828
+    },
+    {
+      "name": "Općinski prekršajni sud u Splitu",
+      "latitude": 43.513435,
+      "longitude": 16.443565
+    },
+    {
+      "name": "Općinski sud",
+      "latitude": 42.961243,
+      "longitude": 17.13164
+    },
+    {
+      "name": "Općinski sud",
+      "latitude": 45.026224,
+      "longitude": 14.571997
+    },
+    {
+      "name": "Općinski sud",
+      "latitude": 45.239483,
+      "longitude": 13.932429
+    },
+    {
+      "name": "Općinski sud",
+      "latitude": 45.702604,
+      "longitude": 17.173855
+    },
+    {
+      "name": "Općinski sud",
+      "latitude": 45.802769,
+      "longitude": 15.70846
+    },
+    {
+      "name": "Općinski sud Buje",
+      "latitude": 45.408237,
+      "longitude": 13.659193
+    },
+    {
+      "name": "Općinski sud Metković",
+      "latitude": 43.056127,
+      "longitude": 17.650246
+    },
+    {
+      "name": "Općinski sud Pag",
+      "latitude": 44.44349,
+      "longitude": 15.054628
+    },
+    {
+      "name": "Općinski sud Poreč",
+      "latitude": 45.22307,
+      "longitude": 13.595803
+    },
+    {
+      "name": "Općinski sud Rijeka",
+      "latitude": 45.328251,
+      "longitude": 14.444147
+    },
+    {
+      "name": "Općinski sud u Bjelovaru",
+      "latitude": 45.899395,
+      "longitude": 16.848369
+    },
+    {
+      "name": "Općinski sud u Bjelovaru – Stalna služba u Čazmi",
+      "latitude": 45.748924,
+      "longitude": 16.614122
+    },
+    {
+      "name": "Općinski sud u Bjelovaru, stalna služba u Daruvaru",
+      "latitude": 45.590086,
+      "longitude": 17.223616
+    },
+    {
+      "name": "Općinski sud u Dubrovniku",
+      "latitude": 42.650287,
+      "longitude": 18.09169
+    },
+    {
+      "name": "Općinski sud u Garešnici",
+      "latitude": 45.577942,
+      "longitude": 16.941475
+    },
+    {
+      "name": "Općinski sud u Glini",
+      "latitude": 45.341878,
+      "longitude": 16.087156
+    },
+    {
+      "name": "Općinski sud u Gospiću",
+      "latitude": 44.546649,
+      "longitude": 15.375737
+    },
+    {
+      "name": "Općinski sud u Karlovcu zemljišnoknjižni odjel u Vojniću",
+      "latitude": 45.325008,
+      "longitude": 15.696896
+    },
+    {
+      "name": "Općinski sud u Karlovcu, Zemljišnoknjižni odjel u Slunju",
+      "latitude": 45.115216,
+      "longitude": 15.585326
+    },
+    {
+      "name": "Općinski sud u Koprivnici",
+      "latitude": 46.16287,
+      "longitude": 16.827866
+    },
+    {
+      "name": "Općinski sud u Križevcima",
+      "latitude": 46.027236,
+      "longitude": 16.545443
+    },
+    {
+      "name": "Općinski sud u Kutini",
+      "latitude": 45.482874,
+      "longitude": 16.778924
+    },
+    {
+      "name": "Općinski sud u Novom Zagrebu",
+      "latitude": 45.775276,
+      "longitude": 15.989868
+    },
+    {
+      "name": "Općinski sud u Novom Zagrebu - Stalna služba u Jastrebarskom",
+      "latitude": 45.673154,
+      "longitude": 15.65165
+    },
+    {
+      "name": "Općinski sud u Omišu",
+      "latitude": 43.443084,
+      "longitude": 16.692922
+    },
+    {
+      "name": "Općinski sud u Požegi",
+      "latitude": 45.332506,
+      "longitude": 17.677128
+    },
+    {
+      "name": "Općinski sud u Sesvetama - stalna služba u Dugom Selu",
+      "latitude": 45.80382,
+      "longitude": 16.237061
+    },
+    {
+      "name": "Općinski sud u Sinju",
+      "latitude": 43.70053,
+      "longitude": 16.635225
+    },
+    {
+      "name": "Općinski sud u Sisku - Stalna služba u Petrinji - Zemljišnoknjižni odjel",
+      "latitude": 45.442477,
+      "longitude": 16.277126
+    },
+    {
+      "name": "Općinski sud u Slatini",
+      "latitude": 45.701065,
+      "longitude": 17.701445
+    },
+    {
+      "name": "Općinski sud u Solinu - Zemljišno knjižni odjel",
+      "latitude": 43.536727,
+      "longitude": 16.489396
+    },
+    {
+      "name": "Općinski sud u Splitu",
+      "latitude": 43.514632,
+      "longitude": 16.440323
+    },
+    {
+      "name": "Općinski sud u Splitu - Stalna služba u Makarskoj",
+      "latitude": 43.296125,
+      "longitude": 17.018524
+    },
+    {
+      "name": "Općinski sud u Splitu - Stalna služba u Supetru",
+      "latitude": 43.384416,
+      "longitude": 16.556943
+    },
+    {
+      "name": "Općinski sud u Trogiru",
+      "latitude": 43.516208,
+      "longitude": 16.251567
+    },
+    {
+      "name": "Općinski sud u Valpovu / Općinsko državno odvjetništvo",
+      "latitude": 45.660511,
+      "longitude": 18.416508
+    },
+    {
+      "name": "Općinski sud u Velikoj Gorici",
+      "latitude": 45.71335,
+      "longitude": 16.075992
+    },
+    {
+      "name": "Općinski sud u Velikoj Gorici, Stalna služba u Vrbovcu",
+      "latitude": 45.885604,
+      "longitude": 16.41968
+    },
+    {
+      "name": "Općinski sud u Zadru",
+      "latitude": 44.114202,
+      "longitude": 15.225603
+    },
+    {
+      "name": "Općinski sud u Zlataru",
+      "latitude": 46.092652,
+      "longitude": 16.079355
+    },
+    {
+      "name": "Općinski sud u Đakovu",
+      "latitude": 45.310089,
+      "longitude": 18.410289
+    },
+    {
+      "name": "Općinski sud u Šibeniku",
+      "latitude": 43.732751,
+      "longitude": 15.897849
+    },
+    {
+      "name": "Općinski sud Varaždin",
+      "latitude": 46.223811,
+      "longitude": 16.123763
+    },
+    {
+      "name": "Općinski sud Vinkovci",
+      "latitude": 45.288657,
+      "longitude": 18.803774
+    },
+    {
+      "name": "Općinski sud Čakovec",
+      "latitude": 46.386704,
+      "longitude": 16.440544
+    },
+    {
+      "name": "Općinski sud, Županijski sud, Općinsko državno odvjetništvo i Županijsko državno odvjetništvo u Puli",
+      "latitude": 44.861238,
+      "longitude": 13.844619
+    },
+    {
+      "name": "Općinsko državno odvjetništvo u Križevcima",
+      "latitude": 46.027284,
+      "longitude": 16.545534
+    },
+    {
+      "name": "Prekršajni sud",
+      "latitude": 45.771623,
+      "longitude": 18.607482
+    },
+    {
+      "name": "Prekršajni sud u Dubrovniku",
+      "latitude": 42.650218,
+      "longitude": 18.091915
+    },
+    {
+      "name": "Prekršajni sud u Gospiću",
+      "latitude": 44.546547,
+      "longitude": 15.375845
+    },
+    {
+      "name": "Prekršajni sud u Karlovcu, Stalna služba u Slunju",
+      "latitude": 45.115164,
+      "longitude": 15.585445
+    },
+    {
+      "name": "Prekršajni sud u Križevcima",
+      "latitude": 46.027568,
+      "longitude": 16.545301
+    },
+    {
+      "name": "PREKRŠAJNI SUD U POREČU",
+      "latitude": 45.229656,
+      "longitude": 13.600176
+    },
+    {
+      "name": "Prekršajni sud u Požegi",
+      "latitude": 45.332357,
+      "longitude": 17.674393
+    },
+    {
+      "name": "Prekršajni sud u Samoboru",
+      "latitude": 45.800053,
+      "longitude": 15.714215
+    },
+    {
+      "name": "Prekršajni sud u Svetom Ivanu Zelini",
+      "latitude": 45.959703,
+      "longitude": 16.244528
+    },
+    {
+      "name": "Prekršajni sud u Vrbovcu",
+      "latitude": 45.885415,
+      "longitude": 16.419461
+    },
+    {
+      "name": "Prekršajni sud u Zagrebu",
+      "latitude": 45.776885,
+      "longitude": 15.973383
+    },
+    {
+      "name": "Prekršajni sud u Zagrebu",
+      "latitude": 45.809653,
+      "longitude": 15.9107
+    },
+    {
+      "name": "Prekršajni sud u Zagrebu",
+      "latitude": 45.814752,
+      "longitude": 16.009072
+    },
+    {
+      "name": "Prekršajni sud u Županji",
+      "latitude": 45.075081,
+      "longitude": 18.69552
+    },
+    {
+      "name": "Prekršajni sud Čakovec",
+      "latitude": 46.386801,
+      "longitude": 16.423665
+    },
+    {
+      "name": "Stalna služba u Donjem Miholjcu",
+      "latitude": 45.763532,
+      "longitude": 18.164804
+    },
+    {
+      "name": "Stalna služba u Zaprešiću",
+      "latitude": 45.857552,
+      "longitude": 15.80433
+    },
+    {
+      "name": "Sud",
+      "latitude": 44.038639,
+      "longitude": 16.196592
+    },
+    {
+      "name": "Sud",
+      "latitude": 45.158403,
+      "longitude": 18.013033
+    },
+    {
+      "name": "Sud",
+      "latitude": 45.487714,
+      "longitude": 15.547038
+    },
+    {
+      "name": "Sud za prekršaje",
+      "latitude": 46.225264,
+      "longitude": 16.125972
+    },
+    {
+      "name": "Trgovački sud u Bjelovaru",
+      "latitude": 45.899617,
+      "longitude": 16.848636
+    },
+    {
+      "name": "Trgovački sud u Dubrovniku",
+      "latitude": 42.650336,
+      "longitude": 18.091545
+    },
+    {
+      "name": "Trgovački sud u Rijeci",
+      "latitude": 45.327602,
+      "longitude": 14.43818
+    },
+    {
+      "name": "Trgovački sud u Splitu",
+      "latitude": 43.515717,
+      "longitude": 16.442541
+    },
+    {
+      "name": "Trgovački sud u Zagrebu",
+      "latitude": 45.810978,
+      "longitude": 15.979707
+    },
+    {
+      "name": "Upravni sud u Splitu",
+      "latitude": 43.522173,
+      "longitude": 16.433884
+    },
+    {
+      "name": "Ustavni sud Republike Hrvatske",
+      "latitude": 45.816787,
+      "longitude": 15.97362
+    },
+    {
+      "name": "Visoki kazneni sud Republike Hrvatske",
+      "latitude": 45.797789,
+      "longitude": 15.960654
+    },
+    {
+      "name": "Visoki prekršajni sud Republike Hrvatske",
+      "latitude": 45.806341,
+      "longitude": 15.983225
+    },
+    {
+      "name": "Visoki trgovački sud Republike Hrvatske",
+      "latitude": 45.797696,
+      "longitude": 15.960652
+    },
+    {
+      "name": "Vojnostegovni sud u Splitu",
+      "latitude": 43.51556,
+      "longitude": 16.442286
+    },
+    {
+      "name": "Vrhovni sud Republike Hrvatske",
+      "latitude": 45.811614,
+      "longitude": 15.978431
+    },
+    {
+      "name": "Zemljišno knjižni odjel - Rijeka",
+      "latitude": 45.3275,
+      "longitude": 14.438113
+    },
+    {
+      "name": "ZK Odjel",
+      "latitude": 43.514852,
+      "longitude": 16.44134
+    },
+    {
+      "name": "Županijski sud",
+      "latitude": 45.153473,
+      "longitude": 18.016449
+    },
+    {
+      "name": "Županijski sud u Bjelovaru",
+      "latitude": 45.89966,
+      "longitude": 16.847824
+    },
+    {
+      "name": "Županijski sud u Dubrovniku",
+      "latitude": 42.650255,
+      "longitude": 18.091819
+    },
+    {
+      "name": "Županijski sud u Karlovcu - Stalna služba u Gospiću",
+      "latitude": 44.54678,
+      "longitude": 15.37558
+    },
+    {
+      "name": "Županijski sud u Osijeku",
+      "latitude": 45.560212,
+      "longitude": 18.685047
+    },
+    {
+      "name": "Županijski sud u Splitu",
+      "latitude": 43.514983,
+      "longitude": 16.441169
+    },
+    {
+      "name": "Županijski sud u Varaždinu",
+      "latitude": 46.306606,
+      "longitude": 16.332884
+    },
+    {
+      "name": "Županijski sud u Velikoj Gorici",
+      "latitude": 45.715178,
+      "longitude": 16.073745
+    },
+    {
+      "name": "Županijski sud u Vukovaru",
+      "latitude": 45.357447,
+      "longitude": 18.994999
+    },
+    {
+      "name": "Županijski sud u Zadru",
+      "latitude": 44.114135,
+      "longitude": 15.225667
+    },
+    {
+      "name": "Županijski sud u Zagrebu",
+      "latitude": 45.811211,
+      "longitude": 15.978969
+    },
+    {
+      "name": "Županijsko državno odvjetništvo u Zadru",
+      "latitude": 44.113995,
+      "longitude": 15.225855
+    }
+  ],
+  "meta": {
+    "title": "Sudovi - Besplatno preuzimanje",
+    "description": "Sudovi u Hrvatskoj (101 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=courthouse), izrez EU-POIS/HR. Sadrži 101 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Sudovi | ListBase",
+    "seo_description": "Preuzmi Sudovi — 101 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 101 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

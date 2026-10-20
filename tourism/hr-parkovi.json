@@ -1,0 +1,241 @@
+{
+  "id": "hr-parkovi",
+  "name": "Nacionalni parkovi i parkovi prirode Hrvatske",
+  "title": "Nacionalni parkovi i parkovi prirode Hrvatske",
+  "description": "Otvoreni skup podataka o najpoznatijim nacionalnim parkovima i parkovima prirode Hrvatske. Svaki zapis sadrži naziv parka, tip (Nacionalni park ili Park prirode), godinu osnutka, površinu (km²), najviši vrh (gdje postoji), županiju ili županije, najpoznatiju atrakciju, događaj godine te popis karakterističnih životinjskih vrsta. Dataset contains 10 Croatian protected-area entries (5 Nacionalni parkovi + 5 Parkovi prirode) curated from the upstream `parkovi_hrvatske.json` file. Coverage caveat: source omits 3 of 8 official Croatian national parks (Sjeverni Velebit, Paklenica, Velebit-as-NP) and 6 of 11 official parkovi prirode; this listbase entry preserves only records that exist in the cloned source — no fabrication. A future completion ETL pass against ZZJZ / Ministry of Environment data could fill the gaps.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "park",
+      "label": "Park",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    },
+    {
+      "key": "tip_en",
+      "label": "Tip En",
+      "type": "string"
+    },
+    {
+      "key": "godina_osnutka",
+      "label": "Godina Osnutka",
+      "type": "number"
+    },
+    {
+      "key": "povrsina_km2",
+      "label": "Povrsina Km2",
+      "type": "number"
+    },
+    {
+      "key": "vrh_naziv",
+      "label": "Vrh Naziv",
+      "type": "string"
+    },
+    {
+      "key": "vrh_visina_m",
+      "label": "Vrh Visina M",
+      "type": "number"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "atrakcija",
+      "label": "Atrakcija",
+      "type": "string"
+    },
+    {
+      "key": "dogadjaj_godine",
+      "label": "Dogadjaj Godine",
+      "type": "string"
+    },
+    {
+      "key": "zivotinje",
+      "label": "Zivotinje",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "slug": "01-np-brijuni",
+      "park": "Brijuni",
+      "tip": "Nacionalni park",
+      "tip_en": "National park",
+      "godina_osnutka": 1983,
+      "povrsina_km2": 33.9,
+      "vrh_naziv": "",
+      "vrh_visina_m": "",
+      "zupanija": "Istarska",
+      "atrakcija": "Vidikovac na Ciprovcu",
+      "dogadjaj_godine": "Dani dinosaura u travnju",
+      "zivotinje": "Dupin: sisavac, Morska kornjača: gmaz"
+    },
+    {
+      "id": 2,
+      "slug": "02-np-krka",
+      "park": "Krka",
+      "tip": "Nacionalni park",
+      "tip_en": "National park",
+      "godina_osnutka": 1985,
+      "povrsina_km2": 109,
+      "vrh_naziv": "",
+      "vrh_visina_m": "",
+      "zupanija": "Šibensko-kninska",
+      "atrakcija": "Skradinski buk",
+      "dogadjaj_godine": "Krkino kulturno ljeto",
+      "zivotinje": "Čovječja ribica: vodozemac, Vidra: sisavac"
+    },
+    {
+      "id": 3,
+      "slug": "03-np-mljet",
+      "park": "Mljet",
+      "tip": "Nacionalni park",
+      "tip_en": "National park",
+      "godina_osnutka": 1960,
+      "povrsina_km2": 53.7,
+      "vrh_naziv": "",
+      "vrh_visina_m": "",
+      "zupanija": "Dubrovačko-neretvanska",
+      "atrakcija": "Otočić Svete Marije",
+      "dogadjaj_godine": "Obilježavanje godišnjice osnivanja",
+      "zivotinje": "Morski vranac: ptica, Sredozemni galeb: ptica"
+    },
+    {
+      "id": 4,
+      "slug": "04-np-plitvicka-jezera",
+      "park": "Plitvička jezera",
+      "tip": "Nacionalni park",
+      "tip_en": "National park",
+      "godina_osnutka": 1949,
+      "povrsina_km2": 296.8,
+      "vrh_naziv": "Seliški vrh",
+      "vrh_visina_m": 1279,
+      "zupanija": "Karlovačka, Ličko-senjska",
+      "atrakcija": "Gornja jezera",
+      "dogadjaj_godine": "Plitvički maraton u lipnju",
+      "zivotinje": "Medvjed: sisavac, Vidra: sisavac, Vuk: sisavac"
+    },
+    {
+      "id": 5,
+      "slug": "05-np-risnjak",
+      "park": "Risnjak",
+      "tip": "Nacionalni park",
+      "tip_en": "National park",
+      "godina_osnutka": 1953,
+      "povrsina_km2": 63.5,
+      "vrh_naziv": "Veliki risnjak",
+      "vrh_visina_m": 1528,
+      "zupanija": "Primorsko-goranska",
+      "atrakcija": "Izvor Kupe",
+      "dogadjaj_godine": "Furmanski dan u kolovozu",
+      "zivotinje": "Medvjed: sisavac, Ris: sisavac, Vuk: sisavac"
+    },
+    {
+      "id": 6,
+      "slug": "06-pp-biokovo",
+      "park": "Biokovo",
+      "tip": "Park prirode",
+      "tip_en": "Nature park",
+      "godina_osnutka": 1981,
+      "povrsina_km2": 194,
+      "vrh_naziv": "Sveti Jure",
+      "vrh_visina_m": 1762,
+      "zupanija": "Splitsko-dalmatinska",
+      "atrakcija": "Vidikovac Sv. Jure",
+      "dogadjaj_godine": "Međunarodna brdska utrka u svibnju",
+      "zivotinje": "Muflon: sisavac, Poskok: zmija, Vuk: sisavac"
+    },
+    {
+      "id": 7,
+      "slug": "07-pp-kopacki-rit",
+      "park": "Kopački rit",
+      "tip": "Park prirode",
+      "tip_en": "Nature park",
+      "godina_osnutka": 1976,
+      "povrsina_km2": 231,
+      "vrh_naziv": "",
+      "vrh_visina_m": "",
+      "zupanija": "Osječko-baranjska",
+      "atrakcija": "Šetnica bijelog lopoča",
+      "dogadjaj_godine": "Dan otvorenih vrata u srpnju",
+      "zivotinje": "Orao štekavac: ptica, Vidra: sisavac"
+    },
+    {
+      "id": 8,
+      "slug": "08-pp-medvednica",
+      "park": "Medvednica",
+      "tip": "Park prirode",
+      "tip_en": "Nature park",
+      "godina_osnutka": 1981,
+      "povrsina_km2": 179.4,
+      "vrh_naziv": "Sljeme",
+      "vrh_visina_m": 1035,
+      "zupanija": "Grad Zagreb, Krapinsko-zagorska, Zagrebačka",
+      "atrakcija": "Petsto Horvatovih stuba",
+      "dogadjaj_godine": "Snježna kraljica",
+      "zivotinje": "Močvarni plavac: leptir, Poskok: zmija"
+    },
+    {
+      "id": 9,
+      "slug": "09-pp-papuk",
+      "park": "Papuk",
+      "tip": "Park prirode",
+      "tip_en": "Nature park",
+      "godina_osnutka": 1999,
+      "povrsina_km2": 336,
+      "vrh_naziv": "Papuk",
+      "vrh_visina_m": 953,
+      "zupanija": "Požeško-slavonska, Virovitičko-podravska",
+      "atrakcija": "Drenovačka utvrda Klak",
+      "dogadjaj_godine": "Srednjovjekovni viteški turnir",
+      "zivotinje": "Močvarni plavac: leptir, Pjegavi daždevnjak: vodozemac"
+    },
+    {
+      "id": 10,
+      "slug": "10-pp-vransko-jezero",
+      "park": "Vransko jezero",
+      "tip": "Park prirode",
+      "tip_en": "Nature park",
+      "godina_osnutka": 1999,
+      "povrsina_km2": 57,
+      "vrh_naziv": "",
+      "vrh_visina_m": "",
+      "zupanija": "Šibensko-kninska, Zadarska",
+      "atrakcija": "Kasnoantička kula Osridak",
+      "dogadjaj_godine": "Sajam lokalnih proizvoda",
+      "zivotinje": "Čaplja: ptica, Kravosas: zmija"
+    }
+  ],
+  "meta": {
+    "title": "Nacionalni parkovi i parkovi prirode Hrvatske - Besplatno preuzimanje",
+    "description": "Otvoreni skup podataka o najpoznatijim nacionalnim parkovima i parkovima prirode Hrvatske. Svaki zapis sadrži naziv parka, tip (Nacionalni park ili Park prirode), godinu osnutka, površinu (km²), najviši vrh (gdje postoji), županiju ili županije, najpoznatiju atrakciju, događaj godine te popis karakterističnih životinjskih vrsta. Dataset contains 10 Croatian protected-area entries (5 Nacionalni parkovi + 5 Parkovi prirode) curated from the upstream `parkovi_hrvatske.json` file. Coverage caveat: source omits 3 of 8 official Croatian national parks (Sjeverni Velebit, Paklenica, Velebit-as-NP) and 6 of 11 official parkovi prirode; this listbase entry preserves only records that exist in the cloned source — no fabrication. A future completion ETL pass against ZZJZ / Ministry of Environment data could fill the gaps. Sadrži 10 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Nacionalni parkovi i parkovi prirode Hrvatske | ListBase",
+    "seo_description": "Preuzmi Nacionalni parkovi i parkovi prirode Hrvatske — 10 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 10 zapisa / 13 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

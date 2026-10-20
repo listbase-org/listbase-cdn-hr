@@ -1,0 +1,368 @@
+{
+  "id": "hr-varazdinska-zeljeznicke-postaje",
+  "name": "Željezničke postaje — Varaždinska županija",
+  "title": "Željezničke postaje — Varaždinska županija",
+  "description": "Željezničke postaje i stajališta u Varaždinska županija (šifra 16) iz trainline-eu/stations. 11 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_slug",
+      "label": "Zupanija Slug",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_code",
+      "label": "Zupanija Code",
+      "type": "number"
+    },
+    {
+      "key": "najblize_mjesto",
+      "label": "Najblize Mjesto",
+      "type": "string"
+    },
+    {
+      "key": "udaljenost_km",
+      "label": "Udaljenost Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 26843,
+      "name": "Varaždin Autobusni Kolodvor",
+      "slug": "varazdin-autobusni-kolodvor",
+      "uic": "",
+      "latitude": 46.3042,
+      "longitude": 16.334398,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Varaždinska",
+      "zupanija_slug": "varazdinska",
+      "zupanija_code": "16",
+      "najblize_mjesto": "Varaždin",
+      "udaljenost_km": 0.262,
+      "country": "HR"
+    },
+    {
+      "id": 2,
+      "station_id": 29595,
+      "name": "Ludbreg",
+      "slug": "ludbreg",
+      "uic": "",
+      "latitude": 46.253468,
+      "longitude": 16.615731,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Varaždinska",
+      "zupanija_slug": "varazdinska",
+      "zupanija_code": "16",
+      "najblize_mjesto": "Ludbreg",
+      "udaljenost_km": 0.192,
+      "country": "HR"
+    },
+    {
+      "id": 3,
+      "station_id": 29605,
+      "name": "Novi Marof",
+      "slug": "novi-marof",
+      "uic": "",
+      "latitude": 46.166927,
+      "longitude": 16.335335,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Varaždinska",
+      "zupanija_slug": "varazdinska",
+      "zupanija_code": "16",
+      "najblize_mjesto": "Novi Marof",
+      "udaljenost_km": 0.68,
+      "country": "HR"
+    },
+    {
+      "id": 4,
+      "station_id": 29641,
+      "name": "Turčin",
+      "slug": "turcin",
+      "uic": "",
+      "latitude": 46.259273,
+      "longitude": 16.359406,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Varaždinska",
+      "zupanija_slug": "varazdinska",
+      "zupanija_code": "16",
+      "najblize_mjesto": "Turčin",
+      "udaljenost_km": 0.035,
+      "country": "HR"
+    },
+    {
+      "id": 5,
+      "station_id": 34131,
+      "name": "Varaždin Breg",
+      "slug": "varazdin-breg",
+      "uic": "",
+      "latitude": 46.232582,
+      "longitude": 16.385738,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Varaždinska",
+      "zupanija_slug": "varazdinska",
+      "zupanija_code": "16",
+      "najblize_mjesto": "Varaždin Breg",
+      "udaljenost_km": 1.51,
+      "country": "HR"
+    },
+    {
+      "id": 6,
+      "station_id": 34211,
+      "name": "Bisag",
+      "slug": "bisag",
+      "uic": "",
+      "latitude": 46.033486,
+      "longitude": 16.299375,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Varaždinska",
+      "zupanija_slug": "varazdinska",
+      "zupanija_code": "16",
+      "najblize_mjesto": "Bisag",
+      "udaljenost_km": 0.167,
+      "country": "HR"
+    },
+    {
+      "id": 7,
+      "station_id": 34212,
+      "name": "Breznica",
+      "slug": "breznica",
+      "uic": "",
+      "latitude": 46.069533,
+      "longitude": 16.271105,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Varaždinska",
+      "zupanija_slug": "varazdinska",
+      "zupanija_code": "16",
+      "najblize_mjesto": "Breznica",
+      "udaljenost_km": 0.174,
+      "country": "HR"
+    },
+    {
+      "id": 8,
+      "station_id": 34214,
+      "name": "Breznički Hum",
+      "slug": "breznicki-hum",
+      "uic": "",
+      "latitude": 46.108841,
+      "longitude": 16.283861,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Varaždinska",
+      "zupanija_slug": "varazdinska",
+      "zupanija_code": "16",
+      "najblize_mjesto": "Breznički Hum",
+      "udaljenost_km": 0.581,
+      "country": "HR"
+    },
+    {
+      "id": 9,
+      "station_id": 34217,
+      "name": "Paka",
+      "slug": "paka",
+      "uic": "",
+      "latitude": 46.128995,
+      "longitude": 16.323782,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Varaždinska",
+      "zupanija_slug": "varazdinska",
+      "zupanija_code": "16",
+      "najblize_mjesto": "Paka",
+      "udaljenost_km": 0.392,
+      "country": "HR"
+    },
+    {
+      "id": 10,
+      "station_id": 36012,
+      "name": "Druškovec",
+      "slug": "druskovec",
+      "uic": "",
+      "latitude": 46.25157,
+      "longitude": 16.15026,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Varaždinska",
+      "zupanija_slug": "varazdinska",
+      "zupanija_code": "16",
+      "najblize_mjesto": "Druškovec",
+      "udaljenost_km": 0.488,
+      "country": "HR"
+    },
+    {
+      "id": 11,
+      "station_id": 38285,
+      "name": "Gornji Kneginec",
+      "slug": "gornji-kneginec",
+      "uic": "",
+      "latitude": 46.250758,
+      "longitude": 16.375517,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Varaždinska",
+      "zupanija_slug": "varazdinska",
+      "zupanija_code": "16",
+      "najblize_mjesto": "Gornji Kneginec",
+      "udaljenost_km": 0.029,
+      "country": "HR"
+    }
+  ],
+  "meta": {
+    "title": "Željezničke postaje — Varaždinska županija - Besplatno preuzimanje",
+    "description": "Željezničke postaje i stajališta u Varaždinska županija (šifra 16) iz trainline-eu/stations. 11 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi. Sadrži 11 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Željezničke postaje — Varaždinska županija | ListBase",
+    "seo_description": "Preuzmi Željezničke postaje — Varaždinska županija — 11 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 11 zapisa / 20 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "id": "hr-televizijski-kanali-glazbeni",
+  "name": "Hrvatski TV kanali — glazba",
+  "title": "Hrvatski TV kanali — glazba",
+  "description": "Hrvatski televizijski kanali kategorije 'music' (glazbeni program) iz otvorenog registra iptv-org/database. Sadrži naziv kanala, alternativne nazive, mrežu, vlasnike, kategorije, datum pokretanja i web stranicu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "BravoTV.hr",
+      "name": "Bravo! TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://bravo.hr/bravotv/"
+    },
+    {
+      "id": 2,
+      "channel_id": "CMCTV.hr",
+      "name": "CMC TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Croatia Records",
+      "country": "HR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "2005-06-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://cmc.com.hr/"
+    },
+    {
+      "id": 3,
+      "channel_id": "DMCTelevizija.hr",
+      "name": "DMC Televizija",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://dmc.hr/"
+    },
+    {
+      "id": 4,
+      "channel_id": "ExtraTV.hr",
+      "name": "Extra TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://extrafm.hr/extra-tv/"
+    },
+    {
+      "id": 5,
+      "channel_id": "KlapeiTambureTV.hr",
+      "name": "Klape i Tambure TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://cmc.com.hr/klape-tambure-tv-info/"
+    },
+    {
+      "id": 6,
+      "channel_id": "SamoborTV.hr",
+      "name": "Samobor TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "music",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.samobor.tv/"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatski TV kanali — glazba - Besplatno preuzimanje",
+    "description": "Hrvatski televizijski kanali kategorije 'music' (glazbeni program) iz otvorenog registra iptv-org/database. Sadrži naziv kanala, alternativne nazive, mrežu, vlasnike, kategorije, datum pokretanja i web stranicu. Sadrži 6 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Hrvatski TV kanali — glazba | ListBase",
+    "seo_description": "Preuzmi Hrvatski TV kanali — glazba — 6 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 6 zapisa / 13 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

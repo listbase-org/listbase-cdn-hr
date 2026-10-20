@@ -1,0 +1,456 @@
+{
+  "id": "hr-plazni-resorti",
+  "name": "Plažni resorti",
+  "title": "Plažni resorti",
+  "description": "Plažni resorti u Hrvatskoj (83 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=beach_resort), izrez EU-POIS/HR.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Angiolina",
+      "latitude": 45.335157,
+      "longitude": 14.308499
+    },
+    {
+      "name": "Aurora Beach",
+      "latitude": 45.443321,
+      "longitude": 13.509929
+    },
+    {
+      "name": "Bajer",
+      "latitude": 45.588833,
+      "longitude": 18.436115
+    },
+    {
+      "name": "BONJ",
+      "latitude": 43.171241,
+      "longitude": 16.435003
+    },
+    {
+      "name": "Camping Baldarin",
+      "latitude": 44.615772,
+      "longitude": 14.508737
+    },
+    {
+      "name": "Colosseum",
+      "latitude": 45.330147,
+      "longitude": 14.302425
+    },
+    {
+      "name": "Coral Beach",
+      "latitude": 42.663997,
+      "longitude": 18.061938
+    },
+    {
+      "name": "Crvena Luka Resort",
+      "latitude": 43.918756,
+      "longitude": 15.477865
+    },
+    {
+      "name": "FKK beack \"Školjić\"",
+      "latitude": 43.821436,
+      "longitude": 15.570167
+    },
+    {
+      "name": "FKK Kanegra",
+      "latitude": 45.487852,
+      "longitude": 13.560054
+    },
+    {
+      "name": "Glavna gradska plaža",
+      "latitude": 45.123793,
+      "longitude": 14.794455
+    },
+    {
+      "name": "Golden Beach Simuni",
+      "latitude": 44.462094,
+      "longitude": 14.969137
+    },
+    {
+      "name": "Golden Haven",
+      "latitude": 43.786848,
+      "longitude": 15.619525
+    },
+    {
+      "name": "Gradsko kupalište",
+      "latitude": 45.179251,
+      "longitude": 14.682895
+    },
+    {
+      "name": "Grčevo",
+      "latitude": 45.312139,
+      "longitude": 14.473862
+    },
+    {
+      "name": "Hotel Ičići",
+      "latitude": 45.317067,
+      "longitude": 14.291197
+    },
+    {
+      "name": "Hotel Park",
+      "latitude": 45.315789,
+      "longitude": 14.467767
+    },
+    {
+      "name": "Hotel Park",
+      "latitude": 45.316096,
+      "longitude": 14.467193
+    },
+    {
+      "name": "Karolina",
+      "latitude": 44.756593,
+      "longitude": 14.723725
+    },
+    {
+      "name": "Križić",
+      "latitude": 45.319184,
+      "longitude": 14.463046
+    },
+    {
+      "name": "Kupalište hotela Belveder",
+      "latitude": 45.342358,
+      "longitude": 14.315093
+    },
+    {
+      "name": "Kupalište hotela Hilton",
+      "latitude": 45.346387,
+      "longitude": 14.349667
+    },
+    {
+      "name": "Kupalište Jadrija",
+      "latitude": 43.723418,
+      "longitude": 15.846499
+    },
+    {
+      "name": "Kupalište Mostanje",
+      "latitude": 45.466082,
+      "longitude": 15.565334
+    },
+    {
+      "name": "Kupalište Riviera",
+      "latitude": 45.189921,
+      "longitude": 14.670544
+    },
+    {
+      "name": "Kupalište Royal",
+      "latitude": 45.337749,
+      "longitude": 14.310238
+    },
+    {
+      "name": "Kupalište Slatina",
+      "latitude": 45.332012,
+      "longitude": 14.303686
+    },
+    {
+      "name": "Kupalište Slave Raškaj",
+      "latitude": 45.614606,
+      "longitude": 15.480029
+    },
+    {
+      "name": "Kupalište Turanj",
+      "latitude": 45.464515,
+      "longitude": 15.565207
+    },
+    {
+      "name": "Kupalište Zibel",
+      "latitude": 45.477495,
+      "longitude": 16.359027
+    },
+    {
+      "name": "Lido",
+      "latitude": 45.334783,
+      "longitude": 14.310065
+    },
+    {
+      "name": "Livačina",
+      "latitude": 44.824459,
+      "longitude": 14.751388
+    },
+    {
+      "name": "Majerovica",
+      "latitude": 43.17161,
+      "longitude": 16.431208
+    },
+    {
+      "name": "Mali raj",
+      "latitude": 45.31877,
+      "longitude": 14.291988
+    },
+    {
+      "name": "Malo jezero",
+      "latitude": 45.779696,
+      "longitude": 15.934496
+    },
+    {
+      "name": "Medveja",
+      "latitude": 45.270085,
+      "longitude": 14.269497
+    },
+    {
+      "name": "Mistral Beach Club",
+      "latitude": 43.501505,
+      "longitude": 16.470118
+    },
+    {
+      "name": "Nikolina",
+      "latitude": 43.355781,
+      "longitude": 16.948325
+    },
+    {
+      "name": "Nudistička plaža Jarun",
+      "latitude": 45.779582,
+      "longitude": 15.92064
+    },
+    {
+      "name": "Otok Trešnjevka",
+      "latitude": 45.781766,
+      "longitude": 15.918957
+    },
+    {
+      "name": "Otok Univerzijade",
+      "latitude": 45.784186,
+      "longitude": 15.913751
+    },
+    {
+      "name": "Otok veslača",
+      "latitude": 45.77902,
+      "longitude": 15.932426
+    },
+    {
+      "name": "Plaža \"St. Andrea\"",
+      "latitude": 45.074238,
+      "longitude": 14.16342
+    },
+    {
+      "name": "Plaža Bili",
+      "latitude": 43.031102,
+      "longitude": 17.022986
+    },
+    {
+      "name": "Plaža Bribirska obala",
+      "latitude": 45.128626,
+      "longitude": 14.777514
+    },
+    {
+      "name": "Plaža Bundek",
+      "latitude": 45.785242,
+      "longitude": 15.987403
+    },
+    {
+      "name": "Plaža Grabrova",
+      "latitude": 45.118592,
+      "longitude": 14.811821
+    },
+    {
+      "name": "Plaža hotela Domino",
+      "latitude": 45.32592,
+      "longitude": 14.299708
+    },
+    {
+      "name": "Plaža hotela Kristal",
+      "latitude": 45.329079,
+      "longitude": 14.301679
+    },
+    {
+      "name": "Plaža hotela Miramar",
+      "latitude": 45.341111,
+      "longitude": 14.313356
+    },
+    {
+      "name": "Plaža hotela Spongiola",
+      "latitude": 43.675541,
+      "longitude": 15.914055
+    },
+    {
+      "name": "Plaža ispred hotela Kvarner",
+      "latitude": 45.334337,
+      "longitude": 14.307923
+    },
+    {
+      "name": "Plaža Ičići",
+      "latitude": 45.312866,
+      "longitude": 14.286979
+    },
+    {
+      "name": "Plaža Kačjak",
+      "latitude": 45.204404,
+      "longitude": 14.648136
+    },
+    {
+      "name": "Plaža Kaštel",
+      "latitude": 45.171271,
+      "longitude": 14.694236
+    },
+    {
+      "name": "Plaža Klenovica",
+      "latitude": 45.098122,
+      "longitude": 14.841521
+    },
+    {
+      "name": "Plaža Kozarica",
+      "latitude": 43.907716,
+      "longitude": 15.497579
+    },
+    {
+      "name": "Plaža Lipovica",
+      "latitude": 45.343992,
+      "longitude": 14.315678
+    },
+    {
+      "name": "Plaža Padova II",
+      "latitude": 44.753927,
+      "longitude": 14.769736
+    },
+    {
+      "name": "Plaža Pakoštane",
+      "latitude": 43.907238,
+      "longitude": 15.501227
+    },
+    {
+      "name": "Plaža Pazdehova-Lanterna",
+      "latitude": 45.19172,
+      "longitude": 14.666871
+    },
+    {
+      "name": "Plaža Pilatuša",
+      "latitude": 43.914396,
+      "longitude": 15.488876
+    },
+    {
+      "name": "Plaža Ploče",
+      "latitude": 45.3408,
+      "longitude": 14.371212
+    },
+    {
+      "name": "Plaža Povile",
+      "latitude": 45.115728,
+      "longitude": 14.81788
+    },
+    {
+      "name": "Plaža Prva Dražica",
+      "latitude": 45.124411,
+      "longitude": 14.78871
+    },
+    {
+      "name": "Plaža Senjavac",
+      "latitude": 45.228382,
+      "longitude": 14.254701
+    },
+    {
+      "name": "Plaža Smokvica",
+      "latitude": 45.08607,
+      "longitude": 14.850148
+    },
+    {
+      "name": "Plaža Tomaševac",
+      "latitude": 45.339424,
+      "longitude": 14.311285
+    },
+    {
+      "name": "Plaža za invalide",
+      "latitude": 45.350034,
+      "longitude": 14.341673
+    },
+    {
+      "name": "Plaža Zamošće",
+      "latitude": 42.975795,
+      "longitude": 17.129318
+    },
+    {
+      "name": "Plaža Črnikovica",
+      "latitude": 45.35099,
+      "longitude": 14.321421
+    },
+    {
+      "name": "Plaža Škrbići",
+      "latitude": 45.341158,
+      "longitude": 14.312657
+    },
+    {
+      "name": "Plaža Ždrijac",
+      "latitude": 44.247728,
+      "longitude": 15.183958
+    },
+    {
+      "name": "Plaža-Beach Brulo",
+      "latitude": 45.216301,
+      "longitude": 13.593545
+    },
+    {
+      "name": "Potovošće",
+      "latitude": 45.064684,
+      "longitude": 14.701765
+    },
+    {
+      "name": "Sveti Marek",
+      "latitude": 45.105521,
+      "longitude": 14.664639
+    },
+    {
+      "name": "VAIANA BEACH",
+      "latitude": 43.202243,
+      "longitude": 16.574324
+    },
+    {
+      "name": "Vajavina",
+      "latitude": 45.076027,
+      "longitude": 14.680298
+    },
+    {
+      "name": "Vela plaža",
+      "latitude": 44.965942,
+      "longitude": 14.750263
+    },
+    {
+      "name": "Veli Žal",
+      "latitude": 44.524265,
+      "longitude": 14.458274
+    },
+    {
+      "name": "Veliko jezero",
+      "latitude": 45.780517,
+      "longitude": 15.915561
+    },
+    {
+      "name": "Zgribnica",
+      "latitude": 45.075922,
+      "longitude": 14.678738
+    },
+    {
+      "name": "Škver",
+      "latitude": 44.761031,
+      "longitude": 14.753028
+    }
+  ],
+  "meta": {
+    "title": "Plažni resorti - Besplatno preuzimanje",
+    "description": "Plažni resorti u Hrvatskoj (83 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=beach_resort), izrez EU-POIS/HR. Sadrži 83 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Plažni resorti | ListBase",
+    "seo_description": "Preuzmi Plažni resorti — 83 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 83 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

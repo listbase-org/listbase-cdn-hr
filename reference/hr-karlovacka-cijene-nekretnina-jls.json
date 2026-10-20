@@ -1,0 +1,367 @@
+{
+  "id": "hr-karlovacka-cijene-nekretnina-jls",
+  "name": "Medijalne cijene nekretnina po m² (JLS) — Karlovačka",
+  "title": "Medijalne cijene nekretnina po m² (JLS) — Karlovačka",
+  "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Karlovačka: 22 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "2012",
+      "label": "2012",
+      "type": "string"
+    },
+    {
+      "key": "2013",
+      "label": "2013",
+      "type": "string"
+    },
+    {
+      "key": "2014",
+      "label": "2014",
+      "type": "string"
+    },
+    {
+      "key": "2015",
+      "label": "2015",
+      "type": "string"
+    },
+    {
+      "key": "2016",
+      "label": "2016",
+      "type": "string"
+    },
+    {
+      "key": "2017",
+      "label": "2017",
+      "type": "string"
+    },
+    {
+      "key": "2018",
+      "label": "2018",
+      "type": "string"
+    },
+    {
+      "key": "2019",
+      "label": "2019",
+      "type": "string"
+    },
+    {
+      "key": "Šifra",
+      "label": "ŠIfra",
+      "type": "number"
+    },
+    {
+      "key": "Naziv županije",
+      "label": "Naziv žUpanije",
+      "type": "string"
+    },
+    {
+      "key": "Naziv JLS-a",
+      "label": "Naziv JLS A",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 78,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "BARILOVIĆ"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 302,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "BOSILJEVO"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 493,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "CETINGRAD"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 906,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "DRAGANIĆ"
+    },
+    {
+      "2012": 4681.67,
+      "2013": 4919.52,
+      "2014": 5124.96,
+      "2015": 4549.42,
+      "2016": 4150.76,
+      "2017": 3529.4,
+      "2018": 3847.9,
+      "2019": 3959.37,
+      "Šifra": 990,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "DUGA RESA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 1201,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "GENERALSKI STOL"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1724,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "JOSIPDOL"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 6238,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "KAMANJE"
+    },
+    {
+      "2012": 6228.35,
+      "2013": 5944.3,
+      "2014": 5381.85,
+      "2015": 5490.57,
+      "2016": 5259.2,
+      "2017": 5342,
+      "2018": 5157.6,
+      "2019": 5376.74,
+      "Šifra": 1791,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "KARLOVAC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 2160,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "KRNJAK"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 2259,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "LASINJA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 2810,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "NETRETIĆ"
+    },
+    {
+      "2012": 4199.63,
+      "2013": 2760.74,
+      "2014": 3548.41,
+      "2015": 3216.26,
+      "2016": 4456.7,
+      "2017": 3261.1,
+      "2018": 4055.6,
+      "2019": 4551.88,
+      "Šifra": 2976,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "OGULIN"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": 2622.37,
+      "Šifra": 3158,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "OZALJ"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 3336,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "PLAŠKI"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 3654,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "RAKOVICA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 5568,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "RIBNIK"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 3786,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "SABORSKO"
+    },
+    {
+      "2012": "z",
+      "2013": 2973.06,
+      "2014": 2701.81,
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": 3155.23,
+      "Šifra": 4006,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "SLUNJ"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 5576,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "TOUNJ"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 5037,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "VOJNIĆ"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 5304,
+      "Naziv županije": "Karlovačka",
+      "Naziv JLS-a": "ŽAKANJE"
+    }
+  ],
+  "meta": {
+    "title": "Medijalne cijene nekretnina po m² (JLS) — Karlovačka - Besplatno preuzimanje",
+    "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Karlovačka: 22 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data. Sadrži 22 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Medijalne cijene nekretnina po m² (JLS) — Karlovačka | ListBase",
+    "seo_description": "Preuzmi Medijalne cijene nekretnina po m² (JLS) — Karlovačka — 22 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 22 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

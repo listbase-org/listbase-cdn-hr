@@ -1,0 +1,277 @@
+{
+  "id": "hr-banke-osiguranje",
+  "name": "Registar banaka s dozvolom za zastupanje u osiguranju",
+  "title": "Registar banaka s dozvolom za zastupanje u osiguranju",
+  "description": "Croatian banks licensed for insurance representation (HANFA register)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "Br.",
+      "label": "Br.",
+      "type": "number"
+    },
+    {
+      "key": "Naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "RBS",
+      "label": "RBS",
+      "type": "string"
+    },
+    {
+      "key": "Sjedište",
+      "label": "SjedišTe",
+      "type": "string"
+    },
+    {
+      "key": "Telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "Internetska stranica",
+      "label": "Internetska Stranica",
+      "type": "string"
+    },
+    {
+      "key": "Poveznica na Sudski registar",
+      "label": "Poveznica Na Sudski Registar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "Br.": "1",
+      "Naziv": "BANKA KOVANICA d.d.",
+      "RBS": "ZB 025",
+      "Sjedište": "P.Preradovića  29, Varaždin",
+      "Telefon": "042/403-403",
+      "Internetska stranica": "",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:070047926"
+    },
+    {
+      "Br.": "2",
+      "Naziv": "BKS BANK d.d.",
+      "RBS": "ZB 026",
+      "Sjedište": "Mljekarski trg  3, Rijeka",
+      "Telefon": "051/353555",
+      "Internetska stranica": "",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:040001012"
+    },
+    {
+      "Br.": "3",
+      "Naziv": "CROATIA BANKA d.d.",
+      "RBS": "ZB 019",
+      "Sjedište": "Roberta Frangeša Mihanovića  9, Zagreb",
+      "Telefon": "01/2391-120",
+      "Internetska stranica": "croatiabanka.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:080007370"
+    },
+    {
+      "Br.": "4",
+      "Naziv": "Erste & Steiermarkische bank d.d.",
+      "RBS": "ZB 002",
+      "Sjedište": "Jadranski trg 3/a, Rijeka",
+      "Telefon": "062/371013",
+      "Internetska stranica": "www.erstebank.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:040001037"
+    },
+    {
+      "Br.": "5",
+      "Naziv": "Hrvatska poštanska banka d.d.",
+      "RBS": "ZB 020",
+      "Sjedište": "Jurišićeva  4, Zagreb",
+      "Telefon": "01/4804-400, 4804-409",
+      "Internetska stranica": "www.hpb.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:080010698"
+    },
+    {
+      "Br.": "6",
+      "Naziv": "HYPO ALPE-ADRIA-BANK  d.d.",
+      "RBS": "ZB 024",
+      "Sjedište": "Slavonska avenija  6, Zagreb",
+      "Telefon": "01/6035-380",
+      "Internetska stranica": "www.hypo-alpe-adria.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:080072083"
+    },
+    {
+      "Br.": "7",
+      "Naziv": "IMEX BANKA d.d.",
+      "RBS": "ZB 009",
+      "Sjedište": "Tolstojeva  6, Split",
+      "Telefon": "021/406100",
+      "Internetska stranica": "www.imexbanka.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:060001876"
+    },
+    {
+      "Br.": "8",
+      "Naziv": "Istarska kreditna banka Umag d.d.",
+      "RBS": "ZB 010",
+      "Sjedište": "Ernesta Miloša  1, Umag",
+      "Telefon": "052/702 340",
+      "Internetska stranica": "www.ikb.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:040001029"
+    },
+    {
+      "Br.": "9",
+      "Naziv": "Jadranska banka d.d.",
+      "RBS": "ZB 027",
+      "Sjedište": "Ante Starčevića  4, Šibenik",
+      "Telefon": "",
+      "Internetska stranica": "",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:060001044"
+    },
+    {
+      "Br.": "10",
+      "Naziv": "Karlovačka banka d.d.",
+      "RBS": "ZB 001",
+      "Sjedište": "Ivana Gorana Kovačića  1, Karlovac",
+      "Telefon": "047/417-501",
+      "Internetska stranica": "www.kaba.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:020000334"
+    },
+    {
+      "Br.": "11",
+      "Naziv": "KENTBANK d.d., Zagreb",
+      "RBS": "ZB 028",
+      "Sjedište": "Gundulićeva 1, Zagreb",
+      "Telefon": "",
+      "Internetska stranica": "",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:080129579"
+    },
+    {
+      "Br.": "12",
+      "Naziv": "Kreditna banka Zagreb d.d.",
+      "RBS": "ZB 006",
+      "Sjedište": "Grada Vukovara  74, Zagreb",
+      "Telefon": "01/6167-303,01/6167-301,01/5617-573",
+      "Internetska stranica": "www.kbz.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:080003981"
+    },
+    {
+      "Br.": "13",
+      "Naziv": "OTP BANKA HRVATSKA d.d.",
+      "RBS": "ZB 007",
+      "Sjedište": "Ulica domovinskog rata  3, Zadar",
+      "Telefon": "062/201-707",
+      "Internetska stranica": "www.otpbanka.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:060000531"
+    },
+    {
+      "Br.": "14",
+      "Naziv": "Partner banka d.d.",
+      "RBS": "ZB 018",
+      "Sjedište": "Vončinina  2, Zagreb",
+      "Telefon": "01/4602 222",
+      "Internetska stranica": "www.paba.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:080003730"
+    },
+    {
+      "Br.": "15",
+      "Naziv": "Podravska banka d.d.",
+      "RBS": "ZB 016",
+      "Sjedište": "Opatička  3, Koprivnica",
+      "Telefon": "062/655-260",
+      "Internetska stranica": "www.poba.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:010000486"
+    },
+    {
+      "Br.": "16",
+      "Naziv": "PRIMORSKA BANKA d.d.",
+      "RBS": "ZB 023",
+      "Sjedište": "Scarpina  7, Rijeka",
+      "Telefon": "051/355-777",
+      "Internetska stranica": "www.primorska.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:040098231"
+    },
+    {
+      "Br.": "17",
+      "Naziv": "Privredna banka Zagreb d.d.",
+      "RBS": "ZB 014",
+      "Sjedište": "Radnička cesta  50, Zagreb",
+      "Telefon": "01/4891 331",
+      "Internetska stranica": "www.pbz.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:080002817"
+    },
+    {
+      "Br.": "18",
+      "Naziv": "Raiffeisenbank Austria d.d.",
+      "RBS": "ZB 003",
+      "Sjedište": "Petrinjska  59, Zagreb",
+      "Telefon": "01/4560825",
+      "Internetska stranica": "rba.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:080002366"
+    },
+    {
+      "Br.": "19",
+      "Naziv": "Sberbank d.d.",
+      "RBS": "ZB 013",
+      "Sjedište": "Varšavska  9, Zagreb",
+      "Telefon": "01 4801 300",
+      "Internetska stranica": "sberbank.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:080126398"
+    },
+    {
+      "Br.": "20",
+      "Naziv": "Slatinska banka d.d.",
+      "RBS": "ZB 017",
+      "Sjedište": "Vladimira Nazora  2, Slatina (Preseka)",
+      "Telefon": "033/840400",
+      "Internetska stranica": "",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:010000576"
+    },
+    {
+      "Br.": "21",
+      "Naziv": "SOCIETE GENERALE - SPLITSKA BANKA d.d.",
+      "RBS": "ZB 012",
+      "Sjedište": "Ruđera Boškovića  16, Split",
+      "Telefon": "021/304-621",
+      "Internetska stranica": "www.splitskabanka.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:060000488"
+    },
+    {
+      "Br.": "22",
+      "Naziv": "VABA d.d. banka",
+      "RBS": "ZB 005",
+      "Sjedište": "Aleja kralja Zvonimira  1, Varaždin",
+      "Telefon": "042/659-400",
+      "Internetska stranica": "www.vaba.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:050000185"
+    },
+    {
+      "Br.": "23",
+      "Naziv": "VENETO BANKA d.d..",
+      "RBS": "ZB 004",
+      "Sjedište": "Draškovićeva  58, Zagreb",
+      "Telefon": "01/4802666",
+      "Internetska stranica": "",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:080003326"
+    },
+    {
+      "Br.": "24",
+      "Naziv": "ZAGREBAČKA BANKA d.d.",
+      "RBS": "ZB 008",
+      "Sjedište": "Trg bana Josipa Jelačića  10, Zagreb",
+      "Telefon": "01/4801-544",
+      "Internetska stranica": "www.zaba.hr",
+      "Poveznica na Sudski registar": "https://sudreg.pravosudje.hr/registar/f?p=150:28:0::NO:28:P28_SBT_MBS:080000014"
+    }
+  ],
+  "meta": {
+    "title": "Registar banaka s dozvolom za zastupanje u osiguranju - Besplatno preuzimanje",
+    "description": "Croatian banks licensed for insurance representation (HANFA register) Sadrži 24 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Registar banaka s dozvolom za zastupanje u osiguranju | ListBase",
+    "seo_description": "Preuzmi Registar banaka s dozvolom za zastupanje u osiguranju — 24 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 24 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

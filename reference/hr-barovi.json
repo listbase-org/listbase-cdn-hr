@@ -1,0 +1,7461 @@
+{
+  "id": "hr-barovi",
+  "name": "Barovi u Hrvatskoj",
+  "title": "Barovi u Hrvatskoj",
+  "description": "Bars in Croatia (amenity=bar) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1484,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Lutvinka\"",
+      "latitude": 45.15906,
+      "longitude": 18.026733
+    },
+    {
+      "name": "$ollar",
+      "latitude": 45.167719,
+      "longitude": 18.004026
+    },
+    {
+      "name": "& More by Sheraton bar",
+      "latitude": 45.80743,
+      "longitude": 15.984195
+    },
+    {
+      "name": "'Atlantida'",
+      "latitude": 43.821114,
+      "longitude": 15.65982
+    },
+    {
+      "name": "'Bor bar'",
+      "latitude": 43.820839,
+      "longitude": 15.660991
+    },
+    {
+      "name": "2 Monkeys",
+      "latitude": 43.239655,
+      "longitude": 17.076965
+    },
+    {
+      "name": "365 rooms",
+      "latitude": 44.112068,
+      "longitude": 15.234645
+    },
+    {
+      "name": "808 bar",
+      "latitude": 45.800754,
+      "longitude": 15.972383
+    },
+    {
+      "name": "A most unusual garden",
+      "latitude": 45.787264,
+      "longitude": 15.952979
+    },
+    {
+      "name": "A-bay",
+      "latitude": 43.180907,
+      "longitude": 16.571846
+    },
+    {
+      "name": "Absolut bar",
+      "latitude": 45.785912,
+      "longitude": 15.952812
+    },
+    {
+      "name": "Acapulco Beach Bar",
+      "latitude": 43.38578,
+      "longitude": 16.556944
+    },
+    {
+      "name": "Admiral",
+      "latitude": 43.194523,
+      "longitude": 17.13968
+    },
+    {
+      "name": "Adria Beach Bar",
+      "latitude": 44.817218,
+      "longitude": 13.97576
+    },
+    {
+      "name": "Adria Snack FKK",
+      "latitude": 45.065037,
+      "longitude": 13.658639
+    },
+    {
+      "name": "Adriatic Food Corner",
+      "latitude": 42.653849,
+      "longitude": 18.068828
+    },
+    {
+      "name": "Adriatic Social Club",
+      "latitude": 43.51606,
+      "longitude": 16.443268
+    },
+    {
+      "name": "Adriens Beach Bar & More",
+      "latitude": 45.23049,
+      "longitude": 14.610956
+    },
+    {
+      "name": "Afrika beach bar",
+      "latitude": 45.428066,
+      "longitude": 13.518539
+    },
+    {
+      "name": "After Eight",
+      "latitude": 45.795711,
+      "longitude": 15.900085
+    },
+    {
+      "name": "Agroclub",
+      "latitude": 46.017078,
+      "longitude": 16.537004
+    },
+    {
+      "name": "akunbar",
+      "latitude": 45.808873,
+      "longitude": 15.997359
+    },
+    {
+      "name": "Ala Mizerija",
+      "latitude": 42.641631,
+      "longitude": 18.103476
+    },
+    {
+      "name": "Alavia Bar",
+      "latitude": 43.063242,
+      "longitude": 16.188608
+    },
+    {
+      "name": "Albatros",
+      "latitude": 43.513456,
+      "longitude": 16.460064
+    },
+    {
+      "name": "Albert Beach Bar",
+      "latitude": 43.906969,
+      "longitude": 15.502962
+    },
+    {
+      "name": "Allure",
+      "latitude": 44.98909,
+      "longitude": 14.900873
+    },
+    {
+      "name": "Almost Famous",
+      "latitude": 45.22694,
+      "longitude": 13.597459
+    },
+    {
+      "name": "Ambrust",
+      "latitude": 45.280255,
+      "longitude": 17.379722
+    },
+    {
+      "name": "Amerigo",
+      "latitude": 45.014426,
+      "longitude": 14.625324
+    },
+    {
+      "name": "Amo Beachbar",
+      "latitude": 44.828522,
+      "longitude": 13.856176
+    },
+    {
+      "name": "Amonsul",
+      "latitude": 45.773902,
+      "longitude": 18.607053
+    },
+    {
+      "name": "Amore",
+      "latitude": 45.317818,
+      "longitude": 13.559454
+    },
+    {
+      "name": "Anai",
+      "latitude": 45.291003,
+      "longitude": 14.277337
+    },
+    {
+      "name": "Angel",
+      "latitude": 45.810278,
+      "longitude": 15.966745
+    },
+    {
+      "name": "Angiolina",
+      "latitude": 45.335132,
+      "longitude": 14.308475
+    },
+    {
+      "name": "Ante Bar cafe",
+      "latitude": 44.719681,
+      "longitude": 14.89191
+    },
+    {
+      "name": "Antique Bar",
+      "latitude": 43.508362,
+      "longitude": 16.437106
+    },
+    {
+      "name": "Antonio",
+      "latitude": 45.494296,
+      "longitude": 15.551389
+    },
+    {
+      "name": "Apios Bar",
+      "latitude": 45.432594,
+      "longitude": 13.531222
+    },
+    {
+      "name": "Apollo",
+      "latitude": 43.352375,
+      "longitude": 16.950751
+    },
+    {
+      "name": "Apollon",
+      "latitude": 44.566323,
+      "longitude": 14.429865
+    },
+    {
+      "name": "Apres 8 bar",
+      "latitude": 45.807277,
+      "longitude": 15.972459
+    },
+    {
+      "name": "Aquarius",
+      "latitude": 43.500554,
+      "longitude": 16.259173
+    },
+    {
+      "name": "Aquarius",
+      "latitude": 44.539359,
+      "longitude": 14.913874
+    },
+    {
+      "name": "ARA",
+      "latitude": 45.315678,
+      "longitude": 13.56087
+    },
+    {
+      "name": "Arabellas Disco",
+      "latitude": 44.18079,
+      "longitude": 15.156759
+    },
+    {
+      "name": "Arbaro",
+      "latitude": 45.834162,
+      "longitude": 16.065565
+    },
+    {
+      "name": "Arcus",
+      "latitude": 46.388917,
+      "longitude": 16.438499
+    },
+    {
+      "name": "Arka",
+      "latitude": 45.456811,
+      "longitude": 15.491916
+    },
+    {
+      "name": "Arka",
+      "latitude": 46.159982,
+      "longitude": 15.751194
+    },
+    {
+      "name": "Art Public Bar",
+      "latitude": 45.081379,
+      "longitude": 13.638081
+    },
+    {
+      "name": "Art Rock Caffe",
+      "latitude": 46.024469,
+      "longitude": 16.544627
+    },
+    {
+      "name": "Arthur",
+      "latitude": 46.024541,
+      "longitude": 16.545381
+    },
+    {
+      "name": "Artić",
+      "latitude": 44.74847,
+      "longitude": 14.776561
+    },
+    {
+      "name": "ARTIĆ BEACH BAR",
+      "latitude": 43.957566,
+      "longitude": 15.429831
+    },
+    {
+      "name": "Aruba",
+      "latitude": 45.780657,
+      "longitude": 15.936563
+    },
+    {
+      "name": "auro",
+      "latitude": 43.257,
+      "longitude": 16.634194
+    },
+    {
+      "name": "Auto bar",
+      "latitude": 45.16738,
+      "longitude": 18.000145
+    },
+    {
+      "name": "Avangard",
+      "latitude": 45.231778,
+      "longitude": 18.744994
+    },
+    {
+      "name": "Azimut",
+      "latitude": 43.736015,
+      "longitude": 15.888651
+    },
+    {
+      "name": "Azzurro",
+      "latitude": 43.550017,
+      "longitude": 16.387904
+    },
+    {
+      "name": "B&T",
+      "latitude": 44.290881,
+      "longitude": 15.442884
+    },
+    {
+      "name": "B5 Wine Bar",
+      "latitude": 45.336369,
+      "longitude": 13.82791
+    },
+    {
+      "name": "Babaloo bar",
+      "latitude": 45.020283,
+      "longitude": 13.715435
+    },
+    {
+      "name": "Bacchus jazz bar",
+      "latitude": 45.806423,
+      "longitude": 15.977694
+    },
+    {
+      "name": "Backstage",
+      "latitude": 45.811551,
+      "longitude": 15.968159
+    },
+    {
+      "name": "Balboa",
+      "latitude": 45.80147,
+      "longitude": 15.711806
+    },
+    {
+      "name": "Balmes foid&drink",
+      "latitude": 45.812546,
+      "longitude": 15.952262
+    },
+    {
+      "name": "Baloo",
+      "latitude": 43.756415,
+      "longitude": 15.783089
+    },
+    {
+      "name": "Baltazar",
+      "latitude": 45.48526,
+      "longitude": 16.373013
+    },
+    {
+      "name": "Balun",
+      "latitude": 43.819808,
+      "longitude": 15.662971
+    },
+    {
+      "name": "Balustrada",
+      "latitude": 45.174836,
+      "longitude": 14.687408
+    },
+    {
+      "name": "Bamba Bar",
+      "latitude": 45.309751,
+      "longitude": 14.286464
+    },
+    {
+      "name": "Bamboo",
+      "latitude": 44.129946,
+      "longitude": 15.204922
+    },
+    {
+      "name": "Bamboo",
+      "latitude": 45.178352,
+      "longitude": 14.6841
+    },
+    {
+      "name": "Bamboo",
+      "latitude": 45.372334,
+      "longitude": 18.954131
+    },
+    {
+      "name": "Bambus Bar",
+      "latitude": 44.806951,
+      "longitude": 13.943301
+    },
+    {
+      "name": "Bamby",
+      "latitude": 43.513711,
+      "longitude": 16.427088
+    },
+    {
+      "name": "Banana Bar",
+      "latitude": 43.239869,
+      "longitude": 17.076941
+    },
+    {
+      "name": "Banjebeach",
+      "latitude": 42.641738,
+      "longitude": 18.115895
+    },
+    {
+      "name": "Banova Villa",
+      "latitude": 44.756768,
+      "longitude": 14.758671
+    },
+    {
+      "name": "Baobab bar",
+      "latitude": 43.259861,
+      "longitude": 16.64128
+    },
+    {
+      "name": "Baoli",
+      "latitude": 43.51026,
+      "longitude": 16.452239
+    },
+    {
+      "name": "Bar",
+      "latitude": 42.535633,
+      "longitude": 18.413178
+    },
+    {
+      "name": "Bar",
+      "latitude": 45.250301,
+      "longitude": 15.332504
+    },
+    {
+      "name": "Bar 587",
+      "latitude": 43.039327,
+      "longitude": 16.091494
+    },
+    {
+      "name": "Bar Budrovci",
+      "latitude": 45.278599,
+      "longitude": 18.437901
+    },
+    {
+      "name": "Bar Demos",
+      "latitude": 44.257756,
+      "longitude": 15.166547
+    },
+    {
+      "name": "Bar Divai",
+      "latitude": 45.477692,
+      "longitude": 13.503687
+    },
+    {
+      "name": "Bar Goga",
+      "latitude": 44.804084,
+      "longitude": 14.36784
+    },
+    {
+      "name": "Bar History",
+      "latitude": 45.447228,
+      "longitude": 14.375436
+    },
+    {
+      "name": "Bar La Moura",
+      "latitude": 45.082347,
+      "longitude": 13.630362
+    },
+    {
+      "name": "Bar Lenice Lake",
+      "latitude": 45.323122,
+      "longitude": 14.700639
+    },
+    {
+      "name": "Bar Limenka",
+      "latitude": 45.168752,
+      "longitude": 14.701953
+    },
+    {
+      "name": "Bar na Uni",
+      "latitude": 45.188655,
+      "longitude": 16.790489
+    },
+    {
+      "name": "Bar Pagos",
+      "latitude": 44.446683,
+      "longitude": 15.052849
+    },
+    {
+      "name": "Bar pri Brkotu",
+      "latitude": 45.458863,
+      "longitude": 15.251675
+    },
+    {
+      "name": "Bar sierra",
+      "latitude": 42.551372,
+      "longitude": 18.285306
+    },
+    {
+      "name": "Bar Sistema",
+      "latitude": 43.510953,
+      "longitude": 16.438853
+    },
+    {
+      "name": "Bar Soline",
+      "latitude": 44.832672,
+      "longitude": 13.855601
+    },
+    {
+      "name": "Bar Split",
+      "latitude": 43.506604,
+      "longitude": 16.432943
+    },
+    {
+      "name": "Bar Sv. Kriz",
+      "latitude": 43.513906,
+      "longitude": 16.291594
+    },
+    {
+      "name": "Bar Terme",
+      "latitude": 45.378115,
+      "longitude": 13.882841
+    },
+    {
+      "name": "Baraka brew bar & eatery",
+      "latitude": 43.511303,
+      "longitude": 16.450486
+    },
+    {
+      "name": "Barba",
+      "latitude": 45.350233,
+      "longitude": 18.422875
+    },
+    {
+      "name": "Barba caffe bar",
+      "latitude": 44.049326,
+      "longitude": 15.31198
+    },
+    {
+      "name": "Barbati Apartments",
+      "latitude": 44.538998,
+      "longitude": 14.948541
+    },
+    {
+      "name": "Barcelona",
+      "latitude": 45.796526,
+      "longitude": 15.953545
+    },
+    {
+      "name": "Barcode",
+      "latitude": 44.876126,
+      "longitude": 13.849393
+    },
+    {
+      "name": "Bard",
+      "latitude": 42.63897,
+      "longitude": 18.110485
+    },
+    {
+      "name": "Barista",
+      "latitude": 45.775288,
+      "longitude": 15.988972
+    },
+    {
+      "name": "Bartovica Beach Bar",
+      "latitude": 43.909771,
+      "longitude": 15.433942
+    },
+    {
+      "name": "Barumba",
+      "latitude": 45.448738,
+      "longitude": 13.519047
+    },
+    {
+      "name": "Barun Kobra",
+      "latitude": 45.076068,
+      "longitude": 15.369353
+    },
+    {
+      "name": "Bastion no.19",
+      "latitude": 45.810375,
+      "longitude": 15.971823
+    },
+    {
+      "name": "Bau Bab Caffe",
+      "latitude": 46.042945,
+      "longitude": 16.000842
+    },
+    {
+      "name": "Bau Bar",
+      "latitude": 43.59346,
+      "longitude": 15.925411
+    },
+    {
+      "name": "Bava",
+      "latitude": 43.358566,
+      "longitude": 16.94553
+    },
+    {
+      "name": "Bava bar",
+      "latitude": 43.444856,
+      "longitude": 16.638767
+    },
+    {
+      "name": "Baza dvojka",
+      "latitude": 46.225479,
+      "longitude": 16.124589
+    },
+    {
+      "name": "Bašta",
+      "latitude": 43.348596,
+      "longitude": 16.732919
+    },
+    {
+      "name": "BE4",
+      "latitude": 45.776692,
+      "longitude": 15.975792
+    },
+    {
+      "name": "Beach & Lounge Bar Zeppelin",
+      "latitude": 44.842714,
+      "longitude": 13.835331
+    },
+    {
+      "name": "Beach Bar",
+      "latitude": 42.98112,
+      "longitude": 17.199508
+    },
+    {
+      "name": "Beach Bar",
+      "latitude": 44.232808,
+      "longitude": 15.160745
+    },
+    {
+      "name": "Beach Bar",
+      "latitude": 44.255288,
+      "longitude": 15.212587
+    },
+    {
+      "name": "Beach Bar",
+      "latitude": 44.28149,
+      "longitude": 15.459331
+    },
+    {
+      "name": "Beach Bar",
+      "latitude": 44.282172,
+      "longitude": 15.452067
+    },
+    {
+      "name": "beach bar",
+      "latitude": 44.570943,
+      "longitude": 14.886588
+    },
+    {
+      "name": "Beach Bar",
+      "latitude": 44.989744,
+      "longitude": 14.628084
+    },
+    {
+      "name": "Beach Bar",
+      "latitude": 45.031835,
+      "longitude": 14.160322
+    },
+    {
+      "name": "beach bar",
+      "latitude": 45.460427,
+      "longitude": 13.512289
+    },
+    {
+      "name": "Beach Bar",
+      "latitude": 45.565469,
+      "longitude": 18.694643
+    },
+    {
+      "name": "beach bar \"Bičikleta\"",
+      "latitude": 44.126349,
+      "longitude": 15.115165
+    },
+    {
+      "name": "Beach Bar \"CORTO\"",
+      "latitude": 45.115842,
+      "longitude": 14.8162
+    },
+    {
+      "name": "Beach Bar \"Escalero\"",
+      "latitude": 43.281251,
+      "longitude": 16.866551
+    },
+    {
+      "name": "Beach Bar \"La Mar\"",
+      "latitude": 43.480882,
+      "longitude": 16.557326
+    },
+    {
+      "name": "Beach bar \"La Playa\"",
+      "latitude": 43.633931,
+      "longitude": 15.961817
+    },
+    {
+      "name": "Beach Bar \"Mojito\"",
+      "latitude": 45.230149,
+      "longitude": 19.38122
+    },
+    {
+      "name": "Beach bar \"Pesja\"",
+      "latitude": 45.207884,
+      "longitude": 14.551684
+    },
+    {
+      "name": "Beach bar \"Popeye\"",
+      "latitude": 45.152476,
+      "longitude": 14.534793
+    },
+    {
+      "name": "Beach bar 'Fjaka'",
+      "latitude": 43.797098,
+      "longitude": 15.609827
+    },
+    {
+      "name": "Beach Bar 5 Element",
+      "latitude": 43.353754,
+      "longitude": 16.949358
+    },
+    {
+      "name": "Beach bar Atvan",
+      "latitude": 43.763077,
+      "longitude": 15.729762
+    },
+    {
+      "name": "Beach bar Babe",
+      "latitude": 44.566656,
+      "longitude": 14.86451
+    },
+    {
+      "name": "Beach Bar Barracuda",
+      "latitude": 44.813782,
+      "longitude": 13.932754
+    },
+    {
+      "name": "Beach Bar Barufa",
+      "latitude": 44.239832,
+      "longitude": 15.136729
+    },
+    {
+      "name": "Beach bar Baywatch",
+      "latitude": 43.434442,
+      "longitude": 16.703235
+    },
+    {
+      "name": "Beach Bar Bok",
+      "latitude": 44.507864,
+      "longitude": 14.316593
+    },
+    {
+      "name": "Beach Bar Borrko",
+      "latitude": 43.481989,
+      "longitude": 16.238916
+    },
+    {
+      "name": "Beach Bar Brsečine",
+      "latitude": 42.728417,
+      "longitude": 17.952839
+    },
+    {
+      "name": "Beach bar Calafuria",
+      "latitude": 43.762601,
+      "longitude": 15.729841
+    },
+    {
+      "name": "Beach Bar Chupa Cabra",
+      "latitude": 44.929443,
+      "longitude": 13.801901
+    },
+    {
+      "name": "Beach Bar Coco",
+      "latitude": 44.922894,
+      "longitude": 13.801439
+    },
+    {
+      "name": "Beach Bar Coka",
+      "latitude": 45.312505,
+      "longitude": 14.71677
+    },
+    {
+      "name": "Beach Bar Copacabana",
+      "latitude": 45.133375,
+      "longitude": 14.179642
+    },
+    {
+      "name": "Beach bar Corleone",
+      "latitude": 45.117296,
+      "longitude": 14.516159
+    },
+    {
+      "name": "Beach Bar Dare Junior",
+      "latitude": 45.117382,
+      "longitude": 14.503648
+    },
+    {
+      "name": "Beach Bar Debeljak",
+      "latitude": 44.771316,
+      "longitude": 13.918095
+    },
+    {
+      "name": "Beach Bar Del Mar - Veli Mel",
+      "latitude": 44.784232,
+      "longitude": 14.706888
+    },
+    {
+      "name": "Beach Bar Del Sol",
+      "latitude": 44.189628,
+      "longitude": 15.154469
+    },
+    {
+      "name": "Beach bar Demos Pliša",
+      "latitude": 44.216531,
+      "longitude": 15.16578
+    },
+    {
+      "name": "Beach bar Empeduja",
+      "latitude": 45.345676,
+      "longitude": 14.355249
+    },
+    {
+      "name": "Beach Bar Fjord",
+      "latitude": 45.131947,
+      "longitude": 13.733679
+    },
+    {
+      "name": "Beach bar Gljiva",
+      "latitude": 45.27073,
+      "longitude": 14.562281
+    },
+    {
+      "name": "Beach Bar Green",
+      "latitude": 44.818358,
+      "longitude": 13.902052
+    },
+    {
+      "name": "Beach Bar Honey",
+      "latitude": 45.120007,
+      "longitude": 14.522749
+    },
+    {
+      "name": "Beach Bar Jaz",
+      "latitude": 43.545341,
+      "longitude": 15.94341
+    },
+    {
+      "name": "Beach bar Kamov",
+      "latitude": 45.318071,
+      "longitude": 14.465828
+    },
+    {
+      "name": "Beach Bar Kamp Slamni",
+      "latitude": 45.153605,
+      "longitude": 14.616338
+    },
+    {
+      "name": "Beach Bar Kanalić",
+      "latitude": 44.829354,
+      "longitude": 13.862619
+    },
+    {
+      "name": "Beach bar Kesa",
+      "latitude": 44.583503,
+      "longitude": 14.884226
+    },
+    {
+      "name": "Beach Bar Kon Tiki",
+      "latitude": 43.822837,
+      "longitude": 15.573673
+    },
+    {
+      "name": "Beach bar Kosirina'",
+      "latitude": 43.797321,
+      "longitude": 15.609806
+    },
+    {
+      "name": "Beach bar Kota",
+      "latitude": 45.304781,
+      "longitude": 14.487793
+    },
+    {
+      "name": "Beach bar Kriva smokva",
+      "latitude": 43.975494,
+      "longitude": 15.347706
+    },
+    {
+      "name": "Beach bar Levantara",
+      "latitude": 43.783013,
+      "longitude": 15.64811
+    },
+    {
+      "name": "Beach Bar Levante",
+      "latitude": 45.294013,
+      "longitude": 14.503655
+    },
+    {
+      "name": "Beach Bar Loca Villa",
+      "latitude": 43.799177,
+      "longitude": 15.646637
+    },
+    {
+      "name": "Beach Bar Lumbrelin",
+      "latitude": 43.496989,
+      "longitude": 16.341272
+    },
+    {
+      "name": "Beach Bar Luna",
+      "latitude": 43.819145,
+      "longitude": 15.605232
+    },
+    {
+      "name": "Beach Bar Malaga",
+      "latitude": 44.245831,
+      "longitude": 15.535588
+    },
+    {
+      "name": "Beach Bar Mlini",
+      "latitude": 43.155662,
+      "longitude": 16.413304
+    },
+    {
+      "name": "Beach bar Mocca",
+      "latitude": 45.039295,
+      "longitude": 14.473925
+    },
+    {
+      "name": "Beach Bar Morska Sirena",
+      "latitude": 43.511057,
+      "longitude": 16.182891
+    },
+    {
+      "name": "Beach bar Noa",
+      "latitude": 43.258464,
+      "longitude": 16.646522
+    },
+    {
+      "name": "Beach bar Oliva, vl. Ante Bilić",
+      "latitude": 43.513837,
+      "longitude": 16.214402
+    },
+    {
+      "name": "Beach bar Palma",
+      "latitude": 44.261391,
+      "longitude": 15.162888
+    },
+    {
+      "name": "Beach Bar Palma",
+      "latitude": 44.822369,
+      "longitude": 13.849903
+    },
+    {
+      "name": "Beach Bar Pešekan",
+      "latitude": 45.350924,
+      "longitude": 14.321363
+    },
+    {
+      "name": "Beach bar Playa Šćuza",
+      "latitude": 44.815904,
+      "longitude": 13.899704
+    },
+    {
+      "name": "Beach Bar Pleme",
+      "latitude": 44.978151,
+      "longitude": 14.063853
+    },
+    {
+      "name": "Beach Bar Porton Biondi",
+      "latitude": 45.094661,
+      "longitude": 13.640997
+    },
+    {
+      "name": "Beach bar Preluk",
+      "latitude": 45.353615,
+      "longitude": 14.332356
+    },
+    {
+      "name": "Beach bar Premier",
+      "latitude": 44.801469,
+      "longitude": 14.712426
+    },
+    {
+      "name": "Beach Bar Risika",
+      "latitude": 45.105997,
+      "longitude": 14.664846
+    },
+    {
+      "name": "Beach Bar Scarab",
+      "latitude": 45.064647,
+      "longitude": 13.635114
+    },
+    {
+      "name": "Beach Bar Shabakun",
+      "latitude": 44.267079,
+      "longitude": 15.205919
+    },
+    {
+      "name": "Beach Bar Sinko",
+      "latitude": 44.607894,
+      "longitude": 14.874666
+    },
+    {
+      "name": "Beach bar SIPARIS",
+      "latitude": 45.466943,
+      "longitude": 13.510112
+    },
+    {
+      "name": "Beach Bar Sovja",
+      "latitude": 43.763301,
+      "longitude": 15.729521
+    },
+    {
+      "name": "Beach Bar Sundown",
+      "latitude": 43.697286,
+      "longitude": 15.879234
+    },
+    {
+      "name": "Beach Bar Sunshine",
+      "latitude": 43.652272,
+      "longitude": 15.949875
+    },
+    {
+      "name": "Beach Bar Tarska Vala",
+      "latitude": 45.311519,
+      "longitude": 13.608748
+    },
+    {
+      "name": "Beach Bar Tia",
+      "latitude": 43.536254,
+      "longitude": 15.959661
+    },
+    {
+      "name": "Beach Bar Tortuga",
+      "latitude": 44.853698,
+      "longitude": 13.980689
+    },
+    {
+      "name": "Beach bar Twins",
+      "latitude": 43.498313,
+      "longitude": 16.260247
+    },
+    {
+      "name": "Beach Bar Uvala",
+      "latitude": 42.941411,
+      "longitude": 17.537307
+    },
+    {
+      "name": "Beach Bar Zastup",
+      "latitude": 43.377298,
+      "longitude": 16.596526
+    },
+    {
+      "name": "Beach bar “Plaža”",
+      "latitude": 45.253236,
+      "longitude": 14.576766
+    },
+    {
+      "name": "Beach Club",
+      "latitude": 45.182389,
+      "longitude": 14.679963
+    },
+    {
+      "name": "Beach Club Macumba",
+      "latitude": 45.344394,
+      "longitude": 13.542608
+    },
+    {
+      "name": "Beachbar Barbir",
+      "latitude": 44.037965,
+      "longitude": 15.30759
+    },
+    {
+      "name": "Beachbar Bracera",
+      "latitude": 44.193157,
+      "longitude": 15.145069
+    },
+    {
+      "name": "BEACHBAR Most",
+      "latitude": 44.196923,
+      "longitude": 15.769421
+    },
+    {
+      "name": "Beachbar Sol",
+      "latitude": 44.141312,
+      "longitude": 14.880424
+    },
+    {
+      "name": "Beachbar Valeta",
+      "latitude": 45.298223,
+      "longitude": 13.581532
+    },
+    {
+      "name": "Beer bar Kantun",
+      "latitude": 43.821867,
+      "longitude": 15.591829
+    },
+    {
+      "name": "Bei Maria",
+      "latitude": 45.173527,
+      "longitude": 13.605328
+    },
+    {
+      "name": "Bejbi",
+      "latitude": 43.062304,
+      "longitude": 16.183763
+    },
+    {
+      "name": "Belezza",
+      "latitude": 45.809943,
+      "longitude": 15.998434
+    },
+    {
+      "name": "Belvedere",
+      "latitude": 45.297597,
+      "longitude": 13.592117
+    },
+    {
+      "name": "Belvedere",
+      "latitude": 45.354561,
+      "longitude": 13.551801
+    },
+    {
+      "name": "Ben 2",
+      "latitude": 45.989075,
+      "longitude": 16.476049
+    },
+    {
+      "name": "Bench Bar Siesta",
+      "latitude": 45.128258,
+      "longitude": 14.525866
+    },
+    {
+      "name": "Benny's Bar",
+      "latitude": 43.385933,
+      "longitude": 16.548559
+    },
+    {
+      "name": "Bepa",
+      "latitude": 43.49213,
+      "longitude": 16.20802
+    },
+    {
+      "name": "Biblioteca pub",
+      "latitude": 45.800471,
+      "longitude": 15.935061
+    },
+    {
+      "name": "Bijeli cvijet",
+      "latitude": 46.237746,
+      "longitude": 16.063412
+    },
+    {
+      "name": "Bikini bar",
+      "latitude": 44.292708,
+      "longitude": 15.110843
+    },
+    {
+      "name": "Bili",
+      "latitude": 43.3595,
+      "longitude": 16.945474
+    },
+    {
+      "name": "Biliba",
+      "latitude": 43.059749,
+      "longitude": 16.185218
+    },
+    {
+      "name": "Bis",
+      "latitude": 45.764555,
+      "longitude": 16.192307
+    },
+    {
+      "name": "Bis mora",
+      "latitude": 43.358825,
+      "longitude": 16.947042
+    },
+    {
+      "name": "Biser",
+      "latitude": 45.228124,
+      "longitude": 14.611778
+    },
+    {
+      "name": "Bistač @ HNK",
+      "latitude": 45.809622,
+      "longitude": 15.970245
+    },
+    {
+      "name": "Bistro \"Ima dana\"",
+      "latitude": 45.758478,
+      "longitude": 17.576512
+    },
+    {
+      "name": "Bistro bava",
+      "latitude": 43.734659,
+      "longitude": 15.890585
+    },
+    {
+      "name": "Bistro Mons Solis",
+      "latitude": 45.419807,
+      "longitude": 15.481811
+    },
+    {
+      "name": "Bistro Sony & Lanka",
+      "latitude": 44.922668,
+      "longitude": 13.7423
+    },
+    {
+      "name": "Bistro Zaporat",
+      "latitude": 43.023857,
+      "longitude": 17.171567
+    },
+    {
+      "name": "Black & White",
+      "latitude": 45.316254,
+      "longitude": 13.562762
+    },
+    {
+      "name": "Black and White Bar",
+      "latitude": 45.23728,
+      "longitude": 14.254547
+    },
+    {
+      "name": "Blaž",
+      "latitude": 43.907701,
+      "longitude": 15.500945
+    },
+    {
+      "name": "Blue Bar Lim",
+      "latitude": 45.134204,
+      "longitude": 13.6178
+    },
+    {
+      "name": "Blue Bar Otok",
+      "latitude": 45.13307,
+      "longitude": 13.598656
+    },
+    {
+      "name": "Boing Bar",
+      "latitude": 45.815803,
+      "longitude": 15.984436
+    },
+    {
+      "name": "Boler bar",
+      "latitude": 44.303573,
+      "longitude": 15.081355
+    },
+    {
+      "name": "Bolero",
+      "latitude": 43.259511,
+      "longitude": 16.64305
+    },
+    {
+      "name": "bolid bar",
+      "latitude": 44.300985,
+      "longitude": 15.080183
+    },
+    {
+      "name": "Boneta",
+      "latitude": 44.968698,
+      "longitude": 14.771286
+    },
+    {
+      "name": "Boogaloo",
+      "latitude": 45.798608,
+      "longitude": 15.971124
+    },
+    {
+      "name": "Boom",
+      "latitude": 45.830799,
+      "longitude": 17.389647
+    },
+    {
+      "name": "Bor bar",
+      "latitude": 45.801469,
+      "longitude": 15.710249
+    },
+    {
+      "name": "Bora Bora Bar",
+      "latitude": 45.487096,
+      "longitude": 13.492115
+    },
+    {
+      "name": "Borut bar",
+      "latitude": 45.79812,
+      "longitude": 15.969943
+    },
+    {
+      "name": "Bottiglia Wine & Deli",
+      "latitude": 43.501588,
+      "longitude": 16.455325
+    },
+    {
+      "name": "Bounty",
+      "latitude": 45.826076,
+      "longitude": 16.041921
+    },
+    {
+      "name": "Bowling bar",
+      "latitude": 45.807669,
+      "longitude": 15.930702
+    },
+    {
+      "name": "Bravo",
+      "latitude": 45.805843,
+      "longitude": 16.234994
+    },
+    {
+      "name": "Breeze Bar",
+      "latitude": 44.806137,
+      "longitude": 13.955797
+    },
+    {
+      "name": "Brewbites",
+      "latitude": 45.810851,
+      "longitude": 15.9764
+    },
+    {
+      "name": "Brick",
+      "latitude": 45.809291,
+      "longitude": 15.963832
+    },
+    {
+      "name": "Brioni",
+      "latitude": 44.927313,
+      "longitude": 13.802659
+    },
+    {
+      "name": "Bristol bar",
+      "latitude": 44.754727,
+      "longitude": 14.762108
+    },
+    {
+      "name": "Brvnara",
+      "latitude": 45.805369,
+      "longitude": 15.964437
+    },
+    {
+      "name": "Budalus",
+      "latitude": 43.516436,
+      "longitude": 16.249185
+    },
+    {
+      "name": "Buffet Primorec",
+      "latitude": 45.076848,
+      "longitude": 14.674506
+    },
+    {
+      "name": "Buldog",
+      "latitude": 45.375803,
+      "longitude": 18.95201
+    },
+    {
+      "name": "Bull",
+      "latitude": 46.02543,
+      "longitude": 16.542816
+    },
+    {
+      "name": "Bumbar",
+      "latitude": 45.81824,
+      "longitude": 16.008399
+    },
+    {
+      "name": "BUMBAR",
+      "latitude": 46.327706,
+      "longitude": 16.360084
+    },
+    {
+      "name": "Bunarina",
+      "latitude": 44.839399,
+      "longitude": 13.837476
+    },
+    {
+      "name": "Bunga Bunga",
+      "latitude": 45.298167,
+      "longitude": 14.495601
+    },
+    {
+      "name": "Bunker",
+      "latitude": 44.802459,
+      "longitude": 13.923751
+    },
+    {
+      "name": "Bunker Bar",
+      "latitude": 44.81733,
+      "longitude": 13.85398
+    },
+    {
+      "name": "Buoni Amicci",
+      "latitude": 45.433027,
+      "longitude": 13.519326
+    },
+    {
+      "name": "Buoni Amici",
+      "latitude": 45.433201,
+      "longitude": 13.51931
+    },
+    {
+      "name": "Buza",
+      "latitude": 42.639339,
+      "longitude": 18.10859
+    },
+    {
+      "name": "buzz bar",
+      "latitude": 42.641631,
+      "longitude": 18.109375
+    },
+    {
+      "name": "Buža Bar",
+      "latitude": 42.63899,
+      "longitude": 18.108843
+    },
+    {
+      "name": "Cactus Coffee Bar",
+      "latitude": 44.122855,
+      "longitude": 15.227844
+    },
+    {
+      "name": "Cadena Beach Bar",
+      "latitude": 44.978942,
+      "longitude": 14.075
+    },
+    {
+      "name": "Cafe",
+      "latitude": 45.301634,
+      "longitude": 13.625959
+    },
+    {
+      "name": "Cafe - galerija GINA",
+      "latitude": 44.113374,
+      "longitude": 15.226474
+    },
+    {
+      "name": "Cafe Bar",
+      "latitude": 44.955744,
+      "longitude": 13.956132
+    },
+    {
+      "name": "Cafe bar \"Gurman Gotivius\"",
+      "latitude": 45.840583,
+      "longitude": 16.061637
+    },
+    {
+      "name": "Cafe Bar Adriana",
+      "latitude": 42.689629,
+      "longitude": 17.942318
+    },
+    {
+      "name": "Cafe Bar Captain Hook",
+      "latitude": 45.273824,
+      "longitude": 14.567464
+    },
+    {
+      "name": "Cafe Bar Carraro",
+      "latitude": 44.956606,
+      "longitude": 13.955329
+    },
+    {
+      "name": "Cafe Bar Centar",
+      "latitude": 43.757315,
+      "longitude": 15.773187
+    },
+    {
+      "name": "Cafe Bar Centar",
+      "latitude": 45.604137,
+      "longitude": 18.743842
+    },
+    {
+      "name": "Cafe bar Elephant",
+      "latitude": 43.514527,
+      "longitude": 16.438272
+    },
+    {
+      "name": "Cafe Bar Garaža",
+      "latitude": 44.955371,
+      "longitude": 13.955845
+    },
+    {
+      "name": "Cafe bar Gold",
+      "latitude": 45.32494,
+      "longitude": 15.695148
+    },
+    {
+      "name": "Cafe Bar Kaktus",
+      "latitude": 45.127821,
+      "longitude": 14.790449
+    },
+    {
+      "name": "Cafe Bar Kan",
+      "latitude": 43.502651,
+      "longitude": 16.520859
+    },
+    {
+      "name": "Cafe Bar Katarina",
+      "latitude": 44.954085,
+      "longitude": 13.954529
+    },
+    {
+      "name": "Cafe bar Lido",
+      "latitude": 43.501294,
+      "longitude": 16.52329
+    },
+    {
+      "name": "Cafe bar Mamba",
+      "latitude": 45.328048,
+      "longitude": 15.693304
+    },
+    {
+      "name": "Cafe Bar Mars Lušćić",
+      "latitude": 45.484023,
+      "longitude": 15.545889
+    },
+    {
+      "name": "Cafe Bar Marčanac",
+      "latitude": 44.954706,
+      "longitude": 13.954214
+    },
+    {
+      "name": "Cafe Bar Oaza",
+      "latitude": 45.488626,
+      "longitude": 15.546459
+    },
+    {
+      "name": "Cafe bar Orbis",
+      "latitude": 43.500698,
+      "longitude": 16.522363
+    },
+    {
+      "name": "Cafe Bar Pinokio",
+      "latitude": 45.489487,
+      "longitude": 15.5478
+    },
+    {
+      "name": "Cafe Bar Porco Rosso",
+      "latitude": 43.501821,
+      "longitude": 16.524116
+    },
+    {
+      "name": "Cafe Bar Rio",
+      "latitude": 45.484654,
+      "longitude": 15.546744
+    },
+    {
+      "name": "Cafe bar Riva",
+      "latitude": 44.065385,
+      "longitude": 15.204298
+    },
+    {
+      "name": "Cafe Bar Ruzmarin",
+      "latitude": 44.692254,
+      "longitude": 14.736861
+    },
+    {
+      "name": "Cafe Bar Solar",
+      "latitude": 43.500124,
+      "longitude": 16.519544
+    },
+    {
+      "name": "Cafe bar Stella",
+      "latitude": 43.500847,
+      "longitude": 16.522383
+    },
+    {
+      "name": "Cafe Bar The Kop",
+      "latitude": 42.641587,
+      "longitude": 18.104462
+    },
+    {
+      "name": "Cafe Bar Toni",
+      "latitude": 43.501429,
+      "longitude": 16.523475
+    },
+    {
+      "name": "Cafe Bar Volta",
+      "latitude": 44.844754,
+      "longitude": 13.842034
+    },
+    {
+      "name": "Cafebar Petarčica",
+      "latitude": 43.122199,
+      "longitude": 16.680466
+    },
+    {
+      "name": "Caffe & Cocktail Bar Marin",
+      "latitude": 45.124337,
+      "longitude": 14.526016
+    },
+    {
+      "name": "caffe bar",
+      "latitude": 43.022043,
+      "longitude": 17.59152
+    },
+    {
+      "name": "Caffe bar \"Agram\"",
+      "latitude": 45.83151,
+      "longitude": 16.051946
+    },
+    {
+      "name": "Caffe bar \"AS\"",
+      "latitude": 45.786801,
+      "longitude": 15.722656
+    },
+    {
+      "name": "Caffe bar \"Bull\"",
+      "latitude": 46.025461,
+      "longitude": 16.54306
+    },
+    {
+      "name": "Caffe bar \"Depresija\"",
+      "latitude": 45.920703,
+      "longitude": 16.86287
+    },
+    {
+      "name": "Caffe bar \"Dragec\"",
+      "latitude": 45.806971,
+      "longitude": 15.955291
+    },
+    {
+      "name": "Caffe bar \"Ivana\"",
+      "latitude": 45.355693,
+      "longitude": 17.762453
+    },
+    {
+      "name": "Caffe bar \"Jež\"",
+      "latitude": 45.832599,
+      "longitude": 16.05238
+    },
+    {
+      "name": "Caffe bar \"King\"",
+      "latitude": 45.833325,
+      "longitude": 16.050257
+    },
+    {
+      "name": "Caffe bar \"Masen\"",
+      "latitude": 45.116127,
+      "longitude": 13.838185
+    },
+    {
+      "name": "Caffe bar \"Simply Red\"",
+      "latitude": 46.207043,
+      "longitude": 16.048578
+    },
+    {
+      "name": "Caffe bar \"Stara Ciglana\"",
+      "latitude": 46.212704,
+      "longitude": 16.060476
+    },
+    {
+      "name": "Caffe bar \"Yankee's\"",
+      "latitude": 45.317435,
+      "longitude": 14.469351
+    },
+    {
+      "name": "Caffe bar \"Ćakula\"",
+      "latitude": 42.935966,
+      "longitude": 16.934597
+    },
+    {
+      "name": "Caffe bar \"Škorpion\"",
+      "latitude": 45.356293,
+      "longitude": 17.759703
+    },
+    {
+      "name": "Caffe Bar - Pub Beerc",
+      "latitude": 45.557375,
+      "longitude": 18.680373
+    },
+    {
+      "name": "caffe bar Agram",
+      "latitude": 45.828579,
+      "longitude": 16.110709
+    },
+    {
+      "name": "Caffe bar Ankora",
+      "latitude": 44.969294,
+      "longitude": 14.762769
+    },
+    {
+      "name": "Caffe Bar Aramis",
+      "latitude": 42.729358,
+      "longitude": 17.860774
+    },
+    {
+      "name": "Caffe Bar Art",
+      "latitude": 45.026644,
+      "longitude": 14.575133
+    },
+    {
+      "name": "Caffe Bar Batel",
+      "latitude": 45.082775,
+      "longitude": 13.633355
+    },
+    {
+      "name": "Caffe Bar Bellevue",
+      "latitude": 42.584189,
+      "longitude": 18.214193
+    },
+    {
+      "name": "Caffe Bar Best",
+      "latitude": 45.826568,
+      "longitude": 17.351329
+    },
+    {
+      "name": "Caffe Bar Bicicletta",
+      "latitude": 45.317571,
+      "longitude": 14.469351
+    },
+    {
+      "name": "caffe bar BIMBO",
+      "latitude": 45.669772,
+      "longitude": 18.293729
+    },
+    {
+      "name": "Caffe Bar Biser",
+      "latitude": 45.274194,
+      "longitude": 14.569159
+    },
+    {
+      "name": "Caffe bar Black 2",
+      "latitude": 46.198274,
+      "longitude": 16.327772
+    },
+    {
+      "name": "Caffe bar Blato",
+      "latitude": 45.769017,
+      "longitude": 15.933706
+    },
+    {
+      "name": "Caffe Bar Bogart",
+      "latitude": 45.025357,
+      "longitude": 14.574851
+    },
+    {
+      "name": "Caffe bar Bolero",
+      "latitude": 43.022713,
+      "longitude": 17.030192
+    },
+    {
+      "name": "Caffe bar Box",
+      "latitude": 45.187069,
+      "longitude": 14.674553
+    },
+    {
+      "name": "caffe bar BUCEK BAR",
+      "latitude": 45.983236,
+      "longitude": 16.000727
+    },
+    {
+      "name": "Caffe bar Bueno",
+      "latitude": 45.325061,
+      "longitude": 14.470545
+    },
+    {
+      "name": "Caffe Bar Bumba Bar",
+      "latitude": 45.330186,
+      "longitude": 13.756952
+    },
+    {
+      "name": "Caffe bar Caffettino",
+      "latitude": 45.363573,
+      "longitude": 14.489312
+    },
+    {
+      "name": "Caffe bar Canimeč",
+      "latitude": 45.678887,
+      "longitude": 18.676731
+    },
+    {
+      "name": "Caffe bar Cappuccino",
+      "latitude": 45.831764,
+      "longitude": 17.382107
+    },
+    {
+      "name": "Caffe Bar Cappuccio",
+      "latitude": 45.324528,
+      "longitude": 14.441786
+    },
+    {
+      "name": "caffe bar Casablanca",
+      "latitude": 44.30217,
+      "longitude": 15.083855
+    },
+    {
+      "name": "Caffe bar Cat",
+      "latitude": 45.804912,
+      "longitude": 15.921075
+    },
+    {
+      "name": "Caffe bar Centar",
+      "latitude": 45.189617,
+      "longitude": 15.285322
+    },
+    {
+      "name": "Caffe bar CENTAR",
+      "latitude": 45.29238,
+      "longitude": 14.276302
+    },
+    {
+      "name": "Caffe bar Centar",
+      "latitude": 46.257658,
+      "longitude": 16.473094
+    },
+    {
+      "name": "Caffe bar City caffe",
+      "latitude": 45.147823,
+      "longitude": 18.706501
+    },
+    {
+      "name": "Caffe bar Code",
+      "latitude": 45.805684,
+      "longitude": 16.225625
+    },
+    {
+      "name": "Caffe bar Daj maj",
+      "latitude": 46.343635,
+      "longitude": 16.610452
+    },
+    {
+      "name": "Caffe Bar Diana",
+      "latitude": 46.210858,
+      "longitude": 16.421841
+    },
+    {
+      "name": "Caffe Bar Dinamo",
+      "latitude": 45.880154,
+      "longitude": 15.854413
+    },
+    {
+      "name": "Caffe bar Duje",
+      "latitude": 45.832982,
+      "longitude": 17.387689
+    },
+    {
+      "name": "Caffe bar Dvojka",
+      "latitude": 45.785815,
+      "longitude": 15.952747
+    },
+    {
+      "name": "Caffe Bar Emi",
+      "latitude": 44.306264,
+      "longitude": 15.102636
+    },
+    {
+      "name": "Caffe Bar Ferata",
+      "latitude": 42.663211,
+      "longitude": 18.083755
+    },
+    {
+      "name": "Caffe bar Freaky",
+      "latitude": 42.660399,
+      "longitude": 18.077934
+    },
+    {
+      "name": "Caffe Bar Gala",
+      "latitude": 45.231666,
+      "longitude": 13.60056
+    },
+    {
+      "name": "Caffe bar Galeb",
+      "latitude": 45.830483,
+      "longitude": 17.386264
+    },
+    {
+      "name": "Caffe bar Galion",
+      "latitude": 43.517289,
+      "longitude": 16.251417
+    },
+    {
+      "name": "Caffe bar GARDEN",
+      "latitude": 45.169256,
+      "longitude": 14.69879
+    },
+    {
+      "name": "Caffe bar Granada",
+      "latitude": 43.626033,
+      "longitude": 16.595194
+    },
+    {
+      "name": "Caffe Bar GT",
+      "latitude": 45.863067,
+      "longitude": 15.79716
+    },
+    {
+      "name": "Caffe bar Havana",
+      "latitude": 45.895676,
+      "longitude": 16.84171
+    },
+    {
+      "name": "caffe bar HERC",
+      "latitude": 45.408931,
+      "longitude": 13.65882
+    },
+    {
+      "name": "Caffe bar Hik",
+      "latitude": 45.816677,
+      "longitude": 15.835996
+    },
+    {
+      "name": "Caffe Bar Insula",
+      "latitude": 45.162244,
+      "longitude": 14.538476
+    },
+    {
+      "name": "Caffe Bar Istra",
+      "latitude": 45.409263,
+      "longitude": 13.657713
+    },
+    {
+      "name": "Caffe Bar Ivana",
+      "latitude": 45.086283,
+      "longitude": 14.850773
+    },
+    {
+      "name": "Caffe bar Joks",
+      "latitude": 45.313187,
+      "longitude": 14.523419
+    },
+    {
+      "name": "Caffe bar jupi",
+      "latitude": 45.814973,
+      "longitude": 15.97643
+    },
+    {
+      "name": "Caffe bar Kapo",
+      "latitude": 45.323208,
+      "longitude": 14.468702
+    },
+    {
+      "name": "Caffe bar Knez",
+      "latitude": 45.18578,
+      "longitude": 14.678873
+    },
+    {
+      "name": "Caffe bar Kod Mladena",
+      "latitude": 46.096466,
+      "longitude": 15.9051
+    },
+    {
+      "name": "Caffe bar Kod Tonija",
+      "latitude": 46.076276,
+      "longitude": 15.66796
+    },
+    {
+      "name": "Caffe Bar Kota",
+      "latitude": 45.810938,
+      "longitude": 15.96676
+    },
+    {
+      "name": "Caffe bar Krolo",
+      "latitude": 45.814082,
+      "longitude": 15.975728
+    },
+    {
+      "name": "Caffe Bar Laganini",
+      "latitude": 45.830193,
+      "longitude": 17.386306
+    },
+    {
+      "name": "Caffe bar Lav",
+      "latitude": 45.830678,
+      "longitude": 17.386293
+    },
+    {
+      "name": "Caffe bar Levant",
+      "latitude": 44.478302,
+      "longitude": 14.919868
+    },
+    {
+      "name": "Caffe bar Macarena",
+      "latitude": 43.816595,
+      "longitude": 15.579856
+    },
+    {
+      "name": "Caffe Bar Magnum",
+      "latitude": 45.67207,
+      "longitude": 18.677072
+    },
+    {
+      "name": "Caffe Bar Majstori",
+      "latitude": 46.334039,
+      "longitude": 16.266183
+    },
+    {
+      "name": "Caffe Bar Malik",
+      "latitude": 44.969697,
+      "longitude": 14.756555
+    },
+    {
+      "name": "Caffe bar Malik",
+      "latitude": 45.357589,
+      "longitude": 14.74888
+    },
+    {
+      "name": "Caffe Bar Mare",
+      "latitude": 45.025523,
+      "longitude": 14.573916
+    },
+    {
+      "name": "Caffe bar Matteo",
+      "latitude": 45.698897,
+      "longitude": 15.472657
+    },
+    {
+      "name": "Caffe Bar Melon",
+      "latitude": 45.835607,
+      "longitude": 17.385897
+    },
+    {
+      "name": "Caffe Bar MFM",
+      "latitude": 45.835223,
+      "longitude": 17.387788
+    },
+    {
+      "name": "Caffe Bar Moderato",
+      "latitude": 44.756038,
+      "longitude": 14.76188
+    },
+    {
+      "name": "Caffe Bar Monte Carlo",
+      "latitude": 45.226054,
+      "longitude": 13.595754
+    },
+    {
+      "name": "Caffe bar Mućke",
+      "latitude": 46.042574,
+      "longitude": 15.998417
+    },
+    {
+      "name": "Caffe bar Niagara",
+      "latitude": 46.205021,
+      "longitude": 16.023319
+    },
+    {
+      "name": "Caffe Bar Orion",
+      "latitude": 45.830533,
+      "longitude": 17.383848
+    },
+    {
+      "name": "Caffe bar Palma",
+      "latitude": 46.209187,
+      "longitude": 16.035126
+    },
+    {
+      "name": "Caffe Bar Park",
+      "latitude": 45.807015,
+      "longitude": 16.229647
+    },
+    {
+      "name": "Caffe bar Park",
+      "latitude": 45.831846,
+      "longitude": 17.384277
+    },
+    {
+      "name": "Caffe bar Petrol",
+      "latitude": 45.317724,
+      "longitude": 14.472934
+    },
+    {
+      "name": "Caffe bar Pinky",
+      "latitude": 42.644711,
+      "longitude": 18.105121
+    },
+    {
+      "name": "Caffe Bar Play Back",
+      "latitude": 45.825518,
+      "longitude": 17.399179
+    },
+    {
+      "name": "Caffe Bar Plodine",
+      "latitude": 45.324347,
+      "longitude": 14.469947
+    },
+    {
+      "name": "Caffe Bar Porto",
+      "latitude": 44.791393,
+      "longitude": 14.707032
+    },
+    {
+      "name": "Caffe Bar Porto",
+      "latitude": 45.237877,
+      "longitude": 14.255745
+    },
+    {
+      "name": "Caffe Bar Puris",
+      "latitude": 45.227137,
+      "longitude": 13.598885
+    },
+    {
+      "name": "Caffe bar Radovan",
+      "latitude": 46.230478,
+      "longitude": 16.247196
+    },
+    {
+      "name": "Caffe Bar Resnik",
+      "latitude": 43.541077,
+      "longitude": 16.315594
+    },
+    {
+      "name": "Caffe Bar RockKastell",
+      "latitude": 45.240432,
+      "longitude": 13.930351
+    },
+    {
+      "name": "Caffe Bar Rosso",
+      "latitude": 45.227027,
+      "longitude": 13.599375
+    },
+    {
+      "name": "Caffe bar Royal",
+      "latitude": 45.571834,
+      "longitude": 16.626579
+    },
+    {
+      "name": "Caffe bar Royal",
+      "latitude": 46.080258,
+      "longitude": 15.905984
+    },
+    {
+      "name": "Caffe bar Safir",
+      "latitude": 46.207655,
+      "longitude": 16.297222
+    },
+    {
+      "name": "Caffe Bar Sax",
+      "latitude": 45.331315,
+      "longitude": 17.675981
+    },
+    {
+      "name": "Caffe bar Solitudo",
+      "latitude": 42.661244,
+      "longitude": 18.075175
+    },
+    {
+      "name": "caffe bar SPEED",
+      "latitude": 43.045431,
+      "longitude": 16.089451
+    },
+    {
+      "name": "Caffe Bar Sport",
+      "latitude": 46.211794,
+      "longitude": 16.035489
+    },
+    {
+      "name": "Caffe Bar SURF",
+      "latitude": 45.348384,
+      "longitude": 14.320338
+    },
+    {
+      "name": "Caffe Bar Tamaris",
+      "latitude": 44.969217,
+      "longitude": 14.392422
+    },
+    {
+      "name": "caffe bar Time",
+      "latitude": 43.765339,
+      "longitude": 15.79546
+    },
+    {
+      "name": "Caffe Bar Time",
+      "latitude": 45.792459,
+      "longitude": 15.979885
+    },
+    {
+      "name": "caffe bar tip-top",
+      "latitude": 45.805293,
+      "longitude": 15.977884
+    },
+    {
+      "name": "Caffe bar Trgostil",
+      "latitude": 45.849738,
+      "longitude": 15.833897
+    },
+    {
+      "name": "Caffe Bar Ulika",
+      "latitude": 44.971304,
+      "longitude": 14.746852
+    },
+    {
+      "name": "Caffe Bar Vagabondo",
+      "latitude": 45.824463,
+      "longitude": 15.998127
+    },
+    {
+      "name": "Caffe bar Vero",
+      "latitude": 45.378326,
+      "longitude": 13.722963
+    },
+    {
+      "name": "Caffe Bar Verona",
+      "latitude": 43.550699,
+      "longitude": 16.345809
+    },
+    {
+      "name": "Caffe bar Verona",
+      "latitude": 45.848644,
+      "longitude": 15.834088
+    },
+    {
+      "name": "Caffe Bar Villa Libera",
+      "latitude": 45.805724,
+      "longitude": 15.729299
+    },
+    {
+      "name": "Caffe Bar Vis",
+      "latitude": 45.834702,
+      "longitude": 17.38207
+    },
+    {
+      "name": "Caffe Bar Vrh",
+      "latitude": 45.059613,
+      "longitude": 13.878173
+    },
+    {
+      "name": "Caffe bar Štedna",
+      "latitude": 45.82953,
+      "longitude": 17.383996
+    },
+    {
+      "name": "Caffe Cocktail Bar Camel",
+      "latitude": 43.585339,
+      "longitude": 15.922402
+    },
+    {
+      "name": "Caffe Daloro",
+      "latitude": 44.555915,
+      "longitude": 14.884714
+    },
+    {
+      "name": "caffe del sol",
+      "latitude": 45.299048,
+      "longitude": 13.589875
+    },
+    {
+      "name": "Caffe Demos",
+      "latitude": 44.249715,
+      "longitude": 15.17721
+    },
+    {
+      "name": "Caffe Kiss",
+      "latitude": 42.676279,
+      "longitude": 18.106522
+    },
+    {
+      "name": "Caffe Kod Rafe",
+      "latitude": 45.345435,
+      "longitude": 17.676858
+    },
+    {
+      "name": "Caffe Marche",
+      "latitude": 45.765697,
+      "longitude": 15.99315
+    },
+    {
+      "name": "Caffe Taraščice",
+      "latitude": 46.165128,
+      "longitude": 16.81998
+    },
+    {
+      "name": "Caffe Vitar",
+      "latitude": 43.921803,
+      "longitude": 15.418497
+    },
+    {
+      "name": "Caffee bar Ivica",
+      "latitude": 45.593699,
+      "longitude": 14.65015
+    },
+    {
+      "name": "Caffee Bar Planet",
+      "latitude": 46.022121,
+      "longitude": 16.547513
+    },
+    {
+      "name": "Caffè",
+      "latitude": 45.349576,
+      "longitude": 14.420838
+    },
+    {
+      "name": "Caffè  Bar Griffin",
+      "latitude": 44.887336,
+      "longitude": 13.866453
+    },
+    {
+      "name": "Caffè bar Notturno",
+      "latitude": 44.930304,
+      "longitude": 13.805288
+    },
+    {
+      "name": "caffé bar",
+      "latitude": 43.708497,
+      "longitude": 15.909093
+    },
+    {
+      "name": "Café Bar Gool",
+      "latitude": 43.505156,
+      "longitude": 16.494741
+    },
+    {
+      "name": "Café bar Moby Dick",
+      "latitude": 43.50516,
+      "longitude": 16.495162
+    },
+    {
+      "name": "Café bar Márija",
+      "latitude": 45.512065,
+      "longitude": 18.095099
+    },
+    {
+      "name": "Café bar Riva",
+      "latitude": 44.115593,
+      "longitude": 15.223009
+    },
+    {
+      "name": "Café Bar Uljak",
+      "latitude": 44.596766,
+      "longitude": 14.87457
+    },
+    {
+      "name": "Café Luka",
+      "latitude": 42.728063,
+      "longitude": 17.863365
+    },
+    {
+      "name": "Calimero Fast Food",
+      "latitude": 43.510206,
+      "longitude": 16.120134
+    },
+    {
+      "name": "Calma Beach Bar",
+      "latitude": 43.183927,
+      "longitude": 16.410436
+    },
+    {
+      "name": "Campari",
+      "latitude": 45.828286,
+      "longitude": 17.386712
+    },
+    {
+      "name": "Candy bar",
+      "latitude": 43.517277,
+      "longitude": 16.24991
+    },
+    {
+      "name": "Cape Town",
+      "latitude": 45.312711,
+      "longitude": 18.41215
+    },
+    {
+      "name": "Capers BAR",
+      "latitude": 42.960778,
+      "longitude": 17.13667
+    },
+    {
+      "name": "Capitain club",
+      "latitude": 45.059854,
+      "longitude": 13.625101
+    },
+    {
+      "name": "Capitano Beach Bar",
+      "latitude": 44.28178,
+      "longitude": 15.205575
+    },
+    {
+      "name": "Capri",
+      "latitude": 45.026738,
+      "longitude": 14.572961
+    },
+    {
+      "name": "Captain's Bar",
+      "latitude": 44.803957,
+      "longitude": 13.949823
+    },
+    {
+      "name": "Cardeno",
+      "latitude": 45.871784,
+      "longitude": 15.8269
+    },
+    {
+      "name": "Carera 5",
+      "latitude": 45.082508,
+      "longitude": 13.634843
+    },
+    {
+      "name": "Carlitos",
+      "latitude": 44.525724,
+      "longitude": 15.072696
+    },
+    {
+      "name": "cART",
+      "latitude": 46.16312,
+      "longitude": 16.829327
+    },
+    {
+      "name": "Carver",
+      "latitude": 43.509968,
+      "longitude": 16.455149
+    },
+    {
+      "name": "Casa Nostra",
+      "latitude": 45.722064,
+      "longitude": 16.054675
+    },
+    {
+      "name": "Cave Bar \"More\"",
+      "latitude": 42.656775,
+      "longitude": 18.065928
+    },
+    {
+      "name": "CB Lui",
+      "latitude": 43.017134,
+      "longitude": 17.56259
+    },
+    {
+      "name": "Cedevita",
+      "latitude": 43.24136,
+      "longitude": 17.076319
+    },
+    {
+      "name": "Centar",
+      "latitude": 46.109785,
+      "longitude": 16.39197
+    },
+    {
+      "name": "Centar Pub",
+      "latitude": 46.041999,
+      "longitude": 15.996687
+    },
+    {
+      "name": "Central Park Club",
+      "latitude": 43.17287,
+      "longitude": 16.44101
+    },
+    {
+      "name": "Cepelin",
+      "latitude": 45.734477,
+      "longitude": 16.016538
+    },
+    {
+      "name": "Cha-Ka",
+      "latitude": 45.126295,
+      "longitude": 13.622724
+    },
+    {
+      "name": "Champagne Bar",
+      "latitude": 43.491947,
+      "longitude": 16.538029
+    },
+    {
+      "name": "Champagne bar Frapa",
+      "latitude": 43.531564,
+      "longitude": 15.960904
+    },
+    {
+      "name": "Champion",
+      "latitude": 45.080811,
+      "longitude": 13.636544
+    },
+    {
+      "name": "Charlie",
+      "latitude": 45.112556,
+      "longitude": 13.951306
+    },
+    {
+      "name": "Charlie bar",
+      "latitude": 45.326952,
+      "longitude": 14.44362
+    },
+    {
+      "name": "Charlie Chaplin",
+      "latitude": 45.832302,
+      "longitude": 16.056642
+    },
+    {
+      "name": "Charlie's bar",
+      "latitude": 43.509491,
+      "longitude": 16.439427
+    },
+    {
+      "name": "Charlie's Bar",
+      "latitude": 45.361542,
+      "longitude": 13.543071
+    },
+    {
+      "name": "Cheese & wine bar",
+      "latitude": 45.813114,
+      "longitude": 15.979142
+    },
+    {
+      "name": "Cherry Bar",
+      "latitude": 45.294367,
+      "longitude": 14.499828
+    },
+    {
+      "name": "Chiba bar",
+      "latitude": 43.509093,
+      "longitude": 16.438937
+    },
+    {
+      "name": "Chic bar & more",
+      "latitude": 45.780534,
+      "longitude": 15.930556
+    },
+    {
+      "name": "Chico",
+      "latitude": 43.906786,
+      "longitude": 15.507184
+    },
+    {
+      "name": "Ciinema",
+      "latitude": 45.021539,
+      "longitude": 14.629249
+    },
+    {
+      "name": "cin cin bar",
+      "latitude": 45.492271,
+      "longitude": 15.550239
+    },
+    {
+      "name": "Cinnamon",
+      "latitude": 43.264818,
+      "longitude": 17.057101
+    },
+    {
+      "name": "Ciparis",
+      "latitude": 42.582639,
+      "longitude": 18.222528
+    },
+    {
+      "name": "Circolo Aperetiv & Music Bar",
+      "latitude": 45.08187,
+      "longitude": 13.637496
+    },
+    {
+      "name": "City",
+      "latitude": 45.657472,
+      "longitude": 18.421751
+    },
+    {
+      "name": "Classic bar",
+      "latitude": 44.744665,
+      "longitude": 14.788916
+    },
+    {
+      "name": "Click",
+      "latitude": 45.308401,
+      "longitude": 18.411443
+    },
+    {
+      "name": "Clo bar",
+      "latitude": 43.519427,
+      "longitude": 16.466274
+    },
+    {
+      "name": "Club & lounge Roko",
+      "latitude": 45.783657,
+      "longitude": 15.947978
+    },
+    {
+      "name": "Club Havana",
+      "latitude": 43.499038,
+      "longitude": 16.26007
+    },
+    {
+      "name": "Cocktail Bar Bamboocho",
+      "latitude": 44.824955,
+      "longitude": 14.743833
+    },
+    {
+      "name": "Cocktail Bar Bunja",
+      "latitude": 43.739594,
+      "longitude": 15.453146
+    },
+    {
+      "name": "Cocktail bar Gusar",
+      "latitude": 43.960887,
+      "longitude": 15.424343
+    },
+    {
+      "name": "Cocktail Bar Lake",
+      "latitude": 42.622763,
+      "longitude": 18.119778
+    },
+    {
+      "name": "Cocktail Bar Mojito",
+      "latitude": 43.16301,
+      "longitude": 16.693579
+    },
+    {
+      "name": "Cocktail Bar My Way",
+      "latitude": 45.154836,
+      "longitude": 14.717839
+    },
+    {
+      "name": "Cocktail Bar Smokvica",
+      "latitude": 45.026224,
+      "longitude": 14.576624
+    },
+    {
+      "name": "Cocktail Studio",
+      "latitude": 45.810807,
+      "longitude": 15.967
+    },
+    {
+      "name": "Cocktailbar LA DOLCE VITA",
+      "latitude": 45.227281,
+      "longitude": 13.591563
+    },
+    {
+      "name": "Coco",
+      "latitude": 45.234675,
+      "longitude": 14.254724
+    },
+    {
+      "name": "Coco bar",
+      "latitude": 43.991251,
+      "longitude": 15.325699
+    },
+    {
+      "name": "Coco bar",
+      "latitude": 45.484886,
+      "longitude": 13.566195
+    },
+    {
+      "name": "Cocomo",
+      "latitude": 44.554528,
+      "longitude": 14.88461
+    },
+    {
+      "name": "Coctail Bar",
+      "latitude": 45.459525,
+      "longitude": 15.258059
+    },
+    {
+      "name": "Coctail bar Goya",
+      "latitude": 45.159454,
+      "longitude": 14.715625
+    },
+    {
+      "name": "Code bar",
+      "latitude": 45.327622,
+      "longitude": 14.439519
+    },
+    {
+      "name": "Code bar",
+      "latitude": 45.79911,
+      "longitude": 15.887033
+    },
+    {
+      "name": "Cohiba Bar",
+      "latitude": 44.259343,
+      "longitude": 15.164583
+    },
+    {
+      "name": "Coloseum",
+      "latitude": 42.939731,
+      "longitude": 16.792465
+    },
+    {
+      "name": "Colosseum",
+      "latitude": 45.298375,
+      "longitude": 18.803595
+    },
+    {
+      "name": "Colosseum",
+      "latitude": 45.330292,
+      "longitude": 14.302199
+    },
+    {
+      "name": "Comitivm",
+      "latitude": 45.227901,
+      "longitude": 13.592391
+    },
+    {
+      "name": "Concept Bar Rijeka",
+      "latitude": 45.326588,
+      "longitude": 14.443825
+    },
+    {
+      "name": "Confusion bar",
+      "latitude": 45.814512,
+      "longitude": 15.976028
+    },
+    {
+      "name": "Cooper",
+      "latitude": 45.389252,
+      "longitude": 14.467611
+    },
+    {
+      "name": "Copulo",
+      "latitude": 44.076086,
+      "longitude": 15.206906
+    },
+    {
+      "name": "Corner",
+      "latitude": 44.96586,
+      "longitude": 14.747797
+    },
+    {
+      "name": "Corner",
+      "latitude": 45.22761,
+      "longitude": 13.59671
+    },
+    {
+      "name": "Corso",
+      "latitude": 44.869118,
+      "longitude": 13.847907
+    },
+    {
+      "name": "Corto Maltese",
+      "latitude": 43.045049,
+      "longitude": 16.08964
+    },
+    {
+      "name": "Corto Maltese",
+      "latitude": 45.323872,
+      "longitude": 14.43891
+    },
+    {
+      "name": "Costa Bella",
+      "latitude": 45.348671,
+      "longitude": 14.343899
+    },
+    {
+      "name": "Cotton",
+      "latitude": 45.779459,
+      "longitude": 15.996241
+    },
+    {
+      "name": "Coyote Pub",
+      "latitude": 45.326155,
+      "longitude": 14.445419
+    },
+    {
+      "name": "crazy crab",
+      "latitude": 43.812077,
+      "longitude": 15.621686
+    },
+    {
+      "name": "Crikvenica",
+      "latitude": 45.17407,
+      "longitude": 14.688725
+    },
+    {
+      "name": "Crni grozd",
+      "latitude": 45.706919,
+      "longitude": 16.068917
+    },
+    {
+      "name": "Crocodile bar",
+      "latitude": 45.196519,
+      "longitude": 13.606473
+    },
+    {
+      "name": "Crveni Koralji",
+      "latitude": 45.801588,
+      "longitude": 17.494038
+    },
+    {
+      "name": "Cuba Libre Bar",
+      "latitude": 44.105172,
+      "longitude": 15.234025
+    },
+    {
+      "name": "Cubana Beach Bar",
+      "latitude": 44.290089,
+      "longitude": 15.119667
+    },
+    {
+      "name": "Cubano",
+      "latitude": 43.308965,
+      "longitude": 16.999949
+    },
+    {
+      "name": "Cubano",
+      "latitude": 45.485176,
+      "longitude": 16.37221
+    },
+    {
+      "name": "Cubano",
+      "latitude": 46.224232,
+      "longitude": 16.125471
+    },
+    {
+      "name": "Culto",
+      "latitude": 42.651402,
+      "longitude": 18.091227
+    },
+    {
+      "name": "Culto Cafe & Night Bar",
+      "latitude": 42.649885,
+      "longitude": 18.083016
+    },
+    {
+      "name": "Curicum Bar",
+      "latitude": 45.026387,
+      "longitude": 14.576817
+    },
+    {
+      "name": "Cuvi beach bar",
+      "latitude": 45.066159,
+      "longitude": 13.652728
+    },
+    {
+      "name": "cvenkbar",
+      "latitude": 45.814989,
+      "longitude": 15.975476
+    },
+    {
+      "name": "D'vino Wine Bar",
+      "latitude": 42.641597,
+      "longitude": 18.10853
+    },
+    {
+      "name": "Dali",
+      "latitude": 45.55502,
+      "longitude": 18.688008
+    },
+    {
+      "name": "Dalmatino",
+      "latitude": 43.181601,
+      "longitude": 16.670198
+    },
+    {
+      "name": "Debela krug",
+      "latitude": 43.784915,
+      "longitude": 15.648488
+    },
+    {
+      "name": "Debeli krug",
+      "latitude": 43.785067,
+      "longitude": 15.646451
+    },
+    {
+      "name": "Deja Brew Pub",
+      "latitude": 44.11387,
+      "longitude": 15.226395
+    },
+    {
+      "name": "Deja Vu",
+      "latitude": 42.958543,
+      "longitude": 17.135248
+    },
+    {
+      "name": "Delfin",
+      "latitude": 42.581573,
+      "longitude": 18.217093
+    },
+    {
+      "name": "delfin",
+      "latitude": 44.959756,
+      "longitude": 14.39185
+    },
+    {
+      "name": "Delfin",
+      "latitude": 45.83566,
+      "longitude": 17.387362
+    },
+    {
+      "name": "Delice",
+      "latitude": 45.78041,
+      "longitude": 15.932553
+    },
+    {
+      "name": "Deluxe bar",
+      "latitude": 45.799517,
+      "longitude": 15.953437
+    },
+    {
+      "name": "Despacito",
+      "latitude": 44.111765,
+      "longitude": 15.238091
+    },
+    {
+      "name": "Destino Beach Bar",
+      "latitude": 45.475293,
+      "longitude": 13.508436
+    },
+    {
+      "name": "Dežman Bar & bistro",
+      "latitude": 45.814003,
+      "longitude": 15.969723
+    },
+    {
+      "name": "Diamond Beach Fish Fine Food",
+      "latitude": 43.019543,
+      "longitude": 16.211893
+    },
+    {
+      "name": "Didov Dvor",
+      "latitude": 44.34709,
+      "longitude": 15.210764
+    },
+    {
+      "name": "Diga Bar",
+      "latitude": 44.928349,
+      "longitude": 13.801949
+    },
+    {
+      "name": "Diplomatic Gin & Rum Bar",
+      "latitude": 45.816518,
+      "longitude": 15.976437
+    },
+    {
+      "name": "Disco Bar Kukuriku",
+      "latitude": 45.241819,
+      "longitude": 13.923496
+    },
+    {
+      "name": "Disco club Modena",
+      "latitude": 43.616612,
+      "longitude": 16.729315
+    },
+    {
+      "name": "Diskač",
+      "latitude": 46.294423,
+      "longitude": 16.344702
+    },
+    {
+      "name": "Dispet",
+      "latitude": 44.011487,
+      "longitude": 15.281127
+    },
+    {
+      "name": "Display",
+      "latitude": 45.37555,
+      "longitude": 18.951875
+    },
+    {
+      "name": "Diwine Bar",
+      "latitude": 45.815913,
+      "longitude": 15.977244
+    },
+    {
+      "name": "Dnevni bar Extra",
+      "latitude": 46.521397,
+      "longitude": 16.45235
+    },
+    {
+      "name": "Dobar dan",
+      "latitude": 45.714554,
+      "longitude": 16.074196
+    },
+    {
+      "name": "Dodo",
+      "latitude": 42.641752,
+      "longitude": 18.103918
+    },
+    {
+      "name": "Dogs Dream Bar",
+      "latitude": 45.332962,
+      "longitude": 13.544277
+    },
+    {
+      "name": "Dolac",
+      "latitude": 43.73696,
+      "longitude": 15.888057
+    },
+    {
+      "name": "Dom",
+      "latitude": 45.800822,
+      "longitude": 17.496429
+    },
+    {
+      "name": "Doma bar",
+      "latitude": 45.814813,
+      "longitude": 15.976696
+    },
+    {
+      "name": "Domald",
+      "latitude": 43.7372,
+      "longitude": 15.887851
+    },
+    {
+      "name": "Domingo",
+      "latitude": 45.569792,
+      "longitude": 16.224259
+    },
+    {
+      "name": "Domino",
+      "latitude": 43.737762,
+      "longitude": 15.887814
+    },
+    {
+      "name": "Domino Bar",
+      "latitude": 45.325999,
+      "longitude": 14.299687
+    },
+    {
+      "name": "Don",
+      "latitude": 45.806018,
+      "longitude": 16.235863
+    },
+    {
+      "name": "Don Dino - Wine bar",
+      "latitude": 43.516999,
+      "longitude": 16.249282
+    },
+    {
+      "name": "Dos Locos N. 1",
+      "latitude": 42.958548,
+      "longitude": 17.134704
+    },
+    {
+      "name": "Downtown",
+      "latitude": 43.737441,
+      "longitude": 15.887829
+    },
+    {
+      "name": "Doza",
+      "latitude": 43.514478,
+      "longitude": 16.438298
+    },
+    {
+      "name": "Dragon's terrace bar",
+      "latitude": 43.532071,
+      "longitude": 15.963597
+    },
+    {
+      "name": "Drift staza Gumiland",
+      "latitude": 45.371169,
+      "longitude": 14.347501
+    },
+    {
+      "name": "Dubrovnik Beer Factory",
+      "latitude": 42.640797,
+      "longitude": 18.109129
+    },
+    {
+      "name": "Dukah",
+      "latitude": 42.643031,
+      "longitude": 18.102789
+    },
+    {
+      "name": "Dumideca Bar",
+      "latitude": 44.090671,
+      "longitude": 15.184242
+    },
+    {
+      "name": "Dundo",
+      "latitude": 45.165236,
+      "longitude": 14.543408
+    },
+    {
+      "name": "Dupin",
+      "latitude": 43.549715,
+      "longitude": 16.343073
+    },
+    {
+      "name": "Dva Vlaja",
+      "latitude": 44.464979,
+      "longitude": 14.958711
+    },
+    {
+      "name": "Dvigrad",
+      "latitude": 45.123014,
+      "longitude": 13.838331
+    },
+    {
+      "name": "Dvije Seke",
+      "latitude": 45.749958,
+      "longitude": 16.111971
+    },
+    {
+      "name": "East Point",
+      "latitude": 45.450047,
+      "longitude": 13.517939
+    },
+    {
+      "name": "Eden",
+      "latitude": 44.817583,
+      "longitude": 13.975622
+    },
+    {
+      "name": "Egoist",
+      "latitude": 45.788343,
+      "longitude": 15.957048
+    },
+    {
+      "name": "El Amigo Bar",
+      "latitude": 44.079515,
+      "longitude": 15.276013
+    },
+    {
+      "name": "Element",
+      "latitude": 45.318926,
+      "longitude": 13.568373
+    },
+    {
+      "name": "En Vogue",
+      "latitude": 43.6944,
+      "longitude": 15.883433
+    },
+    {
+      "name": "Enigma",
+      "latitude": 45.308917,
+      "longitude": 18.410544
+    },
+    {
+      "name": "Escalator bar",
+      "latitude": 45.802403,
+      "longitude": 16.002639
+    },
+    {
+      "name": "Esco Bar",
+      "latitude": 44.260971,
+      "longitude": 15.210585
+    },
+    {
+      "name": "Esperanza",
+      "latitude": 42.656151,
+      "longitude": 18.072917
+    },
+    {
+      "name": "Euphoria bar Sinj",
+      "latitude": 43.702155,
+      "longitude": 16.637343
+    },
+    {
+      "name": "Euphoria Zrće",
+      "latitude": 44.541005,
+      "longitude": 14.913708
+    },
+    {
+      "name": "Euro Bar",
+      "latitude": 45.4889,
+      "longitude": 15.546834
+    },
+    {
+      "name": "Eve",
+      "latitude": 42.585344,
+      "longitude": 18.225297
+    },
+    {
+      "name": "Evolon",
+      "latitude": 45.228225,
+      "longitude": 13.592942
+    },
+    {
+      "name": "Excalibur",
+      "latitude": 43.196126,
+      "longitude": 17.142818
+    },
+    {
+      "name": "Express Bar",
+      "latitude": 45.812003,
+      "longitude": 15.979115
+    },
+    {
+      "name": "Fabrika",
+      "latitude": 43.499072,
+      "longitude": 16.339101
+    },
+    {
+      "name": "Falco",
+      "latitude": 43.172652,
+      "longitude": 16.427098
+    },
+    {
+      "name": "Famous",
+      "latitude": 46.0244,
+      "longitude": 15.902142
+    },
+    {
+      "name": "Famous Academy Bar",
+      "latitude": 46.0244,
+      "longitude": 15.902142
+    },
+    {
+      "name": "Famous Exclusive Bar",
+      "latitude": 46.155301,
+      "longitude": 15.874229
+    },
+    {
+      "name": "Faraon",
+      "latitude": 45.0805,
+      "longitude": 13.646821
+    },
+    {
+      "name": "Faraon",
+      "latitude": 45.16518,
+      "longitude": 18.001554
+    },
+    {
+      "name": "Faraon",
+      "latitude": 45.725183,
+      "longitude": 15.910294
+    },
+    {
+      "name": "Favorit",
+      "latitude": 43.498696,
+      "longitude": 16.260149
+    },
+    {
+      "name": "Feniks",
+      "latitude": 45.721861,
+      "longitude": 16.062262
+    },
+    {
+      "name": "Feniks",
+      "latitude": 45.732329,
+      "longitude": 15.898741
+    },
+    {
+      "name": "Fenix 19",
+      "latitude": 45.654674,
+      "longitude": 17.008368
+    },
+    {
+      "name": "Ferrari",
+      "latitude": 45.345145,
+      "longitude": 16.97373
+    },
+    {
+      "name": "Figa Garden",
+      "latitude": 45.80818,
+      "longitude": 15.972823
+    },
+    {
+      "name": "Figaro",
+      "latitude": 45.817504,
+      "longitude": 16.005793
+    },
+    {
+      "name": "Figurin",
+      "latitude": 42.582292,
+      "longitude": 18.216814
+    },
+    {
+      "name": "FIO",
+      "latitude": 43.503264,
+      "longitude": 16.950049
+    },
+    {
+      "name": "Firma",
+      "latitude": 43.522953,
+      "longitude": 16.447869
+    },
+    {
+      "name": "Fish Delish",
+      "latitude": 43.292984,
+      "longitude": 17.020644
+    },
+    {
+      "name": "Fjaka",
+      "latitude": 45.130606,
+      "longitude": 14.767912
+    },
+    {
+      "name": "Flashback",
+      "latitude": 43.501828,
+      "longitude": 16.259128
+    },
+    {
+      "name": "Fluctus",
+      "latitude": 44.257855,
+      "longitude": 15.212963
+    },
+    {
+      "name": "Fluid",
+      "latitude": 45.485131,
+      "longitude": 16.373645
+    },
+    {
+      "name": "Fontana",
+      "latitude": 45.314813,
+      "longitude": 18.414075
+    },
+    {
+      "name": "Fortica",
+      "latitude": 43.436476,
+      "longitude": 16.701225
+    },
+    {
+      "name": "Fortuna",
+      "latitude": 44.871011,
+      "longitude": 13.848384
+    },
+    {
+      "name": "Fortuna",
+      "latitude": 45.117115,
+      "longitude": 18.537095
+    },
+    {
+      "name": "Forty Four",
+      "latitude": 42.640911,
+      "longitude": 18.109188
+    },
+    {
+      "name": "Forum",
+      "latitude": 44.757095,
+      "longitude": 14.760533
+    },
+    {
+      "name": "Fox",
+      "latitude": 44.035718,
+      "longitude": 15.247173
+    },
+    {
+      "name": "Fox Bar",
+      "latitude": 46.389693,
+      "longitude": 16.438941
+    },
+    {
+      "name": "Fratelli",
+      "latitude": 44.545122,
+      "longitude": 15.37007
+    },
+    {
+      "name": "Fresh Corner",
+      "latitude": 45.135181,
+      "longitude": 13.602615
+    },
+    {
+      "name": "Fresh Corner",
+      "latitude": 45.750337,
+      "longitude": 16.299031
+    },
+    {
+      "name": "Friki",
+      "latitude": 45.124796,
+      "longitude": 14.528063
+    },
+    {
+      "name": "Fruit Bar",
+      "latitude": 43.386501,
+      "longitude": 16.539651
+    },
+    {
+      "name": "Frutarija",
+      "latitude": 43.057926,
+      "longitude": 16.193687
+    },
+    {
+      "name": "G.o.a.t. bar",
+      "latitude": 43.509608,
+      "longitude": 16.455331
+    },
+    {
+      "name": "GA-GA",
+      "latitude": 43.920852,
+      "longitude": 15.421746
+    },
+    {
+      "name": "Gabini",
+      "latitude": 43.547358,
+      "longitude": 16.33162
+    },
+    {
+      "name": "Gabre",
+      "latitude": 43.90686,
+      "longitude": 15.507146
+    },
+    {
+      "name": "Gajba",
+      "latitude": 45.774559,
+      "longitude": 15.996569
+    },
+    {
+      "name": "Gajeta",
+      "latitude": 43.104708,
+      "longitude": 17.342409
+    },
+    {
+      "name": "Galaxie bar",
+      "latitude": 45.344478,
+      "longitude": 14.383053
+    },
+    {
+      "name": "Galerija",
+      "latitude": 45.737014,
+      "longitude": 16.00262
+    },
+    {
+      "name": "Galerija",
+      "latitude": 45.834766,
+      "longitude": 17.386592
+    },
+    {
+      "name": "Galerija Bar",
+      "latitude": 43.50901,
+      "longitude": 16.440172
+    },
+    {
+      "name": "Galerija Raa",
+      "latitude": 45.310968,
+      "longitude": 18.410749
+    },
+    {
+      "name": "Gallery",
+      "latitude": 45.422041,
+      "longitude": 13.528575
+    },
+    {
+      "name": "Garage",
+      "latitude": 45.763723,
+      "longitude": 16.08036
+    },
+    {
+      "name": "Garaz",
+      "latitude": 45.231188,
+      "longitude": 13.599115
+    },
+    {
+      "name": "Garden",
+      "latitude": 45.870103,
+      "longitude": 15.795352
+    },
+    {
+      "name": "Garden Bar",
+      "latitude": 45.104666,
+      "longitude": 13.617282
+    },
+    {
+      "name": "Garden Bar",
+      "latitude": 45.236979,
+      "longitude": 14.254308
+    },
+    {
+      "name": "Garfield bar",
+      "latitude": 42.88979,
+      "longitude": 17.453633
+    },
+    {
+      "name": "Garfulin",
+      "latitude": 44.970537,
+      "longitude": 14.75966
+    },
+    {
+      "name": "Gentlemen's",
+      "latitude": 46.022292,
+      "longitude": 16.547318
+    },
+    {
+      "name": "Ginger bar",
+      "latitude": 43.661475,
+      "longitude": 15.941227
+    },
+    {
+      "name": "Gira",
+      "latitude": 43.180799,
+      "longitude": 16.67285
+    },
+    {
+      "name": "Glam",
+      "latitude": 42.641748,
+      "longitude": 18.108509
+    },
+    {
+      "name": "Glorijet Bar",
+      "latitude": 43.5161,
+      "longitude": 16.232023
+    },
+    {
+      "name": "Godot",
+      "latitude": 45.312382,
+      "longitude": 18.411822
+    },
+    {
+      "name": "Goga",
+      "latitude": 45.408497,
+      "longitude": 13.962843
+    },
+    {
+      "name": "Golden bar",
+      "latitude": 43.517774,
+      "longitude": 16.434777
+    },
+    {
+      "name": "Golden Beach",
+      "latitude": 44.342373,
+      "longitude": 15.10672
+    },
+    {
+      "name": "Golf bar Brioni 1921",
+      "latitude": 44.923931,
+      "longitude": 13.759347
+    },
+    {
+      "name": "Gooshter Beach Club",
+      "latitude": 43.491176,
+      "longitude": 16.539095
+    },
+    {
+      "name": "Gossip 042",
+      "latitude": 46.30782,
+      "longitude": 16.337032
+    },
+    {
+      "name": "Gost&ona",
+      "latitude": 45.812511,
+      "longitude": 15.97452
+    },
+    {
+      "name": "Gostiona Veteran",
+      "latitude": 45.751654,
+      "longitude": 18.063451
+    },
+    {
+      "name": "Gostionica Planinka",
+      "latitude": 45.595058,
+      "longitude": 14.647688
+    },
+    {
+      "name": "Gourmetbar Basta",
+      "latitude": 45.788027,
+      "longitude": 15.930649
+    },
+    {
+      "name": "Goya Bar",
+      "latitude": 45.762986,
+      "longitude": 15.992503
+    },
+    {
+      "name": "Goćen",
+      "latitude": 44.30521,
+      "longitude": 15.094485
+    },
+    {
+      "name": "Gradska Kavana",
+      "latitude": 43.550181,
+      "longitude": 16.344692
+    },
+    {
+      "name": "Gradska kavana",
+      "latitude": 45.239841,
+      "longitude": 13.937563
+    },
+    {
+      "name": "Gradska vijećnica",
+      "latitude": 43.735785,
+      "longitude": 15.88949
+    },
+    {
+      "name": "Grafulin",
+      "latitude": 43.905957,
+      "longitude": 15.51077
+    },
+    {
+      "name": "Graphite",
+      "latitude": 44.875892,
+      "longitude": 13.850342
+    },
+    {
+      "name": "Gray Bar",
+      "latitude": 44.114175,
+      "longitude": 15.227768
+    },
+    {
+      "name": "Grbolja",
+      "latitude": 46.14781,
+      "longitude": 16.572021
+    },
+    {
+      "name": "Green pub",
+      "latitude": 45.770126,
+      "longitude": 18.598747
+    },
+    {
+      "name": "Green pub",
+      "latitude": 45.816626,
+      "longitude": 15.835677
+    },
+    {
+      "name": "Grif",
+      "latitude": 45.790411,
+      "longitude": 15.95519
+    },
+    {
+      "name": "Grota Caffe Bar",
+      "latitude": 44.790948,
+      "longitude": 14.707494
+    },
+    {
+      "name": "Guliver",
+      "latitude": 43.366574,
+      "longitude": 16.933913
+    },
+    {
+      "name": "GUMA",
+      "latitude": 44.115944,
+      "longitude": 15.225046
+    },
+    {
+      "name": "Guma bar",
+      "latitude": 45.809955,
+      "longitude": 15.756896
+    },
+    {
+      "name": "Gumenjak",
+      "latitude": 45.835524,
+      "longitude": 17.387574
+    },
+    {
+      "name": "Gusar",
+      "latitude": 42.406093,
+      "longitude": 18.510795
+    },
+    {
+      "name": "Gušter",
+      "latitude": 43.822855,
+      "longitude": 15.592102
+    },
+    {
+      "name": "H&S",
+      "latitude": 45.280325,
+      "longitude": 13.596407
+    },
+    {
+      "name": "Hacienda Beach Bar",
+      "latitude": 45.386299,
+      "longitude": 13.532899
+    },
+    {
+      "name": "Hajduk",
+      "latitude": 45.17052,
+      "longitude": 17.984156
+    },
+    {
+      "name": "Hakuna Matata",
+      "latitude": 43.262922,
+      "longitude": 16.610335
+    },
+    {
+      "name": "Hakuna mattata",
+      "latitude": 43.861094,
+      "longitude": 15.499553
+    },
+    {
+      "name": "Hang Loose",
+      "latitude": 45.284286,
+      "longitude": 18.821756
+    },
+    {
+      "name": "Hard Place",
+      "latitude": 45.796759,
+      "longitude": 15.978393
+    },
+    {
+      "name": "Hattrick",
+      "latitude": 42.451552,
+      "longitude": 18.435407
+    },
+    {
+      "name": "Hattrick",
+      "latitude": 45.776385,
+      "longitude": 15.972065
+    },
+    {
+      "name": "Havana",
+      "latitude": 45.123564,
+      "longitude": 13.62275
+    },
+    {
+      "name": "Havana",
+      "latitude": 45.634922,
+      "longitude": 18.687224
+    },
+    {
+      "name": "Havana bar",
+      "latitude": 45.801983,
+      "longitude": 15.709163
+    },
+    {
+      "name": "Havana bar",
+      "latitude": 45.802518,
+      "longitude": 16.002009
+    },
+    {
+      "name": "Havana Beach",
+      "latitude": 45.491327,
+      "longitude": 13.496465
+    },
+    {
+      "name": "Havana Club",
+      "latitude": 43.385694,
+      "longitude": 16.548457
+    },
+    {
+      "name": "Havana Club",
+      "latitude": 45.872715,
+      "longitude": 15.82646
+    },
+    {
+      "name": "Havanna",
+      "latitude": 45.080075,
+      "longitude": 13.637119
+    },
+    {
+      "name": "Haven",
+      "latitude": 43.442163,
+      "longitude": 16.17631
+    },
+    {
+      "name": "Heart",
+      "latitude": 45.326233,
+      "longitude": 15.701909
+    },
+    {
+      "name": "Heat bar",
+      "latitude": 45.813857,
+      "longitude": 15.955857
+    },
+    {
+      "name": "Heaven",
+      "latitude": 45.273139,
+      "longitude": 18.844582
+    },
+    {
+      "name": "Hedonist",
+      "latitude": 45.316562,
+      "longitude": 13.559879
+    },
+    {
+      "name": "Hemingway",
+      "latitude": 45.815512,
+      "longitude": 15.969394
+    },
+    {
+      "name": "Hermanos",
+      "latitude": 43.754378,
+      "longitude": 15.769205
+    },
+    {
+      "name": "Hir",
+      "latitude": 45.553763,
+      "longitude": 18.681263
+    },
+    {
+      "name": "Hocus Pocus",
+      "latitude": 45.808798,
+      "longitude": 15.991673
+    },
+    {
+      "name": "Hogar",
+      "latitude": 45.680688,
+      "longitude": 16.254448
+    },
+    {
+      "name": "Hollywood",
+      "latitude": 45.492193,
+      "longitude": 15.548344
+    },
+    {
+      "name": "Hookah",
+      "latitude": 43.754864,
+      "longitude": 15.784804
+    },
+    {
+      "name": "Hop In craft beer bar",
+      "latitude": 45.803017,
+      "longitude": 15.995948
+    },
+    {
+      "name": "Hula Hula Bar",
+      "latitude": 43.171492,
+      "longitude": 16.431444
+    },
+    {
+      "name": "Hyperion",
+      "latitude": 45.715628,
+      "longitude": 16.074189
+    },
+    {
+      "name": "i-pub",
+      "latitude": 45.850994,
+      "longitude": 18.853198
+    },
+    {
+      "name": "Illy Bar",
+      "latitude": 44.112527,
+      "longitude": 15.227471
+    },
+    {
+      "name": "Imperia caffe bar",
+      "latitude": 45.772203,
+      "longitude": 15.994298
+    },
+    {
+      "name": "In2 The Bar",
+      "latitude": 45.022077,
+      "longitude": 14.628819
+    },
+    {
+      "name": "Industry Bar",
+      "latitude": 45.691394,
+      "longitude": 15.735549
+    },
+    {
+      "name": "Inkognito Bar",
+      "latitude": 43.376719,
+      "longitude": 16.635918
+    },
+    {
+      "name": "Invictus",
+      "latitude": 45.797521,
+      "longitude": 15.947902
+    },
+    {
+      "name": "IQ Bar",
+      "latitude": 46.309124,
+      "longitude": 16.346781
+    },
+    {
+      "name": "IQ Caffe point",
+      "latitude": 45.817226,
+      "longitude": 15.889869
+    },
+    {
+      "name": "Irish",
+      "latitude": 45.715023,
+      "longitude": 16.074077
+    },
+    {
+      "name": "Island Bar",
+      "latitude": 43.179811,
+      "longitude": 16.576484
+    },
+    {
+      "name": "Ixie Sky Bar",
+      "latitude": 45.064679,
+      "longitude": 13.63517
+    },
+    {
+      "name": "J. F. Kennedy",
+      "latitude": 45.814984,
+      "longitude": 16.012783
+    },
+    {
+      "name": "Jack Rabbit Slims",
+      "latitude": 43.735883,
+      "longitude": 15.890438
+    },
+    {
+      "name": "Jadran Beach Bar",
+      "latitude": 43.501351,
+      "longitude": 16.42369
+    },
+    {
+      "name": "Jagoda",
+      "latitude": 45.701437,
+      "longitude": 18.588171
+    },
+    {
+      "name": "Jaguar",
+      "latitude": 45.712102,
+      "longitude": 16.067327
+    },
+    {
+      "name": "Java bar",
+      "latitude": 45.996361,
+      "longitude": 15.915621
+    },
+    {
+      "name": "Jet coffee & bar",
+      "latitude": 44.545133,
+      "longitude": 14.875885
+    },
+    {
+      "name": "Jet star",
+      "latitude": 45.804828,
+      "longitude": 15.895609
+    },
+    {
+      "name": "Jež",
+      "latitude": 44.531485,
+      "longitude": 14.896691
+    },
+    {
+      "name": "Jiggy - Music Bar & Food",
+      "latitude": 45.807479,
+      "longitude": 15.968428
+    },
+    {
+      "name": "Johan",
+      "latitude": 45.776784,
+      "longitude": 15.979228
+    },
+    {
+      "name": "Joker",
+      "latitude": 46.107437,
+      "longitude": 16.375967
+    },
+    {
+      "name": "Joko",
+      "latitude": 43.906758,
+      "longitude": 15.5073
+    },
+    {
+      "name": "Juznjacko Utjeha",
+      "latitude": 43.361071,
+      "longitude": 16.941019
+    },
+    {
+      "name": "JVE",
+      "latitude": 44.033274,
+      "longitude": 15.24626
+    },
+    {
+      "name": "Jägerhorn",
+      "latitude": 45.813655,
+      "longitude": 15.973765
+    },
+    {
+      "name": "K2 Beach Bar Viganj",
+      "latitude": 42.979779,
+      "longitude": 17.103141
+    },
+    {
+      "name": "Ka'Lavanda Bar",
+      "latitude": 43.172534,
+      "longitude": 16.443222
+    },
+    {
+      "name": "Kadena",
+      "latitude": 45.150494,
+      "longitude": 14.671158
+    },
+    {
+      "name": "Kaktoos",
+      "latitude": 46.308022,
+      "longitude": 16.339087
+    },
+    {
+      "name": "Kaktus",
+      "latitude": 45.674244,
+      "longitude": 18.413553
+    },
+    {
+      "name": "Kaktus Bar",
+      "latitude": 43.484848,
+      "longitude": 16.260797
+    },
+    {
+      "name": "Kalambera",
+      "latitude": 43.385321,
+      "longitude": 16.548575
+    },
+    {
+      "name": "Kalimero",
+      "latitude": 44.297624,
+      "longitude": 15.082715
+    },
+    {
+      "name": "Kalimero",
+      "latitude": 45.164049,
+      "longitude": 19.155238
+    },
+    {
+      "name": "Kalypso Zrće",
+      "latitude": 44.542187,
+      "longitude": 14.914462
+    },
+    {
+      "name": "Kamićac",
+      "latitude": 43.816275,
+      "longitude": 15.58021
+    },
+    {
+      "name": "Kamp Slapic",
+      "latitude": 45.420144,
+      "longitude": 15.483178
+    },
+    {
+      "name": "Kampanjola birerija",
+      "latitude": 45.089002,
+      "longitude": 13.881821
+    },
+    {
+      "name": "Kanaloa Tiki Bar",
+      "latitude": 44.311504,
+      "longitude": 15.080699
+    },
+    {
+      "name": "Kancelarija",
+      "latitude": 45.326958,
+      "longitude": 14.445614
+    },
+    {
+      "name": "KANCELARIJA BAR - TOWER",
+      "latitude": 45.317482,
+      "longitude": 14.469821
+    },
+    {
+      "name": "Kaos",
+      "latitude": 45.826487,
+      "longitude": 17.398554
+    },
+    {
+      "name": "Kapelica",
+      "latitude": 45.709475,
+      "longitude": 16.473689
+    },
+    {
+      "name": "Kaptol Boutique Bar",
+      "latitude": 45.820034,
+      "longitude": 15.977075
+    },
+    {
+      "name": "Karaka",
+      "latitude": 43.104874,
+      "longitude": 17.341443
+    },
+    {
+      "name": "Karijola Winebar",
+      "latitude": 45.814361,
+      "longitude": 15.984779
+    },
+    {
+      "name": "Karizma",
+      "latitude": 45.772895,
+      "longitude": 15.950629
+    },
+    {
+      "name": "Karlobar",
+      "latitude": 44.863091,
+      "longitude": 13.844961
+    },
+    {
+      "name": "Karoca",
+      "latitude": 43.510107,
+      "longitude": 16.455267
+    },
+    {
+      "name": "Kartolina",
+      "latitude": 43.544144,
+      "longitude": 16.324275
+    },
+    {
+      "name": "KASTEL",
+      "latitude": 44.728916,
+      "longitude": 14.809378
+    },
+    {
+      "name": "Kavana Istra",
+      "latitude": 45.316055,
+      "longitude": 13.559093
+    },
+    {
+      "name": "Kavana Volsonis",
+      "latitude": 45.025983,
+      "longitude": 14.573712
+    },
+    {
+      "name": "Kavanica",
+      "latitude": 45.81199,
+      "longitude": 15.973244
+    },
+    {
+      "name": "Keef",
+      "latitude": 45.803348,
+      "longitude": 15.720947
+    },
+    {
+      "name": "Kerido",
+      "latitude": 43.818702,
+      "longitude": 15.662434
+    },
+    {
+      "name": "Khala Bar",
+      "latitude": 45.354356,
+      "longitude": 14.369427
+    },
+    {
+      "name": "Kic Klub",
+      "latitude": 45.811428,
+      "longitude": 15.974391
+    },
+    {
+      "name": "KIKA",
+      "latitude": 45.814123,
+      "longitude": 15.938519
+    },
+    {
+      "name": "Kiva bar",
+      "latitude": 43.172434,
+      "longitude": 16.439629
+    },
+    {
+      "name": "Kljake",
+      "latitude": 43.789838,
+      "longitude": 16.312511
+    },
+    {
+      "name": "Klub Galerija Zrin",
+      "latitude": 45.810168,
+      "longitude": 15.976937
+    },
+    {
+      "name": "Klub mladih Rijeka",
+      "latitude": 45.328952,
+      "longitude": 14.439615
+    },
+    {
+      "name": "Knot",
+      "latitude": 42.660415,
+      "longitude": 18.085806
+    },
+    {
+      "name": "Kockica",
+      "latitude": 43.050753,
+      "longitude": 17.434211
+    },
+    {
+      "name": "kockica bar",
+      "latitude": 45.319614,
+      "longitude": 14.469044
+    },
+    {
+      "name": "Kod Bernija",
+      "latitude": 45.830287,
+      "longitude": 17.386307
+    },
+    {
+      "name": "Kod Brajne",
+      "latitude": 45.750487,
+      "longitude": 17.968332
+    },
+    {
+      "name": "Kod Jakše",
+      "latitude": 42.982895,
+      "longitude": 16.004854
+    },
+    {
+      "name": "kod Perića",
+      "latitude": 43.533004,
+      "longitude": 16.486901
+    },
+    {
+      "name": "Kokopelli Beach Bar",
+      "latitude": 44.464183,
+      "longitude": 14.957401
+    },
+    {
+      "name": "Kokos Bar",
+      "latitude": 45.015207,
+      "longitude": 14.626142
+    },
+    {
+      "name": "Kolonija",
+      "latitude": 45.442713,
+      "longitude": 16.328388
+    },
+    {
+      "name": "Koma",
+      "latitude": 45.815254,
+      "longitude": 16.008692
+    },
+    {
+      "name": "Kon-Tiki",
+      "latitude": 45.347614,
+      "longitude": 14.320069
+    },
+    {
+      "name": "Koncept bar",
+      "latitude": 45.817932,
+      "longitude": 15.976172
+    },
+    {
+      "name": "Konoba Adriana - Punto Mare",
+      "latitude": 42.956439,
+      "longitude": 17.13745
+    },
+    {
+      "name": "Konoba Adriana, Punto Mare",
+      "latitude": 42.956455,
+      "longitude": 17.137428
+    },
+    {
+      "name": "Konoba Dubrovnik",
+      "latitude": 43.008979,
+      "longitude": 17.26867
+    },
+    {
+      "name": "Konoba Žabica-wine/olive tasting",
+      "latitude": 42.96025,
+      "longitude": 16.714763
+    },
+    {
+      "name": "Kordovon Beach Bar",
+      "latitude": 43.159327,
+      "longitude": 16.43492
+    },
+    {
+      "name": "Korner",
+      "latitude": 44.990098,
+      "longitude": 14.902021
+    },
+    {
+      "name": "Kostrena Plaza",
+      "latitude": 45.295198,
+      "longitude": 14.501979
+    },
+    {
+      "name": "Koš",
+      "latitude": 45.278683,
+      "longitude": 18.793719
+    },
+    {
+      "name": "Kraken bar",
+      "latitude": 44.298458,
+      "longitude": 15.086073
+    },
+    {
+      "name": "Kremenko beach bar",
+      "latitude": 45.332262,
+      "longitude": 14.303171
+    },
+    {
+      "name": "Krespo Bar",
+      "latitude": 43.547983,
+      "longitude": 16.336845
+    },
+    {
+      "name": "Krešimir",
+      "latitude": 43.822347,
+      "longitude": 15.592444
+    },
+    {
+      "name": "Krivi put",
+      "latitude": 45.804791,
+      "longitude": 15.965548
+    },
+    {
+      "name": "Krok",
+      "latitude": 43.107512,
+      "longitude": 17.339704
+    },
+    {
+      "name": "Krčma Kiš",
+      "latitude": 46.388407,
+      "longitude": 16.440498
+    },
+    {
+      "name": "Ksena",
+      "latitude": 45.752058,
+      "longitude": 16.230077
+    },
+    {
+      "name": "Kubus",
+      "latitude": 44.039951,
+      "longitude": 15.30838
+    },
+    {
+      "name": "Kuka Wine & Spirit Bar",
+      "latitude": 43.243284,
+      "longitude": 17.073773
+    },
+    {
+      "name": "Kula",
+      "latitude": 45.025549,
+      "longitude": 14.573837
+    },
+    {
+      "name": "Kulturni centar Mesnička",
+      "latitude": 45.815026,
+      "longitude": 15.971117
+    },
+    {
+      "name": "Kutak za Mutak",
+      "latitude": 44.967689,
+      "longitude": 14.777775
+    },
+    {
+      "name": "Kvarner",
+      "latitude": 45.297857,
+      "longitude": 14.27758
+    },
+    {
+      "name": "L Caffe",
+      "latitude": 44.132435,
+      "longitude": 15.239204
+    },
+    {
+      "name": "l'amour Pancake bar breakfast",
+      "latitude": 43.532859,
+      "longitude": 15.966733
+    },
+    {
+      "name": "la Bahia",
+      "latitude": 42.435094,
+      "longitude": 18.516989
+    },
+    {
+      "name": "La Barchetta",
+      "latitude": 44.927523,
+      "longitude": 13.802871
+    },
+    {
+      "name": "La Bodega",
+      "latitude": 42.640828,
+      "longitude": 18.110061
+    },
+    {
+      "name": "La Bodega",
+      "latitude": 45.812093,
+      "longitude": 15.974602
+    },
+    {
+      "name": "La Contish",
+      "latitude": 44.809351,
+      "longitude": 13.943103
+    },
+    {
+      "name": "La Musica bar",
+      "latitude": 45.779398,
+      "longitude": 15.995925
+    },
+    {
+      "name": "La playa",
+      "latitude": 43.821896,
+      "longitude": 15.586312
+    },
+    {
+      "name": "LA VITA NUOVA",
+      "latitude": 45.354677,
+      "longitude": 14.364042
+    },
+    {
+      "name": "Labadusa Bar",
+      "latitude": 43.481415,
+      "longitude": 16.245207
+    },
+    {
+      "name": "Lacroma Snack Bar",
+      "latitude": 42.625066,
+      "longitude": 18.122618
+    },
+    {
+      "name": "Laganini",
+      "latitude": 45.845811,
+      "longitude": 16.135034
+    },
+    {
+      "name": "Laganini Beach Club",
+      "latitude": 43.482038,
+      "longitude": 16.245668
+    },
+    {
+      "name": "Laganini Lounge Bar & Restaurant",
+      "latitude": 43.158233,
+      "longitude": 16.392127
+    },
+    {
+      "name": "Laguna",
+      "latitude": 45.803314,
+      "longitude": 15.95874
+    },
+    {
+      "name": "Lale's bar & more",
+      "latitude": 45.799648,
+      "longitude": 15.974433
+    },
+    {
+      "name": "Lambik",
+      "latitude": 43.058681,
+      "longitude": 16.199139
+    },
+    {
+      "name": "Lanterna",
+      "latitude": 43.366778,
+      "longitude": 16.933587
+    },
+    {
+      "name": "Lantina Beach",
+      "latitude": 43.190216,
+      "longitude": 16.692074
+    },
+    {
+      "name": "Lapidarium",
+      "latitude": 45.227585,
+      "longitude": 13.593279
+    },
+    {
+      "name": "Latino",
+      "latitude": 46.026413,
+      "longitude": 16.547652
+    },
+    {
+      "name": "Latino Bar",
+      "latitude": 45.826048,
+      "longitude": 16.042081
+    },
+    {
+      "name": "Latino Beach",
+      "latitude": 44.533545,
+      "longitude": 14.453467
+    },
+    {
+      "name": "Le Paon",
+      "latitude": 45.483774,
+      "longitude": 15.546355
+    },
+    {
+      "name": "Le Trika Beach Bar",
+      "latitude": 43.907483,
+      "longitude": 15.502334
+    },
+    {
+      "name": "Ledo Centar",
+      "latitude": 44.824217,
+      "longitude": 14.74161
+    },
+    {
+      "name": "Leggiero",
+      "latitude": 43.548531,
+      "longitude": 16.412989
+    },
+    {
+      "name": "Leggiero",
+      "latitude": 44.112189,
+      "longitude": 15.256156
+    },
+    {
+      "name": "Leggiero",
+      "latitude": 45.447985,
+      "longitude": 13.516498
+    },
+    {
+      "name": "Leggiero",
+      "latitude": 45.801786,
+      "longitude": 15.72556
+    },
+    {
+      "name": "Leggiero Bar",
+      "latitude": 45.160007,
+      "longitude": 17.998745
+    },
+    {
+      "name": "Lena‘s bar & cuisine",
+      "latitude": 43.515263,
+      "longitude": 16.483109
+    },
+    {
+      "name": "Leopold‘s Craft Beer Bar",
+      "latitude": 43.50805,
+      "longitude": 16.439127
+    },
+    {
+      "name": "Levante",
+      "latitude": 45.486416,
+      "longitude": 13.490512
+    },
+    {
+      "name": "Lešić Dimitri",
+      "latitude": 42.961708,
+      "longitude": 17.136943
+    },
+    {
+      "name": "LF",
+      "latitude": 45.541181,
+      "longitude": 18.042377
+    },
+    {
+      "name": "Li Pić",
+      "latitude": 45.801541,
+      "longitude": 15.710552
+    },
+    {
+      "name": "Liberty beach bar",
+      "latitude": 43.684151,
+      "longitude": 15.711007
+    },
+    {
+      "name": "Lido",
+      "latitude": 42.906151,
+      "longitude": 16.796621
+    },
+    {
+      "name": "Lido",
+      "latitude": 42.93774,
+      "longitude": 16.792098
+    },
+    {
+      "name": "Lido",
+      "latitude": 46.337862,
+      "longitude": 16.613632
+    },
+    {
+      "name": "Lido beach bar",
+      "latitude": 45.33473,
+      "longitude": 14.310044
+    },
+    {
+      "name": "LIFE'S A BEACH",
+      "latitude": 43.498673,
+      "longitude": 16.535453
+    },
+    {
+      "name": "Limbo cocktail bar",
+      "latitude": 45.08289,
+      "longitude": 13.632394
+    },
+    {
+      "name": "Little King Bar",
+      "latitude": 45.317746,
+      "longitude": 14.468723
+    },
+    {
+      "name": "Living",
+      "latitude": 45.372464,
+      "longitude": 18.952136
+    },
+    {
+      "name": "Lištun Bar",
+      "latitude": 43.292934,
+      "longitude": 17.020732
+    },
+    {
+      "name": "Lobby bar Pearl",
+      "latitude": 45.31717,
+      "longitude": 14.290896
+    },
+    {
+      "name": "Lola",
+      "latitude": 43.172878,
+      "longitude": 16.440769
+    },
+    {
+      "name": "Lola & Mare",
+      "latitude": 43.109332,
+      "longitude": 17.339304
+    },
+    {
+      "name": "Lola Konaba & Bar",
+      "latitude": 43.05931,
+      "longitude": 16.185886
+    },
+    {
+      "name": "London bar",
+      "latitude": 45.308646,
+      "longitude": 18.411218
+    },
+    {
+      "name": "Long Beach Bar",
+      "latitude": 45.123789,
+      "longitude": 14.79472
+    },
+    {
+      "name": "Lorcabar",
+      "latitude": 45.782746,
+      "longitude": 15.982269
+    },
+    {
+      "name": "Lord",
+      "latitude": 45.352093,
+      "longitude": 16.966981
+    },
+    {
+      "name": "Lost Bay Beach Bar",
+      "latitude": 44.893501,
+      "longitude": 13.805929
+    },
+    {
+      "name": "Lost Beach",
+      "latitude": 44.893357,
+      "longitude": 13.805734
+    },
+    {
+      "name": "Lostura",
+      "latitude": 43.816866,
+      "longitude": 15.577671
+    },
+    {
+      "name": "Lotus",
+      "latitude": 46.357312,
+      "longitude": 16.15831
+    },
+    {
+      "name": "Lounge Bar",
+      "latitude": 45.196506,
+      "longitude": 13.604374
+    },
+    {
+      "name": "Lounge bar Nautica",
+      "latitude": 45.320664,
+      "longitude": 13.563593
+    },
+    {
+      "name": "Love Bar",
+      "latitude": 42.660531,
+      "longitude": 18.08633
+    },
+    {
+      "name": "Lovec Bar",
+      "latitude": 46.519984,
+      "longitude": 16.270449
+    },
+    {
+      "name": "Lucky Bar",
+      "latitude": 45.107049,
+      "longitude": 13.713474
+    },
+    {
+      "name": "LUI",
+      "latitude": 45.036158,
+      "longitude": 14.567211
+    },
+    {
+      "name": "Luka",
+      "latitude": 45.80148,
+      "longitude": 17.746161
+    },
+    {
+      "name": "Luna",
+      "latitude": 46.163305,
+      "longitude": 15.871925
+    },
+    {
+      "name": "Lux cafe",
+      "latitude": 45.812577,
+      "longitude": 15.975351
+    },
+    {
+      "name": "M&J",
+      "latitude": 43.102535,
+      "longitude": 17.346153
+    },
+    {
+      "name": "M-eddy",
+      "latitude": 44.480433,
+      "longitude": 14.913566
+    },
+    {
+      "name": "Macando",
+      "latitude": 45.830188,
+      "longitude": 17.383458
+    },
+    {
+      "name": "Maestral beach bar",
+      "latitude": 44.269409,
+      "longitude": 15.478619
+    },
+    {
+      "name": "Makarano",
+      "latitude": 43.308071,
+      "longitude": 17.000286
+    },
+    {
+      "name": "Mala luka",
+      "latitude": 44.049527,
+      "longitude": 15.211599
+    },
+    {
+      "name": "Mali Paris",
+      "latitude": 46.523949,
+      "longitude": 16.370368
+    },
+    {
+      "name": "Mali park",
+      "latitude": 46.224337,
+      "longitude": 16.119131
+    },
+    {
+      "name": "Manana",
+      "latitude": 43.301535,
+      "longitude": 17.010384
+    },
+    {
+      "name": "Mango",
+      "latitude": 44.138718,
+      "longitude": 15.213798
+    },
+    {
+      "name": "Manuel Cafe",
+      "latitude": 45.117635,
+      "longitude": 14.499618
+    },
+    {
+      "name": "Manufaktura",
+      "latitude": 45.289561,
+      "longitude": 18.806095
+    },
+    {
+      "name": "Maraschino bar",
+      "latitude": 44.113919,
+      "longitude": 15.232737
+    },
+    {
+      "name": "Marcvs Marvlvs Caffe Bar",
+      "latitude": 43.508545,
+      "longitude": 16.440981
+    },
+    {
+      "name": "maredo beach bar",
+      "latitude": 42.655236,
+      "longitude": 18.070476
+    },
+    {
+      "name": "Mareta",
+      "latitude": 44.083993,
+      "longitude": 15.186521
+    },
+    {
+      "name": "Mareta Maris Doo",
+      "latitude": 44.285777,
+      "longitude": 15.058115
+    },
+    {
+      "name": "MARIN",
+      "latitude": 44.273804,
+      "longitude": 15.477505
+    },
+    {
+      "name": "Marittimo",
+      "latitude": 44.959784,
+      "longitude": 14.408185
+    },
+    {
+      "name": "Marittimo Club",
+      "latitude": 45.677581,
+      "longitude": 15.655914
+    },
+    {
+      "name": "Marjan",
+      "latitude": 46.363029,
+      "longitude": 16.181826
+    },
+    {
+      "name": "Marota",
+      "latitude": 45.1751,
+      "longitude": 14.68704
+    },
+    {
+      "name": "Maslina",
+      "latitude": 45.173609,
+      "longitude": 14.691363
+    },
+    {
+      "name": "Masline Bar",
+      "latitude": 43.172458,
+      "longitude": 17.189551
+    },
+    {
+      "name": "MASSAI",
+      "latitude": 45.313603,
+      "longitude": 18.412912
+    },
+    {
+      "name": "Massimo",
+      "latitude": 42.962618,
+      "longitude": 17.136399
+    },
+    {
+      "name": "Mate Beach Bar",
+      "latitude": 42.928366,
+      "longitude": 17.003284
+    },
+    {
+      "name": "Matijasic",
+      "latitude": 45.324982,
+      "longitude": 13.899354
+    },
+    {
+      "name": "Matko Bar",
+      "latitude": 46.554071,
+      "longitude": 16.376058
+    },
+    {
+      "name": "Matrix",
+      "latitude": 46.229559,
+      "longitude": 16.128963
+    },
+    {
+      "name": "Mavra",
+      "latitude": 44.063189,
+      "longitude": 15.210838
+    },
+    {
+      "name": "Max",
+      "latitude": 45.389228,
+      "longitude": 14.466586
+    },
+    {
+      "name": "Max Caffe Bar",
+      "latitude": 44.109847,
+      "longitude": 15.235925
+    },
+    {
+      "name": "Mačak",
+      "latitude": 43.499654,
+      "longitude": 16.330454
+    },
+    {
+      "name": "Mačić",
+      "latitude": 43.370185,
+      "longitude": 16.923999
+    },
+    {
+      "name": "ME GUSTA Beach Food & Bar",
+      "latitude": 45.29434,
+      "longitude": 14.501873
+    },
+    {
+      "name": "Mea Culpa",
+      "latitude": 46.308996,
+      "longitude": 16.336143
+    },
+    {
+      "name": "MEDANE BEACH - beach bar & fast food",
+      "latitude": 45.007826,
+      "longitude": 14.623882
+    },
+    {
+      "name": "Medena",
+      "latitude": 45.835272,
+      "longitude": 17.388601
+    },
+    {
+      "name": "Medina Škrinja Pub",
+      "latitude": 46.306771,
+      "longitude": 16.33826
+    },
+    {
+      "name": "Mediteranneo Beach Bar",
+      "latitude": 44.963172,
+      "longitude": 14.392885
+    },
+    {
+      "name": "Mediterraneo",
+      "latitude": 44.805139,
+      "longitude": 13.954495
+    },
+    {
+      "name": "Melin",
+      "latitude": 45.816743,
+      "longitude": 15.976095
+    },
+    {
+      "name": "Meline",
+      "latitude": 45.150336,
+      "longitude": 14.599447
+    },
+    {
+      "name": "Metalac",
+      "latitude": 46.386356,
+      "longitude": 16.423801
+    },
+    {
+      "name": "Metropolis",
+      "latitude": 45.343842,
+      "longitude": 14.385001
+    },
+    {
+      "name": "Metropolis beach bar",
+      "latitude": 45.305321,
+      "longitude": 14.487337
+    },
+    {
+      "name": "Michigen",
+      "latitude": 43.271871,
+      "longitude": 17.05
+    },
+    {
+      "name": "Miho",
+      "latitude": 44.824403,
+      "longitude": 13.89599
+    },
+    {
+      "name": "Milk",
+      "latitude": 42.640215,
+      "longitude": 18.109304
+    },
+    {
+      "name": "Millstone",
+      "latitude": 43.589703,
+      "longitude": 16.520605
+    },
+    {
+      "name": "Minor Beach Bar",
+      "latitude": 44.951582,
+      "longitude": 13.782136
+    },
+    {
+      "name": "Mira",
+      "latitude": 43.390798,
+      "longitude": 17.238996
+    },
+    {
+      "name": "Mirna koliba",
+      "latitude": 45.821096,
+      "longitude": 16.01857
+    },
+    {
+      "name": "Mixx",
+      "latitude": 45.810461,
+      "longitude": 15.966829
+    },
+    {
+      "name": "Miškec",
+      "latitude": 45.811398,
+      "longitude": 15.973535
+    },
+    {
+      "name": "Modrulj",
+      "latitude": 43.387543,
+      "longitude": 16.460331
+    },
+    {
+      "name": "Mogambo",
+      "latitude": 43.914991,
+      "longitude": 15.489092
+    },
+    {
+      "name": "Mohito bar",
+      "latitude": 43.149958,
+      "longitude": 16.512406
+    },
+    {
+      "name": "Mohito's bar",
+      "latitude": 45.872247,
+      "longitude": 15.825563
+    },
+    {
+      "name": "Mojito",
+      "latitude": 43.009034,
+      "longitude": 17.266785
+    },
+    {
+      "name": "Mojito",
+      "latitude": 43.012559,
+      "longitude": 17.468838
+    },
+    {
+      "name": "Mojito bar",
+      "latitude": 45.849385,
+      "longitude": 15.810635
+    },
+    {
+      "name": "Mojo bar",
+      "latitude": 45.81227,
+      "longitude": 15.984468
+    },
+    {
+      "name": "Molino bar & bistro",
+      "latitude": 45.820019,
+      "longitude": 15.977323
+    },
+    {
+      "name": "Molo",
+      "latitude": 45.38265,
+      "longitude": 13.537844
+    },
+    {
+      "name": "Monaco",
+      "latitude": 43.385186,
+      "longitude": 16.548268
+    },
+    {
+      "name": "Monaco",
+      "latitude": 45.700216,
+      "longitude": 18.598969
+    },
+    {
+      "name": "Monaco",
+      "latitude": 46.160877,
+      "longitude": 15.749857
+    },
+    {
+      "name": "Monaco bar",
+      "latitude": 45.785879,
+      "longitude": 15.952792
+    },
+    {
+      "name": "Mondeo",
+      "latitude": 45.681277,
+      "longitude": 18.404808
+    },
+    {
+      "name": "Monikas Winebar",
+      "latitude": 43.508605,
+      "longitude": 16.434785
+    },
+    {
+      "name": "Monkey bar",
+      "latitude": 43.511835,
+      "longitude": 16.46204
+    },
+    {
+      "name": "Monokini",
+      "latitude": 45.337256,
+      "longitude": 14.307968
+    },
+    {
+      "name": "Monte Paradiso",
+      "latitude": 44.863109,
+      "longitude": 13.84479
+    },
+    {
+      "name": "Monty's beach bar",
+      "latitude": 44.748317,
+      "longitude": 14.780556
+    },
+    {
+      "name": "Moon bar",
+      "latitude": 43.508241,
+      "longitude": 16.450989
+    },
+    {
+      "name": "Mornar",
+      "latitude": 44.658602,
+      "longitude": 14.396712
+    },
+    {
+      "name": "Moro Beach Stupe",
+      "latitude": 42.963064,
+      "longitude": 17.18835
+    },
+    {
+      "name": "Mosquito bar",
+      "latitude": 45.300258,
+      "longitude": 14.491321
+    },
+    {
+      "name": "Mount Everest",
+      "latitude": 45.831514,
+      "longitude": 17.387233
+    },
+    {
+      "name": "Movie bar",
+      "latitude": 45.074477,
+      "longitude": 14.163618
+    },
+    {
+      "name": "Mozart",
+      "latitude": 43.313747,
+      "longitude": 16.996301
+    },
+    {
+      "name": "Mr. Fogg",
+      "latitude": 45.812418,
+      "longitude": 15.988135
+    },
+    {
+      "name": "MTT Caffe Bar",
+      "latitude": 45.316551,
+      "longitude": 14.471481
+    },
+    {
+      "name": "Mul Beach Bar",
+      "latitude": 45.121218,
+      "longitude": 14.519697
+    },
+    {
+      "name": "Mulini Beach",
+      "latitude": 45.072286,
+      "longitude": 13.635815
+    },
+    {
+      "name": "Mulini Beach Bar",
+      "latitude": 45.008437,
+      "longitude": 13.719804
+    },
+    {
+      "name": "Mur pool bar",
+      "latitude": 43.963527,
+      "longitude": 15.423058
+    },
+    {
+      "name": "Music Bar",
+      "latitude": 43.18827,
+      "longitude": 17.159488
+    },
+    {
+      "name": "Music bar Pino",
+      "latitude": 43.502019,
+      "longitude": 16.459819
+    },
+    {
+      "name": "Music hall",
+      "latitude": 45.71621,
+      "longitude": 16.071868
+    },
+    {
+      "name": "Mustanf",
+      "latitude": 45.229668,
+      "longitude": 18.742315
+    },
+    {
+      "name": "Mustačo Bar",
+      "latitude": 43.163656,
+      "longitude": 16.456131
+    },
+    {
+      "name": "My bar",
+      "latitude": 45.797229,
+      "longitude": 15.935934
+    },
+    {
+      "name": "My Old Lady",
+      "latitude": 45.320747,
+      "longitude": 13.565096
+    },
+    {
+      "name": "Mystic",
+      "latitude": 45.668728,
+      "longitude": 16.101376
+    },
+    {
+      "name": "Mystic Pub",
+      "latitude": 45.455442,
+      "longitude": 13.519089
+    },
+    {
+      "name": "Na vuglu",
+      "latitude": 46.3825,
+      "longitude": 16.307061
+    },
+    {
+      "name": "Nataša Beach Bar",
+      "latitude": 43.217064,
+      "longitude": 17.108938
+    },
+    {
+      "name": "Nautika",
+      "latitude": 43.172604,
+      "longitude": 16.440351
+    },
+    {
+      "name": "Nautilus",
+      "latitude": 43.991775,
+      "longitude": 15.325341
+    },
+    {
+      "name": "Navigator",
+      "latitude": 43.816072,
+      "longitude": 15.667789
+    },
+    {
+      "name": "NEC",
+      "latitude": 45.788231,
+      "longitude": 15.95493
+    },
+    {
+      "name": "Nehaj 2",
+      "latitude": 43.546004,
+      "longitude": 16.328232
+    },
+    {
+      "name": "Neman Pojma",
+      "latitude": 43.125451,
+      "longitude": 17.18193
+    },
+    {
+      "name": "Nemo",
+      "latitude": 45.16644,
+      "longitude": 14.545808
+    },
+    {
+      "name": "Neptun",
+      "latitude": 44.819041,
+      "longitude": 14.350506
+    },
+    {
+      "name": "Neretva KITE Boarding",
+      "latitude": 43.01223,
+      "longitude": 17.469108
+    },
+    {
+      "name": "Neretvanka",
+      "latitude": 43.241101,
+      "longitude": 17.076483
+    },
+    {
+      "name": "Neverin",
+      "latitude": 43.309482,
+      "longitude": 17.000019
+    },
+    {
+      "name": "Night Bar \"Šćeta\"",
+      "latitude": 42.905963,
+      "longitude": 16.859523
+    },
+    {
+      "name": "Night bar Flex",
+      "latitude": 44.528281,
+      "longitude": 14.464735
+    },
+    {
+      "name": "Night bar KAMELEON",
+      "latitude": 44.658963,
+      "longitude": 14.397553
+    },
+    {
+      "name": "Night club \"Ernest\"",
+      "latitude": 42.906357,
+      "longitude": 16.860481
+    },
+    {
+      "name": "Noa",
+      "latitude": 43.631272,
+      "longitude": 15.951714
+    },
+    {
+      "name": "Noa Beach Club 1862",
+      "latitude": 44.538397,
+      "longitude": 14.916136
+    },
+    {
+      "name": "Nobaku bar",
+      "latitude": 44.300078,
+      "longitude": 15.091115
+    },
+    {
+      "name": "Nomad",
+      "latitude": 42.892619,
+      "longitude": 17.454635
+    },
+    {
+      "name": "Nonenina",
+      "latitude": 42.640174,
+      "longitude": 18.110307
+    },
+    {
+      "name": "Nono Toni",
+      "latitude": 43.181322,
+      "longitude": 16.672332
+    },
+    {
+      "name": "Noor bar",
+      "latitude": 43.508724,
+      "longitude": 16.439627
+    },
+    {
+      "name": "Nou Camp",
+      "latitude": 45.11101,
+      "longitude": 15.586571
+    },
+    {
+      "name": "Novi val Pizzeria",
+      "latitude": 45.125054,
+      "longitude": 14.793427
+    },
+    {
+      "name": "Noćni klub Navalis",
+      "latitude": 45.153381,
+      "longitude": 18.014965
+    },
+    {
+      "name": "NUbar",
+      "latitude": 45.808249,
+      "longitude": 15.956104
+    },
+    {
+      "name": "Oaza",
+      "latitude": 44.529679,
+      "longitude": 14.893493
+    },
+    {
+      "name": "Ocean Wind",
+      "latitude": 44.256392,
+      "longitude": 15.463562
+    },
+    {
+      "name": "Octopus",
+      "latitude": 43.508901,
+      "longitude": 16.46413
+    },
+    {
+      "name": "Oio Vivo & Wine",
+      "latitude": 45.813874,
+      "longitude": 15.981877
+    },
+    {
+      "name": "Old Miner",
+      "latitude": 45.811968,
+      "longitude": 15.974385
+    },
+    {
+      "name": "Old School",
+      "latitude": 43.517631,
+      "longitude": 16.45009
+    },
+    {
+      "name": "Old School",
+      "latitude": 45.909735,
+      "longitude": 16.853553
+    },
+    {
+      "name": "Olife Beach Club",
+      "latitude": 43.329894,
+      "longitude": 16.4367
+    },
+    {
+      "name": "Oliva",
+      "latitude": 45.023455,
+      "longitude": 14.590439
+    },
+    {
+      "name": "Oliva",
+      "latitude": 45.126311,
+      "longitude": 13.626132
+    },
+    {
+      "name": "Olive Bar",
+      "latitude": 45.592996,
+      "longitude": 17.222608
+    },
+    {
+      "name": "Olly",
+      "latitude": 43.506047,
+      "longitude": 16.465394
+    },
+    {
+      "name": "Omega",
+      "latitude": 45.804964,
+      "longitude": 17.387738
+    },
+    {
+      "name": "On The Rocks",
+      "latitude": 42.6589,
+      "longitude": 18.058391
+    },
+    {
+      "name": "One Second",
+      "latitude": 45.341045,
+      "longitude": 13.544845
+    },
+    {
+      "name": "Onix",
+      "latitude": 46.512687,
+      "longitude": 16.438952
+    },
+    {
+      "name": "Oprna beach bar",
+      "latitude": 44.967234,
+      "longitude": 14.661805
+    },
+    {
+      "name": "Orange bar",
+      "latitude": 45.561302,
+      "longitude": 18.70647
+    },
+    {
+      "name": "Orion",
+      "latitude": 43.044216,
+      "longitude": 16.089291
+    },
+    {
+      "name": "Orion",
+      "latitude": 44.036271,
+      "longitude": 15.247621
+    },
+    {
+      "name": "Osiris",
+      "latitude": 45.714708,
+      "longitude": 16.074149
+    },
+    {
+      "name": "Otok ljubavi",
+      "latitude": 45.423763,
+      "longitude": 15.488556
+    },
+    {
+      "name": "Outpost",
+      "latitude": 45.345996,
+      "longitude": 16.967679
+    },
+    {
+      "name": "Oštarija Ferlin",
+      "latitude": 45.088276,
+      "longitude": 13.881674
+    },
+    {
+      "name": "P. J. Beach bar \"Siesta\"",
+      "latitude": 43.676687,
+      "longitude": 15.947574
+    },
+    {
+      "name": "Pajol Bar",
+      "latitude": 45.312413,
+      "longitude": 14.473341
+    },
+    {
+      "name": "Palace Beach",
+      "latitude": 45.181351,
+      "longitude": 14.681426
+    },
+    {
+      "name": "Paladin",
+      "latitude": 46.390465,
+      "longitude": 16.435659
+    },
+    {
+      "name": "Palazzo",
+      "latitude": 44.894609,
+      "longitude": 13.817899
+    },
+    {
+      "name": "Palačinka bar Zlatine domaće poslastice",
+      "latitude": 44.301455,
+      "longitude": 15.082576
+    },
+    {
+      "name": "Palladium",
+      "latitude": 45.813833,
+      "longitude": 15.976358
+    },
+    {
+      "name": "Paltana Bar",
+      "latitude": 44.821135,
+      "longitude": 13.864499
+    },
+    {
+      "name": "Pan",
+      "latitude": 45.783344,
+      "longitude": 17.979159
+    },
+    {
+      "name": "Pancakes Bar",
+      "latitude": 43.239462,
+      "longitude": 17.076968
+    },
+    {
+      "name": "Pantera Bar Čazma",
+      "latitude": 45.761369,
+      "longitude": 16.633669
+    },
+    {
+      "name": "Papagaj",
+      "latitude": 45.62216,
+      "longitude": 18.687646
+    },
+    {
+      "name": "Paparazzi",
+      "latitude": 43.18138,
+      "longitude": 16.670643
+    },
+    {
+      "name": "Papaya",
+      "latitude": 43.500915,
+      "longitude": 16.259121
+    },
+    {
+      "name": "Papaya",
+      "latitude": 44.538963,
+      "longitude": 14.914056
+    },
+    {
+      "name": "Papillon",
+      "latitude": 45.149641,
+      "longitude": 13.605412
+    },
+    {
+      "name": "Paradiso",
+      "latitude": 43.958228,
+      "longitude": 15.429331
+    },
+    {
+      "name": "Paradiso",
+      "latitude": 45.833532,
+      "longitude": 17.382273
+    },
+    {
+      "name": "Paradiso Beach Bar",
+      "latitude": 44.948245,
+      "longitude": 13.785515
+    },
+    {
+      "name": "Paradiso beach bar",
+      "latitude": 45.06833,
+      "longitude": 13.631621
+    },
+    {
+      "name": "Parentino",
+      "latitude": 45.227285,
+      "longitude": 13.591319
+    },
+    {
+      "name": "Park Bar",
+      "latitude": 45.716078,
+      "longitude": 16.068612
+    },
+    {
+      "name": "Park Caffe",
+      "latitude": 45.798462,
+      "longitude": 17.497363
+    },
+    {
+      "name": "Park's Caffe Sajmište",
+      "latitude": 46.388649,
+      "longitude": 16.446113
+    },
+    {
+      "name": "Passage",
+      "latitude": 45.312565,
+      "longitude": 18.412014
+    },
+    {
+      "name": "Pataya bar",
+      "latitude": 45.780988,
+      "longitude": 15.935167
+    },
+    {
+      "name": "Patrix Bar",
+      "latitude": 46.389106,
+      "longitude": 16.443958
+    },
+    {
+      "name": "Pavi Jadran 2",
+      "latitude": 44.084679,
+      "longitude": 15.183102
+    },
+    {
+      "name": "Pelikan Beach Bar i Škrapa grill",
+      "latitude": 44.920232,
+      "longitude": 14.024819
+    },
+    {
+      "name": "Pelivan",
+      "latitude": 45.227417,
+      "longitude": 13.59507
+    },
+    {
+      "name": "Pelz bar",
+      "latitude": 45.813179,
+      "longitude": 15.942255
+    },
+    {
+      "name": "Pen22",
+      "latitude": 45.812191,
+      "longitude": 15.977288
+    },
+    {
+      "name": "Peppers cafe & noćni bar",
+      "latitude": 45.805736,
+      "longitude": 15.952973
+    },
+    {
+      "name": "Perenje bar",
+      "latitude": 44.029033,
+      "longitude": 15.139572
+    },
+    {
+      "name": "Pergoletta",
+      "latitude": 43.503934,
+      "longitude": 16.429417
+    },
+    {
+      "name": "Pervino Wine Bar",
+      "latitude": 45.316557,
+      "longitude": 13.562591
+    },
+    {
+      "name": "Petrac",
+      "latitude": 44.749728,
+      "longitude": 14.774852
+    },
+    {
+      "name": "Petrus",
+      "latitude": 43.741456,
+      "longitude": 15.884197
+    },
+    {
+      "name": "PHANAS beach bar",
+      "latitude": 45.294485,
+      "longitude": 14.500112
+    },
+    {
+      "name": "Phanas pub",
+      "latitude": 45.325388,
+      "longitude": 14.442579
+    },
+    {
+      "name": "Phoenix",
+      "latitude": 45.809404,
+      "longitude": 17.390813
+    },
+    {
+      "name": "Piano bar",
+      "latitude": 42.64836,
+      "longitude": 18.088441
+    },
+    {
+      "name": "Piazzetta Bar",
+      "latitude": 45.082993,
+      "longitude": 13.632564
+    },
+    {
+      "name": "Piccolo",
+      "latitude": 43.504797,
+      "longitude": 16.454853
+    },
+    {
+      "name": "Pietas julia",
+      "latitude": 44.875557,
+      "longitude": 13.848195
+    },
+    {
+      "name": "Piknik bar",
+      "latitude": 46.118531,
+      "longitude": 15.85138
+    },
+    {
+      "name": "Pinocchio's gin house",
+      "latitude": 45.800509,
+      "longitude": 15.95359
+    },
+    {
+      "name": "Pionirček",
+      "latitude": 46.075655,
+      "longitude": 15.678809
+    },
+    {
+      "name": "Piramida",
+      "latitude": 45.37058,
+      "longitude": 18.957328
+    },
+    {
+      "name": "Pirates Tavern",
+      "latitude": 44.953531,
+      "longitude": 13.783709
+    },
+    {
+      "name": "Pirkotova Lula ex. Bane",
+      "latitude": 43.045486,
+      "longitude": 16.089446
+    },
+    {
+      "name": "Piskač",
+      "latitude": 46.224076,
+      "longitude": 16.123762
+    },
+    {
+      "name": "Pivnica Gaj",
+      "latitude": 45.809772,
+      "longitude": 16.064249
+    },
+    {
+      "name": "Pjaca",
+      "latitude": 43.172546,
+      "longitude": 16.441637
+    },
+    {
+      "name": "Pjaceta bar",
+      "latitude": 43.509006,
+      "longitude": 16.43797
+    },
+    {
+      "name": "Pjera Beach Bar",
+      "latitude": 44.75756,
+      "longitude": 14.722681
+    },
+    {
+      "name": "Plac",
+      "latitude": 44.556395,
+      "longitude": 14.883565
+    },
+    {
+      "name": "Plan B",
+      "latitude": 45.555771,
+      "longitude": 18.685326
+    },
+    {
+      "name": "Plasica",
+      "latitude": 44.556663,
+      "longitude": 14.882686
+    },
+    {
+      "name": "Plava kava",
+      "latitude": 43.522018,
+      "longitude": 16.433573
+    },
+    {
+      "name": "Plava ptica",
+      "latitude": 45.809736,
+      "longitude": 15.984518
+    },
+    {
+      "name": "Plavac",
+      "latitude": 45.33737,
+      "longitude": 16.975578
+    },
+    {
+      "name": "Plavi 9",
+      "latitude": 45.338584,
+      "longitude": 16.08984
+    },
+    {
+      "name": "Plavi 9",
+      "latitude": 46.226937,
+      "longitude": 15.9794
+    },
+    {
+      "name": "Plavi Jadran",
+      "latitude": 45.835265,
+      "longitude": 17.387246
+    },
+    {
+      "name": "Plavi val",
+      "latitude": 43.359685,
+      "longitude": 16.945436
+    },
+    {
+      "name": "Playa",
+      "latitude": 45.453546,
+      "longitude": 13.517995
+    },
+    {
+      "name": "Plaza Bar",
+      "latitude": 45.814647,
+      "longitude": 15.999008
+    },
+    {
+      "name": "Plaža Školjić",
+      "latitude": 45.099504,
+      "longitude": 14.842211
+    },
+    {
+      "name": "Plus",
+      "latitude": 45.284894,
+      "longitude": 18.816137
+    },
+    {
+      "name": "Pocket",
+      "latitude": 45.793194,
+      "longitude": 15.918718
+    },
+    {
+      "name": "Poco Loco",
+      "latitude": 42.64008,
+      "longitude": 18.110078
+    },
+    {
+      "name": "Poco Loco",
+      "latitude": 45.325314,
+      "longitude": 14.442261
+    },
+    {
+      "name": "Pod Lipom",
+      "latitude": 45.709649,
+      "longitude": 16.473344
+    },
+    {
+      "name": "Pod Trsom",
+      "latitude": 45.611534,
+      "longitude": 15.96558
+    },
+    {
+      "name": "Podgora",
+      "latitude": 45.966814,
+      "longitude": 15.971592
+    },
+    {
+      "name": "Podroom",
+      "latitude": 46.390169,
+      "longitude": 16.441024
+    },
+    {
+      "name": "Point",
+      "latitude": 45.811007,
+      "longitude": 17.386336
+    },
+    {
+      "name": "Polet",
+      "latitude": 45.633817,
+      "longitude": 16.115468
+    },
+    {
+      "name": "Poli Malin",
+      "latitude": 45.248643,
+      "longitude": 13.961004
+    },
+    {
+      "name": "Polidor Beach",
+      "latitude": 45.183818,
+      "longitude": 13.598191
+    },
+    {
+      "name": "Pollo",
+      "latitude": 45.684065,
+      "longitude": 18.402439
+    },
+    {
+      "name": "Pomaloo",
+      "latitude": 45.811664,
+      "longitude": 15.945885
+    },
+    {
+      "name": "Pomidor Cafe and bar",
+      "latitude": 44.854444,
+      "longitude": 13.830308
+    },
+    {
+      "name": "Pomnaldo",
+      "latitude": 43.807034,
+      "longitude": 15.854547
+    },
+    {
+      "name": "Ponat",
+      "latitude": 42.663881,
+      "longitude": 18.068958
+    },
+    {
+      "name": "Pool bar",
+      "latitude": 42.435425,
+      "longitude": 18.516642
+    },
+    {
+      "name": "Pool Bar",
+      "latitude": 43.260075,
+      "longitude": 16.638292
+    },
+    {
+      "name": "Pool bar",
+      "latitude": 43.506687,
+      "longitude": 16.432772
+    },
+    {
+      "name": "Pool Bar",
+      "latitude": 45.139934,
+      "longitude": 13.60237
+    },
+    {
+      "name": "Pool Bar",
+      "latitude": 45.297943,
+      "longitude": 13.578902
+    },
+    {
+      "name": "Pool bar",
+      "latitude": 45.317472,
+      "longitude": 14.290897
+    },
+    {
+      "name": "Pool legends",
+      "latitude": 45.806775,
+      "longitude": 15.961417
+    },
+    {
+      "name": "Porta",
+      "latitude": 44.111816,
+      "longitude": 15.227213
+    },
+    {
+      "name": "Portich Beach Bar",
+      "latitude": 44.779205,
+      "longitude": 13.91658
+    },
+    {
+      "name": "Porto",
+      "latitude": 43.516815,
+      "longitude": 16.250835
+    },
+    {
+      "name": "Porto",
+      "latitude": 45.200931,
+      "longitude": 14.655218
+    },
+    {
+      "name": "Porto Bar",
+      "latitude": 45.280378,
+      "longitude": 18.791864
+    },
+    {
+      "name": "Poseidon",
+      "latitude": 42.745321,
+      "longitude": 16.825085
+    },
+    {
+      "name": "Post bar",
+      "latitude": 43.509949,
+      "longitude": 16.438956
+    },
+    {
+      "name": "Potočine",
+      "latitude": 43.259939,
+      "longitude": 16.640714
+    },
+    {
+      "name": "Pp",
+      "latitude": 43.516107,
+      "longitude": 16.433415
+    },
+    {
+      "name": "Prandau",
+      "latitude": 45.661937,
+      "longitude": 18.413923
+    },
+    {
+      "name": "President Bar",
+      "latitude": 45.357042,
+      "longitude": 14.488508
+    },
+    {
+      "name": "Pri Nami",
+      "latitude": 45.813817,
+      "longitude": 15.975231
+    },
+    {
+      "name": "Principessa",
+      "latitude": 45.831995,
+      "longitude": 17.387723
+    },
+    {
+      "name": "Program",
+      "latitude": 45.81206,
+      "longitude": 15.989248
+    },
+    {
+      "name": "Prohibition bar",
+      "latitude": 45.152772,
+      "longitude": 18.013731
+    },
+    {
+      "name": "Providenca",
+      "latitude": 44.465055,
+      "longitude": 14.962935
+    },
+    {
+      "name": "Prvi Žal",
+      "latitude": 42.924753,
+      "longitude": 17.173178
+    },
+    {
+      "name": "Psk",
+      "latitude": 42.651675,
+      "longitude": 18.091786
+    },
+    {
+      "name": "Pub Dubrovnik",
+      "latitude": 42.639799,
+      "longitude": 18.110002
+    },
+    {
+      "name": "Public pub",
+      "latitude": 45.326217,
+      "longitude": 14.443801
+    },
+    {
+      "name": "Punta Cabana",
+      "latitude": 45.065839,
+      "longitude": 13.63065
+    },
+    {
+      "name": "Purple bar",
+      "latitude": 45.810105,
+      "longitude": 16.004984
+    },
+    {
+      "name": "Qart Bar",
+      "latitude": 43.513246,
+      "longitude": 16.47216
+    },
+    {
+      "name": "Quorum",
+      "latitude": 45.30139,
+      "longitude": 14.490104
+    },
+    {
+      "name": "R&P",
+      "latitude": 44.753695,
+      "longitude": 14.767226
+    },
+    {
+      "name": "Rajski vrt",
+      "latitude": 42.624188,
+      "longitude": 18.121016
+    },
+    {
+      "name": "Rakhia bar",
+      "latitude": 45.327249,
+      "longitude": 14.443928
+    },
+    {
+      "name": "Rakhia bar",
+      "latitude": 45.816686,
+      "longitude": 15.976394
+    },
+    {
+      "name": "Rakija bar",
+      "latitude": 45.790189,
+      "longitude": 15.921805
+    },
+    {
+      "name": "Rakijarnica",
+      "latitude": 43.754187,
+      "longitude": 15.785269
+    },
+    {
+      "name": "Raqia rebublic",
+      "latitude": 45.791632,
+      "longitude": 15.957185
+    },
+    {
+      "name": "Rebus",
+      "latitude": 43.734658,
+      "longitude": 15.891303
+    },
+    {
+      "name": "RED BARON",
+      "latitude": 43.515375,
+      "longitude": 16.442339
+    },
+    {
+      "name": "Red Nose",
+      "latitude": 44.046216,
+      "longitude": 15.31077
+    },
+    {
+      "name": "Refresh",
+      "latitude": 45.685319,
+      "longitude": 16.953244
+    },
+    {
+      "name": "Reful",
+      "latitude": 43.82167,
+      "longitude": 15.584554
+    },
+    {
+      "name": "Regular Bar",
+      "latitude": 45.812669,
+      "longitude": 15.965715
+    },
+    {
+      "name": "Restaurant Bono",
+      "latitude": 42.657181,
+      "longitude": 18.077822
+    },
+    {
+      "name": "Revera",
+      "latitude": 45.083653,
+      "longitude": 13.632812
+    },
+    {
+      "name": "Revolution",
+      "latitude": 45.290287,
+      "longitude": 18.808696
+    },
+    {
+      "name": "Ribički dom",
+      "latitude": 46.244672,
+      "longitude": 16.926056
+    },
+    {
+      "name": "Ridimutak Beach",
+      "latitude": 44.673897,
+      "longitude": 14.396164
+    },
+    {
+      "name": "Rigo",
+      "latitude": 45.316523,
+      "longitude": 13.559299
+    },
+    {
+      "name": "Rim",
+      "latitude": 45.772678,
+      "longitude": 18.607912
+    },
+    {
+      "name": "Rio bar",
+      "latitude": 44.113262,
+      "longitude": 15.225396
+    },
+    {
+      "name": "Ritz 24",
+      "latitude": 45.372721,
+      "longitude": 14.349297
+    },
+    {
+      "name": "Riva",
+      "latitude": 43.181168,
+      "longitude": 16.67143
+    },
+    {
+      "name": "Riva",
+      "latitude": 43.358522,
+      "longitude": 16.94766
+    },
+    {
+      "name": "Riviera",
+      "latitude": 45.081501,
+      "longitude": 13.632626
+    },
+    {
+      "name": "Robinson Crusoe Beach Bar",
+      "latitude": 45.297962,
+      "longitude": 13.569427
+    },
+    {
+      "name": "Rock Bar King",
+      "latitude": 45.310135,
+      "longitude": 18.400916
+    },
+    {
+      "name": "Rock Caffe Slunj",
+      "latitude": 45.127819,
+      "longitude": 15.586539
+    },
+    {
+      "name": "Rock Caffe Walkow",
+      "latitude": 45.282476,
+      "longitude": 18.800314
+    },
+    {
+      "name": "Rockatansky",
+      "latitude": 43.293206,
+      "longitude": 17.0211
+    },
+    {
+      "name": "Roko Caffe",
+      "latitude": 45.560488,
+      "longitude": 18.668606
+    },
+    {
+      "name": "Roma",
+      "latitude": 45.363568,
+      "longitude": 14.324378
+    },
+    {
+      "name": "Romeo bar",
+      "latitude": 45.326706,
+      "longitude": 14.44378
+    },
+    {
+      "name": "Roses",
+      "latitude": 45.996107,
+      "longitude": 15.915007
+    },
+    {
+      "name": "Rotor bar",
+      "latitude": 45.799436,
+      "longitude": 15.721896
+    },
+    {
+      "name": "Route 66",
+      "latitude": 45.869154,
+      "longitude": 15.754102
+    },
+    {
+      "name": "Rožica",
+      "latitude": 45.312789,
+      "longitude": 14.286456
+    },
+    {
+      "name": "S BAR",
+      "latitude": 45.351889,
+      "longitude": 14.337154
+    },
+    {
+      "name": "Sabrage",
+      "latitude": 45.331378,
+      "longitude": 14.456617
+    },
+    {
+      "name": "Safari Bar",
+      "latitude": 44.769523,
+      "longitude": 13.91025
+    },
+    {
+      "name": "Saint & Sinner beachclub",
+      "latitude": 45.196254,
+      "longitude": 13.581854
+    },
+    {
+      "name": "Saint George",
+      "latitude": 44.939776,
+      "longitude": 14.922003
+    },
+    {
+      "name": "Sajmište",
+      "latitude": 46.31647,
+      "longitude": 16.340493
+    },
+    {
+      "name": "Sali",
+      "latitude": 44.81705,
+      "longitude": 13.9765
+    },
+    {
+      "name": "San",
+      "latitude": 45.381104,
+      "longitude": 18.957288
+    },
+    {
+      "name": "Sanctuary",
+      "latitude": 43.509522,
+      "longitude": 16.438827
+    },
+    {
+      "name": "Sasso Bar",
+      "latitude": 45.317521,
+      "longitude": 14.469783
+    },
+    {
+      "name": "Sava in",
+      "latitude": 45.723318,
+      "longitude": 16.206998
+    },
+    {
+      "name": "Sax",
+      "latitude": 45.18206,
+      "longitude": 14.680698
+    },
+    {
+      "name": "Scala",
+      "latitude": 43.733983,
+      "longitude": 15.896199
+    },
+    {
+      "name": "Schuby's Beach Bar",
+      "latitude": 45.306551,
+      "longitude": 14.281929
+    },
+    {
+      "name": "Screws & Beers",
+      "latitude": 43.511303,
+      "longitude": 16.452349
+    },
+    {
+      "name": "Sebenico",
+      "latitude": 43.737551,
+      "longitude": 15.887786
+    },
+    {
+      "name": "SENS",
+      "latitude": 45.541964,
+      "longitude": 18.050379
+    },
+    {
+      "name": "Sens Bar Night",
+      "latitude": 45.153678,
+      "longitude": 18.012462
+    },
+    {
+      "name": "Sense bar",
+      "latitude": 45.312828,
+      "longitude": 18.412201
+    },
+    {
+      "name": "seven",
+      "latitude": 43.17271,
+      "longitude": 16.44088
+    },
+    {
+      "name": "Shark Beach Bar",
+      "latitude": 44.92255,
+      "longitude": 13.801692
+    },
+    {
+      "name": "Shelby",
+      "latitude": 42.658656,
+      "longitude": 18.079119
+    },
+    {
+      "name": "Sherlock bar",
+      "latitude": 45.801703,
+      "longitude": 15.953357
+    },
+    {
+      "name": "SHIPTZA bar",
+      "latitude": 46.389696,
+      "longitude": 16.438646
+    },
+    {
+      "name": "Shogy",
+      "latitude": 46.024682,
+      "longitude": 16.548089
+    },
+    {
+      "name": "Shooko bar",
+      "latitude": 43.439041,
+      "longitude": 16.669346
+    },
+    {
+      "name": "Shotgun Shooters Bar",
+      "latitude": 43.509324,
+      "longitude": 16.440075
+    },
+    {
+      "name": "Sidro",
+      "latitude": 44.720111,
+      "longitude": 14.891905
+    },
+    {
+      "name": "Siesta",
+      "latitude": 43.676503,
+      "longitude": 15.947585
+    },
+    {
+      "name": "Siesta",
+      "latitude": 44.162231,
+      "longitude": 15.609474
+    },
+    {
+      "name": "Simfonija",
+      "latitude": 45.731022,
+      "longitude": 16.027968
+    },
+    {
+      "name": "Sinatra bar",
+      "latitude": 43.505448,
+      "longitude": 16.461194
+    },
+    {
+      "name": "Sinko",
+      "latitude": 46.24746,
+      "longitude": 16.298039
+    },
+    {
+      "name": "Sirena",
+      "latitude": 43.822004,
+      "longitude": 15.591531
+    },
+    {
+      "name": "SJEVER",
+      "latitude": 43.535974,
+      "longitude": 16.297729
+    },
+    {
+      "name": "Skipper",
+      "latitude": 43.452169,
+      "longitude": 16.143621
+    },
+    {
+      "name": "Skipper",
+      "latitude": 43.737981,
+      "longitude": 15.887958
+    },
+    {
+      "name": "Skipper Bar",
+      "latitude": 44.298373,
+      "longitude": 15.094242
+    },
+    {
+      "name": "Skipper's Club Arka",
+      "latitude": 43.816174,
+      "longitude": 15.920877
+    },
+    {
+      "name": "Skrila",
+      "latitude": 44.96554,
+      "longitude": 14.675155
+    },
+    {
+      "name": "Skver",
+      "latitude": 45.122259,
+      "longitude": 14.523688
+    },
+    {
+      "name": "Sky bar",
+      "latitude": 44.133292,
+      "longitude": 15.628247
+    },
+    {
+      "name": "SKYBAR",
+      "latitude": 45.32545,
+      "longitude": 13.552246
+    },
+    {
+      "name": "Skyy Bar",
+      "latitude": 45.484995,
+      "longitude": 16.373108
+    },
+    {
+      "name": "Slatina",
+      "latitude": 45.702128,
+      "longitude": 17.699694
+    },
+    {
+      "name": "Slavonac",
+      "latitude": 45.663415,
+      "longitude": 18.410912
+    },
+    {
+      "name": "Smothie bar \"Sokić\"",
+      "latitude": 45.797788,
+      "longitude": 15.955036
+    },
+    {
+      "name": "Snack Zlatni Bor",
+      "latitude": 43.190177,
+      "longitude": 17.1556
+    },
+    {
+      "name": "Snackbar",
+      "latitude": 43.369211,
+      "longitude": 16.92756
+    },
+    {
+      "name": "Snaomi",
+      "latitude": 43.73728,
+      "longitude": 15.887802
+    },
+    {
+      "name": "Snoopy",
+      "latitude": 45.128422,
+      "longitude": 14.789503
+    },
+    {
+      "name": "Snoopy",
+      "latitude": 45.261922,
+      "longitude": 15.229491
+    },
+    {
+      "name": "Soardo",
+      "latitude": 45.040464,
+      "longitude": 13.786476
+    },
+    {
+      "name": "Soho bara&kitchen",
+      "latitude": 45.81071,
+      "longitude": 15.974201
+    },
+    {
+      "name": "Sokadija",
+      "latitude": 45.588325,
+      "longitude": 18.032012
+    },
+    {
+      "name": "Sol",
+      "latitude": 43.295048,
+      "longitude": 17.008892
+    },
+    {
+      "name": "Solar Beach Bar",
+      "latitude": 43.500223,
+      "longitude": 16.519749
+    },
+    {
+      "name": "Solaris Caffe Bar",
+      "latitude": 43.700388,
+      "longitude": 15.877435
+    },
+    {
+      "name": "Song",
+      "latitude": 42.657535,
+      "longitude": 18.087946
+    },
+    {
+      "name": "Spacio Grota",
+      "latitude": 45.083345,
+      "longitude": 13.633226
+    },
+    {
+      "name": "Speed",
+      "latitude": 43.045278,
+      "longitude": 16.089464
+    },
+    {
+      "name": "Spin Bar",
+      "latitude": 43.516456,
+      "longitude": 16.433147
+    },
+    {
+      "name": "Spirit Bar",
+      "latitude": 45.813831,
+      "longitude": 15.96956
+    },
+    {
+      "name": "Splendid",
+      "latitude": 43.052988,
+      "longitude": 17.436107
+    },
+    {
+      "name": "Sport cafe",
+      "latitude": 45.708558,
+      "longitude": 16.067022
+    },
+    {
+      "name": "Sport Caffe",
+      "latitude": 45.483956,
+      "longitude": 15.545873
+    },
+    {
+      "name": "Sport-Billy",
+      "latitude": 45.281868,
+      "longitude": 17.379835
+    },
+    {
+      "name": "Sports Pub Mario",
+      "latitude": 42.656685,
+      "longitude": 18.075986
+    },
+    {
+      "name": "Spritz",
+      "latitude": 45.442857,
+      "longitude": 13.512116
+    },
+    {
+      "name": "Srida",
+      "latitude": 43.358045,
+      "longitude": 16.948278
+    },
+    {
+      "name": "Stacion",
+      "latitude": 45.414397,
+      "longitude": 13.662083
+    },
+    {
+      "name": "Standbar Precca",
+      "latitude": 44.80576,
+      "longitude": 14.707453
+    },
+    {
+      "name": "Stara Kuča",
+      "latitude": 43.549656,
+      "longitude": 16.343218
+    },
+    {
+      "name": "Stari Porat",
+      "latitude": 43.37817,
+      "longitude": 16.915475
+    },
+    {
+      "name": "Stari Resnik Beach Bar",
+      "latitude": 43.53913,
+      "longitude": 16.309902
+    },
+    {
+      "name": "Starigrad",
+      "latitude": 44.293493,
+      "longitude": 15.43924
+    },
+    {
+      "name": "Staro Mjesto",
+      "latitude": 45.146801,
+      "longitude": 17.249308
+    },
+    {
+      "name": "Stela",
+      "latitude": 46.109768,
+      "longitude": 15.905974
+    },
+    {
+      "name": "Stella",
+      "latitude": 44.876409,
+      "longitude": 13.866789
+    },
+    {
+      "name": "Stella",
+      "latitude": 44.913814,
+      "longitude": 13.805624
+    },
+    {
+      "name": "Stop",
+      "latitude": 43.35796,
+      "longitude": 16.948354
+    },
+    {
+      "name": "Stop caffe & club",
+      "latitude": 45.326785,
+      "longitude": 14.443919
+    },
+    {
+      "name": "Strandbar",
+      "latitude": 44.307756,
+      "longitude": 15.090915
+    },
+    {
+      "name": "STRING’S BAR",
+      "latitude": 43.510287,
+      "longitude": 16.441343
+    },
+    {
+      "name": "Sub Astra",
+      "latitude": 45.1165,
+      "longitude": 14.834652
+    },
+    {
+      "name": "Suhodolska kapljica",
+      "latitude": 46.258222,
+      "longitude": 16.472913
+    },
+    {
+      "name": "Sun Sport",
+      "latitude": 45.410654,
+      "longitude": 13.969582
+    },
+    {
+      "name": "Sunset Beach Bar",
+      "latitude": 42.655529,
+      "longitude": 18.070532
+    },
+    {
+      "name": "Sunset Beach Bar",
+      "latitude": 45.162622,
+      "longitude": 14.53925
+    },
+    {
+      "name": "Sunset Beach Bar Kostrena",
+      "latitude": 45.294407,
+      "longitude": 14.502082
+    },
+    {
+      "name": "Sunset Grove",
+      "latitude": 44.196436,
+      "longitude": 15.143909
+    },
+    {
+      "name": "Sunshine",
+      "latitude": 44.138919,
+      "longitude": 15.213728
+    },
+    {
+      "name": "Suzi",
+      "latitude": 44.820133,
+      "longitude": 13.856868
+    },
+    {
+      "name": "Swanky bar",
+      "latitude": 45.81371,
+      "longitude": 15.968471
+    },
+    {
+      "name": "Tango",
+      "latitude": 45.660094,
+      "longitude": 18.664219
+    },
+    {
+      "name": "Tapas",
+      "latitude": 43.510145,
+      "longitude": 16.436749
+    },
+    {
+      "name": "Taraca",
+      "latitude": 44.28853,
+      "longitude": 15.445348
+    },
+    {
+      "name": "Tata's",
+      "latitude": 42.644677,
+      "longitude": 18.105223
+    },
+    {
+      "name": "Tataki Bar",
+      "latitude": 45.790493,
+      "longitude": 15.928496
+    },
+    {
+      "name": "Tatinja",
+      "latitude": 44.53372,
+      "longitude": 15.067756
+    },
+    {
+      "name": "Taverna Riva",
+      "latitude": 43.261395,
+      "longitude": 16.655607
+    },
+    {
+      "name": "Tavylin Wine & Art Bar",
+      "latitude": 42.641002,
+      "longitude": 18.107049
+    },
+    {
+      "name": "Taxi Boat Levan",
+      "latitude": 44.8032,
+      "longitude": 13.981052
+    },
+    {
+      "name": "Tender cocktail & kitchen club",
+      "latitude": 45.810723,
+      "longitude": 15.986228
+    },
+    {
+      "name": "Teniski centar Mala Šalata",
+      "latitude": 45.821785,
+      "longitude": 15.987745
+    },
+    {
+      "name": "Tennessee bar & distillery",
+      "latitude": 45.806494,
+      "longitude": 15.952942
+    },
+    {
+      "name": "Terra Lounge Bar",
+      "latitude": 46.065526,
+      "longitude": 15.78394
+    },
+    {
+      "name": "Terra Nova",
+      "latitude": 43.122347,
+      "longitude": 16.686595
+    },
+    {
+      "name": "Terra solaris wine bar",
+      "latitude": 44.81905,
+      "longitude": 13.936488
+    },
+    {
+      "name": "Tesla New Generation",
+      "latitude": 45.811987,
+      "longitude": 15.973084
+    },
+    {
+      "name": "Teuta",
+      "latitude": 43.26598,
+      "longitude": 17.056804
+    },
+    {
+      "name": "Thala beach bar",
+      "latitude": 45.122522,
+      "longitude": 14.799141
+    },
+    {
+      "name": "The Bank",
+      "latitude": 43.50801,
+      "longitude": 16.438271
+    },
+    {
+      "name": "The Bar",
+      "latitude": 42.641681,
+      "longitude": 18.109023
+    },
+    {
+      "name": "The Bar",
+      "latitude": 44.11992,
+      "longitude": 15.239675
+    },
+    {
+      "name": "The Bar",
+      "latitude": 45.14499,
+      "longitude": 13.909194
+    },
+    {
+      "name": "the bar",
+      "latitude": 45.794607,
+      "longitude": 15.918741
+    },
+    {
+      "name": "The Brick",
+      "latitude": 45.816137,
+      "longitude": 15.975675
+    },
+    {
+      "name": "The Butcher's Barrel",
+      "latitude": 45.814859,
+      "longitude": 15.97707
+    },
+    {
+      "name": "The Club",
+      "latitude": 45.342834,
+      "longitude": 16.974455
+    },
+    {
+      "name": "The Daltonist",
+      "latitude": 43.508547,
+      "longitude": 16.4416
+    },
+    {
+      "name": "The End",
+      "latitude": 45.655224,
+      "longitude": 15.971534
+    },
+    {
+      "name": "The Melegran",
+      "latitude": 45.082384,
+      "longitude": 13.632667
+    },
+    {
+      "name": "The Office Bar",
+      "latitude": 46.308395,
+      "longitude": 16.338039
+    },
+    {
+      "name": "The Old Rock Bar",
+      "latitude": 46.024345,
+      "longitude": 15.901463
+    },
+    {
+      "name": "The Room",
+      "latitude": 45.831194,
+      "longitude": 17.386755
+    },
+    {
+      "name": "The Smoothie Bar",
+      "latitude": 44.117453,
+      "longitude": 15.27068
+    },
+    {
+      "name": "TI Bar",
+      "latitude": 44.117429,
+      "longitude": 15.223682
+    },
+    {
+      "name": "Ti i Ja",
+      "latitude": 45.789872,
+      "longitude": 15.991406
+    },
+    {
+      "name": "Tiffany",
+      "latitude": 44.1086,
+      "longitude": 15.235969
+    },
+    {
+      "name": "TIHA lounge bar",
+      "latitude": 43.21409,
+      "longitude": 16.544942
+    },
+    {
+      "name": "Tiki Bar",
+      "latitude": 43.162318,
+      "longitude": 16.485852
+    },
+    {
+      "name": "Time",
+      "latitude": 42.675555,
+      "longitude": 18.095329
+    },
+    {
+      "name": "Time",
+      "latitude": 45.340894,
+      "longitude": 16.973315
+    },
+    {
+      "name": "Time4Wine",
+      "latitude": 45.8157,
+      "longitude": 15.975097
+    },
+    {
+      "name": "Tin",
+      "latitude": 45.371254,
+      "longitude": 14.328689
+    },
+    {
+      "name": "Tina",
+      "latitude": 43.517693,
+      "longitude": 16.136238
+    },
+    {
+      "name": "Tina",
+      "latitude": 45.409292,
+      "longitude": 13.966278
+    },
+    {
+      "name": "Tina",
+      "latitude": 45.68666,
+      "longitude": 16.953064
+    },
+    {
+      "name": "Tipsy House",
+      "latitude": 45.801433,
+      "longitude": 15.709089
+    },
+    {
+      "name": "Titla",
+      "latitude": 45.83179,
+      "longitude": 16.06363
+    },
+    {
+      "name": "Toco Beach Club",
+      "latitude": 44.821425,
+      "longitude": 13.976769
+    },
+    {
+      "name": "Tomato",
+      "latitude": 46.040397,
+      "longitude": 15.985437
+    },
+    {
+      "name": "Tomi",
+      "latitude": 45.832297,
+      "longitude": 16.057474
+    },
+    {
+      "name": "TONET Bar",
+      "latitude": 45.080753,
+      "longitude": 13.638487
+    },
+    {
+      "name": "Torkul",
+      "latitude": 43.822099,
+      "longitude": 15.592355
+    },
+    {
+      "name": "Trabakul",
+      "latitude": 42.581625,
+      "longitude": 18.221788
+    },
+    {
+      "name": "Tramontana",
+      "latitude": 44.259691,
+      "longitude": 15.212231
+    },
+    {
+      "name": "Tramontana Beach Bar",
+      "latitude": 44.097346,
+      "longitude": 15.16585
+    },
+    {
+      "name": "Tramonto",
+      "latitude": 43.18386,
+      "longitude": 16.586091
+    },
+    {
+      "name": "Tramonto",
+      "latitude": 43.585032,
+      "longitude": 15.919065
+    },
+    {
+      "name": "Tramonto",
+      "latitude": 45.317409,
+      "longitude": 13.559322
+    },
+    {
+      "name": "Tramuntana",
+      "latitude": 43.299721,
+      "longitude": 17.013091
+    },
+    {
+      "name": "Trapula",
+      "latitude": 43.737047,
+      "longitude": 15.888059
+    },
+    {
+      "name": "Trapula",
+      "latitude": 44.443761,
+      "longitude": 15.054351
+    },
+    {
+      "name": "Trattoria Bar 45",
+      "latitude": 45.816582,
+      "longitude": 15.976423
+    },
+    {
+      "name": "Treći Svijet",
+      "latitude": 43.552076,
+      "longitude": 16.340827
+    },
+    {
+      "name": "Tri Grede",
+      "latitude": 43.157006,
+      "longitude": 16.41623
+    },
+    {
+      "name": "Tri ruže",
+      "latitude": 45.227322,
+      "longitude": 18.735951
+    },
+    {
+      "name": "Triton",
+      "latitude": 44.533908,
+      "longitude": 14.468137
+    },
+    {
+      "name": "Trooper",
+      "latitude": 44.115143,
+      "longitude": 15.226818
+    },
+    {
+      "name": "Tropical Bar",
+      "latitude": 44.83647,
+      "longitude": 13.831689
+    },
+    {
+      "name": "Tropicana",
+      "latitude": 43.050896,
+      "longitude": 17.434257
+    },
+    {
+      "name": "Tropicana Beach Bar",
+      "latitude": 42.686627,
+      "longitude": 17.939938
+    },
+    {
+      "name": "Trstena Beach Bar",
+      "latitude": 43.372743,
+      "longitude": 16.649396
+    },
+    {
+      "name": "Trstika beach bar",
+      "latitude": 44.818448,
+      "longitude": 14.73869
+    },
+    {
+      "name": "Tuffo Splash Bar",
+      "latitude": 45.10442,
+      "longitude": 13.618693
+    },
+    {
+      "name": "Tuna Bar",
+      "latitude": 43.008714,
+      "longitude": 17.265374
+    },
+    {
+      "name": "Tunere Beach",
+      "latitude": 45.27965,
+      "longitude": 14.579275
+    },
+    {
+      "name": "Turističko ugostiteljski obrt Tratinčica",
+      "latitude": 45.507299,
+      "longitude": 14.700693
+    },
+    {
+      "name": "Turizem Lovšin",
+      "latitude": 45.63419,
+      "longitude": 15.309837
+    },
+    {
+      "name": "Twins",
+      "latitude": 45.52085,
+      "longitude": 18.673464
+    },
+    {
+      "name": "Uvala",
+      "latitude": 45.121266,
+      "longitude": 13.627449
+    },
+    {
+      "name": "Vagabundo",
+      "latitude": 43.497114,
+      "longitude": 16.260342
+    },
+    {
+      "name": "Vaiana beach",
+      "latitude": 43.202161,
+      "longitude": 16.574198
+    },
+    {
+      "name": "VALA",
+      "latitude": 44.832445,
+      "longitude": 13.860979
+    },
+    {
+      "name": "Valentino Cocktail & Champagne Bar",
+      "latitude": 45.082015,
+      "longitude": 13.630783
+    },
+    {
+      "name": "Valhalla",
+      "latitude": 45.813829,
+      "longitude": 15.975843
+    },
+    {
+      "name": "Valica Beach Bar",
+      "latitude": 45.117291,
+      "longitude": 14.500015
+    },
+    {
+      "name": "Valli Delicious Bar",
+      "latitude": 44.810789,
+      "longitude": 13.92935
+    },
+    {
+      "name": "Vanadis",
+      "latitude": 43.549781,
+      "longitude": 16.391377
+    },
+    {
+      "name": "Vanila",
+      "latitude": 45.172754,
+      "longitude": 14.691551
+    },
+    {
+      "name": "Vanilla",
+      "latitude": 45.023596,
+      "longitude": 14.628653
+    },
+    {
+      "name": "Vanilla beach bar",
+      "latitude": 43.991835,
+      "longitude": 15.385529
+    },
+    {
+      "name": "VAR soba",
+      "latitude": 43.511508,
+      "longitude": 16.457964
+    },
+    {
+      "name": "Varadero",
+      "latitude": 43.261587,
+      "longitude": 16.656739
+    },
+    {
+      "name": "Varadero bar",
+      "latitude": 45.799888,
+      "longitude": 15.952974
+    },
+    {
+      "name": "Vela Sika",
+      "latitude": 43.131441,
+      "longitude": 16.611237
+    },
+    {
+      "name": "Veles",
+      "latitude": 45.861276,
+      "longitude": 15.798876
+    },
+    {
+      "name": "Verona",
+      "latitude": 43.593169,
+      "longitude": 16.517274
+    },
+    {
+      "name": "Vertigo",
+      "latitude": 43.633267,
+      "longitude": 15.969034
+    },
+    {
+      "name": "Vertigo",
+      "latitude": 45.797283,
+      "longitude": 15.899487
+    },
+    {
+      "name": "Vestrum beach",
+      "latitude": 45.048736,
+      "longitude": 13.688817
+    },
+    {
+      "name": "Victorious",
+      "latitude": 45.33006,
+      "longitude": 14.302123
+    },
+    {
+      "name": "Vina Miramar",
+      "latitude": 44.958867,
+      "longitude": 14.407511
+    },
+    {
+      "name": "Vina Tepeš",
+      "latitude": 45.431974,
+      "longitude": 17.883325
+    },
+    {
+      "name": "Vinary & Degustation Cebalo",
+      "latitude": 42.919744,
+      "longitude": 17.177746
+    },
+    {
+      "name": "Vinary & Degustation Popic",
+      "latitude": 42.919747,
+      "longitude": 17.177531
+    },
+    {
+      "name": "Vino Grad",
+      "latitude": 44.75635,
+      "longitude": 14.761192
+    },
+    {
+      "name": "Vinoteka Frapa",
+      "latitude": 43.531543,
+      "longitude": 15.960963
+    },
+    {
+      "name": "Vintage bar",
+      "latitude": 43.508244,
+      "longitude": 16.471273
+    },
+    {
+      "name": "Vintage wine bar",
+      "latitude": 43.172933,
+      "longitude": 16.440443
+    },
+    {
+      "name": "Vinyl",
+      "latitude": 45.812097,
+      "longitude": 15.975355
+    },
+    {
+      "name": "Vinyl Bar",
+      "latitude": 43.293486,
+      "longitude": 17.020751
+    },
+    {
+      "name": "Virada",
+      "latitude": 43.756226,
+      "longitude": 15.773773
+    },
+    {
+      "name": "Vita Bar",
+      "latitude": 45.022872,
+      "longitude": 13.712573
+    },
+    {
+      "name": "Vitez",
+      "latitude": 45.659173,
+      "longitude": 18.422121
+    },
+    {
+      "name": "Vivas Bar Trsat",
+      "latitude": 45.331432,
+      "longitude": 14.457193
+    },
+    {
+      "name": "Vogel",
+      "latitude": 46.391164,
+      "longitude": 16.436611
+    },
+    {
+      "name": "Voćni trg",
+      "latitude": 43.508037,
+      "longitude": 16.438449
+    },
+    {
+      "name": "VRKS",
+      "latitude": 44.801044,
+      "longitude": 13.909096
+    },
+    {
+      "name": "VRKS",
+      "latitude": 44.836901,
+      "longitude": 13.863482
+    },
+    {
+      "name": "Vrsha Beach Bar",
+      "latitude": 44.578521,
+      "longitude": 14.853941
+    },
+    {
+      "name": "Waikiki bar",
+      "latitude": 43.380267,
+      "longitude": 16.911246
+    },
+    {
+      "name": "Wake park Pula",
+      "latitude": 44.85995,
+      "longitude": 13.813138
+    },
+    {
+      "name": "West Beach Bar",
+      "latitude": 43.820379,
+      "longitude": 15.662349
+    },
+    {
+      "name": "White Horse",
+      "latitude": 45.253071,
+      "longitude": 14.57725
+    },
+    {
+      "name": "Wine & friends",
+      "latitude": 45.790878,
+      "longitude": 15.910694
+    },
+    {
+      "name": "Wine Bar & Shop",
+      "latitude": 45.348387,
+      "longitude": 14.050549
+    },
+    {
+      "name": "Wine bar & shop Šinjorina",
+      "latitude": 45.144111,
+      "longitude": 13.909302
+    },
+    {
+      "name": "Wine bar Cantina",
+      "latitude": 45.241792,
+      "longitude": 13.601427
+    },
+    {
+      "name": "Wine Corner",
+      "latitude": 45.227987,
+      "longitude": 13.594426
+    },
+    {
+      "name": "Wine shop&tasting",
+      "latitude": 42.96814,
+      "longitude": 17.254185
+    },
+    {
+      "name": "winegrower",
+      "latitude": 45.449696,
+      "longitude": 13.561654
+    },
+    {
+      "name": "Winehouse",
+      "latitude": 45.817839,
+      "longitude": 15.976303
+    },
+    {
+      "name": "Wow bar",
+      "latitude": 45.820247,
+      "longitude": 15.977341
+    },
+    {
+      "name": "Yachting Bar",
+      "latitude": 44.131317,
+      "longitude": 15.21022
+    },
+    {
+      "name": "Yolo",
+      "latitude": 45.313887,
+      "longitude": 18.413563
+    },
+    {
+      "name": "Yoyo",
+      "latitude": 45.476229,
+      "longitude": 13.50368
+    },
+    {
+      "name": "Zanzi Bar",
+      "latitude": 43.356598,
+      "longitude": 16.948939
+    },
+    {
+      "name": "Zaya Bar",
+      "latitude": 45.08108,
+      "longitude": 13.63689
+    },
+    {
+      "name": "Zdravljak Tkon",
+      "latitude": 43.921556,
+      "longitude": 15.419181
+    },
+    {
+      "name": "Zen Beach Bar",
+      "latitude": 43.156668,
+      "longitude": 16.719268
+    },
+    {
+      "name": "Zenith",
+      "latitude": 42.65616,
+      "longitude": 18.070124
+    },
+    {
+      "name": "Zgon",
+      "latitude": 44.989427,
+      "longitude": 14.903152
+    },
+    {
+      "name": "Ziggy",
+      "latitude": 45.495655,
+      "longitude": 15.552912
+    },
+    {
+      "name": "Zlatne gorice",
+      "latitude": 46.263832,
+      "longitude": 16.374981
+    },
+    {
+      "name": "Zlatni Kutić",
+      "latitude": 44.112585,
+      "longitude": 15.226774
+    },
+    {
+      "name": "Zoo-Station",
+      "latitude": 43.25841,
+      "longitude": 16.645279
+    },
+    {
+      "name": "Zvjezdana prašina",
+      "latitude": 45.794973,
+      "longitude": 15.992854
+    },
+    {
+      "name": "Ćakula",
+      "latitude": 42.913641,
+      "longitude": 16.934635
+    },
+    {
+      "name": "Ćošak",
+      "latitude": 45.312578,
+      "longitude": 18.420175
+    },
+    {
+      "name": "ČAM",
+      "latitude": 46.32933,
+      "longitude": 16.360286
+    },
+    {
+      "name": "Čile Club",
+      "latitude": 46.376523,
+      "longitude": 16.385991
+    },
+    {
+      "name": "Đakovština",
+      "latitude": 45.349145,
+      "longitude": 18.422514
+    },
+    {
+      "name": "Šika",
+      "latitude": 45.800192,
+      "longitude": 15.985237
+    },
+    {
+      "name": "Škola Lounge Bar",
+      "latitude": 45.81212,
+      "longitude": 15.97478
+    },
+    {
+      "name": "Školjić",
+      "latitude": 44.784772,
+      "longitude": 13.91709
+    },
+    {
+      "name": "Škor",
+      "latitude": 43.045335,
+      "longitude": 16.089285
+    },
+    {
+      "name": "Škrapa",
+      "latitude": 43.511464,
+      "longitude": 16.3066
+    },
+    {
+      "name": "Špica",
+      "latitude": 45.593552,
+      "longitude": 17.224062
+    },
+    {
+      "name": "Šumica",
+      "latitude": 43.806506,
+      "longitude": 15.591609
+    },
+    {
+      "name": "Željezničar",
+      "latitude": 45.554863,
+      "longitude": 18.681641
+    },
+    {
+      "name": "Бермудски троугао",
+      "latitude": 45.662738,
+      "longitude": 18.974011
+    },
+    {
+      "name": "Кафе-бар ТОП",
+      "latitude": 45.291577,
+      "longitude": 19.138292
+    },
+    {
+      "name": "Кафе-бар Фламинго",
+      "latitude": 45.294017,
+      "longitude": 19.1362
+    },
+    {
+      "name": "Плава ружа",
+      "latitude": 45.684652,
+      "longitude": 18.953658
+    },
+    {
+      "name": "ᴘᴜɴᴛᴀ ɢᴀʀᴅᴇɴ ʙᴇᴀᴄʜ ʙᴀʀ & ᴄʟᴜʙ",
+      "latitude": 44.158328,
+      "longitude": 15.613658
+    }
+  ],
+  "meta": {
+    "title": "Barovi u Hrvatskoj - Besplatno preuzimanje",
+    "description": "Bars in Croatia (amenity=bar) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors. Sadrži 1484 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Barovi u Hrvatskoj | ListBase",
+    "seo_description": "Preuzmi Barovi u Hrvatskoj — 1484 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 1484 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

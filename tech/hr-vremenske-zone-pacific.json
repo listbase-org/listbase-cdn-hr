@@ -1,0 +1,128 @@
+{
+  "id": "hr-vremenske-zone-pacific",
+  "name": "Vremenske zone — Pacific (9)",
+  "title": "Vremenske zone — Pacific (9)",
+  "description": "Vremenske zone čiji IANA identifikator počinje s 'Pacific/', s hrvatskim nazivima.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regija",
+      "label": "Regija",
+      "type": "string"
+    },
+    {
+      "key": "grad",
+      "label": "Grad",
+      "type": "string"
+    },
+    {
+      "key": "standardno_ime",
+      "label": "Standardno Ime",
+      "type": "string"
+    },
+    {
+      "key": "ljetno_ime",
+      "label": "Ljetno Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Pacific/Enderbury",
+      "regija": "Pacific",
+      "grad": "Canton",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Pacific/Fiji",
+      "regija": "Pacific",
+      "grad": "Fidži",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Pacific/Galapagos",
+      "regija": "Pacific",
+      "grad": "Galápagos",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Pacific/Honolulu",
+      "regija": "Pacific",
+      "grad": "Honolulu",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Pacific/Marquesas",
+      "regija": "Pacific",
+      "grad": "Markižansko otočje",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Pacific/Noumea",
+      "regija": "Pacific",
+      "grad": "Nouméa",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Pacific/Ponape",
+      "regija": "Pacific",
+      "grad": "Pohnpei",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Pacific/Truk",
+      "regija": "Pacific",
+      "grad": "Chuuk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Pacific/Wallis",
+      "regija": "Pacific",
+      "grad": "Wallis & Futuna",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    }
+  ],
+  "meta": {
+    "title": "Vremenske zone — Pacific (9) - Besplatno preuzimanje",
+    "description": "Vremenske zone čiji IANA identifikator počinje s 'Pacific/', s hrvatskim nazivima. Sadrži 9 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vremenske zone — Pacific (9) | ListBase",
+    "seo_description": "Preuzmi Vremenske zone — Pacific (9) — 9 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 9 zapisa / 6 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

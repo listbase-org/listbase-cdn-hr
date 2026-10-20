@@ -1,0 +1,446 @@
+{
+  "id": "hr-sportske-dvorane",
+  "name": "Sportske dvorane",
+  "title": "Sportske dvorane",
+  "description": "Sportske dvorane u Hrvatskoj (81 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=sports_hall), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Atletska dvorana",
+      "latitude": 45.789884,
+      "longitude": 15.960441
+    },
+    {
+      "name": "Boćarski dom",
+      "latitude": 45.78976,
+      "longitude": 15.961626
+    },
+    {
+      "name": "Dom Lovro Ratković",
+      "latitude": 45.782842,
+      "longitude": 15.94671
+    },
+    {
+      "name": "Dom odbojke Bojan Stranić",
+      "latitude": 45.783527,
+      "longitude": 15.948064
+    },
+    {
+      "name": "Dvorana Dinko Lukarić",
+      "latitude": 45.335086,
+      "longitude": 14.446148
+    },
+    {
+      "name": "Dvorana Europskih Prvaka",
+      "latitude": 45.907731,
+      "longitude": 16.851448
+    },
+    {
+      "name": "Dvorana Finida",
+      "latitude": 45.23555,
+      "longitude": 13.609726
+    },
+    {
+      "name": "Dvorana IV. OŠ Varaždin",
+      "latitude": 46.316038,
+      "longitude": 16.326894
+    },
+    {
+      "name": "Dvorana klasične gimnazije",
+      "latitude": 45.238475,
+      "longitude": 13.93971
+    },
+    {
+      "name": "Dvorana Novi Jelkovec",
+      "latitude": 45.810869,
+      "longitude": 16.106993
+    },
+    {
+      "name": "Dvorana OŠ Goričan",
+      "latitude": 46.383152,
+      "longitude": 16.670888
+    },
+    {
+      "name": "Dvorana OŠ Legrad",
+      "latitude": 46.293418,
+      "longitude": 16.856635
+    },
+    {
+      "name": "Dvorana OŠ Orehovica",
+      "latitude": 46.327434,
+      "longitude": 16.509124
+    },
+    {
+      "name": "Dvorana Tehničke škole",
+      "latitude": 45.822246,
+      "longitude": 17.386962
+    },
+    {
+      "name": "Gimnastička dvorana Sokol",
+      "latitude": 45.334521,
+      "longitude": 17.679146
+    },
+    {
+      "name": "Gladijator2",
+      "latitude": 45.789351,
+      "longitude": 15.914146
+    },
+    {
+      "name": "Gombaona",
+      "latitude": 45.796986,
+      "longitude": 15.962849
+    },
+    {
+      "name": "Graberje",
+      "latitude": 46.308001,
+      "longitude": 16.329419
+    },
+    {
+      "name": "Gradska dvorana",
+      "latitude": 43.55574,
+      "longitude": 16.347637
+    },
+    {
+      "name": "Gradska sportska dvorana Crikvenica",
+      "latitude": 45.177455,
+      "longitude": 14.696464
+    },
+    {
+      "name": "Gradska športska dvorana",
+      "latitude": 45.432367,
+      "longitude": 17.191168
+    },
+    {
+      "name": "Gradska športska dvorana Bilankuša",
+      "latitude": 43.542413,
+      "longitude": 16.493021
+    },
+    {
+      "name": "Igralište pod balonom",
+      "latitude": 42.946203,
+      "longitude": 17.136824
+    },
+    {
+      "name": "KK Split",
+      "latitude": 43.510202,
+      "longitude": 16.450244
+    },
+    {
+      "name": "Mala dvorana",
+      "latitude": 45.091635,
+      "longitude": 14.122361
+    },
+    {
+      "name": "Sokolski dom Bjelovar",
+      "latitude": 45.897777,
+      "longitude": 16.846998
+    },
+    {
+      "name": "Sportska dvorana",
+      "latitude": 43.490493,
+      "longitude": 16.984529
+    },
+    {
+      "name": "Sportska dvorana",
+      "latitude": 44.529053,
+      "longitude": 14.467397
+    },
+    {
+      "name": "Sportska dvorana",
+      "latitude": 45.332074,
+      "longitude": 14.447489
+    },
+    {
+      "name": "Sportska Dvorana",
+      "latitude": 45.4331,
+      "longitude": 13.528329
+    },
+    {
+      "name": "Sportska dvorana",
+      "latitude": 45.57212,
+      "longitude": 16.937992
+    },
+    {
+      "name": "Sportska dvorana",
+      "latitude": 45.684433,
+      "longitude": 16.351383
+    },
+    {
+      "name": "Sportska dvorana",
+      "latitude": 45.799961,
+      "longitude": 15.813572
+    },
+    {
+      "name": "Sportska dvorana",
+      "latitude": 46.16265,
+      "longitude": 16.332207
+    },
+    {
+      "name": "Sportska dvorana",
+      "latitude": 46.226991,
+      "longitude": 16.126365
+    },
+    {
+      "name": "Sportska dvorana",
+      "latitude": 46.514023,
+      "longitude": 16.443611
+    },
+    {
+      "name": "Sportska dvorana \"Antun Tova Stipančić\"",
+      "latitude": 45.450496,
+      "longitude": 15.499062
+    },
+    {
+      "name": "Sportska dvorana Bale",
+      "latitude": 45.039899,
+      "longitude": 13.788087
+    },
+    {
+      "name": "Sportska dvorana Brezovica",
+      "latitude": 45.459639,
+      "longitude": 16.38351
+    },
+    {
+      "name": "Sportska dvorana Ciglica",
+      "latitude": 45.280176,
+      "longitude": 18.793648
+    },
+    {
+      "name": "Sportska dvorana Kaštelir",
+      "latitude": 45.299314,
+      "longitude": 13.687576
+    },
+    {
+      "name": "Sportska dvorana Ljubešćica",
+      "latitude": 46.171759,
+      "longitude": 16.386746
+    },
+    {
+      "name": "Sportska dvorana Matulji",
+      "latitude": 45.363194,
+      "longitude": 14.324631
+    },
+    {
+      "name": "Sportska dvorana Metković",
+      "latitude": 43.050917,
+      "longitude": 17.645498
+    },
+    {
+      "name": "Sportska dvorana Novigrad",
+      "latitude": 45.319557,
+      "longitude": 13.571557
+    },
+    {
+      "name": "Sportska dvorana Osnovne škole Belica",
+      "latitude": 46.401815,
+      "longitude": 16.517818
+    },
+    {
+      "name": "Sportska dvorana OŠ Brajda",
+      "latitude": 45.331707,
+      "longitude": 14.437904
+    },
+    {
+      "name": "Sportska dvorana Peščenica",
+      "latitude": 45.805442,
+      "longitude": 16.026015
+    },
+    {
+      "name": "Sportska dvorana Proložac",
+      "latitude": 43.469054,
+      "longitude": 17.155312
+    },
+    {
+      "name": "Sportska dvorana Račice",
+      "latitude": 43.766063,
+      "longitude": 15.795308
+    },
+    {
+      "name": "Sportska dvorana Saline",
+      "latitude": 45.145867,
+      "longitude": 13.605439
+    },
+    {
+      "name": "Sportska dvorana srednje škole Lovre Montija",
+      "latitude": 44.049525,
+      "longitude": 16.206307
+    },
+    {
+      "name": "Sportska dvorana SŠ Marka Marulića",
+      "latitude": 45.704999,
+      "longitude": 17.699362
+    },
+    {
+      "name": "Sportska dvorana Tisno",
+      "latitude": 43.80369,
+      "longitude": 15.650823
+    },
+    {
+      "name": "Sportska dvorana Tomislav Pirc",
+      "latitude": 45.331687,
+      "longitude": 17.681389
+    },
+    {
+      "name": "Sportska dvorana Šime Poduje",
+      "latitude": 43.056938,
+      "longitude": 16.192278
+    },
+    {
+      "name": "Srednjoškolska dvorana",
+      "latitude": 43.861382,
+      "longitude": 16.154634
+    },
+    {
+      "name": "streljana Očevi i sinovi",
+      "latitude": 45.660117,
+      "longitude": 16.099721
+    },
+    {
+      "name": "Streljački klub Jastreb",
+      "latitude": 45.670887,
+      "longitude": 15.650794
+    },
+    {
+      "name": "Velika dvorana",
+      "latitude": 45.091267,
+      "longitude": 14.122361
+    },
+    {
+      "name": "Zagrebački boksački centar",
+      "latitude": 45.780712,
+      "longitude": 15.974514
+    },
+    {
+      "name": "Školska dvorana",
+      "latitude": 42.938996,
+      "longitude": 16.793718
+    },
+    {
+      "name": "Školska dvorana",
+      "latitude": 44.859257,
+      "longitude": 13.831319
+    },
+    {
+      "name": "Školska dvorana",
+      "latitude": 45.772779,
+      "longitude": 15.971833
+    },
+    {
+      "name": "Školska dvorana",
+      "latitude": 45.779996,
+      "longitude": 15.962703
+    },
+    {
+      "name": "Školska dvorana",
+      "latitude": 45.792318,
+      "longitude": 15.917832
+    },
+    {
+      "name": "Školska dvorana",
+      "latitude": 45.824262,
+      "longitude": 15.971276
+    },
+    {
+      "name": "Školska dvorana",
+      "latitude": 45.866113,
+      "longitude": 15.795879
+    },
+    {
+      "name": "Školska dvorana Bregana",
+      "latitude": 45.837767,
+      "longitude": 15.688642
+    },
+    {
+      "name": "Školska dvorana Dugopolje",
+      "latitude": 43.583346,
+      "longitude": 16.597007
+    },
+    {
+      "name": "Školska sportska dvorana",
+      "latitude": 45.282449,
+      "longitude": 17.797613
+    },
+    {
+      "name": "Školska sportska dvorana Boško Božić Pepsi",
+      "latitude": 45.77403,
+      "longitude": 15.962394
+    },
+    {
+      "name": "Školska sportska dvorana Dubrava",
+      "latitude": 45.832442,
+      "longitude": 16.062574
+    },
+    {
+      "name": "školska sportska dvorana Ogulin",
+      "latitude": 45.260868,
+      "longitude": 15.230988
+    },
+    {
+      "name": "Školsko-sportska dvorana \"Novska\"",
+      "latitude": 45.339166,
+      "longitude": 16.971201
+    },
+    {
+      "name": "Školsko-sportska dvorana Čaglin",
+      "latitude": 45.347447,
+      "longitude": 17.987387
+    },
+    {
+      "name": "Športska dvorana",
+      "latitude": 43.704804,
+      "longitude": 16.640924
+    },
+    {
+      "name": "Športska dvorana Brod",
+      "latitude": 45.166049,
+      "longitude": 18.016193
+    },
+    {
+      "name": "Športska dvorana Primorski Dolac",
+      "latitude": 43.640789,
+      "longitude": 16.170455
+    },
+    {
+      "name": "Šprtska dvorana Đurđenovac",
+      "latitude": 45.544785,
+      "longitude": 18.051778
+    },
+    {
+      "name": "ŠRD Draganić",
+      "latitude": 45.569768,
+      "longitude": 15.613242
+    }
+  ],
+  "meta": {
+    "title": "Sportske dvorane - Besplatno preuzimanje",
+    "description": "Sportske dvorane u Hrvatskoj (81 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=sports_hall), izrez EU-POIS/HR. Sadrži 81 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Sportske dvorane | ListBase",
+    "seo_description": "Preuzmi Sportske dvorane — 81 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 81 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

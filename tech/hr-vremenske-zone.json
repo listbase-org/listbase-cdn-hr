@@ -1,0 +1,1336 @@
+{
+  "id": "hr-vremenske-zone",
+  "name": "Vremenske zone svijeta (IANA / CLDR hrvatski)",
+  "title": "Vremenske zone svijeta (IANA / CLDR hrvatski)",
+  "description": "IANA tz identifikatori i hrvatski nazivi predstavničkih gradova iz CLDR hr lokala. 'regija' je prvi segment tz identifikatora.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 160,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regija",
+      "label": "Regija",
+      "type": "string"
+    },
+    {
+      "key": "grad",
+      "label": "Grad",
+      "type": "string"
+    },
+    {
+      "key": "standardno_ime",
+      "label": "Standardno Ime",
+      "type": "string"
+    },
+    {
+      "key": "ljetno_ime",
+      "label": "Ljetno Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Addis_Ababa",
+      "regija": "Africa",
+      "grad": "Addis Abeba",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Algiers",
+      "regija": "Africa",
+      "grad": "Alžir",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Asmera",
+      "regija": "Africa",
+      "grad": "Asmara",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Cairo",
+      "regija": "Africa",
+      "grad": "Kairo",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Djibouti",
+      "regija": "Africa",
+      "grad": "Džibuti",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/El_Aaiun",
+      "regija": "Africa",
+      "grad": "El Aaiún",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Lome",
+      "regija": "Africa",
+      "grad": "Lomé",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Ndjamena",
+      "regija": "Africa",
+      "grad": "N’Djamena",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Sao_Tome",
+      "regija": "Africa",
+      "grad": "São Tomé",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Anguilla",
+      "regija": "America",
+      "grad": "Angvila",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Araguaina",
+      "regija": "America",
+      "grad": "Araguaína",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "regija": "America",
+      "grad": "Río Gallegos",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Argentina/Tucuman",
+      "regija": "America",
+      "grad": "Tucumán",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Asuncion",
+      "regija": "America",
+      "grad": "Asunción",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Bahia_Banderas",
+      "regija": "America",
+      "grad": "Bahia Banderas",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Belem",
+      "regija": "America",
+      "grad": "Belém",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Bogota",
+      "regija": "America",
+      "grad": "Bogotá",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Cancun",
+      "regija": "America",
+      "grad": "Cancun",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Ciudad_Juarez",
+      "regija": "America",
+      "grad": "Ciudad Juárez",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Coral_Harbour",
+      "regija": "America",
+      "grad": "Atikokan",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Cordoba",
+      "regija": "America",
+      "grad": "Córdoba",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Costa_Rica",
+      "regija": "America",
+      "grad": "Kostarika",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Cuiaba",
+      "regija": "America",
+      "grad": "Cuiabá",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Curacao",
+      "regija": "America",
+      "grad": "Curaçao",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Dominica",
+      "regija": "America",
+      "grad": "Dominika",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Eirunepe",
+      "regija": "America",
+      "grad": "Eirunepé",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/El_Salvador",
+      "regija": "America",
+      "grad": "Salvador",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Godthab",
+      "regija": "America",
+      "grad": "Nuuk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Guadeloupe",
+      "regija": "America",
+      "grad": "Guadalupe",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Guatemala",
+      "regija": "America",
+      "grad": "Gvatemala",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Guyana",
+      "regija": "America",
+      "grad": "Gvajana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Indiana/Knox",
+      "regija": "America",
+      "grad": "Knox, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Indiana/Marengo",
+      "regija": "America",
+      "grad": "Marengo, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Indiana/Petersburg",
+      "regija": "America",
+      "grad": "Petersburg, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Indiana/Tell_City",
+      "regija": "America",
+      "grad": "Tell City, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Indiana/Vevay",
+      "regija": "America",
+      "grad": "Vevay, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Indiana/Vincennes",
+      "regija": "America",
+      "grad": "Vincennes, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Indiana/Winamac",
+      "regija": "America",
+      "grad": "Winamac, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Jamaica",
+      "regija": "America",
+      "grad": "Jamajka",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Kentucky/Monticello",
+      "regija": "America",
+      "grad": "Monticello, Kentucky",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Lower_Princes",
+      "regija": "America",
+      "grad": "Lower Prince’s Quarter",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/Maceio",
+      "regija": "America",
+      "grad": "Maceió",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/Mazatlan",
+      "regija": "America",
+      "grad": "Mazatlán",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/Merida",
+      "regija": "America",
+      "grad": "Merida",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/Mexico_City",
+      "regija": "America",
+      "grad": "Ciudad de México",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/Miquelon",
+      "regija": "America",
+      "grad": "Saint-Pierre",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/Noronha",
+      "regija": "America",
+      "grad": "Fernando de Noronha",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/North_Dakota/Beulah",
+      "regija": "America",
+      "grad": "Beulah, Sjeverna Dakota",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/North_Dakota/Center",
+      "regija": "America",
+      "grad": "Center, Sjeverna Dakota",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "regija": "America",
+      "grad": "New Salem, Sjeverna Dakota",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/Puerto_Rico",
+      "regija": "America",
+      "grad": "Portoriko",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "America/Santarem",
+      "regija": "America",
+      "grad": "Santarém",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/Sao_Paulo",
+      "regija": "America",
+      "grad": "São Paulo",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/Scoresbysund",
+      "regija": "America",
+      "grad": "Ittoqqortoormiit",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/St_Barthelemy",
+      "regija": "America",
+      "grad": "Saint Barthélemy",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "America/St_Johns",
+      "regija": "America",
+      "grad": "St. John’s",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "America/St_Kitts",
+      "regija": "America",
+      "grad": "St. Kitts",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "America/St_Lucia",
+      "regija": "America",
+      "grad": "St. Lucia",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "America/St_Thomas",
+      "regija": "America",
+      "grad": "St. Thomas",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "America/St_Vincent",
+      "regija": "America",
+      "grad": "St. Vincent",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "Antarctica/DumontDUrville",
+      "regija": "Antarctica",
+      "grad": "Dumont-d’Urville",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "Antarctica/Syowa",
+      "regija": "Antarctica",
+      "grad": "Showa",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "Asia/Almaty",
+      "regija": "Asia",
+      "grad": "Alma Ata",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "Asia/Anadyr",
+      "regija": "Asia",
+      "grad": "Anadir",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "Asia/Aqtau",
+      "regija": "Asia",
+      "grad": "Aktau",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "Asia/Aqtobe",
+      "regija": "Asia",
+      "grad": "Aktobe",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "Asia/Ashgabat",
+      "regija": "Asia",
+      "grad": "Ašgabat",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "Asia/Baghdad",
+      "regija": "Asia",
+      "grad": "Bagdad",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "Asia/Bahrain",
+      "regija": "Asia",
+      "grad": "Bahrein",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "Asia/Bishkek",
+      "regija": "Asia",
+      "grad": "Biškek",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "Asia/Brunei",
+      "regija": "Asia",
+      "grad": "Brunej",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "Asia/Calcutta",
+      "regija": "Asia",
+      "grad": "Kolkata",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "Asia/Chita",
+      "regija": "Asia",
+      "grad": "Čita",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "Asia/Damascus",
+      "regija": "Asia",
+      "grad": "Damask",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "Asia/Dushanbe",
+      "regija": "Asia",
+      "grad": "Dušanbe",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "Asia/Hovd",
+      "regija": "Asia",
+      "grad": "Khovd",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "Asia/Jakarta",
+      "regija": "Asia",
+      "grad": "Džakarta",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "Asia/Jerusalem",
+      "regija": "Asia",
+      "grad": "Jeruzalem",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "Asia/Kamchatka",
+      "regija": "Asia",
+      "grad": "Kamčatka",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "Asia/Karachi",
+      "regija": "Asia",
+      "grad": "Karači",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "Asia/Katmandu",
+      "regija": "Asia",
+      "grad": "Katmandu",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "Asia/Khandyga",
+      "regija": "Asia",
+      "grad": "Handiga",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 83,
+      "tz_id": "Asia/Krasnoyarsk",
+      "regija": "Asia",
+      "grad": "Krasnojarsk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 84,
+      "tz_id": "Asia/Kuwait",
+      "regija": "Asia",
+      "grad": "Kuvajt",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 85,
+      "tz_id": "Asia/Macau",
+      "regija": "Asia",
+      "grad": "Makao",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 86,
+      "tz_id": "Asia/Nicosia",
+      "regija": "Asia",
+      "grad": "Nikozija",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 87,
+      "tz_id": "Asia/Novokuznetsk",
+      "regija": "Asia",
+      "grad": "Novokuznjeck",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 88,
+      "tz_id": "Asia/Pyongyang",
+      "regija": "Asia",
+      "grad": "Pjongjang",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 89,
+      "tz_id": "Asia/Qatar",
+      "regija": "Asia",
+      "grad": "Katar",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 90,
+      "tz_id": "Asia/Qostanay",
+      "regija": "Asia",
+      "grad": "Kostanay",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 91,
+      "tz_id": "Asia/Qyzylorda",
+      "regija": "Asia",
+      "grad": "Kizilorda",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 92,
+      "tz_id": "Asia/Rangoon",
+      "regija": "Asia",
+      "grad": "Rangun",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 93,
+      "tz_id": "Asia/Riyadh",
+      "regija": "Asia",
+      "grad": "Rijad",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 94,
+      "tz_id": "Asia/Saigon",
+      "regija": "Asia",
+      "grad": "Ho Ši Min",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 95,
+      "tz_id": "Asia/Sakhalin",
+      "regija": "Asia",
+      "grad": "Sahalin",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 96,
+      "tz_id": "Asia/Seoul",
+      "regija": "Asia",
+      "grad": "Seul",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 97,
+      "tz_id": "Asia/Shanghai",
+      "regija": "Asia",
+      "grad": "Šangaj",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 98,
+      "tz_id": "Asia/Singapore",
+      "regija": "Asia",
+      "grad": "Singapur",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 99,
+      "tz_id": "Asia/Srednekolymsk",
+      "regija": "Asia",
+      "grad": "Srednekolimsk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 100,
+      "tz_id": "Asia/Tashkent",
+      "regija": "Asia",
+      "grad": "Taškent",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 101,
+      "tz_id": "Asia/Tehran",
+      "regija": "Asia",
+      "grad": "Teheran",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 102,
+      "tz_id": "Asia/Tokyo",
+      "regija": "Asia",
+      "grad": "Tokio",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 103,
+      "tz_id": "Asia/Ulaanbaatar",
+      "regija": "Asia",
+      "grad": "Ulan Bator",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 104,
+      "tz_id": "Asia/Urumqi",
+      "regija": "Asia",
+      "grad": "Urumči",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 105,
+      "tz_id": "Asia/Yakutsk",
+      "regija": "Asia",
+      "grad": "Jakutsk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 106,
+      "tz_id": "Asia/Yekaterinburg",
+      "regija": "Asia",
+      "grad": "Jekaterinburg",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 107,
+      "tz_id": "Asia/Yerevan",
+      "regija": "Asia",
+      "grad": "Erevan",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 108,
+      "tz_id": "Atlantic/Azores",
+      "regija": "Atlantic",
+      "grad": "Azori",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 109,
+      "tz_id": "Atlantic/Bermuda",
+      "regija": "Atlantic",
+      "grad": "Bermudi",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 110,
+      "tz_id": "Atlantic/Canary",
+      "regija": "Atlantic",
+      "grad": "Kanari",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 111,
+      "tz_id": "Atlantic/Faeroe",
+      "regija": "Atlantic",
+      "grad": "Ferojski otoci",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 112,
+      "tz_id": "Atlantic/South_Georgia",
+      "regija": "Atlantic",
+      "grad": "Južna Georgija",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 113,
+      "tz_id": "Atlantic/St_Helena",
+      "regija": "Atlantic",
+      "grad": "Sveta Helena",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 114,
+      "tz_id": "Etc/UTC",
+      "regija": "Etc",
+      "grad": "",
+      "standardno_ime": "koordinirano svjetsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 115,
+      "tz_id": "Etc/Unknown",
+      "regija": "Etc",
+      "grad": "Nepoznati grad",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 116,
+      "tz_id": "Europe/Andorra",
+      "regija": "Europe",
+      "grad": "Andora",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 117,
+      "tz_id": "Europe/Astrakhan",
+      "regija": "Europe",
+      "grad": "Astrahan",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 118,
+      "tz_id": "Europe/Athens",
+      "regija": "Europe",
+      "grad": "Atena",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 119,
+      "tz_id": "Europe/Belgrade",
+      "regija": "Europe",
+      "grad": "Beograd",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 120,
+      "tz_id": "Europe/Brussels",
+      "regija": "Europe",
+      "grad": "Bruxelles",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 121,
+      "tz_id": "Europe/Bucharest",
+      "regija": "Europe",
+      "grad": "Bukurešt",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 122,
+      "tz_id": "Europe/Budapest",
+      "regija": "Europe",
+      "grad": "Budimpešta",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 123,
+      "tz_id": "Europe/Busingen",
+      "regija": "Europe",
+      "grad": "Büsingen",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 124,
+      "tz_id": "Europe/Chisinau",
+      "regija": "Europe",
+      "grad": "Kišinjev",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 125,
+      "tz_id": "Europe/Copenhagen",
+      "regija": "Europe",
+      "grad": "Kopenhagen",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 126,
+      "tz_id": "Europe/Dublin",
+      "regija": "Europe",
+      "grad": "",
+      "standardno_ime": "",
+      "ljetno_ime": "irsko standardno vrijeme"
+    },
+    {
+      "id": 127,
+      "tz_id": "Europe/Isle_of_Man",
+      "regija": "Europe",
+      "grad": "Otok Man",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 128,
+      "tz_id": "Europe/Kaliningrad",
+      "regija": "Europe",
+      "grad": "Kalinjingrad",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 129,
+      "tz_id": "Europe/Kiev",
+      "regija": "Europe",
+      "grad": "Kijev",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 130,
+      "tz_id": "Europe/Lisbon",
+      "regija": "Europe",
+      "grad": "Lisabon",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 131,
+      "tz_id": "Europe/London",
+      "regija": "Europe",
+      "grad": "",
+      "standardno_ime": "",
+      "ljetno_ime": "britansko ljetno vrijeme"
+    },
+    {
+      "id": 132,
+      "tz_id": "Europe/Luxembourg",
+      "regija": "Europe",
+      "grad": "Luksemburg",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 133,
+      "tz_id": "Europe/Monaco",
+      "regija": "Europe",
+      "grad": "Monako",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 134,
+      "tz_id": "Europe/Moscow",
+      "regija": "Europe",
+      "grad": "Moskva",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 135,
+      "tz_id": "Europe/Paris",
+      "regija": "Europe",
+      "grad": "Pariz",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 136,
+      "tz_id": "Europe/Prague",
+      "regija": "Europe",
+      "grad": "Prag",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 137,
+      "tz_id": "Europe/Rome",
+      "regija": "Europe",
+      "grad": "Rim",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 138,
+      "tz_id": "Europe/Simferopol",
+      "regija": "Europe",
+      "grad": "Simferopolj",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 139,
+      "tz_id": "Europe/Skopje",
+      "regija": "Europe",
+      "grad": "Skoplje",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 140,
+      "tz_id": "Europe/Sofia",
+      "regija": "Europe",
+      "grad": "Sofija",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 141,
+      "tz_id": "Europe/Tirane",
+      "regija": "Europe",
+      "grad": "Tirana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 142,
+      "tz_id": "Europe/Ulyanovsk",
+      "regija": "Europe",
+      "grad": "Uljanovsk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 143,
+      "tz_id": "Europe/Vatican",
+      "regija": "Europe",
+      "grad": "Vatikan",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 144,
+      "tz_id": "Europe/Vienna",
+      "regija": "Europe",
+      "grad": "Beč",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 145,
+      "tz_id": "Europe/Warsaw",
+      "regija": "Europe",
+      "grad": "Varšava",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 146,
+      "tz_id": "Europe/Zurich",
+      "regija": "Europe",
+      "grad": "Zürich",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 147,
+      "tz_id": "Indian/Comoro",
+      "regija": "Indian",
+      "grad": "Comores",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 148,
+      "tz_id": "Indian/Mahe",
+      "regija": "Indian",
+      "grad": "Mahé",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 149,
+      "tz_id": "Indian/Maldives",
+      "regija": "Indian",
+      "grad": "Maldivi",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 150,
+      "tz_id": "Indian/Mauritius",
+      "regija": "Indian",
+      "grad": "Mauricijus",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 151,
+      "tz_id": "Indian/Reunion",
+      "regija": "Indian",
+      "grad": "Réunion",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 152,
+      "tz_id": "Pacific/Enderbury",
+      "regija": "Pacific",
+      "grad": "Canton",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 153,
+      "tz_id": "Pacific/Fiji",
+      "regija": "Pacific",
+      "grad": "Fidži",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 154,
+      "tz_id": "Pacific/Galapagos",
+      "regija": "Pacific",
+      "grad": "Galápagos",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 155,
+      "tz_id": "Pacific/Honolulu",
+      "regija": "Pacific",
+      "grad": "Honolulu",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 156,
+      "tz_id": "Pacific/Marquesas",
+      "regija": "Pacific",
+      "grad": "Markižansko otočje",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 157,
+      "tz_id": "Pacific/Noumea",
+      "regija": "Pacific",
+      "grad": "Nouméa",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 158,
+      "tz_id": "Pacific/Ponape",
+      "regija": "Pacific",
+      "grad": "Pohnpei",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 159,
+      "tz_id": "Pacific/Truk",
+      "regija": "Pacific",
+      "grad": "Chuuk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 160,
+      "tz_id": "Pacific/Wallis",
+      "regija": "Pacific",
+      "grad": "Wallis & Futuna",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    }
+  ],
+  "meta": {
+    "title": "Vremenske zone svijeta (IANA / CLDR hrvatski) - Besplatno preuzimanje",
+    "description": "IANA tz identifikatori i hrvatski nazivi predstavničkih gradova iz CLDR hr lokala. 'regija' je prvi segment tz identifikatora. Sadrži 160 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vremenske zone svijeta (IANA / CLDR hrvatski) | ListBase",
+    "seo_description": "Preuzmi Vremenske zone svijeta (IANA / CLDR hrvatski) — 160 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 160 zapisa / 6 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

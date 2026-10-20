@@ -1,0 +1,1256 @@
+{
+  "id": "hr-zlatarnice",
+  "name": "Zlatarnice",
+  "title": "Zlatarnice",
+  "description": "Zlatarnice u Hrvatskoj (243 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=jewelry), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 243,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A. Restović",
+      "latitude": 43.507772,
+      "longitude": 16.438875
+    },
+    {
+      "name": "Accessories",
+      "latitude": 45.495973,
+      "longitude": 16.378425
+    },
+    {
+      "name": "Adoro",
+      "latitude": 45.792746,
+      "longitude": 15.91488
+    },
+    {
+      "name": "Amor",
+      "latitude": 44.114337,
+      "longitude": 15.225762
+    },
+    {
+      "name": "Antique Hvar",
+      "latitude": 43.183681,
+      "longitude": 16.597206
+    },
+    {
+      "name": "Antony",
+      "latitude": 45.335388,
+      "longitude": 14.307403
+    },
+    {
+      "name": "Argentum",
+      "latitude": 43.442964,
+      "longitude": 17.200742
+    },
+    {
+      "name": "Argentum",
+      "latitude": 44.867623,
+      "longitude": 13.848895
+    },
+    {
+      "name": "Argentum",
+      "latitude": 45.155352,
+      "longitude": 18.013124
+    },
+    {
+      "name": "Argentum",
+      "latitude": 45.267028,
+      "longitude": 15.225198
+    },
+    {
+      "name": "Argentum",
+      "latitude": 45.288173,
+      "longitude": 18.80544
+    },
+    {
+      "name": "Argentum",
+      "latitude": 45.288933,
+      "longitude": 18.801984
+    },
+    {
+      "name": "Argentum",
+      "latitude": 45.331335,
+      "longitude": 17.676626
+    },
+    {
+      "name": "Argentum",
+      "latitude": 45.554766,
+      "longitude": 18.638233
+    },
+    {
+      "name": "Argentum",
+      "latitude": 45.813757,
+      "longitude": 15.976511
+    },
+    {
+      "name": "Argentum",
+      "latitude": 45.814634,
+      "longitude": 15.996315
+    },
+    {
+      "name": "Argentum",
+      "latitude": 46.023872,
+      "longitude": 15.904425
+    },
+    {
+      "name": "Art Shop Unique",
+      "latitude": 43.585097,
+      "longitude": 15.921726
+    },
+    {
+      "name": "Atelier M",
+      "latitude": 45.337741,
+      "longitude": 13.831198
+    },
+    {
+      "name": "Atol",
+      "latitude": 43.442644,
+      "longitude": 16.694017
+    },
+    {
+      "name": "Auro Domus",
+      "latitude": 43.445993,
+      "longitude": 16.687497
+    },
+    {
+      "name": "Aurora Jewelry & Watches",
+      "latitude": 45.871779,
+      "longitude": 15.827537
+    },
+    {
+      "name": "Aurora rukotvorine",
+      "latitude": 45.811542,
+      "longitude": 15.973529
+    },
+    {
+      "name": "Barbara",
+      "latitude": 43.195349,
+      "longitude": 17.140369
+    },
+    {
+      "name": "Barić kristal",
+      "latitude": 43.510472,
+      "longitude": 16.436517
+    },
+    {
+      "name": "Bashota",
+      "latitude": 45.81319,
+      "longitude": 15.970153
+    },
+    {
+      "name": "Belinda",
+      "latitude": 43.507721,
+      "longitude": 16.43904
+    },
+    {
+      "name": "Benjamin",
+      "latitude": 46.390302,
+      "longitude": 16.437198
+    },
+    {
+      "name": "Benjkomerc",
+      "latitude": 44.443998,
+      "longitude": 15.054143
+    },
+    {
+      "name": "Biskau",
+      "latitude": 43.734977,
+      "longitude": 15.891658
+    },
+    {
+      "name": "Borboleta",
+      "latitude": 45.326691,
+      "longitude": 14.444281
+    },
+    {
+      "name": "Calvi antique fine jewelry",
+      "latitude": 45.811674,
+      "longitude": 15.977332
+    },
+    {
+      "name": "Camera Kačinari",
+      "latitude": 45.812634,
+      "longitude": 15.978765
+    },
+    {
+      "name": "Coral Gallery",
+      "latitude": 43.508842,
+      "longitude": 16.439268
+    },
+    {
+      "name": "Coral Shop by L&A",
+      "latitude": 43.171389,
+      "longitude": 16.441705
+    },
+    {
+      "name": "Crystal vision",
+      "latitude": 45.812693,
+      "longitude": 15.97557
+    },
+    {
+      "name": "Daka",
+      "latitude": 45.326333,
+      "longitude": 14.443354
+    },
+    {
+      "name": "Danima",
+      "latitude": 45.812467,
+      "longitude": 15.974675
+    },
+    {
+      "name": "De Petrus",
+      "latitude": 45.813301,
+      "longitude": 15.985473
+    },
+    {
+      "name": "De'llure",
+      "latitude": 45.820351,
+      "longitude": 15.97739
+    },
+    {
+      "name": "Dijamant",
+      "latitude": 45.812326,
+      "longitude": 15.94744
+    },
+    {
+      "name": "Domdjoni",
+      "latitude": 43.735162,
+      "longitude": 15.891734
+    },
+    {
+      "name": "Domenik",
+      "latitude": 43.507671,
+      "longitude": 16.439204
+    },
+    {
+      "name": "Dominik",
+      "latitude": 46.26401,
+      "longitude": 16.375136
+    },
+    {
+      "name": "Dominik",
+      "latitude": 46.389399,
+      "longitude": 16.438359
+    },
+    {
+      "name": "Dominik",
+      "latitude": 46.395837,
+      "longitude": 16.427527
+    },
+    {
+      "name": "Dvornik",
+      "latitude": 43.507603,
+      "longitude": 16.439424
+    },
+    {
+      "name": "Elegance",
+      "latitude": 45.813196,
+      "longitude": 15.97009
+    },
+    {
+      "name": "Elio Bijoux & Gifts",
+      "latitude": 44.870576,
+      "longitude": 13.842416
+    },
+    {
+      "name": "Euro Gold Silber",
+      "latitude": 43.586,
+      "longitude": 15.922004
+    },
+    {
+      "name": "Feliks",
+      "latitude": 45.80152,
+      "longitude": 15.712717
+    },
+    {
+      "name": "Festival Shop",
+      "latitude": 42.64154,
+      "longitude": 18.108189
+    },
+    {
+      "name": "Filigran",
+      "latitude": 43.509094,
+      "longitude": 16.439378
+    },
+    {
+      "name": "Filigran",
+      "latitude": 45.175277,
+      "longitude": 14.686979
+    },
+    {
+      "name": "Filigran",
+      "latitude": 45.291906,
+      "longitude": 14.276504
+    },
+    {
+      "name": "Frederiko",
+      "latitude": 45.33865,
+      "longitude": 14.309544
+    },
+    {
+      "name": "Freywille",
+      "latitude": 45.811666,
+      "longitude": 15.974166
+    },
+    {
+      "name": "Frida",
+      "latitude": 45.174408,
+      "longitude": 14.688175
+    },
+    {
+      "name": "Gabriel",
+      "latitude": 43.444349,
+      "longitude": 16.692971
+    },
+    {
+      "name": "Galeria-Atelie In Vitro Veritas",
+      "latitude": 45.379081,
+      "longitude": 13.723088
+    },
+    {
+      "name": "Gemstone gallery",
+      "latitude": 45.8126,
+      "longitude": 15.975354
+    },
+    {
+      "name": "Gerić",
+      "latitude": 45.488672,
+      "longitude": 15.546571
+    },
+    {
+      "name": "Glasnovic",
+      "latitude": 44.116028,
+      "longitude": 15.224947
+    },
+    {
+      "name": "Glasnović",
+      "latitude": 45.338218,
+      "longitude": 14.308923
+    },
+    {
+      "name": "Glasnović Dario",
+      "latitude": 45.813048,
+      "longitude": 15.955119
+    },
+    {
+      "name": "Glasnović zlatarstvo",
+      "latitude": 45.813192,
+      "longitude": 15.97011
+    },
+    {
+      "name": "Gloria Maris",
+      "latitude": 43.821935,
+      "longitude": 15.591018
+    },
+    {
+      "name": "Gloriamaris",
+      "latitude": 43.818124,
+      "longitude": 15.923142
+    },
+    {
+      "name": "Gold",
+      "latitude": 43.443475,
+      "longitude": 16.694046
+    },
+    {
+      "name": "Gold Gallery",
+      "latitude": 44.969716,
+      "longitude": 14.754543
+    },
+    {
+      "name": "Gold point",
+      "latitude": 43.712381,
+      "longitude": 15.913265
+    },
+    {
+      "name": "Gold point",
+      "latitude": 44.114242,
+      "longitude": 15.225887
+    },
+    {
+      "name": "Golden harmony",
+      "latitude": 45.330523,
+      "longitude": 14.302134
+    },
+    {
+      "name": "Heta 1892",
+      "latitude": 45.554669,
+      "longitude": 18.638943
+    },
+    {
+      "name": "Heta 1892",
+      "latitude": 45.555034,
+      "longitude": 18.637133
+    },
+    {
+      "name": "Ispod ure Zlatarna",
+      "latitude": 43.508388,
+      "longitude": 16.440053
+    },
+    {
+      "name": "Ivana",
+      "latitude": 43.511898,
+      "longitude": 16.440054
+    },
+    {
+      "name": "JP&R",
+      "latitude": 45.812882,
+      "longitude": 15.974933
+    },
+    {
+      "name": "Kamena duga",
+      "latitude": 45.770228,
+      "longitude": 15.939192
+    },
+    {
+      "name": "Kamena.duga",
+      "latitude": 43.510301,
+      "longitude": 16.436423
+    },
+    {
+      "name": "Kamena.duga",
+      "latitude": 45.811274,
+      "longitude": 15.975852
+    },
+    {
+      "name": "Klara",
+      "latitude": 42.58289,
+      "longitude": 18.216613
+    },
+    {
+      "name": "Kolajna",
+      "latitude": 43.444034,
+      "longitude": 16.693311
+    },
+    {
+      "name": "Kolajna 2",
+      "latitude": 43.443993,
+      "longitude": 16.693352
+    },
+    {
+      "name": "Kristijani",
+      "latitude": 45.127522,
+      "longitude": 14.790889
+    },
+    {
+      "name": "kte",
+      "latitude": 46.040853,
+      "longitude": 17.067245
+    },
+    {
+      "name": "Kuzmić",
+      "latitude": 45.816618,
+      "longitude": 16.004211
+    },
+    {
+      "name": "L'Occitane",
+      "latitude": 44.1141,
+      "longitude": 15.227731
+    },
+    {
+      "name": "Lapidarium",
+      "latitude": 45.814028,
+      "longitude": 15.97595
+    },
+    {
+      "name": "lapis",
+      "latitude": 45.815609,
+      "longitude": 15.976569
+    },
+    {
+      "name": "Le-Wi-Ko",
+      "latitude": 45.489204,
+      "longitude": 15.548951
+    },
+    {
+      "name": "Lefami",
+      "latitude": 45.02612,
+      "longitude": 14.574646
+    },
+    {
+      "name": "Leon Koci",
+      "latitude": 45.799696,
+      "longitude": 15.953068
+    },
+    {
+      "name": "Lewiko",
+      "latitude": 45.81362,
+      "longitude": 15.986472
+    },
+    {
+      "name": "Lili's",
+      "latitude": 45.81482,
+      "longitude": 15.976647
+    },
+    {
+      "name": "Llataina Dina",
+      "latitude": 42.583012,
+      "longitude": 18.21653
+    },
+    {
+      "name": "Lorenc",
+      "latitude": 45.155386,
+      "longitude": 18.012816
+    },
+    {
+      "name": "Luka",
+      "latitude": 45.154583,
+      "longitude": 18.0236
+    },
+    {
+      "name": "Lumezi",
+      "latitude": 45.814217,
+      "longitude": 15.994175
+    },
+    {
+      "name": "Mala Galerija",
+      "latitude": 44.11402,
+      "longitude": 15.227444
+    },
+    {
+      "name": "Malalan",
+      "latitude": 45.8131,
+      "longitude": 15.979606
+    },
+    {
+      "name": "Mamić",
+      "latitude": 45.812373,
+      "longitude": 15.975561
+    },
+    {
+      "name": "Manina",
+      "latitude": 42.961112,
+      "longitude": 17.136558
+    },
+    {
+      "name": "Marija",
+      "latitude": 45.813948,
+      "longitude": 15.997581
+    },
+    {
+      "name": "Marijan",
+      "latitude": 43.8223,
+      "longitude": 15.592311
+    },
+    {
+      "name": "Marijan",
+      "latitude": 44.117215,
+      "longitude": 15.239045
+    },
+    {
+      "name": "Marina",
+      "latitude": 42.962254,
+      "longitude": 17.136256
+    },
+    {
+      "name": "Mario",
+      "latitude": 43.104794,
+      "longitude": 17.341853
+    },
+    {
+      "name": "Mark Pjetri",
+      "latitude": 45.770233,
+      "longitude": 15.939483
+    },
+    {
+      "name": "Mazreku",
+      "latitude": 43.383653,
+      "longitude": 16.553497
+    },
+    {
+      "name": "Michael",
+      "latitude": 45.026186,
+      "longitude": 14.574636
+    },
+    {
+      "name": "Mineral expo",
+      "latitude": 45.802023,
+      "longitude": 15.959542
+    },
+    {
+      "name": "Mineral Expo",
+      "latitude": 45.812264,
+      "longitude": 15.977401
+    },
+    {
+      "name": "Mjeda",
+      "latitude": 43.508724,
+      "longitude": 16.439329
+    },
+    {
+      "name": "MK",
+      "latitude": 45.803486,
+      "longitude": 15.993179
+    },
+    {
+      "name": "MK zlatarnica",
+      "latitude": 45.813129,
+      "longitude": 15.966923
+    },
+    {
+      "name": "Moja Masa",
+      "latitude": 45.08403,
+      "longitude": 13.631706
+    },
+    {
+      "name": "Morsko blago",
+      "latitude": 45.335445,
+      "longitude": 14.307443
+    },
+    {
+      "name": "Nautilus",
+      "latitude": 45.813741,
+      "longitude": 15.992082
+    },
+    {
+      "name": "Nika",
+      "latitude": 43.507553,
+      "longitude": 16.439588
+    },
+    {
+      "name": "Nikola",
+      "latitude": 43.447357,
+      "longitude": 17.215538
+    },
+    {
+      "name": "Nikola",
+      "latitude": 45.153512,
+      "longitude": 18.01276
+    },
+    {
+      "name": "Nokaj",
+      "latitude": 45.885294,
+      "longitude": 16.418748
+    },
+    {
+      "name": "Omega 3",
+      "latitude": 42.640714,
+      "longitude": 18.107871
+    },
+    {
+      "name": "Onyx",
+      "latitude": 45.485476,
+      "longitude": 16.372494
+    },
+    {
+      "name": "opal",
+      "latitude": 45.481094,
+      "longitude": 16.777976
+    },
+    {
+      "name": "Otkup Zlata | Auro Domus | Bjelovar",
+      "latitude": 45.901186,
+      "longitude": 16.844623
+    },
+    {
+      "name": "Pal shop",
+      "latitude": 45.316352,
+      "longitude": 13.559308
+    },
+    {
+      "name": "Paljuca",
+      "latitude": 43.516196,
+      "longitude": 16.25095
+    },
+    {
+      "name": "Pandora",
+      "latitude": 45.325999,
+      "longitude": 14.443394
+    },
+    {
+      "name": "Pandora",
+      "latitude": 45.770618,
+      "longitude": 15.940789
+    },
+    {
+      "name": "Pandora",
+      "latitude": 45.812981,
+      "longitude": 15.974192
+    },
+    {
+      "name": "Perla",
+      "latitude": 42.581938,
+      "longitude": 18.216837
+    },
+    {
+      "name": "Plava zvijezda",
+      "latitude": 43.516751,
+      "longitude": 16.250952
+    },
+    {
+      "name": "Prahir",
+      "latitude": 45.716342,
+      "longitude": 16.069709
+    },
+    {
+      "name": "Prahir",
+      "latitude": 45.71742,
+      "longitude": 16.065236
+    },
+    {
+      "name": "Prahir",
+      "latitude": 45.77052,
+      "longitude": 15.939832
+    },
+    {
+      "name": "Prahir",
+      "latitude": 45.799024,
+      "longitude": 15.88907
+    },
+    {
+      "name": "Prahir",
+      "latitude": 45.813206,
+      "longitude": 15.974015
+    },
+    {
+      "name": "Pupa",
+      "latitude": 43.505136,
+      "longitude": 16.454745
+    },
+    {
+      "name": "Riva",
+      "latitude": 43.50784,
+      "longitude": 16.438656
+    },
+    {
+      "name": "Roberto-Studio",
+      "latitude": 42.640754,
+      "longitude": 18.108653
+    },
+    {
+      "name": "Roberto-Studio",
+      "latitude": 42.641022,
+      "longitude": 18.109691
+    },
+    {
+      "name": "Roginić",
+      "latitude": 45.808968,
+      "longitude": 15.980214
+    },
+    {
+      "name": "Rossini",
+      "latitude": 45.871709,
+      "longitude": 15.826939
+    },
+    {
+      "name": "Rubin",
+      "latitude": 42.583124,
+      "longitude": 18.216422
+    },
+    {
+      "name": "Sabina",
+      "latitude": 45.703657,
+      "longitude": 16.393997
+    },
+    {
+      "name": "Seba",
+      "latitude": 43.443618,
+      "longitude": 16.692884
+    },
+    {
+      "name": "Seba",
+      "latitude": 45.802037,
+      "longitude": 15.711594
+    },
+    {
+      "name": "Silver for you",
+      "latitude": 45.803996,
+      "longitude": 16.102153
+    },
+    {
+      "name": "Silver Herc Jewelry",
+      "latitude": 45.798359,
+      "longitude": 15.946398
+    },
+    {
+      "name": "Silver time",
+      "latitude": 45.159696,
+      "longitude": 17.998089
+    },
+    {
+      "name": "Skeleta",
+      "latitude": 42.961314,
+      "longitude": 17.135938
+    },
+    {
+      "name": "Solid Gold",
+      "latitude": 46.390038,
+      "longitude": 16.436409
+    },
+    {
+      "name": "Sonora",
+      "latitude": 45.330449,
+      "longitude": 14.302158
+    },
+    {
+      "name": "Stjepan Popek",
+      "latitude": 45.811245,
+      "longitude": 15.975403
+    },
+    {
+      "name": "Stones jewelry room",
+      "latitude": 45.812268,
+      "longitude": 15.975742
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 44.115038,
+      "longitude": 15.226271
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 45.325774,
+      "longitude": 14.443704
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 45.770903,
+      "longitude": 15.940166
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 45.811042,
+      "longitude": 15.973414
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 45.81249,
+      "longitude": 15.973361
+    },
+    {
+      "name": "Tehničar",
+      "latitude": 43.507968,
+      "longitude": 16.438553
+    },
+    {
+      "name": "Tiana",
+      "latitude": 45.026309,
+      "longitude": 14.575125
+    },
+    {
+      "name": "Trgovina Klara",
+      "latitude": 42.640814,
+      "longitude": 18.108458
+    },
+    {
+      "name": "TZO Casio",
+      "latitude": 43.443354,
+      "longitude": 16.693336
+    },
+    {
+      "name": "U Ive",
+      "latitude": 43.906572,
+      "longitude": 15.507541
+    },
+    {
+      "name": "unique",
+      "latitude": 45.482837,
+      "longitude": 16.77603
+    },
+    {
+      "name": "Valentino",
+      "latitude": 45.124169,
+      "longitude": 14.527422
+    },
+    {
+      "name": "Victoria",
+      "latitude": 45.805616,
+      "longitude": 16.233176
+    },
+    {
+      "name": "Viktor koralji",
+      "latitude": 43.696553,
+      "longitude": 15.835805
+    },
+    {
+      "name": "Vitić",
+      "latitude": 43.702492,
+      "longitude": 16.640289
+    },
+    {
+      "name": "XD Xenia Design",
+      "latitude": 45.338026,
+      "longitude": 14.309035
+    },
+    {
+      "name": "Yuwelir",
+      "latitude": 45.026151,
+      "longitude": 14.574443
+    },
+    {
+      "name": "Zaks",
+      "latitude": 43.508496,
+      "longitude": 16.439756
+    },
+    {
+      "name": "Zaks",
+      "latitude": 45.159745,
+      "longitude": 17.997841
+    },
+    {
+      "name": "Zaks",
+      "latitude": 45.770531,
+      "longitude": 15.940247
+    },
+    {
+      "name": "Zaks",
+      "latitude": 45.813207,
+      "longitude": 15.976165
+    },
+    {
+      "name": "ZAKS",
+      "latitude": 46.390178,
+      "longitude": 16.436398
+    },
+    {
+      "name": "Zatarna",
+      "latitude": 45.326141,
+      "longitude": 14.446282
+    },
+    {
+      "name": "Zlatar",
+      "latitude": 44.114249,
+      "longitude": 15.225965
+    },
+    {
+      "name": "Zlatar",
+      "latitude": 45.173994,
+      "longitude": 14.688856
+    },
+    {
+      "name": "Zlatar",
+      "latitude": 45.813262,
+      "longitude": 15.967676
+    },
+    {
+      "name": "Zlatar",
+      "latitude": 45.895956,
+      "longitude": 16.842417
+    },
+    {
+      "name": "Zlatar",
+      "latitude": 46.513104,
+      "longitude": 16.439125
+    },
+    {
+      "name": "Zlatar draguljar Butuči",
+      "latitude": 45.813439,
+      "longitude": 15.980008
+    },
+    {
+      "name": "Zlatar MM",
+      "latitude": 45.813545,
+      "longitude": 15.983257
+    },
+    {
+      "name": "Zlatar Pali Mjeda Florentina",
+      "latitude": 46.025985,
+      "longitude": 16.54571
+    },
+    {
+      "name": "Zlatar Robert",
+      "latitude": 46.389029,
+      "longitude": 16.438464
+    },
+    {
+      "name": "Zlatar Vili",
+      "latitude": 45.813511,
+      "longitude": 15.984904
+    },
+    {
+      "name": "Zlatar Štef",
+      "latitude": 45.813309,
+      "longitude": 15.968215
+    },
+    {
+      "name": "Zlatarna",
+      "latitude": 42.583315,
+      "longitude": 18.216212
+    },
+    {
+      "name": "Zlatarna A&L",
+      "latitude": 46.389339,
+      "longitude": 16.438378
+    },
+    {
+      "name": "Zlatarna AR",
+      "latitude": 44.113312,
+      "longitude": 15.227174
+    },
+    {
+      "name": "Zlatarna Biškup",
+      "latitude": 46.223813,
+      "longitude": 16.122178
+    },
+    {
+      "name": "Zlatarna Celje",
+      "latitude": 43.509863,
+      "longitude": 16.437459
+    },
+    {
+      "name": "Zlatarna Celje",
+      "latitude": 45.326864,
+      "longitude": 14.44165
+    },
+    {
+      "name": "Zlatarna Celje",
+      "latitude": 45.803538,
+      "longitude": 16.006253
+    },
+    {
+      "name": "Zlatarna Celje",
+      "latitude": 45.811377,
+      "longitude": 15.712193
+    },
+    {
+      "name": "Zlatarna Celje",
+      "latitude": 45.811786,
+      "longitude": 15.977346
+    },
+    {
+      "name": "Zlatarna Celje",
+      "latitude": 45.812428,
+      "longitude": 15.972973
+    },
+    {
+      "name": "Zlatarna Celje",
+      "latitude": 45.872037,
+      "longitude": 15.82723
+    },
+    {
+      "name": "Zlatarna Dodić",
+      "latitude": 44.956736,
+      "longitude": 15.640062
+    },
+    {
+      "name": "Zlatarna Domdjoni",
+      "latitude": 43.73499,
+      "longitude": 15.891613
+    },
+    {
+      "name": "Zlatarna Donat",
+      "latitude": 44.114086,
+      "longitude": 15.226085
+    },
+    {
+      "name": "Zlatarna Gaši",
+      "latitude": 45.486287,
+      "longitude": 16.372595
+    },
+    {
+      "name": "Zlatarna Josip",
+      "latitude": 44.043335,
+      "longitude": 16.198345
+    },
+    {
+      "name": "Zlatarna Jozo",
+      "latitude": 45.900405,
+      "longitude": 16.843514
+    },
+    {
+      "name": "Zlatarna Kabashi",
+      "latitude": 45.776463,
+      "longitude": 15.995825
+    },
+    {
+      "name": "Zlatarna Kolja",
+      "latitude": 43.293401,
+      "longitude": 17.020539
+    },
+    {
+      "name": "Zlatarna Kolja",
+      "latitude": 43.294495,
+      "longitude": 17.0194
+    },
+    {
+      "name": "Zlatarna Kristian",
+      "latitude": 43.293819,
+      "longitude": 17.020343
+    },
+    {
+      "name": "Zlatarna Kristijan",
+      "latitude": 44.113192,
+      "longitude": 15.227327
+    },
+    {
+      "name": "Zlatarna Luiz",
+      "latitude": 44.113146,
+      "longitude": 15.227205
+    },
+    {
+      "name": "Zlatarna Manuell",
+      "latitude": 44.113333,
+      "longitude": 15.227116
+    },
+    {
+      "name": "Zlatarna Marko",
+      "latitude": 43.240763,
+      "longitude": 17.076636
+    },
+    {
+      "name": "Zlatarna Martini",
+      "latitude": 42.641165,
+      "longitude": 18.107395
+    },
+    {
+      "name": "Zlatarna Mihajlević",
+      "latitude": 43.443798,
+      "longitude": 16.692738
+    },
+    {
+      "name": "Zlatarna Nomis",
+      "latitude": 44.969767,
+      "longitude": 14.756146
+    },
+    {
+      "name": "Zlatarna Oziris",
+      "latitude": 45.871039,
+      "longitude": 15.825999
+    },
+    {
+      "name": "Zlatarna Paljuca",
+      "latitude": 43.516069,
+      "longitude": 16.251027
+    },
+    {
+      "name": "Zlatarna Patrik",
+      "latitude": 43.295012,
+      "longitude": 17.020104
+    },
+    {
+      "name": "Zlatarna R&M",
+      "latitude": 45.790005,
+      "longitude": 15.9287
+    },
+    {
+      "name": "Zlatarna Rodić",
+      "latitude": 45.812265,
+      "longitude": 15.980337
+    },
+    {
+      "name": "Zlatarna Rubin",
+      "latitude": 44.114463,
+      "longitude": 15.225494
+    },
+    {
+      "name": "Zlatarna Tarčuki",
+      "latitude": 43.295115,
+      "longitude": 17.01801
+    },
+    {
+      "name": "Zlatarna Toni",
+      "latitude": 46.390254,
+      "longitude": 16.437037
+    },
+    {
+      "name": "Zlatarna Vagus",
+      "latitude": 43.508435,
+      "longitude": 16.439017
+    },
+    {
+      "name": "Zlatarna Valentina",
+      "latitude": 45.020827,
+      "longitude": 14.627947
+    },
+    {
+      "name": "Zlatarna Zvonko Marić",
+      "latitude": 45.812272,
+      "longitude": 15.975624
+    },
+    {
+      "name": "Zlatarna Černi",
+      "latitude": 45.591423,
+      "longitude": 17.223368
+    },
+    {
+      "name": "Zlatarna Černi",
+      "latitude": 45.89693,
+      "longitude": 16.841765
+    },
+    {
+      "name": "Zlatarna Široka",
+      "latitude": 45.809813,
+      "longitude": 15.979921
+    },
+    {
+      "name": "Zlatarnica",
+      "latitude": 45.769277,
+      "longitude": 18.599301
+    },
+    {
+      "name": "Zlatarnica Celje",
+      "latitude": 45.493108,
+      "longitude": 15.548619
+    },
+    {
+      "name": "Zlatarnica Glasnović",
+      "latitude": 45.81269,
+      "longitude": 15.976601
+    },
+    {
+      "name": "Zlatarnica Josip",
+      "latitude": 44.035952,
+      "longitude": 16.197624
+    },
+    {
+      "name": "Zlatarnica Josip Glasnović",
+      "latitude": 45.813708,
+      "longitude": 15.983927
+    },
+    {
+      "name": "Zlatarnica Jozef Gjoni",
+      "latitude": 45.812269,
+      "longitude": 15.980142
+    },
+    {
+      "name": "Zlatarnica Maro",
+      "latitude": 45.801559,
+      "longitude": 15.710781
+    },
+    {
+      "name": "Zlatarski obrt Om",
+      "latitude": 43.508359,
+      "longitude": 16.440135
+    },
+    {
+      "name": "Zupan",
+      "latitude": 45.026426,
+      "longitude": 14.575801
+    },
+    {
+      "name": "Zvonko Marić",
+      "latitude": 45.799914,
+      "longitude": 15.953118
+    }
+  ],
+  "meta": {
+    "title": "Zlatarnice - Besplatno preuzimanje",
+    "description": "Zlatarnice u Hrvatskoj (243 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=jewelry), izrez EU-POIS/HR. Sadrži 243 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Zlatarnice | ListBase",
+    "seo_description": "Preuzmi Zlatarnice — 243 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 243 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

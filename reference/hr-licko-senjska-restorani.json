@@ -1,0 +1,796 @@
+{
+  "id": "hr-licko-senjska-restorani",
+  "name": "Restorani — Ličko-senjska županija",
+  "title": "Restorani — Ličko-senjska županija",
+  "description": "151 restorani u županiji Ličko-senjska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 151,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A'mare beach restaurant",
+      "latitude": 44.578019,
+      "longitude": 14.849104
+    },
+    {
+      "name": "Ad Astra",
+      "latitude": 44.989303,
+      "longitude": 14.901763
+    },
+    {
+      "name": "Adria",
+      "latitude": 45.014693,
+      "longitude": 14.891749
+    },
+    {
+      "name": "Antonio",
+      "latitude": 44.55333,
+      "longitude": 14.884677
+    },
+    {
+      "name": "Babić",
+      "latitude": 44.757713,
+      "longitude": 15.697568
+    },
+    {
+      "name": "Baške Oštarije",
+      "latitude": 44.525917,
+      "longitude": 15.16708
+    },
+    {
+      "name": "Biffe \"Malo Misto\"",
+      "latitude": 44.505077,
+      "longitude": 15.299614
+    },
+    {
+      "name": "Bistor Slavica",
+      "latitude": 44.764698,
+      "longitude": 15.691814
+    },
+    {
+      "name": "Bistro \"Janjče istok\"",
+      "latitude": 44.750912,
+      "longitude": 15.375291
+    },
+    {
+      "name": "Bistro Adriatic",
+      "latitude": 44.524912,
+      "longitude": 15.073253
+    },
+    {
+      "name": "Bistro Antonio",
+      "latitude": 44.866599,
+      "longitude": 15.637462
+    },
+    {
+      "name": "Bistro Ličanka",
+      "latitude": 44.703199,
+      "longitude": 15.749699
+    },
+    {
+      "name": "Bistro Mali",
+      "latitude": 44.643512,
+      "longitude": 14.779825
+    },
+    {
+      "name": "Bistro Manjan",
+      "latitude": 44.821469,
+      "longitude": 15.051629
+    },
+    {
+      "name": "Bistro Novalja",
+      "latitude": 44.542836,
+      "longitude": 14.897364
+    },
+    {
+      "name": "Bistro Riva",
+      "latitude": 44.929472,
+      "longitude": 14.919617
+    },
+    {
+      "name": "Bistro Toni",
+      "latitude": 44.642837,
+      "longitude": 14.779914
+    },
+    {
+      "name": "Bistro Tovarnele",
+      "latitude": 44.692905,
+      "longitude": 14.736096
+    },
+    {
+      "name": "Bistro Vrilo Gacke",
+      "latitude": 44.788415,
+      "longitude": 15.367462
+    },
+    {
+      "name": "Bistro Vučnica",
+      "latitude": 44.871198,
+      "longitude": 15.629958
+    },
+    {
+      "name": "Black River - Steak And Pasta House",
+      "latitude": 44.880192,
+      "longitude": 15.622478
+    },
+    {
+      "name": "Borje",
+      "latitude": 44.765435,
+      "longitude": 15.690716
+    },
+    {
+      "name": "Boškinac",
+      "latitude": 44.572413,
+      "longitude": 14.90032
+    },
+    {
+      "name": "Bravarica",
+      "latitude": 44.62473,
+      "longitude": 14.798405
+    },
+    {
+      "name": "Buffet Kod Ćone",
+      "latitude": 45.042097,
+      "longitude": 14.939607
+    },
+    {
+      "name": "Burger bar Hary",
+      "latitude": 44.547421,
+      "longitude": 15.372598
+    },
+    {
+      "name": "Caffe bar Kuterevo",
+      "latitude": 44.821204,
+      "longitude": 15.139725
+    },
+    {
+      "name": "Cesarica",
+      "latitude": 44.559025,
+      "longitude": 15.032311
+    },
+    {
+      "name": "City",
+      "latitude": 44.551524,
+      "longitude": 15.961618
+    },
+    {
+      "name": "Crnika",
+      "latitude": 44.656592,
+      "longitude": 14.766843
+    },
+    {
+      "name": "Ethno Houses Plitvica Selo",
+      "latitude": 44.89836,
+      "longitude": 15.604953
+    },
+    {
+      "name": "Feral",
+      "latitude": 44.600286,
+      "longitude": 15.735048
+    },
+    {
+      "name": "Florida Grill",
+      "latitude": 44.36347,
+      "longitude": 15.290912
+    },
+    {
+      "name": "Fortuna",
+      "latitude": 44.703786,
+      "longitude": 15.748631
+    },
+    {
+      "name": "Franck",
+      "latitude": 44.526503,
+      "longitude": 15.071882
+    },
+    {
+      "name": "Fratelli",
+      "latitude": 44.54512,
+      "longitude": 15.370097
+    },
+    {
+      "name": "Gacka dolina",
+      "latitude": 44.965239,
+      "longitude": 15.074368
+    },
+    {
+      "name": "Gostionica Butina",
+      "latitude": 44.827923,
+      "longitude": 15.138655
+    },
+    {
+      "name": "Gostionica Jadran",
+      "latitude": 44.691466,
+      "longitude": 14.734974
+    },
+    {
+      "name": "Green Garden",
+      "latitude": 44.552376,
+      "longitude": 14.885323
+    },
+    {
+      "name": "Grill As",
+      "latitude": 44.989806,
+      "longitude": 14.900964
+    },
+    {
+      "name": "Grill Tomislav",
+      "latitude": 44.545397,
+      "longitude": 15.366274
+    },
+    {
+      "name": "Hazienda",
+      "latitude": 44.914791,
+      "longitude": 14.913796
+    },
+    {
+      "name": "Infinity",
+      "latitude": 44.543561,
+      "longitude": 15.755695
+    },
+    {
+      "name": "Izletiste Kod Bunara",
+      "latitude": 44.921648,
+      "longitude": 15.601394
+    },
+    {
+      "name": "Jablan",
+      "latitude": 44.97069,
+      "longitude": 14.972631
+    },
+    {
+      "name": "Kod Juke",
+      "latitude": 44.564167,
+      "longitude": 15.317773
+    },
+    {
+      "name": "Kod tri mornara",
+      "latitude": 44.989821,
+      "longitude": 14.900648
+    },
+    {
+      "name": "Kod Veska",
+      "latitude": 44.990053,
+      "longitude": 14.900898
+    },
+    {
+      "name": "Konoba",
+      "latitude": 44.507433,
+      "longitude": 15.01065
+    },
+    {
+      "name": "Konoba - pansion Sidro",
+      "latitude": 44.644525,
+      "longitude": 14.777743
+    },
+    {
+      "name": "Konoba 85",
+      "latitude": 44.556632,
+      "longitude": 14.883358
+    },
+    {
+      "name": "Konoba Amfora",
+      "latitude": 44.529866,
+      "longitude": 15.06626
+    },
+    {
+      "name": "Konoba Antika",
+      "latitude": 44.556269,
+      "longitude": 14.883881
+    },
+    {
+      "name": "Konoba Gajeta",
+      "latitude": 44.993868,
+      "longitude": 14.899531
+    },
+    {
+      "name": "Konoba Grill Matulo",
+      "latitude": 44.550135,
+      "longitude": 14.885538
+    },
+    {
+      "name": "Konoba Gusti",
+      "latitude": 44.92883,
+      "longitude": 14.920107
+    },
+    {
+      "name": "Konoba IVK",
+      "latitude": 44.98958,
+      "longitude": 14.901748
+    },
+    {
+      "name": "Konoba Jozephina",
+      "latitude": 44.968039,
+      "longitude": 14.975878
+    },
+    {
+      "name": "Konoba Jure",
+      "latitude": 44.824604,
+      "longitude": 15.052072
+    },
+    {
+      "name": "Konoba Kanjon",
+      "latitude": 44.50241,
+      "longitude": 15.02105
+    },
+    {
+      "name": "Konoba Kiko",
+      "latitude": 44.930041,
+      "longitude": 14.920559
+    },
+    {
+      "name": "Konoba Lavlji Dvor",
+      "latitude": 44.989877,
+      "longitude": 14.902292
+    },
+    {
+      "name": "Konoba Mul",
+      "latitude": 44.930508,
+      "longitude": 14.920295
+    },
+    {
+      "name": "Konoba No. 5",
+      "latitude": 44.555186,
+      "longitude": 14.884263
+    },
+    {
+      "name": "Konoba Pastrva",
+      "latitude": 44.761283,
+      "longitude": 15.693788
+    },
+    {
+      "name": "Konoba Pifra",
+      "latitude": 44.554874,
+      "longitude": 14.884524
+    },
+    {
+      "name": "Konoba Porat",
+      "latitude": 44.603632,
+      "longitude": 14.872275
+    },
+    {
+      "name": "Konoba Reful",
+      "latitude": 44.551677,
+      "longitude": 14.884942
+    },
+    {
+      "name": "Konoba Stara Dama",
+      "latitude": 44.545415,
+      "longitude": 15.369044
+    },
+    {
+      "name": "Konoba Stina",
+      "latitude": 44.692214,
+      "longitude": 14.90193
+    },
+    {
+      "name": "Konoba stric Luka",
+      "latitude": 44.973205,
+      "longitude": 14.957616
+    },
+    {
+      "name": "Konoba Terra",
+      "latitude": 44.58002,
+      "longitude": 14.852134
+    },
+    {
+      "name": "Konoba Timun",
+      "latitude": 44.555218,
+      "longitude": 14.884046
+    },
+    {
+      "name": "Konoba Tvrdava Nehay",
+      "latitude": 44.986624,
+      "longitude": 14.903386
+    },
+    {
+      "name": "Krešimir",
+      "latitude": 44.989324,
+      "longitude": 14.899824
+    },
+    {
+      "name": "KULA",
+      "latitude": 44.612676,
+      "longitude": 15.448249
+    },
+    {
+      "name": "La Paloma",
+      "latitude": 44.556223,
+      "longitude": 14.883718
+    },
+    {
+      "name": "La Tortilla",
+      "latitude": 44.552292,
+      "longitude": 14.885098
+    },
+    {
+      "name": "Lička kuća",
+      "latitude": 44.905833,
+      "longitude": 15.613645
+    },
+    {
+      "name": "Lux",
+      "latitude": 44.705503,
+      "longitude": 14.897752
+    },
+    {
+      "name": "Macola",
+      "latitude": 44.461476,
+      "longitude": 15.6018
+    },
+    {
+      "name": "Margarita",
+      "latitude": 44.548757,
+      "longitude": 14.887775
+    },
+    {
+      "name": "Moby Dick",
+      "latitude": 44.55442,
+      "longitude": 14.88465
+    },
+    {
+      "name": "Most",
+      "latitude": 44.580544,
+      "longitude": 15.392676
+    },
+    {
+      "name": "Mrsinj",
+      "latitude": 44.74614,
+      "longitude": 15.704964
+    },
+    {
+      "name": "Mul",
+      "latitude": 44.624512,
+      "longitude": 14.79948
+    },
+    {
+      "name": "News Cafe",
+      "latitude": 44.555876,
+      "longitude": 14.883553
+    },
+    {
+      "name": "Oaza",
+      "latitude": 44.706115,
+      "longitude": 14.897958
+    },
+    {
+      "name": "Pansion Breza",
+      "latitude": 44.896848,
+      "longitude": 15.595268
+    },
+    {
+      "name": "Pansion Maslina",
+      "latitude": 44.645542,
+      "longitude": 14.780378
+    },
+    {
+      "name": "Pansion Mila",
+      "latitude": 44.921929,
+      "longitude": 15.601453
+    },
+    {
+      "name": "Pension Konoba IVO",
+      "latitude": 44.63982,
+      "longitude": 14.782827
+    },
+    {
+      "name": "Pension Palma",
+      "latitude": 44.644999,
+      "longitude": 14.780929
+    },
+    {
+      "name": "Petar",
+      "latitude": 44.91468,
+      "longitude": 15.607583
+    },
+    {
+      "name": "Pizza More",
+      "latitude": 44.541094,
+      "longitude": 14.881867
+    },
+    {
+      "name": "Pizza OK",
+      "latitude": 44.529569,
+      "longitude": 15.067038
+    },
+    {
+      "name": "Pizzeria Adria",
+      "latitude": 44.928248,
+      "longitude": 14.918992
+    },
+    {
+      "name": "Pizzeria Haluga",
+      "latitude": 44.692868,
+      "longitude": 14.734571
+    },
+    {
+      "name": "Pizzeria King",
+      "latitude": 44.989127,
+      "longitude": 14.901559
+    },
+    {
+      "name": "Pizzeria Riva",
+      "latitude": 44.508664,
+      "longitude": 15.009985
+    },
+    {
+      "name": "Pizzeria Ruspante",
+      "latitude": 44.81455,
+      "longitude": 15.356944
+    },
+    {
+      "name": "Plaža",
+      "latitude": 44.541483,
+      "longitude": 14.881419
+    },
+    {
+      "name": "Plitvice",
+      "latitude": 44.933858,
+      "longitude": 15.630269
+    },
+    {
+      "name": "Plješevica",
+      "latitude": 44.773385,
+      "longitude": 15.690576
+    },
+    {
+      "name": "Pod Gradinom",
+      "latitude": 44.928749,
+      "longitude": 14.919063
+    },
+    {
+      "name": "Pod Hrastom",
+      "latitude": 44.627954,
+      "longitude": 14.796135
+    },
+    {
+      "name": "porat lukovo",
+      "latitude": 44.855843,
+      "longitude": 14.891951
+    },
+    {
+      "name": "Potok",
+      "latitude": 44.989438,
+      "longitude": 14.901032
+    },
+    {
+      "name": "Pupi",
+      "latitude": 44.556208,
+      "longitude": 14.882588
+    },
+    {
+      "name": "Putnik",
+      "latitude": 44.976236,
+      "longitude": 14.995947
+    },
+    {
+      "name": "Restaurant Jure",
+      "latitude": 44.363802,
+      "longitude": 15.289306
+    },
+    {
+      "name": "Restaurant Lika jug",
+      "latitude": 45.006036,
+      "longitude": 15.129251
+    },
+    {
+      "name": "Restaurant Lika sjever",
+      "latitude": 45.007246,
+      "longitude": 15.127505
+    },
+    {
+      "name": "Restaurant Martina",
+      "latitude": 45.001419,
+      "longitude": 14.896951
+    },
+    {
+      "name": "Restaurant Poljana",
+      "latitude": 44.880018,
+      "longitude": 15.622677
+    },
+    {
+      "name": "Restaurant Robert",
+      "latitude": 44.54256,
+      "longitude": 15.765707
+    },
+    {
+      "name": "Restaurant Visibaba",
+      "latitude": 44.843437,
+      "longitude": 15.504812
+    },
+    {
+      "name": "RESTORAN ALBATROS",
+      "latitude": 44.665527,
+      "longitude": 15.382433
+    },
+    {
+      "name": "Restoran Bojana",
+      "latitude": 44.524534,
+      "longitude": 15.763176
+    },
+    {
+      "name": "Restoran Borik",
+      "latitude": 44.533886,
+      "longitude": 14.898708
+    },
+    {
+      "name": "Restoran Jezero",
+      "latitude": 44.883682,
+      "longitude": 15.618539
+    },
+    {
+      "name": "Restoran Lička kapa",
+      "latitude": 44.711473,
+      "longitude": 15.744273
+    },
+    {
+      "name": "Restoran Macola",
+      "latitude": 44.738887,
+      "longitude": 15.716584
+    },
+    {
+      "name": "Restoran Pizzeria Karlobag",
+      "latitude": 44.526737,
+      "longitude": 15.071746
+    },
+    {
+      "name": "Restoran Prašina",
+      "latitude": 44.527858,
+      "longitude": 15.336474
+    },
+    {
+      "name": "Restoran Šapina",
+      "latitude": 44.751562,
+      "longitude": 15.701928
+    },
+    {
+      "name": "Ribarica",
+      "latitude": 44.55367,
+      "longitude": 15.037427
+    },
+    {
+      "name": "Ribič",
+      "latitude": 44.862734,
+      "longitude": 15.222414
+    },
+    {
+      "name": "Riva",
+      "latitude": 44.558001,
+      "longitude": 14.881196
+    },
+    {
+      "name": "Rizik",
+      "latitude": 44.828798,
+      "longitude": 15.048892
+    },
+    {
+      "name": "Santo Restaurant & Bar",
+      "latitude": 44.555879,
+      "longitude": 14.884833
+    },
+    {
+      "name": "Stari Kastel",
+      "latitude": 44.55545,
+      "longitude": 14.883762
+    },
+    {
+      "name": "Stari mlin",
+      "latitude": 44.608721,
+      "longitude": 14.826673
+    },
+    {
+      "name": "Starigrad",
+      "latitude": 44.989792,
+      "longitude": 14.902567
+    },
+    {
+      "name": "Steffani",
+      "latitude": 44.55497,
+      "longitude": 14.884446
+    },
+    {
+      "name": "Story of food",
+      "latitude": 44.553036,
+      "longitude": 14.884696
+    },
+    {
+      "name": "Taverna Giardin",
+      "latitude": 44.534322,
+      "longitude": 14.882813
+    },
+    {
+      "name": "Teresa Bonaca",
+      "latitude": 44.525496,
+      "longitude": 15.072597
+    },
+    {
+      "name": "Terra",
+      "latitude": 44.549362,
+      "longitude": 14.886894
+    },
+    {
+      "name": "Time",
+      "latitude": 44.74713,
+      "longitude": 15.704049
+    },
+    {
+      "name": "Tropicana",
+      "latitude": 44.989657,
+      "longitude": 14.901909
+    },
+    {
+      "name": "U. O. \"Amer\"",
+      "latitude": 44.549635,
+      "longitude": 14.917371
+    },
+    {
+      "name": "Ugostiteljski obrt Maki",
+      "latitude": 44.565924,
+      "longitude": 15.386631
+    },
+    {
+      "name": "Uskok",
+      "latitude": 44.9904,
+      "longitude": 14.900966
+    },
+    {
+      "name": "Victoria",
+      "latitude": 45.006977,
+      "longitude": 15.141195
+    },
+    {
+      "name": "Vila Velebita",
+      "latitude": 44.772914,
+      "longitude": 15.690729
+    },
+    {
+      "name": "Winnetou",
+      "latitude": 44.817985,
+      "longitude": 15.680123
+    },
+    {
+      "name": "Čempres",
+      "latitude": 44.986249,
+      "longitude": 14.915495
+    },
+    {
+      "name": "Šušanj",
+      "latitude": 44.526215,
+      "longitude": 15.071983
+    },
+    {
+      "name": "ŽAL",
+      "latitude": 44.548271,
+      "longitude": 14.915508
+    }
+  ],
+  "meta": {
+    "title": "Restorani — Ličko-senjska županija - Besplatno preuzimanje",
+    "description": "151 restorani u županiji Ličko-senjska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 151 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Restorani — Ličko-senjska županija | ListBase",
+    "seo_description": "Preuzmi Restorani — Ličko-senjska županija — 151 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 151 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

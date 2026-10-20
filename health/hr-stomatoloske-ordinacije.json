@@ -1,0 +1,1121 @@
+{
+  "id": "hr-stomatoloske-ordinacije",
+  "name": "Stomatološke ordinacije",
+  "title": "Stomatološke ordinacije",
+  "description": "Stomatološke ordinacije u Hrvatskoj (216 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=dentist), izrez EU-POIS/HR.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 216,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "32 zdrava",
+      "latitude": 45.804682,
+      "longitude": 15.714191
+    },
+    {
+      "name": "3D rendgen",
+      "latitude": 43.444523,
+      "longitude": 17.221915
+    },
+    {
+      "name": "Adrident",
+      "latitude": 43.508879,
+      "longitude": 16.457832
+    },
+    {
+      "name": "AF Dent",
+      "latitude": 44.820013,
+      "longitude": 13.934339
+    },
+    {
+      "name": "Alma Bohte dr.med.dent.",
+      "latitude": 45.820026,
+      "longitude": 15.97972
+    },
+    {
+      "name": "Alpha Dental Clinic",
+      "latitude": 43.517175,
+      "longitude": 16.239069
+    },
+    {
+      "name": "Ambulanta Štefanje",
+      "latitude": 45.80534,
+      "longitude": 16.717806
+    },
+    {
+      "name": "Ana-marija Kulušić",
+      "latitude": 45.79264,
+      "longitude": 15.95082
+    },
+    {
+      "name": "Andrea Filipin",
+      "latitude": 43.51074,
+      "longitude": 16.444986
+    },
+    {
+      "name": "Apex Dental",
+      "latitude": 44.124122,
+      "longitude": 15.225198
+    },
+    {
+      "name": "Babara",
+      "latitude": 43.909704,
+      "longitude": 15.507546
+    },
+    {
+      "name": "Barlović dent",
+      "latitude": 45.796985,
+      "longitude": 15.935772
+    },
+    {
+      "name": "Bluedent",
+      "latitude": 43.787762,
+      "longitude": 15.645058
+    },
+    {
+      "name": "Branka Tomaš Šaban",
+      "latitude": 43.505849,
+      "longitude": 16.451736
+    },
+    {
+      "name": "Branko Mužević",
+      "latitude": 45.172821,
+      "longitude": 14.692901
+    },
+    {
+      "name": "Brano Tot",
+      "latitude": 43.513368,
+      "longitude": 16.43143
+    },
+    {
+      "name": "Clinic Burow",
+      "latitude": 43.511403,
+      "longitude": 16.451197
+    },
+    {
+      "name": "Danijela Kalibović Govorko",
+      "latitude": 43.513615,
+      "longitude": 16.451547
+    },
+    {
+      "name": "Darija Bakamaz - Uglješa",
+      "latitude": 45.798539,
+      "longitude": 15.966413
+    },
+    {
+      "name": "Dentabel",
+      "latitude": 45.299037,
+      "longitude": 13.689085
+    },
+    {
+      "name": "Dental a poliklinika Dr. Gikić",
+      "latitude": 45.797652,
+      "longitude": 15.941506
+    },
+    {
+      "name": "Dental centar",
+      "latitude": 45.795726,
+      "longitude": 15.965784
+    },
+    {
+      "name": "Dental Centar Dadić",
+      "latitude": 45.318253,
+      "longitude": 13.566912
+    },
+    {
+      "name": "Dental centar Omega",
+      "latitude": 45.803212,
+      "longitude": 15.990229
+    },
+    {
+      "name": "Dental Centar Vrbani",
+      "latitude": 45.789585,
+      "longitude": 15.915929
+    },
+    {
+      "name": "Dental Estetica",
+      "latitude": 45.899687,
+      "longitude": 16.844656
+    },
+    {
+      "name": "Dental Germ",
+      "latitude": 45.816426,
+      "longitude": 15.890932
+    },
+    {
+      "name": "Dental health centar",
+      "latitude": 45.810843,
+      "longitude": 16.013912
+    },
+    {
+      "name": "Dental Horvat",
+      "latitude": 45.81986,
+      "longitude": 15.731146
+    },
+    {
+      "name": "Dental Mahić",
+      "latitude": 45.795868,
+      "longitude": 15.981278
+    },
+    {
+      "name": "DENTAL MILEŠIĆ D.O.O.",
+      "latitude": 43.494923,
+      "longitude": 16.261387
+    },
+    {
+      "name": "Dental Polyclinic Šiljeg",
+      "latitude": 45.471135,
+      "longitude": 13.514034
+    },
+    {
+      "name": "Dental Studio",
+      "latitude": 43.820087,
+      "longitude": 15.922123
+    },
+    {
+      "name": "Dental Studio Rahle",
+      "latitude": 45.896864,
+      "longitude": 16.843474
+    },
+    {
+      "name": "Dental Sukošan",
+      "latitude": 44.046668,
+      "longitude": 15.314422
+    },
+    {
+      "name": "Dental Z",
+      "latitude": 43.501435,
+      "longitude": 16.46089
+    },
+    {
+      "name": "Dentalna medicina Lastovo",
+      "latitude": 42.76666,
+      "longitude": 16.891571
+    },
+    {
+      "name": "Dentalna ordinacija dr.med.dent. Ivana Alvir Delija",
+      "latitude": 44.069502,
+      "longitude": 15.284451
+    },
+    {
+      "name": "Dentalna poliklinika Medikadent",
+      "latitude": 46.02119,
+      "longitude": 16.542468
+    },
+    {
+      "name": "Dentalni centar Bukovec",
+      "latitude": 45.759488,
+      "longitude": 17.048046
+    },
+    {
+      "name": "Dentalni studio",
+      "latitude": 45.802851,
+      "longitude": 15.989574
+    },
+    {
+      "name": "Dentech Dental Center",
+      "latitude": 43.50578,
+      "longitude": 16.46141
+    },
+    {
+      "name": "Dentist dr. Stocovaz",
+      "latitude": 45.448939,
+      "longitude": 13.560543
+    },
+    {
+      "name": "Dentour",
+      "latitude": 45.827406,
+      "longitude": 15.980018
+    },
+    {
+      "name": "Dentus perfectus",
+      "latitude": 45.79149,
+      "longitude": 16.000714
+    },
+    {
+      "name": "Diana Antunac",
+      "latitude": 43.586302,
+      "longitude": 15.941881
+    },
+    {
+      "name": "Dom zdravlja Lovreć",
+      "latitude": 43.491752,
+      "longitude": 16.981382
+    },
+    {
+      "name": "Dr. David",
+      "latitude": 43.512741,
+      "longitude": 16.432188
+    },
+    {
+      "name": "dr. dent. med. Ninoslav Petek",
+      "latitude": 46.499975,
+      "longitude": 16.281979
+    },
+    {
+      "name": "Dr. Ebtehaj Navaey",
+      "latitude": 45.803055,
+      "longitude": 15.716526
+    },
+    {
+      "name": "Dr. Gmaz",
+      "latitude": 45.707684,
+      "longitude": 16.05565
+    },
+    {
+      "name": "Dr. Goran Katona",
+      "latitude": 45.812508,
+      "longitude": 15.964867
+    },
+    {
+      "name": "Dr. Jasenka Sinovčić",
+      "latitude": 43.515725,
+      "longitude": 16.448413
+    },
+    {
+      "name": "Dr. Klampfl ordinacija dentalne medicine",
+      "latitude": 46.224178,
+      "longitude": 16.119805
+    },
+    {
+      "name": "dr. Kujundžić",
+      "latitude": 43.443959,
+      "longitude": 17.222192
+    },
+    {
+      "name": "dr. Luiđa Ivanković",
+      "latitude": 43.505503,
+      "longitude": 16.4935
+    },
+    {
+      "name": "dr. Marin Popović",
+      "latitude": 43.502359,
+      "longitude": 16.456469
+    },
+    {
+      "name": "Dr. Mladen Vidović",
+      "latitude": 43.511502,
+      "longitude": 16.451577
+    },
+    {
+      "name": "Dr. Perenčević",
+      "latitude": 45.325698,
+      "longitude": 15.693598
+    },
+    {
+      "name": "Dr. Perković",
+      "latitude": 43.511818,
+      "longitude": 16.445525
+    },
+    {
+      "name": "Dr. T. Poropat",
+      "latitude": 45.091438,
+      "longitude": 14.123384
+    },
+    {
+      "name": "Dr. Tomislav i Karmen Troglić",
+      "latitude": 43.504775,
+      "longitude": 16.426874
+    },
+    {
+      "name": "Dr. Zdenko Petrinjak",
+      "latitude": 45.149405,
+      "longitude": 13.608543
+    },
+    {
+      "name": "Dr. Šambuk",
+      "latitude": 45.810334,
+      "longitude": 15.991661
+    },
+    {
+      "name": "Dr. Šebelic",
+      "latitude": 44.81628,
+      "longitude": 13.938404
+    },
+    {
+      "name": "Dr. Željko Ferić",
+      "latitude": 43.505749,
+      "longitude": 16.429388
+    },
+    {
+      "name": "dr.Josip Zovko",
+      "latitude": 43.442621,
+      "longitude": 16.684942
+    },
+    {
+      "name": "dr.Sanja Jemo",
+      "latitude": 43.444672,
+      "longitude": 16.640407
+    },
+    {
+      "name": "dr.Zvonimir Istenjić",
+      "latitude": 43.444965,
+      "longitude": 16.685508
+    },
+    {
+      "name": "dr.Željko Žužulj",
+      "latitude": 43.446569,
+      "longitude": 16.687886
+    },
+    {
+      "name": "Ferreri d.o.o",
+      "latitude": 45.334326,
+      "longitude": 14.438271
+    },
+    {
+      "name": "Forca Dent",
+      "latitude": 43.503836,
+      "longitude": 16.4556
+    },
+    {
+      "name": "H-Dent",
+      "latitude": 45.079437,
+      "longitude": 13.649188
+    },
+    {
+      "name": "HERE maps",
+      "latitude": 45.810352,
+      "longitude": 15.938404
+    },
+    {
+      "name": "Hitna stomatološka",
+      "latitude": 43.508674,
+      "longitude": 16.477025
+    },
+    {
+      "name": "HP dental",
+      "latitude": 45.798384,
+      "longitude": 15.731322
+    },
+    {
+      "name": "Hrvoje Starčević dr. stom.",
+      "latitude": 45.79308,
+      "longitude": 15.941737
+    },
+    {
+      "name": "iClinica dental studio",
+      "latitude": 45.320724,
+      "longitude": 14.46793
+    },
+    {
+      "name": "IDC Ružević",
+      "latitude": 43.504914,
+      "longitude": 16.4561
+    },
+    {
+      "name": "iDenti",
+      "latitude": 43.505346,
+      "longitude": 16.451636
+    },
+    {
+      "name": "Igor Ljubičić",
+      "latitude": 45.158518,
+      "longitude": 18.015787
+    },
+    {
+      "name": "Impladent",
+      "latitude": 45.776167,
+      "longitude": 15.972518
+    },
+    {
+      "name": "inDent",
+      "latitude": 45.798955,
+      "longitude": 15.938956
+    },
+    {
+      "name": "iSmile Estetic Dentistry & Orthodontics",
+      "latitude": 43.519729,
+      "longitude": 16.446344
+    },
+    {
+      "name": "Ivica Silović",
+      "latitude": 43.513466,
+      "longitude": 16.450552
+    },
+    {
+      "name": "Jagoda Plihta Kozik",
+      "latitude": 45.799002,
+      "longitude": 15.948224
+    },
+    {
+      "name": "Jelena Cakar Fabić",
+      "latitude": 45.798276,
+      "longitude": 15.97441
+    },
+    {
+      "name": "Jelena Princip",
+      "latitude": 46.022176,
+      "longitude": 16.543733
+    },
+    {
+      "name": "Jurlina Dent",
+      "latitude": 45.555239,
+      "longitude": 18.692985
+    },
+    {
+      "name": "Kalmar",
+      "latitude": 45.347855,
+      "longitude": 14.351161
+    },
+    {
+      "name": "kolovareDENTAL",
+      "latitude": 44.105193,
+      "longitude": 15.235965
+    },
+    {
+      "name": "Ladental",
+      "latitude": 45.904839,
+      "longitude": 16.838629
+    },
+    {
+      "name": "Lidija Gabrić",
+      "latitude": 45.30327,
+      "longitude": 18.412162
+    },
+    {
+      "name": "Lipanovic Poljak",
+      "latitude": 43.511514,
+      "longitude": 16.447434
+    },
+    {
+      "name": "Ljiljana Krznarić",
+      "latitude": 45.807179,
+      "longitude": 15.962988
+    },
+    {
+      "name": "Ljiljana Laktić Mićković",
+      "latitude": 45.801431,
+      "longitude": 15.992266
+    },
+    {
+      "name": "Maja Barišić Dr. Stom.",
+      "latitude": 44.122765,
+      "longitude": 15.227731
+    },
+    {
+      "name": "Maja Parlov",
+      "latitude": 45.791574,
+      "longitude": 15.919236
+    },
+    {
+      "name": "Majnarić Šuker",
+      "latitude": 45.802169,
+      "longitude": 15.712419
+    },
+    {
+      "name": "Maleš",
+      "latitude": 43.508285,
+      "longitude": 16.458507
+    },
+    {
+      "name": "Marijan Gašpar",
+      "latitude": 43.510856,
+      "longitude": 16.43628
+    },
+    {
+      "name": "Marijana Božulić",
+      "latitude": 44.142843,
+      "longitude": 15.215727
+    },
+    {
+      "name": "Marina Božinović",
+      "latitude": 43.508819,
+      "longitude": 16.455586
+    },
+    {
+      "name": "Marina Mršić",
+      "latitude": 45.789846,
+      "longitude": 15.921889
+    },
+    {
+      "name": "Marina Ćuk",
+      "latitude": 45.165783,
+      "longitude": 17.998009
+    },
+    {
+      "name": "Maro Franušić",
+      "latitude": 45.816692,
+      "longitude": 15.998945
+    },
+    {
+      "name": "MB dent",
+      "latitude": 45.80767,
+      "longitude": 16.004042
+    },
+    {
+      "name": "Mia Matošić Novaković, dr.med.dent.",
+      "latitude": 45.827674,
+      "longitude": 16.108587
+    },
+    {
+      "name": "Milivoj Vuletić",
+      "latitude": 43.955874,
+      "longitude": 15.435145
+    },
+    {
+      "name": "Mladen Dadić",
+      "latitude": 45.312379,
+      "longitude": 18.40945
+    },
+    {
+      "name": "Nives Protrka, dr.med.dent",
+      "latitude": 45.805375,
+      "longitude": 15.957314
+    },
+    {
+      "name": "Novak",
+      "latitude": 45.856373,
+      "longitude": 16.055484
+    },
+    {
+      "name": "Optimus Dental",
+      "latitude": 43.505942,
+      "longitude": 16.463778
+    },
+    {
+      "name": "Ordijancija dentalne medicine Marija Sović Buntjelić",
+      "latitude": 45.815701,
+      "longitude": 16.0281
+    },
+    {
+      "name": "Ordinacija Dentalne medicine",
+      "latitude": 43.553507,
+      "longitude": 16.355817
+    },
+    {
+      "name": "Ordinacija dentalne medicine",
+      "latitude": 45.810287,
+      "longitude": 15.97202
+    },
+    {
+      "name": "Ordinacija dentalne medicine",
+      "latitude": 46.025821,
+      "longitude": 16.546586
+    },
+    {
+      "name": "Ordinacija dentalne medicine",
+      "latitude": 46.507993,
+      "longitude": 16.431454
+    },
+    {
+      "name": "Ordinacija dentalne medicine dr.med.dent. Dejan Plentaj",
+      "latitude": 45.905519,
+      "longitude": 16.848005
+    },
+    {
+      "name": "Ordinacija dentalne medicine Helga Golubić",
+      "latitude": 46.352907,
+      "longitude": 16.812516
+    },
+    {
+      "name": "Ordinacija dentalne medicine Ivan Šarunić",
+      "latitude": 45.326943,
+      "longitude": 14.443866
+    },
+    {
+      "name": "Ordinacija dentalne medicine Ivica Starčević",
+      "latitude": 45.360879,
+      "longitude": 14.393737
+    },
+    {
+      "name": "Ordinacija dentalne medicine Maja Parlov dr. med. dent.",
+      "latitude": 45.793283,
+      "longitude": 15.989566
+    },
+    {
+      "name": "Ordinacija dentalne medicine Marija Gati",
+      "latitude": 45.334209,
+      "longitude": 17.681768
+    },
+    {
+      "name": "Ordinacija dentalne medicine Orešković",
+      "latitude": 45.334525,
+      "longitude": 17.681573
+    },
+    {
+      "name": "Ordinacija dentalne medicine Đurđica Salaški",
+      "latitude": 45.659059,
+      "longitude": 18.416536
+    },
+    {
+      "name": "Ordinacija dr. Mlinarić",
+      "latitude": 45.496768,
+      "longitude": 15.554682
+    },
+    {
+      "name": "ortodoncija Helena Lapić Maričić",
+      "latitude": 43.733942,
+      "longitude": 15.895972
+    },
+    {
+      "name": "ortodont Talkić",
+      "latitude": 45.490363,
+      "longitude": 15.55029
+    },
+    {
+      "name": "Periohealth",
+      "latitude": 45.795521,
+      "longitude": 15.968091
+    },
+    {
+      "name": "Petra Škovrlj",
+      "latitude": 45.906378,
+      "longitude": 15.805573
+    },
+    {
+      "name": "Poliklinika Breyer",
+      "latitude": 45.484009,
+      "longitude": 16.373385
+    },
+    {
+      "name": "Poliklinika Galeković - Zubni laboratorij",
+      "latitude": 46.342585,
+      "longitude": 16.155083
+    },
+    {
+      "name": "Poliklinika Galeković d.o.o.",
+      "latitude": 46.344196,
+      "longitude": 16.153383
+    },
+    {
+      "name": "poliklinika Pavičić Krmpotić",
+      "latitude": 45.796356,
+      "longitude": 15.969011
+    },
+    {
+      "name": "Poliklinika Plus",
+      "latitude": 43.503599,
+      "longitude": 16.42355
+    },
+    {
+      "name": "Premate Tomić",
+      "latitude": 44.863392,
+      "longitude": 13.858408
+    },
+    {
+      "name": "Privatna ordinacija dentalne medicine Josip Prpić, dr.mrd.dent. i Lidija Prpić, dr.med.dent.",
+      "latitude": 45.554588,
+      "longitude": 18.685269
+    },
+    {
+      "name": "Privatna ordinacija dentalne medicine Ćaleta Cupek",
+      "latitude": 46.299066,
+      "longitude": 16.328205
+    },
+    {
+      "name": "Privatna stomatološka ordinacija",
+      "latitude": 43.504461,
+      "longitude": 16.471824
+    },
+    {
+      "name": "Privatna stomatološka ordinacija",
+      "latitude": 44.142769,
+      "longitude": 15.246743
+    },
+    {
+      "name": "Privatna stomatološka ordinacija Vedran Štublin, dr.stom.",
+      "latitude": 45.798537,
+      "longitude": 15.730433
+    },
+    {
+      "name": "Privatna stomatološka ordinacija, dr. Tanja Gaurina",
+      "latitude": 43.757119,
+      "longitude": 16.619879
+    },
+    {
+      "name": "Profident",
+      "latitude": 45.808461,
+      "longitude": 15.927064
+    },
+    {
+      "name": "Rident",
+      "latitude": 45.339916,
+      "longitude": 14.404955
+    },
+    {
+      "name": "Rino Borozan",
+      "latitude": 43.51877,
+      "longitude": 16.44945
+    },
+    {
+      "name": "Robert Čarić",
+      "latitude": 46.002011,
+      "longitude": 15.844194
+    },
+    {
+      "name": "Salona Dental",
+      "latitude": 43.532014,
+      "longitude": 16.490635
+    },
+    {
+      "name": "Sanja Marin Čajo",
+      "latitude": 43.51317,
+      "longitude": 16.441415
+    },
+    {
+      "name": "Sanja Meštrović",
+      "latitude": 45.819658,
+      "longitude": 16.003098
+    },
+    {
+      "name": "Smile",
+      "latitude": 45.896314,
+      "longitude": 16.840238
+    },
+    {
+      "name": "Smile laboratorij",
+      "latitude": 45.795348,
+      "longitude": 15.908176
+    },
+    {
+      "name": "Snježana Jukić Krstinić",
+      "latitude": 43.505883,
+      "longitude": 16.451746
+    },
+    {
+      "name": "Specijalistička ordinacija dentalne medicine za ortodonciju, Mr.sc. Valter Španjić",
+      "latitude": 45.03058,
+      "longitude": 14.583111
+    },
+    {
+      "name": "Specijalistička stomatološka ordinacija za ortodonciju",
+      "latitude": 46.288082,
+      "longitude": 16.34589
+    },
+    {
+      "name": "Spremo Dent",
+      "latitude": 45.422815,
+      "longitude": 13.676247
+    },
+    {
+      "name": "Star Dent",
+      "latitude": 45.790496,
+      "longitude": 15.902336
+    },
+    {
+      "name": "Stomatolog Dekorti",
+      "latitude": 44.136072,
+      "longitude": 15.218163
+    },
+    {
+      "name": "Stomatologija",
+      "latitude": 44.867859,
+      "longitude": 13.852427
+    },
+    {
+      "name": "Stomatologija Bubalo",
+      "latitude": 45.803637,
+      "longitude": 15.957448
+    },
+    {
+      "name": "Stomatoloska Ordinacija",
+      "latitude": 45.813359,
+      "longitude": 15.968762
+    },
+    {
+      "name": "Stomatoloska ordinacija Dr. Hren",
+      "latitude": 45.484735,
+      "longitude": 15.556305
+    },
+    {
+      "name": "stomatoloska ordinacija studio dentistico",
+      "latitude": 44.54969,
+      "longitude": 14.887885
+    },
+    {
+      "name": "Stomatološka ambulanta",
+      "latitude": 45.276168,
+      "longitude": 13.719642
+    },
+    {
+      "name": "Stomatološka ambulanta Dr Varežić",
+      "latitude": 42.67469,
+      "longitude": 18.109599
+    },
+    {
+      "name": "Stomatološka ordinacija",
+      "latitude": 45.810615,
+      "longitude": 15.960018
+    },
+    {
+      "name": "Stomatološka ordinacija",
+      "latitude": 45.812077,
+      "longitude": 15.99506
+    },
+    {
+      "name": "Stomatološka ordinacija",
+      "latitude": 45.834744,
+      "longitude": 16.05728
+    },
+    {
+      "name": "Stomatološka ordinacija",
+      "latitude": 46.208469,
+      "longitude": 16.047268
+    },
+    {
+      "name": "Stomatološka ordinacija \"Dental Runac-Makovica\"",
+      "latitude": 45.804944,
+      "longitude": 16.231412
+    },
+    {
+      "name": "Stomatološka ordinacija Dr. Miroslav Dragaš",
+      "latitude": 45.764454,
+      "longitude": 18.606481
+    },
+    {
+      "name": "Stomatološka ordinacija dr. Miroslav Franjić",
+      "latitude": 43.560784,
+      "longitude": 16.523352
+    },
+    {
+      "name": "Stomatološka ordinacija dr. Slađana Srdelić",
+      "latitude": 43.558179,
+      "longitude": 16.522992
+    },
+    {
+      "name": "Stomatološka ordinacija Dubravka Novak Goricaj",
+      "latitude": 46.377015,
+      "longitude": 16.383016
+    },
+    {
+      "name": "stomatološka ordinacija Miroslav Hrelja",
+      "latitude": 45.806326,
+      "longitude": 16.23086
+    },
+    {
+      "name": "Stomatološka ordinacija Mirta Kučan Moraal",
+      "latitude": 45.322099,
+      "longitude": 14.465323
+    },
+    {
+      "name": "Stomatološka ordinacija Smile Design Kovač",
+      "latitude": 45.561712,
+      "longitude": 18.679832
+    },
+    {
+      "name": "Stomatološka ordinacija Tomislav Juras",
+      "latitude": 46.386168,
+      "longitude": 16.444324
+    },
+    {
+      "name": "Stomatološka ordinacija Verona Štebih",
+      "latitude": 46.376478,
+      "longitude": 16.379024
+    },
+    {
+      "name": "Stomatološka ordinacija Zlatka Mekovec",
+      "latitude": 45.479909,
+      "longitude": 15.549301
+    },
+    {
+      "name": "Stomatološka poliklinika Zagreb",
+      "latitude": 45.807809,
+      "longitude": 15.968595
+    },
+    {
+      "name": "Stomatološka poliklinkia Ksaver",
+      "latitude": 45.832475,
+      "longitude": 15.976888
+    },
+    {
+      "name": "Sudar Dent",
+      "latitude": 45.593462,
+      "longitude": 17.218443
+    },
+    {
+      "name": "Vallis dent - Dental Clinic",
+      "latitude": 45.04027,
+      "longitude": 13.785554
+    },
+    {
+      "name": "Vesna Udiljak",
+      "latitude": 45.802199,
+      "longitude": 15.967621
+    },
+    {
+      "name": "Viadent Dental Centar",
+      "latitude": 45.3427,
+      "longitude": 14.390107
+    },
+    {
+      "name": "VIGA Dental",
+      "latitude": 45.842033,
+      "longitude": 15.727353
+    },
+    {
+      "name": "Vik dental",
+      "latitude": 45.797631,
+      "longitude": 15.976708
+    },
+    {
+      "name": "Vizijak",
+      "latitude": 45.329672,
+      "longitude": 16.977119
+    },
+    {
+      "name": "Vladimir Kiršek - stomatolog",
+      "latitude": 45.662492,
+      "longitude": 17.426748
+    },
+    {
+      "name": "Vrsalović dental",
+      "latitude": 43.50399,
+      "longitude": 16.455801
+    },
+    {
+      "name": "X dent",
+      "latitude": 45.799722,
+      "longitude": 15.951745
+    },
+    {
+      "name": "X DENT",
+      "latitude": 45.817127,
+      "longitude": 16.005091
+    },
+    {
+      "name": "X Dent Zubni rendgen",
+      "latitude": 43.517754,
+      "longitude": 16.443701
+    },
+    {
+      "name": "X-Dent",
+      "latitude": 43.505732,
+      "longitude": 16.45812
+    },
+    {
+      "name": "Xdent",
+      "latitude": 45.779714,
+      "longitude": 15.985258
+    },
+    {
+      "name": "Zoran Kučinić",
+      "latitude": 43.506561,
+      "longitude": 16.481038
+    },
+    {
+      "name": "Zubar",
+      "latitude": 43.588621,
+      "longitude": 15.924423
+    },
+    {
+      "name": "ZUBAR",
+      "latitude": 44.533089,
+      "longitude": 15.7667
+    },
+    {
+      "name": "Zubar",
+      "latitude": 45.523938,
+      "longitude": 17.978541
+    },
+    {
+      "name": "Zubar",
+      "latitude": 45.655806,
+      "longitude": 17.014279
+    },
+    {
+      "name": "Zubar - Ordinacija Korda",
+      "latitude": 42.64856,
+      "longitude": 18.085278
+    },
+    {
+      "name": "Zubar Čes",
+      "latitude": 45.554377,
+      "longitude": 18.682825
+    },
+    {
+      "name": "zubarska ordinacija Dr.Čeko",
+      "latitude": 45.796427,
+      "longitude": 15.915588
+    },
+    {
+      "name": "Zubarska ordinacija Hana Goršić - Radečić",
+      "latitude": 45.47906,
+      "longitude": 15.54536
+    },
+    {
+      "name": "Zubna ambulanta",
+      "latitude": 45.437679,
+      "longitude": 13.533055
+    },
+    {
+      "name": "Zubna ordinacija dr. Nina Pirović",
+      "latitude": 43.514114,
+      "longitude": 16.469662
+    },
+    {
+      "name": "zubna ordinacija Inga Vucelić",
+      "latitude": 45.787708,
+      "longitude": 15.951798
+    },
+    {
+      "name": "Zubni rendgen",
+      "latitude": 43.511987,
+      "longitude": 16.438239
+    },
+    {
+      "name": "Zubni rendgen Zaprešić",
+      "latitude": 45.867804,
+      "longitude": 15.797592
+    },
+    {
+      "name": "Zubni rengen",
+      "latitude": 45.429998,
+      "longitude": 13.523114
+    },
+    {
+      "name": "Zubotehnički laboratorij",
+      "latitude": 45.481615,
+      "longitude": 15.550061
+    },
+    {
+      "name": "Šarić i Radošević",
+      "latitude": 43.515745,
+      "longitude": 16.431997
+    },
+    {
+      "name": "Šikić",
+      "latitude": 43.505037,
+      "longitude": 16.450353
+    },
+    {
+      "name": "Šlaj Anic stomatološka klinika",
+      "latitude": 45.81515,
+      "longitude": 16.006101
+    },
+    {
+      "name": "Špehar, Ordinacija Dentalne medicine",
+      "latitude": 45.894442,
+      "longitude": 16.843487
+    }
+  ],
+  "meta": {
+    "title": "Stomatološke ordinacije - Besplatno preuzimanje",
+    "description": "Stomatološke ordinacije u Hrvatskoj (216 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=dentist), izrez EU-POIS/HR. Sadrži 216 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Stomatološke ordinacije | ListBase",
+    "seo_description": "Preuzmi Stomatološke ordinacije — 216 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 216 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

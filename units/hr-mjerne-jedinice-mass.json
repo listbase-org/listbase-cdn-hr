@@ -1,0 +1,214 @@
+{
+  "id": "hr-mjerne-jedinice-mass",
+  "name": "Mjerne jedinice — kategorija 'mass' (17)",
+  "title": "Mjerne jedinice — kategorija 'mass' (17)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'mass' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "mass-carat",
+      "kategorija": "mass",
+      "naziv": "karati",
+      "kratica": "ct",
+      "naziv_uski": "ct",
+      "obrazac": "{0} karata"
+    },
+    {
+      "id": 2,
+      "unit_code": "mass-dalton",
+      "kategorija": "mass",
+      "naziv": "daltoni",
+      "kratica": "daltoni",
+      "naziv_uski": "Da",
+      "obrazac": "{0} daltona"
+    },
+    {
+      "id": 3,
+      "unit_code": "mass-earth-mass",
+      "kategorija": "mass",
+      "naziv": "Zemljine mase",
+      "kratica": "M⊕",
+      "naziv_uski": "M⊕",
+      "obrazac": "{0} Zemljinih masa"
+    },
+    {
+      "id": 4,
+      "unit_code": "mass-fun",
+      "kategorija": "mass",
+      "naziv": "fun [JP]",
+      "kratica": "fun [JP]",
+      "naziv_uski": "fun [JP]",
+      "obrazac": "{0} fun [JP]"
+    },
+    {
+      "id": 5,
+      "unit_code": "mass-grain",
+      "kategorija": "mass",
+      "naziv": "grainovi",
+      "kratica": "gr",
+      "naziv_uski": "gr",
+      "obrazac": "{0} graina"
+    },
+    {
+      "id": 6,
+      "unit_code": "mass-gram",
+      "kategorija": "mass",
+      "naziv": "grami",
+      "kratica": "g",
+      "naziv_uski": "g",
+      "obrazac": "{0} grama"
+    },
+    {
+      "id": 7,
+      "unit_code": "mass-kilogram",
+      "kategorija": "mass",
+      "naziv": "kilogrami",
+      "kratica": "kg",
+      "naziv_uski": "kg",
+      "obrazac": "{0} kilograma"
+    },
+    {
+      "id": 8,
+      "unit_code": "mass-microgram",
+      "kategorija": "mass",
+      "naziv": "mikrogrami",
+      "kratica": "μg",
+      "naziv_uski": "μg",
+      "obrazac": "{0} mikrograma"
+    },
+    {
+      "id": 9,
+      "unit_code": "mass-milligram",
+      "kategorija": "mass",
+      "naziv": "miligrami",
+      "kratica": "mg",
+      "naziv_uski": "mg",
+      "obrazac": "{0} miligrama"
+    },
+    {
+      "id": 10,
+      "unit_code": "mass-ounce",
+      "kategorija": "mass",
+      "naziv": "unce",
+      "kratica": "oz",
+      "naziv_uski": "oz",
+      "obrazac": "{0} unci"
+    },
+    {
+      "id": 11,
+      "unit_code": "mass-ounce-troy",
+      "kategorija": "mass",
+      "naziv": "troy unce",
+      "kratica": "oz t",
+      "naziv_uski": "oz t",
+      "obrazac": "{0} troy unci"
+    },
+    {
+      "id": 12,
+      "unit_code": "mass-pound",
+      "kategorija": "mass",
+      "naziv": "funte",
+      "kratica": "lb",
+      "naziv_uski": "lb",
+      "obrazac": "{0} funti"
+    },
+    {
+      "id": 13,
+      "unit_code": "mass-slug",
+      "kategorija": "mass",
+      "naziv": "slug",
+      "kratica": "slug",
+      "naziv_uski": "slug",
+      "obrazac": "{0} slug"
+    },
+    {
+      "id": 14,
+      "unit_code": "mass-solar-mass",
+      "kategorija": "mass",
+      "naziv": "Sunčeve mase",
+      "kratica": "M☉",
+      "naziv_uski": "M☉",
+      "obrazac": "{0} Sunčevih masa"
+    },
+    {
+      "id": 15,
+      "unit_code": "mass-stone",
+      "kategorija": "mass",
+      "naziv": "kameni",
+      "kratica": "st",
+      "naziv_uski": "st",
+      "obrazac": "{0} kamena"
+    },
+    {
+      "id": 16,
+      "unit_code": "mass-ton",
+      "kategorija": "mass",
+      "naziv": "kratke tone",
+      "kratica": "tn",
+      "naziv_uski": "tn",
+      "obrazac": "{0} kratkih tona"
+    },
+    {
+      "id": 17,
+      "unit_code": "mass-tonne",
+      "kategorija": "mass",
+      "naziv": "tone",
+      "kratica": "t",
+      "naziv_uski": "t",
+      "obrazac": "{0} tona"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'mass' (17) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'mass' s hrvatskim nazivima. Sadrži 17 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'mass' (17) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'mass' (17) — 17 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 17 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

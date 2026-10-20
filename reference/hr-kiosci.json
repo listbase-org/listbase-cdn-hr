@@ -1,0 +1,3551 @@
+{
+  "id": "hr-kiosci",
+  "name": "Kiosci",
+  "title": "Kiosci",
+  "description": "Kiosci u Hrvatskoj (702 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=kiosk), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 702,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A & A Potomje",
+      "latitude": 42.924219,
+      "longitude": 17.344785
+    },
+    {
+      "name": "Adria",
+      "latitude": 45.028865,
+      "longitude": 14.49804
+    },
+    {
+      "name": "AFP",
+      "latitude": 43.511001,
+      "longitude": 16.451018
+    },
+    {
+      "name": "Balajic",
+      "latitude": 43.26067,
+      "longitude": 16.654688
+    },
+    {
+      "name": "Best Shop 1",
+      "latitude": 43.505714,
+      "longitude": 16.478259
+    },
+    {
+      "name": "Best West",
+      "latitude": 43.515045,
+      "longitude": 16.44392
+    },
+    {
+      "name": "Bestim d.o.o.",
+      "latitude": 46.028503,
+      "longitude": 16.543712
+    },
+    {
+      "name": "Bp Petrčane",
+      "latitude": 44.190023,
+      "longitude": 15.180429
+    },
+    {
+      "name": "Buby´s hot & pizza",
+      "latitude": 45.330906,
+      "longitude": 14.507924
+    },
+    {
+      "name": "Bufet Otok Veruda",
+      "latitude": 44.829683,
+      "longitude": 13.842936
+    },
+    {
+      "name": "Burak Plus",
+      "latitude": 43.172077,
+      "longitude": 16.442073
+    },
+    {
+      "name": "Camelino",
+      "latitude": 43.508013,
+      "longitude": 16.467063
+    },
+    {
+      "name": "CroXBet",
+      "latitude": 45.797362,
+      "longitude": 15.936527
+    },
+    {
+      "name": "Daily News",
+      "latitude": 45.554886,
+      "longitude": 18.680757
+    },
+    {
+      "name": "Daily News",
+      "latitude": 45.794903,
+      "longitude": 15.931578
+    },
+    {
+      "name": "Daily Press",
+      "latitude": 43.694408,
+      "longitude": 15.903389
+    },
+    {
+      "name": "Daily Press",
+      "latitude": 45.781878,
+      "longitude": 15.966266
+    },
+    {
+      "name": "Daily press tobacco shop",
+      "latitude": 45.81363,
+      "longitude": 15.984868
+    },
+    {
+      "name": "Daily Shop",
+      "latitude": 45.805659,
+      "longitude": 15.984383
+    },
+    {
+      "name": "DailyNews",
+      "latitude": 45.153524,
+      "longitude": 18.023391
+    },
+    {
+      "name": "DailyNews",
+      "latitude": 45.15699,
+      "longitude": 18.012738
+    },
+    {
+      "name": "DailyNews",
+      "latitude": 45.159536,
+      "longitude": 18.026425
+    },
+    {
+      "name": "DailyNews",
+      "latitude": 45.166143,
+      "longitude": 18.018016
+    },
+    {
+      "name": "DailyNews",
+      "latitude": 45.765213,
+      "longitude": 15.962699
+    },
+    {
+      "name": "Dalmatino",
+      "latitude": 45.780016,
+      "longitude": 15.931655
+    },
+    {
+      "name": "Darius",
+      "latitude": 45.805599,
+      "longitude": 16.234755
+    },
+    {
+      "name": "Demik Zagreb",
+      "latitude": 45.785488,
+      "longitude": 15.952571
+    },
+    {
+      "name": "Dinamo",
+      "latitude": 45.79149,
+      "longitude": 15.905786
+    },
+    {
+      "name": "Diskont EM",
+      "latitude": 45.772504,
+      "longitude": 15.968492
+    },
+    {
+      "name": "Dora",
+      "latitude": 45.795978,
+      "longitude": 15.991196
+    },
+    {
+      "name": "Fala Lipa",
+      "latitude": 43.507678,
+      "longitude": 16.464837
+    },
+    {
+      "name": "Felix",
+      "latitude": 44.123108,
+      "longitude": 15.258443
+    },
+    {
+      "name": "Ferry ticket sale",
+      "latitude": 43.73198,
+      "longitude": 15.787279
+    },
+    {
+      "name": "Ferry tickets",
+      "latitude": 43.921237,
+      "longitude": 15.420308
+    },
+    {
+      "name": "Fruits",
+      "latitude": 43.328428,
+      "longitude": 16.978384
+    },
+    {
+      "name": "Galboka Beach",
+      "latitude": 44.654111,
+      "longitude": 14.399229
+    },
+    {
+      "name": "Glas Istre",
+      "latitude": 44.80121,
+      "longitude": 13.909799
+    },
+    {
+      "name": "Glas Istre",
+      "latitude": 44.876982,
+      "longitude": 13.856218
+    },
+    {
+      "name": "Glas Istre",
+      "latitude": 44.877737,
+      "longitude": 13.857895
+    },
+    {
+      "name": "Glas Istre",
+      "latitude": 45.227264,
+      "longitude": 13.599804
+    },
+    {
+      "name": "Hrvatska Lutrija",
+      "latitude": 43.512004,
+      "longitude": 16.436397
+    },
+    {
+      "name": "Hrvatska lutrija",
+      "latitude": 45.294263,
+      "longitude": 15.971216
+    },
+    {
+      "name": "Hrvatska lutrija",
+      "latitude": 45.319571,
+      "longitude": 14.468994
+    },
+    {
+      "name": "Hrvatska Lutrija",
+      "latitude": 45.335196,
+      "longitude": 14.504272
+    },
+    {
+      "name": "Hrvatska Lutrija",
+      "latitude": 45.557086,
+      "longitude": 18.697251
+    },
+    {
+      "name": "HrvatskaLutrija",
+      "latitude": 43.512899,
+      "longitude": 16.433745
+    },
+    {
+      "name": "iNovine",
+      "latitude": 43.93768,
+      "longitude": 15.443988
+    },
+    {
+      "name": "iNovine",
+      "latitude": 43.938895,
+      "longitude": 15.444995
+    },
+    {
+      "name": "iNovine",
+      "latitude": 44.124734,
+      "longitude": 15.233071
+    },
+    {
+      "name": "iNovine",
+      "latitude": 44.866093,
+      "longitude": 13.849385
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.061816,
+      "longitude": 13.672187
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.07445,
+      "longitude": 14.163186
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.082363,
+      "longitude": 13.634261
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.147714,
+      "longitude": 14.663367
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.239948,
+      "longitude": 13.937096
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.301911,
+      "longitude": 13.590473
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.316843,
+      "longitude": 14.473129
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.324976,
+      "longitude": 14.447923
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.333256,
+      "longitude": 14.438719
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.335701,
+      "longitude": 14.506094
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.338254,
+      "longitude": 14.308803
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.340518,
+      "longitude": 16.088475
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.341131,
+      "longitude": 16.97617
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.365533,
+      "longitude": 14.396448
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.479066,
+      "longitude": 16.777304
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.489223,
+      "longitude": 15.541022
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.490333,
+      "longitude": 15.5491
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.495315,
+      "longitude": 16.365456
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.554727,
+      "longitude": 18.696491
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.718133,
+      "longitude": 16.054486
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.766824,
+      "longitude": 15.946019
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.772351,
+      "longitude": 15.965409
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.777138,
+      "longitude": 15.996234
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.78313,
+      "longitude": 15.961734
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.785528,
+      "longitude": 15.952604
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.786066,
+      "longitude": 15.950703
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.786648,
+      "longitude": 15.951033
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.79143,
+      "longitude": 15.946857
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.791559,
+      "longitude": 16.001159
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.795979,
+      "longitude": 15.900076
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.796011,
+      "longitude": 15.995485
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.7969,
+      "longitude": 15.960365
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.79726,
+      "longitude": 15.936523
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.798335,
+      "longitude": 15.970656
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.800337,
+      "longitude": 15.974269
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.800707,
+      "longitude": 15.99529
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.80168,
+      "longitude": 16.234254
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.802092,
+      "longitude": 16.010749
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.803196,
+      "longitude": 16.020195
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.803742,
+      "longitude": 15.993484
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.804784,
+      "longitude": 15.978691
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.804907,
+      "longitude": 15.920945
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.805558,
+      "longitude": 16.019521
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.805943,
+      "longitude": 15.966442
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.807974,
+      "longitude": 15.983977
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.810063,
+      "longitude": 15.98016
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.811145,
+      "longitude": 15.954817
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.812173,
+      "longitude": 15.978991
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.81226,
+      "longitude": 15.973723
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.812335,
+      "longitude": 15.948354
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.812788,
+      "longitude": 15.977245
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.81401,
+      "longitude": 15.991291
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.814087,
+      "longitude": 15.997404
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.81483,
+      "longitude": 15.99698
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.815078,
+      "longitude": 15.877214
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.816465,
+      "longitude": 15.872749
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.817314,
+      "longitude": 16.007267
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.819387,
+      "longitude": 15.983774
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.819877,
+      "longitude": 16.003988
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.823218,
+      "longitude": 16.00851
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.824378,
+      "longitude": 16.006258
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.824584,
+      "longitude": 15.984858
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.832835,
+      "longitude": 16.108024
+    },
+    {
+      "name": "iNovine",
+      "latitude": 45.916878,
+      "longitude": 15.776484
+    },
+    {
+      "name": "iNovine",
+      "latitude": 46.048654,
+      "longitude": 15.738471
+    },
+    {
+      "name": "iNovine",
+      "latitude": 46.091638,
+      "longitude": 15.838069
+    },
+    {
+      "name": "iNovine",
+      "latitude": 46.224618,
+      "longitude": 16.124172
+    },
+    {
+      "name": "iNovine",
+      "latitude": 46.389046,
+      "longitude": 16.440108
+    },
+    {
+      "name": "iNovine 034",
+      "latitude": 45.343017,
+      "longitude": 14.390762
+    },
+    {
+      "name": "Jargola",
+      "latitude": 43.92152,
+      "longitude": 15.419587
+    },
+    {
+      "name": "Kaotisak",
+      "latitude": 45.797318,
+      "longitude": 15.93743
+    },
+    {
+      "name": "Kapelin",
+      "latitude": 43.443421,
+      "longitude": 16.693257
+    },
+    {
+      "name": "Kim",
+      "latitude": 45.794517,
+      "longitude": 15.996055
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 44.304824,
+      "longitude": 15.471739
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 45.103812,
+      "longitude": 14.844827
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 45.176912,
+      "longitude": 13.742908
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 45.187058,
+      "longitude": 13.59354
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 45.237345,
+      "longitude": 14.254403
+    },
+    {
+      "name": "kiosk",
+      "latitude": 45.806853,
+      "longitude": 15.894068
+    },
+    {
+      "name": "KIOSK",
+      "latitude": 45.814981,
+      "longitude": 15.933404
+    },
+    {
+      "name": "Kiosk - Tisak",
+      "latitude": 44.042427,
+      "longitude": 16.197668
+    },
+    {
+      "name": "Kiosk TISAK",
+      "latitude": 43.446577,
+      "longitude": 17.21617
+    },
+    {
+      "name": "Kiosk TISAK",
+      "latitude": 43.446813,
+      "longitude": 17.217064
+    },
+    {
+      "name": "Kiosk za novine",
+      "latitude": 45.815743,
+      "longitude": 16.01268
+    },
+    {
+      "name": "KIOSK+",
+      "latitude": 45.790623,
+      "longitude": 15.962753
+    },
+    {
+      "name": "Kiosk+",
+      "latitude": 45.795293,
+      "longitude": 15.89988
+    },
+    {
+      "name": "Kiosk+",
+      "latitude": 45.802156,
+      "longitude": 15.89841
+    },
+    {
+      "name": "Kiosk+",
+      "latitude": 45.815031,
+      "longitude": 15.894901
+    },
+    {
+      "name": "Kiosk+",
+      "latitude": 45.815333,
+      "longitude": 15.8356
+    },
+    {
+      "name": "Kiosk+",
+      "latitude": 45.816733,
+      "longitude": 15.872746
+    },
+    {
+      "name": "Kiosk+",
+      "latitude": 45.819811,
+      "longitude": 15.938398
+    },
+    {
+      "name": "kiosk+",
+      "latitude": 45.821642,
+      "longitude": 16.012313
+    },
+    {
+      "name": "Kiosk+",
+      "latitude": 45.854768,
+      "longitude": 15.805691
+    },
+    {
+      "name": "kockica tobacco",
+      "latitude": 43.73476,
+      "longitude": 15.890736
+    },
+    {
+      "name": "Kon-Tiki To Go",
+      "latitude": 45.347767,
+      "longitude": 14.320463
+    },
+    {
+      "name": "Korner",
+      "latitude": 43.518029,
+      "longitude": 16.43387
+    },
+    {
+      "name": "Lito market",
+      "latitude": 45.192014,
+      "longitude": 13.59214
+    },
+    {
+      "name": "Lucijana",
+      "latitude": 45.801804,
+      "longitude": 15.715036
+    },
+    {
+      "name": "Lucijana",
+      "latitude": 45.801965,
+      "longitude": 15.722756
+    },
+    {
+      "name": "Lucijana",
+      "latitude": 45.802923,
+      "longitude": 15.71057
+    },
+    {
+      "name": "Lucijana",
+      "latitude": 45.805304,
+      "longitude": 15.721644
+    },
+    {
+      "name": "Lukoil Vrpolje Primorsko-jug",
+      "latitude": 43.691559,
+      "longitude": 16.036371
+    },
+    {
+      "name": "Lukoil Vrpolje Primorsko-sjever",
+      "latitude": 43.690734,
+      "longitude": 16.039982
+    },
+    {
+      "name": "Luna",
+      "latitude": 43.440564,
+      "longitude": 16.661951
+    },
+    {
+      "name": "Macan",
+      "latitude": 43.444147,
+      "longitude": 16.640866
+    },
+    {
+      "name": "Marijana 3",
+      "latitude": 43.520991,
+      "longitude": 16.446147
+    },
+    {
+      "name": "Market Jadreški",
+      "latitude": 44.869709,
+      "longitude": 13.917074
+    },
+    {
+      "name": "Mini Market",
+      "latitude": 42.662016,
+      "longitude": 18.062661
+    },
+    {
+      "name": "Mlinček",
+      "latitude": 46.027845,
+      "longitude": 16.551368
+    },
+    {
+      "name": "Mljet National Park ticket kiosk",
+      "latitude": 42.786112,
+      "longitude": 17.377589
+    },
+    {
+      "name": "Nacional",
+      "latitude": 43.475188,
+      "longitude": 16.566084
+    },
+    {
+      "name": "Nacional",
+      "latitude": 45.81173,
+      "longitude": 15.944814
+    },
+    {
+      "name": "Nacionalni park kiosk",
+      "latitude": 42.786107,
+      "longitude": 17.377598
+    },
+    {
+      "name": "Narodne Novine",
+      "latitude": 45.77843,
+      "longitude": 15.988162
+    },
+    {
+      "name": "needstop",
+      "latitude": 45.741037,
+      "longitude": 16.07854
+    },
+    {
+      "name": "News stand + beverages",
+      "latitude": 45.106713,
+      "longitude": 13.621104
+    },
+    {
+      "name": "Novine",
+      "latitude": 45.812536,
+      "longitude": 15.952143
+    },
+    {
+      "name": "Oktal-Z",
+      "latitude": 45.79902,
+      "longitude": 15.722503
+    },
+    {
+      "name": "OMV",
+      "latitude": 46.338374,
+      "longitude": 16.250918
+    },
+    {
+      "name": "Pačić 2",
+      "latitude": 43.507095,
+      "longitude": 16.484148
+    },
+    {
+      "name": "Pekanović",
+      "latitude": 43.443498,
+      "longitude": 17.221343
+    },
+    {
+      "name": "Pekanović",
+      "latitude": 43.445603,
+      "longitude": 17.223672
+    },
+    {
+      "name": "Pekara Mivit",
+      "latitude": 45.262086,
+      "longitude": 15.229689
+    },
+    {
+      "name": "Petrol",
+      "latitude": 43.913418,
+      "longitude": 15.511857
+    },
+    {
+      "name": "Petrol",
+      "latitude": 44.139077,
+      "longitude": 15.310826
+    },
+    {
+      "name": "Petrol",
+      "latitude": 44.139541,
+      "longitude": 15.310391
+    },
+    {
+      "name": "Petrol",
+      "latitude": 45.167984,
+      "longitude": 18.04081
+    },
+    {
+      "name": "Petrol - Osijek Trpimirova",
+      "latitude": 45.549172,
+      "longitude": 18.692277
+    },
+    {
+      "name": "Petrol Škurinje",
+      "latitude": 45.34189,
+      "longitude": 14.425202
+    },
+    {
+      "name": "pick-up",
+      "latitude": 45.801618,
+      "longitude": 16.234364
+    },
+    {
+      "name": "Pik",
+      "latitude": 45.473646,
+      "longitude": 16.366857
+    },
+    {
+      "name": "Pošta",
+      "latitude": 45.354404,
+      "longitude": 14.321906
+    },
+    {
+      "name": "Press & tobacco",
+      "latitude": 45.798168,
+      "longitude": 15.947799
+    },
+    {
+      "name": "Prozura Travel Agency",
+      "latitude": 42.785942,
+      "longitude": 17.377897
+    },
+    {
+      "name": "Q",
+      "latitude": 43.512661,
+      "longitude": 16.462288
+    },
+    {
+      "name": "Ria",
+      "latitude": 43.513235,
+      "longitude": 16.459203
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.375181,
+      "longitude": 16.62825
+    },
+    {
+      "name": "Robin P-13",
+      "latitude": 46.006706,
+      "longitude": 16.543194
+    },
+    {
+      "name": "samo taco",
+      "latitude": 43.73222,
+      "longitude": 15.893474
+    },
+    {
+      "name": "SD",
+      "latitude": 43.510783,
+      "longitude": 16.438143
+    },
+    {
+      "name": "Sičić",
+      "latitude": 43.443927,
+      "longitude": 16.692176
+    },
+    {
+      "name": "Skriptarnica",
+      "latitude": 45.80033,
+      "longitude": 15.970983
+    },
+    {
+      "name": "Slobodna Dalmacija",
+      "latitude": 43.37673,
+      "longitude": 16.606103
+    },
+    {
+      "name": "Slobodna Dalmacija",
+      "latitude": 43.384043,
+      "longitude": 16.479395
+    },
+    {
+      "name": "Slobodna Dalmacija",
+      "latitude": 43.385019,
+      "longitude": 16.55654
+    },
+    {
+      "name": "Slobodna Dalmacija",
+      "latitude": 43.385053,
+      "longitude": 16.550496
+    },
+    {
+      "name": "Slobodna dalmacija",
+      "latitude": 43.521504,
+      "longitude": 16.462802
+    },
+    {
+      "name": "Slobodna Dalmacija",
+      "latitude": 43.526697,
+      "longitude": 15.969137
+    },
+    {
+      "name": "Slobodna dalmacija",
+      "latitude": 43.536369,
+      "longitude": 16.490264
+    },
+    {
+      "name": "Slobodna Dalmacija",
+      "latitude": 43.821401,
+      "longitude": 15.58581
+    },
+    {
+      "name": "Slobodna Dalmacija",
+      "latitude": 43.940962,
+      "longitude": 15.445482
+    },
+    {
+      "name": "Slododna Dalmacija",
+      "latitude": 43.531922,
+      "longitude": 15.967712
+    },
+    {
+      "name": "Souveniers",
+      "latitude": 42.745429,
+      "longitude": 16.824936
+    },
+    {
+      "name": "Spartak",
+      "latitude": 45.804777,
+      "longitude": 15.977423
+    },
+    {
+      "name": "Strips MD",
+      "latitude": 45.815007,
+      "longitude": 15.926905
+    },
+    {
+      "name": "Tabacco",
+      "latitude": 45.79233,
+      "longitude": 15.901964
+    },
+    {
+      "name": "Tabacco",
+      "latitude": 45.796359,
+      "longitude": 15.969217
+    },
+    {
+      "name": "Tena",
+      "latitude": 45.804804,
+      "longitude": 15.966129
+    },
+    {
+      "name": "Teo's House",
+      "latitude": 43.170829,
+      "longitude": 16.432831
+    },
+    {
+      "name": "Tim",
+      "latitude": 45.790946,
+      "longitude": 15.957606
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.624856,
+      "longitude": 18.192061
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.64143,
+      "longitude": 18.108927
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.641939,
+      "longitude": 18.113592
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.646942,
+      "longitude": 18.093946
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.651271,
+      "longitude": 18.091623
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.65277,
+      "longitude": 18.087183
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.653869,
+      "longitude": 18.08457
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.655876,
+      "longitude": 18.072227
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.656459,
+      "longitude": 18.076631
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.656661,
+      "longitude": 18.087792
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.65781,
+      "longitude": 18.087155
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.786204,
+      "longitude": 17.888963
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.837559,
+      "longitude": 17.69707
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.924574,
+      "longitude": 17.43075
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.93909,
+      "longitude": 16.790296
+    },
+    {
+      "name": "Tisak",
+      "latitude": 42.974094,
+      "longitude": 17.17639
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.053804,
+      "longitude": 17.650064
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.05396,
+      "longitude": 17.648197
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.053979,
+      "longitude": 17.642275
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.055747,
+      "longitude": 17.652667
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.104385,
+      "longitude": 17.343551
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.104713,
+      "longitude": 17.342492
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.182191,
+      "longitude": 16.670531
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.185051,
+      "longitude": 16.599043
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.259664,
+      "longitude": 16.651657
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.261335,
+      "longitude": 16.65537
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.286046,
+      "longitude": 16.870748
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.293857,
+      "longitude": 17.020657
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.294755,
+      "longitude": 17.018916
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.294933,
+      "longitude": 17.014748
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.295151,
+      "longitude": 17.017763
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.29709,
+      "longitude": 17.016181
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.347774,
+      "longitude": 16.732399
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.355095,
+      "longitude": 16.949341
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.383718,
+      "longitude": 16.554204
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.385512,
+      "longitude": 16.555446
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.385612,
+      "longitude": 16.478291
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.39065,
+      "longitude": 16.285596
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.444941,
+      "longitude": 16.641177
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.444984,
+      "longitude": 16.687034
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.446415,
+      "longitude": 16.689177
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.447722,
+      "longitude": 17.214858
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.483406,
+      "longitude": 16.554665
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.493497,
+      "longitude": 16.264267
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.501765,
+      "longitude": 16.534579
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.502864,
+      "longitude": 16.442763
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.503818,
+      "longitude": 16.458832
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.504676,
+      "longitude": 16.456567
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.505328,
+      "longitude": 16.456042
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.505742,
+      "longitude": 16.468655
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.506491,
+      "longitude": 16.504276
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.506571,
+      "longitude": 16.465576
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.506646,
+      "longitude": 16.46402
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.50699,
+      "longitude": 16.442811
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.507686,
+      "longitude": 16.470588
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.507697,
+      "longitude": 16.465001
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.507855,
+      "longitude": 16.438605
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.509153,
+      "longitude": 16.442468
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.509787,
+      "longitude": 16.43913
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.510929,
+      "longitude": 16.436433
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.511021,
+      "longitude": 16.451258
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.512293,
+      "longitude": 16.461646
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.512577,
+      "longitude": 16.442247
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.513467,
+      "longitude": 16.450846
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.513639,
+      "longitude": 16.454622
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.513846,
+      "longitude": 16.442914
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.514036,
+      "longitude": 16.470645
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.514432,
+      "longitude": 16.440723
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.515879,
+      "longitude": 16.250805
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.516138,
+      "longitude": 16.435366
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.516657,
+      "longitude": 16.455545
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.527553,
+      "longitude": 15.968505
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.531802,
+      "longitude": 15.967789
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.541056,
+      "longitude": 16.49167
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.617465,
+      "longitude": 16.730465
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.635051,
+      "longitude": 15.963488
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.697912,
+      "longitude": 15.835054
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.698413,
+      "longitude": 16.636992
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.700683,
+      "longitude": 16.643985
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.701146,
+      "longitude": 16.636457
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.702103,
+      "longitude": 16.638142
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.703639,
+      "longitude": 16.637824
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.71284,
+      "longitude": 15.912383
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.724376,
+      "longitude": 15.844601
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.725463,
+      "longitude": 15.905554
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.725825,
+      "longitude": 15.905119
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.727651,
+      "longitude": 15.903925
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.731255,
+      "longitude": 15.897629
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.732418,
+      "longitude": 15.89625
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.732876,
+      "longitude": 15.895836
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.733534,
+      "longitude": 15.891917
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.733574,
+      "longitude": 15.900057
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.734714,
+      "longitude": 15.892523
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.73921,
+      "longitude": 15.899201
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.759164,
+      "longitude": 15.778322
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.798595,
+      "longitude": 15.641536
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.817257,
+      "longitude": 15.667913
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.860003,
+      "longitude": 16.158251
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.906807,
+      "longitude": 15.508389
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.92141,
+      "longitude": 15.420836
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.936085,
+      "longitude": 15.44313
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.936573,
+      "longitude": 15.443387
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.937984,
+      "longitude": 15.444887
+    },
+    {
+      "name": "Tisak",
+      "latitude": 43.96144,
+      "longitude": 15.426198
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.005507,
+      "longitude": 15.367651
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.047239,
+      "longitude": 15.313557
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.09156,
+      "longitude": 15.451339
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.096905,
+      "longitude": 15.352589
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.106232,
+      "longitude": 15.241656
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.106668,
+      "longitude": 15.234145
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.106813,
+      "longitude": 15.241222
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.109902,
+      "longitude": 15.235339
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.113665,
+      "longitude": 15.227759
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.115041,
+      "longitude": 15.226027
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.11613,
+      "longitude": 15.230801
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.116863,
+      "longitude": 15.226801
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.116919,
+      "longitude": 15.232293
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.117168,
+      "longitude": 15.238504
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.118816,
+      "longitude": 15.235436
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.129985,
+      "longitude": 15.231401
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.134728,
+      "longitude": 15.216211
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.292919,
+      "longitude": 15.119489
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.297564,
+      "longitude": 15.08579
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.443264,
+      "longitude": 15.053668
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.54568,
+      "longitude": 15.371376
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.545851,
+      "longitude": 15.375077
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.615428,
+      "longitude": 14.507752
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.757981,
+      "longitude": 14.759496
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.868535,
+      "longitude": 13.868159
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.871662,
+      "longitude": 13.846995
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.876941,
+      "longitude": 13.860556
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.926386,
+      "longitude": 13.803091
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.928692,
+      "longitude": 14.919412
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.956671,
+      "longitude": 15.639905
+    },
+    {
+      "name": "Tisak",
+      "latitude": 44.961801,
+      "longitude": 13.855934
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.022517,
+      "longitude": 14.62823
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.023946,
+      "longitude": 14.57039
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.026104,
+      "longitude": 14.573122
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.035455,
+      "longitude": 14.568802
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.074621,
+      "longitude": 13.649458
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.083943,
+      "longitude": 13.634366
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.085776,
+      "longitude": 14.12268
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.114403,
+      "longitude": 15.58538
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.114852,
+      "longitude": 15.586059
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.124172,
+      "longitude": 14.528578
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.125571,
+      "longitude": 14.527185
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.126956,
+      "longitude": 14.791002
+    },
+    {
+      "name": "TISAK",
+      "latitude": 45.146038,
+      "longitude": 18.883715
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.152929,
+      "longitude": 18.027778
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.1535,
+      "longitude": 18.023383
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.154564,
+      "longitude": 18.023747
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.154818,
+      "longitude": 18.020979
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.15483,
+      "longitude": 18.018172
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.154925,
+      "longitude": 18.011791
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.155031,
+      "longitude": 18.014953
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.155208,
+      "longitude": 18.016009
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.15558,
+      "longitude": 18.012819
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.155694,
+      "longitude": 18.024413
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.155865,
+      "longitude": 14.597561
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.156977,
+      "longitude": 18.012735
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.157038,
+      "longitude": 18.031056
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.157142,
+      "longitude": 18.032334
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.158796,
+      "longitude": 18.012687
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.159494,
+      "longitude": 17.998285
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.159688,
+      "longitude": 18.013038
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.159976,
+      "longitude": 18.005884
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.162745,
+      "longitude": 18.009502
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.164448,
+      "longitude": 14.541805
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.166631,
+      "longitude": 18.018445
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.167956,
+      "longitude": 18.003927
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.189163,
+      "longitude": 15.284623
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.192623,
+      "longitude": 14.66664
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.210776,
+      "longitude": 14.555621
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.230367,
+      "longitude": 13.620769
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.231919,
+      "longitude": 13.62077
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.239333,
+      "longitude": 13.942515
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.25392,
+      "longitude": 17.379403
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.259838,
+      "longitude": 17.200421
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.264786,
+      "longitude": 15.227191
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.265911,
+      "longitude": 15.231081
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.266514,
+      "longitude": 15.225219
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.274147,
+      "longitude": 14.568736
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.286845,
+      "longitude": 18.802318
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.292345,
+      "longitude": 14.276584
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.293068,
+      "longitude": 15.970047
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.314206,
+      "longitude": 14.473015
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.316047,
+      "longitude": 13.562262
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.317428,
+      "longitude": 13.560566
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.318172,
+      "longitude": 13.567645
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.322332,
+      "longitude": 14.465
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.324789,
+      "longitude": 15.695559
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.325027,
+      "longitude": 14.443252
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.325106,
+      "longitude": 14.47063
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.325557,
+      "longitude": 14.46442
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.325614,
+      "longitude": 14.443658
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.326506,
+      "longitude": 14.446693
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.327321,
+      "longitude": 14.440993
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.329974,
+      "longitude": 14.459693
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.330618,
+      "longitude": 17.675632
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.331545,
+      "longitude": 17.67674
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.331753,
+      "longitude": 17.670791
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.332168,
+      "longitude": 14.302947
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.332875,
+      "longitude": 14.442362
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.333574,
+      "longitude": 14.305185
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.333793,
+      "longitude": 17.674739
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.333832,
+      "longitude": 14.422842
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.333974,
+      "longitude": 14.507988
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.334267,
+      "longitude": 14.306059
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.334848,
+      "longitude": 17.679588
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.335329,
+      "longitude": 17.678306
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.339313,
+      "longitude": 14.309694
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.340549,
+      "longitude": 16.973214
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.341082,
+      "longitude": 16.976164
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.344363,
+      "longitude": 17.700217
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.351588,
+      "longitude": 19.002063
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.352107,
+      "longitude": 19.000615
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.358023,
+      "longitude": 17.763539
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.363706,
+      "longitude": 14.324749
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.406826,
+      "longitude": 13.964791
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.414545,
+      "longitude": 17.162326
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.433126,
+      "longitude": 13.520024
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.437411,
+      "longitude": 16.260802
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.438738,
+      "longitude": 17.666015
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.465584,
+      "longitude": 16.382595
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.468403,
+      "longitude": 16.373746
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.469977,
+      "longitude": 16.37418
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.476346,
+      "longitude": 16.368178
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.479853,
+      "longitude": 16.777125
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.481756,
+      "longitude": 15.549173
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.482814,
+      "longitude": 16.375616
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.484881,
+      "longitude": 16.371073
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.484884,
+      "longitude": 15.555513
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.484933,
+      "longitude": 15.546155
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.486004,
+      "longitude": 16.372283
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.487983,
+      "longitude": 15.548321
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.488158,
+      "longitude": 15.546158
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.489051,
+      "longitude": 16.377468
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.489064,
+      "longitude": 16.372719
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.490462,
+      "longitude": 15.541467
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.491324,
+      "longitude": 16.373097
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.492217,
+      "longitude": 15.549848
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.493967,
+      "longitude": 15.552414
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.496689,
+      "longitude": 15.531191
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.496689,
+      "longitude": 15.557245
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.500166,
+      "longitude": 15.549865
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.500392,
+      "longitude": 16.360399
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.502427,
+      "longitude": 18.74415
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.542095,
+      "longitude": 18.050752
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.543324,
+      "longitude": 18.046352
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.543686,
+      "longitude": 18.718678
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.546083,
+      "longitude": 18.710436
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.54632,
+      "longitude": 18.678516
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.551427,
+      "longitude": 18.695725
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.551703,
+      "longitude": 18.698976
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.55182,
+      "longitude": 18.705035
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.553204,
+      "longitude": 18.679747
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.553713,
+      "longitude": 18.683352
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.555045,
+      "longitude": 18.636864
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.555826,
+      "longitude": 18.720077
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.556026,
+      "longitude": 18.71662
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.556142,
+      "longitude": 18.68271
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.557055,
+      "longitude": 18.697688
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.557505,
+      "longitude": 18.683977
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.557813,
+      "longitude": 18.714815
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.557956,
+      "longitude": 18.71119
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.558244,
+      "longitude": 18.68235
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.558556,
+      "longitude": 18.676243
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.558989,
+      "longitude": 18.682758
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.559778,
+      "longitude": 18.678541
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.560119,
+      "longitude": 18.685779
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.560698,
+      "longitude": 18.654955
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.561346,
+      "longitude": 18.680275
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.561458,
+      "longitude": 18.677364
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.563703,
+      "longitude": 18.66956
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.563835,
+      "longitude": 18.653187
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.565745,
+      "longitude": 18.620743
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.586718,
+      "longitude": 15.859738
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.590946,
+      "longitude": 17.223621
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.592379,
+      "longitude": 17.223848
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.59242,
+      "longitude": 18.458588
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.673946,
+      "longitude": 15.652902
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.711607,
+      "longitude": 16.077389
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.712023,
+      "longitude": 16.07789
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.712686,
+      "longitude": 16.067364
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.714125,
+      "longitude": 16.075173
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.717521,
+      "longitude": 16.073292
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.719063,
+      "longitude": 16.060948
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.740967,
+      "longitude": 16.080523
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.76112,
+      "longitude": 15.986577
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.76407,
+      "longitude": 15.987675
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.767398,
+      "longitude": 15.94583
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.767967,
+      "longitude": 18.598138
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.76926,
+      "longitude": 15.933801
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.772219,
+      "longitude": 15.965642
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.772604,
+      "longitude": 15.994342
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.772719,
+      "longitude": 15.968454
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.774051,
+      "longitude": 15.94725
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.775406,
+      "longitude": 15.989005
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.775587,
+      "longitude": 15.982942
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.77648,
+      "longitude": 15.996487
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.776724,
+      "longitude": 15.979188
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.776797,
+      "longitude": 15.96532
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.777139,
+      "longitude": 15.996181
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.778425,
+      "longitude": 15.984693
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.778713,
+      "longitude": 15.995745
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.778909,
+      "longitude": 15.98667
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.785666,
+      "longitude": 15.95304
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.786418,
+      "longitude": 15.928629
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.788322,
+      "longitude": 16.004741
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.789306,
+      "longitude": 15.930826
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.789585,
+      "longitude": 15.929369
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.789689,
+      "longitude": 15.938426
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.790622,
+      "longitude": 15.949395
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.790902,
+      "longitude": 15.941497
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.791901,
+      "longitude": 15.949479
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.792206,
+      "longitude": 16.002838
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.792473,
+      "longitude": 16.153187
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.792901,
+      "longitude": 16.006131
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.793526,
+      "longitude": 16.005212
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.794397,
+      "longitude": 15.899134
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.795864,
+      "longitude": 15.918645
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.796942,
+      "longitude": 15.960726
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.797123,
+      "longitude": 15.777008
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.797271,
+      "longitude": 15.936585
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.798543,
+      "longitude": 15.94796
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.799399,
+      "longitude": 15.721514
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.799566,
+      "longitude": 16.001555
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.799673,
+      "longitude": 15.953286
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.799888,
+      "longitude": 15.734952
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.800556,
+      "longitude": 15.726005
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.800783,
+      "longitude": 15.930119
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.801732,
+      "longitude": 15.897986
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.801935,
+      "longitude": 15.711955
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.802464,
+      "longitude": 16.004122
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.802524,
+      "longitude": 17.494103
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.803392,
+      "longitude": 15.896511
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.803414,
+      "longitude": 15.877613
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.804061,
+      "longitude": 15.952946
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.804165,
+      "longitude": 15.977562
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.804238,
+      "longitude": 15.99323
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.804487,
+      "longitude": 16.24424
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.804743,
+      "longitude": 15.978674
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.804848,
+      "longitude": 15.966155
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.805098,
+      "longitude": 15.712834
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.805296,
+      "longitude": 15.978407
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.805689,
+      "longitude": 16.232504
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.80579,
+      "longitude": 16.225342
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.806774,
+      "longitude": 15.990875
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.807508,
+      "longitude": 15.969427
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.808656,
+      "longitude": 15.968675
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.809224,
+      "longitude": 15.988178
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.811244,
+      "longitude": 15.997602
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.811776,
+      "longitude": 15.711574
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.811812,
+      "longitude": 15.88605
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.812651,
+      "longitude": 15.964925
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.812865,
+      "longitude": 15.976786
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.813038,
+      "longitude": 15.957134
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.813139,
+      "longitude": 15.969741
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.81342,
+      "longitude": 16.025
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.813453,
+      "longitude": 15.998727
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.813832,
+      "longitude": 15.977038
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.814298,
+      "longitude": 16.008567
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.814742,
+      "longitude": 15.935981
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.814846,
+      "longitude": 15.99703
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.814884,
+      "longitude": 15.933543
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.81532,
+      "longitude": 15.953984
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.815459,
+      "longitude": 15.951422
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.81582,
+      "longitude": 15.944955
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.816053,
+      "longitude": 15.899062
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.81658,
+      "longitude": 15.934338
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.816895,
+      "longitude": 16.004154
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.817064,
+      "longitude": 15.872693
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.817503,
+      "longitude": 15.997138
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.819976,
+      "longitude": 16.025153
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.824726,
+      "longitude": 16.037283
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.82524,
+      "longitude": 16.109899
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.825511,
+      "longitude": 17.398746
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.825846,
+      "longitude": 16.043011
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.826833,
+      "longitude": 16.110522
+    },
+    {
+      "name": "TISAK",
+      "latitude": 45.828199,
+      "longitude": 16.068568
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.828229,
+      "longitude": 15.979716
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.831369,
+      "longitude": 15.998254
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.834567,
+      "longitude": 17.385866
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.838092,
+      "longitude": 15.687796
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.838236,
+      "longitude": 16.061073
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.841703,
+      "longitude": 15.974533
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.846021,
+      "longitude": 15.815531
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.852354,
+      "longitude": 15.950084
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.857416,
+      "longitude": 15.803988
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.869506,
+      "longitude": 15.794533
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.871891,
+      "longitude": 15.827327
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.872135,
+      "longitude": 15.825953
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.875655,
+      "longitude": 16.014778
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.884057,
+      "longitude": 16.419115
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.885141,
+      "longitude": 16.418434
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.885256,
+      "longitude": 16.419542
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.887795,
+      "longitude": 15.695204
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.894522,
+      "longitude": 16.844774
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.896264,
+      "longitude": 16.841115
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.89859,
+      "longitude": 16.841075
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.898836,
+      "longitude": 16.843356
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.900991,
+      "longitude": 16.848548
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.90143,
+      "longitude": 16.843267
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.977305,
+      "longitude": 15.933009
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.996229,
+      "longitude": 15.914817
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.024397,
+      "longitude": 15.904529
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.026043,
+      "longitude": 16.545572
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.088378,
+      "longitude": 15.910675
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.164008,
+      "longitude": 16.334585
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.224176,
+      "longitude": 16.125121
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.224617,
+      "longitude": 16.124132
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.304343,
+      "longitude": 16.334437
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.305451,
+      "longitude": 16.346143
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.305995,
+      "longitude": 16.33676
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.308369,
+      "longitude": 16.337627
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.309202,
+      "longitude": 16.326943
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.311041,
+      "longitude": 16.337939
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.314987,
+      "longitude": 16.343691
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.376378,
+      "longitude": 16.385648
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.384042,
+      "longitude": 16.445738
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.388302,
+      "longitude": 16.423256
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.389496,
+      "longitude": 16.437852
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.390223,
+      "longitude": 16.435975
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.391104,
+      "longitude": 16.435723
+    },
+    {
+      "name": "Tisak",
+      "latitude": 46.403283,
+      "longitude": 16.421374
+    },
+    {
+      "name": "Tisak kiosk",
+      "latitude": 45.702126,
+      "longitude": 17.701309
+    },
+    {
+      "name": "Tisak kiosk",
+      "latitude": 45.793949,
+      "longitude": 15.919173
+    },
+    {
+      "name": "Tisak media",
+      "latitude": 43.712543,
+      "longitude": 15.913372
+    },
+    {
+      "name": "Tisak media",
+      "latitude": 45.790613,
+      "longitude": 15.913412
+    },
+    {
+      "name": "Tisak Plus",
+      "latitude": 44.761027,
+      "longitude": 14.760209
+    },
+    {
+      "name": "Tisak Tobbaco & Shop",
+      "latitude": 43.26174,
+      "longitude": 16.656806
+    },
+    {
+      "name": "Tisak ZG-Dinamo",
+      "latitude": 45.818493,
+      "longitude": 16.01336
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.794437,
+      "longitude": 15.994428
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.803876,
+      "longitude": 15.977497
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.804298,
+      "longitude": 15.954956
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.805313,
+      "longitude": 15.929861
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.80663,
+      "longitude": 15.904231
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.807081,
+      "longitude": 15.994719
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.80723,
+      "longitude": 15.952693
+    },
+    {
+      "name": "tobacco",
+      "latitude": 45.808631,
+      "longitude": 15.930101
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.812329,
+      "longitude": 15.948225
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.812806,
+      "longitude": 15.995762
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.813326,
+      "longitude": 15.926273
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.814251,
+      "longitude": 15.983295
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.814636,
+      "longitude": 15.84496
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.815148,
+      "longitude": 15.934907
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.815393,
+      "longitude": 15.997655
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.815443,
+      "longitude": 15.933728
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.824459,
+      "longitude": 16.01124
+    },
+    {
+      "name": "TOBACCO",
+      "latitude": 45.825521,
+      "longitude": 16.109752
+    },
+    {
+      "name": "Tobacco",
+      "latitude": 45.829023,
+      "longitude": 16.062305
+    },
+    {
+      "name": "Tobacco Nada",
+      "latitude": 45.777103,
+      "longitude": 15.995949
+    },
+    {
+      "name": "Tobacco Patria",
+      "latitude": 45.81323,
+      "longitude": 15.997865
+    },
+    {
+      "name": "Tobacco Petica",
+      "latitude": 45.79586,
+      "longitude": 15.975456
+    },
+    {
+      "name": "Tobacco Petica",
+      "latitude": 45.805824,
+      "longitude": 15.984934
+    },
+    {
+      "name": "Tobacco shop",
+      "latitude": 43.723943,
+      "longitude": 15.800593
+    },
+    {
+      "name": "Tobacco Shop",
+      "latitude": 45.153737,
+      "longitude": 18.016355
+    },
+    {
+      "name": "Tobacco Shop",
+      "latitude": 45.227067,
+      "longitude": 13.596336
+    },
+    {
+      "name": "Tobacco Shop",
+      "latitude": 45.326007,
+      "longitude": 14.446096
+    },
+    {
+      "name": "Tobacco Shop",
+      "latitude": 45.560628,
+      "longitude": 18.682224
+    },
+    {
+      "name": "Tobacco shop",
+      "latitude": 45.795767,
+      "longitude": 15.964987
+    },
+    {
+      "name": "Tobacco shop",
+      "latitude": 45.796093,
+      "longitude": 15.990301
+    },
+    {
+      "name": "Tobacco shop",
+      "latitude": 45.806369,
+      "longitude": 15.942726
+    },
+    {
+      "name": "Tobacco Shop",
+      "latitude": 45.813359,
+      "longitude": 15.969481
+    },
+    {
+      "name": "Tobacco Shop",
+      "latitude": 45.829525,
+      "longitude": 16.054594
+    },
+    {
+      "name": "Tobacco shop Frenky",
+      "latitude": 45.772461,
+      "longitude": 15.994614
+    },
+    {
+      "name": "Tobacco Shop Lucko",
+      "latitude": 44.267192,
+      "longitude": 15.14134
+    },
+    {
+      "name": "Tobacco Shop Vodice",
+      "latitude": 43.759154,
+      "longitude": 15.777019
+    },
+    {
+      "name": "TobaccoMIX",
+      "latitude": 45.798306,
+      "longitude": 15.955555
+    },
+    {
+      "name": "tobaco riva",
+      "latitude": 45.813915,
+      "longitude": 15.996121
+    },
+    {
+      "name": "Tobbaco",
+      "latitude": 45.799691,
+      "longitude": 15.95328
+    },
+    {
+      "name": "Tom & Jerry",
+      "latitude": 43.061567,
+      "longitude": 16.183419
+    },
+    {
+      "name": "Trafika",
+      "latitude": 43.509185,
+      "longitude": 16.474553
+    },
+    {
+      "name": "Trafika",
+      "latitude": 43.517762,
+      "longitude": 16.461548
+    },
+    {
+      "name": "Trafika",
+      "latitude": 43.699715,
+      "longitude": 16.647332
+    },
+    {
+      "name": "Trafika",
+      "latitude": 43.741626,
+      "longitude": 16.183739
+    },
+    {
+      "name": "trafika",
+      "latitude": 43.85996,
+      "longitude": 16.155107
+    },
+    {
+      "name": "Trafika Egi",
+      "latitude": 43.532068,
+      "longitude": 16.490996
+    },
+    {
+      "name": "Trafika XXL",
+      "latitude": 43.516479,
+      "longitude": 16.46697
+    },
+    {
+      "name": "Trgovački obrt \"Voće\"",
+      "latitude": 45.815438,
+      "longitude": 15.93364
+    },
+    {
+      "name": "Trgovački obrt Baja",
+      "latitude": 44.042286,
+      "longitude": 16.197825
+    },
+    {
+      "name": "Trgovina Slivno",
+      "latitude": 43.010152,
+      "longitude": 17.550658
+    },
+    {
+      "name": "Tropicano",
+      "latitude": 45.3819,
+      "longitude": 13.538111
+    },
+    {
+      "name": "Veronika delikatese Čavle",
+      "latitude": 45.357208,
+      "longitude": 14.487942
+    },
+    {
+      "name": "Veronika mljekara",
+      "latitude": 45.333983,
+      "longitude": 14.508093
+    },
+    {
+      "name": "Viora",
+      "latitude": 45.774694,
+      "longitude": 15.955636
+    },
+    {
+      "name": "Vlatka",
+      "latitude": 45.528357,
+      "longitude": 18.58444
+    },
+    {
+      "name": "Vrbani Express",
+      "latitude": 45.790199,
+      "longitude": 15.91364
+    },
+    {
+      "name": "VSG Healthy Food Kiosk",
+      "latitude": 45.157781,
+      "longitude": 14.628794
+    },
+    {
+      "name": "Wool lab Mirjana",
+      "latitude": 43.818342,
+      "longitude": 15.92201
+    },
+    {
+      "name": "Školski kiosk",
+      "latitude": 45.907141,
+      "longitude": 16.849906
+    },
+    {
+      "name": "Željo 2",
+      "latitude": 45.263539,
+      "longitude": 16.917771
+    }
+  ],
+  "meta": {
+    "title": "Kiosci - Besplatno preuzimanje",
+    "description": "Kiosci u Hrvatskoj (702 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=kiosk), izrez EU-POIS/HR. Sadrži 702 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kiosci | ListBase",
+    "seo_description": "Preuzmi Kiosci — 702 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 702 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "id": "hr-mjerne-jedinice-concentr",
+  "name": "Mjerne jedinice — kategorija 'concentr' (13)",
+  "title": "Mjerne jedinice — kategorija 'concentr' (13)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'concentr' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "concentr-item",
+      "kategorija": "concentr",
+      "naziv": "stavke",
+      "kratica": "stavka",
+      "naziv_uski": "stavka",
+      "obrazac": "{0} stavki"
+    },
+    {
+      "id": 2,
+      "unit_code": "concentr-karat",
+      "kategorija": "concentr",
+      "naziv": "karati",
+      "kratica": "kt",
+      "naziv_uski": "kt",
+      "obrazac": "{0} karata"
+    },
+    {
+      "id": 3,
+      "unit_code": "concentr-katal",
+      "kategorija": "concentr",
+      "naziv": "katali",
+      "kratica": "kat",
+      "naziv_uski": "kat",
+      "obrazac": "{0} katala"
+    },
+    {
+      "id": 4,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategorija": "concentr",
+      "naziv": "miligrami po decilitru",
+      "kratica": "mg/dl",
+      "naziv_uski": "mg/dl",
+      "obrazac": "{0} miligrama po decilitru"
+    },
+    {
+      "id": 5,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategorija": "concentr",
+      "naziv": "milimoli po litri",
+      "kratica": "mmol/l",
+      "naziv_uski": "mmol/l",
+      "obrazac": "{0} milimola po litri"
+    },
+    {
+      "id": 6,
+      "unit_code": "concentr-mole",
+      "kategorija": "concentr",
+      "naziv": "moli",
+      "kratica": "mol",
+      "naziv_uski": "mol",
+      "obrazac": "{0} mola"
+    },
+    {
+      "id": 7,
+      "unit_code": "concentr-ofglucose",
+      "kategorija": "concentr",
+      "naziv": "glukoze",
+      "kratica": "Glc",
+      "naziv_uski": "Glc",
+      "obrazac": "{0} glukoze"
+    },
+    {
+      "id": 8,
+      "unit_code": "concentr-part",
+      "kategorija": "concentr",
+      "naziv": "dijelovi",
+      "kratica": "dio",
+      "naziv_uski": "dio",
+      "obrazac": "{0} dijelova"
+    },
+    {
+      "id": 9,
+      "unit_code": "concentr-part-per-1e6",
+      "kategorija": "concentr",
+      "naziv": "dijelovi na milijun",
+      "kratica": "ppm",
+      "naziv_uski": "ppm",
+      "obrazac": "{0} dijelova na milijun"
+    },
+    {
+      "id": 10,
+      "unit_code": "concentr-part-per-1e9",
+      "kategorija": "concentr",
+      "naziv": "dijelovi na milijardu",
+      "kratica": "dijelovi/milijarda",
+      "naziv_uski": "dijelovi/milijarda",
+      "obrazac": "{0} dijelova na milijardu"
+    },
+    {
+      "id": 11,
+      "unit_code": "concentr-percent",
+      "kategorija": "concentr",
+      "naziv": "postotak",
+      "kratica": "%",
+      "naziv_uski": "%",
+      "obrazac": "{0} posto"
+    },
+    {
+      "id": 12,
+      "unit_code": "concentr-permille",
+      "kategorija": "concentr",
+      "naziv": "promil",
+      "kratica": "‰",
+      "naziv_uski": "‰",
+      "obrazac": "{0} promila"
+    },
+    {
+      "id": 13,
+      "unit_code": "concentr-permyriad",
+      "kategorija": "concentr",
+      "naziv": "permyriad",
+      "kratica": "‱",
+      "naziv_uski": "‱",
+      "obrazac": "{0} permyriada"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'concentr' (13) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'concentr' s hrvatskim nazivima. Sadrži 13 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'concentr' (13) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'concentr' (13) — 13 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 13 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

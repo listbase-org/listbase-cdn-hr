@@ -1,0 +1,476 @@
+{
+  "id": "hr-vocarne-povrtarne",
+  "name": "Voćarne i povrtarne",
+  "title": "Voćarne i povrtarne",
+  "description": "Voćarne i povrtarne u Hrvatskoj (87 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=greengrocer), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agrovir",
+      "latitude": 45.804246,
+      "longitude": 15.977489
+    },
+    {
+      "name": "Ananas",
+      "latitude": 43.162128,
+      "longitude": 16.689846
+    },
+    {
+      "name": "Antolović",
+      "latitude": 45.797409,
+      "longitude": 15.937147
+    },
+    {
+      "name": "Avokado",
+      "latitude": 44.760965,
+      "longitude": 14.760256
+    },
+    {
+      "name": "Bagrem",
+      "latitude": 46.224228,
+      "longitude": 16.125475
+    },
+    {
+      "name": "Bananko",
+      "latitude": 45.790162,
+      "longitude": 15.938056
+    },
+    {
+      "name": "bio-trgovina",
+      "latitude": 45.814017,
+      "longitude": 15.927466
+    },
+    {
+      "name": "Bonita Market",
+      "latitude": 45.114221,
+      "longitude": 15.585601
+    },
+    {
+      "name": "Bucina zelena trznica",
+      "latitude": 45.35728,
+      "longitude": 14.488276
+    },
+    {
+      "name": "Butiga Kastav",
+      "latitude": 45.372451,
+      "longitude": 14.349206
+    },
+    {
+      "name": "Cica",
+      "latitude": 43.063166,
+      "longitude": 16.184578
+    },
+    {
+      "name": "Dobrila",
+      "latitude": 43.161826,
+      "longitude": 16.689886
+    },
+    {
+      "name": "F&K",
+      "latitude": 44.816348,
+      "longitude": 13.935766
+    },
+    {
+      "name": "Frigo",
+      "latitude": 43.025932,
+      "longitude": 17.552113
+    },
+    {
+      "name": "Froota",
+      "latitude": 45.797695,
+      "longitude": 15.943912
+    },
+    {
+      "name": "Hari",
+      "latitude": 45.097607,
+      "longitude": 13.642057
+    },
+    {
+      "name": "Ivić",
+      "latitude": 45.16433,
+      "longitude": 14.541898
+    },
+    {
+      "name": "JASENSKA d.o.o",
+      "latitude": 43.023163,
+      "longitude": 17.552211
+    },
+    {
+      "name": "Juice & juice",
+      "latitude": 45.813803,
+      "longitude": 15.992932
+    },
+    {
+      "name": "Kate",
+      "latitude": 43.50525,
+      "longitude": 16.427945
+    },
+    {
+      "name": "Keka",
+      "latitude": 42.649225,
+      "longitude": 18.098306
+    },
+    {
+      "name": "Kivi",
+      "latitude": 45.79892,
+      "longitude": 15.905277
+    },
+    {
+      "name": "Kiwi",
+      "latitude": 45.481781,
+      "longitude": 16.367467
+    },
+    {
+      "name": "KMK",
+      "latitude": 45.789422,
+      "longitude": 15.938209
+    },
+    {
+      "name": "Kolak",
+      "latitude": 42.653211,
+      "longitude": 18.080601
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.442173,
+      "longitude": 15.050962
+    },
+    {
+      "name": "Kuća Pršuta i Sira",
+      "latitude": 43.294518,
+      "longitude": 17.021183
+    },
+    {
+      "name": "Kvartovska Tržnica \"Nostalgija\"",
+      "latitude": 45.823254,
+      "longitude": 16.012479
+    },
+    {
+      "name": "Lepušina",
+      "latitude": 43.701276,
+      "longitude": 16.636548
+    },
+    {
+      "name": "Luk, cesnjak i krumpir",
+      "latitude": 45.292738,
+      "longitude": 15.597998
+    },
+    {
+      "name": "Mala pjaca",
+      "latitude": 43.054507,
+      "longitude": 17.648027
+    },
+    {
+      "name": "Mali plac",
+      "latitude": 45.796604,
+      "longitude": 15.968452
+    },
+    {
+      "name": "Maraška",
+      "latitude": 45.780385,
+      "longitude": 15.984748
+    },
+    {
+      "name": "Mariva",
+      "latitude": 43.507912,
+      "longitude": 16.474723
+    },
+    {
+      "name": "Mrkvica",
+      "latitude": 43.907965,
+      "longitude": 15.508171
+    },
+    {
+      "name": "Nevenova Helena Trznica",
+      "latitude": 45.274258,
+      "longitude": 14.568903
+    },
+    {
+      "name": "NIKE trgovački obrt",
+      "latitude": 43.444801,
+      "longitude": 16.641038
+    },
+    {
+      "name": "Nima",
+      "latitude": 43.515602,
+      "longitude": 16.444417
+    },
+    {
+      "name": "Nova",
+      "latitude": 43.44605,
+      "longitude": 16.688472
+    },
+    {
+      "name": "OPG Lončarić",
+      "latitude": 45.265942,
+      "longitude": 13.656898
+    },
+    {
+      "name": "OPG Mataga",
+      "latitude": 45.795749,
+      "longitude": 15.933928
+    },
+    {
+      "name": "OPG Susa",
+      "latitude": 43.885055,
+      "longitude": 15.534462
+    },
+    {
+      "name": "OPG Zagar",
+      "latitude": 45.020562,
+      "longitude": 14.629374
+    },
+    {
+      "name": "Paško voće",
+      "latitude": 45.797329,
+      "longitude": 15.937532
+    },
+    {
+      "name": "Pekara Vilson",
+      "latitude": 44.905295,
+      "longitude": 13.823988
+    },
+    {
+      "name": "Petar",
+      "latitude": 45.294078,
+      "longitude": 13.597782
+    },
+    {
+      "name": "Petra i Anita",
+      "latitude": 45.807407,
+      "longitude": 15.941069
+    },
+    {
+      "name": "plac.hr",
+      "latitude": 45.803418,
+      "longitude": 16.020655
+    },
+    {
+      "name": "Plodovi sunca",
+      "latitude": 44.117403,
+      "longitude": 15.233197
+    },
+    {
+      "name": "Povrće i voće sve moguće",
+      "latitude": 45.791778,
+      "longitude": 15.962383
+    },
+    {
+      "name": "Povrće i voće svemoguće",
+      "latitude": 45.795615,
+      "longitude": 15.965903
+    },
+    {
+      "name": "Priroda i društvo",
+      "latitude": 45.796145,
+      "longitude": 15.96975
+    },
+    {
+      "name": "Prodaja voća i povrća",
+      "latitude": 42.675131,
+      "longitude": 18.111549
+    },
+    {
+      "name": "Pulpa",
+      "latitude": 45.793661,
+      "longitude": 15.918467
+    },
+    {
+      "name": "Pčelarstvo Pintar",
+      "latitude": 45.418919,
+      "longitude": 14.70522
+    },
+    {
+      "name": "Samirić",
+      "latitude": 44.117323,
+      "longitude": 15.239225
+    },
+    {
+      "name": "Samoborček",
+      "latitude": 45.798651,
+      "longitude": 15.722135
+    },
+    {
+      "name": "Slatki proizvodi Neretve",
+      "latitude": 43.505497,
+      "longitude": 16.456596
+    },
+    {
+      "name": "Stara trešnja",
+      "latitude": 45.799225,
+      "longitude": 15.950239
+    },
+    {
+      "name": "Svježe voće i povrće",
+      "latitude": 43.515404,
+      "longitude": 16.444199
+    },
+    {
+      "name": "T.O. Jagoda",
+      "latitude": 43.172592,
+      "longitude": 16.4438
+    },
+    {
+      "name": "Vagros",
+      "latitude": 43.048217,
+      "longitude": 17.628559
+    },
+    {
+      "name": "Valentino",
+      "latitude": 43.8219,
+      "longitude": 15.592419
+    },
+    {
+      "name": "Veletržnica Metković",
+      "latitude": 43.050653,
+      "longitude": 17.629965
+    },
+    {
+      "name": "Verdura",
+      "latitude": 43.508603,
+      "longitude": 16.477649
+    },
+    {
+      "name": "Vitaminko",
+      "latitude": 43.513153,
+      "longitude": 16.44702
+    },
+    {
+      "name": "Vocarna",
+      "latitude": 44.556309,
+      "longitude": 14.883115
+    },
+    {
+      "name": "Vocarna Gusi 2",
+      "latitude": 44.035512,
+      "longitude": 16.197496
+    },
+    {
+      "name": "Vocarna Sabine",
+      "latitude": 45.164349,
+      "longitude": 14.541969
+    },
+    {
+      "name": "Vocarna.hr",
+      "latitude": 45.794914,
+      "longitude": 15.995383
+    },
+    {
+      "name": "Voćara",
+      "latitude": 45.11487,
+      "longitude": 15.585998
+    },
+    {
+      "name": "Voćarna",
+      "latitude": 43.501924,
+      "longitude": 16.534442
+    },
+    {
+      "name": "Voćarna",
+      "latitude": 45.71178,
+      "longitude": 16.066834
+    },
+    {
+      "name": "Voćarna",
+      "latitude": 45.774829,
+      "longitude": 15.955825
+    },
+    {
+      "name": "Voćarna",
+      "latitude": 45.793059,
+      "longitude": 15.915353
+    },
+    {
+      "name": "Voćarna",
+      "latitude": 45.81695,
+      "longitude": 15.835795
+    },
+    {
+      "name": "Voćarna Bagrem",
+      "latitude": 46.223582,
+      "longitude": 16.124243
+    },
+    {
+      "name": "Voćarna BONITA",
+      "latitude": 45.188717,
+      "longitude": 15.284503
+    },
+    {
+      "name": "voćarna Kivi",
+      "latitude": 45.26666,
+      "longitude": 15.224436
+    },
+    {
+      "name": "Voćarna Pojišan",
+      "latitude": 43.504857,
+      "longitude": 16.449575
+    },
+    {
+      "name": "Voćarna Ptiček",
+      "latitude": 45.810716,
+      "longitude": 15.980073
+    },
+    {
+      "name": "Voćarna Pulpa",
+      "latitude": 45.798269,
+      "longitude": 15.974085
+    },
+    {
+      "name": "voćarna Vrabečak",
+      "latitude": 45.813809,
+      "longitude": 15.905813
+    },
+    {
+      "name": "Voćarna.hr",
+      "latitude": 45.811103,
+      "longitude": 15.950357
+    },
+    {
+      "name": "Voće i povrće",
+      "latitude": 43.446037,
+      "longitude": 17.216387
+    },
+    {
+      "name": "VrhGora",
+      "latitude": 43.510664,
+      "longitude": 16.454411
+    },
+    {
+      "name": "Šareni svijet",
+      "latitude": 45.816734,
+      "longitude": 16.003429
+    }
+  ],
+  "meta": {
+    "title": "Voćarne i povrtarne - Besplatno preuzimanje",
+    "description": "Voćarne i povrtarne u Hrvatskoj (87 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=greengrocer), izrez EU-POIS/HR. Sadrži 87 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Voćarne i povrtarne | ListBase",
+    "seo_description": "Preuzmi Voćarne i povrtarne — 87 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 87 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

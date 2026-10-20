@@ -1,0 +1,871 @@
+{
+  "id": "hr-trgovine-uradi-sam",
+  "name": "Trgovine \"uradi sam\"",
+  "title": "Trgovine \"uradi sam\"",
+  "description": "Trgovine \"uradi sam\" u Hrvatskoj (166 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=doityourself), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 166,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ACO",
+      "latitude": 45.804377,
+      "longitude": 16.119182
+    },
+    {
+      "name": "Acron",
+      "latitude": 45.517169,
+      "longitude": 18.730197
+    },
+    {
+      "name": "agro",
+      "latitude": 45.237465,
+      "longitude": 13.942881
+    },
+    {
+      "name": "Agro Nova",
+      "latitude": 45.340544,
+      "longitude": 16.975913
+    },
+    {
+      "name": "Agroturopolje",
+      "latitude": 45.705383,
+      "longitude": 16.11595
+    },
+    {
+      "name": "Alati Milić",
+      "latitude": 45.810334,
+      "longitude": 15.88944
+    },
+    {
+      "name": "Angulja",
+      "latitude": 43.757596,
+      "longitude": 15.767475
+    },
+    {
+      "name": "Ante Omnes",
+      "latitude": 43.80185,
+      "longitude": 15.651025
+    },
+    {
+      "name": "Aqua-San",
+      "latitude": 45.332553,
+      "longitude": 14.44088
+    },
+    {
+      "name": "Bagar",
+      "latitude": 43.938617,
+      "longitude": 15.443471
+    },
+    {
+      "name": "Banić Promet",
+      "latitude": 45.713163,
+      "longitude": 16.075037
+    },
+    {
+      "name": "Banko",
+      "latitude": 43.510153,
+      "longitude": 16.454588
+    },
+    {
+      "name": "BAT",
+      "latitude": 46.38664,
+      "longitude": 16.457305
+    },
+    {
+      "name": "BAT",
+      "latitude": 46.512864,
+      "longitude": 16.439221
+    },
+    {
+      "name": "Batis",
+      "latitude": 45.80361,
+      "longitude": 15.908119
+    },
+    {
+      "name": "Batis",
+      "latitude": 45.806805,
+      "longitude": 15.942261
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 43.524568,
+      "longitude": 16.484376
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 44.113262,
+      "longitude": 15.268316
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 44.884227,
+      "longitude": 13.862391
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 45.337366,
+      "longitude": 14.507732
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 45.75528,
+      "longitude": 15.995765
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 45.796836,
+      "longitude": 16.052498
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 45.797106,
+      "longitude": 15.86248
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 46.291472,
+      "longitude": 16.353991
+    },
+    {
+      "name": "BauWelt",
+      "latitude": 45.173494,
+      "longitude": 18.054005
+    },
+    {
+      "name": "Bačelić",
+      "latitude": 45.80416,
+      "longitude": 15.857169
+    },
+    {
+      "name": "Bepo trade 94",
+      "latitude": 43.161524,
+      "longitude": 16.688571
+    },
+    {
+      "name": "Boje i lakovi",
+      "latitude": 45.239251,
+      "longitude": 13.926932
+    },
+    {
+      "name": "Brukvica",
+      "latitude": 43.730907,
+      "longitude": 15.897326
+    },
+    {
+      "name": "Bućan boje i lakovi",
+      "latitude": 43.292432,
+      "longitude": 17.023226
+    },
+    {
+      "name": "Caffebar Ćošak",
+      "latitude": 45.23964,
+      "longitude": 18.89623
+    },
+    {
+      "name": "Centar M",
+      "latitude": 46.463539,
+      "longitude": 16.542137
+    },
+    {
+      "name": "Con Color",
+      "latitude": 45.15349,
+      "longitude": 18.028585
+    },
+    {
+      "name": "Concord",
+      "latitude": 45.353722,
+      "longitude": 14.365809
+    },
+    {
+      "name": "Crnov Commerce",
+      "latitude": 45.290302,
+      "longitude": 18.408048
+    },
+    {
+      "name": "Cromatec",
+      "latitude": 45.804542,
+      "longitude": 15.719438
+    },
+    {
+      "name": "Dani-Fas",
+      "latitude": 46.179864,
+      "longitude": 16.79066
+    },
+    {
+      "name": "Delta color",
+      "latitude": 45.174131,
+      "longitude": 18.048551
+    },
+    {
+      "name": "Dens Co. Commerce",
+      "latitude": 46.178733,
+      "longitude": 16.797577
+    },
+    {
+      "name": "Dobar partner",
+      "latitude": 45.804844,
+      "longitude": 16.050108
+    },
+    {
+      "name": "Domus d.o.o.",
+      "latitude": 45.831928,
+      "longitude": 17.380087
+    },
+    {
+      "name": "Drvo Pokuplje d.o.o.",
+      "latitude": 45.706149,
+      "longitude": 16.08347
+    },
+    {
+      "name": "Duga",
+      "latitude": 43.731182,
+      "longitude": 15.896709
+    },
+    {
+      "name": "El-Si",
+      "latitude": 44.060247,
+      "longitude": 15.207759
+    },
+    {
+      "name": "ELCO",
+      "latitude": 45.315969,
+      "longitude": 18.409216
+    },
+    {
+      "name": "Elektromarket",
+      "latitude": 45.316499,
+      "longitude": 13.563212
+    },
+    {
+      "name": "Elektrometal",
+      "latitude": 45.251435,
+      "longitude": 13.619146
+    },
+    {
+      "name": "Era",
+      "latitude": 43.75759,
+      "longitude": 15.876671
+    },
+    {
+      "name": "Exco",
+      "latitude": 45.489804,
+      "longitude": 16.389846
+    },
+    {
+      "name": "Extra Metal",
+      "latitude": 43.704032,
+      "longitude": 16.645564
+    },
+    {
+      "name": "Farma",
+      "latitude": 45.389483,
+      "longitude": 14.358386
+    },
+    {
+      "name": "FerImport",
+      "latitude": 45.815812,
+      "longitude": 15.999335
+    },
+    {
+      "name": "Fero-Term",
+      "latitude": 45.48608,
+      "longitude": 16.372617
+    },
+    {
+      "name": "Furnir",
+      "latitude": 45.541528,
+      "longitude": 18.656059
+    },
+    {
+      "name": "Furnir",
+      "latitude": 45.810787,
+      "longitude": 16.001095
+    },
+    {
+      "name": "Futura d.o.o.",
+      "latitude": 45.828275,
+      "longitude": 17.373465
+    },
+    {
+      "name": "Grama",
+      "latitude": 46.386621,
+      "longitude": 16.416995
+    },
+    {
+      "name": "Gratis d.o.o.",
+      "latitude": 45.210307,
+      "longitude": 13.815724
+    },
+    {
+      "name": "HELDA interijeri",
+      "latitude": 45.337311,
+      "longitude": 17.68374
+    },
+    {
+      "name": "Hiper Bau",
+      "latitude": 44.547307,
+      "longitude": 14.896399
+    },
+    {
+      "name": "Hobbytex",
+      "latitude": 45.901368,
+      "longitude": 16.842755
+    },
+    {
+      "name": "Istra Color",
+      "latitude": 45.415548,
+      "longitude": 13.661433
+    },
+    {
+      "name": "ItalUnion",
+      "latitude": 44.876491,
+      "longitude": 13.856091
+    },
+    {
+      "name": "Izolirka",
+      "latitude": 45.366424,
+      "longitude": 18.969216
+    },
+    {
+      "name": "Izolirka",
+      "latitude": 45.671472,
+      "longitude": 18.413815
+    },
+    {
+      "name": "Keller & Kalmbach",
+      "latitude": 45.807594,
+      "longitude": 16.102096
+    },
+    {
+      "name": "Kemoboja Dubrava",
+      "latitude": 45.826833,
+      "longitude": 16.045114
+    },
+    {
+      "name": "Keramica Gorrieri",
+      "latitude": 43.440987,
+      "longitude": 16.697032
+    },
+    {
+      "name": "Keraterm",
+      "latitude": 44.108516,
+      "longitude": 15.260959
+    },
+    {
+      "name": "Konstal",
+      "latitude": 45.797376,
+      "longitude": 15.775212
+    },
+    {
+      "name": "Kožul",
+      "latitude": 45.167944,
+      "longitude": 18.004318
+    },
+    {
+      "name": "KTC",
+      "latitude": 46.015574,
+      "longitude": 16.535117
+    },
+    {
+      "name": "LET'S DOIT",
+      "latitude": 45.179364,
+      "longitude": 18.037924
+    },
+    {
+      "name": "Lorencic-Croatia",
+      "latitude": 45.541153,
+      "longitude": 18.656432
+    },
+    {
+      "name": "Maestral",
+      "latitude": 43.183045,
+      "longitude": 16.601481
+    },
+    {
+      "name": "Maća",
+      "latitude": 43.518928,
+      "longitude": 16.253125
+    },
+    {
+      "name": "MD Profil",
+      "latitude": 44.095702,
+      "longitude": 15.273706
+    },
+    {
+      "name": "MD profil",
+      "latitude": 45.17785,
+      "longitude": 17.998266
+    },
+    {
+      "name": "MD Profil",
+      "latitude": 45.283074,
+      "longitude": 18.409057
+    },
+    {
+      "name": "MD Profil",
+      "latitude": 45.562533,
+      "longitude": 18.632824
+    },
+    {
+      "name": "MDprofiL",
+      "latitude": 45.803988,
+      "longitude": 16.066815
+    },
+    {
+      "name": "Megasan",
+      "latitude": 45.757585,
+      "longitude": 18.166918
+    },
+    {
+      "name": "Merkury Rijeka",
+      "latitude": 45.372616,
+      "longitude": 14.388875
+    },
+    {
+      "name": "Metalco Pakrac",
+      "latitude": 45.445552,
+      "longitude": 17.198256
+    },
+    {
+      "name": "Metalka",
+      "latitude": 45.153666,
+      "longitude": 18.018249
+    },
+    {
+      "name": "Mioagrostroj",
+      "latitude": 45.179316,
+      "longitude": 18.038175
+    },
+    {
+      "name": "MM Beton",
+      "latitude": 45.691463,
+      "longitude": 15.738322
+    },
+    {
+      "name": "MM-PROM - željeznarija",
+      "latitude": 45.799521,
+      "longitude": 15.721151
+    },
+    {
+      "name": "Nazagrad",
+      "latitude": 44.959334,
+      "longitude": 14.410845
+    },
+    {
+      "name": "NB HOBBY&ART",
+      "latitude": 45.796887,
+      "longitude": 15.855511
+    },
+    {
+      "name": "Niveta Osijek - Trgovina br. 2",
+      "latitude": 45.499958,
+      "longitude": 18.746263
+    },
+    {
+      "name": "Nivex - Niveta",
+      "latitude": 45.571587,
+      "longitude": 18.606739
+    },
+    {
+      "name": "Opeco d.o.o",
+      "latitude": 45.836917,
+      "longitude": 17.371752
+    },
+    {
+      "name": "Orešković",
+      "latitude": 45.308118,
+      "longitude": 18.408493
+    },
+    {
+      "name": "Passus",
+      "latitude": 45.806795,
+      "longitude": 15.894962
+    },
+    {
+      "name": "Pevex",
+      "latitude": 42.629742,
+      "longitude": 18.165972
+    },
+    {
+      "name": "PEVEX",
+      "latitude": 43.286281,
+      "longitude": 17.031651
+    },
+    {
+      "name": "Pevex",
+      "latitude": 43.53981,
+      "longitude": 16.44714
+    },
+    {
+      "name": "Pevex",
+      "latitude": 43.712342,
+      "longitude": 15.911416
+    },
+    {
+      "name": "Pevex",
+      "latitude": 44.100596,
+      "longitude": 15.263506
+    },
+    {
+      "name": "Pevex",
+      "latitude": 44.888223,
+      "longitude": 13.853184
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.16238,
+      "longitude": 18.020764
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.173966,
+      "longitude": 18.062542
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.331387,
+      "longitude": 14.509091
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.357741,
+      "longitude": 14.41337
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.371711,
+      "longitude": 18.958654
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.466803,
+      "longitude": 16.768787
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.496675,
+      "longitude": 16.355075
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.504572,
+      "longitude": 15.545261
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.544671,
+      "longitude": 18.689415
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.779931,
+      "longitude": 16.006188
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.800712,
+      "longitude": 16.033202
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.80411,
+      "longitude": 16.117742
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.805437,
+      "longitude": 15.860739
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.811618,
+      "longitude": 15.711653
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.812977,
+      "longitude": 15.934233
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.819388,
+      "longitude": 17.392451
+    },
+    {
+      "name": "Pevex",
+      "latitude": 45.904272,
+      "longitude": 16.849467
+    },
+    {
+      "name": "Pevex",
+      "latitude": 46.015437,
+      "longitude": 15.883595
+    },
+    {
+      "name": "Pevex",
+      "latitude": 46.144496,
+      "longitude": 16.833822
+    },
+    {
+      "name": "Pevex",
+      "latitude": 46.288208,
+      "longitude": 16.36018
+    },
+    {
+      "name": "Pevex",
+      "latitude": 46.388509,
+      "longitude": 16.415846
+    },
+    {
+      "name": "Pictura",
+      "latitude": 45.371929,
+      "longitude": 18.955352
+    },
+    {
+      "name": "Poljo Pero",
+      "latitude": 45.115595,
+      "longitude": 15.586227
+    },
+    {
+      "name": "Poljooprema",
+      "latitude": 43.732403,
+      "longitude": 15.893221
+    },
+    {
+      "name": "Proffy Centar",
+      "latitude": 45.167915,
+      "longitude": 18.018181
+    },
+    {
+      "name": "Profi baucentar",
+      "latitude": 45.272253,
+      "longitude": 18.807022
+    },
+    {
+      "name": "Protok d.o.o.",
+      "latitude": 45.29257,
+      "longitude": 18.8084
+    },
+    {
+      "name": "Proton",
+      "latitude": 45.288802,
+      "longitude": 18.80977
+    },
+    {
+      "name": "RAPTOR sigurnosni sustavi",
+      "latitude": 45.782765,
+      "longitude": 15.96566
+    },
+    {
+      "name": "ROTOCOMERC Ltd.",
+      "latitude": 46.340058,
+      "longitude": 16.631272
+    },
+    {
+      "name": "Rudin",
+      "latitude": 45.418701,
+      "longitude": 13.663088
+    },
+    {
+      "name": "Ruris",
+      "latitude": 44.920464,
+      "longitude": 18.912444
+    },
+    {
+      "name": "Salotehnik",
+      "latitude": 45.683943,
+      "longitude": 15.701595
+    },
+    {
+      "name": "Schachermayer",
+      "latitude": 45.541659,
+      "longitude": 18.656397
+    },
+    {
+      "name": "Sebastijan limarija",
+      "latitude": 45.175478,
+      "longitude": 17.979381
+    },
+    {
+      "name": "Skender",
+      "latitude": 45.565099,
+      "longitude": 18.639881
+    },
+    {
+      "name": "Sokolić d.o.o.",
+      "latitude": 44.654035,
+      "longitude": 14.395539
+    },
+    {
+      "name": "Suhač Commerce",
+      "latitude": 43.698659,
+      "longitude": 16.668392
+    },
+    {
+      "name": "Super Color",
+      "latitude": 44.876919,
+      "longitude": 13.857755
+    },
+    {
+      "name": "Tehnika centar",
+      "latitude": 45.340796,
+      "longitude": 16.973462
+    },
+    {
+      "name": "Tehno-ziv",
+      "latitude": 45.817626,
+      "longitude": 15.997593
+    },
+    {
+      "name": "Tena-G",
+      "latitude": 45.813434,
+      "longitude": 16.102371
+    },
+    {
+      "name": "Tera",
+      "latitude": 45.446458,
+      "longitude": 13.542763
+    },
+    {
+      "name": "Texo trgovina",
+      "latitude": 45.799538,
+      "longitude": 15.728599
+    },
+    {
+      "name": "Trgo Lukšić",
+      "latitude": 45.565291,
+      "longitude": 16.614116
+    },
+    {
+      "name": "Trgocentar građevinski materijali",
+      "latitude": 46.012026,
+      "longitude": 15.880895
+    },
+    {
+      "name": "Trgovina Marko",
+      "latitude": 44.557057,
+      "longitude": 14.884163
+    },
+    {
+      "name": "Trgovina Zeljka",
+      "latitude": 46.331792,
+      "longitude": 16.743907
+    },
+    {
+      "name": "Trutanić",
+      "latitude": 45.23025,
+      "longitude": 13.612865
+    },
+    {
+      "name": "Tučić",
+      "latitude": 45.803473,
+      "longitude": 15.89793
+    },
+    {
+      "name": "Tvim Tonković",
+      "latitude": 45.592871,
+      "longitude": 17.21362
+    },
+    {
+      "name": "Univerzal žica",
+      "latitude": 45.80452,
+      "longitude": 15.912771
+    },
+    {
+      "name": "Velekem",
+      "latitude": 45.178703,
+      "longitude": 18.013302
+    },
+    {
+      "name": "Velekem",
+      "latitude": 45.542173,
+      "longitude": 18.654573
+    },
+    {
+      "name": "Vinkoprom",
+      "latitude": 45.366808,
+      "longitude": 18.968435
+    },
+    {
+      "name": "Vinkoprom Daruvar",
+      "latitude": 45.588349,
+      "longitude": 17.215543
+    },
+    {
+      "name": "Vir Color",
+      "latitude": 44.307484,
+      "longitude": 15.097116
+    },
+    {
+      "name": "Vodoskok d.d.",
+      "latitude": 45.806908,
+      "longitude": 16.070826
+    },
+    {
+      "name": "Zanatpromet",
+      "latitude": 45.834854,
+      "longitude": 17.381533
+    },
+    {
+      "name": "Zlatne ruke",
+      "latitude": 45.556426,
+      "longitude": 18.66857
+    },
+    {
+      "name": "Zloćo mlađi",
+      "latitude": 43.446487,
+      "longitude": 16.688228
+    },
+    {
+      "name": "Đurkin",
+      "latitude": 46.390079,
+      "longitude": 16.414033
+    },
+    {
+      "name": "željezarija",
+      "latitude": 43.05328,
+      "longitude": 17.436594
+    },
+    {
+      "name": "ŽIH d.o.o. Novska",
+      "latitude": 45.343131,
+      "longitude": 16.974829
+    },
+    {
+      "name": "Žila",
+      "latitude": 43.445086,
+      "longitude": 16.639318
+    }
+  ],
+  "meta": {
+    "title": "Trgovine \"uradi sam\" - Besplatno preuzimanje",
+    "description": "Trgovine \"uradi sam\" u Hrvatskoj (166 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=doityourself), izrez EU-POIS/HR. Sadrži 166 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovine \"uradi sam\" | ListBase",
+    "seo_description": "Preuzmi Trgovine \"uradi sam\" — 166 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 166 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

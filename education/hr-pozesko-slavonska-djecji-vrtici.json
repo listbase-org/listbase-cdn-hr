@@ -1,0 +1,328 @@
+{
+  "id": "hr-pozesko-slavonska-djecji-vrtici",
+  "name": "Dječji vrtići — Požeško-Slavonska županija",
+  "title": "Dječji vrtići — Požeško-Slavonska županija",
+  "description": "Kindergartens (MO = matični objekt / main site, PO = područni objekt / branch site) in Požeško-Slavonska, Croatia — the Požeško-Slavonska subset of hr-djecji-vrtici. Source: Ministarstvo znanosti i obrazovanja via codeforcroatia/open-data.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "Naziv objekta",
+      "label": "Naziv Objekta",
+      "type": "string"
+    },
+    {
+      "key": "Tip objekta",
+      "label": "Tip Objekta",
+      "type": "string"
+    },
+    {
+      "key": "Matični vrtić",
+      "label": "MatičNi Vrtić",
+      "type": "string"
+    },
+    {
+      "key": "Županija",
+      "label": "ŽUpanija",
+      "type": "string"
+    },
+    {
+      "key": "Naselje",
+      "label": "Naselje",
+      "type": "string"
+    },
+    {
+      "key": "Ulica i broj",
+      "label": "Ulica I Broj",
+      "type": "string"
+    },
+    {
+      "key": "Telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "Faks",
+      "label": "Faks",
+      "type": "string"
+    },
+    {
+      "key": "E-mail",
+      "label": "E Mail",
+      "type": "string"
+    },
+    {
+      "key": "Odgovorna osoba",
+      "label": "Odgovorna Osoba",
+      "type": "string"
+    },
+    {
+      "key": "Naziv osnivača",
+      "label": "Naziv OsnivačA",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "Naziv objekta": "DV Sv. Leopold Mandić",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Požega",
+      "Ulica i broj": "Pavla Radića 36",
+      "Telefon": "034/211-692",
+      "Faks": "034/317-046",
+      "E-mail": "djecji.vrtic.sv.leopold.mandic@po.htnet.hr",
+      "Odgovorna osoba": "Ružica Franić",
+      "Naziv osnivača": "Požeška biskupija - Župa Sv. Leopolda Mandića"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Radost\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Požega",
+      "Ulica i broj": "Tekija 13",
+      "Telefon": "034/319-018",
+      "Faks": "037/292-860",
+      "E-mail": "dv.radost@gmail.com",
+      "Odgovorna osoba": "Marija Kakuk",
+      "Naziv osnivača": "Marija Kakuk"
+    },
+    {
+      "Naziv objekta": "Program predškole pri OŠ Vilima Korajca",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Kaptol",
+      "Ulica i broj": "Školska 12",
+      "Telefon": "034/231-709",
+      "Faks": "034/231-040",
+      "E-mail": "ured@os-vkorajca-kaptol.skole.hr",
+      "Odgovorna osoba": "Nino Diklić",
+      "Naziv osnivača": "OPĆINA KAPTOL"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Požega\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Požega",
+      "Ulica i broj": "Vukovarska 4",
+      "Telefon": "034/273-663;099/3273-663",
+      "Faks": "",
+      "E-mail": "djecji.vrtici.pozega@po.ht.hr",
+      "Odgovorna osoba": "Sanda Lukić",
+      "Naziv osnivača": "Grad Požega"
+    },
+    {
+      "Naziv objekta": "PO Cvjetna livada",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Požega\"",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Požega",
+      "Ulica i broj": "ULICA KRALJA KREŠIMIRA 32A",
+      "Telefon": "034 281 654",
+      "Faks": "",
+      "E-mail": "",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Kockica\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Lipik",
+      "Ulica i broj": "Slavonska 40",
+      "Telefon": "034/314-372,421-352",
+      "Faks": "034/314-371",
+      "E-mail": "djecji.vrtic.kockica.lipik@po.t-com.hr",
+      "Odgovorna osoba": "Jasenka Strehovac",
+      "Naziv osnivača": "grad Lipik"
+    },
+    {
+      "Naziv objekta": "PO Poljana",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Kockica\"",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Poljana",
+      "Ulica i broj": "Antunovačka 23",
+      "Telefon": "034/431-090",
+      "Faks": "034/431-090",
+      "E-mail": "djecji.vrtic.kockica.lipik1@po.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Tratinčica\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Pleternica",
+      "Ulica i broj": "Školska 4",
+      "Telefon": "034/251-388, 098 423 964",
+      "Faks": "034 251 412",
+      "E-mail": "dv.tratincica.pl@gmail.com",
+      "Odgovorna osoba": "Ljiljana Petrović",
+      "Naziv osnivača": "GRAD PLETERNICA"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Velika\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Velika",
+      "Ulica i broj": "Trg bana J. Jelačića",
+      "Telefon": "(034) 233 989",
+      "Faks": "(034) 233 989",
+      "E-mail": "djecji.vrtic.velika@po.t-com.hr",
+      "Odgovorna osoba": "Mira Adžić",
+      "Naziv osnivača": "Općina Velika"
+    },
+    {
+      "Naziv objekta": "PO u OŠ Biškupci",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Velika\"",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Velika",
+      "Ulica i broj": "Biškupci bb",
+      "Telefon": "(034) 233 989",
+      "Faks": "(034) 233 989",
+      "E-mail": "djecji.vrtic.velika@po.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Maslačak\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Pakrac",
+      "Ulica i broj": "Matice Hrvatske 13/b",
+      "Telefon": "034/313-416",
+      "Faks": "034/412-542",
+      "E-mail": "maslacak@pakrac.hr",
+      "Odgovorna osoba": "Višnja Klobučar",
+      "Naziv osnivača": "Grad Pakrac"
+    },
+    {
+      "Naziv objekta": "PO Prekopakra",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Maslačak\"",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Prekopakra",
+      "Ulica i broj": "Ante Starčevića 33",
+      "Telefon": "034/438-061",
+      "Faks": "",
+      "E-mail": "maslacak@pakrac.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Badljevina",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Maslačak\"",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Badljevina",
+      "Ulica i broj": "Trg Franje Tuđmana 1",
+      "Telefon": "034/436-024",
+      "Faks": "",
+      "E-mail": "maslacak@pakrac.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Kalvarija",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Maslačak\"",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Pakrac",
+      "Ulica i broj": "Kalvarija 6a",
+      "Telefon": "034/411-275",
+      "Faks": "",
+      "E-mail": "maslacak@pakrac.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Donja Obrijež",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Maslačak\"",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Donja Obrijež",
+      "Ulica i broj": "Donja Obrijež bb",
+      "Telefon": "034/437-048",
+      "Faks": "",
+      "E-mail": "maslacak@pakrac.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Kutjevo\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Kutjevo",
+      "Ulica i broj": "Republike Hrvatske 1",
+      "Telefon": "034/255-175",
+      "Faks": "034/255-093",
+      "E-mail": "dvkutjevo@gmail.com",
+      "Odgovorna osoba": "Slavica Jurišić",
+      "Naziv osnivača": "Grad Kutjevo"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"ŠARENI SVIJET\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Požega",
+      "Ulica i broj": "Frankopanska 180",
+      "Telefon": "034 201 537, 099 861 5176",
+      "Faks": "034 201 537",
+      "E-mail": "djecjivrticsarenisvijet@yahoo.com",
+      "Odgovorna osoba": "Valentina Puljašević",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "Udruga TVORNICA SPORTOVA",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Požega",
+      "Ulica i broj": "Cvjetna ulica 9",
+      "Telefon": "O98 517 805",
+      "Faks": "",
+      "E-mail": "tvornicasporta@gmail.com",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": "Dario Pisker"
+    },
+    {
+      "Naziv objekta": "Program predškole pri Osnovnoj školi Stjepana Radića Čaglin",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Požeško-slavonska županija",
+      "Naselje": "Čaglin",
+      "Ulica i broj": "Vladimira Nazora 3",
+      "Telefon": "034/221 028",
+      "Faks": "034/221 381",
+      "E-mail": "os-caglin@os-sradica-caglin.skole.hr",
+      "Odgovorna osoba": "Slađana Švajda",
+      "Naziv osnivača": "OPĆINA ČAGLIN"
+    }
+  ],
+  "meta": {
+    "title": "Dječji vrtići — Požeško-Slavonska županija - Besplatno preuzimanje",
+    "description": "Kindergartens (MO = matični objekt / main site, PO = područni objekt / branch site) in Požeško-Slavonska, Croatia — the Požeško-Slavonska subset of hr-djecji-vrtici. Source: Ministarstvo znanosti i obrazovanja via codeforcroatia/open-data. Sadrži 19 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Dječji vrtići — Požeško-Slavonska županija | ListBase",
+    "seo_description": "Preuzmi Dječji vrtići — Požeško-Slavonska županija — 19 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 19 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

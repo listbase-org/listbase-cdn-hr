@@ -1,0 +1,406 @@
+{
+  "id": "hr-stanice-tehnickog-pregleda",
+  "name": "Stanice za tehnički pregled",
+  "title": "Stanice za tehnički pregled",
+  "description": "Stanice za tehnički pregled u Hrvatskoj (73 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=vehicle_inspection), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Auto-Stop",
+      "latitude": 46.390146,
+      "longitude": 16.410238
+    },
+    {
+      "name": "Autoklub Siget",
+      "latitude": 45.772776,
+      "longitude": 15.9679
+    },
+    {
+      "name": "Automehanika servisi tehnički pregled vozila",
+      "latitude": 45.810767,
+      "longitude": 15.99237
+    },
+    {
+      "name": "Centar za tehnički pregled vozila Donja Dubrava",
+      "latitude": 46.31203,
+      "longitude": 16.813725
+    },
+    {
+      "name": "Centar za vozila Hrvatske",
+      "latitude": 43.700109,
+      "longitude": 16.643499
+    },
+    {
+      "name": "Croatia - stanica za tehnički pregled vozila",
+      "latitude": 43.513576,
+      "longitude": 16.484351
+    },
+    {
+      "name": "CROATIA tehnički pregledi",
+      "latitude": 45.705133,
+      "longitude": 17.16285
+    },
+    {
+      "name": "CVH Stanica za tehnički pregled \"Croatia\" Samobor",
+      "latitude": 45.814628,
+      "longitude": 15.718055
+    },
+    {
+      "name": "CVH STANKOM",
+      "latitude": 45.341472,
+      "longitude": 19.016871
+    },
+    {
+      "name": "CVH STP ŽUPANJA",
+      "latitude": 45.092263,
+      "longitude": 18.701361
+    },
+    {
+      "name": "Euroherc stanica za tehnički pregled",
+      "latitude": 46.320042,
+      "longitude": 16.312685
+    },
+    {
+      "name": "KI SA Car d.o.o. Čazma",
+      "latitude": 45.746065,
+      "longitude": 16.599774
+    },
+    {
+      "name": "Servis tahografa",
+      "latitude": 46.13756,
+      "longitude": 16.853277
+    },
+    {
+      "name": "Stanica za teh.pregled vozila",
+      "latitude": 43.696704,
+      "longitude": 16.649627
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 42.941903,
+      "longitude": 17.34013
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 43.168613,
+      "longitude": 16.647141
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 43.441106,
+      "longitude": 17.206087
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 43.446008,
+      "longitude": 17.224208
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 44.102945,
+      "longitude": 15.263116
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 44.964393,
+      "longitude": 14.409367
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 45.237848,
+      "longitude": 13.934863
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 45.318704,
+      "longitude": 18.416654
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 45.766824,
+      "longitude": 15.943428
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 45.773828,
+      "longitude": 15.95189
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 45.774077,
+      "longitude": 16.00189
+    },
+    {
+      "name": "stanica za tehnički pregled",
+      "latitude": 45.811054,
+      "longitude": 16.216385
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 45.819275,
+      "longitude": 16.102759
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 45.820706,
+      "longitude": 16.010655
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 46.339872,
+      "longitude": 16.629927
+    },
+    {
+      "name": "Stanica za tehnički pregled",
+      "latitude": 46.38108,
+      "longitude": 16.411268
+    },
+    {
+      "name": "Stanica za tehnički pregled \"ZAGREB - 1\"",
+      "latitude": 45.794992,
+      "longitude": 16.016963
+    },
+    {
+      "name": "Stanica za tehnički pregled Belje",
+      "latitude": 45.608412,
+      "longitude": 18.727317
+    },
+    {
+      "name": "Stanica za tehnički pregled Daruvar",
+      "latitude": 45.588612,
+      "longitude": 17.212144
+    },
+    {
+      "name": "Stanica za tehnički pregled Euro Daus",
+      "latitude": 45.797249,
+      "longitude": 16.007854
+    },
+    {
+      "name": "Stanica za tehnički pregled Eurozagreb 3",
+      "latitude": 45.794939,
+      "longitude": 15.91685
+    },
+    {
+      "name": "Stanica za tehnički pregled Eurozagreb II",
+      "latitude": 45.802758,
+      "longitude": 15.79288
+    },
+    {
+      "name": "Stanica za tehnički pregled Motoremont",
+      "latitude": 45.333126,
+      "longitude": 16.970681
+    },
+    {
+      "name": "Stanica za tehnički pregled Novi Marof",
+      "latitude": 46.171468,
+      "longitude": 16.339314
+    },
+    {
+      "name": "Stanica za tehnički pregled Preluk",
+      "latitude": 45.355184,
+      "longitude": 14.333357
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 42.652459,
+      "longitude": 18.085054
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 43.522074,
+      "longitude": 16.462053
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 43.698658,
+      "longitude": 16.643367
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.25962,
+      "longitude": 15.235845
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.333677,
+      "longitude": 16.088609
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.343608,
+      "longitude": 17.714968
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.345348,
+      "longitude": 14.466375
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.350789,
+      "longitude": 17.663841
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.444218,
+      "longitude": 16.306242
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.48633,
+      "longitude": 15.552285
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.496224,
+      "longitude": 16.360877
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.565022,
+      "longitude": 16.614915
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.688635,
+      "longitude": 18.401105
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.708717,
+      "longitude": 16.085501
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.850273,
+      "longitude": 15.809694
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 45.881124,
+      "longitude": 16.386176
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 46.022788,
+      "longitude": 16.53751
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila",
+      "latitude": 46.152539,
+      "longitude": 15.874319
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila \"Belići\"",
+      "latitude": 45.370606,
+      "longitude": 14.344334
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila (Vehicle Inspection Centre)",
+      "latitude": 45.460186,
+      "longitude": 15.493948
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila - Centar Kovačić",
+      "latitude": 46.242373,
+      "longitude": 16.627382
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila - CVH",
+      "latitude": 45.573151,
+      "longitude": 18.596125
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila Croatia osiguranje",
+      "latitude": 46.160427,
+      "longitude": 16.811117
+    },
+    {
+      "name": "Stanica za tehnički pregled vozila Nova Gradiška",
+      "latitude": 45.261237,
+      "longitude": 17.378624
+    },
+    {
+      "name": "Stanica za tehnički pregled Čazma",
+      "latitude": 45.746071,
+      "longitude": 16.598727
+    },
+    {
+      "name": "STP Croatia Bjelovar",
+      "latitude": 45.889704,
+      "longitude": 16.852095
+    },
+    {
+      "name": "STP Euro Drniš",
+      "latitude": 43.858473,
+      "longitude": 16.139757
+    },
+    {
+      "name": "STP EUROIVANEC",
+      "latitude": 46.226565,
+      "longitude": 16.109281
+    },
+    {
+      "name": "Tehnički pregled",
+      "latitude": 43.051378,
+      "longitude": 17.632948
+    },
+    {
+      "name": "Tehnički pregled Blato",
+      "latitude": 42.94515,
+      "longitude": 16.777941
+    },
+    {
+      "name": "Tehnički pregled Buzet",
+      "latitude": 45.415249,
+      "longitude": 13.95974
+    },
+    {
+      "name": "Tehnički pregled vozila",
+      "latitude": 44.106937,
+      "longitude": 15.239163
+    },
+    {
+      "name": "Tehnički pregled vozila",
+      "latitude": 45.742774,
+      "longitude": 16.000948
+    },
+    {
+      "name": "Tehnički pregled vozila EuroBjelovar",
+      "latitude": 45.889823,
+      "longitude": 16.825219
+    }
+  ],
+  "meta": {
+    "title": "Stanice za tehnički pregled - Besplatno preuzimanje",
+    "description": "Stanice za tehnički pregled u Hrvatskoj (73 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=vehicle_inspection), izrez EU-POIS/HR. Sadrži 73 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Stanice za tehnički pregled | ListBase",
+    "seo_description": "Preuzmi Stanice za tehnički pregled — 73 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 73 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

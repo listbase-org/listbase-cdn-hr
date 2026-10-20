@@ -1,0 +1,106 @@
+{
+  "id": "hr-viroviticko-podravska-kafici",
+  "name": "Kafići — Virovitičko-podravska županija",
+  "title": "Kafići — Virovitičko-podravska županija",
+  "description": "13 kafići u županiji Virovitičko-podravska županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Caffe bar Crazy Horse",
+      "latitude": 45.702048,
+      "longitude": 17.700065
+    },
+    {
+      "name": "Caffe bar Don",
+      "latitude": 45.700738,
+      "longitude": 17.700526
+    },
+    {
+      "name": "Caffe bar Ferrari",
+      "latitude": 45.701493,
+      "longitude": 17.700513
+    },
+    {
+      "name": "Caffe bar Fontana",
+      "latitude": 45.701681,
+      "longitude": 17.700453
+    },
+    {
+      "name": "Nova",
+      "latitude": 45.833993,
+      "longitude": 17.387072
+    },
+    {
+      "name": "Osmica",
+      "latitude": 45.802445,
+      "longitude": 17.494907
+    },
+    {
+      "name": "Pizzeria & Slastičarnica Dona",
+      "latitude": 45.832389,
+      "longitude": 17.386924
+    },
+    {
+      "name": "Restaurant Graničar",
+      "latitude": 45.941432,
+      "longitude": 17.460225
+    },
+    {
+      "name": "Royal",
+      "latitude": 45.529216,
+      "longitude": 17.880739
+    },
+    {
+      "name": "Tref",
+      "latitude": 45.56735,
+      "longitude": 17.930318
+    },
+    {
+      "name": "Viva",
+      "latitude": 45.802554,
+      "longitude": 17.494713
+    },
+    {
+      "name": "Zrinski",
+      "latitude": 45.821053,
+      "longitude": 17.415722
+    },
+    {
+      "name": "Ćošak",
+      "latitude": 45.801925,
+      "longitude": 17.495149
+    }
+  ],
+  "meta": {
+    "title": "Kafići — Virovitičko-podravska županija - Besplatno preuzimanje",
+    "description": "13 kafići u županiji Virovitičko-podravska županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 13 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kafići — Virovitičko-podravska županija | ListBase",
+    "seo_description": "Preuzmi Kafići — Virovitičko-podravska županija — 13 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 13 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "id": "hr-osjecko-baranjska-restorani",
+  "name": "Restorani — Osječko-baranjska županija",
+  "title": "Restorani — Osječko-baranjska županija",
+  "description": "101 restorani u županiji Osječko-baranjska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alas",
+      "latitude": 45.554871,
+      "longitude": 18.690145
+    },
+    {
+      "name": "America Bar Dollar",
+      "latitude": 45.560301,
+      "longitude": 18.676536
+    },
+    {
+      "name": "androliko's",
+      "latitude": 45.490354,
+      "longitude": 18.09057
+    },
+    {
+      "name": "As",
+      "latitude": 45.558642,
+      "longitude": 18.682395
+    },
+    {
+      "name": "Baranjska Ruža",
+      "latitude": 45.593367,
+      "longitude": 18.743032
+    },
+    {
+      "name": "Batak",
+      "latitude": 45.560509,
+      "longitude": 18.636533
+    },
+    {
+      "name": "Bauštela",
+      "latitude": 45.545497,
+      "longitude": 18.742611
+    },
+    {
+      "name": "Bistro Loora",
+      "latitude": 45.309546,
+      "longitude": 18.410391
+    },
+    {
+      "name": "Bonus",
+      "latitude": 45.558025,
+      "longitude": 18.681775
+    },
+    {
+      "name": "Buffet B&D",
+      "latitude": 45.667775,
+      "longitude": 18.293293
+    },
+    {
+      "name": "Bulart",
+      "latitude": 45.559885,
+      "longitude": 18.697474
+    },
+    {
+      "name": "Camel",
+      "latitude": 45.542829,
+      "longitude": 18.048709
+    },
+    {
+      "name": "Citadela",
+      "latitude": 45.6195,
+      "longitude": 18.766858
+    },
+    {
+      "name": "Corolla",
+      "latitude": 45.561415,
+      "longitude": 18.676334
+    },
+    {
+      "name": "Croatia",
+      "latitude": 45.304064,
+      "longitude": 18.412416
+    },
+    {
+      "name": "Davos",
+      "latitude": 45.562487,
+      "longitude": 18.676637
+    },
+    {
+      "name": "Didin konak",
+      "latitude": 45.605947,
+      "longitude": 18.791731
+    },
+    {
+      "name": "El Paso",
+      "latitude": 45.562583,
+      "longitude": 18.681264
+    },
+    {
+      "name": "Emaus",
+      "latitude": 45.628258,
+      "longitude": 18.489848
+    },
+    {
+      "name": "Etno-restoran Baranjska kuća",
+      "latitude": 45.760006,
+      "longitude": 18.685482
+    },
+    {
+      "name": "Fonatana",
+      "latitude": 45.686609,
+      "longitude": 18.405977
+    },
+    {
+      "name": "Gastro",
+      "latitude": 45.7514,
+      "longitude": 18.167856
+    },
+    {
+      "name": "Gaudeamus",
+      "latitude": 45.555997,
+      "longitude": 18.694385
+    },
+    {
+      "name": "Gradska kavana Art",
+      "latitude": 45.65984,
+      "longitude": 18.418237
+    },
+    {
+      "name": "Gradski podrum",
+      "latitude": 45.309316,
+      "longitude": 18.410564
+    },
+    {
+      "name": "Grill Adrian",
+      "latitude": 45.306512,
+      "longitude": 18.414001
+    },
+    {
+      "name": "Gundulić",
+      "latitude": 45.556652,
+      "longitude": 18.675768
+    },
+    {
+      "name": "Gurman",
+      "latitude": 45.655354,
+      "longitude": 18.427974
+    },
+    {
+      "name": "Izletište Stojčić",
+      "latitude": 45.526038,
+      "longitude": 19.05852
+    },
+    {
+      "name": "Jelengrad",
+      "latitude": 45.617795,
+      "longitude": 18.521543
+    },
+    {
+      "name": "Josić",
+      "latitude": 45.798214,
+      "longitude": 18.800624
+    },
+    {
+      "name": "Kapuciner",
+      "latitude": 45.761474,
+      "longitude": 18.160418
+    },
+    {
+      "name": "Knežev Dol",
+      "latitude": 45.76825,
+      "longitude": 18.760336
+    },
+    {
+      "name": "Kod Javora",
+      "latitude": 45.560796,
+      "longitude": 18.717712
+    },
+    {
+      "name": "Kod Svrtana",
+      "latitude": 45.682383,
+      "longitude": 18.372638
+    },
+    {
+      "name": "Kod Varge",
+      "latitude": 45.597533,
+      "longitude": 18.743245
+    },
+    {
+      "name": "Kompa",
+      "latitude": 45.565765,
+      "longitude": 18.668902
+    },
+    {
+      "name": "Konoba - Aljmaš",
+      "latitude": 45.527402,
+      "longitude": 18.949424
+    },
+    {
+      "name": "Kormoran",
+      "latitude": 45.630879,
+      "longitude": 18.814637
+    },
+    {
+      "name": "Kovac Csarda",
+      "latitude": 45.78955,
+      "longitude": 18.787968
+    },
+    {
+      "name": "Kovčalija j.d.o.o.",
+      "latitude": 45.486922,
+      "longitude": 18.984936
+    },
+    {
+      "name": "Krčma Kod Daneta",
+      "latitude": 45.528407,
+      "longitude": 18.950116
+    },
+    {
+      "name": "Krčma Stara Drava",
+      "latitude": 45.775716,
+      "longitude": 18.155458
+    },
+    {
+      "name": "Kuća u prirodi Zlatna Greda",
+      "latitude": 45.721112,
+      "longitude": 18.863991
+    },
+    {
+      "name": "Lipov Hlad",
+      "latitude": 45.556297,
+      "longitude": 18.716302
+    },
+    {
+      "name": "Lumiere",
+      "latitude": 45.561556,
+      "longitude": 18.682548
+    },
+    {
+      "name": "Mailath",
+      "latitude": 45.764363,
+      "longitude": 18.164771
+    },
+    {
+      "name": "Mali sokak",
+      "latitude": 45.553131,
+      "longitude": 18.715484
+    },
+    {
+      "name": "Mama mia",
+      "latitude": 45.486029,
+      "longitude": 18.672805
+    },
+    {
+      "name": "Merlon",
+      "latitude": 45.559917,
+      "longitude": 18.695153
+    },
+    {
+      "name": "Miha",
+      "latitude": 45.524903,
+      "longitude": 19.060913
+    },
+    {
+      "name": "Osječka pivnica Tvrđa",
+      "latitude": 45.56012,
+      "longitude": 18.693392
+    },
+    {
+      "name": "Padrino",
+      "latitude": 45.502897,
+      "longitude": 18.744074
+    },
+    {
+      "name": "Pepe pizza place",
+      "latitude": 45.56237,
+      "longitude": 18.679844
+    },
+    {
+      "name": "Pečenjarnica More",
+      "latitude": 45.554847,
+      "longitude": 18.694551
+    },
+    {
+      "name": "Pickles Burger Bar",
+      "latitude": 45.554769,
+      "longitude": 18.694836
+    },
+    {
+      "name": "Pizza Grill Cafe Hamby",
+      "latitude": 45.544883,
+      "longitude": 18.284869
+    },
+    {
+      "name": "Pizza Grill Corolla",
+      "latitude": 45.563247,
+      "longitude": 18.671961
+    },
+    {
+      "name": "Pizzeria Gondola",
+      "latitude": 45.555299,
+      "longitude": 18.675556
+    },
+    {
+      "name": "Pizzeria Lipizzano",
+      "latitude": 45.312864,
+      "longitude": 18.409071
+    },
+    {
+      "name": "Pizzeria Maslina",
+      "latitude": 45.56813,
+      "longitude": 18.668278
+    },
+    {
+      "name": "Pizzeria Novi Saloon",
+      "latitude": 45.544695,
+      "longitude": 18.693042
+    },
+    {
+      "name": "Pizzeria Sebastian",
+      "latitude": 45.549914,
+      "longitude": 18.700772
+    },
+    {
+      "name": "Pizzeria Strossmayer No. 2",
+      "latitude": 45.55053,
+      "longitude": 18.705613
+    },
+    {
+      "name": "Pizzerija Slavonija",
+      "latitude": 45.313384,
+      "longitude": 18.41274
+    },
+    {
+      "name": "Plus",
+      "latitude": 45.557429,
+      "longitude": 18.693155
+    },
+    {
+      "name": "Prehrana",
+      "latitude": 45.551644,
+      "longitude": 18.677074
+    },
+    {
+      "name": "Projekt 9",
+      "latitude": 45.564256,
+      "longitude": 18.676183
+    },
+    {
+      "name": "Restoran \"Kod Kaje\"",
+      "latitude": 45.764494,
+      "longitude": 18.622172
+    },
+    {
+      "name": "Restoran Bijelo-Plavi",
+      "latitude": 45.548759,
+      "longitude": 18.69531
+    },
+    {
+      "name": "Restoran Campus",
+      "latitude": 45.556574,
+      "longitude": 18.707688
+    },
+    {
+      "name": "Restoran Corner",
+      "latitude": 45.54552,
+      "longitude": 18.72842
+    },
+    {
+      "name": "Restoran Crna Svinja",
+      "latitude": 45.502612,
+      "longitude": 18.565888
+    },
+    {
+      "name": "Restoran Darócz",
+      "latitude": 45.623904,
+      "longitude": 18.770615
+    },
+    {
+      "name": "Restoran i Vinoteka Sokak",
+      "latitude": 45.308408,
+      "longitude": 18.420847
+    },
+    {
+      "name": "Restoran Istarska",
+      "latitude": 45.556152,
+      "longitude": 18.694191
+    },
+    {
+      "name": "Restoran Karaka",
+      "latitude": 45.548983,
+      "longitude": 18.692332
+    },
+    {
+      "name": "Restoran Kopika",
+      "latitude": 45.565228,
+      "longitude": 18.697227
+    },
+    {
+      "name": "Restoran Park",
+      "latitude": 45.651252,
+      "longitude": 18.41728
+    },
+    {
+      "name": "Restoran Vikend",
+      "latitude": 45.52947,
+      "longitude": 18.950099
+    },
+    {
+      "name": "Ribnjak",
+      "latitude": 45.552439,
+      "longitude": 18.142498
+    },
+    {
+      "name": "Riverside restaurant",
+      "latitude": 45.568162,
+      "longitude": 18.668034
+    },
+    {
+      "name": "Rustika",
+      "latitude": 45.561994,
+      "longitude": 18.671879
+    },
+    {
+      "name": "Slavonska kuća",
+      "latitude": 45.560318,
+      "longitude": 18.693043
+    },
+    {
+      "name": "Sport House",
+      "latitude": 45.553199,
+      "longitude": 18.686209
+    },
+    {
+      "name": "Stari Mlin",
+      "latitude": 45.489485,
+      "longitude": 18.992519
+    },
+    {
+      "name": "Sunjog Čarda",
+      "latitude": 45.785452,
+      "longitude": 18.854227
+    },
+    {
+      "name": "Tikveški dvorac",
+      "latitude": 45.697205,
+      "longitude": 18.8355
+    },
+    {
+      "name": "Ugostiteljska zadruga Opus Plus",
+      "latitude": 45.47847,
+      "longitude": 18.984016
+    },
+    {
+      "name": "Ugostiteljstvo Madarska Retfala",
+      "latitude": 45.566124,
+      "longitude": 18.652279
+    },
+    {
+      "name": "Valpovački dvori",
+      "latitude": 45.666296,
+      "longitude": 18.406024
+    },
+    {
+      "name": "Vege Lege",
+      "latitude": 45.559406,
+      "longitude": 18.683563
+    },
+    {
+      "name": "Verona",
+      "latitude": 45.307856,
+      "longitude": 18.415642
+    },
+    {
+      "name": "Zelena laguna",
+      "latitude": 45.308479,
+      "longitude": 18.406629
+    },
+    {
+      "name": "Zelena Žaba",
+      "latitude": 45.598526,
+      "longitude": 18.787739
+    },
+    {
+      "name": "Zimska luka",
+      "latitude": 45.562388,
+      "longitude": 18.679632
+    },
+    {
+      "name": "Zrinski",
+      "latitude": 45.542745,
+      "longitude": 18.046087
+    },
+    {
+      "name": "Čarda kod Baranjca",
+      "latitude": 45.565059,
+      "longitude": 18.703888
+    },
+    {
+      "name": "Čikl j.d.o.o.",
+      "latitude": 45.489435,
+      "longitude": 18.99251
+    },
+    {
+      "name": "Čingi Lingi čarda",
+      "latitude": 45.592119,
+      "longitude": 18.737281
+    },
+    {
+      "name": "Žuta podmornica",
+      "latitude": 45.563284,
+      "longitude": 18.677644
+    }
+  ],
+  "meta": {
+    "title": "Restorani — Osječko-baranjska županija - Besplatno preuzimanje",
+    "description": "101 restorani u županiji Osječko-baranjska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 101 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Restorani — Osječko-baranjska županija | ListBase",
+    "seo_description": "Preuzmi Restorani — Osječko-baranjska županija — 101 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 101 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

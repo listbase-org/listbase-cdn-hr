@@ -1,0 +1,611 @@
+{
+  "id": "hr-samostani",
+  "name": "Samostani",
+  "title": "Samostani",
+  "description": "Samostani u Hrvatskoj (114 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=monastery), izrez EU-POIS/HR.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Benediktinski samostan",
+      "latitude": 43.173104,
+      "longitude": 16.441954
+    },
+    {
+      "name": "Betanija",
+      "latitude": 44.52051,
+      "longitude": 14.503855
+    },
+    {
+      "name": "Bivši Pavlinski samostan Blažene Djevice Marije",
+      "latitude": 45.193404,
+      "longitude": 14.135216
+    },
+    {
+      "name": "Dominikanski samostan",
+      "latitude": 42.686348,
+      "longitude": 17.940351
+    },
+    {
+      "name": "Dominikanski samostan",
+      "latitude": 45.815441,
+      "longitude": 16.021749
+    },
+    {
+      "name": "Dominikanski samostan sv. Katarine",
+      "latitude": 43.507709,
+      "longitude": 16.441371
+    },
+    {
+      "name": "Družba sestara milosrdnica sv. Vinka Paulskoga",
+      "latitude": 45.331456,
+      "longitude": 17.678852
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 42.691807,
+      "longitude": 17.940949
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 43.126374,
+      "longitude": 17.187798
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 43.168283,
+      "longitude": 16.443092
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 44.128279,
+      "longitude": 15.619451
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 45.152207,
+      "longitude": 18.017265
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 45.224698,
+      "longitude": 19.377661
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 45.330478,
+      "longitude": 17.676069
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 45.330897,
+      "longitude": 14.457307
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 45.347436,
+      "longitude": 19.007392
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 45.737908,
+      "longitude": 16.416275
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 46.050841,
+      "longitude": 15.743173
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 46.164297,
+      "longitude": 15.866813
+    },
+    {
+      "name": "Franjevački samostan",
+      "latitude": 46.390237,
+      "longitude": 16.437732
+    },
+    {
+      "name": "Franjevački samostan Badija",
+      "latitude": 42.951879,
+      "longitude": 17.162513
+    },
+    {
+      "name": "Franjevački samostan Blažene Djevice Marije na nebo uznesene",
+      "latitude": 43.291597,
+      "longitude": 17.021292
+    },
+    {
+      "name": "Franjevački samostan Cernik",
+      "latitude": 45.280055,
+      "longitude": 17.378586
+    },
+    {
+      "name": "Franjevački samostan Glavotok",
+      "latitude": 45.090714,
+      "longitude": 14.434436
+    },
+    {
+      "name": "Franjevački samostan i crkva Blažene Djevice Marije, Jastrebarsko",
+      "latitude": 45.664682,
+      "longitude": 15.650677
+    },
+    {
+      "name": "Franjevački samostan Pohođenja Marijina",
+      "latitude": 42.671999,
+      "longitude": 18.124909
+    },
+    {
+      "name": "Franjevački samostan Porat",
+      "latitude": 45.12343,
+      "longitude": 14.493281
+    },
+    {
+      "name": "Franjevački samostan sv. Antun Padovanski",
+      "latitude": 45.902154,
+      "longitude": 16.846167
+    },
+    {
+      "name": "Franjevački samostan Sv. Antuna",
+      "latitude": 44.872095,
+      "longitude": 13.850285
+    },
+    {
+      "name": "Franjevački samostan sv. Križa",
+      "latitude": 45.561514,
+      "longitude": 18.697277
+    },
+    {
+      "name": "Franjevački samostan sv. Marije",
+      "latitude": 43.14007,
+      "longitude": 17.279419
+    },
+    {
+      "name": "Franjevački samostan svetog Ante",
+      "latitude": 43.521268,
+      "longitude": 16.429545
+    },
+    {
+      "name": "Franjevački samostan svetog Ilije",
+      "latitude": 45.82,
+      "longitude": 16.091589
+    },
+    {
+      "name": "Hrvatska salezijanska provincija",
+      "latitude": 45.81784,
+      "longitude": 15.839719
+    },
+    {
+      "name": "Kapucinski samostan",
+      "latitude": 44.526246,
+      "longitude": 15.072479
+    },
+    {
+      "name": "Kapucinski samostan",
+      "latitude": 45.328735,
+      "longitude": 14.437024
+    },
+    {
+      "name": "Kapucinski samostan",
+      "latitude": 46.305017,
+      "longitude": 16.333846
+    },
+    {
+      "name": "Kapucinski samostan sv. Jakova",
+      "latitude": 45.560725,
+      "longitude": 18.67813
+    },
+    {
+      "name": "Karmel svete Male Terezije",
+      "latitude": 45.738631,
+      "longitude": 16.41906
+    },
+    {
+      "name": "Komogovina",
+      "latitude": 45.303072,
+      "longitude": 16.375538
+    },
+    {
+      "name": "Manastir Crnogorci",
+      "latitude": 43.44231,
+      "longitude": 17.121502
+    },
+    {
+      "name": "Manastir Gomirje",
+      "latitude": 45.343659,
+      "longitude": 15.111562
+    },
+    {
+      "name": "Manastir Krka",
+      "latitude": 43.962135,
+      "longitude": 15.99007
+    },
+    {
+      "name": "Manastir Krupa",
+      "latitude": 44.191996,
+      "longitude": 15.887261
+    },
+    {
+      "name": "Manastir Medak",
+      "latitude": 44.437975,
+      "longitude": 15.514476
+    },
+    {
+      "name": "Manastir Orahovica",
+      "latitude": 45.487877,
+      "longitude": 17.877952
+    },
+    {
+      "name": "Manastir Presvete Bogorodice Trojeručice",
+      "latitude": 45.367164,
+      "longitude": 15.5975
+    },
+    {
+      "name": "Manastir Sveta Lazarica",
+      "latitude": 43.950571,
+      "longitude": 16.213371
+    },
+    {
+      "name": "Manastir svete velikomučenice Nedelje",
+      "latitude": 44.059407,
+      "longitude": 16.126936
+    },
+    {
+      "name": "Milosrdne sestre svetoga Križa, sestre Vrhovec",
+      "latitude": 45.818698,
+      "longitude": 15.947227
+    },
+    {
+      "name": "Misionarke ljubavi - sestre Majke Tereze",
+      "latitude": 45.807106,
+      "longitude": 15.963314
+    },
+    {
+      "name": "Pavlinski samostan",
+      "latitude": 45.47834,
+      "longitude": 15.607364
+    },
+    {
+      "name": "Pavlinski samostan Sveti Petar u Šumi",
+      "latitude": 45.181598,
+      "longitude": 13.862908
+    },
+    {
+      "name": "Pravoslavni manastir Lepavina",
+      "latitude": 46.091396,
+      "longitude": 16.67762
+    },
+    {
+      "name": "remains of a monastery",
+      "latitude": 45.65687,
+      "longitude": 16.637262
+    },
+    {
+      "name": "Samostan",
+      "latitude": 45.80026,
+      "longitude": 15.997257
+    },
+    {
+      "name": "Samostan benediktinki",
+      "latitude": 45.339153,
+      "longitude": 14.418094
+    },
+    {
+      "name": "Samostan blažene Hozane Kotorke",
+      "latitude": 45.797809,
+      "longitude": 15.985277
+    },
+    {
+      "name": "Samostan Dominikanki",
+      "latitude": 42.960892,
+      "longitude": 17.133196
+    },
+    {
+      "name": "Samostan Dominikanki",
+      "latitude": 42.961812,
+      "longitude": 17.131034
+    },
+    {
+      "name": "Samostan Gospe Lurdske",
+      "latitude": 45.704997,
+      "longitude": 17.166376
+    },
+    {
+      "name": "Samostan Gospe od Delorita",
+      "latitude": 42.963051,
+      "longitude": 17.342746
+    },
+    {
+      "name": "Samostan Gospe od Karmela",
+      "latitude": 43.438801,
+      "longitude": 16.698822
+    },
+    {
+      "name": "Samostan Gospe od Milosrđa",
+      "latitude": 42.645556,
+      "longitude": 18.088816
+    },
+    {
+      "name": "Samostan Gospe od Milosti",
+      "latitude": 43.724457,
+      "longitude": 15.800528
+    },
+    {
+      "name": "Samostan Gospe od Pojišana",
+      "latitude": 43.504404,
+      "longitude": 16.450231
+    },
+    {
+      "name": "Samostan Gospe od Snijega",
+      "latitude": 42.583515,
+      "longitude": 18.214527
+    },
+    {
+      "name": "Samostan Gospe od Zdravlja",
+      "latitude": 43.511388,
+      "longitude": 16.438026
+    },
+    {
+      "name": "Samostan Gospe Sinjske",
+      "latitude": 43.701742,
+      "longitude": 16.63765
+    },
+    {
+      "name": "Samostan hercegovačkih franjevaca",
+      "latitude": 45.827759,
+      "longitude": 16.036129
+    },
+    {
+      "name": "Samostan Karmel",
+      "latitude": 45.730769,
+      "longitude": 15.907546
+    },
+    {
+      "name": "Samostan Karmel",
+      "latitude": 46.002657,
+      "longitude": 16.123193
+    },
+    {
+      "name": "Samostan Karmel sv. Josipa",
+      "latitude": 45.324463,
+      "longitude": 18.177881
+    },
+    {
+      "name": "Samostan Karmelicana",
+      "latitude": 45.02632,
+      "longitude": 14.57953
+    },
+    {
+      "name": "Samostan Majke Dobrog Savjeta (Družba sestara milosrdnica sv. Vinka Paulskog)",
+      "latitude": 45.335013,
+      "longitude": 14.430839
+    },
+    {
+      "name": "Samostan Monfortanaca",
+      "latitude": 45.760831,
+      "longitude": 15.922134
+    },
+    {
+      "name": "Samostan o. fra Ante Antića",
+      "latitude": 43.503619,
+      "longitude": 16.463433
+    },
+    {
+      "name": "Samostan Presvetog Srca Isusova",
+      "latitude": 45.816678,
+      "longitude": 15.79249
+    },
+    {
+      "name": "Samostan Prečistog Srca Marijina",
+      "latitude": 46.208825,
+      "longitude": 16.419323
+    },
+    {
+      "name": "Samostan Sestara Klanjateljica Krvi Kristove",
+      "latitude": 46.232819,
+      "longitude": 16.155834
+    },
+    {
+      "name": "Samostan sestara Klarisa",
+      "latitude": 43.505742,
+      "longitude": 16.44681
+    },
+    {
+      "name": "Samostan sestara milosrdnica Sv. Vinka Paulskog",
+      "latitude": 43.51329,
+      "longitude": 16.439296
+    },
+    {
+      "name": "Samostan sestara Služavki Malog Isusa",
+      "latitude": 43.451664,
+      "longitude": 16.910555
+    },
+    {
+      "name": "Samostan službenica milosrđa",
+      "latitude": 43.511686,
+      "longitude": 16.438806
+    },
+    {
+      "name": "Samostan službenica milosrđa",
+      "latitude": 45.811551,
+      "longitude": 15.926618
+    },
+    {
+      "name": "Samostan službenica milosrđa",
+      "latitude": 45.884172,
+      "longitude": 16.418151
+    },
+    {
+      "name": "Samostan srca Isusova",
+      "latitude": 45.819126,
+      "longitude": 15.840525
+    },
+    {
+      "name": "Samostan sv. Dominika",
+      "latitude": 43.515928,
+      "longitude": 16.249042
+    },
+    {
+      "name": "Samostan sv. Frane",
+      "latitude": 43.733745,
+      "longitude": 15.891784
+    },
+    {
+      "name": "Samostan sv. Frane",
+      "latitude": 44.116467,
+      "longitude": 15.221966
+    },
+    {
+      "name": "Samostan sv. Franje",
+      "latitude": 43.44688,
+      "longitude": 17.213533
+    },
+    {
+      "name": "Samostan sv. Kuzme i Damjana",
+      "latitude": 42.829592,
+      "longitude": 17.684408
+    },
+    {
+      "name": "Samostan Sv. Margarite",
+      "latitude": 44.444717,
+      "longitude": 15.054191
+    },
+    {
+      "name": "Samostan sv. Nikole",
+      "latitude": 43.515906,
+      "longitude": 16.250969
+    },
+    {
+      "name": "samostan sv.Jeronima",
+      "latitude": 44.134424,
+      "longitude": 15.10575
+    },
+    {
+      "name": "Samostan svete Eufemije",
+      "latitude": 44.76869,
+      "longitude": 14.740027
+    },
+    {
+      "name": "Samostan svete Katarine Sijenske",
+      "latitude": 43.507878,
+      "longitude": 16.461883
+    },
+    {
+      "name": "Samostan svete Klare",
+      "latitude": 45.342488,
+      "longitude": 17.659419
+    },
+    {
+      "name": "Samostan svete Klare",
+      "latitude": 45.837114,
+      "longitude": 15.92677
+    },
+    {
+      "name": "Samostan svete Marije",
+      "latitude": 44.115225,
+      "longitude": 15.224988
+    },
+    {
+      "name": "Samostan svete Terezije od djeteta Isusa",
+      "latitude": 45.7962,
+      "longitude": 15.973511
+    },
+    {
+      "name": "Samostan Svetog Antuna",
+      "latitude": 45.361256,
+      "longitude": 16.286949
+    },
+    {
+      "name": "Samostan svetog Dujma",
+      "latitude": 43.93648,
+      "longitude": 15.392675
+    },
+    {
+      "name": "Samostan Svetog Franje",
+      "latitude": 44.665041,
+      "longitude": 14.398067
+    },
+    {
+      "name": "Samostan svetog Josipa",
+      "latitude": 45.739652,
+      "longitude": 15.884398
+    },
+    {
+      "name": "Samostan svetog Leopolda Mandića",
+      "latitude": 46.313841,
+      "longitude": 16.324803
+    },
+    {
+      "name": "Samostan svetog Nikole",
+      "latitude": 42.838838,
+      "longitude": 17.694392
+    },
+    {
+      "name": "Samostan svetog Pavla",
+      "latitude": 44.085265,
+      "longitude": 15.188766
+    },
+    {
+      "name": "Samostan svetog Vinka",
+      "latitude": 45.597245,
+      "longitude": 17.217792
+    },
+    {
+      "name": "Samostan svetog Vinka",
+      "latitude": 45.81108,
+      "longitude": 15.969492
+    },
+    {
+      "name": "Sestre Karmelićanke BSI",
+      "latitude": 43.065954,
+      "longitude": 17.654343
+    },
+    {
+      "name": "Sestre Kćeri Milosrđa Trećega samostanskog reda svetog Franje",
+      "latitude": 45.85115,
+      "longitude": 15.951813
+    },
+    {
+      "name": "Uršulinski samostan",
+      "latitude": 46.308123,
+      "longitude": 16.334908
+    },
+    {
+      "name": "Манастир Света Петка",
+      "latitude": 45.168277,
+      "longitude": 19.264285
+    }
+  ],
+  "meta": {
+    "title": "Samostani - Besplatno preuzimanje",
+    "description": "Samostani u Hrvatskoj (114 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=monastery), izrez EU-POIS/HR. Sadrži 114 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Samostani | ListBase",
+    "seo_description": "Preuzmi Samostani — 114 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 114 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

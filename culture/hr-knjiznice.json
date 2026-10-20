@@ -1,0 +1,981 @@
+{
+  "id": "hr-knjiznice",
+  "name": "Knjižnice",
+  "title": "Knjižnice",
+  "description": "Knjižnice u Hrvatskoj (188 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=library), izrez EU-POIS/HR.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 188,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Centro di Ricerche Storiche di Rovigno / Centar za povijesna istraživanja Rovinj",
+      "latitude": 45.082149,
+      "longitude": 13.633662
+    },
+    {
+      "name": "Dječja Knjižnica",
+      "latitude": 44.866995,
+      "longitude": 13.847889
+    },
+    {
+      "name": "Dječja knjižnica",
+      "latitude": 45.805654,
+      "longitude": 15.710603
+    },
+    {
+      "name": "Dječja knjižnica \"M2\"",
+      "latitude": 45.824229,
+      "longitude": 15.980083
+    },
+    {
+      "name": "Dječja knjižnica 'Beli kamik'",
+      "latitude": 45.329988,
+      "longitude": 14.435047
+    },
+    {
+      "name": "Dječja knjižnica Ljubljanica",
+      "latitude": 45.796793,
+      "longitude": 15.934159
+    },
+    {
+      "name": "Dječja knjižnica Marina Držića",
+      "latitude": 45.801887,
+      "longitude": 15.994443
+    },
+    {
+      "name": "Dječja knjižnica Poreč",
+      "latitude": 45.227998,
+      "longitude": 13.590728
+    },
+    {
+      "name": "Dom kulture i knjižnica",
+      "latitude": 45.711632,
+      "longitude": 16.067165
+    },
+    {
+      "name": "Dom kulture kralja Petra Svačića",
+      "latitude": 45.324611,
+      "longitude": 15.696928
+    },
+    {
+      "name": "Državni arhiv u Zagrebu",
+      "latitude": 45.818407,
+      "longitude": 15.974305
+    },
+    {
+      "name": "Fakultet prometnih znanosti - Knjižnica",
+      "latitude": 45.81268,
+      "longitude": 16.042267
+    },
+    {
+      "name": "GISKO ogranak Donji Grad",
+      "latitude": 45.555175,
+      "longitude": 18.718472
+    },
+    {
+      "name": "GISKO ogranak Jug II",
+      "latitude": 45.543203,
+      "longitude": 18.718835
+    },
+    {
+      "name": "GK Knin",
+      "latitude": 44.035917,
+      "longitude": 16.196422
+    },
+    {
+      "name": "Gradska i sveučilišna knjižnica Osijek",
+      "latitude": 45.561124,
+      "longitude": 18.68264
+    },
+    {
+      "name": "GRADSKA KNIZNIKA BAKAR",
+      "latitude": 45.305795,
+      "longitude": 14.534885
+    },
+    {
+      "name": "Gradska knjižnica",
+      "latitude": 45.153716,
+      "longitude": 18.01048
+    },
+    {
+      "name": "Gradska knjižnica",
+      "latitude": 45.290399,
+      "longitude": 18.806008
+    },
+    {
+      "name": "Gradska knjižnica",
+      "latitude": 45.315056,
+      "longitude": 13.562198
+    },
+    {
+      "name": "Gradska knjižnica",
+      "latitude": 45.491701,
+      "longitude": 18.092709
+    },
+    {
+      "name": "Gradska knjižnica",
+      "latitude": 45.770611,
+      "longitude": 18.599426
+    },
+    {
+      "name": "Gradska knjižnica",
+      "latitude": 45.805843,
+      "longitude": 15.977653
+    },
+    {
+      "name": "Gradska knjižnica",
+      "latitude": 45.885062,
+      "longitude": 16.417951
+    },
+    {
+      "name": "Gradska knjižnica",
+      "latitude": 46.162722,
+      "longitude": 15.871307
+    },
+    {
+      "name": "Gradska knjižnica \"Franjo Marković\" Križevci",
+      "latitude": 46.021769,
+      "longitude": 16.544936
+    },
+    {
+      "name": "Gradska knjižnica \"Ivan Belostenac\"",
+      "latitude": 45.612986,
+      "longitude": 15.478405
+    },
+    {
+      "name": "Gradska knjižnica (Dječji odjel \"Stribor\")",
+      "latitude": 45.331121,
+      "longitude": 14.432052
+    },
+    {
+      "name": "Gradska knjižnica - Arbanasi",
+      "latitude": 44.104394,
+      "longitude": 15.23844
+    },
+    {
+      "name": "Gradska knjižnica - Dom lijepe književnosti",
+      "latitude": 45.327439,
+      "longitude": 14.440819
+    },
+    {
+      "name": "Gradska knjižnica - odjel za djecu i mladež",
+      "latitude": 45.805795,
+      "longitude": 15.977185
+    },
+    {
+      "name": "Gradska knjižnica - periodika",
+      "latitude": 45.32548,
+      "longitude": 14.443755
+    },
+    {
+      "name": "Gradska knjižnica Benkovac",
+      "latitude": 44.033586,
+      "longitude": 15.615751
+    },
+    {
+      "name": "Gradska Knjižnica Duga Resa",
+      "latitude": 45.450689,
+      "longitude": 15.499421
+    },
+    {
+      "name": "Gradska knjižnica Dugo Selo",
+      "latitude": 45.805806,
+      "longitude": 16.235322
+    },
+    {
+      "name": "Gradska knjižnica Grada Donjeg Miholjca",
+      "latitude": 45.762749,
+      "longitude": 18.163522
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica",
+      "latitude": 43.183679,
+      "longitude": 16.594853
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica",
+      "latitude": 45.223458,
+      "longitude": 19.370481
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica",
+      "latitude": 45.265541,
+      "longitude": 15.226721
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica  Lipik",
+      "latitude": 45.412141,
+      "longitude": 17.164125
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica \"Fran Galović\"",
+      "latitude": 46.163363,
+      "longitude": 16.831293
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica \"Gustav Krklec\"",
+      "latitude": 46.224428,
+      "longitude": 16.12238
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica Ante Jagar",
+      "latitude": 45.341126,
+      "longitude": 16.977925
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica Petrinja",
+      "latitude": 45.442383,
+      "longitude": 16.275129
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica Pula",
+      "latitude": 44.872271,
+      "longitude": 13.846719
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica Slatina",
+      "latitude": 45.701863,
+      "longitude": 17.703746
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica Vinkovci",
+      "latitude": 45.289476,
+      "longitude": 18.803373
+    },
+    {
+      "name": "Gradska knjižnica i čitaonica Vis",
+      "latitude": 43.057775,
+      "longitude": 16.193776
+    },
+    {
+      "name": "Gradska knjižnica Juraj Šižgorić",
+      "latitude": 43.734345,
+      "longitude": 15.89299
+    },
+    {
+      "name": "Gradska knjižnica Labin",
+      "latitude": 45.088059,
+      "longitude": 14.124945
+    },
+    {
+      "name": "Gradska knjižnica Labin",
+      "latitude": 45.089995,
+      "longitude": 14.122084
+    },
+    {
+      "name": "Gradska knjižnica Marka Marulića",
+      "latitude": 43.505379,
+      "longitude": 16.448563
+    },
+    {
+      "name": "Gradska Knjižnica Metel Ožegović",
+      "latitude": 46.308188,
+      "longitude": 16.33714
+    },
+    {
+      "name": "Gradska knjižnica Metković",
+      "latitude": 43.05245,
+      "longitude": 17.648198
+    },
+    {
+      "name": "Gradska knjižnica Mursko Središće",
+      "latitude": 46.51379,
+      "longitude": 16.439574
+    },
+    {
+      "name": "Gradska knjižnica Opatija - ogranak Matulji",
+      "latitude": 45.36405,
+      "longitude": 14.32653
+    },
+    {
+      "name": "Gradska knjižnica Orahovica",
+      "latitude": 45.531056,
+      "longitude": 17.878325
+    },
+    {
+      "name": "Gradska knjižnica Pag",
+      "latitude": 44.442723,
+      "longitude": 15.055907
+    },
+    {
+      "name": "Gradska knjižnica Poreč",
+      "latitude": 45.228019,
+      "longitude": 13.590964
+    },
+    {
+      "name": "Gradska knjižnica Požega",
+      "latitude": 45.3321,
+      "longitude": 17.679614
+    },
+    {
+      "name": "Gradska knjižnica Pregrada",
+      "latitude": 46.164636,
+      "longitude": 15.750197
+    },
+    {
+      "name": "Gradska knjižnica Rab",
+      "latitude": 44.756687,
+      "longitude": 14.759084
+    },
+    {
+      "name": "Gradska knjižnica Rijeka, ogranak Trsat",
+      "latitude": 45.330579,
+      "longitude": 14.459921
+    },
+    {
+      "name": "Gradska knjižnica Samobor",
+      "latitude": 45.805768,
+      "longitude": 15.711446
+    },
+    {
+      "name": "Gradska knjižnica Slavka Kolara Čazma",
+      "latitude": 45.747307,
+      "longitude": 16.612554
+    },
+    {
+      "name": "Gradska knjižnica Sveti Ivan Zelina",
+      "latitude": 45.959289,
+      "longitude": 16.243402
+    },
+    {
+      "name": "Gradska knjižnica Umag",
+      "latitude": 45.43286,
+      "longitude": 13.522408
+    },
+    {
+      "name": "Gradska knjižnica Valpovo",
+      "latitude": 45.66232,
+      "longitude": 18.417476
+    },
+    {
+      "name": "Gradska knjižnica Vodice",
+      "latitude": 43.755099,
+      "longitude": 15.773065
+    },
+    {
+      "name": "Gradska knjižnica Zadar",
+      "latitude": 44.118271,
+      "longitude": 15.233673
+    },
+    {
+      "name": "Gradska knjižnica Zlatar",
+      "latitude": 46.091302,
+      "longitude": 16.077179
+    },
+    {
+      "name": "Gradska knjižnica ˝Mato Lovrak˝",
+      "latitude": 45.702898,
+      "longitude": 17.169894
+    },
+    {
+      "name": "Hrvatska knjižnica i čitaonica Pleternica",
+      "latitude": 45.286216,
+      "longitude": 17.80057
+    },
+    {
+      "name": "Hrvatska knjižnica I čitaonica Đuro Sudeta",
+      "latitude": 45.574577,
+      "longitude": 16.941042
+    },
+    {
+      "name": "Hrvatska knjižnica i čitaonica Đurđenovac",
+      "latitude": 45.543713,
+      "longitude": 18.044619
+    },
+    {
+      "name": "Hrvatska knjižnica za slijepe",
+      "latitude": 45.806363,
+      "longitude": 15.983657
+    },
+    {
+      "name": "Hrvatska čitaonica",
+      "latitude": 43.261533,
+      "longitude": 16.658918
+    },
+    {
+      "name": "Hrvatski dom Glina",
+      "latitude": 45.339277,
+      "longitude": 16.090508
+    },
+    {
+      "name": "Ivan Goran Kovačić",
+      "latitude": 45.487761,
+      "longitude": 15.544141
+    },
+    {
+      "name": "Knjigica",
+      "latitude": 45.901405,
+      "longitude": 16.84042
+    },
+    {
+      "name": "Knjiznica - Citaonica",
+      "latitude": 44.928523,
+      "longitude": 14.919287
+    },
+    {
+      "name": "Knjižnica",
+      "latitude": 43.821974,
+      "longitude": 15.59202
+    },
+    {
+      "name": "Knjižnica",
+      "latitude": 45.485178,
+      "longitude": 15.562341
+    },
+    {
+      "name": "Knjižnica",
+      "latitude": 45.545146,
+      "longitude": 18.677468
+    },
+    {
+      "name": "Knjižnica \"Ivana Belostenca\"",
+      "latitude": 46.207826,
+      "longitude": 16.043526
+    },
+    {
+      "name": "Knjižnica \"Metel Ožegović\" - Dječji odjel",
+      "latitude": 46.305147,
+      "longitude": 16.338792
+    },
+    {
+      "name": "Knjižnica Ante Kovačića",
+      "latitude": 45.857947,
+      "longitude": 15.80526
+    },
+    {
+      "name": "Knjižnica Augusta Cesarca",
+      "latitude": 45.813368,
+      "longitude": 15.996709
+    },
+    {
+      "name": "Knjižnica Augusta Cesarca",
+      "latitude": 45.820011,
+      "longitude": 16.02638
+    },
+    {
+      "name": "Knjižnica Bogdan Ogrizović",
+      "latitude": 45.811587,
+      "longitude": 15.974372
+    },
+    {
+      "name": "Knjižnica Bol",
+      "latitude": 43.512529,
+      "longitude": 16.445187
+    },
+    {
+      "name": "Knjižnica Božidara Adžije",
+      "latitude": 45.808509,
+      "longitude": 15.992001
+    },
+    {
+      "name": "Knjižnica Dubec",
+      "latitude": 45.82931,
+      "longitude": 16.082573
+    },
+    {
+      "name": "Knjižnica Dubrava",
+      "latitude": 45.829882,
+      "longitude": 16.05416
+    },
+    {
+      "name": "Knjižnica Dugave",
+      "latitude": 45.765678,
+      "longitude": 15.995095
+    },
+    {
+      "name": "Knjižnica fakulteta hrvatskih studija",
+      "latitude": 45.813048,
+      "longitude": 16.043594
+    },
+    {
+      "name": "Knjižnica FFOS-a",
+      "latitude": 45.559451,
+      "longitude": 18.681435
+    },
+    {
+      "name": "Knjižnica Filozofskog fakulteta",
+      "latitude": 45.796073,
+      "longitude": 15.971956
+    },
+    {
+      "name": "Knjižnica Gajnice",
+      "latitude": 45.815252,
+      "longitude": 15.874158
+    },
+    {
+      "name": "Knjižnica Hijacint Bošković",
+      "latitude": 45.815583,
+      "longitude": 16.021658
+    },
+    {
+      "name": "Knjižnica Hrvatske akademije znanosti i umjetnosti",
+      "latitude": 45.808036,
+      "longitude": 15.978602
+    },
+    {
+      "name": "Knjižnica i čitaonica Caprag",
+      "latitude": 45.457413,
+      "longitude": 16.385895
+    },
+    {
+      "name": "Knjižnica i čitaonica Kutina",
+      "latitude": 45.483123,
+      "longitude": 16.776768
+    },
+    {
+      "name": "Knjižnica i čitaonica Napredak",
+      "latitude": 45.281864,
+      "longitude": 16.431825
+    },
+    {
+      "name": "Knjižnica i čitaonica Popovača",
+      "latitude": 45.57121,
+      "longitude": 16.627895
+    },
+    {
+      "name": "Knjižnica i čitaonica Slunj",
+      "latitude": 45.114014,
+      "longitude": 15.584166
+    },
+    {
+      "name": "Knjižnica i čitaonica Velika Ludina",
+      "latitude": 45.610803,
+      "longitude": 16.586013
+    },
+    {
+      "name": "Knjižnica i čitaonica Šenkovec",
+      "latitude": 46.410086,
+      "longitude": 16.419127
+    },
+    {
+      "name": "Knjižnica Ivana Gorana Kovačića",
+      "latitude": 45.800051,
+      "longitude": 15.966188
+    },
+    {
+      "name": "Knjižnica Ivane Brlić Mažuranić",
+      "latitude": 45.793318,
+      "longitude": 16.004442
+    },
+    {
+      "name": "Knjižnica Jelkovec",
+      "latitude": 45.810533,
+      "longitude": 16.107357
+    },
+    {
+      "name": "Knjižnica Juraj Habdelić",
+      "latitude": 45.82775,
+      "longitude": 15.998209
+    },
+    {
+      "name": "Knjižnica Kajfešov brijeg",
+      "latitude": 45.816797,
+      "longitude": 15.943616
+    },
+    {
+      "name": "Knjižnica Kastav",
+      "latitude": 45.372711,
+      "longitude": 14.348236
+    },
+    {
+      "name": "Knjižnica Knežija",
+      "latitude": 45.791089,
+      "longitude": 15.950626
+    },
+    {
+      "name": "Knjižnica Kustošija",
+      "latitude": 45.813661,
+      "longitude": 15.926363
+    },
+    {
+      "name": "Knjižnica Marija Jurić Zagorka",
+      "latitude": 45.814681,
+      "longitude": 15.975915
+    },
+    {
+      "name": "Knjižnica Marina Držića",
+      "latitude": 45.800069,
+      "longitude": 15.987167
+    },
+    {
+      "name": "Knjižnica Medveščak",
+      "latitude": 45.81016,
+      "longitude": 15.988361
+    },
+    {
+      "name": "Knjižnica Medveščak, odjel za djecu i odjel za mladež",
+      "latitude": 45.810302,
+      "longitude": 15.991171
+    },
+    {
+      "name": "Knjižnica Meje",
+      "latitude": 43.504891,
+      "longitude": 16.428
+    },
+    {
+      "name": "Knjižnica Nikola Zrinski",
+      "latitude": 46.390247,
+      "longitude": 16.434127
+    },
+    {
+      "name": "Knjižnica Novi Zagreb",
+      "latitude": 45.771538,
+      "longitude": 15.995086
+    },
+    {
+      "name": "Knjižnica Petra Preradovića",
+      "latitude": 45.898041,
+      "longitude": 16.841231
+    },
+    {
+      "name": "Knjižnica Podstrana Marka Marulića",
+      "latitude": 43.481287,
+      "longitude": 16.559444
+    },
+    {
+      "name": "Knjižnica Podsused",
+      "latitude": 45.816352,
+      "longitude": 15.83508
+    },
+    {
+      "name": "Knjižnica Prečko",
+      "latitude": 45.79469,
+      "longitude": 15.899143
+    },
+    {
+      "name": "Knjižnica Ravne njive",
+      "latitude": 43.520896,
+      "longitude": 16.464942
+    },
+    {
+      "name": "Knjižnica S. S. Kranjčevića",
+      "latitude": 45.805958,
+      "longitude": 16.02006
+    },
+    {
+      "name": "Knjižnica Savica",
+      "latitude": 45.79361,
+      "longitude": 15.99581
+    },
+    {
+      "name": "Knjižnica Savski gaj",
+      "latitude": 45.775761,
+      "longitude": 15.955934
+    },
+    {
+      "name": "Knjižnica Selčina",
+      "latitude": 45.832133,
+      "longitude": 16.112317
+    },
+    {
+      "name": "Knjižnica Sinj",
+      "latitude": 43.702938,
+      "longitude": 16.64153
+    },
+    {
+      "name": "Knjižnica Sloboština",
+      "latitude": 45.762675,
+      "longitude": 15.986408
+    },
+    {
+      "name": "Knjižnica Staglišće",
+      "latitude": 45.788027,
+      "longitude": 15.931138
+    },
+    {
+      "name": "Knjižnica Tina Ujevića",
+      "latitude": 45.799089,
+      "longitude": 15.95653
+    },
+    {
+      "name": "Knjižnica Topusko",
+      "latitude": 45.293621,
+      "longitude": 15.970218
+    },
+    {
+      "name": "Knjižnica Unije",
+      "latitude": 44.636476,
+      "longitude": 14.248454
+    },
+    {
+      "name": "Knjižnica veleučilišta Baltazar",
+      "latitude": 45.864484,
+      "longitude": 15.80059
+    },
+    {
+      "name": "Knjižnica Vjekoslava Majera",
+      "latitude": 45.779613,
+      "longitude": 15.996443
+    },
+    {
+      "name": "Knjižnica Vladimira Nazora",
+      "latitude": 45.811077,
+      "longitude": 15.948809
+    },
+    {
+      "name": "Knjižnica Vladimira Nazora - Gornje Vrapče",
+      "latitude": 45.830681,
+      "longitude": 15.905304
+    },
+    {
+      "name": "Knjižnica Voltino",
+      "latitude": 45.801618,
+      "longitude": 15.929099
+    },
+    {
+      "name": "Knjižnica Vrapče",
+      "latitude": 45.812688,
+      "longitude": 15.898829
+    },
+    {
+      "name": "Knjižnica za mlade",
+      "latitude": 45.493316,
+      "longitude": 15.554314
+    },
+    {
+      "name": "Knjižnica Špansko-jug",
+      "latitude": 45.800962,
+      "longitude": 15.896846
+    },
+    {
+      "name": "Knjižnica Špansko-sjever",
+      "latitude": 45.805136,
+      "longitude": 15.896244
+    },
+    {
+      "name": "Knjižnični stacionar Silba",
+      "latitude": 44.374705,
+      "longitude": 14.695979
+    },
+    {
+      "name": "Library of F. Burian",
+      "latitude": 45.594473,
+      "longitude": 17.22178
+    },
+    {
+      "name": "Nacionalna i sveučilišna knjižnica u Zagrebu",
+      "latitude": 45.796616,
+      "longitude": 15.977514
+    },
+    {
+      "name": "Narodna knjižica",
+      "latitude": 43.444573,
+      "longitude": 16.641171
+    },
+    {
+      "name": "Narodna knjižnica",
+      "latitude": 43.582029,
+      "longitude": 16.595879
+    },
+    {
+      "name": "Narodna knjižnica \"Petar Preradović\" - dječji odjel",
+      "latitude": 45.900734,
+      "longitude": 16.845258
+    },
+    {
+      "name": "Narodna knjižnica i čitaonica",
+      "latitude": 45.589242,
+      "longitude": 16.20439
+    },
+    {
+      "name": "Narodna knjižnica i čitaonica",
+      "latitude": 45.671069,
+      "longitude": 15.650154
+    },
+    {
+      "name": "Narodna knjižnica i čitaonica Dr. Ante Starčević 1912",
+      "latitude": 43.586983,
+      "longitude": 15.928967
+    },
+    {
+      "name": "Narodna knjižnica i čitaonica Gunja",
+      "latitude": 44.879507,
+      "longitude": 18.851237
+    },
+    {
+      "name": "NARODNA KNJIŽNICA I ČITAONICA HALUBAJSKA ZORA",
+      "latitude": 45.362313,
+      "longitude": 14.392877
+    },
+    {
+      "name": "Narodna knjižnica i čitaonica Jasenovac",
+      "latitude": 45.269643,
+      "longitude": 16.908521
+    },
+    {
+      "name": "Narodna knjižnica i čitaonica Lipovljani",
+      "latitude": 45.398716,
+      "longitude": 16.88989
+    },
+    {
+      "name": "Narodna knjižnica i čitaonica u Klisu",
+      "latitude": 43.559666,
+      "longitude": 16.520386
+    },
+    {
+      "name": "Narodna knjižnica Kali",
+      "latitude": 44.06283,
+      "longitude": 15.207731
+    },
+    {
+      "name": "Narodna knjižnica Omiš",
+      "latitude": 43.442783,
+      "longitude": 16.691212
+    },
+    {
+      "name": "Narodna knjižnica Virje",
+      "latitude": 46.067544,
+      "longitude": 16.988844
+    },
+    {
+      "name": "Narodna knjižnica Vlado Gotovac",
+      "latitude": 45.489047,
+      "longitude": 16.374065
+    },
+    {
+      "name": "Narodna čitaonica i knjižnica Novi Vinodolski",
+      "latitude": 45.128482,
+      "longitude": 14.788708
+    },
+    {
+      "name": "NKČ Sisak - Dječiji odjel",
+      "latitude": 45.485043,
+      "longitude": 16.372568
+    },
+    {
+      "name": "Općinska knjižnica Drenovci",
+      "latitude": 44.920233,
+      "longitude": 18.908868
+    },
+    {
+      "name": "Općinska knjižnica i čitaonica Bistra",
+      "latitude": 45.906433,
+      "longitude": 15.876125
+    },
+    {
+      "name": "Općinska knjižnica i čitaonica Jelsa",
+      "latitude": 43.161648,
+      "longitude": 16.692136
+    },
+    {
+      "name": "Općinska knjižnica Stubičke Toplice",
+      "latitude": 45.977632,
+      "longitude": 15.92996
+    },
+    {
+      "name": "Područna knjižnica Ploča",
+      "latitude": 44.103235,
+      "longitude": 15.281183
+    },
+    {
+      "name": "Pučka knjižnica i čitaonica Daruvar",
+      "latitude": 45.591591,
+      "longitude": 17.223727
+    },
+    {
+      "name": "Pučko otvoreno učilište Slunj",
+      "latitude": 45.114062,
+      "longitude": 15.584023
+    },
+    {
+      "name": "Pučko otvoreno učilište Velika Gorica",
+      "latitude": 45.715664,
+      "longitude": 16.069332
+    },
+    {
+      "name": "Reftalačka knjižnica",
+      "latitude": 45.561297,
+      "longitude": 18.652953
+    },
+    {
+      "name": "Solinske mladeži",
+      "latitude": 43.5415,
+      "longitude": 16.475706
+    },
+    {
+      "name": "Sveučilišna knjižnica",
+      "latitude": 43.511098,
+      "longitude": 16.468113
+    },
+    {
+      "name": "Sveučilišna knjižnica",
+      "latitude": 44.869728,
+      "longitude": 13.847018
+    },
+    {
+      "name": "Sveučilišna knjižnica",
+      "latitude": 45.327891,
+      "longitude": 14.440758
+    },
+    {
+      "name": "Talijanski institut za kulturu",
+      "latitude": 45.812829,
+      "longitude": 15.973717
+    },
+    {
+      "name": "Trilj",
+      "latitude": 43.616637,
+      "longitude": 16.727206
+    },
+    {
+      "name": "Trstenik",
+      "latitude": 43.508237,
+      "longitude": 16.475198
+    },
+    {
+      "name": "Zemljišno-knižni odjel Tisno",
+      "latitude": 43.79855,
+      "longitude": 15.641925
+    },
+    {
+      "name": "Znanstvena knjižnica",
+      "latitude": 44.112134,
+      "longitude": 15.227716
+    },
+    {
+      "name": "Čitaonica Kustošija",
+      "latitude": 45.813961,
+      "longitude": 15.926405
+    },
+    {
+      "name": "Školska knjižnica",
+      "latitude": 45.797129,
+      "longitude": 15.955867
+    },
+    {
+      "name": "Školska knjižnica Osnovne škole Stoja",
+      "latitude": 44.859699,
+      "longitude": 13.831734
+    }
+  ],
+  "meta": {
+    "title": "Knjižnice - Besplatno preuzimanje",
+    "description": "Knjižnice u Hrvatskoj (188 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=library), izrez EU-POIS/HR. Sadrži 188 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Knjižnice | ListBase",
+    "seo_description": "Preuzmi Knjižnice — 188 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 188 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

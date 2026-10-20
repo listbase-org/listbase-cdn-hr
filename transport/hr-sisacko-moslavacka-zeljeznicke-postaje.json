@@ -1,0 +1,346 @@
+{
+  "id": "hr-sisacko-moslavacka-zeljeznicke-postaje",
+  "name": "Željezničke postaje — Sisačko-Moslavačka županija",
+  "title": "Željezničke postaje — Sisačko-Moslavačka županija",
+  "description": "Željezničke postaje i stajališta u Sisačko-Moslavačka županija (šifra 14) iz trainline-eu/stations. 10 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_slug",
+      "label": "Zupanija Slug",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_code",
+      "label": "Zupanija Code",
+      "type": "number"
+    },
+    {
+      "key": "najblize_mjesto",
+      "label": "Najblize Mjesto",
+      "type": "string"
+    },
+    {
+      "key": "udaljenost_km",
+      "label": "Udaljenost Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 28226,
+      "name": "Sisak",
+      "slug": "sisak",
+      "uic": "7872901",
+      "latitude": 45.491997,
+      "longitude": 16.373141,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Sisačko-Moslavačka",
+      "zupanija_slug": "sisacko-moslavacka",
+      "zupanija_code": "14",
+      "najblize_mjesto": "Desni Dubrovčak",
+      "udaljenost_km": 0.906,
+      "country": "HR"
+    },
+    {
+      "id": 2,
+      "station_id": 29592,
+      "name": "Kutina",
+      "slug": "kutina",
+      "uic": "",
+      "latitude": 45.479281,
+      "longitude": 16.776327,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Sisačko-Moslavačka",
+      "zupanija_slug": "sisacko-moslavacka",
+      "zupanija_code": "14",
+      "najblize_mjesto": "Kutina",
+      "udaljenost_km": 0.645,
+      "country": "HR"
+    },
+    {
+      "id": 3,
+      "station_id": 29607,
+      "name": "Novska",
+      "slug": "novska",
+      "uic": "",
+      "latitude": 45.33999,
+      "longitude": 16.978597,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Sisačko-Moslavačka",
+      "zupanija_slug": "sisacko-moslavacka",
+      "zupanija_code": "14",
+      "najblize_mjesto": "Novska",
+      "udaljenost_km": 0.149,
+      "country": "HR"
+    },
+    {
+      "id": 4,
+      "station_id": 35329,
+      "name": "Popovača",
+      "slug": "popovaca",
+      "uic": "",
+      "latitude": 45.570888,
+      "longitude": 16.627144,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Sisačko-Moslavačka",
+      "zupanija_slug": "sisacko-moslavacka",
+      "zupanija_code": "14",
+      "najblize_mjesto": "Popovača",
+      "udaljenost_km": 0.213,
+      "country": "HR"
+    },
+    {
+      "id": 5,
+      "station_id": 35425,
+      "name": "Petrinja",
+      "slug": "petrinja",
+      "uic": "",
+      "latitude": 45.43844,
+      "longitude": 16.28554,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Sisačko-Moslavačka",
+      "zupanija_slug": "sisacko-moslavacka",
+      "zupanija_code": "14",
+      "najblize_mjesto": "Petrinja",
+      "udaljenost_km": 0.363,
+      "country": "HR"
+    },
+    {
+      "id": 6,
+      "station_id": 35633,
+      "name": "Glina",
+      "slug": "glina",
+      "uic": "",
+      "latitude": 45.340521,
+      "longitude": 16.08807,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Sisačko-Moslavačka",
+      "zupanija_slug": "sisacko-moslavacka",
+      "zupanija_code": "14",
+      "najblize_mjesto": "Donje Selište",
+      "udaljenost_km": 1.853,
+      "country": "HR"
+    },
+    {
+      "id": 7,
+      "station_id": 35937,
+      "name": "Taborište",
+      "slug": "taboriste",
+      "uic": "",
+      "latitude": 45.406678,
+      "longitude": 16.299566,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Sisačko-Moslavačka",
+      "zupanija_slug": "sisacko-moslavacka",
+      "zupanija_code": "14",
+      "najblize_mjesto": "Hrastovica",
+      "udaljenost_km": 1.147,
+      "country": "HR"
+    },
+    {
+      "id": 8,
+      "station_id": 38135,
+      "name": "Lekenik",
+      "slug": "lekenik",
+      "uic": "",
+      "latitude": 45.585341,
+      "longitude": 16.210077,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Sisačko-Moslavačka",
+      "zupanija_slug": "sisacko-moslavacka",
+      "zupanija_code": "14",
+      "najblize_mjesto": "Lekenik",
+      "udaljenost_km": 0.107,
+      "country": "HR"
+    },
+    {
+      "id": 9,
+      "station_id": 38974,
+      "name": "Banova Jaruga",
+      "slug": "banova-jaruga",
+      "uic": "",
+      "latitude": 45.445936,
+      "longitude": 16.87651,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Sisačko-Moslavačka",
+      "zupanija_slug": "sisacko-moslavacka",
+      "zupanija_code": "14",
+      "najblize_mjesto": "Ilova",
+      "udaljenost_km": 0.713,
+      "country": "HR"
+    },
+    {
+      "id": 10,
+      "station_id": 39001,
+      "name": "Lipovljani",
+      "slug": "lipovljani",
+      "uic": "",
+      "latitude": 45.386904,
+      "longitude": 16.882416,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Sisačko-Moslavačka",
+      "zupanija_slug": "sisacko-moslavacka",
+      "zupanija_code": "14",
+      "najblize_mjesto": "Lipovljani",
+      "udaljenost_km": 1.229,
+      "country": "HR"
+    }
+  ],
+  "meta": {
+    "title": "Željezničke postaje — Sisačko-Moslavačka županija - Besplatno preuzimanje",
+    "description": "Željezničke postaje i stajališta u Sisačko-Moslavačka županija (šifra 14) iz trainline-eu/stations. 10 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi. Sadrži 10 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Željezničke postaje — Sisačko-Moslavačka županija | ListBase",
+    "seo_description": "Preuzmi Željezničke postaje — Sisačko-Moslavačka županija — 10 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 10 zapisa / 20 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "hr-vremenske-zone-africa",
+  "name": "Vremenske zone — Africa (9)",
+  "title": "Vremenske zone — Africa (9)",
+  "description": "Vremenske zone čiji IANA identifikator počinje s 'Africa/', s hrvatskim nazivima.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regija",
+      "label": "Regija",
+      "type": "string"
+    },
+    {
+      "key": "grad",
+      "label": "Grad",
+      "type": "string"
+    },
+    {
+      "key": "standardno_ime",
+      "label": "Standardno Ime",
+      "type": "string"
+    },
+    {
+      "key": "ljetno_ime",
+      "label": "Ljetno Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Addis_Ababa",
+      "regija": "Africa",
+      "grad": "Addis Abeba",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Algiers",
+      "regija": "Africa",
+      "grad": "Alžir",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Asmera",
+      "regija": "Africa",
+      "grad": "Asmara",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Cairo",
+      "regija": "Africa",
+      "grad": "Kairo",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Djibouti",
+      "regija": "Africa",
+      "grad": "Džibuti",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/El_Aaiun",
+      "regija": "Africa",
+      "grad": "El Aaiún",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Lome",
+      "regija": "Africa",
+      "grad": "Lomé",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Ndjamena",
+      "regija": "Africa",
+      "grad": "N’Djamena",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Sao_Tome",
+      "regija": "Africa",
+      "grad": "São Tomé",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    }
+  ],
+  "meta": {
+    "title": "Vremenske zone — Africa (9) - Besplatno preuzimanje",
+    "description": "Vremenske zone čiji IANA identifikator počinje s 'Africa/', s hrvatskim nazivima. Sadrži 9 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vremenske zone — Africa (9) | ListBase",
+    "seo_description": "Preuzmi Vremenske zone — Africa (9) — 9 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 9 zapisa / 6 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

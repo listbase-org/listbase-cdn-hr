@@ -1,0 +1,72 @@
+{
+  "id": "hr-vremenske-zone-antarctica",
+  "name": "Vremenske zone — Antarctica (2)",
+  "title": "Vremenske zone — Antarctica (2)",
+  "description": "Vremenske zone čiji IANA identifikator počinje s 'Antarctica/', s hrvatskim nazivima.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regija",
+      "label": "Regija",
+      "type": "string"
+    },
+    {
+      "key": "grad",
+      "label": "Grad",
+      "type": "string"
+    },
+    {
+      "key": "standardno_ime",
+      "label": "Standardno Ime",
+      "type": "string"
+    },
+    {
+      "key": "ljetno_ime",
+      "label": "Ljetno Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Antarctica/DumontDUrville",
+      "regija": "Antarctica",
+      "grad": "Dumont-d’Urville",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Antarctica/Syowa",
+      "regija": "Antarctica",
+      "grad": "Showa",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    }
+  ],
+  "meta": {
+    "title": "Vremenske zone — Antarctica (2) - Besplatno preuzimanje",
+    "description": "Vremenske zone čiji IANA identifikator počinje s 'Antarctica/', s hrvatskim nazivima. Sadrži 2 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vremenske zone — Antarctica (2) | ListBase",
+    "seo_description": "Preuzmi Vremenske zone — Antarctica (2) — 2 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 2 zapisa / 6 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

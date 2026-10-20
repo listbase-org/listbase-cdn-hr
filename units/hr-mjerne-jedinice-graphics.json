@@ -1,0 +1,133 @@
+{
+  "id": "hr-mjerne-jedinice-graphics",
+  "name": "Mjerne jedinice — kategorija 'graphics' (8)",
+  "title": "Mjerne jedinice — kategorija 'graphics' (8)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'graphics' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "graphics-dot",
+      "kategorija": "graphics",
+      "naziv": "točke",
+      "kratica": "pikseli",
+      "naziv_uski": "piksel",
+      "obrazac": "{0} točaka"
+    },
+    {
+      "id": 2,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategorija": "graphics",
+      "naziv": "točke po centimetru",
+      "kratica": "dpcm",
+      "naziv_uski": "dpcm",
+      "obrazac": "{0} točaka po centimetru"
+    },
+    {
+      "id": 3,
+      "unit_code": "graphics-dot-per-inch",
+      "kategorija": "graphics",
+      "naziv": "točke po inču",
+      "kratica": "dpi",
+      "naziv_uski": "dpi",
+      "obrazac": "{0} točaka po inču"
+    },
+    {
+      "id": 4,
+      "unit_code": "graphics-em",
+      "kategorija": "graphics",
+      "naziv": "tipografski em",
+      "kratica": "em",
+      "naziv_uski": "em",
+      "obrazac": "{0} tipografskih ema"
+    },
+    {
+      "id": 5,
+      "unit_code": "graphics-megapixel",
+      "kategorija": "graphics",
+      "naziv": "megapikseli",
+      "kratica": "MP",
+      "naziv_uski": "MP",
+      "obrazac": "{0} megapiksela"
+    },
+    {
+      "id": 6,
+      "unit_code": "graphics-pixel",
+      "kategorija": "graphics",
+      "naziv": "pikseli",
+      "kratica": "px",
+      "naziv_uski": "px",
+      "obrazac": "{0} piksela"
+    },
+    {
+      "id": 7,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategorija": "graphics",
+      "naziv": "pikseli po centimetru",
+      "kratica": "ppcm",
+      "naziv_uski": "ppcm",
+      "obrazac": "{0} piksela po centimetru"
+    },
+    {
+      "id": 8,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategorija": "graphics",
+      "naziv": "pikseli po inču",
+      "kratica": "ppi",
+      "naziv_uski": "ppi",
+      "obrazac": "{0} piksela po inču"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'graphics' (8) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'graphics' s hrvatskim nazivima. Sadrži 8 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'graphics' (8) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'graphics' (8) — 8 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 8 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

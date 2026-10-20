@@ -1,0 +1,661 @@
+{
+  "id": "hr-sisacko-moslavacka-kafici",
+  "name": "Kafići — Sisačko-moslavačka županija",
+  "title": "Kafići — Sisačko-moslavačka županija",
+  "description": "124 kafići u županiji Sisačko-moslavačka županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 124,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Amor",
+      "latitude": 45.500201,
+      "longitude": 16.362408
+    },
+    {
+      "name": "Anita",
+      "latitude": 45.22034,
+      "longitude": 16.547571
+    },
+    {
+      "name": "Anita",
+      "latitude": 45.601511,
+      "longitude": 16.171593
+    },
+    {
+      "name": "Arbor",
+      "latitude": 45.334006,
+      "longitude": 16.972119
+    },
+    {
+      "name": "Arka",
+      "latitude": 45.548672,
+      "longitude": 16.233254
+    },
+    {
+      "name": "Bacardi",
+      "latitude": 45.50049,
+      "longitude": 16.360771
+    },
+    {
+      "name": "bacchus",
+      "latitude": 45.481045,
+      "longitude": 16.777945
+    },
+    {
+      "name": "Baddy",
+      "latitude": 45.499666,
+      "longitude": 16.36277
+    },
+    {
+      "name": "Beach bar Catan",
+      "latitude": 45.49577,
+      "longitude": 16.380981
+    },
+    {
+      "name": "Beach bar Lake",
+      "latitude": 45.495956,
+      "longitude": 16.381332
+    },
+    {
+      "name": "bistro \"2\"",
+      "latitude": 45.26157,
+      "longitude": 16.950745
+    },
+    {
+      "name": "Bistro jug",
+      "latitude": 45.402733,
+      "longitude": 16.858711
+    },
+    {
+      "name": "Bolero",
+      "latitude": 45.610495,
+      "longitude": 16.585449
+    },
+    {
+      "name": "Bonus-0,3",
+      "latitude": 45.498135,
+      "longitude": 16.373806
+    },
+    {
+      "name": "Borselino",
+      "latitude": 45.338942,
+      "longitude": 16.97772
+    },
+    {
+      "name": "Boss",
+      "latitude": 45.34214,
+      "longitude": 16.975309
+    },
+    {
+      "name": "Boss",
+      "latitude": 45.470423,
+      "longitude": 16.371384
+    },
+    {
+      "name": "Cafe bar Vrbina",
+      "latitude": 45.483073,
+      "longitude": 16.374977
+    },
+    {
+      "name": "Cafe Vatrogasni",
+      "latitude": 45.226894,
+      "longitude": 16.541193
+    },
+    {
+      "name": "Caffe bar \"Lupya\"",
+      "latitude": 45.398204,
+      "longitude": 16.890884
+    },
+    {
+      "name": "Caffe bar As",
+      "latitude": 45.503725,
+      "longitude": 16.324235
+    },
+    {
+      "name": "Caffe bar D&D",
+      "latitude": 45.351216,
+      "longitude": 15.864956
+    },
+    {
+      "name": "Caffe bar Didi",
+      "latitude": 45.479802,
+      "longitude": 16.363257
+    },
+    {
+      "name": "Caffe Bar Harbour",
+      "latitude": 45.188041,
+      "longitude": 16.808198
+    },
+    {
+      "name": "Caffe Bar Lobby Petrinja",
+      "latitude": 45.438349,
+      "longitude": 16.270953
+    },
+    {
+      "name": "Caffe Bar Palma",
+      "latitude": 45.187714,
+      "longitude": 16.809159
+    },
+    {
+      "name": "Casper",
+      "latitude": 45.340094,
+      "longitude": 16.976755
+    },
+    {
+      "name": "Centar",
+      "latitude": 45.585062,
+      "longitude": 16.210136
+    },
+    {
+      "name": "Charlie Brown",
+      "latitude": 45.48647,
+      "longitude": 16.373488
+    },
+    {
+      "name": "Corner",
+      "latitude": 45.486214,
+      "longitude": 16.378514
+    },
+    {
+      "name": "Darek",
+      "latitude": 45.611449,
+      "longitude": 16.584893
+    },
+    {
+      "name": "Elephants",
+      "latitude": 45.484761,
+      "longitude": 16.371904
+    },
+    {
+      "name": "Eros",
+      "latitude": 45.516307,
+      "longitude": 16.24669
+    },
+    {
+      "name": "Espresso",
+      "latitude": 45.495694,
+      "longitude": 16.365407
+    },
+    {
+      "name": "Europa",
+      "latitude": 45.484669,
+      "longitude": 16.371526
+    },
+    {
+      "name": "Exit",
+      "latitude": 45.234735,
+      "longitude": 16.528135
+    },
+    {
+      "name": "Flor",
+      "latitude": 45.48612,
+      "longitude": 16.371347
+    },
+    {
+      "name": "Fresh corner",
+      "latitude": 45.504578,
+      "longitude": 16.663195
+    },
+    {
+      "name": "Fresh corner",
+      "latitude": 45.505886,
+      "longitude": 16.659928
+    },
+    {
+      "name": "Gaj",
+      "latitude": 45.417862,
+      "longitude": 16.3925
+    },
+    {
+      "name": "Gallery",
+      "latitude": 45.438442,
+      "longitude": 16.279603
+    },
+    {
+      "name": "Gama",
+      "latitude": 45.400017,
+      "longitude": 16.892578
+    },
+    {
+      "name": "gemišt bar",
+      "latitude": 45.481243,
+      "longitude": 16.770566
+    },
+    {
+      "name": "gold caffe",
+      "latitude": 45.481775,
+      "longitude": 16.778254
+    },
+    {
+      "name": "Grama",
+      "latitude": 45.486481,
+      "longitude": 16.37395
+    },
+    {
+      "name": "Green",
+      "latitude": 45.45666,
+      "longitude": 16.380454
+    },
+    {
+      "name": "Green",
+      "latitude": 45.48592,
+      "longitude": 16.379
+    },
+    {
+      "name": "Gymnasium",
+      "latitude": 45.485664,
+      "longitude": 16.374935
+    },
+    {
+      "name": "Hacienda",
+      "latitude": 45.29102,
+      "longitude": 15.969343
+    },
+    {
+      "name": "Intima",
+      "latitude": 45.340136,
+      "longitude": 16.977787
+    },
+    {
+      "name": "Kaktus",
+      "latitude": 45.481963,
+      "longitude": 16.368221
+    },
+    {
+      "name": "Kamelija",
+      "latitude": 45.480337,
+      "longitude": 16.777479
+    },
+    {
+      "name": "Kasar SB",
+      "latitude": 45.508105,
+      "longitude": 16.198857
+    },
+    {
+      "name": "KIM",
+      "latitude": 45.339905,
+      "longitude": 16.089045
+    },
+    {
+      "name": "KO",
+      "latitude": 45.339619,
+      "longitude": 16.089297
+    },
+    {
+      "name": "Kockica",
+      "latitude": 45.473939,
+      "longitude": 16.367302
+    },
+    {
+      "name": "Kod bačve",
+      "latitude": 45.488452,
+      "longitude": 16.372633
+    },
+    {
+      "name": "Kofein",
+      "latitude": 45.509827,
+      "longitude": 16.379583
+    },
+    {
+      "name": "Kolodvor",
+      "latitude": 45.327529,
+      "longitude": 16.976898
+    },
+    {
+      "name": "Kolodvoru",
+      "latitude": 45.491393,
+      "longitude": 16.376057
+    },
+    {
+      "name": "Komarac",
+      "latitude": 45.610335,
+      "longitude": 16.585938
+    },
+    {
+      "name": "Kult ura",
+      "latitude": 45.482887,
+      "longitude": 16.774875
+    },
+    {
+      "name": "Liberty",
+      "latitude": 45.409599,
+      "longitude": 16.298296
+    },
+    {
+      "name": "Lojzek",
+      "latitude": 45.485467,
+      "longitude": 16.373023
+    },
+    {
+      "name": "Lotki 3",
+      "latitude": 45.489377,
+      "longitude": 16.376761
+    },
+    {
+      "name": "Ložiona",
+      "latitude": 45.331055,
+      "longitude": 16.990085
+    },
+    {
+      "name": "M G",
+      "latitude": 45.289701,
+      "longitude": 15.968877
+    },
+    {
+      "name": "Maestral",
+      "latitude": 45.508216,
+      "longitude": 16.30149
+    },
+    {
+      "name": "Maja 2",
+      "latitude": 45.497727,
+      "longitude": 16.359945
+    },
+    {
+      "name": "Mala kavana",
+      "latitude": 45.489949,
+      "longitude": 16.372637
+    },
+    {
+      "name": "Mali kaptol",
+      "latitude": 45.487645,
+      "longitude": 16.370628
+    },
+    {
+      "name": "Mankas",
+      "latitude": 45.494538,
+      "longitude": 16.370078
+    },
+    {
+      "name": "Minus",
+      "latitude": 45.339905,
+      "longitude": 16.974053
+    },
+    {
+      "name": "Moon",
+      "latitude": 45.486791,
+      "longitude": 16.372752
+    },
+    {
+      "name": "Noah Bar",
+      "latitude": 45.495785,
+      "longitude": 16.358365
+    },
+    {
+      "name": "Novela",
+      "latitude": 45.341078,
+      "longitude": 16.977842
+    },
+    {
+      "name": "Omega",
+      "latitude": 45.490981,
+      "longitude": 16.375059
+    },
+    {
+      "name": "Opatija",
+      "latitude": 45.440026,
+      "longitude": 16.278631
+    },
+    {
+      "name": "Opatovina",
+      "latitude": 45.291495,
+      "longitude": 15.96913
+    },
+    {
+      "name": "Ops!",
+      "latitude": 45.488872,
+      "longitude": 16.372503
+    },
+    {
+      "name": "Orient Ex",
+      "latitude": 45.355635,
+      "longitude": 16.550946
+    },
+    {
+      "name": "Oxigen",
+      "latitude": 45.480948,
+      "longitude": 16.777535
+    },
+    {
+      "name": "Pariz",
+      "latitude": 45.480403,
+      "longitude": 16.781278
+    },
+    {
+      "name": "Pepi",
+      "latitude": 45.479925,
+      "longitude": 16.777343
+    },
+    {
+      "name": "Piccadilly",
+      "latitude": 45.499737,
+      "longitude": 16.36052
+    },
+    {
+      "name": "Pijor",
+      "latitude": 45.33863,
+      "longitude": 16.977869
+    },
+    {
+      "name": "Posavina",
+      "latitude": 45.368509,
+      "longitude": 16.566785
+    },
+    {
+      "name": "Posh",
+      "latitude": 45.339001,
+      "longitude": 16.089848
+    },
+    {
+      "name": "Quattro",
+      "latitude": 45.487,
+      "longitude": 16.378537
+    },
+    {
+      "name": "RAM",
+      "latitude": 45.481842,
+      "longitude": 16.779344
+    },
+    {
+      "name": "Rapido",
+      "latitude": 45.291859,
+      "longitude": 15.969784
+    },
+    {
+      "name": "Respect",
+      "latitude": 45.339552,
+      "longitude": 16.974884
+    },
+    {
+      "name": "Riva",
+      "latitude": 45.486868,
+      "longitude": 16.37047
+    },
+    {
+      "name": "San Remo",
+      "latitude": 45.510239,
+      "longitude": 16.295079
+    },
+    {
+      "name": "Shpitza",
+      "latitude": 45.340052,
+      "longitude": 16.088903
+    },
+    {
+      "name": "Siscia Jazz Club",
+      "latitude": 45.487546,
+      "longitude": 16.370594
+    },
+    {
+      "name": "SKaala Caffe bar",
+      "latitude": 45.489216,
+      "longitude": 16.376324
+    },
+    {
+      "name": "Slastičarna Dinamo",
+      "latitude": 45.571312,
+      "longitude": 16.627057
+    },
+    {
+      "name": "Slastičarna Kira",
+      "latitude": 45.482614,
+      "longitude": 16.777793
+    },
+    {
+      "name": "Smart",
+      "latitude": 45.504965,
+      "longitude": 16.41857
+    },
+    {
+      "name": "Snoopy",
+      "latitude": 45.433946,
+      "longitude": 16.278572
+    },
+    {
+      "name": "Speed",
+      "latitude": 45.431781,
+      "longitude": 16.278564
+    },
+    {
+      "name": "Square",
+      "latitude": 45.290292,
+      "longitude": 15.969201
+    },
+    {
+      "name": "Stara dama",
+      "latitude": 45.478572,
+      "longitude": 16.376341
+    },
+    {
+      "name": "stari",
+      "latitude": 45.481582,
+      "longitude": 16.779902
+    },
+    {
+      "name": "T3",
+      "latitude": 45.494946,
+      "longitude": 16.729509
+    },
+    {
+      "name": "Tablet bar Kelt",
+      "latitude": 45.485315,
+      "longitude": 16.372472
+    },
+    {
+      "name": "Taboo",
+      "latitude": 45.482796,
+      "longitude": 16.775069
+    },
+    {
+      "name": "Tiffany",
+      "latitude": 45.341414,
+      "longitude": 16.976288
+    },
+    {
+      "name": "Tomislav",
+      "latitude": 45.480499,
+      "longitude": 16.777508
+    },
+    {
+      "name": "Tomy",
+      "latitude": 45.421598,
+      "longitude": 16.385442
+    },
+    {
+      "name": "Trilogija",
+      "latitude": 45.269255,
+      "longitude": 16.910547
+    },
+    {
+      "name": "TŠK",
+      "latitude": 45.457491,
+      "longitude": 16.433372
+    },
+    {
+      "name": "V.M.",
+      "latitude": 45.494809,
+      "longitude": 16.730414
+    },
+    {
+      "name": "Viktorija",
+      "latitude": 45.292183,
+      "longitude": 15.967292
+    },
+    {
+      "name": "VivasBar",
+      "latitude": 45.485377,
+      "longitude": 16.371755
+    },
+    {
+      "name": "Voodoo bar",
+      "latitude": 45.485931,
+      "longitude": 16.371373
+    },
+    {
+      "name": "West",
+      "latitude": 45.467963,
+      "longitude": 16.374358
+    },
+    {
+      "name": "X",
+      "latitude": 45.459038,
+      "longitude": 16.43581
+    },
+    {
+      "name": "Zelengaj",
+      "latitude": 45.607465,
+      "longitude": 16.148655
+    },
+    {
+      "name": "Zlatne godine",
+      "latitude": 45.486955,
+      "longitude": 16.370477
+    },
+    {
+      "name": "Zmaj",
+      "latitude": 45.501143,
+      "longitude": 16.338794
+    },
+    {
+      "name": "Škorpion",
+      "latitude": 45.269564,
+      "longitude": 16.910594
+    },
+    {
+      "name": "Škorpion",
+      "latitude": 45.486444,
+      "longitude": 16.380528
+    }
+  ],
+  "meta": {
+    "title": "Kafići — Sisačko-moslavačka županija - Besplatno preuzimanje",
+    "description": "124 kafići u županiji Sisačko-moslavačka županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 124 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kafići — Sisačko-moslavačka županija | ListBase",
+    "seo_description": "Preuzmi Kafići — Sisačko-moslavačka županija — 124 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 124 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

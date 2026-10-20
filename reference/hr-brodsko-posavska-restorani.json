@@ -1,0 +1,231 @@
+{
+  "id": "hr-brodsko-posavska-restorani",
+  "name": "Restorani — Brodsko-posavska županija",
+  "title": "Restorani — Brodsko-posavska županija",
+  "description": "38 restorani u županiji Brodsko-posavska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Brešić",
+      "latitude": 45.173555,
+      "longitude": 18.002607
+    },
+    {
+      "name": "Brod",
+      "latitude": 45.153085,
+      "longitude": 18.031548
+    },
+    {
+      "name": "Caffe bar i bistro PodRoom Grill",
+      "latitude": 45.154185,
+      "longitude": 18.011748
+    },
+    {
+      "name": "Eden",
+      "latitude": 45.1535,
+      "longitude": 18.021263
+    },
+    {
+      "name": "Fast food Dukat",
+      "latitude": 45.257029,
+      "longitude": 17.380178
+    },
+    {
+      "name": "Fast food Pollo",
+      "latitude": 45.257295,
+      "longitude": 17.380253
+    },
+    {
+      "name": "Grozd",
+      "latitude": 45.179053,
+      "longitude": 17.973902
+    },
+    {
+      "name": "Gurman",
+      "latitude": 45.153591,
+      "longitude": 18.01907
+    },
+    {
+      "name": "Industry",
+      "latitude": 45.258364,
+      "longitude": 17.379064
+    },
+    {
+      "name": "Kebab 1001 noć",
+      "latitude": 45.154284,
+      "longitude": 18.02361
+    },
+    {
+      "name": "Matičević centar",
+      "latitude": 45.179116,
+      "longitude": 18.039741
+    },
+    {
+      "name": "My Way Bar & Restaurant",
+      "latitude": 45.153552,
+      "longitude": 18.011681
+    },
+    {
+      "name": "Palačinkarnica Crêps",
+      "latitude": 45.154204,
+      "longitude": 18.011452
+    },
+    {
+      "name": "Pizzeria Bonaca",
+      "latitude": 45.167019,
+      "longitude": 17.70189
+    },
+    {
+      "name": "Pizzeria Del Cappellano",
+      "latitude": 45.154847,
+      "longitude": 18.007106
+    },
+    {
+      "name": "Pizzeria Glembay",
+      "latitude": 45.153979,
+      "longitude": 18.024112
+    },
+    {
+      "name": "Plavi Jadran",
+      "latitude": 45.157184,
+      "longitude": 18.029787
+    },
+    {
+      "name": "Ratatoille",
+      "latitude": 45.153294,
+      "longitude": 18.014362
+    },
+    {
+      "name": "Restaurant & Pizzeria Papo's",
+      "latitude": 45.15348,
+      "longitude": 18.014165
+    },
+    {
+      "name": "Restoran \"Jelen\"",
+      "latitude": 45.161659,
+      "longitude": 18.046887
+    },
+    {
+      "name": "Restoran \"Zdenac\"",
+      "latitude": 45.165475,
+      "longitude": 18.005398
+    },
+    {
+      "name": "Restoran - Pizzeria ONYX",
+      "latitude": 45.157383,
+      "longitude": 18.019736
+    },
+    {
+      "name": "Restoran i prenoćište TURIST",
+      "latitude": 45.216491,
+      "longitude": 17.517083
+    },
+    {
+      "name": "Restoran Ribarska kuća",
+      "latitude": 45.155741,
+      "longitude": 17.818109
+    },
+    {
+      "name": "Restoran Zelengaj",
+      "latitude": 45.130777,
+      "longitude": 18.413641
+    },
+    {
+      "name": "Restoran Đeram",
+      "latitude": 45.147813,
+      "longitude": 18.402315
+    },
+    {
+      "name": "Slavonski biser",
+      "latitude": 45.255539,
+      "longitude": 17.379374
+    },
+    {
+      "name": "Slavonski restoran",
+      "latitude": 45.165226,
+      "longitude": 18.01064
+    },
+    {
+      "name": "Složna braća",
+      "latitude": 45.197404,
+      "longitude": 17.213107
+    },
+    {
+      "name": "Soho bar and restaurant",
+      "latitude": 45.258207,
+      "longitude": 17.379387
+    },
+    {
+      "name": "Svečana dvorana \"Prestige\"",
+      "latitude": 45.16529,
+      "longitude": 18.010566
+    },
+    {
+      "name": "Svečane dvorane Kristal",
+      "latitude": 45.167988,
+      "longitude": 18.007027
+    },
+    {
+      "name": "Uno",
+      "latitude": 45.156633,
+      "longitude": 18.01607
+    },
+    {
+      "name": "Vesuvio Pizza & Cocktail bar",
+      "latitude": 45.153492,
+      "longitude": 18.017843
+    },
+    {
+      "name": "Zdenac",
+      "latitude": 45.153792,
+      "longitude": 18.017265
+    },
+    {
+      "name": "Zdjelarević",
+      "latitude": 45.179021,
+      "longitude": 17.788152
+    },
+    {
+      "name": "Zelengaj",
+      "latitude": 45.131304,
+      "longitude": 18.414149
+    },
+    {
+      "name": "Zrinski",
+      "latitude": 45.157135,
+      "longitude": 18.018709
+    }
+  ],
+  "meta": {
+    "title": "Restorani — Brodsko-posavska županija - Besplatno preuzimanje",
+    "description": "38 restorani u županiji Brodsko-posavska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 38 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Restorani — Brodsko-posavska županija | ListBase",
+    "seo_description": "Preuzmi Restorani — Brodsko-posavska županija — 38 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 38 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "id": "hr-mjeseci-po-kalendarima",
+  "name": "Nazivi mjeseci po kalendarima (CLDR hrvatski)",
+  "title": "Nazivi mjeseci po kalendarima (CLDR hrvatski)",
+  "description": "Nazivi mjeseci iz šest kalendara (gregorijanski, budistički, kineski, dangi, hebrejski, islamski) u CLDR hr lokalu.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kalendar",
+      "label": "Kalendar",
+      "type": "string"
+    },
+    {
+      "key": "mjesec_code",
+      "label": "Mjesec Code",
+      "type": "number"
+    },
+    {
+      "key": "mjesec_broj",
+      "label": "Mjesec Broj",
+      "type": "number"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kalendar": "gregorian",
+      "mjesec_code": "1",
+      "mjesec_broj": 1,
+      "naziv": "siječnja",
+      "kratica": "sij"
+    },
+    {
+      "id": 2,
+      "kalendar": "gregorian",
+      "mjesec_code": "2",
+      "mjesec_broj": 2,
+      "naziv": "veljače",
+      "kratica": "velj"
+    },
+    {
+      "id": 3,
+      "kalendar": "gregorian",
+      "mjesec_code": "3",
+      "mjesec_broj": 3,
+      "naziv": "ožujka",
+      "kratica": "ožu"
+    },
+    {
+      "id": 4,
+      "kalendar": "gregorian",
+      "mjesec_code": "4",
+      "mjesec_broj": 4,
+      "naziv": "travnja",
+      "kratica": "tra"
+    },
+    {
+      "id": 5,
+      "kalendar": "gregorian",
+      "mjesec_code": "5",
+      "mjesec_broj": 5,
+      "naziv": "svibnja",
+      "kratica": "svi"
+    },
+    {
+      "id": 6,
+      "kalendar": "gregorian",
+      "mjesec_code": "6",
+      "mjesec_broj": 6,
+      "naziv": "lipnja",
+      "kratica": "lip"
+    },
+    {
+      "id": 7,
+      "kalendar": "gregorian",
+      "mjesec_code": "7",
+      "mjesec_broj": 7,
+      "naziv": "srpnja",
+      "kratica": "srp"
+    },
+    {
+      "id": 8,
+      "kalendar": "gregorian",
+      "mjesec_code": "8",
+      "mjesec_broj": 8,
+      "naziv": "kolovoza",
+      "kratica": "kol"
+    },
+    {
+      "id": 9,
+      "kalendar": "gregorian",
+      "mjesec_code": "9",
+      "mjesec_broj": 9,
+      "naziv": "rujna",
+      "kratica": "ruj"
+    },
+    {
+      "id": 10,
+      "kalendar": "gregorian",
+      "mjesec_code": "10",
+      "mjesec_broj": 10,
+      "naziv": "listopada",
+      "kratica": "lis"
+    },
+    {
+      "id": 11,
+      "kalendar": "gregorian",
+      "mjesec_code": "11",
+      "mjesec_broj": 11,
+      "naziv": "studenoga",
+      "kratica": "stu"
+    },
+    {
+      "id": 12,
+      "kalendar": "gregorian",
+      "mjesec_code": "12",
+      "mjesec_broj": 12,
+      "naziv": "prosinca",
+      "kratica": "pro"
+    },
+    {
+      "id": 13,
+      "kalendar": "buddhist",
+      "mjesec_code": "1",
+      "mjesec_broj": 1,
+      "naziv": "siječnja",
+      "kratica": "sij"
+    },
+    {
+      "id": 14,
+      "kalendar": "buddhist",
+      "mjesec_code": "2",
+      "mjesec_broj": 2,
+      "naziv": "veljače",
+      "kratica": "velj"
+    },
+    {
+      "id": 15,
+      "kalendar": "buddhist",
+      "mjesec_code": "3",
+      "mjesec_broj": 3,
+      "naziv": "ožujka",
+      "kratica": "ožu"
+    },
+    {
+      "id": 16,
+      "kalendar": "buddhist",
+      "mjesec_code": "4",
+      "mjesec_broj": 4,
+      "naziv": "travnja",
+      "kratica": "tra"
+    },
+    {
+      "id": 17,
+      "kalendar": "buddhist",
+      "mjesec_code": "5",
+      "mjesec_broj": 5,
+      "naziv": "svibnja",
+      "kratica": "svi"
+    },
+    {
+      "id": 18,
+      "kalendar": "buddhist",
+      "mjesec_code": "6",
+      "mjesec_broj": 6,
+      "naziv": "lipnja",
+      "kratica": "lip"
+    },
+    {
+      "id": 19,
+      "kalendar": "buddhist",
+      "mjesec_code": "7",
+      "mjesec_broj": 7,
+      "naziv": "srpnja",
+      "kratica": "srp"
+    },
+    {
+      "id": 20,
+      "kalendar": "buddhist",
+      "mjesec_code": "8",
+      "mjesec_broj": 8,
+      "naziv": "kolovoza",
+      "kratica": "kol"
+    },
+    {
+      "id": 21,
+      "kalendar": "buddhist",
+      "mjesec_code": "9",
+      "mjesec_broj": 9,
+      "naziv": "rujna",
+      "kratica": "ruj"
+    },
+    {
+      "id": 22,
+      "kalendar": "buddhist",
+      "mjesec_code": "10",
+      "mjesec_broj": 10,
+      "naziv": "listopada",
+      "kratica": "lis"
+    },
+    {
+      "id": 23,
+      "kalendar": "buddhist",
+      "mjesec_code": "11",
+      "mjesec_broj": 11,
+      "naziv": "studenoga",
+      "kratica": "stu"
+    },
+    {
+      "id": 24,
+      "kalendar": "buddhist",
+      "mjesec_code": "12",
+      "mjesec_broj": 12,
+      "naziv": "prosinca",
+      "kratica": "pro"
+    },
+    {
+      "id": 25,
+      "kalendar": "chinese",
+      "mjesec_code": "1",
+      "mjesec_broj": 1,
+      "naziv": "M01",
+      "kratica": "M01"
+    },
+    {
+      "id": 26,
+      "kalendar": "chinese",
+      "mjesec_code": "2",
+      "mjesec_broj": 2,
+      "naziv": "M02",
+      "kratica": "M02"
+    },
+    {
+      "id": 27,
+      "kalendar": "chinese",
+      "mjesec_code": "3",
+      "mjesec_broj": 3,
+      "naziv": "M03",
+      "kratica": "M03"
+    },
+    {
+      "id": 28,
+      "kalendar": "chinese",
+      "mjesec_code": "4",
+      "mjesec_broj": 4,
+      "naziv": "M04",
+      "kratica": "M04"
+    },
+    {
+      "id": 29,
+      "kalendar": "chinese",
+      "mjesec_code": "5",
+      "mjesec_broj": 5,
+      "naziv": "M05",
+      "kratica": "M05"
+    },
+    {
+      "id": 30,
+      "kalendar": "chinese",
+      "mjesec_code": "6",
+      "mjesec_broj": 6,
+      "naziv": "M06",
+      "kratica": "M06"
+    },
+    {
+      "id": 31,
+      "kalendar": "chinese",
+      "mjesec_code": "7",
+      "mjesec_broj": 7,
+      "naziv": "M07",
+      "kratica": "M07"
+    },
+    {
+      "id": 32,
+      "kalendar": "chinese",
+      "mjesec_code": "8",
+      "mjesec_broj": 8,
+      "naziv": "M08",
+      "kratica": "M08"
+    },
+    {
+      "id": 33,
+      "kalendar": "chinese",
+      "mjesec_code": "9",
+      "mjesec_broj": 9,
+      "naziv": "M09",
+      "kratica": "M09"
+    },
+    {
+      "id": 34,
+      "kalendar": "chinese",
+      "mjesec_code": "10",
+      "mjesec_broj": 10,
+      "naziv": "M10",
+      "kratica": "M10"
+    },
+    {
+      "id": 35,
+      "kalendar": "chinese",
+      "mjesec_code": "11",
+      "mjesec_broj": 11,
+      "naziv": "M11",
+      "kratica": "M11"
+    },
+    {
+      "id": 36,
+      "kalendar": "chinese",
+      "mjesec_code": "12",
+      "mjesec_broj": 12,
+      "naziv": "M12",
+      "kratica": "M12"
+    },
+    {
+      "id": 37,
+      "kalendar": "dangi",
+      "mjesec_code": "1",
+      "mjesec_broj": 1,
+      "naziv": "M01",
+      "kratica": "M01"
+    },
+    {
+      "id": 38,
+      "kalendar": "dangi",
+      "mjesec_code": "2",
+      "mjesec_broj": 2,
+      "naziv": "M02",
+      "kratica": "M02"
+    },
+    {
+      "id": 39,
+      "kalendar": "dangi",
+      "mjesec_code": "3",
+      "mjesec_broj": 3,
+      "naziv": "M03",
+      "kratica": "M03"
+    },
+    {
+      "id": 40,
+      "kalendar": "dangi",
+      "mjesec_code": "4",
+      "mjesec_broj": 4,
+      "naziv": "M04",
+      "kratica": "M04"
+    },
+    {
+      "id": 41,
+      "kalendar": "dangi",
+      "mjesec_code": "5",
+      "mjesec_broj": 5,
+      "naziv": "M05",
+      "kratica": "M05"
+    },
+    {
+      "id": 42,
+      "kalendar": "dangi",
+      "mjesec_code": "6",
+      "mjesec_broj": 6,
+      "naziv": "M06",
+      "kratica": "M06"
+    },
+    {
+      "id": 43,
+      "kalendar": "dangi",
+      "mjesec_code": "7",
+      "mjesec_broj": 7,
+      "naziv": "M07",
+      "kratica": "M07"
+    },
+    {
+      "id": 44,
+      "kalendar": "dangi",
+      "mjesec_code": "8",
+      "mjesec_broj": 8,
+      "naziv": "M08",
+      "kratica": "M08"
+    },
+    {
+      "id": 45,
+      "kalendar": "dangi",
+      "mjesec_code": "9",
+      "mjesec_broj": 9,
+      "naziv": "M09",
+      "kratica": "M09"
+    },
+    {
+      "id": 46,
+      "kalendar": "dangi",
+      "mjesec_code": "10",
+      "mjesec_broj": 10,
+      "naziv": "M10",
+      "kratica": "M10"
+    },
+    {
+      "id": 47,
+      "kalendar": "dangi",
+      "mjesec_code": "11",
+      "mjesec_broj": 11,
+      "naziv": "M11",
+      "kratica": "M11"
+    },
+    {
+      "id": 48,
+      "kalendar": "dangi",
+      "mjesec_code": "12",
+      "mjesec_broj": 12,
+      "naziv": "M12",
+      "kratica": "M12"
+    },
+    {
+      "id": 49,
+      "kalendar": "hebrew",
+      "mjesec_code": "1",
+      "mjesec_broj": 1,
+      "naziv": "Tishri",
+      "kratica": "Tishri"
+    },
+    {
+      "id": 50,
+      "kalendar": "hebrew",
+      "mjesec_code": "2",
+      "mjesec_broj": 2,
+      "naziv": "Heshvan",
+      "kratica": "Heshvan"
+    },
+    {
+      "id": 51,
+      "kalendar": "hebrew",
+      "mjesec_code": "3",
+      "mjesec_broj": 3,
+      "naziv": "Kislev",
+      "kratica": "Kislev"
+    },
+    {
+      "id": 52,
+      "kalendar": "hebrew",
+      "mjesec_code": "4",
+      "mjesec_broj": 4,
+      "naziv": "Tevet",
+      "kratica": "Tevet"
+    },
+    {
+      "id": 53,
+      "kalendar": "hebrew",
+      "mjesec_code": "5",
+      "mjesec_broj": 5,
+      "naziv": "Shevat",
+      "kratica": "Shevat"
+    },
+    {
+      "id": 54,
+      "kalendar": "hebrew",
+      "mjesec_code": "6",
+      "mjesec_broj": 6,
+      "naziv": "Adar I",
+      "kratica": "Adar I"
+    },
+    {
+      "id": 55,
+      "kalendar": "hebrew",
+      "mjesec_code": "7",
+      "mjesec_broj": 7,
+      "naziv": "Adar",
+      "kratica": "Adar"
+    },
+    {
+      "id": 56,
+      "kalendar": "hebrew",
+      "mjesec_code": "7-yeartype-leap",
+      "mjesec_broj": "",
+      "naziv": "Adar II",
+      "kratica": "Adar II"
+    },
+    {
+      "id": 57,
+      "kalendar": "hebrew",
+      "mjesec_code": "8",
+      "mjesec_broj": 8,
+      "naziv": "Nisan",
+      "kratica": "Nisan"
+    },
+    {
+      "id": 58,
+      "kalendar": "hebrew",
+      "mjesec_code": "9",
+      "mjesec_broj": 9,
+      "naziv": "Iyar",
+      "kratica": "Iyar"
+    },
+    {
+      "id": 59,
+      "kalendar": "hebrew",
+      "mjesec_code": "10",
+      "mjesec_broj": 10,
+      "naziv": "Sivan",
+      "kratica": "Sivan"
+    },
+    {
+      "id": 60,
+      "kalendar": "hebrew",
+      "mjesec_code": "11",
+      "mjesec_broj": 11,
+      "naziv": "Tamuz",
+      "kratica": "Tamuz"
+    },
+    {
+      "id": 61,
+      "kalendar": "hebrew",
+      "mjesec_code": "12",
+      "mjesec_broj": 12,
+      "naziv": "Av",
+      "kratica": "Av"
+    },
+    {
+      "id": 62,
+      "kalendar": "hebrew",
+      "mjesec_code": "13",
+      "mjesec_broj": 13,
+      "naziv": "Elul",
+      "kratica": "Elul"
+    },
+    {
+      "id": 63,
+      "kalendar": "islamic",
+      "mjesec_code": "1",
+      "mjesec_broj": 1,
+      "naziv": "Muharram",
+      "kratica": "Muh."
+    },
+    {
+      "id": 64,
+      "kalendar": "islamic",
+      "mjesec_code": "2",
+      "mjesec_broj": 2,
+      "naziv": "Safar",
+      "kratica": "Saf."
+    },
+    {
+      "id": 65,
+      "kalendar": "islamic",
+      "mjesec_code": "3",
+      "mjesec_broj": 3,
+      "naziv": "Rabiʻ I",
+      "kratica": "Rab. I"
+    },
+    {
+      "id": 66,
+      "kalendar": "islamic",
+      "mjesec_code": "4",
+      "mjesec_broj": 4,
+      "naziv": "Rabiʻ II",
+      "kratica": "Rab. II"
+    },
+    {
+      "id": 67,
+      "kalendar": "islamic",
+      "mjesec_code": "5",
+      "mjesec_broj": 5,
+      "naziv": "Jumada I",
+      "kratica": "Jum. I"
+    },
+    {
+      "id": 68,
+      "kalendar": "islamic",
+      "mjesec_code": "6",
+      "mjesec_broj": 6,
+      "naziv": "Jumada II",
+      "kratica": "Jum. II"
+    },
+    {
+      "id": 69,
+      "kalendar": "islamic",
+      "mjesec_code": "7",
+      "mjesec_broj": 7,
+      "naziv": "Rajab",
+      "kratica": "Raj."
+    },
+    {
+      "id": 70,
+      "kalendar": "islamic",
+      "mjesec_code": "8",
+      "mjesec_broj": 8,
+      "naziv": "Shaʻban",
+      "kratica": "Sha."
+    },
+    {
+      "id": 71,
+      "kalendar": "islamic",
+      "mjesec_code": "9",
+      "mjesec_broj": 9,
+      "naziv": "Ramadan",
+      "kratica": "Ram."
+    },
+    {
+      "id": 72,
+      "kalendar": "islamic",
+      "mjesec_code": "10",
+      "mjesec_broj": 10,
+      "naziv": "Shawwal",
+      "kratica": "Shaw."
+    },
+    {
+      "id": 73,
+      "kalendar": "islamic",
+      "mjesec_code": "11",
+      "mjesec_broj": 11,
+      "naziv": "Dhuʻl-Qiʻdah",
+      "kratica": "Dhuʻl-Q."
+    },
+    {
+      "id": 74,
+      "kalendar": "islamic",
+      "mjesec_code": "12",
+      "mjesec_broj": 12,
+      "naziv": "Dhuʻl-Hijjah",
+      "kratica": "Dhuʻl-H."
+    }
+  ],
+  "meta": {
+    "title": "Nazivi mjeseci po kalendarima (CLDR hrvatski) - Besplatno preuzimanje",
+    "description": "Nazivi mjeseci iz šest kalendara (gregorijanski, budistički, kineski, dangi, hebrejski, islamski) u CLDR hr lokalu. Sadrži 74 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Nazivi mjeseci po kalendarima (CLDR hrvatski) | ListBase",
+    "seo_description": "Preuzmi Nazivi mjeseci po kalendarima (CLDR hrvatski) — 74 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 74 zapisa / 6 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

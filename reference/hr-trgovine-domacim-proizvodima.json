@@ -1,0 +1,501 @@
+{
+  "id": "hr-trgovine-domacim-proizvodima",
+  "name": "Trgovine domaćim proizvodima",
+  "title": "Trgovine domaćim proizvodima",
+  "description": "Trgovine domaćim proizvodima u Hrvatskoj (92 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=farm), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 92,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agro simpa",
+      "latitude": 45.508766,
+      "longitude": 16.298539
+    },
+    {
+      "name": "Agronom",
+      "latitude": 45.321215,
+      "longitude": 18.416397
+    },
+    {
+      "name": "Agroturizam Monticello",
+      "latitude": 45.37716,
+      "longitude": 13.773973
+    },
+    {
+      "name": "Butiga o domaće spize",
+      "latitude": 43.506735,
+      "longitude": 16.466105
+    },
+    {
+      "name": "Gredica",
+      "latitude": 45.796886,
+      "longitude": 15.922244
+    },
+    {
+      "name": "Jabuka mala",
+      "latitude": 45.920156,
+      "longitude": 16.864678
+    },
+    {
+      "name": "Jaja",
+      "latitude": 45.267044,
+      "longitude": 15.553385
+    },
+    {
+      "name": "Jandroković d.o.o.",
+      "latitude": 45.85667,
+      "longitude": 16.844973
+    },
+    {
+      "name": "Karlić tartufi - GIR d.o.o.",
+      "latitude": 45.346136,
+      "longitude": 13.933851
+    },
+    {
+      "name": "KTC",
+      "latitude": 46.037718,
+      "longitude": 16.540741
+    },
+    {
+      "name": "Kušaona sira",
+      "latitude": 45.275543,
+      "longitude": 15.556569
+    },
+    {
+      "name": "LosinBio organic farm",
+      "latitude": 44.570517,
+      "longitude": 14.390372
+    },
+    {
+      "name": "Mali mlin Koška",
+      "latitude": 45.544459,
+      "longitude": 18.291486
+    },
+    {
+      "name": "Mikroverdura",
+      "latitude": 44.316791,
+      "longitude": 15.839135
+    },
+    {
+      "name": "Mlin-Mix",
+      "latitude": 45.992315,
+      "longitude": 16.608503
+    },
+    {
+      "name": "neretvanske mandarine",
+      "latitude": 45.797818,
+      "longitude": 15.930514
+    },
+    {
+      "name": "Neretvansko voće i povrće",
+      "latitude": 45.788429,
+      "longitude": 15.937037
+    },
+    {
+      "name": "O.P.G. Lucia Venier",
+      "latitude": 45.30366,
+      "longitude": 13.687723
+    },
+    {
+      "name": "OPG \"Ivica Bižić\"",
+      "latitude": 45.394823,
+      "longitude": 16.627089
+    },
+    {
+      "name": "OPG \"Ritam prirode\"",
+      "latitude": 45.790343,
+      "longitude": 15.924794
+    },
+    {
+      "name": "OPG Babić",
+      "latitude": 45.34207,
+      "longitude": 16.070141
+    },
+    {
+      "name": "OPG Bakonji Monika",
+      "latitude": 45.811521,
+      "longitude": 15.783112
+    },
+    {
+      "name": "OPG Benvin",
+      "latitude": 44.655478,
+      "longitude": 14.392401
+    },
+    {
+      "name": "OPG BOŠNJAK",
+      "latitude": 45.833805,
+      "longitude": 15.756813
+    },
+    {
+      "name": "OPG Capra Istriana",
+      "latitude": 45.039125,
+      "longitude": 13.694408
+    },
+    {
+      "name": "OPG Danijela Uzila",
+      "latitude": 45.206888,
+      "longitude": 13.606246
+    },
+    {
+      "name": "OPG Domazetović",
+      "latitude": 45.462782,
+      "longitude": 16.426497
+    },
+    {
+      "name": "OPG Filipović Opuzen",
+      "latitude": 45.797455,
+      "longitude": 15.759928
+    },
+    {
+      "name": "OPG Filipović Opuzen",
+      "latitude": 45.800716,
+      "longitude": 15.781685
+    },
+    {
+      "name": "Opg Franjić",
+      "latitude": 45.934605,
+      "longitude": 16.72214
+    },
+    {
+      "name": "OPG Grgić",
+      "latitude": 45.313954,
+      "longitude": 17.322993
+    },
+    {
+      "name": "OPG Grgić",
+      "latitude": 45.396197,
+      "longitude": 16.642094
+    },
+    {
+      "name": "OPG Ivanušević",
+      "latitude": 45.804457,
+      "longitude": 15.713813
+    },
+    {
+      "name": "OPG Kaleb",
+      "latitude": 45.803595,
+      "longitude": 15.993646
+    },
+    {
+      "name": "OPG Kelava",
+      "latitude": 45.799052,
+      "longitude": 15.72253
+    },
+    {
+      "name": "OPG Kolman",
+      "latitude": 46.371408,
+      "longitude": 16.390571
+    },
+    {
+      "name": "OPG Leci",
+      "latitude": 45.432246,
+      "longitude": 16.274975
+    },
+    {
+      "name": "OPG MAGRITZ Mirjenko Mrakovčić",
+      "latitude": 45.052308,
+      "longitude": 14.587161
+    },
+    {
+      "name": "OPG Markić",
+      "latitude": 45.79627,
+      "longitude": 15.920219
+    },
+    {
+      "name": "OPG Martina",
+      "latitude": 45.713045,
+      "longitude": 16.618207
+    },
+    {
+      "name": "OPG Marčinković Anita",
+      "latitude": 45.374198,
+      "longitude": 15.517679
+    },
+    {
+      "name": "OPG MATAUŠIĆ",
+      "latitude": 45.832731,
+      "longitude": 15.768369
+    },
+    {
+      "name": "OPG Mate Dusevic | Maslinovo ulje",
+      "latitude": 44.262771,
+      "longitude": 15.294041
+    },
+    {
+      "name": "OPG Matija Koščica",
+      "latitude": 45.804821,
+      "longitude": 15.724864
+    },
+    {
+      "name": "OPG Matošević",
+      "latitude": 45.31013,
+      "longitude": 17.32631
+    },
+    {
+      "name": "OPG Mikez",
+      "latitude": 45.244,
+      "longitude": 16.181334
+    },
+    {
+      "name": "OPG Mira",
+      "latitude": 43.88572,
+      "longitude": 15.548441
+    },
+    {
+      "name": "OPG Mladen Tonković",
+      "latitude": 45.353944,
+      "longitude": 16.040396
+    },
+    {
+      "name": "OPG Naglić",
+      "latitude": 45.646843,
+      "longitude": 16.59538
+    },
+    {
+      "name": "OPG NAGLIĆ",
+      "latitude": 45.757216,
+      "longitude": 15.703676
+    },
+    {
+      "name": "OPG Nenad Olujić",
+      "latitude": 45.387426,
+      "longitude": 16.672804
+    },
+    {
+      "name": "OPG Novak Zlatko",
+      "latitude": 46.47012,
+      "longitude": 16.282158
+    },
+    {
+      "name": "OPG NOVOSEL",
+      "latitude": 45.840419,
+      "longitude": 15.692739
+    },
+    {
+      "name": "OPG OCVIREK",
+      "latitude": 45.823913,
+      "longitude": 15.762649
+    },
+    {
+      "name": "OPG Oljačić",
+      "latitude": 45.436089,
+      "longitude": 16.296298
+    },
+    {
+      "name": "OPG Pavelić",
+      "latitude": 45.807156,
+      "longitude": 15.787304
+    },
+    {
+      "name": "OPG Pavlić Eco Lavender & Olives",
+      "latitude": 45.086348,
+      "longitude": 14.445023
+    },
+    {
+      "name": "OPG Perec",
+      "latitude": 45.919255,
+      "longitude": 16.866777
+    },
+    {
+      "name": "OPG Perčić",
+      "latitude": 45.290747,
+      "longitude": 13.610008
+    },
+    {
+      "name": "OPG Polari",
+      "latitude": 45.067885,
+      "longitude": 13.662075
+    },
+    {
+      "name": "OPG Polić",
+      "latitude": 45.791522,
+      "longitude": 15.913727
+    },
+    {
+      "name": "OPG Predrag Đurđević",
+      "latitude": 45.425371,
+      "longitude": 16.28387
+    },
+    {
+      "name": "OPG Preložnjak Christian",
+      "latitude": 46.377603,
+      "longitude": 16.399269
+    },
+    {
+      "name": "OPG RADEK",
+      "latitude": 45.828057,
+      "longitude": 15.751255
+    },
+    {
+      "name": "OPG Ritossa",
+      "latitude": 45.316653,
+      "longitude": 13.723083
+    },
+    {
+      "name": "OPG Rubinić",
+      "latitude": 45.828197,
+      "longitude": 15.720623
+    },
+    {
+      "name": "OPG Sokol",
+      "latitude": 45.806726,
+      "longitude": 15.916358
+    },
+    {
+      "name": "OPG Sršan Gumač",
+      "latitude": 46.482,
+      "longitude": 16.348308
+    },
+    {
+      "name": "OPG Stojić",
+      "latitude": 45.80231,
+      "longitude": 15.716572
+    },
+    {
+      "name": "OPG Tomislav Marcinek",
+      "latitude": 45.548902,
+      "longitude": 16.6708
+    },
+    {
+      "name": "OPG Vicencinović Hergouth",
+      "latitude": 45.527389,
+      "longitude": 16.695708
+    },
+    {
+      "name": "OPG Vigrunt",
+      "latitude": 45.45891,
+      "longitude": 16.436981
+    },
+    {
+      "name": "OPG VLADO ŽUPANČIĆ",
+      "latitude": 45.787562,
+      "longitude": 15.716149
+    },
+    {
+      "name": "OPG VRBANČIĆ",
+      "latitude": 45.825995,
+      "longitude": 15.764847
+    },
+    {
+      "name": "OPG Črnčec Radovan",
+      "latitude": 46.374066,
+      "longitude": 16.373192
+    },
+    {
+      "name": "Opg Šikić",
+      "latitude": 43.809561,
+      "longitude": 15.305621
+    },
+    {
+      "name": "OPG Šilobod",
+      "latitude": 45.784338,
+      "longitude": 15.726605
+    },
+    {
+      "name": "OPG Škrnanc",
+      "latitude": 45.804694,
+      "longitude": 15.716858
+    },
+    {
+      "name": "OPG Štajduhar",
+      "latitude": 45.388485,
+      "longitude": 16.674236
+    },
+    {
+      "name": "OPG Štenta",
+      "latitude": 45.64831,
+      "longitude": 15.451066
+    },
+    {
+      "name": "Organic Strawberries",
+      "latitude": 45.377742,
+      "longitude": 14.664876
+    },
+    {
+      "name": "Pivac",
+      "latitude": 42.675586,
+      "longitude": 18.096617
+    },
+    {
+      "name": "Rasadnik Žižek",
+      "latitude": 46.332619,
+      "longitude": 16.74617
+    },
+    {
+      "name": "SANJA SEKIĆ",
+      "latitude": 45.799721,
+      "longitude": 15.66288
+    },
+    {
+      "name": "Sirana",
+      "latitude": 44.525088,
+      "longitude": 15.165119
+    },
+    {
+      "name": "Slatki proizvodi Neretve",
+      "latitude": 43.507647,
+      "longitude": 16.466697
+    },
+    {
+      "name": "Svježe mandarine",
+      "latitude": 45.786162,
+      "longitude": 15.952424
+    },
+    {
+      "name": "Tisa",
+      "latitude": 46.032409,
+      "longitude": 16.541837
+    },
+    {
+      "name": "Tvornica stočne hrane Čakovec",
+      "latitude": 45.116405,
+      "longitude": 15.586911
+    },
+    {
+      "name": "Veneranda (OPG Zonta) Olive Oil",
+      "latitude": 45.037283,
+      "longitude": 13.775045
+    },
+    {
+      "name": "Vočko-Nova",
+      "latitude": 43.444607,
+      "longitude": 16.685755
+    },
+    {
+      "name": "Zelena tržnica",
+      "latitude": 43.512817,
+      "longitude": 16.433973
+    }
+  ],
+  "meta": {
+    "title": "Trgovine domaćim proizvodima - Besplatno preuzimanje",
+    "description": "Trgovine domaćim proizvodima u Hrvatskoj (92 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=farm), izrez EU-POIS/HR. Sadrži 92 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovine domaćim proizvodima | ListBase",
+    "seo_description": "Preuzmi Trgovine domaćim proizvodima — 92 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 92 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

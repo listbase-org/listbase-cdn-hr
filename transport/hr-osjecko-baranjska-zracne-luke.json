@@ -1,0 +1,114 @@
+{
+  "id": "hr-osjecko-baranjska-zracne-luke",
+  "name": "Zračne luke — Osječko-baranjska županija",
+  "title": "Zračne luke — Osječko-baranjska županija",
+  "description": "Zračne luke i aerodromi u Osječko-baranjska županija (Hrvatska / HR) — ICAO/IATA kodovi, grad, koordinate (WGS84), nadmorska visina i vremenska zona. Slice nacionalnog flagship dataseta `hr-zracne-luke` filtriran na Osjecko-Baranjska. (Airports in Osječko-baranjska županija county — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LDOC",
+      "iata": "",
+      "name": "Cepin Airport",
+      "city": "Cepin",
+      "subdivision": "Osjecko-Baranjska",
+      "subdivision_native": "Osječko-baranjska županija",
+      "country": "HR",
+      "elevation_ft": 299,
+      "latitude": 45.5422,
+      "longitude": 18.6362,
+      "timezone": "Europe/Zagreb",
+      "lid": ""
+    },
+    {
+      "icao": "LDOS",
+      "iata": "OSI",
+      "name": "Osijek Airport",
+      "city": "Osijek",
+      "subdivision": "Osjecko-Baranjska",
+      "subdivision_native": "Osječko-baranjska županija",
+      "country": "HR",
+      "elevation_ft": 290,
+      "latitude": 45.4627,
+      "longitude": 18.8102,
+      "timezone": "Europe/Zagreb",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Zračne luke — Osječko-baranjska županija - Besplatno preuzimanje",
+    "description": "Zračne luke i aerodromi u Osječko-baranjska županija (Hrvatska / HR) — ICAO/IATA kodovi, grad, koordinate (WGS84), nadmorska visina i vremenska zona. Slice nacionalnog flagship dataseta `hr-zracne-luke` filtriran na Osjecko-Baranjska. (Airports in Osječko-baranjska županija county — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.) Sadrži 2 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Zračne luke — Osječko-baranjska županija | ListBase",
+    "seo_description": "Preuzmi Zračne luke — Osječko-baranjska županija — 2 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 2 zapisa / 12 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

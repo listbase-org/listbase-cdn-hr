@@ -1,0 +1,445 @@
+{
+  "id": "hr-varazdinska-cijene-nekretnina-jls",
+  "name": "Medijalne cijene nekretnina po m² (JLS) — Varaždinska",
+  "title": "Medijalne cijene nekretnina po m² (JLS) — Varaždinska",
+  "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Varaždinska: 28 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "2012",
+      "label": "2012",
+      "type": "string"
+    },
+    {
+      "key": "2013",
+      "label": "2013",
+      "type": "string"
+    },
+    {
+      "key": "2014",
+      "label": "2014",
+      "type": "string"
+    },
+    {
+      "key": "2015",
+      "label": "2015",
+      "type": "string"
+    },
+    {
+      "key": "2016",
+      "label": "2016",
+      "type": "string"
+    },
+    {
+      "key": "2017",
+      "label": "2017",
+      "type": "string"
+    },
+    {
+      "key": "2018",
+      "label": "2018",
+      "type": "string"
+    },
+    {
+      "key": "2019",
+      "label": "2019",
+      "type": "string"
+    },
+    {
+      "key": "Šifra",
+      "label": "ŠIfra",
+      "type": "number"
+    },
+    {
+      "key": "Naziv županije",
+      "label": "Naziv žUpanije",
+      "type": "string"
+    },
+    {
+      "key": "Naziv JLS-a",
+      "label": "Naziv JLS A",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 124,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "BEDNJA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 191,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "BERETINEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 361,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "BREZNICA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 1511,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "BREZNIČKI HUM"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 485,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "CESTICA"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 809,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "DONJA VOĆA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 850,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "DONJI MARTIJANEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 1295,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "GORNJI KNEGINEC"
+    },
+    {
+      "2012": 5713.39,
+      "2013": 5959.5,
+      "2014": 5402.69,
+      "2015": 5862.78,
+      "2016": 5920.54,
+      "2017": 5719.7,
+      "2018": 5249.9,
+      "2019": 5705.12,
+      "Šifra": 1562,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "IVANEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 1651,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "JALŽABET"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 1899,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "KLENOVNIK"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 2291,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "LEPOGLAVA"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 2470,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "LJUBEŠĆICA"
+    },
+    {
+      "2012": 5842.01,
+      "2013": 5289.64,
+      "2014": 4846.96,
+      "2015": 4314.93,
+      "2016": 3985.53,
+      "2017": 5330.2,
+      "2018": 4997.8,
+      "2019": 4449.94,
+      "Šifra": 2445,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "LUDBREG"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 2518,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "MALI BUKOVEC"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "-",
+      "2015": "z",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 2607,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "MARUŠEVEC"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": 921.24,
+      "Šifra": 2895,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "NOVI MAROF"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 3263,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "PETRIJANEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 4103,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "SRAČINEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 4375,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "SVETI ĐURĐ"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4383,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "SVETI ILIJA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 4626,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "TRNOVEC BARTOLOVEČKI"
+    },
+    {
+      "2012": 6665.66,
+      "2013": 6468.72,
+      "2014": 6411.33,
+      "2015": 6416.78,
+      "2016": 6496.62,
+      "2017": 6557.2,
+      "2018": 6626.4,
+      "2019": 7269.22,
+      "Šifra": 4723,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "VARAŽDIN"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 4731,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "VARAŽDINSKE TOPLICE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 5584,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "VELIKI BUKOVEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 4847,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "VIDOVEC"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "z",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4863,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "VINICA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4936,
+      "Naziv županije": "Varaždinska",
+      "Naziv JLS-a": "VISOKO"
+    }
+  ],
+  "meta": {
+    "title": "Medijalne cijene nekretnina po m² (JLS) — Varaždinska - Besplatno preuzimanje",
+    "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Varaždinska: 28 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data. Sadrži 28 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Medijalne cijene nekretnina po m² (JLS) — Varaždinska | ListBase",
+    "seo_description": "Preuzmi Medijalne cijene nekretnina po m² (JLS) — Varaždinska — 28 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 28 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

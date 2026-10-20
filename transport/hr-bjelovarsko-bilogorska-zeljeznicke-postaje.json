@@ -1,0 +1,302 @@
+{
+  "id": "hr-bjelovarsko-bilogorska-zeljeznicke-postaje",
+  "name": "Željezničke postaje — Bjelovarsko-Bilogorska županija",
+  "title": "Željezničke postaje — Bjelovarsko-Bilogorska županija",
+  "description": "Željezničke postaje i stajališta u Bjelovarsko-Bilogorska županija (šifra 01) iz trainline-eu/stations. 8 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_slug",
+      "label": "Zupanija Slug",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_code",
+      "label": "Zupanija Code",
+      "type": "number"
+    },
+    {
+      "key": "najblize_mjesto",
+      "label": "Najblize Mjesto",
+      "type": "string"
+    },
+    {
+      "key": "udaljenost_km",
+      "label": "Udaljenost Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 32347,
+      "name": "Bjelovar",
+      "slug": "bjelovar",
+      "uic": "",
+      "latitude": 45.899792,
+      "longitude": 16.838751,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Bjelovarsko-Bilogorska",
+      "zupanija_slug": "bjelovarsko-bilogorska",
+      "zupanija_code": "01",
+      "najblize_mjesto": "Bjelovar",
+      "udaljenost_km": 0.796,
+      "country": "HR"
+    },
+    {
+      "id": 2,
+      "station_id": 34215,
+      "name": "Čazma",
+      "slug": "cazma",
+      "uic": "",
+      "latitude": 45.749311,
+      "longitude": 16.615971,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Bjelovarsko-Bilogorska",
+      "zupanija_slug": "bjelovarsko-bilogorska",
+      "zupanija_code": "01",
+      "najblize_mjesto": "Čazma",
+      "udaljenost_km": 0.203,
+      "country": "HR"
+    },
+    {
+      "id": 3,
+      "station_id": 35424,
+      "name": "Daruvar",
+      "slug": "daruvar",
+      "uic": "",
+      "latitude": 45.58924,
+      "longitude": 17.22541,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Bjelovarsko-Bilogorska",
+      "zupanija_slug": "bjelovarsko-bilogorska",
+      "zupanija_code": "01",
+      "najblize_mjesto": "Daruvar",
+      "udaljenost_km": 0.155,
+      "country": "HR"
+    },
+    {
+      "id": 4,
+      "station_id": 35949,
+      "name": "Kapela",
+      "slug": "kapela",
+      "uic": "",
+      "latitude": 45.987901,
+      "longitude": 16.851606,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Bjelovarsko-Bilogorska",
+      "zupanija_slug": "bjelovarsko-bilogorska",
+      "zupanija_code": "01",
+      "najblize_mjesto": "Kapela",
+      "udaljenost_km": 0.047,
+      "country": "HR"
+    },
+    {
+      "id": 5,
+      "station_id": 38992,
+      "name": "Djulovac",
+      "slug": "djulovac",
+      "uic": "",
+      "latitude": 45.664374,
+      "longitude": 17.431234,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Bjelovarsko-Bilogorska",
+      "zupanija_slug": "bjelovarsko-bilogorska",
+      "zupanija_code": "01",
+      "najblize_mjesto": "Puklica",
+      "udaljenost_km": 0.853,
+      "country": "HR"
+    },
+    {
+      "id": 6,
+      "station_id": 39004,
+      "name": "Maslenjaca",
+      "slug": "maslenjaca",
+      "uic": "",
+      "latitude": 45.64262,
+      "longitude": 17.29609,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Bjelovarsko-Bilogorska",
+      "zupanija_slug": "bjelovarsko-bilogorska",
+      "zupanija_code": "01",
+      "najblize_mjesto": "Mali Bastaji",
+      "udaljenost_km": 1.8,
+      "country": "HR"
+    },
+    {
+      "id": 7,
+      "station_id": 67610,
+      "name": "Križic",
+      "slug": "krizic",
+      "uic": "",
+      "latitude": 45.76762,
+      "longitude": 16.7817,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Bjelovarsko-Bilogorska",
+      "zupanija_slug": "bjelovarsko-bilogorska",
+      "zupanija_code": "01",
+      "najblize_mjesto": "Križic",
+      "udaljenost_km": 0.161,
+      "country": "HR"
+    },
+    {
+      "id": 8,
+      "station_id": 68136,
+      "name": "Sirac",
+      "slug": "sirac",
+      "uic": "",
+      "latitude": 45.529878,
+      "longitude": 17.241085,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Bjelovarsko-Bilogorska",
+      "zupanija_slug": "bjelovarsko-bilogorska",
+      "zupanija_code": "01",
+      "najblize_mjesto": "Sirač",
+      "udaljenost_km": 1.308,
+      "country": "HR"
+    }
+  ],
+  "meta": {
+    "title": "Željezničke postaje — Bjelovarsko-Bilogorska županija - Besplatno preuzimanje",
+    "description": "Željezničke postaje i stajališta u Bjelovarsko-Bilogorska županija (šifra 01) iz trainline-eu/stations. 8 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi. Sadrži 8 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Željezničke postaje — Bjelovarsko-Bilogorska županija | ListBase",
+    "seo_description": "Preuzmi Željezničke postaje — Bjelovarsko-Bilogorska županija — 8 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 8 zapisa / 20 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

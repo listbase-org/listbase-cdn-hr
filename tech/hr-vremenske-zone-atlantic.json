@@ -1,0 +1,104 @@
+{
+  "id": "hr-vremenske-zone-atlantic",
+  "name": "Vremenske zone — Atlantic (6)",
+  "title": "Vremenske zone — Atlantic (6)",
+  "description": "Vremenske zone čiji IANA identifikator počinje s 'Atlantic/', s hrvatskim nazivima.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regija",
+      "label": "Regija",
+      "type": "string"
+    },
+    {
+      "key": "grad",
+      "label": "Grad",
+      "type": "string"
+    },
+    {
+      "key": "standardno_ime",
+      "label": "Standardno Ime",
+      "type": "string"
+    },
+    {
+      "key": "ljetno_ime",
+      "label": "Ljetno Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Atlantic/Azores",
+      "regija": "Atlantic",
+      "grad": "Azori",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Atlantic/Bermuda",
+      "regija": "Atlantic",
+      "grad": "Bermudi",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Atlantic/Canary",
+      "regija": "Atlantic",
+      "grad": "Kanari",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Atlantic/Faeroe",
+      "regija": "Atlantic",
+      "grad": "Ferojski otoci",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Atlantic/South_Georgia",
+      "regija": "Atlantic",
+      "grad": "Južna Georgija",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Atlantic/St_Helena",
+      "regija": "Atlantic",
+      "grad": "Sveta Helena",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    }
+  ],
+  "meta": {
+    "title": "Vremenske zone — Atlantic (6) - Besplatno preuzimanje",
+    "description": "Vremenske zone čiji IANA identifikator počinje s 'Atlantic/', s hrvatskim nazivima. Sadrži 6 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vremenske zone — Atlantic (6) | ListBase",
+    "seo_description": "Preuzmi Vremenske zone — Atlantic (6) — 6 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 6 zapisa / 6 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

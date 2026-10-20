@@ -1,0 +1,876 @@
+{
+  "id": "hr-trajektne-luke",
+  "name": "Trajektne luke Jadrolinije",
+  "title": "Trajektne luke Jadrolinije",
+  "description": "Popis svih 81 luka u mreži Jadrolinije — državnog trajektnog prijevoznika Republike Hrvatske: oznaka luke, ime, država (HR/IT/ME), otok, koordinate (WGS84) te trajektne i brodske linije koje pristaju u luci. (All 81 ports in the network of Jadrolinija, Croatia's national ferry operator: port code, name, country, island, WGS84 coordinates, and the ferry/catamaran lines calling at each port. Extracted from ports.json + the GTFS feed committed in the MIT-licensed trajektolini repo.)",
+  "category": "transport",
+  "source": "https://github.com/metakermit/trajektolini",
+  "source_url": "https://github.com/metakermit/trajektolini",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "island",
+      "label": "Island",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "routes",
+      "label": "Routes",
+      "type": "string"
+    },
+    {
+      "key": "route_count",
+      "label": "Route Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "ANC",
+      "name": "Ancona",
+      "country_code": "IT",
+      "island": "",
+      "latitude": 43.6230654,
+      "longitude": 13.5085718,
+      "routes": "51BB: ZADAR (GAŽENICA) - ANCONA - BRZOBRODSKA, 53: SPLIT-ANCONA",
+      "route_count": 2
+    },
+    {
+      "code": "BAR",
+      "name": "Bar",
+      "country_code": "ME",
+      "island": "",
+      "latitude": 42.0979745,
+      "longitude": 19.0954528,
+      "routes": "",
+      "route_count": 0
+    },
+    {
+      "code": "BIO",
+      "name": "Biograd",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 43.9393683,
+      "longitude": 15.4397343,
+      "routes": "432: BIOGRAD-TKON",
+      "route_count": 1
+    },
+    {
+      "code": "BOL",
+      "name": "Bol",
+      "country_code": "HR",
+      "island": "Brač",
+      "latitude": 43.2610756,
+      "longitude": 16.6575995,
+      "routes": "9603: JELSA-BOL-SPLIT",
+      "route_count": 1
+    },
+    {
+      "code": "BOZ",
+      "name": "Božava",
+      "country_code": "HR",
+      "island": "Dugi otok",
+      "latitude": 44.139594,
+      "longitude": 14.9078517,
+      "routes": "9404: ZVERINAC-BOŽAVA-SESTRUNJ-ZADAR",
+      "route_count": 1
+    },
+    {
+      "code": "BRB",
+      "name": "Brbinj",
+      "country_code": "HR",
+      "island": "Dugi otok",
+      "latitude": 44.0841197,
+      "longitude": 14.9964094,
+      "routes": "434: BRBINJ-ZADAR, 9404: ZVERINAC-BOŽAVA-SESTRUNJ-ZADAR",
+      "route_count": 2
+    },
+    {
+      "code": "BRE",
+      "name": "Brestova",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 45.1444467,
+      "longitude": 14.2237346,
+      "routes": "334: BRESTOVA-POROZINA",
+      "route_count": 1
+    },
+    {
+      "code": "BRG",
+      "name": "Brgulje",
+      "country_code": "HR",
+      "island": "Molat",
+      "latitude": 44.225334,
+      "longitude": 14.8387469,
+      "routes": "9403: IST-MOLAT-ZADAR",
+      "route_count": 1
+    },
+    {
+      "code": "BRI",
+      "name": "Bari",
+      "country_code": "IT",
+      "island": "",
+      "latitude": 41.1373111,
+      "longitude": 16.8609512,
+      "routes": "54: DUBROVNIK-BARI, 56: SPLIT-BARI",
+      "route_count": 2
+    },
+    {
+      "code": "BRS",
+      "name": "Bršanj",
+      "country_code": "HR",
+      "island": "Iž",
+      "latitude": 44.0241912,
+      "longitude": 15.1464896,
+      "routes": "435: ZADAR-BRŠANJ-RAVA",
+      "route_count": 1
+    },
+    {
+      "code": "CRE",
+      "name": "Cres",
+      "country_code": "HR",
+      "island": "Cres",
+      "latitude": 44.9573015,
+      "longitude": 14.4069136,
+      "routes": "9308: M.LOŠINJ-UNIJE-CRES-RIJEKA",
+      "route_count": 1
+    },
+    {
+      "code": "DBK",
+      "name": "Dubrovnik",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 42.6578826,
+      "longitude": 18.0857388,
+      "routes": "54: DUBROVNIK-BARI, 807: ŠIPAN-LOPUD-KOLOČEP-DUBROVNIK, 831: DUBROVNIK-SUĐURAĐ-LOPUD",
+      "route_count": 3
+    },
+    {
+      "code": "DMA",
+      "name": "Drvenik Mali",
+      "country_code": "HR",
+      "island": "Drvenik Mali",
+      "latitude": 43.4496145,
+      "longitude": 16.0901478,
+      "routes": "606: DRVENIK V.-TROGIR",
+      "route_count": 1
+    },
+    {
+      "code": "DOM",
+      "name": "Korčula (Dominče)",
+      "country_code": "HR",
+      "island": "KORČULA",
+      "latitude": 42.9530375,
+      "longitude": 17.1502367,
+      "routes": "634: OREBIĆ-DOMINČE",
+      "route_count": 1
+    },
+    {
+      "code": "DRV",
+      "name": "Drvenik",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 43.1547759,
+      "longitude": 17.2489653,
+      "routes": "632: DRVENIK-SUĆURAJ",
+      "route_count": 1
+    },
+    {
+      "code": "DVE",
+      "name": "Drvenik Veli",
+      "country_code": "HR",
+      "island": "Drvenik Veli",
+      "latitude": 43.4501071,
+      "longitude": 16.1447657,
+      "routes": "606: DRVENIK V.-TROGIR",
+      "route_count": 1
+    },
+    {
+      "code": "GAZ",
+      "name": "Zadar (Gaženica)",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 44.1168594,
+      "longitude": 15.2353257,
+      "routes": "51BB: ZADAR (GAŽENICA) - ANCONA - BRZOBRODSKA, 401: ZADAR-IST-OLIB-PREMUDA-MALI LOŠINJ, 431: ZADAR-PREKO, 433: ZADAR-RIVANJ-MOLAT-IST, 434: BRBINJ-ZADAR, 435: ZADAR-BRŠANJ-RAVA",
+      "route_count": 6
+    },
+    {
+      "code": "HVA",
+      "name": "Hvar",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 43.161739,
+      "longitude": 16.392806,
+      "routes": "641: SPLIT-HVAR",
+      "route_count": 1
+    },
+    {
+      "code": "ILO",
+      "name": "Ilovik",
+      "country_code": "HR",
+      "island": "Ilovik",
+      "latitude": 44.4617816,
+      "longitude": 14.5490941,
+      "routes": "9308: M.LOŠINJ-UNIJE-CRES-RIJEKA",
+      "route_count": 1
+    },
+    {
+      "code": "IST",
+      "name": "Ist",
+      "country_code": "HR",
+      "island": "Ist",
+      "latitude": 44.270871,
+      "longitude": 14.7668335,
+      "routes": "9403: IST-MOLAT-ZADAR",
+      "route_count": 1
+    },
+    {
+      "code": "IZM",
+      "name": "Iž Mali",
+      "country_code": "HR",
+      "island": "Iž",
+      "latitude": 44.0286,
+      "longitude": 15.1402,
+      "routes": "9405: ZADAR -IŽ - RAVA",
+      "route_count": 1
+    },
+    {
+      "code": "IZV",
+      "name": "Iž Veli",
+      "country_code": "HR",
+      "island": "Iž",
+      "latitude": 44.0515882,
+      "longitude": 15.1098252,
+      "routes": "9405: ZADAR -IŽ - RAVA",
+      "route_count": 1
+    },
+    {
+      "code": "JEL",
+      "name": "Jelsa",
+      "country_code": "HR",
+      "island": "Hvar",
+      "latitude": 43.1620097,
+      "longitude": 16.695454,
+      "routes": "9603: JELSA-BOL-SPLIT",
+      "route_count": 1
+    },
+    {
+      "code": "KAP",
+      "name": "Kaprije",
+      "country_code": "HR",
+      "island": "Kaprije",
+      "latitude": 43.6881798,
+      "longitude": 15.7083778,
+      "routes": "532: ŠIBENIK-ZLARIN-KAPRIJE-ŽIRJE",
+      "route_count": 1
+    },
+    {
+      "code": "KLP",
+      "name": "Koločep 1",
+      "country_code": "HR",
+      "island": "Koločep",
+      "latitude": 42.6747961,
+      "longitude": 18.0097474,
+      "routes": "807: ŠIPAN-LOPUD-KOLOČEP-DUBROVNIK",
+      "route_count": 1
+    },
+    {
+      "code": "KOL",
+      "name": "Koločep",
+      "country_code": "HR",
+      "island": "Koločep",
+      "latitude": 42.6798107,
+      "longitude": 18.0045681,
+      "routes": "807: ŠIPAN-LOPUD-KOLOČEP-DUBROVNIK, 831: DUBROVNIK-SUĐURAĐ-LOPUD",
+      "route_count": 2
+    },
+    {
+      "code": "KOS",
+      "name": "Kosirača",
+      "country_code": "HR",
+      "island": "Ist",
+      "latitude": 44.2793295,
+      "longitude": 14.7571898,
+      "routes": "401: ZADAR-IST-OLIB-PREMUDA-MALI LOŠINJ",
+      "route_count": 1
+    },
+    {
+      "code": "LOD",
+      "name": "Lopud",
+      "country_code": "HR",
+      "island": "Lopud",
+      "latitude": 42.6903476,
+      "longitude": 17.9414727,
+      "routes": "807: ŠIPAN-LOPUD-KOLOČEP-DUBROVNIK, 831: DUBROVNIK-SUĐURAĐ-LOPUD",
+      "route_count": 2
+    },
+    {
+      "code": "LOP",
+      "name": "Lopar",
+      "country_code": "HR",
+      "island": "Rab",
+      "latitude": 44.8377693,
+      "longitude": 14.7213861,
+      "routes": "338: VALBISKA-LOPAR",
+      "route_count": 1
+    },
+    {
+      "code": "MAK",
+      "name": "Makarska",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 43.2939756,
+      "longitude": 17.020242,
+      "routes": "638: MAKARSKA-SUMARTIN",
+      "route_count": 1
+    },
+    {
+      "code": "MAL",
+      "name": "Mali Lošinj",
+      "country_code": "HR",
+      "island": "Lošinj",
+      "latitude": 44.5352765,
+      "longitude": 14.4660403,
+      "routes": "310: UNIJE-SUSAK-MALI LOŠINJ, 401: ZADAR-IST-OLIB-PREMUDA-MALI LOŠINJ, 9308: M.LOŠINJ-UNIJE-CRES-RIJEKA",
+      "route_count": 3
+    },
+    {
+      "code": "MAR",
+      "name": "Martinšćica",
+      "country_code": "HR",
+      "island": "Cres",
+      "latitude": 44.8183777,
+      "longitude": 14.3504816,
+      "routes": "9308: M.LOŠINJ-UNIJE-CRES-RIJEKA",
+      "route_count": 1
+    },
+    {
+      "code": "MER",
+      "name": "Merag",
+      "country_code": "HR",
+      "island": "Cres",
+      "latitude": 44.9801625,
+      "longitude": 14.4483181,
+      "routes": "332: VALBISKA-MERAG",
+      "route_count": 1
+    },
+    {
+      "code": "MOL",
+      "name": "Molat",
+      "country_code": "HR",
+      "island": "Molat",
+      "latitude": 44.2123596,
+      "longitude": 14.871777,
+      "routes": "433: ZADAR-RIVANJ-MOLAT-IST, 9403: IST-MOLAT-ZADAR",
+      "route_count": 2
+    },
+    {
+      "code": "MRA",
+      "name": "Mala Rava",
+      "country_code": "HR",
+      "island": "Rava",
+      "latitude": 44.0374725,
+      "longitude": 15.0552326,
+      "routes": "435: ZADAR-BRŠANJ-RAVA, 9405: ZADAR -IŽ - RAVA",
+      "route_count": 2
+    },
+    {
+      "code": "NVA",
+      "name": "Novalja",
+      "country_code": "HR",
+      "island": "Pag",
+      "latitude": 44.5555802,
+      "longitude": 14.8825263,
+      "routes": "9309: NOVALJA-RAB-RIJEKA",
+      "route_count": 1
+    },
+    {
+      "code": "OBO",
+      "name": "Obonjan",
+      "country_code": "HR",
+      "island": "Obonjan",
+      "latitude": 43.679127,
+      "longitude": 15.7856388,
+      "routes": "",
+      "route_count": 0
+    },
+    {
+      "code": "OLI",
+      "name": "Olib",
+      "country_code": "HR",
+      "island": "Olib",
+      "latitude": 44.380266,
+      "longitude": 14.7753842,
+      "routes": "401: ZADAR-IST-OLIB-PREMUDA-MALI LOŠINJ",
+      "route_count": 1
+    },
+    {
+      "code": "ORE",
+      "name": "Orebić",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 42.9769138,
+      "longitude": 17.1832369,
+      "routes": "634: OREBIĆ-DOMINČE",
+      "route_count": 1
+    },
+    {
+      "code": "OSL",
+      "name": "Ošljak",
+      "country_code": "HR",
+      "island": "Ošljak",
+      "latitude": 44.0755428,
+      "longitude": 15.2102698,
+      "routes": "431: ZADAR-PREKO",
+      "route_count": 1
+    },
+    {
+      "code": "PLO",
+      "name": "Ploče",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 43.0506175,
+      "longitude": 17.4331356,
+      "routes": "633: PLOČE-TRPANJ",
+      "route_count": 1
+    },
+    {
+      "code": "POR",
+      "name": "Porozina",
+      "country_code": "HR",
+      "island": "Cres",
+      "latitude": 45.1311399,
+      "longitude": 14.2853639,
+      "routes": "334: BRESTOVA-POROZINA",
+      "route_count": 1
+    },
+    {
+      "code": "PRA",
+      "name": "Prapratno",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 42.8115078,
+      "longitude": 17.6785819,
+      "routes": "832: PRAPRATNO - SOBRA",
+      "route_count": 1
+    },
+    {
+      "code": "PRE",
+      "name": "Preko",
+      "country_code": "HR",
+      "island": "Ugljan",
+      "latitude": 44.07619,
+      "longitude": 15.1945856,
+      "routes": "409: ZADAR - PREKO, 431: ZADAR-PREKO",
+      "route_count": 2
+    },
+    {
+      "code": "PRI",
+      "name": "Prizna",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 44.6019176,
+      "longitude": 14.9702024,
+      "routes": "335: PRIZNA-ŽIGLJEN",
+      "route_count": 1
+    },
+    {
+      "code": "PRM",
+      "name": "Premuda",
+      "country_code": "HR",
+      "island": "Premuda",
+      "latitude": 44.3371889,
+      "longitude": 14.5928328,
+      "routes": "401: ZADAR-IST-OLIB-PREMUDA-MALI LOŠINJ",
+      "route_count": 1
+    },
+    {
+      "code": "PRV",
+      "name": "Prvić Luka",
+      "country_code": "HR",
+      "island": "Prvić",
+      "latitude": 43.7231178,
+      "longitude": 15.7994748,
+      "routes": "",
+      "route_count": 0
+    },
+    {
+      "code": "RAB",
+      "name": "Rab",
+      "country_code": "HR",
+      "island": "Rab",
+      "latitude": 44.7535189,
+      "longitude": 14.7632535,
+      "routes": "9309: NOVALJA-RAB-RIJEKA",
+      "route_count": 1
+    },
+    {
+      "code": "RAV",
+      "name": "Rava",
+      "country_code": "HR",
+      "island": "Rava",
+      "latitude": 44.0230063,
+      "longitude": 15.0594565,
+      "routes": "435: ZADAR-BRŠANJ-RAVA, 9405: ZADAR -IŽ - RAVA",
+      "route_count": 2
+    },
+    {
+      "code": "RIV",
+      "name": "Rivanj",
+      "country_code": "HR",
+      "island": "Rivanj",
+      "latitude": 44.153225,
+      "longitude": 15.0302656,
+      "routes": "433: ZADAR-RIVANJ-MOLAT-IST, 9404: ZVERINAC-BOŽAVA-SESTRUNJ-ZADAR",
+      "route_count": 2
+    },
+    {
+      "code": "RKA",
+      "name": "Rijeka",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 45.3236271,
+      "longitude": 14.4395163,
+      "routes": "9308: M.LOŠINJ-UNIJE-CRES-RIJEKA, 9309: NOVALJA-RAB-RIJEKA",
+      "route_count": 2
+    },
+    {
+      "code": "ROG",
+      "name": "Rogač",
+      "country_code": "HR",
+      "island": "Šolta",
+      "latitude": 43.3972331,
+      "longitude": 16.3006217,
+      "routes": "636: SPLIT-ROGAČ",
+      "route_count": 1
+    },
+    {
+      "code": "SEP",
+      "name": "Šepurine",
+      "country_code": "HR",
+      "island": "Prvić",
+      "latitude": 43.7321654,
+      "longitude": 15.7864093,
+      "routes": "505: VODICE-ŠIBENIK",
+      "route_count": 1
+    },
+    {
+      "code": "SES",
+      "name": "Sestrunj",
+      "country_code": "HR",
+      "island": "Sestrunj",
+      "latitude": 44.1384275,
+      "longitude": 15.0102626,
+      "routes": "433: ZADAR-RIVANJ-MOLAT-IST, 9404: ZVERINAC-BOŽAVA-SESTRUNJ-ZADAR",
+      "route_count": 2
+    },
+    {
+      "code": "SIB",
+      "name": "Šibenik",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 43.7338926,
+      "longitude": 15.8908106,
+      "routes": "505: VODICE-ŠIBENIK, 532: ŠIBENIK-ZLARIN-KAPRIJE-ŽIRJE",
+      "route_count": 2
+    },
+    {
+      "code": "SIL",
+      "name": "Silba",
+      "country_code": "HR",
+      "island": "Silba",
+      "latitude": 44.3735371,
+      "longitude": 14.6915973,
+      "routes": "401: ZADAR-IST-OLIB-PREMUDA-MALI LOŠINJ",
+      "route_count": 1
+    },
+    {
+      "code": "SOB",
+      "name": "Sobra",
+      "country_code": "HR",
+      "island": "Mljet",
+      "latitude": 42.739279,
+      "longitude": 17.6210979,
+      "routes": "832: PRAPRATNO - SOBRA",
+      "route_count": 1
+    },
+    {
+      "code": "SPL",
+      "name": "Split",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 43.5051169,
+      "longitude": 16.4420475,
+      "routes": "53: SPLIT-ANCONA, 56: SPLIT-BARI, 602: VIS-SPLIT, 604: LASTOVO-VELA LUKA-SPLIT, 631: SPLIT-SUPETAR, 635: SPLIT-STARI GRAD, 636: SPLIT-ROGAČ, 641: SPLIT-HVAR, 9603: JELSA-BOL-SPLIT",
+      "route_count": 9
+    },
+    {
+      "code": "SRV",
+      "name": "Srakane Vele",
+      "country_code": "HR",
+      "island": "Srakane",
+      "latitude": 44.5753729,
+      "longitude": 14.3202341,
+      "routes": "310: UNIJE-SUSAK-MALI LOŠINJ",
+      "route_count": 1
+    },
+    {
+      "code": "STA",
+      "name": "Stari Grad",
+      "country_code": "HR",
+      "island": "Hvar",
+      "latitude": 43.1813607,
+      "longitude": 16.5761216,
+      "routes": "635: SPLIT-STARI GRAD, 9603: JELSA-BOL-SPLIT",
+      "route_count": 2
+    },
+    {
+      "code": "SUC",
+      "name": "Sućuraj",
+      "country_code": "HR",
+      "island": "Hvar",
+      "latitude": 43.1255735,
+      "longitude": 17.1862124,
+      "routes": "632: DRVENIK-SUĆURAJ",
+      "route_count": 1
+    },
+    {
+      "code": "SUD",
+      "name": "Suđurađ",
+      "country_code": "HR",
+      "island": "Šipan",
+      "latitude": 42.7098166,
+      "longitude": 17.9114197,
+      "routes": "807: ŠIPAN-LOPUD-KOLOČEP-DUBROVNIK, 831: DUBROVNIK-SUĐURAĐ-LOPUD",
+      "route_count": 2
+    },
+    {
+      "code": "SUM",
+      "name": "Sumartin",
+      "country_code": "HR",
+      "island": "Brač",
+      "latitude": 43.2863691,
+      "longitude": 16.8696301,
+      "routes": "638: MAKARSKA-SUMARTIN",
+      "route_count": 1
+    },
+    {
+      "code": "SUP",
+      "name": "Supetar",
+      "country_code": "HR",
+      "island": "Brač",
+      "latitude": 43.3858789,
+      "longitude": 16.5548734,
+      "routes": "631: SPLIT-SUPETAR",
+      "route_count": 1
+    },
+    {
+      "code": "SUS",
+      "name": "Susak",
+      "country_code": "HR",
+      "island": "Susak",
+      "latitude": 44.512533,
+      "longitude": 14.3113232,
+      "routes": "310: UNIJE-SUSAK-MALI LOŠINJ, 9308: M.LOŠINJ-UNIJE-CRES-RIJEKA",
+      "route_count": 2
+    },
+    {
+      "code": "TKO",
+      "name": "Tkon",
+      "country_code": "HR",
+      "island": "Pašman",
+      "latitude": 43.9240912,
+      "longitude": 15.4186644,
+      "routes": "432: BIOGRAD-TKON",
+      "route_count": 1
+    },
+    {
+      "code": "TRO",
+      "name": "Trogir (Soline)",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 43.5164142,
+      "longitude": 16.2497163,
+      "routes": "606: DRVENIK V.-TROGIR",
+      "route_count": 1
+    },
+    {
+      "code": "TRP",
+      "name": "Trpanj",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 43.0096418,
+      "longitude": 17.2678589,
+      "routes": "633: PLOČE-TRPANJ",
+      "route_count": 1
+    },
+    {
+      "code": "UBL",
+      "name": "Ubli",
+      "country_code": "HR",
+      "island": "Lastovo",
+      "latitude": 42.7477273,
+      "longitude": 16.8233854,
+      "routes": "604: LASTOVO-VELA LUKA-SPLIT",
+      "route_count": 1
+    },
+    {
+      "code": "UNI",
+      "name": "Unije",
+      "country_code": "HR",
+      "island": "Unije",
+      "latitude": 44.6361683,
+      "longitude": 14.2462615,
+      "routes": "310: UNIJE-SUSAK-MALI LOŠINJ, 9308: M.LOŠINJ-UNIJE-CRES-RIJEKA",
+      "route_count": 2
+    },
+    {
+      "code": "VAL",
+      "name": "Valbiska",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 45.0278678,
+      "longitude": 14.4969966,
+      "routes": "332: VALBISKA-MERAG, 338: VALBISKA-LOPAR",
+      "route_count": 2
+    },
+    {
+      "code": "VIS",
+      "name": "Vis",
+      "country_code": "HR",
+      "island": "Vis",
+      "latitude": 43.061834,
+      "longitude": 16.1841438,
+      "routes": "602: VIS-SPLIT",
+      "route_count": 1
+    },
+    {
+      "code": "VLU",
+      "name": "Vela Luka",
+      "country_code": "HR",
+      "island": "Korčula",
+      "latitude": 42.9597034,
+      "longitude": 16.705943,
+      "routes": "604: LASTOVO-VELA LUKA-SPLIT",
+      "route_count": 1
+    },
+    {
+      "code": "VOD",
+      "name": "Vodice",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 43.7551172,
+      "longitude": 15.7749234,
+      "routes": "505: VODICE-ŠIBENIK",
+      "route_count": 1
+    },
+    {
+      "code": "VRA",
+      "name": "Hvar (Port Vira)",
+      "country_code": "HR",
+      "island": "Hvar",
+      "latitude": 43.1739411,
+      "longitude": 16.5565161,
+      "routes": "",
+      "route_count": 0
+    },
+    {
+      "code": "ZAD",
+      "name": "Zadar",
+      "country_code": "HR",
+      "island": "",
+      "latitude": 44.1186175,
+      "longitude": 15.223342,
+      "routes": "409: ZADAR - PREKO, 9403: IST-MOLAT-ZADAR, 9404: ZVERINAC-BOŽAVA-SESTRUNJ-ZADAR, 9405: ZADAR -IŽ - RAVA",
+      "route_count": 4
+    },
+    {
+      "code": "ZAP",
+      "name": "Zapuntel",
+      "country_code": "HR",
+      "island": "Molat",
+      "latitude": 44.2604545,
+      "longitude": 14.7989763,
+      "routes": "9403: IST-MOLAT-ZADAR",
+      "route_count": 1
+    },
+    {
+      "code": "ZIG",
+      "name": "Žigljen",
+      "country_code": "HR",
+      "island": "Pag",
+      "latitude": 44.5806377,
+      "longitude": 14.9486611,
+      "routes": "335: PRIZNA-ŽIGLJEN",
+      "route_count": 1
+    },
+    {
+      "code": "ZIR",
+      "name": "Žirje",
+      "country_code": "HR",
+      "island": "Žirje",
+      "latitude": 43.6621196,
+      "longitude": 15.6561111,
+      "routes": "532: ŠIBENIK-ZLARIN-KAPRIJE-ŽIRJE",
+      "route_count": 1
+    },
+    {
+      "code": "ZLA",
+      "name": "Zlarin",
+      "country_code": "HR",
+      "island": "Zlarin",
+      "latitude": 43.6997444,
+      "longitude": 15.8334236,
+      "routes": "505: VODICE-ŠIBENIK, 532: ŠIBENIK-ZLARIN-KAPRIJE-ŽIRJE",
+      "route_count": 2
+    },
+    {
+      "code": "ZVE",
+      "name": "Zverinac",
+      "country_code": "HR",
+      "island": "Zverinac",
+      "latitude": 44.1603261,
+      "longitude": 14.9156204,
+      "routes": "433: ZADAR-RIVANJ-MOLAT-IST, 9404: ZVERINAC-BOŽAVA-SESTRUNJ-ZADAR",
+      "route_count": 2
+    }
+  ],
+  "meta": {
+    "title": "Trajektne luke Jadrolinije - Besplatno preuzimanje",
+    "description": "Popis svih 81 luka u mreži Jadrolinije — državnog trajektnog prijevoznika Republike Hrvatske: oznaka luke, ime, država (HR/IT/ME), otok, koordinate (WGS84) te trajektne i brodske linije koje pristaju u luci. (All 81 ports in the network of Jadrolinija, Croatia's national ferry operator: port code, name, country, island, WGS84 coordinates, and the ferry/catamaran lines calling at each port. Extracted from ports.json + the GTFS feed committed in the MIT-licensed trajektolini repo.) Sadrži 81 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trajektne luke Jadrolinije | ListBase",
+    "seo_description": "Preuzmi Trajektne luke Jadrolinije — 81 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 81 zapisa / 8 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: https://github.com/metakermit/trajektolini"
+    ]
+  }
+}

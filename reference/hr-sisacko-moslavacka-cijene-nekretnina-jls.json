@@ -1,0 +1,328 @@
+{
+  "id": "hr-sisacko-moslavacka-cijene-nekretnina-jls",
+  "name": "Medijalne cijene nekretnina po m² (JLS) — Sisačko-moslavačka",
+  "title": "Medijalne cijene nekretnina po m² (JLS) — Sisačko-moslavačka",
+  "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Sisačko-moslavačka: 19 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "2012",
+      "label": "2012",
+      "type": "string"
+    },
+    {
+      "key": "2013",
+      "label": "2013",
+      "type": "string"
+    },
+    {
+      "key": "2014",
+      "label": "2014",
+      "type": "string"
+    },
+    {
+      "key": "2015",
+      "label": "2015",
+      "type": "string"
+    },
+    {
+      "key": "2016",
+      "label": "2016",
+      "type": "string"
+    },
+    {
+      "key": "2017",
+      "label": "2017",
+      "type": "string"
+    },
+    {
+      "key": "2018",
+      "label": "2018",
+      "type": "string"
+    },
+    {
+      "key": "2019",
+      "label": "2019",
+      "type": "string"
+    },
+    {
+      "key": "Šifra",
+      "label": "ŠIfra",
+      "type": "number"
+    },
+    {
+      "key": "Naziv županije",
+      "label": "Naziv žUpanije",
+      "type": "string"
+    },
+    {
+      "key": "Naziv JLS-a",
+      "label": "Naziv JLS A",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 833,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "DONJI KUKURUZARI"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1023,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "DVOR"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1210,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "GLINA"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 5100,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "GVOZD"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 1490,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "HRVATSKA DUBICA"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1503,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "HRVATSKA KOSTAJNICA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1686,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "JASENOVAC"
+    },
+    {
+      "2012": 6389.44,
+      "2013": 5655.8,
+      "2014": 4725.81,
+      "2015": 4375.44,
+      "2016": 4323.38,
+      "2017": 4729.8,
+      "2018": 4656.2,
+      "2019": 4676.59,
+      "Šifra": 2208,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "KUTINA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 2283,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "LEKENIK"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 2321,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "LIPOVLJANI"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 5550,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "MAJUR"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 2593,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "MARTINSKA VES"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": 3300.7,
+      "2019": 3038.19,
+      "Šifra": 2933,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "NOVSKA"
+    },
+    {
+      "2012": 3921.05,
+      "2013": 3599.69,
+      "2014": 3400.79,
+      "2015": 2958.29,
+      "2016": 3227.76,
+      "2017": 2430.1,
+      "2018": 3013.4,
+      "2019": 3264.61,
+      "Šifra": 3280,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "PETRINJA"
+    },
+    {
+      "2012": 5960.52,
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": 4393.7,
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 3476,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "POPOVAČA"
+    },
+    {
+      "2012": 5365.41,
+      "2013": 4467.79,
+      "2014": 4172.21,
+      "2015": 4138.63,
+      "2016": 3823.08,
+      "2017": 3751.6,
+      "2018": 3883.9,
+      "2019": 4055.29,
+      "Šifra": 3913,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "SISAK"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4260,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "SUNJA"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 4570,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "TOPUSKO"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4774,
+      "Naziv županije": "Sisačko-moslavačka",
+      "Naziv JLS-a": "VELIKA LUDINA"
+    }
+  ],
+  "meta": {
+    "title": "Medijalne cijene nekretnina po m² (JLS) — Sisačko-moslavačka - Besplatno preuzimanje",
+    "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Sisačko-moslavačka: 19 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data. Sadrži 19 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Medijalne cijene nekretnina po m² (JLS) — Sisačko-moslavačka | ListBase",
+    "seo_description": "Preuzmi Medijalne cijene nekretnina po m² (JLS) — Sisačko-moslavačka — 19 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 19 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

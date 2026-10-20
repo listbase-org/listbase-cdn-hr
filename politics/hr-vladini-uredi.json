@@ -1,0 +1,3071 @@
+{
+  "id": "hr-vladini-uredi",
+  "name": "Vladini uredi",
+  "title": "Vladini uredi",
+  "description": "Vladini uredi u Hrvatskoj (606 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=government), izrez EU-POIS/HR.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 606,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agencija za mobilnost i programe Europske Unije",
+      "latitude": 45.810493,
+      "longitude": 15.969
+    },
+    {
+      "name": "Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju",
+      "latitude": 45.801857,
+      "longitude": 16.003425
+    },
+    {
+      "name": "Bjelovarsko-bilogorska županija",
+      "latitude": 45.896025,
+      "longitude": 16.844894
+    },
+    {
+      "name": "Brodsko-posavska županija",
+      "latitude": 45.156327,
+      "longitude": 18.011322
+    },
+    {
+      "name": "Capitainerie",
+      "latitude": 42.581272,
+      "longitude": 18.219773
+    },
+    {
+      "name": "Carinarnica Osijek",
+      "latitude": 45.558213,
+      "longitude": 18.708235
+    },
+    {
+      "name": "Carinarnica Zadar",
+      "latitude": 44.11828,
+      "longitude": 15.221815
+    },
+    {
+      "name": "Carinska ispostava Sisak",
+      "latitude": 45.492269,
+      "longitude": 16.369349
+    },
+    {
+      "name": "Carinska uprava",
+      "latitude": 45.808601,
+      "longitude": 15.947442
+    },
+    {
+      "name": "Carinski odjeljak Zamost",
+      "latitude": 45.532319,
+      "longitude": 14.685881
+    },
+    {
+      "name": "Carinski terminal Donji Miholjac",
+      "latitude": 45.767514,
+      "longitude": 18.168528
+    },
+    {
+      "name": "CARNet",
+      "latitude": 45.792317,
+      "longitude": 15.969553
+    },
+    {
+      "name": "Centar za socijalnu skrb Petrinja",
+      "latitude": 45.441954,
+      "longitude": 16.282274
+    },
+    {
+      "name": "Centar za socijalnu skrb Zagreb, podružnica Donji grad",
+      "latitude": 45.801446,
+      "longitude": 15.990836
+    },
+    {
+      "name": "Centar za socijalnu skrb Čakovec",
+      "latitude": 46.393766,
+      "longitude": 16.43141
+    },
+    {
+      "name": "Centar za vozila Hrvatske",
+      "latitude": 45.795136,
+      "longitude": 16.017788
+    },
+    {
+      "name": "Ceste d.d.",
+      "latitude": 45.327379,
+      "longitude": 16.968369
+    },
+    {
+      "name": "Daruvar Development Agency",
+      "latitude": 45.593008,
+      "longitude": 17.224186
+    },
+    {
+      "name": "DGU - Katastar",
+      "latitude": 45.4086,
+      "longitude": 13.657855
+    },
+    {
+      "name": "DGU - Odjel za katastar nekretnina Dugo Selo",
+      "latitude": 45.806067,
+      "longitude": 16.233188
+    },
+    {
+      "name": "Dom obrtnika",
+      "latitude": 45.33932,
+      "longitude": 16.979244
+    },
+    {
+      "name": "Drž. arhiv",
+      "latitude": 45.158714,
+      "longitude": 18.013065
+    },
+    {
+      "name": "Državna geodetska uprava - Područni ured za katastar Sisak",
+      "latitude": 45.484603,
+      "longitude": 16.374801
+    },
+    {
+      "name": "Državna geodetska uprava - Područni ured za katastar Varaždin",
+      "latitude": 46.306429,
+      "longitude": 16.334287
+    },
+    {
+      "name": "Državna geodetska uprava - ured za katastar Metković",
+      "latitude": 43.056157,
+      "longitude": 17.650352
+    },
+    {
+      "name": "Državna geodetska uprava, Ispostava za katastar nekretnina",
+      "latitude": 45.114505,
+      "longitude": 15.584212
+    },
+    {
+      "name": "Državna geodetska uprava, Odjel za katastar nekretnina Velika Gorica",
+      "latitude": 45.713245,
+      "longitude": 16.076185
+    },
+    {
+      "name": "Državni arhiv u Bjelovaru",
+      "latitude": 45.899528,
+      "longitude": 16.84272
+    },
+    {
+      "name": "Državni arhiv u Gospiću",
+      "latitude": 44.545207,
+      "longitude": 15.373493
+    },
+    {
+      "name": "Državni arhiv u Osijeku",
+      "latitude": 45.55933,
+      "longitude": 18.697403
+    },
+    {
+      "name": "Državni arhiv u Slavonskom Brodu - odjel u Požegi",
+      "latitude": 45.33302,
+      "longitude": 17.675675
+    },
+    {
+      "name": "Državni arhiv u Splitu",
+      "latitude": 43.508954,
+      "longitude": 16.447499
+    },
+    {
+      "name": "Državni hidrometeorološki zavod",
+      "latitude": 45.821332,
+      "longitude": 16.028945
+    },
+    {
+      "name": "Državni hidrometeorološki zavod, opservatorij Split",
+      "latitude": 43.50833,
+      "longitude": 16.426293
+    },
+    {
+      "name": "Državni ured za reviziju - Područni ured Osijek",
+      "latitude": 45.556342,
+      "longitude": 18.682091
+    },
+    {
+      "name": "Državni zavod za intelektualno vlasništvo",
+      "latitude": 45.799608,
+      "longitude": 15.975932
+    },
+    {
+      "name": "Državni zavod za statistiku",
+      "latitude": 45.805654,
+      "longitude": 15.982977
+    },
+    {
+      "name": "Državni zavod za statistuku - područna služba Varaždin",
+      "latitude": 46.306543,
+      "longitude": 16.334265
+    },
+    {
+      "name": "Državno odvjetništvo Republike Hrvatske",
+      "latitude": 45.805101,
+      "longitude": 15.981669
+    },
+    {
+      "name": "Dubrovačko-neretvanska županija",
+      "latitude": 42.640289,
+      "longitude": 18.110231
+    },
+    {
+      "name": "DUZS",
+      "latitude": 46.386642,
+      "longitude": 16.4238
+    },
+    {
+      "name": "Energo Metan",
+      "latitude": 45.796016,
+      "longitude": 15.720146
+    },
+    {
+      "name": "FINA",
+      "latitude": 43.520765,
+      "longitude": 16.255711
+    },
+    {
+      "name": "FINA",
+      "latitude": 45.326015,
+      "longitude": 15.696149
+    },
+    {
+      "name": "FINA",
+      "latitude": 46.249814,
+      "longitude": 16.616649
+    },
+    {
+      "name": "GKP Čakom",
+      "latitude": 46.389938,
+      "longitude": 16.439596
+    },
+    {
+      "name": "Grad Split - prometno redarstvo",
+      "latitude": 43.519268,
+      "longitude": 16.446253
+    },
+    {
+      "name": "Grad Velika Gorica",
+      "latitude": 45.712953,
+      "longitude": 16.076521
+    },
+    {
+      "name": "Gradka četvrt Centar",
+      "latitude": 45.487602,
+      "longitude": 16.379158
+    },
+    {
+      "name": "Gradska skupština grada Zagreba",
+      "latitude": 45.815695,
+      "longitude": 15.97329
+    },
+    {
+      "name": "Gradska četvrt Brezovica",
+      "latitude": 45.724492,
+      "longitude": 15.907446
+    },
+    {
+      "name": "Gradska četvrt Caprag",
+      "latitude": 45.457179,
+      "longitude": 16.372391
+    },
+    {
+      "name": "Gradska četvrt Donja Dubrava",
+      "latitude": 45.829082,
+      "longitude": 16.052276
+    },
+    {
+      "name": "Gradska četvrt Donji grad",
+      "latitude": 45.55524,
+      "longitude": 18.718227
+    },
+    {
+      "name": "Gradska četvrt Galdovo",
+      "latitude": 45.478306,
+      "longitude": 16.391354
+    },
+    {
+      "name": "Gradska četvrt Gornja Dubrava",
+      "latitude": 45.829096,
+      "longitude": 16.052327
+    },
+    {
+      "name": "Gradska četvrt Gornji grad",
+      "latitude": 45.55925,
+      "longitude": 18.677399
+    },
+    {
+      "name": "Gradska četvrt Gornji kraj - Hamor",
+      "latitude": 45.80056,
+      "longitude": 15.70287
+    },
+    {
+      "name": "Gradska četvrt Industrijska četvrt",
+      "latitude": 45.545883,
+      "longitude": 18.679498
+    },
+    {
+      "name": "Gradska četvrt Jug II",
+      "latitude": 45.544838,
+      "longitude": 18.717471
+    },
+    {
+      "name": "Gradska četvrt Maksimir",
+      "latitude": 45.819554,
+      "longitude": 16.003728
+    },
+    {
+      "name": "Gradska četvrt Novi grad",
+      "latitude": 45.547269,
+      "longitude": 18.706331
+    },
+    {
+      "name": "Gradska četvrt Novi Zagreb - istok",
+      "latitude": 45.764469,
+      "longitude": 16.001876
+    },
+    {
+      "name": "Gradska četvrt Novi Zagreb - zapad",
+      "latitude": 45.776941,
+      "longitude": 15.975651
+    },
+    {
+      "name": "Gradska četvrt Peščenica - Žitnjak",
+      "latitude": 45.806077,
+      "longitude": 16.020331
+    },
+    {
+      "name": "Gradska četvrt Podsljeme",
+      "latitude": 45.853287,
+      "longitude": 15.950926
+    },
+    {
+      "name": "Gradska četvrt Retfala",
+      "latitude": 45.564769,
+      "longitude": 18.652164
+    },
+    {
+      "name": "Gradska četvrt Sisak Novi",
+      "latitude": 45.479913,
+      "longitude": 16.367647
+    },
+    {
+      "name": "Gradska četvrt Tvrđa",
+      "latitude": 45.556365,
+      "longitude": 18.69797
+    },
+    {
+      "name": "Gradska četvrt Zeleni brijeg",
+      "latitude": 45.500414,
+      "longitude": 16.367677
+    },
+    {
+      "name": "Gradska čistoća Drniš",
+      "latitude": 43.857641,
+      "longitude": 16.141237
+    },
+    {
+      "name": "Gradski kotar Bačvice",
+      "latitude": 43.503714,
+      "longitude": 16.449881
+    },
+    {
+      "name": "Gradski kotar Blatine-Škrape",
+      "latitude": 43.506312,
+      "longitude": 16.459747
+    },
+    {
+      "name": "Gradski kotar Bol",
+      "latitude": 43.512372,
+      "longitude": 16.449412
+    },
+    {
+      "name": "Gradski kotar Brda",
+      "latitude": 43.523187,
+      "longitude": 16.466301
+    },
+    {
+      "name": "Gradski kotar Grad",
+      "latitude": 42.642283,
+      "longitude": 18.104619
+    },
+    {
+      "name": "Gradski kotar Grad",
+      "latitude": 43.508069,
+      "longitude": 16.438296
+    },
+    {
+      "name": "Gradski kotar Gripe",
+      "latitude": 43.508034,
+      "longitude": 16.453789
+    },
+    {
+      "name": "Gradski kotar Kman",
+      "latitude": 43.519472,
+      "longitude": 16.455017
+    },
+    {
+      "name": "Gradski kotar Kocunar",
+      "latitude": 43.519217,
+      "longitude": 16.465111
+    },
+    {
+      "name": "Gradski kotar Komolac",
+      "latitude": 42.669523,
+      "longitude": 18.128446
+    },
+    {
+      "name": "Gradski kotar Lapad",
+      "latitude": 42.656866,
+      "longitude": 18.077912
+    },
+    {
+      "name": "Gradski kotar Lokve",
+      "latitude": 43.510136,
+      "longitude": 16.458023
+    },
+    {
+      "name": "Gradski kotar Lovret",
+      "latitude": 43.514318,
+      "longitude": 16.43793
+    },
+    {
+      "name": "Gradski kotar Lučac-Manuš",
+      "latitude": 43.506923,
+      "longitude": 16.447698
+    },
+    {
+      "name": "Gradski kotar Mejaši",
+      "latitude": 43.515938,
+      "longitude": 16.498695
+    },
+    {
+      "name": "Gradski kotar Meje",
+      "latitude": 43.504816,
+      "longitude": 16.427965
+    },
+    {
+      "name": "Gradski kotar Mertojak",
+      "latitude": 43.508746,
+      "longitude": 16.480214
+    },
+    {
+      "name": "Gradski kotar Mokošica",
+      "latitude": 42.675669,
+      "longitude": 18.106148
+    },
+    {
+      "name": "Gradski kotar Montovjerna",
+      "latitude": 42.64525,
+      "longitude": 18.08877
+    },
+    {
+      "name": "Gradski kotar Neslanovac",
+      "latitude": 43.521584,
+      "longitude": 16.474297
+    },
+    {
+      "name": "Gradski kotar Pile - Kono",
+      "latitude": 42.642253,
+      "longitude": 18.104708
+    },
+    {
+      "name": "Gradski kotar Plokite",
+      "latitude": 43.515554,
+      "longitude": 16.455609
+    },
+    {
+      "name": "Gradski kotar Ploče iza Grada",
+      "latitude": 42.64199,
+      "longitude": 18.115152
+    },
+    {
+      "name": "Gradski kotar Pujanke",
+      "latitude": 43.516156,
+      "longitude": 16.473191
+    },
+    {
+      "name": "Gradski kotar Ravne njive",
+      "latitude": 43.520978,
+      "longitude": 16.465011
+    },
+    {
+      "name": "Gradski kotar Sirobuja",
+      "latitude": 43.506182,
+      "longitude": 16.513689
+    },
+    {
+      "name": "Gradski kotar Spinut",
+      "latitude": 43.513,
+      "longitude": 16.429573
+    },
+    {
+      "name": "Gradski kotar Split 3",
+      "latitude": 43.509572,
+      "longitude": 16.470279
+    },
+    {
+      "name": "Gradski kotar Sućidar",
+      "latitude": 43.51372,
+      "longitude": 16.467841
+    },
+    {
+      "name": "Gradski kotar Trstenik",
+      "latitude": 43.507253,
+      "longitude": 16.471816
+    },
+    {
+      "name": "Gradski kotar Varoš",
+      "latitude": 43.509172,
+      "longitude": 16.435229
+    },
+    {
+      "name": "Gradski kotar Visoka",
+      "latitude": 43.510233,
+      "longitude": 16.475402
+    },
+    {
+      "name": "Gradski kotar Šine",
+      "latitude": 43.507287,
+      "longitude": 16.523303
+    },
+    {
+      "name": "Gradski kotar Žnjan",
+      "latitude": 43.508143,
+      "longitude": 16.48435
+    },
+    {
+      "name": "Gradski kotoar Gruž",
+      "latitude": 42.657822,
+      "longitude": 18.087599
+    },
+    {
+      "name": "Gradski ured za zdravstvo i branitelje",
+      "latitude": 45.810325,
+      "longitude": 15.985088
+    },
+    {
+      "name": "Gradsko stambeno komunalno gospodarstvo",
+      "latitude": 45.807082,
+      "longitude": 15.967829
+    },
+    {
+      "name": "Granični prijelaz Bili Brig",
+      "latitude": 43.774314,
+      "longitude": 16.747361
+    },
+    {
+      "name": "Hrvaski zavod za mirovinsko osiguranje",
+      "latitude": 45.557888,
+      "longitude": 18.691964
+    },
+    {
+      "name": "Hrvatska akademska i istraživačka mreža",
+      "latitude": 45.794092,
+      "longitude": 15.999319
+    },
+    {
+      "name": "Hrvatska energetska regulatorna agencija",
+      "latitude": 45.799119,
+      "longitude": 15.956425
+    },
+    {
+      "name": "Hrvatska gospodarska komora",
+      "latitude": 45.48976,
+      "longitude": 15.54999
+    },
+    {
+      "name": "Hrvatska gospodarska komora",
+      "latitude": 45.808298,
+      "longitude": 15.968678
+    },
+    {
+      "name": "Hrvatska gospodarska komora",
+      "latitude": 46.307597,
+      "longitude": 16.341156
+    },
+    {
+      "name": "Hrvatska gospodarska komora Osijek",
+      "latitude": 45.560626,
+      "longitude": 18.682811
+    },
+    {
+      "name": "Hrvatska narodna banka",
+      "latitude": 45.811786,
+      "longitude": 15.98485
+    },
+    {
+      "name": "Hrvatska narodna banka",
+      "latitude": 45.812383,
+      "longitude": 15.981887
+    },
+    {
+      "name": "Hrvatska obrtnička komora",
+      "latitude": 45.813094,
+      "longitude": 15.968088
+    },
+    {
+      "name": "Hrvatske ceste - Središnji centar za upravljanje prometom",
+      "latitude": 45.51207,
+      "longitude": 15.5474
+    },
+    {
+      "name": "Hrvatske vode",
+      "latitude": 45.800049,
+      "longitude": 15.985897
+    },
+    {
+      "name": "Hrvatske šume d.o.o., Uprava šuma Sisak",
+      "latitude": 45.482317,
+      "longitude": 16.373065
+    },
+    {
+      "name": "Hrvatske šume direkcija",
+      "latitude": 45.805404,
+      "longitude": 15.979592
+    },
+    {
+      "name": "Hrvatski državni arhiv, objekt Januševec",
+      "latitude": 45.876472,
+      "longitude": 15.746581
+    },
+    {
+      "name": "Hrvatski nogometni savez",
+      "latitude": 45.801911,
+      "longitude": 16.001522
+    },
+    {
+      "name": "Hrvatski restauratorski zavod",
+      "latitude": 45.822301,
+      "longitude": 15.980974
+    },
+    {
+      "name": "Hrvatski sabor",
+      "latitude": 45.816263,
+      "longitude": 15.974222
+    },
+    {
+      "name": "Hrvatski zavod za javno zdravstvo",
+      "latitude": 45.332435,
+      "longitude": 17.675557
+    },
+    {
+      "name": "Hrvatski Zavod za Mirovinsko osiguranje",
+      "latitude": 43.93677,
+      "longitude": 15.442298
+    },
+    {
+      "name": "Hrvatski zavod za mirovinsko osiguranje",
+      "latitude": 45.338406,
+      "longitude": 16.09122
+    },
+    {
+      "name": "Hrvatski zavod za mirovinsko osiguranje",
+      "latitude": 45.339432,
+      "longitude": 16.978247
+    },
+    {
+      "name": "Hrvatski zavod za mirovinsko osiguranje",
+      "latitude": 45.350433,
+      "longitude": 19.004616
+    },
+    {
+      "name": "Hrvatski zavod za mirovinsko osiguranje",
+      "latitude": 45.800241,
+      "longitude": 15.969404
+    },
+    {
+      "name": "Hrvatski zavod za mirovinsko osiguranje",
+      "latitude": 45.807037,
+      "longitude": 15.988972
+    },
+    {
+      "name": "Hrvatski zavod za mirovinsko osiguranje",
+      "latitude": 45.895851,
+      "longitude": 16.845123
+    },
+    {
+      "name": "Hrvatski zavod za mirovinsko osiguranje Jastrebarsko",
+      "latitude": 45.674096,
+      "longitude": 15.655419
+    },
+    {
+      "name": "Hrvatski zavod za mirovinsko osiguranje, Područni ured u Požegi",
+      "latitude": 45.335383,
+      "longitude": 17.676654
+    },
+    {
+      "name": "Hrvatski zavod za norme",
+      "latitude": 45.799638,
+      "longitude": 15.976458
+    },
+    {
+      "name": "Hrvatski zavod za socijalni rad - Područni ured Požega",
+      "latitude": 45.332993,
+      "longitude": 17.676225
+    },
+    {
+      "name": "Hrvatski zavod za zapošljavanje, središnji ured",
+      "latitude": 45.797425,
+      "longitude": 15.960508
+    },
+    {
+      "name": "Hrvatsko mirovinsko investicijsko društvo",
+      "latitude": 45.805362,
+      "longitude": 15.974951
+    },
+    {
+      "name": "Hrvatsko mirovinsko osiguranje",
+      "latitude": 45.80504,
+      "longitude": 15.974564
+    },
+    {
+      "name": "HZJZ - Hrvatski zavod za javno zdravstvo",
+      "latitude": 45.827704,
+      "longitude": 15.981843
+    },
+    {
+      "name": "HZMO",
+      "latitude": 43.50376,
+      "longitude": 16.428461
+    },
+    {
+      "name": "HZMO",
+      "latitude": 46.225089,
+      "longitude": 16.124664
+    },
+    {
+      "name": "HZZ Ogulin",
+      "latitude": 45.266824,
+      "longitude": 15.227581
+    },
+    {
+      "name": "Institut za turizam",
+      "latitude": 45.814998,
+      "longitude": 15.949253
+    },
+    {
+      "name": "Ispostava za katastar nekretnina Topusko",
+      "latitude": 45.291521,
+      "longitude": 15.968247
+    },
+    {
+      "name": "Istarska županija",
+      "latitude": 44.867251,
+      "longitude": 13.85086
+    },
+    {
+      "name": "Jadrolinija - društvo za linijski pomorski prijevoz putnika i tereta",
+      "latitude": 45.327361,
+      "longitude": 14.438363
+    },
+    {
+      "name": "Javna ustanova za upravljanje park šumom Marjan",
+      "latitude": 43.513595,
+      "longitude": 16.432396
+    },
+    {
+      "name": "Karlovačka županija",
+      "latitude": 45.494431,
+      "longitude": 15.550691
+    },
+    {
+      "name": "Karlovačka županija, Upravni odjel za prostorno uređenje, građenje i zaštitu okoliša",
+      "latitude": 45.115402,
+      "longitude": 15.584995
+    },
+    {
+      "name": "Katastar",
+      "latitude": 43.295884,
+      "longitude": 17.019419
+    },
+    {
+      "name": "Katastar",
+      "latitude": 43.546285,
+      "longitude": 16.421086
+    },
+    {
+      "name": "Katastar",
+      "latitude": 45.311036,
+      "longitude": 18.408415
+    },
+    {
+      "name": "Katastar Glina",
+      "latitude": 45.34123,
+      "longitude": 16.087728
+    },
+    {
+      "name": "Katastar Omiš",
+      "latitude": 43.443171,
+      "longitude": 16.693041
+    },
+    {
+      "name": "Katastar Vrbovec",
+      "latitude": 45.885227,
+      "longitude": 16.418579
+    },
+    {
+      "name": "Komunalac d.o.o.",
+      "latitude": 45.808139,
+      "longitude": 15.717625
+    },
+    {
+      "name": "Komunalac Požega",
+      "latitude": 45.333951,
+      "longitude": 17.680658
+    },
+    {
+      "name": "Komunalno trgovačko društvo Gunja",
+      "latitude": 44.879505,
+      "longitude": 18.85238
+    },
+    {
+      "name": "Konzervatorski odjel u Bjelovaru",
+      "latitude": 45.899608,
+      "longitude": 16.842483
+    },
+    {
+      "name": "Konzervatorski odjel u Požegi",
+      "latitude": 45.33277,
+      "longitude": 17.681664
+    },
+    {
+      "name": "Koprivničko-križevačka županija",
+      "latitude": 46.162636,
+      "longitude": 16.828994
+    },
+    {
+      "name": "Krapinsko-zagorska županija",
+      "latitude": 46.164109,
+      "longitude": 15.869449
+    },
+    {
+      "name": "Križevački poduzetnički centar d.o.o.",
+      "latitude": 46.019372,
+      "longitude": 16.541814
+    },
+    {
+      "name": "Ličko-senjska županija",
+      "latitude": 44.547086,
+      "longitude": 15.374718
+    },
+    {
+      "name": "Lučka ispostava Milna",
+      "latitude": 43.327201,
+      "longitude": 16.448215
+    },
+    {
+      "name": "Lučka kapetanija Pula, ispostava Novigrad",
+      "latitude": 45.317618,
+      "longitude": 13.559686
+    },
+    {
+      "name": "Lučka kapetanija u Splitu - Lučka ispostava Supetar",
+      "latitude": 43.385211,
+      "longitude": 16.555101
+    },
+    {
+      "name": "Lučka uprava Poreć",
+      "latitude": 45.227342,
+      "longitude": 13.590956
+    },
+    {
+      "name": "Lučka uprava Sisak",
+      "latitude": 45.491136,
+      "longitude": 16.371524
+    },
+    {
+      "name": "Makarski Komunalac",
+      "latitude": 43.294349,
+      "longitude": 17.021442
+    },
+    {
+      "name": "Matični ured",
+      "latitude": 43.617368,
+      "longitude": 16.725472
+    },
+    {
+      "name": "Matični ured",
+      "latitude": 44.140185,
+      "longitude": 14.905207
+    },
+    {
+      "name": "Matični ured",
+      "latitude": 45.32657,
+      "longitude": 14.440386
+    },
+    {
+      "name": "Matični ured",
+      "latitude": 46.225332,
+      "longitude": 16.125972
+    },
+    {
+      "name": "Matični ured Brinje",
+      "latitude": 45.00093,
+      "longitude": 15.134858
+    },
+    {
+      "name": "Matični ured Donja Stubica",
+      "latitude": 45.979881,
+      "longitude": 15.972511
+    },
+    {
+      "name": "Matični ured Drnje",
+      "latitude": 46.207285,
+      "longitude": 16.908822
+    },
+    {
+      "name": "Matični ured Glina",
+      "latitude": 45.341295,
+      "longitude": 16.087663
+    },
+    {
+      "name": "Matični ured Gunja",
+      "latitude": 44.879479,
+      "longitude": 18.852549
+    },
+    {
+      "name": "Matični ured Lovinac",
+      "latitude": 44.392023,
+      "longitude": 15.686861
+    },
+    {
+      "name": "Matični ured Orebić",
+      "latitude": 42.974106,
+      "longitude": 17.182376
+    },
+    {
+      "name": "Matični ured Sveti Križ Začretje",
+      "latitude": 46.07949,
+      "longitude": 15.907459
+    },
+    {
+      "name": "Matični ured Varaždin",
+      "latitude": 46.306393,
+      "longitude": 16.334311
+    },
+    {
+      "name": "Matični ured Čakovec",
+      "latitude": 46.387925,
+      "longitude": 16.438909
+    },
+    {
+      "name": "Mednarodni mejni prehod Središče ob Dravi",
+      "latitude": 46.38707,
+      "longitude": 16.302367
+    },
+    {
+      "name": "Međimurska županija",
+      "latitude": 46.387479,
+      "longitude": 16.438858
+    },
+    {
+      "name": "Međimurske vode",
+      "latitude": 46.379652,
+      "longitude": 16.416082
+    },
+    {
+      "name": "Međimurske vode",
+      "latitude": 46.388664,
+      "longitude": 16.4356
+    },
+    {
+      "name": "Ministarstvo financija",
+      "latitude": 45.808131,
+      "longitude": 15.976853
+    },
+    {
+      "name": "Ministarstvo financija - Carinska uprava",
+      "latitude": 45.777598,
+      "longitude": 15.96695
+    },
+    {
+      "name": "Ministarstvo financija Porezna uprava",
+      "latitude": 45.749962,
+      "longitude": 16.615574
+    },
+    {
+      "name": "Ministarstvo gospodarstva",
+      "latitude": 45.799636,
+      "longitude": 15.976173
+    },
+    {
+      "name": "Ministarstvo graditeljstva i prostornog uređenja",
+      "latitude": 45.812441,
+      "longitude": 15.957042
+    },
+    {
+      "name": "Ministarstvo hrvatskih branitelja",
+      "latitude": 45.79739,
+      "longitude": 15.960204
+    },
+    {
+      "name": "Ministarstvo kulture - Uprava za zaštitu kulturne baštine - Konzervatorski odjel",
+      "latitude": 43.511146,
+      "longitude": 16.437334
+    },
+    {
+      "name": "Ministarstvo kulture i medija",
+      "latitude": 45.805194,
+      "longitude": 15.969168
+    },
+    {
+      "name": "Ministarstvo kulture Republike Hrvatske – Konzervatorski odjel u Osijeku",
+      "latitude": 45.560324,
+      "longitude": 18.693658
+    },
+    {
+      "name": "Ministarstvo mora, prometa i infrastrukture Republike Hrvatske",
+      "latitude": 45.791119,
+      "longitude": 15.968664
+    },
+    {
+      "name": "Ministarstvo obrane",
+      "latitude": 45.326651,
+      "longitude": 14.44018
+    },
+    {
+      "name": "Ministarstvo obrane Republike Hrvatske",
+      "latitude": 45.808817,
+      "longitude": 15.990629
+    },
+    {
+      "name": "Ministarstvo poljoprivrede, šumarstva i ribarstva Republike Hrvatske",
+      "latitude": 45.799569,
+      "longitude": 15.975549
+    },
+    {
+      "name": "Ministarstvo pravosuđa, uprave i digitalne transformacije Republike Hrvatske",
+      "latitude": 45.796694,
+      "longitude": 15.970144
+    },
+    {
+      "name": "Ministarstvo pravosuđa, uprave i digitalne transformacije Republike Hrvatske",
+      "latitude": 45.801029,
+      "longitude": 15.986014
+    },
+    {
+      "name": "Ministarstvo pravosuđa, uprave i digitalne transformacije Republike Hrvatske",
+      "latitude": 45.817215,
+      "longitude": 16.004394
+    },
+    {
+      "name": "Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike",
+      "latitude": 45.797227,
+      "longitude": 15.960083
+    },
+    {
+      "name": "Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike",
+      "latitude": 45.799126,
+      "longitude": 15.975755
+    },
+    {
+      "name": "Ministarstvo regionalnoga razvoja i fondova Europske unije",
+      "latitude": 45.801579,
+      "longitude": 15.974019
+    },
+    {
+      "name": "Ministarstvo turizma i sporta Republike Hrvatske",
+      "latitude": 45.791129,
+      "longitude": 15.968946
+    },
+    {
+      "name": "Ministarstvo unutarnjih poslova - Ravnateljstvo policije",
+      "latitude": 45.811938,
+      "longitude": 15.922987
+    },
+    {
+      "name": "Ministarstvo unutarnjih poslova Republike Hrvatske",
+      "latitude": 45.800057,
+      "longitude": 15.964252
+    },
+    {
+      "name": "Ministarstvo vanjskih i europskih poslova",
+      "latitude": 45.810297,
+      "longitude": 15.979241
+    },
+    {
+      "name": "Ministarstvo zaštite okoliša i zelene tranzicije",
+      "latitude": 45.800833,
+      "longitude": 16.00713
+    },
+    {
+      "name": "Ministarstvo zdravlja",
+      "latitude": 45.32675,
+      "longitude": 14.43993
+    },
+    {
+      "name": "Ministarstvo zdravstva",
+      "latitude": 45.832466,
+      "longitude": 15.97703
+    },
+    {
+      "name": "Ministarstvo znanosti i obrazovanja",
+      "latitude": 45.806472,
+      "longitude": 16.013763
+    },
+    {
+      "name": "Mjesni odbor \"30. svibnja 1990.\"",
+      "latitude": 45.826415,
+      "longitude": 16.056365
+    },
+    {
+      "name": "Mjesni odbor \"Ban Jelačić\"",
+      "latitude": 45.288167,
+      "longitude": 18.807339
+    },
+    {
+      "name": "Mjesni odbor \"Bruno Bušić\"",
+      "latitude": 45.813717,
+      "longitude": 16.023808
+    },
+    {
+      "name": "Mjesni odbor \"Centar\"",
+      "latitude": 45.289697,
+      "longitude": 18.802107
+    },
+    {
+      "name": "Mjesni odbor \"Dinko Šimunović\"",
+      "latitude": 45.816154,
+      "longitude": 15.997462
+    },
+    {
+      "name": "Mjesni odbor \"Dvanaest redarstvenika\"",
+      "latitude": 45.293939,
+      "longitude": 18.789335
+    },
+    {
+      "name": "Mjesni odbor \"Eugen Kvaternik\"",
+      "latitude": 45.811752,
+      "longitude": 16.000902
+    },
+    {
+      "name": "Mjesni odbor \"Ivan Mažuranić\"",
+      "latitude": 45.828268,
+      "longitude": 16.052866
+    },
+    {
+      "name": "Mjesni odbor \"Janko Matko\"",
+      "latitude": 45.795033,
+      "longitude": 16.004793
+    },
+    {
+      "name": "Mjesni odbor \"Kolodvor\"",
+      "latitude": 45.298602,
+      "longitude": 18.809554
+    },
+    {
+      "name": "Mjesni odbor \"Kralj Petar Svačić\"",
+      "latitude": 45.808915,
+      "longitude": 15.974801
+    },
+    {
+      "name": "Mjesni odbor \"Lapovci\"",
+      "latitude": 45.29301,
+      "longitude": 18.794113
+    },
+    {
+      "name": "Mjesni odbor \"Lenije\"",
+      "latitude": 45.279922,
+      "longitude": 18.805696
+    },
+    {
+      "name": "Mjesni odbor \"Mala Bosna\"",
+      "latitude": 45.292249,
+      "longitude": 18.823033
+    },
+    {
+      "name": "Mjesni odbor \"Mirkovci\"",
+      "latitude": 45.270563,
+      "longitude": 18.850499
+    },
+    {
+      "name": "Mjesni odbor \"Slavija\"",
+      "latitude": 45.306244,
+      "longitude": 18.80481
+    },
+    {
+      "name": "Mjesni odbor \"Stjepan Radić\"",
+      "latitude": 45.286344,
+      "longitude": 18.805999
+    },
+    {
+      "name": "Mjesni odbor \"Vinkovačko Novo Selo\"",
+      "latitude": 45.291115,
+      "longitude": 18.769669
+    },
+    {
+      "name": "Mjesni odbor \"Zagrebački blok\"",
+      "latitude": 45.296981,
+      "longitude": 18.814529
+    },
+    {
+      "name": "Mjesni odbor Adamovec",
+      "latitude": 45.904401,
+      "longitude": 16.16284
+    },
+    {
+      "name": "Mjesni odbor Andrija Hebrang",
+      "latitude": 45.160338,
+      "longitude": 18.030664
+    },
+    {
+      "name": "Mjesni odbor Antun Mihanović",
+      "latitude": 45.160183,
+      "longitude": 18.01906
+    },
+    {
+      "name": "Mjesni odbor Arbanasi",
+      "latitude": 44.102559,
+      "longitude": 15.241419
+    },
+    {
+      "name": "Mjesni odbor Arena",
+      "latitude": 44.873895,
+      "longitude": 13.851033
+    },
+    {
+      "name": "Mjesni odbor Banderovo",
+      "latitude": 45.337415,
+      "longitude": 14.427364
+    },
+    {
+      "name": "Mjesni odbor Belovar",
+      "latitude": 45.882859,
+      "longitude": 16.175875
+    },
+    {
+      "name": "Mjesni odbor Belveder",
+      "latitude": 45.333081,
+      "longitude": 14.441825
+    },
+    {
+      "name": "Mjesni odbor Bili brig",
+      "latitude": 44.121073,
+      "longitude": 15.255172
+    },
+    {
+      "name": "Mjesni odbor Blaguša",
+      "latitude": 45.929058,
+      "longitude": 16.130071
+    },
+    {
+      "name": "Mjesni odbor Blato",
+      "latitude": 45.759378,
+      "longitude": 15.912116
+    },
+    {
+      "name": "Mjesni odbor Bokanjac",
+      "latitude": 44.142831,
+      "longitude": 15.246687
+    },
+    {
+      "name": "Mjesni odbor Borongaj - Lugovi",
+      "latitude": 45.808291,
+      "longitude": 16.045026
+    },
+    {
+      "name": "Mjesni odbor Borovo naselje",
+      "latitude": 45.375597,
+      "longitude": 18.953927
+    },
+    {
+      "name": "Mjesni odbor Botinec",
+      "latitude": 45.75527,
+      "longitude": 15.937493
+    },
+    {
+      "name": "Mjesni odbor Brajda-Dolac",
+      "latitude": 45.33065,
+      "longitude": 14.436793
+    },
+    {
+      "name": "Mjesni odbor Branovec - Jalševec",
+      "latitude": 45.857178,
+      "longitude": 16.074452
+    },
+    {
+      "name": "Mjesni odbor Brašćine-Pulac",
+      "latitude": 45.333087,
+      "longitude": 14.442036
+    },
+    {
+      "name": "Mjesni odbor Brezovica",
+      "latitude": 45.724402,
+      "longitude": 15.90753
+    },
+    {
+      "name": "Mjesni odbor Brijest",
+      "latitude": 45.516869,
+      "longitude": 18.67399
+    },
+    {
+      "name": "Mjesni odbor Brnčići",
+      "latitude": 45.393957,
+      "longitude": 14.364407
+    },
+    {
+      "name": "Mjesni odbor Brodarica",
+      "latitude": 44.127349,
+      "longitude": 15.225157
+    },
+    {
+      "name": "Mjesni odbor Brodski Varoš",
+      "latitude": 45.177466,
+      "longitude": 17.976135
+    },
+    {
+      "name": "Mjesni odbor Budenec",
+      "latitude": 45.835802,
+      "longitude": 16.175116
+    },
+    {
+      "name": "Mjesni odbor Bukovac",
+      "latitude": 45.838932,
+      "longitude": 16.016156
+    },
+    {
+      "name": "Mjesni odbor Bulevard",
+      "latitude": 45.327457,
+      "longitude": 14.452663
+    },
+    {
+      "name": "Mjesni odbor Busoler",
+      "latitude": 44.866183,
+      "longitude": 13.877229
+    },
+    {
+      "name": "Mjesni odbor Buzin",
+      "latitude": 45.751581,
+      "longitude": 15.99426
+    },
+    {
+      "name": "Mjesni odbor Centar",
+      "latitude": 45.155358,
+      "longitude": 18.01061
+    },
+    {
+      "name": "Mjesni odbor Centar",
+      "latitude": 45.355671,
+      "longitude": 18.994803
+    },
+    {
+      "name": "Mjesni odbor Centar",
+      "latitude": 45.826149,
+      "longitude": 16.111445
+    },
+    {
+      "name": "Mjesni odbor Centar-Sušak",
+      "latitude": 45.324963,
+      "longitude": 14.44924
+    },
+    {
+      "name": "Mjesni odbor Cerje-Sesvete",
+      "latitude": 45.838456,
+      "longitude": 16.203607
+    },
+    {
+      "name": "Mjesni odbor Cvjetnica",
+      "latitude": 45.796715,
+      "longitude": 15.967395
+    },
+    {
+      "name": "Mjesni odbor Cvjetno",
+      "latitude": 45.532752,
+      "longitude": 18.6314
+    },
+    {
+      "name": "Mjesni odbor Dankovec",
+      "latitude": 45.87258,
+      "longitude": 16.054051
+    },
+    {
+      "name": "Mjesni odbor Demerje",
+      "latitude": 45.731274,
+      "longitude": 15.886582
+    },
+    {
+      "name": "Mjesni odbor Diklo",
+      "latitude": 44.152336,
+      "longitude": 15.203542
+    },
+    {
+      "name": "Mjesni odbor Dobri dol",
+      "latitude": 45.824621,
+      "longitude": 15.997935
+    },
+    {
+      "name": "Mjesni odbor Dobrodol",
+      "latitude": 45.855047,
+      "longitude": 16.108526
+    },
+    {
+      "name": "Mjesni odbor Donja Dubrava",
+      "latitude": 45.82828,
+      "longitude": 16.052941
+    },
+    {
+      "name": "Mjesni odbor Donje Svetice",
+      "latitude": 45.808659,
+      "longitude": 16.020532
+    },
+    {
+      "name": "Mjesni odbor Dotrščina",
+      "latitude": 45.845618,
+      "longitude": 16.017291
+    },
+    {
+      "name": "Mjesni odbor dr. Ante Starčević",
+      "latitude": 45.168994,
+      "longitude": 18.033549
+    },
+    {
+      "name": "Mjesni odbor Draga",
+      "latitude": 45.322234,
+      "longitude": 14.49744
+    },
+    {
+      "name": "Mjesni odbor Dragonožec",
+      "latitude": 45.664252,
+      "longitude": 15.944824
+    },
+    {
+      "name": "Mjesni odbor Drenova",
+      "latitude": 45.35366,
+      "longitude": 14.431738
+    },
+    {
+      "name": "Mjesni odbor Drenčec",
+      "latitude": 45.838503,
+      "longitude": 16.203624
+    },
+    {
+      "name": "Mjesni odbor Dubec",
+      "latitude": 45.829409,
+      "longitude": 16.082755
+    },
+    {
+      "name": "Mjesni odbor Dubrava - središte",
+      "latitude": 45.832403,
+      "longitude": 16.044658
+    },
+    {
+      "name": "Mjesni odbor Dugave",
+      "latitude": 45.764353,
+      "longitude": 16.001647
+    },
+    {
+      "name": "Mjesni odbor Dumovec",
+      "latitude": 45.811474,
+      "longitude": 16.159218
+    },
+    {
+      "name": "Mjesni odbor Ferenščica",
+      "latitude": 45.801335,
+      "longitude": 16.020372
+    },
+    {
+      "name": "Mjesni odbor Folnegovićevo naselje",
+      "latitude": 45.793402,
+      "longitude": 16.004434
+    },
+    {
+      "name": "Mjesni odbor Gajec",
+      "latitude": 45.882351,
+      "longitude": 16.143937
+    },
+    {
+      "name": "Mjesni odbor Gajišće",
+      "latitude": 45.829478,
+      "longitude": 16.116353
+    },
+    {
+      "name": "Mjesni odbor Glavnica Donja",
+      "latitude": 45.937915,
+      "longitude": 16.143437
+    },
+    {
+      "name": "Mjesni odbor Glavnica Gornja",
+      "latitude": 45.93419,
+      "longitude": 16.137111
+    },
+    {
+      "name": "Mjesni odbor Glavničica",
+      "latitude": 45.847538,
+      "longitude": 16.212134
+    },
+    {
+      "name": "Mjesni odbor Goranec",
+      "latitude": 45.896918,
+      "longitude": 16.078308
+    },
+    {
+      "name": "Mjesni odbor Gornja Dubrava",
+      "latitude": 45.836745,
+      "longitude": 16.042306
+    },
+    {
+      "name": "Mjesni odbor Gornja Vežica",
+      "latitude": 45.325422,
+      "longitude": 14.476239
+    },
+    {
+      "name": "Mjesni odbor Gornje Sitno",
+      "latitude": 43.517041,
+      "longitude": 16.610589
+    },
+    {
+      "name": "Mjesni odbor Gornji grad",
+      "latitude": 45.81573,
+      "longitude": 15.976406
+    },
+    {
+      "name": "Mjesni odbor Gornji grad",
+      "latitude": 45.817769,
+      "longitude": 15.974839
+    },
+    {
+      "name": "Mjesni odbor Gornji Stenjevec",
+      "latitude": 45.83276,
+      "longitude": 15.869833
+    },
+    {
+      "name": "Mjesni odbor Gornji Zamet",
+      "latitude": 45.353535,
+      "longitude": 14.39094
+    },
+    {
+      "name": "Mjesni odbor Grad Trsat",
+      "latitude": 45.330764,
+      "longitude": 14.460545
+    },
+    {
+      "name": "Mjesni odbor Granešina",
+      "latitude": 45.852731,
+      "longitude": 16.055594
+    },
+    {
+      "name": "Mjesni odbor Granešinski Novaki",
+      "latitude": 45.850942,
+      "longitude": 16.035123
+    },
+    {
+      "name": "Mjesni odbor Gračani",
+      "latitude": 45.855756,
+      "longitude": 15.970225
+    },
+    {
+      "name": "Mjesni odbor Grbci",
+      "latitude": 45.349481,
+      "longitude": 14.380166
+    },
+    {
+      "name": "Mjesni odbor Gregovica",
+      "latitude": 44.862873,
+      "longitude": 13.858973
+    },
+    {
+      "name": "Mjesni odbor Havidići",
+      "latitude": 45.624425,
+      "longitude": 15.934037
+    },
+    {
+      "name": "Mjesni odbor Horvati",
+      "latitude": 45.712775,
+      "longitude": 15.818506
+    },
+    {
+      "name": "Mjesni odbor Hrašće",
+      "latitude": 45.7311,
+      "longitude": 16.003916
+    },
+    {
+      "name": "Mjesni odbor Hrelić",
+      "latitude": 45.764291,
+      "longitude": 16.001753
+    },
+    {
+      "name": "Mjesni odbor Hrvatski Leskovac",
+      "latitude": 45.744173,
+      "longitude": 15.889535
+    },
+    {
+      "name": "Mjesni odbor Ivanja Reka",
+      "latitude": 45.800319,
+      "longitude": 16.113511
+    },
+    {
+      "name": "Mjesni odbor Jakuševec",
+      "latitude": 45.760751,
+      "longitude": 16.015808
+    },
+    {
+      "name": "Mjesni odbor Jazine I",
+      "latitude": 44.109423,
+      "longitude": 15.234432
+    },
+    {
+      "name": "Mjesni odbor Jazine II",
+      "latitude": 44.111439,
+      "longitude": 15.243309
+    },
+    {
+      "name": "Mjesni odbor Jelkovec",
+      "latitude": 45.808643,
+      "longitude": 16.118889
+    },
+    {
+      "name": "Mjesni odbor Jesenovec",
+      "latitude": 45.915747,
+      "longitude": 16.150767
+    },
+    {
+      "name": "Mjesni odbor Jezera",
+      "latitude": 43.785631,
+      "longitude": 15.644318
+    },
+    {
+      "name": "Mjesni odbor Ježdovec",
+      "latitude": 45.772393,
+      "longitude": 15.854445
+    },
+    {
+      "name": "Mjesni odbor Josip Juraj Strossmayer",
+      "latitude": 45.152614,
+      "longitude": 18.027969
+    },
+    {
+      "name": "Mjesni odbor Josip Rimac",
+      "latitude": 45.14995,
+      "longitude": 17.991598
+    },
+    {
+      "name": "Mjesni odbor Josipovac",
+      "latitude": 45.577073,
+      "longitude": 18.587916
+    },
+    {
+      "name": "Mjesni odbor Kajzerica",
+      "latitude": 45.782291,
+      "longitude": 15.959064
+    },
+    {
+      "name": "Mjesni odbor Kamen",
+      "latitude": 43.512263,
+      "longitude": 16.519458
+    },
+    {
+      "name": "Mjesni odbor Kanal",
+      "latitude": 45.802966,
+      "longitude": 15.996303
+    },
+    {
+      "name": "Mjesni odbor Kantrida",
+      "latitude": 45.33893,
+      "longitude": 14.38623
+    },
+    {
+      "name": "Mjesni odbor Kastav",
+      "latitude": 45.373495,
+      "longitude": 14.348044
+    },
+    {
+      "name": "Mjesni odbor Kašina",
+      "latitude": 45.908808,
+      "longitude": 16.123894
+    },
+    {
+      "name": "Mjesni odbor Kašinska Sopnica",
+      "latitude": 45.913685,
+      "longitude": 16.103135
+    },
+    {
+      "name": "Mjesni odbor Kaštanjer",
+      "latitude": 44.870265,
+      "longitude": 13.858171
+    },
+    {
+      "name": "Mjesni odbor Klaka",
+      "latitude": 45.83585,
+      "longitude": 16.051693
+    },
+    {
+      "name": "Mjesni odbor Kobiljak",
+      "latitude": 45.822175,
+      "longitude": 16.161396
+    },
+    {
+      "name": "Mjesni odbor Kolonija",
+      "latitude": 45.175216,
+      "longitude": 18.002021
+    },
+    {
+      "name": "Mjesni odbor Kozala",
+      "latitude": 45.333083,
+      "longitude": 14.441923
+    },
+    {
+      "name": "Mjesni odbor Kozari bok",
+      "latitude": 45.794389,
+      "longitude": 16.049119
+    },
+    {
+      "name": "Mjesni odbor Kozari putevi",
+      "latitude": 45.79425,
+      "longitude": 16.049216
+    },
+    {
+      "name": "Mjesni odbor Kozjak",
+      "latitude": 45.832486,
+      "longitude": 15.994655
+    },
+    {
+      "name": "Mjesni odbor Kraljevečki Novaki",
+      "latitude": 45.830001,
+      "longitude": 16.148181
+    },
+    {
+      "name": "Mjesni odbor Krimeja",
+      "latitude": 45.322377,
+      "longitude": 14.465536
+    },
+    {
+      "name": "Mjesni odbor Križišće",
+      "latitude": 45.260742,
+      "longitude": 14.612006
+    },
+    {
+      "name": "Mjesni odbor Kupinečki Kraljevec - centar",
+      "latitude": 45.686733,
+      "longitude": 15.852396
+    },
+    {
+      "name": "Mjesni odbor Kupinečki Kraljevec I.",
+      "latitude": 45.673234,
+      "longitude": 15.872352
+    },
+    {
+      "name": "Mjesni odbor Kupinečki Kraljevec II.",
+      "latitude": 45.688191,
+      "longitude": 15.83631
+    },
+    {
+      "name": "Mjesni odbor Kuče",
+      "latitude": 45.675665,
+      "longitude": 16.139741
+    },
+    {
+      "name": "Mjesni odbor Kučilovina",
+      "latitude": 45.912631,
+      "longitude": 16.091717
+    },
+    {
+      "name": "Mjesni odbor Lanište",
+      "latitude": 45.774996,
+      "longitude": 15.946375
+    },
+    {
+      "name": "Mjesni odbor Levkušje",
+      "latitude": 45.572909,
+      "longitude": 15.520242
+    },
+    {
+      "name": "Mjesni odbor Lipnica",
+      "latitude": 45.630743,
+      "longitude": 15.921812
+    },
+    {
+      "name": "Mjesni odbor Lipovača",
+      "latitude": 45.388016,
+      "longitude": 18.904665
+    },
+    {
+      "name": "Mjesni odbor Ljubljanica",
+      "latitude": 45.799018,
+      "longitude": 15.929722
+    },
+    {
+      "name": "Mjesni odbor Luka",
+      "latitude": 45.324425,
+      "longitude": 14.443489
+    },
+    {
+      "name": "Mjesni odbor Luka",
+      "latitude": 45.828223,
+      "longitude": 16.107336
+    },
+    {
+      "name": "Mjesni odbor Lutvinka",
+      "latitude": 45.158576,
+      "longitude": 18.023583
+    },
+    {
+      "name": "Mjesni odbor Lutvinka",
+      "latitude": 45.166438,
+      "longitude": 17.995614
+    },
+    {
+      "name": "Mjesni odbor Lučko",
+      "latitude": 45.7615,
+      "longitude": 15.884941
+    },
+    {
+      "name": "Mjesni odbor Lužac",
+      "latitude": 45.359297,
+      "longitude": 18.969895
+    },
+    {
+      "name": "Mjesni odbor Lužan",
+      "latitude": 45.885948,
+      "longitude": 16.196048
+    },
+    {
+      "name": "Mjesni odbor Maksimir",
+      "latitude": 45.826035,
+      "longitude": 16.009662
+    },
+    {
+      "name": "Mjesni odbor Maksimirska naselja",
+      "latitude": 45.815473,
+      "longitude": 16.028011
+    },
+    {
+      "name": "Mjesni odbor Mala Jelsa",
+      "latitude": 45.513973,
+      "longitude": 15.501321
+    },
+    {
+      "name": "Mjesni odbor Mala Mlaka",
+      "latitude": 45.728801,
+      "longitude": 15.977199
+    },
+    {
+      "name": "Mjesni odbor Mala Rava",
+      "latitude": 44.038998,
+      "longitude": 15.056446
+    },
+    {
+      "name": "Mjesni odbor Mali Pariz",
+      "latitude": 45.166075,
+      "longitude": 18.018933
+    },
+    {
+      "name": "Mjesni odbor Markuševec",
+      "latitude": 45.876161,
+      "longitude": 16.015324
+    },
+    {
+      "name": "Mjesni odbor Martinovka",
+      "latitude": 45.803156,
+      "longitude": 15.975283
+    },
+    {
+      "name": "Mjesni odbor Maslina",
+      "latitude": 44.126584,
+      "longitude": 15.237665
+    },
+    {
+      "name": "Mjesni odbor Mašićeva",
+      "latitude": 45.817405,
+      "longitude": 16.002026
+    },
+    {
+      "name": "Mjesni odbor Miholjački Poreč",
+      "latitude": 45.696965,
+      "longitude": 18.197898
+    },
+    {
+      "name": "Mjesni odbor Mikluševci",
+      "latitude": 45.251155,
+      "longitude": 19.08525
+    },
+    {
+      "name": "Mjesni odbor Miroševec",
+      "latitude": 45.86795,
+      "longitude": 16.036468
+    },
+    {
+      "name": "Mjesni odbor Mitnica",
+      "latitude": 45.339613,
+      "longitude": 19.016985
+    },
+    {
+      "name": "Mjesni odbor Mlaka",
+      "latitude": 45.337473,
+      "longitude": 14.417962
+    },
+    {
+      "name": "Mjesni odbor Mlinovi",
+      "latitude": 45.846901,
+      "longitude": 15.963959
+    },
+    {
+      "name": "Mjesni odbor Mohovo",
+      "latitude": 45.250158,
+      "longitude": 19.217283
+    },
+    {
+      "name": "Mjesni odbor Moravče",
+      "latitude": 45.934896,
+      "longitude": 16.167495
+    },
+    {
+      "name": "Mjesni odbor Novi Bokanjac",
+      "latitude": 44.144051,
+      "longitude": 15.236445
+    },
+    {
+      "name": "Mjesni odbor Novi Jelkovec",
+      "latitude": 45.812295,
+      "longitude": 16.102083
+    },
+    {
+      "name": "Mjesni odbor Novi Retkovec",
+      "latitude": 45.825501,
+      "longitude": 16.069351
+    },
+    {
+      "name": "Mjesni odbor Novo Brestje",
+      "latitude": 45.829107,
+      "longitude": 16.091071
+    },
+    {
+      "name": "Mjesni odbor Novoselec",
+      "latitude": 45.854051,
+      "longitude": 16.081932
+    },
+    {
+      "name": "Mjesni odbor Odra",
+      "latitude": 45.730204,
+      "longitude": 15.994676
+    },
+    {
+      "name": "Mjesni odbor Odranski Obrež",
+      "latitude": 45.716035,
+      "longitude": 15.942037
+    },
+    {
+      "name": "Mjesni odbor Odranski Strmec",
+      "latitude": 45.710065,
+      "longitude": 15.918301
+    },
+    {
+      "name": "Mjesni odbor Oporovec",
+      "latitude": 45.85356,
+      "longitude": 16.058225
+    },
+    {
+      "name": "Mjesni odbor Orehovica",
+      "latitude": 45.337028,
+      "longitude": 14.468605
+    },
+    {
+      "name": "Mjesni odbor Osijek – lijeva obala",
+      "latitude": 45.56289,
+      "longitude": 18.714679
+    },
+    {
+      "name": "Mjesni odbor Paruževina",
+      "latitude": 45.884542,
+      "longitude": 16.130907
+    },
+    {
+      "name": "Mjesni odbor Pašac",
+      "latitude": 45.354336,
+      "longitude": 14.454805
+    },
+    {
+      "name": "Mjesni odbor Pehlin",
+      "latitude": 45.354972,
+      "longitude": 14.402756
+    },
+    {
+      "name": "Mjesni odbor Petruševec",
+      "latitude": 45.773313,
+      "longitude": 16.049027
+    },
+    {
+      "name": "Mjesni odbor Pećine",
+      "latitude": 45.317981,
+      "longitude": 14.467818
+    },
+    {
+      "name": "Mjesni odbor Peščenica",
+      "latitude": 45.812853,
+      "longitude": 16.008977
+    },
+    {
+      "name": "Mjesni odbor Planina Donja",
+      "latitude": 45.92664,
+      "longitude": 16.090804
+    },
+    {
+      "name": "Mjesni odbor Planina Gornja",
+      "latitude": 45.937245,
+      "longitude": 16.079322
+    },
+    {
+      "name": "Mjesni odbor Plavo Polje",
+      "latitude": 45.160144,
+      "longitude": 18.009627
+    },
+    {
+      "name": "Mjesni odbor Podmurvice",
+      "latitude": 45.340044,
+      "longitude": 14.414108
+    },
+    {
+      "name": "Mjesni odbor Podvežica",
+      "latitude": 45.320907,
+      "longitude": 14.472747
+    },
+    {
+      "name": "Mjesni odbor Poljanice",
+      "latitude": 45.828975,
+      "longitude": 16.064191
+    },
+    {
+      "name": "Mjesni odbor Poluotok",
+      "latitude": 44.116411,
+      "longitude": 15.225242
+    },
+    {
+      "name": "Mjesni odbor Popovec",
+      "latitude": 45.850128,
+      "longitude": 16.139182
+    },
+    {
+      "name": "Mjesni odbor Potok",
+      "latitude": 45.331625,
+      "longitude": 14.430752
+    },
+    {
+      "name": "Mjesni odbor Prekvršje",
+      "latitude": 45.899606,
+      "longitude": 16.11026
+    },
+    {
+      "name": "Mjesni odbor Prepuštovec",
+      "latitude": 45.891659,
+      "longitude": 16.13414
+    },
+    {
+      "name": "Mjesni odbor Prudnice",
+      "latitude": 45.871933,
+      "longitude": 15.732922
+    },
+    {
+      "name": "Mjesni odbor Puntamika",
+      "latitude": 44.134256,
+      "longitude": 15.215866
+    },
+    {
+      "name": "Mjesni odbor Remete",
+      "latitude": 45.851419,
+      "longitude": 15.992695
+    },
+    {
+      "name": "Mjesni odbor Remetinec",
+      "latitude": 45.767857,
+      "longitude": 15.94759
+    },
+    {
+      "name": "Mjesni odbor Resnik",
+      "latitude": 45.80291,
+      "longitude": 16.081513
+    },
+    {
+      "name": "Mjesni odbor Resnički gaj",
+      "latitude": 45.805419,
+      "longitude": 16.072351
+    },
+    {
+      "name": "Mjesni odbor Rešetari",
+      "latitude": 45.363143,
+      "longitude": 14.357791
+    },
+    {
+      "name": "Mjesni odbor Ričina",
+      "latitude": 44.104904,
+      "longitude": 15.250198
+    },
+    {
+      "name": "Mjesni odbor Rubeši",
+      "latitude": 45.36483,
+      "longitude": 14.344047
+    },
+    {
+      "name": "Mjesni odbor Ružmarinka",
+      "latitude": 45.817445,
+      "longitude": 16.010594
+    },
+    {
+      "name": "Mjesni odbor Sajmište",
+      "latitude": 45.342285,
+      "longitude": 18.993143
+    },
+    {
+      "name": "Mjesni odbor Savica Šanci",
+      "latitude": 45.792743,
+      "longitude": 16.018148
+    },
+    {
+      "name": "mjesni odbor Savršćak",
+      "latitude": 45.830764,
+      "longitude": 15.756999
+    },
+    {
+      "name": "Mjesni odbor Savski gaj",
+      "latitude": 45.774276,
+      "longitude": 15.953897
+    },
+    {
+      "name": "Mjesni odbor Sesvetska Sela",
+      "latitude": 45.83095,
+      "longitude": 16.13327
+    },
+    {
+      "name": "Mjesni odbor Sesvetska Selnica",
+      "latitude": 45.816739,
+      "longitude": 16.133981
+    },
+    {
+      "name": "Mjesni odbor Sesvetska Sopnica",
+      "latitude": 45.822313,
+      "longitude": 16.092896
+    },
+    {
+      "name": "Mjesni odbor Sesvetski Kraljevec",
+      "latitude": 45.816724,
+      "longitude": 16.174492
+    },
+    {
+      "name": "Mjesni odbor Siget",
+      "latitude": 45.771436,
+      "longitude": 15.969935
+    },
+    {
+      "name": "Mjesni odbor Silba",
+      "latitude": 44.374623,
+      "longitude": 14.696043
+    },
+    {
+      "name": "Mjesni odbor Sinjoretovo",
+      "latitude": 44.10454,
+      "longitude": 15.271995
+    },
+    {
+      "name": "Mjesni odbor Slatine",
+      "latitude": 43.499749,
+      "longitude": 16.332796
+    },
+    {
+      "name": "Mjesni odbor Sloboština",
+      "latitude": 45.765252,
+      "longitude": 15.988363
+    },
+    {
+      "name": "Mjesni odbor Soblinec",
+      "latitude": 45.864057,
+      "longitude": 16.154414
+    },
+    {
+      "name": "Mjesni odbor Sopot",
+      "latitude": 45.777039,
+      "longitude": 15.986871
+    },
+    {
+      "name": "Mjesni odbor Sotin",
+      "latitude": 45.296232,
+      "longitude": 19.09649
+    },
+    {
+      "name": "Mjesni odbor Spinčići",
+      "latitude": 45.373661,
+      "longitude": 14.335827
+    },
+    {
+      "name": "Mjesni odbor Srdoči",
+      "latitude": 45.352537,
+      "longitude": 14.367536
+    },
+    {
+      "name": "Mjesni odbor Središće",
+      "latitude": 45.778791,
+      "longitude": 15.988312
+    },
+    {
+      "name": "Mjesni odbor Srinjine",
+      "latitude": 43.493412,
+      "longitude": 16.602909
+    },
+    {
+      "name": "Mjesni odbor Stari Retkovec",
+      "latitude": 45.826922,
+      "longitude": 16.075155
+    },
+    {
+      "name": "Mjesni odbor Staro Brestje",
+      "latitude": 45.833205,
+      "longitude": 16.093004
+    },
+    {
+      "name": "Mjesni odbor Stobreč",
+      "latitude": 43.50169,
+      "longitude": 16.513978
+    },
+    {
+      "name": "Mjesni odbor Studentski grad",
+      "latitude": 45.835018,
+      "longitude": 16.057403
+    },
+    {
+      "name": "Mjesni odbor Sveta Klara",
+      "latitude": 45.756547,
+      "longitude": 15.970637
+    },
+    {
+      "name": "Mjesni odbor Sveti Kuzam",
+      "latitude": 45.313316,
+      "longitude": 14.523399
+    },
+    {
+      "name": "Mjesni odbor Sveti Nikola",
+      "latitude": 45.339199,
+      "longitude": 14.402572
+    },
+    {
+      "name": "Mjesni odbor Sveti Vid-Miholjice",
+      "latitude": 45.126184,
+      "longitude": 14.542557
+    },
+    {
+      "name": "Mjesni odbor Svilno",
+      "latitude": 45.352706,
+      "longitude": 14.466852
+    },
+    {
+      "name": "Mjesni odbor Travno",
+      "latitude": 45.770103,
+      "longitude": 15.994471
+    },
+    {
+      "name": "Mjesni odbor Trnava",
+      "latitude": 45.814436,
+      "longitude": 16.062089
+    },
+    {
+      "name": "Mjesni odbor Trnovčica",
+      "latitude": 45.83558,
+      "longitude": 16.069384
+    },
+    {
+      "name": "Mjesni odbor Trnsko",
+      "latitude": 45.773437,
+      "longitude": 15.965133
+    },
+    {
+      "name": "Mjesni odbor Trokut",
+      "latitude": 45.368237,
+      "longitude": 18.953926
+    },
+    {
+      "name": "Mjesni odbor Trpinjska cesta",
+      "latitude": 45.37727,
+      "longitude": 18.941885
+    },
+    {
+      "name": "Mjesni odbor Trpuci",
+      "latitude": 45.667478,
+      "longitude": 15.929114
+    },
+    {
+      "name": "Mjesni odbor Turnić",
+      "latitude": 45.340507,
+      "longitude": 14.407775
+    },
+    {
+      "name": "Mjesni odbor Utrine",
+      "latitude": 45.777084,
+      "longitude": 15.996412
+    },
+    {
+      "name": "Mjesni odbor Velika Buna",
+      "latitude": 45.626663,
+      "longitude": 16.070361
+    },
+    {
+      "name": "Mjesni odbor Veliko Polje",
+      "latitude": 45.738092,
+      "longitude": 16.0155
+    },
+    {
+      "name": "Mjesni odbor Vidikovac",
+      "latitude": 44.137393,
+      "longitude": 15.238819
+    },
+    {
+      "name": "Mjesni odbor Vidovec",
+      "latitude": 45.896363,
+      "longitude": 16.032515
+    },
+    {
+      "name": "Mjesni odbor Višnjik",
+      "latitude": 44.118786,
+      "longitude": 15.238321
+    },
+    {
+      "name": "Mjesni odbor Vojak",
+      "latitude": 45.325012,
+      "longitude": 14.459644
+    },
+    {
+      "name": "Mjesni odbor Volovčica",
+      "latitude": 45.808737,
+      "longitude": 16.020584
+    },
+    {
+      "name": "Mjesni odbor Voštarnica",
+      "latitude": 44.115075,
+      "longitude": 15.232948
+    },
+    {
+      "name": "Mjesni odbor Vugrovec",
+      "latitude": 45.881893,
+      "longitude": 16.107663
+    },
+    {
+      "name": "Mjesni odbor Vugrovec Gornji",
+      "latitude": 45.891375,
+      "longitude": 16.098863
+    },
+    {
+      "name": "Mjesni odbor Vukomerec",
+      "latitude": 45.808578,
+      "longitude": 16.047905
+    },
+    {
+      "name": "Mjesni odbor Vurnovec",
+      "latitude": 45.888608,
+      "longitude": 16.136288
+    },
+    {
+      "name": "Mjesni odbor Zamet",
+      "latitude": 45.344496,
+      "longitude": 14.383465
+    },
+    {
+      "name": "Mjesni odbor Zapruđe",
+      "latitude": 45.779479,
+      "longitude": 15.996445
+    },
+    {
+      "name": "Mjesni odbor Zeleni brijeg",
+      "latitude": 45.860339,
+      "longitude": 16.029045
+    },
+    {
+      "name": "Mjesni odbor Zrinski-Frankopan",
+      "latitude": 45.17623,
+      "longitude": 18.020735
+    },
+    {
+      "name": "Mjesni odbor Čehi",
+      "latitude": 45.742524,
+      "longitude": 15.957778
+    },
+    {
+      "name": "Mjesni odbor Čulinec",
+      "latitude": 45.818227,
+      "longitude": 16.065655
+    },
+    {
+      "name": "Mjesni odbor Čučerje",
+      "latitude": 45.893658,
+      "longitude": 16.059332
+    },
+    {
+      "name": "Mjesni odbor Đurđekovec",
+      "latitude": 45.878439,
+      "longitude": 16.113867
+    },
+    {
+      "name": "Mjesni odbor Šašinovec",
+      "latitude": 45.852994,
+      "longitude": 16.164614
+    },
+    {
+      "name": "Mjesni odbor Šestine",
+      "latitude": 45.853176,
+      "longitude": 15.950963
+    },
+    {
+      "name": "Mjesni odbor Šimunčevec",
+      "latitude": 45.878668,
+      "longitude": 16.090997
+    },
+    {
+      "name": "Mjesni odbor Šišljavić",
+      "latitude": 45.518324,
+      "longitude": 15.761063
+    },
+    {
+      "name": "Mjesni odbor Školjić-Stari grad",
+      "latitude": 45.327265,
+      "longitude": 14.447252
+    },
+    {
+      "name": "Mjesni odbor Škurinje",
+      "latitude": 45.354417,
+      "longitude": 14.419235
+    },
+    {
+      "name": "Mjesni odbor Škurinjska Draga",
+      "latitude": 45.34045,
+      "longitude": 14.429677
+    },
+    {
+      "name": "Mjesni odbor Žerjavinec",
+      "latitude": 45.868889,
+      "longitude": 16.165009
+    },
+    {
+      "name": "Mjesni odbor Žitnjak",
+      "latitude": 45.781825,
+      "longitude": 16.061279
+    },
+    {
+      "name": "Mjesni odbor Žrnovnica",
+      "latitude": 43.518855,
+      "longitude": 16.557737
+    },
+    {
+      "name": "Mjesni odbot Donje Sitno",
+      "latitude": 43.506798,
+      "longitude": 16.595998
+    },
+    {
+      "name": "Mreža mladih ruralnih područja Hrvatske",
+      "latitude": 44.865661,
+      "longitude": 15.235189
+    },
+    {
+      "name": "MUP Ravnateljstvo civilne zaštite",
+      "latitude": 45.796819,
+      "longitude": 15.948791
+    },
+    {
+      "name": "Obrtnička komora Bjelovarsko-bilogorske županije",
+      "latitude": 45.89393,
+      "longitude": 16.840953
+    },
+    {
+      "name": "Odjel za gospodarenje imovinom",
+      "latitude": 45.327734,
+      "longitude": 14.449088
+    },
+    {
+      "name": "Odjel za katastar nekretnina Biograd na Moru",
+      "latitude": 43.937312,
+      "longitude": 15.444933
+    },
+    {
+      "name": "Odjel za katastar nekretnina Drniš",
+      "latitude": 43.859968,
+      "longitude": 16.155639
+    },
+    {
+      "name": "Odjel za katastar nekretnina Nova Gradiška",
+      "latitude": 45.259522,
+      "longitude": 17.379302
+    },
+    {
+      "name": "Odjel za katastar nekretnina Samobor",
+      "latitude": 45.801482,
+      "longitude": 15.712288
+    },
+    {
+      "name": "Odjel za katastar nekretnina Solin",
+      "latitude": 43.536632,
+      "longitude": 16.489971
+    },
+    {
+      "name": "Odjel za katastar nekretnina Trogir",
+      "latitude": 43.51636,
+      "longitude": 16.251583
+    },
+    {
+      "name": "Odjel za komunalni sustav",
+      "latitude": 45.327678,
+      "longitude": 14.44912
+    },
+    {
+      "name": "Odjel za prostorno uređenje - Ispostava Solin",
+      "latitude": 43.536514,
+      "longitude": 16.490028
+    },
+    {
+      "name": "Odjel za razvoj, urbanizam, ekologiju i gospodarenje zemljištem",
+      "latitude": 45.327792,
+      "longitude": 14.449043
+    },
+    {
+      "name": "Odsjek za prostorno uređenje i zaštitu okoliša",
+      "latitude": 45.560579,
+      "longitude": 18.683284
+    },
+    {
+      "name": "Općina Brinje",
+      "latitude": 45.000497,
+      "longitude": 15.135985
+    },
+    {
+      "name": "Općina Kapela",
+      "latitude": 45.988168,
+      "longitude": 16.85182
+    },
+    {
+      "name": "Općina Nova Rača",
+      "latitude": 45.798768,
+      "longitude": 16.953712
+    },
+    {
+      "name": "Općina Velika Ludina",
+      "latitude": 45.611521,
+      "longitude": 16.585011
+    },
+    {
+      "name": "Općinsko državno odvjetništvo u Splitu",
+      "latitude": 43.514865,
+      "longitude": 16.441072
+    },
+    {
+      "name": "Osječko-baranjska županija",
+      "latitude": 45.560981,
+      "longitude": 18.677204
+    },
+    {
+      "name": "Područni ured civilne zaštite Split",
+      "latitude": 43.506695,
+      "longitude": 16.472643
+    },
+    {
+      "name": "Područni ured gradske uprave Centar",
+      "latitude": 45.813056,
+      "longitude": 15.971801
+    },
+    {
+      "name": "Područni ured Gradske uprave Dubrava",
+      "latitude": 45.829068,
+      "longitude": 16.05222
+    },
+    {
+      "name": "Područni ured Gradske uprave Maksimir",
+      "latitude": 45.819594,
+      "longitude": 16.003884
+    },
+    {
+      "name": "Područni ured gradske uprave Medveščak",
+      "latitude": 45.812321,
+      "longitude": 15.983866
+    },
+    {
+      "name": "Područni ured Gradske uprave Novi Zagreb",
+      "latitude": 45.776942,
+      "longitude": 15.97575
+    },
+    {
+      "name": "Područni ured Gradske uprave Peščenica",
+      "latitude": 45.806147,
+      "longitude": 16.020293
+    },
+    {
+      "name": "Područni ured gradske uprave Susedgrad",
+      "latitude": 45.8144,
+      "longitude": 15.877122
+    },
+    {
+      "name": "Područni ured za katastar Lovinac",
+      "latitude": 44.392032,
+      "longitude": 15.686822
+    },
+    {
+      "name": "Područni ured za katastar Rijeka",
+      "latitude": 45.326542,
+      "longitude": 14.440456
+    },
+    {
+      "name": "Područni ured za katastar Split ispostava Supetar",
+      "latitude": 43.384329,
+      "longitude": 16.557165
+    },
+    {
+      "name": "Područni ured za katastar Zadar",
+      "latitude": 43.961262,
+      "longitude": 15.423861
+    },
+    {
+      "name": "Područni ured za katastar Čakovec",
+      "latitude": 46.387213,
+      "longitude": 16.438857
+    },
+    {
+      "name": "Područni ured za katastar Šibenik",
+      "latitude": 43.735879,
+      "longitude": 15.892872
+    },
+    {
+      "name": "Porezna ispostava Krapina",
+      "latitude": 46.163005,
+      "longitude": 15.868532
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 43.508582,
+      "longitude": 16.436484
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 43.517181,
+      "longitude": 16.251728
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 45.074869,
+      "longitude": 18.695364
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 45.114691,
+      "longitude": 15.58429
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 45.161371,
+      "longitude": 18.015132
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 45.311244,
+      "longitude": 18.408651
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 45.327194,
+      "longitude": 14.438755
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 45.559773,
+      "longitude": 18.675114
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 46.225185,
+      "longitude": 16.125971
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 46.308046,
+      "longitude": 16.332329
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 46.387403,
+      "longitude": 16.436505
+    },
+    {
+      "name": "Porezna uprava - ispostava Glina",
+      "latitude": 45.34135,
+      "longitude": 16.087609
+    },
+    {
+      "name": "Porezna uprava - Područni ured Požega",
+      "latitude": 45.332822,
+      "longitude": 17.67624
+    },
+    {
+      "name": "Porezna uprava - Područni ured Sisak",
+      "latitude": 45.488276,
+      "longitude": 16.373041
+    },
+    {
+      "name": "Porezna uprava - Trešnjevka",
+      "latitude": 45.797542,
+      "longitude": 15.949397
+    },
+    {
+      "name": "Porezna uprava Dubrovnik",
+      "latitude": 42.650721,
+      "longitude": 18.094046
+    },
+    {
+      "name": "Porezna uprava Ministarstva financija - ispostava Omiš",
+      "latitude": 43.443457,
+      "longitude": 16.686971
+    },
+    {
+      "name": "Porezna uprava središnji ured",
+      "latitude": 45.809761,
+      "longitude": 15.980321
+    },
+    {
+      "name": "porezna uprava Šibenik",
+      "latitude": 43.734048,
+      "longitude": 15.895288
+    },
+    {
+      "name": "Porezna uprava, ispostava Križevci",
+      "latitude": 46.026415,
+      "longitude": 16.546028
+    },
+    {
+      "name": "Porezna uprava, Ispostava Novi Zagreb",
+      "latitude": 45.77694,
+      "longitude": 15.975553
+    },
+    {
+      "name": "Porezna uprava, ispostava Susedgrad",
+      "latitude": 45.814456,
+      "longitude": 15.877007
+    },
+    {
+      "name": "Porezna uprava, ispostava Črnomerec",
+      "latitude": 45.81053,
+      "longitude": 15.955151
+    },
+    {
+      "name": "Porezna uprava, Područni ured Zagreb",
+      "latitude": 45.777111,
+      "longitude": 15.988325
+    },
+    {
+      "name": "Porezna uprava, područni ured Zagreb, ispostava Centar",
+      "latitude": 45.811979,
+      "longitude": 15.976682
+    },
+    {
+      "name": "Povjerenstvo za odlučivanje o sukobu interesa",
+      "latitude": 45.809339,
+      "longitude": 15.98512
+    },
+    {
+      "name": "Požeško-slavonska županija",
+      "latitude": 45.332089,
+      "longitude": 17.675647
+    },
+    {
+      "name": "Primorsko-goranska županija",
+      "latitude": 45.325997,
+      "longitude": 14.443257
+    },
+    {
+      "name": "Primorsko-goranska županija",
+      "latitude": 45.328597,
+      "longitude": 14.443275
+    },
+    {
+      "name": "Primorsko-goranska županija Upravni odjel za prostorno uređenje",
+      "latitude": 45.326614,
+      "longitude": 14.440274
+    },
+    {
+      "name": "Radarski Centar Varaždin",
+      "latitude": 46.282435,
+      "longitude": 16.364206
+    },
+    {
+      "name": "Ravnateljstvo civilne zaštite - Sektor za eksplozivne atmosfere",
+      "latitude": 45.803437,
+      "longitude": 15.764501
+    },
+    {
+      "name": "Razvojna agencija Sisačko-moslavačke županije Si-Mo-Ra",
+      "latitude": 45.339338,
+      "longitude": 16.978166
+    },
+    {
+      "name": "Sektor za građenje komunalne infrastrukture i održavanje javnoprometnih površina, javnih objekata i javne rasvjete",
+      "latitude": 45.80162,
+      "longitude": 15.930433
+    },
+    {
+      "name": "Sisačko-moslavačka županija",
+      "latitude": 45.488767,
+      "longitude": 16.373182
+    },
+    {
+      "name": "Skupština Istarske županije",
+      "latitude": 45.238581,
+      "longitude": 13.937198
+    },
+    {
+      "name": "Sloboština d.o.o.",
+      "latitude": 45.260706,
+      "longitude": 17.199426
+    },
+    {
+      "name": "Služba granične sanitarne inspekcije",
+      "latitude": 45.808856,
+      "longitude": 15.947384
+    },
+    {
+      "name": "Služba za državljanstvo i statusna pitanja stranaca, odjel za državljanstvo",
+      "latitude": 45.805077,
+      "longitude": 15.981264
+    },
+    {
+      "name": "Služba za državljanstvo i statusna pitanja stranaca, odjel za statusna pitanja stranaca",
+      "latitude": 45.768684,
+      "longitude": 15.947764
+    },
+    {
+      "name": "Splitsko-dalmatinska županija",
+      "latitude": 43.513118,
+      "longitude": 16.443573
+    },
+    {
+      "name": "Sveučilišni računski centar",
+      "latitude": 45.792378,
+      "longitude": 15.969604
+    },
+    {
+      "name": "Uprava za zatvorski sustav",
+      "latitude": 45.81086,
+      "longitude": 15.979747
+    },
+    {
+      "name": "Uprava šuma Podružnica Ogulin",
+      "latitude": 45.264556,
+      "longitude": 15.227487
+    },
+    {
+      "name": "Uprava šuma Podružnica Požega",
+      "latitude": 45.338928,
+      "longitude": 17.674762
+    },
+    {
+      "name": "Upravni odjel za opću upravu",
+      "latitude": 45.559736,
+      "longitude": 18.675943
+    },
+    {
+      "name": "Upravni odjel za prostorno uređenje i gradnju",
+      "latitude": 43.735896,
+      "longitude": 15.892317
+    },
+    {
+      "name": "Ured državne uprave",
+      "latitude": 45.802373,
+      "longitude": 15.709464
+    },
+    {
+      "name": "Ured državne uprave - Ispostava u Križevcima",
+      "latitude": 46.026815,
+      "longitude": 16.545779
+    },
+    {
+      "name": "Ured državne uprave u Dubrovačko-neretvanskoj županiji - Područni ured Metković",
+      "latitude": 43.05343,
+      "longitude": 17.653066
+    },
+    {
+      "name": "Ured državne uprave u Požeško-slavonskoj županiji",
+      "latitude": 45.332793,
+      "longitude": 17.675746
+    },
+    {
+      "name": "Ured državne uprave u Vukovarsko-srijemskoj županiji",
+      "latitude": 45.29051,
+      "longitude": 18.801833
+    },
+    {
+      "name": "Ured državne uprave u Vukovarsko-srijemskoj županiji",
+      "latitude": 45.355728,
+      "longitude": 18.99794
+    },
+    {
+      "name": "Ured državne uprave u Zadarskoj županiji",
+      "latitude": 44.119036,
+      "longitude": 15.231896
+    },
+    {
+      "name": "Ured državne uprave u Zagrebačkoj županiji",
+      "latitude": 45.704689,
+      "longitude": 16.393404
+    },
+    {
+      "name": "Ured državne uprave Varaždin",
+      "latitude": 46.306479,
+      "longitude": 16.33427
+    },
+    {
+      "name": "Ured predsjednika Republike Hrvatske",
+      "latitude": 45.837633,
+      "longitude": 15.957797
+    },
+    {
+      "name": "Ured za suzbijanje korupcije i organiziranog kriminaliteta",
+      "latitude": 45.805097,
+      "longitude": 15.9816
+    },
+    {
+      "name": "Varaždinska županija",
+      "latitude": 46.307726,
+      "longitude": 16.336783
+    },
+    {
+      "name": "Vau Vau Križevci",
+      "latitude": 46.026893,
+      "longitude": 16.545601
+    },
+    {
+      "name": "vijeće mjesnog odbora Strmec Bukevski",
+      "latitude": 45.745281,
+      "longitude": 16.162912
+    },
+    {
+      "name": "Vijeće romske nacionalne manjine",
+      "latitude": 46.320157,
+      "longitude": 16.500693
+    },
+    {
+      "name": "Virovitičko-podravska županija",
+      "latitude": 45.832419,
+      "longitude": 17.383116
+    },
+    {
+      "name": "Vlada Republike Hrvatske",
+      "latitude": 45.816356,
+      "longitude": 15.972952
+    },
+    {
+      "name": "Vukovarsko-srijemska županija",
+      "latitude": 45.355552,
+      "longitude": 18.998389
+    },
+    {
+      "name": "Zadarska županija",
+      "latitude": 44.117213,
+      "longitude": 15.221027
+    },
+    {
+      "name": "Zagrebačka županija",
+      "latitude": 45.799405,
+      "longitude": 15.973231
+    },
+    {
+      "name": "Zavod za prostorno uređenje Grada Zagreba",
+      "latitude": 45.811491,
+      "longitude": 15.956932
+    },
+    {
+      "name": "Zavod za prostorno uređenje Zagrebačke županije",
+      "latitude": 45.818189,
+      "longitude": 16.006727
+    },
+    {
+      "name": "Zavod za socialni rad - ured Čakovec",
+      "latitude": 46.512945,
+      "longitude": 16.440584
+    },
+    {
+      "name": "Zavod za stanovanje",
+      "latitude": 45.55742,
+      "longitude": 18.686938
+    },
+    {
+      "name": "Zemljišnoknjižni odjel u Bjelovaru",
+      "latitude": 45.899782,
+      "longitude": 16.848836
+    },
+    {
+      "name": "Zgrada Administracije",
+      "latitude": 45.326827,
+      "longitude": 14.440237
+    },
+    {
+      "name": "Češka Beseda Daruvar",
+      "latitude": 45.594666,
+      "longitude": 17.222037
+    },
+    {
+      "name": "Čistoća Povljana",
+      "latitude": 44.345148,
+      "longitude": 15.114438
+    },
+    {
+      "name": "Šibensko-kninska županija",
+      "latitude": 43.73466,
+      "longitude": 15.890417
+    },
+    {
+      "name": "Šumarija Kamenska",
+      "latitude": 45.339721,
+      "longitude": 17.673343
+    },
+    {
+      "name": "Šumarija Požega",
+      "latitude": 45.339555,
+      "longitude": 17.673008
+    },
+    {
+      "name": "ŽUC Međimurske županije",
+      "latitude": 46.397492,
+      "longitude": 16.449282
+    },
+    {
+      "name": "Županija - upravni odjel za urbanizam i prostorno uređenje",
+      "latitude": 42.651351,
+      "longitude": 18.093462
+    },
+    {
+      "name": "Županijska lučka uprava Rab",
+      "latitude": 44.75534,
+      "longitude": 14.762158
+    },
+    {
+      "name": "Županijska uprava",
+      "latitude": 46.225394,
+      "longitude": 16.125971
+    },
+    {
+      "name": "Županijska uprava za ceste Sisačko-moslavačke županije",
+      "latitude": 45.495566,
+      "longitude": 16.374152
+    },
+    {
+      "name": "Županijsko državno odvjetništvo u Splitu",
+      "latitude": 43.514868,
+      "longitude": 16.441173
+    }
+  ],
+  "meta": {
+    "title": "Vladini uredi - Besplatno preuzimanje",
+    "description": "Vladini uredi u Hrvatskoj (606 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=government), izrez EU-POIS/HR. Sadrži 606 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vladini uredi | ListBase",
+    "seo_description": "Preuzmi Vladini uredi — 606 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 606 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,2571 @@
+{
+  "id": "hr-kampovi",
+  "name": "Kampovi",
+  "title": "Kampovi",
+  "description": "Kampovi u Hrvatskoj (506 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=camp_site), izrez EU-POIS/HR.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 506,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AC San Marino",
+      "latitude": 44.822563,
+      "longitude": 14.736171
+    },
+    {
+      "name": "Ada",
+      "latitude": 44.998904,
+      "longitude": 16.306203
+    },
+    {
+      "name": "Adria Sol Camping",
+      "latitude": 44.190493,
+      "longitude": 15.548226
+    },
+    {
+      "name": "Aloa",
+      "latitude": 43.263538,
+      "longitude": 16.610083
+    },
+    {
+      "name": "Amadria Park Trogir",
+      "latitude": 43.509588,
+      "longitude": 16.192684
+    },
+    {
+      "name": "Amarin",
+      "latitude": 45.105266,
+      "longitude": 13.622723
+    },
+    {
+      "name": "Aminess Atea Camping Resort",
+      "latitude": 45.171255,
+      "longitude": 14.545072
+    },
+    {
+      "name": "Aminess Avalona Camping Resort",
+      "latitude": 44.337923,
+      "longitude": 15.096603
+    },
+    {
+      "name": "Aminess Maravea Camping Resort",
+      "latitude": 45.34135,
+      "longitude": 13.546972
+    },
+    {
+      "name": "Aminess Planet Camping Port9",
+      "latitude": 42.950836,
+      "longitude": 17.143276
+    },
+    {
+      "name": "Ante",
+      "latitude": 43.44067,
+      "longitude": 16.6578
+    },
+    {
+      "name": "Ante Camp",
+      "latitude": 44.344173,
+      "longitude": 15.328731
+    },
+    {
+      "name": "Antony Boy",
+      "latitude": 42.97928,
+      "longitude": 17.108581
+    },
+    {
+      "name": "Apartmaji Bilpa",
+      "latitude": 45.510922,
+      "longitude": 14.964322
+    },
+    {
+      "name": "Appartment Camp Vitkovic",
+      "latitude": 45.39512,
+      "longitude": 16.627521
+    },
+    {
+      "name": "Arena Indije Campsite",
+      "latitude": 44.824659,
+      "longitude": 13.849112
+    },
+    {
+      "name": "Arena One 99 Glamping",
+      "latitude": 44.819239,
+      "longitude": 13.900433
+    },
+    {
+      "name": "Arena Runke Campsite",
+      "latitude": 44.807576,
+      "longitude": 13.917458
+    },
+    {
+      "name": "Arena Stoja",
+      "latitude": 44.856688,
+      "longitude": 13.813819
+    },
+    {
+      "name": "Arena Stupice Campsite",
+      "latitude": 44.796593,
+      "longitude": 13.918304
+    },
+    {
+      "name": "Auto camp \"BRIST\"",
+      "latitude": 43.924992,
+      "longitude": 15.412666
+    },
+    {
+      "name": "Auto camp \"Mala Milna\"",
+      "latitude": 43.162426,
+      "longitude": 16.485352
+    },
+    {
+      "name": "Auto Camp Diana & Josip",
+      "latitude": 43.932486,
+      "longitude": 15.452674
+    },
+    {
+      "name": "Auto Camp Legend",
+      "latitude": 43.630644,
+      "longitude": 15.95675
+    },
+    {
+      "name": "Auto Camp Paklina",
+      "latitude": 43.126365,
+      "longitude": 16.644169
+    },
+    {
+      "name": "Auto Camp Tamaris",
+      "latitude": 43.475892,
+      "longitude": 16.564021
+    },
+    {
+      "name": "Auto Camp Ublog",
+      "latitude": 43.990491,
+      "longitude": 15.324478
+    },
+    {
+      "name": "auto camp\"Klaus'",
+      "latitude": 43.678183,
+      "longitude": 15.920102
+    },
+    {
+      "name": "Auto Kamp Lučina",
+      "latitude": 43.957913,
+      "longitude": 15.382992
+    },
+    {
+      "name": "Auto kamp Pere Dinjiška",
+      "latitude": 44.359665,
+      "longitude": 15.186689
+    },
+    {
+      "name": "Auto Kamp Rogač",
+      "latitude": 42.782514,
+      "longitude": 17.875644
+    },
+    {
+      "name": "Auto-camp Mido",
+      "latitude": 43.36804,
+      "longitude": 16.352047
+    },
+    {
+      "name": "Autocamp",
+      "latitude": 43.890602,
+      "longitude": 15.53504
+    },
+    {
+      "name": "Autocamp Bijela Uvala",
+      "latitude": 45.188024,
+      "longitude": 13.593376
+    },
+    {
+      "name": "Autocamp Biokovo",
+      "latitude": 43.397707,
+      "longitude": 17.04814
+    },
+    {
+      "name": "Autocamp Daleka Obala",
+      "latitude": 43.995959,
+      "longitude": 15.314259
+    },
+    {
+      "name": "Autocamp Denka",
+      "latitude": 43.0253,
+      "longitude": 17.035248
+    },
+    {
+      "name": "Autocamp Dom",
+      "latitude": 43.748801,
+      "longitude": 15.79706
+    },
+    {
+      "name": "Autocamp Draga",
+      "latitude": 45.23943,
+      "longitude": 14.250283
+    },
+    {
+      "name": "Autocamp Imperial",
+      "latitude": 43.752531,
+      "longitude": 15.788967
+    },
+    {
+      "name": "Autocamp Jaz",
+      "latitude": 44.283274,
+      "longitude": 15.459612
+    },
+    {
+      "name": "Autocamp Katinka",
+      "latitude": 44.285822,
+      "longitude": 15.451416
+    },
+    {
+      "name": "Autocamp Kero",
+      "latitude": 44.057101,
+      "longitude": 15.289096
+    },
+    {
+      "name": "Autocamp Kosirina",
+      "latitude": 43.795634,
+      "longitude": 15.60785
+    },
+    {
+      "name": "Autocamp Kosirina",
+      "latitude": 43.797796,
+      "longitude": 15.610249
+    },
+    {
+      "name": "Autocamp Kupari",
+      "latitude": 42.625366,
+      "longitude": 18.188337
+    },
+    {
+      "name": "Autocamp Lupis",
+      "latitude": 43.02825,
+      "longitude": 17.03084
+    },
+    {
+      "name": "Autocamp Marko",
+      "latitude": 44.286679,
+      "longitude": 15.452473
+    },
+    {
+      "name": "Autocamp Medveja",
+      "latitude": 45.27071,
+      "longitude": 14.265867
+    },
+    {
+      "name": "Autocamp Molunat",
+      "latitude": 42.453655,
+      "longitude": 18.435725
+    },
+    {
+      "name": "Autocamp More",
+      "latitude": 43.661858,
+      "longitude": 15.941375
+    },
+    {
+      "name": "Autocamp Orij",
+      "latitude": 43.445822,
+      "longitude": 16.634332
+    },
+    {
+      "name": "Autocamp Oskorušica",
+      "latitude": 42.967238,
+      "longitude": 17.073526
+    },
+    {
+      "name": "Autocamp Paradiso",
+      "latitude": 43.872063,
+      "longitude": 15.559521
+    },
+    {
+      "name": "Autocamp Peros",
+      "latitude": 44.230255,
+      "longitude": 15.173183
+    },
+    {
+      "name": "Autocamp Pisak",
+      "latitude": 44.272765,
+      "longitude": 15.477186
+    },
+    {
+      "name": "Autocamp Prapratno",
+      "latitude": 42.818017,
+      "longitude": 17.675076
+    },
+    {
+      "name": "Autocamp Punta",
+      "latitude": 44.240282,
+      "longitude": 15.134277
+    },
+    {
+      "name": "Autocamp Selce",
+      "latitude": 45.153023,
+      "longitude": 14.723843
+    },
+    {
+      "name": "Autocamp Selce",
+      "latitude": 45.153236,
+      "longitude": 14.71923
+    },
+    {
+      "name": "Autocamp Sirena",
+      "latitude": 43.405802,
+      "longitude": 16.777863
+    },
+    {
+      "name": "Autocamp Tabor",
+      "latitude": 44.239695,
+      "longitude": 15.135872
+    },
+    {
+      "name": "Autocamp Tamaris",
+      "latitude": 44.250763,
+      "longitude": 15.53796
+    },
+    {
+      "name": "Autocamp Tomas",
+      "latitude": 44.143682,
+      "longitude": 15.087282
+    },
+    {
+      "name": "Autocamp Vesna",
+      "latitude": 44.285781,
+      "longitude": 15.452451
+    },
+    {
+      "name": "Autocamp Zelena Laguna",
+      "latitude": 45.193115,
+      "longitude": 13.587391
+    },
+    {
+      "name": "Autokamp Draga",
+      "latitude": 45.120516,
+      "longitude": 14.524622
+    },
+    {
+      "name": "Autokamp Gentile",
+      "latitude": 43.872581,
+      "longitude": 15.558102
+    },
+    {
+      "name": "Autokamp Jazina",
+      "latitude": 43.809498,
+      "longitude": 15.629269
+    },
+    {
+      "name": "Autokamp Kerido",
+      "latitude": 43.818682,
+      "longitude": 15.662382
+    },
+    {
+      "name": "Autokamp Marina",
+      "latitude": 42.753074,
+      "longitude": 17.460561
+    },
+    {
+      "name": "Autokamp Maslina",
+      "latitude": 43.873126,
+      "longitude": 15.558007
+    },
+    {
+      "name": "Autokamp Milic",
+      "latitude": 42.784293,
+      "longitude": 17.859832
+    },
+    {
+      "name": "Autokamp Mungos",
+      "latitude": 42.739131,
+      "longitude": 17.534583
+    },
+    {
+      "name": "Autokamp Padova III",
+      "latitude": 44.752105,
+      "longitude": 14.773853
+    },
+    {
+      "name": "Autokamp Paradiso",
+      "latitude": 42.607226,
+      "longitude": 18.227713
+    },
+    {
+      "name": "Autokamp Paron Sime",
+      "latitude": 44.275112,
+      "longitude": 15.477641
+    },
+    {
+      "name": "Autokamp Plitka Vala",
+      "latitude": 43.806079,
+      "longitude": 15.612392
+    },
+    {
+      "name": "Autokamp Preko Mosta",
+      "latitude": 44.692025,
+      "longitude": 14.390583
+    },
+    {
+      "name": "Autokamp Slatina",
+      "latitude": 44.81952,
+      "longitude": 14.339625
+    },
+    {
+      "name": "Autokamp Starine",
+      "latitude": 43.816232,
+      "longitude": 15.671593
+    },
+    {
+      "name": "Autokamp Zalo",
+      "latitude": 44.427273,
+      "longitude": 15.213019
+    },
+    {
+      "name": "Autokemp Marin",
+      "latitude": 44.272046,
+      "longitude": 15.477493
+    },
+    {
+      "name": "Avtokamp Ante-Toni",
+      "latitude": 43.630451,
+      "longitude": 15.956157
+    },
+    {
+      "name": "Avtokamp Jankovič",
+      "latitude": 45.517998,
+      "longitude": 15.325933
+    },
+    {
+      "name": "Avtokamp Kanu",
+      "latitude": 45.465427,
+      "longitude": 15.092193
+    },
+    {
+      "name": "B",
+      "latitude": 43.440651,
+      "longitude": 16.658082
+    },
+    {
+      "name": "Base Camp",
+      "latitude": 44.195626,
+      "longitude": 15.770772
+    },
+    {
+      "name": "Baška Beach Camping Resort",
+      "latitude": 44.965504,
+      "longitude": 14.745753
+    },
+    {
+      "name": "BearCamp",
+      "latitude": 44.947765,
+      "longitude": 15.636733
+    },
+    {
+      "name": "Bed and Bike",
+      "latitude": 46.158366,
+      "longitude": 16.95977
+    },
+    {
+      "name": "Bela krajina",
+      "latitude": 45.605027,
+      "longitude": 15.276921
+    },
+    {
+      "name": "Bena",
+      "latitude": 44.644754,
+      "longitude": 14.776718
+    },
+    {
+      "name": "Besplatno kampiranje (donacije dobrodošle)",
+      "latitude": 44.848749,
+      "longitude": 15.407264
+    },
+    {
+      "name": "Bi Village",
+      "latitude": 44.916637,
+      "longitude": 13.808497
+    },
+    {
+      "name": "Big Bear Plitvice Camping Resort",
+      "latitude": 44.844675,
+      "longitude": 15.482073
+    },
+    {
+      "name": "Big Yellow House",
+      "latitude": 44.465516,
+      "longitude": 15.017843
+    },
+    {
+      "name": "Borje",
+      "latitude": 44.764853,
+      "longitude": 15.687683
+    },
+    {
+      "name": "Boutique Camping Materada Beach",
+      "latitude": 45.246254,
+      "longitude": 13.596303
+    },
+    {
+      "name": "Boutique Camping Santa Marina",
+      "latitude": 45.288127,
+      "longitude": 13.606535
+    },
+    {
+      "name": "Brajdice",
+      "latitude": 44.823236,
+      "longitude": 13.85232
+    },
+    {
+      "name": "Brijesta Dubrovnik Camping",
+      "latitude": 42.903511,
+      "longitude": 17.533458
+    },
+    {
+      "name": "Budina",
+      "latitude": 42.803139,
+      "longitude": 17.846515
+    },
+    {
+      "name": "Camp Amar",
+      "latitude": 45.047675,
+      "longitude": 14.481297
+    },
+    {
+      "name": "Camp Anica Kuk",
+      "latitude": 44.289507,
+      "longitude": 15.453779
+    },
+    {
+      "name": "Camp Arboretum",
+      "latitude": 43.962714,
+      "longitude": 15.360835
+    },
+    {
+      "name": "Camp Bakija",
+      "latitude": 43.923484,
+      "longitude": 15.455907
+    },
+    {
+      "name": "Camp Barinica",
+      "latitude": 43.630517,
+      "longitude": 15.938551
+    },
+    {
+      "name": "Camp Brioni",
+      "latitude": 44.896758,
+      "longitude": 13.805421
+    },
+    {
+      "name": "Camp California",
+      "latitude": 43.910359,
+      "longitude": 15.497777
+    },
+    {
+      "name": "Camp Calimero",
+      "latitude": 43.873171,
+      "longitude": 15.555281
+    },
+    {
+      "name": "Camp Ciste",
+      "latitude": 43.167969,
+      "longitude": 17.208851
+    },
+    {
+      "name": "Camp CTT",
+      "latitude": 44.346594,
+      "longitude": 15.324541
+    },
+    {
+      "name": "Camp Duboka",
+      "latitude": 45.474633,
+      "longitude": 17.657297
+    },
+    {
+      "name": "Camp Dvor",
+      "latitude": 45.012377,
+      "longitude": 13.974497
+    },
+    {
+      "name": "Camp Europa",
+      "latitude": 43.913526,
+      "longitude": 15.946234
+    },
+    {
+      "name": "Camp Glavna Plaža",
+      "latitude": 42.976189,
+      "longitude": 17.189403
+    },
+    {
+      "name": "Camp Grebišće",
+      "latitude": 43.15847,
+      "longitude": 16.711064
+    },
+    {
+      "name": "Camp Hamza",
+      "latitude": 44.635285,
+      "longitude": 16.043496
+    },
+    {
+      "name": "Camp Holiday",
+      "latitude": 43.161519,
+      "longitude": 16.706984
+    },
+    {
+      "name": "Camp Horizont",
+      "latitude": 43.617172,
+      "longitude": 15.919258
+    },
+    {
+      "name": "Camp Kanić",
+      "latitude": 44.597159,
+      "longitude": 14.83433
+    },
+    {
+      "name": "Camp Kačjak",
+      "latitude": 45.203024,
+      "longitude": 14.652304
+    },
+    {
+      "name": "Camp Klenovica",
+      "latitude": 45.097558,
+      "longitude": 14.844045
+    },
+    {
+      "name": "Camp Kopara",
+      "latitude": 43.524616,
+      "longitude": 15.969487
+    },
+    {
+      "name": "Camp Krka",
+      "latitude": 43.800364,
+      "longitude": 15.941493
+    },
+    {
+      "name": "Camp Krvavica",
+      "latitude": 43.323604,
+      "longitude": 16.986037
+    },
+    {
+      "name": "Camp Labadusa",
+      "latitude": 43.48189,
+      "longitude": 16.244979
+    },
+    {
+      "name": "Camp Levrnaka",
+      "latitude": 43.821401,
+      "longitude": 15.251207
+    },
+    {
+      "name": "CAMP LUKA",
+      "latitude": 44.296085,
+      "longitude": 15.104941
+    },
+    {
+      "name": "Camp Makarska",
+      "latitude": 43.307242,
+      "longitude": 17.005164
+    },
+    {
+      "name": "Camp Marina",
+      "latitude": 43.799556,
+      "longitude": 15.942934
+    },
+    {
+      "name": "Camp Martin",
+      "latitude": 44.000024,
+      "longitude": 15.36843
+    },
+    {
+      "name": "Camp Matea",
+      "latitude": 44.056378,
+      "longitude": 15.290845
+    },
+    {
+      "name": "Camp Matea",
+      "latitude": 44.297506,
+      "longitude": 15.097299
+    },
+    {
+      "name": "Camp Mina",
+      "latitude": 43.163284,
+      "longitude": 16.702783
+    },
+    {
+      "name": "Camp Mlaska",
+      "latitude": 43.137439,
+      "longitude": 17.142753
+    },
+    {
+      "name": "Camp Mlin",
+      "latitude": 43.38531,
+      "longitude": 16.484618
+    },
+    {
+      "name": "Camp Navis",
+      "latitude": 44.331159,
+      "longitude": 15.361679
+    },
+    {
+      "name": "Camp Nurka",
+      "latitude": 44.635669,
+      "longitude": 16.043459
+    },
+    {
+      "name": "Camp Oaza Mira",
+      "latitude": 43.886172,
+      "longitude": 15.532094
+    },
+    {
+      "name": "Camp Olga",
+      "latitude": 44.820944,
+      "longitude": 13.859707
+    },
+    {
+      "name": "Camp Omišalj",
+      "latitude": 45.236412,
+      "longitude": 14.549879
+    },
+    {
+      "name": "Camp Pašman",
+      "latitude": 43.959067,
+      "longitude": 15.378572
+    },
+    {
+      "name": "Camp Peko",
+      "latitude": 44.283845,
+      "longitude": 15.458433
+    },
+    {
+      "name": "Camp Peškera",
+      "latitude": 44.822394,
+      "longitude": 13.851196
+    },
+    {
+      "name": "Camp Pineta",
+      "latitude": 44.177995,
+      "longitude": 15.161297
+    },
+    {
+      "name": "Camp Pineta",
+      "latitude": 44.937532,
+      "longitude": 13.797117
+    },
+    {
+      "name": "Camp Podaca",
+      "latitude": 43.122485,
+      "longitude": 17.305653
+    },
+    {
+      "name": "Camp Ponta",
+      "latitude": 42.976729,
+      "longitude": 17.22463
+    },
+    {
+      "name": "Camp Primorje",
+      "latitude": 43.956848,
+      "longitude": 15.432856
+    },
+    {
+      "name": "Camp Riviera Makarska",
+      "latitude": 43.304643,
+      "longitude": 17.006264
+    },
+    {
+      "name": "Camp Roko",
+      "latitude": 43.749352,
+      "longitude": 15.793771
+    },
+    {
+      "name": "Camp Roko",
+      "latitude": 43.87124,
+      "longitude": 15.555831
+    },
+    {
+      "name": "Camp Romantik",
+      "latitude": 45.081581,
+      "longitude": 14.101731
+    },
+    {
+      "name": "Camp Rožac",
+      "latitude": 43.5051,
+      "longitude": 16.257038
+    },
+    {
+      "name": "Camp Sani",
+      "latitude": 43.682024,
+      "longitude": 15.918528
+    },
+    {
+      "name": "Camp Skalinada",
+      "latitude": 43.959987,
+      "longitude": 15.379321
+    },
+    {
+      "name": "Camp Slapić",
+      "latitude": 45.420634,
+      "longitude": 15.484447
+    },
+    {
+      "name": "Camp Soline",
+      "latitude": 43.928825,
+      "longitude": 15.453847
+    },
+    {
+      "name": "Camp Sugar",
+      "latitude": 44.49006,
+      "longitude": 14.905234
+    },
+    {
+      "name": "Camp Terre Selina",
+      "latitude": 45.158206,
+      "longitude": 13.767295
+    },
+    {
+      "name": "Camp Tiha",
+      "latitude": 45.148823,
+      "longitude": 14.672367
+    },
+    {
+      "name": "Camp Trstenica",
+      "latitude": 42.977061,
+      "longitude": 17.189518
+    },
+    {
+      "name": "Camp u Dragana",
+      "latitude": 43.549583,
+      "longitude": 16.377672
+    },
+    {
+      "name": "Camp Ujča",
+      "latitude": 44.968379,
+      "longitude": 14.922172
+    },
+    {
+      "name": "Camp Uvala Borova",
+      "latitude": 43.131146,
+      "longitude": 17.287278
+    },
+    {
+      "name": "Camp Vala",
+      "latitude": 43.633395,
+      "longitude": 15.966803
+    },
+    {
+      "name": "Camp Vira",
+      "latitude": 43.19196,
+      "longitude": 16.430973
+    },
+    {
+      "name": "Camp Vita",
+      "latitude": 46.065587,
+      "longitude": 15.786101
+    },
+    {
+      "name": "Camp Viter",
+      "latitude": 43.139809,
+      "longitude": 17.280899
+    },
+    {
+      "name": "Camp Vransko jezero Crkvine",
+      "latitude": 43.930443,
+      "longitude": 15.510037
+    },
+    {
+      "name": "Camp Šibuljina",
+      "latitude": 44.337463,
+      "longitude": 15.341209
+    },
+    {
+      "name": "Camp Škovrdara",
+      "latitude": 44.628793,
+      "longitude": 14.793408
+    },
+    {
+      "name": "Camping",
+      "latitude": 44.213263,
+      "longitude": 15.488751
+    },
+    {
+      "name": "Camping",
+      "latitude": 44.912504,
+      "longitude": 14.915434
+    },
+    {
+      "name": "Camping Adriatiq",
+      "latitude": 43.606368,
+      "longitude": 15.920485
+    },
+    {
+      "name": "Camping Arena Tasalera",
+      "latitude": 44.811356,
+      "longitude": 13.914538
+    },
+    {
+      "name": "Camping Bijar",
+      "latitude": 44.699352,
+      "longitude": 14.394843
+    },
+    {
+      "name": "Camping Bogata Šuma",
+      "latitude": 45.362594,
+      "longitude": 15.689449
+    },
+    {
+      "name": "Camping Bor",
+      "latitude": 45.023848,
+      "longitude": 14.560854
+    },
+    {
+      "name": "Camping Brajdi",
+      "latitude": 45.107813,
+      "longitude": 14.355949
+    },
+    {
+      "name": "Camping Bunica I",
+      "latitude": 45.025207,
+      "longitude": 14.886262
+    },
+    {
+      "name": "Camping Bunica IV",
+      "latitude": 45.02583,
+      "longitude": 14.886314
+    },
+    {
+      "name": "Camping Bunja",
+      "latitude": 43.381347,
+      "longitude": 16.578179
+    },
+    {
+      "name": "Camping Dalmata",
+      "latitude": 42.979231,
+      "longitude": 17.191316
+    },
+    {
+      "name": "Camping Glavotok",
+      "latitude": 45.095051,
+      "longitude": 14.440699
+    },
+    {
+      "name": "Camping Ivančan",
+      "latitude": 46.119174,
+      "longitude": 17.071623
+    },
+    {
+      "name": "Camping Ježevac",
+      "latitude": 45.019445,
+      "longitude": 14.569683
+    },
+    {
+      "name": "Camping Kanegra FKK",
+      "latitude": 45.487404,
+      "longitude": 13.559972
+    },
+    {
+      "name": "Camping Kate",
+      "latitude": 42.624106,
+      "longitude": 18.207692
+    },
+    {
+      "name": "Camping Kopito",
+      "latitude": 43.168351,
+      "longitude": 16.458081
+    },
+    {
+      "name": "Camping Lanterna - Recepcija",
+      "latitude": 45.297079,
+      "longitude": 13.594459
+    },
+    {
+      "name": "Camping Lavanda",
+      "latitude": 42.982442,
+      "longitude": 17.205664
+    },
+    {
+      "name": "Camping Lika",
+      "latitude": 44.304878,
+      "longitude": 15.863912
+    },
+    {
+      "name": "Camping Lopari",
+      "latitude": 44.68157,
+      "longitude": 14.397874
+    },
+    {
+      "name": "Camping Medulin",
+      "latitude": 44.809555,
+      "longitude": 13.930296
+    },
+    {
+      "name": "Camping Miočić",
+      "latitude": 44.292135,
+      "longitude": 15.302456
+    },
+    {
+      "name": "Camping Miran Pirovac",
+      "latitude": 43.822437,
+      "longitude": 15.657794
+    },
+    {
+      "name": "Camping Nevio",
+      "latitude": 42.982176,
+      "longitude": 17.199238
+    },
+    {
+      "name": "Camping Oliva",
+      "latitude": 45.079377,
+      "longitude": 14.149099
+    },
+    {
+      "name": "Camping Opatija",
+      "latitude": 45.308752,
+      "longitude": 14.284286
+    },
+    {
+      "name": "Camping Orebić",
+      "latitude": 42.980603,
+      "longitude": 17.193309
+    },
+    {
+      "name": "Camping Orsera",
+      "latitude": 45.155279,
+      "longitude": 13.607654
+    },
+    {
+      "name": "Camping Osekovo",
+      "latitude": 45.520134,
+      "longitude": 16.615663
+    },
+    {
+      "name": "Camping Oštro",
+      "latitude": 45.271417,
+      "longitude": 14.563241
+    },
+    {
+      "name": "Camping Peruca",
+      "latitude": 43.90403,
+      "longitude": 16.445823
+    },
+    {
+      "name": "Camping Pila",
+      "latitude": 45.014879,
+      "longitude": 14.627209
+    },
+    {
+      "name": "Camping Planik",
+      "latitude": 44.278598,
+      "longitude": 15.344089
+    },
+    {
+      "name": "Camping Plantaža",
+      "latitude": 44.300532,
+      "longitude": 15.430877
+    },
+    {
+      "name": "Camping Plitvice",
+      "latitude": 44.933892,
+      "longitude": 15.630844
+    },
+    {
+      "name": "Camping Pod Maslinom",
+      "latitude": 42.699027,
+      "longitude": 18.005537
+    },
+    {
+      "name": "Camping Primavera Plitvice",
+      "latitude": 44.976073,
+      "longitude": 15.496238
+    },
+    {
+      "name": "Camping Puntica",
+      "latitude": 44.283704,
+      "longitude": 15.342655
+    },
+    {
+      "name": "Camping Puntica",
+      "latitude": 45.177517,
+      "longitude": 13.600856
+    },
+    {
+      "name": "Camping Radonja",
+      "latitude": 45.387731,
+      "longitude": 15.613678
+    },
+    {
+      "name": "CAMPING RAČA",
+      "latitude": 44.916883,
+      "longitude": 14.915827
+    },
+    {
+      "name": "Camping Resort Solaris",
+      "latitude": 43.698053,
+      "longitude": 15.879633
+    },
+    {
+      "name": "Camping Robeko",
+      "latitude": 43.891539,
+      "longitude": 15.822364
+    },
+    {
+      "name": "Camping Rujno",
+      "latitude": 44.288084,
+      "longitude": 15.446705
+    },
+    {
+      "name": "Camping Savudrija",
+      "latitude": 45.486621,
+      "longitude": 13.492464
+    },
+    {
+      "name": "Camping Simuni",
+      "latitude": 44.465281,
+      "longitude": 14.967382
+    },
+    {
+      "name": "Camping Solitudo",
+      "latitude": 42.661666,
+      "longitude": 18.070169
+    },
+    {
+      "name": "Camping Stobreč Split",
+      "latitude": 43.503653,
+      "longitude": 16.527989
+    },
+    {
+      "name": "Camping Suza Baranje",
+      "latitude": 45.785519,
+      "longitude": 18.782278
+    },
+    {
+      "name": "Camping Terme Olimia/Natura",
+      "latitude": 46.164721,
+      "longitude": 15.604438
+    },
+    {
+      "name": "Camping Trsteno",
+      "latitude": 42.713951,
+      "longitude": 17.977437
+    },
+    {
+      "name": "Camping Ugljan Resort",
+      "latitude": 44.110395,
+      "longitude": 15.103356
+    },
+    {
+      "name": "Camping Ulika",
+      "latitude": 45.257455,
+      "longitude": 13.580962
+    },
+    {
+      "name": "Camping Valkanela",
+      "latitude": 45.16478,
+      "longitude": 13.607579
+    },
+    {
+      "name": "Camping Vasva & Hazim",
+      "latitude": 44.638327,
+      "longitude": 16.042093
+    },
+    {
+      "name": "Camping Village Poljana",
+      "latitude": 44.55657,
+      "longitude": 14.443289
+    },
+    {
+      "name": "Camping Vrata Velebita",
+      "latitude": 44.367072,
+      "longitude": 15.325234
+    },
+    {
+      "name": "Camping VrelaCamping Vrela - Brijesta",
+      "latitude": 42.903943,
+      "longitude": 17.53274
+    },
+    {
+      "name": "Camping Vrila",
+      "latitude": 43.003084,
+      "longitude": 17.285028
+    },
+    {
+      "name": "Camping Vučine Žuljana",
+      "latitude": 42.887469,
+      "longitude": 17.449278
+    },
+    {
+      "name": "Camping Zelena Dolina",
+      "latitude": 44.856331,
+      "longitude": 15.346128
+    },
+    {
+      "name": "Campingplatz",
+      "latitude": 45.238139,
+      "longitude": 19.381804
+    },
+    {
+      "name": "Centinera Resort & Camping",
+      "latitude": 44.821398,
+      "longitude": 13.857462
+    },
+    {
+      "name": "Cota",
+      "latitude": 44.144423,
+      "longitude": 15.083361
+    },
+    {
+      "name": "Cuka",
+      "latitude": 43.909044,
+      "longitude": 15.503116
+    },
+    {
+      "name": "Dalmacija",
+      "latitude": 43.811948,
+      "longitude": 15.622519
+    },
+    {
+      "name": "Darko",
+      "latitude": 43.440764,
+      "longitude": 16.657588
+    },
+    {
+      "name": "Delfin",
+      "latitude": 43.440982,
+      "longitude": 16.656612
+    },
+    {
+      "name": "Destination Korana",
+      "latitude": 45.25422,
+      "longitude": 15.545238
+    },
+    {
+      "name": "Diana",
+      "latitude": 43.441285,
+      "longitude": 16.653634
+    },
+    {
+      "name": "Divna",
+      "latitude": 43.01661,
+      "longitude": 17.200699
+    },
+    {
+      "name": "Duće",
+      "latitude": 43.440706,
+      "longitude": 16.659001
+    },
+    {
+      "name": "Eco gecko",
+      "latitude": 45.40414,
+      "longitude": 13.693106
+    },
+    {
+      "name": "Ecocamp Rizvan city",
+      "latitude": 44.495393,
+      "longitude": 15.291633
+    },
+    {
+      "name": "Ethno Village Karlovčan",
+      "latitude": 46.027915,
+      "longitude": 17.248338
+    },
+    {
+      "name": "Etno kuća pod Okićem",
+      "latitude": 45.752407,
+      "longitude": 15.707899
+    },
+    {
+      "name": "Etno Park Slap",
+      "latitude": 45.254482,
+      "longitude": 15.41239
+    },
+    {
+      "name": "Family Camp Kopačevo",
+      "latitude": 45.598654,
+      "longitude": 18.784489
+    },
+    {
+      "name": "Filip",
+      "latitude": 43.960023,
+      "longitude": 15.42878
+    },
+    {
+      "name": "Finida",
+      "latitude": 45.39237,
+      "longitude": 13.540173
+    },
+    {
+      "name": "FKK Sovinje",
+      "latitude": 43.909018,
+      "longitude": 15.436381
+    },
+    {
+      "name": "FKK-Bucht 'Triluke'",
+      "latitude": 43.888985,
+      "longitude": 15.449081
+    },
+    {
+      "name": "Fratarski",
+      "latitude": 44.828826,
+      "longitude": 13.843007
+    },
+    {
+      "name": "Fuma",
+      "latitude": 44.822033,
+      "longitude": 13.857052
+    },
+    {
+      "name": "Gea Viva - eko centar & kamp",
+      "latitude": 43.321276,
+      "longitude": 16.456815
+    },
+    {
+      "name": "Good energy camping",
+      "latitude": 43.029274,
+      "longitude": 17.550717
+    },
+    {
+      "name": "Happy Dog Premium Village",
+      "latitude": 45.310775,
+      "longitude": 13.603903
+    },
+    {
+      "name": "Horizonte Camp Veruda Island",
+      "latitude": 44.827494,
+      "longitude": 13.842303
+    },
+    {
+      "name": "Istra Premium Camping Resort",
+      "latitude": 45.174574,
+      "longitude": 13.594848
+    },
+    {
+      "name": "Ivan",
+      "latitude": 43.440805,
+      "longitude": 16.65731
+    },
+    {
+      "name": "Izletiste Kupaliste",
+      "latitude": 43.482983,
+      "longitude": 16.840268
+    },
+    {
+      "name": "Jezera Village",
+      "latitude": 43.794396,
+      "longitude": 15.627146
+    },
+    {
+      "name": "Kamp \"Ivo\"",
+      "latitude": 43.441366,
+      "longitude": 16.652548
+    },
+    {
+      "name": "Kamp \"Nin\"",
+      "latitude": 44.245536,
+      "longitude": 15.173913
+    },
+    {
+      "name": "Kamp Antonia",
+      "latitude": 43.33551,
+      "longitude": 16.838559
+    },
+    {
+      "name": "Kamp Anđela",
+      "latitude": 44.05541,
+      "longitude": 15.29231
+    },
+    {
+      "name": "Kamp Aveto",
+      "latitude": 43.967812,
+      "longitude": 15.408625
+    },
+    {
+      "name": "Kamp Batalaža",
+      "latitude": 44.135314,
+      "longitude": 15.097311
+    },
+    {
+      "name": "Kamp Baćinska jezera",
+      "latitude": 43.073335,
+      "longitude": 17.419397
+    },
+    {
+      "name": "Kamp Borovik",
+      "latitude": 45.391673,
+      "longitude": 18.189857
+    },
+    {
+      "name": "Kamp Cvrčak",
+      "latitude": 44.924456,
+      "longitude": 14.030802
+    },
+    {
+      "name": "Kamp Diana",
+      "latitude": 44.824948,
+      "longitude": 13.858944
+    },
+    {
+      "name": "Kamp Dido",
+      "latitude": 44.056365,
+      "longitude": 15.290319
+    },
+    {
+      "name": "Kamp Dolac",
+      "latitude": 43.201548,
+      "longitude": 16.661364
+    },
+    {
+      "name": "Kamp Dole",
+      "latitude": 43.170794,
+      "longitude": 17.196584
+    },
+    {
+      "name": "Kamp Dražica",
+      "latitude": 44.624829,
+      "longitude": 14.800391
+    },
+    {
+      "name": "Kamp Dugi Otok",
+      "latitude": 43.975989,
+      "longitude": 15.09702
+    },
+    {
+      "name": "Kamp Galeb",
+      "latitude": 43.439917,
+      "longitude": 16.680941
+    },
+    {
+      "name": "Kamp Grand Veles",
+      "latitude": 44.82353,
+      "longitude": 13.848539
+    },
+    {
+      "name": "Kamp Ivan",
+      "latitude": 43.147308,
+      "longitude": 16.884384
+    },
+    {
+      "name": "Kamp Jasenovo",
+      "latitude": 43.650831,
+      "longitude": 15.951029
+    },
+    {
+      "name": "Kamp Kalebić",
+      "latitude": 43.844487,
+      "longitude": 15.619878
+    },
+    {
+      "name": "Kamp Karin",
+      "latitude": 44.128334,
+      "longitude": 15.617778
+    },
+    {
+      "name": "Kamp Karlo",
+      "latitude": 44.824065,
+      "longitude": 13.855574
+    },
+    {
+      "name": "Kamp Katra",
+      "latitude": 45.458375,
+      "longitude": 15.252131
+    },
+    {
+      "name": "Kamp kestenovac",
+      "latitude": 44.644085,
+      "longitude": 16.036846
+    },
+    {
+      "name": "Kamp Kito",
+      "latitude": 43.264183,
+      "longitude": 16.648828
+    },
+    {
+      "name": "Kamp Kolpa",
+      "latitude": 45.458639,
+      "longitude": 15.254894
+    },
+    {
+      "name": "Kamp Konda",
+      "latitude": 45.49513,
+      "longitude": 15.051842
+    },
+    {
+      "name": "Kamp Korana",
+      "latitude": 44.948463,
+      "longitude": 15.642524
+    },
+    {
+      "name": "Kamp Korita",
+      "latitude": 44.964537,
+      "longitude": 15.64433
+    },
+    {
+      "name": "Kamp Krasinec",
+      "latitude": 45.593908,
+      "longitude": 15.284064
+    },
+    {
+      "name": "Kamp Levantara",
+      "latitude": 43.782877,
+      "longitude": 15.647704
+    },
+    {
+      "name": "Kamp Lili",
+      "latitude": 43.131595,
+      "longitude": 16.612434
+    },
+    {
+      "name": "Kamp Lisičina",
+      "latitude": 43.447169,
+      "longitude": 16.690866
+    },
+    {
+      "name": "Kamp Lička kapa",
+      "latitude": 44.712693,
+      "longitude": 15.74388
+    },
+    {
+      "name": "Kamp Lokve",
+      "latitude": 45.360341,
+      "longitude": 14.722675
+    },
+    {
+      "name": "Kamp Lostura",
+      "latitude": 43.816945,
+      "longitude": 15.577649
+    },
+    {
+      "name": "Kamp Lovšin",
+      "latitude": 45.633847,
+      "longitude": 15.310107
+    },
+    {
+      "name": "Kamp Madronič",
+      "latitude": 45.488865,
+      "longitude": 15.059827
+    },
+    {
+      "name": "Kamp Marta",
+      "latitude": 45.049312,
+      "longitude": 14.489431
+    },
+    {
+      "name": "Kamp Muhvič",
+      "latitude": 45.494712,
+      "longitude": 15.05512
+    },
+    {
+      "name": "Kamp Nudist",
+      "latitude": 43.182469,
+      "longitude": 16.687348
+    },
+    {
+      "name": "Kamp Oaza Lučica",
+      "latitude": 43.869726,
+      "longitude": 15.558374
+    },
+    {
+      "name": "Kamp odmorište Aquaterra",
+      "latitude": 46.244759,
+      "longitude": 16.923683
+    },
+    {
+      "name": "Kamp odmorište Sabljaci",
+      "latitude": 45.230471,
+      "longitude": 15.234697
+    },
+    {
+      "name": "Kamp Palme",
+      "latitude": 42.977069,
+      "longitude": 17.129238
+    },
+    {
+      "name": "Kamp Paradiso",
+      "latitude": 42.966677,
+      "longitude": 17.242215
+    },
+    {
+      "name": "Kamp Park - Crni Lug",
+      "latitude": 45.418802,
+      "longitude": 14.690436
+    },
+    {
+      "name": "Kamp Perna",
+      "latitude": 42.976233,
+      "longitude": 17.132617
+    },
+    {
+      "name": "Kamp Petarčica",
+      "latitude": 43.121765,
+      "longitude": 16.681219
+    },
+    {
+      "name": "kamp Piškera",
+      "latitude": 44.822212,
+      "longitude": 13.85279
+    },
+    {
+      "name": "Kamp Punta",
+      "latitude": 44.056194,
+      "longitude": 15.291159
+    },
+    {
+      "name": "Kamp Rehut",
+      "latitude": 43.816273,
+      "longitude": 15.580552
+    },
+    {
+      "name": "Kamp Seget",
+      "latitude": 43.518569,
+      "longitude": 16.224362
+    },
+    {
+      "name": "Kamp Slamni Klimno",
+      "latitude": 45.153561,
+      "longitude": 14.616985
+    },
+    {
+      "name": "kamp Slanica",
+      "latitude": 43.817852,
+      "longitude": 15.575473
+    },
+    {
+      "name": "Kamp Straško",
+      "latitude": 44.539275,
+      "longitude": 14.882624
+    },
+    {
+      "name": "Kamp Sv. Jeronim",
+      "latitude": 44.134476,
+      "longitude": 15.105958
+    },
+    {
+      "name": "Kamp Terme Jezerčica",
+      "latitude": 45.982012,
+      "longitude": 15.954235
+    },
+    {
+      "name": "Kamp Valkanela",
+      "latitude": 45.166448,
+      "longitude": 13.602778
+    },
+    {
+      "name": "Kamp Velebit",
+      "latitude": 44.524716,
+      "longitude": 15.180988
+    },
+    {
+      "name": "Kamp Wodenča",
+      "latitude": 44.723898,
+      "longitude": 14.816064
+    },
+    {
+      "name": "Kamp Zaglav",
+      "latitude": 42.747548,
+      "longitude": 16.814699
+    },
+    {
+      "name": "Kamp Zagreb",
+      "latitude": 45.801681,
+      "longitude": 15.827306
+    },
+    {
+      "name": "Kamp Šefik",
+      "latitude": 44.636549,
+      "longitude": 16.043579
+    },
+    {
+      "name": "Kamp Šehić",
+      "latitude": 44.636001,
+      "longitude": 16.043347
+    },
+    {
+      "name": "Kanun",
+      "latitude": 43.264775,
+      "longitude": 16.644166
+    },
+    {
+      "name": "Kapitenovo camping",
+      "latitude": 45.234565,
+      "longitude": 19.283877
+    },
+    {
+      "name": "Kargita",
+      "latitude": 44.154303,
+      "longitude": 14.821781
+    },
+    {
+      "name": "Kazalina",
+      "latitude": 44.824276,
+      "longitude": 13.853812
+    },
+    {
+      "name": "Kažela",
+      "latitude": 44.805594,
+      "longitude": 13.954027
+    },
+    {
+      "name": "kemp v Peroj",
+      "latitude": 44.956966,
+      "longitude": 13.78492
+    },
+    {
+      "name": "Kovačine",
+      "latitude": 44.962381,
+      "longitude": 14.395649
+    },
+    {
+      "name": "Kozica",
+      "latitude": 45.056059,
+      "longitude": 14.871573
+    },
+    {
+      "name": "Kranjski kamp",
+      "latitude": 44.806641,
+      "longitude": 13.917246
+    },
+    {
+      "name": "Krk Premium Camping Resort",
+      "latitude": 45.023111,
+      "longitude": 14.591522
+    },
+    {
+      "name": "La Vita Camping",
+      "latitude": 45.397448,
+      "longitude": 13.975561
+    },
+    {
+      "name": "Laguna Autokamp",
+      "latitude": 42.607351,
+      "longitude": 18.227789
+    },
+    {
+      "name": "LANDO Reasort",
+      "latitude": 44.784099,
+      "longitude": 14.705834
+    },
+    {
+      "name": "Lanterna",
+      "latitude": 45.303035,
+      "longitude": 13.593122
+    },
+    {
+      "name": "Lasatka",
+      "latitude": 43.821929,
+      "longitude": 15.574734
+    },
+    {
+      "name": "Liberan",
+      "latitude": 42.980705,
+      "longitude": 17.1037
+    },
+    {
+      "name": "Lighthouse",
+      "latitude": 45.490378,
+      "longitude": 13.492477
+    },
+    {
+      "name": "Ljubica",
+      "latitude": 43.44076,
+      "longitude": 16.658819
+    },
+    {
+      "name": "Lovor",
+      "latitude": 42.773806,
+      "longitude": 17.466136
+    },
+    {
+      "name": "Luka",
+      "latitude": 43.022909,
+      "longitude": 17.169755
+    },
+    {
+      "name": "Luka",
+      "latitude": 43.441397,
+      "longitude": 16.654702
+    },
+    {
+      "name": "Lunga",
+      "latitude": 43.787783,
+      "longitude": 15.618498
+    },
+    {
+      "name": "M1",
+      "latitude": 43.44086,
+      "longitude": 16.657021
+    },
+    {
+      "name": "Maestral",
+      "latitude": 42.979883,
+      "longitude": 17.106492
+    },
+    {
+      "name": "Mali",
+      "latitude": 44.96583,
+      "longitude": 14.746712
+    },
+    {
+      "name": "Mali Dubrovnik",
+      "latitude": 44.34918,
+      "longitude": 15.100962
+    },
+    {
+      "name": "Mali Raj",
+      "latitude": 45.090953,
+      "longitude": 14.437397
+    },
+    {
+      "name": "Mandarino",
+      "latitude": 44.140663,
+      "longitude": 14.866301
+    },
+    {
+      "name": "Marbello Premium Village",
+      "latitude": 45.305622,
+      "longitude": 13.593743
+    },
+    {
+      "name": "Marija",
+      "latitude": 43.815608,
+      "longitude": 15.60531
+    },
+    {
+      "name": "Marijo",
+      "latitude": 44.125802,
+      "longitude": 15.119938
+    },
+    {
+      "name": "Marina",
+      "latitude": 45.033113,
+      "longitude": 14.158529
+    },
+    {
+      "name": "Mario",
+      "latitude": 43.264984,
+      "longitude": 16.650879
+    },
+    {
+      "name": "Marušina Olive Hills",
+      "latitude": 45.037828,
+      "longitude": 14.631323
+    },
+    {
+      "name": "Maslina",
+      "latitude": 42.784409,
+      "longitude": 17.876489
+    },
+    {
+      "name": "Matija",
+      "latitude": 43.808221,
+      "longitude": 15.608288
+    },
+    {
+      "name": "Medora Orbis Camping & Glamping",
+      "latitude": 43.234335,
+      "longitude": 17.078813
+    },
+    {
+      "name": "Mekelenić",
+      "latitude": 44.143047,
+      "longitude": 15.087658
+    },
+    {
+      "name": "Meteor",
+      "latitude": 43.262922,
+      "longitude": 16.649262
+    },
+    {
+      "name": "Mindel Kamp",
+      "latitude": 42.984121,
+      "longitude": 16.670509
+    },
+    {
+      "name": "mini Camp",
+      "latitude": 43.591303,
+      "longitude": 15.924248
+    },
+    {
+      "name": "Mini Camping Funtana",
+      "latitude": 45.19304,
+      "longitude": 13.600209
+    },
+    {
+      "name": "Mini-Camp Marko",
+      "latitude": 43.542883,
+      "longitude": 15.95701
+    },
+    {
+      "name": "Mini-camping Bonaca",
+      "latitude": 43.74729,
+      "longitude": 15.800394
+    },
+    {
+      "name": "Mini-camping Tomas",
+      "latitude": 43.63039,
+      "longitude": 15.937823
+    },
+    {
+      "name": "Minicamp",
+      "latitude": 43.593355,
+      "longitude": 15.925838
+    },
+    {
+      "name": "Mira",
+      "latitude": 43.440667,
+      "longitude": 16.663274
+    },
+    {
+      "name": "Miroslav",
+      "latitude": 43.440483,
+      "longitude": 16.659161
+    },
+    {
+      "name": "Mobile home",
+      "latitude": 44.539119,
+      "longitude": 14.884086
+    },
+    {
+      "name": "Mon Paradis",
+      "latitude": 45.049375,
+      "longitude": 13.68959
+    },
+    {
+      "name": "Mon Perin - Area Colona",
+      "latitude": 45.004169,
+      "longitude": 13.72324
+    },
+    {
+      "name": "Mon Perin - Area Colona",
+      "latitude": 45.008812,
+      "longitude": 13.718418
+    },
+    {
+      "name": "Mon Perin - Area San Polo",
+      "latitude": 45.017297,
+      "longitude": 13.714548
+    },
+    {
+      "name": "More",
+      "latitude": 43.440804,
+      "longitude": 16.658558
+    },
+    {
+      "name": "More",
+      "latitude": 43.782479,
+      "longitude": 15.647325
+    },
+    {
+      "name": "Motovun Camping",
+      "latitude": 45.335138,
+      "longitude": 13.825052
+    },
+    {
+      "name": "Moče",
+      "latitude": 43.959817,
+      "longitude": 15.428981
+    },
+    {
+      "name": "My Little Swan",
+      "latitude": 46.243453,
+      "longitude": 16.612648
+    },
+    {
+      "name": "Natura Camp Karli",
+      "latitude": 45.306639,
+      "longitude": 13.697565
+    },
+    {
+      "name": "Naturist Camp Bunculuka",
+      "latitude": 44.969855,
+      "longitude": 14.770381
+    },
+    {
+      "name": "Naturist Camping Konobe",
+      "latitude": 44.993248,
+      "longitude": 14.627223
+    },
+    {
+      "name": "Naturist Park Koversada",
+      "latitude": 45.134314,
+      "longitude": 13.608521
+    },
+    {
+      "name": "Nina",
+      "latitude": 44.249076,
+      "longitude": 15.13242
+    },
+    {
+      "name": "Ninska Laguna",
+      "latitude": 44.247042,
+      "longitude": 15.174507
+    },
+    {
+      "name": "Ninska Laguna 2",
+      "latitude": 44.250532,
+      "longitude": 15.169071
+    },
+    {
+      "name": "Novi Kamp",
+      "latitude": 44.10666,
+      "longitude": 15.154861
+    },
+    {
+      "name": "Oaza Kamp",
+      "latitude": 45.063955,
+      "longitude": 13.676872
+    },
+    {
+      "name": "Odmoree Camp & Hostel",
+      "latitude": 44.300499,
+      "longitude": 15.288979
+    },
+    {
+      "name": "Olea Camping",
+      "latitude": 44.626711,
+      "longitude": 14.796502
+    },
+    {
+      "name": "Oliva",
+      "latitude": 44.823984,
+      "longitude": 13.851885
+    },
+    {
+      "name": "Olivia Green Camping",
+      "latitude": 43.811893,
+      "longitude": 15.622802
+    },
+    {
+      "name": "OPG Way Camping",
+      "latitude": 44.126528,
+      "longitude": 15.629854
+    },
+    {
+      "name": "Paklenica",
+      "latitude": 44.287047,
+      "longitude": 15.44727
+    },
+    {
+      "name": "Paklenica National Park",
+      "latitude": 44.288471,
+      "longitude": 15.445749
+    },
+    {
+      "name": "PAPAFIGO Camping and Glamping",
+      "latitude": 44.975712,
+      "longitude": 13.837733
+    },
+    {
+      "name": "Park Umag",
+      "latitude": 45.370162,
+      "longitude": 13.543262
+    },
+    {
+      "name": "Pavlešina",
+      "latitude": 44.126966,
+      "longitude": 15.078724
+    },
+    {
+      "name": "Perla",
+      "latitude": 43.728161,
+      "longitude": 15.794188
+    },
+    {
+      "name": "Piccolo",
+      "latitude": 44.822691,
+      "longitude": 13.849736
+    },
+    {
+      "name": "Picnic & Camp Lučica",
+      "latitude": 44.494093,
+      "longitude": 16.137327
+    },
+    {
+      "name": "Pine Beach Pakoštane Adriatic Eco Resort",
+      "latitude": 43.911829,
+      "longitude": 15.494498
+    },
+    {
+      "name": "Planka",
+      "latitude": 44.786209,
+      "longitude": 14.709088
+    },
+    {
+      "name": "Podice",
+      "latitude": 43.754672,
+      "longitude": 15.768834
+    },
+    {
+      "name": "Podvare",
+      "latitude": 44.044193,
+      "longitude": 15.299623
+    },
+    {
+      "name": "Polari",
+      "latitude": 45.059191,
+      "longitude": 13.674174
+    },
+    {
+      "name": "Polidor",
+      "latitude": 45.191283,
+      "longitude": 13.600014
+    },
+    {
+      "name": "Ponta",
+      "latitude": 42.980115,
+      "longitude": 17.104537
+    },
+    {
+      "name": "Porat",
+      "latitude": 44.144489,
+      "longitude": 15.085459
+    },
+    {
+      "name": "Porat Camping",
+      "latitude": 44.349236,
+      "longitude": 15.105983
+    },
+    {
+      "name": "Porto Sole",
+      "latitude": 45.141657,
+      "longitude": 13.602015
+    },
+    {
+      "name": "Porton Biondi",
+      "latitude": 45.095057,
+      "longitude": 13.642811
+    },
+    {
+      "name": "Potirna",
+      "latitude": 42.929463,
+      "longitude": 16.685921
+    },
+    {
+      "name": "Prosika",
+      "latitude": 43.843923,
+      "longitude": 15.616801
+    },
+    {
+      "name": "Prtorić",
+      "latitude": 44.488003,
+      "longitude": 14.906334
+    },
+    {
+      "name": "Punta",
+      "latitude": 43.907141,
+      "longitude": 15.503579
+    },
+    {
+      "name": "Punta",
+      "latitude": 44.338379,
+      "longitude": 15.339756
+    },
+    {
+      "name": "Punta Jerta",
+      "latitude": 45.041458,
+      "longitude": 14.472382
+    },
+    {
+      "name": "Punta Povile",
+      "latitude": 45.115251,
+      "longitude": 14.815427
+    },
+    {
+      "name": "Rapoća Camping Village",
+      "latitude": 44.663724,
+      "longitude": 14.398055
+    },
+    {
+      "name": "Raspadalica",
+      "latitude": 45.42427,
+      "longitude": 13.997974
+    },
+    {
+      "name": "Ravno",
+      "latitude": 42.906895,
+      "longitude": 16.797284
+    },
+    {
+      "name": "Relax Camp",
+      "latitude": 43.899243,
+      "longitude": 15.524401
+    },
+    {
+      "name": "Renata-Nina",
+      "latitude": 43.911752,
+      "longitude": 15.499542
+    },
+    {
+      "name": "Rio",
+      "latitude": 43.012698,
+      "longitude": 17.469748
+    },
+    {
+      "name": "Robinson camp Leskar",
+      "latitude": 45.365052,
+      "longitude": 15.410436
+    },
+    {
+      "name": "Robinsons Camp Val Kavran",
+      "latitude": 44.905698,
+      "longitude": 14.012028
+    },
+    {
+      "name": "Robinzon kamp Lučica",
+      "latitude": 45.343977,
+      "longitude": 15.490317
+    },
+    {
+      "name": "Robinzonski Glamping Kamp Marta",
+      "latitude": 43.531849,
+      "longitude": 16.134188
+    },
+    {
+      "name": "Robinzonski smještaj Hrib",
+      "latitude": 45.517211,
+      "longitude": 14.670617
+    },
+    {
+      "name": "Romantika",
+      "latitude": 43.870942,
+      "longitude": 15.559407
+    },
+    {
+      "name": "San Servolo Wellness Camping",
+      "latitude": 45.422726,
+      "longitude": 13.677241
+    },
+    {
+      "name": "SEOSKI TURIZAM BISTRIČKI, AUTOCAMP",
+      "latitude": 45.520136,
+      "longitude": 16.615652
+    },
+    {
+      "name": "Seosko domacinstvo Halil",
+      "latitude": 44.637883,
+      "longitude": 16.042302
+    },
+    {
+      "name": "Sibinj",
+      "latitude": 45.04458,
+      "longitude": 14.877273
+    },
+    {
+      "name": "Sidro",
+      "latitude": 44.824431,
+      "longitude": 13.851768
+    },
+    {
+      "name": "Sirena",
+      "latitude": 45.315289,
+      "longitude": 13.578766
+    },
+    {
+      "name": "Skradinske delicije",
+      "latitude": 43.822602,
+      "longitude": 15.920936
+    },
+    {
+      "name": "Skriveni",
+      "latitude": 42.741825,
+      "longitude": 16.882718
+    },
+    {
+      "name": "Slapovi Zrmanje",
+      "latitude": 44.197452,
+      "longitude": 15.768613
+    },
+    {
+      "name": "Slapovi Zrmanje",
+      "latitude": 44.198402,
+      "longitude": 15.766682
+    },
+    {
+      "name": "Solaris",
+      "latitude": 45.286618,
+      "longitude": 13.587518
+    },
+    {
+      "name": "Stanić Autocamp Linda",
+      "latitude": 43.408235,
+      "longitude": 16.756883
+    },
+    {
+      "name": "Stari kamp",
+      "latitude": 44.087565,
+      "longitude": 16.283764
+    },
+    {
+      "name": "Stela",
+      "latitude": 44.044865,
+      "longitude": 15.302602
+    },
+    {
+      "name": "Stella Maris",
+      "latitude": 43.787226,
+      "longitude": 15.61886
+    },
+    {
+      "name": "Stella Maris",
+      "latitude": 45.452231,
+      "longitude": 13.522162
+    },
+    {
+      "name": "Stine",
+      "latitude": 44.322657,
+      "longitude": 15.390321
+    },
+    {
+      "name": "Stipanić",
+      "latitude": 44.127337,
+      "longitude": 15.110246
+    },
+    {
+      "name": "Straško",
+      "latitude": 44.540604,
+      "longitude": 14.883541
+    },
+    {
+      "name": "Sunčano Selo",
+      "latitude": 46.102186,
+      "longitude": 16.803273
+    },
+    {
+      "name": "Terra Park Phalaris",
+      "latitude": 44.579464,
+      "longitude": 14.852191
+    },
+    {
+      "name": "Terra Park Spiritos",
+      "latitude": 44.51346,
+      "longitude": 14.959737
+    },
+    {
+      "name": "Tradicije Čigoč",
+      "latitude": 45.41742,
+      "longitude": 16.62836
+    },
+    {
+      "name": "Tramontana",
+      "latitude": 45.502639,
+      "longitude": 13.503646
+    },
+    {
+      "name": "Tri Žala",
+      "latitude": 42.964351,
+      "longitude": 17.091055
+    },
+    {
+      "name": "Tunarica Sunny Camping",
+      "latitude": 44.969,
+      "longitude": 14.097969
+    },
+    {
+      "name": "Turizam Ravlić",
+      "latitude": 45.392146,
+      "longitude": 16.681149
+    },
+    {
+      "name": "Ulika",
+      "latitude": 45.065273,
+      "longitude": 13.675329
+    },
+    {
+      "name": "Val Saline",
+      "latitude": 45.11759,
+      "longitude": 13.626415
+    },
+    {
+      "name": "Val Vidal",
+      "latitude": 45.050195,
+      "longitude": 13.692549
+    },
+    {
+      "name": "Valalta",
+      "latitude": 45.12433,
+      "longitude": 13.625775
+    },
+    {
+      "name": "Vela Postrana",
+      "latitude": 42.921914,
+      "longitude": 17.172957
+    },
+    {
+      "name": "Vela Stina Camping",
+      "latitude": 45.397241,
+      "longitude": 14.03927
+    },
+    {
+      "name": "Veli Jože",
+      "latitude": 45.496472,
+      "longitude": 13.500567
+    },
+    {
+      "name": "Veli Vrh",
+      "latitude": 43.824368,
+      "longitude": 15.575085
+    },
+    {
+      "name": "Ventura",
+      "latitude": 44.343765,
+      "longitude": 15.329464
+    },
+    {
+      "name": "Veštar",
+      "latitude": 45.052379,
+      "longitude": 13.686873
+    },
+    {
+      "name": "Victoria mobile homes",
+      "latitude": 44.751167,
+      "longitude": 14.77677
+    },
+    {
+      "name": "Villa POPO",
+      "latitude": 44.289617,
+      "longitude": 15.448997
+    },
+    {
+      "name": "Vinski kamp Hažić",
+      "latitude": 46.49879,
+      "longitude": 16.329876
+    },
+    {
+      "name": "Vita Mia",
+      "latitude": 45.225016,
+      "longitude": 13.953256
+    },
+    {
+      "name": "Vizitúra táborozóhely",
+      "latitude": 45.793109,
+      "longitude": 17.981603
+    },
+    {
+      "name": "Vizitúra táborozóhely",
+      "latitude": 45.810395,
+      "longitude": 17.82729
+    },
+    {
+      "name": "Vizitúra táborozóhely",
+      "latitude": 45.862938,
+      "longitude": 17.650101
+    },
+    {
+      "name": "Vodice",
+      "latitude": 43.755897,
+      "longitude": 15.768679
+    },
+    {
+      "name": "Volme Camping",
+      "latitude": 44.821325,
+      "longitude": 13.879531
+    },
+    {
+      "name": "Vrbovica",
+      "latitude": 42.961021,
+      "longitude": 17.102074
+    },
+    {
+      "name": "Vrela Mrežnice - Robinson kamp",
+      "latitude": 45.193079,
+      "longitude": 15.435052
+    },
+    {
+      "name": "Vugec plac",
+      "latitude": 45.810005,
+      "longitude": 15.738797
+    },
+    {
+      "name": "Waterman Beach Village",
+      "latitude": 43.381261,
+      "longitude": 16.564807
+    },
+    {
+      "name": "Zaton Holiday Village",
+      "latitude": 44.236047,
+      "longitude": 15.164782
+    },
+    {
+      "name": "Zelen-gaj",
+      "latitude": 45.365385,
+      "longitude": 16.725043
+    },
+    {
+      "name": "Zidine",
+      "latitude": 44.848375,
+      "longitude": 14.720108
+    },
+    {
+      "name": "Zuljana campsite",
+      "latitude": 42.889833,
+      "longitude": 17.454613
+    },
+    {
+      "name": "Čikat",
+      "latitude": 44.536523,
+      "longitude": 14.446966
+    },
+    {
+      "name": "Činta - kamp Saveza baptističkih crkava u RH",
+      "latitude": 44.123605,
+      "longitude": 15.122062
+    },
+    {
+      "name": "Šamac \"Kej\"",
+      "latitude": 45.064147,
+      "longitude": 18.471837
+    },
+    {
+      "name": "Širola",
+      "latitude": 44.820764,
+      "longitude": 13.858763
+    },
+    {
+      "name": "Škrila Sunny Camping",
+      "latitude": 44.965911,
+      "longitude": 14.67422
+    },
+    {
+      "name": "Šotorišče Damelj",
+      "latitude": 45.432832,
+      "longitude": 15.187667
+    },
+    {
+      "name": "Žaga",
+      "latitude": 45.516187,
+      "longitude": 14.90953
+    },
+    {
+      "name": "Žuljana Sunce campsite",
+      "latitude": 42.892756,
+      "longitude": 17.454949
+    },
+    {
+      "name": "Буџак",
+      "latitude": 45.717314,
+      "longitude": 18.919013
+    }
+  ],
+  "meta": {
+    "title": "Kampovi - Besplatno preuzimanje",
+    "description": "Kampovi u Hrvatskoj (506 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=camp_site), izrez EU-POIS/HR. Sadrži 506 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kampovi | ListBase",
+    "seo_description": "Preuzmi Kampovi — 506 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 506 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

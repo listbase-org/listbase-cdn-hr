@@ -1,0 +1,5661 @@
+{
+  "id": "hr-hoteli",
+  "name": "Hoteli u Hrvatskoj",
+  "title": "Hoteli u Hrvatskoj",
+  "description": "Hotels in Croatia (tourism=hotel) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1124,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Poli Luce\"",
+      "latitude": 45.22057,
+      "longitude": 14.009201
+    },
+    {
+      "name": "Abalone Hotel",
+      "latitude": 45.191175,
+      "longitude": 14.669462
+    },
+    {
+      "name": "AC Hotel by Marriott Split",
+      "latitude": 43.520298,
+      "longitude": 16.450914
+    },
+    {
+      "name": "Admiral",
+      "latitude": 42.787232,
+      "longitude": 17.888927
+    },
+    {
+      "name": "Admiral",
+      "latitude": 45.287902,
+      "longitude": 18.806061
+    },
+    {
+      "name": "Admiral",
+      "latitude": 45.32799,
+      "longitude": 14.300177
+    },
+    {
+      "name": "Adoral",
+      "latitude": 45.079015,
+      "longitude": 14.155366
+    },
+    {
+      "name": "Adria",
+      "latitude": 42.658779,
+      "longitude": 18.091792
+    },
+    {
+      "name": "Adria",
+      "latitude": 45.124895,
+      "longitude": 14.528048
+    },
+    {
+      "name": "Adria Hotel - Dubrovnik",
+      "latitude": 42.657987,
+      "longitude": 18.091953
+    },
+    {
+      "name": "Adriana",
+      "latitude": 43.169984,
+      "longitude": 17.191414
+    },
+    {
+      "name": "Adriana",
+      "latitude": 43.172331,
+      "longitude": 16.439169
+    },
+    {
+      "name": "Adriatic",
+      "latitude": 42.97413,
+      "longitude": 17.181498
+    },
+    {
+      "name": "Adriatic Omisalj",
+      "latitude": 45.217028,
+      "longitude": 14.551432
+    },
+    {
+      "name": "Adriatica",
+      "latitude": 43.384482,
+      "longitude": 16.545318
+    },
+    {
+      "name": "Adriatiq Resort Fontana",
+      "latitude": 43.166593,
+      "longitude": 16.695485
+    },
+    {
+      "name": "Agava",
+      "latitude": 44.137615,
+      "longitude": 14.906927
+    },
+    {
+      "name": "Albin Dva",
+      "latitude": 44.130335,
+      "longitude": 15.218647
+    },
+    {
+      "name": "Alem",
+      "latitude": 43.345076,
+      "longitude": 16.958704
+    },
+    {
+      "name": "Alhambra",
+      "latitude": 44.531001,
+      "longitude": 14.458767
+    },
+    {
+      "name": "Almayer",
+      "latitude": 44.117455,
+      "longitude": 15.222263
+    },
+    {
+      "name": "Amalia",
+      "latitude": 46.249142,
+      "longitude": 16.617743
+    },
+    {
+      "name": "Amarin Family Hotel",
+      "latitude": 45.1024,
+      "longitude": 13.62448
+    },
+    {
+      "name": "Amfora",
+      "latitude": 43.172863,
+      "longitude": 16.43356
+    },
+    {
+      "name": "Amicor Green",
+      "latitude": 43.187665,
+      "longitude": 16.588381
+    },
+    {
+      "name": "Aminess Khalani",
+      "latitude": 43.306733,
+      "longitude": 17.003051
+    },
+    {
+      "name": "Aminess Maestral Hotel",
+      "latitude": 45.316243,
+      "longitude": 13.572936
+    },
+    {
+      "name": "Aminess Senses Resort",
+      "latitude": 43.179074,
+      "longitude": 16.687973
+    },
+    {
+      "name": "Aminess Vival Grand Azur",
+      "latitude": 42.974843,
+      "longitude": 17.161632
+    },
+    {
+      "name": "Aminess Younique Bellevue Hotel",
+      "latitude": 42.974272,
+      "longitude": 17.164946
+    },
+    {
+      "name": "Aminess Younique Korčula Heritage Hotel",
+      "latitude": 42.962133,
+      "longitude": 17.135352
+    },
+    {
+      "name": "Aminess Younique Liburna Hotel",
+      "latitude": 42.956065,
+      "longitude": 17.13959
+    },
+    {
+      "name": "Aminess Younique Lume Hotel",
+      "latitude": 42.904123,
+      "longitude": 16.856536
+    },
+    {
+      "name": "Aminess Younique Lume Hotel",
+      "latitude": 42.904219,
+      "longitude": 16.855601
+    },
+    {
+      "name": "Amor",
+      "latitude": 43.384267,
+      "longitude": 16.540986
+    },
+    {
+      "name": "Ancora Faros",
+      "latitude": 43.184365,
+      "longitude": 16.597243
+    },
+    {
+      "name": "Angelo D'Oro",
+      "latitude": 45.083988,
+      "longitude": 13.631843
+    },
+    {
+      "name": "Ante",
+      "latitude": 44.542121,
+      "longitude": 15.377653
+    },
+    {
+      "name": "Antonina",
+      "latitude": 43.752509,
+      "longitude": 15.770762
+    },
+    {
+      "name": "Antonio",
+      "latitude": 43.307756,
+      "longitude": 17.0053
+    },
+    {
+      "name": "Apartaments \"Villa Bilota\"",
+      "latitude": 43.518438,
+      "longitude": 16.230645
+    },
+    {
+      "name": "Aparthotel",
+      "latitude": 45.226054,
+      "longitude": 13.597499
+    },
+    {
+      "name": "Aparthotel Castrum Novum",
+      "latitude": 44.188588,
+      "longitude": 15.546325
+    },
+    {
+      "name": "Aparthotel del Mar",
+      "latitude": 44.821695,
+      "longitude": 13.865378
+    },
+    {
+      "name": "Aparthotel Flora",
+      "latitude": 43.270758,
+      "longitude": 17.054851
+    },
+    {
+      "name": "Aparthotel Mare Sano",
+      "latitude": 45.35554,
+      "longitude": 14.332753
+    },
+    {
+      "name": "Aparthotel Milenij",
+      "latitude": 43.353444,
+      "longitude": 16.950055
+    },
+    {
+      "name": "Aparthotel Miramare",
+      "latitude": 43.294279,
+      "longitude": 17.014724
+    },
+    {
+      "name": "apartman",
+      "latitude": 43.944571,
+      "longitude": 15.447799
+    },
+    {
+      "name": "Apartman Tomik",
+      "latitude": 44.070933,
+      "longitude": 15.282576
+    },
+    {
+      "name": "Apartmani",
+      "latitude": 43.513673,
+      "longitude": 16.249279
+    },
+    {
+      "name": "Apartmani \"ANITA\"",
+      "latitude": 43.819041,
+      "longitude": 15.665747
+    },
+    {
+      "name": "Apartmani Beach",
+      "latitude": 44.338743,
+      "longitude": 15.224602
+    },
+    {
+      "name": "Apartmani Erdelja",
+      "latitude": 44.957946,
+      "longitude": 14.40168
+    },
+    {
+      "name": "Apartmani Fedora",
+      "latitude": 45.202459,
+      "longitude": 14.653695
+    },
+    {
+      "name": "Apartmani Gaga",
+      "latitude": 44.077844,
+      "longitude": 15.280557
+    },
+    {
+      "name": "Apartmani Husanovic",
+      "latitude": 42.67514,
+      "longitude": 18.101584
+    },
+    {
+      "name": "Apartmani i Sobe Verdanka Rogosic",
+      "latitude": 43.362303,
+      "longitude": 16.944464
+    },
+    {
+      "name": "Apartmani Lanterna",
+      "latitude": 45.295411,
+      "longitude": 13.578593
+    },
+    {
+      "name": "Apartmani Minigo",
+      "latitude": 43.484732,
+      "longitude": 16.549833
+    },
+    {
+      "name": "Apartmani Pansion Franka",
+      "latitude": 43.121138,
+      "longitude": 17.314945
+    },
+    {
+      "name": "Apartmani Vala",
+      "latitude": 42.961962,
+      "longitude": 16.707896
+    },
+    {
+      "name": "Apartmanska kuća Snježna Kraljica",
+      "latitude": 45.902234,
+      "longitude": 15.957588
+    },
+    {
+      "name": "Apartment & Room Angerona",
+      "latitude": 43.514094,
+      "longitude": 16.19661
+    },
+    {
+      "name": "Apartment Aspalathos",
+      "latitude": 43.505845,
+      "longitude": 16.44937
+    },
+    {
+      "name": "Apartment Babiloni",
+      "latitude": 45.320671,
+      "longitude": 14.262843
+    },
+    {
+      "name": "Apartment Baric",
+      "latitude": 43.514246,
+      "longitude": 16.478557
+    },
+    {
+      "name": "Apartment Bello",
+      "latitude": 43.514294,
+      "longitude": 16.41893
+    },
+    {
+      "name": "Apartment Gabi",
+      "latitude": 45.096915,
+      "longitude": 14.106489
+    },
+    {
+      "name": "Apartment Jurcevic",
+      "latitude": 43.5183,
+      "longitude": 16.219338
+    },
+    {
+      "name": "Apartment Pavlić",
+      "latitude": 44.987551,
+      "longitude": 15.646912
+    },
+    {
+      "name": "Apartment Sandra",
+      "latitude": 45.298513,
+      "longitude": 14.264514
+    },
+    {
+      "name": "Apartments Burin",
+      "latitude": 42.61683,
+      "longitude": 18.215772
+    },
+    {
+      "name": "Apartments Casa Barbara",
+      "latitude": 44.73931,
+      "longitude": 14.800322
+    },
+    {
+      "name": "Apartments Cvitan Tiho&Marija",
+      "latitude": 43.75463,
+      "longitude": 15.748321
+    },
+    {
+      "name": "Apartments DAvorka",
+      "latitude": 45.075599,
+      "longitude": 13.643232
+    },
+    {
+      "name": "Apartments Doris",
+      "latitude": 42.573978,
+      "longitude": 18.226563
+    },
+    {
+      "name": "Apartments Elvis",
+      "latitude": 43.384355,
+      "longitude": 16.483366
+    },
+    {
+      "name": "Apartments Habek",
+      "latitude": 43.198127,
+      "longitude": 16.663014
+    },
+    {
+      "name": "Apartments Mia",
+      "latitude": 44.44577,
+      "longitude": 15.039967
+    },
+    {
+      "name": "Apartments Parać",
+      "latitude": 44.187482,
+      "longitude": 15.159277
+    },
+    {
+      "name": "Apartments Peškera - Lalić",
+      "latitude": 43.296523,
+      "longitude": 17.015203
+    },
+    {
+      "name": "Apartments Roko",
+      "latitude": 43.801649,
+      "longitude": 15.640248
+    },
+    {
+      "name": "Apartments Rudy",
+      "latitude": 45.21827,
+      "longitude": 14.625032
+    },
+    {
+      "name": "Apartments Sanbrandin",
+      "latitude": 45.023605,
+      "longitude": 14.567418
+    },
+    {
+      "name": "Apartments Veselka",
+      "latitude": 42.927861,
+      "longitude": 17.158176
+    },
+    {
+      "name": "Apartments Villa Siga",
+      "latitude": 42.845084,
+      "longitude": 17.706533
+    },
+    {
+      "name": "Apartmány Balić",
+      "latitude": 43.273248,
+      "longitude": 17.048288
+    },
+    {
+      "name": "Appartments Orhideja Smoljanac 60",
+      "latitude": 44.932327,
+      "longitude": 15.629558
+    },
+    {
+      "name": "Arausa",
+      "latitude": 43.752943,
+      "longitude": 15.772399
+    },
+    {
+      "name": "Arausana",
+      "latitude": 43.75234,
+      "longitude": 15.771616
+    },
+    {
+      "name": "Arbia",
+      "latitude": 46.306715,
+      "longitude": 16.340155
+    },
+    {
+      "name": "Arbiana",
+      "latitude": 44.754797,
+      "longitude": 14.762238
+    },
+    {
+      "name": "Arena Hotel Medulin",
+      "latitude": 44.814805,
+      "longitude": 13.9371
+    },
+    {
+      "name": "Argentum",
+      "latitude": 45.07502,
+      "longitude": 14.678989
+    },
+    {
+      "name": "Art",
+      "latitude": 45.15705,
+      "longitude": 18.018689
+    },
+    {
+      "name": "Art Hotel",
+      "latitude": 44.989464,
+      "longitude": 14.898805
+    },
+    {
+      "name": "Art hotel Kalelarga",
+      "latitude": 44.114279,
+      "longitude": 15.227083
+    },
+    {
+      "name": "Art Hotel Like",
+      "latitude": 45.813716,
+      "longitude": 15.983836
+    },
+    {
+      "name": "art'otel",
+      "latitude": 45.81147,
+      "longitude": 15.979826
+    },
+    {
+      "name": "Artis accommodation",
+      "latitude": 44.115739,
+      "longitude": 15.223338
+    },
+    {
+      "name": "Arupinum",
+      "latitude": 45.075301,
+      "longitude": 13.641354
+    },
+    {
+      "name": "Atrium",
+      "latitude": 43.518718,
+      "longitude": 16.447561
+    },
+    {
+      "name": "Atrium Baška Residence",
+      "latitude": 44.968515,
+      "longitude": 14.750791
+    },
+    {
+      "name": "Aurora",
+      "latitude": 44.523194,
+      "longitude": 14.459232
+    },
+    {
+      "name": "Aussie Dream Apartments",
+      "latitude": 44.127431,
+      "longitude": 15.221812
+    },
+    {
+      "name": "Azur Palace",
+      "latitude": 43.510976,
+      "longitude": 16.439569
+    },
+    {
+      "name": "B & B Sapina Marko",
+      "latitude": 44.751634,
+      "longitude": 15.701867
+    },
+    {
+      "name": "B&B Marta&Tona",
+      "latitude": 44.530766,
+      "longitude": 14.964131
+    },
+    {
+      "name": "B&B Ruzica",
+      "latitude": 44.761763,
+      "longitude": 14.760943
+    },
+    {
+      "name": "Backpackers Home",
+      "latitude": 44.126616,
+      "longitude": 15.225425
+    },
+    {
+      "name": "Balatura",
+      "latitude": 45.225397,
+      "longitude": 14.679873
+    },
+    {
+      "name": "Bartol",
+      "latitude": 44.251695,
+      "longitude": 15.540168
+    },
+    {
+      "name": "Bastion",
+      "latitude": 44.117951,
+      "longitude": 15.223552
+    },
+    {
+      "name": "Bavaria",
+      "latitude": 43.518523,
+      "longitude": 16.222461
+    },
+    {
+      "name": "Bel Residence",
+      "latitude": 43.503965,
+      "longitude": 16.460379
+    },
+    {
+      "name": "Bela Vrba",
+      "latitude": 45.290336,
+      "longitude": 19.135113
+    },
+    {
+      "name": "Bellevue",
+      "latitude": 42.646733,
+      "longitude": 18.092225
+    },
+    {
+      "name": "Bellevue",
+      "latitude": 43.733014,
+      "longitude": 15.891882
+    },
+    {
+      "name": "Bellevue",
+      "latitude": 44.532111,
+      "longitude": 14.455046
+    },
+    {
+      "name": "Belvedere",
+      "latitude": 44.04267,
+      "longitude": 15.305109
+    },
+    {
+      "name": "Berkeley",
+      "latitude": 42.658839,
+      "longitude": 18.088432
+    },
+    {
+      "name": "Best Western Art Hotel",
+      "latitude": 43.516258,
+      "longitude": 16.44669
+    },
+    {
+      "name": "Bevanda",
+      "latitude": 45.334889,
+      "longitude": 14.310937
+    },
+    {
+      "name": "Bijela Ruža",
+      "latitude": 45.37597,
+      "longitude": 14.956331
+    },
+    {
+      "name": "Bijela ruža",
+      "latitude": 45.713616,
+      "longitude": 16.075548
+    },
+    {
+      "name": "Bili kamen",
+      "latitude": 43.753337,
+      "longitude": 15.770537
+    },
+    {
+      "name": "Bistro Breza",
+      "latitude": 45.370756,
+      "longitude": 14.940781
+    },
+    {
+      "name": "Bitoraj",
+      "latitude": 45.304394,
+      "longitude": 14.713211
+    },
+    {
+      "name": "Biševo",
+      "latitude": 43.04797,
+      "longitude": 16.085886
+    },
+    {
+      "name": "BLEUS APARTMENTS",
+      "latitude": 42.903935,
+      "longitude": 16.860795
+    },
+    {
+      "name": "BLU MARE HOTEL",
+      "latitude": 45.316928,
+      "longitude": 13.558911
+    },
+    {
+      "name": "Blue waves resort",
+      "latitude": 45.116155,
+      "longitude": 14.509837
+    },
+    {
+      "name": "Bluebini Heritage Hotel",
+      "latitude": 45.083338,
+      "longitude": 13.632545
+    },
+    {
+      "name": "Bluesun Holiday Village Afrodita",
+      "latitude": 43.269825,
+      "longitude": 17.054492
+    },
+    {
+      "name": "Bluesun Hotel Alan",
+      "latitude": 44.286081,
+      "longitude": 15.448393
+    },
+    {
+      "name": "Bluesun Hotel Alga",
+      "latitude": 43.270864,
+      "longitude": 17.053383
+    },
+    {
+      "name": "Bluesun Hotel Bonaca",
+      "latitude": 43.261107,
+      "longitude": 16.64342
+    },
+    {
+      "name": "Bluesun Hotel Borak",
+      "latitude": 43.259692,
+      "longitude": 16.644201
+    },
+    {
+      "name": "Bluesun Hotel Elaphusa",
+      "latitude": 43.260375,
+      "longitude": 16.642219
+    },
+    {
+      "name": "Bluesun Hotel Kaj",
+      "latitude": 46.003065,
+      "longitude": 16.11727
+    },
+    {
+      "name": "Bluesun Hotel Kaj",
+      "latitude": 46.003486,
+      "longitude": 16.119406
+    },
+    {
+      "name": "Bluesun hotel Zadvarje",
+      "latitude": 43.429884,
+      "longitude": 16.896693
+    },
+    {
+      "name": "Bluesun Kaštelet",
+      "latitude": 43.270722,
+      "longitude": 17.052687
+    },
+    {
+      "name": "Bluesun Neptun",
+      "latitude": 43.273142,
+      "longitude": 17.047429
+    },
+    {
+      "name": "Boban luxury suites",
+      "latitude": 43.503359,
+      "longitude": 16.45591
+    },
+    {
+      "name": "Bodul",
+      "latitude": 43.165953,
+      "longitude": 16.445445
+    },
+    {
+      "name": "Bor",
+      "latitude": 45.024931,
+      "longitude": 14.582726
+    },
+    {
+      "name": "Borik",
+      "latitude": 42.921673,
+      "longitude": 17.170693
+    },
+    {
+      "name": "Borovnik",
+      "latitude": 43.798742,
+      "longitude": 15.641279
+    },
+    {
+      "name": "Boutique HOH",
+      "latitude": 45.81981,
+      "longitude": 15.975329
+    },
+    {
+      "name": "Boutique Hostel Alegria",
+      "latitude": 43.383739,
+      "longitude": 16.552045
+    },
+    {
+      "name": "Boutique Hotel Acacia",
+      "latitude": 45.280359,
+      "longitude": 14.272098
+    },
+    {
+      "name": "Boutique Hotel Ani",
+      "latitude": 43.303309,
+      "longitude": 17.010889
+    },
+    {
+      "name": "Boutique hotel Mirari",
+      "latitude": 43.506031,
+      "longitude": 16.429658
+    },
+    {
+      "name": "Boutique Hotel Placa",
+      "latitude": 45.025982,
+      "longitude": 14.574196
+    },
+    {
+      "name": "Boutique Mirjam d.o.o.",
+      "latitude": 43.30686,
+      "longitude": 17.004386
+    },
+    {
+      "name": "Boutique Villa Pearl of Plitvice",
+      "latitude": 44.897536,
+      "longitude": 15.605556
+    },
+    {
+      "name": "Bračka Perla",
+      "latitude": 43.383164,
+      "longitude": 16.537792
+    },
+    {
+      "name": "Bretanide",
+      "latitude": 43.260599,
+      "longitude": 16.638157
+    },
+    {
+      "name": "Briig Boutique Hotel",
+      "latitude": 43.50303,
+      "longitude": 16.446437
+    },
+    {
+      "name": "Bristol",
+      "latitude": 45.336574,
+      "longitude": 14.307412
+    },
+    {
+      "name": "Brown Beach House",
+      "latitude": 43.515785,
+      "longitude": 16.259396
+    },
+    {
+      "name": "Bura/45°N",
+      "latitude": 44.989579,
+      "longitude": 14.900314
+    },
+    {
+      "name": "Buratović",
+      "latitude": 44.2558,
+      "longitude": 15.461709
+    },
+    {
+      "name": "Butique hotel Bačvice",
+      "latitude": 43.504145,
+      "longitude": 16.446995
+    },
+    {
+      "name": "Canopy by Hilton Zagreb City Centre",
+      "latitude": 45.805836,
+      "longitude": 15.984979
+    },
+    {
+      "name": "Carmen",
+      "latitude": 44.954729,
+      "longitude": 14.036311
+    },
+    {
+      "name": "Carolina",
+      "latitude": 44.75725,
+      "longitude": 14.723143
+    },
+    {
+      "name": "Casa Amando",
+      "latitude": 45.083368,
+      "longitude": 13.632436
+    },
+    {
+      "name": "Casa Garzotto Boutique Hotel",
+      "latitude": 45.082213,
+      "longitude": 13.633015
+    },
+    {
+      "name": "Casa Topic",
+      "latitude": 42.997134,
+      "longitude": 17.478956
+    },
+    {
+      "name": "Casino Hotel Mulino",
+      "latitude": 45.462187,
+      "longitude": 13.620277
+    },
+    {
+      "name": "Castelletto Hotel",
+      "latitude": 42.57936,
+      "longitude": 18.222052
+    },
+    {
+      "name": "Castellum",
+      "latitude": 46.386879,
+      "longitude": 16.432553
+    },
+    {
+      "name": "Central",
+      "latitude": 45.154578,
+      "longitude": 18.01879
+    },
+    {
+      "name": "Central",
+      "latitude": 45.22599,
+      "longitude": 16.543886
+    },
+    {
+      "name": "Central Beach 9",
+      "latitude": 43.297346,
+      "longitude": 17.014377
+    },
+    {
+      "name": "Chillax Rooms",
+      "latitude": 43.511939,
+      "longitude": 16.446131
+    },
+    {
+      "name": "Cittar",
+      "latitude": 45.31591,
+      "longitude": 13.560766
+    },
+    {
+      "name": "Club Funimation Borik",
+      "latitude": 44.133287,
+      "longitude": 15.210738
+    },
+    {
+      "name": "Colentum",
+      "latitude": 43.817234,
+      "longitude": 15.579966
+    },
+    {
+      "name": "Cora Hotel",
+      "latitude": 43.521026,
+      "longitude": 16.446737
+    },
+    {
+      "name": "Corinthia Baška",
+      "latitude": 44.968213,
+      "longitude": 14.74891
+    },
+    {
+      "name": "Country house Pansion",
+      "latitude": 42.576071,
+      "longitude": 18.243598
+    },
+    {
+      "name": "Cres",
+      "latitude": 44.959235,
+      "longitude": 14.408642
+    },
+    {
+      "name": "Crikvenica",
+      "latitude": 45.174147,
+      "longitude": 14.688743
+    },
+    {
+      "name": "Croatia",
+      "latitude": 43.358937,
+      "longitude": 16.947409
+    },
+    {
+      "name": "Crvena Luka Hotel & Resort",
+      "latitude": 43.919526,
+      "longitude": 15.477984
+    },
+    {
+      "name": "D-Resort Sibenik",
+      "latitude": 43.723279,
+      "longitude": 15.895603
+    },
+    {
+      "name": "Dalmacija",
+      "latitude": 43.169048,
+      "longitude": 16.443362
+    },
+    {
+      "name": "Dalmacija",
+      "latitude": 43.169497,
+      "longitude": 16.442149
+    },
+    {
+      "name": "Dalmatina",
+      "latitude": 43.273241,
+      "longitude": 17.051418
+    },
+    {
+      "name": "Dalmatino",
+      "latitude": 43.752928,
+      "longitude": 15.770592
+    },
+    {
+      "name": "Damianii",
+      "latitude": 43.440026,
+      "longitude": 16.667995
+    },
+    {
+      "name": "Degenija",
+      "latitude": 44.286453,
+      "longitude": 15.451505
+    },
+    {
+      "name": "Delfin",
+      "latitude": 45.077504,
+      "longitude": 13.639285
+    },
+    {
+      "name": "Delphin Suites",
+      "latitude": 44.519158,
+      "longitude": 14.500443
+    },
+    {
+      "name": "Dep. Tamaris",
+      "latitude": 45.025066,
+      "longitude": 14.581402
+    },
+    {
+      "name": "Dep. Villa Lovorka",
+      "latitude": 45.0256,
+      "longitude": 14.581354
+    },
+    {
+      "name": "Dioklecijan",
+      "latitude": 43.508835,
+      "longitude": 16.457499
+    },
+    {
+      "name": "Dom željezničara",
+      "latitude": 43.520925,
+      "longitude": 16.469168
+    },
+    {
+      "name": "DoubleTree by Hilton Zagreb",
+      "latitude": 45.801844,
+      "longitude": 16.001545
+    },
+    {
+      "name": "Draga di Lovrana",
+      "latitude": 45.275765,
+      "longitude": 14.25146
+    },
+    {
+      "name": "Dražica",
+      "latitude": 45.025243,
+      "longitude": 14.582412
+    },
+    {
+      "name": "Dubrovački Vrtovi Sunca",
+      "latitude": 42.695422,
+      "longitude": 18.017655
+    },
+    {
+      "name": "Dubrovnik Luxury Residence – L’Orangerie",
+      "latitude": 42.65417,
+      "longitude": 18.071715
+    },
+    {
+      "name": "Dujam",
+      "latitude": 43.515987,
+      "longitude": 16.450765
+    },
+    {
+      "name": "Duje",
+      "latitude": 43.741349,
+      "longitude": 15.807272
+    },
+    {
+      "name": "Dunatovi Dvori",
+      "latitude": 44.080052,
+      "longitude": 15.190223
+    },
+    {
+      "name": "Dunav",
+      "latitude": 45.229863,
+      "longitude": 19.380109
+    },
+    {
+      "name": "Dva Baladura",
+      "latitude": 45.111149,
+      "longitude": 13.784911
+    },
+    {
+      "name": "Eden",
+      "latitude": 45.072555,
+      "longitude": 13.641046
+    },
+    {
+      "name": "El Supetar",
+      "latitude": 42.583666,
+      "longitude": 18.215254
+    },
+    {
+      "name": "Ema",
+      "latitude": 45.128354,
+      "longitude": 14.783976
+    },
+    {
+      "name": "Esplanade",
+      "latitude": 45.179112,
+      "longitude": 14.683593
+    },
+    {
+      "name": "Ethno houses Plitvica selo",
+      "latitude": 44.898177,
+      "longitude": 15.604907
+    },
+    {
+      "name": "Europa",
+      "latitude": 45.511964,
+      "longitude": 15.546687
+    },
+    {
+      "name": "Eva",
+      "latitude": 44.762039,
+      "longitude": 14.724884
+    },
+    {
+      "name": "Eva Luxury Rooms & Apartments",
+      "latitude": 44.874993,
+      "longitude": 15.6285
+    },
+    {
+      "name": "Excelsior",
+      "latitude": 42.641148,
+      "longitude": 18.119297
+    },
+    {
+      "name": "Excelsior",
+      "latitude": 45.29627,
+      "longitude": 14.276325
+    },
+    {
+      "name": "Falkensteiner Family Hotel Diadora",
+      "latitude": 44.193427,
+      "longitude": 15.149572
+    },
+    {
+      "name": "Falkensteiner Hotel & Spa Iadera",
+      "latitude": 44.195528,
+      "longitude": 15.144946
+    },
+    {
+      "name": "Falkensteiner Hotel Park",
+      "latitude": 45.019987,
+      "longitude": 14.627961
+    },
+    {
+      "name": "Falkensteiner Residences Senia",
+      "latitude": 44.194104,
+      "longitude": 15.147111
+    },
+    {
+      "name": "Faraon",
+      "latitude": 43.008285,
+      "longitude": 17.264856
+    },
+    {
+      "name": "Fenice Palace",
+      "latitude": 43.735446,
+      "longitude": 15.892091
+    },
+    {
+      "name": "Flores",
+      "latitude": 45.222437,
+      "longitude": 13.595495
+    },
+    {
+      "name": "Fortuna",
+      "latitude": 43.162368,
+      "longitude": 16.487469
+    },
+    {
+      "name": "Fortuna",
+      "latitude": 44.145598,
+      "longitude": 15.321957
+    },
+    {
+      "name": "Forty Two",
+      "latitude": 45.802762,
+      "longitude": 16.017637
+    },
+    {
+      "name": "Galeb",
+      "latitude": 43.165959,
+      "longitude": 16.443707
+    },
+    {
+      "name": "Galeb",
+      "latitude": 45.331171,
+      "longitude": 14.302207
+    },
+    {
+      "name": "Gallus",
+      "latitude": 45.82845,
+      "longitude": 16.098391
+    },
+    {
+      "name": "Garden",
+      "latitude": 45.805282,
+      "longitude": 15.967226
+    },
+    {
+      "name": "Garden Palace Resort",
+      "latitude": 45.439983,
+      "longitude": 13.523456
+    },
+    {
+      "name": "Girandela",
+      "latitude": 45.077781,
+      "longitude": 14.170161
+    },
+    {
+      "name": "Golden Rays Luxury Resort",
+      "latitude": 43.59961,
+      "longitude": 15.922744
+    },
+    {
+      "name": "Gordana",
+      "latitude": 42.625005,
+      "longitude": 18.208482
+    },
+    {
+      "name": "Gospoja",
+      "latitude": 45.076615,
+      "longitude": 14.677704
+    },
+    {
+      "name": "Grand",
+      "latitude": 45.242417,
+      "longitude": 15.550404
+    },
+    {
+      "name": "Grand Hotel Adriatic",
+      "latitude": 45.326143,
+      "longitude": 14.298854
+    },
+    {
+      "name": "Grand Hotel Palace",
+      "latitude": 45.331919,
+      "longitude": 14.302036
+    },
+    {
+      "name": "Grand Hotel Park",
+      "latitude": 42.65545,
+      "longitude": 18.072702
+    },
+    {
+      "name": "Grand Hotel View",
+      "latitude": 43.377473,
+      "longitude": 16.624402
+    },
+    {
+      "name": "Grand Hotel Zagreb",
+      "latitude": 45.79914,
+      "longitude": 15.878653
+    },
+    {
+      "name": "Grand Park Hotel Rovinj",
+      "latitude": 45.075888,
+      "longitude": 13.63713
+    },
+    {
+      "name": "Grand Villa Argentina",
+      "latitude": 42.640482,
+      "longitude": 18.121197
+    },
+    {
+      "name": "Grgic",
+      "latitude": 45.3244,
+      "longitude": 13.570462
+    },
+    {
+      "name": "Guest house Komfor Adriatic",
+      "latitude": 45.441365,
+      "longitude": 13.511549
+    },
+    {
+      "name": "Guest house Oreskovic",
+      "latitude": 44.776387,
+      "longitude": 15.689923
+    },
+    {
+      "name": "Guest House ruban design",
+      "latitude": 44.11753,
+      "longitude": 15.229935
+    },
+    {
+      "name": "Guest House Rustico",
+      "latitude": 44.77626,
+      "longitude": 15.685291
+    },
+    {
+      "name": "Guesthouse Mediteran",
+      "latitude": 43.488506,
+      "longitude": 16.543214
+    },
+    {
+      "name": "Haus Janja",
+      "latitude": 44.942364,
+      "longitude": 15.632475
+    },
+    {
+      "name": "Hedera",
+      "latitude": 42.646735,
+      "longitude": 18.100113
+    },
+    {
+      "name": "Hedera",
+      "latitude": 45.080482,
+      "longitude": 14.149805
+    },
+    {
+      "name": "Heritage Forza Hotel",
+      "latitude": 44.969913,
+      "longitude": 14.754064
+    },
+    {
+      "name": "Heritage Hotel Tisno",
+      "latitude": 43.800064,
+      "longitude": 15.64101
+    },
+    {
+      "name": "Hilton Garden Inn Zagreb - Radnicka",
+      "latitude": 45.804572,
+      "longitude": 15.998973
+    },
+    {
+      "name": "Hilton Imperial Dubrovnik",
+      "latitude": 42.642834,
+      "longitude": 18.10468
+    },
+    {
+      "name": "Hilton Rijeka Costabella Beach Resort & Spa",
+      "latitude": 45.346663,
+      "longitude": 14.350211
+    },
+    {
+      "name": "Holiday Villa Ariana",
+      "latitude": 44.086687,
+      "longitude": 15.182954
+    },
+    {
+      "name": "Holiday Village Sagitta",
+      "latitude": 43.408096,
+      "longitude": 16.749956
+    },
+    {
+      "name": "Horizon - luxury suites",
+      "latitude": 43.505966,
+      "longitude": 16.445681
+    },
+    {
+      "name": "Hostel",
+      "latitude": 46.381131,
+      "longitude": 16.391305
+    },
+    {
+      "name": "Hotel \"Central\" Art’aeria",
+      "latitude": 45.897234,
+      "longitude": 16.843123
+    },
+    {
+      "name": "Hotel \"Dubrava\"",
+      "latitude": 45.83267,
+      "longitude": 16.039806
+    },
+    {
+      "name": "Hotel & Restaurant Se-Mi",
+      "latitude": 45.981838,
+      "longitude": 15.837578
+    },
+    {
+      "name": "Hotel & restoran Puntar",
+      "latitude": 45.974483,
+      "longitude": 16.017618
+    },
+    {
+      "name": "Hotel 4 Opatijska Cvijeta",
+      "latitude": 45.337365,
+      "longitude": 14.309614
+    },
+    {
+      "name": "Hotel Academia",
+      "latitude": 45.819252,
+      "longitude": 15.976646
+    },
+    {
+      "name": "Hotel Ad Turres",
+      "latitude": 45.189099,
+      "longitude": 14.67957
+    },
+    {
+      "name": "Hotel Admiral",
+      "latitude": 45.794773,
+      "longitude": 15.918992
+    },
+    {
+      "name": "Hotel Adria",
+      "latitude": 42.968508,
+      "longitude": 16.699847
+    },
+    {
+      "name": "Hotel Adria",
+      "latitude": 43.933478,
+      "longitude": 15.453845
+    },
+    {
+      "name": "Hotel Adriana",
+      "latitude": 43.508396,
+      "longitude": 16.437138
+    },
+    {
+      "name": "Hotel Adriana",
+      "latitude": 44.134937,
+      "longitude": 15.210444
+    },
+    {
+      "name": "Hotel Adriatic",
+      "latitude": 42.6536,
+      "longitude": 18.068998
+    },
+    {
+      "name": "Hotel Adriatic",
+      "latitude": 45.081919,
+      "longitude": 13.634135
+    },
+    {
+      "name": "Hotel Adriatic ***+",
+      "latitude": 43.934698,
+      "longitude": 15.44411
+    },
+    {
+      "name": "Hotel Agava",
+      "latitude": 45.337127,
+      "longitude": 14.308506
+    },
+    {
+      "name": "Hotel Alkar",
+      "latitude": 43.704544,
+      "longitude": 16.639748
+    },
+    {
+      "name": "Hotel Almaris",
+      "latitude": 44.90217,
+      "longitude": 14.909943
+    },
+    {
+      "name": "Hotel Amabilis",
+      "latitude": 45.162654,
+      "longitude": 14.711795
+    },
+    {
+      "name": "Hotel Ambasador",
+      "latitude": 45.340226,
+      "longitude": 14.311637
+    },
+    {
+      "name": "Hotel Amphora",
+      "latitude": 43.502196,
+      "longitude": 16.482413
+    },
+    {
+      "name": "Hotel Andrija",
+      "latitude": 43.697401,
+      "longitude": 15.889708
+    },
+    {
+      "name": "Hotel Antonija",
+      "latitude": 43.152095,
+      "longitude": 17.25934
+    },
+    {
+      "name": "Hotel Antunović",
+      "latitude": 45.797319,
+      "longitude": 15.89919
+    },
+    {
+      "name": "Hotel Antunović",
+      "latitude": 45.820551,
+      "longitude": 16.162585
+    },
+    {
+      "name": "Hotel Arcus",
+      "latitude": 44.820074,
+      "longitude": 13.930448
+    },
+    {
+      "name": "Hotel Ariston",
+      "latitude": 42.659384,
+      "longitude": 18.05882
+    },
+    {
+      "name": "Hotel Aristos",
+      "latitude": 45.748108,
+      "longitude": 15.995172
+    },
+    {
+      "name": "Hotel Arkada Sunny",
+      "latitude": 43.188098,
+      "longitude": 16.585142
+    },
+    {
+      "name": "Hotel As",
+      "latitude": 43.523814,
+      "longitude": 16.452239
+    },
+    {
+      "name": "Hotel AS",
+      "latitude": 45.826157,
+      "longitude": 15.968552
+    },
+    {
+      "name": "Hotel Astarea",
+      "latitude": 42.622163,
+      "longitude": 18.209702
+    },
+    {
+      "name": "Hotel Astarea II",
+      "latitude": 42.620675,
+      "longitude": 18.209793
+    },
+    {
+      "name": "Hotel Astoria",
+      "latitude": 45.329965,
+      "longitude": 14.301111
+    },
+    {
+      "name": "Hotel Astoria",
+      "latitude": 45.807164,
+      "longitude": 15.980637
+    },
+    {
+      "name": "Hotel Aurora",
+      "latitude": 43.237808,
+      "longitude": 17.077233
+    },
+    {
+      "name": "Hotel Avenue 21",
+      "latitude": 45.801886,
+      "longitude": 15.995405
+    },
+    {
+      "name": "Hotel Bacchus",
+      "latitude": 43.355344,
+      "longitude": 16.949683
+    },
+    {
+      "name": "Hotel Balise",
+      "latitude": 45.592212,
+      "longitude": 17.223321
+    },
+    {
+      "name": "Hotel Batuda",
+      "latitude": 43.527799,
+      "longitude": 16.482716
+    },
+    {
+      "name": "Hotel Bella Vista",
+      "latitude": 43.152097,
+      "longitude": 17.260013
+    },
+    {
+      "name": "Hotel Bellevue",
+      "latitude": 43.508847,
+      "longitude": 16.436001
+    },
+    {
+      "name": "Hotel Bellevue",
+      "latitude": 44.88096,
+      "longitude": 15.621791
+    },
+    {
+      "name": "Hotel Beni",
+      "latitude": 44.258186,
+      "longitude": 15.213734
+    },
+    {
+      "name": "Hotel Berulia",
+      "latitude": 43.362334,
+      "longitude": 16.939119
+    },
+    {
+      "name": "Hotel Bilogora",
+      "latitude": 45.701804,
+      "longitude": 17.17357
+    },
+    {
+      "name": "Hotel Biokovka",
+      "latitude": 43.303792,
+      "longitude": 17.007503
+    },
+    {
+      "name": "Hotel Biokovo",
+      "latitude": 43.295219,
+      "longitude": 17.017587
+    },
+    {
+      "name": "Hotel Blaža",
+      "latitude": 45.324035,
+      "longitude": 18.401646
+    },
+    {
+      "name": "Hotel Blue",
+      "latitude": 45.799117,
+      "longitude": 15.959624
+    },
+    {
+      "name": "Hotel Bolero",
+      "latitude": 43.941615,
+      "longitude": 15.449644
+    },
+    {
+      "name": "Hotel Bonaca",
+      "latitude": 43.304589,
+      "longitude": 17.007651
+    },
+    {
+      "name": "Hotel Bonavia",
+      "latitude": 45.328022,
+      "longitude": 14.441176
+    },
+    {
+      "name": "Hotel Borik",
+      "latitude": 45.760074,
+      "longitude": 18.186027
+    },
+    {
+      "name": "Hotel Božica",
+      "latitude": 42.712357,
+      "longitude": 17.915533
+    },
+    {
+      "name": "Hotel Brattia",
+      "latitude": 43.376257,
+      "longitude": 16.628675
+    },
+    {
+      "name": "Hotel Brioni",
+      "latitude": 44.838122,
+      "longitude": 13.829738
+    },
+    {
+      "name": "Hotel Bristol",
+      "latitude": 45.294268,
+      "longitude": 14.276911
+    },
+    {
+      "name": "Hotel Brzet",
+      "latitude": 43.434321,
+      "longitude": 16.703937
+    },
+    {
+      "name": "Hotel California",
+      "latitude": 43.2323,
+      "longitude": 17.087328
+    },
+    {
+      "name": "Hotel Calypso",
+      "latitude": 45.754313,
+      "longitude": 15.88527
+    },
+    {
+      "name": "Hotel Capital",
+      "latitude": 45.812119,
+      "longitude": 15.982081
+    },
+    {
+      "name": "Hotel Carlstadt",
+      "latitude": 45.493788,
+      "longitude": 15.550703
+    },
+    {
+      "name": "Hotel Cavtat",
+      "latitude": 42.581363,
+      "longitude": 18.221402
+    },
+    {
+      "name": "Hotel Central",
+      "latitude": 45.561558,
+      "longitude": 18.676331
+    },
+    {
+      "name": "Hotel Central",
+      "latitude": 45.805518,
+      "longitude": 15.980019
+    },
+    {
+      "name": "Hotel Concordia",
+      "latitude": 43.515635,
+      "longitude": 16.24842
+    },
+    {
+      "name": "Hotel Consul",
+      "latitude": 43.515356,
+      "longitude": 16.445503
+    },
+    {
+      "name": "Hotel Continental",
+      "latitude": 45.337711,
+      "longitude": 14.308883
+    },
+    {
+      "name": "Hotel Cornaro",
+      "latitude": 43.510319,
+      "longitude": 16.439375
+    },
+    {
+      "name": "Hotel Corner",
+      "latitude": 43.514545,
+      "longitude": 16.444033
+    },
+    {
+      "name": "Hotel Crnkovic",
+      "latitude": 46.25027,
+      "longitude": 16.616756
+    },
+    {
+      "name": "Hotel Croatia",
+      "latitude": 43.358856,
+      "longitude": 16.947419
+    },
+    {
+      "name": "Hotel Croatia",
+      "latitude": 45.814789,
+      "longitude": 15.954534
+    },
+    {
+      "name": "Hotel Croatia Cavtat",
+      "latitude": 42.57851,
+      "longitude": 18.213872
+    },
+    {
+      "name": "HOTEL CROATIA*** HVAR",
+      "latitude": 43.172727,
+      "longitude": 16.432176
+    },
+    {
+      "name": "Hotel Cvita Split",
+      "latitude": 43.506503,
+      "longitude": 16.418772
+    },
+    {
+      "name": "Hotel Dalmacija",
+      "latitude": 43.302055,
+      "longitude": 17.010351
+    },
+    {
+      "name": "Hotel Degenija, Krasno",
+      "latitude": 44.826172,
+      "longitude": 15.087548
+    },
+    {
+      "name": "Hotel Delfin",
+      "latitude": 43.171508,
+      "longitude": 16.438503
+    },
+    {
+      "name": "Hotel Delfin",
+      "latitude": 44.146979,
+      "longitude": 15.209362
+    },
+    {
+      "name": "Hotel Delfin",
+      "latitude": 45.196373,
+      "longitude": 13.584654
+    },
+    {
+      "name": "Hotel Delfin",
+      "latitude": 45.22506,
+      "longitude": 14.551787
+    },
+    {
+      "name": "Hotel Delminivm",
+      "latitude": 45.809143,
+      "longitude": 15.900414
+    },
+    {
+      "name": "Hotel Diplomat",
+      "latitude": 45.76457,
+      "longitude": 15.978246
+    },
+    {
+      "name": "Hotel Domino",
+      "latitude": 45.32592,
+      "longitude": 14.299362
+    },
+    {
+      "name": "Hotel Donat",
+      "latitude": 44.136316,
+      "longitude": 15.211542
+    },
+    {
+      "name": "Hotel Drava",
+      "latitude": 45.555458,
+      "longitude": 18.677552
+    },
+    {
+      "name": "Hotel Dubravka",
+      "latitude": 43.361274,
+      "longitude": 16.943587
+    },
+    {
+      "name": "Hotel Dubrovnik",
+      "latitude": 45.812391,
+      "longitude": 15.976676
+    },
+    {
+      "name": "Hotel Duga Resa",
+      "latitude": 45.452759,
+      "longitude": 15.492353
+    },
+    {
+      "name": "Hotel Dukat",
+      "latitude": 45.528464,
+      "longitude": 17.880959
+    },
+    {
+      "name": "Hotel Eden",
+      "latitude": 43.495552,
+      "longitude": 16.536948
+    },
+    {
+      "name": "Hotel Esperanto",
+      "latitude": 45.159289,
+      "longitude": 14.717496
+    },
+    {
+      "name": "Hotel Esplanade",
+      "latitude": 45.805245,
+      "longitude": 15.976002
+    },
+    {
+      "name": "Hotel Fala",
+      "latitude": 45.793698,
+      "longitude": 15.978657
+    },
+    {
+      "name": "Hotel Fanat",
+      "latitude": 43.503396,
+      "longitude": 16.480238
+    },
+    {
+      "name": "Hotel Flanona",
+      "latitude": 45.121899,
+      "longitude": 14.204326
+    },
+    {
+      "name": "Hotel Frankopan",
+      "latitude": 45.267217,
+      "longitude": 15.224852
+    },
+    {
+      "name": "Hotel Gacka",
+      "latitude": 44.81317,
+      "longitude": 15.320341
+    },
+    {
+      "name": "Hotel Galerija",
+      "latitude": 45.762977,
+      "longitude": 15.913091
+    },
+    {
+      "name": "Hotel Galijot",
+      "latitude": 45.20855,
+      "longitude": 13.589067
+    },
+    {
+      "name": "Hotel Garić",
+      "latitude": 45.573448,
+      "longitude": 16.941442
+    },
+    {
+      "name": "Hotel Garten",
+      "latitude": 45.184574,
+      "longitude": 18.00383
+    },
+    {
+      "name": "Hotel Gem",
+      "latitude": 45.30212,
+      "longitude": 18.811882
+    },
+    {
+      "name": "Hotel Glavović",
+      "latitude": 42.689763,
+      "longitude": 17.942444
+    },
+    {
+      "name": "Hotel Globo",
+      "latitude": 43.515362,
+      "longitude": 16.439709
+    },
+    {
+      "name": "Hotel Golf",
+      "latitude": 46.321959,
+      "longitude": 16.781507
+    },
+    {
+      "name": "Hotel Goran",
+      "latitude": 43.359826,
+      "longitude": 16.947695
+    },
+    {
+      "name": "Hotel Gradac",
+      "latitude": 43.102425,
+      "longitude": 17.34769
+    },
+    {
+      "name": "Hotel Grand",
+      "latitude": 42.686622,
+      "longitude": 17.941035
+    },
+    {
+      "name": "Hotel Grgin dol",
+      "latitude": 45.331434,
+      "longitude": 17.682324
+    },
+    {
+      "name": "Hotel Holiday",
+      "latitude": 44.814169,
+      "longitude": 13.938697
+    },
+    {
+      "name": "Hotel Horizont",
+      "latitude": 43.354304,
+      "longitude": 16.950523
+    },
+    {
+      "name": "Hotel Hrvatska",
+      "latitude": 43.353363,
+      "longitude": 16.951293
+    },
+    {
+      "name": "Hotel Hvar",
+      "latitude": 43.162535,
+      "longitude": 16.701464
+    },
+    {
+      "name": "Hotel Ika",
+      "latitude": 45.306455,
+      "longitude": 14.281562
+    },
+    {
+      "name": "Hotel Ilica",
+      "latitude": 45.812431,
+      "longitude": 15.96296
+    },
+    {
+      "name": "Hotel Ilirija",
+      "latitude": 43.935014,
+      "longitude": 15.443907
+    },
+    {
+      "name": "Hotel Imperial",
+      "latitude": 45.334598,
+      "longitude": 14.305746
+    },
+    {
+      "name": "Hotel In Excelsis",
+      "latitude": 44.567055,
+      "longitude": 14.874378
+    },
+    {
+      "name": "Hotel Indijan",
+      "latitude": 42.975258,
+      "longitude": 17.168126
+    },
+    {
+      "name": "Hotel iNova",
+      "latitude": 45.803224,
+      "longitude": 15.994661
+    },
+    {
+      "name": "Hotel International",
+      "latitude": 44.756924,
+      "longitude": 14.760903
+    },
+    {
+      "name": "Hotel International",
+      "latitude": 45.7989,
+      "longitude": 15.974225
+    },
+    {
+      "name": "Hotel ISSA",
+      "latitude": 43.06561,
+      "longitude": 16.189153
+    },
+    {
+      "name": "Hotel Istra",
+      "latitude": 46.30878,
+      "longitude": 16.338723
+    },
+    {
+      "name": "Hotel Ivan",
+      "latitude": 43.696157,
+      "longitude": 15.887763
+    },
+    {
+      "name": "Hotel Ivan",
+      "latitude": 44.058733,
+      "longitude": 16.219984
+    },
+    {
+      "name": "Hotel Ičići",
+      "latitude": 45.317914,
+      "longitude": 14.291187
+    },
+    {
+      "name": "Hotel Jadran",
+      "latitude": 43.50194,
+      "longitude": 16.424517
+    },
+    {
+      "name": "Hotel Jakov",
+      "latitude": 43.698481,
+      "longitude": 15.889528
+    },
+    {
+      "name": "Hotel Jarun",
+      "latitude": 45.791276,
+      "longitude": 15.929368
+    },
+    {
+      "name": "Hotel JASMIN",
+      "latitude": 46.166761,
+      "longitude": 15.605
+    },
+    {
+      "name": "Hotel Jezero",
+      "latitude": 44.883784,
+      "longitude": 15.618463
+    },
+    {
+      "name": "Hotel Josipdol",
+      "latitude": 45.188819,
+      "longitude": 15.285789
+    },
+    {
+      "name": "Hotel Joso",
+      "latitude": 44.05293,
+      "longitude": 15.310076
+    },
+    {
+      "name": "Hotel Jure",
+      "latitude": 43.695589,
+      "longitude": 15.884197
+    },
+    {
+      "name": "Hotel Kadoor",
+      "latitude": 45.49165,
+      "longitude": 15.549346
+    },
+    {
+      "name": "Hotel Kalnik",
+      "latitude": 46.021998,
+      "longitude": 16.545832
+    },
+    {
+      "name": "Hotel Karmen",
+      "latitude": 44.917996,
+      "longitude": 13.767738
+    },
+    {
+      "name": "Hotel Katarina",
+      "latitude": 43.587664,
+      "longitude": 16.57667
+    },
+    {
+      "name": "Hotel Katarina",
+      "latitude": 45.160521,
+      "longitude": 14.716293
+    },
+    {
+      "name": "Hotel Kazbek",
+      "latitude": 42.657749,
+      "longitude": 18.079961
+    },
+    {
+      "name": "Hotel Kaštel Motovun",
+      "latitude": 45.33638,
+      "longitude": 13.828422
+    },
+    {
+      "name": "Hotel Kimen",
+      "latitude": 44.959887,
+      "longitude": 14.397614
+    },
+    {
+      "name": "Hotel Kimen",
+      "latitude": 44.960137,
+      "longitude": 14.398618
+    },
+    {
+      "name": "Hotel Komodor",
+      "latitude": 42.975859,
+      "longitude": 17.134043
+    },
+    {
+      "name": "Hotel Koral",
+      "latitude": 44.814202,
+      "longitude": 13.934141
+    },
+    {
+      "name": "Hotel Korana Srakovčić",
+      "latitude": 45.488835,
+      "longitude": 15.561671
+    },
+    {
+      "name": "Hotel Korana-Srakovčić",
+      "latitude": 45.488833,
+      "longitude": 15.561565
+    },
+    {
+      "name": "Hotel Kornati",
+      "latitude": 43.935861,
+      "longitude": 15.443682
+    },
+    {
+      "name": "Hotel Kovac",
+      "latitude": 45.528537,
+      "longitude": 14.693312
+    },
+    {
+      "name": "Hotel Kralj",
+      "latitude": 46.357096,
+      "longitude": 16.640622
+    },
+    {
+      "name": "Hotel Kraljevica",
+      "latitude": 45.272178,
+      "longitude": 14.571901
+    },
+    {
+      "name": "Hotel Kunjevci",
+      "latitude": 45.231539,
+      "longitude": 18.801243
+    },
+    {
+      "name": "Hotel Kutina",
+      "latitude": 45.480984,
+      "longitude": 16.775569
+    },
+    {
+      "name": "Hotel Kvarner",
+      "latitude": 45.334805,
+      "longitude": 14.307807
+    },
+    {
+      "name": "Hotel La Grisa",
+      "latitude": 45.040522,
+      "longitude": 13.785383
+    },
+    {
+      "name": "Hotel Laguna",
+      "latitude": 45.315834,
+      "longitude": 13.574566
+    },
+    {
+      "name": "Hotel Laguna",
+      "latitude": 45.803426,
+      "longitude": 15.958088
+    },
+    {
+      "name": "Hotel Laguna Albatros",
+      "latitude": 45.197062,
+      "longitude": 13.592467
+    },
+    {
+      "name": "Hotel Laguna Istra",
+      "latitude": 45.199409,
+      "longitude": 13.592551
+    },
+    {
+      "name": "Hotel Laguna Parentium",
+      "latitude": 45.204012,
+      "longitude": 13.587273
+    },
+    {
+      "name": "Hotel Lapad",
+      "latitude": 42.656968,
+      "longitude": 18.08164
+    },
+    {
+      "name": "Hotel Laurentum",
+      "latitude": 43.264845,
+      "longitude": 17.057876
+    },
+    {
+      "name": "Hotel Lav",
+      "latitude": 45.353741,
+      "longitude": 19.001481
+    },
+    {
+      "name": "Hotel Lavica",
+      "latitude": 45.801037,
+      "longitude": 15.708628
+    },
+    {
+      "name": "Hotel Lemongarden",
+      "latitude": 43.385382,
+      "longitude": 16.479158
+    },
+    {
+      "name": "Hotel Lero",
+      "latitude": 42.648359,
+      "longitude": 18.088534
+    },
+    {
+      "name": "Hotel Lipa",
+      "latitude": 42.939248,
+      "longitude": 16.789875
+    },
+    {
+      "name": "Hotel Livadic",
+      "latitude": 44.822475,
+      "longitude": 13.963902
+    },
+    {
+      "name": "Hotel Livadić",
+      "latitude": 45.802011,
+      "longitude": 15.708668
+    },
+    {
+      "name": "Hotel Lišanj - Annex",
+      "latitude": 45.124494,
+      "longitude": 14.793482
+    },
+    {
+      "name": "Hotel Lopar",
+      "latitude": 44.827575,
+      "longitude": 14.746722
+    },
+    {
+      "name": "Hotel Lovac",
+      "latitude": 45.239709,
+      "longitude": 13.927255
+    },
+    {
+      "name": "Hotel Lug",
+      "latitude": 45.664156,
+      "longitude": 18.767801
+    },
+    {
+      "name": "Hotel Luka – Mendula",
+      "latitude": 43.982399,
+      "longitude": 15.099392
+    },
+    {
+      "name": "Hotel Luka – Oliva",
+      "latitude": 43.982689,
+      "longitude": 15.099412
+    },
+    {
+      "name": "Hotel Lumbarda",
+      "latitude": 42.923142,
+      "longitude": 17.1726
+    },
+    {
+      "name": "Hotel Luna",
+      "latitude": 44.645312,
+      "longitude": 14.775736
+    },
+    {
+      "name": "Hotel Luxe",
+      "latitude": 43.506492,
+      "longitude": 16.44369
+    },
+    {
+      "name": "Hotel Maestral",
+      "latitude": 43.369442,
+      "longitude": 16.928535
+    },
+    {
+      "name": "Hotel Makarska",
+      "latitude": 43.29347,
+      "longitude": 17.022623
+    },
+    {
+      "name": "Hotel Malin",
+      "latitude": 45.119327,
+      "longitude": 14.521664
+    },
+    {
+      "name": "Hotel Manora",
+      "latitude": 44.655202,
+      "longitude": 14.39434
+    },
+    {
+      "name": "Hotel Marina",
+      "latitude": 43.369829,
+      "longitude": 16.92716
+    },
+    {
+      "name": "Hotel Marina Selce",
+      "latitude": 45.164053,
+      "longitude": 14.710046
+    },
+    {
+      "name": "Hotel Maroon",
+      "latitude": 45.8118,
+      "longitude": 15.895945
+    },
+    {
+      "name": "Hotel Materada Plava Laguna",
+      "latitude": 45.247802,
+      "longitude": 13.595057
+    },
+    {
+      "name": "Hotel Matija Gubec",
+      "latitude": 45.975991,
+      "longitude": 15.938742
+    },
+    {
+      "name": "Hotel MB",
+      "latitude": 43.05367,
+      "longitude": 17.648192
+    },
+    {
+      "name": "Hotel Medena",
+      "latitude": 43.513231,
+      "longitude": 16.208292
+    },
+    {
+      "name": "Hotel Mediteran",
+      "latitude": 45.212705,
+      "longitude": 13.595935
+    },
+    {
+      "name": "Hotel Medora Auri",
+      "latitude": 43.236818,
+      "longitude": 17.07734
+    },
+    {
+      "name": "Hotel Milenij",
+      "latitude": 45.333968,
+      "longitude": 14.305871
+    },
+    {
+      "name": "Hotel Millenium",
+      "latitude": 45.550962,
+      "longitude": 18.70535
+    },
+    {
+      "name": "Hotel Millenium deluxe",
+      "latitude": 45.159619,
+      "longitude": 14.715769
+    },
+    {
+      "name": "Hotel Minerva",
+      "latitude": 46.210831,
+      "longitude": 16.41889
+    },
+    {
+      "name": "Hotel Miramar",
+      "latitude": 45.3414,
+      "longitude": 14.313366
+    },
+    {
+      "name": "Hotel Mirna",
+      "latitude": 45.377148,
+      "longitude": 13.882786
+    },
+    {
+      "name": "Hotel Mladimir",
+      "latitude": 45.592911,
+      "longitude": 17.22718
+    },
+    {
+      "name": "Hotel Mlini",
+      "latitude": 42.622464,
+      "longitude": 18.206863
+    },
+    {
+      "name": "Hotel Mondo",
+      "latitude": 43.523033,
+      "longitude": 16.449193
+    },
+    {
+      "name": "Hotel More",
+      "latitude": 43.503623,
+      "longitude": 16.475651
+    },
+    {
+      "name": "Hotel Mozart",
+      "latitude": 45.33363,
+      "longitude": 14.304632
+    },
+    {
+      "name": "Hotel Murter",
+      "latitude": 43.8153,
+      "longitude": 15.585698
+    },
+    {
+      "name": "Hotel Narona",
+      "latitude": 43.054165,
+      "longitude": 17.649793
+    },
+    {
+      "name": "Hotel Nautica",
+      "latitude": 45.320534,
+      "longitude": 13.563735
+    },
+    {
+      "name": "Hotel Navis",
+      "latitude": 45.355624,
+      "longitude": 14.32694
+    },
+    {
+      "name": "Hotel Neboder",
+      "latitude": 45.325962,
+      "longitude": 14.45074
+    },
+    {
+      "name": "Hotel Neptun-Istra",
+      "latitude": 44.916332,
+      "longitude": 13.769864
+    },
+    {
+      "name": "Hotel Neva",
+      "latitude": 43.46873,
+      "longitude": 16.575719
+    },
+    {
+      "name": "Hotel Niko",
+      "latitude": 43.695727,
+      "longitude": 15.881398
+    },
+    {
+      "name": "Hotel Nikola",
+      "latitude": 43.756534,
+      "longitude": 15.789669
+    },
+    {
+      "name": "Hotel Novi Zagreb",
+      "latitude": 45.771998,
+      "longitude": 15.947309
+    },
+    {
+      "name": "Hotel Omorika",
+      "latitude": 45.01586,
+      "longitude": 14.629389
+    },
+    {
+      "name": "Hotel Omorika",
+      "latitude": 45.188443,
+      "longitude": 14.675433
+    },
+    {
+      "name": "Hotel Opatija",
+      "latitude": 45.333985,
+      "longitude": 14.301642
+    },
+    {
+      "name": "Hotel Orient Express",
+      "latitude": 45.800952,
+      "longitude": 15.983869
+    },
+    {
+      "name": "Hotel Orion",
+      "latitude": 43.761803,
+      "longitude": 15.787
+    },
+    {
+      "name": "Hotel Orphee",
+      "latitude": 42.609233,
+      "longitude": 18.224034
+    },
+    {
+      "name": "Hotel Osijek",
+      "latitude": 45.562231,
+      "longitude": 18.679901
+    },
+    {
+      "name": "Hotel Pakrac",
+      "latitude": 45.439129,
+      "longitude": 17.191346
+    },
+    {
+      "name": "Hotel Palace",
+      "latitude": 43.152282,
+      "longitude": 17.259005
+    },
+    {
+      "name": "Hotel Palace",
+      "latitude": 43.172964,
+      "longitude": 16.441378
+    },
+    {
+      "name": "Hotel Palace",
+      "latitude": 43.515172,
+      "longitude": 16.256001
+    },
+    {
+      "name": "Hotel Palace",
+      "latitude": 45.808503,
+      "longitude": 15.97748
+    },
+    {
+      "name": "Hotel Palcich",
+      "latitude": 44.953076,
+      "longitude": 15.640801
+    },
+    {
+      "name": "Hotel Palma Makarska",
+      "latitude": 43.297657,
+      "longitude": 17.01609
+    },
+    {
+      "name": "Hotel Panorama",
+      "latitude": 43.761722,
+      "longitude": 15.846015
+    },
+    {
+      "name": "Hotel Parentium",
+      "latitude": 45.204027,
+      "longitude": 13.587584
+    },
+    {
+      "name": "Hotel Park",
+      "latitude": 42.956108,
+      "longitude": 17.138483
+    },
+    {
+      "name": "Hotel Park",
+      "latitude": 43.173052,
+      "longitude": 16.440992
+    },
+    {
+      "name": "Hotel Park",
+      "latitude": 43.299719,
+      "longitude": 17.013487
+    },
+    {
+      "name": "Hotel Park",
+      "latitude": 43.503157,
+      "longitude": 16.448205
+    },
+    {
+      "name": "Hotel Park",
+      "latitude": 45.019378,
+      "longitude": 14.628828
+    },
+    {
+      "name": "Hotel Park",
+      "latitude": 46.389139,
+      "longitude": 16.427435
+    },
+    {
+      "name": "Hotel Park 45",
+      "latitude": 45.813145,
+      "longitude": 15.968811
+    },
+    {
+      "name": "Hotel Park Našice",
+      "latitude": 45.491019,
+      "longitude": 18.091778
+    },
+    {
+      "name": "Hotel Park Plaza Arena Pula",
+      "latitude": 44.836311,
+      "longitude": 13.829516
+    },
+    {
+      "name": "Hotel Park Plaza Belvedere",
+      "latitude": 44.811854,
+      "longitude": 13.94227
+    },
+    {
+      "name": "Hotel Pastura",
+      "latitude": 43.377427,
+      "longitude": 16.625671
+    },
+    {
+      "name": "Hotel Pax",
+      "latitude": 43.503718,
+      "longitude": 16.46434
+    },
+    {
+      "name": "Hotel Pelegrin",
+      "latitude": 43.383511,
+      "longitude": 16.909531
+    },
+    {
+      "name": "Hotel Peristil",
+      "latitude": 43.507958,
+      "longitude": 16.44097
+    },
+    {
+      "name": "Hotel Petka",
+      "latitude": 42.658782,
+      "longitude": 18.087212
+    },
+    {
+      "name": "Hotel Petrčane",
+      "latitude": 44.186346,
+      "longitude": 15.160115
+    },
+    {
+      "name": "Hotel Phoenix",
+      "latitude": 45.824323,
+      "longitude": 16.126222
+    },
+    {
+      "name": "Hotel Picok",
+      "latitude": 46.043057,
+      "longitude": 17.069404
+    },
+    {
+      "name": "Hotel Pinia",
+      "latitude": 45.123764,
+      "longitude": 14.490138
+    },
+    {
+      "name": "Hotel Plavi",
+      "latitude": 45.200999,
+      "longitude": 13.591
+    },
+    {
+      "name": "Hotel Plaža",
+      "latitude": 43.442765,
+      "longitude": 16.692435
+    },
+    {
+      "name": "Hotel Plaža",
+      "latitude": 44.826398,
+      "longitude": 14.74544
+    },
+    {
+      "name": "Hotel Plaža Duće",
+      "latitude": 43.441439,
+      "longitude": 16.657058
+    },
+    {
+      "name": "Hotel Plaža Duće",
+      "latitude": 43.441908,
+      "longitude": 16.657329
+    },
+    {
+      "name": "Hotel Plitvice",
+      "latitude": 44.881802,
+      "longitude": 15.620667
+    },
+    {
+      "name": "Hotel Podgorka",
+      "latitude": 43.240337,
+      "longitude": 17.077147
+    },
+    {
+      "name": "Hotel Podravina",
+      "latitude": 46.162122,
+      "longitude": 16.827104
+    },
+    {
+      "name": "Hotel Poreč",
+      "latitude": 45.224164,
+      "longitude": 13.597252
+    },
+    {
+      "name": "Hotel Porin",
+      "latitude": 43.29314,
+      "longitude": 17.020254
+    },
+    {
+      "name": "Hotel Posh",
+      "latitude": 43.501751,
+      "longitude": 16.46194
+    },
+    {
+      "name": "Hotel Preko Ugljan Island, Curio Collection by Hilton",
+      "latitude": 44.080257,
+      "longitude": 15.188263
+    },
+    {
+      "name": "Hotel Prelog",
+      "latitude": 46.336843,
+      "longitude": 16.614436
+    },
+    {
+      "name": "Hotel Premantura Resort",
+      "latitude": 44.807201,
+      "longitude": 13.915777
+    },
+    {
+      "name": "Hotel President",
+      "latitude": 43.51312,
+      "longitude": 16.437656
+    },
+    {
+      "name": "Hotel President Solin",
+      "latitude": 43.534808,
+      "longitude": 16.491996
+    },
+    {
+      "name": "Hotel Primordia",
+      "latitude": 43.238878,
+      "longitude": 17.077001
+    },
+    {
+      "name": "Hotel Princess",
+      "latitude": 45.654203,
+      "longitude": 15.655604
+    },
+    {
+      "name": "Hotel Privileggio",
+      "latitude": 45.239627,
+      "longitude": 14.253243
+    },
+    {
+      "name": "Hotel Prvan",
+      "latitude": 43.20445,
+      "longitude": 17.372963
+    },
+    {
+      "name": "Hotel Pula",
+      "latitude": 44.853392,
+      "longitude": 13.832675
+    },
+    {
+      "name": "Hotel Residence",
+      "latitude": 45.826586,
+      "longitude": 16.046026
+    },
+    {
+      "name": "Hotel Restaurant Hilde",
+      "latitude": 44.820047,
+      "longitude": 13.932619
+    },
+    {
+      "name": "Hotel Riva",
+      "latitude": 43.170714,
+      "longitude": 16.441397
+    },
+    {
+      "name": "Hotel Riva",
+      "latitude": 45.127034,
+      "longitude": 14.526551
+    },
+    {
+      "name": "Hotel Riviera",
+      "latitude": 44.876142,
+      "longitude": 13.84901
+    },
+    {
+      "name": "Hotel Royal",
+      "latitude": 45.33821,
+      "longitude": 14.30998
+    },
+    {
+      "name": "Hotel Sali",
+      "latitude": 43.940128,
+      "longitude": 15.162288
+    },
+    {
+      "name": "Hotel Salines",
+      "latitude": 43.2354,
+      "longitude": 17.078118
+    },
+    {
+      "name": "Hotel Salona Palace",
+      "latitude": 43.542148,
+      "longitude": 16.479626
+    },
+    {
+      "name": "Hotel San Antonio",
+      "latitude": 43.488678,
+      "longitude": 16.542994
+    },
+    {
+      "name": "Hotel San Rocco",
+      "latitude": 45.3776,
+      "longitude": 13.623614
+    },
+    {
+      "name": "Hotel Sansegus",
+      "latitude": 44.511765,
+      "longitude": 14.307533
+    },
+    {
+      "name": "Hotel Santa Lucia",
+      "latitude": 43.508746,
+      "longitude": 16.438897
+    },
+    {
+      "name": "Hotel Selce",
+      "latitude": 45.156459,
+      "longitude": 14.719777
+    },
+    {
+      "name": "Hotel Sheraton",
+      "latitude": 45.807161,
+      "longitude": 15.984576
+    },
+    {
+      "name": "Hotel Sheraton Dubrovnik Riviera",
+      "latitude": 42.623545,
+      "longitude": 18.19606
+    },
+    {
+      "name": "Hotel Silver",
+      "latitude": 45.549845,
+      "longitude": 18.703655
+    },
+    {
+      "name": "Hotel Sirena",
+      "latitude": 43.244196,
+      "longitude": 17.069608
+    },
+    {
+      "name": "Hotel Slaven",
+      "latitude": 45.154155,
+      "longitude": 14.717946
+    },
+    {
+      "name": "Hotel Slavija",
+      "latitude": 43.508166,
+      "longitude": 16.439205
+    },
+    {
+      "name": "Hotel Slavona",
+      "latitude": 45.766076,
+      "longitude": 18.166624
+    },
+    {
+      "name": "Hotel Slavonija",
+      "latitude": 45.287306,
+      "longitude": 18.803017
+    },
+    {
+      "name": "Hotel Sliško",
+      "latitude": 45.803382,
+      "longitude": 15.997883
+    },
+    {
+      "name": "Hotel Snježnik",
+      "latitude": 45.515515,
+      "longitude": 14.642641
+    },
+    {
+      "name": "Hotel SOL",
+      "latitude": 43.260037,
+      "longitude": 16.651741
+    },
+    {
+      "name": "Hotel Sol Umag",
+      "latitude": 45.444466,
+      "longitude": 13.513127
+    },
+    {
+      "name": "Hotel Soline",
+      "latitude": 43.367922,
+      "longitude": 16.929488
+    },
+    {
+      "name": "Hotel Splendid",
+      "latitude": 42.653757,
+      "longitude": 18.065578
+    },
+    {
+      "name": "Hotel Split",
+      "latitude": 43.498184,
+      "longitude": 16.535773
+    },
+    {
+      "name": "Hotel Spongiola",
+      "latitude": 43.675139,
+      "longitude": 15.913644
+    },
+    {
+      "name": "Hotel Sport",
+      "latitude": 45.717382,
+      "longitude": 16.40431
+    },
+    {
+      "name": "Hotel Stanger",
+      "latitude": 45.280088,
+      "longitude": 14.272112
+    },
+    {
+      "name": "Hotel Stara Lika",
+      "latitude": 44.546049,
+      "longitude": 15.375234
+    },
+    {
+      "name": "Hotel Sumratin",
+      "latitude": 42.655909,
+      "longitude": 18.074077
+    },
+    {
+      "name": "Hotel Sunce",
+      "latitude": 43.484249,
+      "longitude": 16.552353
+    },
+    {
+      "name": "Hotel Sunčeva Postelja Brela",
+      "latitude": 43.374902,
+      "longitude": 16.920511
+    },
+    {
+      "name": "Hotel Sveti Jakov",
+      "latitude": 45.334614,
+      "longitude": 14.306741
+    },
+    {
+      "name": "Hotel Sveti Križ",
+      "latitude": 43.513448,
+      "longitude": 16.292244
+    },
+    {
+      "name": "Hotel Tamaris",
+      "latitude": 43.27297,
+      "longitude": 17.046542
+    },
+    {
+      "name": "Hotel Tamaris",
+      "latitude": 43.548965,
+      "longitude": 16.380916
+    },
+    {
+      "name": "Hotel Televrin",
+      "latitude": 44.659347,
+      "longitude": 14.397625
+    },
+    {
+      "name": "Hotel Teranea",
+      "latitude": 43.166502,
+      "longitude": 16.453088
+    },
+    {
+      "name": "Hotel Terasa",
+      "latitude": 43.516559,
+      "longitude": 16.250187
+    },
+    {
+      "name": "Hotel Termal",
+      "latitude": 45.59744,
+      "longitude": 17.228223
+    },
+    {
+      "name": "Hotel Terme Jezerčica",
+      "latitude": 45.982302,
+      "longitude": 15.956163
+    },
+    {
+      "name": "Hotel Time",
+      "latitude": 43.511626,
+      "longitude": 16.450114
+    },
+    {
+      "name": "Hotel Trakošćan",
+      "latitude": 46.259611,
+      "longitude": 15.950266
+    },
+    {
+      "name": "Hotel Turist",
+      "latitude": 46.303216,
+      "longitude": 16.337233
+    },
+    {
+      "name": "Hotel Una",
+      "latitude": 45.047767,
+      "longitude": 16.373212
+    },
+    {
+      "name": "Hotel Uvala",
+      "latitude": 42.652735,
+      "longitude": 18.068447
+    },
+    {
+      "name": "Hotel Varaždin",
+      "latitude": 46.306154,
+      "longitude": 16.346232
+    },
+    {
+      "name": "Hotel Vela Vrata",
+      "latitude": 45.40597,
+      "longitude": 13.967951
+    },
+    {
+      "name": "Hotel Venezia",
+      "latitude": 43.442602,
+      "longitude": 17.22499
+    },
+    {
+      "name": "Hotel Vestibul Palace",
+      "latitude": 43.507847,
+      "longitude": 16.439811
+    },
+    {
+      "name": "Hotel Vicko",
+      "latitude": 44.297239,
+      "longitude": 15.436362
+    },
+    {
+      "name": "Hotel Vienna",
+      "latitude": 45.799287,
+      "longitude": 15.913043
+    },
+    {
+      "name": "Hotel VILA ROVA",
+      "latitude": 45.116345,
+      "longitude": 14.513281
+    },
+    {
+      "name": "Hotel Vila Tina",
+      "latitude": 43.511677,
+      "longitude": 16.304872
+    },
+    {
+      "name": "Hotel Vila Velebita",
+      "latitude": 44.898598,
+      "longitude": 14.905549
+    },
+    {
+      "name": "Hotel Villa Aurora",
+      "latitude": 45.180794,
+      "longitude": 14.686323
+    },
+    {
+      "name": "Hotel Villa Dvor",
+      "latitude": 43.44711,
+      "longitude": 16.692437
+    },
+    {
+      "name": "Hotel Villa Harmony",
+      "latitude": 43.501819,
+      "longitude": 16.445298
+    },
+    {
+      "name": "Hotel Villa Marija",
+      "latitude": 43.265376,
+      "longitude": 17.057954
+    },
+    {
+      "name": "Hotel Villa Tina",
+      "latitude": 43.511509,
+      "longitude": 16.305124
+    },
+    {
+      "name": "Hotel Villa Valpovo",
+      "latitude": 45.655139,
+      "longitude": 18.426601
+    },
+    {
+      "name": "Hotel Vis",
+      "latitude": 42.653027,
+      "longitude": 18.067727
+    },
+    {
+      "name": "Hotel Vista",
+      "latitude": 45.150055,
+      "longitude": 13.60545
+    },
+    {
+      "name": "Hotel Waldinger",
+      "latitude": 45.558748,
+      "longitude": 18.675515
+    },
+    {
+      "name": "Hotel Well",
+      "latitude": 46.06613,
+      "longitude": 15.784184
+    },
+    {
+      "name": "Hotel Westin",
+      "latitude": 45.806639,
+      "longitude": 15.966054
+    },
+    {
+      "name": "Hotel ZaDar",
+      "latitude": 44.104206,
+      "longitude": 15.243199
+    },
+    {
+      "name": "Hotel Zagi ***",
+      "latitude": 45.992178,
+      "longitude": 15.917947
+    },
+    {
+      "name": "hotel zagreb",
+      "latitude": 42.656254,
+      "longitude": 18.075457
+    },
+    {
+      "name": "Hotel Zagreb",
+      "latitude": 43.503249,
+      "longitude": 16.493386
+    },
+    {
+      "name": "Hotel Zagreb",
+      "latitude": 44.529713,
+      "longitude": 15.067894
+    },
+    {
+      "name": "Hotel Zagreb",
+      "latitude": 45.176117,
+      "longitude": 14.686326
+    },
+    {
+      "name": "Hotel Zagreb",
+      "latitude": 45.782728,
+      "longitude": 15.983848
+    },
+    {
+      "name": "Hotel Zeleni kut",
+      "latitude": 45.380679,
+      "longitude": 15.42339
+    },
+    {
+      "name": "Hotel Zelenkrov",
+      "latitude": 45.52748,
+      "longitude": 18.596151
+    },
+    {
+      "name": "Hotel Zora",
+      "latitude": 43.589215,
+      "longitude": 15.9209
+    },
+    {
+      "name": "Hotel Zora",
+      "latitude": 43.590323,
+      "longitude": 15.918826
+    },
+    {
+      "name": "Hotel Zorna",
+      "latitude": 45.199672,
+      "longitude": 13.591213
+    },
+    {
+      "name": "Hotel ZRINSKI",
+      "latitude": 46.153557,
+      "longitude": 16.83269
+    },
+    {
+      "name": "Hotel Đakovo",
+      "latitude": 45.336954,
+      "longitude": 18.421344
+    },
+    {
+      "name": "Hotel Šipan",
+      "latitude": 42.727259,
+      "longitude": 17.862563
+    },
+    {
+      "name": "Hotel Šulentić",
+      "latitude": 45.80436,
+      "longitude": 17.38753
+    },
+    {
+      "name": "Hotel Župa",
+      "latitude": 42.624904,
+      "longitude": 18.196454
+    },
+    {
+      "name": "Hotel “Ružica grad”",
+      "latitude": 45.529239,
+      "longitude": 17.880632
+    },
+    {
+      "name": "Hoteli \"Toplica\" i \"Petrova Gora\"",
+      "latitude": 45.294751,
+      "longitude": 15.970169
+    },
+    {
+      "name": "House Mirjana",
+      "latitude": 44.92681,
+      "longitude": 15.67514
+    },
+    {
+      "name": "Hvar Places hotel",
+      "latitude": 43.186643,
+      "longitude": 16.586404
+    },
+    {
+      "name": "Hyatt Regency Zadar",
+      "latitude": 44.120802,
+      "longitude": 15.225858
+    },
+    {
+      "name": "Iberostar Waves Herceg Novi",
+      "latitude": 42.434382,
+      "longitude": 18.516787
+    },
+    {
+      "name": "Ikador",
+      "latitude": 45.302131,
+      "longitude": 14.281125
+    },
+    {
+      "name": "Ilirija",
+      "latitude": 43.504105,
+      "longitude": 16.478731
+    },
+    {
+      "name": "Imperial Lopar",
+      "latitude": 44.826959,
+      "longitude": 14.747015
+    },
+    {
+      "name": "Imperijal",
+      "latitude": 43.753749,
+      "longitude": 15.788491
+    },
+    {
+      "name": "In",
+      "latitude": 43.941092,
+      "longitude": 15.44609
+    },
+    {
+      "name": "INA-Naftaplin",
+      "latitude": 45.703779,
+      "longitude": 16.389381
+    },
+    {
+      "name": "International",
+      "latitude": 45.172924,
+      "longitude": 14.690858
+    },
+    {
+      "name": "Island Hotel Istra****",
+      "latitude": 45.059241,
+      "longitude": 13.62441
+    },
+    {
+      "name": "Island Hotel Katarina",
+      "latitude": 45.077528,
+      "longitude": 13.629898
+    },
+    {
+      "name": "Isola",
+      "latitude": 44.972169,
+      "longitude": 14.747788
+    },
+    {
+      "name": "Istra",
+      "latitude": 45.326787,
+      "longitude": 14.299796
+    },
+    {
+      "name": "Ivac Inn Zagreb Airport Hotel",
+      "latitude": 45.73108,
+      "longitude": 16.062969
+    },
+    {
+      "name": "Ivan",
+      "latitude": 43.262686,
+      "longitude": 16.660951
+    },
+    {
+      "name": "Ivančica",
+      "latitude": 45.177231,
+      "longitude": 14.694441
+    },
+    {
+      "name": "Ivka",
+      "latitude": 42.653067,
+      "longitude": 18.081104
+    },
+    {
+      "name": "Jadran",
+      "latitude": 43.517494,
+      "longitude": 16.220318
+    },
+    {
+      "name": "Jadran",
+      "latitude": 43.734938,
+      "longitude": 15.889995
+    },
+    {
+      "name": "Jadran",
+      "latitude": 45.227611,
+      "longitude": 13.590311
+    },
+    {
+      "name": "Jadran",
+      "latitude": 45.305667,
+      "longitude": 14.536155
+    },
+    {
+      "name": "Jadran",
+      "latitude": 45.318761,
+      "longitude": 14.464501
+    },
+    {
+      "name": "Jadran",
+      "latitude": 45.813576,
+      "longitude": 15.984433
+    },
+    {
+      "name": "Joel",
+      "latitude": 44.548959,
+      "longitude": 14.881696
+    },
+    {
+      "name": "joska",
+      "latitude": 43.491303,
+      "longitude": 16.269381
+    },
+    {
+      "name": "Judita Palace Heritage Hotel",
+      "latitude": 43.508863,
+      "longitude": 16.438491
+    },
+    {
+      "name": "Jupiter & Diocletian",
+      "latitude": 43.508116,
+      "longitude": 16.439564
+    },
+    {
+      "name": "Jupiter Luxury Hotel",
+      "latitude": 43.50818,
+      "longitude": 16.439432
+    },
+    {
+      "name": "Jägerhorn",
+      "latitude": 45.813684,
+      "longitude": 15.973846
+    },
+    {
+      "name": "Kalamota Beach House",
+      "latitude": 42.671175,
+      "longitude": 18.016035
+    },
+    {
+      "name": "Kanajt",
+      "latitude": 45.03328,
+      "longitude": 14.631035
+    },
+    {
+      "name": "Kastel Kaštelir",
+      "latitude": 45.304064,
+      "longitude": 13.688347
+    },
+    {
+      "name": "Kastil",
+      "latitude": 43.261574,
+      "longitude": 16.65648
+    },
+    {
+      "name": "Keight Hotel Opatija, Curio Collection by Hilton",
+      "latitude": 45.333413,
+      "longitude": 14.301775
+    },
+    {
+      "name": "Kekez Exclusive",
+      "latitude": 43.504765,
+      "longitude": 16.445735
+    },
+    {
+      "name": "Kempinski Adriatic",
+      "latitude": 45.497801,
+      "longitude": 13.528419
+    },
+    {
+      "name": "King Krešimir Heritage Hotel",
+      "latitude": 43.735023,
+      "longitude": 15.890772
+    },
+    {
+      "name": "Kleine Hexe",
+      "latitude": 43.820518,
+      "longitude": 15.663543
+    },
+    {
+      "name": "Klek",
+      "latitude": 45.245167,
+      "longitude": 15.249478
+    },
+    {
+      "name": "Kod Bakija",
+      "latitude": 45.438191,
+      "longitude": 15.586962
+    },
+    {
+      "name": "Kolovare",
+      "latitude": 44.105406,
+      "longitude": 15.235511
+    },
+    {
+      "name": "Kometa",
+      "latitude": 42.435292,
+      "longitude": 18.516178
+    },
+    {
+      "name": "Kompas",
+      "latitude": 42.656386,
+      "longitude": 18.06972
+    },
+    {
+      "name": "Konoba Feral",
+      "latitude": 44.926205,
+      "longitude": 13.803284
+    },
+    {
+      "name": "Konoba Volta",
+      "latitude": 45.304664,
+      "longitude": 14.714078
+    },
+    {
+      "name": "Kontinental",
+      "latitude": 45.326826,
+      "longitude": 14.449086
+    },
+    {
+      "name": "Koralj",
+      "latitude": 43.697993,
+      "longitude": 15.835171
+    },
+    {
+      "name": "Korinjak",
+      "latitude": 44.053448,
+      "longitude": 15.111161
+    },
+    {
+      "name": "Korkyra",
+      "latitude": 42.961334,
+      "longitude": 16.715141
+    },
+    {
+      "name": "Krilo",
+      "latitude": 43.461269,
+      "longitude": 16.599448
+    },
+    {
+      "name": "Kristal",
+      "latitude": 45.329163,
+      "longitude": 14.301333
+    },
+    {
+      "name": "Kristal",
+      "latitude": 45.433952,
+      "longitude": 13.516525
+    },
+    {
+      "name": "Kristina",
+      "latitude": 43.754008,
+      "longitude": 15.772709
+    },
+    {
+      "name": "Kukuriku",
+      "latitude": 45.3734,
+      "longitude": 14.348014
+    },
+    {
+      "name": "Kvarner Palace",
+      "latitude": 45.181755,
+      "longitude": 14.683737
+    },
+    {
+      "name": "La Dolce Vita Opatija Apartman",
+      "latitude": 45.358501,
+      "longitude": 14.329656
+    },
+    {
+      "name": "Labineca",
+      "latitude": 43.110124,
+      "longitude": 17.339021
+    },
+    {
+      "name": "Lady-M",
+      "latitude": 45.295887,
+      "longitude": 18.809193
+    },
+    {
+      "name": "Lafodia Hotel & Resort",
+      "latitude": 42.685528,
+      "longitude": 17.935557
+    },
+    {
+      "name": "Lafodia sea resort",
+      "latitude": 42.685602,
+      "longitude": 17.935906
+    },
+    {
+      "name": "Lafodia sea resort",
+      "latitude": 42.685625,
+      "longitude": 17.935274
+    },
+    {
+      "name": "Laguna",
+      "latitude": 43.107841,
+      "longitude": 17.340619
+    },
+    {
+      "name": "Laguna Gran Vista",
+      "latitude": 45.200435,
+      "longitude": 13.591852
+    },
+    {
+      "name": "Laguna Molindrio",
+      "latitude": 45.201534,
+      "longitude": 13.593757
+    },
+    {
+      "name": "Laguna Park",
+      "latitude": 45.242753,
+      "longitude": 13.601993
+    },
+    {
+      "name": "Lagus",
+      "latitude": 46.248572,
+      "longitude": 16.357501
+    },
+    {
+      "name": "Laura",
+      "latitude": 44.821482,
+      "longitude": 13.936935
+    },
+    {
+      "name": "Lavanda",
+      "latitude": 44.136987,
+      "longitude": 14.907871
+    },
+    {
+      "name": "Lazure Luxury apartments",
+      "latitude": 42.685585,
+      "longitude": 17.934443
+    },
+    {
+      "name": "Le Méridien Lav Split",
+      "latitude": 43.492414,
+      "longitude": 16.538268
+    },
+    {
+      "name": "Le Premier",
+      "latitude": 45.810092,
+      "longitude": 15.986092
+    },
+    {
+      "name": "Lešić Dimitri Palace",
+      "latitude": 42.961746,
+      "longitude": 17.136947
+    },
+    {
+      "name": "Liberty Hotel",
+      "latitude": 44.550688,
+      "longitude": 14.882783
+    },
+    {
+      "name": "Life Clas Terme Sveti Martin na Muri",
+      "latitude": 46.495053,
+      "longitude": 16.340453
+    },
+    {
+      "name": "Life palace",
+      "latitude": 43.735198,
+      "longitude": 15.890688
+    },
+    {
+      "name": "Lipa",
+      "latitude": 43.37606,
+      "longitude": 16.627607
+    },
+    {
+      "name": "Livris Hotel",
+      "latitude": 45.799175,
+      "longitude": 15.999038
+    },
+    {
+      "name": "Lone",
+      "latitude": 45.072991,
+      "longitude": 13.639081
+    },
+    {
+      "name": "Lopud 1483",
+      "latitude": 42.691881,
+      "longitude": 17.941137
+    },
+    {
+      "name": "Lopud Residence",
+      "latitude": 42.692257,
+      "longitude": 17.942987
+    },
+    {
+      "name": "Lotus Resort",
+      "latitude": 45.081892,
+      "longitude": 14.439417
+    },
+    {
+      "name": "Lovački dom Arnika",
+      "latitude": 45.30049,
+      "longitude": 14.715765
+    },
+    {
+      "name": "Lovran",
+      "latitude": 45.29553,
+      "longitude": 14.276281
+    },
+    {
+      "name": "Loža",
+      "latitude": 44.556153,
+      "longitude": 14.882845
+    },
+    {
+      "name": "Luce",
+      "latitude": 45.074721,
+      "longitude": 14.670927
+    },
+    {
+      "name": "Lucija",
+      "latitude": 44.212151,
+      "longitude": 15.492788
+    },
+    {
+      "name": "Lungomare",
+      "latitude": 45.32972,
+      "longitude": 14.301538
+    },
+    {
+      "name": "Luxury Boutique Hotel 9",
+      "latitude": 45.802867,
+      "longitude": 15.994956
+    },
+    {
+      "name": "Lyra",
+      "latitude": 44.880718,
+      "longitude": 15.712203
+    },
+    {
+      "name": "Macola",
+      "latitude": 44.461612,
+      "longitude": 15.601291
+    },
+    {
+      "name": "Macola",
+      "latitude": 44.744415,
+      "longitude": 15.706775
+    },
+    {
+      "name": "Maestral",
+      "latitude": 43.724509,
+      "longitude": 15.799415
+    },
+    {
+      "name": "Magal hotel by Aminess",
+      "latitude": 45.16893,
+      "longitude": 14.548642
+    },
+    {
+      "name": "Maj Residence",
+      "latitude": 45.251854,
+      "longitude": 13.60537
+    },
+    {
+      "name": "Mak apartman",
+      "latitude": 43.512432,
+      "longitude": 16.189181
+    },
+    {
+      "name": "Makin",
+      "latitude": 45.325753,
+      "longitude": 13.564421
+    },
+    {
+      "name": "Mala luka",
+      "latitude": 43.418731,
+      "longitude": 16.717102
+    },
+    {
+      "name": "Mali raj",
+      "latitude": 45.318859,
+      "longitude": 14.29173
+    },
+    {
+      "name": "Malinska",
+      "latitude": 45.117363,
+      "longitude": 14.528874
+    },
+    {
+      "name": "Mamin San",
+      "latitude": 44.956907,
+      "longitude": 14.403083
+    },
+    {
+      "name": "Mance",
+      "latitude": 45.462967,
+      "longitude": 14.853127
+    },
+    {
+      "name": "Mandić",
+      "latitude": 43.383294,
+      "longitude": 16.550954
+    },
+    {
+      "name": "Marco Polo",
+      "latitude": 43.104333,
+      "longitude": 17.344254
+    },
+    {
+      "name": "Marco Polo",
+      "latitude": 43.104662,
+      "longitude": 17.3437
+    },
+    {
+      "name": "Mare Mare Suites",
+      "latitude": 44.536311,
+      "longitude": 14.465761
+    },
+    {
+      "name": "Marea Valamar Collection Suites",
+      "latitude": 45.241569,
+      "longitude": 13.600085
+    },
+    {
+      "name": "Marin",
+      "latitude": 43.908585,
+      "longitude": 15.508161
+    },
+    {
+      "name": "Marina",
+      "latitude": 44.928027,
+      "longitude": 13.802713
+    },
+    {
+      "name": "Marina",
+      "latitude": 45.074638,
+      "longitude": 14.164219
+    },
+    {
+      "name": "Marina",
+      "latitude": 45.236755,
+      "longitude": 14.253183
+    },
+    {
+      "name": "Marina Apartments",
+      "latitude": 44.118462,
+      "longitude": 15.230524
+    },
+    {
+      "name": "Marina Frapa Resort Rogoznica- Hotel Kopno",
+      "latitude": 43.530873,
+      "longitude": 15.96073
+    },
+    {
+      "name": "Marina Frapa Resort Rogoznica- Hotel Otok",
+      "latitude": 43.531667,
+      "longitude": 15.960897
+    },
+    {
+      "name": "Marina Hotel & Restaurant",
+      "latitude": 45.025365,
+      "longitude": 14.57513
+    },
+    {
+      "name": "Maritima",
+      "latitude": 43.302212,
+      "longitude": 17.009181
+    },
+    {
+      "name": "Maritime",
+      "latitude": 45.023264,
+      "longitude": 14.571216
+    },
+    {
+      "name": "Marko Polo by Aminess",
+      "latitude": 42.955382,
+      "longitude": 17.138369
+    },
+    {
+      "name": "Marko Polo Maradiso Hotel by Aminess",
+      "latitude": 42.955434,
+      "longitude": 17.137575
+    },
+    {
+      "name": "Martinis Marchi",
+      "latitude": 43.397601,
+      "longitude": 16.206573
+    },
+    {
+      "name": "Martis Forum Heritage Hotel",
+      "latitude": 45.22833,
+      "longitude": 13.590685
+    },
+    {
+      "name": "Marul",
+      "latitude": 43.511866,
+      "longitude": 16.438247
+    },
+    {
+      "name": "Marvie Hotel",
+      "latitude": 43.502756,
+      "longitude": 16.457318
+    },
+    {
+      "name": "Maslina Resort",
+      "latitude": 43.180085,
+      "longitude": 16.571631
+    },
+    {
+      "name": "Mauro",
+      "latitude": 45.227382,
+      "longitude": 13.592954
+    },
+    {
+      "name": "Maxim",
+      "latitude": 44.139048,
+      "longitude": 14.906415
+    },
+    {
+      "name": "Maškovića han",
+      "latitude": 43.953954,
+      "longitude": 15.548644
+    },
+    {
+      "name": "Mediteran",
+      "latitude": 44.136857,
+      "longitude": 15.221271
+    },
+    {
+      "name": "Meduza",
+      "latitude": 44.989184,
+      "longitude": 14.899213
+    },
+    {
+      "name": "Meliá Coral",
+      "latitude": 45.460287,
+      "longitude": 13.514294
+    },
+    {
+      "name": "Meliã Istrian Villas",
+      "latitude": 45.450329,
+      "longitude": 13.515585
+    },
+    {
+      "name": "Meridijan",
+      "latitude": 44.449165,
+      "longitude": 15.052871
+    },
+    {
+      "name": "Meridijan 16",
+      "latitude": 45.801404,
+      "longitude": 15.996099
+    },
+    {
+      "name": "Met Boutique Hotel",
+      "latitude": 45.812263,
+      "longitude": 15.977225
+    },
+    {
+      "name": "Metković",
+      "latitude": 43.044534,
+      "longitude": 17.623901
+    },
+    {
+      "name": "Midea",
+      "latitude": 43.384171,
+      "longitude": 16.545231
+    },
+    {
+      "name": "Milenij",
+      "latitude": 43.302388,
+      "longitude": 17.008908
+    },
+    {
+      "name": "Mimosa Lido Palace",
+      "latitude": 45.080669,
+      "longitude": 14.151715
+    },
+    {
+      "name": "Miramar",
+      "latitude": 45.074991,
+      "longitude": 14.16238
+    },
+    {
+      "name": "Miramare",
+      "latitude": 43.756494,
+      "longitude": 15.784992
+    },
+    {
+      "name": "Miramare",
+      "latitude": 45.164486,
+      "longitude": 14.541032
+    },
+    {
+      "name": "Miramare",
+      "latitude": 45.176864,
+      "longitude": 14.686188
+    },
+    {
+      "name": "Miran",
+      "latitude": 43.822691,
+      "longitude": 15.656955
+    },
+    {
+      "name": "Mirić Inn",
+      "latitude": 44.868058,
+      "longitude": 15.636123
+    },
+    {
+      "name": "Mirta",
+      "latitude": 44.137457,
+      "longitude": 14.906515
+    },
+    {
+      "name": "MIS",
+      "latitude": 45.442564,
+      "longitude": 16.276631
+    },
+    {
+      "name": "Mlini Apartments",
+      "latitude": 42.624483,
+      "longitude": 18.202003
+    },
+    {
+      "name": "Modo",
+      "latitude": 44.86054,
+      "longitude": 13.814909
+    },
+    {
+      "name": "Molum Hotel and Residences",
+      "latitude": 43.963865,
+      "longitude": 15.421883
+    },
+    {
+      "name": "Monte Mulini",
+      "latitude": 45.07275,
+      "longitude": 13.636649
+    },
+    {
+      "name": "More",
+      "latitude": 42.657041,
+      "longitude": 18.06601
+    },
+    {
+      "name": "Morenia Resort",
+      "latitude": 43.130274,
+      "longitude": 17.286306
+    },
+    {
+      "name": "Motel \"La Liberta\"",
+      "latitude": 45.039159,
+      "longitude": 16.366606
+    },
+    {
+      "name": "Motel Ada - Donji Rakani",
+      "latitude": 44.999076,
+      "longitude": 16.305034
+    },
+    {
+      "name": "Movie Resort",
+      "latitude": 43.753304,
+      "longitude": 15.750455
+    },
+    {
+      "name": "Mozart",
+      "latitude": 45.830604,
+      "longitude": 17.286376
+    },
+    {
+      "name": "Narcis",
+      "latitude": 45.080527,
+      "longitude": 14.148285
+    },
+    {
+      "name": "Narenta",
+      "latitude": 43.043391,
+      "longitude": 17.623629
+    },
+    {
+      "name": "Natalia",
+      "latitude": 43.241839,
+      "longitude": 17.075876
+    },
+    {
+      "name": "National hotel",
+      "latitude": 45.803554,
+      "longitude": 15.99552
+    },
+    {
+      "name": "Neptun",
+      "latitude": 43.102101,
+      "longitude": 17.347482
+    },
+    {
+      "name": "Nestos",
+      "latitude": 43.440974,
+      "longitude": 16.661477
+    },
+    {
+      "name": "Noemia",
+      "latitude": 43.355773,
+      "longitude": 16.951922
+    },
+    {
+      "name": "Novi Resort \"The View\" d.o.o.",
+      "latitude": 45.133095,
+      "longitude": 14.765151
+    },
+    {
+      "name": "Oaza",
+      "latitude": 43.096537,
+      "longitude": 17.349944
+    },
+    {
+      "name": "Odisej",
+      "latitude": 42.788076,
+      "longitude": 17.342426
+    },
+    {
+      "name": "Ola Croatia",
+      "latitude": 43.517745,
+      "longitude": 16.218943
+    },
+    {
+      "name": "Olea",
+      "latitude": 44.552521,
+      "longitude": 14.892785
+    },
+    {
+      "name": "Olympia",
+      "latitude": 43.755783,
+      "longitude": 15.786222
+    },
+    {
+      "name": "Omir",
+      "latitude": 44.869023,
+      "longitude": 13.849411
+    },
+    {
+      "name": "One Suite",
+      "latitude": 42.624913,
+      "longitude": 18.193141
+    },
+    {
+      "name": "Onk'l Ivan",
+      "latitude": 44.225242,
+      "longitude": 15.174549
+    },
+    {
+      "name": "Orsan Maradiso Hotel by Aminess",
+      "latitude": 42.974744,
+      "longitude": 17.157691
+    },
+    {
+      "name": "Osam",
+      "latitude": 43.384295,
+      "longitude": 16.552731
+    },
+    {
+      "name": "Osejava",
+      "latitude": 43.290617,
+      "longitude": 17.019488
+    },
+    {
+      "name": "Osmine",
+      "latitude": 42.779892,
+      "longitude": 17.86847
+    },
+    {
+      "name": "Ostrea",
+      "latitude": 42.847228,
+      "longitude": 17.703753
+    },
+    {
+      "name": "Padova",
+      "latitude": 44.75627,
+      "longitude": 14.767703
+    },
+    {
+      "name": "Pagus",
+      "latitude": 44.448707,
+      "longitude": 15.052475
+    },
+    {
+      "name": "Palace Derossi",
+      "latitude": 43.517388,
+      "longitude": 16.250357
+    },
+    {
+      "name": "Palace Hotel Dubrovnik",
+      "latitude": 42.650583,
+      "longitude": 18.060345
+    },
+    {
+      "name": "Palace Natali",
+      "latitude": 42.648181,
+      "longitude": 18.102937
+    },
+    {
+      "name": "Palace Suites",
+      "latitude": 43.509119,
+      "longitude": 16.438745
+    },
+    {
+      "name": "Palazzo",
+      "latitude": 45.227646,
+      "longitude": 13.589447
+    },
+    {
+      "name": "Palma",
+      "latitude": 44.137845,
+      "longitude": 14.90644
+    },
+    {
+      "name": "Pansion Aco",
+      "latitude": 44.733419,
+      "longitude": 14.807134
+    },
+    {
+      "name": "Pansion Ana Artatore",
+      "latitude": 44.577212,
+      "longitude": 14.407194
+    },
+    {
+      "name": "Pansion Breza",
+      "latitude": 44.896708,
+      "longitude": 15.594957
+    },
+    {
+      "name": "Pansion Budimir",
+      "latitude": 45.337446,
+      "longitude": 18.423683
+    },
+    {
+      "name": "Pansion Mirna Dolina",
+      "latitude": 45.211072,
+      "longitude": 14.683898
+    },
+    {
+      "name": "Pansion Risnjak",
+      "latitude": 45.418527,
+      "longitude": 14.685702
+    },
+    {
+      "name": "Pansion Selce Hotel",
+      "latitude": 45.156089,
+      "longitude": 14.719253
+    },
+    {
+      "name": "Pansion Tramontana",
+      "latitude": 45.114507,
+      "longitude": 14.350712
+    },
+    {
+      "name": "Pansion Veli Losinj",
+      "latitude": 44.519598,
+      "longitude": 14.501028
+    },
+    {
+      "name": "Pansion Vila Vanda Vukovar",
+      "latitude": 45.343969,
+      "longitude": 19.005208
+    },
+    {
+      "name": "Paradise Farm",
+      "latitude": 45.216206,
+      "longitude": 14.627419
+    },
+    {
+      "name": "Park",
+      "latitude": 43.860742,
+      "longitude": 16.155478
+    },
+    {
+      "name": "Park",
+      "latitude": 44.87007,
+      "longitude": 15.23793
+    },
+    {
+      "name": "Park",
+      "latitude": 45.290914,
+      "longitude": 14.276809
+    },
+    {
+      "name": "Park",
+      "latitude": 46.306858,
+      "longitude": 16.338757
+    },
+    {
+      "name": "Park Plaza Histria Pula",
+      "latitude": 44.836346,
+      "longitude": 13.839344
+    },
+    {
+      "name": "Park Plaza Verudela",
+      "latitude": 44.836209,
+      "longitude": 13.837164
+    },
+    {
+      "name": "Patria",
+      "latitude": 45.764607,
+      "longitude": 18.620995
+    },
+    {
+      "name": "Pension Bellevue",
+      "latitude": 44.828158,
+      "longitude": 14.746137
+    },
+    {
+      "name": "Peteani",
+      "latitude": 45.087905,
+      "longitude": 14.124107
+    },
+    {
+      "name": "Pharia",
+      "latitude": 43.173872,
+      "longitude": 16.431117
+    },
+    {
+      "name": "Pharos",
+      "latitude": 43.1723,
+      "longitude": 16.436415
+    },
+    {
+      "name": "Phoenix",
+      "latitude": 45.688527,
+      "longitude": 16.112251
+    },
+    {
+      "name": "Pineta",
+      "latitude": 45.14768,
+      "longitude": 13.601141
+    },
+    {
+      "name": "Pinija",
+      "latitude": 44.17995,
+      "longitude": 15.158878
+    },
+    {
+      "name": "Plava Laguna",
+      "latitude": 44.258976,
+      "longitude": 15.162426
+    },
+    {
+      "name": "Plaža",
+      "latitude": 43.213368,
+      "longitude": 17.111421
+    },
+    {
+      "name": "Plitvička vrela",
+      "latitude": 44.964624,
+      "longitude": 15.643474
+    },
+    {
+      "name": "Podstine",
+      "latitude": 43.17502,
+      "longitude": 16.427381
+    },
+    {
+      "name": "Pomâlo Inn",
+      "latitude": 43.060074,
+      "longitude": 16.184617
+    },
+    {
+      "name": "Porto",
+      "latitude": 44.102285,
+      "longitude": 15.268366
+    },
+    {
+      "name": "Posejdon",
+      "latitude": 42.962952,
+      "longitude": 16.712844
+    },
+    {
+      "name": "Prenoćište Lucija",
+      "latitude": 45.3091,
+      "longitude": 14.48694
+    },
+    {
+      "name": "President Pantovčak",
+      "latitude": 45.816805,
+      "longitude": 15.961161
+    },
+    {
+      "name": "Prišćapac",
+      "latitude": 42.903906,
+      "longitude": 16.822451
+    },
+    {
+      "name": "Pucić Palace",
+      "latitude": 42.640447,
+      "longitude": 18.109722
+    },
+    {
+      "name": "Punta",
+      "latitude": 43.753332,
+      "longitude": 15.771132
+    },
+    {
+      "name": "Punta",
+      "latitude": 44.523854,
+      "longitude": 14.496793
+    },
+    {
+      "name": "Puntijar",
+      "latitude": 45.850926,
+      "longitude": 15.974757
+    },
+    {
+      "name": "Raca",
+      "latitude": 45.851131,
+      "longitude": 16.112386
+    },
+    {
+      "name": "Radisson Blu Resort Split",
+      "latitude": 43.502954,
+      "longitude": 16.470369
+    },
+    {
+      "name": "Reception Hoteli Božava",
+      "latitude": 44.137522,
+      "longitude": 14.907547
+    },
+    {
+      "name": "Relais and Wine San Tommaso",
+      "latitude": 45.080513,
+      "longitude": 13.77459
+    },
+    {
+      "name": "Remisens Albatros",
+      "latitude": 42.584371,
+      "longitude": 18.225813
+    },
+    {
+      "name": "Remisens Epidaurus",
+      "latitude": 42.587383,
+      "longitude": 18.226747
+    },
+    {
+      "name": "Residence Park",
+      "latitude": 45.814349,
+      "longitude": 15.96953
+    },
+    {
+      "name": "Residence Rovinj &",
+      "latitude": 45.074731,
+      "longitude": 13.651049
+    },
+    {
+      "name": "Resnik",
+      "latitude": 43.541285,
+      "longitude": 16.315952
+    },
+    {
+      "name": "Resort Duga Uvala",
+      "latitude": 44.928297,
+      "longitude": 14.025683
+    },
+    {
+      "name": "Resort Funtana",
+      "latitude": 45.171039,
+      "longitude": 13.601491
+    },
+    {
+      "name": "Rezidencija Skiper",
+      "latitude": 45.496888,
+      "longitude": 13.531625
+    },
+    {
+      "name": "Ribarska Koliba Resort",
+      "latitude": 44.841248,
+      "longitude": 13.839472
+    },
+    {
+      "name": "Risnjak",
+      "latitude": 45.393153,
+      "longitude": 14.796884
+    },
+    {
+      "name": "Ritam",
+      "latitude": 45.560922,
+      "longitude": 18.652061
+    },
+    {
+      "name": "Riva",
+      "latitude": 43.119489,
+      "longitude": 17.321549
+    },
+    {
+      "name": "RIVALMARE",
+      "latitude": 45.314679,
+      "longitude": 13.563154
+    },
+    {
+      "name": "River Kupa lodge",
+      "latitude": 45.515224,
+      "longitude": 14.751635
+    },
+    {
+      "name": "Riviera",
+      "latitude": 45.190167,
+      "longitude": 14.670732
+    },
+    {
+      "name": "Riviera Adria",
+      "latitude": 45.075173,
+      "longitude": 14.161635
+    },
+    {
+      "name": "Riviera Resort Vir",
+      "latitude": 44.297405,
+      "longitude": 15.099675
+    },
+    {
+      "name": "Rixos Libertas",
+      "latitude": 42.645089,
+      "longitude": 18.091208
+    },
+    {
+      "name": "Room Sandra",
+      "latitude": 45.36171,
+      "longitude": 14.318398
+    },
+    {
+      "name": "Rooms 23",
+      "latitude": 45.816979,
+      "longitude": 15.99561
+    },
+    {
+      "name": "Rooms 4 You",
+      "latitude": 45.798432,
+      "longitude": 15.977989
+    },
+    {
+      "name": "Rooms Lejletul",
+      "latitude": 43.509669,
+      "longitude": 16.437105
+    },
+    {
+      "name": "Rooms Roso",
+      "latitude": 43.516098,
+      "longitude": 16.250051
+    },
+    {
+      "name": "Rooms Sara",
+      "latitude": 45.378709,
+      "longitude": 13.72217
+    },
+    {
+      "name": "Rosa",
+      "latitude": 46.156833,
+      "longitude": 15.605216
+    },
+    {
+      "name": "Rotondo",
+      "latitude": 43.518665,
+      "longitude": 16.232947
+    },
+    {
+      "name": "Roxanich",
+      "latitude": 45.331238,
+      "longitude": 13.824196
+    },
+    {
+      "name": "Royal Hotel Neptun",
+      "latitude": 42.659831,
+      "longitude": 18.0579
+    },
+    {
+      "name": "Roški slap",
+      "latitude": 43.904796,
+      "longitude": 15.976566
+    },
+    {
+      "name": "Sahara Hotel",
+      "latitude": 44.826813,
+      "longitude": 14.748134
+    },
+    {
+      "name": "Samaria Hotels",
+      "latitude": 43.517755,
+      "longitude": 16.231122
+    },
+    {
+      "name": "San Canzian Village & Hotel",
+      "latitude": 45.387441,
+      "longitude": 13.686487
+    },
+    {
+      "name": "Santiny",
+      "latitude": 45.804226,
+      "longitude": 15.795842
+    },
+    {
+      "name": "Saudade",
+      "latitude": 43.100357,
+      "longitude": 17.348475
+    },
+    {
+      "name": "Savoy",
+      "latitude": 45.330198,
+      "longitude": 14.301977
+    },
+    {
+      "name": "Savus",
+      "latitude": 45.153531,
+      "longitude": 18.012173
+    },
+    {
+      "name": "Say",
+      "latitude": 43.781722,
+      "longitude": 15.644492
+    },
+    {
+      "name": "Scala",
+      "latitude": 43.758497,
+      "longitude": 15.782091
+    },
+    {
+      "name": "Scallop Regent Rooms",
+      "latitude": 44.112742,
+      "longitude": 15.231144
+    },
+    {
+      "name": "Sealeven Hotel & Residences",
+      "latitude": 45.317563,
+      "longitude": 14.289568
+    },
+    {
+      "name": "Selymes Durbincs Ifjúsági Szálló",
+      "latitude": 45.938667,
+      "longitude": 17.569417
+    },
+    {
+      "name": "Senator",
+      "latitude": 43.491596,
+      "longitude": 16.544933
+    },
+    {
+      "name": "Sfinga Verudela",
+      "latitude": 44.843125,
+      "longitude": 13.839112
+    },
+    {
+      "name": "Sheraton Dubrovnik Riviera Hotel",
+      "latitude": 42.623432,
+      "longitude": 18.195929
+    },
+    {
+      "name": "Sia Split",
+      "latitude": 43.506077,
+      "longitude": 16.463235
+    },
+    {
+      "name": "Sikaa",
+      "latitude": 43.514778,
+      "longitude": 16.251854
+    },
+    {
+      "name": "Sirena",
+      "latitude": 43.178102,
+      "longitude": 16.424208
+    },
+    {
+      "name": "Sirena",
+      "latitude": 43.493858,
+      "longitude": 16.272779
+    },
+    {
+      "name": "Skalinada",
+      "latitude": 43.122551,
+      "longitude": 16.686269
+    },
+    {
+      "name": "Skradinski buk",
+      "latitude": 43.819292,
+      "longitude": 15.922641
+    },
+    {
+      "name": "Smart Selection Hotel Mediteran",
+      "latitude": 45.237638,
+      "longitude": 14.254647
+    },
+    {
+      "name": "Sobe Lišnić",
+      "latitude": 45.562131,
+      "longitude": 18.674841
+    },
+    {
+      "name": "Sobe Prišlin",
+      "latitude": 45.889552,
+      "longitude": 16.825003
+    },
+    {
+      "name": "Sobe Slavonija",
+      "latitude": 45.592152,
+      "longitude": 17.223873
+    },
+    {
+      "name": "Sobes",
+      "latitude": 45.802759,
+      "longitude": 15.998068
+    },
+    {
+      "name": "Sol Amfora",
+      "latitude": 45.45144,
+      "longitude": 13.517607
+    },
+    {
+      "name": "Sol Aurora",
+      "latitude": 45.456192,
+      "longitude": 13.516891
+    },
+    {
+      "name": "Sol Garden Istra",
+      "latitude": 45.458569,
+      "longitude": 13.518054
+    },
+    {
+      "name": "Sol Sipar",
+      "latitude": 45.443048,
+      "longitude": 13.510618
+    },
+    {
+      "name": "Sol Stella",
+      "latitude": 45.452538,
+      "longitude": 13.519108
+    },
+    {
+      "name": "Sol Umag Residence",
+      "latitude": 45.444508,
+      "longitude": 13.514776
+    },
+    {
+      "name": "Solaris Vile Kornati",
+      "latitude": 43.699069,
+      "longitude": 15.877319
+    },
+    {
+      "name": "Solitudo",
+      "latitude": 42.765852,
+      "longitude": 16.823042
+    },
+    {
+      "name": "Sotelia",
+      "latitude": 46.157706,
+      "longitude": 15.606013
+    },
+    {
+      "name": "SrCe prirode",
+      "latitude": 45.564112,
+      "longitude": 15.392833
+    },
+    {
+      "name": "Stancija Kovačići",
+      "latitude": 45.365329,
+      "longitude": 14.301569
+    },
+    {
+      "name": "Stancija Meneghetti",
+      "latitude": 45.007724,
+      "longitude": 13.744872
+    },
+    {
+      "name": "Stara škola",
+      "latitude": 46.063179,
+      "longitude": 15.926012
+    },
+    {
+      "name": "Stari podrumi",
+      "latitude": 45.224463,
+      "longitude": 19.371832
+    },
+    {
+      "name": "Stella",
+      "latitude": 45.734901,
+      "longitude": 16.013047
+    },
+    {
+      "name": "Stella Maris apartments",
+      "latitude": 42.574076,
+      "longitude": 18.225873
+    },
+    {
+      "name": "Stipe",
+      "latitude": 43.88874,
+      "longitude": 15.540535
+    },
+    {
+      "name": "Strossmayer Bischof",
+      "latitude": 45.562143,
+      "longitude": 18.675124
+    },
+    {
+      "name": "SUNNY",
+      "latitude": 43.304863,
+      "longitude": 17.005069
+    },
+    {
+      "name": "Sunny Krk by Valamar",
+      "latitude": 45.02534,
+      "longitude": 14.58593
+    },
+    {
+      "name": "Sveti Mihovil",
+      "latitude": 43.616255,
+      "longitude": 16.729127
+    },
+    {
+      "name": "Tamaris",
+      "latitude": 43.059983,
+      "longitude": 16.185393
+    },
+    {
+      "name": "Tamaris",
+      "latitude": 44.959962,
+      "longitude": 14.391514
+    },
+    {
+      "name": "Tamaris",
+      "latitude": 44.962701,
+      "longitude": 14.747316
+    },
+    {
+      "name": "Tamaris",
+      "latitude": 45.124576,
+      "longitude": 14.795839
+    },
+    {
+      "name": "Tamaris",
+      "latitude": 45.297861,
+      "longitude": 13.577965
+    },
+    {
+      "name": "Tamarix",
+      "latitude": 44.256905,
+      "longitude": 15.463956
+    },
+    {
+      "name": "Targos",
+      "latitude": 43.516567,
+      "longitude": 16.250239
+    },
+    {
+      "name": "Terme Sveti Martin",
+      "latitude": 46.494694,
+      "longitude": 16.339778
+    },
+    {
+      "name": "Termia",
+      "latitude": 45.580737,
+      "longitude": 18.460277
+    },
+    {
+      "name": "Terra",
+      "latitude": 44.549368,
+      "longitude": 14.886845
+    },
+    {
+      "name": "The Admiral",
+      "latitude": 43.786333,
+      "longitude": 15.822538
+    },
+    {
+      "name": "The Harmony Rooms",
+      "latitude": 43.514013,
+      "longitude": 16.438154
+    },
+    {
+      "name": "The Isolano",
+      "latitude": 44.958017,
+      "longitude": 14.400582
+    },
+    {
+      "name": "The Loop Hotel",
+      "latitude": 45.79533,
+      "longitude": 16.002112
+    },
+    {
+      "name": "The Movie hotel",
+      "latitude": 45.791549,
+      "longitude": 15.957125
+    },
+    {
+      "name": "The Pink Inn",
+      "latitude": 43.49606,
+      "longitude": 16.537066
+    },
+    {
+      "name": "The Residence",
+      "latitude": 43.494182,
+      "longitude": 16.538165
+    },
+    {
+      "name": "Timun",
+      "latitude": 43.151713,
+      "longitude": 16.889036
+    },
+    {
+      "name": "Tomislavov dom",
+      "latitude": 45.898166,
+      "longitude": 15.94507
+    },
+    {
+      "name": "Toplice Hotel",
+      "latitude": 45.377411,
+      "longitude": 13.883237
+    },
+    {
+      "name": "Tourist settlement Kačjak",
+      "latitude": 45.202186,
+      "longitude": 14.650505
+    },
+    {
+      "name": "Tre Porte Rovinj",
+      "latitude": 45.082515,
+      "longitude": 13.633811
+    },
+    {
+      "name": "TUI BLUE Adriatic Beach Resort",
+      "latitude": 43.184805,
+      "longitude": 17.163036
+    },
+    {
+      "name": "TUI BLUE Jadran",
+      "latitude": 43.273284,
+      "longitude": 17.045149
+    },
+    {
+      "name": "TUI Blue Kalamota Island",
+      "latitude": 42.676749,
+      "longitude": 18.004181
+    },
+    {
+      "name": "TUI BLUE Makarska",
+      "latitude": 43.194107,
+      "longitude": 17.138693
+    },
+    {
+      "name": "Ugljan",
+      "latitude": 44.13143,
+      "longitude": 15.105867
+    },
+    {
+      "name": "Ugostiteljstvo Čuček",
+      "latitude": 46.195575,
+      "longitude": 15.839987
+    },
+    {
+      "name": "Uvala Scott",
+      "latitude": 45.253882,
+      "longitude": 14.576647
+    },
+    {
+      "name": "Valamar Argosy",
+      "latitude": 42.662476,
+      "longitude": 18.060637
+    },
+    {
+      "name": "Valamar Bellevue",
+      "latitude": 45.079306,
+      "longitude": 14.172615
+    },
+    {
+      "name": "Valamar Club Dubrovnik",
+      "latitude": 42.662185,
+      "longitude": 18.065277
+    },
+    {
+      "name": "Valamar Collection Dubrovnik President",
+      "latitude": 42.661301,
+      "longitude": 18.05831
+    },
+    {
+      "name": "Valamar Crystal",
+      "latitude": 45.214478,
+      "longitude": 13.597332
+    },
+    {
+      "name": "Valamar Diamant",
+      "latitude": 45.213688,
+      "longitude": 13.598705
+    },
+    {
+      "name": "Valamar Isabella Castle",
+      "latitude": 45.224602,
+      "longitude": 13.583875
+    },
+    {
+      "name": "Valamar Isabella Hotel",
+      "latitude": 45.223823,
+      "longitude": 13.586461
+    },
+    {
+      "name": "Valamar Isabella Miramare",
+      "latitude": 45.224223,
+      "longitude": 13.583256
+    },
+    {
+      "name": "Valamar Lacroma Dubrovnik",
+      "latitude": 42.660186,
+      "longitude": 18.062359
+    },
+    {
+      "name": "Valamar Meteor Hotel",
+      "latitude": 43.298836,
+      "longitude": 17.014086
+    },
+    {
+      "name": "Valamar Parentino Hotel",
+      "latitude": 45.234809,
+      "longitude": 13.599863
+    },
+    {
+      "name": "Valamar Pinia",
+      "latitude": 45.240148,
+      "longitude": 13.599827
+    },
+    {
+      "name": "Valamar Riviera",
+      "latitude": 45.227353,
+      "longitude": 13.592459
+    },
+    {
+      "name": "Valamar Rubin",
+      "latitude": 45.215943,
+      "longitude": 13.596653
+    },
+    {
+      "name": "Valamar Sanfior",
+      "latitude": 45.073849,
+      "longitude": 14.165062
+    },
+    {
+      "name": "Valamar Tirena",
+      "latitude": 42.661334,
+      "longitude": 18.063216
+    },
+    {
+      "name": "Valamart Bellevue",
+      "latitude": 45.079146,
+      "longitude": 14.171289
+    },
+    {
+      "name": "Valamart Bellevue",
+      "latitude": 45.079806,
+      "longitude": 14.172059
+    },
+    {
+      "name": "Valamart Bellevue Reception",
+      "latitude": 45.079523,
+      "longitude": 14.171701
+    },
+    {
+      "name": "Valdepian",
+      "latitude": 45.491083,
+      "longitude": 13.494454
+    },
+    {
+      "name": "Vali",
+      "latitude": 45.190936,
+      "longitude": 14.669096
+    },
+    {
+      "name": "Vallum",
+      "latitude": 42.588651,
+      "longitude": 18.226421
+    },
+    {
+      "name": "Veli Mel",
+      "latitude": 44.826943,
+      "longitude": 14.745745
+    },
+    {
+      "name": "Vespera",
+      "latitude": 44.521025,
+      "longitude": 14.459406
+    },
+    {
+      "name": "Veya Maradiso Hotel by Aminess",
+      "latitude": 45.165433,
+      "longitude": 14.544314
+    },
+    {
+      "name": "Viking House Split",
+      "latitude": 43.506929,
+      "longitude": 16.445387
+    },
+    {
+      "name": "vila",
+      "latitude": 44.848315,
+      "longitude": 13.850529
+    },
+    {
+      "name": "Vila Dalmacija",
+      "latitude": 44.085093,
+      "longitude": 15.182652
+    },
+    {
+      "name": "Vila Dubravka",
+      "latitude": 44.905234,
+      "longitude": 13.771274
+    },
+    {
+      "name": "Vila Garić",
+      "latitude": 45.639761,
+      "longitude": 16.770774
+    },
+    {
+      "name": "Vila Lenije",
+      "latitude": 45.28522,
+      "longitude": 18.801666
+    },
+    {
+      "name": "Vila Lovorka",
+      "latitude": 44.90697,
+      "longitude": 13.771908
+    },
+    {
+      "name": "Vila Marić",
+      "latitude": 43.362077,
+      "longitude": 16.941619
+    },
+    {
+      "name": "Vila Olson No.17",
+      "latitude": 43.908532,
+      "longitude": 15.517471
+    },
+    {
+      "name": "Vila Primorka",
+      "latitude": 44.90495,
+      "longitude": 13.771626
+    },
+    {
+      "name": "Vila Ružica",
+      "latitude": 45.179199,
+      "longitude": 14.684451
+    },
+    {
+      "name": "Vila Stanišić",
+      "latitude": 45.334154,
+      "longitude": 17.681133
+    },
+    {
+      "name": "Villa & Restaurant Sedra",
+      "latitude": 44.96298,
+      "longitude": 15.655605
+    },
+    {
+      "name": "Villa Adria",
+      "latitude": 44.969082,
+      "longitude": 14.751419
+    },
+    {
+      "name": "Villa Alesa",
+      "latitude": 43.271054,
+      "longitude": 17.054681
+    },
+    {
+      "name": "Villa Amalia",
+      "latitude": 43.109136,
+      "longitude": 17.33952
+    },
+    {
+      "name": "Villa Amalia",
+      "latitude": 45.335363,
+      "longitude": 14.308034
+    },
+    {
+      "name": "Villa Ambasador",
+      "latitude": 45.340499,
+      "longitude": 14.312452
+    },
+    {
+      "name": "Villa Ana",
+      "latitude": 45.224458,
+      "longitude": 14.619722
+    },
+    {
+      "name": "Villa Andrea",
+      "latitude": 43.256587,
+      "longitude": 17.061304
+    },
+    {
+      "name": "Villa Annette",
+      "latitude": 45.085944,
+      "longitude": 14.156683
+    },
+    {
+      "name": "Villa Antonio",
+      "latitude": 42.975877,
+      "longitude": 17.232307
+    },
+    {
+      "name": "Villa Ariston",
+      "latitude": 45.320012,
+      "longitude": 14.296773
+    },
+    {
+      "name": "Villa Ariston",
+      "latitude": 45.554334,
+      "longitude": 18.680837
+    },
+    {
+      "name": "Villa Atlanta",
+      "latitude": 45.294164,
+      "longitude": 14.275866
+    },
+    {
+      "name": "Villa Avantgarde",
+      "latitude": 42.625479,
+      "longitude": 18.195241
+    },
+    {
+      "name": "Villa Bakara",
+      "latitude": 42.657526,
+      "longitude": 18.07096
+    },
+    {
+      "name": "Villa Barbara",
+      "latitude": 42.620238,
+      "longitude": 18.211495
+    },
+    {
+      "name": "Villa Betina",
+      "latitude": 45.276658,
+      "longitude": 14.242517
+    },
+    {
+      "name": "Villa BoMaDa",
+      "latitude": 43.272244,
+      "longitude": 17.0535
+    },
+    {
+      "name": "Villa Brigita",
+      "latitude": 43.442239,
+      "longitude": 16.659384
+    },
+    {
+      "name": "Villa Calussovo",
+      "latitude": 45.10752,
+      "longitude": 14.151473
+    },
+    {
+      "name": "Villa Carla",
+      "latitude": 44.851138,
+      "longitude": 13.844663
+    },
+    {
+      "name": "Villa Carmen",
+      "latitude": 42.623633,
+      "longitude": 18.202102
+    },
+    {
+      "name": "Villa Cittar",
+      "latitude": 45.316434,
+      "longitude": 13.563501
+    },
+    {
+      "name": "Villa Daniela",
+      "latitude": 43.260798,
+      "longitude": 16.649816
+    },
+    {
+      "name": "Villa Dard",
+      "latitude": 42.646617,
+      "longitude": 18.10295
+    },
+    {
+      "name": "Villa Degenija",
+      "latitude": 44.90242,
+      "longitude": 14.91086
+    },
+    {
+      "name": "Villa Diana",
+      "latitude": 43.506441,
+      "longitude": 16.445889
+    },
+    {
+      "name": "Villa Donat",
+      "latitude": 43.962228,
+      "longitude": 15.426221
+    },
+    {
+      "name": "Villa Dubrava",
+      "latitude": 45.328579,
+      "longitude": 14.299912
+    },
+    {
+      "name": "Villa Dubrovnik",
+      "latitude": 42.638285,
+      "longitude": 18.127143
+    },
+    {
+      "name": "Villa Eugenia",
+      "latitude": 45.297356,
+      "longitude": 14.275956
+    },
+    {
+      "name": "Villa Eva",
+      "latitude": 45.184063,
+      "longitude": 14.61127
+    },
+    {
+      "name": "Villa Gacka",
+      "latitude": 44.901176,
+      "longitude": 14.910517
+    },
+    {
+      "name": "Villa Hrešć",
+      "latitude": 44.125774,
+      "longitude": 15.222049
+    },
+    {
+      "name": "Villa Isabella",
+      "latitude": 45.3216,
+      "longitude": 14.297818
+    },
+    {
+      "name": "Villa Jidro",
+      "latitude": 43.514844,
+      "longitude": 16.253174
+    },
+    {
+      "name": "Villa Julian",
+      "latitude": 44.136715,
+      "longitude": 15.223963
+    },
+    {
+      "name": "Villa Klaic ORIGIN",
+      "latitude": 42.647645,
+      "longitude": 18.103949
+    },
+    {
+      "name": "Villa Korina",
+      "latitude": 43.679614,
+      "longitude": 15.916295
+    },
+    {
+      "name": "Villa Kristina",
+      "latitude": 45.075251,
+      "longitude": 13.641954
+    },
+    {
+      "name": "Villa Lantoni",
+      "latitude": 42.622667,
+      "longitude": 18.204466
+    },
+    {
+      "name": "Villa Letan",
+      "latitude": 44.950954,
+      "longitude": 13.801827
+    },
+    {
+      "name": "Villa Lili",
+      "latitude": 45.075668,
+      "longitude": 13.642604
+    },
+    {
+      "name": "Villa Lopud",
+      "latitude": 42.684131,
+      "longitude": 17.940131
+    },
+    {
+      "name": "villa Lucica Trogir",
+      "latitude": 43.513222,
+      "longitude": 16.250341
+    },
+    {
+      "name": "Villa Magnolia",
+      "latitude": 45.809302,
+      "longitude": 17.391804
+    },
+    {
+      "name": "Villa Magnolia Umag",
+      "latitude": 45.44127,
+      "longitude": 13.517601
+    },
+    {
+      "name": "Villa Malo More",
+      "latitude": 43.511002,
+      "longitude": 16.306542
+    },
+    {
+      "name": "Villa Margaret",
+      "latitude": 45.122887,
+      "longitude": 14.494171
+    },
+    {
+      "name": "Villa Mathohanca",
+      "latitude": 45.075963,
+      "longitude": 13.640093
+    },
+    {
+      "name": "Villa Mediteran",
+      "latitude": 44.624572,
+      "longitude": 14.799583
+    },
+    {
+      "name": "Villa Menalo",
+      "latitude": 42.858174,
+      "longitude": 17.689885
+    },
+    {
+      "name": "Villa Mili",
+      "latitude": 43.166979,
+      "longitude": 16.449072
+    },
+    {
+      "name": "villa Millenium",
+      "latitude": 42.93072,
+      "longitude": 17.595844
+    },
+    {
+      "name": "Villa MiraMar",
+      "latitude": 43.423156,
+      "longitude": 16.710397
+    },
+    {
+      "name": "Villa Mirjana",
+      "latitude": 42.623202,
+      "longitude": 18.203079
+    },
+    {
+      "name": "Villa Mlini",
+      "latitude": 42.622465,
+      "longitude": 18.206488
+    },
+    {
+      "name": "Villa Molina",
+      "latitude": 42.624768,
+      "longitude": 18.209517
+    },
+    {
+      "name": "Villa Mozart",
+      "latitude": 43.23814,
+      "longitude": 17.077847
+    },
+    {
+      "name": "Villa Müller Split",
+      "latitude": 43.502847,
+      "longitude": 16.445292
+    },
+    {
+      "name": "Villa Nai 3.3",
+      "latitude": 43.962505,
+      "longitude": 15.122216
+    },
+    {
+      "name": "Villa Narona",
+      "latitude": 42.623542,
+      "longitude": 18.211469
+    },
+    {
+      "name": "Villa New York",
+      "latitude": 42.622561,
+      "longitude": 18.205618
+    },
+    {
+      "name": "Villa Nico",
+      "latitude": 44.150704,
+      "longitude": 15.205107
+    },
+    {
+      "name": "Villa Nicoletta",
+      "latitude": 45.227291,
+      "longitude": 13.591391
+    },
+    {
+      "name": "Villa Nina",
+      "latitude": 42.623766,
+      "longitude": 18.201863
+    },
+    {
+      "name": "Villa NORA Hvar",
+      "latitude": 43.172761,
+      "longitude": 16.442587
+    },
+    {
+      "name": "Villa Palma",
+      "latitude": 42.622507,
+      "longitude": 18.206346
+    },
+    {
+      "name": "Villa Paradiso 2",
+      "latitude": 42.686231,
+      "longitude": 18.05092
+    },
+    {
+      "name": "Villa Pavlinka",
+      "latitude": 44.214902,
+      "longitude": 15.509021
+    },
+    {
+      "name": "Villa Prova 1",
+      "latitude": 45.115572,
+      "longitude": 14.511975
+    },
+    {
+      "name": "Villa Radin",
+      "latitude": 43.752585,
+      "longitude": 15.771965
+    },
+    {
+      "name": "Villa Raguž",
+      "latitude": 42.93198,
+      "longitude": 17.593455
+    },
+    {
+      "name": "Villa Rainis",
+      "latitude": 45.32269,
+      "longitude": 13.563961
+    },
+    {
+      "name": "Villa Rosetta",
+      "latitude": 45.476549,
+      "longitude": 13.505267
+    },
+    {
+      "name": "Villa Royal",
+      "latitude": 44.800484,
+      "longitude": 14.717435
+    },
+    {
+      "name": "Villa rustica",
+      "latitude": 45.121883,
+      "longitude": 14.802603
+    },
+    {
+      "name": "Villa San Rocco",
+      "latitude": 44.82087,
+      "longitude": 13.931668
+    },
+    {
+      "name": "Villa Sol",
+      "latitude": 43.551331,
+      "longitude": 16.343363
+    },
+    {
+      "name": "Villa Stari Dvor",
+      "latitude": 44.134753,
+      "longitude": 15.097815
+    },
+    {
+      "name": "Villa Suzana",
+      "latitude": 44.436866,
+      "longitude": 15.56512
+    },
+    {
+      "name": "Villa Sv. Križ",
+      "latitude": 43.513792,
+      "longitude": 16.291807
+    },
+    {
+      "name": "Villa Tamaris",
+      "latitude": 44.763918,
+      "longitude": 14.752194
+    },
+    {
+      "name": "Villa Telenta",
+      "latitude": 42.962024,
+      "longitude": 16.707553
+    },
+    {
+      "name": "Villa Triana",
+      "latitude": 44.142782,
+      "longitude": 15.211264
+    },
+    {
+      "name": "Villa Tupina",
+      "latitude": 42.622885,
+      "longitude": 18.207032
+    },
+    {
+      "name": "Villa tuttorotto",
+      "latitude": 45.081837,
+      "longitude": 13.633227
+    },
+    {
+      "name": "Villa Umag",
+      "latitude": 45.4402,
+      "longitude": 13.522918
+    },
+    {
+      "name": "Villa Valdibora",
+      "latitude": 45.082977,
+      "longitude": 13.632963
+    },
+    {
+      "name": "Villa Verica",
+      "latitude": 43.353572,
+      "longitude": 16.949755
+    },
+    {
+      "name": "Villa View Jasna",
+      "latitude": 43.498849,
+      "longitude": 16.004231
+    },
+    {
+      "name": "Villa Vilina",
+      "latitude": 42.691236,
+      "longitude": 17.942029
+    },
+    {
+      "name": "Villa Vinka",
+      "latitude": 43.272567,
+      "longitude": 17.054415
+    },
+    {
+      "name": "Villa Vrgorac",
+      "latitude": 42.974779,
+      "longitude": 17.13998
+    },
+    {
+      "name": "Villa Vrsar",
+      "latitude": 45.152163,
+      "longitude": 13.614195
+    },
+    {
+      "name": "Villa Wolff",
+      "latitude": 42.656154,
+      "longitude": 18.069552
+    },
+    {
+      "name": "Villa Čakelić",
+      "latitude": 42.625119,
+      "longitude": 18.208709
+    },
+    {
+      "name": "Villa Štefica",
+      "latitude": 45.439446,
+      "longitude": 17.666751
+    },
+    {
+      "name": "Villa-Restaurant \"Plitvička Sedra\"",
+      "latitude": 44.961987,
+      "longitude": 15.656629
+    },
+    {
+      "name": "VillaCD Carpe Diem",
+      "latitude": 45.194864,
+      "longitude": 14.668103
+    },
+    {
+      "name": "Villas Plat",
+      "latitude": 42.609074,
+      "longitude": 18.224958
+    },
+    {
+      "name": "Villas Rubin Resort",
+      "latitude": 45.06163,
+      "longitude": 13.66402
+    },
+    {
+      "name": "Ville Matilde",
+      "latitude": 43.757329,
+      "longitude": 15.783942
+    },
+    {
+      "name": "Villetta Phasiana",
+      "latitude": 44.927463,
+      "longitude": 13.802894
+    },
+    {
+      "name": "Višnjica",
+      "latitude": 45.773976,
+      "longitude": 17.625304
+    },
+    {
+      "name": "Vrata Krke",
+      "latitude": 43.795342,
+      "longitude": 15.967166
+    },
+    {
+      "name": "Vrilo",
+      "latitude": 43.377563,
+      "longitude": 16.628822
+    },
+    {
+      "name": "Waterman Milna Hotel",
+      "latitude": 43.326959,
+      "longitude": 16.442177
+    },
+    {
+      "name": "Waterman Svpetrvs Resort",
+      "latitude": 43.386059,
+      "longitude": 16.543332
+    },
+    {
+      "name": "White House Lopud",
+      "latitude": 42.684553,
+      "longitude": 17.944277
+    },
+    {
+      "name": "Zdilar",
+      "latitude": 43.452768,
+      "longitude": 17.176365
+    },
+    {
+      "name": "Zdjelarević",
+      "latitude": 45.179115,
+      "longitude": 17.788266
+    },
+    {
+      "name": "Zepter Hotel",
+      "latitude": 45.184381,
+      "longitude": 16.807878
+    },
+    {
+      "name": "Zlatan Hotel Restaurant",
+      "latitude": 46.179294,
+      "longitude": 16.790111
+    },
+    {
+      "name": "Zlatna Vala",
+      "latitude": 45.400586,
+      "longitude": 13.536644
+    },
+    {
+      "name": "Zlatni Lav",
+      "latitude": 44.82164,
+      "longitude": 14.351881
+    },
+    {
+      "name": "Zlatni Rat Beach Resort",
+      "latitude": 43.259135,
+      "longitude": 16.636262
+    },
+    {
+      "name": "Zonar Zagreb",
+      "latitude": 45.805786,
+      "longitude": 15.952198
+    },
+    {
+      "name": "Zoo Hotel",
+      "latitude": 45.568294,
+      "longitude": 18.667942
+    },
+    {
+      "name": "Zovko",
+      "latitude": 45.169928,
+      "longitude": 17.950727
+    },
+    {
+      "name": "Zovko Hoteli",
+      "latitude": 45.805946,
+      "longitude": 16.108506
+    },
+    {
+      "name": "Zvonimir Sunny",
+      "latitude": 44.967163,
+      "longitude": 14.749253
+    },
+    {
+      "name": "Štacija",
+      "latitude": 43.551642,
+      "longitude": 16.358214
+    },
+    {
+      "name": "Šumski dvori",
+      "latitude": 45.986968,
+      "longitude": 16.276471
+    }
+  ],
+  "meta": {
+    "title": "Hoteli u Hrvatskoj - Besplatno preuzimanje",
+    "description": "Hotels in Croatia (tourism=hotel) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors. Sadrži 1124 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Hoteli u Hrvatskoj | ListBase",
+    "seo_description": "Preuzmi Hoteli u Hrvatskoj — 1124 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 1124 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

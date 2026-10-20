@@ -1,0 +1,486 @@
+{
+  "id": "hr-drustva-posredovanje-osiguranje",
+  "name": "Društva za posredovanje u osiguranju i reosiguranju",
+  "title": "Društva za posredovanje u osiguranju i reosiguranju",
+  "description": "Registar of Croatian-licensed društva za posredovanje u osiguranju i reosiguranju (insurance and reinsurance brokerage firms) authorised by Hrvatska agencija za nadzor financijskih usluga (HANFA). Each record carries the firm's redni broj (rbr), registracijska oznaka DP code, full registered name (naziv), sjedište (registered office address), telefon, datum dozvole za rad (date of operating licence), klasa dozvole (decision class), and ovlašteni posrednik (authorised broker).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "rbr",
+      "label": "Rbr",
+      "type": "number"
+    },
+    {
+      "key": "rbs_code",
+      "label": "Rbs Code",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "sjediste",
+      "label": "Sjediste",
+      "type": "string"
+    },
+    {
+      "key": "telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "datum_dozvole",
+      "label": "Datum Dozvole",
+      "type": "string"
+    },
+    {
+      "key": "klasa_dozvole",
+      "label": "Klasa Dozvole",
+      "type": "string"
+    },
+    {
+      "key": "ovlasteni_posrednik",
+      "label": "Ovlasteni Posrednik",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rbr": "1",
+      "rbs_code": "DP 044",
+      "naziv": "ALFA POSREDOVANJE d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Avenija V. Holjevca  20, Zagreb",
+      "telefon": "091/5392152",
+      "datum_dozvole": "02.08.2013",
+      "klasa_dozvole": "UP/I-453-02/13-37/40",
+      "ovlasteni_posrednik": "Marko Leko PO 318"
+    },
+    {
+      "rbr": "2",
+      "rbs_code": "DP 014",
+      "naziv": "AON društvo s ograničenom odgovornošću za posredovanje u osiguranju",
+      "sjediste": "Istarska  1, Zagreb",
+      "telefon": "01/4558780",
+      "datum_dozvole": "18.01.2007",
+      "klasa_dozvole": "UP/I-453-06/06-03/70",
+      "ovlasteni_posrednik": "Anđela Buconjić PO 024"
+    },
+    {
+      "rbr": "3",
+      "rbs_code": "DP 010",
+      "naziv": "AVUS INTERNATIONAL društvo s ograničenom odgovornošću za posredovanje u osiguranju",
+      "sjediste": "Ljudevita Gaja  27, Zagreb",
+      "telefon": "01/4873035",
+      "datum_dozvole": "28.12.2006",
+      "klasa_dozvole": "UP/I-453-06/06-03/207",
+      "ovlasteni_posrednik": "Davor Dorbolo PO 204"
+    },
+    {
+      "rbr": "4",
+      "rbs_code": "DP 042",
+      "naziv": "BENEFICIUM POSREDOVANJE d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Juraja Habdelića  16, Velika Gorica",
+      "telefon": "091/2345551",
+      "datum_dozvole": "07.02.2013",
+      "klasa_dozvole": "UP/I-453-02/13-37/8",
+      "ovlasteni_posrednik": "Ozren Kučiš PO 288"
+    },
+    {
+      "rbr": "5",
+      "rbs_code": "DP 001",
+      "naziv": "BORDERO posredovanje d.o.o., za posredovanje u osiguranju",
+      "sjediste": "Knežija  10, Zagreb",
+      "telefon": "01/6111854",
+      "datum_dozvole": "12.10.2006",
+      "klasa_dozvole": "UP/I-453-06/06-03/260",
+      "ovlasteni_posrednik": "Milan Martulaš PO 313"
+    },
+    {
+      "rbr": "6",
+      "rbs_code": "DP 049",
+      "naziv": "C4 INSURANCE BROKERS d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Tadije Smičiklasa 12, Zadar",
+      "telefon": "",
+      "datum_dozvole": "15.05.2015",
+      "klasa_dozvole": "",
+      "ovlasteni_posrednik": "Filip Jerolimov PO 183"
+    },
+    {
+      "rbr": "7",
+      "rbs_code": "DP 027",
+      "naziv": "CENTAR BROKER d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "IX Južna obala  20, Zagreb",
+      "telefon": "01/6560521",
+      "datum_dozvole": "15.10.2009",
+      "klasa_dozvole": "UP/I-453-02/09-37/70",
+      "ovlasteni_posrednik": "Iva Rogović Lekić PO 329"
+    },
+    {
+      "rbr": "8",
+      "rbs_code": "DP 040",
+      "naziv": "CERTUS POSREDOVANJE d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Gundulićeva  3, Zagreb",
+      "telefon": "095/3911767",
+      "datum_dozvole": "15.11.2012",
+      "klasa_dozvole": "UP/I-453-02/12-37/62",
+      "ovlasteni_posrednik": "Marijela Kresoja PO 295"
+    },
+    {
+      "rbr": "9",
+      "rbs_code": "DP 011",
+      "naziv": "DISTRIRISK d.o.o., za posredovanje u osiguranju",
+      "sjediste": "R. Cimermana 58/d, Zagreb",
+      "telefon": "01/4876185",
+      "datum_dozvole": "11.01.2007",
+      "klasa_dozvole": "UP/I-453-06/06-03/146",
+      "ovlasteni_posrednik": "Željko Brkić PO 071"
+    },
+    {
+      "rbr": "10",
+      "rbs_code": "DP 021",
+      "naziv": "DPS INTERNATIONAL društvo s ograničenom odgovornošću za posredovanje u osiguranju",
+      "sjediste": "Remete  125, Zagreb",
+      "telefon": "01/4580150",
+      "datum_dozvole": "05.04.2007",
+      "klasa_dozvole": "UP/I-453-06/06-03/208",
+      "ovlasteni_posrednik": "Igor Soviček PO 016"
+    },
+    {
+      "rbr": "11",
+      "rbs_code": "DP 028",
+      "naziv": "EURO POSREDOVANJE d.o.o., za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Ulica grada Vukovara  284, Zagreb",
+      "telefon": "099/2305880",
+      "datum_dozvole": "29.10.2009",
+      "klasa_dozvole": "UP/I-453-02/09-37/72",
+      "ovlasteni_posrednik": "Domagoj Bešić PO 188"
+    },
+    {
+      "rbr": "12",
+      "rbs_code": "DP 019",
+      "naziv": "FAMILIA d.o.o., za posredovanje u osiguranju",
+      "sjediste": "Zinke Kunc  5, Zagreb",
+      "telefon": "01/6119592",
+      "datum_dozvole": "15.03.2007",
+      "klasa_dozvole": "UP/I-453-02/07-37/28",
+      "ovlasteni_posrednik": "Željko Bošnjak PO 224"
+    },
+    {
+      "rbr": "13",
+      "rbs_code": "DP 023",
+      "naziv": "FIMA BIS društvo s ograničenom odgovornošću za posredovanje u osiguranju",
+      "sjediste": "Anina  2, Varaždin",
+      "telefon": "091/3909511",
+      "datum_dozvole": "06.06.2007",
+      "klasa_dozvole": "UP/I-453-02/07-37/44",
+      "ovlasteni_posrednik": "Nina Kamber PO 276"
+    },
+    {
+      "rbr": "14",
+      "rbs_code": "DP 006",
+      "naziv": "FORTIUS d.o.o., za posredovanje u osiguranju",
+      "sjediste": "Ljudevita Gaja  7, Zagreb",
+      "telefon": "01/4825820",
+      "datum_dozvole": "14.12.2006",
+      "klasa_dozvole": "UP/I-453-06/06-03/138",
+      "ovlasteni_posrednik": "Vesna (Vladović-Relja) Klaić PO 079"
+    },
+    {
+      "rbr": "15",
+      "rbs_code": "DP 047",
+      "naziv": "GRAS SAVOYE CROATIA dioničko društvo za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Dalmatinska  16, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "13.12.2013",
+      "klasa_dozvole": "UP/I-453-02/13-37/55",
+      "ovlasteni_posrednik": "Marko Štajduhar PO 321"
+    },
+    {
+      "rbr": "16",
+      "rbs_code": "DP 012",
+      "naziv": "GrECo JLT Croatia društvo s ograničenom odgovornošću za posredovanje u osiguranju",
+      "sjediste": "Zelinska  3, Zagreb",
+      "telefon": "01/6117205",
+      "datum_dozvole": "11.01.2007",
+      "klasa_dozvole": "UP/I-453-06/06-03/18",
+      "ovlasteni_posrednik": "Anita Hukman PO 181"
+    },
+    {
+      "rbr": "17",
+      "rbs_code": "DP 039",
+      "naziv": "INTELIOS društvo s ograničenom odgovornošću za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Avenija Dubrava  37, Zagreb",
+      "telefon": "098/470408",
+      "datum_dozvole": "19.09.2012",
+      "klasa_dozvole": "UP/I-453-02/12-37/51",
+      "ovlasteni_posrednik": "Vedran Duvnjak PO 283 , Ana Božičević PO 265"
+    },
+    {
+      "rbr": "18",
+      "rbs_code": "DP 034",
+      "naziv": "INTER PARTES društvo s ograničenom odgovornošću za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Facchinettijeva  41, Pula",
+      "telefon": "099/4555775",
+      "datum_dozvole": "28.04.2011",
+      "klasa_dozvole": "UP/I-453-02/11-37/26",
+      "ovlasteni_posrednik": "Boris Duras PO 226 , Ivana Kumalić PO 167"
+    },
+    {
+      "rbr": "19",
+      "rbs_code": "DP 007",
+      "naziv": "INTERCESSOR d.o.o., za posredovanje u osiguranju",
+      "sjediste": "Bednjanska  14, Zagreb",
+      "telefon": "01/6114516",
+      "datum_dozvole": "14.12.2006",
+      "klasa_dozvole": "UP/I-453-06/06-03/66",
+      "ovlasteni_posrednik": "Krešimir Novosel PO 157 , Jelena Hrgović PO 263"
+    },
+    {
+      "rbr": "20",
+      "rbs_code": "DP 029",
+      "naziv": "INTERKAPITAL RIZIK društvo s ograničenom odgovornošću za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Masarykova  3, Zagreb",
+      "telefon": "01/5496166",
+      "datum_dozvole": "01.04.2010",
+      "klasa_dozvole": "UP/I-453-02/10-37/16",
+      "ovlasteni_posrednik": "Ivica Vučetić PO 025"
+    },
+    {
+      "rbr": "21",
+      "rbs_code": "DP 043",
+      "naziv": "InterOmnia d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Ivekovićeva  2, Zagreb",
+      "telefon": "01/2381 000",
+      "datum_dozvole": "05.04.2013",
+      "klasa_dozvole": "UP/I-453-02/13-37/18",
+      "ovlasteni_posrednik": "Marko Carek PO 291"
+    },
+    {
+      "rbr": "22",
+      "rbs_code": "DP 003",
+      "naziv": "ISTRA-AGENT posredovanje u osiguranju d.o.o.",
+      "sjediste": "Draguzeti 15/a, Barban",
+      "telefon": "052/383200",
+      "datum_dozvole": "23.11.2006",
+      "klasa_dozvole": "UP/I-453-06/06-03/243",
+      "ovlasteni_posrednik": "Arijela Draguzet PO 202"
+    },
+    {
+      "rbr": "23",
+      "rbs_code": "DP 008",
+      "naziv": "K & K društvo s ograničenom odgovornošću za posredovanje u osiguranju",
+      "sjediste": "3. Bijenički ogranak  18, Zagreb",
+      "telefon": "01/2347303",
+      "datum_dozvole": "14.12.2006",
+      "klasa_dozvole": "UP/I-453-06/06-03/83",
+      "ovlasteni_posrednik": "Jakov Jandrić PO 251"
+    },
+    {
+      "rbr": "24",
+      "rbs_code": "DP 031",
+      "naziv": "KELTA društvo s ograničenom odgovornošću za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Trnjanska cesta 61a, Zagreb",
+      "telefon": "01/6310077",
+      "datum_dozvole": "07.10.2010",
+      "klasa_dozvole": "UP/I-453-02/10-37/39",
+      "ovlasteni_posrednik": "Goran Markota PO 013"
+    },
+    {
+      "rbr": "25",
+      "rbs_code": "DP 036",
+      "naziv": "KOBAN SÜDVERS GROUP ZAGREB društvo s ograničenom odgovornošću za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Josipa Marohnića 1, Zagreb",
+      "telefon": "016156225",
+      "datum_dozvole": "01.12.2011",
+      "klasa_dozvole": "UP/I-453-02/11-37/90",
+      "ovlasteni_posrednik": "Klaus Gustav Koban 260, Miroslav Topol 170"
+    },
+    {
+      "rbr": "26",
+      "rbs_code": "DP46",
+      "naziv": "Kor-Broker d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Trg Dražena Petrovića  3, Zagreb",
+      "telefon": "01/4894080",
+      "datum_dozvole": "30.04.2014",
+      "klasa_dozvole": "UP/I-453-02/14-37/33",
+      "ovlasteni_posrednik": "Mirko Lukač PO 237"
+    },
+    {
+      "rbr": "27",
+      "rbs_code": "DP 017",
+      "naziv": "MAI posredovanje u osiguranju, društvo s ograničenom odgovornošću",
+      "sjediste": "Mandaličina  17, Zagreb",
+      "telefon": "01/6394266",
+      "datum_dozvole": "07.02.2007",
+      "klasa_dozvole": "UP/I-453-06/06-03/141",
+      "ovlasteni_posrednik": "Blanka Vukobrat PO 036 , Tvrtko Stanišić PO 354 , Ana Knežević PO 236"
+    },
+    {
+      "rbr": "28",
+      "rbs_code": "DP 013",
+      "naziv": "MARSH d.o.o., posredovanje u osiguranju",
+      "sjediste": "Grada Vukovara  271, Zagreb",
+      "telefon": "01/6060400",
+      "datum_dozvole": "11.01.2007",
+      "klasa_dozvole": "UP/I-453-06/06-03/121",
+      "ovlasteni_posrednik": "Željka Jelinčić PO 128"
+    },
+    {
+      "rbr": "29",
+      "rbs_code": "DP 015",
+      "naziv": "MATICA društvo s ograničenom odgovornošću za posredovanje u osiguranju",
+      "sjediste": "Poljička cesta  39, Split",
+      "telefon": "021/463901",
+      "datum_dozvole": "18.01.2007",
+      "klasa_dozvole": "UP/I-453-06/06-03/128",
+      "ovlasteni_posrednik": "Suzana Trogrlić PO 043"
+    },
+    {
+      "rbr": "30",
+      "rbs_code": "DP 018",
+      "naziv": "OPTIMARISK društvo s ograničenom odgovornošću za posredovanje u osiguranju",
+      "sjediste": "Zrinskih i Frankopana  21, Varaždin",
+      "telefon": "042/204115",
+      "datum_dozvole": "01.03.2007",
+      "klasa_dozvole": "UP/I-453-06/06-03/183",
+      "ovlasteni_posrednik": "Damir Vlašić PO 222"
+    },
+    {
+      "rbr": "31",
+      "rbs_code": "DP 009",
+      "naziv": "PATRONUS d.o.o., posredovanje u osiguranju",
+      "sjediste": "Perkovčeva  57, Samobor",
+      "telefon": "01/4875556",
+      "datum_dozvole": "14.12.2006",
+      "klasa_dozvole": "UP/I-453-06/06-03/158",
+      "ovlasteni_posrednik": "Ivana Svedružić PO 078"
+    },
+    {
+      "rbr": "32",
+      "rbs_code": "DP 022",
+      "naziv": "PLIMA POSREDOVANJE društvo s ograničenom odgovornošću za posredovanje",
+      "sjediste": "Pakoštanska 3 b, Zagreb",
+      "telefon": "01/6608735",
+      "datum_dozvole": "26.04.2007",
+      "klasa_dozvole": "UP/I-453-02/07-37/39",
+      "ovlasteni_posrednik": "Ivan Perić PO 121"
+    },
+    {
+      "rbr": "33",
+      "rbs_code": "DP 030",
+      "naziv": "RAIFFEISEN bonus društvo s ograničenom odgovornošću za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Radnička cesta  43, Zagreb",
+      "telefon": "098/457515",
+      "datum_dozvole": "15.07.2010",
+      "klasa_dozvole": "UP/I-453-02/10-37/28",
+      "ovlasteni_posrednik": "Goran Rubeša PO 241"
+    },
+    {
+      "rbr": "34",
+      "rbs_code": "DP 038",
+      "naziv": "RHEOS d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Put Firula  57, Split",
+      "telefon": "099/5329290",
+      "datum_dozvole": "10.05.2012",
+      "klasa_dozvole": "UP/I-453-02/12-37/27",
+      "ovlasteni_posrednik": "Mirela Milić PO 277"
+    },
+    {
+      "rbr": "35",
+      "rbs_code": "DP 025",
+      "naziv": "SEMPER INCOLUMIS d.o.o., za posredovanje u osiguranju",
+      "sjediste": "Radnička cesta 40-5, Zagreb",
+      "telefon": "01/6181106/ 6181099",
+      "datum_dozvole": "30.10.2008",
+      "klasa_dozvole": "UP/I-453-02/08-37/35",
+      "ovlasteni_posrednik": "Danica Todorić PO 388"
+    },
+    {
+      "rbr": "36",
+      "rbs_code": "DP 041",
+      "naziv": "SKADENCA d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Gajeva 2/II, Zagreb",
+      "telefon": "01/6393700",
+      "datum_dozvole": "15.11.2012",
+      "klasa_dozvole": "UP/I-453-02/12-37/65",
+      "ovlasteni_posrednik": "Ivan Rinčić PO 289"
+    },
+    {
+      "rbr": "37",
+      "rbs_code": "DP 037",
+      "naziv": "SORA POSREDOVANJE društvo s ograničenom odgovornošću za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Selska 90/a, Zagreb",
+      "telefon": "091/2007200",
+      "datum_dozvole": "10.05.2012",
+      "klasa_dozvole": "UP/I-453-02/12-37/24",
+      "ovlasteni_posrednik": "Emil Mihelčić PO 279"
+    },
+    {
+      "rbr": "38",
+      "rbs_code": "DP-048",
+      "naziv": "UNI AGENT d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Bednjanska 14, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "01.08.2014",
+      "klasa_dozvole": "UP/I-453-02/14-37/46",
+      "ovlasteni_posrednik": "Vedran Režić PO 169"
+    },
+    {
+      "rbr": "39",
+      "rbs_code": "DP 035",
+      "naziv": "V. MEDIUS & PARTNERI društvo s ograničenom odgovornošću za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Kapitanovo  2, Rijeka",
+      "telefon": "051/312220",
+      "datum_dozvole": "13.10.2011",
+      "klasa_dozvole": "UP/I-453-02/11-37/74",
+      "ovlasteni_posrednik": "Zorica Malbašić PO 270"
+    },
+    {
+      "rbr": "40",
+      "rbs_code": "DP 004",
+      "naziv": "VITA SECURUS d.o.o., za posredovanje u osiguranju",
+      "sjediste": "Odranska  1, Zagreb",
+      "telefon": "01/5497820, 5497822",
+      "datum_dozvole": "23.11.2006",
+      "klasa_dozvole": "UP/I-453-06/06-03/269",
+      "ovlasteni_posrednik": "Ile Kelić PO 206"
+    },
+    {
+      "rbr": "41",
+      "rbs_code": "DP 033",
+      "naziv": "VITAS - INVESTA d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Mletačka  12, Pula",
+      "telefon": "098/335997",
+      "datum_dozvole": "28.04.2011",
+      "klasa_dozvole": "UP/I-453-02/11-37/22",
+      "ovlasteni_posrednik": "Mirela Čaušević PO 303"
+    },
+    {
+      "rbr": "42",
+      "rbs_code": "DP 045",
+      "naziv": "ZABA Partner d.o.o. za posredovanje u osiguranju i reosiguranju",
+      "sjediste": "Ulica Augusta Cesarca  2, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "02.08.2013",
+      "klasa_dozvole": "UP/I-453-02/13-37/43",
+      "ovlasteni_posrednik": "Mate Markota PO 330"
+    }
+  ],
+  "meta": {
+    "title": "Društva za posredovanje u osiguranju i reosiguranju - Besplatno preuzimanje",
+    "description": "Registar of Croatian-licensed društva za posredovanje u osiguranju i reosiguranju (insurance and reinsurance brokerage firms) authorised by Hrvatska agencija za nadzor financijskih usluga (HANFA). Each record carries the firm's redni broj (rbr), registracijska oznaka DP code, full registered name (naziv), sjedište (registered office address), telefon, datum dozvole za rad (date of operating licence), klasa dozvole (decision class), and ovlašteni posrednik (authorised broker). Sadrži 42 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Društva za posredovanje u osiguranju i reosiguranju | ListBase",
+    "seo_description": "Preuzmi Društva za posredovanje u osiguranju i reosiguranju — 42 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 42 zapisa / 8 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

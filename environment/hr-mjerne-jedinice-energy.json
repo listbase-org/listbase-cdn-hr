@@ -1,0 +1,187 @@
+{
+  "id": "hr-mjerne-jedinice-energy",
+  "name": "Mjerne jedinice — kategorija 'energy' (14)",
+  "title": "Mjerne jedinice — kategorija 'energy' (14)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'energy' s hrvatskim nazivima.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "energy-becquerel",
+      "kategorija": "energy",
+      "naziv": "bekereli",
+      "kratica": "Bq",
+      "naziv_uski": "Bq",
+      "obrazac": "{0} bekerela"
+    },
+    {
+      "id": 2,
+      "unit_code": "energy-british-thermal-unit",
+      "kategorija": "energy",
+      "naziv": "britanske termalne jedinice",
+      "kratica": "BTU",
+      "naziv_uski": "BTU",
+      "obrazac": "{0} britanskih termalnih jedinica"
+    },
+    {
+      "id": 3,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategorija": "energy",
+      "naziv": "BTU-IT",
+      "kratica": "BTU-IT",
+      "naziv_uski": "BTU-IT",
+      "obrazac": "{0} BTU-IT"
+    },
+    {
+      "id": 4,
+      "unit_code": "energy-calorie",
+      "kategorija": "energy",
+      "naziv": "kalorije",
+      "kratica": "cal",
+      "naziv_uski": "cal",
+      "obrazac": "{0} kalorija"
+    },
+    {
+      "id": 5,
+      "unit_code": "energy-calorie-it",
+      "kategorija": "energy",
+      "naziv": "kalorije [IT]",
+      "kratica": "cal [IT]",
+      "naziv_uski": "cal [IT]",
+      "obrazac": "{0} kalorija [IT]"
+    },
+    {
+      "id": 6,
+      "unit_code": "energy-electronvolt",
+      "kategorija": "energy",
+      "naziv": "elektronvolti",
+      "kratica": "eV",
+      "naziv_uski": "eV",
+      "obrazac": "{0} elektronvolta"
+    },
+    {
+      "id": 7,
+      "unit_code": "energy-foodcalorie",
+      "kategorija": "energy",
+      "naziv": "kilokalorije",
+      "kratica": "",
+      "naziv_uski": "",
+      "obrazac": "{0} kilokalorija"
+    },
+    {
+      "id": 8,
+      "unit_code": "energy-gray",
+      "kategorija": "energy",
+      "naziv": "greji",
+      "kratica": "Gy",
+      "naziv_uski": "Gy",
+      "obrazac": "{0} grejeva"
+    },
+    {
+      "id": 9,
+      "unit_code": "energy-joule",
+      "kategorija": "energy",
+      "naziv": "džuli",
+      "kratica": "J",
+      "naziv_uski": "J",
+      "obrazac": "{0} džula"
+    },
+    {
+      "id": 10,
+      "unit_code": "energy-kilocalorie",
+      "kategorija": "energy",
+      "naziv": "kilokalorije",
+      "kratica": "kcal",
+      "naziv_uski": "kcal",
+      "obrazac": "{0} kilokalorija"
+    },
+    {
+      "id": 11,
+      "unit_code": "energy-kilojoule",
+      "kategorija": "energy",
+      "naziv": "kilodžuli",
+      "kratica": "kJ",
+      "naziv_uski": "kJ",
+      "obrazac": "{0} kilodžula"
+    },
+    {
+      "id": 12,
+      "unit_code": "energy-kilowatt-hour",
+      "kategorija": "energy",
+      "naziv": "kilovatsati",
+      "kratica": "kWh",
+      "naziv_uski": "kWh",
+      "obrazac": "{0} kilovatsati"
+    },
+    {
+      "id": 13,
+      "unit_code": "energy-sievert",
+      "kategorija": "energy",
+      "naziv": "siverti",
+      "kratica": "Sv",
+      "naziv_uski": "Sv",
+      "obrazac": "{0} siverta"
+    },
+    {
+      "id": 14,
+      "unit_code": "energy-therm-us",
+      "kategorija": "energy",
+      "naziv": "SAD therm",
+      "kratica": "SAD therm",
+      "naziv_uski": "SAD therm",
+      "obrazac": "{0} SAD therma"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'energy' (14) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'energy' s hrvatskim nazivima. Sadrži 14 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'energy' (14) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'energy' (14) — 14 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 14 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,4541 @@
+{
+  "id": "hr-poste",
+  "name": "Poštanski uredi u Hrvatskoj",
+  "title": "Poštanski uredi u Hrvatskoj",
+  "description": "Post offices in Croatia (amenity=post_office) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 900,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "10000 Zagreb",
+      "latitude": 45.80504,
+      "longitude": 15.981407
+    },
+    {
+      "name": "10010 Zagreb-Sloboština",
+      "latitude": 45.765096,
+      "longitude": 15.987897
+    },
+    {
+      "name": "10020 Zagreb-Novi Zagreb",
+      "latitude": 45.770659,
+      "longitude": 15.967892
+    },
+    {
+      "name": "10040 Zagreb-Dubrava",
+      "latitude": 45.830274,
+      "longitude": 16.054319
+    },
+    {
+      "name": "10048 Zagreb",
+      "latitude": 45.817709,
+      "longitude": 16.036797
+    },
+    {
+      "name": "10090 Zagreb-Susedgrad",
+      "latitude": 45.813072,
+      "longitude": 15.902204
+    },
+    {
+      "name": "10103 Zagreb",
+      "latitude": 45.817564,
+      "longitude": 15.973958
+    },
+    {
+      "name": "10109 Zagreb",
+      "latitude": 45.811805,
+      "longitude": 15.944501
+    },
+    {
+      "name": "10110 Zagreb",
+      "latitude": 45.797445,
+      "longitude": 15.937327
+    },
+    {
+      "name": "10111 Zagreb",
+      "latitude": 45.808503,
+      "longitude": 15.898427
+    },
+    {
+      "name": "10112 Zagreb",
+      "latitude": 45.824675,
+      "longitude": 15.978651
+    },
+    {
+      "name": "10114 Zagreb",
+      "latitude": 45.797048,
+      "longitude": 16.007915
+    },
+    {
+      "name": "10115 Zagreb",
+      "latitude": 45.805758,
+      "longitude": 15.96688
+    },
+    {
+      "name": "10116 Zagreb",
+      "latitude": 45.799944,
+      "longitude": 15.981671
+    },
+    {
+      "name": "10119 Zagreb",
+      "latitude": 45.790666,
+      "longitude": 15.913352
+    },
+    {
+      "name": "10120 Zagreb",
+      "latitude": 45.815088,
+      "longitude": 15.935422
+    },
+    {
+      "name": "10121 Zagreb",
+      "latitude": 45.793465,
+      "longitude": 16.004923
+    },
+    {
+      "name": "10122 Zagreb",
+      "latitude": 45.804876,
+      "longitude": 15.954834
+    },
+    {
+      "name": "10123 Zagreb",
+      "latitude": 45.817484,
+      "longitude": 16.000476
+    },
+    {
+      "name": "10124 Zagreb",
+      "latitude": 45.791086,
+      "longitude": 15.950884
+    },
+    {
+      "name": "10126 Zagreb",
+      "latitude": 45.800041,
+      "longitude": 15.966425
+    },
+    {
+      "name": "10128 Zagreb",
+      "latitude": 45.835882,
+      "longitude": 16.046713
+    },
+    {
+      "name": "10129 Zagreb",
+      "latitude": 45.779699,
+      "longitude": 15.996091
+    },
+    {
+      "name": "10131 Zagreb",
+      "latitude": 45.795031,
+      "longitude": 15.994094
+    },
+    {
+      "name": "10132 Zagreb",
+      "latitude": 45.802,
+      "longitude": 16.050593
+    },
+    {
+      "name": "10133 Zagreb",
+      "latitude": 45.815166,
+      "longitude": 15.874199
+    },
+    {
+      "name": "10134 Zagreb",
+      "latitude": 45.796014,
+      "longitude": 15.899413
+    },
+    {
+      "name": "10135 Zagreb",
+      "latitude": 45.807286,
+      "longitude": 16.01978
+    },
+    {
+      "name": "10136 Zagreb",
+      "latitude": 45.797683,
+      "longitude": 16.015218
+    },
+    {
+      "name": "10137 Zagreb",
+      "latitude": 45.770023,
+      "longitude": 15.939422
+    },
+    {
+      "name": "10138 Zagreb",
+      "latitude": 45.803154,
+      "longitude": 15.929939
+    },
+    {
+      "name": "10139 Zagreb",
+      "latitude": 45.771386,
+      "longitude": 15.994543
+    },
+    {
+      "name": "10140 Zagreb",
+      "latitude": 45.788878,
+      "longitude": 15.938156
+    },
+    {
+      "name": "10141 Zagreb",
+      "latitude": 45.83493,
+      "longitude": 16.058417
+    },
+    {
+      "name": "10142 Zagreb",
+      "latitude": 45.814738,
+      "longitude": 16.008701
+    },
+    {
+      "name": "10144 Zagreb",
+      "latitude": 45.798385,
+      "longitude": 15.962568
+    },
+    {
+      "name": "10145 Zagreb",
+      "latitude": 45.798054,
+      "longitude": 15.913555
+    },
+    {
+      "name": "10146 Zagreb",
+      "latitude": 45.778731,
+      "longitude": 15.987012
+    },
+    {
+      "name": "10147 Zagreb",
+      "latitude": 45.805078,
+      "longitude": 15.895343
+    },
+    {
+      "name": "10150 Zagreb",
+      "latitude": 45.74129,
+      "longitude": 16.080515
+    },
+    {
+      "name": "10151 Zagreb",
+      "latitude": 45.804326,
+      "longitude": 15.993063
+    },
+    {
+      "name": "10153 Zagreb",
+      "latitude": 45.819253,
+      "longitude": 16.02591
+    },
+    {
+      "name": "10156 Zagreb",
+      "latitude": 45.790783,
+      "longitude": 15.969523
+    },
+    {
+      "name": "10158 Zagreb",
+      "latitude": 45.798785,
+      "longitude": 15.884364
+    },
+    {
+      "name": "10160 Zagreb",
+      "latitude": 45.77608,
+      "longitude": 15.9789
+    },
+    {
+      "name": "10162 Zagreb",
+      "latitude": 45.766881,
+      "longitude": 15.997665
+    },
+    {
+      "name": "10166 Zagreb",
+      "latitude": 45.876835,
+      "longitude": 16.015008
+    },
+    {
+      "name": "10168 Zagreb",
+      "latitude": 45.853454,
+      "longitude": 15.950828
+    },
+    {
+      "name": "10172 Zagreb",
+      "latitude": 45.817535,
+      "longitude": 15.833062
+    },
+    {
+      "name": "10173 Zagreb",
+      "latitude": 45.768135,
+      "longitude": 15.947125
+    },
+    {
+      "name": "10174 Zagreb",
+      "latitude": 45.825151,
+      "longitude": 16.079297
+    },
+    {
+      "name": "10175 Zagreb",
+      "latitude": 45.754917,
+      "longitude": 15.987741
+    },
+    {
+      "name": "10250 Lučko",
+      "latitude": 45.760505,
+      "longitude": 15.88688
+    },
+    {
+      "name": "10251 Hrvatski Leskovac",
+      "latitude": 45.744208,
+      "longitude": 15.889628
+    },
+    {
+      "name": "10252 Kupinečki Kraljevec",
+      "latitude": 45.671128,
+      "longitude": 15.872517
+    },
+    {
+      "name": "10253 Donji Dragonožec",
+      "latitude": 45.66115,
+      "longitude": 15.946633
+    },
+    {
+      "name": "10255 Gornji Stupnik",
+      "latitude": 45.755508,
+      "longitude": 15.838188
+    },
+    {
+      "name": "10256 Botinec",
+      "latitude": 45.755021,
+      "longitude": 15.937901
+    },
+    {
+      "name": "10257 Brezovica",
+      "latitude": 45.724356,
+      "longitude": 15.907574
+    },
+    {
+      "name": "10290 Zaprešić",
+      "latitude": 45.85857,
+      "longitude": 15.803256
+    },
+    {
+      "name": "10291 Prigorje Brdovečko",
+      "latitude": 45.877717,
+      "longitude": 15.739151
+    },
+    {
+      "name": "10292 Šenkovec",
+      "latitude": 45.886926,
+      "longitude": 15.697128
+    },
+    {
+      "name": "10293 Dubravica",
+      "latitude": 45.954504,
+      "longitude": 15.731666
+    },
+    {
+      "name": "10294 Donja Pušća",
+      "latitude": 45.916776,
+      "longitude": 15.777121
+    },
+    {
+      "name": "10295 Kupljenovo",
+      "latitude": 45.932309,
+      "longitude": 15.814528
+    },
+    {
+      "name": "10296 Luka",
+      "latitude": 45.959534,
+      "longitude": 15.819904
+    },
+    {
+      "name": "10297 Jakovlje",
+      "latitude": 45.947872,
+      "longitude": 15.848921
+    },
+    {
+      "name": "10298 Bistra",
+      "latitude": 45.900943,
+      "longitude": 15.866844
+    },
+    {
+      "name": "10299 Marija Gorica",
+      "latitude": 45.913117,
+      "longitude": 15.729445
+    },
+    {
+      "name": "10310 Ivanić Grad",
+      "latitude": 45.70646,
+      "longitude": 16.393501
+    },
+    {
+      "name": "10311 Posavski Bregi",
+      "latitude": 45.685686,
+      "longitude": 16.352563
+    },
+    {
+      "name": "10312 Kloštar Ivanić",
+      "latitude": 45.738507,
+      "longitude": 16.416375
+    },
+    {
+      "name": "10313 Graberje Ivanićko",
+      "latitude": 45.709739,
+      "longitude": 16.474861
+    },
+    {
+      "name": "10314 Križ",
+      "latitude": 45.664856,
+      "longitude": 16.520586
+    },
+    {
+      "name": "10315 Novoselec",
+      "latitude": 45.652193,
+      "longitude": 16.533049
+    },
+    {
+      "name": "10316 Lijevi Dubrovčak",
+      "latitude": 45.648279,
+      "longitude": 16.34133
+    },
+    {
+      "name": "10340 Vrbovec",
+      "latitude": 45.885637,
+      "longitude": 16.419121
+    },
+    {
+      "name": "10342 Dubrava",
+      "latitude": 45.837045,
+      "longitude": 16.535814
+    },
+    {
+      "name": "10343 Nova Kapela",
+      "latitude": 45.884874,
+      "longitude": 16.573757
+    },
+    {
+      "name": "10344 Farkaševac",
+      "latitude": 45.880817,
+      "longitude": 16.635927
+    },
+    {
+      "name": "10345 Gradec",
+      "latitude": 45.913856,
+      "longitude": 16.477652
+    },
+    {
+      "name": "10360 Sesvete",
+      "latitude": 45.827797,
+      "longitude": 16.111663
+    },
+    {
+      "name": "10361 Sesvetski Kraljevec",
+      "latitude": 45.816717,
+      "longitude": 16.174829
+    },
+    {
+      "name": "10362 Kašina",
+      "latitude": 45.910995,
+      "longitude": 16.124174
+    },
+    {
+      "name": "10363 Belovar",
+      "latitude": 45.88287,
+      "longitude": 16.176009
+    },
+    {
+      "name": "10365 Sesvete",
+      "latitude": 45.829161,
+      "longitude": 16.090976
+    },
+    {
+      "name": "10370 Dugo Selo",
+      "latitude": 45.805281,
+      "longitude": 16.235371
+    },
+    {
+      "name": "10372 Rugvica",
+      "latitude": 45.751493,
+      "longitude": 16.229317
+    },
+    {
+      "name": "10373 Ivanja Reka",
+      "latitude": 45.800207,
+      "longitude": 16.113587
+    },
+    {
+      "name": "10380 Sveti Ivan Zelina",
+      "latitude": 45.958534,
+      "longitude": 16.242323
+    },
+    {
+      "name": "10381 Bedenica",
+      "latitude": 46.033437,
+      "longitude": 16.249974
+    },
+    {
+      "name": "10382 Donja Zelina",
+      "latitude": 45.908757,
+      "longitude": 16.230215
+    },
+    {
+      "name": "10383 Komin",
+      "latitude": 46.003687,
+      "longitude": 16.284711
+    },
+    {
+      "name": "10407 Šćitarjevo",
+      "latitude": 45.773516,
+      "longitude": 16.11659
+    },
+    {
+      "name": "10408 Velika Mlaka",
+      "latitude": 45.733803,
+      "longitude": 16.026793
+    },
+    {
+      "name": "10409 Velika Gorica",
+      "latitude": 45.712981,
+      "longitude": 16.07667
+    },
+    {
+      "name": "10410 Velika Gorica",
+      "latitude": 45.713256,
+      "longitude": 16.070613
+    },
+    {
+      "name": "10411 Orle",
+      "latitude": 45.689033,
+      "longitude": 16.231904
+    },
+    {
+      "name": "10414 Pokupsko",
+      "latitude": 45.486063,
+      "longitude": 15.991987
+    },
+    {
+      "name": "10430 Samobor",
+      "latitude": 45.802654,
+      "longitude": 15.71003
+    },
+    {
+      "name": "10431 Sveta Nedelja",
+      "latitude": 45.796333,
+      "longitude": 15.775522
+    },
+    {
+      "name": "10432 Bregana",
+      "latitude": 45.839544,
+      "longitude": 15.686304
+    },
+    {
+      "name": "10433 Samobor",
+      "latitude": 45.800702,
+      "longitude": 15.725573
+    },
+    {
+      "name": "10434 Strmec",
+      "latitude": 45.812554,
+      "longitude": 15.78969
+    },
+    {
+      "name": "10435 Sveti Martin pod Okićem",
+      "latitude": 45.74887,
+      "longitude": 15.736552
+    },
+    {
+      "name": "10437 Bestovje",
+      "latitude": 45.808244,
+      "longitude": 15.816958
+    },
+    {
+      "name": "10450 Jastrebarsko",
+      "latitude": 45.673118,
+      "longitude": 15.653231
+    },
+    {
+      "name": "10451 Pisarovina",
+      "latitude": 45.58594,
+      "longitude": 15.860145
+    },
+    {
+      "name": "10454 Krašić",
+      "latitude": 45.654106,
+      "longitude": 15.516894
+    },
+    {
+      "name": "10455 Kostanjevac",
+      "latitude": 45.698846,
+      "longitude": 15.472707
+    },
+    {
+      "name": "10457 Sošice",
+      "latitude": 45.750735,
+      "longitude": 15.381484
+    },
+    {
+      "name": "20000 Dubrovnik",
+      "latitude": 42.651682,
+      "longitude": 18.093432
+    },
+    {
+      "name": "20103 Dubrovnik",
+      "latitude": 42.656719,
+      "longitude": 18.076777
+    },
+    {
+      "name": "20106 Dubrovnik",
+      "latitude": 42.649969,
+      "longitude": 18.083456
+    },
+    {
+      "name": "20108 Dubrovnik",
+      "latitude": 42.641021,
+      "longitude": 18.108104
+    },
+    {
+      "name": "20109 Dubrovnik",
+      "latitude": 42.647761,
+      "longitude": 18.075953
+    },
+    {
+      "name": "20205 Topolo",
+      "latitude": 42.908743,
+      "longitude": 17.706018
+    },
+    {
+      "name": "20207 Mlini",
+      "latitude": 42.625222,
+      "longitude": 18.192919
+    },
+    {
+      "name": "20210 Cavtat",
+      "latitude": 42.581118,
+      "longitude": 18.217571
+    },
+    {
+      "name": "20213 Čilipi",
+      "latitude": 42.550832,
+      "longitude": 18.285457
+    },
+    {
+      "name": "20215 Gruda",
+      "latitude": 42.517512,
+      "longitude": 18.375135
+    },
+    {
+      "name": "20216 Dubravka",
+      "latitude": 42.536358,
+      "longitude": 18.423533
+    },
+    {
+      "name": "20221 Koločep",
+      "latitude": 42.678877,
+      "longitude": 18.005938
+    },
+    {
+      "name": "20222 Lopud",
+      "latitude": 42.691319,
+      "longitude": 17.941851
+    },
+    {
+      "name": "20223 Šipanska Luka",
+      "latitude": 42.729709,
+      "longitude": 17.860327
+    },
+    {
+      "name": "20224 Maranovići",
+      "latitude": 42.71486,
+      "longitude": 17.668748
+    },
+    {
+      "name": "20225 Babino Polje",
+      "latitude": 42.735326,
+      "longitude": 17.5517
+    },
+    {
+      "name": "20226 Goveđari",
+      "latitude": 42.775463,
+      "longitude": 17.364379
+    },
+    {
+      "name": "20230 Ston",
+      "latitude": 42.837419,
+      "longitude": 17.695926
+    },
+    {
+      "name": "20232 Slano",
+      "latitude": 42.787906,
+      "longitude": 17.88979
+    },
+    {
+      "name": "20235 Zaton",
+      "latitude": 42.692127,
+      "longitude": 18.040185
+    },
+    {
+      "name": "20236 Mokošica",
+      "latitude": 42.675959,
+      "longitude": 18.109057
+    },
+    {
+      "name": "20240 Trpanj",
+      "latitude": 43.009069,
+      "longitude": 17.269168
+    },
+    {
+      "name": "20242 Oskorušno",
+      "latitude": 42.981221,
+      "longitude": 17.303929
+    },
+    {
+      "name": "20243 Kuna",
+      "latitude": 42.967715,
+      "longitude": 17.34431
+    },
+    {
+      "name": "20244 Potomje",
+      "latitude": 42.940249,
+      "longitude": 17.335813
+    },
+    {
+      "name": "20245 Trstenik",
+      "latitude": 42.916353,
+      "longitude": 17.398173
+    },
+    {
+      "name": "20246 Janjina",
+      "latitude": 42.924745,
+      "longitude": 17.43013
+    },
+    {
+      "name": "20247 Žuljana",
+      "latitude": 42.892426,
+      "longitude": 17.454733
+    },
+    {
+      "name": "20248 Putniković",
+      "latitude": 42.872493,
+      "longitude": 17.524769
+    },
+    {
+      "name": "20250 Orebić",
+      "latitude": 42.974014,
+      "longitude": 17.176898
+    },
+    {
+      "name": "20260 Korčula",
+      "latitude": 42.960737,
+      "longitude": 17.135323
+    },
+    {
+      "name": "20263 Lumbarda",
+      "latitude": 42.92269,
+      "longitude": 17.172609
+    },
+    {
+      "name": "20264 Račišće",
+      "latitude": 42.973801,
+      "longitude": 17.018783
+    },
+    {
+      "name": "20267 Kućište",
+      "latitude": 42.980826,
+      "longitude": 17.114544
+    },
+    {
+      "name": "20269 Lovište",
+      "latitude": 43.022697,
+      "longitude": 17.031817
+    },
+    {
+      "name": "20270 Vela Luka",
+      "latitude": 42.962396,
+      "longitude": 16.717891
+    },
+    {
+      "name": "20271 Blato",
+      "latitude": 42.939203,
+      "longitude": 16.789362
+    },
+    {
+      "name": "20272 Smokvica",
+      "latitude": 42.929003,
+      "longitude": 16.892479
+    },
+    {
+      "name": "20273 Čara",
+      "latitude": 42.935502,
+      "longitude": 16.934897
+    },
+    {
+      "name": "20274 Pupnat",
+      "latitude": 42.95094,
+      "longitude": 17.036962
+    },
+    {
+      "name": "20275 Žrnovo",
+      "latitude": 42.942042,
+      "longitude": 17.109879
+    },
+    {
+      "name": "20278 Nova Sela",
+      "latitude": 43.101267,
+      "longitude": 17.559034
+    },
+    {
+      "name": "20289 Ubli",
+      "latitude": 42.74327,
+      "longitude": 16.827081
+    },
+    {
+      "name": "20290 Lastovo",
+      "latitude": 42.768759,
+      "longitude": 16.895677
+    },
+    {
+      "name": "20340 Ploče",
+      "latitude": 43.049159,
+      "longitude": 17.433825
+    },
+    {
+      "name": "20341 Kula Norinska",
+      "latitude": 43.030247,
+      "longitude": 17.606407
+    },
+    {
+      "name": "20342 Otrić Seoci",
+      "latitude": 43.143892,
+      "longitude": 17.463923
+    },
+    {
+      "name": "20343 Rogotin",
+      "latitude": 43.046812,
+      "longitude": 17.476992
+    },
+    {
+      "name": "20344 Komin",
+      "latitude": 43.041717,
+      "longitude": 17.532812
+    },
+    {
+      "name": "20345 Staševica",
+      "latitude": 43.140096,
+      "longitude": 17.424971
+    },
+    {
+      "name": "20350 Metković",
+      "latitude": 43.053062,
+      "longitude": 17.647856
+    },
+    {
+      "name": "20352 Vid",
+      "latitude": 43.082506,
+      "longitude": 17.626683
+    },
+    {
+      "name": "20353 Mlinište",
+      "latitude": 42.992049,
+      "longitude": 17.614281
+    },
+    {
+      "name": "20355 Opuzen",
+      "latitude": 43.01678,
+      "longitude": 17.560489
+    },
+    {
+      "name": "20356 Klek",
+      "latitude": 42.946636,
+      "longitude": 17.563598
+    },
+    {
+      "name": "20357 Blace",
+      "latitude": 43.000775,
+      "longitude": 17.483523
+    },
+    {
+      "name": "21000 Split",
+      "latitude": 43.521354,
+      "longitude": 16.449348
+    },
+    {
+      "name": "21102 Split",
+      "latitude": 43.506182,
+      "longitude": 16.441981
+    },
+    {
+      "name": "21103 Split",
+      "latitude": 43.506016,
+      "longitude": 16.447385
+    },
+    {
+      "name": "21104 Split",
+      "latitude": 43.520345,
+      "longitude": 16.447123
+    },
+    {
+      "name": "21105 Split",
+      "latitude": 43.51248,
+      "longitude": 16.432666
+    },
+    {
+      "name": "21106 Split",
+      "latitude": 43.51606,
+      "longitude": 16.439294
+    },
+    {
+      "name": "21107 Split",
+      "latitude": 43.514502,
+      "longitude": 16.45483
+    },
+    {
+      "name": "21108 Split",
+      "latitude": 43.506564,
+      "longitude": 16.460361
+    },
+    {
+      "name": "21109 Split",
+      "latitude": 43.503369,
+      "longitude": 16.426802
+    },
+    {
+      "name": "21110 Split",
+      "latitude": 43.521074,
+      "longitude": 16.468581
+    },
+    {
+      "name": "21111 Split",
+      "latitude": 43.514743,
+      "longitude": 16.469467
+    },
+    {
+      "name": "21112 Split",
+      "latitude": 43.516493,
+      "longitude": 16.473185
+    },
+    {
+      "name": "21113 Split",
+      "latitude": 43.513291,
+      "longitude": 16.502501
+    },
+    {
+      "name": "21114 Split",
+      "latitude": 43.507459,
+      "longitude": 16.471536
+    },
+    {
+      "name": "21115 Split",
+      "latitude": 43.506479,
+      "longitude": 16.481469
+    },
+    {
+      "name": "21119 Split",
+      "latitude": 43.506314,
+      "longitude": 16.513855
+    },
+    {
+      "name": "21201 Prgomet",
+      "latitude": 43.608159,
+      "longitude": 16.224751
+    },
+    {
+      "name": "21202 Lećevica",
+      "latitude": 43.641576,
+      "longitude": 16.335422
+    },
+    {
+      "name": "21203 Donji Muć",
+      "latitude": 43.693828,
+      "longitude": 16.465863
+    },
+    {
+      "name": "21204 Dugopolje",
+      "latitude": 43.58408,
+      "longitude": 16.59669
+    },
+    {
+      "name": "21206 Donje Ogorje",
+      "latitude": 43.743606,
+      "longitude": 16.435348
+    },
+    {
+      "name": "21207 Kostanje",
+      "latitude": 43.440279,
+      "longitude": 16.834558
+    },
+    {
+      "name": "21208 Kučiće",
+      "latitude": 43.432502,
+      "longitude": 16.804729
+    },
+    {
+      "name": "21209 Mravince",
+      "latitude": 43.5326,
+      "longitude": 16.51938
+    },
+    {
+      "name": "21210 Solin",
+      "latitude": 43.536347,
+      "longitude": 16.489472
+    },
+    {
+      "name": "21211 Vranjic",
+      "latitude": 43.531861,
+      "longitude": 16.464956
+    },
+    {
+      "name": "21212 Kaštel Sućurac",
+      "latitude": 43.546182,
+      "longitude": 16.426287
+    },
+    {
+      "name": "21214 Kaštel Kambelovac",
+      "latitude": 43.550317,
+      "longitude": 16.384965
+    },
+    {
+      "name": "21215 Kaštel Lukšić",
+      "latitude": 43.551359,
+      "longitude": 16.362963
+    },
+    {
+      "name": "21216 Kaštel Stari",
+      "latitude": 43.550441,
+      "longitude": 16.341658
+    },
+    {
+      "name": "21217 Kaštel Štafilić",
+      "latitude": 43.550348,
+      "longitude": 16.335546
+    },
+    {
+      "name": "21218 Seget Donji",
+      "latitude": 43.519026,
+      "longitude": 16.230045
+    },
+    {
+      "name": "21219 Trogir",
+      "latitude": 43.517529,
+      "longitude": 16.251054
+    },
+    {
+      "name": "21220 Trogir",
+      "latitude": 43.523059,
+      "longitude": 16.250453
+    },
+    {
+      "name": "21222 Marina",
+      "latitude": 43.513356,
+      "longitude": 16.109015
+    },
+    {
+      "name": "21224 Slatine",
+      "latitude": 43.499854,
+      "longitude": 16.333589
+    },
+    {
+      "name": "21225 Drvenik Veliki",
+      "latitude": 43.448844,
+      "longitude": 16.145566
+    },
+    {
+      "name": "21226 Vinišće",
+      "latitude": 43.488902,
+      "longitude": 16.110305
+    },
+    {
+      "name": "21227 Primorski Dolac",
+      "latitude": 43.633322,
+      "longitude": 16.164061
+    },
+    {
+      "name": "21228 Blizna Donja",
+      "latitude": 43.590462,
+      "longitude": 16.094361
+    },
+    {
+      "name": "21230 Sinj",
+      "latitude": 43.702187,
+      "longitude": 16.638168
+    },
+    {
+      "name": "21231 Klis",
+      "latitude": 43.560661,
+      "longitude": 16.522054
+    },
+    {
+      "name": "21232 Dicmo",
+      "latitude": 43.63576,
+      "longitude": 16.593406
+    },
+    {
+      "name": "21233 Hrvace",
+      "latitude": 43.757317,
+      "longitude": 16.619782
+    },
+    {
+      "name": "21234 Brnaze",
+      "latitude": 43.681362,
+      "longitude": 16.650436
+    },
+    {
+      "name": "21236 Vrlika",
+      "latitude": 43.911186,
+      "longitude": 16.396877
+    },
+    {
+      "name": "21238 Otok",
+      "latitude": 43.687456,
+      "longitude": 16.73292
+    },
+    {
+      "name": "21240 Trilj",
+      "latitude": 43.618362,
+      "longitude": 16.725119
+    },
+    {
+      "name": "21241 Obrovac Sinjski",
+      "latitude": 43.729433,
+      "longitude": 16.696733
+    },
+    {
+      "name": "21242 Grab",
+      "latitude": 43.647951,
+      "longitude": 16.759489
+    },
+    {
+      "name": "21244 Cista Velika",
+      "latitude": 43.530708,
+      "longitude": 16.88455
+    },
+    {
+      "name": "21246 Aržano",
+      "latitude": 43.587307,
+      "longitude": 16.987913
+    },
+    {
+      "name": "21247 Neorić",
+      "latitude": 43.683563,
+      "longitude": 16.51889
+    },
+    {
+      "name": "21250 Šestanovac",
+      "latitude": 43.45404,
+      "longitude": 16.912032
+    },
+    {
+      "name": "21251 Žrnovnica",
+      "latitude": 43.518642,
+      "longitude": 16.557486
+    },
+    {
+      "name": "21252 Tugare",
+      "latitude": 43.477295,
+      "longitude": 16.626597
+    },
+    {
+      "name": "21253 Gata",
+      "latitude": 43.463897,
+      "longitude": 16.711684
+    },
+    {
+      "name": "21255 Zadvarje",
+      "latitude": 43.432682,
+      "longitude": 16.891832
+    },
+    {
+      "name": "21256 Cista Provo",
+      "latitude": 43.504848,
+      "longitude": 16.948236
+    },
+    {
+      "name": "21257 Lovreć",
+      "latitude": 43.4879,
+      "longitude": 16.984985
+    },
+    {
+      "name": "21260 Imotski",
+      "latitude": 43.445867,
+      "longitude": 17.216939
+    },
+    {
+      "name": "21261 Runović",
+      "latitude": 43.386875,
+      "longitude": 17.242025
+    },
+    {
+      "name": "21262 Kamenmost",
+      "latitude": 43.429178,
+      "longitude": 17.191756
+    },
+    {
+      "name": "21263 Krivodol",
+      "latitude": 43.424823,
+      "longitude": 17.129921
+    },
+    {
+      "name": "21264 Donji Proložac",
+      "latitude": 43.468577,
+      "longitude": 17.15346
+    },
+    {
+      "name": "21265 Studenci",
+      "latitude": 43.530257,
+      "longitude": 17.032284
+    },
+    {
+      "name": "21266 Zmijavci",
+      "latitude": 43.408886,
+      "longitude": 17.210162
+    },
+    {
+      "name": "21268 Drum",
+      "latitude": 43.416906,
+      "longitude": 17.174998
+    },
+    {
+      "name": "21270 Zagvozd",
+      "latitude": 43.399482,
+      "longitude": 17.052126
+    },
+    {
+      "name": "21271 Grabovac",
+      "latitude": 43.428857,
+      "longitude": 16.989179
+    },
+    {
+      "name": "21272 Slivno",
+      "latitude": 43.341891,
+      "longitude": 17.221315
+    },
+    {
+      "name": "21275 Dragljane",
+      "latitude": 43.248154,
+      "longitude": 17.233654
+    },
+    {
+      "name": "21276 Vrgorac",
+      "latitude": 43.204287,
+      "longitude": 17.371561
+    },
+    {
+      "name": "21277 Veliki Prolog",
+      "latitude": 43.178576,
+      "longitude": 17.431157
+    },
+    {
+      "name": "21285 Solin",
+      "latitude": 43.541467,
+      "longitude": 16.476166
+    },
+    {
+      "name": "21292 Srinjine",
+      "latitude": 43.491014,
+      "longitude": 16.601109
+    },
+    {
+      "name": "21300 Makarska",
+      "latitude": 43.295611,
+      "longitude": 17.017565
+    },
+    {
+      "name": "21310 Omiš",
+      "latitude": 43.444302,
+      "longitude": 16.692198
+    },
+    {
+      "name": "21311 Stobreč",
+      "latitude": 43.50261,
+      "longitude": 16.523346
+    },
+    {
+      "name": "21312 Podstrana",
+      "latitude": 43.48138,
+      "longitude": 16.559327
+    },
+    {
+      "name": "21314 Jesenice",
+      "latitude": 43.460776,
+      "longitude": 16.596718
+    },
+    {
+      "name": "21315 Dugi Rat",
+      "latitude": 43.44464,
+      "longitude": 16.641233
+    },
+    {
+      "name": "21317 Lokva Rogoznica",
+      "latitude": 43.407316,
+      "longitude": 16.781966
+    },
+    {
+      "name": "21318 Mimice",
+      "latitude": 43.406165,
+      "longitude": 16.808026
+    },
+    {
+      "name": "21320 Baška Voda",
+      "latitude": 43.35622,
+      "longitude": 16.949368
+    },
+    {
+      "name": "21322 Brela",
+      "latitude": 43.367409,
+      "longitude": 16.931604
+    },
+    {
+      "name": "21323 Promajna",
+      "latitude": 43.333472,
+      "longitude": 16.972633
+    },
+    {
+      "name": "21325 Tučepi",
+      "latitude": 43.264581,
+      "longitude": 17.057552
+    },
+    {
+      "name": "21327 Podgora",
+      "latitude": 43.240657,
+      "longitude": 17.076944
+    },
+    {
+      "name": "21328 Drašnice",
+      "latitude": 43.217228,
+      "longitude": 17.109494
+    },
+    {
+      "name": "21329 Igrane",
+      "latitude": 43.195478,
+      "longitude": 17.139179
+    },
+    {
+      "name": "21330 Gradac",
+      "latitude": 43.104635,
+      "longitude": 17.342797
+    },
+    {
+      "name": "21333 Drvenik",
+      "latitude": 43.156101,
+      "longitude": 17.246933
+    },
+    {
+      "name": "21334 Zaostrog",
+      "latitude": 43.140006,
+      "longitude": 17.278159
+    },
+    {
+      "name": "21335 Podaca",
+      "latitude": 43.123225,
+      "longitude": 17.301957
+    },
+    {
+      "name": "21400 Supetar",
+      "latitude": 43.384578,
+      "longitude": 16.552127
+    },
+    {
+      "name": "21403 Sutivan",
+      "latitude": 43.384385,
+      "longitude": 16.479535
+    },
+    {
+      "name": "21404 Ložišća",
+      "latitude": 43.348672,
+      "longitude": 16.479731
+    },
+    {
+      "name": "21405 Milna",
+      "latitude": 43.327919,
+      "longitude": 16.447994
+    },
+    {
+      "name": "21410 Postira",
+      "latitude": 43.37585,
+      "longitude": 16.62789
+    },
+    {
+      "name": "21412 Pučišća",
+      "latitude": 43.349094,
+      "longitude": 16.734647
+    },
+    {
+      "name": "21413 Povlja",
+      "latitude": 43.332422,
+      "longitude": 16.836199
+    },
+    {
+      "name": "21414 Gornji Humac",
+      "latitude": 43.298389,
+      "longitude": 16.721225
+    },
+    {
+      "name": "21420 Bol",
+      "latitude": 43.261997,
+      "longitude": 16.656747
+    },
+    {
+      "name": "21423 Nerežišća",
+      "latitude": 43.330316,
+      "longitude": 16.573706
+    },
+    {
+      "name": "21424 Pražnica",
+      "latitude": 43.320892,
+      "longitude": 16.696111
+    },
+    {
+      "name": "21425 Selca",
+      "latitude": 43.295945,
+      "longitude": 16.848227
+    },
+    {
+      "name": "21426 Sumartin",
+      "latitude": 43.28678,
+      "longitude": 16.87101
+    },
+    {
+      "name": "21429 Бачко Ново Село",
+      "latitude": 45.293957,
+      "longitude": 19.141299
+    },
+    {
+      "name": "21430 Grohote",
+      "latitude": 43.391323,
+      "longitude": 16.285858
+    },
+    {
+      "name": "21432 Stomorska",
+      "latitude": 43.371052,
+      "longitude": 16.352991
+    },
+    {
+      "name": "21450 Hvar",
+      "latitude": 43.171096,
+      "longitude": 16.441546
+    },
+    {
+      "name": "21454 Brusje",
+      "latitude": 43.190613,
+      "longitude": 16.48782
+    },
+    {
+      "name": "21460 Stari Grad",
+      "latitude": 43.183039,
+      "longitude": 16.595227
+    },
+    {
+      "name": "21462 Vrbanj",
+      "latitude": 43.166262,
+      "longitude": 16.645288
+    },
+    {
+      "name": "21463 Vrboska",
+      "latitude": 43.181068,
+      "longitude": 16.672637
+    },
+    {
+      "name": "21465 Jelsa",
+      "latitude": 43.161935,
+      "longitude": 16.690368
+    },
+    {
+      "name": "21466 Zastražišće",
+      "latitude": 43.144288,
+      "longitude": 16.840687
+    },
+    {
+      "name": "21467 Gdinj",
+      "latitude": 43.131963,
+      "longitude": 16.943229
+    },
+    {
+      "name": "21468 Bogomolje",
+      "latitude": 43.1311,
+      "longitude": 16.997311
+    },
+    {
+      "name": "21469 Sućuraj",
+      "latitude": 43.125949,
+      "longitude": 17.188316
+    },
+    {
+      "name": "21483 Podšpilje",
+      "latitude": 43.028229,
+      "longitude": 16.13661
+    },
+    {
+      "name": "21485 Komiža",
+      "latitude": 43.045149,
+      "longitude": 16.089939
+    },
+    {
+      "name": "22000 Šibenik",
+      "latitude": 43.746922,
+      "longitude": 15.885121
+    },
+    {
+      "name": "22030 Zablaće",
+      "latitude": 43.707675,
+      "longitude": 15.872376
+    },
+    {
+      "name": "22101 Šibenik",
+      "latitude": 43.736507,
+      "longitude": 15.891697
+    },
+    {
+      "name": "22102 Šibenik",
+      "latitude": 43.72908,
+      "longitude": 15.9019
+    },
+    {
+      "name": "22103 Šibenik",
+      "latitude": 43.743365,
+      "longitude": 15.898564
+    },
+    {
+      "name": "22104 Šibenik",
+      "latitude": 43.732354,
+      "longitude": 15.89675
+    },
+    {
+      "name": "22105 Šibenik",
+      "latitude": 43.722793,
+      "longitude": 15.906127
+    },
+    {
+      "name": "22106 Šibenik",
+      "latitude": 43.711854,
+      "longitude": 15.912593
+    },
+    {
+      "name": "22108 Šibenik",
+      "latitude": 43.679033,
+      "longitude": 15.919101
+    },
+    {
+      "name": "221254 Blato na Cetini",
+      "latitude": 43.487708,
+      "longitude": 16.831854
+    },
+    {
+      "name": "22203 Rogoznica",
+      "latitude": 43.528232,
+      "longitude": 15.968068
+    },
+    {
+      "name": "22205 Perković",
+      "latitude": 43.676375,
+      "longitude": 16.117537
+    },
+    {
+      "name": "22211 Vodice",
+      "latitude": 43.758123,
+      "longitude": 15.776444
+    },
+    {
+      "name": "22214 Čista Velika",
+      "latitude": 43.892831,
+      "longitude": 15.767341
+    },
+    {
+      "name": "22215 Zaton",
+      "latitude": 43.787042,
+      "longitude": 15.823275
+    },
+    {
+      "name": "22221 Lozovac",
+      "latitude": 43.779671,
+      "longitude": 15.964112
+    },
+    {
+      "name": "22222 Skradin",
+      "latitude": 43.819763,
+      "longitude": 15.922351
+    },
+    {
+      "name": "22232 Zlarin",
+      "latitude": 43.696724,
+      "longitude": 15.835561
+    },
+    {
+      "name": "22233 Prvić Luka",
+      "latitude": 43.72453,
+      "longitude": 15.799996
+    },
+    {
+      "name": "22234 Prvić Šepurine",
+      "latitude": 43.7344,
+      "longitude": 15.786867
+    },
+    {
+      "name": "22235 Kaprije",
+      "latitude": 43.688643,
+      "longitude": 15.708749
+    },
+    {
+      "name": "22236 Žirje",
+      "latitude": 43.656859,
+      "longitude": 15.652313
+    },
+    {
+      "name": "22242 Jezera",
+      "latitude": 43.785434,
+      "longitude": 15.644498
+    },
+    {
+      "name": "22243 Murter",
+      "latitude": 43.822176,
+      "longitude": 15.592516
+    },
+    {
+      "name": "22244 Betina",
+      "latitude": 43.822635,
+      "longitude": 15.604933
+    },
+    {
+      "name": "22259 Батровци",
+      "latitude": 45.046405,
+      "longitude": 19.107226
+    },
+    {
+      "name": "22300 Knin",
+      "latitude": 44.036801,
+      "longitude": 16.197135
+    },
+    {
+      "name": "22301 Golubić",
+      "latitude": 44.097933,
+      "longitude": 16.21763
+    },
+    {
+      "name": "22303 Oklaj",
+      "latitude": 43.961918,
+      "longitude": 16.078349
+    },
+    {
+      "name": "22305 Kistanje",
+      "latitude": 43.984367,
+      "longitude": 15.970882
+    },
+    {
+      "name": "22310 Kijevo",
+      "latitude": 43.967468,
+      "longitude": 16.364148
+    },
+    {
+      "name": "22320 Drniš",
+      "latitude": 43.858451,
+      "longitude": 16.157495
+    },
+    {
+      "name": "22321 Siverić",
+      "latitude": 43.877538,
+      "longitude": 16.194729
+    },
+    {
+      "name": "22322 Ružić",
+      "latitude": 43.823591,
+      "longitude": 16.276882
+    },
+    {
+      "name": "22323 Unešić",
+      "latitude": 43.741983,
+      "longitude": 16.182946
+    },
+    {
+      "name": "22324 Drinovci",
+      "latitude": 43.851376,
+      "longitude": 16.017279
+    },
+    {
+      "name": "23000 Zadar",
+      "latitude": 44.109687,
+      "longitude": 15.235583
+    },
+    {
+      "name": "23103 Zadar",
+      "latitude": 44.115932,
+      "longitude": 15.225286
+    },
+    {
+      "name": "23105 Zadar",
+      "latitude": 44.128806,
+      "longitude": 15.230921
+    },
+    {
+      "name": "23106 Zadar",
+      "latitude": 44.12057,
+      "longitude": 15.25582
+    },
+    {
+      "name": "23107 Zadar",
+      "latitude": 44.115202,
+      "longitude": 15.253307
+    },
+    {
+      "name": "23205 Bibinje",
+      "latitude": 44.070329,
+      "longitude": 15.287478
+    },
+    {
+      "name": "23206 Sukošan",
+      "latitude": 44.046476,
+      "longitude": 15.313978
+    },
+    {
+      "name": "23207 Sveti Filip i Jakov",
+      "latitude": 43.961112,
+      "longitude": 15.423974
+    },
+    {
+      "name": "23210 Biograd na Moru",
+      "latitude": 43.937069,
+      "longitude": 15.443568
+    },
+    {
+      "name": "23211 Pakoštane",
+      "latitude": 43.906922,
+      "longitude": 15.508382
+    },
+    {
+      "name": "23212 Tkon",
+      "latitude": 43.921776,
+      "longitude": 15.418021
+    },
+    {
+      "name": "23222 Zemunik",
+      "latitude": 44.105096,
+      "longitude": 15.378721
+    },
+    {
+      "name": "23223 Škabrnja",
+      "latitude": 44.091411,
+      "longitude": 15.451328
+    },
+    {
+      "name": "23226 Pridraga",
+      "latitude": 44.144109,
+      "longitude": 15.582834
+    },
+    {
+      "name": "23231 Petrčane",
+      "latitude": 44.186333,
+      "longitude": 15.160352
+    },
+    {
+      "name": "23232 Nin",
+      "latitude": 44.239826,
+      "longitude": 15.181365
+    },
+    {
+      "name": "23233 Privlaka",
+      "latitude": 44.261377,
+      "longitude": 15.119231
+    },
+    {
+      "name": "23235 Vrsi",
+      "latitude": 44.261464,
+      "longitude": 15.233516
+    },
+    {
+      "name": "23241 Poličnik",
+      "latitude": 44.177552,
+      "longitude": 15.375548
+    },
+    {
+      "name": "23242 Posedarje",
+      "latitude": 44.210631,
+      "longitude": 15.47582
+    },
+    {
+      "name": "23243 Jasenice",
+      "latitude": 44.225258,
+      "longitude": 15.547189
+    },
+    {
+      "name": "23244 Starigrad Paklenica",
+      "latitude": 44.291693,
+      "longitude": 15.442476
+    },
+    {
+      "name": "23248 Ražanac",
+      "latitude": 44.28159,
+      "longitude": 15.347158
+    },
+    {
+      "name": "23249 Povljana",
+      "latitude": 44.346997,
+      "longitude": 15.111503
+    },
+    {
+      "name": "23250 Pag",
+      "latitude": 44.446803,
+      "longitude": 15.053458
+    },
+    {
+      "name": "23251 Kolan",
+      "latitude": 44.494995,
+      "longitude": 14.958991
+    },
+    {
+      "name": "23262 Pašman",
+      "latitude": 43.9556,
+      "longitude": 15.389126
+    },
+    {
+      "name": "23263 Ždrelac",
+      "latitude": 44.011046,
+      "longitude": 15.278464
+    },
+    {
+      "name": "23264 Neviđane",
+      "latitude": 43.977236,
+      "longitude": 15.340943
+    },
+    {
+      "name": "23271 Kukljica",
+      "latitude": 44.03318,
+      "longitude": 15.246425
+    },
+    {
+      "name": "23273 Preko",
+      "latitude": 44.079994,
+      "longitude": 15.189332
+    },
+    {
+      "name": "23274 Lukoran",
+      "latitude": 44.104472,
+      "longitude": 15.153841
+    },
+    {
+      "name": "23275 Ugljan",
+      "latitude": 44.129667,
+      "longitude": 15.104464
+    },
+    {
+      "name": "23281 Sali",
+      "latitude": 43.937722,
+      "longitude": 15.16594
+    },
+    {
+      "name": "23282 Žman",
+      "latitude": 43.969747,
+      "longitude": 15.115948
+    },
+    {
+      "name": "23283 Rava",
+      "latitude": 44.022881,
+      "longitude": 15.059611
+    },
+    {
+      "name": "23284 Veli Iž",
+      "latitude": 44.049615,
+      "longitude": 15.109653
+    },
+    {
+      "name": "23285 Brbinj",
+      "latitude": 44.074143,
+      "longitude": 15.001555
+    },
+    {
+      "name": "23286 Božava",
+      "latitude": 44.140178,
+      "longitude": 14.905114
+    },
+    {
+      "name": "23287 Veli Rat",
+      "latitude": 44.141472,
+      "longitude": 14.851486
+    },
+    {
+      "name": "23291 Sestrunj",
+      "latitude": 44.150486,
+      "longitude": 14.998656
+    },
+    {
+      "name": "23292 Molat",
+      "latitude": 44.213482,
+      "longitude": 14.878957
+    },
+    {
+      "name": "23293 Ist",
+      "latitude": 44.273973,
+      "longitude": 14.76631
+    },
+    {
+      "name": "23294 Premuda",
+      "latitude": 44.34283,
+      "longitude": 14.601076
+    },
+    {
+      "name": "23295 Silba",
+      "latitude": 44.374748,
+      "longitude": 14.69538
+    },
+    {
+      "name": "23296 Olib",
+      "latitude": 44.377734,
+      "longitude": 14.77888
+    },
+    {
+      "name": "23422 Stankovci",
+      "latitude": 43.902071,
+      "longitude": 15.701128
+    },
+    {
+      "name": "23423 Polača",
+      "latitude": 44.016483,
+      "longitude": 15.51702
+    },
+    {
+      "name": "23440 Gračac",
+      "latitude": 44.297558,
+      "longitude": 15.843373
+    },
+    {
+      "name": "23445 Srb",
+      "latitude": 44.364101,
+      "longitude": 16.124239
+    },
+    {
+      "name": "23450 Obrovac",
+      "latitude": 44.200667,
+      "longitude": 15.685265
+    },
+    {
+      "name": "23452 Karin",
+      "latitude": 44.133214,
+      "longitude": 15.62703
+    },
+    {
+      "name": "25272 Бачки Моноштор",
+      "latitude": 45.793531,
+      "longitude": 18.933462
+    },
+    {
+      "name": "31000 Osijek",
+      "latitude": 45.560088,
+      "longitude": 18.686047
+    },
+    {
+      "name": "31103 Osijek",
+      "latitude": 45.554885,
+      "longitude": 18.719225
+    },
+    {
+      "name": "31104 Osijek",
+      "latitude": 45.561056,
+      "longitude": 18.67862
+    },
+    {
+      "name": "31105 Osijek",
+      "latitude": 45.553017,
+      "longitude": 18.675497
+    },
+    {
+      "name": "31106 Osijek",
+      "latitude": 45.561098,
+      "longitude": 18.652928
+    },
+    {
+      "name": "31107 Osijek",
+      "latitude": 45.544192,
+      "longitude": 18.656427
+    },
+    {
+      "name": "31108 Osijek",
+      "latitude": 45.546191,
+      "longitude": 18.679836
+    },
+    {
+      "name": "31110 Osijek",
+      "latitude": 45.544643,
+      "longitude": 18.709926
+    },
+    {
+      "name": "31111 Osijek",
+      "latitude": 45.543093,
+      "longitude": 18.718855
+    },
+    {
+      "name": "31112 Osijek",
+      "latitude": 45.551036,
+      "longitude": 18.69499
+    },
+    {
+      "name": "31204 Bijelo Brdo",
+      "latitude": 45.517979,
+      "longitude": 18.871848
+    },
+    {
+      "name": "31205 Aljmaš",
+      "latitude": 45.528635,
+      "longitude": 18.950385
+    },
+    {
+      "name": "31206 Erdut",
+      "latitude": 45.523611,
+      "longitude": 19.056337
+    },
+    {
+      "name": "31207 Tenja",
+      "latitude": 45.501098,
+      "longitude": 18.748763
+    },
+    {
+      "name": "31208 Petrijevci",
+      "latitude": 45.61658,
+      "longitude": 18.535627
+    },
+    {
+      "name": "31214 Laslovo",
+      "latitude": 45.414265,
+      "longitude": 18.705832
+    },
+    {
+      "name": "31215 Ernestinovo",
+      "latitude": 45.452689,
+      "longitude": 18.65816
+    },
+    {
+      "name": "31216 Antunovac",
+      "latitude": 45.48795,
+      "longitude": 18.67312
+    },
+    {
+      "name": "31220 Višnjevac",
+      "latitude": 45.564592,
+      "longitude": 18.619718
+    },
+    {
+      "name": "31222 Bizovac",
+      "latitude": 45.592352,
+      "longitude": 18.458336
+    },
+    {
+      "name": "31223 Brođanci",
+      "latitude": 45.54387,
+      "longitude": 18.449344
+    },
+    {
+      "name": "31224 Koška",
+      "latitude": 45.545423,
+      "longitude": 18.2865
+    },
+    {
+      "name": "31225 Breznica Našička",
+      "latitude": 45.533285,
+      "longitude": 18.19539
+    },
+    {
+      "name": "31226 Dalj",
+      "latitude": 45.486452,
+      "longitude": 18.984045
+    },
+    {
+      "name": "31300 Beli Manastir",
+      "latitude": 45.768882,
+      "longitude": 18.597956
+    },
+    {
+      "name": "31302 Kneževo",
+      "latitude": 45.845167,
+      "longitude": 18.643479
+    },
+    {
+      "name": "31305 Draž",
+      "latitude": 45.836218,
+      "longitude": 18.790985
+    },
+    {
+      "name": "31306 Batina",
+      "latitude": 45.851967,
+      "longitude": 18.851967
+    },
+    {
+      "name": "31307 Zmajevac",
+      "latitude": 45.80021,
+      "longitude": 18.806395
+    },
+    {
+      "name": "31309 Kneževi Vinogradi",
+      "latitude": 45.749264,
+      "longitude": 18.732716
+    },
+    {
+      "name": "31315 Karanac",
+      "latitude": 45.759986,
+      "longitude": 18.685969
+    },
+    {
+      "name": "31321 Petlovac",
+      "latitude": 45.757561,
+      "longitude": 18.5314
+    },
+    {
+      "name": "31322 Baranjsko Petrovo Selo",
+      "latitude": 45.755164,
+      "longitude": 18.469993
+    },
+    {
+      "name": "31324 Jagodnjak",
+      "latitude": 45.700682,
+      "longitude": 18.583215
+    },
+    {
+      "name": "31325 Čeminac",
+      "latitude": 45.686529,
+      "longitude": 18.667603
+    },
+    {
+      "name": "31326 Darda",
+      "latitude": 45.626304,
+      "longitude": 18.688116
+    },
+    {
+      "name": "31327 Bilje",
+      "latitude": 45.602941,
+      "longitude": 18.743826
+    },
+    {
+      "name": "31400 Đakovo",
+      "latitude": 45.31033,
+      "longitude": 18.410155
+    },
+    {
+      "name": "31401 Viškovci",
+      "latitude": 45.345425,
+      "longitude": 18.45861
+    },
+    {
+      "name": "31405 Đakovo",
+      "latitude": 45.30673,
+      "longitude": 18.414039
+    },
+    {
+      "name": "31417 Piškorevci",
+      "latitude": 45.252749,
+      "longitude": 18.400299
+    },
+    {
+      "name": "31418 Drenje",
+      "latitude": 45.380429,
+      "longitude": 18.280388
+    },
+    {
+      "name": "31422 Gorjani",
+      "latitude": 45.398478,
+      "longitude": 18.374342
+    },
+    {
+      "name": "31431 Čepin",
+      "latitude": 45.523074,
+      "longitude": 18.564124
+    },
+    {
+      "name": "31433 Podgorač",
+      "latitude": 45.457081,
+      "longitude": 18.221968
+    },
+    {
+      "name": "31500 Našice",
+      "latitude": 45.491501,
+      "longitude": 18.095017
+    },
+    {
+      "name": "31511 Đurđenovac",
+      "latitude": 45.541898,
+      "longitude": 18.050516
+    },
+    {
+      "name": "31512 Feričanci",
+      "latitude": 45.524166,
+      "longitude": 17.978021
+    },
+    {
+      "name": "31513 Donja Motičina",
+      "latitude": 45.495536,
+      "longitude": 18.019482
+    },
+    {
+      "name": "31530 Podravska Moslavina",
+      "latitude": 45.785125,
+      "longitude": 17.980688
+    },
+    {
+      "name": "31531 Viljevo",
+      "latitude": 45.75224,
+      "longitude": 18.064106
+    },
+    {
+      "name": "31540 Donji Miholjac",
+      "latitude": 45.762035,
+      "longitude": 18.165965
+    },
+    {
+      "name": "31542 Magadenovac",
+      "latitude": 45.655527,
+      "longitude": 18.186037
+    },
+    {
+      "name": "31543 Miholjački Poreč",
+      "latitude": 45.698176,
+      "longitude": 18.197438
+    },
+    {
+      "name": "31550 Valpovo",
+      "latitude": 45.65748,
+      "longitude": 18.418512
+    },
+    {
+      "name": "31551 Belišće",
+      "latitude": 45.686996,
+      "longitude": 18.407574
+    },
+    {
+      "name": "31554 Gat",
+      "latitude": 45.699188,
+      "longitude": 18.32381
+    },
+    {
+      "name": "32000 Vukovar",
+      "latitude": 45.352145,
+      "longitude": 19.002601
+    },
+    {
+      "name": "32010 Vukovar",
+      "latitude": 45.378685,
+      "longitude": 18.959159
+    },
+    {
+      "name": "32011 Vukovar",
+      "latitude": 45.340517,
+      "longitude": 19.0177
+    },
+    {
+      "name": "32100 Vinkovci",
+      "latitude": 45.289736,
+      "longitude": 18.804825
+    },
+    {
+      "name": "32101 Vinkovci",
+      "latitude": 45.299761,
+      "longitude": 18.801884
+    },
+    {
+      "name": "32103 Vinkovci",
+      "latitude": 45.290994,
+      "longitude": 18.76965
+    },
+    {
+      "name": "32212 Gaboš",
+      "latitude": 45.353079,
+      "longitude": 18.736958
+    },
+    {
+      "name": "32213 Markušica",
+      "latitude": 45.374291,
+      "longitude": 18.706137
+    },
+    {
+      "name": "32214 Tordinci",
+      "latitude": 45.370031,
+      "longitude": 18.794605
+    },
+    {
+      "name": "32221 Nuštar",
+      "latitude": 45.332725,
+      "longitude": 18.841372
+    },
+    {
+      "name": "32222 Bršadin",
+      "latitude": 45.361158,
+      "longitude": 18.904296
+    },
+    {
+      "name": "32224 Trpinja",
+      "latitude": 45.419035,
+      "longitude": 18.900105
+    },
+    {
+      "name": "32225 Bobota",
+      "latitude": 45.42144,
+      "longitude": 18.856757
+    },
+    {
+      "name": "32227 Borovo",
+      "latitude": 45.402501,
+      "longitude": 18.978806
+    },
+    {
+      "name": "32229 Petrovci",
+      "latitude": 45.287876,
+      "longitude": 18.945971
+    },
+    {
+      "name": "32232 Sotin",
+      "latitude": 45.296121,
+      "longitude": 19.09647
+    },
+    {
+      "name": "32234 Šarengrad",
+      "latitude": 45.233463,
+      "longitude": 19.282793
+    },
+    {
+      "name": "32235 Bapska",
+      "latitude": 45.195245,
+      "longitude": 19.263268
+    },
+    {
+      "name": "32236 Ilok",
+      "latitude": 45.223429,
+      "longitude": 19.370722
+    },
+    {
+      "name": "32237 Lovas",
+      "latitude": 45.226461,
+      "longitude": 19.167777
+    },
+    {
+      "name": "32238 Čakovci",
+      "latitude": 45.235883,
+      "longitude": 19.058111
+    },
+    {
+      "name": "32239 Negoslavci",
+      "latitude": 45.278022,
+      "longitude": 18.996767
+    },
+    {
+      "name": "32241 Stari Jankovci",
+      "latitude": 45.260019,
+      "longitude": 18.910839
+    },
+    {
+      "name": "32242 Slakovci",
+      "latitude": 45.219961,
+      "longitude": 18.948529
+    },
+    {
+      "name": "32243 Orolik",
+      "latitude": 45.215084,
+      "longitude": 18.985076
+    },
+    {
+      "name": "32244 Đeletovci",
+      "latitude": 45.181191,
+      "longitude": 19.011803
+    },
+    {
+      "name": "32245 Nijemci",
+      "latitude": 45.139851,
+      "longitude": 19.034928
+    },
+    {
+      "name": "32246 Lipovac",
+      "latitude": 45.055711,
+      "longitude": 19.072687
+    },
+    {
+      "name": "32248 Ilača",
+      "latitude": 45.182144,
+      "longitude": 19.094475
+    },
+    {
+      "name": "32249 Tovarnik",
+      "latitude": 45.164856,
+      "longitude": 19.152235
+    },
+    {
+      "name": "32251 Privlaka",
+      "latitude": 45.194461,
+      "longitude": 18.837565
+    },
+    {
+      "name": "32252 Otok",
+      "latitude": 45.147421,
+      "longitude": 18.88399
+    },
+    {
+      "name": "32253 Komletinci",
+      "latitude": 45.149442,
+      "longitude": 18.947018
+    },
+    {
+      "name": "32254 Vrbanja",
+      "latitude": 44.979929,
+      "longitude": 18.927525
+    },
+    {
+      "name": "32255 Soljani",
+      "latitude": 44.951715,
+      "longitude": 18.977511
+    },
+    {
+      "name": "32256 Strošinci",
+      "latitude": 44.91503,
+      "longitude": 19.066395
+    },
+    {
+      "name": "32257 Drenovci",
+      "latitude": 44.919317,
+      "longitude": 18.910046
+    },
+    {
+      "name": "32258 Posavski Podgajci",
+      "latitude": 44.946103,
+      "longitude": 18.831644
+    },
+    {
+      "name": "32259 Gunja",
+      "latitude": 44.888302,
+      "longitude": 18.826672
+    },
+    {
+      "name": "32270 Županja",
+      "latitude": 45.075333,
+      "longitude": 18.696176
+    },
+    {
+      "name": "32271 Rokovci-Andrijaševci",
+      "latitude": 45.228454,
+      "longitude": 18.741862
+    },
+    {
+      "name": "32272 Cerna",
+      "latitude": 45.18855,
+      "longitude": 18.688738
+    },
+    {
+      "name": "32273 Gradište",
+      "latitude": 45.147405,
+      "longitude": 18.705867
+    },
+    {
+      "name": "32274 Štitar",
+      "latitude": 45.094162,
+      "longitude": 18.640275
+    },
+    {
+      "name": "32275 Bošnjaci",
+      "latitude": 45.050489,
+      "longitude": 18.754596
+    },
+    {
+      "name": "32276 Babina Greda",
+      "latitude": 45.11489,
+      "longitude": 18.536577
+    },
+    {
+      "name": "32281 Ivankovo",
+      "latitude": 45.288011,
+      "longitude": 18.683747
+    },
+    {
+      "name": "32282 Retkovci",
+      "latitude": 45.233992,
+      "longitude": 18.65326
+    },
+    {
+      "name": "32284 Stari Mikanovci",
+      "latitude": 45.285599,
+      "longitude": 18.55495
+    },
+    {
+      "name": "33000 Virovitica",
+      "latitude": 45.831784,
+      "longitude": 17.384101
+    },
+    {
+      "name": "33404 Špišić Bukovica",
+      "latitude": 45.86237,
+      "longitude": 17.302575
+    },
+    {
+      "name": "33405 Pitomača",
+      "latitude": 45.948601,
+      "longitude": 17.231914
+    },
+    {
+      "name": "33407 Gornje Bazje",
+      "latitude": 45.906472,
+      "longitude": 17.441149
+    },
+    {
+      "name": "33514 Čačinci",
+      "latitude": 45.600948,
+      "longitude": 17.867396
+    },
+    {
+      "name": "33517 Mikleuš",
+      "latitude": 45.613664,
+      "longitude": 17.805672
+    },
+    {
+      "name": "33520 Slatina",
+      "latitude": 45.704338,
+      "longitude": 17.704435
+    },
+    {
+      "name": "33522 Voćin",
+      "latitude": 45.619724,
+      "longitude": 17.549245
+    },
+    {
+      "name": "33523 Čađavica",
+      "latitude": 45.742405,
+      "longitude": 17.855699
+    },
+    {
+      "name": "33533 Pivnica Slavonska",
+      "latitude": 45.714115,
+      "longitude": 17.482232
+    },
+    {
+      "name": "34000 Požega",
+      "latitude": 45.335083,
+      "longitude": 17.677759
+    },
+    {
+      "name": "34303 Požega",
+      "latitude": 45.336439,
+      "longitude": 17.685184
+    },
+    {
+      "name": "34304 Požega",
+      "latitude": 45.331602,
+      "longitude": 17.670319
+    },
+    {
+      "name": "34308 Jakšić",
+      "latitude": 45.357971,
+      "longitude": 17.76695
+    },
+    {
+      "name": "34310 Pleternica",
+      "latitude": 45.28633,
+      "longitude": 17.802664
+    },
+    {
+      "name": "34312 Sesvete",
+      "latitude": 45.341578,
+      "longitude": 17.835164
+    },
+    {
+      "name": "34322 Brestovac",
+      "latitude": 45.330787,
+      "longitude": 17.596151
+    },
+    {
+      "name": "34330 Velika",
+      "latitude": 45.443751,
+      "longitude": 17.66469
+    },
+    {
+      "name": "34334 Kaptol",
+      "latitude": 45.432132,
+      "longitude": 17.724693
+    },
+    {
+      "name": "34340 Kutjevo",
+      "latitude": 45.421736,
+      "longitude": 17.880709
+    },
+    {
+      "name": "34350 Čaglin",
+      "latitude": 45.348691,
+      "longitude": 17.989183
+    },
+    {
+      "name": "34543 Poljana",
+      "latitude": 45.468151,
+      "longitude": 16.98035
+    },
+    {
+      "name": "34550 Pakrac",
+      "latitude": 45.435668,
+      "longitude": 17.193921
+    },
+    {
+      "name": "34551 Lipik",
+      "latitude": 45.413261,
+      "longitude": 17.162977
+    },
+    {
+      "name": "34552 Badljevina",
+      "latitude": 45.51334,
+      "longitude": 17.192819
+    },
+    {
+      "name": "35000 Slavonski Brod",
+      "latitude": 45.163198,
+      "longitude": 18.009865
+    },
+    {
+      "name": "35101 Slavonski Brod",
+      "latitude": 45.157301,
+      "longitude": 18.01204
+    },
+    {
+      "name": "35102 Slavonski Brod",
+      "latitude": 45.16246,
+      "longitude": 18.018818
+    },
+    {
+      "name": "35103 Slavonski Brod",
+      "latitude": 45.158788,
+      "longitude": 18.023972
+    },
+    {
+      "name": "35104 Slavonski Brod",
+      "latitude": 45.166147,
+      "longitude": 17.996355
+    },
+    {
+      "name": "35105 Slavonski Brod",
+      "latitude": 45.182417,
+      "longitude": 17.994483
+    },
+    {
+      "name": "35106 Slavonski Brod",
+      "latitude": 45.157933,
+      "longitude": 18.033463
+    },
+    {
+      "name": "35108 Slavonski Brod",
+      "latitude": 45.165444,
+      "longitude": 18.012185
+    },
+    {
+      "name": "35208 Ruščica",
+      "latitude": 45.146957,
+      "longitude": 18.079419
+    },
+    {
+      "name": "35212 Garčin",
+      "latitude": 45.182026,
+      "longitude": 18.180298
+    },
+    {
+      "name": "35220 Slavonski Šamac",
+      "latitude": 45.066745,
+      "longitude": 18.481246
+    },
+    {
+      "name": "35252 Sibinj",
+      "latitude": 45.190122,
+      "longitude": 17.911807
+    },
+    {
+      "name": "35400 Nova Gradiška",
+      "latitude": 45.258907,
+      "longitude": 17.381259
+    },
+    {
+      "name": "35403 Rešetari",
+      "latitude": 45.260871,
+      "longitude": 17.423767
+    },
+    {
+      "name": "35420 Staro Petrovo Selo",
+      "latitude": 45.23198,
+      "longitude": 17.513212
+    },
+    {
+      "name": "35430 Okučani",
+      "latitude": 45.259393,
+      "longitude": 17.200769
+    },
+    {
+      "name": "35435 Stara Gradiška",
+      "latitude": 45.14774,
+      "longitude": 17.241764
+    },
+    {
+      "name": "40000 Čakovec",
+      "latitude": 46.391296,
+      "longitude": 16.434474
+    },
+    {
+      "name": "40101 Čakovec",
+      "latitude": 46.379286,
+      "longitude": 16.442896
+    },
+    {
+      "name": "40311 Lopatinec",
+      "latitude": 46.439031,
+      "longitude": 16.379425
+    },
+    {
+      "name": "40312 Štrigova",
+      "latitude": 46.500884,
+      "longitude": 16.287117
+    },
+    {
+      "name": "40313 Sveti Martin na Muri",
+      "latitude": 46.52528,
+      "longitude": 16.362837
+    },
+    {
+      "name": "40316 Vratišinec",
+      "latitude": 46.477256,
+      "longitude": 16.455502
+    },
+    {
+      "name": "40321 Mala Subotica",
+      "latitude": 46.375359,
+      "longitude": 16.528324
+    },
+    {
+      "name": "40322 Orehovica",
+      "latitude": 46.32868,
+      "longitude": 16.506431
+    },
+    {
+      "name": "40323 Prelog",
+      "latitude": 46.337254,
+      "longitude": 16.6157
+    },
+    {
+      "name": "40324 Goričan",
+      "latitude": 46.384517,
+      "longitude": 16.674905
+    },
+    {
+      "name": "40326 Sveta Marija",
+      "latitude": 46.332306,
+      "longitude": 16.74456
+    },
+    {
+      "name": "40328 Donja Dubrava",
+      "latitude": 46.315732,
+      "longitude": 16.811571
+    },
+    {
+      "name": "40329 Kotoriba",
+      "latitude": 46.353858,
+      "longitude": 16.811115
+    },
+    {
+      "name": "42000 Varaždin",
+      "latitude": 46.305521,
+      "longitude": 16.336384
+    },
+    {
+      "name": "42103 Varaždin",
+      "latitude": 46.310939,
+      "longitude": 16.345014
+    },
+    {
+      "name": "42104 Varaždin",
+      "latitude": 46.297963,
+      "longitude": 16.338243
+    },
+    {
+      "name": "42201 Beretinec",
+      "latitude": 46.248495,
+      "longitude": 16.306522
+    },
+    {
+      "name": "42203 Jalžabet",
+      "latitude": 46.257868,
+      "longitude": 16.473152
+    },
+    {
+      "name": "42204 Turčin",
+      "latitude": 46.252956,
+      "longitude": 16.361345
+    },
+    {
+      "name": "42207 Vinica",
+      "latitude": 46.334282,
+      "longitude": 16.152312
+    },
+    {
+      "name": "42208 Cestica",
+      "latitude": 46.369899,
+      "longitude": 16.127706
+    },
+    {
+      "name": "42209 Sračinec",
+      "latitude": 46.328183,
+      "longitude": 16.284033
+    },
+    {
+      "name": "42214 Sveti Ilija",
+      "latitude": 46.244987,
+      "longitude": 16.325192
+    },
+    {
+      "name": "42222 Ljubešćica",
+      "latitude": 46.171374,
+      "longitude": 16.388118
+    },
+    {
+      "name": "42223 Varaždinske Toplice",
+      "latitude": 46.209835,
+      "longitude": 16.422128
+    },
+    {
+      "name": "42225 Breznički Hum",
+      "latitude": 46.10378,
+      "longitude": 16.280984
+    },
+    {
+      "name": "42226 Bisag",
+      "latitude": 46.033217,
+      "longitude": 16.299754
+    },
+    {
+      "name": "42230 Ludbreg",
+      "latitude": 46.250165,
+      "longitude": 16.618799
+    },
+    {
+      "name": "42232 Martijanec",
+      "latitude": 46.264247,
+      "longitude": 16.543866
+    },
+    {
+      "name": "42233 Sveti Đurđ",
+      "latitude": 46.281761,
+      "longitude": 16.605022
+    },
+    {
+      "name": "42240 Ivanec",
+      "latitude": 46.22464,
+      "longitude": 16.124718
+    },
+    {
+      "name": "42244 Klenovnik",
+      "latitude": 46.26901,
+      "longitude": 16.077467
+    },
+    {
+      "name": "42250 Lepoglava",
+      "latitude": 46.209715,
+      "longitude": 16.038066
+    },
+    {
+      "name": "42253 Bednja",
+      "latitude": 46.228457,
+      "longitude": 15.982881
+    },
+    {
+      "name": "43000 Bjelovar",
+      "latitude": 45.89888,
+      "longitude": 16.840849
+    },
+    {
+      "name": "43212 Rovišće",
+      "latitude": 45.94576,
+      "longitude": 16.732023
+    },
+    {
+      "name": "43226 Veliko Trojstvo",
+      "latitude": 45.931653,
+      "longitude": 16.929686
+    },
+    {
+      "name": "43227 Šandrovac",
+      "latitude": 45.905377,
+      "longitude": 17.027286
+    },
+    {
+      "name": "43231 Ivanska",
+      "latitude": 45.783224,
+      "longitude": 16.803839
+    },
+    {
+      "name": "43240 Čazma",
+      "latitude": 45.747939,
+      "longitude": 16.614704
+    },
+    {
+      "name": "43245 Gornji Draganec",
+      "latitude": 45.784686,
+      "longitude": 16.649309
+    },
+    {
+      "name": "43246 Štefanje",
+      "latitude": 45.804772,
+      "longitude": 16.717605
+    },
+    {
+      "name": "43247 Narta",
+      "latitude": 45.833963,
+      "longitude": 16.810523
+    },
+    {
+      "name": "43251 Gudovac",
+      "latitude": 45.880998,
+      "longitude": 16.785501
+    },
+    {
+      "name": "43270 Veliki Grđevac",
+      "latitude": 45.751659,
+      "longitude": 17.049504
+    },
+    {
+      "name": "43271 Velika Pisanica",
+      "latitude": 45.802084,
+      "longitude": 17.065551
+    },
+    {
+      "name": "43272 Nova Rača",
+      "latitude": 45.800264,
+      "longitude": 16.955552
+    },
+    {
+      "name": "43273 Bulinac",
+      "latitude": 45.816558,
+      "longitude": 16.981359
+    },
+    {
+      "name": "43274 Severin",
+      "latitude": 45.839749,
+      "longitude": 16.96577
+    },
+    {
+      "name": "43280 Garešnica",
+      "latitude": 45.574829,
+      "longitude": 16.942097
+    },
+    {
+      "name": "43283 Kaniška Iva",
+      "latitude": 45.528866,
+      "longitude": 16.922888
+    },
+    {
+      "name": "43284 Hercegovac",
+      "latitude": 45.655402,
+      "longitude": 17.007952
+    },
+    {
+      "name": "43290 Grubišno Polje",
+      "latitude": 45.702749,
+      "longitude": 17.171618
+    },
+    {
+      "name": "43293 Veliki Zdenci",
+      "latitude": 45.674039,
+      "longitude": 17.10748
+    },
+    {
+      "name": "43500 Daruvar",
+      "latitude": 45.593048,
+      "longitude": 17.222858
+    },
+    {
+      "name": "43505 Končanica",
+      "latitude": 45.637788,
+      "longitude": 17.164827
+    },
+    {
+      "name": "43532 Đulovac",
+      "latitude": 45.664362,
+      "longitude": 17.432289
+    },
+    {
+      "name": "43541 Sirač",
+      "latitude": 45.527627,
+      "longitude": 17.257116
+    },
+    {
+      "name": "44000 Sisak",
+      "latitude": 45.488328,
+      "longitude": 16.372506
+    },
+    {
+      "name": "44010 Sisak-Caprag",
+      "latitude": 45.457831,
+      "longitude": 16.387309
+    },
+    {
+      "name": "44103 Sisak",
+      "latitude": 45.471676,
+      "longitude": 16.365399
+    },
+    {
+      "name": "44104 Sisak",
+      "latitude": 45.478326,
+      "longitude": 16.391094
+    },
+    {
+      "name": "44105 Sisak",
+      "latitude": 45.495511,
+      "longitude": 16.36536
+    },
+    {
+      "name": "44201 Martinska Ves",
+      "latitude": 45.584617,
+      "longitude": 16.370425
+    },
+    {
+      "name": "44250 Petrinja",
+      "latitude": 45.441633,
+      "longitude": 16.28374
+    },
+    {
+      "name": "44316 Velika Ludina",
+      "latitude": 45.610688,
+      "longitude": 16.58612
+    },
+    {
+      "name": "44317 Popovača",
+      "latitude": 45.571994,
+      "longitude": 16.626336
+    },
+    {
+      "name": "44320 Kutina",
+      "latitude": 45.483089,
+      "longitude": 16.777422
+    },
+    {
+      "name": "44321 Banova Jaruga",
+      "latitude": 45.441252,
+      "longitude": 16.90365
+    },
+    {
+      "name": "44322 Lipovljani",
+      "latitude": 45.399644,
+      "longitude": 16.892457
+    },
+    {
+      "name": "44323 Rajić",
+      "latitude": 45.303887,
+      "longitude": 17.112219
+    },
+    {
+      "name": "44324 Jasenovac",
+      "latitude": 45.268697,
+      "longitude": 16.909622
+    },
+    {
+      "name": "44400 Glina",
+      "latitude": 45.340682,
+      "longitude": 16.089295
+    },
+    {
+      "name": "44415 Topusko",
+      "latitude": 45.291576,
+      "longitude": 15.968521
+    },
+    {
+      "name": "44430 Hrvatska Kostajnica",
+      "latitude": 45.226792,
+      "longitude": 16.542286
+    },
+    {
+      "name": "47000 Karlovac",
+      "latitude": 45.49475,
+      "longitude": 15.553605
+    },
+    {
+      "name": "47104 Karlovac",
+      "latitude": 45.499924,
+      "longitude": 15.546672
+    },
+    {
+      "name": "47105 Karlovac",
+      "latitude": 45.496041,
+      "longitude": 15.532685
+    },
+    {
+      "name": "47106 Karlovac",
+      "latitude": 45.462547,
+      "longitude": 15.569374
+    },
+    {
+      "name": "47107 Karlovac",
+      "latitude": 45.488346,
+      "longitude": 15.543694
+    },
+    {
+      "name": "47108 Karlovac",
+      "latitude": 45.48151,
+      "longitude": 15.549125
+    },
+    {
+      "name": "47201 Draganić",
+      "latitude": 45.595242,
+      "longitude": 15.598115
+    },
+    {
+      "name": "47206 Lasinja",
+      "latitude": 45.528776,
+      "longitude": 15.857226
+    },
+    {
+      "name": "47212 Skakavac",
+      "latitude": 45.450076,
+      "longitude": 15.68691
+    },
+    {
+      "name": "47220 Vojnić",
+      "latitude": 45.324697,
+      "longitude": 15.695055
+    },
+    {
+      "name": "47222 Cetingrad",
+      "latitude": 45.159991,
+      "longitude": 15.740468
+    },
+    {
+      "name": "47240 Slunj",
+      "latitude": 45.114391,
+      "longitude": 15.584028
+    },
+    {
+      "name": "47241 Cerovac Vukmanićki",
+      "latitude": 45.427047,
+      "longitude": 15.606036
+    },
+    {
+      "name": "47242 Krnjak",
+      "latitude": 45.337625,
+      "longitude": 15.608842
+    },
+    {
+      "name": "47245 Rakovica",
+      "latitude": 44.992705,
+      "longitude": 15.649456
+    },
+    {
+      "name": "47250 Duga Resa",
+      "latitude": 45.449051,
+      "longitude": 15.499249
+    },
+    {
+      "name": "47251 Bosiljevo",
+      "latitude": 45.411862,
+      "longitude": 15.289378
+    },
+    {
+      "name": "47252 Barilović",
+      "latitude": 45.380923,
+      "longitude": 15.546536
+    },
+    {
+      "name": "47262 Generalski Stol",
+      "latitude": 45.346652,
+      "longitude": 15.380482
+    },
+    {
+      "name": "47264 Tounj",
+      "latitude": 45.250578,
+      "longitude": 15.332658
+    },
+    {
+      "name": "47271 Netretić",
+      "latitude": 45.507843,
+      "longitude": 15.414414
+    },
+    {
+      "name": "47272 Ribnik",
+      "latitude": 45.575521,
+      "longitude": 15.350394
+    },
+    {
+      "name": "47276 Žakanje",
+      "latitude": 45.61665,
+      "longitude": 15.32425
+    },
+    {
+      "name": "47280 Ozalj",
+      "latitude": 45.61226,
+      "longitude": 15.477164
+    },
+    {
+      "name": "47282 Kamanje",
+      "latitude": 45.633207,
+      "longitude": 15.394982
+    },
+    {
+      "name": "47286 Mahićno",
+      "latitude": 45.556323,
+      "longitude": 15.531732
+    },
+    {
+      "name": "47300 Ogulin",
+      "latitude": 45.264431,
+      "longitude": 15.226003
+    },
+    {
+      "name": "47303 Josipdol",
+      "latitude": 45.189268,
+      "longitude": 15.284618
+    },
+    {
+      "name": "47304 Plaški",
+      "latitude": 45.082832,
+      "longitude": 15.36479
+    },
+    {
+      "name": "47306 Saborsko",
+      "latitude": 44.977447,
+      "longitude": 15.492261
+    },
+    {
+      "name": "48000 Koprivnica",
+      "latitude": 46.163466,
+      "longitude": 16.829089
+    },
+    {
+      "name": "48214 Sveti Ivan Žabno",
+      "latitude": 45.94843,
+      "longitude": 16.606229
+    },
+    {
+      "name": "48260 Križevci",
+      "latitude": 46.022606,
+      "longitude": 16.54475
+    },
+    {
+      "name": "48306 Sokolovac",
+      "latitude": 46.106502,
+      "longitude": 16.708594
+    },
+    {
+      "name": "48312 Rasinja",
+      "latitude": 46.188804,
+      "longitude": 16.709158
+    },
+    {
+      "name": "48314 Koprivnički Ivanec",
+      "latitude": 46.201292,
+      "longitude": 16.814842
+    },
+    {
+      "name": "48323 Hlebine",
+      "latitude": 46.151608,
+      "longitude": 16.96649
+    },
+    {
+      "name": "48325 Novigrad Podravski",
+      "latitude": 46.075548,
+      "longitude": 16.948186
+    },
+    {
+      "name": "48331 Gola",
+      "latitude": 46.198274,
+      "longitude": 17.058369
+    },
+    {
+      "name": "48350 Đurđevac",
+      "latitude": 46.040935,
+      "longitude": 17.068718
+    },
+    {
+      "name": "48361 Kalinovac",
+      "latitude": 46.025393,
+      "longitude": 17.114003
+    },
+    {
+      "name": "48363 Podravske Sesvete",
+      "latitude": 46.002315,
+      "longitude": 17.21221
+    },
+    {
+      "name": "49000 Krapina",
+      "latitude": 46.163138,
+      "longitude": 15.871714
+    },
+    {
+      "name": "49210 Zabok",
+      "latitude": 46.029443,
+      "longitude": 15.910148
+    },
+    {
+      "name": "49214 Veliko Trgovišće",
+      "latitude": 46.002491,
+      "longitude": 15.844465
+    },
+    {
+      "name": "49215 Tuhelj",
+      "latitude": 46.075493,
+      "longitude": 15.747678
+    },
+    {
+      "name": "49216 Desinić",
+      "latitude": 46.148673,
+      "longitude": 15.669394
+    },
+    {
+      "name": "49217 Krapinske Toplice",
+      "latitude": 46.091258,
+      "longitude": 15.835587
+    },
+    {
+      "name": "49218 Pregrada",
+      "latitude": 46.163361,
+      "longitude": 15.750339
+    },
+    {
+      "name": "49219 Vinogora",
+      "latitude": 46.165427,
+      "longitude": 15.696076
+    },
+    {
+      "name": "49221 Bedekovčina",
+      "latitude": 46.042548,
+      "longitude": 15.998072
+    },
+    {
+      "name": "49222 Poznanovec",
+      "latitude": 46.050362,
+      "longitude": 16.028944
+    },
+    {
+      "name": "49223 Sveti Križ Začretje",
+      "latitude": 46.081731,
+      "longitude": 15.907503
+    },
+    {
+      "name": "49225 Đurmanec",
+      "latitude": 46.197109,
+      "longitude": 15.840608
+    },
+    {
+      "name": "49231 Hum na Sutli",
+      "latitude": 46.222574,
+      "longitude": 15.699023
+    },
+    {
+      "name": "49232 Radoboj",
+      "latitude": 46.164138,
+      "longitude": 15.919662
+    },
+    {
+      "name": "49233 Gornje Jesenje",
+      "latitude": 46.206405,
+      "longitude": 15.907834
+    },
+    {
+      "name": "49234 Petrovsko",
+      "latitude": 46.167608,
+      "longitude": 15.840566
+    },
+    {
+      "name": "49240 Donja Stubica",
+      "latitude": 45.980412,
+      "longitude": 15.972029
+    },
+    {
+      "name": "49243 Oroslavje",
+      "latitude": 45.99627,
+      "longitude": 15.915406
+    },
+    {
+      "name": "49244 Stubičke Toplice",
+      "latitude": 45.977209,
+      "longitude": 15.932007
+    },
+    {
+      "name": "49245 Gornja Stubica",
+      "latitude": 45.975348,
+      "longitude": 16.018061
+    },
+    {
+      "name": "49246 Marija Bistrica",
+      "latitude": 46.006142,
+      "longitude": 16.119752
+    },
+    {
+      "name": "49247 Zlatar Bistrica",
+      "latitude": 46.046545,
+      "longitude": 16.083982
+    },
+    {
+      "name": "49250 Zlatar",
+      "latitude": 46.089298,
+      "longitude": 16.080027
+    },
+    {
+      "name": "49251 Mače",
+      "latitude": 46.093026,
+      "longitude": 16.043052
+    },
+    {
+      "name": "49252 Mihovljan",
+      "latitude": 46.13407,
+      "longitude": 15.969279
+    },
+    {
+      "name": "49253 Lobor",
+      "latitude": 46.150262,
+      "longitude": 16.06524
+    },
+    {
+      "name": "49254 Belec",
+      "latitude": 46.131797,
+      "longitude": 16.121084
+    },
+    {
+      "name": "49255 Novi Golubovec",
+      "latitude": 46.172585,
+      "longitude": 15.985875
+    },
+    {
+      "name": "49282 Konjščina",
+      "latitude": 46.05296,
+      "longitude": 16.178346
+    },
+    {
+      "name": "49283 Hrašćina-Trgovišće",
+      "latitude": 46.10726,
+      "longitude": 16.217235
+    },
+    {
+      "name": "49284 Budinščina",
+      "latitude": 46.127066,
+      "longitude": 16.204023
+    },
+    {
+      "name": "49290 Klanjec",
+      "latitude": 46.050197,
+      "longitude": 15.740004
+    },
+    {
+      "name": "49294 Kraljevec na Sutli",
+      "latitude": 45.984927,
+      "longitude": 15.727813
+    },
+    {
+      "name": "49295 Kumrovec",
+      "latitude": 46.075984,
+      "longitude": 15.679196
+    },
+    {
+      "name": "49296 Zagorska Sela",
+      "latitude": 46.095669,
+      "longitude": 15.633336
+    },
+    {
+      "name": "51000 Rijeka",
+      "latitude": 45.330858,
+      "longitude": 14.427689
+    },
+    {
+      "name": "51101 Hrvatska pošta",
+      "latitude": 45.327279,
+      "longitude": 14.440075
+    },
+    {
+      "name": "51103 Rijeka",
+      "latitude": 45.324901,
+      "longitude": 14.453129
+    },
+    {
+      "name": "51104 Rijeka",
+      "latitude": 45.332619,
+      "longitude": 14.439252
+    },
+    {
+      "name": "51105 Rijeka",
+      "latitude": 45.338275,
+      "longitude": 14.383943
+    },
+    {
+      "name": "51106 Rijeka",
+      "latitude": 45.344359,
+      "longitude": 14.382898
+    },
+    {
+      "name": "51107 Rijeka",
+      "latitude": 45.326597,
+      "longitude": 14.446816
+    },
+    {
+      "name": "51108 Rijeka",
+      "latitude": 45.340298,
+      "longitude": 14.409625
+    },
+    {
+      "name": "51109 Rijeka",
+      "latitude": 45.320256,
+      "longitude": 14.475537
+    },
+    {
+      "name": "51110 Rijeka",
+      "latitude": 45.324252,
+      "longitude": 14.462889
+    },
+    {
+      "name": "51112 Rijeka",
+      "latitude": 45.353556,
+      "longitude": 14.43183
+    },
+    {
+      "name": "51114 Rijeka",
+      "latitude": 45.355975,
+      "longitude": 14.366857
+    },
+    {
+      "name": "51115 Rijeka",
+      "latitude": 45.339581,
+      "longitude": 14.419784
+    },
+    {
+      "name": "51116 Rijeka",
+      "latitude": 45.33585,
+      "longitude": 14.427676
+    },
+    {
+      "name": "51118 Rijeka",
+      "latitude": 45.346906,
+      "longitude": 14.420521
+    },
+    {
+      "name": "51211 Matulji",
+      "latitude": 45.363945,
+      "longitude": 14.324968
+    },
+    {
+      "name": "51212 Vele Mune",
+      "latitude": 45.458213,
+      "longitude": 14.165647
+    },
+    {
+      "name": "51213 Jurdani",
+      "latitude": 45.395634,
+      "longitude": 14.310114
+    },
+    {
+      "name": "51214 Šapjane",
+      "latitude": 45.480688,
+      "longitude": 14.253171
+    },
+    {
+      "name": "51215 Kastav",
+      "latitude": 45.372675,
+      "longitude": 14.34902
+    },
+    {
+      "name": "51216 Viškovo",
+      "latitude": 45.381116,
+      "longitude": 14.386064
+    },
+    {
+      "name": "51217 Klana",
+      "latitude": 45.447791,
+      "longitude": 14.375844
+    },
+    {
+      "name": "51218 Dražice",
+      "latitude": 45.388936,
+      "longitude": 14.466451
+    },
+    {
+      "name": "51219 Čavle",
+      "latitude": 45.356735,
+      "longitude": 14.48777
+    },
+    {
+      "name": "51221 Kostrena",
+      "latitude": 45.309866,
+      "longitude": 14.492698
+    },
+    {
+      "name": "51223 Škrljevo",
+      "latitude": 45.319265,
+      "longitude": 14.534023
+    },
+    {
+      "name": "51224 Krasica",
+      "latitude": 45.311848,
+      "longitude": 14.5516
+    },
+    {
+      "name": "51226 Hreljin",
+      "latitude": 45.283121,
+      "longitude": 14.599595
+    },
+    {
+      "name": "51227 Kukuljanovo",
+      "latitude": 45.337422,
+      "longitude": 14.503926
+    },
+    {
+      "name": "51241 Križišće",
+      "latitude": 45.260732,
+      "longitude": 14.611936
+    },
+    {
+      "name": "51242 Drivenik",
+      "latitude": 45.240583,
+      "longitude": 14.649572
+    },
+    {
+      "name": "51243 Tribalj",
+      "latitude": 45.220358,
+      "longitude": 14.677652
+    },
+    {
+      "name": "51244 Grižane",
+      "latitude": 45.202204,
+      "longitude": 14.71854
+    },
+    {
+      "name": "51250 Novi Vinodolski",
+      "latitude": 45.12573,
+      "longitude": 14.792517
+    },
+    {
+      "name": "51251 Ledenice",
+      "latitude": 45.136878,
+      "longitude": 14.842863
+    },
+    {
+      "name": "51252 Klenovica",
+      "latitude": 45.102428,
+      "longitude": 14.844026
+    },
+    {
+      "name": "51253 Bribir",
+      "latitude": 45.161949,
+      "longitude": 14.760566
+    },
+    {
+      "name": "51260 Crikvenica",
+      "latitude": 45.172621,
+      "longitude": 14.691398
+    },
+    {
+      "name": "51261 Bakarac",
+      "latitude": 45.279434,
+      "longitude": 14.581923
+    },
+    {
+      "name": "51262 Kraljevica",
+      "latitude": 45.273871,
+      "longitude": 14.568989
+    },
+    {
+      "name": "51263 Šmrika",
+      "latitude": 45.256189,
+      "longitude": 14.597438
+    },
+    {
+      "name": "51264 Jadranovo",
+      "latitude": 45.227401,
+      "longitude": 14.617945
+    },
+    {
+      "name": "51266 Selce",
+      "latitude": 45.157399,
+      "longitude": 14.720045
+    },
+    {
+      "name": "51280 Rab",
+      "latitude": 44.760985,
+      "longitude": 14.760631
+    },
+    {
+      "name": "51281 Lopar",
+      "latitude": 44.830419,
+      "longitude": 14.730688
+    },
+    {
+      "name": "51300 Delnice",
+      "latitude": 45.392343,
+      "longitude": 14.796955
+    },
+    {
+      "name": "51301 Brod na Kupi",
+      "latitude": 45.462924,
+      "longitude": 14.852824
+    },
+    {
+      "name": "51303 Plešce",
+      "latitude": 45.547126,
+      "longitude": 14.687539
+    },
+    {
+      "name": "51304 Gerovo",
+      "latitude": 45.514381,
+      "longitude": 14.641255
+    },
+    {
+      "name": "51305 Tršće",
+      "latitude": 45.565345,
+      "longitude": 14.628834
+    },
+    {
+      "name": "51306 Čabar",
+      "latitude": 45.596524,
+      "longitude": 14.647001
+    },
+    {
+      "name": "51307 Prezid",
+      "latitude": 45.638501,
+      "longitude": 14.576879
+    },
+    {
+      "name": "51311 Skrad",
+      "latitude": 45.43152,
+      "longitude": 14.906308
+    },
+    {
+      "name": "51312 Brod Moravice",
+      "latitude": 45.463474,
+      "longitude": 14.970933
+    },
+    {
+      "name": "51313 Kupjak",
+      "latitude": 45.3893,
+      "longitude": 14.884666
+    },
+    {
+      "name": "51314 Ravna Gora",
+      "latitude": 45.373434,
+      "longitude": 14.939178
+    },
+    {
+      "name": "51315 Mrkopalj",
+      "latitude": 45.315641,
+      "longitude": 14.851906
+    },
+    {
+      "name": "51316 Lokve",
+      "latitude": 45.358617,
+      "longitude": 14.749605
+    },
+    {
+      "name": "51317 Crni Lug",
+      "latitude": 45.418628,
+      "longitude": 14.703838
+    },
+    {
+      "name": "51322 Fužine",
+      "latitude": 45.304643,
+      "longitude": 14.713055
+    },
+    {
+      "name": "51323 Lič",
+      "latitude": 45.27864,
+      "longitude": 14.720547
+    },
+    {
+      "name": "51324 Zlobin",
+      "latitude": 45.288827,
+      "longitude": 14.65184
+    },
+    {
+      "name": "51325 Moravice",
+      "latitude": 45.426331,
+      "longitude": 15.008778
+    },
+    {
+      "name": "51326 Vrbovsko",
+      "latitude": 45.374601,
+      "longitude": 15.072126
+    },
+    {
+      "name": "51327 Gomirje",
+      "latitude": 45.336111,
+      "longitude": 15.120462
+    },
+    {
+      "name": "51328 Lukovdol",
+      "latitude": 45.428712,
+      "longitude": 15.125473
+    },
+    {
+      "name": "51329 Severin na Kupi",
+      "latitude": 45.419593,
+      "longitude": 15.171827
+    },
+    {
+      "name": "51410 Opatija",
+      "latitude": 45.338881,
+      "longitude": 14.30797
+    },
+    {
+      "name": "51413 Opatija",
+      "latitude": 45.347105,
+      "longitude": 14.318866
+    },
+    {
+      "name": "51414 Ičići",
+      "latitude": 45.311907,
+      "longitude": 14.285454
+    },
+    {
+      "name": "51415 Lovran",
+      "latitude": 45.293744,
+      "longitude": 14.276411
+    },
+    {
+      "name": "51417 Mošćenička Draga",
+      "latitude": 45.238247,
+      "longitude": 14.254285
+    },
+    {
+      "name": "51500 Krk",
+      "latitude": 45.025998,
+      "longitude": 14.572493
+    },
+    {
+      "name": "51511 Malinska",
+      "latitude": 45.125758,
+      "longitude": 14.527233
+    },
+    {
+      "name": "51512 Njivice",
+      "latitude": 45.164846,
+      "longitude": 14.541605
+    },
+    {
+      "name": "51513 Omišalj",
+      "latitude": 45.211242,
+      "longitude": 14.555063
+    },
+    {
+      "name": "51514 Dobrinj",
+      "latitude": 45.130614,
+      "longitude": 14.603291
+    },
+    {
+      "name": "51515 Šilo",
+      "latitude": 45.145437,
+      "longitude": 14.662485
+    },
+    {
+      "name": "51516 Vrbnik",
+      "latitude": 45.07631,
+      "longitude": 14.675997
+    },
+    {
+      "name": "51517 Kornić",
+      "latitude": 45.044499,
+      "longitude": 14.611932
+    },
+    {
+      "name": "51521 Punat",
+      "latitude": 45.022278,
+      "longitude": 14.62862
+    },
+    {
+      "name": "51522 Draga Bašćanska",
+      "latitude": 44.994779,
+      "longitude": 14.715653
+    },
+    {
+      "name": "51523 Baška",
+      "latitude": 44.970277,
+      "longitude": 14.753933
+    },
+    {
+      "name": "51550 Mali Lošinj",
+      "latitude": 44.529651,
+      "longitude": 14.476224
+    },
+    {
+      "name": "51551 Veli Lošinj",
+      "latitude": 44.521132,
+      "longitude": 14.501389
+    },
+    {
+      "name": "51552 Ilovik",
+      "latitude": 44.461885,
+      "longitude": 14.546948
+    },
+    {
+      "name": "51553 Mali Lošinj",
+      "latitude": 44.534411,
+      "longitude": 14.467474
+    },
+    {
+      "name": "51554 Nerezine",
+      "latitude": 44.658659,
+      "longitude": 14.396251
+    },
+    {
+      "name": "51556 Martinščica",
+      "latitude": 44.819858,
+      "longitude": 14.350763
+    },
+    {
+      "name": "51557 Cres",
+      "latitude": 44.958918,
+      "longitude": 14.409212
+    },
+    {
+      "name": "51561 Susak",
+      "latitude": 44.511188,
+      "longitude": 14.308385
+    },
+    {
+      "name": "51562 Unije",
+      "latitude": 44.636392,
+      "longitude": 14.248492
+    },
+    {
+      "name": "51564 Ćunski",
+      "latitude": 44.588774,
+      "longitude": 14.409758
+    },
+    {
+      "name": "52000 Pazin",
+      "latitude": 45.239372,
+      "longitude": 13.937742
+    },
+    {
+      "name": "52100 Pula",
+      "latitude": 44.867463,
+      "longitude": 13.844492
+    },
+    {
+      "name": "52102 Pula",
+      "latitude": 44.865927,
+      "longitude": 13.848776
+    },
+    {
+      "name": "52104 Pula",
+      "latitude": 44.876845,
+      "longitude": 13.861018
+    },
+    {
+      "name": "52105 Pula",
+      "latitude": 44.857428,
+      "longitude": 13.839439
+    },
+    {
+      "name": "52106 Pula",
+      "latitude": 44.861404,
+      "longitude": 13.833251
+    },
+    {
+      "name": "52107 Pula",
+      "latitude": 44.890301,
+      "longitude": 13.847573
+    },
+    {
+      "name": "52108 Pula",
+      "latitude": 44.865633,
+      "longitude": 13.85041
+    },
+    {
+      "name": "52109 Pula",
+      "latitude": 44.872098,
+      "longitude": 13.854837
+    },
+    {
+      "name": "52203 Medulin",
+      "latitude": 44.821669,
+      "longitude": 13.93674
+    },
+    {
+      "name": "52204 Ližnjan",
+      "latitude": 44.828089,
+      "longitude": 13.957236
+    },
+    {
+      "name": "52206 Marčana",
+      "latitude": 44.954735,
+      "longitude": 13.954413
+    },
+    {
+      "name": "52207 Barban",
+      "latitude": 45.064679,
+      "longitude": 14.017483
+    },
+    {
+      "name": "52208 Krnica",
+      "latitude": 44.973252,
+      "longitude": 14.015683
+    },
+    {
+      "name": "52210 Rovinj",
+      "latitude": 45.080899,
+      "longitude": 13.639595
+    },
+    {
+      "name": "52211 Bale",
+      "latitude": 45.040359,
+      "longitude": 13.783486
+    },
+    {
+      "name": "52212 Fažana",
+      "latitude": 44.926181,
+      "longitude": 13.804321
+    },
+    {
+      "name": "52215 Vodnjan",
+      "latitude": 44.961128,
+      "longitude": 13.851843
+    },
+    {
+      "name": "52220 Labin",
+      "latitude": 45.090827,
+      "longitude": 14.123361
+    },
+    {
+      "name": "52221 Rabac",
+      "latitude": 45.079448,
+      "longitude": 14.158802
+    },
+    {
+      "name": "52222 Koromačno",
+      "latitude": 44.968816,
+      "longitude": 14.121889
+    },
+    {
+      "name": "52223 Raša",
+      "latitude": 45.080744,
+      "longitude": 14.083437
+    },
+    {
+      "name": "52230 Labin",
+      "latitude": 45.096691,
+      "longitude": 14.12258
+    },
+    {
+      "name": "52231 Nedešćina",
+      "latitude": 45.140085,
+      "longitude": 14.112744
+    },
+    {
+      "name": "52232 Kršan",
+      "latitude": 45.175294,
+      "longitude": 14.138003
+    },
+    {
+      "name": "52233 Šušnjevica",
+      "latitude": 45.249666,
+      "longitude": 14.142039
+    },
+    {
+      "name": "52234 Plomin",
+      "latitude": 45.138451,
+      "longitude": 14.180005
+    },
+    {
+      "name": "52240 Labin",
+      "latitude": 45.085543,
+      "longitude": 14.123201
+    },
+    {
+      "name": "52332 Pićan",
+      "latitude": 45.204265,
+      "longitude": 14.040454
+    },
+    {
+      "name": "52333 Podpićan",
+      "latitude": 45.192892,
+      "longitude": 14.096901
+    },
+    {
+      "name": "52341 Žminj",
+      "latitude": 45.142867,
+      "longitude": 13.907782
+    },
+    {
+      "name": "52342 Svetvinčenat",
+      "latitude": 45.089388,
+      "longitude": 13.882142
+    },
+    {
+      "name": "52352 Kanfanar",
+      "latitude": 45.123277,
+      "longitude": 13.838817
+    },
+    {
+      "name": "52402 Cerovlje",
+      "latitude": 45.27631,
+      "longitude": 14.01207
+    },
+    {
+      "name": "52403 Gračišće",
+      "latitude": 45.220497,
+      "longitude": 14.009304
+    },
+    {
+      "name": "52404 Sveti Petar u Šumi",
+      "latitude": 45.184747,
+      "longitude": 13.866834
+    },
+    {
+      "name": "52420 Buzet",
+      "latitude": 45.407456,
+      "longitude": 13.964334
+    },
+    {
+      "name": "52424 Motovun",
+      "latitude": 45.336505,
+      "longitude": 13.82815
+    },
+    {
+      "name": "52425 Roč",
+      "latitude": 45.394999,
+      "longitude": 14.043979
+    },
+    {
+      "name": "52426 Lupoglav",
+      "latitude": 45.354753,
+      "longitude": 14.104815
+    },
+    {
+      "name": "52427 Livade",
+      "latitude": 45.355451,
+      "longitude": 13.829091
+    },
+    {
+      "name": "52428 Oprtalj",
+      "latitude": 45.380466,
+      "longitude": 13.823818
+    },
+    {
+      "name": "52429 Grožnjan",
+      "latitude": 45.378916,
+      "longitude": 13.722237
+    },
+    {
+      "name": "52434 Boljun",
+      "latitude": 45.302433,
+      "longitude": 14.120961
+    },
+    {
+      "name": "52440 Poreč",
+      "latitude": 45.226499,
+      "longitude": 13.600815
+    },
+    {
+      "name": "52441 Poreč",
+      "latitude": 45.227289,
+      "longitude": 13.596167
+    },
+    {
+      "name": "52442 Poreč",
+      "latitude": 45.198205,
+      "longitude": 13.591069
+    },
+    {
+      "name": "52443 Poreč",
+      "latitude": 45.29562,
+      "longitude": 13.578802
+    },
+    {
+      "name": "52444 Tinjan",
+      "latitude": 45.217155,
+      "longitude": 13.836369
+    },
+    {
+      "name": "52445 Baderna",
+      "latitude": 45.211828,
+      "longitude": 13.755157
+    },
+    {
+      "name": "52446 Nova Vas",
+      "latitude": 45.263522,
+      "longitude": 13.659702
+    },
+    {
+      "name": "52447 Vižinada",
+      "latitude": 45.33038,
+      "longitude": 13.757132
+    },
+    {
+      "name": "52448 Sveti Lovreč",
+      "latitude": 45.176431,
+      "longitude": 13.742678
+    },
+    {
+      "name": "52449 Červar Porat",
+      "latitude": 45.273866,
+      "longitude": 13.599852
+    },
+    {
+      "name": "52450 Vrsar",
+      "latitude": 45.147078,
+      "longitude": 13.605989
+    },
+    {
+      "name": "52452 Funtana",
+      "latitude": 45.174273,
+      "longitude": 13.605704
+    },
+    {
+      "name": "52460 Buje",
+      "latitude": 45.40897,
+      "longitude": 13.657703
+    },
+    {
+      "name": "52463 Višnjan",
+      "latitude": 45.276814,
+      "longitude": 13.720543
+    },
+    {
+      "name": "52464 Kaštelir",
+      "latitude": 45.300856,
+      "longitude": 13.690449
+    },
+    {
+      "name": "52465 Tar",
+      "latitude": 45.299474,
+      "longitude": 13.625574
+    },
+    {
+      "name": "52466 Novigrad",
+      "latitude": 45.316141,
+      "longitude": 13.560961
+    },
+    {
+      "name": "52470 Umag",
+      "latitude": 45.431875,
+      "longitude": 13.522447
+    },
+    {
+      "name": "52474 Brtonigla",
+      "latitude": 45.378521,
+      "longitude": 13.625566
+    },
+    {
+      "name": "52475 Savudrija",
+      "latitude": 45.485885,
+      "longitude": 13.501135
+    },
+    {
+      "name": "53000 Gospić",
+      "latitude": 44.545062,
+      "longitude": 15.369592
+    },
+    {
+      "name": "53202 Perušić",
+      "latitude": 44.649341,
+      "longitude": 15.382273
+    },
+    {
+      "name": "53211 Smiljan",
+      "latitude": 44.560734,
+      "longitude": 15.314852
+    },
+    {
+      "name": "53220 Otočac",
+      "latitude": 44.869523,
+      "longitude": 15.235489
+    },
+    {
+      "name": "53230 Korenica",
+      "latitude": 44.744669,
+      "longitude": 15.705355
+    },
+    {
+      "name": "53234 Udbina",
+      "latitude": 44.531851,
+      "longitude": 15.765612
+    },
+    {
+      "name": "53244 Lovinac",
+      "latitude": 44.390488,
+      "longitude": 15.685577
+    },
+    {
+      "name": "53250 Donji Lapac",
+      "latitude": 44.549901,
+      "longitude": 15.960512
+    },
+    {
+      "name": "53262 Jezerane",
+      "latitude": 45.052133,
+      "longitude": 15.207005
+    },
+    {
+      "name": "53270 Senj",
+      "latitude": 44.991783,
+      "longitude": 14.901031
+    },
+    {
+      "name": "53291 Novalja",
+      "latitude": 44.556556,
+      "longitude": 14.882487
+    },
+    {
+      "name": "Benkovac",
+      "latitude": 44.031997,
+      "longitude": 15.613656
+    },
+    {
+      "name": "City Express",
+      "latitude": 45.156426,
+      "longitude": 18.016167
+    },
+    {
+      "name": "City Express",
+      "latitude": 45.480788,
+      "longitude": 15.549669
+    },
+    {
+      "name": "DHL",
+      "latitude": 45.801392,
+      "longitude": 15.765335
+    },
+    {
+      "name": "DHL Express Split",
+      "latitude": 43.515421,
+      "longitude": 16.439643
+    },
+    {
+      "name": "DPD",
+      "latitude": 45.486748,
+      "longitude": 16.370907
+    },
+    {
+      "name": "DPD",
+      "latitude": 45.810259,
+      "longitude": 15.972333
+    },
+    {
+      "name": "GLS Bjelovar",
+      "latitude": 45.941756,
+      "longitude": 16.740526
+    },
+    {
+      "name": "Gradac",
+      "latitude": 43.104681,
+      "longitude": 17.342806
+    },
+    {
+      "name": "HP",
+      "latitude": 45.144035,
+      "longitude": 13.910534
+    },
+    {
+      "name": "HP - Hrvatska pošta",
+      "latitude": 44.064073,
+      "longitude": 15.205895
+    },
+    {
+      "name": "Hrvatska Posta",
+      "latitude": 44.117511,
+      "longitude": 15.270856
+    },
+    {
+      "name": "Hrvatska pošta",
+      "latitude": 43.059733,
+      "longitude": 16.185722
+    },
+    {
+      "name": "Hrvatska pošta",
+      "latitude": 43.588318,
+      "longitude": 15.925129
+    },
+    {
+      "name": "Hrvatska pošta",
+      "latitude": 45.334536,
+      "longitude": 17.671824
+    },
+    {
+      "name": "Hrvatska pošta",
+      "latitude": 45.505443,
+      "longitude": 15.544626
+    },
+    {
+      "name": "Hrvatska pošta",
+      "latitude": 45.686479,
+      "longitude": 16.952973
+    },
+    {
+      "name": "Hrvatska pošta - otpremništvo",
+      "latitude": 45.808121,
+      "longitude": 15.856241
+    },
+    {
+      "name": "Hrvatska Pošta dd PU Vir",
+      "latitude": 44.30328,
+      "longitude": 15.081198
+    },
+    {
+      "name": "Intereuropa",
+      "latitude": 45.372862,
+      "longitude": 14.31317
+    },
+    {
+      "name": "Jablanac",
+      "latitude": 44.706166,
+      "longitude": 14.897908
+    },
+    {
+      "name": "Mala pošta",
+      "latitude": 44.116785,
+      "longitude": 15.233011
+    },
+    {
+      "name": "Overseas Express",
+      "latitude": 45.895838,
+      "longitude": 16.84709
+    },
+    {
+      "name": "Posta",
+      "latitude": 43.756645,
+      "longitude": 15.744918
+    },
+    {
+      "name": "Posta",
+      "latitude": 45.90105,
+      "longitude": 18.66016
+    },
+    {
+      "name": "Pošta",
+      "latitude": 43.586301,
+      "longitude": 16.012895
+    },
+    {
+      "name": "Pošta",
+      "latitude": 44.632473,
+      "longitude": 15.295415
+    },
+    {
+      "name": "Pošta",
+      "latitude": 45.30589,
+      "longitude": 14.534646
+    },
+    {
+      "name": "Pošta",
+      "latitude": 45.812517,
+      "longitude": 15.979705
+    },
+    {
+      "name": "pošta 10104",
+      "latitude": 45.786685,
+      "longitude": 15.929411
+    },
+    {
+      "name": "Pošta 44203 Gušće",
+      "latitude": 45.415199,
+      "longitude": 16.569988
+    },
+    {
+      "name": "Pošta 53260 Brinje",
+      "latitude": 44.998572,
+      "longitude": 15.127988
+    },
+    {
+      "name": "Pošta Rogatec",
+      "latitude": 46.225013,
+      "longitude": 15.697948
+    },
+    {
+      "name": "Pošta Slovenije",
+      "latitude": 45.529242,
+      "longitude": 14.698764
+    },
+    {
+      "name": "Pošta Slovenije",
+      "latitude": 46.151654,
+      "longitude": 15.600774
+    },
+    {
+      "name": "Pošta Vinica",
+      "latitude": 45.459776,
+      "longitude": 15.255421
+    },
+    {
+      "name": "Poštanski ured",
+      "latitude": 44.180415,
+      "longitude": 15.550378
+    },
+    {
+      "name": "Poštanski ured 22240 Tisno",
+      "latitude": 43.798594,
+      "longitude": 15.641817
+    },
+    {
+      "name": "Poštanski ured Belej",
+      "latitude": 44.776503,
+      "longitude": 14.424319
+    },
+    {
+      "name": "Poštanski ured Belica",
+      "latitude": 46.406041,
+      "longitude": 16.520619
+    },
+    {
+      "name": "Poštanski ured Buševec",
+      "latitude": 45.638166,
+      "longitude": 16.114043
+    },
+    {
+      "name": "Poštanski ured Dekanovec",
+      "latitude": 46.446829,
+      "longitude": 16.579995
+    },
+    {
+      "name": "Poštanski ured Dežanovac",
+      "latitude": 45.564792,
+      "longitude": 17.082865
+    },
+    {
+      "name": "Poštanski ured Donji Vidovec",
+      "latitude": 46.329727,
+      "longitude": 16.783517
+    },
+    {
+      "name": "Poštanski ured Dvor",
+      "latitude": 45.067951,
+      "longitude": 16.376036
+    },
+    {
+      "name": "Poštanski ured Kravarsko",
+      "latitude": 45.585545,
+      "longitude": 16.049263
+    },
+    {
+      "name": "Poštanski ured Macinec",
+      "latitude": 46.387946,
+      "longitude": 16.324153
+    },
+    {
+      "name": "Poštanski ured Mursko Središće",
+      "latitude": 46.512678,
+      "longitude": 16.441224
+    },
+    {
+      "name": "Poštanski ured Nedelišće",
+      "latitude": 46.37688,
+      "longitude": 16.380658
+    },
+    {
+      "name": "Poštanski ured Podturen",
+      "latitude": 46.465685,
+      "longitude": 16.546509
+    },
+    {
+      "name": "Poštanski ured Selnica",
+      "latitude": 46.492638,
+      "longitude": 16.39832
+    },
+    {
+      "name": "Pula 52103",
+      "latitude": 44.870762,
+      "longitude": 13.848456
+    },
+    {
+      "name": "Zrinski Topolovac 43202",
+      "latitude": 46.022381,
+      "longitude": 16.752019
+    }
+  ],
+  "meta": {
+    "title": "Poštanski uredi u Hrvatskoj - Besplatno preuzimanje",
+    "description": "Post offices in Croatia (amenity=post_office) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors. Sadrži 900 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Poštanski uredi u Hrvatskoj | ListBase",
+    "seo_description": "Preuzmi Poštanski uredi u Hrvatskoj — 900 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 900 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

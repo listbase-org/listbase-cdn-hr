@@ -1,0 +1,181 @@
+{
+  "id": "hr-televizijski-kanali-informativni",
+  "name": "Hrvatski TV kanali — informativni program",
+  "title": "Hrvatski TV kanali — informativni program",
+  "description": "Hrvatski televizijski kanali kategorije 'news' (informativni program) iz otvorenog registra iptv-org/database. Sadrži naziv kanala, alternativne nazive, mrežu, vlasnike, kategorije, datum pokretanja i web stranicu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "HRT4.hr",
+      "name": "HRT 4",
+      "alt_names": "",
+      "network": "",
+      "owners": "Hrvatska Radiotelevizija",
+      "country": "HR",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "2012-12-24",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.hrt.hr/"
+    },
+    {
+      "id": 2,
+      "channel_id": "MiniTV.hr",
+      "name": "Mini TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://novatv.dnevnik.hr/"
+    },
+    {
+      "id": 3,
+      "channel_id": "N1.hr",
+      "name": "N1",
+      "alt_names": "N1 HR",
+      "network": "",
+      "owners": "United Group",
+      "country": "HR",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "2014-10-30",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://hr.n1info.com/"
+    },
+    {
+      "id": 4,
+      "channel_id": "NewsBar.hr",
+      "name": "NewsBar",
+      "alt_names": "",
+      "network": "",
+      "owners": "Hahar d o o",
+      "country": "HR",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 5,
+      "channel_id": "OTV.hr",
+      "name": "OTV",
+      "alt_names": "Otvorena televizija",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "1989-05-25",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.otv.hr/"
+    },
+    {
+      "id": 6,
+      "channel_id": "TVJadran.hr",
+      "name": "TV Jadran",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "1993-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tvjadran.hr/"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatski TV kanali — informativni program - Besplatno preuzimanje",
+    "description": "Hrvatski televizijski kanali kategorije 'news' (informativni program) iz otvorenog registra iptv-org/database. Sadrži naziv kanala, alternativne nazive, mrežu, vlasnike, kategorije, datum pokretanja i web stranicu. Sadrži 6 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Hrvatski TV kanali — informativni program | ListBase",
+    "seo_description": "Preuzmi Hrvatski TV kanali — informativni program — 6 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 6 zapisa / 13 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

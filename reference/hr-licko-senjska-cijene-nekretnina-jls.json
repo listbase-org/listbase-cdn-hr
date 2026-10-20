@@ -1,0 +1,237 @@
+{
+  "id": "hr-licko-senjska-cijene-nekretnina-jls",
+  "name": "Medijalne cijene nekretnina po m² (JLS) — Ličko-senjska",
+  "title": "Medijalne cijene nekretnina po m² (JLS) — Ličko-senjska",
+  "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Ličko-senjska: 12 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "2012",
+      "label": "2012",
+      "type": "string"
+    },
+    {
+      "key": "2013",
+      "label": "2013",
+      "type": "string"
+    },
+    {
+      "key": "2014",
+      "label": "2014",
+      "type": "string"
+    },
+    {
+      "key": "2015",
+      "label": "2015",
+      "type": "string"
+    },
+    {
+      "key": "2016",
+      "label": "2016",
+      "type": "string"
+    },
+    {
+      "key": "2017",
+      "label": "2017",
+      "type": "string"
+    },
+    {
+      "key": "2018",
+      "label": "2018",
+      "type": "string"
+    },
+    {
+      "key": "2019",
+      "label": "2019",
+      "type": "string"
+    },
+    {
+      "key": "Šifra",
+      "label": "ŠIfra",
+      "type": "number"
+    },
+    {
+      "key": "Naziv županije",
+      "label": "Naziv žUpanije",
+      "type": "string"
+    },
+    {
+      "key": "Naziv JLS-a",
+      "label": "Naziv JLS A",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 370,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "BRINJE"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 841,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "DONJI LAPAC"
+    },
+    {
+      "2012": 6119.21,
+      "2013": 6159.86,
+      "2014": 5314.08,
+      "2015": 5365.06,
+      "2016": 5047.29,
+      "2017": 5166.5,
+      "2018": 4566.1,
+      "2019": 3144.59,
+      "Šifra": 1309,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "GOSPIĆ"
+    },
+    {
+      "2012": 7726.05,
+      "2013": "z",
+      "2014": 7672.78,
+      "2015": "z",
+      "2016": 7176.3,
+      "2017": 7193.7,
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1783,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "KARLOBAG"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 2402,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "LOVINAC"
+    },
+    {
+      "2012": 9560.28,
+      "2013": 9077.57,
+      "2014": 9469.12,
+      "2015": 8567.97,
+      "2016": 8950.06,
+      "2017": 9474.6,
+      "2018": 9170,
+      "2019": 9448.95,
+      "Šifra": 2887,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "NOVALJA"
+    },
+    {
+      "2012": 4218.13,
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": 4816.83,
+      "2017": "z",
+      "2018": 4360.9,
+      "2019": 4233.37,
+      "Šifra": 3131,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "OTOČAC"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 3239,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "PERUŠIĆ"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": 1264.3,
+      "2019": 1320,
+      "Šifra": 4553,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "PLITVIČKA JEZERA"
+    },
+    {
+      "2012": 7538.05,
+      "2013": 6832.27,
+      "2014": 6395.71,
+      "2015": 6222.55,
+      "2016": 6839.89,
+      "2017": 6845.5,
+      "2018": 7052.2,
+      "2019": 7279.88,
+      "Šifra": 3875,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "SENJ"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 4677,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "UDBINA"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 5126,
+      "Naziv županije": "Ličko-senjska",
+      "Naziv JLS-a": "VRHOVINE"
+    }
+  ],
+  "meta": {
+    "title": "Medijalne cijene nekretnina po m² (JLS) — Ličko-senjska - Besplatno preuzimanje",
+    "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Ličko-senjska: 12 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data. Sadrži 12 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Medijalne cijene nekretnina po m² (JLS) — Ličko-senjska | ListBase",
+    "seo_description": "Preuzmi Medijalne cijene nekretnina po m² (JLS) — Ličko-senjska — 12 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 12 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "hr-mjerne-jedinice-power",
+  "name": "Mjerne jedinice — kategorija 'power' (6)",
+  "title": "Mjerne jedinice — kategorija 'power' (6)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'power' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "power-gigawatt",
+      "kategorija": "power",
+      "naziv": "gigavati",
+      "kratica": "GW",
+      "naziv_uski": "GW",
+      "obrazac": "{0} gigavata"
+    },
+    {
+      "id": 2,
+      "unit_code": "power-horsepower",
+      "kategorija": "power",
+      "naziv": "konjske snage",
+      "kratica": "KS",
+      "naziv_uski": "KS",
+      "obrazac": "{0} konjskih snaga"
+    },
+    {
+      "id": 3,
+      "unit_code": "power-kilowatt",
+      "kategorija": "power",
+      "naziv": "kilovati",
+      "kratica": "kW",
+      "naziv_uski": "kW",
+      "obrazac": "{0} kilovata"
+    },
+    {
+      "id": 4,
+      "unit_code": "power-megawatt",
+      "kategorija": "power",
+      "naziv": "megavati",
+      "kratica": "MW",
+      "naziv_uski": "MW",
+      "obrazac": "{0} megavata"
+    },
+    {
+      "id": 5,
+      "unit_code": "power-milliwatt",
+      "kategorija": "power",
+      "naziv": "milivati",
+      "kratica": "mW",
+      "naziv_uski": "mW",
+      "obrazac": "{0} milivata"
+    },
+    {
+      "id": 6,
+      "unit_code": "power-watt",
+      "kategorija": "power",
+      "naziv": "vati",
+      "kratica": "W",
+      "naziv_uski": "W",
+      "obrazac": "{0} vati"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'power' (6) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'power' s hrvatskim nazivima. Sadrži 6 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'power' (6) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'power' (6) — 6 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 6 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

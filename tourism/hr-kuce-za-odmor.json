@@ -1,0 +1,1436 @@
+{
+  "id": "hr-kuce-za-odmor",
+  "name": "Kuće za odmor",
+  "title": "Kuće za odmor",
+  "description": "Kuće za odmor u Hrvatskoj (279 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=chalet), izrez EU-POIS/HR.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 279,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "4 Season House",
+      "latitude": 45.422942,
+      "longitude": 14.021547
+    },
+    {
+      "name": "Ana NP Krka",
+      "latitude": 43.973904,
+      "longitude": 16.031409
+    },
+    {
+      "name": "Ante Vrvilo",
+      "latitude": 43.722343,
+      "longitude": 15.804908
+    },
+    {
+      "name": "Apartman",
+      "latitude": 43.988605,
+      "longitude": 15.494626
+    },
+    {
+      "name": "Apartman",
+      "latitude": 43.991965,
+      "longitude": 15.491865
+    },
+    {
+      "name": "Apartman",
+      "latitude": 43.992043,
+      "longitude": 15.492728
+    },
+    {
+      "name": "Apartman Marija",
+      "latitude": 45.064385,
+      "longitude": 14.01085
+    },
+    {
+      "name": "Apartmani \"Nena\"",
+      "latitude": 45.175799,
+      "longitude": 13.600083
+    },
+    {
+      "name": "Apartmani \"Vinka\"",
+      "latitude": 45.175121,
+      "longitude": 13.601611
+    },
+    {
+      "name": "Apartmani Alba",
+      "latitude": 45.176074,
+      "longitude": 13.599497
+    },
+    {
+      "name": "Apartmani Bošnjak",
+      "latitude": 43.987971,
+      "longitude": 15.495775
+    },
+    {
+      "name": "Apartmani Budinjas",
+      "latitude": 45.170696,
+      "longitude": 13.609392
+    },
+    {
+      "name": "Apartmani Materada Residence Poreč",
+      "latitude": 45.246307,
+      "longitude": 13.597091
+    },
+    {
+      "name": "Apartmani Molindrio",
+      "latitude": 45.203663,
+      "longitude": 13.605106
+    },
+    {
+      "name": "Apartmani Nadja",
+      "latitude": 45.171771,
+      "longitude": 13.607346
+    },
+    {
+      "name": "Apartmani Peraić",
+      "latitude": 43.992719,
+      "longitude": 15.493434
+    },
+    {
+      "name": "Apartmani Sandra",
+      "latitude": 44.821367,
+      "longitude": 13.858482
+    },
+    {
+      "name": "Apartmani Villa Kalinić",
+      "latitude": 45.150732,
+      "longitude": 14.540258
+    },
+    {
+      "name": "Apartmani Vladimir",
+      "latitude": 42.783537,
+      "longitude": 17.877348
+    },
+    {
+      "name": "Apartmani Zugan",
+      "latitude": 45.302247,
+      "longitude": 13.685923
+    },
+    {
+      "name": "Apartment Furlan - Pintar",
+      "latitude": 45.362199,
+      "longitude": 13.547934
+    },
+    {
+      "name": "Apartmenti Zafran (House Juliana)",
+      "latitude": 44.942248,
+      "longitude": 15.651977
+    },
+    {
+      "name": "Apartments Cvita",
+      "latitude": 44.067652,
+      "longitude": 15.280997
+    },
+    {
+      "name": "Apartments Filip",
+      "latitude": 43.991913,
+      "longitude": 15.492555
+    },
+    {
+      "name": "Apartments Glavor",
+      "latitude": 42.923936,
+      "longitude": 17.454117
+    },
+    {
+      "name": "Apartments Milica Žentil",
+      "latitude": 44.76081,
+      "longitude": 14.768374
+    },
+    {
+      "name": "Apartments Radović",
+      "latitude": 45.087636,
+      "longitude": 14.139104
+    },
+    {
+      "name": "Apartments TONI",
+      "latitude": 45.50131,
+      "longitude": 13.503929
+    },
+    {
+      "name": "App. Martinovic",
+      "latitude": 44.033002,
+      "longitude": 15.248072
+    },
+    {
+      "name": "Appartmani roko kolinda",
+      "latitude": 44.068791,
+      "longitude": 15.284051
+    },
+    {
+      "name": "AS Apartmani Sandra Škare",
+      "latitude": 44.955964,
+      "longitude": 13.796832
+    },
+    {
+      "name": "Bajadera",
+      "latitude": 45.601081,
+      "longitude": 15.812632
+    },
+    {
+      "name": "Baretini - Holiday Home",
+      "latitude": 44.934293,
+      "longitude": 13.806567
+    },
+    {
+      "name": "Bazilika",
+      "latitude": 45.107521,
+      "longitude": 13.641629
+    },
+    {
+      "name": "BonaMare Apartments",
+      "latitude": 43.972029,
+      "longitude": 15.403266
+    },
+    {
+      "name": "Bočić bay Paradise",
+      "latitude": 43.446623,
+      "longitude": 16.076627
+    },
+    {
+      "name": "BS1",
+      "latitude": 45.802125,
+      "longitude": 15.827876
+    },
+    {
+      "name": "BS2",
+      "latitude": 45.802199,
+      "longitude": 15.82783
+    },
+    {
+      "name": "BS3",
+      "latitude": 45.802276,
+      "longitude": 15.827781
+    },
+    {
+      "name": "BS4",
+      "latitude": 45.802228,
+      "longitude": 15.827649
+    },
+    {
+      "name": "Ca' Flora",
+      "latitude": 44.656203,
+      "longitude": 14.397194
+    },
+    {
+      "name": "Casa Allegra - House da mamma",
+      "latitude": 45.082472,
+      "longitude": 13.632144
+    },
+    {
+      "name": "Casa Allegra - House da papa",
+      "latitude": 45.082511,
+      "longitude": 13.632089
+    },
+    {
+      "name": "Casa Anica",
+      "latitude": 42.9762,
+      "longitude": 17.140047
+    },
+    {
+      "name": "Casa Dina",
+      "latitude": 43.882566,
+      "longitude": 15.535925
+    },
+    {
+      "name": "Celestina",
+      "latitude": 45.080772,
+      "longitude": 13.646339
+    },
+    {
+      "name": "Chalet Ivan",
+      "latitude": 44.401953,
+      "longitude": 15.03976
+    },
+    {
+      "name": "Chalet Vrata Biokovo (Kamena Kuća)",
+      "latitude": 43.259706,
+      "longitude": 17.105161
+    },
+    {
+      "name": "Croatia Cottage",
+      "latitude": 45.207159,
+      "longitude": 17.638322
+    },
+    {
+      "name": "Danya",
+      "latitude": 44.809281,
+      "longitude": 13.944212
+    },
+    {
+      "name": "Dorina",
+      "latitude": 45.601056,
+      "longitude": 15.813137
+    },
+    {
+      "name": "Dragec",
+      "latitude": 46.118763,
+      "longitude": 15.851514
+    },
+    {
+      "name": "Drandic",
+      "latitude": 44.933935,
+      "longitude": 13.804724
+    },
+    {
+      "name": "Eco house Picik",
+      "latitude": 45.034459,
+      "longitude": 14.510124
+    },
+    {
+      "name": "Ekodrom Estate",
+      "latitude": 45.372686,
+      "longitude": 15.69196
+    },
+    {
+      "name": "EST Villa del Mar Šolta",
+      "latitude": 43.395382,
+      "longitude": 16.297747
+    },
+    {
+      "name": "Ferienwohnung Andre 1",
+      "latitude": 45.037178,
+      "longitude": 14.154256
+    },
+    {
+      "name": "Festina & Lente",
+      "latitude": 43.307079,
+      "longitude": 17.017929
+    },
+    {
+      "name": "Filipaši",
+      "latitude": 45.203908,
+      "longitude": 14.229768
+    },
+    {
+      "name": "Filipović",
+      "latitude": 44.132103,
+      "longitude": 15.632193
+    },
+    {
+      "name": "FiMa",
+      "latitude": 44.809308,
+      "longitude": 13.944484
+    },
+    {
+      "name": "GOLUB",
+      "latitude": 46.13949,
+      "longitude": 15.839751
+    },
+    {
+      "name": "Grebengradska Medna Hiža",
+      "latitude": 46.16484,
+      "longitude": 16.290198
+    },
+    {
+      "name": "Green Frame villa",
+      "latitude": 45.006913,
+      "longitude": 13.885793
+    },
+    {
+      "name": "Green Valley Retreat",
+      "latitude": 43.667073,
+      "longitude": 16.517702
+    },
+    {
+      "name": "Griotte",
+      "latitude": 45.602335,
+      "longitude": 15.812439
+    },
+    {
+      "name": "Haus Jürgen",
+      "latitude": 44.297397,
+      "longitude": 15.104155
+    },
+    {
+      "name": "Haus Ljerka",
+      "latitude": 44.304745,
+      "longitude": 15.101409
+    },
+    {
+      "name": "Haus Marijan",
+      "latitude": 43.945739,
+      "longitude": 15.445461
+    },
+    {
+      "name": "Haus Pasini",
+      "latitude": 45.364582,
+      "longitude": 13.835718
+    },
+    {
+      "name": "Hibiskus 145",
+      "latitude": 45.296293,
+      "longitude": 13.689716
+    },
+    {
+      "name": "Hibiskus 146",
+      "latitude": 45.296236,
+      "longitude": 13.689693
+    },
+    {
+      "name": "Holiday home Baretini",
+      "latitude": 45.009172,
+      "longitude": 13.806427
+    },
+    {
+      "name": "Holiday Home Liberan",
+      "latitude": 42.959826,
+      "longitude": 16.747969
+    },
+    {
+      "name": "Holiday Home Marijana",
+      "latitude": 44.829331,
+      "longitude": 13.953942
+    },
+    {
+      "name": "Holiday Home Primus",
+      "latitude": 45.719491,
+      "longitude": 15.644504
+    },
+    {
+      "name": "Holiday Home Trakošćan-Brezova Gora CCC435",
+      "latitude": 46.265646,
+      "longitude": 15.923193
+    },
+    {
+      "name": "Holiday Home Trakošćan-Brezova Gora CCC436",
+      "latitude": 46.265668,
+      "longitude": 15.922476
+    },
+    {
+      "name": "Holiday Home Trakošćan-Brezova Gora CCC437",
+      "latitude": 46.265534,
+      "longitude": 15.922707
+    },
+    {
+      "name": "Holiday house Manuela",
+      "latitude": 44.182965,
+      "longitude": 15.636865
+    },
+    {
+      "name": "Holiday house Melisa",
+      "latitude": 45.707002,
+      "longitude": 15.647493
+    },
+    {
+      "name": "I. paviljon",
+      "latitude": 45.189814,
+      "longitude": 14.677651
+    },
+    {
+      "name": "II. paviljon",
+      "latitude": 45.18945,
+      "longitude": 14.677715
+    },
+    {
+      "name": "III. paviljon",
+      "latitude": 45.189068,
+      "longitude": 14.677769
+    },
+    {
+      "name": "IV. paviljon",
+      "latitude": 45.188591,
+      "longitude": 14.677636
+    },
+    {
+      "name": "IX. paviljon",
+      "latitude": 45.188434,
+      "longitude": 14.679255
+    },
+    {
+      "name": "Jacin Ranch",
+      "latitude": 46.238664,
+      "longitude": 16.392809
+    },
+    {
+      "name": "Jada Mobile Home",
+      "latitude": 43.881804,
+      "longitude": 15.535171
+    },
+    {
+      "name": "Jagica",
+      "latitude": 46.118711,
+      "longitude": 15.851998
+    },
+    {
+      "name": "Jana",
+      "latitude": 46.118525,
+      "longitude": 15.851768
+    },
+    {
+      "name": "Jaukova kuća",
+      "latitude": 45.442443,
+      "longitude": 14.943265
+    },
+    {
+      "name": "King's Lodge",
+      "latitude": 46.115178,
+      "longitude": 16.210136
+    },
+    {
+      "name": "Klet Imbra",
+      "latitude": 46.118202,
+      "longitude": 15.851832
+    },
+    {
+      "name": "Kovac",
+      "latitude": 45.175558,
+      "longitude": 13.600894
+    },
+    {
+      "name": "Krašotica",
+      "latitude": 45.601812,
+      "longitude": 15.812965
+    },
+    {
+      "name": "Kuca",
+      "latitude": 44.429012,
+      "longitude": 15.515755
+    },
+    {
+      "name": "Kuca Za",
+      "latitude": 45.077005,
+      "longitude": 14.448466
+    },
+    {
+      "name": "Kuća Angelina",
+      "latitude": 45.016954,
+      "longitude": 13.995833
+    },
+    {
+      "name": "Kuća Barbara",
+      "latitude": 45.015138,
+      "longitude": 14.014302
+    },
+    {
+      "name": "Kuća Krunčići",
+      "latitude": 45.142934,
+      "longitude": 13.738689
+    },
+    {
+      "name": "Kuća Lopatice",
+      "latitude": 46.162291,
+      "longitude": 15.893089
+    },
+    {
+      "name": "Kuća Paradiso",
+      "latitude": 45.066073,
+      "longitude": 14.617502
+    },
+    {
+      "name": "Kuća za odmor \"Nature\"",
+      "latitude": 45.769116,
+      "longitude": 15.688451
+    },
+    {
+      "name": "L&L Mobile Home",
+      "latitude": 43.881997,
+      "longitude": 15.535682
+    },
+    {
+      "name": "Lac",
+      "latitude": 46.118852,
+      "longitude": 15.851721
+    },
+    {
+      "name": "Landhaus Krk",
+      "latitude": 44.970169,
+      "longitude": 14.731821
+    },
+    {
+      "name": "Le Residence Olivette",
+      "latitude": 45.046632,
+      "longitude": 14.609037
+    },
+    {
+      "name": "Little House on Papuk",
+      "latitude": 45.55196,
+      "longitude": 17.713056
+    },
+    {
+      "name": "Lovački dom Đedovica",
+      "latitude": 45.561824,
+      "longitude": 17.498119
+    },
+    {
+      "name": "Lucia",
+      "latitude": 44.967744,
+      "longitude": 13.850863
+    },
+    {
+      "name": "Luxury Chalets",
+      "latitude": 45.367329,
+      "longitude": 14.940567
+    },
+    {
+      "name": "Luxury Villa Amora",
+      "latitude": 45.164905,
+      "longitude": 13.801052
+    },
+    {
+      "name": "Mandala House",
+      "latitude": 45.372561,
+      "longitude": 15.692036
+    },
+    {
+      "name": "Mara's Coast Amelia",
+      "latitude": 43.883292,
+      "longitude": 15.535652
+    },
+    {
+      "name": "Mara's Coast Bianca",
+      "latitude": 43.882992,
+      "longitude": 15.535942
+    },
+    {
+      "name": "Mara's Coast Ciara",
+      "latitude": 43.883232,
+      "longitude": 15.53572
+    },
+    {
+      "name": "Mara's Coast Dalia",
+      "latitude": 43.883011,
+      "longitude": 15.535773
+    },
+    {
+      "name": "Mara's Coast Ella",
+      "latitude": 43.8831,
+      "longitude": 15.535876
+    },
+    {
+      "name": "Mara's Coast Frida",
+      "latitude": 43.883167,
+      "longitude": 15.535791
+    },
+    {
+      "name": "Mara's Coast Giulia",
+      "latitude": 43.883075,
+      "longitude": 15.5357
+    },
+    {
+      "name": "Matković Holiday Home",
+      "latitude": 42.602578,
+      "longitude": 18.340913
+    },
+    {
+      "name": "Meditandia Mobile Home",
+      "latitude": 43.881957,
+      "longitude": 15.535363
+    },
+    {
+      "name": "Mercedes",
+      "latitude": 44.808897,
+      "longitude": 13.944344
+    },
+    {
+      "name": "Mica",
+      "latitude": 46.118801,
+      "longitude": 15.851838
+    },
+    {
+      "name": "Monachus",
+      "latitude": 43.366183,
+      "longitude": 16.936651
+    },
+    {
+      "name": "Monachus-2",
+      "latitude": 43.366022,
+      "longitude": 16.936797
+    },
+    {
+      "name": "Napolitanka",
+      "latitude": 45.601383,
+      "longitude": 15.81294
+    },
+    {
+      "name": "Napuštena vojna baraka",
+      "latitude": 43.056438,
+      "longitude": 17.57696
+    },
+    {
+      "name": "Nautilus-Bay Stonehouse",
+      "latitude": 43.125851,
+      "longitude": 16.690111
+    },
+    {
+      "name": "Nicolina",
+      "latitude": 43.156518,
+      "longitude": 16.418095
+    },
+    {
+      "name": "Nomia Mobile Home",
+      "latitude": 43.882601,
+      "longitude": 15.536682
+    },
+    {
+      "name": "Oaza Maslina",
+      "latitude": 43.881673,
+      "longitude": 15.535046
+    },
+    {
+      "name": "Officinalis - Family Vacation House - Island Krk, Croatia",
+      "latitude": 45.086374,
+      "longitude": 14.445153
+    },
+    {
+      "name": "Oliveto Residence",
+      "latitude": 45.017774,
+      "longitude": 14.635138
+    },
+    {
+      "name": "Pansion Maria",
+      "latitude": 44.550857,
+      "longitude": 14.885135
+    },
+    {
+      "name": "Perkić (Marjeta / Tina)",
+      "latitude": 44.762182,
+      "longitude": 14.76194
+    },
+    {
+      "name": "Perkovic Apartmani",
+      "latitude": 43.542326,
+      "longitude": 16.31529
+    },
+    {
+      "name": "Planinska kuća Lucija",
+      "latitude": 44.679087,
+      "longitude": 15.05959
+    },
+    {
+      "name": "Plant House",
+      "latitude": 45.372774,
+      "longitude": 15.692102
+    },
+    {
+      "name": "Ranch Ante",
+      "latitude": 44.971791,
+      "longitude": 14.73728
+    },
+    {
+      "name": "Rector's Villa Rab",
+      "latitude": 44.755116,
+      "longitude": 14.76127
+    },
+    {
+      "name": "Ressort Renjeland",
+      "latitude": 43.679772,
+      "longitude": 16.009925
+    },
+    {
+      "name": "Robinson House",
+      "latitude": 43.33906,
+      "longitude": 16.689129
+    },
+    {
+      "name": "Robinson house Gališnjak",
+      "latitude": 43.261873,
+      "longitude": 16.687607
+    },
+    {
+      "name": "Robinson Margareta house",
+      "latitude": 43.262946,
+      "longitude": 16.746705
+    },
+    {
+      "name": "Ruralna kuća za odmor Cecilija",
+      "latitude": 46.007292,
+      "longitude": 16.185773
+    },
+    {
+      "name": "Salt & Sand",
+      "latitude": 45.04346,
+      "longitude": 14.616022
+    },
+    {
+      "name": "SkyLine Mobile Home",
+      "latitude": 43.882391,
+      "longitude": 15.536895
+    },
+    {
+      "name": "Slatka tajna",
+      "latitude": 45.599916,
+      "longitude": 15.811473
+    },
+    {
+      "name": "sparadici",
+      "latitude": 43.631239,
+      "longitude": 15.953348
+    },
+    {
+      "name": "Sparrow House",
+      "latitude": 45.372866,
+      "longitude": 15.692085
+    },
+    {
+      "name": "St. Hedonist House",
+      "latitude": 45.317172,
+      "longitude": 14.268718
+    },
+    {
+      "name": "Stan mrke strizibube",
+      "latitude": 44.722085,
+      "longitude": 14.967195
+    },
+    {
+      "name": "Stan tetrijeba gluhana",
+      "latitude": 44.722039,
+      "longitude": 14.966842
+    },
+    {
+      "name": "Stan velebitske pijavice",
+      "latitude": 44.722147,
+      "longitude": 14.966784
+    },
+    {
+      "name": "Stancija Ruseti",
+      "latitude": 45.412053,
+      "longitude": 13.796849
+    },
+    {
+      "name": "Stancija Zavod",
+      "latitude": 45.169417,
+      "longitude": 13.825918
+    },
+    {
+      "name": "Tara house",
+      "latitude": 43.122203,
+      "longitude": 16.684327
+    },
+    {
+      "name": "Tortica",
+      "latitude": 45.602008,
+      "longitude": 15.812942
+    },
+    {
+      "name": "V. paviljon",
+      "latitude": 45.189189,
+      "longitude": 14.677013
+    },
+    {
+      "name": "Venettus Mobile Home",
+      "latitude": 43.881878,
+      "longitude": 15.535264
+    },
+    {
+      "name": "VI. paviljon",
+      "latitude": 45.189577,
+      "longitude": 14.676891
+    },
+    {
+      "name": "VII. paviljon",
+      "latitude": 45.188226,
+      "longitude": 14.678164
+    },
+    {
+      "name": "VIII. paviljon",
+      "latitude": 45.18826,
+      "longitude": 14.678749
+    },
+    {
+      "name": "Vila Amalija",
+      "latitude": 45.173666,
+      "longitude": 14.698825
+    },
+    {
+      "name": "Vila Ani",
+      "latitude": 44.549569,
+      "longitude": 14.886638
+    },
+    {
+      "name": "Vila Gordana",
+      "latitude": 43.889267,
+      "longitude": 15.541338
+    },
+    {
+      "name": "Vila Jurja",
+      "latitude": 45.172322,
+      "longitude": 14.824477
+    },
+    {
+      "name": "Vila Marijana",
+      "latitude": 44.840535,
+      "longitude": 13.848539
+    },
+    {
+      "name": "Vila Matić",
+      "latitude": 45.336138,
+      "longitude": 14.177754
+    },
+    {
+      "name": "Vila Montona",
+      "latitude": 45.334193,
+      "longitude": 13.808056
+    },
+    {
+      "name": "Vila Murvenica",
+      "latitude": 45.138769,
+      "longitude": 14.667687
+    },
+    {
+      "name": "Vila Palme",
+      "latitude": 44.54972,
+      "longitude": 14.887967
+    },
+    {
+      "name": "Villa 106",
+      "latitude": 45.231666,
+      "longitude": 13.79278
+    },
+    {
+      "name": "Villa 115",
+      "latitude": 44.957159,
+      "longitude": 14.145595
+    },
+    {
+      "name": "Villa Aida",
+      "latitude": 45.045844,
+      "longitude": 13.909727
+    },
+    {
+      "name": "Villa Ampla (Allay Alley Villas Funtana)",
+      "latitude": 45.175038,
+      "longitude": 13.60423
+    },
+    {
+      "name": "Villa Antiqua",
+      "latitude": 44.693804,
+      "longitude": 14.394789
+    },
+    {
+      "name": "Villa Antoana",
+      "latitude": 45.176776,
+      "longitude": 14.055324
+    },
+    {
+      "name": "Villa Asteria",
+      "latitude": 44.93097,
+      "longitude": 13.801844
+    },
+    {
+      "name": "Villa Aurora",
+      "latitude": 44.973462,
+      "longitude": 14.741293
+    },
+    {
+      "name": "Villa Bianchera",
+      "latitude": 45.302286,
+      "longitude": 13.622904
+    },
+    {
+      "name": "Villa Bošket",
+      "latitude": 45.327851,
+      "longitude": 13.75582
+    },
+    {
+      "name": "Villa Campiello",
+      "latitude": 45.066241,
+      "longitude": 14.617168
+    },
+    {
+      "name": "Villa Canasta",
+      "latitude": 45.103906,
+      "longitude": 14.602352
+    },
+    {
+      "name": "Villa Catarina",
+      "latitude": 45.182578,
+      "longitude": 13.828335
+    },
+    {
+      "name": "Villa Cerina",
+      "latitude": 45.926984,
+      "longitude": 16.137866
+    },
+    {
+      "name": "Villa Cesarica",
+      "latitude": 44.967335,
+      "longitude": 13.850824
+    },
+    {
+      "name": "Villa Ciovo",
+      "latitude": 43.486869,
+      "longitude": 16.263494
+    },
+    {
+      "name": "Villa Claudia",
+      "latitude": 45.300616,
+      "longitude": 13.682315
+    },
+    {
+      "name": "Villa Domenica/Targeto",
+      "latitude": 45.018064,
+      "longitude": 14.065543
+    },
+    {
+      "name": "Villa Dream",
+      "latitude": 45.41978,
+      "longitude": 13.605545
+    },
+    {
+      "name": "Villa Dussich",
+      "latitude": 45.409942,
+      "longitude": 13.81581
+    },
+    {
+      "name": "Villa Ela",
+      "latitude": 43.306912,
+      "longitude": 17.021137
+    },
+    {
+      "name": "Villa Ela",
+      "latitude": 45.031824,
+      "longitude": 14.582107
+    },
+    {
+      "name": "Villa Elite",
+      "latitude": 44.900415,
+      "longitude": 13.837142
+    },
+    {
+      "name": "Villa Emanuel",
+      "latitude": 45.015595,
+      "longitude": 14.014414
+    },
+    {
+      "name": "Villa Emanuela",
+      "latitude": 45.197765,
+      "longitude": 14.054198
+    },
+    {
+      "name": "Villa Filip",
+      "latitude": 43.307016,
+      "longitude": 17.021196
+    },
+    {
+      "name": "Villa Flamingo",
+      "latitude": 45.30641,
+      "longitude": 13.679996
+    },
+    {
+      "name": "Villa Franica",
+      "latitude": 42.663805,
+      "longitude": 18.070806
+    },
+    {
+      "name": "Villa Gabrijela",
+      "latitude": 45.305508,
+      "longitude": 13.681001
+    },
+    {
+      "name": "Villa GG",
+      "latitude": 43.488565,
+      "longitude": 16.54662
+    },
+    {
+      "name": "Villa Giorgia",
+      "latitude": 45.331781,
+      "longitude": 13.760831
+    },
+    {
+      "name": "Villa Gita",
+      "latitude": 45.117294,
+      "longitude": 14.535039
+    },
+    {
+      "name": "Villa Gloria",
+      "latitude": 45.262215,
+      "longitude": 13.624414
+    },
+    {
+      "name": "Villa Hajdin",
+      "latitude": 45.262391,
+      "longitude": 13.624936
+    },
+    {
+      "name": "Villa Helena",
+      "latitude": 45.197683,
+      "longitude": 14.054727
+    },
+    {
+      "name": "Villa Hemy",
+      "latitude": 43.984849,
+      "longitude": 15.502572
+    },
+    {
+      "name": "Villa Hera",
+      "latitude": 45.047123,
+      "longitude": 14.611858
+    },
+    {
+      "name": "Villa Ines-apartmani",
+      "latitude": 44.818516,
+      "longitude": 13.96873
+    },
+    {
+      "name": "Villa Ingrid",
+      "latitude": 44.954381,
+      "longitude": 13.842961
+    },
+    {
+      "name": "Villa Jadranka",
+      "latitude": 45.045655,
+      "longitude": 13.909856
+    },
+    {
+      "name": "Villa Karla",
+      "latitude": 43.307338,
+      "longitude": 17.018619
+    },
+    {
+      "name": "Villa Kata",
+      "latitude": 43.513156,
+      "longitude": 15.981894
+    },
+    {
+      "name": "Villa Katarina",
+      "latitude": 45.272223,
+      "longitude": 13.727095
+    },
+    {
+      "name": "Villa Klesari",
+      "latitude": 45.19385,
+      "longitude": 14.06252
+    },
+    {
+      "name": "Villa Kopjar",
+      "latitude": 46.124221,
+      "longitude": 16.225085
+    },
+    {
+      "name": "Villa Kringa",
+      "latitude": 45.182253,
+      "longitude": 13.830495
+    },
+    {
+      "name": "Villa Krnica",
+      "latitude": 44.975306,
+      "longitude": 14.018521
+    },
+    {
+      "name": "Villa Kućica",
+      "latitude": 43.556788,
+      "longitude": 16.362268
+    },
+    {
+      "name": "Villa La Vagabonda",
+      "latitude": 42.70139,
+      "longitude": 18.010689
+    },
+    {
+      "name": "Villa Lacus",
+      "latitude": 43.307248,
+      "longitude": 17.018243
+    },
+    {
+      "name": "Villa Lavanda",
+      "latitude": 45.37497,
+      "longitude": 14.333997
+    },
+    {
+      "name": "Villa Leonore",
+      "latitude": 43.4407,
+      "longitude": 16.674133
+    },
+    {
+      "name": "Villa Lila",
+      "latitude": 44.217117,
+      "longitude": 15.161106
+    },
+    {
+      "name": "Villa Luna",
+      "latitude": 43.449449,
+      "longitude": 16.133278
+    },
+    {
+      "name": "Villa Magnifica (Allay Alley Villas Funtana)",
+      "latitude": 45.175003,
+      "longitude": 13.604158
+    },
+    {
+      "name": "Villa Maja",
+      "latitude": 44.974747,
+      "longitude": 14.729038
+    },
+    {
+      "name": "Villa Marela",
+      "latitude": 43.450394,
+      "longitude": 16.133116
+    },
+    {
+      "name": "Villa Marija",
+      "latitude": 45.081778,
+      "longitude": 13.819878
+    },
+    {
+      "name": "Villa Marisa",
+      "latitude": 45.26324,
+      "longitude": 13.643057
+    },
+    {
+      "name": "Villa Mendula",
+      "latitude": 43.306453,
+      "longitude": 17.020584
+    },
+    {
+      "name": "Villa Milo",
+      "latitude": 43.30733,
+      "longitude": 17.018724
+    },
+    {
+      "name": "Villa Minkini",
+      "latitude": 43.306796,
+      "longitude": 17.017586
+    },
+    {
+      "name": "Villa Moncalvo",
+      "latitude": 45.080255,
+      "longitude": 13.775888
+    },
+    {
+      "name": "Villa Mulino",
+      "latitude": 45.35868,
+      "longitude": 13.869907
+    },
+    {
+      "name": "Villa Nedika",
+      "latitude": 43.243644,
+      "longitude": 17.075115
+    },
+    {
+      "name": "Villa Nina",
+      "latitude": 44.954319,
+      "longitude": 13.843537
+    },
+    {
+      "name": "Villa Oceanbreeze",
+      "latitude": 45.136679,
+      "longitude": 14.620741
+    },
+    {
+      "name": "Villa Onorato",
+      "latitude": 44.65632,
+      "longitude": 14.398354
+    },
+    {
+      "name": "Villa Palma Krk",
+      "latitude": 45.031104,
+      "longitude": 14.58019
+    },
+    {
+      "name": "Villa Pasini",
+      "latitude": 45.364235,
+      "longitude": 13.835313
+    },
+    {
+      "name": "Villa Perla",
+      "latitude": 45.300835,
+      "longitude": 13.680213
+    },
+    {
+      "name": "Villa Petra",
+      "latitude": 45.300301,
+      "longitude": 13.68592
+    },
+    {
+      "name": "Villa Plavac Mali",
+      "latitude": 42.922885,
+      "longitude": 17.346854
+    },
+    {
+      "name": "Villa Portole",
+      "latitude": 45.380789,
+      "longitude": 13.790301
+    },
+    {
+      "name": "Villa Pride",
+      "latitude": 43.362873,
+      "longitude": 16.938219
+    },
+    {
+      "name": "Villa Renata",
+      "latitude": 43.121331,
+      "longitude": 16.683465
+    },
+    {
+      "name": "Villa Runko",
+      "latitude": 45.193778,
+      "longitude": 14.061807
+    },
+    {
+      "name": "Villa San",
+      "latitude": 43.363059,
+      "longitude": 16.938188
+    },
+    {
+      "name": "Villa Sara",
+      "latitude": 45.305357,
+      "longitude": 13.681235
+    },
+    {
+      "name": "Villa Seaside",
+      "latitude": 45.070749,
+      "longitude": 14.468014
+    },
+    {
+      "name": "Villa Sole",
+      "latitude": 44.830048,
+      "longitude": 13.917256
+    },
+    {
+      "name": "Villa Soline",
+      "latitude": 42.6153,
+      "longitude": 18.216598
+    },
+    {
+      "name": "Villa Sonya",
+      "latitude": 44.032644,
+      "longitude": 15.24796
+    },
+    {
+      "name": "Villa Stancija Fiore",
+      "latitude": 45.163196,
+      "longitude": 13.927077
+    },
+    {
+      "name": "Villa Stijena und Haus Lavanda",
+      "latitude": 45.356712,
+      "longitude": 14.312586
+    },
+    {
+      "name": "Villa Sunset",
+      "latitude": 43.513668,
+      "longitude": 15.981424
+    },
+    {
+      "name": "Villa Tanne",
+      "latitude": 45.125985,
+      "longitude": 14.119439
+    },
+    {
+      "name": "Villa Tereza",
+      "latitude": 42.557344,
+      "longitude": 18.264461
+    },
+    {
+      "name": "Villa Tereza",
+      "latitude": 44.934515,
+      "longitude": 13.807131
+    },
+    {
+      "name": "Villa Ulika",
+      "latitude": 45.106495,
+      "longitude": 14.602765
+    },
+    {
+      "name": "Villa Ventura",
+      "latitude": 45.176729,
+      "longitude": 13.71551
+    },
+    {
+      "name": "Villa Vistra",
+      "latitude": 45.30295,
+      "longitude": 13.686446
+    },
+    {
+      "name": "Villetta Mirossi Alba",
+      "latitude": 45.184536,
+      "longitude": 14.738765
+    },
+    {
+      "name": "Villetta Mirossi Felice",
+      "latitude": 45.184214,
+      "longitude": 14.738338
+    },
+    {
+      "name": "Vineyard Villa Varaždin",
+      "latitude": 46.232638,
+      "longitude": 16.385902
+    },
+    {
+      "name": "Vinka",
+      "latitude": 43.364687,
+      "longitude": 16.937289
+    },
+    {
+      "name": "Wen",
+      "latitude": 45.169917,
+      "longitude": 13.608596
+    },
+    {
+      "name": "Wixa Samobor",
+      "latitude": 45.771772,
+      "longitude": 15.711233
+    },
+    {
+      "name": "X. paviljon",
+      "latitude": 45.187839,
+      "longitude": 14.677506
+    },
+    {
+      "name": "XI. paviljon",
+      "latitude": 45.188135,
+      "longitude": 14.677101
+    },
+    {
+      "name": "XII. paviljon",
+      "latitude": 45.188474,
+      "longitude": 14.676701
+    },
+    {
+      "name": "XIII. paviljon",
+      "latitude": 45.189319,
+      "longitude": 14.67636
+    },
+    {
+      "name": "XIV. paviljon",
+      "latitude": 45.189697,
+      "longitude": 14.676312
+    },
+    {
+      "name": "XV. paviljon",
+      "latitude": 45.190009,
+      "longitude": 14.677087
+    },
+    {
+      "name": "Ловачка кућа Штрбац",
+      "latitude": 45.810252,
+      "longitude": 18.932441
+    },
+    {
+      "name": "‎Holiday house Denis",
+      "latitude": 45.047025,
+      "longitude": 14.481818
+    }
+  ],
+  "meta": {
+    "title": "Kuće za odmor - Besplatno preuzimanje",
+    "description": "Kuće za odmor u Hrvatskoj (279 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=chalet), izrez EU-POIS/HR. Sadrži 279 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kuće za odmor | ListBase",
+    "seo_description": "Preuzmi Kuće za odmor — 279 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 279 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

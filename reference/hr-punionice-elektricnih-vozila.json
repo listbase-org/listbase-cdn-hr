@@ -1,0 +1,1051 @@
+{
+  "id": "hr-punionice-elektricnih-vozila",
+  "name": "Punionice električnih vozila",
+  "title": "Punionice električnih vozila",
+  "description": "Punionice električnih vozila u Hrvatskoj (202 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=charging_station), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 202,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "(Under construction)",
+      "latitude": 44.75636,
+      "longitude": 14.764267
+    },
+    {
+      "name": "3LJ",
+      "latitude": 43.576614,
+      "longitude": 16.740795
+    },
+    {
+      "name": "AC Marina",
+      "latitude": 44.803237,
+      "longitude": 14.726006
+    },
+    {
+      "name": "Apartment Resort Kaldana",
+      "latitude": 44.763672,
+      "longitude": 14.74951
+    },
+    {
+      "name": "Arbiana hotel",
+      "latitude": 44.754679,
+      "longitude": 14.762055
+    },
+    {
+      "name": "Benz",
+      "latitude": 45.333554,
+      "longitude": 18.853829
+    },
+    {
+      "name": "Biograd na moru",
+      "latitude": 43.939281,
+      "longitude": 15.440615
+    },
+    {
+      "name": "Brinje Istok",
+      "latitude": 45.006063,
+      "longitude": 15.128316
+    },
+    {
+      "name": "Brinje Zapad",
+      "latitude": 45.007069,
+      "longitude": 15.128223
+    },
+    {
+      "name": "Buje",
+      "latitude": 45.462547,
+      "longitude": 13.620817
+    },
+    {
+      "name": "ChargePoint",
+      "latitude": 45.253651,
+      "longitude": 14.595642
+    },
+    {
+      "name": "Cista Provo",
+      "latitude": 43.504852,
+      "longitude": 16.948397
+    },
+    {
+      "name": "City center istok",
+      "latitude": 45.802965,
+      "longitude": 16.049377
+    },
+    {
+      "name": "City Collosseum",
+      "latitude": 45.159448,
+      "longitude": 17.997618
+    },
+    {
+      "name": "Crikvenica",
+      "latitude": 45.174331,
+      "longitude": 14.692896
+    },
+    {
+      "name": "DC-Amigo",
+      "latitude": 42.941145,
+      "longitude": 17.364456
+    },
+    {
+      "name": "Dračevac",
+      "latitude": 43.527367,
+      "longitude": 16.501375
+    },
+    {
+      "name": "Duga Resa",
+      "latitude": 45.449881,
+      "longitude": 15.499717
+    },
+    {
+      "name": "E-Bike charging station Istria e-mobility",
+      "latitude": 45.064661,
+      "longitude": 14.016405
+    },
+    {
+      "name": "Elen",
+      "latitude": 43.04999,
+      "longitude": 17.433685
+    },
+    {
+      "name": "Elen",
+      "latitude": 43.297083,
+      "longitude": 17.014906
+    },
+    {
+      "name": "ELEN",
+      "latitude": 44.751226,
+      "longitude": 15.373401
+    },
+    {
+      "name": "elen",
+      "latitude": 44.75133,
+      "longitude": 15.37523
+    },
+    {
+      "name": "ELEN",
+      "latitude": 44.838622,
+      "longitude": 13.833655
+    },
+    {
+      "name": "ELEN",
+      "latitude": 44.958551,
+      "longitude": 13.847997
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.080582,
+      "longitude": 13.639893
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.085508,
+      "longitude": 14.122755
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.085653,
+      "longitude": 13.638972
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.122662,
+      "longitude": 13.839055
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.144108,
+      "longitude": 13.910477
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.224644,
+      "longitude": 13.598232
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.29977,
+      "longitude": 13.624393
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.305545,
+      "longitude": 14.71365
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.330044,
+      "longitude": 13.756798
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.331168,
+      "longitude": 13.825009
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.344724,
+      "longitude": 14.314797
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.352115,
+      "longitude": 18.998429
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.357101,
+      "longitude": 14.487172
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.359872,
+      "longitude": 14.493288
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.372681,
+      "longitude": 14.349936
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.372802,
+      "longitude": 15.076994
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.39271,
+      "longitude": 14.797162
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.520847,
+      "longitude": 15.547039
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.673855,
+      "longitude": 15.653369
+    },
+    {
+      "name": "ELEN",
+      "latitude": 45.711931,
+      "longitude": 16.079779
+    },
+    {
+      "name": "Elen",
+      "latitude": 45.795715,
+      "longitude": 15.917857
+    },
+    {
+      "name": "ELEN",
+      "latitude": 46.21196,
+      "longitude": 16.419605
+    },
+    {
+      "name": "ELEN",
+      "latitude": 46.300354,
+      "longitude": 16.328259
+    },
+    {
+      "name": "ELEN",
+      "latitude": 46.303482,
+      "longitude": 16.328568
+    },
+    {
+      "name": "ELEN",
+      "latitude": 46.305935,
+      "longitude": 16.332338
+    },
+    {
+      "name": "ELEN",
+      "latitude": 46.388658,
+      "longitude": 16.427644
+    },
+    {
+      "name": "ELEN",
+      "latitude": 46.389654,
+      "longitude": 16.434584
+    },
+    {
+      "name": "ELEN Grabovac",
+      "latitude": 44.973006,
+      "longitude": 15.647518
+    },
+    {
+      "name": "ELEN Mačkamama",
+      "latitude": 45.5464,
+      "longitude": 18.679748
+    },
+    {
+      "name": "ELEN Trajektna luka LOPAR",
+      "latitude": 44.835791,
+      "longitude": 14.725371
+    },
+    {
+      "name": "FER",
+      "latitude": 45.801469,
+      "longitude": 15.971739
+    },
+    {
+      "name": "Garaža Poljana",
+      "latitude": 43.734636,
+      "longitude": 15.893174
+    },
+    {
+      "name": "Gospić",
+      "latitude": 44.54545,
+      "longitude": 15.374225
+    },
+    {
+      "name": "Gradna jug",
+      "latitude": 45.825592,
+      "longitude": 15.737622
+    },
+    {
+      "name": "Gradna sjever",
+      "latitude": 45.827108,
+      "longitude": 15.738752
+    },
+    {
+      "name": "GreenWay Family Mall Zagreb",
+      "latitude": 45.804786,
+      "longitude": 15.858729
+    },
+    {
+      "name": "HEP Vezišće",
+      "latitude": 45.638501,
+      "longitude": 16.509997
+    },
+    {
+      "name": "Hotel Imperial",
+      "latitude": 44.761151,
+      "longitude": 14.758477
+    },
+    {
+      "name": "HPC Top Outlet Park Dugopolje",
+      "latitude": 43.588526,
+      "longitude": 16.571041
+    },
+    {
+      "name": "HT charger (Airport)",
+      "latitude": 43.536735,
+      "longitude": 16.300395
+    },
+    {
+      "name": "HT charger (CCO)",
+      "latitude": 43.512844,
+      "longitude": 16.503996
+    },
+    {
+      "name": "HT charger (Hotel Cornaro)",
+      "latitude": 43.51039,
+      "longitude": 16.439365
+    },
+    {
+      "name": "HT charger (Hotel Park)",
+      "latitude": 43.503152,
+      "longitude": 16.447849
+    },
+    {
+      "name": "INA",
+      "latitude": 46.41465,
+      "longitude": 16.688515
+    },
+    {
+      "name": "Ionity Gospic",
+      "latitude": 44.576969,
+      "longitude": 15.392919
+    },
+    {
+      "name": "IONITY Kanfanar",
+      "latitude": 45.112043,
+      "longitude": 13.802594
+    },
+    {
+      "name": "Ionity Sop",
+      "latitude": 45.783533,
+      "longitude": 16.151556
+    },
+    {
+      "name": "Ionity Vrankovec",
+      "latitude": 46.086817,
+      "longitude": 15.912406
+    },
+    {
+      "name": "IONITY Zadar Tromilja",
+      "latitude": 44.114589,
+      "longitude": 15.407616
+    },
+    {
+      "name": "Ivana Kapistrana",
+      "latitude": 45.836083,
+      "longitude": 17.384558
+    },
+    {
+      "name": "Janjče West Supercharger",
+      "latitude": 44.751073,
+      "longitude": 15.373413
+    },
+    {
+      "name": "Jasenice jug",
+      "latitude": 44.240012,
+      "longitude": 15.570006
+    },
+    {
+      "name": "Jasenice sjever",
+      "latitude": 44.240851,
+      "longitude": 15.566919
+    },
+    {
+      "name": "Jastrebarsko Supercharger",
+      "latitude": 45.65372,
+      "longitude": 15.655455
+    },
+    {
+      "name": "Karlovac Supercharger",
+      "latitude": 45.513013,
+      "longitude": 15.54754
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 43.722388,
+      "longitude": 15.906458
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 43.767021,
+      "longitude": 15.772824
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 43.945301,
+      "longitude": 15.452379
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.089319,
+      "longitude": 13.656025
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.162334,
+      "longitude": 18.018147
+    },
+    {
+      "name": "Komiža",
+      "latitude": 43.044837,
+      "longitude": 16.09123
+    },
+    {
+      "name": "Koprivnica Mihanovićeva",
+      "latitude": 46.15818,
+      "longitude": 16.82539
+    },
+    {
+      "name": "Koprivnica Zrinski trg",
+      "latitude": 46.16267,
+      "longitude": 16.833267
+    },
+    {
+      "name": "Kutina",
+      "latitude": 45.482742,
+      "longitude": 16.774266
+    },
+    {
+      "name": "Lepa bukva istok",
+      "latitude": 46.239292,
+      "longitude": 15.847407
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.533153,
+      "longitude": 16.490145
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.94469,
+      "longitude": 15.453286
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.891321,
+      "longitude": 16.853569
+    },
+    {
+      "name": "Ljubešćica Zapad",
+      "latitude": 46.169388,
+      "longitude": 16.374376
+    },
+    {
+      "name": "Marko K",
+      "latitude": 45.705366,
+      "longitude": 17.696046
+    },
+    {
+      "name": "Metković",
+      "latitude": 43.054485,
+      "longitude": 17.650102
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 45.381839,
+      "longitude": 14.937137
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 45.557241,
+      "longitude": 15.606712
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 45.560313,
+      "longitude": 15.608318
+    },
+    {
+      "name": "MOL Plugee",
+      "latitude": 45.758933,
+      "longitude": 15.901233
+    },
+    {
+      "name": "Nadin Jug",
+      "latitude": 44.062064,
+      "longitude": 15.529516
+    },
+    {
+      "name": "Nadin Sjever",
+      "latitude": 44.062178,
+      "longitude": 15.531281
+    },
+    {
+      "name": "Novi Marof",
+      "latitude": 46.161066,
+      "longitude": 16.335413
+    },
+    {
+      "name": "Novi Vinodolski",
+      "latitude": 45.125982,
+      "longitude": 14.791303
+    },
+    {
+      "name": "OneCharge",
+      "latitude": 45.807789,
+      "longitude": 15.984619
+    },
+    {
+      "name": "Osijek Perivoj",
+      "latitude": 45.562036,
+      "longitude": 18.686103
+    },
+    {
+      "name": "Osijek Perivoj",
+      "latitude": 46.392476,
+      "longitude": 16.41845
+    },
+    {
+      "name": "Otočac Supercharger",
+      "latitude": 44.893127,
+      "longitude": 15.184165
+    },
+    {
+      "name": "Parkiraliste Melin bb, Cres",
+      "latitude": 44.960261,
+      "longitude": 14.405345
+    },
+    {
+      "name": "Parkiralište Bana Jelačića",
+      "latitude": 45.704472,
+      "longitude": 17.704765
+    },
+    {
+      "name": "Parkiralište Kompareova",
+      "latitude": 45.803511,
+      "longitude": 15.713753
+    },
+    {
+      "name": "Petrol",
+      "latitude": 45.513164,
+      "longitude": 15.547455
+    },
+    {
+      "name": "Petrol",
+      "latitude": 45.662878,
+      "longitude": 15.710704
+    },
+    {
+      "name": "Petrol",
+      "latitude": 45.782013,
+      "longitude": 15.981815
+    },
+    {
+      "name": "Petrol",
+      "latitude": 45.797083,
+      "longitude": 15.992738
+    },
+    {
+      "name": "Petrol",
+      "latitude": 45.815064,
+      "longitude": 15.835569
+    },
+    {
+      "name": "Petrol",
+      "latitude": 45.869256,
+      "longitude": 16.192969
+    },
+    {
+      "name": "Petrol",
+      "latitude": 45.870016,
+      "longitude": 16.191817
+    },
+    {
+      "name": "Plugee",
+      "latitude": 45.308799,
+      "longitude": 15.278944
+    },
+    {
+      "name": "Plugee",
+      "latitude": 45.308966,
+      "longitude": 15.280503
+    },
+    {
+      "name": "Prokljan jug",
+      "latitude": 43.855656,
+      "longitude": 15.845887
+    },
+    {
+      "name": "Prokljan sjever",
+      "latitude": 43.856688,
+      "longitude": 15.846113
+    },
+    {
+      "name": "Punionica BEMV Bjelovar",
+      "latitude": 45.893829,
+      "longitude": 16.843938
+    },
+    {
+      "name": "Punionica za el. vozila",
+      "latitude": 45.885389,
+      "longitude": 16.416938
+    },
+    {
+      "name": "Qelo Avenue Mall -1",
+      "latitude": 45.776153,
+      "longitude": 15.979314
+    },
+    {
+      "name": "Qelo Avenue Mall -3",
+      "latitude": 45.776945,
+      "longitude": 15.979101
+    },
+    {
+      "name": "Qelo City Mall Pula 400kW",
+      "latitude": 44.866755,
+      "longitude": 13.867952
+    },
+    {
+      "name": "Qelo Lučko 200kW",
+      "latitude": 45.760688,
+      "longitude": 15.886438
+    },
+    {
+      "name": "Qelo Retail Park Dugo Selo",
+      "latitude": 45.809864,
+      "longitude": 16.20677
+    },
+    {
+      "name": "Qelo Retail Park Rovinj 400kW",
+      "latitude": 45.089707,
+      "longitude": 13.657793
+    },
+    {
+      "name": "Qelo Retail Park Županja",
+      "latitude": 45.080144,
+      "longitude": 18.698065
+    },
+    {
+      "name": "Qelo Rovinj City 400kW",
+      "latitude": 45.08062,
+      "longitude": 13.65356
+    },
+    {
+      "name": "Qelo Stop Shop Čakovec",
+      "latitude": 46.389052,
+      "longitude": 16.44876
+    },
+    {
+      "name": "Qelo StopShop Daruvar",
+      "latitude": 45.593278,
+      "longitude": 17.200266
+    },
+    {
+      "name": "Qelo StopShop Gospić",
+      "latitude": 44.556263,
+      "longitude": 15.382217
+    },
+    {
+      "name": "Qelo StopShop Ivanec",
+      "latitude": 46.231957,
+      "longitude": 16.144522
+    },
+    {
+      "name": "Qelo StopShop Krapina",
+      "latitude": 46.144559,
+      "longitude": 15.87304
+    },
+    {
+      "name": "Qelo StopShop Labin",
+      "latitude": 45.118949,
+      "longitude": 14.119281
+    },
+    {
+      "name": "Qelo StopShop Ludbreg",
+      "latitude": 46.247525,
+      "longitude": 16.628008
+    },
+    {
+      "name": "Qelo StopShop Našice",
+      "latitude": 45.497397,
+      "longitude": 18.095333
+    },
+    {
+      "name": "Qelo StopShop Nova Gradiška",
+      "latitude": 45.254343,
+      "longitude": 17.381498
+    },
+    {
+      "name": "Qelo StopShop Pazin",
+      "latitude": 45.233495,
+      "longitude": 13.921837
+    },
+    {
+      "name": "Qelo StopShop Velika Gorica",
+      "latitude": 45.716288,
+      "longitude": 16.055484
+    },
+    {
+      "name": "Qelo StopShop Vinkovci",
+      "latitude": 45.28751,
+      "longitude": 18.753964
+    },
+    {
+      "name": "Qelo StopShop Vukovar",
+      "latitude": 45.33956,
+      "longitude": 19.022777
+    },
+    {
+      "name": "Qelo StopShop Đakovo",
+      "latitude": 45.28581,
+      "longitude": 18.408009
+    },
+    {
+      "name": "Qelo Sun Park Vodice 400kW",
+      "latitude": 43.765034,
+      "longitude": 15.796781
+    },
+    {
+      "name": "Qelo Z Centar",
+      "latitude": 45.798942,
+      "longitude": 15.889584
+    },
+    {
+      "name": "Rašćane Gornje",
+      "latitude": 43.320573,
+      "longitude": 17.166166
+    },
+    {
+      "name": "Rijeka Delta",
+      "latitude": 45.324781,
+      "longitude": 14.446829
+    },
+    {
+      "name": "Rijeka Gomila",
+      "latitude": 45.328078,
+      "longitude": 14.442168
+    },
+    {
+      "name": "Runovići",
+      "latitude": 43.386293,
+      "longitude": 17.243375
+    },
+    {
+      "name": "Senj Supercharger",
+      "latitude": 44.98932,
+      "longitude": 14.897587
+    },
+    {
+      "name": "Sisak",
+      "latitude": 45.485059,
+      "longitude": 16.37924
+    },
+    {
+      "name": "Slavonski Brod Supercharger",
+      "latitude": 45.175296,
+      "longitude": 18.063245
+    },
+    {
+      "name": "Split Supercharger",
+      "latitude": 43.587361,
+      "longitude": 16.576435
+    },
+    {
+      "name": "Stanica za punjenje Greenway",
+      "latitude": 45.793354,
+      "longitude": 16.153114
+    },
+    {
+      "name": "Stari Grabovac jug",
+      "latitude": 45.307461,
+      "longitude": 17.011547
+    },
+    {
+      "name": "Stari Grabovac sjever",
+      "latitude": 45.308262,
+      "longitude": 17.013655
+    },
+    {
+      "name": "Stromanschluß",
+      "latitude": 44.053083,
+      "longitude": 15.306253
+    },
+    {
+      "name": "Sub Rosa d.o.o. Punionica",
+      "latitude": 43.583018,
+      "longitude": 16.556999
+    },
+    {
+      "name": "Super Konzum",
+      "latitude": 46.381512,
+      "longitude": 16.416561
+    },
+    {
+      "name": "Tesla",
+      "latitude": 45.015366,
+      "longitude": 13.714294
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 42.645797,
+      "longitude": 18.090737
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 43.517722,
+      "longitude": 16.231953
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 43.531983,
+      "longitude": 15.960517
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 45.033121,
+      "longitude": 14.631115
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 45.31455,
+      "longitude": 14.288456
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 45.33218,
+      "longitude": 14.302228
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 45.355709,
+      "longitude": 14.326887
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 44.751434,
+      "longitude": 15.375077
+    },
+    {
+      "name": "Tommy Krk Fast",
+      "latitude": 45.131079,
+      "longitude": 14.543413
+    },
+    {
+      "name": "Trg",
+      "latitude": 45.702553,
+      "longitude": 17.171923
+    },
+    {
+      "name": "Trg Braće Radić",
+      "latitude": 46.514197,
+      "longitude": 16.438947
+    },
+    {
+      "name": "Trg hrvatskih branitelja",
+      "latitude": 45.900639,
+      "longitude": 16.838947
+    },
+    {
+      "name": "Trg kralja Tomislava",
+      "latitude": 45.835106,
+      "longitude": 17.386209
+    },
+    {
+      "name": "Trpanj",
+      "latitude": 43.009375,
+      "longitude": 17.267457
+    },
+    {
+      "name": "Udinska ulica",
+      "latitude": 45.41264,
+      "longitude": 17.163841
+    },
+    {
+      "name": "Umag",
+      "latitude": 45.449509,
+      "longitude": 13.519521
+    },
+    {
+      "name": "Valpovo",
+      "latitude": 45.657575,
+      "longitude": 18.417564
+    },
+    {
+      "name": "Varazdin Supercharger",
+      "latitude": 46.26468,
+      "longitude": 16.378697
+    },
+    {
+      "name": "Varaždin Optujska",
+      "latitude": 46.322272,
+      "longitude": 16.302553
+    },
+    {
+      "name": "Viškovo",
+      "latitude": 45.380407,
+      "longitude": 14.385414
+    },
+    {
+      "name": "Vodice",
+      "latitude": 43.759222,
+      "longitude": 15.77863
+    },
+    {
+      "name": "Vrata Jadrana Supercharger",
+      "latitude": 45.355862,
+      "longitude": 14.350781
+    },
+    {
+      "name": "Vrgorac Supercharger",
+      "latitude": 43.204028,
+      "longitude": 17.373893
+    },
+    {
+      "name": "Vukova GoricaRI",
+      "latitude": 45.45621,
+      "longitude": 15.37847
+    },
+    {
+      "name": "Vukova GoricaZG",
+      "latitude": 45.456127,
+      "longitude": 15.377436
+    },
+    {
+      "name": "Westgate",
+      "latitude": 45.87001,
+      "longitude": 15.82536
+    },
+    {
+      "name": "Zabok",
+      "latitude": 46.017436,
+      "longitude": 15.937608
+    },
+    {
+      "name": "Zacretje",
+      "latitude": 46.073993,
+      "longitude": 15.907832
+    },
+    {
+      "name": "Zadar",
+      "latitude": 44.115173,
+      "longitude": 15.231918
+    },
+    {
+      "name": "Zadar Supercharger",
+      "latitude": 44.114047,
+      "longitude": 15.407155
+    },
+    {
+      "name": "Zagreb Supercharger",
+      "latitude": 45.767095,
+      "longitude": 16.233628
+    },
+    {
+      "name": "Zagvozd",
+      "latitude": 43.398716,
+      "longitude": 17.051338
+    },
+    {
+      "name": "ZG - Gruška I",
+      "latitude": 45.794469,
+      "longitude": 15.996364
+    },
+    {
+      "name": "ZG - Gruška II",
+      "latitude": 45.794468,
+      "longitude": 15.996288
+    },
+    {
+      "name": "Zg-Crnatkova I",
+      "latitude": 45.804719,
+      "longitude": 15.96657
+    },
+    {
+      "name": "Zir Istok",
+      "latitude": 44.46273,
+      "longitude": 15.602662
+    },
+    {
+      "name": "Zir Zapad - PIRAEX",
+      "latitude": 44.461373,
+      "longitude": 15.602584
+    },
+    {
+      "name": "Đurđevac",
+      "latitude": 46.042915,
+      "longitude": 17.073172
+    },
+    {
+      "name": "Štasni d.o.o. PJ Virovitica",
+      "latitude": 45.820778,
+      "longitude": 17.395401
+    }
+  ],
+  "meta": {
+    "title": "Punionice električnih vozila - Besplatno preuzimanje",
+    "description": "Punionice električnih vozila u Hrvatskoj (202 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=charging_station), izrez EU-POIS/HR. Sadrži 202 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Punionice električnih vozila | ListBase",
+    "seo_description": "Preuzmi Punionice električnih vozila — 202 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 202 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

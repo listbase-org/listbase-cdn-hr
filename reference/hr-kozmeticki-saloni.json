@@ -1,0 +1,1496 @@
+{
+  "id": "hr-kozmeticki-saloni",
+  "name": "Kozmetički saloni",
+  "title": "Kozmetički saloni",
+  "description": "Kozmetički saloni u Hrvatskoj (291 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=beauty), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 291,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "4 You",
+      "latitude": 45.805715,
+      "longitude": 15.728897
+    },
+    {
+      "name": "A New You",
+      "latitude": 45.800438,
+      "longitude": 15.723584
+    },
+    {
+      "name": "Afrodita cosmetics",
+      "latitude": 45.813163,
+      "longitude": 15.984927
+    },
+    {
+      "name": "Alfa",
+      "latitude": 45.556054,
+      "longitude": 18.697666
+    },
+    {
+      "name": "Aloha solarij",
+      "latitude": 45.806719,
+      "longitude": 15.711262
+    },
+    {
+      "name": "Ambasada ljepote",
+      "latitude": 43.713228,
+      "longitude": 15.912213
+    },
+    {
+      "name": "Amelie",
+      "latitude": 45.79588,
+      "longitude": 15.967792
+    },
+    {
+      "name": "Amplissime",
+      "latitude": 45.807587,
+      "longitude": 15.989374
+    },
+    {
+      "name": "Ana Beauty",
+      "latitude": 46.122121,
+      "longitude": 16.065928
+    },
+    {
+      "name": "Ane",
+      "latitude": 43.446323,
+      "longitude": 16.688055
+    },
+    {
+      "name": "Anima",
+      "latitude": 43.50485,
+      "longitude": 16.424539
+    },
+    {
+      "name": "Antonija",
+      "latitude": 43.51306,
+      "longitude": 16.448129
+    },
+    {
+      "name": "Anđela Nails",
+      "latitude": 43.505687,
+      "longitude": 16.457841
+    },
+    {
+      "name": "Artdeco Make up bar & Beauty Store",
+      "latitude": 45.808759,
+      "longitude": 15.931916
+    },
+    {
+      "name": "Artem",
+      "latitude": 45.901188,
+      "longitude": 16.841801
+    },
+    {
+      "name": "Artissima",
+      "latitude": 45.814221,
+      "longitude": 15.840408
+    },
+    {
+      "name": "Arwen beauty & makeup",
+      "latitude": 45.792189,
+      "longitude": 15.94947
+    },
+    {
+      "name": "Augusta-S",
+      "latitude": 45.799419,
+      "longitude": 15.99012
+    },
+    {
+      "name": "Aura",
+      "latitude": 45.816666,
+      "longitude": 15.996468
+    },
+    {
+      "name": "Aurora",
+      "latitude": 45.801192,
+      "longitude": 15.709078
+    },
+    {
+      "name": "BB Style",
+      "latitude": 45.804416,
+      "longitude": 15.70968
+    },
+    {
+      "name": "Beauty",
+      "latitude": 43.44531,
+      "longitude": 17.217355
+    },
+    {
+      "name": "Beauty Anne",
+      "latitude": 45.803476,
+      "longitude": 15.896687
+    },
+    {
+      "name": "Beauty bar",
+      "latitude": 45.814488,
+      "longitude": 16.008625
+    },
+    {
+      "name": "Beauty bar Glow",
+      "latitude": 45.80781,
+      "longitude": 15.938873
+    },
+    {
+      "name": "Beauty by Marija",
+      "latitude": 45.799427,
+      "longitude": 15.72334
+    },
+    {
+      "name": "Beauty centar Donna",
+      "latitude": 45.428405,
+      "longitude": 13.522608
+    },
+    {
+      "name": "Beauty centar Lavanda",
+      "latitude": 45.792293,
+      "longitude": 15.949471
+    },
+    {
+      "name": "Beauty centar Lucis",
+      "latitude": 45.899783,
+      "longitude": 16.83726
+    },
+    {
+      "name": "Beauty center Gloss",
+      "latitude": 42.975906,
+      "longitude": 17.167037
+    },
+    {
+      "name": "Beauty concept Gloria Tess",
+      "latitude": 45.791755,
+      "longitude": 15.939539
+    },
+    {
+      "name": "Beauty Manufactura",
+      "latitude": 45.800863,
+      "longitude": 15.953509
+    },
+    {
+      "name": "Beauty out of the box",
+      "latitude": 45.801843,
+      "longitude": 15.969555
+    },
+    {
+      "name": "Beauty Point",
+      "latitude": 45.331115,
+      "longitude": 14.458248
+    },
+    {
+      "name": "Beauty point M",
+      "latitude": 45.795706,
+      "longitude": 15.966544
+    },
+    {
+      "name": "Beauty Salon & Massage LOTOS",
+      "latitude": 44.053639,
+      "longitude": 15.296514
+    },
+    {
+      "name": "Beauty Shop",
+      "latitude": 45.77533,
+      "longitude": 15.965541
+    },
+    {
+      "name": "Beauty Spot by Helena",
+      "latitude": 45.795424,
+      "longitude": 15.966525
+    },
+    {
+      "name": "Beauty store",
+      "latitude": 45.79464,
+      "longitude": 15.919086
+    },
+    {
+      "name": "Beauty studio",
+      "latitude": 45.799158,
+      "longitude": 15.94911
+    },
+    {
+      "name": "Beauty studio Boom",
+      "latitude": 45.799121,
+      "longitude": 15.956201
+    },
+    {
+      "name": "Beauty studio Di",
+      "latitude": 45.480351,
+      "longitude": 15.549452
+    },
+    {
+      "name": "Beauty studio La Vie",
+      "latitude": 45.802569,
+      "longitude": 15.989996
+    },
+    {
+      "name": "beauty studio Ljijana",
+      "latitude": 45.816615,
+      "longitude": 15.934142
+    },
+    {
+      "name": "Beauty Studio NV",
+      "latitude": 45.936714,
+      "longitude": 16.773212
+    },
+    {
+      "name": "Beauty Studio S",
+      "latitude": 45.90051,
+      "longitude": 16.843614
+    },
+    {
+      "name": "Beautyholic",
+      "latitude": 45.813176,
+      "longitude": 15.959256
+    },
+    {
+      "name": "Beauté",
+      "latitude": 45.810205,
+      "longitude": 15.980158
+    },
+    {
+      "name": "Bella",
+      "latitude": 45.802476,
+      "longitude": 15.960568
+    },
+    {
+      "name": "BeYou Salon Ljepote",
+      "latitude": 43.508548,
+      "longitude": 16.468989
+    },
+    {
+      "name": "Bio Derm",
+      "latitude": 45.797212,
+      "longitude": 15.96653
+    },
+    {
+      "name": "Biomarin",
+      "latitude": 45.790554,
+      "longitude": 15.915609
+    },
+    {
+      "name": "Blerinda nails & beauty",
+      "latitude": 45.800903,
+      "longitude": 15.957812
+    },
+    {
+      "name": "Boba Nail Bar",
+      "latitude": 45.775216,
+      "longitude": 15.96417
+    },
+    {
+      "name": "Brow Spot",
+      "latitude": 45.810997,
+      "longitude": 15.996372
+    },
+    {
+      "name": "Bubamarica",
+      "latitude": 45.815987,
+      "longitude": 15.99925
+    },
+    {
+      "name": "Callus",
+      "latitude": 45.800784,
+      "longitude": 15.957555
+    },
+    {
+      "name": "Candy nails",
+      "latitude": 45.791837,
+      "longitude": 15.949475
+    },
+    {
+      "name": "Carita",
+      "latitude": 45.491457,
+      "longitude": 16.370603
+    },
+    {
+      "name": "Carlie Beauty by Sara",
+      "latitude": 45.792558,
+      "longitude": 15.95221
+    },
+    {
+      "name": "Cat Eye",
+      "latitude": 45.775569,
+      "longitude": 15.965149
+    },
+    {
+      "name": "Catharsis",
+      "latitude": 45.802426,
+      "longitude": 15.953664
+    },
+    {
+      "name": "Charm",
+      "latitude": 43.505974,
+      "longitude": 16.459612
+    },
+    {
+      "name": "Choice no.1",
+      "latitude": 45.808064,
+      "longitude": 15.893405
+    },
+    {
+      "name": "City wellness center",
+      "latitude": 45.806859,
+      "longitude": 15.984758
+    },
+    {
+      "name": "Contour",
+      "latitude": 45.792138,
+      "longitude": 15.912029
+    },
+    {
+      "name": "Cutis - salon ljepote",
+      "latitude": 46.337565,
+      "longitude": 16.621054
+    },
+    {
+      "name": "Daliborka",
+      "latitude": 44.881781,
+      "longitude": 13.859731
+    },
+    {
+      "name": "DB Beautiful",
+      "latitude": 45.802174,
+      "longitude": 15.969337
+    },
+    {
+      "name": "Dell'",
+      "latitude": 45.80981,
+      "longitude": 15.952013
+    },
+    {
+      "name": "Derma",
+      "latitude": 43.382366,
+      "longitude": 16.549155
+    },
+    {
+      "name": "Dermal beauty",
+      "latitude": 45.807402,
+      "longitude": 15.715809
+    },
+    {
+      "name": "Diamond Beauty",
+      "latitude": 45.314957,
+      "longitude": 14.289507
+    },
+    {
+      "name": "Diva",
+      "latitude": 43.517669,
+      "longitude": 16.444001
+    },
+    {
+      "name": "DIVA",
+      "latitude": 45.803111,
+      "longitude": 15.71016
+    },
+    {
+      "name": "DM",
+      "latitude": 45.482597,
+      "longitude": 16.776284
+    },
+    {
+      "name": "Donna",
+      "latitude": 45.319418,
+      "longitude": 13.571416
+    },
+    {
+      "name": "Ella beauty",
+      "latitude": 45.775948,
+      "longitude": 15.996033
+    },
+    {
+      "name": "Ella.",
+      "latitude": 45.81391,
+      "longitude": 15.988376
+    },
+    {
+      "name": "Ema",
+      "latitude": 45.802612,
+      "longitude": 15.969354
+    },
+    {
+      "name": "EndermoSpa centar",
+      "latitude": 45.802801,
+      "longitude": 15.969275
+    },
+    {
+      "name": "Eol",
+      "latitude": 43.822152,
+      "longitude": 15.591132
+    },
+    {
+      "name": "Estema kozmetika",
+      "latitude": 45.79181,
+      "longitude": 15.91522
+    },
+    {
+      "name": "Estetica",
+      "latitude": 45.814457,
+      "longitude": 15.976179
+    },
+    {
+      "name": "Estetski centar IBM",
+      "latitude": 45.807019,
+      "longitude": 15.942594
+    },
+    {
+      "name": "Etoile",
+      "latitude": 43.513281,
+      "longitude": 16.452945
+    },
+    {
+      "name": "Evelin",
+      "latitude": 46.306737,
+      "longitude": 16.345889
+    },
+    {
+      "name": "Fancy",
+      "latitude": 43.294496,
+      "longitude": 17.020175
+    },
+    {
+      "name": "Fancy",
+      "latitude": 43.448113,
+      "longitude": 17.224686
+    },
+    {
+      "name": "Fancy ladies",
+      "latitude": 45.809564,
+      "longitude": 15.896447
+    },
+    {
+      "name": "Feniks",
+      "latitude": 46.305795,
+      "longitude": 16.34174
+    },
+    {
+      "name": "Fish Pedicure",
+      "latitude": 45.139717,
+      "longitude": 13.602243
+    },
+    {
+      "name": "Fisio B / Manu",
+      "latitude": 43.510802,
+      "longitude": 16.451811
+    },
+    {
+      "name": "Fitnes centar Torbar",
+      "latitude": 45.666869,
+      "longitude": 15.651426
+    },
+    {
+      "name": "Flores",
+      "latitude": 45.802157,
+      "longitude": 15.989344
+    },
+    {
+      "name": "Footology by Tena & Kate",
+      "latitude": 45.807336,
+      "longitude": 15.976272
+    },
+    {
+      "name": "Frizerski studio Luxury",
+      "latitude": 45.788267,
+      "longitude": 15.948954
+    },
+    {
+      "name": "G. Beauty",
+      "latitude": 45.786909,
+      "longitude": 15.950334
+    },
+    {
+      "name": "Glam room",
+      "latitude": 45.485098,
+      "longitude": 16.37282
+    },
+    {
+      "name": "Glamur Nails",
+      "latitude": 45.799475,
+      "longitude": 16.000359
+    },
+    {
+      "name": "Gloc",
+      "latitude": 45.481282,
+      "longitude": 16.369632
+    },
+    {
+      "name": "Gloss",
+      "latitude": 45.485455,
+      "longitude": 16.372572
+    },
+    {
+      "name": "Gold Sun",
+      "latitude": 43.505908,
+      "longitude": 16.459269
+    },
+    {
+      "name": "Golden Rose Cosmetics",
+      "latitude": 44.117314,
+      "longitude": 15.270945
+    },
+    {
+      "name": "Gordana Beauty Center",
+      "latitude": 44.115687,
+      "longitude": 15.232199
+    },
+    {
+      "name": "Harmony",
+      "latitude": 45.795274,
+      "longitude": 15.908211
+    },
+    {
+      "name": "Hathor",
+      "latitude": 45.798289,
+      "longitude": 15.946019
+    },
+    {
+      "name": "Heaven",
+      "latitude": 45.79644,
+      "longitude": 15.924998
+    },
+    {
+      "name": "Holly",
+      "latitude": 45.810225,
+      "longitude": 15.920189
+    },
+    {
+      "name": "House of nails",
+      "latitude": 45.786972,
+      "longitude": 15.950743
+    },
+    {
+      "name": "Idol plus",
+      "latitude": 45.796021,
+      "longitude": 15.970043
+    },
+    {
+      "name": "IFD Beauty",
+      "latitude": 43.504903,
+      "longitude": 16.42569
+    },
+    {
+      "name": "Ines",
+      "latitude": 46.028294,
+      "longitude": 16.543833
+    },
+    {
+      "name": "Infinitus",
+      "latitude": 45.790786,
+      "longitude": 15.928092
+    },
+    {
+      "name": "Ivana Nails",
+      "latitude": 45.810883,
+      "longitude": 15.995646
+    },
+    {
+      "name": "Ivančica",
+      "latitude": 45.339885,
+      "longitude": 16.975412
+    },
+    {
+      "name": "Jaan",
+      "latitude": 45.775944,
+      "longitude": 15.961519
+    },
+    {
+      "name": "Jana",
+      "latitude": 43.444665,
+      "longitude": 16.642165
+    },
+    {
+      "name": "Jania Kozmetićki Salon",
+      "latitude": 44.116022,
+      "longitude": 15.246201
+    },
+    {
+      "name": "Jolie",
+      "latitude": 45.802777,
+      "longitude": 15.942227
+    },
+    {
+      "name": "Joy beauty touch",
+      "latitude": 45.789741,
+      "longitude": 15.915571
+    },
+    {
+      "name": "Kalis",
+      "latitude": 45.798728,
+      "longitude": 15.980417
+    },
+    {
+      "name": "Karisma",
+      "latitude": 45.896569,
+      "longitude": 16.847139
+    },
+    {
+      "name": "Karma kozmetički salon i pediker",
+      "latitude": 45.788499,
+      "longitude": 15.947545
+    },
+    {
+      "name": "KaSara salon za masažu",
+      "latitude": 43.507956,
+      "longitude": 16.468816
+    },
+    {
+      "name": "Kokkai",
+      "latitude": 45.289449,
+      "longitude": 18.801896
+    },
+    {
+      "name": "Koko braids",
+      "latitude": 45.798331,
+      "longitude": 15.946247
+    },
+    {
+      "name": "Kozmeticki Studio No 7",
+      "latitude": 45.372618,
+      "longitude": 14.349381
+    },
+    {
+      "name": "Kozmetički salon",
+      "latitude": 45.79801,
+      "longitude": 15.945677
+    },
+    {
+      "name": "Kozmetički salon \"Grace\"",
+      "latitude": 44.879516,
+      "longitude": 13.86289
+    },
+    {
+      "name": "Kozmetički Salon \"Lavanda\"",
+      "latitude": 45.792053,
+      "longitude": 15.943542
+    },
+    {
+      "name": "Kozmetički salon Angie",
+      "latitude": 45.483869,
+      "longitude": 15.544958
+    },
+    {
+      "name": "Kozmetički salon K&K",
+      "latitude": 45.805288,
+      "longitude": 16.24032
+    },
+    {
+      "name": "Kozmetički salon Laverna",
+      "latitude": 45.040204,
+      "longitude": 13.78027
+    },
+    {
+      "name": "kozmetički salon Revita Nova",
+      "latitude": 45.806132,
+      "longitude": 16.231058
+    },
+    {
+      "name": "Kozmetički salon Svijetlana",
+      "latitude": 45.792198,
+      "longitude": 15.901081
+    },
+    {
+      "name": "Kozmetički studio Iva",
+      "latitude": 46.224477,
+      "longitude": 16.117773
+    },
+    {
+      "name": "Kozmetički studio Paola",
+      "latitude": 45.789746,
+      "longitude": 15.932054
+    },
+    {
+      "name": "Kozmetički studio Paola",
+      "latitude": 45.790267,
+      "longitude": 15.933901
+    },
+    {
+      "name": "Kozmetički studio Z.G.",
+      "latitude": 45.794123,
+      "longitude": 15.918315
+    },
+    {
+      "name": "Kralj",
+      "latitude": 45.806257,
+      "longitude": 16.230876
+    },
+    {
+      "name": "Kriss",
+      "latitude": 45.816313,
+      "longitude": 16.001632
+    },
+    {
+      "name": "Kristinina kremica",
+      "latitude": 45.809104,
+      "longitude": 15.980534
+    },
+    {
+      "name": "Kult",
+      "latitude": 45.81236,
+      "longitude": 15.951936
+    },
+    {
+      "name": "la Lu",
+      "latitude": 45.796322,
+      "longitude": 15.996494
+    },
+    {
+      "name": "La sante beauty studio",
+      "latitude": 45.808021,
+      "longitude": 15.937669
+    },
+    {
+      "name": "La Tua",
+      "latitude": 45.790811,
+      "longitude": 15.910388
+    },
+    {
+      "name": "LaBruna",
+      "latitude": 45.803624,
+      "longitude": 15.715613
+    },
+    {
+      "name": "Laq.",
+      "latitude": 45.813296,
+      "longitude": 15.955858
+    },
+    {
+      "name": "Laria",
+      "latitude": 45.787991,
+      "longitude": 15.949169
+    },
+    {
+      "name": "Lavandula",
+      "latitude": 46.305861,
+      "longitude": 16.341891
+    },
+    {
+      "name": "Lavnita",
+      "latitude": 43.505946,
+      "longitude": 16.459435
+    },
+    {
+      "name": "Les Mains",
+      "latitude": 45.812101,
+      "longitude": 15.982718
+    },
+    {
+      "name": "Level up",
+      "latitude": 45.799451,
+      "longitude": 15.95027
+    },
+    {
+      "name": "Lipa",
+      "latitude": 43.504139,
+      "longitude": 16.456231
+    },
+    {
+      "name": "Livia",
+      "latitude": 45.163998,
+      "longitude": 18.021897
+    },
+    {
+      "name": "Lora derm",
+      "latitude": 45.802933,
+      "longitude": 15.971901
+    },
+    {
+      "name": "Lotos Beauty",
+      "latitude": 44.125235,
+      "longitude": 15.227405
+    },
+    {
+      "name": "LOTUS Ray Kozmetički studio za žene",
+      "latitude": 45.794948,
+      "longitude": 15.912317
+    },
+    {
+      "name": "Luerza",
+      "latitude": 45.806201,
+      "longitude": 15.905428
+    },
+    {
+      "name": "Luma body clinic",
+      "latitude": 45.80207,
+      "longitude": 15.959472
+    },
+    {
+      "name": "Lumière",
+      "latitude": 45.798668,
+      "longitude": 15.987775
+    },
+    {
+      "name": "Ma.lu",
+      "latitude": 45.795607,
+      "longitude": 15.965225
+    },
+    {
+      "name": "Magdanails",
+      "latitude": 45.808399,
+      "longitude": 15.984641
+    },
+    {
+      "name": "Magnetic spa",
+      "latitude": 43.509554,
+      "longitude": 16.452928
+    },
+    {
+      "name": "Magnifique",
+      "latitude": 45.79905,
+      "longitude": 15.985935
+    },
+    {
+      "name": "Maja",
+      "latitude": 45.804096,
+      "longitude": 16.230933
+    },
+    {
+      "name": "Make over studio",
+      "latitude": 45.809317,
+      "longitude": 15.988547
+    },
+    {
+      "name": "Mani e piedi",
+      "latitude": 45.799315,
+      "longitude": 15.949689
+    },
+    {
+      "name": "Maniku",
+      "latitude": 45.790068,
+      "longitude": 15.921839
+    },
+    {
+      "name": "Manon",
+      "latitude": 45.81324,
+      "longitude": 15.958086
+    },
+    {
+      "name": "Manufaktura nail bar",
+      "latitude": 45.810605,
+      "longitude": 15.987261
+    },
+    {
+      "name": "Marina",
+      "latitude": 45.810797,
+      "longitude": 15.974184
+    },
+    {
+      "name": "Marlei",
+      "latitude": 45.798915,
+      "longitude": 15.93819
+    },
+    {
+      "name": "MaRo's Nails & Tattoo",
+      "latitude": 45.800596,
+      "longitude": 15.711906
+    },
+    {
+      "name": "Martimex",
+      "latitude": 45.812448,
+      "longitude": 15.964809
+    },
+    {
+      "name": "Martina salon za uljepšavanje",
+      "latitude": 45.79644,
+      "longitude": 15.966465
+    },
+    {
+      "name": "Maru Pedi Spa",
+      "latitude": 43.260599,
+      "longitude": 16.654197
+    },
+    {
+      "name": "Massage Nikol",
+      "latitude": 45.188619,
+      "longitude": 13.594305
+    },
+    {
+      "name": "Matis No 1",
+      "latitude": 45.781126,
+      "longitude": 15.986087
+    },
+    {
+      "name": "Me Time",
+      "latitude": 45.79815,
+      "longitude": 15.945236
+    },
+    {
+      "name": "Medelior",
+      "latitude": 45.800007,
+      "longitude": 16.001724
+    },
+    {
+      "name": "Mediped",
+      "latitude": 45.80151,
+      "longitude": 15.95708
+    },
+    {
+      "name": "MediPediCo",
+      "latitude": 45.813592,
+      "longitude": 15.983253
+    },
+    {
+      "name": "megaSun",
+      "latitude": 45.821999,
+      "longitude": 16.0119
+    },
+    {
+      "name": "Melius beauty studio",
+      "latitude": 45.786782,
+      "longitude": 15.949659
+    },
+    {
+      "name": "Mia bella",
+      "latitude": 45.792267,
+      "longitude": 15.910774
+    },
+    {
+      "name": "Miriana",
+      "latitude": 43.294304,
+      "longitude": 17.020443
+    },
+    {
+      "name": "Moje vrijeme",
+      "latitude": 45.797165,
+      "longitude": 16.004027
+    },
+    {
+      "name": "Monroe",
+      "latitude": 43.505974,
+      "longitude": 16.459669
+    },
+    {
+      "name": "My Time",
+      "latitude": 45.791979,
+      "longitude": 15.91335
+    },
+    {
+      "name": "Nail Academy",
+      "latitude": 42.624247,
+      "longitude": 18.205231
+    },
+    {
+      "name": "Nail bar",
+      "latitude": 45.813088,
+      "longitude": 15.985044
+    },
+    {
+      "name": "Nail studio M",
+      "latitude": 43.506303,
+      "longitude": 16.459436
+    },
+    {
+      "name": "Nails by Tanja",
+      "latitude": 45.812692,
+      "longitude": 15.989667
+    },
+    {
+      "name": "new Me",
+      "latitude": 45.810145,
+      "longitude": 15.928805
+    },
+    {
+      "name": "Nicole Nails Samobor",
+      "latitude": 45.801484,
+      "longitude": 15.711973
+    },
+    {
+      "name": "Nikita Beauty",
+      "latitude": 45.798107,
+      "longitude": 15.939767
+    },
+    {
+      "name": "Nitui",
+      "latitude": 45.791858,
+      "longitude": 15.914725
+    },
+    {
+      "name": "Noel",
+      "latitude": 45.813583,
+      "longitude": 15.985512
+    },
+    {
+      "name": "Noel Beauty Academy",
+      "latitude": 43.511515,
+      "longitude": 16.457617
+    },
+    {
+      "name": "Noemi ART",
+      "latitude": 45.803397,
+      "longitude": 15.710154
+    },
+    {
+      "name": "Noir beauty",
+      "latitude": 45.799823,
+      "longitude": 15.952528
+    },
+    {
+      "name": "Nokteraj",
+      "latitude": 45.815665,
+      "longitude": 15.996852
+    },
+    {
+      "name": "Notaboo",
+      "latitude": 45.812344,
+      "longitude": 15.982559
+    },
+    {
+      "name": "O zone",
+      "latitude": 45.802261,
+      "longitude": 16.002498
+    },
+    {
+      "name": "ONDA, Beauty centar",
+      "latitude": 45.161719,
+      "longitude": 14.760763
+    },
+    {
+      "name": "Orihalk",
+      "latitude": 45.799488,
+      "longitude": 15.959142
+    },
+    {
+      "name": "P.S...Beauty",
+      "latitude": 45.810524,
+      "longitude": 15.993205
+    },
+    {
+      "name": "Patrizia beauty salon",
+      "latitude": 45.797312,
+      "longitude": 15.964954
+    },
+    {
+      "name": "Pedi-Prof",
+      "latitude": 45.787466,
+      "longitude": 15.949589
+    },
+    {
+      "name": "Pediker",
+      "latitude": 45.491868,
+      "longitude": 15.55727
+    },
+    {
+      "name": "pediker Marija",
+      "latitude": 45.813998,
+      "longitude": 15.929273
+    },
+    {
+      "name": "Pedisan",
+      "latitude": 45.484258,
+      "longitude": 15.547031
+    },
+    {
+      "name": "Per Lei",
+      "latitude": 45.035651,
+      "longitude": 14.569064
+    },
+    {
+      "name": "Perla",
+      "latitude": 45.811175,
+      "longitude": 15.950047
+    },
+    {
+      "name": "Personails",
+      "latitude": 45.901252,
+      "longitude": 16.841844
+    },
+    {
+      "name": "Platinum",
+      "latitude": 45.813594,
+      "longitude": 15.990213
+    },
+    {
+      "name": "Princeza 1",
+      "latitude": 43.7335,
+      "longitude": 15.89327
+    },
+    {
+      "name": "R1",
+      "latitude": 45.810262,
+      "longitude": 15.886101
+    },
+    {
+      "name": "Relax",
+      "latitude": 45.797262,
+      "longitude": 15.914791
+    },
+    {
+      "name": "Renata",
+      "latitude": 46.092728,
+      "longitude": 15.837772
+    },
+    {
+      "name": "Reneskins by Bagatin",
+      "latitude": 45.812423,
+      "longitude": 15.97284
+    },
+    {
+      "name": "Romi Nails",
+      "latitude": 45.225218,
+      "longitude": 13.596248
+    },
+    {
+      "name": "Rosemarie studio",
+      "latitude": 45.809037,
+      "longitude": 15.988374
+    },
+    {
+      "name": "Rox beauty",
+      "latitude": 45.813289,
+      "longitude": 15.967958
+    },
+    {
+      "name": "Royal lashes",
+      "latitude": 45.801472,
+      "longitude": 15.993106
+    },
+    {
+      "name": "Ruža",
+      "latitude": 45.813824,
+      "longitude": 15.985309
+    },
+    {
+      "name": "S Nails",
+      "latitude": 43.364626,
+      "longitude": 16.936606
+    },
+    {
+      "name": "Saba",
+      "latitude": 45.794217,
+      "longitude": 15.903346
+    },
+    {
+      "name": "Salon Branka",
+      "latitude": 45.803316,
+      "longitude": 15.953019
+    },
+    {
+      "name": "Salon ljepote Femme",
+      "latitude": 43.587009,
+      "longitude": 15.924031
+    },
+    {
+      "name": "Salon ljepote Hypnotic",
+      "latitude": 45.79022,
+      "longitude": 15.956195
+    },
+    {
+      "name": "Salon ljepote Iva",
+      "latitude": 45.541022,
+      "longitude": 18.052121
+    },
+    {
+      "name": "salon ljepote Kozjak",
+      "latitude": 45.822221,
+      "longitude": 16.01159
+    },
+    {
+      "name": "Salon ljepote Orange",
+      "latitude": 45.79192,
+      "longitude": 15.946583
+    },
+    {
+      "name": "Salon za njegu kose i noktiju Dijana",
+      "latitude": 45.798198,
+      "longitude": 15.946783
+    },
+    {
+      "name": "Salon za ulepšavanje",
+      "latitude": 46.513042,
+      "longitude": 16.440607
+    },
+    {
+      "name": "Salončić Bonbončić",
+      "latitude": 43.51091,
+      "longitude": 16.452835
+    },
+    {
+      "name": "San beauty",
+      "latitude": 45.807103,
+      "longitude": 15.894408
+    },
+    {
+      "name": "Sany",
+      "latitude": 45.806073,
+      "longitude": 15.990669
+    },
+    {
+      "name": "Scubach",
+      "latitude": 46.329704,
+      "longitude": 16.619865
+    },
+    {
+      "name": "Self Love beauty studio",
+      "latitude": 43.509095,
+      "longitude": 16.443654
+    },
+    {
+      "name": "Self tanning Solarij ZG",
+      "latitude": 45.791303,
+      "longitude": 15.939317
+    },
+    {
+      "name": "Sensa centar",
+      "latitude": 45.811794,
+      "longitude": 15.95069
+    },
+    {
+      "name": "SHE Beauty Lounge",
+      "latitude": 43.5141,
+      "longitude": 16.469369
+    },
+    {
+      "name": "SHINE",
+      "latitude": 44.151887,
+      "longitude": 15.203859
+    },
+    {
+      "name": "Skin Studio",
+      "latitude": 45.334746,
+      "longitude": 17.676097
+    },
+    {
+      "name": "Skintegra",
+      "latitude": 45.811041,
+      "longitude": 15.989478
+    },
+    {
+      "name": "Smart studio ljepote",
+      "latitude": 45.795118,
+      "longitude": 15.962072
+    },
+    {
+      "name": "SOCAP ORIGINAL",
+      "latitude": 45.822291,
+      "longitude": 16.027703
+    },
+    {
+      "name": "solarij megaSun",
+      "latitude": 45.793994,
+      "longitude": 15.918411
+    },
+    {
+      "name": "Stefy",
+      "latitude": 45.467701,
+      "longitude": 16.374711
+    },
+    {
+      "name": "Studio 5",
+      "latitude": 43.508817,
+      "longitude": 16.453887
+    },
+    {
+      "name": "Studio A - salon za uljepšavanje",
+      "latitude": 45.33831,
+      "longitude": 17.669479
+    },
+    {
+      "name": "Studio Antonija",
+      "latitude": 45.809613,
+      "longitude": 15.974381
+    },
+    {
+      "name": "Studio Beti",
+      "latitude": 45.787798,
+      "longitude": 15.92739
+    },
+    {
+      "name": "Studio Dina",
+      "latitude": 45.334554,
+      "longitude": 17.683656
+    },
+    {
+      "name": "Studio IN",
+      "latitude": 46.51251,
+      "longitude": 16.441229
+    },
+    {
+      "name": "Studio ljepote",
+      "latitude": 46.390088,
+      "longitude": 16.430367
+    },
+    {
+      "name": "Studio ljepote Hope",
+      "latitude": 45.796176,
+      "longitude": 15.724533
+    },
+    {
+      "name": "Studio ljepote Manuela",
+      "latitude": 45.799968,
+      "longitude": 15.957424
+    },
+    {
+      "name": "Studio Marijanis",
+      "latitude": 45.798171,
+      "longitude": 15.945368
+    },
+    {
+      "name": "Studio Refresh",
+      "latitude": 45.802729,
+      "longitude": 15.99896
+    },
+    {
+      "name": "Studio Tempora",
+      "latitude": 45.795617,
+      "longitude": 15.967973
+    },
+    {
+      "name": "Sugared & Co.",
+      "latitude": 45.796235,
+      "longitude": 15.966488
+    },
+    {
+      "name": "Sulis Life",
+      "latitude": 45.788141,
+      "longitude": 15.948571
+    },
+    {
+      "name": "Sun & beauty",
+      "latitude": 45.798398,
+      "longitude": 15.946636
+    },
+    {
+      "name": "Sun city",
+      "latitude": 43.518608,
+      "longitude": 16.449453
+    },
+    {
+      "name": "Suncokret",
+      "latitude": 45.79099,
+      "longitude": 15.956002
+    },
+    {
+      "name": "T&T",
+      "latitude": 45.821475,
+      "longitude": 15.925922
+    },
+    {
+      "name": "tami nails",
+      "latitude": 45.801178,
+      "longitude": 15.929547
+    },
+    {
+      "name": "Tea Jokić",
+      "latitude": 45.808175,
+      "longitude": 15.898496
+    },
+    {
+      "name": "Tiny Perfection",
+      "latitude": 43.294555,
+      "longitude": 17.020004
+    },
+    {
+      "name": "TK Make up face & body",
+      "latitude": 45.801054,
+      "longitude": 15.938292
+    },
+    {
+      "name": "Touch",
+      "latitude": 43.503802,
+      "longitude": 16.456361
+    },
+    {
+      "name": "Tvornica noktiju",
+      "latitude": 45.804772,
+      "longitude": 15.997099
+    },
+    {
+      "name": "Unique",
+      "latitude": 45.808173,
+      "longitude": 15.899606
+    },
+    {
+      "name": "Valentina",
+      "latitude": 45.161838,
+      "longitude": 18.032045
+    },
+    {
+      "name": "Vanja's Beautique",
+      "latitude": 45.802489,
+      "longitude": 15.960618
+    },
+    {
+      "name": "Ventula",
+      "latitude": 43.294955,
+      "longitude": 17.020226
+    },
+    {
+      "name": "Viola",
+      "latitude": 45.340838,
+      "longitude": 16.973782
+    },
+    {
+      "name": "Vita Forma",
+      "latitude": 45.780697,
+      "longitude": 15.985142
+    },
+    {
+      "name": "Wicked nails",
+      "latitude": 45.806595,
+      "longitude": 15.988822
+    },
+    {
+      "name": "WOB",
+      "latitude": 45.813514,
+      "longitude": 15.985859
+    },
+    {
+      "name": "You&Me Spa",
+      "latitude": 44.864187,
+      "longitude": 13.854512
+    },
+    {
+      "name": "Zdrav dodir",
+      "latitude": 45.806066,
+      "longitude": 15.715592
+    },
+    {
+      "name": "Škrinjica ljepote",
+      "latitude": 45.796754,
+      "longitude": 15.980627
+    },
+    {
+      "name": "Šminkeraj Split",
+      "latitude": 43.508434,
+      "longitude": 16.466733
+    },
+    {
+      "name": "Žana kozmetika",
+      "latitude": 45.802365,
+      "longitude": 15.968448
+    },
+    {
+      "name": "Žuto",
+      "latitude": 45.808179,
+      "longitude": 15.898151
+    }
+  ],
+  "meta": {
+    "title": "Kozmetički saloni - Besplatno preuzimanje",
+    "description": "Kozmetički saloni u Hrvatskoj (291 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=beauty), izrez EU-POIS/HR. Sadrži 291 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kozmetički saloni | ListBase",
+    "seo_description": "Preuzmi Kozmetički saloni — 291 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 291 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

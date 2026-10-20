@@ -1,0 +1,866 @@
+{
+  "id": "hr-sibensko-kninska-kafici",
+  "name": "Kafići — Šibensko-kninska županija",
+  "title": "Kafići — Šibensko-kninska županija",
+  "description": "165 kafići u županiji Šibensko-kninska županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 165,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2L",
+      "latitude": 43.495143,
+      "longitude": 15.998848
+    },
+    {
+      "name": "Bamboo bar",
+      "latitude": 43.768248,
+      "longitude": 15.903961
+    },
+    {
+      "name": "bar Africa",
+      "latitude": 43.665701,
+      "longitude": 15.939543
+    },
+    {
+      "name": "Basadura",
+      "latitude": 43.753341,
+      "longitude": 15.744107
+    },
+    {
+      "name": "BAZA BAR SRIMA",
+      "latitude": 43.749177,
+      "longitude": 15.793941
+    },
+    {
+      "name": "Beach bar \"Punta\"",
+      "latitude": 43.54063,
+      "longitude": 15.955917
+    },
+    {
+      "name": "Beach bar Maž",
+      "latitude": 43.587903,
+      "longitude": 15.923833
+    },
+    {
+      "name": "Beach Bar Stela",
+      "latitude": 43.754152,
+      "longitude": 15.768215
+    },
+    {
+      "name": "Beach Club Tropicana",
+      "latitude": 43.753545,
+      "longitude": 15.76602
+    },
+    {
+      "name": "Bedem",
+      "latitude": 43.634769,
+      "longitude": 15.971875
+    },
+    {
+      "name": "Biberon",
+      "latitude": 43.755533,
+      "longitude": 15.879125
+    },
+    {
+      "name": "Bonaco Cafe Bar",
+      "latitude": 43.756854,
+      "longitude": 15.774874
+    },
+    {
+      "name": "Bus",
+      "latitude": 43.817008,
+      "longitude": 15.668351
+    },
+    {
+      "name": "Cafe Bar \"PEJO\"",
+      "latitude": 43.822683,
+      "longitude": 15.604087
+    },
+    {
+      "name": "Cafe Leopold",
+      "latitude": 43.822218,
+      "longitude": 15.591991
+    },
+    {
+      "name": "Cafe Lucy",
+      "latitude": 43.785515,
+      "longitude": 15.642004
+    },
+    {
+      "name": "Cafe Tobogan",
+      "latitude": 43.753834,
+      "longitude": 15.785565
+    },
+    {
+      "name": "Caffe & beach bar Sugestija",
+      "latitude": 43.536906,
+      "longitude": 15.974925
+    },
+    {
+      "name": "Caffe bar",
+      "latitude": 44.041294,
+      "longitude": 16.199163
+    },
+    {
+      "name": "Caffe Bar \"The Bar\"",
+      "latitude": 43.734077,
+      "longitude": 15.891037
+    },
+    {
+      "name": "Caffe Bar Akvarij",
+      "latitude": 44.040257,
+      "longitude": 16.195793
+    },
+    {
+      "name": "Caffe bar Baldekin",
+      "latitude": 43.729096,
+      "longitude": 15.903217
+    },
+    {
+      "name": "Caffe bar Black & White",
+      "latitude": 44.044256,
+      "longitude": 16.199625
+    },
+    {
+      "name": "Caffe bar Crystal",
+      "latitude": 44.04378,
+      "longitude": 16.199004
+    },
+    {
+      "name": "Caffe Bar Dalmatino",
+      "latitude": 43.807219,
+      "longitude": 15.854393
+    },
+    {
+      "name": "caffe bar Dream Garden",
+      "latitude": 43.543619,
+      "longitude": 15.966014
+    },
+    {
+      "name": "Caffe bar Fermaj",
+      "latitude": 43.586049,
+      "longitude": 15.942595
+    },
+    {
+      "name": "Caffe bar Kula Oklaj",
+      "latitude": 43.962055,
+      "longitude": 16.078085
+    },
+    {
+      "name": "Caffe bar Lasica",
+      "latitude": 43.734304,
+      "longitude": 15.890685
+    },
+    {
+      "name": "caffe bar Locco",
+      "latitude": 43.634902,
+      "longitude": 15.962684
+    },
+    {
+      "name": "Caffe bar Lokva",
+      "latitude": 43.734939,
+      "longitude": 15.942681
+    },
+    {
+      "name": "Caffe bar Lotos",
+      "latitude": 43.867434,
+      "longitude": 16.19027
+    },
+    {
+      "name": "Caffe bar Maestral",
+      "latitude": 44.041445,
+      "longitude": 16.199161
+    },
+    {
+      "name": "Caffe bar Makelja",
+      "latitude": 43.961974,
+      "longitude": 16.078208
+    },
+    {
+      "name": "Caffe bar Mala Raduča",
+      "latitude": 43.588112,
+      "longitude": 15.923826
+    },
+    {
+      "name": "Caffe bar Me gusta",
+      "latitude": 44.043966,
+      "longitude": 16.19951
+    },
+    {
+      "name": "Caffe bar Moby Dick",
+      "latitude": 43.734014,
+      "longitude": 15.891111
+    },
+    {
+      "name": "Caffe bar Mojito",
+      "latitude": 43.81666,
+      "longitude": 15.923075
+    },
+    {
+      "name": "Caffe bar Mustang",
+      "latitude": 43.860968,
+      "longitude": 16.15385
+    },
+    {
+      "name": "Caffe bar Niko",
+      "latitude": 43.818155,
+      "longitude": 15.923138
+    },
+    {
+      "name": "Caffe Bar Nina",
+      "latitude": 43.782419,
+      "longitude": 16.019802
+    },
+    {
+      "name": "Caffe bar Pasini",
+      "latitude": 43.759727,
+      "longitude": 15.901021
+    },
+    {
+      "name": "Caffe bar Popaj",
+      "latitude": 43.588528,
+      "longitude": 15.923717
+    },
+    {
+      "name": "Caffe bar Puls",
+      "latitude": 44.042955,
+      "longitude": 16.19783
+    },
+    {
+      "name": "Caffe bar Shuby",
+      "latitude": 43.745555,
+      "longitude": 15.896052
+    },
+    {
+      "name": "Caffe bar Solist",
+      "latitude": 43.789731,
+      "longitude": 15.886161
+    },
+    {
+      "name": "Caffe bar Square",
+      "latitude": 44.036938,
+      "longitude": 16.197902
+    },
+    {
+      "name": "Caffe Bar Stubalj",
+      "latitude": 43.785076,
+      "longitude": 15.880209
+    },
+    {
+      "name": "Caffe bar Valeria",
+      "latitude": 43.735163,
+      "longitude": 15.892679
+    },
+    {
+      "name": "Caffe Bar Vlaho",
+      "latitude": 43.587409,
+      "longitude": 15.923731
+    },
+    {
+      "name": "Caffe bar Žigolo",
+      "latitude": 44.041902,
+      "longitude": 16.198332
+    },
+    {
+      "name": "caffe Shark",
+      "latitude": 43.663417,
+      "longitude": 15.93847
+    },
+    {
+      "name": "Caffe/Pancake House Mozart",
+      "latitude": 44.034988,
+      "longitude": 16.196658
+    },
+    {
+      "name": "Caffeteria Giro Espresso",
+      "latitude": 43.735059,
+      "longitude": 15.891818
+    },
+    {
+      "name": "Café Bar - Bistro \"Barone\"",
+      "latitude": 43.737323,
+      "longitude": 15.896246
+    },
+    {
+      "name": "Café Sunce",
+      "latitude": 43.676636,
+      "longitude": 15.92027
+    },
+    {
+      "name": "Cakula",
+      "latitude": 43.785464,
+      "longitude": 15.641646
+    },
+    {
+      "name": "Captain bar",
+      "latitude": 43.75309,
+      "longitude": 15.744564
+    },
+    {
+      "name": "Captain Club Bar",
+      "latitude": 43.531999,
+      "longitude": 15.961404
+    },
+    {
+      "name": "Castrum Coffee and more",
+      "latitude": 43.737683,
+      "longitude": 15.889641
+    },
+    {
+      "name": "centar",
+      "latitude": 43.859281,
+      "longitude": 16.15603
+    },
+    {
+      "name": "City cafe",
+      "latitude": 43.731324,
+      "longitude": 15.897825
+    },
+    {
+      "name": "Club 57",
+      "latitude": 43.78315,
+      "longitude": 16.019245
+    },
+    {
+      "name": "croatia star caffe",
+      "latitude": 43.675975,
+      "longitude": 16.11682
+    },
+    {
+      "name": "Dajana",
+      "latitude": 43.723496,
+      "longitude": 15.908038
+    },
+    {
+      "name": "Djir",
+      "latitude": 43.78608,
+      "longitude": 15.823939
+    },
+    {
+      "name": "Duje bar",
+      "latitude": 43.745096,
+      "longitude": 15.802234
+    },
+    {
+      "name": "Dvori",
+      "latitude": 43.814984,
+      "longitude": 16.052553
+    },
+    {
+      "name": "Espresso",
+      "latitude": 43.734781,
+      "longitude": 15.893933
+    },
+    {
+      "name": "F-club",
+      "latitude": 43.731994,
+      "longitude": 15.893803
+    },
+    {
+      "name": "Faust",
+      "latitude": 43.739499,
+      "longitude": 15.888264
+    },
+    {
+      "name": "Fontana",
+      "latitude": 43.859723,
+      "longitude": 16.155571
+    },
+    {
+      "name": "Fortica",
+      "latitude": 43.733636,
+      "longitude": 15.895409
+    },
+    {
+      "name": "Fresh Corner",
+      "latitude": 43.732972,
+      "longitude": 15.891396
+    },
+    {
+      "name": "Gaj",
+      "latitude": 43.680878,
+      "longitude": 15.914495
+    },
+    {
+      "name": "Galeb Cafe Bar",
+      "latitude": 43.756819,
+      "longitude": 15.774911
+    },
+    {
+      "name": "Godimento",
+      "latitude": 43.739518,
+      "longitude": 15.898531
+    },
+    {
+      "name": "gradska kavana",
+      "latitude": 43.859988,
+      "longitude": 16.156216
+    },
+    {
+      "name": "Harmonija",
+      "latitude": 43.734887,
+      "longitude": 15.892692
+    },
+    {
+      "name": "inlive",
+      "latitude": 43.730564,
+      "longitude": 15.900464
+    },
+    {
+      "name": "Internet-Coffee",
+      "latitude": 43.799674,
+      "longitude": 15.641914
+    },
+    {
+      "name": "Jagoda",
+      "latitude": 43.73229,
+      "longitude": 15.895658
+    },
+    {
+      "name": "Jazz",
+      "latitude": 44.034043,
+      "longitude": 16.196827
+    },
+    {
+      "name": "Jašo",
+      "latitude": 44.005425,
+      "longitude": 16.320941
+    },
+    {
+      "name": "Juno",
+      "latitude": 43.785556,
+      "longitude": 15.643698
+    },
+    {
+      "name": "Karoca",
+      "latitude": 43.744474,
+      "longitude": 15.799049
+    },
+    {
+      "name": "Kasiopeja",
+      "latitude": 43.79845,
+      "longitude": 15.641898
+    },
+    {
+      "name": "Kavarna bar",
+      "latitude": 43.823307,
+      "longitude": 15.573881
+    },
+    {
+      "name": "Kazališna kavana",
+      "latitude": 43.735054,
+      "longitude": 15.892801
+    },
+    {
+      "name": "Kole",
+      "latitude": 43.797209,
+      "longitude": 15.642609
+    },
+    {
+      "name": "Kučarin",
+      "latitude": 43.73383,
+      "longitude": 15.899916
+    },
+    {
+      "name": "La Storia",
+      "latitude": 43.755448,
+      "longitude": 15.783895
+    },
+    {
+      "name": "Laganini",
+      "latitude": 43.636679,
+      "longitude": 15.958227
+    },
+    {
+      "name": "lapis alba",
+      "latitude": 43.795972,
+      "longitude": 15.967766
+    },
+    {
+      "name": "Light",
+      "latitude": 43.799679,
+      "longitude": 15.641111
+    },
+    {
+      "name": "Lion",
+      "latitude": 43.586191,
+      "longitude": 15.922217
+    },
+    {
+      "name": "Lord",
+      "latitude": 43.816058,
+      "longitude": 15.667572
+    },
+    {
+      "name": "Madona Bar & Shop",
+      "latitude": 43.571917,
+      "longitude": 15.928083
+    },
+    {
+      "name": "Majstor & Margarita",
+      "latitude": 43.723519,
+      "longitude": 15.908225
+    },
+    {
+      "name": "Makina Hangar",
+      "latitude": 43.75528,
+      "longitude": 15.784087
+    },
+    {
+      "name": "Marko",
+      "latitude": 43.740251,
+      "longitude": 15.899185
+    },
+    {
+      "name": "Marlboro",
+      "latitude": 43.709292,
+      "longitude": 15.921786
+    },
+    {
+      "name": "Mea Culpa",
+      "latitude": 43.753417,
+      "longitude": 15.787532
+    },
+    {
+      "name": "Menego",
+      "latitude": 43.586376,
+      "longitude": 15.924091
+    },
+    {
+      "name": "Metropola",
+      "latitude": 44.034857,
+      "longitude": 16.196403
+    },
+    {
+      "name": "Mirage",
+      "latitude": 44.043394,
+      "longitude": 16.198377
+    },
+    {
+      "name": "moderato Cantabile",
+      "latitude": 43.73425,
+      "longitude": 15.894708
+    },
+    {
+      "name": "Monika",
+      "latitude": 43.528332,
+      "longitude": 15.967999
+    },
+    {
+      "name": "Mulo",
+      "latitude": 43.509515,
+      "longitude": 15.976943
+    },
+    {
+      "name": "Muring",
+      "latitude": 43.822601,
+      "longitude": 15.604146
+    },
+    {
+      "name": "Na.ma.lo (VINO&INO)",
+      "latitude": 43.735536,
+      "longitude": 15.891031
+    },
+    {
+      "name": "Negrit",
+      "latitude": 43.815679,
+      "longitude": 15.667569
+    },
+    {
+      "name": "Niko",
+      "latitude": 43.732105,
+      "longitude": 15.896513
+    },
+    {
+      "name": "Nostromo",
+      "latitude": 43.509336,
+      "longitude": 15.977515
+    },
+    {
+      "name": "O.DA",
+      "latitude": 43.734012,
+      "longitude": 15.892157
+    },
+    {
+      "name": "Okus Soli",
+      "latitude": 43.735354,
+      "longitude": 15.890975
+    },
+    {
+      "name": "Oscar1",
+      "latitude": 43.712801,
+      "longitude": 15.912972
+    },
+    {
+      "name": "Oš Još",
+      "latitude": 44.037999,
+      "longitude": 16.197315
+    },
+    {
+      "name": "Palma",
+      "latitude": 43.751156,
+      "longitude": 15.889933
+    },
+    {
+      "name": "Panorama",
+      "latitude": 43.762057,
+      "longitude": 15.846363
+    },
+    {
+      "name": "Pasage",
+      "latitude": 43.72846,
+      "longitude": 15.903397
+    },
+    {
+      "name": "Perla",
+      "latitude": 43.732413,
+      "longitude": 15.892927
+    },
+    {
+      "name": "Pia",
+      "latitude": 43.765286,
+      "longitude": 15.905037
+    },
+    {
+      "name": "Piazza",
+      "latitude": 43.732927,
+      "longitude": 15.895329
+    },
+    {
+      "name": "Pini",
+      "latitude": 43.819475,
+      "longitude": 15.922609
+    },
+    {
+      "name": "Pool bar",
+      "latitude": 43.531194,
+      "longitude": 15.959578
+    },
+    {
+      "name": "Porat",
+      "latitude": 43.734233,
+      "longitude": 15.786402
+    },
+    {
+      "name": "Porat",
+      "latitude": 43.822573,
+      "longitude": 15.605046
+    },
+    {
+      "name": "Priša",
+      "latitude": 43.816911,
+      "longitude": 15.662694
+    },
+    {
+      "name": "Punta Bar",
+      "latitude": 43.825408,
+      "longitude": 15.65894
+    },
+    {
+      "name": "Puntin",
+      "latitude": 43.634045,
+      "longitude": 15.961415
+    },
+    {
+      "name": "Queen Elisabet",
+      "latitude": 43.532252,
+      "longitude": 15.967773
+    },
+    {
+      "name": "Red Carpet",
+      "latitude": 43.785807,
+      "longitude": 15.642863
+    },
+    {
+      "name": "rio",
+      "latitude": 43.859114,
+      "longitude": 16.15621
+    },
+    {
+      "name": "Riva",
+      "latitude": 43.785828,
+      "longitude": 15.823765
+    },
+    {
+      "name": "Rišpet",
+      "latitude": 43.816807,
+      "longitude": 15.665496
+    },
+    {
+      "name": "Romano",
+      "latitude": 43.733452,
+      "longitude": 15.894925
+    },
+    {
+      "name": "Shades",
+      "latitude": 43.797115,
+      "longitude": 15.643034
+    },
+    {
+      "name": "Shine",
+      "latitude": 43.860988,
+      "longitude": 16.155193
+    },
+    {
+      "name": "Silver",
+      "latitude": 43.799549,
+      "longitude": 15.641793
+    },
+    {
+      "name": "Simi",
+      "latitude": 43.785922,
+      "longitude": 15.642956
+    },
+    {
+      "name": "slastičarna",
+      "latitude": 43.672999,
+      "longitude": 15.916649
+    },
+    {
+      "name": "Slastičarnica Calimero",
+      "latitude": 43.733534,
+      "longitude": 15.892995
+    },
+    {
+      "name": "SOLA Gelateria Café Bar",
+      "latitude": 43.817302,
+      "longitude": 15.921851
+    },
+    {
+      "name": "Sport Caffe",
+      "latitude": 43.857167,
+      "longitude": 16.158669
+    },
+    {
+      "name": "Starac",
+      "latitude": 43.532482,
+      "longitude": 15.967307
+    },
+    {
+      "name": "STIL",
+      "latitude": 43.733495,
+      "longitude": 15.896047
+    },
+    {
+      "name": "Stil",
+      "latitude": 43.73355,
+      "longitude": 15.89612
+    },
+    {
+      "name": "Sv. Lovre",
+      "latitude": 43.736369,
+      "longitude": 15.889637
+    },
+    {
+      "name": "tapas bar \"f\"",
+      "latitude": 43.723992,
+      "longitude": 15.800664
+    },
+    {
+      "name": "Tempera",
+      "latitude": 43.733727,
+      "longitude": 15.900119
+    },
+    {
+      "name": "Tiffany",
+      "latitude": 43.585873,
+      "longitude": 15.922484
+    },
+    {
+      "name": "Tromilja benzin",
+      "latitude": 43.77614,
+      "longitude": 15.959367
+    },
+    {
+      "name": "Valerija caffe bar",
+      "latitude": 43.734825,
+      "longitude": 15.892614
+    },
+    {
+      "name": "Victoria",
+      "latitude": 43.729739,
+      "longitude": 15.902423
+    },
+    {
+      "name": "Vidici",
+      "latitude": 43.723025,
+      "longitude": 15.908715
+    },
+    {
+      "name": "Vrša",
+      "latitude": 43.81504,
+      "longitude": 15.677145
+    },
+    {
+      "name": "woodstock",
+      "latitude": 43.859635,
+      "longitude": 16.156253
+    },
+    {
+      "name": "Zagreb",
+      "latitude": 43.859242,
+      "longitude": 16.156384
+    },
+    {
+      "name": "Zamalin",
+      "latitude": 43.757551,
+      "longitude": 15.741284
+    },
+    {
+      "name": "Zeleni",
+      "latitude": 43.724461,
+      "longitude": 15.844448
+    },
+    {
+      "name": "Zmajevo oko",
+      "latitude": 43.527228,
+      "longitude": 15.968783
+    },
+    {
+      "name": "Š-Ibiza",
+      "latitude": 43.738206,
+      "longitude": 15.875694
+    },
+    {
+      "name": "Šibenska pivovara",
+      "latitude": 43.779204,
+      "longitude": 15.963159
+    },
+    {
+      "name": "Škafić",
+      "latitude": 44.041525,
+      "longitude": 16.193815
+    }
+  ],
+  "meta": {
+    "title": "Kafići — Šibensko-kninska županija - Besplatno preuzimanje",
+    "description": "165 kafići u županiji Šibensko-kninska županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 165 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kafići — Šibensko-kninska županija | ListBase",
+    "seo_description": "Preuzmi Kafići — Šibensko-kninska županija — 165 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 165 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

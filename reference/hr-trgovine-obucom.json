@@ -1,0 +1,1741 @@
+{
+  "id": "hr-trgovine-obucom",
+  "name": "Trgovine obućom",
+  "title": "Trgovine obućom",
+  "description": "Trgovine obućom u Hrvatskoj (340 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=shoes), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 340,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "4 Seasons",
+      "latitude": 46.088424,
+      "longitude": 15.910591
+    },
+    {
+      "name": "A&I",
+      "latitude": 45.082842,
+      "longitude": 13.634251
+    },
+    {
+      "name": "Adileta",
+      "latitude": 43.50915,
+      "longitude": 16.437783
+    },
+    {
+      "name": "Aldo",
+      "latitude": 45.770786,
+      "longitude": 15.941123
+    },
+    {
+      "name": "Alfa shoes",
+      "latitude": 43.506017,
+      "longitude": 16.447337
+    },
+    {
+      "name": "Alizée",
+      "latitude": 45.81231,
+      "longitude": 15.982887
+    },
+    {
+      "name": "Alpina",
+      "latitude": 43.702293,
+      "longitude": 16.639056
+    },
+    {
+      "name": "Alpina",
+      "latitude": 44.114968,
+      "longitude": 15.227041
+    },
+    {
+      "name": "Alpina",
+      "latitude": 45.155552,
+      "longitude": 18.01419
+    },
+    {
+      "name": "Alpina",
+      "latitude": 45.485874,
+      "longitude": 16.372239
+    },
+    {
+      "name": "Alpina",
+      "latitude": 45.716586,
+      "longitude": 16.068984
+    },
+    {
+      "name": "Alpina",
+      "latitude": 45.802799,
+      "longitude": 16.050928
+    },
+    {
+      "name": "Alpina",
+      "latitude": 45.813277,
+      "longitude": 15.972572
+    },
+    {
+      "name": "Alpina",
+      "latitude": 45.813695,
+      "longitude": 15.927213
+    },
+    {
+      "name": "Alpina",
+      "latitude": 45.814882,
+      "longitude": 15.996278
+    },
+    {
+      "name": "Alpina",
+      "latitude": 45.825768,
+      "longitude": 16.042743
+    },
+    {
+      "name": "Alpina",
+      "latitude": 46.089023,
+      "longitude": 15.910815
+    },
+    {
+      "name": "Alpina",
+      "latitude": 46.307319,
+      "longitude": 16.337331
+    },
+    {
+      "name": "Antinea",
+      "latitude": 45.327346,
+      "longitude": 14.440919
+    },
+    {
+      "name": "Ara",
+      "latitude": 45.481364,
+      "longitude": 15.549804
+    },
+    {
+      "name": "ara",
+      "latitude": 45.481459,
+      "longitude": 16.778273
+    },
+    {
+      "name": "Ara",
+      "latitude": 45.486247,
+      "longitude": 16.373066
+    },
+    {
+      "name": "Ara",
+      "latitude": 45.812113,
+      "longitude": 15.982261
+    },
+    {
+      "name": "Ara",
+      "latitude": 45.813124,
+      "longitude": 15.966879
+    },
+    {
+      "name": "Ara",
+      "latitude": 45.813621,
+      "longitude": 15.987324
+    },
+    {
+      "name": "Ara Shoes",
+      "latitude": 45.79212,
+      "longitude": 16.152498
+    },
+    {
+      "name": "ara shop",
+      "latitude": 45.79615,
+      "longitude": 15.90057
+    },
+    {
+      "name": "ARA SHOP",
+      "latitude": 45.901918,
+      "longitude": 16.844859
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.444589,
+      "longitude": 16.692342
+    },
+    {
+      "name": "Bambi",
+      "latitude": 44.114804,
+      "longitude": 15.224732
+    },
+    {
+      "name": "bambi",
+      "latitude": 45.481548,
+      "longitude": 16.778343
+    },
+    {
+      "name": "Bambi",
+      "latitude": 45.487209,
+      "longitude": 16.372468
+    },
+    {
+      "name": "Bambi",
+      "latitude": 45.714998,
+      "longitude": 16.071554
+    },
+    {
+      "name": "Bata",
+      "latitude": 44.113796,
+      "longitude": 15.226214
+    },
+    {
+      "name": "Bata",
+      "latitude": 45.546448,
+      "longitude": 18.656683
+    },
+    {
+      "name": "Bella",
+      "latitude": 43.446665,
+      "longitude": 16.688623
+    },
+    {
+      "name": "Bilbao",
+      "latitude": 45.81624,
+      "longitude": 15.97658
+    },
+    {
+      "name": "Birkenstock",
+      "latitude": 43.508351,
+      "longitude": 16.438361
+    },
+    {
+      "name": "Birkenstock",
+      "latitude": 45.812981,
+      "longitude": 15.985535
+    },
+    {
+      "name": "Borovo",
+      "latitude": 43.443955,
+      "longitude": 16.691415
+    },
+    {
+      "name": "Borovo",
+      "latitude": 43.447314,
+      "longitude": 17.215664
+    },
+    {
+      "name": "Borovo",
+      "latitude": 43.508555,
+      "longitude": 16.439563
+    },
+    {
+      "name": "Borovo",
+      "latitude": 43.701944,
+      "longitude": 16.636902
+    },
+    {
+      "name": "Borovo",
+      "latitude": 43.73485,
+      "longitude": 15.891957
+    },
+    {
+      "name": "Borovo",
+      "latitude": 43.937753,
+      "longitude": 15.445063
+    },
+    {
+      "name": "Borovo",
+      "latitude": 44.115423,
+      "longitude": 15.225457
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.116341,
+      "longitude": 15.585805
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.126485,
+      "longitude": 14.791496
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.154154,
+      "longitude": 18.01226
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.174205,
+      "longitude": 14.68848
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.227587,
+      "longitude": 13.595081
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.239976,
+      "longitude": 13.936841
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.265338,
+      "longitude": 15.225049
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.331327,
+      "longitude": 17.677074
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.338149,
+      "longitude": 14.308844
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.338639,
+      "longitude": 16.090159
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.341375,
+      "longitude": 16.976343
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.457829,
+      "longitude": 16.387585
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.479223,
+      "longitude": 16.777152
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.485565,
+      "longitude": 16.372195
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.489831,
+      "longitude": 15.550118
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.493535,
+      "longitude": 15.553607
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.558783,
+      "longitude": 18.677843
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.561312,
+      "longitude": 18.677512
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.592876,
+      "longitude": 17.224108
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.705292,
+      "longitude": 16.393715
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.800463,
+      "longitude": 15.956645
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.804078,
+      "longitude": 15.977569
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.805829,
+      "longitude": 16.230656
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.8103,
+      "longitude": 15.974242
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.813224,
+      "longitude": 15.958533
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.813495,
+      "longitude": 15.927638
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.815085,
+      "longitude": 15.996704
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.83517,
+      "longitude": 17.385827
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.885009,
+      "longitude": 16.418837
+    },
+    {
+      "name": "Borovo",
+      "latitude": 45.89932,
+      "longitude": 16.84046
+    },
+    {
+      "name": "Borovo",
+      "latitude": 46.163883,
+      "longitude": 15.869903
+    },
+    {
+      "name": "Borovo",
+      "latitude": 46.223855,
+      "longitude": 16.123761
+    },
+    {
+      "name": "Borovo",
+      "latitude": 46.249808,
+      "longitude": 16.617929
+    },
+    {
+      "name": "Borovo",
+      "latitude": 46.389539,
+      "longitude": 16.43832
+    },
+    {
+      "name": "Buzz",
+      "latitude": 45.555065,
+      "longitude": 18.638426
+    },
+    {
+      "name": "Buzz",
+      "latitude": 45.770066,
+      "longitude": 15.938607
+    },
+    {
+      "name": "Buzz",
+      "latitude": 46.263429,
+      "longitude": 16.374954
+    },
+    {
+      "name": "CCC",
+      "latitude": 43.711779,
+      "longitude": 15.9125
+    },
+    {
+      "name": "CCC",
+      "latitude": 44.868353,
+      "longitude": 13.866806
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.159682,
+      "longitude": 17.998852
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.318399,
+      "longitude": 14.468126
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.331238,
+      "longitude": 17.648382
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.355322,
+      "longitude": 14.36446
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.432777,
+      "longitude": 13.53216
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.495488,
+      "longitude": 16.378751
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.554912,
+      "longitude": 18.638569
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.76934,
+      "longitude": 15.936903
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.791165,
+      "longitude": 15.9139
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.798833,
+      "longitude": 15.889906
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.801212,
+      "longitude": 15.727017
+    },
+    {
+      "name": "CCC",
+      "latitude": 45.871068,
+      "longitude": 15.826988
+    },
+    {
+      "name": "CCC",
+      "latitude": 46.320003,
+      "longitude": 16.305922
+    },
+    {
+      "name": "Centra",
+      "latitude": 45.812298,
+      "longitude": 15.982994
+    },
+    {
+      "name": "Cesare Paciotti",
+      "latitude": 45.813657,
+      "longitude": 15.983251
+    },
+    {
+      "name": "Ciciban",
+      "latitude": 45.812496,
+      "longitude": 15.980068
+    },
+    {
+      "name": "Ciciban",
+      "latitude": 46.263984,
+      "longitude": 16.37482
+    },
+    {
+      "name": "Ciciban Bjelovar",
+      "latitude": 45.897106,
+      "longitude": 16.840532
+    },
+    {
+      "name": "Converse",
+      "latitude": 45.792367,
+      "longitude": 16.152132
+    },
+    {
+      "name": "Cordis",
+      "latitude": 45.792607,
+      "longitude": 16.153554
+    },
+    {
+      "name": "Corso Roma",
+      "latitude": 45.792226,
+      "longitude": 16.153438
+    },
+    {
+      "name": "Crocs",
+      "latitude": 44.117433,
+      "longitude": 15.223628
+    },
+    {
+      "name": "Cruyff",
+      "latitude": 45.810991,
+      "longitude": 15.973276
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 42.651004,
+      "longitude": 18.091801
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 43.288589,
+      "longitude": 17.025037
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 43.442878,
+      "longitude": 17.201016
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 43.513876,
+      "longitude": 16.502127
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 43.542843,
+      "longitude": 16.28846
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 43.755964,
+      "longitude": 15.878186
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 44.116975,
+      "longitude": 15.271574
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 44.86832,
+      "longitude": 13.868211
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.036118,
+      "longitude": 14.567005
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.160173,
+      "longitude": 17.998009
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.174083,
+      "longitude": 18.052229
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.188023,
+      "longitude": 14.680152
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.230217,
+      "longitude": 13.620923
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.257072,
+      "longitude": 17.383793
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.285556,
+      "longitude": 18.408
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.326637,
+      "longitude": 14.441886
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.334489,
+      "longitude": 14.508361
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.337881,
+      "longitude": 14.407607
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.479218,
+      "longitude": 16.77485
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.494426,
+      "longitude": 16.378964
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.497214,
+      "longitude": 18.096172
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.507143,
+      "longitude": 15.54508
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.554902,
+      "longitude": 18.638673
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.650514,
+      "longitude": 18.435285
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.660162,
+      "longitude": 15.653239
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.756878,
+      "longitude": 15.987442
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.770582,
+      "longitude": 15.93958
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.799476,
+      "longitude": 15.883629
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.803221,
+      "longitude": 16.226862
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.805355,
+      "longitude": 15.977488
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.814909,
+      "longitude": 16.104706
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.821784,
+      "longitude": 17.410096
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.872221,
+      "longitude": 15.827167
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 45.890341,
+      "longitude": 16.852781
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 46.017149,
+      "longitude": 16.544144
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 46.263441,
+      "longitude": 16.376137
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 46.319693,
+      "longitude": 16.305727
+    },
+    {
+      "name": "Deichmann",
+      "latitude": 46.395873,
+      "longitude": 16.428271
+    },
+    {
+      "name": "Diva",
+      "latitude": 46.390663,
+      "longitude": 16.436094
+    },
+    {
+      "name": "Dolce Cecilia",
+      "latitude": 45.81383,
+      "longitude": 15.985726
+    },
+    {
+      "name": "Dolce Iva",
+      "latitude": 43.507536,
+      "longitude": 16.439643
+    },
+    {
+      "name": "Ecco",
+      "latitude": 45.771014,
+      "longitude": 15.940375
+    },
+    {
+      "name": "Ecco",
+      "latitude": 45.792447,
+      "longitude": 16.151715
+    },
+    {
+      "name": "Ecco",
+      "latitude": 45.813167,
+      "longitude": 15.97383
+    },
+    {
+      "name": "Edora Zagreb",
+      "latitude": 45.801887,
+      "longitude": 15.959953
+    },
+    {
+      "name": "ELFS",
+      "latitude": 45.326458,
+      "longitude": 14.446325
+    },
+    {
+      "name": "Elite",
+      "latitude": 45.813688,
+      "longitude": 15.976632
+    },
+    {
+      "name": "Europa 92",
+      "latitude": 45.899607,
+      "longitude": 16.843383
+    },
+    {
+      "name": "Evita Shoes",
+      "latitude": 45.311961,
+      "longitude": 18.411485
+    },
+    {
+      "name": "Felicita Amore Scarpe",
+      "latitude": 45.225492,
+      "longitude": 13.59643
+    },
+    {
+      "name": "Fenix",
+      "latitude": 46.390067,
+      "longitude": 16.437085
+    },
+    {
+      "name": "Ferivi Sport",
+      "latitude": 45.555053,
+      "longitude": 18.638592
+    },
+    {
+      "name": "Fiesta",
+      "latitude": 45.155376,
+      "longitude": 18.015345
+    },
+    {
+      "name": "Footwear Store",
+      "latitude": 46.087366,
+      "longitude": 15.912163
+    },
+    {
+      "name": "Francesca",
+      "latitude": 44.116777,
+      "longitude": 15.224017
+    },
+    {
+      "name": "froddo",
+      "latitude": 45.812744,
+      "longitude": 15.96585
+    },
+    {
+      "name": "Froddo",
+      "latitude": 45.815911,
+      "longitude": 15.999827
+    },
+    {
+      "name": "Froddo",
+      "latitude": 45.90311,
+      "longitude": 16.845862
+    },
+    {
+      "name": "Froddo",
+      "latitude": 46.395487,
+      "longitude": 16.429178
+    },
+    {
+      "name": "Froddo Shop",
+      "latitude": 44.868354,
+      "longitude": 13.848771
+    },
+    {
+      "name": "Galileo",
+      "latitude": 44.117113,
+      "longitude": 15.270961
+    },
+    {
+      "name": "Geox",
+      "latitude": 45.770901,
+      "longitude": 15.939721
+    },
+    {
+      "name": "Geox",
+      "latitude": 45.813281,
+      "longitude": 15.972773
+    },
+    {
+      "name": "Gita handmade shoes and bags",
+      "latitude": 45.813098,
+      "longitude": 15.967682
+    },
+    {
+      "name": "GITA šik cipele",
+      "latitude": 45.815147,
+      "longitude": 15.975525
+    },
+    {
+      "name": "Gos sport",
+      "latitude": 45.481365,
+      "longitude": 16.367037
+    },
+    {
+      "name": "Happy feet",
+      "latitude": 45.081912,
+      "longitude": 13.631255
+    },
+    {
+      "name": "Havaianas",
+      "latitude": 43.507569,
+      "longitude": 16.439534
+    },
+    {
+      "name": "Humanic",
+      "latitude": 45.798874,
+      "longitude": 15.885462
+    },
+    {
+      "name": "Högl",
+      "latitude": 45.870952,
+      "longitude": 15.825675
+    },
+    {
+      "name": "Impressio",
+      "latitude": 45.482598,
+      "longitude": 16.776748
+    },
+    {
+      "name": "Ipanema",
+      "latitude": 45.79339,
+      "longitude": 16.151595
+    },
+    {
+      "name": "JUMP",
+      "latitude": 46.390332,
+      "longitude": 16.434871
+    },
+    {
+      "name": "Karla",
+      "latitude": 43.508521,
+      "longitude": 16.440314
+    },
+    {
+      "name": "Karla",
+      "latitude": 45.811184,
+      "longitude": 15.97464
+    },
+    {
+      "name": "Karla",
+      "latitude": 45.812198,
+      "longitude": 15.981414
+    },
+    {
+      "name": "Karla",
+      "latitude": 45.819954,
+      "longitude": 15.976698
+    },
+    {
+      "name": "Katapult",
+      "latitude": 43.587813,
+      "longitude": 16.571235
+    },
+    {
+      "name": "Kopitarna",
+      "latitude": 45.326195,
+      "longitude": 14.446338
+    },
+    {
+      "name": "Kopitarna",
+      "latitude": 45.770255,
+      "longitude": 15.93976
+    },
+    {
+      "name": "Kopitarna",
+      "latitude": 45.870767,
+      "longitude": 15.826633
+    },
+    {
+      "name": "Kopitarna",
+      "latitude": 45.900948,
+      "longitude": 16.843859
+    },
+    {
+      "name": "Kopitarna",
+      "latitude": 46.263473,
+      "longitude": 16.375842
+    },
+    {
+      "name": "Kroj & broj",
+      "latitude": 45.769829,
+      "longitude": 15.994759
+    },
+    {
+      "name": "Kundid",
+      "latitude": 45.810989,
+      "longitude": 15.98001
+    },
+    {
+      "name": "La Scarpa",
+      "latitude": 43.533022,
+      "longitude": 16.489223
+    },
+    {
+      "name": "La Scarpa",
+      "latitude": 45.318923,
+      "longitude": 13.567284
+    },
+    {
+      "name": "Leo store",
+      "latitude": 43.731455,
+      "longitude": 15.89735
+    },
+    {
+      "name": "Luciano",
+      "latitude": 43.702891,
+      "longitude": 16.637198
+    },
+    {
+      "name": "Mana",
+      "latitude": 45.480023,
+      "longitude": 16.777519
+    },
+    {
+      "name": "Marina",
+      "latitude": 45.996196,
+      "longitude": 15.845624
+    },
+    {
+      "name": "Mark II",
+      "latitude": 45.172556,
+      "longitude": 14.693149
+    },
+    {
+      "name": "Martina",
+      "latitude": 44.114793,
+      "longitude": 15.225109
+    },
+    {
+      "name": "Mass",
+      "latitude": 43.295327,
+      "longitude": 17.016528
+    },
+    {
+      "name": "Mass",
+      "latitude": 45.159956,
+      "longitude": 17.997698
+    },
+    {
+      "name": "Mass",
+      "latitude": 45.770532,
+      "longitude": 15.938455
+    },
+    {
+      "name": "Mass",
+      "latitude": 45.792816,
+      "longitude": 16.153106
+    },
+    {
+      "name": "mass shoes",
+      "latitude": 43.712356,
+      "longitude": 15.913347
+    },
+    {
+      "name": "Mass Shoes",
+      "latitude": 44.869341,
+      "longitude": 13.868032
+    },
+    {
+      "name": "Mass shoes",
+      "latitude": 45.871512,
+      "longitude": 15.825213
+    },
+    {
+      "name": "Mateo",
+      "latitude": 45.026598,
+      "longitude": 14.576159
+    },
+    {
+      "name": "Mattina",
+      "latitude": 43.735018,
+      "longitude": 15.892663
+    },
+    {
+      "name": "Mattina obuća",
+      "latitude": 43.937599,
+      "longitude": 15.444772
+    },
+    {
+      "name": "Midway",
+      "latitude": 45.813966,
+      "longitude": 15.976488
+    },
+    {
+      "name": "Modeline",
+      "latitude": 45.813159,
+      "longitude": 15.974292
+    },
+    {
+      "name": "Mondiš",
+      "latitude": 45.813805,
+      "longitude": 15.977867
+    },
+    {
+      "name": "Mr. Joseph",
+      "latitude": 45.492064,
+      "longitude": 15.549516
+    },
+    {
+      "name": "must have",
+      "latitude": 45.480691,
+      "longitude": 16.77737
+    },
+    {
+      "name": "Napa",
+      "latitude": 45.802113,
+      "longitude": 15.764205
+    },
+    {
+      "name": "Nera",
+      "latitude": 45.812189,
+      "longitude": 15.980856
+    },
+    {
+      "name": "New Balance",
+      "latitude": 44.114761,
+      "longitude": 15.225281
+    },
+    {
+      "name": "Nicholas shoes",
+      "latitude": 45.813158,
+      "longitude": 15.970383
+    },
+    {
+      "name": "Nicolas",
+      "latitude": 45.81067,
+      "longitude": 15.972728
+    },
+    {
+      "name": "Nike shop",
+      "latitude": 45.478155,
+      "longitude": 16.775698
+    },
+    {
+      "name": "Nine West",
+      "latitude": 45.792125,
+      "longitude": 16.153145
+    },
+    {
+      "name": "Obuća",
+      "latitude": 43.447377,
+      "longitude": 17.215478
+    },
+    {
+      "name": "Obuća",
+      "latitude": 45.226481,
+      "longitude": 13.596546
+    },
+    {
+      "name": "Obuća",
+      "latitude": 45.264999,
+      "longitude": 15.226852
+    },
+    {
+      "name": "Obuća Kundid",
+      "latitude": 45.715204,
+      "longitude": 16.072895
+    },
+    {
+      "name": "Obuća Verdissima",
+      "latitude": 45.789851,
+      "longitude": 15.928412
+    },
+    {
+      "name": "Office",
+      "latitude": 45.813179,
+      "longitude": 15.973684
+    },
+    {
+      "name": "Office Shoes",
+      "latitude": 43.508354,
+      "longitude": 16.438219
+    },
+    {
+      "name": "Office Shoes",
+      "latitude": 43.509484,
+      "longitude": 16.439495
+    },
+    {
+      "name": "Oniyx",
+      "latitude": 45.813972,
+      "longitude": 15.976238
+    },
+    {
+      "name": "Passage",
+      "latitude": 45.813377,
+      "longitude": 15.984917
+    },
+    {
+      "name": "Pavlinović",
+      "latitude": 43.294975,
+      "longitude": 17.020423
+    },
+    {
+      "name": "Peko",
+      "latitude": 43.442755,
+      "longitude": 17.20134
+    },
+    {
+      "name": "Peko",
+      "latitude": 43.70248,
+      "longitude": 16.63715
+    },
+    {
+      "name": "Peko",
+      "latitude": 44.114084,
+      "longitude": 15.227345
+    },
+    {
+      "name": "Peko",
+      "latitude": 45.155094,
+      "longitude": 18.014457
+    },
+    {
+      "name": "Peko",
+      "latitude": 45.716296,
+      "longitude": 16.069833
+    },
+    {
+      "name": "Perla",
+      "latitude": 43.701056,
+      "longitude": 16.636993
+    },
+    {
+      "name": "PittaRosso",
+      "latitude": 44.884973,
+      "longitude": 13.870782
+    },
+    {
+      "name": "PittaRosso",
+      "latitude": 45.769333,
+      "longitude": 15.936152
+    },
+    {
+      "name": "Pittarosso",
+      "latitude": 45.797419,
+      "longitude": 15.854876
+    },
+    {
+      "name": "PittaRosso",
+      "latitude": 45.871622,
+      "longitude": 15.827716
+    },
+    {
+      "name": "PittaRosso",
+      "latitude": 46.264158,
+      "longitude": 16.379811
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 43.731414,
+      "longitude": 15.897687
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 45.035608,
+      "longitude": 14.568898
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 45.239962,
+      "longitude": 13.936967
+    },
+    {
+      "name": "Planet obuća",
+      "latitude": 45.266107,
+      "longitude": 15.226325
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 45.490204,
+      "longitude": 15.540889
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 45.493637,
+      "longitude": 15.551617
+    },
+    {
+      "name": "Planet obuća",
+      "latitude": 45.494525,
+      "longitude": 16.377626
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 45.547202,
+      "longitude": 18.65777
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 45.593646,
+      "longitude": 17.223347
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 45.7047,
+      "longitude": 16.394116
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 45.793756,
+      "longitude": 15.917458
+    },
+    {
+      "name": "Planet obuća",
+      "latitude": 45.804806,
+      "longitude": 16.076644
+    },
+    {
+      "name": "Planet obuća",
+      "latitude": 45.805481,
+      "longitude": 15.896485
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 45.810556,
+      "longitude": 15.988276
+    },
+    {
+      "name": "Planet obuća",
+      "latitude": 45.871484,
+      "longitude": 15.827791
+    },
+    {
+      "name": "Planet obuća",
+      "latitude": 46.042377,
+      "longitude": 17.066359
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 46.26341,
+      "longitude": 16.375442
+    },
+    {
+      "name": "Planet Obuća",
+      "latitude": 46.390043,
+      "longitude": 16.436333
+    },
+    {
+      "name": "Planet Obuće",
+      "latitude": 43.506475,
+      "longitude": 16.504573
+    },
+    {
+      "name": "Planika",
+      "latitude": 43.701633,
+      "longitude": 16.636877
+    },
+    {
+      "name": "Planika",
+      "latitude": 45.155538,
+      "longitude": 18.014382
+    },
+    {
+      "name": "Planika",
+      "latitude": 45.226018,
+      "longitude": 13.596704
+    },
+    {
+      "name": "Planika",
+      "latitude": 45.813703,
+      "longitude": 15.929063
+    },
+    {
+      "name": "Planika",
+      "latitude": 46.38985,
+      "longitude": 16.437214
+    },
+    {
+      "name": "Poche",
+      "latitude": 45.811428,
+      "longitude": 15.976477
+    },
+    {
+      "name": "Prestige fashion",
+      "latitude": 45.813201,
+      "longitude": 15.985114
+    },
+    {
+      "name": "pticica",
+      "latitude": 43.859839,
+      "longitude": 16.155272
+    },
+    {
+      "name": "Puntino",
+      "latitude": 45.819949,
+      "longitude": 15.976764
+    },
+    {
+      "name": "Re artù",
+      "latitude": 45.811081,
+      "longitude": 15.973546
+    },
+    {
+      "name": "Rieker",
+      "latitude": 43.29473,
+      "longitude": 17.019295
+    },
+    {
+      "name": "Roberto",
+      "latitude": 45.485917,
+      "longitude": 16.372573
+    },
+    {
+      "name": "Roberto",
+      "latitude": 45.812957,
+      "longitude": 15.974843
+    },
+    {
+      "name": "Roberto",
+      "latitude": 45.813628,
+      "longitude": 15.997974
+    },
+    {
+      "name": "Roberto",
+      "latitude": 45.90004,
+      "longitude": 16.844472
+    },
+    {
+      "name": "Roberto",
+      "latitude": 46.389114,
+      "longitude": 16.438442
+    },
+    {
+      "name": "Rodea",
+      "latitude": 43.295518,
+      "longitude": 17.016776
+    },
+    {
+      "name": "Rodea",
+      "latitude": 43.508448,
+      "longitude": 16.439892
+    },
+    {
+      "name": "Rodea",
+      "latitude": 43.509997,
+      "longitude": 16.437677
+    },
+    {
+      "name": "Rodea",
+      "latitude": 43.713397,
+      "longitude": 15.912436
+    },
+    {
+      "name": "Rodea",
+      "latitude": 45.326799,
+      "longitude": 14.44182
+    },
+    {
+      "name": "Rodea",
+      "latitude": 45.814072,
+      "longitude": 15.990545
+    },
+    {
+      "name": "Roma",
+      "latitude": 45.153633,
+      "longitude": 18.018272
+    },
+    {
+      "name": "Rossi",
+      "latitude": 45.8125,
+      "longitude": 15.979908
+    },
+    {
+      "name": "Rossi",
+      "latitude": 45.813182,
+      "longitude": 15.967172
+    },
+    {
+      "name": "Rossini",
+      "latitude": 45.813559,
+      "longitude": 15.985069
+    },
+    {
+      "name": "S.M. - PROMET d.o.o.- ORTOPEDSKA I DRUGA MEDICINSKA POMAGALA",
+      "latitude": 45.79232,
+      "longitude": 15.936457
+    },
+    {
+      "name": "Sailing Point",
+      "latitude": 44.053475,
+      "longitude": 15.296627
+    },
+    {
+      "name": "Salon obuće",
+      "latitude": 45.155701,
+      "longitude": 18.014409
+    },
+    {
+      "name": "Sandra",
+      "latitude": 43.3848,
+      "longitude": 16.556909
+    },
+    {
+      "name": "Senso",
+      "latitude": 43.508869,
+      "longitude": 16.439283
+    },
+    {
+      "name": "Shoe Shop",
+      "latitude": 45.488542,
+      "longitude": 15.546926
+    },
+    {
+      "name": "Shoe-be-do",
+      "latitude": 43.508835,
+      "longitude": 16.438632
+    },
+    {
+      "name": "ShoeBeDo",
+      "latitude": 45.555082,
+      "longitude": 18.638147
+    },
+    {
+      "name": "Shoebox Outlet",
+      "latitude": 46.08863,
+      "longitude": 15.910515
+    },
+    {
+      "name": "ShoeSelection",
+      "latitude": 45.871844,
+      "longitude": 15.825935
+    },
+    {
+      "name": "Shoetique",
+      "latitude": 43.73147,
+      "longitude": 15.897566
+    },
+    {
+      "name": "Shoetique",
+      "latitude": 45.81226,
+      "longitude": 15.975819
+    },
+    {
+      "name": "Shooster",
+      "latitude": 45.159568,
+      "longitude": 17.998447
+    },
+    {
+      "name": "Shooster",
+      "latitude": 45.491919,
+      "longitude": 15.555551
+    },
+    {
+      "name": "Shooster",
+      "latitude": 45.871938,
+      "longitude": 15.826052
+    },
+    {
+      "name": "Shooster",
+      "latitude": 46.088883,
+      "longitude": 15.910314
+    },
+    {
+      "name": "Shooster",
+      "latitude": 46.163191,
+      "longitude": 16.831445
+    },
+    {
+      "name": "Shoxxes",
+      "latitude": 43.711692,
+      "longitude": 15.912678
+    },
+    {
+      "name": "Skechers",
+      "latitude": 43.711612,
+      "longitude": 15.912624
+    },
+    {
+      "name": "Skechers",
+      "latitude": 45.337617,
+      "longitude": 14.40857
+    },
+    {
+      "name": "Skechers",
+      "latitude": 45.555074,
+      "longitude": 18.638292
+    },
+    {
+      "name": "Skechers",
+      "latitude": 45.770295,
+      "longitude": 15.938276
+    },
+    {
+      "name": "Skechers",
+      "latitude": 45.792389,
+      "longitude": 16.152717
+    },
+    {
+      "name": "Skechers",
+      "latitude": 46.263281,
+      "longitude": 16.374316
+    },
+    {
+      "name": "Snipes",
+      "latitude": 45.810803,
+      "longitude": 15.972676
+    },
+    {
+      "name": "Specolo",
+      "latitude": 44.115072,
+      "longitude": 15.226332
+    },
+    {
+      "name": "Sportline",
+      "latitude": 45.8123,
+      "longitude": 15.983346
+    },
+    {
+      "name": "Step",
+      "latitude": 45.352013,
+      "longitude": 19.002154
+    },
+    {
+      "name": "Svijet Obuce",
+      "latitude": 44.115893,
+      "longitude": 15.226377
+    },
+    {
+      "name": "SVIJET Obuce",
+      "latitude": 44.989078,
+      "longitude": 14.902024
+    },
+    {
+      "name": "Svijet obuće",
+      "latitude": 45.437842,
+      "longitude": 16.267058
+    },
+    {
+      "name": "Svijet obuće",
+      "latitude": 45.485372,
+      "longitude": 16.372484
+    },
+    {
+      "name": "Svijet obuće",
+      "latitude": 45.804653,
+      "longitude": 16.233427
+    },
+    {
+      "name": "Svijet obuće",
+      "latitude": 45.812098,
+      "longitude": 15.982617
+    },
+    {
+      "name": "Svijet obuće",
+      "latitude": 45.812962,
+      "longitude": 15.974673
+    },
+    {
+      "name": "Svijet obuće",
+      "latitude": 45.813159,
+      "longitude": 15.970576
+    },
+    {
+      "name": "Svijet obuće",
+      "latitude": 45.813776,
+      "longitude": 15.977821
+    },
+    {
+      "name": "Svijet obuće",
+      "latitude": 46.16438,
+      "longitude": 15.869548
+    },
+    {
+      "name": "Svijetobuće",
+      "latitude": 45.813249,
+      "longitude": 15.957959
+    },
+    {
+      "name": "the athlete's foot",
+      "latitude": 45.799058,
+      "longitude": 15.885458
+    },
+    {
+      "name": "The choice",
+      "latitude": 45.811326,
+      "longitude": 15.972211
+    },
+    {
+      "name": "Tina",
+      "latitude": 44.114895,
+      "longitude": 15.224966
+    },
+    {
+      "name": "Treća ulica",
+      "latitude": 45.488892,
+      "longitude": 16.374726
+    },
+    {
+      "name": "VI-MA d.o.o.",
+      "latitude": 45.792251,
+      "longitude": 15.935052
+    },
+    {
+      "name": "Viktorija",
+      "latitude": 45.811651,
+      "longitude": 15.972192
+    },
+    {
+      "name": "Vittoria",
+      "latitude": 45.154427,
+      "longitude": 18.018033
+    },
+    {
+      "name": "Woolf",
+      "latitude": 46.502555,
+      "longitude": 16.43034
+    },
+    {
+      "name": "Wulf : Sport outlet",
+      "latitude": 45.746115,
+      "longitude": 15.875609
+    },
+    {
+      "name": "Šimci doo",
+      "latitude": 43.444526,
+      "longitude": 16.692679
+    },
+    {
+      "name": "Žilnik",
+      "latitude": 45.154468,
+      "longitude": 18.01768
+    }
+  ],
+  "meta": {
+    "title": "Trgovine obućom - Besplatno preuzimanje",
+    "description": "Trgovine obućom u Hrvatskoj (340 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=shoes), izrez EU-POIS/HR. Sadrži 340 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovine obućom | ListBase",
+    "seo_description": "Preuzmi Trgovine obućom — 340 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 340 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

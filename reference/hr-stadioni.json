@@ -1,0 +1,731 @@
+{
+  "id": "hr-stadioni",
+  "name": "Stadioni",
+  "title": "Stadioni",
+  "description": "Stadioni u Hrvatskoj (138 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=stadium), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 138,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "4 rijeke",
+      "latitude": 45.483989,
+      "longitude": 15.551927
+    },
+    {
+      "name": "Anđelko Marušić- Ferata",
+      "latitude": 43.441448,
+      "longitude": 16.684607
+    },
+    {
+      "name": "Arena Zagreb",
+      "latitude": 45.771336,
+      "longitude": 15.943986
+    },
+    {
+      "name": "Atletski stadion Mladost",
+      "latitude": 45.782806,
+      "longitude": 15.942913
+    },
+    {
+      "name": "Atletski stadion Vukovar",
+      "latitude": 45.355316,
+      "longitude": 18.990907
+    },
+    {
+      "name": "Batarija",
+      "latitude": 43.515754,
+      "longitude": 16.246992
+    },
+    {
+      "name": "Blato",
+      "latitude": 43.504519,
+      "longitude": 16.52705
+    },
+    {
+      "name": "Borac Drenovci",
+      "latitude": 44.917202,
+      "longitude": 18.909784
+    },
+    {
+      "name": "Cissa-Straško",
+      "latitude": 44.547094,
+      "longitude": 14.883027
+    },
+    {
+      "name": "Dinamo Hidrel",
+      "latitude": 45.706439,
+      "longitude": 16.116554
+    },
+    {
+      "name": "Dvorana Dražen Petrović",
+      "latitude": 45.802533,
+      "longitude": 15.963399
+    },
+    {
+      "name": "Dvorana teniskog kluba",
+      "latitude": 45.490043,
+      "longitude": 15.560897
+    },
+    {
+      "name": "FK \"Sloboda\" Novi Grad",
+      "latitude": 45.037602,
+      "longitude": 16.362993
+    },
+    {
+      "name": "FK Borac Bakar",
+      "latitude": 45.306277,
+      "longitude": 14.545118
+    },
+    {
+      "name": "Graba",
+      "latitude": 45.795615,
+      "longitude": 15.94171
+    },
+    {
+      "name": "Gradski sportski centar Makarska",
+      "latitude": 43.290447,
+      "longitude": 17.021906
+    },
+    {
+      "name": "Gradski stadion",
+      "latitude": 43.702484,
+      "longitude": 16.65399
+    },
+    {
+      "name": "Gradski stadion",
+      "latitude": 44.870279,
+      "longitude": 15.231958
+    },
+    {
+      "name": "Gradski stadion",
+      "latitude": 45.096467,
+      "longitude": 14.119209
+    },
+    {
+      "name": "Gradski stadion",
+      "latitude": 45.176644,
+      "longitude": 14.69543
+    },
+    {
+      "name": "Gradski stadion",
+      "latitude": 45.241092,
+      "longitude": 13.940069
+    },
+    {
+      "name": "Gradski stadion",
+      "latitude": 45.410797,
+      "longitude": 13.666601
+    },
+    {
+      "name": "Gradski stadion",
+      "latitude": 45.430333,
+      "longitude": 16.272632
+    },
+    {
+      "name": "Gradski stadion",
+      "latitude": 45.478455,
+      "longitude": 16.377437
+    },
+    {
+      "name": "Gradski stadion",
+      "latitude": 45.809333,
+      "longitude": 16.230964
+    },
+    {
+      "name": "Gradski stadion",
+      "latitude": 45.810922,
+      "longitude": 15.70954
+    },
+    {
+      "name": "Gradski stadion Beli Manastir",
+      "latitude": 45.765985,
+      "longitude": 18.601372
+    },
+    {
+      "name": "Gradski stadion Belišće",
+      "latitude": 45.683976,
+      "longitude": 18.409195
+    },
+    {
+      "name": "Gradski stadion Bjelovar",
+      "latitude": 45.906499,
+      "longitude": 16.854603
+    },
+    {
+      "name": "Gradski stadion Kazimir i Silvio",
+      "latitude": 43.939971,
+      "longitude": 15.455479
+    },
+    {
+      "name": "Gradski stadion Pakrac",
+      "latitude": 45.429668,
+      "longitude": 17.194264
+    },
+    {
+      "name": "Gradski stadion u Poljudu",
+      "latitude": 43.519674,
+      "longitude": 16.431962
+    },
+    {
+      "name": "Gradski stadion Velika Gorica",
+      "latitude": 45.724025,
+      "longitude": 16.072871
+    },
+    {
+      "name": "Gradski stadion Čazma",
+      "latitude": 45.752569,
+      "longitude": 16.611279
+    },
+    {
+      "name": "Gradski stadion „Ivan Kušek Apaš”",
+      "latitude": 46.166385,
+      "longitude": 16.834457
+    },
+    {
+      "name": "HNK Cibalia",
+      "latitude": 45.283824,
+      "longitude": 18.797311
+    },
+    {
+      "name": "HNK Radnički Mece",
+      "latitude": 45.622717,
+      "longitude": 18.722996
+    },
+    {
+      "name": "HNK Velebit",
+      "latitude": 44.035454,
+      "longitude": 15.613295
+    },
+    {
+      "name": "Igralište BSK",
+      "latitude": 45.519463,
+      "longitude": 18.873706
+    },
+    {
+      "name": "Igralište Gaj",
+      "latitude": 46.38317,
+      "longitude": 16.668529
+    },
+    {
+      "name": "Igralište Mladina",
+      "latitude": 45.705098,
+      "longitude": 15.669705
+    },
+    {
+      "name": "Igralište Nedešćina",
+      "latitude": 45.137385,
+      "longitude": 14.114382
+    },
+    {
+      "name": "Igralište NK Sloga",
+      "latitude": 45.403505,
+      "longitude": 18.979619
+    },
+    {
+      "name": "Igralište Otok",
+      "latitude": 45.143929,
+      "longitude": 18.899045
+    },
+    {
+      "name": "Iza Vage",
+      "latitude": 43.052214,
+      "longitude": 17.646384
+    },
+    {
+      "name": "Lonja",
+      "latitude": 45.285995,
+      "longitude": 14.589909
+    },
+    {
+      "name": "Mavrinci",
+      "latitude": 45.347916,
+      "longitude": 14.499645
+    },
+    {
+      "name": "N.K. Lokomotiva",
+      "latitude": 45.285511,
+      "longitude": 18.798894
+    },
+    {
+      "name": "NK \"Croatia\"",
+      "latitude": 45.3213,
+      "longitude": 18.409385
+    },
+    {
+      "name": "NK Brezovica",
+      "latitude": 45.725324,
+      "longitude": 15.908146
+    },
+    {
+      "name": "NK Crnac",
+      "latitude": 45.690843,
+      "longitude": 17.943729
+    },
+    {
+      "name": "NK Croatia Turanj",
+      "latitude": 43.973139,
+      "longitude": 15.407683
+    },
+    {
+      "name": "NK Dilj",
+      "latitude": 45.282586,
+      "longitude": 18.779741
+    },
+    {
+      "name": "NK Dobra",
+      "latitude": 45.269165,
+      "longitude": 15.200682
+    },
+    {
+      "name": "NK Fruškogorac",
+      "latitude": 45.223651,
+      "longitude": 19.360749
+    },
+    {
+      "name": "NK Funtana",
+      "latitude": 45.170904,
+      "longitude": 13.610404
+    },
+    {
+      "name": "NK Hrvace",
+      "latitude": 43.768855,
+      "longitude": 16.629553
+    },
+    {
+      "name": "NK Ivanja Reka",
+      "latitude": 45.794852,
+      "longitude": 16.119013
+    },
+    {
+      "name": "NK Metalac",
+      "latitude": 45.458167,
+      "longitude": 16.380561
+    },
+    {
+      "name": "NK Mladost",
+      "latitude": 45.687091,
+      "longitude": 18.662431
+    },
+    {
+      "name": "NK Mladost Cernik",
+      "latitude": 45.284584,
+      "longitude": 17.380768
+    },
+    {
+      "name": "NK NAŠK",
+      "latitude": 45.485933,
+      "longitude": 18.091578
+    },
+    {
+      "name": "NK Omladinac",
+      "latitude": 46.426942,
+      "longitude": 16.463015
+    },
+    {
+      "name": "NK Oriolik",
+      "latitude": 45.163234,
+      "longitude": 17.748742
+    },
+    {
+      "name": "NK Radnik",
+      "latitude": 45.573471,
+      "longitude": 18.589848
+    },
+    {
+      "name": "NK Ratar",
+      "latitude": 45.251181,
+      "longitude": 18.398657
+    },
+    {
+      "name": "NK Sarvaš",
+      "latitude": 45.528173,
+      "longitude": 18.834461
+    },
+    {
+      "name": "NK Sava",
+      "latitude": 45.791536,
+      "longitude": 16.140738
+    },
+    {
+      "name": "NK Slavonac",
+      "latitude": 45.225123,
+      "longitude": 18.351292
+    },
+    {
+      "name": "NK Sloga \"Stadion Žir\"",
+      "latitude": 45.910979,
+      "longitude": 16.807281
+    },
+    {
+      "name": "NK Strošinci",
+      "latitude": 44.917801,
+      "longitude": 19.057244
+    },
+    {
+      "name": "NK Termia",
+      "latitude": 45.597053,
+      "longitude": 18.458533
+    },
+    {
+      "name": "NK Vitovitica",
+      "latitude": 45.839014,
+      "longitude": 17.383076
+    },
+    {
+      "name": "NK Višnjevac",
+      "latitude": 45.561215,
+      "longitude": 18.617653
+    },
+    {
+      "name": "NK Čepin",
+      "latitude": 45.528946,
+      "longitude": 18.564151
+    },
+    {
+      "name": "NK Đakovo",
+      "latitude": 45.301871,
+      "longitude": 18.417148
+    },
+    {
+      "name": "Nogometni klub Kustošija",
+      "latitude": 45.809216,
+      "longitude": 15.925928
+    },
+    {
+      "name": "Nogometni klub Šipovac",
+      "latitude": 45.499655,
+      "longitude": 18.082297
+    },
+    {
+      "name": "Nogometni stadion Branko Čavlović-Čavlek",
+      "latitude": 45.484445,
+      "longitude": 15.563853
+    },
+    {
+      "name": "Opus Arena",
+      "latitude": 45.566803,
+      "longitude": 18.657414
+    },
+    {
+      "name": "Park",
+      "latitude": 45.797901,
+      "longitude": 17.49787
+    },
+    {
+      "name": "Podno tvrđave",
+      "latitude": 44.033736,
+      "longitude": 16.197998
+    },
+    {
+      "name": "Podvornica",
+      "latitude": 43.015397,
+      "longitude": 17.561553
+    },
+    {
+      "name": "Podvornica",
+      "latitude": 43.86099,
+      "longitude": 16.157488
+    },
+    {
+      "name": "Pomoćni stadion Kantrida",
+      "latitude": 45.338457,
+      "longitude": 14.37956
+    },
+    {
+      "name": "Sajmište",
+      "latitude": 45.888429,
+      "longitude": 16.410951
+    },
+    {
+      "name": "SC Sloboda",
+      "latitude": 46.313443,
+      "longitude": 16.34184
+    },
+    {
+      "name": "Spomen stadion prve nogometne lopte",
+      "latitude": 45.076526,
+      "longitude": 18.692931
+    },
+    {
+      "name": "Sportska dvorana Gimnazije Fran Galović",
+      "latitude": 46.16336,
+      "longitude": 16.840702
+    },
+    {
+      "name": "Sportski park",
+      "latitude": 46.162774,
+      "longitude": 16.333205
+    },
+    {
+      "name": "Sportski park",
+      "latitude": 46.348193,
+      "longitude": 16.813822
+    },
+    {
+      "name": "SRC Josip Uravić - Pepi",
+      "latitude": 45.027991,
+      "longitude": 14.564774
+    },
+    {
+      "name": "SRC Trate",
+      "latitude": 46.383506,
+      "longitude": 16.391958
+    },
+    {
+      "name": "Stadion \"Brdo\" Bjelovar",
+      "latitude": 45.882434,
+      "longitude": 16.865597
+    },
+    {
+      "name": "Stadion \"Sokol\"",
+      "latitude": 45.595314,
+      "longitude": 17.222454
+    },
+    {
+      "name": "Stadion Aldo Drosina",
+      "latitude": 44.861724,
+      "longitude": 13.851358
+    },
+    {
+      "name": "Stadion Anđelko Herjavec",
+      "latitude": 46.2932,
+      "longitude": 16.344368
+    },
+    {
+      "name": "Stadion Borovo naselje",
+      "latitude": 45.380304,
+      "longitude": 18.965289
+    },
+    {
+      "name": "Stadion Gospin dolac",
+      "latitude": 43.449555,
+      "longitude": 17.21482
+    },
+    {
+      "name": "Stadion Gradski vrt",
+      "latitude": 45.544923,
+      "longitude": 18.695705
+    },
+    {
+      "name": "Stadion Hrvatski vitezovi",
+      "latitude": 43.587966,
+      "longitude": 16.573856
+    },
+    {
+      "name": "Stadion Jedinstvo",
+      "latitude": 45.765349,
+      "longitude": 18.162729
+    },
+    {
+      "name": "Stadion Kamen Ingrad",
+      "latitude": 45.440946,
+      "longitude": 17.663176
+    },
+    {
+      "name": "Stadion Kantrida",
+      "latitude": 45.339081,
+      "longitude": 14.380841
+    },
+    {
+      "name": "Stadion Krimeja",
+      "latitude": 45.323685,
+      "longitude": 14.46808
+    },
+    {
+      "name": "Stadion Lapad",
+      "latitude": 42.65465,
+      "longitude": 18.078811
+    },
+    {
+      "name": "Stadion Lučko",
+      "latitude": 45.760364,
+      "longitude": 15.867776
+    },
+    {
+      "name": "Stadion Maksimir",
+      "latitude": 45.818328,
+      "longitude": 16.017916
+    },
+    {
+      "name": "Stadion Moslavina",
+      "latitude": 45.487922,
+      "longitude": 16.782605
+    },
+    {
+      "name": "Stadion NK Grožnjan-Oprtalj",
+      "latitude": 45.381948,
+      "longitude": 13.821457
+    },
+    {
+      "name": "Stadion NK Križevci",
+      "latitude": 46.026958,
+      "longitude": 16.549236
+    },
+    {
+      "name": "Stadion NK Trnje",
+      "latitude": 45.79778,
+      "longitude": 15.984239
+    },
+    {
+      "name": "Stadion Park mladeži",
+      "latitude": 43.519147,
+      "longitude": 16.444224
+    },
+    {
+      "name": "Stadion Rujevica",
+      "latitude": 45.348188,
+      "longitude": 14.402247
+    },
+    {
+      "name": "Stadion SRC Mladost",
+      "latitude": 46.391508,
+      "longitude": 16.422259
+    },
+    {
+      "name": "Stadion uz Savu",
+      "latitude": 45.150106,
+      "longitude": 18.021504
+    },
+    {
+      "name": "Stadion Šalata",
+      "latitude": 45.815571,
+      "longitude": 15.985566
+    },
+    {
+      "name": "Stadion Šubićevac",
+      "latitude": 43.743832,
+      "longitude": 15.896217
+    },
+    {
+      "name": "Stadion Žuknica",
+      "latitude": 45.305119,
+      "longitude": 14.4976
+    },
+    {
+      "name": "Stadium Mlakve - Novi Grad",
+      "latitude": 45.037632,
+      "longitude": 16.363807
+    },
+    {
+      "name": "Stanovi",
+      "latitude": 44.112522,
+      "longitude": 15.246808
+    },
+    {
+      "name": "Stari stadion Bjelovar",
+      "latitude": 45.907736,
+      "longitude": 16.852948
+    },
+    {
+      "name": "Stjepan Spajić",
+      "latitude": 45.771172,
+      "longitude": 15.971916
+    },
+    {
+      "name": "Stjepan Zdenko Šivo",
+      "latitude": 45.288751,
+      "longitude": 17.80318
+    },
+    {
+      "name": "Sveti Josip Radnik",
+      "latitude": 45.836039,
+      "longitude": 16.117154
+    },
+    {
+      "name": "Tenis AS",
+      "latitude": 44.34841,
+      "longitude": 15.102532
+    },
+    {
+      "name": "Teren RK Split",
+      "latitude": 43.512297,
+      "longitude": 16.446497
+    },
+    {
+      "name": "Uljanikov stadion",
+      "latitude": 44.858153,
+      "longitude": 13.833594
+    },
+    {
+      "name": "Valbrune",
+      "latitude": 45.076923,
+      "longitude": 13.646885
+    },
+    {
+      "name": "Veli Jože",
+      "latitude": 45.2237,
+      "longitude": 13.604854
+    },
+    {
+      "name": "Vukovar",
+      "latitude": 43.553157,
+      "longitude": 16.346561
+    },
+    {
+      "name": "Zlinje",
+      "latitude": 42.939734,
+      "longitude": 16.790733
+    },
+    {
+      "name": "Zrinski",
+      "latitude": 43.550184,
+      "longitude": 16.421361
+    },
+    {
+      "name": "Športsko rekreacijski centar „Ivo Petranović\"",
+      "latitude": 45.263389,
+      "longitude": 17.377396
+    },
+    {
+      "name": "ŠRC Stanko Vlainić-Dida",
+      "latitude": 45.169342,
+      "longitude": 18.034101
+    },
+    {
+      "name": "ŠRC Zaprešić",
+      "latitude": 45.864732,
+      "longitude": 15.800137
+    },
+    {
+      "name": "Šuderka",
+      "latitude": 46.514422,
+      "longitude": 16.445627
+    },
+    {
+      "name": "Спортски центар „Раде Свилар”",
+      "latitude": 45.678901,
+      "longitude": 18.970521
+    }
+  ],
+  "meta": {
+    "title": "Stadioni - Besplatno preuzimanje",
+    "description": "Stadioni u Hrvatskoj (138 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=stadium), izrez EU-POIS/HR. Sadrži 138 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Stadioni | ListBase",
+    "seo_description": "Preuzmi Stadioni — 138 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 138 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

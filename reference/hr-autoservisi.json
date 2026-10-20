@@ -1,0 +1,2211 @@
+{
+  "id": "hr-autoservisi",
+  "name": "Autoservisi",
+  "title": "Autoservisi",
+  "description": "Autoservisi u Hrvatskoj (434 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=car_repair), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 434,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A.D. AUTO SERVIS",
+      "latitude": 44.860413,
+      "longitude": 13.851474
+    },
+    {
+      "name": "A1 mehanika",
+      "latitude": 45.813759,
+      "longitude": 15.840029
+    },
+    {
+      "name": "AC Bedeković d.o.o.",
+      "latitude": 46.161078,
+      "longitude": 16.811425
+    },
+    {
+      "name": "AC Duo",
+      "latitude": 45.538518,
+      "longitude": 18.643957
+    },
+    {
+      "name": "AC MIKULAN",
+      "latitude": 46.335784,
+      "longitude": 16.15291
+    },
+    {
+      "name": "AC Rajković",
+      "latitude": 45.465988,
+      "longitude": 16.771674
+    },
+    {
+      "name": "ACC Mravunac",
+      "latitude": 45.645199,
+      "longitude": 15.618992
+    },
+    {
+      "name": "ACR - Auto Centar Rovinj",
+      "latitude": 45.080836,
+      "longitude": 13.655854
+    },
+    {
+      "name": "AG Service",
+      "latitude": 46.043599,
+      "longitude": 16.003497
+    },
+    {
+      "name": "AKS",
+      "latitude": 45.814349,
+      "longitude": 15.870086
+    },
+    {
+      "name": "Alan",
+      "latitude": 45.246285,
+      "longitude": 15.23749
+    },
+    {
+      "name": "Alex",
+      "latitude": 45.410237,
+      "longitude": 13.664183
+    },
+    {
+      "name": "Alfa",
+      "latitude": 45.345369,
+      "longitude": 18.995199
+    },
+    {
+      "name": "AMadria",
+      "latitude": 43.748332,
+      "longitude": 15.887683
+    },
+    {
+      "name": "AMC Glad",
+      "latitude": 46.37531,
+      "longitude": 16.449924
+    },
+    {
+      "name": "AMSH",
+      "latitude": 43.699712,
+      "longitude": 16.644896
+    },
+    {
+      "name": "AS Domjančić",
+      "latitude": 45.624418,
+      "longitude": 15.603743
+    },
+    {
+      "name": "AS DU Automobili",
+      "latitude": 42.673625,
+      "longitude": 18.091428
+    },
+    {
+      "name": "AS Zlatko",
+      "latitude": 45.781153,
+      "longitude": 16.669453
+    },
+    {
+      "name": "AS Šoštar",
+      "latitude": 45.591546,
+      "longitude": 15.483438
+    },
+    {
+      "name": "AS Šterc",
+      "latitude": 45.510621,
+      "longitude": 16.379322
+    },
+    {
+      "name": "AS-Felge",
+      "latitude": 45.811881,
+      "longitude": 15.889912
+    },
+    {
+      "name": "AST-AUTO",
+      "latitude": 46.377745,
+      "longitude": 16.396704
+    },
+    {
+      "name": "ASV servis",
+      "latitude": 45.842868,
+      "longitude": 15.932791
+    },
+    {
+      "name": "Auspuh Lastovčić",
+      "latitude": 45.798029,
+      "longitude": 15.771664
+    },
+    {
+      "name": "Auspuh Servis",
+      "latitude": 45.823373,
+      "longitude": 15.946657
+    },
+    {
+      "name": "Auto \"Čavrak\"",
+      "latitude": 45.24222,
+      "longitude": 14.646686
+    },
+    {
+      "name": "Auto Agent",
+      "latitude": 43.024092,
+      "longitude": 17.551819
+    },
+    {
+      "name": "Auto Antonio",
+      "latitude": 43.743426,
+      "longitude": 15.887784
+    },
+    {
+      "name": "Auto Antonio",
+      "latitude": 43.94792,
+      "longitude": 15.452221
+    },
+    {
+      "name": "Auto Blauhorn j.d.o.o.",
+      "latitude": 45.507611,
+      "longitude": 15.54901
+    },
+    {
+      "name": "Auto Centar",
+      "latitude": 45.033608,
+      "longitude": 14.56787
+    },
+    {
+      "name": "Auto Centar Babić",
+      "latitude": 44.140671,
+      "longitude": 15.31254
+    },
+    {
+      "name": "Auto centar Ivan d.o.o.",
+      "latitude": 46.040966,
+      "longitude": 16.523977
+    },
+    {
+      "name": "Auto centar Ivančić",
+      "latitude": 43.512853,
+      "longitude": 16.48468
+    },
+    {
+      "name": "Auto centar Sablić",
+      "latitude": 44.964338,
+      "longitude": 14.410183
+    },
+    {
+      "name": "Auto Centar Teo",
+      "latitude": 43.524847,
+      "longitude": 16.534189
+    },
+    {
+      "name": "Auto centar Viki",
+      "latitude": 45.688909,
+      "longitude": 15.716615
+    },
+    {
+      "name": "Auto Centar Vrbanović",
+      "latitude": 45.990527,
+      "longitude": 15.916512
+    },
+    {
+      "name": "AUTO CENTAR ŠEBALJ",
+      "latitude": 45.551448,
+      "longitude": 17.889458
+    },
+    {
+      "name": "auto dijelovi Tokić, poslovnica 17",
+      "latitude": 45.803989,
+      "longitude": 16.231081
+    },
+    {
+      "name": "Auto Dubrovnik",
+      "latitude": 42.652775,
+      "longitude": 18.085041
+    },
+    {
+      "name": "Auto Elektra",
+      "latitude": 43.510417,
+      "longitude": 16.48044
+    },
+    {
+      "name": "Auto Elektrika „Mario”",
+      "latitude": 42.975583,
+      "longitude": 17.165501
+    },
+    {
+      "name": "Auto električar KOZINA",
+      "latitude": 43.04913,
+      "longitude": 17.628631
+    },
+    {
+      "name": "Auto električarski servis Auto Đurđan",
+      "latitude": 45.816515,
+      "longitude": 15.891261
+    },
+    {
+      "name": "Auto Expert",
+      "latitude": 45.180919,
+      "longitude": 18.01208
+    },
+    {
+      "name": "auto felper",
+      "latitude": 45.805516,
+      "longitude": 15.91415
+    },
+    {
+      "name": "Auto Grlica",
+      "latitude": 45.392839,
+      "longitude": 14.373295
+    },
+    {
+      "name": "Auto Horvat",
+      "latitude": 46.348788,
+      "longitude": 16.361043
+    },
+    {
+      "name": "Auto Hrvatska",
+      "latitude": 45.175742,
+      "longitude": 18.057271
+    },
+    {
+      "name": "Auto Hrvatska Automobili",
+      "latitude": 44.105165,
+      "longitude": 15.260754
+    },
+    {
+      "name": "Auto Hubert",
+      "latitude": 45.766107,
+      "longitude": 15.932574
+    },
+    {
+      "name": "Auto Ivek",
+      "latitude": 46.523244,
+      "longitude": 16.401007
+    },
+    {
+      "name": "Auto klub Karlovac",
+      "latitude": 45.107657,
+      "longitude": 15.58499
+    },
+    {
+      "name": "auto Kos",
+      "latitude": 45.45432,
+      "longitude": 16.865772
+    },
+    {
+      "name": "Auto Koščica",
+      "latitude": 45.771387,
+      "longitude": 15.682947
+    },
+    {
+      "name": "Auto Krešo",
+      "latitude": 45.497202,
+      "longitude": 16.36577
+    },
+    {
+      "name": "Auto Krešo d.o.o.",
+      "latitude": 45.562447,
+      "longitude": 18.656113
+    },
+    {
+      "name": "Auto Kuca Pecic",
+      "latitude": 43.103876,
+      "longitude": 17.349592
+    },
+    {
+      "name": "Auto kuća Barić",
+      "latitude": 45.813068,
+      "longitude": 16.05953
+    },
+    {
+      "name": "Auto kuća Bebić",
+      "latitude": 43.532917,
+      "longitude": 16.491245
+    },
+    {
+      "name": "Auto kuća Bosnić",
+      "latitude": 43.514902,
+      "longitude": 16.539084
+    },
+    {
+      "name": "Auto kuća Deranja",
+      "latitude": 42.652732,
+      "longitude": 18.084138
+    },
+    {
+      "name": "Auto kuća Pavlinić-Sopić",
+      "latitude": 45.796611,
+      "longitude": 15.959464
+    },
+    {
+      "name": "Auto KUŠ",
+      "latitude": 45.975785,
+      "longitude": 17.169287
+    },
+    {
+      "name": "Auto M. M.",
+      "latitude": 44.909617,
+      "longitude": 13.85433
+    },
+    {
+      "name": "Auto Markuš",
+      "latitude": 46.123416,
+      "longitude": 16.06462
+    },
+    {
+      "name": "Auto Maček",
+      "latitude": 46.237227,
+      "longitude": 16.103854
+    },
+    {
+      "name": "AUTO MEHANIČAR DEKI",
+      "latitude": 44.528256,
+      "longitude": 15.762927
+    },
+    {
+      "name": "Auto Mijalić",
+      "latitude": 43.183984,
+      "longitude": 16.669074
+    },
+    {
+      "name": "Auto Milić",
+      "latitude": 43.760897,
+      "longitude": 16.617062
+    },
+    {
+      "name": "Auto Nina",
+      "latitude": 45.122853,
+      "longitude": 15.58447
+    },
+    {
+      "name": "Auto Par D.O.O.",
+      "latitude": 45.760791,
+      "longitude": 15.884164
+    },
+    {
+      "name": "Auto Pavić doo",
+      "latitude": 43.445667,
+      "longitude": 16.645827
+    },
+    {
+      "name": "Auto Pravdić",
+      "latitude": 44.862902,
+      "longitude": 13.860691
+    },
+    {
+      "name": "Auto Punkt",
+      "latitude": 45.79174,
+      "longitude": 15.958361
+    },
+    {
+      "name": "Auto rad d.o.o.",
+      "latitude": 45.803059,
+      "longitude": 15.974533
+    },
+    {
+      "name": "Auto Remetinec",
+      "latitude": 45.767015,
+      "longitude": 15.944074
+    },
+    {
+      "name": "auto ricijas",
+      "latitude": 46.047797,
+      "longitude": 15.734883
+    },
+    {
+      "name": "Auto Robi",
+      "latitude": 46.378848,
+      "longitude": 16.396306
+    },
+    {
+      "name": "Auto Sandi",
+      "latitude": 46.524538,
+      "longitude": 16.365954
+    },
+    {
+      "name": "Auto service Deno",
+      "latitude": 43.04148,
+      "longitude": 17.634433
+    },
+    {
+      "name": "Auto Servis",
+      "latitude": 44.551039,
+      "longitude": 14.885463
+    },
+    {
+      "name": "Auto Servis",
+      "latitude": 45.556362,
+      "longitude": 18.677139
+    },
+    {
+      "name": "Auto servis 'Bivio'",
+      "latitude": 45.346569,
+      "longitude": 14.355394
+    },
+    {
+      "name": "Auto Servis AUTOKLARIĆ",
+      "latitude": 45.229608,
+      "longitude": 17.385424
+    },
+    {
+      "name": "Auto Servis Bošnjak",
+      "latitude": 45.551715,
+      "longitude": 18.706229
+    },
+    {
+      "name": "Auto Servis Doblanović",
+      "latitude": 44.86369,
+      "longitude": 13.864006
+    },
+    {
+      "name": "Auto Servis Ferdo",
+      "latitude": 43.245534,
+      "longitude": 17.075639
+    },
+    {
+      "name": "Auto servis Kapac",
+      "latitude": 45.443381,
+      "longitude": 16.309002
+    },
+    {
+      "name": "Auto servis KEKEZ",
+      "latitude": 43.739375,
+      "longitude": 16.634982
+    },
+    {
+      "name": "Auto servis Krvavica",
+      "latitude": 45.795563,
+      "longitude": 15.922718
+    },
+    {
+      "name": "Auto Servis Labar",
+      "latitude": 43.950349,
+      "longitude": 15.458629
+    },
+    {
+      "name": "auto servis Marinić",
+      "latitude": 45.271801,
+      "longitude": 15.224018
+    },
+    {
+      "name": "Auto servis Marko d.o.o",
+      "latitude": 43.508312,
+      "longitude": 16.500611
+    },
+    {
+      "name": "Auto servis Merčep",
+      "latitude": 45.45965,
+      "longitude": 15.492299
+    },
+    {
+      "name": "Auto servis Mudri",
+      "latitude": 45.605325,
+      "longitude": 17.223681
+    },
+    {
+      "name": "Auto servis Novosel",
+      "latitude": 45.795789,
+      "longitude": 15.713319
+    },
+    {
+      "name": "Auto servis SAN-ISPUH",
+      "latitude": 45.815125,
+      "longitude": 15.850009
+    },
+    {
+      "name": "Auto servis Todi",
+      "latitude": 44.295457,
+      "longitude": 15.114657
+    },
+    {
+      "name": "Auto servis Topić",
+      "latitude": 43.359818,
+      "longitude": 16.950889
+    },
+    {
+      "name": "Auto servis Čačković",
+      "latitude": 45.79864,
+      "longitude": 15.727963
+    },
+    {
+      "name": "Auto Servis Škvorc",
+      "latitude": 45.68681,
+      "longitude": 18.656501
+    },
+    {
+      "name": "Auto Simba",
+      "latitude": 45.52869,
+      "longitude": 18.607969
+    },
+    {
+      "name": "Auto stakla Lovret",
+      "latitude": 43.511034,
+      "longitude": 16.483091
+    },
+    {
+      "name": "AUTO STAR d.o.o.",
+      "latitude": 45.829731,
+      "longitude": 16.065895
+    },
+    {
+      "name": "Auto Vukadin",
+      "latitude": 43.307553,
+      "longitude": 17.015675
+    },
+    {
+      "name": "Auto Zubak, Audi servis",
+      "latitude": 45.818509,
+      "longitude": 16.102209
+    },
+    {
+      "name": "Auto Čović Service",
+      "latitude": 43.274895,
+      "longitude": 17.050539
+    },
+    {
+      "name": "Auto Šatrak",
+      "latitude": 45.821039,
+      "longitude": 16.010402
+    },
+    {
+      "name": "Auto Štrukelj d.o.o.",
+      "latitude": 45.764719,
+      "longitude": 16.231639
+    },
+    {
+      "name": "Auto-color servis Šimić",
+      "latitude": 45.340107,
+      "longitude": 17.672875
+    },
+    {
+      "name": "Auto-Moto Centar Zagreb",
+      "latitude": 45.835917,
+      "longitude": 16.055681
+    },
+    {
+      "name": "Auto-Retifica",
+      "latitude": 43.507358,
+      "longitude": 16.454946
+    },
+    {
+      "name": "Auto-servis Krivić",
+      "latitude": 45.362949,
+      "longitude": 17.764369
+    },
+    {
+      "name": "Auto-servis Marić",
+      "latitude": 45.311746,
+      "longitude": 18.418213
+    },
+    {
+      "name": "Autoagent auto servis",
+      "latitude": 43.057506,
+      "longitude": 17.649171
+    },
+    {
+      "name": "AUTOBOX",
+      "latitude": 45.293333,
+      "longitude": 13.905835
+    },
+    {
+      "name": "Autocentar Agram",
+      "latitude": 45.810419,
+      "longitude": 15.988912
+    },
+    {
+      "name": "Autocentar Bahnjik",
+      "latitude": 45.591048,
+      "longitude": 17.211129
+    },
+    {
+      "name": "Autocentar Ivica",
+      "latitude": 45.652496,
+      "longitude": 18.427365
+    },
+    {
+      "name": "AutoComplex",
+      "latitude": 46.178822,
+      "longitude": 16.79536
+    },
+    {
+      "name": "Autodijelovi Metalia Auto",
+      "latitude": 44.041678,
+      "longitude": 16.19847
+    },
+    {
+      "name": "Autodijelovi Tokić",
+      "latitude": 44.041264,
+      "longitude": 16.199283
+    },
+    {
+      "name": "Autoelektrika \"Premec\"",
+      "latitude": 46.244458,
+      "longitude": 16.62872
+    },
+    {
+      "name": "autoelektrika Cargo",
+      "latitude": 45.801663,
+      "longitude": 15.915858
+    },
+    {
+      "name": "Autoelektrika Grom",
+      "latitude": 45.508723,
+      "longitude": 15.549519
+    },
+    {
+      "name": "Autoelektrika Horvat",
+      "latitude": 46.374768,
+      "longitude": 16.385381
+    },
+    {
+      "name": "Autoelektrika Vokić",
+      "latitude": 45.847241,
+      "longitude": 16.14093
+    },
+    {
+      "name": "Autoelektričar 'Robi'",
+      "latitude": 45.388292,
+      "longitude": 14.381671
+    },
+    {
+      "name": "Autoelektričar Čulić",
+      "latitude": 43.513055,
+      "longitude": 16.479277
+    },
+    {
+      "name": "Autoelektričarski obrt Darac",
+      "latitude": 45.122998,
+      "longitude": 15.585237
+    },
+    {
+      "name": "Autoelektro obrt Kajfeš",
+      "latitude": 45.813127,
+      "longitude": 15.858285
+    },
+    {
+      "name": "Autoklinika",
+      "latitude": 43.514053,
+      "longitude": 16.426672
+    },
+    {
+      "name": "Autokuća Balinjera",
+      "latitude": 43.523631,
+      "longitude": 16.462042
+    },
+    {
+      "name": "Autolimarija \"Zelić\"",
+      "latitude": 45.791046,
+      "longitude": 15.92839
+    },
+    {
+      "name": "Autolimarija Danilović",
+      "latitude": 45.361566,
+      "longitude": 17.751874
+    },
+    {
+      "name": "Autolimarija i lakiranje Kovač",
+      "latitude": 46.377804,
+      "longitude": 16.376377
+    },
+    {
+      "name": "Autolimarija Karlo",
+      "latitude": 46.023334,
+      "longitude": 16.553203
+    },
+    {
+      "name": "Autolimarija Strancarić",
+      "latitude": 45.853177,
+      "longitude": 16.056235
+    },
+    {
+      "name": "Autolimarija Šintić",
+      "latitude": 45.855573,
+      "longitude": 16.055626
+    },
+    {
+      "name": "autolimarska radionica Vugrin i sinovi",
+      "latitude": 45.792896,
+      "longitude": 15.97901
+    },
+    {
+      "name": "Autolimarski obrt Budimir",
+      "latitude": 45.79567,
+      "longitude": 15.926285
+    },
+    {
+      "name": "Automehanika",
+      "latitude": 45.281329,
+      "longitude": 18.801777
+    },
+    {
+      "name": "Automehanika \"Žuti\"",
+      "latitude": 45.690968,
+      "longitude": 15.736241
+    },
+    {
+      "name": "Automehanika Banaj",
+      "latitude": 45.332212,
+      "longitude": 17.671136
+    },
+    {
+      "name": "Automehanićar Pavlina",
+      "latitude": 45.990099,
+      "longitude": 15.9144
+    },
+    {
+      "name": "Automehaničar",
+      "latitude": 43.442714,
+      "longitude": 17.222455
+    },
+    {
+      "name": "Automehaničar",
+      "latitude": 45.369778,
+      "longitude": 15.604427
+    },
+    {
+      "name": "Automehaničar Bašić",
+      "latitude": 43.445548,
+      "longitude": 17.201723
+    },
+    {
+      "name": "Automehaničarska radionica Jurasić",
+      "latitude": 44.528643,
+      "longitude": 14.476153
+    },
+    {
+      "name": "Automehaničarska radnja \"Željko Banaj\"",
+      "latitude": 45.359153,
+      "longitude": 17.774512
+    },
+    {
+      "name": "Automehaničarski obrt i prodaja dijelova OIL SERVIS",
+      "latitude": 46.174812,
+      "longitude": 16.839328
+    },
+    {
+      "name": "Automehaničarski obrt Mercedes",
+      "latitude": 43.532258,
+      "longitude": 16.508091
+    },
+    {
+      "name": "Automehaničarski obrt Salaj",
+      "latitude": 46.465608,
+      "longitude": 16.545643
+    },
+    {
+      "name": "Automotiv",
+      "latitude": 46.018961,
+      "longitude": 16.538303
+    },
+    {
+      "name": "AutoMotoRefinish",
+      "latitude": 45.843928,
+      "longitude": 15.92673
+    },
+    {
+      "name": "Autonippon doo (service)",
+      "latitude": 45.321155,
+      "longitude": 14.47873
+    },
+    {
+      "name": "Autopraonica i vulkanizacija Kračun",
+      "latitude": 46.368859,
+      "longitude": 16.374497
+    },
+    {
+      "name": "Autoradionica Tičinović",
+      "latitude": 43.511133,
+      "longitude": 16.484263
+    },
+    {
+      "name": "AutoRobot",
+      "latitude": 45.802027,
+      "longitude": 15.939319
+    },
+    {
+      "name": "Autoservice",
+      "latitude": 43.82403,
+      "longitude": 15.601497
+    },
+    {
+      "name": "Autoservice Vulkanizer Čavić",
+      "latitude": 44.300345,
+      "longitude": 15.432983
+    },
+    {
+      "name": "Autoservis",
+      "latitude": 43.446551,
+      "longitude": 17.223221
+    },
+    {
+      "name": "Autoservis \"A1\"",
+      "latitude": 45.796553,
+      "longitude": 15.925186
+    },
+    {
+      "name": "Autoservis \"Auto.com\" Lepus d.o.o.",
+      "latitude": 45.751034,
+      "longitude": 18.638889
+    },
+    {
+      "name": "Autoservis 24",
+      "latitude": 45.781345,
+      "longitude": 15.954937
+    },
+    {
+      "name": "Autoservis AS Viki",
+      "latitude": 45.794162,
+      "longitude": 15.926707
+    },
+    {
+      "name": "Autoservis Balančić",
+      "latitude": 45.479404,
+      "longitude": 16.379879
+    },
+    {
+      "name": "Autoservis Bambino",
+      "latitude": 45.334266,
+      "longitude": 17.683871
+    },
+    {
+      "name": "Autoservis Bašek",
+      "latitude": 46.377965,
+      "longitude": 16.431849
+    },
+    {
+      "name": "Autoservis Bepi",
+      "latitude": 44.112,
+      "longitude": 15.241273
+    },
+    {
+      "name": "Autoservis Brigljević",
+      "latitude": 45.704896,
+      "longitude": 16.113179
+    },
+    {
+      "name": "Autoservis Bujol",
+      "latitude": 44.783435,
+      "longitude": 14.714186
+    },
+    {
+      "name": "Autoservis Cipulin",
+      "latitude": 43.056982,
+      "longitude": 16.196435
+    },
+    {
+      "name": "Autoservis Dara",
+      "latitude": 45.360482,
+      "longitude": 17.751359
+    },
+    {
+      "name": "Autoservis Dedić",
+      "latitude": 44.779807,
+      "longitude": 14.722505
+    },
+    {
+      "name": "Autoservis Delta",
+      "latitude": 44.123154,
+      "longitude": 15.228239
+    },
+    {
+      "name": "Autoservis Drle",
+      "latitude": 45.285971,
+      "longitude": 18.818669
+    },
+    {
+      "name": "AutoServis Drobilec",
+      "latitude": 45.758235,
+      "longitude": 16.001157
+    },
+    {
+      "name": "Autoservis Eno",
+      "latitude": 44.936684,
+      "longitude": 13.804675
+    },
+    {
+      "name": "Autoservis Felker-Jambrešić",
+      "latitude": 46.376129,
+      "longitude": 16.434788
+    },
+    {
+      "name": "Autoservis Flagor",
+      "latitude": 45.699286,
+      "longitude": 17.1752
+    },
+    {
+      "name": "Autoservis Jurica",
+      "latitude": 45.800365,
+      "longitude": 15.700353
+    },
+    {
+      "name": "autoservis Mario",
+      "latitude": 45.574446,
+      "longitude": 16.219123
+    },
+    {
+      "name": "autoservis MB",
+      "latitude": 45.504593,
+      "longitude": 18.739924
+    },
+    {
+      "name": "Autoservis Nane",
+      "latitude": 44.760553,
+      "longitude": 14.766982
+    },
+    {
+      "name": "Autoservis Pavišić",
+      "latitude": 45.702994,
+      "longitude": 16.06736
+    },
+    {
+      "name": "Autoservis Peša",
+      "latitude": 43.443142,
+      "longitude": 17.233507
+    },
+    {
+      "name": "Autoservis Pukljak",
+      "latitude": 45.543203,
+      "longitude": 18.749677
+    },
+    {
+      "name": "Autoservis Tonko",
+      "latitude": 45.835037,
+      "longitude": 16.113395
+    },
+    {
+      "name": "Autoservis Vučičević",
+      "latitude": 45.79805,
+      "longitude": 15.897389
+    },
+    {
+      "name": "Autoservis Ćurić",
+      "latitude": 45.300699,
+      "longitude": 18.417651
+    },
+    {
+      "name": "Autoservis Črnjak",
+      "latitude": 45.710468,
+      "longitude": 16.072836
+    },
+    {
+      "name": "Autoservis Đuro",
+      "latitude": 45.345316,
+      "longitude": 18.42113
+    },
+    {
+      "name": "Autoservis Šafran",
+      "latitude": 45.793412,
+      "longitude": 15.935815
+    },
+    {
+      "name": "Autoservis Šare",
+      "latitude": 45.817191,
+      "longitude": 15.936986
+    },
+    {
+      "name": "Autoservis Šurina",
+      "latitude": 45.789276,
+      "longitude": 16.005238
+    },
+    {
+      "name": "autoservis Žalac",
+      "latitude": 45.508688,
+      "longitude": 18.738461
+    },
+    {
+      "name": "autoservis24",
+      "latitude": 45.781592,
+      "longitude": 15.956203
+    },
+    {
+      "name": "Autostakla Kristal",
+      "latitude": 46.183993,
+      "longitude": 16.838396
+    },
+    {
+      "name": "Autostakla Laus",
+      "latitude": 43.55034,
+      "longitude": 16.433168
+    },
+    {
+      "name": "Autostakla Laus",
+      "latitude": 45.782516,
+      "longitude": 15.9569
+    },
+    {
+      "name": "Autostakla Laus",
+      "latitude": 45.801153,
+      "longitude": 16.11824
+    },
+    {
+      "name": "Autostaklo Bingo",
+      "latitude": 46.301445,
+      "longitude": 16.323907
+    },
+    {
+      "name": "Autostaklo servis",
+      "latitude": 45.808105,
+      "longitude": 15.934395
+    },
+    {
+      "name": "Autotech",
+      "latitude": 45.718429,
+      "longitude": 16.056019
+    },
+    {
+      "name": "Autowill",
+      "latitude": 45.797341,
+      "longitude": 15.900604
+    },
+    {
+      "name": "AutoZubak Sesvetski Kraljevec - Postprodaja (Servis vozila i prodaja rezervnih dijelova)",
+      "latitude": 45.820137,
+      "longitude": 16.165615
+    },
+    {
+      "name": "Avtoservis Peer",
+      "latitude": 46.225923,
+      "longitude": 15.693816
+    },
+    {
+      "name": "B&S",
+      "latitude": 44.137257,
+      "longitude": 15.096482
+    },
+    {
+      "name": "Baković",
+      "latitude": 45.283953,
+      "longitude": 18.824811
+    },
+    {
+      "name": "Barižon-brodski mehaničar",
+      "latitude": 43.8054,
+      "longitude": 15.631393
+    },
+    {
+      "name": "BAT vulkanizacija",
+      "latitude": 45.794542,
+      "longitude": 15.947607
+    },
+    {
+      "name": "BAUER d.o.o",
+      "latitude": 46.01355,
+      "longitude": 15.883693
+    },
+    {
+      "name": "BAŽ",
+      "latitude": 45.918073,
+      "longitude": 16.87417
+    },
+    {
+      "name": "BEGOVIĆ-AUTO SERVIS",
+      "latitude": 45.614826,
+      "longitude": 18.530752
+    },
+    {
+      "name": "Benussi Range Rover - Jaguar",
+      "latitude": 45.799084,
+      "longitude": 15.856568
+    },
+    {
+      "name": "Beroš trade",
+      "latitude": 43.522644,
+      "longitude": 16.448257
+    },
+    {
+      "name": "Bestim",
+      "latitude": 46.030031,
+      "longitude": 16.54831
+    },
+    {
+      "name": "Bestim d.o.o.",
+      "latitude": 46.028413,
+      "longitude": 16.543838
+    },
+    {
+      "name": "Bingo auto-staklo",
+      "latitude": 46.340591,
+      "longitude": 16.361032
+    },
+    {
+      "name": "Bosančići",
+      "latitude": 43.585127,
+      "longitude": 16.577184
+    },
+    {
+      "name": "Bosch",
+      "latitude": 43.527405,
+      "longitude": 16.482022
+    },
+    {
+      "name": "Bosch Auto Servis Klepo",
+      "latitude": 43.52371,
+      "longitude": 16.266299
+    },
+    {
+      "name": "Bosch Car Service",
+      "latitude": 42.652542,
+      "longitude": 18.085237
+    },
+    {
+      "name": "Bosch Car Service",
+      "latitude": 45.813323,
+      "longitude": 15.711083
+    },
+    {
+      "name": "Bosch Car Service - Zoki",
+      "latitude": 45.510003,
+      "longitude": 15.549246
+    },
+    {
+      "name": "Bosch Diesel Service ,vl. Marin Frančišković",
+      "latitude": 45.325427,
+      "longitude": 14.473899
+    },
+    {
+      "name": "Bosh service",
+      "latitude": 45.331179,
+      "longitude": 16.973139
+    },
+    {
+      "name": "BS servis",
+      "latitude": 46.37747,
+      "longitude": 16.427316
+    },
+    {
+      "name": "BTS car painting",
+      "latitude": 46.237566,
+      "longitude": 16.603187
+    },
+    {
+      "name": "Bujan",
+      "latitude": 45.779161,
+      "longitude": 16.000532
+    },
+    {
+      "name": "Carglas",
+      "latitude": 46.160331,
+      "longitude": 16.811173
+    },
+    {
+      "name": "Ceki",
+      "latitude": 45.508261,
+      "longitude": 16.30479
+    },
+    {
+      "name": "Centar auto lakova",
+      "latitude": 45.901847,
+      "longitude": 16.839206
+    },
+    {
+      "name": "Centar za vozila Hrvatske",
+      "latitude": 45.222262,
+      "longitude": 19.353461
+    },
+    {
+      "name": "Cepelin",
+      "latitude": 45.734279,
+      "longitude": 16.016599
+    },
+    {
+      "name": "CHIP d.o.o.",
+      "latitude": 46.381805,
+      "longitude": 16.413012
+    },
+    {
+      "name": "CIAK Auto",
+      "latitude": 45.801571,
+      "longitude": 15.942295
+    },
+    {
+      "name": "CIAK Auto",
+      "latitude": 45.90075,
+      "longitude": 16.837311
+    },
+    {
+      "name": "Citroen Citropolis",
+      "latitude": 45.346965,
+      "longitude": 14.444296
+    },
+    {
+      "name": "CMAT4D d.o.o.",
+      "latitude": 45.805531,
+      "longitude": 15.797513
+    },
+    {
+      "name": "Cobra",
+      "latitude": 45.548846,
+      "longitude": 18.702675
+    },
+    {
+      "name": "Cvitkovic",
+      "latitude": 45.49638,
+      "longitude": 15.555862
+    },
+    {
+      "name": "D.Z. Auto",
+      "latitude": 45.770819,
+      "longitude": 15.682275
+    },
+    {
+      "name": "Dal auto",
+      "latitude": 45.360144,
+      "longitude": 14.396689
+    },
+    {
+      "name": "Damarija",
+      "latitude": 44.884111,
+      "longitude": 13.864248
+    },
+    {
+      "name": "Decibel Audio",
+      "latitude": 43.51406,
+      "longitude": 16.465288
+    },
+    {
+      "name": "Denis",
+      "latitude": 44.88171,
+      "longitude": 13.85942
+    },
+    {
+      "name": "Deno",
+      "latitude": 44.954353,
+      "longitude": 13.853361
+    },
+    {
+      "name": "Distanca",
+      "latitude": 45.571654,
+      "longitude": 18.605002
+    },
+    {
+      "name": "Dr. Auto",
+      "latitude": 45.806116,
+      "longitude": 15.931968
+    },
+    {
+      "name": "Draganić",
+      "latitude": 45.326839,
+      "longitude": 16.99565
+    },
+    {
+      "name": "E17",
+      "latitude": 44.114743,
+      "longitude": 15.25118
+    },
+    {
+      "name": "Edy Servis",
+      "latitude": 45.808168,
+      "longitude": 15.936133
+    },
+    {
+      "name": "Euronavis",
+      "latitude": 43.447431,
+      "longitude": 16.634315
+    },
+    {
+      "name": "Euroservis",
+      "latitude": 45.483984,
+      "longitude": 15.544442
+    },
+    {
+      "name": "EV Clinic Stupnik",
+      "latitude": 45.756806,
+      "longitude": 15.851163
+    },
+    {
+      "name": "EXPERTA Servis",
+      "latitude": 44.149064,
+      "longitude": 15.242157
+    },
+    {
+      "name": "Ferrum",
+      "latitude": 45.810351,
+      "longitude": 16.002569
+    },
+    {
+      "name": "FirstStop",
+      "latitude": 45.371217,
+      "longitude": 14.394835
+    },
+    {
+      "name": "Fiskovićeva",
+      "latitude": 42.97746,
+      "longitude": 17.181343
+    },
+    {
+      "name": "Fić",
+      "latitude": 42.958066,
+      "longitude": 16.723614
+    },
+    {
+      "name": "Ford Ivan",
+      "latitude": 43.522313,
+      "longitude": 16.43295
+    },
+    {
+      "name": "Ford Lindić",
+      "latitude": 45.798718,
+      "longitude": 15.727689
+    },
+    {
+      "name": "Gavranović",
+      "latitude": 45.334034,
+      "longitude": 16.973655
+    },
+    {
+      "name": "Gašparić Auto",
+      "latitude": 45.689605,
+      "longitude": 16.112286
+    },
+    {
+      "name": "GB",
+      "latitude": 43.430828,
+      "longitude": 16.708829
+    },
+    {
+      "name": "Gebruder",
+      "latitude": 45.656412,
+      "longitude": 18.422386
+    },
+    {
+      "name": "Gemelli",
+      "latitude": 43.755376,
+      "longitude": 15.771465
+    },
+    {
+      "name": "Grand auto",
+      "latitude": 45.798335,
+      "longitude": 15.871839
+    },
+    {
+      "name": "Grand Auto Sesvete",
+      "latitude": 45.807477,
+      "longitude": 16.101737
+    },
+    {
+      "name": "Greda d.o.o. Autoservis Bjelovar",
+      "latitude": 45.892393,
+      "longitude": 16.829463
+    },
+    {
+      "name": "Gumeks",
+      "latitude": 45.805962,
+      "longitude": 16.002196
+    },
+    {
+      "name": "Gumex",
+      "latitude": 45.779377,
+      "longitude": 16.000283
+    },
+    {
+      "name": "GUMI AUSPUH SERVIS",
+      "latitude": 45.120099,
+      "longitude": 14.525557
+    },
+    {
+      "name": "Gumi carbo",
+      "latitude": 45.331021,
+      "longitude": 14.301195
+    },
+    {
+      "name": "Gumiimpex",
+      "latitude": 45.79363,
+      "longitude": 16.036323
+    },
+    {
+      "name": "Gumiservis Potok",
+      "latitude": 45.335906,
+      "longitude": 14.432162
+    },
+    {
+      "name": "GVA servisi",
+      "latitude": 45.811718,
+      "longitude": 15.879626
+    },
+    {
+      "name": "Habada",
+      "latitude": 45.325619,
+      "longitude": 18.402051
+    },
+    {
+      "name": "HAK",
+      "latitude": 45.228673,
+      "longitude": 13.602467
+    },
+    {
+      "name": "HAK",
+      "latitude": 45.238678,
+      "longitude": 13.936389
+    },
+    {
+      "name": "HAK - Croatian auto club",
+      "latitude": 45.459496,
+      "longitude": 15.493324
+    },
+    {
+      "name": "HAK - Croatian auto club",
+      "latitude": 45.496245,
+      "longitude": 15.557051
+    },
+    {
+      "name": "HAK Autoklub Daruvar",
+      "latitude": 45.590538,
+      "longitude": 17.222794
+    },
+    {
+      "name": "HAK Autoklub Končar",
+      "latitude": 45.799633,
+      "longitude": 15.930731
+    },
+    {
+      "name": "HAK autoservis, AAMK sveučilište",
+      "latitude": 45.799422,
+      "longitude": 15.995629
+    },
+    {
+      "name": "HAK Servis",
+      "latitude": 45.354273,
+      "longitude": 14.333175
+    },
+    {
+      "name": "Heda-autodijelovi",
+      "latitude": 45.585993,
+      "longitude": 15.860213
+    },
+    {
+      "name": "Hećimović",
+      "latitude": 45.69986,
+      "longitude": 16.116941
+    },
+    {
+      "name": "Honda Franic",
+      "latitude": 43.496998,
+      "longitude": 16.537462
+    },
+    {
+      "name": "Honda Vuletić",
+      "latitude": 43.502004,
+      "longitude": 16.457662
+    },
+    {
+      "name": "HRVATIN",
+      "latitude": 45.229259,
+      "longitude": 13.916965
+    },
+    {
+      "name": "Hrvatski autoklub",
+      "latitude": 45.167386,
+      "longitude": 17.999764
+    },
+    {
+      "name": "Husquarna servis",
+      "latitude": 46.5212,
+      "longitude": 16.458824
+    },
+    {
+      "name": "Hyundai servis",
+      "latitude": 45.10686,
+      "longitude": 13.742861
+    },
+    {
+      "name": "Hyundai servis",
+      "latitude": 45.829106,
+      "longitude": 16.06282
+    },
+    {
+      "name": "Idol servis vozila",
+      "latitude": 45.538446,
+      "longitude": 18.642529
+    },
+    {
+      "name": "Inej Autocentar",
+      "latitude": 44.112652,
+      "longitude": 15.254208
+    },
+    {
+      "name": "ISAP auspuh servis",
+      "latitude": 45.805386,
+      "longitude": 15.921759
+    },
+    {
+      "name": "Iveco",
+      "latitude": 45.374195,
+      "longitude": 14.354978
+    },
+    {
+      "name": "Jerković Servis",
+      "latitude": 45.758261,
+      "longitude": 15.856081
+    },
+    {
+      "name": "JuMi - mechani",
+      "latitude": 45.830116,
+      "longitude": 15.995432
+    },
+    {
+      "name": "Jura mobil",
+      "latitude": 45.811818,
+      "longitude": 16.005855
+    },
+    {
+      "name": "Kataj",
+      "latitude": 45.271423,
+      "longitude": 18.804353
+    },
+    {
+      "name": "Katić",
+      "latitude": 43.505825,
+      "longitude": 16.453405
+    },
+    {
+      "name": "Kia centar Zagreb",
+      "latitude": 45.798455,
+      "longitude": 16.047267
+    },
+    {
+      "name": "Kia centar Zagreb Servis",
+      "latitude": 45.800783,
+      "longitude": 16.070183
+    },
+    {
+      "name": "KLJUČ",
+      "latitude": 44.989108,
+      "longitude": 13.930495
+    },
+    {
+      "name": "Krajcer",
+      "latitude": 45.527282,
+      "longitude": 17.254676
+    },
+    {
+      "name": "Kurnoslav Peranič",
+      "latitude": 44.594217,
+      "longitude": 14.877272
+    },
+    {
+      "name": "Librić",
+      "latitude": 45.802002,
+      "longitude": 15.72793
+    },
+    {
+      "name": "Lodoli",
+      "latitude": 45.456022,
+      "longitude": 15.57282
+    },
+    {
+      "name": "Makovec",
+      "latitude": 46.516299,
+      "longitude": 16.290181
+    },
+    {
+      "name": "Mali Kraj",
+      "latitude": 45.340954,
+      "longitude": 19.018186
+    },
+    {
+      "name": "MAN Auto Hrvatska PSC",
+      "latitude": 44.105861,
+      "longitude": 15.26078
+    },
+    {
+      "name": "Marijan Čućek",
+      "latitude": 45.804747,
+      "longitude": 15.953808
+    },
+    {
+      "name": "Maćan",
+      "latitude": 45.268922,
+      "longitude": 16.905912
+    },
+    {
+      "name": "MB specialist",
+      "latitude": 45.797637,
+      "longitude": 15.766962
+    },
+    {
+      "name": "Mercedes servis",
+      "latitude": 43.103844,
+      "longitude": 17.34947
+    },
+    {
+      "name": "Mercedes-Benz Lončar",
+      "latitude": 43.445931,
+      "longitude": 17.202626
+    },
+    {
+      "name": "Mitrović",
+      "latitude": 43.452666,
+      "longitude": 17.230745
+    },
+    {
+      "name": "MK Auto Team",
+      "latitude": 45.799536,
+      "longitude": 15.732486
+    },
+    {
+      "name": "MM AS Autoservis",
+      "latitude": 45.805441,
+      "longitude": 15.801979
+    },
+    {
+      "name": "Mobil 1",
+      "latitude": 43.444808,
+      "longitude": 16.645806
+    },
+    {
+      "name": "MOHOROVIĆ d.o.o.",
+      "latitude": 45.0898,
+      "longitude": 13.667897
+    },
+    {
+      "name": "Monza",
+      "latitude": 44.300759,
+      "longitude": 15.079759
+    },
+    {
+      "name": "Motoracing",
+      "latitude": 45.301582,
+      "longitude": 14.280711
+    },
+    {
+      "name": "MP8",
+      "latitude": 43.503344,
+      "longitude": 16.462666
+    },
+    {
+      "name": "MPS - Mali pogonski strojevi d.o.o",
+      "latitude": 45.708278,
+      "longitude": 16.411995
+    },
+    {
+      "name": "Multitronic-Box Team",
+      "latitude": 45.7995,
+      "longitude": 15.732463
+    },
+    {
+      "name": "Mustač",
+      "latitude": 45.830108,
+      "longitude": 17.387203
+    },
+    {
+      "name": "Nacional Bjelovar",
+      "latitude": 45.889049,
+      "longitude": 16.825
+    },
+    {
+      "name": "Nautic Mehanika",
+      "latitude": 42.95823,
+      "longitude": 17.136125
+    },
+    {
+      "name": "Nissan",
+      "latitude": 43.526575,
+      "longitude": 16.44879
+    },
+    {
+      "name": "Nišo Auto",
+      "latitude": 42.959513,
+      "longitude": 16.721394
+    },
+    {
+      "name": "Nosić gume",
+      "latitude": 43.5157,
+      "longitude": 16.479685
+    },
+    {
+      "name": "Omegauto",
+      "latitude": 42.55267,
+      "longitude": 18.265093
+    },
+    {
+      "name": "Opel",
+      "latitude": 45.566631,
+      "longitude": 16.619204
+    },
+    {
+      "name": "OPEL Auto servis",
+      "latitude": 43.445654,
+      "longitude": 17.203481
+    },
+    {
+      "name": "Ožoga",
+      "latitude": 45.376085,
+      "longitude": 16.915636
+    },
+    {
+      "name": "Pajdo",
+      "latitude": 45.906178,
+      "longitude": 16.860322
+    },
+    {
+      "name": "Pegas",
+      "latitude": 45.803899,
+      "longitude": 15.919622
+    },
+    {
+      "name": "Pneu-Max",
+      "latitude": 45.797934,
+      "longitude": 15.946979
+    },
+    {
+      "name": "Popek",
+      "latitude": 45.793179,
+      "longitude": 15.956766
+    },
+    {
+      "name": "Porsche Zagreb Slavonska",
+      "latitude": 45.795935,
+      "longitude": 16.018092
+    },
+    {
+      "name": "Posel-ZD",
+      "latitude": 46.520903,
+      "longitude": 16.374869
+    },
+    {
+      "name": "Predragović",
+      "latitude": 45.83228,
+      "longitude": 17.374674
+    },
+    {
+      "name": "R.L. servis",
+      "latitude": 45.790539,
+      "longitude": 16.024196
+    },
+    {
+      "name": "radionica",
+      "latitude": 45.394839,
+      "longitude": 13.996357
+    },
+    {
+      "name": "Rafaj",
+      "latitude": 45.812182,
+      "longitude": 16.003119
+    },
+    {
+      "name": "Rafo",
+      "latitude": 45.333589,
+      "longitude": 16.972019
+    },
+    {
+      "name": "Raumberger servis",
+      "latitude": 45.313726,
+      "longitude": 18.415468
+    },
+    {
+      "name": "Renault service Jerkovic",
+      "latitude": 43.015908,
+      "longitude": 17.551895
+    },
+    {
+      "name": "Renault Čagalj",
+      "latitude": 43.427701,
+      "longitude": 16.712325
+    },
+    {
+      "name": "Ribica Autoelektrika",
+      "latitude": 46.098215,
+      "longitude": 15.905639
+    },
+    {
+      "name": "Rojko",
+      "latitude": 46.399653,
+      "longitude": 16.427117
+    },
+    {
+      "name": "Rotovilux",
+      "latitude": 46.378155,
+      "longitude": 16.375499
+    },
+    {
+      "name": "RT company",
+      "latitude": 46.508927,
+      "longitude": 16.432701
+    },
+    {
+      "name": "Rubor",
+      "latitude": 45.779162,
+      "longitude": 16.000418
+    },
+    {
+      "name": "Safety Drivers",
+      "latitude": 45.791908,
+      "longitude": 15.943783
+    },
+    {
+      "name": "Seat AC Bilić",
+      "latitude": 45.176593,
+      "longitude": 17.981917
+    },
+    {
+      "name": "Selska 66",
+      "latitude": 45.806101,
+      "longitude": 15.942467
+    },
+    {
+      "name": "Servis Kvakan d.o.o.",
+      "latitude": 46.392169,
+      "longitude": 16.685121
+    },
+    {
+      "name": "Servis LPG autoplin Meštar",
+      "latitude": 45.911234,
+      "longitude": 16.868458
+    },
+    {
+      "name": "Servis motornih vozila  Auto klub Požega",
+      "latitude": 45.3311,
+      "longitude": 17.67138
+    },
+    {
+      "name": "Servis Predragović",
+      "latitude": 45.832258,
+      "longitude": 17.374636
+    },
+    {
+      "name": "Servis vozila MM",
+      "latitude": 46.38408,
+      "longitude": 16.372126
+    },
+    {
+      "name": "Sijalica",
+      "latitude": 45.682594,
+      "longitude": 18.371641
+    },
+    {
+      "name": "Sopkov",
+      "latitude": 45.285261,
+      "longitude": 18.809887
+    },
+    {
+      "name": "Soprano",
+      "latitude": 45.787831,
+      "longitude": 15.924959
+    },
+    {
+      "name": "Stanica za tehnički pregled Drenovci",
+      "latitude": 44.906419,
+      "longitude": 18.898502
+    },
+    {
+      "name": "Stipe",
+      "latitude": 43.99125,
+      "longitude": 15.324252
+    },
+    {
+      "name": "Sunex",
+      "latitude": 46.377051,
+      "longitude": 16.453241
+    },
+    {
+      "name": "TAHOGRAF d.o.o. Pušćine",
+      "latitude": 46.34549,
+      "longitude": 16.362182
+    },
+    {
+      "name": "tas autoservis i djelovi",
+      "latitude": 45.789968,
+      "longitude": 15.925391
+    },
+    {
+      "name": "TDS auto",
+      "latitude": 45.792889,
+      "longitude": 15.956572
+    },
+    {
+      "name": "TK Auto",
+      "latitude": 46.068247,
+      "longitude": 16.979103
+    },
+    {
+      "name": "Tokić autodijelovi",
+      "latitude": 43.024059,
+      "longitude": 17.551928
+    },
+    {
+      "name": "Tomi",
+      "latitude": 46.255841,
+      "longitude": 16.26801
+    },
+    {
+      "name": "Toni Auspuh",
+      "latitude": 45.371269,
+      "longitude": 14.344707
+    },
+    {
+      "name": "Topić",
+      "latitude": 43.433548,
+      "longitude": 17.243665
+    },
+    {
+      "name": "Traktor servis Andrija",
+      "latitude": 45.393615,
+      "longitude": 16.630356
+    },
+    {
+      "name": "Trans east Kukuljanovo",
+      "latitude": 45.334703,
+      "longitude": 14.500259
+    },
+    {
+      "name": "Turek",
+      "latitude": 45.779208,
+      "longitude": 16.000359
+    },
+    {
+      "name": "Turčić",
+      "latitude": 46.003975,
+      "longitude": 15.880586
+    },
+    {
+      "name": "Unikomerc",
+      "latitude": 45.795566,
+      "longitude": 15.920618
+    },
+    {
+      "name": "Valvoline",
+      "latitude": 45.591398,
+      "longitude": 18.569825
+    },
+    {
+      "name": "Var d.o.o.",
+      "latitude": 45.819398,
+      "longitude": 16.103421
+    },
+    {
+      "name": "Varšić autooptika",
+      "latitude": 46.401135,
+      "longitude": 16.422283
+    },
+    {
+      "name": "Vitrum d.o.o.",
+      "latitude": 45.793253,
+      "longitude": 15.935405
+    },
+    {
+      "name": "Vlado Svržnjak",
+      "latitude": 45.794934,
+      "longitude": 15.96859
+    },
+    {
+      "name": "Volvo car service",
+      "latitude": 45.362153,
+      "longitude": 14.329357
+    },
+    {
+      "name": "Volvo centar Zagreb",
+      "latitude": 45.798535,
+      "longitude": 16.047678
+    },
+    {
+      "name": "Volvo servis Nilsson",
+      "latitude": 45.802051,
+      "longitude": 15.939695
+    },
+    {
+      "name": "Vranješ",
+      "latitude": 43.555985,
+      "longitude": 16.3928
+    },
+    {
+      "name": "Vujnović",
+      "latitude": 45.253176,
+      "longitude": 15.221479
+    },
+    {
+      "name": "Vulkal",
+      "latitude": 45.811923,
+      "longitude": 15.846754
+    },
+    {
+      "name": "Vulkal",
+      "latitude": 45.813484,
+      "longitude": 15.857439
+    },
+    {
+      "name": "Vulkanizacija Brdek",
+      "latitude": 45.715596,
+      "longitude": 16.063412
+    },
+    {
+      "name": "Vulkanizacija De Martini",
+      "latitude": 45.824725,
+      "longitude": 16.011393
+    },
+    {
+      "name": "Vulkanizacija Ivan",
+      "latitude": 45.799021,
+      "longitude": 15.94359
+    },
+    {
+      "name": "Vulkanizer",
+      "latitude": 43.024154,
+      "longitude": 17.551811
+    },
+    {
+      "name": "Vulkanizer",
+      "latitude": 43.677067,
+      "longitude": 15.990558
+    },
+    {
+      "name": "vulkanizer",
+      "latitude": 45.506662,
+      "longitude": 16.313062
+    },
+    {
+      "name": "Vulkanizer",
+      "latitude": 45.760585,
+      "longitude": 18.182707
+    },
+    {
+      "name": "vulkanizer",
+      "latitude": 45.780705,
+      "longitude": 15.95446
+    },
+    {
+      "name": "vulkanizer",
+      "latitude": 45.794352,
+      "longitude": 15.907626
+    },
+    {
+      "name": "vulkanizer Bračun",
+      "latitude": 45.796672,
+      "longitude": 15.93169
+    },
+    {
+      "name": "Vulkanizer Gumi-Autocentar",
+      "latitude": 44.040845,
+      "longitude": 16.200065
+    },
+    {
+      "name": "vulkanizer Humpy",
+      "latitude": 45.809083,
+      "longitude": 16.012351
+    },
+    {
+      "name": "Vulkanizer Jandrić",
+      "latitude": 45.809394,
+      "longitude": 15.985348
+    },
+    {
+      "name": "Vulkanizer Kupola",
+      "latitude": 45.770788,
+      "longitude": 18.614362
+    },
+    {
+      "name": "Vulkanizer Mijić",
+      "latitude": 45.516994,
+      "longitude": 18.73105
+    },
+    {
+      "name": "Vulkanizer Tonček",
+      "latitude": 45.337336,
+      "longitude": 16.974754
+    },
+    {
+      "name": "Vulkanizer Vulko",
+      "latitude": 45.906371,
+      "longitude": 16.825086
+    },
+    {
+      "name": "Vulkanizer Zlatko Klepo",
+      "latitude": 44.03271,
+      "longitude": 16.19616
+    },
+    {
+      "name": "Vulkanizerski servis Kantrida",
+      "latitude": 45.341853,
+      "longitude": 14.372357
+    },
+    {
+      "name": "VW",
+      "latitude": 45.501471,
+      "longitude": 15.5513
+    },
+    {
+      "name": "VW Matković",
+      "latitude": 43.445765,
+      "longitude": 17.20558
+    },
+    {
+      "name": "Wagen servis",
+      "latitude": 43.557202,
+      "longitude": 16.390314
+    },
+    {
+      "name": "Wagner",
+      "latitude": 45.313322,
+      "longitude": 18.415575
+    },
+    {
+      "name": "ZK Auto centar",
+      "latitude": 45.795089,
+      "longitude": 15.973278
+    },
+    {
+      "name": "Šabić elektrika",
+      "latitude": 43.69063,
+      "longitude": 16.647703
+    },
+    {
+      "name": "Šarović",
+      "latitude": 44.136813,
+      "longitude": 15.096814
+    },
+    {
+      "name": "Šeri",
+      "latitude": 43.678476,
+      "longitude": 16.657837
+    },
+    {
+      "name": "Škoda",
+      "latitude": 43.716595,
+      "longitude": 15.9125
+    },
+    {
+      "name": "Špagnut",
+      "latitude": 45.802464,
+      "longitude": 15.72882
+    },
+    {
+      "name": "Štambuk",
+      "latitude": 45.800042,
+      "longitude": 15.921869
+    },
+    {
+      "name": "Štasni",
+      "latitude": 45.789383,
+      "longitude": 15.954828
+    },
+    {
+      "name": "Željko Badurina Dudić",
+      "latitude": 44.558687,
+      "longitude": 14.885985
+    }
+  ],
+  "meta": {
+    "title": "Autoservisi - Besplatno preuzimanje",
+    "description": "Autoservisi u Hrvatskoj (434 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=car_repair), izrez EU-POIS/HR. Sadrži 434 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Autoservisi | ListBase",
+    "seo_description": "Preuzmi Autoservisi — 434 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 434 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

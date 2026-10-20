@@ -1,0 +1,251 @@
+{
+  "id": "hr-pozesko-slavonska-kafici",
+  "name": "Kafići — Požeško-slavonska županija",
+  "title": "Kafići — Požeško-slavonska županija",
+  "description": "42 kafići u županiji Požeško-slavonska županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Caffe Bar",
+      "latitude": 45.342746,
+      "longitude": 17.69453
+    },
+    {
+      "name": "Caffe bar \"Vrba\"",
+      "latitude": 45.357666,
+      "longitude": 17.763976
+    },
+    {
+      "name": "Caffe Bar & Disco Club Saloon",
+      "latitude": 45.331859,
+      "longitude": 17.676326
+    },
+    {
+      "name": "Caffe Bar Akademija",
+      "latitude": 45.333232,
+      "longitude": 17.67753
+    },
+    {
+      "name": "Caffe bar Amadeus",
+      "latitude": 45.331714,
+      "longitude": 17.675917
+    },
+    {
+      "name": "Caffe bar Baza",
+      "latitude": 45.337765,
+      "longitude": 17.665533
+    },
+    {
+      "name": "Caffe Bar Beer ti & ja",
+      "latitude": 45.331391,
+      "longitude": 17.675491
+    },
+    {
+      "name": "Caffe bar Charly",
+      "latitude": 45.414342,
+      "longitude": 17.159331
+    },
+    {
+      "name": "Caffe Bar Colosseum",
+      "latitude": 45.34188,
+      "longitude": 17.68337
+    },
+    {
+      "name": "Caffe bar Deja Vu",
+      "latitude": 45.332213,
+      "longitude": 17.677205
+    },
+    {
+      "name": "Caffe bar Diablo",
+      "latitude": 45.437762,
+      "longitude": 17.666143
+    },
+    {
+      "name": "Caffe bar Dvojka",
+      "latitude": 45.414287,
+      "longitude": 17.158901
+    },
+    {
+      "name": "Caffe bar Helios",
+      "latitude": 45.334105,
+      "longitude": 17.683404
+    },
+    {
+      "name": "Caffe bar Laganini",
+      "latitude": 45.413028,
+      "longitude": 17.1633
+    },
+    {
+      "name": "Caffe bar Mačak",
+      "latitude": 45.335129,
+      "longitude": 17.678488
+    },
+    {
+      "name": "Caffe bar Mojito",
+      "latitude": 45.334678,
+      "longitude": 17.677698
+    },
+    {
+      "name": "Caffe bar Mozart",
+      "latitude": 45.335659,
+      "longitude": 17.678898
+    },
+    {
+      "name": "Caffe Bar Orion",
+      "latitude": 45.331718,
+      "longitude": 17.673608
+    },
+    {
+      "name": "Caffe bar Provence",
+      "latitude": 45.331776,
+      "longitude": 17.67617
+    },
+    {
+      "name": "Caffe Bar R1",
+      "latitude": 45.332415,
+      "longitude": 17.671067
+    },
+    {
+      "name": "Caffe bar Ritz",
+      "latitude": 45.331072,
+      "longitude": 17.666372
+    },
+    {
+      "name": "Caffe Bar Roko",
+      "latitude": 45.331776,
+      "longitude": 17.671752
+    },
+    {
+      "name": "Caffe bar Royal",
+      "latitude": 45.332912,
+      "longitude": 17.676975
+    },
+    {
+      "name": "Caffe Bar Teatro",
+      "latitude": 45.330766,
+      "longitude": 17.676848
+    },
+    {
+      "name": "Caffe bar Terrassa",
+      "latitude": 45.334253,
+      "longitude": 17.683718
+    },
+    {
+      "name": "Caffe Bar Tržnica",
+      "latitude": 45.412467,
+      "longitude": 17.163633
+    },
+    {
+      "name": "Caffe bar Vertigo",
+      "latitude": 45.33254,
+      "longitude": 17.676854
+    },
+    {
+      "name": "Caffe bar\"Piki",
+      "latitude": 45.340768,
+      "longitude": 17.675187
+    },
+    {
+      "name": "Caffe Casablanca",
+      "latitude": 45.541795,
+      "longitude": 17.516043
+    },
+    {
+      "name": "Caffe Otok",
+      "latitude": 45.425911,
+      "longitude": 17.884031
+    },
+    {
+      "name": "Capitol Caffe Bar",
+      "latitude": 45.331776,
+      "longitude": 17.676546
+    },
+    {
+      "name": "Kavana Boba",
+      "latitude": 45.331307,
+      "longitude": 17.676501
+    },
+    {
+      "name": "L'insolito",
+      "latitude": 45.33419,
+      "longitude": 17.677844
+    },
+    {
+      "name": "Lugarnica Velika",
+      "latitude": 45.44258,
+      "longitude": 17.665653
+    },
+    {
+      "name": "Mali Caffe",
+      "latitude": 45.414629,
+      "longitude": 17.162818
+    },
+    {
+      "name": "Park",
+      "latitude": 45.435582,
+      "longitude": 17.194974
+    },
+    {
+      "name": "Porin Caffe Bar",
+      "latitude": 45.332909,
+      "longitude": 17.677714
+    },
+    {
+      "name": "Sportivo",
+      "latitude": 45.338843,
+      "longitude": 17.672729
+    },
+    {
+      "name": "Tutto Bene",
+      "latitude": 45.33928,
+      "longitude": 17.682943
+    },
+    {
+      "name": "Vanilla cafe",
+      "latitude": 45.331442,
+      "longitude": 17.676617
+    },
+    {
+      "name": "Wald",
+      "latitude": 45.457676,
+      "longitude": 17.660434
+    },
+    {
+      "name": "Zen bar",
+      "latitude": 45.331655,
+      "longitude": 17.678564
+    }
+  ],
+  "meta": {
+    "title": "Kafići — Požeško-slavonska županija - Besplatno preuzimanje",
+    "description": "42 kafići u županiji Požeško-slavonska županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 42 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kafići — Požeško-slavonska županija | ListBase",
+    "seo_description": "Preuzmi Kafići — Požeško-slavonska županija — 42 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 42 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

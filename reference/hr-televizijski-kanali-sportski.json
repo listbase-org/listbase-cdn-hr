@@ -1,0 +1,271 @@
+{
+  "id": "hr-televizijski-kanali-sportski",
+  "name": "Hrvatski TV kanali — sport",
+  "title": "Hrvatski TV kanali — sport",
+  "description": "Hrvatski televizijski kanali kategorije 'sports' (sportski program) iz otvorenog registra iptv-org/database. Sadrži naziv kanala, alternativne nazive, mrežu, vlasnike, kategorije, datum pokretanja i web stranicu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "ArenaSport1.hr",
+      "name": "Arena Sport 1",
+      "alt_names": "Arena Sport 1 Hrvatska",
+      "network": "",
+      "owners": "Telekom Srbjia",
+      "country": "HR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvarenasport.hr/"
+    },
+    {
+      "id": 2,
+      "channel_id": "ArenaSport10.hr",
+      "name": "Arena Sport 10",
+      "alt_names": "Arena Sport 10 Hrvatska",
+      "network": "",
+      "owners": "Telekom Srbjia",
+      "country": "HR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvarenasport.hr/"
+    },
+    {
+      "id": 3,
+      "channel_id": "ArenaSport2.hr",
+      "name": "Arena Sport 2",
+      "alt_names": "Arena Sport 2 Hrvatska",
+      "network": "",
+      "owners": "Telekom Srbjia",
+      "country": "HR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvarenasport.hr/"
+    },
+    {
+      "id": 4,
+      "channel_id": "ArenaSport3.hr",
+      "name": "Arena Sport 3",
+      "alt_names": "Arena Sport 3 Hrvatska",
+      "network": "",
+      "owners": "Telekom Srbjia",
+      "country": "HR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvarenasport.hr/"
+    },
+    {
+      "id": 5,
+      "channel_id": "ArenaSport4.hr",
+      "name": "Arena Sport 4",
+      "alt_names": "Arena Sport 4 Hrvatska",
+      "network": "",
+      "owners": "Telekom Srbjia",
+      "country": "HR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvarenasport.hr/"
+    },
+    {
+      "id": 6,
+      "channel_id": "ArenaSport5.hr",
+      "name": "Arena Sport 5",
+      "alt_names": "Arena Sport 5 Hrvatska",
+      "network": "",
+      "owners": "Telekom Srbjia",
+      "country": "HR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvarenasport.hr/"
+    },
+    {
+      "id": 7,
+      "channel_id": "ArenaSport6.hr",
+      "name": "Arena Sport 6",
+      "alt_names": "Arena Sport 6 Hrvatska",
+      "network": "",
+      "owners": "Telekom Srbjia",
+      "country": "HR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvarenasport.hr/"
+    },
+    {
+      "id": 8,
+      "channel_id": "ArenaSport7.hr",
+      "name": "Arena Sport 7",
+      "alt_names": "Arena Sport 7 Hrvatska",
+      "network": "",
+      "owners": "Telekom Srbjia",
+      "country": "HR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvarenasport.hr/"
+    },
+    {
+      "id": 9,
+      "channel_id": "ArenaSport8.hr",
+      "name": "Arena Sport 8",
+      "alt_names": "Arena Sport 8 Hrvatska",
+      "network": "",
+      "owners": "Telekom Srbjia",
+      "country": "HR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvarenasport.hr/"
+    },
+    {
+      "id": 10,
+      "channel_id": "ArenaSport9.hr",
+      "name": "Arena Sport 9",
+      "alt_names": "Arena Sport 9 Hrvatska",
+      "network": "",
+      "owners": "Telekom Srbjia",
+      "country": "HR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.tvarenasport.hr/"
+    },
+    {
+      "id": 11,
+      "channel_id": "KreatorTV.hr",
+      "name": "Kreator TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Kreator Putovanja d o o",
+      "country": "HR",
+      "categories": "sports, auto",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://kreator.tv/"
+    },
+    {
+      "id": 12,
+      "channel_id": "SportskaTV.hr",
+      "name": "Sportska TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.sptv.hr/"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatski TV kanali — sport - Besplatno preuzimanje",
+    "description": "Hrvatski televizijski kanali kategorije 'sports' (sportski program) iz otvorenog registra iptv-org/database. Sadrži naziv kanala, alternativne nazive, mrežu, vlasnike, kategorije, datum pokretanja i web stranicu. Sadrži 12 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Hrvatski TV kanali — sport | ListBase",
+    "seo_description": "Preuzmi Hrvatski TV kanali — sport — 12 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 12 zapisa / 13 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

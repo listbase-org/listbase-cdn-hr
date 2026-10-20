@@ -1,0 +1,2436 @@
+{
+  "id": "hr-drustva-zastupanje-osiguranje",
+  "name": "Društva za zastupanje u osiguranju",
+  "title": "Društva za zastupanje u osiguranju",
+  "description": "Registar of Croatian-licensed društva za zastupanje u osiguranju (insurance agency firms) authorised by Hrvatska agencija za nadzor financijskih usluga (HANFA). Each record carries the redni broj (rbr), registered name, DZ code, sjedište (registered office address), telefon, datum dozvole, klasa ovlaštenja (authorisation class) and ovlašteni zastupnici (authorised representatives — comma-separated string with each zastupnik's ZO code where present).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 237,
+  "columns": [
+    {
+      "key": "rbr",
+      "label": "Rbr",
+      "type": "number"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "rbs_code",
+      "label": "Rbs Code",
+      "type": "string"
+    },
+    {
+      "key": "sjediste",
+      "label": "Sjediste",
+      "type": "string"
+    },
+    {
+      "key": "telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "datum_dozvole",
+      "label": "Datum Dozvole",
+      "type": "date"
+    },
+    {
+      "key": "klasa_ovlastenja",
+      "label": "Klasa Ovlastenja",
+      "type": "string"
+    },
+    {
+      "key": "ovlasteni_zastupnici",
+      "label": "Ovlasteni Zastupnici",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rbr": "1",
+      "naziv": "2 BETA DOMESTIC d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 275",
+      "sjediste": "Stjepana Radića 54A, Šibenik",
+      "telefon": "091/3368008",
+      "datum_dozvole": "2012-09-27",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/47",
+      "ovlasteni_zastupnici": "Bartol Jelić ZO 7344 ,"
+    },
+    {
+      "rbr": "2",
+      "naziv": "3HD d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 315",
+      "sjediste": "Industrijska  11, Sveta Nedjelja",
+      "telefon": "098378213",
+      "datum_dozvole": "2014-06-27",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/41",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "3",
+      "naziv": "A.E.Z. d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 014",
+      "sjediste": "Trg V. Nazora  10, Ivanić-Grad",
+      "telefon": "01/2830133",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/86",
+      "ovlasteni_zastupnici": "Vlado Sviben ZO 0537 ,"
+    },
+    {
+      "rbr": "4",
+      "naziv": "A.L.I.O.S A. društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 159",
+      "sjediste": "Mate Vlašića  20, Poreč",
+      "telefon": "052/431486,453239",
+      "datum_dozvole": "2007-09-20",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/64",
+      "ovlasteni_zastupnici": "Petar Horgas ZO 1974 ,"
+    },
+    {
+      "rbr": "5",
+      "naziv": "A.Š. d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 059",
+      "sjediste": "Dubrovačka  3, Split",
+      "telefon": "021/540650",
+      "datum_dozvole": "2006-12-21",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/179",
+      "ovlasteni_zastupnici": "Milorad Jovanović ZO 0453 ,"
+    },
+    {
+      "rbr": "6",
+      "naziv": "ADENA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 145",
+      "sjediste": "VI Malešnica  7, Zagreb",
+      "telefon": "01/3435622",
+      "datum_dozvole": "2007-03-22",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/23",
+      "ovlasteni_zastupnici": "Nikša Živković ZO 0559 ,"
+    },
+    {
+      "rbr": "7",
+      "naziv": "ADRIATIC-MAR d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 005",
+      "sjediste": "Dr. Ante Šercera 15 D, Zagreb",
+      "telefon": "01/6170255, 098/388578",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/31",
+      "ovlasteni_zastupnici": "Marin Šarić ZO 0950 ,"
+    },
+    {
+      "rbr": "8",
+      "naziv": "ADVERTO d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 206",
+      "sjediste": "Tomislava Ivčića 7/c, Zadar",
+      "telefon": "023/400110",
+      "datum_dozvole": "2009-08-27",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/56",
+      "ovlasteni_zastupnici": "Dalibor Rumenjak ZO 4737 ,"
+    },
+    {
+      "rbr": "9",
+      "naziv": "AFB društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 200",
+      "sjediste": "Prolaz Marije K. Kozulić  2, Rijeka",
+      "telefon": "051/400780",
+      "datum_dozvole": "2009-07-09",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/44",
+      "ovlasteni_zastupnici": "Dalibor Đurić ZO 6284 ,"
+    },
+    {
+      "rbr": "10",
+      "naziv": "AGEMA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 225",
+      "sjediste": "Kneza Trpimira 55/B, Varaždin",
+      "telefon": "098/390690",
+      "datum_dozvole": "2010-07-15",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/29",
+      "ovlasteni_zastupnici": "Dario Peharda ZO 5387 ,"
+    },
+    {
+      "rbr": "11",
+      "naziv": "AGENCIJA GRABOVAC društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 312",
+      "sjediste": "Mate Vlašića  30, Poreč",
+      "telefon": "",
+      "datum_dozvole": "2014-03-14",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/20",
+      "ovlasteni_zastupnici": "Snežana Grabovac ZO 11770,"
+    },
+    {
+      "rbr": "12",
+      "naziv": "AGENCIJA POSEJDON društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 254",
+      "sjediste": "Trg Ivana Koblera  2, Rijeka",
+      "telefon": "051/780 651",
+      "datum_dozvole": "2011-12-15",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/94",
+      "ovlasteni_zastupnici": "Goran Karanović ZO 1008 ,"
+    },
+    {
+      "rbr": "13",
+      "naziv": "AGENT FIDELITAS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 116",
+      "sjediste": "Brdo  3, Vrbovec",
+      "telefon": "01/2791650",
+      "datum_dozvole": "2007-01-18",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/258",
+      "ovlasteni_zastupnici": "Ljiljana Azinović ZO 0450 ,"
+    },
+    {
+      "rbr": "14",
+      "naziv": "AGENTCOOP CROATIA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 115",
+      "sjediste": "Bribirska  17, Zagreb",
+      "telefon": "01/3690646",
+      "datum_dozvole": "2007-01-18",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/160",
+      "ovlasteni_zastupnici": "Meliha Cipranić Krneta ZO 0606 ,"
+    },
+    {
+      "rbr": "15",
+      "naziv": "AGENTURA-ATTOS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 108",
+      "sjediste": "Vladimira Gotovca  45, Varaždin",
+      "telefon": "042/330366",
+      "datum_dozvole": "2007-01-18",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/07",
+      "ovlasteni_zastupnici": "Bosiljka Kukec ZO 0729 ,"
+    },
+    {
+      "rbr": "16",
+      "naziv": "AGERA zastupanje u osiguranju, društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 079",
+      "sjediste": "Mandlova  1, Zagreb",
+      "telefon": "01/2900062",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/188",
+      "ovlasteni_zastupnici": "Senka Miletić ZO 0109 ,"
+    },
+    {
+      "rbr": "17",
+      "naziv": "ALEXUS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 284",
+      "sjediste": "Maršala Tita  206, Opatija",
+      "telefon": "091/6459500",
+      "datum_dozvole": "2012-12-20",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/75",
+      "ovlasteni_zastupnici": "Erna Legac ZO 6516 ,"
+    },
+    {
+      "rbr": "18",
+      "naziv": "ALFA ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 227",
+      "sjediste": "V. Holjevca  20, Zagreb",
+      "telefon": "098/423422",
+      "datum_dozvole": "2010-07-29",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/32",
+      "ovlasteni_zastupnici": "Marina Bešker ZO 11401,"
+    },
+    {
+      "rbr": "19",
+      "naziv": "ALFA-PARTNER društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 305",
+      "sjediste": "Savska cesta  182, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2013-10-11",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/48",
+      "ovlasteni_zastupnici": "Mario Ključar ZO 12356,"
+    },
+    {
+      "rbr": "20",
+      "naziv": "ALLIANZ KALINSKI društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 153",
+      "sjediste": "Gradečki Pavlovec  85, Gradec",
+      "telefon": "01/2790501",
+      "datum_dozvole": "2007-08-02",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/55",
+      "ovlasteni_zastupnici": "Milan Kalinski ZO 1011 ,"
+    },
+    {
+      "rbr": "21",
+      "naziv": "ALLIANZ MALOČA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 160",
+      "sjediste": "Maćuhica  50, Sesvete",
+      "telefon": "",
+      "datum_dozvole": "2007-09-27",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/67",
+      "ovlasteni_zastupnici": "Magdalena Maloča ZO 3038 ,"
+    },
+    {
+      "rbr": "22",
+      "naziv": "ALLIANZ TOMAŠEVIĆ društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 154",
+      "sjediste": "Tumbri 1 odvojak br.  10, Kupinečki Kraljevec",
+      "telefon": "01/4653105",
+      "datum_dozvole": "2007-08-02",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/56",
+      "ovlasteni_zastupnici": "Davor Tomašević ZO 3037 ,"
+    },
+    {
+      "rbr": "23",
+      "naziv": "ALLIANZ VNUČEC društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 165",
+      "sjediste": "Kapucinski trg  5, Varaždin",
+      "telefon": "042/674220",
+      "datum_dozvole": "2008-01-31",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/7",
+      "ovlasteni_zastupnici": "Vanja Vnučec ZO 0202 ,"
+    },
+    {
+      "rbr": "24",
+      "naziv": "ALTITUDO OSIGURANJA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 331",
+      "sjediste": "Jurišićeva 8, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2015-07-10",
+      "klasa_ovlastenja": "UP/I 974-03/15-01/35",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "25",
+      "naziv": "Artela Pro d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 318",
+      "sjediste": "Supilova 7, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2014-06-27",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/31",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "26",
+      "naziv": "ASCro d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 162",
+      "sjediste": "Bana Josipa Jelačića  7, Županja",
+      "telefon": "032/832555",
+      "datum_dozvole": "2007-12-28",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/116",
+      "ovlasteni_zastupnici": "Vinko Kušanić ZO 1019 ,"
+    },
+    {
+      "rbr": "27",
+      "naziv": "ASSTERRA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 073",
+      "sjediste": "Žrtava fašizma 1b, Umag",
+      "telefon": "052/742843",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/89",
+      "ovlasteni_zastupnici": "Momir Stjelja ZO 0206 ,"
+    },
+    {
+      "rbr": "28",
+      "naziv": "AURO DOMUS ZASTUPANJE d.o.o.",
+      "rbs_code": "DZ 313",
+      "sjediste": "Tometići 1/D, Kastav",
+      "telefon": "",
+      "datum_dozvole": "2014-04-30",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/36",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "29",
+      "naziv": "AUTO AGRAM  ZASTUPSTVO društvo za zastupanje u osiguranju s ograničenom odgovornošću",
+      "rbs_code": "DZ 006",
+      "sjediste": "I. Praćanska 1/b, Zagreb",
+      "telefon": "01/6050479",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/35",
+      "ovlasteni_zastupnici": "Nataša Rašić ZO 1612 ,"
+    },
+    {
+      "rbr": "30",
+      "naziv": "AUTO TANGENTA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 307",
+      "sjediste": "Heinzelova  70, Zagreb",
+      "telefon": "01/6585 217",
+      "datum_dozvole": "2013-12-20",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/56",
+      "ovlasteni_zastupnici": "Romana Lovrinčević ZO 12958,"
+    },
+    {
+      "rbr": "31",
+      "naziv": "AUTOWILL ZASTUPANJE društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 255",
+      "sjediste": "Zagrebačka avenija  100, Zagreb",
+      "telefon": "01/3869813",
+      "datum_dozvole": "2011-12-15",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/98",
+      "ovlasteni_zastupnici": "Matija Vuger ZO 1061 ,"
+    },
+    {
+      "rbr": "32",
+      "naziv": "B.I.G. CENTAR d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 068",
+      "sjediste": "Slavka Kolara  10, Velika Gorica",
+      "telefon": "01/3841485",
+      "datum_dozvole": "2006-12-21",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/309",
+      "ovlasteni_zastupnici": "Verica Turković ZO 0420 ,"
+    },
+    {
+      "rbr": "33",
+      "naziv": "BAHOR  SESVETE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 081",
+      "sjediste": "Karlovačka  1, Sesvete",
+      "telefon": "01/2000700",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/216",
+      "ovlasteni_zastupnici": "Mladen Horvat ZO 0254 ,"
+    },
+    {
+      "rbr": "34",
+      "naziv": "BANČIĆ d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 184",
+      "sjediste": "Prilaz Pulskih Španjolskih boraca  16, Pula",
+      "telefon": "052/216340",
+      "datum_dozvole": "2008-12-23",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/56",
+      "ovlasteni_zastupnici": "Mladen Vijatović ZO 6195 ,"
+    },
+    {
+      "rbr": "35",
+      "naziv": "BAOS zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 060",
+      "sjediste": "Maksimirska  282, Zagreb",
+      "telefon": "01/2900023",
+      "datum_dozvole": "2006-12-21",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/187",
+      "ovlasteni_zastupnici": "Vera Ćavar ZO 6418 ,"
+    },
+    {
+      "rbr": "36",
+      "naziv": "BILIJON društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 223",
+      "sjediste": "VIII Vrbik 22, Zagreb",
+      "telefon": "01/4664084,098/220522",
+      "datum_dozvole": "2010-06-10",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/27",
+      "ovlasteni_zastupnici": "Marin Marelja ZO 0667 ,"
+    },
+    {
+      "rbr": "37",
+      "naziv": "BLUE CARS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 324",
+      "sjediste": "Zrinsko - Frankopanska bb, Čakovec",
+      "telefon": "",
+      "datum_dozvole": "2015-01-23",
+      "klasa_ovlastenja": "UP/I-974-03/15-01/01",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "38",
+      "naziv": "BONUS B d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 036",
+      "sjediste": "Vrančićeva  5, Zagreb",
+      "telefon": "01/4816680",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/184",
+      "ovlasteni_zastupnici": "Nina Hribar ZO 9572 ,"
+    },
+    {
+      "rbr": "39",
+      "naziv": "BONUS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 133",
+      "sjediste": "Dr. Mile Budaka  1, Slavonski Brod",
+      "telefon": "035/218165",
+      "datum_dozvole": "2007-02-07",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/154",
+      "ovlasteni_zastupnici": "Željko Pohilj ZO 0245 ,"
+    },
+    {
+      "rbr": "40",
+      "naziv": "BONUS PLUS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 011",
+      "sjediste": "Ulica poginulih branitelja  3, Vrbovec",
+      "telefon": "01/2728828",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/74",
+      "ovlasteni_zastupnici": "Mirjana Peričić ZO 0264 ,"
+    },
+    {
+      "rbr": "41",
+      "naziv": "BONUS TRI društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 325",
+      "sjediste": "Ulica Poginulih branitelja 3, Vrbovec",
+      "telefon": "",
+      "datum_dozvole": "2014-12-12",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/66",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "42",
+      "naziv": "BRANEL d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 012",
+      "sjediste": "F. F. Careva b.b., Kaštel Gomilica",
+      "telefon": "021/228330",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/75",
+      "ovlasteni_zastupnici": "Branka Vrvilo ZO 1850 ,"
+    },
+    {
+      "rbr": "43",
+      "naziv": "BUKOVSKI društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 076",
+      "sjediste": "Augusta Cesarca 6/a, Našice",
+      "telefon": "031/611759",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/108",
+      "ovlasteni_zastupnici": "Drago Bukovski ZO 0880 ,"
+    },
+    {
+      "rbr": "44",
+      "naziv": "CENTAR 24 d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 323",
+      "sjediste": "Ljudevita Gaja 53, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2015-02-05",
+      "klasa_ovlastenja": "UP/I-974-03/15-01/05",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "45",
+      "naziv": "CERTITUDO d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 286",
+      "sjediste": "Hruševečka  1, Zagreb",
+      "telefon": "098/1628472",
+      "datum_dozvole": "2013-01-10",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/81",
+      "ovlasteni_zastupnici": "Irena Mraz ZO 1276 ,"
+    },
+    {
+      "rbr": "46",
+      "naziv": "CRO COMPANY društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 046",
+      "sjediste": "Nikole Pavića  4, Čakovec",
+      "telefon": "040/363344",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/225",
+      "ovlasteni_zastupnici": "Darko Pongrac ZO 0693 ,"
+    },
+    {
+      "rbr": "47",
+      "naziv": "CROATIA AGENT  NOVI VINODOLSKI društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 080",
+      "sjediste": "Kralja Tomislava b.b., Novi Vinodolski",
+      "telefon": "052/6220671",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/194",
+      "ovlasteni_zastupnici": "Zoran Rubčić ZO 0035 ,"
+    },
+    {
+      "rbr": "48",
+      "naziv": "CROATIA AGENT  OPATIJA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 085",
+      "sjediste": "E. Kumičića  8, Opatija",
+      "telefon": "051/272276",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/232",
+      "ovlasteni_zastupnici": "Igor Lencović ZO 12793,"
+    },
+    {
+      "rbr": "49",
+      "naziv": "CROATIA AGENT CRIKVENICA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 086",
+      "sjediste": "Kralja Zvonimira  70, Crikvenica",
+      "telefon": "051/241457",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/234",
+      "ovlasteni_zastupnici": "Dajna Haistor-Ramić ZO 4672 ,"
+    },
+    {
+      "rbr": "50",
+      "naziv": "CROATIA AGENT KRALJEVICA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 134",
+      "sjediste": "Rovina  33, Kraljevica",
+      "telefon": "051/281196",
+      "datum_dozvole": "2007-02-07",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/241",
+      "ovlasteni_zastupnici": "Neven Rempešić ZO 0712 ,"
+    },
+    {
+      "rbr": "51",
+      "naziv": "CROATIA AGENT KRK zastupanje u osiguranju, društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 087",
+      "sjediste": "T. J. B. Jelačića b.b., Krk",
+      "telefon": "051/221345",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/236",
+      "ovlasteni_zastupnici": "Gordan Orlić ZO 1854 ,"
+    },
+    {
+      "rbr": "52",
+      "naziv": "CROATIA AGENT LOŠINJ društvo za zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 058",
+      "sjediste": "Lošinjskih kapetana  34, Mali Lošinj",
+      "telefon": "051/231747",
+      "datum_dozvole": "2006-12-21",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/107",
+      "ovlasteni_zastupnici": "Snježana Baumgarten ZO 0567 ,"
+    },
+    {
+      "rbr": "53",
+      "naziv": "CROATIA AGENT PAG društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 106",
+      "sjediste": "Vela ulica  12, Pag",
+      "telefon": "023/611289",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/312",
+      "ovlasteni_zastupnici": "Branimir Fabijanić ZO 1006 ,"
+    },
+    {
+      "rbr": "54",
+      "naziv": "CROATIA AGENT RAB društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 122",
+      "sjediste": "PC Mali Palit 67, Rab",
+      "telefon": "051/724535",
+      "datum_dozvole": "2007-01-25",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/02",
+      "ovlasteni_zastupnici": "Diana Stojnšek ZO 0011 ,"
+    },
+    {
+      "rbr": "55",
+      "naziv": "CROATIA AGENT RIJEKA  d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 075",
+      "sjediste": "Janeza Trdine  2, Rijeka",
+      "telefon": "051/211298",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/103",
+      "ovlasteni_zastupnici": "Rudolf Srića ZO 0045 ,"
+    },
+    {
+      "rbr": "56",
+      "naziv": "CROATIA AS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 070",
+      "sjediste": "Riva Boduli  3, Rijeka",
+      "telefon": "051/211196",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/14",
+      "ovlasteni_zastupnici": "Igor Zavidić ZO 0912 ,"
+    },
+    {
+      "rbr": "57",
+      "naziv": "CROATIA BONA zastupanje u osiguranju društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 083",
+      "sjediste": "Laginjina  7, Rijeka",
+      "telefon": "051/215510",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/226",
+      "ovlasteni_zastupnici": "Tatjana Gojnić ZO 0289 ,"
+    },
+    {
+      "rbr": "58",
+      "naziv": "CROATIA CROMA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 074",
+      "sjediste": "Marinići  23, Rijeka",
+      "telefon": "051/424184",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/92",
+      "ovlasteni_zastupnici": "Robert Protega ZO 0240 ,"
+    },
+    {
+      "rbr": "59",
+      "naziv": "CROATIA KVARNER društvo za zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 103",
+      "sjediste": "Diračje 106 a, Rijeka",
+      "telefon": "051/637893",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/200",
+      "ovlasteni_zastupnici": "Željko Svržnjak ZO 0052 ,"
+    },
+    {
+      "rbr": "60",
+      "naziv": "CROATIA NOVA zastupanje u osiguranju društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 089",
+      "sjediste": "Varljenska  18, Opatija",
+      "telefon": "051/645291",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/249",
+      "ovlasteni_zastupnici": "Ernest Jušić ZO 0597 ,"
+    },
+    {
+      "rbr": "61",
+      "naziv": "CROATIA VITA društvo za zastupanje u osiguranju s ograničenom odgovornošću",
+      "rbs_code": "DZ 097",
+      "sjediste": "Riva Boduli  3, Rijeka",
+      "telefon": "051/212393",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/137",
+      "ovlasteni_zastupnici": "Dalmo Tomin ZO 0096 ,"
+    },
+    {
+      "rbr": "62",
+      "naziv": "CROIM d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 030",
+      "sjediste": "Drum, Drum",
+      "telefon": "021/842095",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/171",
+      "ovlasteni_zastupnici": "Ivan Tolić ZO 0638 ,"
+    },
+    {
+      "rbr": "63",
+      "naziv": "CUSTODIA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 299",
+      "sjediste": "Dražice 123/C, Rijeka",
+      "telefon": "091/5206180",
+      "datum_dozvole": "2013-08-09",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/38",
+      "ovlasteni_zastupnici": "Marjeta Tomulić Vehovec ZO 12962,"
+    },
+    {
+      "rbr": "64",
+      "naziv": "CVETREŽNIK ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 295",
+      "sjediste": "Heinzelova 66, Zagreb",
+      "telefon": "099/2121450",
+      "datum_dozvole": "2013-04-30",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/21",
+      "ovlasteni_zastupnici": "Zoran Katić ZO 6189 ,"
+    },
+    {
+      "rbr": "65",
+      "naziv": "ČORKO društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 067",
+      "sjediste": "S. Glavača  16, Varaždin",
+      "telefon": "042/232595",
+      "datum_dozvole": "2006-12-21",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/308",
+      "ovlasteni_zastupnici": "Igor Čorko ZO 0993 ,"
+    },
+    {
+      "rbr": "66",
+      "naziv": "D & D ZASTUPANJE U OSIGURANJU društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 019",
+      "sjediste": "Kraljice Jelene  43, Slavonski Brod",
+      "telefon": "098/263479",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/105",
+      "ovlasteni_zastupnici": "Marija Katalinić ZO 8082 ,"
+    },
+    {
+      "rbr": "67",
+      "naziv": "D & E d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 092",
+      "sjediste": "Hebrangova  26, Karlovac",
+      "telefon": "047/422382",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/306",
+      "ovlasteni_zastupnici": "Eduard Qeta ZO 0056 ,"
+    },
+    {
+      "rbr": "68",
+      "naziv": "DALMACIJA za zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 173",
+      "sjediste": "Ruđera Boškovića  7, Split",
+      "telefon": "091/4202999",
+      "datum_dozvole": "2008-10-30",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/38",
+      "ovlasteni_zastupnici": "Lada Franulić ZO 4679 ,"
+    },
+    {
+      "rbr": "69",
+      "naziv": "DARIN društvo za zastupanje u osiguranju s ograničenom odgovornošću",
+      "rbs_code": "DZ 007",
+      "sjediste": "Fiorella La Guardia  27, Rijeka",
+      "telefon": "051/341355",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/38",
+      "ovlasteni_zastupnici": "Ivan Tomaško ZO 2557 ,"
+    },
+    {
+      "rbr": "70",
+      "naziv": "DARIVA ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 262",
+      "sjediste": "Josipa Strganca  6, Zagreb",
+      "telefon": "091/1431973",
+      "datum_dozvole": "2012-02-09",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/04",
+      "ovlasteni_zastupnici": "Darko Kadoić ZO 0207 ,"
+    },
+    {
+      "rbr": "71",
+      "naziv": "DAVID & DAVID društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 001",
+      "sjediste": "Trg kralja Tomislava  8, Virovitica",
+      "telefon": "033/730839",
+      "datum_dozvole": "2006-12-07",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/255",
+      "ovlasteni_zastupnici": "Renata Galović ZO 4460 ,"
+    },
+    {
+      "rbr": "72",
+      "naziv": "DEFIGO d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 321",
+      "sjediste": "",
+      "telefon": "",
+      "datum_dozvole": "2014-10-24",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/60",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "73",
+      "naziv": "DOBIT PLUS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 300",
+      "sjediste": "Kanalski put  14, Zagreb",
+      "telefon": "01/2989-101",
+      "datum_dozvole": "2013-08-02",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/39",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "74",
+      "naziv": "DOSIS ZASTUPANJE društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 291",
+      "sjediste": "Koranska  2, Zagreb",
+      "telefon": "01/6103133",
+      "datum_dozvole": "2013-03-08",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/11",
+      "ovlasteni_zastupnici": "Petra Bartulović ZO 8398 ,"
+    },
+    {
+      "rbr": "75",
+      "naziv": "DŽINIĆ d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 164",
+      "sjediste": "J. J. Strossmayera  171, Županja",
+      "telefon": "032/840471",
+      "datum_dozvole": "2008-01-17",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/1",
+      "ovlasteni_zastupnici": "Martina Štajdohar ZO 1123 ,"
+    },
+    {
+      "rbr": "76",
+      "naziv": "ELBI ZASTUPANJE U OSIGURANJU d.o.o.",
+      "rbs_code": "DZ 131",
+      "sjediste": "Rapska  42, Zagreb",
+      "telefon": "01/2334592",
+      "datum_dozvole": "2007-02-01",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/13",
+      "ovlasteni_zastupnici": "Biserka Barać ZO 1031 ,"
+    },
+    {
+      "rbr": "77",
+      "naziv": "ELITA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 018",
+      "sjediste": "Braće Radića  1, Varaždin",
+      "telefon": "042/321970",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/101",
+      "ovlasteni_zastupnici": "Željko Palatinuš ZO 0303 ,"
+    },
+    {
+      "rbr": "78",
+      "naziv": "ELITA PLUS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 072",
+      "sjediste": "Kneza Ljudevita Posavskog  34, Zagreb",
+      "telefon": "01/6156626",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/62",
+      "ovlasteni_zastupnici": "Selma Horvat ZO 0224 ,"
+    },
+    {
+      "rbr": "79",
+      "naziv": "ENARGIT ZASTUPANJE društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 216",
+      "sjediste": "Ivana Brkanovića  1, Sesvete",
+      "telefon": "091/3173237",
+      "datum_dozvole": "2010-01-28",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/01",
+      "ovlasteni_zastupnici": "Savka Baričević ZO 1975 ,"
+    },
+    {
+      "rbr": "80",
+      "naziv": "ENTIS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 273",
+      "sjediste": "Matice Hrvatske  7, Velika Gorica",
+      "telefon": "099/7217795",
+      "datum_dozvole": "2012-07-05",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/43",
+      "ovlasteni_zastupnici": "Katica Vidović ZO 1139 ,"
+    },
+    {
+      "rbr": "81",
+      "naziv": "EURO - BONUS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 017",
+      "sjediste": "I. Poljanice  4, Zagreb",
+      "telefon": "01/2924328",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/100",
+      "ovlasteni_zastupnici": "Đurđa Ceković ZO 1112 ,"
+    },
+    {
+      "rbr": "82",
+      "naziv": "EURO TIM d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 293",
+      "sjediste": "Tomislavova  86, Knin",
+      "telefon": "098/1759021",
+      "datum_dozvole": "2013-03-15",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/14",
+      "ovlasteni_zastupnici": "Mile Cvitanović ZO 0921 ,"
+    },
+    {
+      "rbr": "83",
+      "naziv": "EURO WEST društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 077",
+      "sjediste": "Tičarnica  16, Karlovac",
+      "telefon": "047/451031",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/133",
+      "ovlasteni_zastupnici": "Dragan Haralović ZO 0146 ,"
+    },
+    {
+      "rbr": "84",
+      "naziv": "F.M.R. agencija za zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 150",
+      "sjediste": "Velebitska  6, Zadar",
+      "telefon": "023/311189 099 2209005",
+      "datum_dozvole": "2007-05-17",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/45",
+      "ovlasteni_zastupnici": "Saša Skoko ZO 6295 ,"
+    },
+    {
+      "rbr": "85",
+      "naziv": "FELIKS ZASTUPANjE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 194",
+      "sjediste": "Sudiščak  3, Zagreb",
+      "telefon": "091/2305882",
+      "datum_dozvole": "2009-04-16",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/25",
+      "ovlasteni_zastupnici": "Vesna Cvišić ZO 9164 ,"
+    },
+    {
+      "rbr": "86",
+      "naziv": "FESTUNG d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 050",
+      "sjediste": "Matije Gupca  40, Slavonski Brod",
+      "telefon": "035/405230",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/242",
+      "ovlasteni_zastupnici": "Moris Čavić ZO 3768 ,"
+    },
+    {
+      "rbr": "87",
+      "naziv": "FIDELITY društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 052",
+      "sjediste": "Lošinjska  29, Zagreb",
+      "telefon": "01/3022326",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/266",
+      "ovlasteni_zastupnici": "Marina Pilj ZO 0115 ,"
+    },
+    {
+      "rbr": "88",
+      "naziv": "FILIR ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 317",
+      "sjediste": "Jurišićeva  19, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2014-06-06",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/39",
+      "ovlasteni_zastupnici": "Darko Perković ZO 1355 ,"
+    },
+    {
+      "rbr": "89",
+      "naziv": "FINVEST- zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 175",
+      "sjediste": "Pavelinska 6a, Koprivnica",
+      "telefon": "091/4550702",
+      "datum_dozvole": "2008-11-13",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/46",
+      "ovlasteni_zastupnici": "Dario Mađarić ZO 4943 ,"
+    },
+    {
+      "rbr": "90",
+      "naziv": "FIRMATUS za zastupanje u osiguranju društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 276",
+      "sjediste": "3. Luka 2c, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2012-10-04",
+      "klasa_ovlastenja": "UP/I_453-02/12-37/53",
+      "ovlasteni_zastupnici": "Josip Babić ZO 8713 ,"
+    },
+    {
+      "rbr": "91",
+      "naziv": "FLETEN - SEVER društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 203",
+      "sjediste": "Trg Sv. Florijana  20, Prelog",
+      "telefon": "091/6022652",
+      "datum_dozvole": "2009-07-23",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/53",
+      "ovlasteni_zastupnici": "Jasminka Fleten ZO 4164 ,"
+    },
+    {
+      "rbr": "92",
+      "naziv": "FOG društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 098",
+      "sjediste": "R. Cimermana 58 d, Zagreb",
+      "telefon": "01/6256430",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/147",
+      "ovlasteni_zastupnici": "Martina Pukanić ZO 4154 ,"
+    },
+    {
+      "rbr": "93",
+      "naziv": "FUTURA GRUPA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 297",
+      "sjediste": "Bukovac Gornji  107, Zagreb",
+      "telefon": "098/700 007",
+      "datum_dozvole": "2013-05-24",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/30",
+      "ovlasteni_zastupnici": "Goran Lepanović ZO 3954 ,"
+    },
+    {
+      "rbr": "94",
+      "naziv": "GANISUS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 126",
+      "sjediste": "Sunjska  9, Zagreb",
+      "telefon": "01/3488300",
+      "datum_dozvole": "2007-01-25",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/01",
+      "ovlasteni_zastupnici": "Suzana Baričević ZO 2654 ,"
+    },
+    {
+      "rbr": "95",
+      "naziv": "GARANTA zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 043",
+      "sjediste": "M. P. Miškine  70, Koprivnica",
+      "telefon": "048/621258",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/198",
+      "ovlasteni_zastupnici": "Siniša Herman ZO 0026 ,"
+    },
+    {
+      "rbr": "96",
+      "naziv": "GENEZA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 033",
+      "sjediste": "Nova cesta  118, Opatija (Pokupsko)",
+      "telefon": "098 277 768",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/177",
+      "ovlasteni_zastupnici": "Siniša Ilić ZO 0023 ,"
+    },
+    {
+      "rbr": "97",
+      "naziv": "GLOBAL AGENCIJA OSIGURANJA za zastupanje u osiguranju, društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 201",
+      "sjediste": "Bukovčeva  2, Split",
+      "telefon": "021/489206, 099/2355567",
+      "datum_dozvole": "2009-07-16",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/51",
+      "ovlasteni_zastupnici": "Gauro Reić ZO 6756 ,"
+    },
+    {
+      "rbr": "98",
+      "naziv": "GRUBIĆ d.o.o. zastupanje u osiguranju",
+      "rbs_code": "DZ 034",
+      "sjediste": "Buzovečka  21, Čakovec",
+      "telefon": "040/395262",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/181",
+      "ovlasteni_zastupnici": "Tomislav Grubić ZO 0672 ,"
+    },
+    {
+      "rbr": "99",
+      "naziv": "GRUBIŠIĆ d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 156",
+      "sjediste": "Gundulićeva 26A, Split",
+      "telefon": "098/448-793",
+      "datum_dozvole": "2007-09-13",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/65",
+      "ovlasteni_zastupnici": "Goran Škugor ZO 0586 ,"
+    },
+    {
+      "rbr": "100",
+      "naziv": "GRUPA FIDELIS d.o.o. društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 282",
+      "sjediste": "Poljana Jurja Andrassyja  14, Zagreb",
+      "telefon": "095/6636038",
+      "datum_dozvole": "2012-11-29",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/69",
+      "ovlasteni_zastupnici": "Matko Starčević ZO 11794,"
+    },
+    {
+      "rbr": "101",
+      "naziv": "HARINSKI d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 185",
+      "sjediste": "Tomićeva  9, Zagreb",
+      "telefon": "01/2446720",
+      "datum_dozvole": "2009-02-05",
+      "klasa_ovlastenja": "UP/I-453-02/09/-37/7",
+      "ovlasteni_zastupnici": "Saša Janjatović ZO 12615,"
+    },
+    {
+      "rbr": "102",
+      "naziv": "I.B.- ZAGREB društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 028",
+      "sjediste": "Zavrtnica  17, Zagreb",
+      "telefon": "01/4660390",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/167",
+      "ovlasteni_zastupnici": "Lidija Vuglek ZO 1541 ,"
+    },
+    {
+      "rbr": "103",
+      "naziv": "I.H.M.d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 148",
+      "sjediste": "Republike Austrije  27, Zagreb",
+      "telefon": "01/3772194, 098/219552",
+      "datum_dozvole": "2007-04-18",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/37",
+      "ovlasteni_zastupnici": "Marko Smiljanić ZO 2889 ,"
+    },
+    {
+      "rbr": "104",
+      "naziv": "IBIS CONSILIUM d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 332",
+      "sjediste": "Belaj 173, Oštarije",
+      "telefon": "",
+      "datum_dozvole": "2015-07-24",
+      "klasa_ovlastenja": "UP/I 974-03-15-01/40",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "105",
+      "naziv": "IFA zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 040",
+      "sjediste": "Petrovaradinska 1b, Zagreb",
+      "telefon": "01/3891206, 091/603313",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/191",
+      "ovlasteni_zastupnici": "Tomislav Svetina ZO 0617 ,"
+    },
+    {
+      "rbr": "106",
+      "naziv": "IMPERIJAL društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 023",
+      "sjediste": "Kralja Zvonimira  6, Orahovica",
+      "telefon": "033/673488",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/129",
+      "ovlasteni_zastupnici": "Ostoja Đenić ZO 8074 ,"
+    },
+    {
+      "rbr": "107",
+      "naziv": "IMPULS ALPHA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 218",
+      "sjediste": "Velimira Škorpika 24/I, Zagreb",
+      "telefon": "01/6410493",
+      "datum_dozvole": "2010-02-25",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/6",
+      "ovlasteni_zastupnici": "Dražen Katalinić ZO 7577 ,"
+    },
+    {
+      "rbr": "108",
+      "naziv": "INSTIGO d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 292",
+      "sjediste": "Izidora Kršnjavoga  44, Osijek",
+      "telefon": "",
+      "datum_dozvole": "2013-03-08",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/13",
+      "ovlasteni_zastupnici": "Daniela Kuže ZO 12953,"
+    },
+    {
+      "rbr": "109",
+      "naziv": "INTERADRIA SC PLUS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 256",
+      "sjediste": "Ćikovići 73/c, Kastav",
+      "telefon": "051/705563",
+      "datum_dozvole": "2011-12-22",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/104",
+      "ovlasteni_zastupnici": "Danijela Brnelić ZO 3979 ,"
+    },
+    {
+      "rbr": "110",
+      "naziv": "INVENTUM ZASTUPANJE društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 251",
+      "sjediste": "Slavenskoga ulica 1, Zagreb",
+      "telefon": "098/263479",
+      "datum_dozvole": "2011-10-20",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/69",
+      "ovlasteni_zastupnici": "Bojan Antolić ZO 3378 ,"
+    },
+    {
+      "rbr": "111",
+      "naziv": "IVAN I HRVOJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 099",
+      "sjediste": "Dr A. Šercera 15 e, Zagreb",
+      "telefon": "01/3775309, 3772194",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/148",
+      "ovlasteni_zastupnici": "Ivan Smiljanić ZO 0624 ,"
+    },
+    {
+      "rbr": "112",
+      "naziv": "JOLE društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 054",
+      "sjediste": "Nova Cesta  33, Ogulin",
+      "telefon": "047/531367",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/274",
+      "ovlasteni_zastupnici": "Igor Stošić ZO 1687 ,  Davorka Knežić ZO 9100 ,"
+    },
+    {
+      "rbr": "113",
+      "naziv": "KALKIN TIM d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 193",
+      "sjediste": "Knežija  7, Zagreb",
+      "telefon": "098/9658062",
+      "datum_dozvole": "2009-03-26",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/21",
+      "ovlasteni_zastupnici": "Danijel Mikša ZO 0297 ,"
+    },
+    {
+      "rbr": "114",
+      "naziv": "KANTAR ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 107",
+      "sjediste": "Celjska 12 a, Sisak",
+      "telefon": "044/573609",
+      "datum_dozvole": "2007-01-18",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/04",
+      "ovlasteni_zastupnici": "Maja Kantar ZO 2681 ,"
+    },
+    {
+      "rbr": "115",
+      "naziv": "KANTOCI ZASTUPANJE društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 290",
+      "sjediste": "Samoborska cesta 118 B, Zagreb",
+      "telefon": "01/3794-284",
+      "datum_dozvole": "2013-02-07",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/7",
+      "ovlasteni_zastupnici": "Irena Grubišić ZO 11785,"
+    },
+    {
+      "rbr": "116",
+      "naziv": "KASKO SIGET d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 198",
+      "sjediste": "Lastovska  6, Zagreb",
+      "telefon": "01/6502294",
+      "datum_dozvole": "2009-05-21",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/36",
+      "ovlasteni_zastupnici": "Nenad Đukić ZO 5572 ,"
+    },
+    {
+      "rbr": "117",
+      "naziv": "KATEGORIJA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 314",
+      "sjediste": "Jakova Gotovca  1, Zagreb",
+      "telefon": "01/2222-505",
+      "datum_dozvole": "2014-06-06",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/34",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "118",
+      "naziv": "KATOS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 045",
+      "sjediste": "Dubrovačka  2, Kutina",
+      "telefon": "044/682810",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/224",
+      "ovlasteni_zastupnici": "Zrinko Tutić ZO 0647 ,"
+    },
+    {
+      "rbr": "119",
+      "naziv": "KLAF društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 182",
+      "sjediste": "Ivana Mažuranića  20, Velika Gorica",
+      "telefon": "099/3670575",
+      "datum_dozvole": "2008-12-23",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/54",
+      "ovlasteni_zastupnici": "Josip Bobanović ZO 13583,"
+    },
+    {
+      "rbr": "120",
+      "naziv": "KMAG ZASTUPANJE U OSIGURANJU društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 302",
+      "sjediste": "Slavonska avenija  46, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2013-09-13",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/41",
+      "ovlasteni_zastupnici": "Vanja Sudar ZO 12832,"
+    },
+    {
+      "rbr": "121",
+      "naziv": "KOMIL zastupanje u osiguranju društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 120",
+      "sjediste": "Ratka Petrovića  44, Rijeka",
+      "telefon": "051/415218",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/125",
+      "ovlasteni_zastupnici": "Milorad Koljan ZO 0151 ,"
+    },
+    {
+      "rbr": "122",
+      "naziv": "KONDOR-ZLATAR društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 285",
+      "sjediste": "Ladislavec  26, Zlatar",
+      "telefon": "098/251530",
+      "datum_dozvole": "2012-12-20",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/80",
+      "ovlasteni_zastupnici": "Božena Petek ZO 11587,"
+    },
+    {
+      "rbr": "123",
+      "naziv": "KROG-zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 207",
+      "sjediste": "Gornja Pačetina  27, Lepajci",
+      "telefon": "049/342530",
+      "datum_dozvole": "2009-09-10",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/62",
+      "ovlasteni_zastupnici": "Lidija Krog ZO 6171 ,"
+    },
+    {
+      "rbr": "124",
+      "naziv": "LENACO društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 029",
+      "sjediste": "Osječka 11 a, Rijeka",
+      "telefon": "051/506610",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/169",
+      "ovlasteni_zastupnici": "Sanja Košarac ZO 0053 ,"
+    },
+    {
+      "rbr": "125",
+      "naziv": "LEVAI ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 268",
+      "sjediste": "III Halešnica 1 odv.  3, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2012-04-12",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/21",
+      "ovlasteni_zastupnici": "Lana Levai ZO 1684 ,"
+    },
+    {
+      "rbr": "126",
+      "naziv": "LIBERTAS ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 057",
+      "sjediste": "Kennedyev Trg  6 b, Zagreb",
+      "telefon": "01/2395299",
+      "datum_dozvole": "2006-12-21",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/93",
+      "ovlasteni_zastupnici": "Dragana Jelić Pavlek ZO 0325 ,"
+    },
+    {
+      "rbr": "127",
+      "naziv": "LIBRA Co zastupanje u osiguranju, društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 088",
+      "sjediste": "Paduljski put  50, Pula",
+      "telefon": "052/503531",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/248",
+      "ovlasteni_zastupnici": "Denis Mirković ZO 1907 ,"
+    },
+    {
+      "rbr": "128",
+      "naziv": "LOCUS STANDI d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 330",
+      "sjediste": "Dubrovačka 51, Split",
+      "telefon": "",
+      "datum_dozvole": "2015-02-06",
+      "klasa_ovlastenja": "UP/I-974-03/15-01/07",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "129",
+      "naziv": "LOK - LER GRUPA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 267",
+      "sjediste": "Poljička  3, Zagreb",
+      "telefon": "091/2018426",
+      "datum_dozvole": "2012-04-05",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/20",
+      "ovlasteni_zastupnici": "Slaven Lerota ZO 7355 ,"
+    },
+    {
+      "rbr": "130",
+      "naziv": "LUCOVIĆ Agencija za zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 102",
+      "sjediste": "Vrbanjska  49, Soljani",
+      "telefon": "032/831970",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/176",
+      "ovlasteni_zastupnici": "Branko Lucović ZO 0595 ,"
+    },
+    {
+      "rbr": "131",
+      "naziv": "LU-MA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 094",
+      "sjediste": "Kaptolska  32, Zagreb",
+      "telefon": "01/3638805",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/56",
+      "ovlasteni_zastupnici": "Anamarija Škaro ZO 2995 ,"
+    },
+    {
+      "rbr": "132",
+      "naziv": "MAKSI MIRO društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 139",
+      "sjediste": "Crnčićeva 16/a, Zagreb",
+      "telefon": "098/813 220, 01/2308 308",
+      "datum_dozvole": "2007-02-15",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/22",
+      "ovlasteni_zastupnici": "Miroslav Lovretić ZO 1038 ,"
+    },
+    {
+      "rbr": "133",
+      "naziv": "MARA MARA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 212",
+      "sjediste": "Beram  14, Pazin",
+      "telefon": "099/3670518",
+      "datum_dozvole": "2009-10-22",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/71",
+      "ovlasteni_zastupnici": "Martin Golob ZO 9160 ,"
+    },
+    {
+      "rbr": "134",
+      "naziv": "MARINE INSURANCE SERVICES d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 328",
+      "sjediste": "Put iza nove bolnice 6, Split",
+      "telefon": "0951966079",
+      "datum_dozvole": "2015-03-31",
+      "klasa_ovlastenja": "UP/I 974-03/15-01/13",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "135",
+      "naziv": "MARS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 104",
+      "sjediste": "Zagrebačka  6, Sesvete",
+      "telefon": "01/2007683",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/259",
+      "ovlasteni_zastupnici": "Marijana Karačić ZO 0510 ,"
+    },
+    {
+      "rbr": "136",
+      "naziv": "Marshaly Insurance Associated d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 151",
+      "sjediste": "Radnička cesta  30, Zagreb",
+      "telefon": "01/6306507",
+      "datum_dozvole": "2007-06-21",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/52",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "137",
+      "naziv": "MD - CONSILIUM društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 222",
+      "sjediste": "Plješivička 22c, Rijeka",
+      "telefon": "091/3172029",
+      "datum_dozvole": "2010-04-01",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/13",
+      "ovlasteni_zastupnici": "Mladen Manojlović ZO 0344 ,"
+    },
+    {
+      "rbr": "138",
+      "naziv": "MEGAKOP ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 220",
+      "sjediste": "Florijana Andrašeca  8, Zagreb",
+      "telefon": "01/3096350",
+      "datum_dozvole": "2010-03-04",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/11",
+      "ovlasteni_zastupnici": "Ivan Juroš ZO 8070 ,"
+    },
+    {
+      "rbr": "139",
+      "naziv": "MIKOBA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 246",
+      "sjediste": "Raška  28, Zagreb",
+      "telefon": "091/9239564",
+      "datum_dozvole": "2011-07-14",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/57",
+      "ovlasteni_zastupnici": "Stjepan Kolak ZO 10261,"
+    },
+    {
+      "rbr": "140",
+      "naziv": "MS zastupanje d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 319",
+      "sjediste": "Petrinjska 46, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2014-08-29",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/53",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "141",
+      "naziv": "MSM d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 024",
+      "sjediste": "Domovinskog rata  27, Split",
+      "telefon": "021/480009",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/135",
+      "ovlasteni_zastupnici": "Antica Stanojević ZO 0384 ,"
+    },
+    {
+      "rbr": "142",
+      "naziv": "NECTO d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 257",
+      "sjediste": "Vrgoračka  1, Split",
+      "telefon": "021/459916",
+      "datum_dozvole": "2012-02-03",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/106",
+      "ovlasteni_zastupnici": "Josipa Sičenica ZO 10541,"
+    },
+    {
+      "rbr": "143",
+      "naziv": "NETIS društvo s ograničenom odgovornošću, zastupanje u osiguranju",
+      "rbs_code": "DZ 308",
+      "sjediste": "Zinke Kunc 69, Varaždin",
+      "telefon": "",
+      "datum_dozvole": "2013-12-13",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/54",
+      "ovlasteni_zastupnici": "Tanja Panić ZO 10762,  Ivana Zernec ZO 15150,"
+    },
+    {
+      "rbr": "144",
+      "naziv": "NHR ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 248",
+      "sjediste": "Šmidhenova  28, Samobor",
+      "telefon": "01/6999444",
+      "datum_dozvole": "2011-09-01",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/59",
+      "ovlasteni_zastupnici": "Damir Kuzmanić ZO 7858 ,"
+    },
+    {
+      "rbr": "145",
+      "naziv": "NOVA GARANTA zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 110",
+      "sjediste": "M. P. Miškina  70, Koprivnica",
+      "telefon": "048/220533",
+      "datum_dozvole": "2007-01-18",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/15",
+      "ovlasteni_zastupnici": "Ivan Mađarić ZO 5701 ,"
+    },
+    {
+      "rbr": "146",
+      "naziv": "NULLA DIES društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 250",
+      "sjediste": "Vukovarska  284, Zagreb",
+      "telefon": "098/408941",
+      "datum_dozvole": "2011-10-13",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/71",
+      "ovlasteni_zastupnici": "Damir Rovis ZO 0965 ,"
+    },
+    {
+      "rbr": "147",
+      "naziv": "NVF zastupanje u osiguranju društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 214",
+      "sjediste": "Franje Gažija  10, Koprivnica",
+      "telefon": "048/626707",
+      "datum_dozvole": "2009-12-10",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/77",
+      "ovlasteni_zastupnici": "Kristijan Furdi ZO 3101 ,"
+    },
+    {
+      "rbr": "148",
+      "naziv": "OKTOPOD d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 278",
+      "sjediste": "Bihaćka  3, Split",
+      "telefon": "098/702250",
+      "datum_dozvole": "2012-10-25",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/56",
+      "ovlasteni_zastupnici": "Vedran Petrić ZO 11426,"
+    },
+    {
+      "rbr": "149",
+      "naziv": "OLIP d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 105",
+      "sjediste": "Krste Hegedušića 34 g, Sesvete",
+      "telefon": "01/2058146",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/292",
+      "ovlasteni_zastupnici": "Vesna Škegro ZO 0180 ,"
+    },
+    {
+      "rbr": "150",
+      "naziv": "OMNIA - TRADE zastupanje u osiguranju društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 128",
+      "sjediste": "Lošinjska  1, Rabac",
+      "telefon": "052/665438",
+      "datum_dozvole": "2007-02-01",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/271",
+      "ovlasteni_zastupnici": "Josip Kršulja ZO 0922 ,"
+    },
+    {
+      "rbr": "151",
+      "naziv": "OREBIĆ AGENT d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 230",
+      "sjediste": "Bana Josipa Jelačića 84 A, Orebić",
+      "telefon": "020/714054",
+      "datum_dozvole": "2010-09-16",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/36",
+      "ovlasteni_zastupnici": "Marita Mertl ZO 4171 ,"
+    },
+    {
+      "rbr": "152",
+      "naziv": "ORYX - ZASTUPANJE U OSIGURANJU d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 032",
+      "sjediste": "Ljudevita Posavskoga 7a, Sesvete",
+      "telefon": "01/2030283",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/175",
+      "ovlasteni_zastupnici": "Mario Pištelek ZO 3844 ,"
+    },
+    {
+      "rbr": "153",
+      "naziv": "OS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 204",
+      "sjediste": "Ulica Franje Markovića  23, Križevci",
+      "telefon": "099/3565923",
+      "datum_dozvole": "2009-08-06",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/46",
+      "ovlasteni_zastupnici": "Damir Novak ZO 0345 ,  Damir Novak ZO 5457 ,"
+    },
+    {
+      "rbr": "154",
+      "naziv": "OSAM I TO društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 093",
+      "sjediste": "Podsusedska Aleja  23, Zagreb",
+      "telefon": "098/274935",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/311",
+      "ovlasteni_zastupnici": "Andrijana Dolić ZO 12127,"
+    },
+    {
+      "rbr": "155",
+      "naziv": "OVB ALLFINANZ CROATIA društvo s ograničenom odgovornošću za zastupanje u osiguarnju",
+      "rbs_code": "DZ 061",
+      "sjediste": "Maksimirska 96 / I, Zagreb",
+      "telefon": "01/2335810",
+      "datum_dozvole": "2006-12-21",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/203",
+      "ovlasteni_zastupnici": "Ivančica Novak ZO 6076 ,"
+    },
+    {
+      "rbr": "156",
+      "naziv": "PATRIA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 100",
+      "sjediste": "Kralja Zvonimira  35, Split",
+      "telefon": "021/365212",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/152",
+      "ovlasteni_zastupnici": "Zlatko Tenžera ZO 0468 ,"
+    },
+    {
+      "rbr": "157",
+      "naziv": "PAVIČIĆ AGOS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 310",
+      "sjediste": "Svetog Mateja  62, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2014-01-03",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/59",
+      "ovlasteni_zastupnici": "Tatjana Pavičić ZO 9586 ,"
+    },
+    {
+      "rbr": "158",
+      "naziv": "PEK-PINA  društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 123",
+      "sjediste": "Pojatno, Jurjevska  19, Zaprešić",
+      "telefon": "01/3394139",
+      "datum_dozvole": "2007-01-25",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/264",
+      "ovlasteni_zastupnici": "Kitty Baša ZO 0479 ,"
+    },
+    {
+      "rbr": "159",
+      "naziv": "PENITUS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 241",
+      "sjediste": "Nikole Pavića 20, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2011-03-24",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/20",
+      "ovlasteni_zastupnici": "Ivana Škalic ZO 12215,"
+    },
+    {
+      "rbr": "160",
+      "naziv": "PERICA-AGENT OSIGURANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 082",
+      "sjediste": "Kralja Tomislava 6a, Đakovo",
+      "telefon": "031/813111",
+      "datum_dozvole": "2006-12-28",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/218",
+      "ovlasteni_zastupnici": "Perica Matijaković ZO 0690 ,"
+    },
+    {
+      "rbr": "161",
+      "naziv": "PERMANENS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 169",
+      "sjediste": "Draškovićeva  10, Zagreb",
+      "telefon": "01/4662590",
+      "datum_dozvole": "2008-07-24",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/23",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "162",
+      "naziv": "PETERLIĆ d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 287",
+      "sjediste": "Horvaćanska  21, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2013-01-10",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/82",
+      "ovlasteni_zastupnici": "Tanja Lasan ZO 4607 ,"
+    },
+    {
+      "rbr": "163",
+      "naziv": "PLAVI AZURIT d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 271",
+      "sjediste": "Lučica  4, Split",
+      "telefon": "021/323333",
+      "datum_dozvole": "2012-05-16",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/28",
+      "ovlasteni_zastupnici": "Darija Tomić ZO 11230,"
+    },
+    {
+      "rbr": "164",
+      "naziv": "PLENUS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 180",
+      "sjediste": "Mirka Bedeka  79, Hrvatski Leskovac",
+      "telefon": "01/6112788-knj.servis",
+      "datum_dozvole": "2008-12-18",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/52",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "165",
+      "naziv": "PLIMA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 047",
+      "sjediste": "Pakoštanska 3b, Zagreb",
+      "telefon": "01/6607738",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/227",
+      "ovlasteni_zastupnici": "Ivan Tadić ZO 10040,"
+    },
+    {
+      "rbr": "166",
+      "naziv": "POLICA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 270",
+      "sjediste": "Tadije Smičiklasa  19, Karlovac",
+      "telefon": "047/423345",
+      "datum_dozvole": "2012-05-16",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/26",
+      "ovlasteni_zastupnici": "Ranko Kovačić ZO 10489,"
+    },
+    {
+      "rbr": "167",
+      "naziv": "PORSCHE ZASTUPANJE U OSIGURANJU društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 211",
+      "sjediste": "Velimira Škorpika  21, Zagreb",
+      "telefon": "01/5572500",
+      "datum_dozvole": "2009-10-07",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/68",
+      "ovlasteni_zastupnici": "Davor Purković ZO 6887 ,"
+    },
+    {
+      "rbr": "168",
+      "naziv": "POSEJDON ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 261",
+      "sjediste": "Demerska ulica  27, Zagreb",
+      "telefon": "098/235862",
+      "datum_dozvole": "2012-02-09",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/01",
+      "ovlasteni_zastupnici": "Željko Svedrović ZO 0237 ,"
+    },
+    {
+      "rbr": "169",
+      "naziv": "PRAECEPTOR d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 179",
+      "sjediste": "Zlatarska  22, Zagreb",
+      "telefon": "091/3638555",
+      "datum_dozvole": "2008-12-11",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/49",
+      "ovlasteni_zastupnici": "Natali Opšivač ZO 11159,"
+    },
+    {
+      "rbr": "170",
+      "naziv": "PREMIUM DIRECT d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 304",
+      "sjediste": "Divkovićeva  5, Pula",
+      "telefon": "098/801657",
+      "datum_dozvole": "2013-09-13",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/47",
+      "ovlasteni_zastupnici": "Eduard Božac ZO 12636,"
+    },
+    {
+      "rbr": "171",
+      "naziv": "PRENDMA-10 d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 236",
+      "sjediste": "Kruge  7, Zagreb",
+      "telefon": "091/6145580",
+      "datum_dozvole": "2010-12-02",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/63",
+      "ovlasteni_zastupnici": "Mirela Posarić ZO 4810 ,"
+    },
+    {
+      "rbr": "172",
+      "naziv": "PRIMA ZASTUPSTVO d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 009",
+      "sjediste": "Krapinska  27, Zagreb",
+      "telefon": "01/3097607",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/63",
+      "ovlasteni_zastupnici": "Anđelka Subanović ZO 0470 ,"
+    },
+    {
+      "rbr": "173",
+      "naziv": "PRIMARIUS d.o.o. agencija za zastupanje u osiguranju",
+      "rbs_code": "DZ 215",
+      "sjediste": "Mile Gojsalić  31, Podstrana",
+      "telefon": "091/3368005",
+      "datum_dozvole": "2010-01-14",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/81",
+      "ovlasteni_zastupnici": "Valentina Bratim ZO 4104 ,"
+    },
+    {
+      "rbr": "174",
+      "naziv": "PRIMUS IP CONNECT d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 306",
+      "sjediste": "Prilaz Vladislava Brajkovića  9, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2013-11-15",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/52",
+      "ovlasteni_zastupnici": "Goran Bilobrk ZO 13130,"
+    },
+    {
+      "rbr": "175",
+      "naziv": "PROFIT PLUS zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 229",
+      "sjediste": "Starigrad, Starogradska  85, Koprivnica",
+      "telefon": "",
+      "datum_dozvole": "2010-09-02",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/35",
+      "ovlasteni_zastupnici": "Siniša Banek ZO 3377 ,"
+    },
+    {
+      "rbr": "176",
+      "naziv": "PROVIDUS ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 247",
+      "sjediste": "Savska 144a, Zagreb",
+      "telefon": "091/2036757",
+      "datum_dozvole": "2011-10-06",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/66",
+      "ovlasteni_zastupnici": "Jana Vrček ZO 10393,"
+    },
+    {
+      "rbr": "177",
+      "naziv": "QUALITAS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 192",
+      "sjediste": "Vrazova  25, Varaždin",
+      "telefon": "042/660 977",
+      "datum_dozvole": "2009-03-26",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/20",
+      "ovlasteni_zastupnici": "Ivan Matošević ZO 1382 ,"
+    },
+    {
+      "rbr": "178",
+      "naziv": "RAIĆ - zastupanje u osiguranju d.o.o.",
+      "rbs_code": "DZ 171",
+      "sjediste": "Franjevačka 11a, Bjelovar",
+      "telefon": "043/242730",
+      "datum_dozvole": "2008-10-23",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/37",
+      "ovlasteni_zastupnici": "Vesna Bačani ZO 0113 ,"
+    },
+    {
+      "rbr": "179",
+      "naziv": "REGISTAR ZASTUPANJE društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 260",
+      "sjediste": "Stupari 22 B, Viškovo",
+      "telefon": "091/6000666",
+      "datum_dozvole": "2012-02-09",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/03",
+      "ovlasteni_zastupnici": "Albert Đaković ZO 10774,"
+    },
+    {
+      "rbr": "180",
+      "naziv": "RIJEKA PREMIJA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 096",
+      "sjediste": "Pomerio  18, Rijeka",
+      "telefon": "051/339817",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/157",
+      "ovlasteni_zastupnici": "Draženko Čendak ZO 0005 ,"
+    },
+    {
+      "rbr": "181",
+      "naziv": "ROKLICER - AGENCIJA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 025",
+      "sjediste": "A. G. Matoša  8, Velika Gorica",
+      "telefon": "01/6061650",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/149",
+      "ovlasteni_zastupnici": "Sanja Legac ZO 3671 ,"
+    },
+    {
+      "rbr": "182",
+      "naziv": "RUBY društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 064",
+      "sjediste": "Androv Breg  5, Rijeka",
+      "telefon": "051/260255",
+      "datum_dozvole": "2006-12-21",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/233",
+      "ovlasteni_zastupnici": "Alen Rubeša ZO 3053 ,"
+    },
+    {
+      "rbr": "183",
+      "naziv": "S ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 264",
+      "sjediste": "Ulica Borova  1, Osijek",
+      "telefon": "031/220064",
+      "datum_dozvole": "2012-03-15",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/13",
+      "ovlasteni_zastupnici": "Miroslav Lazarević ZO 10445,"
+    },
+    {
+      "rbr": "184",
+      "naziv": "SafeLife društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 272",
+      "sjediste": "Tratinska 75, Zagreb",
+      "telefon": "01/3095 588",
+      "datum_dozvole": "2012-06-20",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/35",
+      "ovlasteni_zastupnici": "Jasminka Petričević Jeričević ZO 0090 ,"
+    },
+    {
+      "rbr": "185",
+      "naziv": "SALUS SENECTUS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 232",
+      "sjediste": "Martićeva  41, Zagreb",
+      "telefon": "091/4612951",
+      "datum_dozvole": "2010-10-14",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/41",
+      "ovlasteni_zastupnici": "Renad Međedović ZO 5976 ,"
+    },
+    {
+      "rbr": "186",
+      "naziv": "SAM-OS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 044",
+      "sjediste": "T. K. Tomislava  14, Samobor",
+      "telefon": "098/310081",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/219",
+      "ovlasteni_zastupnici": "Ranko Štengl ZO 0271 ,"
+    },
+    {
+      "rbr": "187",
+      "naziv": "SECIA za zastupanje u osiguranju, društvo s ograničenom odgovornošću",
+      "rbs_code": "DZ 243",
+      "sjediste": "Hercegovačka  4, Sesvete",
+      "telefon": "099/2005 331",
+      "datum_dozvole": "2011-05-19",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/29",
+      "ovlasteni_zastupnici": "Stribor Erega ZO 6160 ,"
+    },
+    {
+      "rbr": "188",
+      "naziv": "SEMEL PRO SEMPER d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 217",
+      "sjediste": "Mičevec, Klenovićeva  31, Velika Gorica",
+      "telefon": "091/7693422",
+      "datum_dozvole": "2010-02-11",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/4",
+      "ovlasteni_zastupnici": "Hrvoje Sremić ZO 2742 ,"
+    },
+    {
+      "rbr": "189",
+      "naziv": "SICURA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 326",
+      "sjediste": "Permani bb, Permani",
+      "telefon": "",
+      "datum_dozvole": "2015-02-06",
+      "klasa_ovlastenja": "UP/I-974-03/15-01/06",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "190",
+      "naziv": "SIDRO d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 129",
+      "sjediste": "Matije Gupca  50, Zadar",
+      "telefon": "023/332104",
+      "datum_dozvole": "2007-02-01",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/213",
+      "ovlasteni_zastupnici": "Nives Rumenić ZO 1028 ,"
+    },
+    {
+      "rbr": "191",
+      "naziv": "SIGNA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 124",
+      "sjediste": "Cankareva 13/3, Zagreb",
+      "telefon": "01/6115519",
+      "datum_dozvole": "2007-01-25",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/50",
+      "ovlasteni_zastupnici": "Marica Zmaić ZO 6760 ,"
+    },
+    {
+      "rbr": "192",
+      "naziv": "SIGNIFICO SAVJETOVANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 329",
+      "sjediste": "Tuškanova 39, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2015-05-18",
+      "klasa_ovlastenja": "UP/I 974-03/15-01/23",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "193",
+      "naziv": "SIGURITOD d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 205",
+      "sjediste": "Ive Tijardovića  10, Split",
+      "telefon": "098/397293",
+      "datum_dozvole": "2009-08-06",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/49",
+      "ovlasteni_zastupnici": "Ante Kekez ZO 4459 ,"
+    },
+    {
+      "rbr": "194",
+      "naziv": "SIGURNA LUKA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 221",
+      "sjediste": "Sukoišanska  28, Split",
+      "telefon": "099/2554446",
+      "datum_dozvole": "2010-03-11",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/12",
+      "ovlasteni_zastupnici": "Goran Petričić ZO 0605 ,"
+    },
+    {
+      "rbr": "195",
+      "naziv": "SLAVONIJA VIVAT d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 172",
+      "sjediste": "Ljudevita Gaja 12, Tenja",
+      "telefon": "091/2510860",
+      "datum_dozvole": "2008-10-23",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/41",
+      "ovlasteni_zastupnici": "Dino Tolić ZO 8124 ,"
+    },
+    {
+      "rbr": "196",
+      "naziv": "SOCIIS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 316",
+      "sjediste": "Andrije Štampara 23/24K, Slavonski Brod",
+      "telefon": "",
+      "datum_dozvole": "2014-06-27",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/43",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "197",
+      "naziv": "ST AGENCIJA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 049",
+      "sjediste": "Kralja Zvonimira  41, Split",
+      "telefon": "021/356346",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/240",
+      "ovlasteni_zastupnici": "Srđan Dumanić ZO 0709 ,"
+    },
+    {
+      "rbr": "198",
+      "naziv": "STANOS ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 266",
+      "sjediste": "Augusta Šenoe  103, Velika Gorica",
+      "telefon": "099/8629165",
+      "datum_dozvole": "2012-03-29",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/14",
+      "ovlasteni_zastupnici": "Matej Martini ZO 10855,"
+    },
+    {
+      "rbr": "199",
+      "naziv": "SUPRA KONCEPT d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 277",
+      "sjediste": "Nova cesta  4, Zagreb",
+      "telefon": "091/5901196",
+      "datum_dozvole": "2012-10-25",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/60",
+      "ovlasteni_zastupnici": "Aleksandar Dragičević ZO 0127 ,"
+    },
+    {
+      "rbr": "200",
+      "naziv": "SVETI MARTIN  društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 063",
+      "sjediste": "A. Mihanovića  1, Dugo Selo",
+      "telefon": "01/2753466",
+      "datum_dozvole": "2006-12-21",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/217",
+      "ovlasteni_zastupnici": "Josip Pintar ZO 0255 ,"
+    },
+    {
+      "rbr": "201",
+      "naziv": "TABELLA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 015",
+      "sjediste": "Vladimira Nazora  13, Vinkovci",
+      "telefon": "032/331118",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/94",
+      "ovlasteni_zastupnici": "Radomir Prica ZO 0556 ,"
+    },
+    {
+      "rbr": "202",
+      "naziv": "TAHIJA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 111",
+      "sjediste": "Brestačka  111, Novska",
+      "telefon": "044/600340",
+      "datum_dozvole": "2007-01-18",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/33",
+      "ovlasteni_zastupnici": "Petar Tahija ZO 0351 ,"
+    },
+    {
+      "rbr": "203",
+      "naziv": "TALITER d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 138",
+      "sjediste": "Zagrebačka cesta 145a, Zagreb",
+      "telefon": "098/9841460",
+      "datum_dozvole": "2007-02-15",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/113",
+      "ovlasteni_zastupnici": "Katarina Ljuboja ZO 10205,"
+    },
+    {
+      "rbr": "204",
+      "naziv": "TATA Zastupanje d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 269",
+      "sjediste": "Remetinečki gaj 8d, Zagreb",
+      "telefon": "091/2222070",
+      "datum_dozvole": "2012-04-26",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/17",
+      "ovlasteni_zastupnici": "Ana Marija Milički ZO 11889,"
+    },
+    {
+      "rbr": "205",
+      "naziv": "TEBA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 309",
+      "sjediste": "Ivana Gundulića  5, Osijek",
+      "telefon": "",
+      "datum_dozvole": "2013-12-20",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/57",
+      "ovlasteni_zastupnici": "Slavko Šokčević ZO 0078 ,"
+    },
+    {
+      "rbr": "206",
+      "naziv": "TIM BENEFIT d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 327",
+      "sjediste": "Petra Krešimira IV 11, Slavonski Brod",
+      "telefon": "",
+      "datum_dozvole": "2015-02-27",
+      "klasa_ovlastenja": "UP/I 974-03/15-01/12",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "207",
+      "naziv": "TM-ZASTUPANJE U OSIGURANJU d.o.o.",
+      "rbs_code": "DZ 253",
+      "sjediste": "Kovinska  4, Zagreb",
+      "telefon": "01/3480650",
+      "datum_dozvole": "2011-11-17",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/77",
+      "ovlasteni_zastupnici": "Milica Krajačić ZO 1542 ,  Milica Krajačić ZO 7351 ,"
+    },
+    {
+      "rbr": "208",
+      "naziv": "TOMIĆ & Co. ZASTUPANJE U OSIGURANJU d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 208",
+      "sjediste": "Folnegovićeva  12, Zagreb",
+      "telefon": "01/6301999",
+      "datum_dozvole": "2009-09-24",
+      "klasa_ovlastenja": "UP/I-453-02/09-37/64",
+      "ovlasteni_zastupnici": "Ivana Tomić ZO 6882 ,"
+    },
+    {
+      "rbr": "209",
+      "naziv": "TRCZ MREŽA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 296",
+      "sjediste": "Zagrebačka  118, Sesvete",
+      "telefon": "",
+      "datum_dozvole": "2013-05-10",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/24",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "210",
+      "naziv": "TRGOCENTAR ZASTUPANJE društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 294",
+      "sjediste": "Matije Gupca bb, Zabok",
+      "telefon": "049/221569",
+      "datum_dozvole": "2013-04-05",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/13",
+      "ovlasteni_zastupnici": "Goran Merkaš ZO 10787,"
+    },
+    {
+      "rbr": "211",
+      "naziv": "TRI-LIFE društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 322",
+      "sjediste": "Republike Austrije 1, Zagreb",
+      "telefon": "",
+      "datum_dozvole": "2014-12-05",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/65",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "212",
+      "naziv": "VARGIĆ - AGENCIJA d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 136",
+      "sjediste": "Antuna Mihanovića  26, Križevci",
+      "telefon": "048/681204",
+      "datum_dozvole": "2007-02-07",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/170",
+      "ovlasteni_zastupnici": "Tamara Biondić ZO 0489 ,"
+    },
+    {
+      "rbr": "213",
+      "naziv": "VI-PE ŠPORT d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 235",
+      "sjediste": "IV Poljanice  2, Zagreb",
+      "telefon": "01/4004414",
+      "datum_dozvole": "2010-12-02",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/62",
+      "ovlasteni_zastupnici": "Irena Dolenac Galić ZO 9364 ,"
+    },
+    {
+      "rbr": "214",
+      "naziv": "VITA IN - ZASTUPANJE U OSIGURANJU društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 245",
+      "sjediste": "Pionirska  50, Rijeka",
+      "telefon": "091/9255528",
+      "datum_dozvole": "2011-07-14",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/55",
+      "ovlasteni_zastupnici": "Jasenka Pilepić ZO 4463 ,"
+    },
+    {
+      "rbr": "215",
+      "naziv": "VITA ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 280",
+      "sjediste": "Lanište  24, Zagreb",
+      "telefon": "099/3455678",
+      "datum_dozvole": "2012-11-15",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/64",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "216",
+      "naziv": "VUKO PLUS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 237",
+      "sjediste": "Sjeverna vezna cesta  21, Slavonski Brod",
+      "telefon": "035/400700",
+      "datum_dozvole": "2010-12-23",
+      "klasa_ovlastenja": "UP/I-453-02/10-37/71",
+      "ovlasteni_zastupnici": "Josipa Sosnik ZO 9252 ,"
+    },
+    {
+      "rbr": "217",
+      "naziv": "YACHT & AUTO d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 274",
+      "sjediste": "Akvilejski prilaz  1, Pula",
+      "telefon": "091/6586 472",
+      "datum_dozvole": "2012-09-06",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/50",
+      "ovlasteni_zastupnici": "Rolf Kurt Rill ZO 11616,"
+    },
+    {
+      "rbr": "218",
+      "naziv": "YACHT-POOL d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 161",
+      "sjediste": "Stipe Rajka  40, Poreč",
+      "telefon": "052/432230",
+      "datum_dozvole": "2007-10-18",
+      "klasa_ovlastenja": "UP/I-453-02/07-37/63",
+      "ovlasteni_zastupnici": "Kristina Mekiš ZO 3821 ,"
+    },
+    {
+      "rbr": "219",
+      "naziv": "ZA KUNU MANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 311",
+      "sjediste": "Trg Lovre Matačića 9, Sesvete",
+      "telefon": "",
+      "datum_dozvole": "2014-01-31",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/4",
+      "ovlasteni_zastupnici": "Ivan Krešo ZO 13160,"
+    },
+    {
+      "rbr": "220",
+      "naziv": "ZADNJA PONUDA društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 289",
+      "sjediste": "Avenija Većeslava Holjevca  55, Zagreb",
+      "telefon": "099/4499444",
+      "datum_dozvole": "2013-01-31",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/4",
+      "ovlasteni_zastupnici": "Berislav Novak ZO 9698 ,"
+    },
+    {
+      "rbr": "221",
+      "naziv": "ZAGORJE GAJ d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 242",
+      "sjediste": "Mihaljekov Jarek 26 A, Mihaljekov Jarek",
+      "telefon": "091/4150115",
+      "datum_dozvole": "2011-04-14",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/23",
+      "ovlasteni_zastupnici": "Matija Lovrenščak ZO 10207,"
+    },
+    {
+      "rbr": "222",
+      "naziv": "ZAGROS društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 320",
+      "sjediste": "Zagrebačka 21, Velika Ostrna",
+      "telefon": "",
+      "datum_dozvole": "2014-10-10",
+      "klasa_ovlastenja": "UP/I-453-02/14-37/59",
+      "ovlasteni_zastupnici": ""
+    },
+    {
+      "rbr": "223",
+      "naziv": "ZAPREŠIĆ d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 010",
+      "sjediste": "Drage Švajcara  1, Zaprešić",
+      "telefon": "01/3310384",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/71",
+      "ovlasteni_zastupnici": "Drago Turalija ZO 0513 ,"
+    },
+    {
+      "rbr": "224",
+      "naziv": "ZASTUPANJE BONA FIDE društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 183",
+      "sjediste": "Zagrebačka cesta 156 d, Zagreb",
+      "telefon": "098/237657",
+      "datum_dozvole": "2008-12-23",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/55",
+      "ovlasteni_zastupnici": "Ivo Gagulić ZO 2945 ,"
+    },
+    {
+      "rbr": "225",
+      "naziv": "ZASTUPANJE BONITAS d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 177",
+      "sjediste": "Ulica grada Vukovara 237c, Zagreb",
+      "telefon": "091/2210213",
+      "datum_dozvole": "2008-11-21",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/47",
+      "ovlasteni_zastupnici": "Maja Majstrović ZO 6724 ,"
+    },
+    {
+      "rbr": "226",
+      "naziv": "ZASTUPANJE ČAVELJ d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 288",
+      "sjediste": "Trški Vrh  29, Trški Vrh",
+      "telefon": "098/9183029",
+      "datum_dozvole": "2013-01-10",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/84",
+      "ovlasteni_zastupnici": "Ivan Zorko ZO 12243,"
+    },
+    {
+      "rbr": "227",
+      "naziv": "Zastupanje u osiguranju PINTARIĆ d.o.o.",
+      "rbs_code": "DZ 066",
+      "sjediste": "D. Cesarića  60, Varaždin",
+      "telefon": "042/260697",
+      "datum_dozvole": "2006-12-21",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/281",
+      "ovlasteni_zastupnici": "Željko Pintarić ZO 0631 ,"
+    },
+    {
+      "rbr": "228",
+      "naziv": "ZASTUPANJE U OSIGURANJU SIGET d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 158",
+      "sjediste": "Siget  17, Zagreb",
+      "telefon": "01/6502-222",
+      "datum_dozvole": "2007-09-13",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/212",
+      "ovlasteni_zastupnici": "Lino Borić ZO 0409 ,"
+    },
+    {
+      "rbr": "229",
+      "naziv": "ZASTUPANJE U OSIGURANJU TOK-TOK d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 249",
+      "sjediste": "Pazinska  31, Zagreb",
+      "telefon": "01/5507309",
+      "datum_dozvole": "2011-09-01",
+      "klasa_ovlastenja": "UP/I-453-02/11-37/62",
+      "ovlasteni_zastupnici": "Dario Jagatić ZO 8678 ,"
+    },
+    {
+      "rbr": "230",
+      "naziv": "ZASTUPANJE VRBANI d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 178",
+      "sjediste": "Hrgovići  45, Zagreb",
+      "telefon": "01/6521387",
+      "datum_dozvole": "2008-12-11",
+      "klasa_ovlastenja": "UP/I-453-02/08-37/48",
+      "ovlasteni_zastupnici": "Filip Mikić-Herceg ZO 11318,"
+    },
+    {
+      "rbr": "231",
+      "naziv": "ZBIP društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 281",
+      "sjediste": "Lonjšćina 1 A, Zagreb",
+      "telefon": "099/5378255",
+      "datum_dozvole": "2012-11-29",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/68",
+      "ovlasteni_zastupnici": "Aleksandra Stermole ZO 10202,"
+    },
+    {
+      "rbr": "232",
+      "naziv": "ZENIT EUROZASTUPSTVO društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 062",
+      "sjediste": "Kralja Zvonimira  78, Zagreb",
+      "telefon": "01/6040863",
+      "datum_dozvole": "2006-12-21",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/215",
+      "ovlasteni_zastupnici": "Marija Ljubešić ZO 0801 ,"
+    },
+    {
+      "rbr": "233",
+      "naziv": "ZENIT-U.Z.I. d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 013",
+      "sjediste": "Horvaćanska 25 / I, Zagreb",
+      "telefon": "01/3647078",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/84",
+      "ovlasteni_zastupnici": "Ivan Zečić ZO 0793 ,"
+    },
+    {
+      "rbr": "234",
+      "naziv": "ZNANSKI društvo s ograničenom odgovornošću za zastupanje u osiguranju",
+      "rbs_code": "DZ 279",
+      "sjediste": "Tavankutska  15, Zagreb",
+      "telefon": "091/3333448",
+      "datum_dozvole": "2012-10-31",
+      "klasa_ovlastenja": "UP/I-453-02/12-37/61",
+      "ovlasteni_zastupnici": "Goran Čuljak ZO 0827 ,"
+    },
+    {
+      "rbr": "235",
+      "naziv": "ZVIREK  d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 016",
+      "sjediste": "Šemovečkih ž.  78, Varaždin",
+      "telefon": "042/351352",
+      "datum_dozvole": "2006-12-14",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/98",
+      "ovlasteni_zastupnici": "Dražen Hrupek ZO 2338 ,"
+    },
+    {
+      "rbr": "236",
+      "naziv": "ŽIVOT društvo s ograničenom odgovornošću za poslove zastupanje u osiguranju",
+      "rbs_code": "DZ 095",
+      "sjediste": "Palmotićeva  76, Zagreb",
+      "telefon": "01/4839870",
+      "datum_dozvole": "2007-01-11",
+      "klasa_ovlastenja": "UP/I-453-06/06-03/97",
+      "ovlasteni_zastupnici": "Jasna Paklar ZO 12184,"
+    },
+    {
+      "rbr": "237",
+      "naziv": "ŽIŽAK ZASTUPANJE d.o.o. za zastupanje u osiguranju",
+      "rbs_code": "DZ 298",
+      "sjediste": "Požarkovečka  6, Zagreb",
+      "telefon": "098/736 106",
+      "datum_dozvole": "2013-05-24",
+      "klasa_ovlastenja": "UP/I-453-02/13-37/31",
+      "ovlasteni_zastupnici": "Tihomir Žižak ZO 0431 ,"
+    }
+  ],
+  "meta": {
+    "title": "Društva za zastupanje u osiguranju - Besplatno preuzimanje",
+    "description": "Registar of Croatian-licensed društva za zastupanje u osiguranju (insurance agency firms) authorised by Hrvatska agencija za nadzor financijskih usluga (HANFA). Each record carries the redni broj (rbr), registered name, DZ code, sjedište (registered office address), telefon, datum dozvole, klasa ovlaštenja (authorisation class) and ovlašteni zastupnici (authorised representatives — comma-separated string with each zastupnik's ZO code where present). Sadrži 237 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Društva za zastupanje u osiguranju | ListBase",
+    "seo_description": "Preuzmi Društva za zastupanje u osiguranju — 237 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 237 zapisa / 8 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

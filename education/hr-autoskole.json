@@ -1,0 +1,596 @@
+{
+  "id": "hr-autoskole",
+  "name": "Autoškole",
+  "title": "Autoškole",
+  "description": "Autoškole u Hrvatskoj (111 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=driving_school), izrez EU-POIS/HR.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 111,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AK Bralić",
+      "latitude": 43.444066,
+      "longitude": 17.221446
+    },
+    {
+      "name": "Akademski auto moto klub Sveučilište",
+      "latitude": 45.809547,
+      "longitude": 15.971463
+    },
+    {
+      "name": "Auto škola",
+      "latitude": 45.239735,
+      "longitude": 13.93671
+    },
+    {
+      "name": "Auto škola Index",
+      "latitude": 45.814651,
+      "longitude": 15.994557
+    },
+    {
+      "name": "Auto škola Korčula",
+      "latitude": 42.943062,
+      "longitude": 17.141428
+    },
+    {
+      "name": "Auto škola Korčula",
+      "latitude": 42.955041,
+      "longitude": 17.129084
+    },
+    {
+      "name": "Auto-Stop",
+      "latitude": 46.39027,
+      "longitude": 16.409463
+    },
+    {
+      "name": "Auto-škola",
+      "latitude": 45.409213,
+      "longitude": 13.965865
+    },
+    {
+      "name": "Autoklub Bjelovar - HAK",
+      "latitude": 45.897884,
+      "longitude": 16.840115
+    },
+    {
+      "name": "Autoklub Nedelišće",
+      "latitude": 46.375877,
+      "longitude": 16.385039
+    },
+    {
+      "name": "Autoklub Sisak",
+      "latitude": 45.479602,
+      "longitude": 16.379837
+    },
+    {
+      "name": "Autoškola",
+      "latitude": 45.709196,
+      "longitude": 16.066577
+    },
+    {
+      "name": "Autoškola \"Golf\"",
+      "latitude": 45.691938,
+      "longitude": 15.737583
+    },
+    {
+      "name": "Autoškola \"Luna\"",
+      "latitude": 45.370388,
+      "longitude": 18.95732
+    },
+    {
+      "name": "autoškola \"mercedes\"",
+      "latitude": 43.861823,
+      "longitude": 16.153936
+    },
+    {
+      "name": "Autoškola \"Safe Start\"",
+      "latitude": 45.832401,
+      "longitude": 16.110163
+    },
+    {
+      "name": "Autoškola - Autoklub Vrapče",
+      "latitude": 45.813236,
+      "longitude": 15.90688
+    },
+    {
+      "name": "Autoškola AAMK Sveučilište",
+      "latitude": 45.799465,
+      "longitude": 15.99606
+    },
+    {
+      "name": "Autoškola AK Končar",
+      "latitude": 45.799619,
+      "longitude": 15.9306
+    },
+    {
+      "name": "Autoškola Argument",
+      "latitude": 45.557558,
+      "longitude": 18.675093
+    },
+    {
+      "name": "Autoškola AUTO-KAJ",
+      "latitude": 45.966163,
+      "longitude": 15.916631
+    },
+    {
+      "name": "Autoškola Belaks",
+      "latitude": 45.265998,
+      "longitude": 15.226152
+    },
+    {
+      "name": "Autoškola Blic",
+      "latitude": 45.557385,
+      "longitude": 18.679979
+    },
+    {
+      "name": "Autoškola Bonavia",
+      "latitude": 45.337288,
+      "longitude": 17.681404
+    },
+    {
+      "name": "Autoškola Brzina",
+      "latitude": 45.786929,
+      "longitude": 15.950508
+    },
+    {
+      "name": "Autoškola Cilj",
+      "latitude": 45.540081,
+      "longitude": 18.041635
+    },
+    {
+      "name": "Autoškola Corsa Viškovo",
+      "latitude": 45.373755,
+      "longitude": 14.39207
+    },
+    {
+      "name": "Autoškola DDM",
+      "latitude": 45.33176,
+      "longitude": 16.971729
+    },
+    {
+      "name": "Autoškola Dik",
+      "latitude": 45.826373,
+      "longitude": 16.107367
+    },
+    {
+      "name": "Autoškola Dundo",
+      "latitude": 45.604954,
+      "longitude": 18.741412
+    },
+    {
+      "name": "Autoškola Eurospot",
+      "latitude": 45.816214,
+      "longitude": 15.935213
+    },
+    {
+      "name": "Autoškola Gajnice",
+      "latitude": 45.815045,
+      "longitude": 15.874141
+    },
+    {
+      "name": "Autoškola Gold",
+      "latitude": 45.813535,
+      "longitude": 15.96947
+    },
+    {
+      "name": "Autoškola HADELA",
+      "latitude": 46.411332,
+      "longitude": 16.421344
+    },
+    {
+      "name": "Autoškola Jerko",
+      "latitude": 45.804357,
+      "longitude": 16.237684
+    },
+    {
+      "name": "Autoškola Kajzerica",
+      "latitude": 45.781234,
+      "longitude": 15.961025
+    },
+    {
+      "name": "Autoškola Koledž",
+      "latitude": 46.39226,
+      "longitude": 16.459514
+    },
+    {
+      "name": "Autoškola Kružni tok",
+      "latitude": 43.505744,
+      "longitude": 16.461499
+    },
+    {
+      "name": "Autoškola Makarska",
+      "latitude": 43.296057,
+      "longitude": 17.020364
+    },
+    {
+      "name": "Autoškola Mandić",
+      "latitude": 45.814174,
+      "longitude": 15.932054
+    },
+    {
+      "name": "Autoškola Mandić & Megastart",
+      "latitude": 45.798594,
+      "longitude": 15.730835
+    },
+    {
+      "name": "Autoškola Marušić",
+      "latitude": 43.519432,
+      "longitude": 16.460561
+    },
+    {
+      "name": "Autoškola Megastart",
+      "latitude": 45.78999,
+      "longitude": 15.961757
+    },
+    {
+      "name": "Autoškola Millenium",
+      "latitude": 45.332829,
+      "longitude": 17.67715
+    },
+    {
+      "name": "Autoškola Novak",
+      "latitude": 45.556883,
+      "longitude": 18.681762
+    },
+    {
+      "name": "Autoškola O.C. Kotva",
+      "latitude": 45.485812,
+      "longitude": 16.375228
+    },
+    {
+      "name": "Autoškola Obavezan smjer",
+      "latitude": 43.73239,
+      "longitude": 15.893466
+    },
+    {
+      "name": "Autoškola Park",
+      "latitude": 45.588587,
+      "longitude": 17.222829
+    },
+    {
+      "name": "Autoškola Premium",
+      "latitude": 45.335927,
+      "longitude": 17.675372
+    },
+    {
+      "name": "Autoškola Radar",
+      "latitude": 45.827141,
+      "longitude": 16.048263
+    },
+    {
+      "name": "Autoškola Retrovizor",
+      "latitude": 45.789929,
+      "longitude": 15.928351
+    },
+    {
+      "name": "Autoškola Rotor",
+      "latitude": 45.797668,
+      "longitude": 15.943689
+    },
+    {
+      "name": "Autoškola Samobor-turist",
+      "latitude": 45.801372,
+      "longitude": 15.709231
+    },
+    {
+      "name": "Autoškola Satur",
+      "latitude": 43.521353,
+      "longitude": 16.250756
+    },
+    {
+      "name": "Autoškola Siget",
+      "latitude": 45.77283,
+      "longitude": 15.967954
+    },
+    {
+      "name": "Autoškola Signia",
+      "latitude": 45.895815,
+      "longitude": 16.842283
+    },
+    {
+      "name": "Autoškola Speed",
+      "latitude": 45.55543,
+      "longitude": 18.681169
+    },
+    {
+      "name": "Autoškola Start",
+      "latitude": 45.555217,
+      "longitude": 18.693074
+    },
+    {
+      "name": "Autoškola Starčević",
+      "latitude": 45.556115,
+      "longitude": 18.684528
+    },
+    {
+      "name": "Autoškola STOP",
+      "latitude": 45.788502,
+      "longitude": 15.946686
+    },
+    {
+      "name": "Autoškola SUPER START",
+      "latitude": 43.443952,
+      "longitude": 16.684527
+    },
+    {
+      "name": "Autoškola SUPER START",
+      "latitude": 43.517774,
+      "longitude": 16.445057
+    },
+    {
+      "name": "Autoškola SUPER START",
+      "latitude": 43.521409,
+      "longitude": 16.469704
+    },
+    {
+      "name": "Autoškola Svetice",
+      "latitude": 45.814579,
+      "longitude": 16.013572
+    },
+    {
+      "name": "Autoškola Tehnička Škola",
+      "latitude": 45.597132,
+      "longitude": 17.221212
+    },
+    {
+      "name": "Autoškola Telefax",
+      "latitude": 43.507785,
+      "longitude": 16.473872
+    },
+    {
+      "name": "Autoškola Tom-Blan",
+      "latitude": 45.557058,
+      "longitude": 18.681458
+    },
+    {
+      "name": "Autoškola Tommy",
+      "latitude": 45.334993,
+      "longitude": 17.676875
+    },
+    {
+      "name": "Autoškola Tratinčica",
+      "latitude": 45.555292,
+      "longitude": 18.676593
+    },
+    {
+      "name": "Autoškola Urban",
+      "latitude": 45.909862,
+      "longitude": 16.851647
+    },
+    {
+      "name": "Autoškola VAMA",
+      "latitude": 45.747393,
+      "longitude": 16.611701
+    },
+    {
+      "name": "Autoškola Vrbani",
+      "latitude": 45.793583,
+      "longitude": 15.918533
+    },
+    {
+      "name": "Autoškola Zadar",
+      "latitude": 44.114894,
+      "longitude": 15.234715
+    },
+    {
+      "name": "Autoškola Zebra",
+      "latitude": 45.554602,
+      "longitude": 18.681952
+    },
+    {
+      "name": "Autoškola Škorpion",
+      "latitude": 45.336587,
+      "longitude": 17.679456
+    },
+    {
+      "name": "Autoškola Žarković",
+      "latitude": 45.819363,
+      "longitude": 16.107149
+    },
+    {
+      "name": "Capitol Hill",
+      "latitude": 45.786934,
+      "longitude": 15.949841
+    },
+    {
+      "name": "Dalmacija",
+      "latitude": 43.515187,
+      "longitude": 16.443129
+    },
+    {
+      "name": "Europa",
+      "latitude": 45.799628,
+      "longitude": 16.00399
+    },
+    {
+      "name": "Formula",
+      "latitude": 45.900226,
+      "longitude": 16.842478
+    },
+    {
+      "name": "Gošić",
+      "latitude": 45.488295,
+      "longitude": 16.371097
+    },
+    {
+      "name": "Hajduk",
+      "latitude": 43.506314,
+      "longitude": 16.464277
+    },
+    {
+      "name": "Hajduk",
+      "latitude": 43.512567,
+      "longitude": 16.441725
+    },
+    {
+      "name": "Hak",
+      "latitude": 45.238673,
+      "longitude": 13.936269
+    },
+    {
+      "name": "HAK",
+      "latitude": 45.824004,
+      "longitude": 17.387643
+    },
+    {
+      "name": "Herz d.d.",
+      "latitude": 45.331974,
+      "longitude": 17.671263
+    },
+    {
+      "name": "HIN",
+      "latitude": 45.8956,
+      "longitude": 16.844811
+    },
+    {
+      "name": "Jarun",
+      "latitude": 45.787488,
+      "longitude": 15.926715
+    },
+    {
+      "name": "Kalelarga",
+      "latitude": 44.111798,
+      "longitude": 15.237988
+    },
+    {
+      "name": "Klindić",
+      "latitude": 45.814988,
+      "longitude": 15.936195
+    },
+    {
+      "name": "Kontakt",
+      "latitude": 43.445654,
+      "longitude": 17.224456
+    },
+    {
+      "name": "MB",
+      "latitude": 45.821775,
+      "longitude": 15.978133
+    },
+    {
+      "name": "Mixage",
+      "latitude": 45.024227,
+      "longitude": 14.570347
+    },
+    {
+      "name": "MM2",
+      "latitude": 45.802017,
+      "longitude": 15.996498
+    },
+    {
+      "name": "OMEGA-92",
+      "latitude": 45.896951,
+      "longitude": 16.84354
+    },
+    {
+      "name": "P.O.U. Kotva",
+      "latitude": 45.491481,
+      "longitude": 16.370596
+    },
+    {
+      "name": "Peta brzina",
+      "latitude": 45.485673,
+      "longitude": 16.374324
+    },
+    {
+      "name": "Poligon",
+      "latitude": 45.872157,
+      "longitude": 15.803838
+    },
+    {
+      "name": "Poligon HAK",
+      "latitude": 45.2384,
+      "longitude": 13.936669
+    },
+    {
+      "name": "Prva",
+      "latitude": 45.291455,
+      "longitude": 18.806725
+    },
+    {
+      "name": "Put",
+      "latitude": 45.156597,
+      "longitude": 18.029135
+    },
+    {
+      "name": "Rally Bjelovar",
+      "latitude": 45.90403,
+      "longitude": 16.846131
+    },
+    {
+      "name": "Retrovizor",
+      "latitude": 45.78724,
+      "longitude": 15.928052
+    },
+    {
+      "name": "Rotor",
+      "latitude": 44.10734,
+      "longitude": 15.241574
+    },
+    {
+      "name": "Rubikon",
+      "latitude": 43.516753,
+      "longitude": 16.446575
+    },
+    {
+      "name": "Signal",
+      "latitude": 45.898232,
+      "longitude": 16.837471
+    },
+    {
+      "name": "Sprint",
+      "latitude": 43.513384,
+      "longitude": 16.442279
+    },
+    {
+      "name": "Start",
+      "latitude": 45.796619,
+      "longitude": 15.959901
+    },
+    {
+      "name": "StartLine",
+      "latitude": 43.732031,
+      "longitude": 15.896689
+    },
+    {
+      "name": "Super Lucija",
+      "latitude": 46.521897,
+      "longitude": 16.377993
+    },
+    {
+      "name": "Vlamal d.o.o",
+      "latitude": 45.326718,
+      "longitude": 14.446842
+    }
+  ],
+  "meta": {
+    "title": "Autoškole - Besplatno preuzimanje",
+    "description": "Autoškole u Hrvatskoj (111 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=driving_school), izrez EU-POIS/HR. Sadrži 111 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Autoškole | ListBase",
+    "seo_description": "Preuzmi Autoškole — 111 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 111 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

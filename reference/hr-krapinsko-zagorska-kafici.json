@@ -1,0 +1,281 @@
+{
+  "id": "hr-krapinsko-zagorska-kafici",
+  "name": "Kafići — Krapinsko-zagorska županija",
+  "title": "Kafići — Krapinsko-zagorska županija",
+  "description": "48 kafići u županiji Krapinsko-zagorska županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Limenka\"",
+      "latitude": 46.044643,
+      "longitude": 16.084362
+    },
+    {
+      "name": "Blue Up",
+      "latitude": 46.163843,
+      "longitude": 15.750082
+    },
+    {
+      "name": "Caffe Bar High Life",
+      "latitude": 46.024481,
+      "longitude": 15.90066
+    },
+    {
+      "name": "Caffe bar Livil",
+      "latitude": 46.066901,
+      "longitude": 15.786596
+    },
+    {
+      "name": "Caffe bar Radio",
+      "latitude": 46.052436,
+      "longitude": 16.084439
+    },
+    {
+      "name": "Caffe Bar Ramona",
+      "latitude": 46.163866,
+      "longitude": 15.750488
+    },
+    {
+      "name": "caffe bar Rody",
+      "latitude": 45.983076,
+      "longitude": 16.003475
+    },
+    {
+      "name": "Caffe bar The Best",
+      "latitude": 46.153719,
+      "longitude": 16.013617
+    },
+    {
+      "name": "Caffe Bar Twins",
+      "latitude": 46.051693,
+      "longitude": 16.084586
+    },
+    {
+      "name": "Caffe Vrček",
+      "latitude": 46.025483,
+      "longitude": 15.922065
+    },
+    {
+      "name": "cesar",
+      "latitude": 46.001599,
+      "longitude": 16.119747
+    },
+    {
+      "name": "City Caffe",
+      "latitude": 46.02415,
+      "longitude": 15.905141
+    },
+    {
+      "name": "Coprnica",
+      "latitude": 45.995145,
+      "longitude": 15.8455
+    },
+    {
+      "name": "Domino",
+      "latitude": 46.092897,
+      "longitude": 15.837799
+    },
+    {
+      "name": "Domy",
+      "latitude": 45.988672,
+      "longitude": 15.725051
+    },
+    {
+      "name": "Don Corleone",
+      "latitude": 45.977142,
+      "longitude": 15.930994
+    },
+    {
+      "name": "Element bar",
+      "latitude": 46.065426,
+      "longitude": 15.783471
+    },
+    {
+      "name": "Filip",
+      "latitude": 46.151635,
+      "longitude": 15.960493
+    },
+    {
+      "name": "Fulir",
+      "latitude": 46.023891,
+      "longitude": 15.901474
+    },
+    {
+      "name": "Happy Time",
+      "latitude": 46.025098,
+      "longitude": 15.902215
+    },
+    {
+      "name": "Haustor",
+      "latitude": 46.005177,
+      "longitude": 16.119301
+    },
+    {
+      "name": "InCaffe",
+      "latitude": 46.079995,
+      "longitude": 15.906214
+    },
+    {
+      "name": "InCaffe",
+      "latitude": 46.154412,
+      "longitude": 15.874399
+    },
+    {
+      "name": "Jackpot caffe",
+      "latitude": 46.023938,
+      "longitude": 15.90457
+    },
+    {
+      "name": "K Iveku",
+      "latitude": 46.174503,
+      "longitude": 15.982484
+    },
+    {
+      "name": "Kavana Maksimilijan",
+      "latitude": 45.977698,
+      "longitude": 15.933455
+    },
+    {
+      "name": "Kavanica",
+      "latitude": 46.092417,
+      "longitude": 15.837541
+    },
+    {
+      "name": "Kod Pepice",
+      "latitude": 46.068194,
+      "longitude": 15.786034
+    },
+    {
+      "name": "Kramberger",
+      "latitude": 46.16563,
+      "longitude": 15.864198
+    },
+    {
+      "name": "Leggiero",
+      "latitude": 46.088894,
+      "longitude": 15.91058
+    },
+    {
+      "name": "Lucija",
+      "latitude": 46.002489,
+      "longitude": 15.845058
+    },
+    {
+      "name": "Mali caffe",
+      "latitude": 46.090933,
+      "longitude": 15.833643
+    },
+    {
+      "name": "Mali Raj",
+      "latitude": 46.146957,
+      "longitude": 15.903488
+    },
+    {
+      "name": "Metru Brod",
+      "latitude": 46.222158,
+      "longitude": 15.699767
+    },
+    {
+      "name": "O5",
+      "latitude": 45.994549,
+      "longitude": 15.846231
+    },
+    {
+      "name": "Pavlek",
+      "latitude": 46.062214,
+      "longitude": 16.004116
+    },
+    {
+      "name": "Peharček",
+      "latitude": 46.044374,
+      "longitude": 16.084399
+    },
+    {
+      "name": "Rabca",
+      "latitude": 45.985651,
+      "longitude": 15.727463
+    },
+    {
+      "name": "Relax",
+      "latitude": 46.025249,
+      "longitude": 15.905972
+    },
+    {
+      "name": "Santa Barbara",
+      "latitude": 46.10719,
+      "longitude": 16.217401
+    },
+    {
+      "name": "Shell",
+      "latitude": 46.053123,
+      "longitude": 16.17222
+    },
+    {
+      "name": "Stacun",
+      "latitude": 45.971195,
+      "longitude": 16.098296
+    },
+    {
+      "name": "Stara Pošta",
+      "latitude": 46.090809,
+      "longitude": 16.077596
+    },
+    {
+      "name": "Sunce",
+      "latitude": 46.090945,
+      "longitude": 15.83563
+    },
+    {
+      "name": "Veronika",
+      "latitude": 46.193439,
+      "longitude": 15.695133
+    },
+    {
+      "name": "Wizard",
+      "latitude": 46.00965,
+      "longitude": 16.110562
+    },
+    {
+      "name": "Čižmek",
+      "latitude": 46.050891,
+      "longitude": 15.74431
+    },
+    {
+      "name": "Štacija",
+      "latitude": 46.044328,
+      "longitude": 16.081374
+    }
+  ],
+  "meta": {
+    "title": "Kafići — Krapinsko-zagorska županija - Besplatno preuzimanje",
+    "description": "48 kafići u županiji Krapinsko-zagorska županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 48 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kafići — Krapinsko-zagorska županija | ListBase",
+    "seo_description": "Preuzmi Kafići — Krapinsko-zagorska županija — 48 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 48 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

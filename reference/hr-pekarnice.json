@@ -1,0 +1,7511 @@
+{
+  "id": "hr-pekarnice",
+  "name": "Pekarnice u Hrvatskoj",
+  "title": "Pekarnice u Hrvatskoj",
+  "description": "Bakeries in Croatia (shop=bakery) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1494,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Gricko\"",
+      "latitude": 45.591502,
+      "longitude": 17.218503
+    },
+    {
+      "name": "A&R Sunce",
+      "latitude": 45.871919,
+      "longitude": 15.739698
+    },
+    {
+      "name": "Adri Pek",
+      "latitude": 44.110429,
+      "longitude": 15.234526
+    },
+    {
+      "name": "Adria",
+      "latitude": 43.053122,
+      "longitude": 17.436993
+    },
+    {
+      "name": "Adriatic",
+      "latitude": 43.937975,
+      "longitude": 15.453536
+    },
+    {
+      "name": "Adriatic",
+      "latitude": 43.938032,
+      "longitude": 15.440075
+    },
+    {
+      "name": "Adriatik",
+      "latitude": 45.274356,
+      "longitude": 13.599042
+    },
+    {
+      "name": "Adélie Bakerie",
+      "latitude": 43.507549,
+      "longitude": 16.442599
+    },
+    {
+      "name": "Agita",
+      "latitude": 45.501353,
+      "longitude": 18.745173
+    },
+    {
+      "name": "Air Glow",
+      "latitude": 45.803754,
+      "longitude": 15.977648
+    },
+    {
+      "name": "Al-Di",
+      "latitude": 45.806639,
+      "longitude": 15.90217
+    },
+    {
+      "name": "Alan",
+      "latitude": 43.445271,
+      "longitude": 17.217957
+    },
+    {
+      "name": "Alan",
+      "latitude": 43.445426,
+      "longitude": 17.22322
+    },
+    {
+      "name": "Alan",
+      "latitude": 43.44627,
+      "longitude": 17.218856
+    },
+    {
+      "name": "Alan",
+      "latitude": 43.446971,
+      "longitude": 17.214613
+    },
+    {
+      "name": "Albert",
+      "latitude": 43.816011,
+      "longitude": 15.667793
+    },
+    {
+      "name": "Albert",
+      "latitude": 45.898245,
+      "longitude": 16.83922
+    },
+    {
+      "name": "AMG",
+      "latitude": 45.814785,
+      "longitude": 15.926999
+    },
+    {
+      "name": "Ana",
+      "latitude": 45.906522,
+      "longitude": 16.823341
+    },
+    {
+      "name": "Andrea",
+      "latitude": 43.938424,
+      "longitude": 15.444231
+    },
+    {
+      "name": "Andrea",
+      "latitude": 44.033387,
+      "longitude": 15.611813
+    },
+    {
+      "name": "Andrijana",
+      "latitude": 45.907459,
+      "longitude": 16.846571
+    },
+    {
+      "name": "Anela",
+      "latitude": 43.053259,
+      "longitude": 17.436536
+    },
+    {
+      "name": "Anita",
+      "latitude": 43.798483,
+      "longitude": 15.641767
+    },
+    {
+      "name": "Anna Julia",
+      "latitude": 43.50751,
+      "longitude": 16.454162
+    },
+    {
+      "name": "Anna Julia",
+      "latitude": 43.512871,
+      "longitude": 16.452014
+    },
+    {
+      "name": "Anna Julia",
+      "latitude": 43.520719,
+      "longitude": 16.468656
+    },
+    {
+      "name": "Antonia",
+      "latitude": 42.976277,
+      "longitude": 17.183965
+    },
+    {
+      "name": "Antonija",
+      "latitude": 45.787423,
+      "longitude": 16.14898
+    },
+    {
+      "name": "Antun",
+      "latitude": 44.298716,
+      "longitude": 15.844572
+    },
+    {
+      "name": "Arena",
+      "latitude": 44.873652,
+      "longitude": 13.854231
+    },
+    {
+      "name": "Arena",
+      "latitude": 45.240086,
+      "longitude": 13.937587
+    },
+    {
+      "name": "Arena",
+      "latitude": 45.392704,
+      "longitude": 14.798023
+    },
+    {
+      "name": "Arena",
+      "latitude": 45.407023,
+      "longitude": 13.964102
+    },
+    {
+      "name": "Arena",
+      "latitude": 45.804628,
+      "longitude": 15.89624
+    },
+    {
+      "name": "Arena 2",
+      "latitude": 45.806686,
+      "longitude": 15.891449
+    },
+    {
+      "name": "Aroma",
+      "latitude": 44.118171,
+      "longitude": 15.234573
+    },
+    {
+      "name": "Aroma",
+      "latitude": 44.1251,
+      "longitude": 15.233269
+    },
+    {
+      "name": "Aroma",
+      "latitude": 44.446171,
+      "longitude": 15.038978
+    },
+    {
+      "name": "Aroma",
+      "latitude": 45.128124,
+      "longitude": 14.789803
+    },
+    {
+      "name": "Aroma",
+      "latitude": 45.173543,
+      "longitude": 14.691708
+    },
+    {
+      "name": "Aroma",
+      "latitude": 45.173852,
+      "longitude": 14.693497
+    },
+    {
+      "name": "Aroma",
+      "latitude": 45.30348,
+      "longitude": 18.412454
+    },
+    {
+      "name": "Aroma",
+      "latitude": 45.800669,
+      "longitude": 15.929049
+    },
+    {
+      "name": "Aroma-Pek",
+      "latitude": 45.708202,
+      "longitude": 16.396683
+    },
+    {
+      "name": "ARS",
+      "latitude": 44.966143,
+      "longitude": 14.748879
+    },
+    {
+      "name": "AS Panino",
+      "latitude": 43.510219,
+      "longitude": 16.457579
+    },
+    {
+      "name": "As panino",
+      "latitude": 43.514642,
+      "longitude": 16.469793
+    },
+    {
+      "name": "Aurora",
+      "latitude": 45.561175,
+      "longitude": 18.674494
+    },
+    {
+      "name": "Aurora",
+      "latitude": 45.804808,
+      "longitude": 15.95483
+    },
+    {
+      "name": "Aurora",
+      "latitude": 45.809796,
+      "longitude": 15.952121
+    },
+    {
+      "name": "Babic",
+      "latitude": 42.640745,
+      "longitude": 18.108733
+    },
+    {
+      "name": "Babic",
+      "latitude": 43.517467,
+      "longitude": 16.446834
+    },
+    {
+      "name": "Babić",
+      "latitude": 42.643341,
+      "longitude": 18.111665
+    },
+    {
+      "name": "Babić",
+      "latitude": 42.658032,
+      "longitude": 18.087391
+    },
+    {
+      "name": "Babić",
+      "latitude": 42.976004,
+      "longitude": 17.182271
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.446695,
+      "longitude": 16.688407
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.505564,
+      "longitude": 16.472688
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.507638,
+      "longitude": 16.466724
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.50979,
+      "longitude": 16.436489
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.512269,
+      "longitude": 16.454365
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.513838,
+      "longitude": 16.454708
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.514196,
+      "longitude": 16.430441
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.516463,
+      "longitude": 16.435289
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.516502,
+      "longitude": 16.46732
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.518244,
+      "longitude": 16.250335
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.518552,
+      "longitude": 16.247914
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.522941,
+      "longitude": 16.468604
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.532087,
+      "longitude": 15.967793
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.536354,
+      "longitude": 16.489856
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.55113,
+      "longitude": 16.335618
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.732962,
+      "longitude": 15.895111
+    },
+    {
+      "name": "Babić",
+      "latitude": 43.733758,
+      "longitude": 15.895934
+    },
+    {
+      "name": "Babić P-13",
+      "latitude": 43.509881,
+      "longitude": 16.438218
+    },
+    {
+      "name": "Babić prod. br. 67",
+      "latitude": 43.506558,
+      "longitude": 16.448162
+    },
+    {
+      "name": "Babić-Prerada",
+      "latitude": 43.442747,
+      "longitude": 16.694235
+    },
+    {
+      "name": "Babushka Rijeka",
+      "latitude": 45.347029,
+      "longitude": 14.383109
+    },
+    {
+      "name": "Bakarski Baškot",
+      "latitude": 45.306967,
+      "longitude": 14.538834
+    },
+    {
+      "name": "Bakery",
+      "latitude": 43.300156,
+      "longitude": 17.021222
+    },
+    {
+      "name": "Bakery",
+      "latitude": 44.011924,
+      "longitude": 15.281082
+    },
+    {
+      "name": "Bakery",
+      "latitude": 45.257204,
+      "longitude": 13.579682
+    },
+    {
+      "name": "Bakery",
+      "latitude": 45.299245,
+      "longitude": 13.593189
+    },
+    {
+      "name": "Bakery Cherso",
+      "latitude": 44.956862,
+      "longitude": 14.404874
+    },
+    {
+      "name": "bakery novalja",
+      "latitude": 44.556388,
+      "longitude": 14.882893
+    },
+    {
+      "name": "Bakery Riva I",
+      "latitude": 43.183891,
+      "longitude": 16.595981
+    },
+    {
+      "name": "Baklava",
+      "latitude": 42.647072,
+      "longitude": 18.090689
+    },
+    {
+      "name": "Banja",
+      "latitude": 45.499826,
+      "longitude": 15.549933
+    },
+    {
+      "name": "Barba Tony",
+      "latitude": 45.115288,
+      "longitude": 14.504418
+    },
+    {
+      "name": "Barba Tony",
+      "latitude": 45.160408,
+      "longitude": 14.542479
+    },
+    {
+      "name": "Baska",
+      "latitude": 44.969754,
+      "longitude": 14.756081
+    },
+    {
+      "name": "Belafuža",
+      "latitude": 44.129366,
+      "longitude": 15.231998
+    },
+    {
+      "name": "Beny",
+      "latitude": 46.159533,
+      "longitude": 16.817836
+    },
+    {
+      "name": "Besi",
+      "latitude": 45.13983,
+      "longitude": 19.035611
+    },
+    {
+      "name": "Bibi",
+      "latitude": 45.690992,
+      "longitude": 16.110345
+    },
+    {
+      "name": "Bibi",
+      "latitude": 45.716392,
+      "longitude": 16.069501
+    },
+    {
+      "name": "Bili Brig",
+      "latitude": 44.122983,
+      "longitude": 15.253795
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.435388,
+      "longitude": 16.702931
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.443441,
+      "longitude": 16.692735
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.444347,
+      "longitude": 16.640905
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.44479,
+      "longitude": 16.685987
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.445895,
+      "longitude": 16.68815
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.474447,
+      "longitude": 16.56759
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.505106,
+      "longitude": 16.449673
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.506524,
+      "longitude": 16.467924
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.50782,
+      "longitude": 16.466728
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.508456,
+      "longitude": 16.470673
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.513189,
+      "longitude": 16.446573
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.515021,
+      "longitude": 16.252537
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.516495,
+      "longitude": 16.444932
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.518493,
+      "longitude": 16.449631
+    },
+    {
+      "name": "Bimita",
+      "latitude": 43.537832,
+      "longitude": 16.491187
+    },
+    {
+      "name": "Bio zrno",
+      "latitude": 46.002954,
+      "longitude": 16.11905
+    },
+    {
+      "name": "Biokovo 2",
+      "latitude": 43.302647,
+      "longitude": 17.012179
+    },
+    {
+      "name": "Biopan",
+      "latitude": 45.518842,
+      "longitude": 18.729424
+    },
+    {
+      "name": "Biopan",
+      "latitude": 45.557203,
+      "longitude": 18.66647
+    },
+    {
+      "name": "Biškić",
+      "latitude": 43.511213,
+      "longitude": 16.440744
+    },
+    {
+      "name": "Biškić",
+      "latitude": 43.514043,
+      "longitude": 16.438933
+    },
+    {
+      "name": "Bobis",
+      "latitude": 42.652874,
+      "longitude": 18.086363
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.443649,
+      "longitude": 16.69251
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.503253,
+      "longitude": 16.534635
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.50532,
+      "longitude": 16.455969
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.50548,
+      "longitude": 16.429112
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.507219,
+      "longitude": 16.489341
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.507463,
+      "longitude": 16.467105
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.507465,
+      "longitude": 16.464493
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.507593,
+      "longitude": 16.442593
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.508216,
+      "longitude": 16.451659
+    },
+    {
+      "name": "BOBIS",
+      "latitude": 43.509306,
+      "longitude": 16.43714
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.511777,
+      "longitude": 16.43647
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.513063,
+      "longitude": 16.432371
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.513374,
+      "longitude": 16.442649
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.513991,
+      "longitude": 16.455069
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.515107,
+      "longitude": 16.443961
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.516168,
+      "longitude": 16.446338
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.546215,
+      "longitude": 16.424024
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.553446,
+      "longitude": 16.368722
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.588025,
+      "longitude": 15.924761
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.703597,
+      "longitude": 16.637787
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.734813,
+      "longitude": 15.892084
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.735335,
+      "longitude": 15.892992
+    },
+    {
+      "name": "Bobis",
+      "latitude": 44.112305,
+      "longitude": 15.228379
+    },
+    {
+      "name": "Bobis",
+      "latitude": 44.115549,
+      "longitude": 15.225603
+    },
+    {
+      "name": "Borik",
+      "latitude": 44.112447,
+      "longitude": 15.227381
+    },
+    {
+      "name": "Botinec",
+      "latitude": 45.75551,
+      "longitude": 15.939022
+    },
+    {
+      "name": "Branimir",
+      "latitude": 44.299594,
+      "longitude": 15.087959
+    },
+    {
+      "name": "Bread & Deli Noel",
+      "latitude": 45.813713,
+      "longitude": 15.990055
+    },
+    {
+      "name": "Bread box",
+      "latitude": 44.232755,
+      "longitude": 15.165227
+    },
+    {
+      "name": "Bread Club",
+      "latitude": 45.778427,
+      "longitude": 15.984796
+    },
+    {
+      "name": "Bread club",
+      "latitude": 45.789799,
+      "longitude": 15.928187
+    },
+    {
+      "name": "Bread Club",
+      "latitude": 45.791844,
+      "longitude": 15.915018
+    },
+    {
+      "name": "Bread club",
+      "latitude": 45.801439,
+      "longitude": 15.953385
+    },
+    {
+      "name": "Bread Club",
+      "latitude": 45.813747,
+      "longitude": 15.981342
+    },
+    {
+      "name": "Bread Club 8",
+      "latitude": 45.813181,
+      "longitude": 15.969525
+    },
+    {
+      "name": "Brionka",
+      "latitude": 44.86736,
+      "longitude": 13.848747
+    },
+    {
+      "name": "Brionka",
+      "latitude": 44.871477,
+      "longitude": 13.848551
+    },
+    {
+      "name": "Brionka",
+      "latitude": 44.875655,
+      "longitude": 13.84992
+    },
+    {
+      "name": "Brionka",
+      "latitude": 44.927078,
+      "longitude": 13.80303
+    },
+    {
+      "name": "Brionka",
+      "latitude": 45.082527,
+      "longitude": 13.635004
+    },
+    {
+      "name": "Brionka",
+      "latitude": 45.240014,
+      "longitude": 13.936532
+    },
+    {
+      "name": "Britanac 2",
+      "latitude": 45.812761,
+      "longitude": 15.969488
+    },
+    {
+      "name": "Bu&Ba",
+      "latitude": 45.813725,
+      "longitude": 15.955692
+    },
+    {
+      "name": "Buffet Galeb",
+      "latitude": 42.667614,
+      "longitude": 18.129737
+    },
+    {
+      "name": "Burek",
+      "latitude": 45.813896,
+      "longitude": 15.977389
+    },
+    {
+      "name": "Burek kod braće",
+      "latitude": 45.326557,
+      "longitude": 14.440302
+    },
+    {
+      "name": "Burek Kod Braće",
+      "latitude": 45.327986,
+      "longitude": 14.447167
+    },
+    {
+      "name": "Burom pek",
+      "latitude": 45.806333,
+      "longitude": 15.983795
+    },
+    {
+      "name": "Butter‘s - Artisan Bakery",
+      "latitude": 43.507985,
+      "longitude": 16.453493
+    },
+    {
+      "name": "Bäckerei/bakery",
+      "latitude": 45.063876,
+      "longitude": 13.675664
+    },
+    {
+      "name": "Bäckereistand",
+      "latitude": 43.676396,
+      "longitude": 15.920665
+    },
+    {
+      "name": "Casa del Panino",
+      "latitude": 45.237918,
+      "longitude": 14.25327
+    },
+    {
+      "name": "Centar",
+      "latitude": 45.718787,
+      "longitude": 16.068234
+    },
+    {
+      "name": "Centar",
+      "latitude": 45.739281,
+      "longitude": 16.015366
+    },
+    {
+      "name": "Centar mini 3",
+      "latitude": 45.56376,
+      "longitude": 18.667905
+    },
+    {
+      "name": "Centar torti",
+      "latitude": 43.513413,
+      "longitude": 16.442678
+    },
+    {
+      "name": "Cherso",
+      "latitude": 44.959891,
+      "longitude": 14.40816
+    },
+    {
+      "name": "Cibalia",
+      "latitude": 45.224806,
+      "longitude": 18.739001
+    },
+    {
+      "name": "Cibalia",
+      "latitude": 45.282525,
+      "longitude": 18.816666
+    },
+    {
+      "name": "Cibalia",
+      "latitude": 45.287879,
+      "longitude": 18.806559
+    },
+    {
+      "name": "Cibona",
+      "latitude": 45.71213,
+      "longitude": 16.398272
+    },
+    {
+      "name": "Concettino",
+      "latitude": 44.868205,
+      "longitude": 13.8493
+    },
+    {
+      "name": "Concettino",
+      "latitude": 45.226784,
+      "longitude": 13.59846
+    },
+    {
+      "name": "Concettino",
+      "latitude": 45.227295,
+      "longitude": 13.599372
+    },
+    {
+      "name": "Cormoran",
+      "latitude": 45.701392,
+      "longitude": 17.170131
+    },
+    {
+      "name": "Cro-go",
+      "latitude": 43.506522,
+      "longitude": 16.482974
+    },
+    {
+      "name": "Cro-go",
+      "latitude": 43.509625,
+      "longitude": 16.481922
+    },
+    {
+      "name": "CRO-PEK",
+      "latitude": 46.384004,
+      "longitude": 16.445767
+    },
+    {
+      "name": "Cro-pek",
+      "latitude": 46.388665,
+      "longitude": 16.437771
+    },
+    {
+      "name": "Cro-pek",
+      "latitude": 46.390407,
+      "longitude": 16.442637
+    },
+    {
+      "name": "Croatia",
+      "latitude": 45.776532,
+      "longitude": 15.972081
+    },
+    {
+      "name": "Croatia",
+      "latitude": 45.798286,
+      "longitude": 15.947759
+    },
+    {
+      "name": "Croatia",
+      "latitude": 45.801101,
+      "longitude": 15.93889
+    },
+    {
+      "name": "Croatia",
+      "latitude": 45.801258,
+      "longitude": 15.897645
+    },
+    {
+      "name": "Croatia",
+      "latitude": 45.80395,
+      "longitude": 15.952725
+    },
+    {
+      "name": "Crogo",
+      "latitude": 43.542934,
+      "longitude": 16.479811
+    },
+    {
+      "name": "CroPek",
+      "latitude": 45.263121,
+      "longitude": 15.230271
+    },
+    {
+      "name": "Crosta Unije",
+      "latitude": 44.637173,
+      "longitude": 14.249072
+    },
+    {
+      "name": "Cukarin",
+      "latitude": 42.960037,
+      "longitude": 17.134511
+    },
+    {
+      "name": "Dafina",
+      "latitude": 45.364684,
+      "longitude": 14.399065
+    },
+    {
+      "name": "Dafina",
+      "latitude": 45.798529,
+      "longitude": 15.947174
+    },
+    {
+      "name": "Dalma",
+      "latitude": 43.734275,
+      "longitude": 15.894608
+    },
+    {
+      "name": "Dalma 2",
+      "latitude": 43.732601,
+      "longitude": 15.897409
+    },
+    {
+      "name": "Dalmatinka Pekarna & Fast food",
+      "latitude": 44.112641,
+      "longitude": 15.227747
+    },
+    {
+      "name": "Daloro",
+      "latitude": 45.787394,
+      "longitude": 15.926956
+    },
+    {
+      "name": "Dan i noć",
+      "latitude": 43.731676,
+      "longitude": 15.896987
+    },
+    {
+      "name": "Dan i noć",
+      "latitude": 45.157591,
+      "longitude": 18.03331
+    },
+    {
+      "name": "Dan i noć",
+      "latitude": 45.559787,
+      "longitude": 18.696962
+    },
+    {
+      "name": "Dan i noć",
+      "latitude": 45.560576,
+      "longitude": 18.654822
+    },
+    {
+      "name": "Dan i Noč",
+      "latitude": 45.081167,
+      "longitude": 13.639578
+    },
+    {
+      "name": "Dani Noc",
+      "latitude": 45.081132,
+      "longitude": 13.639708
+    },
+    {
+      "name": "De-jo",
+      "latitude": 46.050549,
+      "longitude": 16.084921
+    },
+    {
+      "name": "Delicatesse",
+      "latitude": 45.56095,
+      "longitude": 18.679841
+    },
+    {
+      "name": "Delikates Pekarnica",
+      "latitude": 45.813546,
+      "longitude": 15.998571
+    },
+    {
+      "name": "Delta",
+      "latitude": 44.116556,
+      "longitude": 15.230609
+    },
+    {
+      "name": "Desa",
+      "latitude": 45.788795,
+      "longitude": 15.938147
+    },
+    {
+      "name": "Di Bakery & Mini Shop",
+      "latitude": 43.134504,
+      "longitude": 16.58635
+    },
+    {
+      "name": "Dinara",
+      "latitude": 45.776994,
+      "longitude": 15.996629
+    },
+    {
+      "name": "Dinara",
+      "latitude": 45.806706,
+      "longitude": 15.99138
+    },
+    {
+      "name": "Dinara",
+      "latitude": 45.811247,
+      "longitude": 15.976318
+    },
+    {
+      "name": "Dinara",
+      "latitude": 45.811812,
+      "longitude": 15.974353
+    },
+    {
+      "name": "Dinara",
+      "latitude": 45.812542,
+      "longitude": 15.965004
+    },
+    {
+      "name": "Dinara",
+      "latitude": 45.814322,
+      "longitude": 15.977812
+    },
+    {
+      "name": "Dinara",
+      "latitude": 45.814762,
+      "longitude": 15.997088
+    },
+    {
+      "name": "Dobro junto",
+      "latitude": 43.750029,
+      "longitude": 15.882819
+    },
+    {
+      "name": "Dobro jutro",
+      "latitude": 43.504394,
+      "longitude": 16.456248
+    },
+    {
+      "name": "Dobro jutro",
+      "latitude": 43.517149,
+      "longitude": 16.445827
+    },
+    {
+      "name": "Dodo",
+      "latitude": 45.482537,
+      "longitude": 16.776922
+    },
+    {
+      "name": "Dodo",
+      "latitude": 45.48704,
+      "longitude": 16.749934
+    },
+    {
+      "name": "Dokuš-pek",
+      "latitude": 45.801662,
+      "longitude": 16.23436
+    },
+    {
+      "name": "Dona",
+      "latitude": 45.313317,
+      "longitude": 18.419987
+    },
+    {
+      "name": "Donji Grad",
+      "latitude": 45.544763,
+      "longitude": 18.726757
+    },
+    {
+      "name": "Dora",
+      "latitude": 45.153266,
+      "longitude": 18.023369
+    },
+    {
+      "name": "Dora",
+      "latitude": 45.345696,
+      "longitude": 18.994519
+    },
+    {
+      "name": "Dora",
+      "latitude": 45.75554,
+      "longitude": 15.836256
+    },
+    {
+      "name": "Dora",
+      "latitude": 45.76148,
+      "longitude": 15.883298
+    },
+    {
+      "name": "Dora",
+      "latitude": 46.166342,
+      "longitude": 16.823709
+    },
+    {
+      "name": "Dorian",
+      "latitude": 46.376101,
+      "longitude": 16.378909
+    },
+    {
+      "name": "Dorijana",
+      "latitude": 43.546946,
+      "longitude": 16.428037
+    },
+    {
+      "name": "Dren",
+      "latitude": 45.356071,
+      "longitude": 14.426428
+    },
+    {
+      "name": "Dubovac",
+      "latitude": 45.472951,
+      "longitude": 15.548845
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.778735,
+      "longitude": 15.996421
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.789901,
+      "longitude": 15.928779
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.790563,
+      "longitude": 15.913422
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.792455,
+      "longitude": 15.901767
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.797717,
+      "longitude": 15.944023
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.798006,
+      "longitude": 15.957418
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.799541,
+      "longitude": 15.953713
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.802574,
+      "longitude": 15.898609
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.803948,
+      "longitude": 15.993437
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.80403,
+      "longitude": 15.977485
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.804536,
+      "longitude": 15.895684
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.805598,
+      "longitude": 15.96675
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.809361,
+      "longitude": 15.979953
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.810469,
+      "longitude": 15.993087
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.812095,
+      "longitude": 15.969579
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.812183,
+      "longitude": 15.987647
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.812303,
+      "longitude": 15.948381
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.8126,
+      "longitude": 15.965416
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.812664,
+      "longitude": 15.976263
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.813065,
+      "longitude": 15.983645
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.813278,
+      "longitude": 15.942274
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.813597,
+      "longitude": 15.996497
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.81375,
+      "longitude": 15.991686
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.815169,
+      "longitude": 15.934927
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.815364,
+      "longitude": 15.997552
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.816995,
+      "longitude": 15.872715
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.861225,
+      "longitude": 15.80041
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 45.871136,
+      "longitude": 15.827506
+    },
+    {
+      "name": "Dubravica",
+      "latitude": 46.024271,
+      "longitude": 15.901566
+    },
+    {
+      "name": "Duga",
+      "latitude": 46.163662,
+      "longitude": 16.829101
+    },
+    {
+      "name": "Dujam",
+      "latitude": 45.492545,
+      "longitude": 15.554535
+    },
+    {
+      "name": "Dulcinea",
+      "latitude": 44.520483,
+      "longitude": 14.501846
+    },
+    {
+      "name": "Dulcinea",
+      "latitude": 44.535061,
+      "longitude": 14.471674
+    },
+    {
+      "name": "Dulcinea pekarnica",
+      "latitude": 44.699803,
+      "longitude": 14.396145
+    },
+    {
+      "name": "Dumbović",
+      "latitude": 45.487036,
+      "longitude": 16.378029
+    },
+    {
+      "name": "Duo peka Biograd",
+      "latitude": 43.938001,
+      "longitude": 15.444967
+    },
+    {
+      "name": "Edi",
+      "latitude": 45.44206,
+      "longitude": 16.278266
+    },
+    {
+      "name": "Edi",
+      "latitude": 45.601868,
+      "longitude": 16.169851
+    },
+    {
+      "name": "Edi Pek",
+      "latitude": 45.855015,
+      "longitude": 15.805654
+    },
+    {
+      "name": "Edo-Pek",
+      "latitude": 45.796266,
+      "longitude": 15.990125
+    },
+    {
+      "name": "El-pan",
+      "latitude": 45.550659,
+      "longitude": 18.705899
+    },
+    {
+      "name": "Elvis",
+      "latitude": 43.70954,
+      "longitude": 15.9214
+    },
+    {
+      "name": "Elvis",
+      "latitude": 45.561151,
+      "longitude": 15.516544
+    },
+    {
+      "name": "eM-Ka",
+      "latitude": 43.505117,
+      "longitude": 16.456796
+    },
+    {
+      "name": "Eufemija",
+      "latitude": 43.493262,
+      "longitude": 16.26404
+    },
+    {
+      "name": "Euro-Pan",
+      "latitude": 43.102957,
+      "longitude": 17.346427
+    },
+    {
+      "name": "Euro-Pan",
+      "latitude": 43.104848,
+      "longitude": 17.341605
+    },
+    {
+      "name": "Europa",
+      "latitude": 43.496739,
+      "longitude": 16.260726
+    },
+    {
+      "name": "Europa",
+      "latitude": 45.159469,
+      "longitude": 18.026099
+    },
+    {
+      "name": "Europa",
+      "latitude": 45.190019,
+      "longitude": 18.032969
+    },
+    {
+      "name": "Europa",
+      "latitude": 45.292989,
+      "longitude": 18.807389
+    },
+    {
+      "name": "Europa",
+      "latitude": 45.523884,
+      "longitude": 18.573006
+    },
+    {
+      "name": "Europa",
+      "latitude": 45.528428,
+      "longitude": 18.584416
+    },
+    {
+      "name": "Europa",
+      "latitude": 45.813484,
+      "longitude": 15.94889
+    },
+    {
+      "name": "Europek",
+      "latitude": 43.939524,
+      "longitude": 15.445131
+    },
+    {
+      "name": "Europek",
+      "latitude": 45.794522,
+      "longitude": 15.902169
+    },
+    {
+      "name": "Europek",
+      "latitude": 45.896595,
+      "longitude": 16.842973
+    },
+    {
+      "name": "Europek",
+      "latitude": 45.904044,
+      "longitude": 16.847184
+    },
+    {
+      "name": "Exlusive",
+      "latitude": 45.794895,
+      "longitude": 15.899232
+    },
+    {
+      "name": "Exquisite",
+      "latitude": 42.685668,
+      "longitude": 17.937402
+    },
+    {
+      "name": "Extra nova pekara",
+      "latitude": 45.414181,
+      "longitude": 17.157772
+    },
+    {
+      "name": "Farina",
+      "latitude": 44.761063,
+      "longitude": 14.76017
+    },
+    {
+      "name": "Farina IV",
+      "latitude": 44.758076,
+      "longitude": 14.762806
+    },
+    {
+      "name": "Feniks",
+      "latitude": 45.791756,
+      "longitude": 15.91917
+    },
+    {
+      "name": "Feniks",
+      "latitude": 45.813959,
+      "longitude": 15.975983
+    },
+    {
+      "name": "Finesa",
+      "latitude": 43.518084,
+      "longitude": 16.446626
+    },
+    {
+      "name": "Finesa",
+      "latitude": 45.805888,
+      "longitude": 15.913121
+    },
+    {
+      "name": "Fino",
+      "latitude": 45.013513,
+      "longitude": 14.623967
+    },
+    {
+      "name": "Fino & frisko",
+      "latitude": 43.505378,
+      "longitude": 16.442371
+    },
+    {
+      "name": "Fino & friško",
+      "latitude": 43.05338,
+      "longitude": 17.649277
+    },
+    {
+      "name": "Fino & Friško",
+      "latitude": 43.149074,
+      "longitude": 17.261612
+    },
+    {
+      "name": "Fino & friško",
+      "latitude": 45.166053,
+      "longitude": 18.018322
+    },
+    {
+      "name": "Fino i friško",
+      "latitude": 42.786454,
+      "longitude": 17.380037
+    },
+    {
+      "name": "Fino i friško",
+      "latitude": 45.791321,
+      "longitude": 15.96261
+    },
+    {
+      "name": "Fino i friško",
+      "latitude": 45.885279,
+      "longitude": 16.419149
+    },
+    {
+      "name": "Flora",
+      "latitude": 43.506383,
+      "longitude": 16.479869
+    },
+    {
+      "name": "Flora",
+      "latitude": 43.516074,
+      "longitude": 16.449791
+    },
+    {
+      "name": "Flora",
+      "latitude": 43.532569,
+      "longitude": 16.496349
+    },
+    {
+      "name": "Florije",
+      "latitude": 45.231356,
+      "longitude": 13.600711
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 45.703692,
+      "longitude": 16.394
+    },
+    {
+      "name": "Fortuna",
+      "latitude": 45.026799,
+      "longitude": 14.573417
+    },
+    {
+      "name": "Fortuna",
+      "latitude": 45.39429,
+      "longitude": 14.800867
+    },
+    {
+      "name": "Forum",
+      "latitude": 44.797956,
+      "longitude": 13.913917
+    },
+    {
+      "name": "Forum",
+      "latitude": 44.801572,
+      "longitude": 13.909839
+    },
+    {
+      "name": "Forum",
+      "latitude": 44.869588,
+      "longitude": 13.841701
+    },
+    {
+      "name": "Foša Zadar",
+      "latitude": 44.107387,
+      "longitude": 15.247873
+    },
+    {
+      "name": "Franceska",
+      "latitude": 45.801563,
+      "longitude": 15.904253
+    },
+    {
+      "name": "Friško",
+      "latitude": 45.703675,
+      "longitude": 16.121964
+    },
+    {
+      "name": "Friško",
+      "latitude": 45.70481,
+      "longitude": 16.038174
+    },
+    {
+      "name": "ga-li",
+      "latitude": 45.813789,
+      "longitude": 15.927971
+    },
+    {
+      "name": "Gabriela",
+      "latitude": 45.309957,
+      "longitude": 18.410815
+    },
+    {
+      "name": "Galeb",
+      "latitude": 44.508479,
+      "longitude": 15.010618
+    },
+    {
+      "name": "Galeb",
+      "latitude": 44.530204,
+      "longitude": 14.962145
+    },
+    {
+      "name": "Galeb",
+      "latitude": 45.896203,
+      "longitude": 16.839377
+    },
+    {
+      "name": "Galeta",
+      "latitude": 42.653942,
+      "longitude": 18.092435
+    },
+    {
+      "name": "Geleta",
+      "latitude": 42.651531,
+      "longitude": 18.092571
+    },
+    {
+      "name": "Genci",
+      "latitude": 45.224806,
+      "longitude": 18.739001
+    },
+    {
+      "name": "Genci",
+      "latitude": 45.228703,
+      "longitude": 18.741895
+    },
+    {
+      "name": "Gjon",
+      "latitude": 43.959857,
+      "longitude": 15.430896
+    },
+    {
+      "name": "Gjoni",
+      "latitude": 45.774032,
+      "longitude": 15.947776
+    },
+    {
+      "name": "Golub",
+      "latitude": 44.121023,
+      "longitude": 15.258705
+    },
+    {
+      "name": "GOLUB",
+      "latitude": 44.1346,
+      "longitude": 15.215975
+    },
+    {
+      "name": "GOLUBICA 1",
+      "latitude": 45.557631,
+      "longitude": 18.715931
+    },
+    {
+      "name": "Goluzarije",
+      "latitude": 43.51143,
+      "longitude": 16.436453
+    },
+    {
+      "name": "Grabić",
+      "latitude": 43.161548,
+      "longitude": 16.693139
+    },
+    {
+      "name": "Gradska pekara",
+      "latitude": 45.333406,
+      "longitude": 17.674557
+    },
+    {
+      "name": "Gradska Pekara",
+      "latitude": 45.89553,
+      "longitude": 16.848983
+    },
+    {
+      "name": "Granić",
+      "latitude": 43.510822,
+      "longitude": 16.461516
+    },
+    {
+      "name": "Grazie",
+      "latitude": 45.157659,
+      "longitude": 18.012861
+    },
+    {
+      "name": "Greblica",
+      "latitude": 45.780056,
+      "longitude": 15.985304
+    },
+    {
+      "name": "Grikula",
+      "latitude": 43.347808,
+      "longitude": 16.734048
+    },
+    {
+      "name": "Hajduk",
+      "latitude": 44.080705,
+      "longitude": 15.188216
+    },
+    {
+      "name": "HandMade by Biberon",
+      "latitude": 43.513791,
+      "longitude": 16.436775
+    },
+    {
+      "name": "Hill Lekaj",
+      "latitude": 44.76143,
+      "longitude": 14.75969
+    },
+    {
+      "name": "Hrstić",
+      "latitude": 43.504639,
+      "longitude": 16.45621
+    },
+    {
+      "name": "Hrstić",
+      "latitude": 43.51097,
+      "longitude": 16.438637
+    },
+    {
+      "name": "Hrstić",
+      "latitude": 43.516662,
+      "longitude": 16.500045
+    },
+    {
+      "name": "Hrstić",
+      "latitude": 43.516945,
+      "longitude": 16.437371
+    },
+    {
+      "name": "Hrstić",
+      "latitude": 43.517685,
+      "longitude": 16.447076
+    },
+    {
+      "name": "Ideal",
+      "latitude": 45.557516,
+      "longitude": 18.675938
+    },
+    {
+      "name": "Il Fornaio",
+      "latitude": 45.083033,
+      "longitude": 13.633893
+    },
+    {
+      "name": "Iskra",
+      "latitude": 45.157438,
+      "longitude": 18.02377
+    },
+    {
+      "name": "Istra",
+      "latitude": 44.862998,
+      "longitude": 13.849327
+    },
+    {
+      "name": "Istra",
+      "latitude": 45.14261,
+      "longitude": 13.907478
+    },
+    {
+      "name": "Ivana",
+      "latitude": 44.530931,
+      "longitude": 14.470848
+    },
+    {
+      "name": "Jadran",
+      "latitude": 43.26321,
+      "longitude": 17.059072
+    },
+    {
+      "name": "Jadran",
+      "latitude": 43.267896,
+      "longitude": 17.055522
+    },
+    {
+      "name": "Jadran",
+      "latitude": 43.586541,
+      "longitude": 15.923858
+    },
+    {
+      "name": "Jadran",
+      "latitude": 45.30673,
+      "longitude": 14.53518
+    },
+    {
+      "name": "Jadran VIR",
+      "latitude": 44.30115,
+      "longitude": 15.080348
+    },
+    {
+      "name": "Jadranka",
+      "latitude": 44.66017,
+      "longitude": 14.397685
+    },
+    {
+      "name": "Janica",
+      "latitude": 45.586347,
+      "longitude": 15.859513
+    },
+    {
+      "name": "Janković",
+      "latitude": 45.154441,
+      "longitude": 18.017959
+    },
+    {
+      "name": "Janković",
+      "latitude": 45.155276,
+      "longitude": 18.01988
+    },
+    {
+      "name": "Janković",
+      "latitude": 45.155604,
+      "longitude": 18.013588
+    },
+    {
+      "name": "Janković",
+      "latitude": 45.156389,
+      "longitude": 18.025848
+    },
+    {
+      "name": "Janković",
+      "latitude": 45.1659,
+      "longitude": 18.032357
+    },
+    {
+      "name": "Janković",
+      "latitude": 45.167674,
+      "longitude": 17.992887
+    },
+    {
+      "name": "Jumbo",
+      "latitude": 45.554842,
+      "longitude": 18.681183
+    },
+    {
+      "name": "Jumbo pekara",
+      "latitude": 45.550182,
+      "longitude": 18.678139
+    },
+    {
+      "name": "Junior",
+      "latitude": 45.156558,
+      "longitude": 18.024491
+    },
+    {
+      "name": "Junior",
+      "latitude": 46.387328,
+      "longitude": 16.440803
+    },
+    {
+      "name": "Junior",
+      "latitude": 46.38828,
+      "longitude": 16.423344
+    },
+    {
+      "name": "Kadulja",
+      "latitude": 45.553045,
+      "longitude": 18.704708
+    },
+    {
+      "name": "Kadulja",
+      "latitude": 45.556396,
+      "longitude": 18.688262
+    },
+    {
+      "name": "Kadulja",
+      "latitude": 45.557077,
+      "longitude": 18.697322
+    },
+    {
+      "name": "Kaj",
+      "latitude": 45.480633,
+      "longitude": 16.777315
+    },
+    {
+      "name": "Kaj",
+      "latitude": 45.481657,
+      "longitude": 16.779134
+    },
+    {
+      "name": "Kaj",
+      "latitude": 45.813457,
+      "longitude": 15.927353
+    },
+    {
+      "name": "Kajzerica",
+      "latitude": 45.797159,
+      "longitude": 15.936271
+    },
+    {
+      "name": "Kajzerica",
+      "latitude": 45.79925,
+      "longitude": 15.999348
+    },
+    {
+      "name": "Kajzerica",
+      "latitude": 46.22352,
+      "longitude": 16.124275
+    },
+    {
+      "name": "Kaltrina",
+      "latitude": 43.645107,
+      "longitude": 16.623347
+    },
+    {
+      "name": "Kalun",
+      "latitude": 43.860605,
+      "longitude": 16.155123
+    },
+    {
+      "name": "Kamber",
+      "latitude": 43.505564,
+      "longitude": 16.449736
+    },
+    {
+      "name": "Kamber",
+      "latitude": 43.50939,
+      "longitude": 16.478696
+    },
+    {
+      "name": "Kamber",
+      "latitude": 43.559773,
+      "longitude": 16.342945
+    },
+    {
+      "name": "Kambo",
+      "latitude": 43.440472,
+      "longitude": 16.661238
+    },
+    {
+      "name": "Kambo(prod.br.6)",
+      "latitude": 43.445121,
+      "longitude": 16.640928
+    },
+    {
+      "name": "Kamen",
+      "latitude": 43.440633,
+      "longitude": 16.660328
+    },
+    {
+      "name": "Kamen",
+      "latitude": 43.506887,
+      "longitude": 16.523632
+    },
+    {
+      "name": "Kamen",
+      "latitude": 43.513825,
+      "longitude": 16.515412
+    },
+    {
+      "name": "Kamen(prod.br.5)",
+      "latitude": 43.44505,
+      "longitude": 16.64089
+    },
+    {
+      "name": "Karmen",
+      "latitude": 43.445211,
+      "longitude": 16.638756
+    },
+    {
+      "name": "Karutula",
+      "latitude": 43.821667,
+      "longitude": 15.591996
+    },
+    {
+      "name": "Keko",
+      "latitude": 43.507939,
+      "longitude": 16.474813
+    },
+    {
+      "name": "Keko",
+      "latitude": 43.512158,
+      "longitude": 16.43753
+    },
+    {
+      "name": "Keko",
+      "latitude": 43.512728,
+      "longitude": 16.441855
+    },
+    {
+      "name": "Kiflić",
+      "latitude": 44.823029,
+      "longitude": 14.736493
+    },
+    {
+      "name": "Kiflić",
+      "latitude": 45.557352,
+      "longitude": 18.68445
+    },
+    {
+      "name": "Kiflić 2",
+      "latitude": 45.501618,
+      "longitude": 18.744512
+    },
+    {
+      "name": "Kiki",
+      "latitude": 43.385101,
+      "longitude": 16.54906
+    },
+    {
+      "name": "Kiosk Mlinček",
+      "latitude": 46.025589,
+      "longitude": 16.542996
+    },
+    {
+      "name": "Kiosk Savudrija-Pineta",
+      "latitude": 45.483522,
+      "longitude": 13.494772
+    },
+    {
+      "name": "Klara",
+      "latitude": 43.749813,
+      "longitude": 15.797279
+    },
+    {
+      "name": "Klara",
+      "latitude": 43.757312,
+      "longitude": 15.773586
+    },
+    {
+      "name": "Klara",
+      "latitude": 43.760007,
+      "longitude": 15.7836
+    },
+    {
+      "name": "Klara",
+      "latitude": 43.93785,
+      "longitude": 15.444435
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.713675,
+      "longitude": 16.076719
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.714323,
+      "longitude": 16.070466
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.717147,
+      "longitude": 16.072548
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.768416,
+      "longitude": 15.954255
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.795908,
+      "longitude": 15.900508
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.798473,
+      "longitude": 15.905892
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.800943,
+      "longitude": 15.955696
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.802406,
+      "longitude": 15.953185
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.808996,
+      "longitude": 16.012724
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.809765,
+      "longitude": 16.016453
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.811776,
+      "longitude": 15.972442
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.817834,
+      "longitude": 16.008188
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.829858,
+      "longitude": 16.055645
+    },
+    {
+      "name": "Klara",
+      "latitude": 45.904394,
+      "longitude": 16.84808
+    },
+    {
+      "name": "Klara",
+      "latitude": 46.163895,
+      "longitude": 16.829681
+    },
+    {
+      "name": "Klas",
+      "latitude": 42.646989,
+      "longitude": 18.091788
+    },
+    {
+      "name": "Klas",
+      "latitude": 43.618547,
+      "longitude": 16.724655
+    },
+    {
+      "name": "Klas",
+      "latitude": 43.681085,
+      "longitude": 16.650202
+    },
+    {
+      "name": "Klas",
+      "latitude": 43.701254,
+      "longitude": 16.636493
+    },
+    {
+      "name": "Klas",
+      "latitude": 45.223525,
+      "longitude": 19.368843
+    },
+    {
+      "name": "Klas",
+      "latitude": 45.288406,
+      "longitude": 18.683699
+    },
+    {
+      "name": "Klas",
+      "latitude": 45.800047,
+      "longitude": 15.98529
+    },
+    {
+      "name": "Klas",
+      "latitude": 45.800855,
+      "longitude": 15.930124
+    },
+    {
+      "name": "Klas",
+      "latitude": 45.809128,
+      "longitude": 15.929599
+    },
+    {
+      "name": "Klas",
+      "latitude": 45.815004,
+      "longitude": 15.933385
+    },
+    {
+      "name": "Klas",
+      "latitude": 46.151254,
+      "longitude": 16.819753
+    },
+    {
+      "name": "Klas 3",
+      "latitude": 45.559022,
+      "longitude": 18.683917
+    },
+    {
+      "name": "Klasje",
+      "latitude": 45.796598,
+      "longitude": 15.916078
+    },
+    {
+      "name": "Klasje",
+      "latitude": 45.798805,
+      "longitude": 15.814202
+    },
+    {
+      "name": "Klasje",
+      "latitude": 45.805699,
+      "longitude": 15.728681
+    },
+    {
+      "name": "Klasje",
+      "latitude": 45.810942,
+      "longitude": 15.789328
+    },
+    {
+      "name": "Klasje",
+      "latitude": 45.815385,
+      "longitude": 15.934752
+    },
+    {
+      "name": "Klasje",
+      "latitude": 46.223938,
+      "longitude": 16.122817
+    },
+    {
+      "name": "Klasje",
+      "latitude": 46.225591,
+      "longitude": 16.12714
+    },
+    {
+      "name": "Kod none Bepe",
+      "latitude": 43.385114,
+      "longitude": 16.47946
+    },
+    {
+      "name": "Kolđeraj",
+      "latitude": 43.060455,
+      "longitude": 16.184025
+    },
+    {
+      "name": "Kolđeraj",
+      "latitude": 45.542098,
+      "longitude": 18.050205
+    },
+    {
+      "name": "Kolđeraj",
+      "latitude": 45.543332,
+      "longitude": 18.046233
+    },
+    {
+      "name": "Komes j.d.o.o",
+      "latitude": 46.348111,
+      "longitude": 16.154396
+    },
+    {
+      "name": "Korica",
+      "latitude": 45.807615,
+      "longitude": 15.975002
+    },
+    {
+      "name": "Korica",
+      "latitude": 45.810666,
+      "longitude": 15.964201
+    },
+    {
+      "name": "Korica",
+      "latitude": 45.812369,
+      "longitude": 15.986746
+    },
+    {
+      "name": "Kraljica mira",
+      "latitude": 43.184327,
+      "longitude": 16.596724
+    },
+    {
+      "name": "Kroasan",
+      "latitude": 44.11136,
+      "longitude": 15.246384
+    },
+    {
+      "name": "Krostula",
+      "latitude": 44.116822,
+      "longitude": 15.231709
+    },
+    {
+      "name": "Kroštula",
+      "latitude": 43.821774,
+      "longitude": 15.591869
+    },
+    {
+      "name": "Kroštula",
+      "latitude": 43.905843,
+      "longitude": 15.516213
+    },
+    {
+      "name": "Kroštula",
+      "latitude": 43.90712,
+      "longitude": 15.506408
+    },
+    {
+      "name": "Kroštula",
+      "latitude": 44.114702,
+      "longitude": 15.227457
+    },
+    {
+      "name": "Kruge 2",
+      "latitude": 45.805547,
+      "longitude": 15.982434
+    },
+    {
+      "name": "Kruh i kiflice",
+      "latitude": 46.024055,
+      "longitude": 15.904453
+    },
+    {
+      "name": "Kruna",
+      "latitude": 45.560701,
+      "longitude": 18.654898
+    },
+    {
+      "name": "Kruščić - Artisan Bakery",
+      "latitude": 43.509358,
+      "longitude": 16.437661
+    },
+    {
+      "name": "Kujtesa",
+      "latitude": 45.817345,
+      "longitude": 15.886629
+    },
+    {
+      "name": "Kukuriku artisan bakery",
+      "latitude": 45.790446,
+      "longitude": 15.955938
+    },
+    {
+      "name": "Kuća Dobrog Ukusa",
+      "latitude": 45.897824,
+      "longitude": 16.846347
+    },
+    {
+      "name": "Kuća kruva - Bread house",
+      "latitude": 43.825235,
+      "longitude": 15.605723
+    },
+    {
+      "name": "Kvatrić",
+      "latitude": 45.816074,
+      "longitude": 15.997124
+    },
+    {
+      "name": "Lana",
+      "latitude": 45.148971,
+      "longitude": 18.88553
+    },
+    {
+      "name": "Laste",
+      "latitude": 45.083604,
+      "longitude": 13.633575
+    },
+    {
+      "name": "Laura",
+      "latitude": 43.821802,
+      "longitude": 15.591895
+    },
+    {
+      "name": "Laura",
+      "latitude": 43.823293,
+      "longitude": 15.592531
+    },
+    {
+      "name": "Laura",
+      "latitude": 45.222443,
+      "longitude": 19.378257
+    },
+    {
+      "name": "Le'Slastice - Kraljevske slastice Čakovec",
+      "latitude": 46.389819,
+      "longitude": 16.429901
+    },
+    {
+      "name": "Lekaj",
+      "latitude": 44.967544,
+      "longitude": 14.749805
+    },
+    {
+      "name": "Lekaj",
+      "latitude": 44.971362,
+      "longitude": 14.750943
+    },
+    {
+      "name": "Lekaj",
+      "latitude": 45.488504,
+      "longitude": 15.546238
+    },
+    {
+      "name": "Lekaj",
+      "latitude": 45.493152,
+      "longitude": 15.537605
+    },
+    {
+      "name": "Lekaj",
+      "latitude": 45.820269,
+      "longitude": 16.054968
+    },
+    {
+      "name": "Leonardo",
+      "latitude": 43.375491,
+      "longitude": 16.628356
+    },
+    {
+      "name": "Leonardo",
+      "latitude": 43.3848,
+      "longitude": 16.545977
+    },
+    {
+      "name": "Leonora",
+      "latitude": 43.549923,
+      "longitude": 16.327879
+    },
+    {
+      "name": "Li",
+      "latitude": 43.704783,
+      "longitude": 16.65277
+    },
+    {
+      "name": "Liberty 93",
+      "latitude": 42.837944,
+      "longitude": 17.696371
+    },
+    {
+      "name": "Liberty93",
+      "latitude": 42.786727,
+      "longitude": 17.889445
+    },
+    {
+      "name": "Licitarsko srce",
+      "latitude": 45.827415,
+      "longitude": 16.107743
+    },
+    {
+      "name": "Lida Pek",
+      "latitude": 43.172652,
+      "longitude": 16.443804
+    },
+    {
+      "name": "Lipa",
+      "latitude": 45.549407,
+      "longitude": 18.699977
+    },
+    {
+      "name": "Lipovljanka",
+      "latitude": 45.399181,
+      "longitude": 16.890858
+    },
+    {
+      "name": "Lišćevica",
+      "latitude": 45.35924,
+      "longitude": 14.488607
+    },
+    {
+      "name": "Lišćevica",
+      "latitude": 45.363616,
+      "longitude": 14.489463
+    },
+    {
+      "name": "Lorena",
+      "latitude": 45.819233,
+      "longitude": 16.124786
+    },
+    {
+      "name": "Lović",
+      "latitude": 43.442953,
+      "longitude": 16.695259
+    },
+    {
+      "name": "Lović",
+      "latitude": 45.154858,
+      "longitude": 18.021633
+    },
+    {
+      "name": "Lović",
+      "latitude": 45.157527,
+      "longitude": 18.033141
+    },
+    {
+      "name": "Lović",
+      "latitude": 45.166471,
+      "longitude": 17.995727
+    },
+    {
+      "name": "Luiđi",
+      "latitude": 43.937417,
+      "longitude": 15.443961
+    },
+    {
+      "name": "Luiđi",
+      "latitude": 43.960913,
+      "longitude": 15.42547
+    },
+    {
+      "name": "Luiđi",
+      "latitude": 43.961473,
+      "longitude": 15.4261
+    },
+    {
+      "name": "Luka",
+      "latitude": 45.3381,
+      "longitude": 18.93073
+    },
+    {
+      "name": "Lukšić",
+      "latitude": 43.554144,
+      "longitude": 16.35939
+    },
+    {
+      "name": "Luna",
+      "latitude": 45.457784,
+      "longitude": 16.387102
+    },
+    {
+      "name": "M0-24",
+      "latitude": 43.797047,
+      "longitude": 15.642913
+    },
+    {
+      "name": "Magistrala",
+      "latitude": 43.763424,
+      "longitude": 15.777419
+    },
+    {
+      "name": "Makarska",
+      "latitude": 43.305911,
+      "longitude": 17.008275
+    },
+    {
+      "name": "Mala Tvornica Kruha",
+      "latitude": 43.102433,
+      "longitude": 17.346223
+    },
+    {
+      "name": "Manó",
+      "latitude": 43.509152,
+      "longitude": 16.437686
+    },
+    {
+      "name": "Maralushaj",
+      "latitude": 45.15356,
+      "longitude": 18.023414
+    },
+    {
+      "name": "Marcela",
+      "latitude": 43.694105,
+      "longitude": 16.642013
+    },
+    {
+      "name": "Marco Polo",
+      "latitude": 42.960475,
+      "longitude": 17.134222
+    },
+    {
+      "name": "Marica",
+      "latitude": 45.559124,
+      "longitude": 18.684059
+    },
+    {
+      "name": "Marin",
+      "latitude": 43.505752,
+      "longitude": 16.473792
+    },
+    {
+      "name": "Marin",
+      "latitude": 43.507538,
+      "longitude": 16.484942
+    },
+    {
+      "name": "Marin",
+      "latitude": 43.513458,
+      "longitude": 16.105255
+    },
+    {
+      "name": "Marin",
+      "latitude": 43.513863,
+      "longitude": 16.459878
+    },
+    {
+      "name": "Marina",
+      "latitude": 45.273923,
+      "longitude": 13.598972
+    },
+    {
+      "name": "Mario",
+      "latitude": 43.050876,
+      "longitude": 17.43442
+    },
+    {
+      "name": "Mario",
+      "latitude": 45.692316,
+      "longitude": 15.649066
+    },
+    {
+      "name": "Mario",
+      "latitude": 45.895988,
+      "longitude": 16.201386
+    },
+    {
+      "name": "Martin",
+      "latitude": 43.938136,
+      "longitude": 15.450709
+    },
+    {
+      "name": "Martin",
+      "latitude": 45.790917,
+      "longitude": 15.914562
+    },
+    {
+      "name": "Martin",
+      "latitude": 45.83209,
+      "longitude": 15.995526
+    },
+    {
+      "name": "Martina",
+      "latitude": 45.761113,
+      "longitude": 15.945958
+    },
+    {
+      "name": "Martina",
+      "latitude": 45.807714,
+      "longitude": 15.919358
+    },
+    {
+      "name": "Martinaj",
+      "latitude": 45.4736,
+      "longitude": 16.366852
+    },
+    {
+      "name": "MARTINAJ",
+      "latitude": 45.478107,
+      "longitude": 16.400617
+    },
+    {
+      "name": "MartinaJ",
+      "latitude": 45.489417,
+      "longitude": 16.374794
+    },
+    {
+      "name": "Martinaj",
+      "latitude": 45.71379,
+      "longitude": 16.075299
+    },
+    {
+      "name": "Martinjak",
+      "latitude": 45.675645,
+      "longitude": 16.142614
+    },
+    {
+      "name": "Matinaj",
+      "latitude": 45.292674,
+      "longitude": 15.969804
+    },
+    {
+      "name": "Mediteran",
+      "latitude": 45.148187,
+      "longitude": 13.605163
+    },
+    {
+      "name": "Mediteran",
+      "latitude": 45.148913,
+      "longitude": 13.603962
+    },
+    {
+      "name": "Medulin",
+      "latitude": 44.819103,
+      "longitude": 13.936843
+    },
+    {
+      "name": "Merkur",
+      "latitude": 45.291896,
+      "longitude": 18.803148
+    },
+    {
+      "name": "Mikeš 3",
+      "latitude": 45.831595,
+      "longitude": 17.3889
+    },
+    {
+      "name": "Milaković",
+      "latitude": 43.510849,
+      "longitude": 16.436341
+    },
+    {
+      "name": "Milaković",
+      "latitude": 43.511337,
+      "longitude": 16.451392
+    },
+    {
+      "name": "Milaković",
+      "latitude": 43.513831,
+      "longitude": 16.472569
+    },
+    {
+      "name": "Milaković",
+      "latitude": 43.514253,
+      "longitude": 16.454799
+    },
+    {
+      "name": "Milaković",
+      "latitude": 43.515088,
+      "longitude": 16.443493
+    },
+    {
+      "name": "milinar",
+      "latitude": 44.989456,
+      "longitude": 14.89974
+    },
+    {
+      "name": "Milna",
+      "latitude": 43.328748,
+      "longitude": 16.447075
+    },
+    {
+      "name": "Mimoza",
+      "latitude": 45.793342,
+      "longitude": 16.004696
+    },
+    {
+      "name": "Mini",
+      "latitude": 45.165381,
+      "longitude": 18.002368
+    },
+    {
+      "name": "Mini pekara",
+      "latitude": 43.16203,
+      "longitude": 16.487347
+    },
+    {
+      "name": "Mivit",
+      "latitude": 44.98949,
+      "longitude": 14.900106
+    },
+    {
+      "name": "Mivit",
+      "latitude": 44.990228,
+      "longitude": 14.90135
+    },
+    {
+      "name": "Mivit",
+      "latitude": 45.265218,
+      "longitude": 15.226436
+    },
+    {
+      "name": "Mivit",
+      "latitude": 45.267234,
+      "longitude": 15.225746
+    },
+    {
+      "name": "Mivit pekara",
+      "latitude": 45.082429,
+      "longitude": 15.363757
+    },
+    {
+      "name": "Mivit pekara",
+      "latitude": 45.260075,
+      "longitude": 15.234998
+    },
+    {
+      "name": "Mivit Pekara",
+      "latitude": 45.30456,
+      "longitude": 14.713691
+    },
+    {
+      "name": "Mivit pekara",
+      "latitude": 45.394476,
+      "longitude": 14.799947
+    },
+    {
+      "name": "Miško",
+      "latitude": 45.849571,
+      "longitude": 16.165177
+    },
+    {
+      "name": "Miško",
+      "latitude": 45.863686,
+      "longitude": 16.153944
+    },
+    {
+      "name": "Mlin",
+      "latitude": 43.518907,
+      "longitude": 16.459737
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.476451,
+      "longitude": 16.368186
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.480854,
+      "longitude": 16.367415
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.482026,
+      "longitude": 16.36803
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.482917,
+      "longitude": 16.375146
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.485263,
+      "longitude": 16.374167
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.486207,
+      "longitude": 16.378594
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.487679,
+      "longitude": 16.372495
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.488985,
+      "longitude": 16.372717
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.491429,
+      "longitude": 16.37199
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.495761,
+      "longitude": 16.369946
+    },
+    {
+      "name": "Mlin i Pekare",
+      "latitude": 45.567412,
+      "longitude": 16.633484
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.948191,
+      "longitude": 16.606159
+    },
+    {
+      "name": "Mlin I Pekare Sisak",
+      "latitude": 45.912387,
+      "longitude": 16.51574
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 42.580911,
+      "longitude": 18.218279
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 42.640488,
+      "longitude": 18.109931
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 42.641401,
+      "longitude": 18.108114
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 42.656158,
+      "longitude": 18.088089
+    },
+    {
+      "name": "mlinar",
+      "latitude": 42.658087,
+      "longitude": 18.086875
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 42.958822,
+      "longitude": 17.13505
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.171915,
+      "longitude": 16.441307
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.184475,
+      "longitude": 16.597462
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.263007,
+      "longitude": 17.059246
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.294921,
+      "longitude": 17.018437
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.50915,
+      "longitude": 16.438315
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.50971,
+      "longitude": 16.439497
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.586843,
+      "longitude": 15.923266
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.701193,
+      "longitude": 16.636327
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.71297,
+      "longitude": 15.913015
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.732138,
+      "longitude": 15.893239
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.732766,
+      "longitude": 15.895883
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.733574,
+      "longitude": 15.900553
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 43.960963,
+      "longitude": 15.424125
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.081014,
+      "longitude": 15.187784
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.112652,
+      "longitude": 15.227977
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.11507,
+      "longitude": 15.225975
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.116047,
+      "longitude": 15.271581
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.116122,
+      "longitude": 15.230719
+    },
+    {
+      "name": "mlinar",
+      "latitude": 44.295344,
+      "longitude": 15.438451
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.298362,
+      "longitude": 15.085926
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.816325,
+      "longitude": 13.934218
+    },
+    {
+      "name": "mlinar",
+      "latitude": 44.817299,
+      "longitude": 13.934617
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.867848,
+      "longitude": 13.848258
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.868258,
+      "longitude": 13.846113
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.872595,
+      "longitude": 13.849257
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.872605,
+      "longitude": 13.846212
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.876923,
+      "longitude": 13.861059
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.926286,
+      "longitude": 13.80307
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 44.958607,
+      "longitude": 14.409619
+    },
+    {
+      "name": "mlinar",
+      "latitude": 44.969114,
+      "longitude": 14.751981
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.007292,
+      "longitude": 13.721462
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.018438,
+      "longitude": 13.714088
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.021765,
+      "longitude": 14.628367
+    },
+    {
+      "name": "mlinar",
+      "latitude": 45.026871,
+      "longitude": 14.576768
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.08107,
+      "longitude": 13.638285
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.082884,
+      "longitude": 13.634413
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.094903,
+      "longitude": 13.641728
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.123872,
+      "longitude": 14.528783
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.128018,
+      "longitude": 14.789857
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.149789,
+      "longitude": 13.603294
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.155406,
+      "longitude": 18.012535
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.157954,
+      "longitude": 14.719133
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.159519,
+      "longitude": 17.998787
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.166775,
+      "longitude": 18.018163
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.173513,
+      "longitude": 14.689854
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.173747,
+      "longitude": 14.693426
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.226576,
+      "longitude": 13.598961
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.22754,
+      "longitude": 13.595209
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.230369,
+      "longitude": 13.620881
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.240009,
+      "longitude": 13.936615
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.241566,
+      "longitude": 13.60088
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.312289,
+      "longitude": 14.286193
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.315939,
+      "longitude": 13.558936
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.316411,
+      "longitude": 13.560781
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.32598,
+      "longitude": 14.442727
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.326034,
+      "longitude": 14.445527
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.327516,
+      "longitude": 14.439838
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.327947,
+      "longitude": 14.437389
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.328462,
+      "longitude": 14.441736
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.328739,
+      "longitude": 14.437707
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.329637,
+      "longitude": 14.434544
+    },
+    {
+      "name": "mlinar",
+      "latitude": 45.331215,
+      "longitude": 14.457994
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.331317,
+      "longitude": 17.676797
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.331404,
+      "longitude": 14.432965
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.333394,
+      "longitude": 14.438472
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.33431,
+      "longitude": 14.507953
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.338485,
+      "longitude": 14.309371
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.340672,
+      "longitude": 16.088386
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.343505,
+      "longitude": 14.389495
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.351536,
+      "longitude": 19.002099
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.354535,
+      "longitude": 14.403311
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.363723,
+      "longitude": 14.325079
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.407937,
+      "longitude": 13.659032
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.433274,
+      "longitude": 13.52059
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.437652,
+      "longitude": 16.267578
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.450347,
+      "longitude": 13.517936
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.485603,
+      "longitude": 16.372203
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.48881,
+      "longitude": 15.546856
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.494821,
+      "longitude": 15.552387
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.551717,
+      "longitude": 18.699065
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.553051,
+      "longitude": 18.70449
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.553335,
+      "longitude": 18.679742
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.554,
+      "longitude": 18.683265
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.554596,
+      "longitude": 18.674725
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.555584,
+      "longitude": 18.693756
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.555765,
+      "longitude": 18.720098
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.557963,
+      "longitude": 18.710816
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.558505,
+      "longitude": 18.675777
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.558518,
+      "longitude": 18.677785
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.559554,
+      "longitude": 18.694983
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.559844,
+      "longitude": 18.678701
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.560003,
+      "longitude": 18.686828
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.561039,
+      "longitude": 18.679827
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.561494,
+      "longitude": 18.677324
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.562118,
+      "longitude": 18.676509
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.568236,
+      "longitude": 18.613807
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.658547,
+      "longitude": 18.417499
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.67344,
+      "longitude": 15.652576
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.76287,
+      "longitude": 16.007009
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.772188,
+      "longitude": 15.994813
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.772727,
+      "longitude": 15.96488
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.772906,
+      "longitude": 15.951707
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.773161,
+      "longitude": 15.976668
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.776579,
+      "longitude": 15.9962
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.779399,
+      "longitude": 15.99607
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.78055,
+      "longitude": 15.986748
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.785984,
+      "longitude": 15.952876
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.787915,
+      "longitude": 16.034952
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.788276,
+      "longitude": 15.948722
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.789557,
+      "longitude": 15.929051
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.790295,
+      "longitude": 15.93805
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.791114,
+      "longitude": 15.945501
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.791754,
+      "longitude": 15.940734
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.791777,
+      "longitude": 16.000893
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.792112,
+      "longitude": 15.949461
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.792402,
+      "longitude": 16.1537
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.792555,
+      "longitude": 15.914606
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.795382,
+      "longitude": 15.966033
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.79595,
+      "longitude": 15.900079
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.796825,
+      "longitude": 15.960199
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.796934,
+      "longitude": 15.76341
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.79746,
+      "longitude": 15.936704
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.798201,
+      "longitude": 15.974503
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.799393,
+      "longitude": 15.953922
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.7996,
+      "longitude": 15.962004
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.799646,
+      "longitude": 15.9744
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.800283,
+      "longitude": 16.001027
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.802013,
+      "longitude": 15.709715
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.802408,
+      "longitude": 16.00298
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.802779,
+      "longitude": 15.964249
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.803495,
+      "longitude": 16.019738
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.804314,
+      "longitude": 15.99318
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.804618,
+      "longitude": 15.977467
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.804646,
+      "longitude": 15.978697
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.805549,
+      "longitude": 15.954655
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.805884,
+      "longitude": 16.232421
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.806972,
+      "longitude": 15.942577
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.807421,
+      "longitude": 15.968099
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.807452,
+      "longitude": 15.895506
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.808446,
+      "longitude": 15.99568
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.80925,
+      "longitude": 15.988029
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.811499,
+      "longitude": 15.974164
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.811789,
+      "longitude": 15.98339
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.811892,
+      "longitude": 15.97654
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.812242,
+      "longitude": 15.989773
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.812363,
+      "longitude": 15.978694
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.812409,
+      "longitude": 15.964603
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.812944,
+      "longitude": 15.983657
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.813185,
+      "longitude": 15.96935
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.813259,
+      "longitude": 15.956223
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.813472,
+      "longitude": 15.906318
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.813835,
+      "longitude": 15.929896
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.814366,
+      "longitude": 16.008602
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.814678,
+      "longitude": 16.019312
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.814888,
+      "longitude": 15.836491
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.81501,
+      "longitude": 15.954127
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.816385,
+      "longitude": 16.0032
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.817017,
+      "longitude": 15.887156
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.817194,
+      "longitude": 15.996601
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.817642,
+      "longitude": 16.0063
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.819713,
+      "longitude": 15.938477
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.822045,
+      "longitude": 16.012103
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.826848,
+      "longitude": 16.110946
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.828406,
+      "longitude": 16.099937
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.831042,
+      "longitude": 16.056468
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.885277,
+      "longitude": 16.418716
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.896516,
+      "longitude": 16.841361
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.89916,
+      "longitude": 16.843737
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 45.902416,
+      "longitude": 16.845324
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 46.024452,
+      "longitude": 16.545661
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 46.163331,
+      "longitude": 16.830911
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 46.164013,
+      "longitude": 15.870563
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 46.297873,
+      "longitude": 16.328067
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 46.303075,
+      "longitude": 16.32889
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 46.307875,
+      "longitude": 16.33809
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 46.308406,
+      "longitude": 16.342612
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 46.37623,
+      "longitude": 16.386132
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 46.389689,
+      "longitude": 16.438492
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 46.390163,
+      "longitude": 16.436569
+    },
+    {
+      "name": "Mlinar",
+      "latitude": 46.391697,
+      "longitude": 16.434806
+    },
+    {
+      "name": "Mlinar Bakery",
+      "latitude": 43.260214,
+      "longitude": 16.653504
+    },
+    {
+      "name": "Mlinar Bakery",
+      "latitude": 45.033438,
+      "longitude": 14.158281
+    },
+    {
+      "name": "Mlinar caffe",
+      "latitude": 45.776054,
+      "longitude": 15.97219
+    },
+    {
+      "name": "Mlinovi",
+      "latitude": 45.855125,
+      "longitude": 15.956175
+    },
+    {
+      "name": "Mlinpek",
+      "latitude": 45.175041,
+      "longitude": 18.051214
+    },
+    {
+      "name": "Moj Dućan",
+      "latitude": 43.745735,
+      "longitude": 15.8068
+    },
+    {
+      "name": "Monika",
+      "latitude": 45.817681,
+      "longitude": 16.170088
+    },
+    {
+      "name": "Monika",
+      "latitude": 45.861004,
+      "longitude": 15.8033
+    },
+    {
+      "name": "Moćan",
+      "latitude": 43.759105,
+      "longitude": 15.777001
+    },
+    {
+      "name": "Moćan proizvod",
+      "latitude": 43.821941,
+      "longitude": 15.591805
+    },
+    {
+      "name": "Mr. Brown",
+      "latitude": 43.511955,
+      "longitude": 16.436411
+    },
+    {
+      "name": "Mrvica",
+      "latitude": 45.155739,
+      "longitude": 18.011903
+    },
+    {
+      "name": "Mrvica",
+      "latitude": 45.162732,
+      "longitude": 18.009853
+    },
+    {
+      "name": "Mrvisa",
+      "latitude": 45.080799,
+      "longitude": 13.639187
+    },
+    {
+      "name": "Muhadri",
+      "latitude": 45.338843,
+      "longitude": 16.977611
+    },
+    {
+      "name": "Murter",
+      "latitude": 43.822848,
+      "longitude": 15.592753
+    },
+    {
+      "name": "Nadija",
+      "latitude": 45.241487,
+      "longitude": 13.601209
+    },
+    {
+      "name": "Nart",
+      "latitude": 45.762792,
+      "longitude": 16.201771
+    },
+    {
+      "name": "Natalija",
+      "latitude": 42.625166,
+      "longitude": 18.201675
+    },
+    {
+      "name": "Nello",
+      "latitude": 44.826698,
+      "longitude": 13.87882
+    },
+    {
+      "name": "Nello",
+      "latitude": 45.082381,
+      "longitude": 13.635696
+    },
+    {
+      "name": "Nika",
+      "latitude": 45.464853,
+      "longitude": 15.499638
+    },
+    {
+      "name": "Nikl",
+      "latitude": 45.761599,
+      "longitude": 15.664051
+    },
+    {
+      "name": "Nikl",
+      "latitude": 45.802153,
+      "longitude": 15.710408
+    },
+    {
+      "name": "Nina",
+      "latitude": 45.81454,
+      "longitude": 15.845227
+    },
+    {
+      "name": "Ninaj",
+      "latitude": 44.743687,
+      "longitude": 15.707135
+    },
+    {
+      "name": "Njama zona",
+      "latitude": 45.872421,
+      "longitude": 15.826743
+    },
+    {
+      "name": "Nonstop",
+      "latitude": 43.547669,
+      "longitude": 16.422157
+    },
+    {
+      "name": "Nova Pekara Zagreb",
+      "latitude": 44.295894,
+      "longitude": 15.114645
+    },
+    {
+      "name": "Novi",
+      "latitude": 45.125827,
+      "longitude": 14.790585
+    },
+    {
+      "name": "Novi Jelkovec",
+      "latitude": 45.810039,
+      "longitude": 16.103232
+    },
+    {
+      "name": "Novi Jelkovec 2",
+      "latitude": 45.811831,
+      "longitude": 16.106301
+    },
+    {
+      "name": "Novi rekord",
+      "latitude": 45.560279,
+      "longitude": 18.668448
+    },
+    {
+      "name": "Noć i dan",
+      "latitude": 45.15737,
+      "longitude": 18.015216
+    },
+    {
+      "name": "Noć i dan",
+      "latitude": 45.159878,
+      "longitude": 18.0203
+    },
+    {
+      "name": "Noć i dan",
+      "latitude": 45.797174,
+      "longitude": 15.775638
+    },
+    {
+      "name": "Noć i Dan",
+      "latitude": 45.798116,
+      "longitude": 15.722174
+    },
+    {
+      "name": "Noć i dan",
+      "latitude": 45.803095,
+      "longitude": 15.710457
+    },
+    {
+      "name": "Noć i dan",
+      "latitude": 45.838008,
+      "longitude": 15.687717
+    },
+    {
+      "name": "Obala",
+      "latitude": 44.147082,
+      "longitude": 15.209137
+    },
+    {
+      "name": "Odra",
+      "latitude": 45.498775,
+      "longitude": 16.369488
+    },
+    {
+      "name": "Odra",
+      "latitude": 45.50833,
+      "longitude": 16.301495
+    },
+    {
+      "name": "Ojdanić",
+      "latitude": 43.5581,
+      "longitude": 16.338975
+    },
+    {
+      "name": "Olimp",
+      "latitude": 45.552291,
+      "longitude": 18.730052
+    },
+    {
+      "name": "Omlina",
+      "latitude": 45.091096,
+      "longitude": 14.123385
+    },
+    {
+      "name": "Omlinar",
+      "latitude": 45.17756,
+      "longitude": 13.607858
+    },
+    {
+      "name": "Oranice",
+      "latitude": 45.798077,
+      "longitude": 15.905173
+    },
+    {
+      "name": "P. O. Mario Pepe",
+      "latitude": 43.50771,
+      "longitude": 16.46509
+    },
+    {
+      "name": "Pagi",
+      "latitude": 45.36823,
+      "longitude": 16.566624
+    },
+    {
+      "name": "Palma",
+      "latitude": 43.357577,
+      "longitude": 16.948631
+    },
+    {
+      "name": "Palma",
+      "latitude": 43.358572,
+      "longitude": 16.953966
+    },
+    {
+      "name": "Palma",
+      "latitude": 43.359346,
+      "longitude": 16.949817
+    },
+    {
+      "name": "Palma",
+      "latitude": 43.359405,
+      "longitude": 16.94555
+    },
+    {
+      "name": "Palma",
+      "latitude": 43.360463,
+      "longitude": 16.945013
+    },
+    {
+      "name": "Palma",
+      "latitude": 43.368445,
+      "longitude": 16.930432
+    },
+    {
+      "name": "Pan Pek",
+      "latitude": 43.799516,
+      "longitude": 15.641352
+    },
+    {
+      "name": "Pan Pek",
+      "latitude": 44.116285,
+      "longitude": 15.224608
+    },
+    {
+      "name": "Pan pek",
+      "latitude": 45.714981,
+      "longitude": 16.071522
+    },
+    {
+      "name": "Pan Pek",
+      "latitude": 45.772939,
+      "longitude": 15.944582
+    },
+    {
+      "name": "Pan Pek",
+      "latitude": 45.799729,
+      "longitude": 15.973568
+    },
+    {
+      "name": "Pan pek",
+      "latitude": 45.806171,
+      "longitude": 15.967082
+    },
+    {
+      "name": "Pan pek",
+      "latitude": 45.810979,
+      "longitude": 15.997866
+    },
+    {
+      "name": "Pan Pek",
+      "latitude": 45.822316,
+      "longitude": 16.012039
+    },
+    {
+      "name": "Pan-Pek",
+      "latitude": 43.295656,
+      "longitude": 17.015511
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 44.297576,
+      "longitude": 15.08767
+    },
+    {
+      "name": "pan-pek",
+      "latitude": 44.556102,
+      "longitude": 14.882957
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 44.925681,
+      "longitude": 13.8028
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.311765,
+      "longitude": 18.406988
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.327091,
+      "longitude": 14.441768
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.330997,
+      "longitude": 14.509253
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.464779,
+      "longitude": 13.515815
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.559035,
+      "longitude": 18.682753
+    },
+    {
+      "name": "Pan-Pek",
+      "latitude": 45.712496,
+      "longitude": 16.067011
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.713851,
+      "longitude": 16.075162
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.765591,
+      "longitude": 15.992933
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.771439,
+      "longitude": 15.994514
+    },
+    {
+      "name": "Pan-Pek",
+      "latitude": 45.786099,
+      "longitude": 15.950866
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.789562,
+      "longitude": 15.928945
+    },
+    {
+      "name": "Pan-Pek",
+      "latitude": 45.790333,
+      "longitude": 15.913089
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.792829,
+      "longitude": 15.912622
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.792975,
+      "longitude": 15.969528
+    },
+    {
+      "name": "Pan-Pek",
+      "latitude": 45.795924,
+      "longitude": 15.970297
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.798035,
+      "longitude": 15.906083
+    },
+    {
+      "name": "Pan-Pek",
+      "latitude": 45.799656,
+      "longitude": 15.952805
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.800965,
+      "longitude": 16.009352
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.802923,
+      "longitude": 16.000479
+    },
+    {
+      "name": "Pan-Pek",
+      "latitude": 45.803592,
+      "longitude": 15.942769
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.80417,
+      "longitude": 15.977489
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.804666,
+      "longitude": 15.997396
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.804687,
+      "longitude": 15.978876
+    },
+    {
+      "name": "pan-pek",
+      "latitude": 45.807358,
+      "longitude": 15.85501
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.807636,
+      "longitude": 15.986152
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.809441,
+      "longitude": 15.988319
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.810283,
+      "longitude": 15.971525
+    },
+    {
+      "name": "Pan-Pek",
+      "latitude": 45.812691,
+      "longitude": 15.977166
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.81302,
+      "longitude": 15.996756
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.813315,
+      "longitude": 15.968267
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.815209,
+      "longitude": 15.934812
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.816705,
+      "longitude": 15.872746
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.825478,
+      "longitude": 16.109831
+    },
+    {
+      "name": "Pan-pek",
+      "latitude": 45.827815,
+      "longitude": 15.978916
+    },
+    {
+      "name": "Panera",
+      "latitude": 45.558385,
+      "longitude": 18.679973
+    },
+    {
+      "name": "Panera",
+      "latitude": 45.560349,
+      "longitude": 18.662173
+    },
+    {
+      "name": "Panificio",
+      "latitude": 44.968738,
+      "longitude": 14.750972
+    },
+    {
+      "name": "Panino",
+      "latitude": 43.172525,
+      "longitude": 16.443788
+    },
+    {
+      "name": "Panis",
+      "latitude": 43.508513,
+      "longitude": 16.477541
+    },
+    {
+      "name": "Panis",
+      "latitude": 43.513292,
+      "longitude": 16.43604
+    },
+    {
+      "name": "Panis",
+      "latitude": 43.51407,
+      "longitude": 16.454582
+    },
+    {
+      "name": "Panis",
+      "latitude": 43.51662,
+      "longitude": 16.472892
+    },
+    {
+      "name": "Panis",
+      "latitude": 44.292121,
+      "longitude": 15.119876
+    },
+    {
+      "name": "Panis",
+      "latitude": 46.512573,
+      "longitude": 16.438199
+    },
+    {
+      "name": "Panpek",
+      "latitude": 45.814697,
+      "longitude": 16.019383
+    },
+    {
+      "name": "PanPek",
+      "latitude": 45.817656,
+      "longitude": 16.007445
+    },
+    {
+      "name": "Paradise",
+      "latitude": 45.775028,
+      "longitude": 15.955389
+    },
+    {
+      "name": "Patrik",
+      "latitude": 45.777147,
+      "longitude": 15.996611
+    },
+    {
+      "name": "Peco",
+      "latitude": 43.82404,
+      "longitude": 15.59421
+    },
+    {
+      "name": "Pecolaj",
+      "latitude": 45.345876,
+      "longitude": 16.972632
+    },
+    {
+      "name": "Pecolaj",
+      "latitude": 45.480637,
+      "longitude": 16.783421
+    },
+    {
+      "name": "Pecolaj",
+      "latitude": 45.589582,
+      "longitude": 17.225777
+    },
+    {
+      "name": "pecollaj",
+      "latitude": 45.269726,
+      "longitude": 16.91057
+    },
+    {
+      "name": "Pek - Snack",
+      "latitude": 43.497623,
+      "longitude": 16.260383
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 43.732453,
+      "longitude": 15.896058
+    },
+    {
+      "name": "Pek-snack",
+      "latitude": 43.73411,
+      "longitude": 15.895092
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 44.868676,
+      "longitude": 13.868197
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 45.332237,
+      "longitude": 17.676696
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 45.486049,
+      "longitude": 16.371354
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 45.711867,
+      "longitude": 16.066543
+    },
+    {
+      "name": "Pek-snack",
+      "latitude": 45.790849,
+      "longitude": 15.91323
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 45.812812,
+      "longitude": 15.984946
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 46.389879,
+      "longitude": 16.438857
+    },
+    {
+      "name": "Peka",
+      "latitude": 43.548046,
+      "longitude": 16.333857
+    },
+    {
+      "name": "Peka",
+      "latitude": 45.800192,
+      "longitude": 16.118709
+    },
+    {
+      "name": "Pekana Viktor",
+      "latitude": 44.114509,
+      "longitude": 15.228291
+    },
+    {
+      "name": "Pekara",
+      "latitude": 42.64464,
+      "longitude": 18.105316
+    },
+    {
+      "name": "Pekara",
+      "latitude": 42.647705,
+      "longitude": 18.099951
+    },
+    {
+      "name": "Pekara",
+      "latitude": 43.017413,
+      "longitude": 17.562007
+    },
+    {
+      "name": "Pekara",
+      "latitude": 43.183985,
+      "longitude": 16.596431
+    },
+    {
+      "name": "Pekara",
+      "latitude": 43.261426,
+      "longitude": 16.655061
+    },
+    {
+      "name": "Pekara",
+      "latitude": 43.271787,
+      "longitude": 17.050379
+    },
+    {
+      "name": "Pekara",
+      "latitude": 43.43072,
+      "longitude": 17.195283
+    },
+    {
+      "name": "Pekara",
+      "latitude": 43.487209,
+      "longitude": 16.109671
+    },
+    {
+      "name": "Pekara",
+      "latitude": 43.512735,
+      "longitude": 16.111722
+    },
+    {
+      "name": "Pekara",
+      "latitude": 43.532982,
+      "longitude": 15.966512
+    },
+    {
+      "name": "Pekara",
+      "latitude": 43.878123,
+      "longitude": 15.544499
+    },
+    {
+      "name": "Pekara",
+      "latitude": 43.906954,
+      "longitude": 15.509011
+    },
+    {
+      "name": "Pekara",
+      "latitude": 43.910438,
+      "longitude": 15.507644
+    },
+    {
+      "name": "Pekara",
+      "latitude": 44.033087,
+      "longitude": 15.246358
+    },
+    {
+      "name": "Pekara",
+      "latitude": 44.044218,
+      "longitude": 15.310128
+    },
+    {
+      "name": "Pekara",
+      "latitude": 44.045332,
+      "longitude": 15.311189
+    },
+    {
+      "name": "Pekara",
+      "latitude": 44.374268,
+      "longitude": 14.696947
+    },
+    {
+      "name": "PEKARA",
+      "latitude": 44.531784,
+      "longitude": 15.765952
+    },
+    {
+      "name": "Pekara",
+      "latitude": 45.14678,
+      "longitude": 14.666483
+    },
+    {
+      "name": "Pekara",
+      "latitude": 45.195918,
+      "longitude": 17.642062
+    },
+    {
+      "name": "Pekara",
+      "latitude": 45.426959,
+      "longitude": 15.606057
+    },
+    {
+      "name": "Pekara",
+      "latitude": 45.52361,
+      "longitude": 17.977515
+    },
+    {
+      "name": "Pekara",
+      "latitude": 45.734956,
+      "longitude": 15.789847
+    },
+    {
+      "name": "pekara",
+      "latitude": 45.738791,
+      "longitude": 15.79761
+    },
+    {
+      "name": "Pekara",
+      "latitude": 45.845366,
+      "longitude": 15.833181
+    },
+    {
+      "name": "Pekara",
+      "latitude": 46.16523,
+      "longitude": 16.334645
+    },
+    {
+      "name": "Pekara",
+      "latitude": 46.208845,
+      "longitude": 16.420064
+    },
+    {
+      "name": "Pekara",
+      "latitude": 46.297714,
+      "longitude": 16.336703
+    },
+    {
+      "name": "pekara",
+      "latitude": 46.302581,
+      "longitude": 16.333414
+    },
+    {
+      "name": "Pekara",
+      "latitude": 46.491807,
+      "longitude": 16.399293
+    },
+    {
+      "name": "Pekara \"ALEM-PEK\"",
+      "latitude": 44.976699,
+      "longitude": 15.784234
+    },
+    {
+      "name": "Pekara \"Klasje\"",
+      "latitude": 46.207305,
+      "longitude": 16.044117
+    },
+    {
+      "name": "Pekara \"Kraljica Mira\"",
+      "latitude": 43.18387,
+      "longitude": 16.599086
+    },
+    {
+      "name": "Pekara \"Monika\"",
+      "latitude": 45.462284,
+      "longitude": 15.568906
+    },
+    {
+      "name": "Pekara \"Tribunj\"",
+      "latitude": 43.757264,
+      "longitude": 15.741685
+    },
+    {
+      "name": "Pekara Adria",
+      "latitude": 45.333469,
+      "longitude": 14.430319
+    },
+    {
+      "name": "Pekara Adria",
+      "latitude": 45.347117,
+      "longitude": 14.378158
+    },
+    {
+      "name": "Pekara Andrijana",
+      "latitude": 45.89289,
+      "longitude": 16.83796
+    },
+    {
+      "name": "Pekara Andrijana",
+      "latitude": 45.911537,
+      "longitude": 16.866905
+    },
+    {
+      "name": "Pekara Anita",
+      "latitude": 43.502474,
+      "longitude": 16.534917
+    },
+    {
+      "name": "Pekara Anita",
+      "latitude": 43.550574,
+      "longitude": 16.431396
+    },
+    {
+      "name": "Pekara Antonia",
+      "latitude": 42.983235,
+      "longitude": 17.100691
+    },
+    {
+      "name": "Pekara Antunović",
+      "latitude": 42.975466,
+      "longitude": 17.176576
+    },
+    {
+      "name": "Pekara Antunović",
+      "latitude": 42.976943,
+      "longitude": 17.18751
+    },
+    {
+      "name": "Pekara Anđel",
+      "latitude": 45.307659,
+      "longitude": 18.405599
+    },
+    {
+      "name": "Pekara Anđel",
+      "latitude": 45.309143,
+      "longitude": 18.417739
+    },
+    {
+      "name": "Pekara Arena",
+      "latitude": 43.518653,
+      "longitude": 16.231381
+    },
+    {
+      "name": "Pekara Ariana",
+      "latitude": 45.901536,
+      "longitude": 16.842468
+    },
+    {
+      "name": "Pekara Babic",
+      "latitude": 43.553638,
+      "longitude": 16.351309
+    },
+    {
+      "name": "Pekara Babić",
+      "latitude": 43.513452,
+      "longitude": 16.451082
+    },
+    {
+      "name": "Pekara Babić",
+      "latitude": 43.518942,
+      "longitude": 16.463518
+    },
+    {
+      "name": "Pekara Bakery",
+      "latitude": 43.907643,
+      "longitude": 15.508244
+    },
+    {
+      "name": "Pekara Bakery",
+      "latitude": 45.093663,
+      "longitude": 13.642457
+    },
+    {
+      "name": "Pekara Bakery",
+      "latitude": 45.155641,
+      "longitude": 14.59742
+    },
+    {
+      "name": "Pekara Barba Tony",
+      "latitude": 45.164373,
+      "longitude": 14.541951
+    },
+    {
+      "name": "pekara barbat",
+      "latitude": 44.739582,
+      "longitude": 14.800719
+    },
+    {
+      "name": "Pekara Betina",
+      "latitude": 43.822856,
+      "longitude": 15.603716
+    },
+    {
+      "name": "Pekara Bešlić",
+      "latitude": 43.485288,
+      "longitude": 16.549941
+    },
+    {
+      "name": "Pekara Bili Brig",
+      "latitude": 44.106365,
+      "longitude": 15.24113
+    },
+    {
+      "name": "Pekara Bilogora",
+      "latitude": 45.895415,
+      "longitude": 16.84298
+    },
+    {
+      "name": "Pekara Bol",
+      "latitude": 43.261835,
+      "longitude": 16.656798
+    },
+    {
+      "name": "Pekara Dan i noć",
+      "latitude": 43.735232,
+      "longitude": 15.893136
+    },
+    {
+      "name": "Pekara Davida",
+      "latitude": 44.10992,
+      "longitude": 15.250022
+    },
+    {
+      "name": "Pekara Domšić",
+      "latitude": 45.445937,
+      "longitude": 15.502832
+    },
+    {
+      "name": "Pekara Donji grad",
+      "latitude": 45.557403,
+      "longitude": 18.7195
+    },
+    {
+      "name": "Pekara Dora",
+      "latitude": 45.35628,
+      "longitude": 18.994647
+    },
+    {
+      "name": "Pekara Drenovci",
+      "latitude": 44.920104,
+      "longitude": 18.91209
+    },
+    {
+      "name": "Pekara Dubec",
+      "latitude": 45.829891,
+      "longitude": 16.08031
+    },
+    {
+      "name": "Pekara Dva Goluba",
+      "latitude": 45.60318,
+      "longitude": 18.743797
+    },
+    {
+      "name": "Pekara Edi",
+      "latitude": 45.437661,
+      "longitude": 16.266981
+    },
+    {
+      "name": "Pekara Edi",
+      "latitude": 46.3152,
+      "longitude": 16.325757
+    },
+    {
+      "name": "Pekara Elita",
+      "latitude": 43.587938,
+      "longitude": 15.927813
+    },
+    {
+      "name": "Pekara Elita",
+      "latitude": 43.678222,
+      "longitude": 15.920714
+    },
+    {
+      "name": "Pekara Enis d.o.o",
+      "latitude": 45.16523,
+      "longitude": 19.15078
+    },
+    {
+      "name": "Pekara Europa",
+      "latitude": 45.114011,
+      "longitude": 15.585499
+    },
+    {
+      "name": "Pekara Feral",
+      "latitude": 45.021312,
+      "longitude": 14.627944
+    },
+    {
+      "name": "Pekara Friško",
+      "latitude": 45.709258,
+      "longitude": 16.066709
+    },
+    {
+      "name": "Pekara Friško Šenkovec",
+      "latitude": 46.403502,
+      "longitude": 16.421652
+    },
+    {
+      "name": "Pekara Frumentum",
+      "latitude": 43.518892,
+      "longitude": 16.230333
+    },
+    {
+      "name": "Pekara Galeb",
+      "latitude": 45.901928,
+      "longitude": 16.845391
+    },
+    {
+      "name": "Pekara Galeta",
+      "latitude": 42.675123,
+      "longitude": 18.111655
+    },
+    {
+      "name": "Pekara Galeta",
+      "latitude": 42.676309,
+      "longitude": 18.107203
+    },
+    {
+      "name": "Pekara Glavinić",
+      "latitude": 42.660664,
+      "longitude": 18.085682
+    },
+    {
+      "name": "Pekara i roštilj Luigi",
+      "latitude": 43.929977,
+      "longitude": 15.451549
+    },
+    {
+      "name": "Pekara Ilirija",
+      "latitude": 45.023972,
+      "longitude": 14.569916
+    },
+    {
+      "name": "Pekara Ilirija",
+      "latitude": 45.044081,
+      "longitude": 14.613227
+    },
+    {
+      "name": "Pekara Ilirija",
+      "latitude": 45.124217,
+      "longitude": 14.528538
+    },
+    {
+      "name": "Pekara Ilrija",
+      "latitude": 45.049985,
+      "longitude": 14.529538
+    },
+    {
+      "name": "Pekara IN",
+      "latitude": 46.378623,
+      "longitude": 16.39263
+    },
+    {
+      "name": "Pekara IN Pek",
+      "latitude": 45.768853,
+      "longitude": 15.803851
+    },
+    {
+      "name": "Pekara Istra",
+      "latitude": 44.852195,
+      "longitude": 13.851432
+    },
+    {
+      "name": "Pekara Ivani",
+      "latitude": 45.077412,
+      "longitude": 13.644642
+    },
+    {
+      "name": "Pekara Jadran",
+      "latitude": 43.195294,
+      "longitude": 17.140235
+    },
+    {
+      "name": "Pekara Jadran",
+      "latitude": 43.217909,
+      "longitude": 17.108673
+    },
+    {
+      "name": "Pekara Jadran",
+      "latitude": 43.240444,
+      "longitude": 17.076798
+    },
+    {
+      "name": "Pekara Jadran",
+      "latitude": 43.241751,
+      "longitude": 17.076227
+    },
+    {
+      "name": "Pekara Jadran",
+      "latitude": 43.24339,
+      "longitude": 17.073647
+    },
+    {
+      "name": "Pekara Jadran",
+      "latitude": 45.321001,
+      "longitude": 14.477075
+    },
+    {
+      "name": "Pekara Jarun",
+      "latitude": 45.789585,
+      "longitude": 15.929412
+    },
+    {
+      "name": "Pekara Jarunka",
+      "latitude": 45.771995,
+      "longitude": 15.994325
+    },
+    {
+      "name": "Pekara Jozo",
+      "latitude": 45.830104,
+      "longitude": 17.384033
+    },
+    {
+      "name": "Pekara Kalinić",
+      "latitude": 46.153548,
+      "longitude": 16.966731
+    },
+    {
+      "name": "Pekara Kamen",
+      "latitude": 43.505801,
+      "longitude": 16.526663
+    },
+    {
+      "name": "Pekara Klas",
+      "latitude": 45.702784,
+      "longitude": 17.175312
+    },
+    {
+      "name": "Pekara Klas",
+      "latitude": 45.75216,
+      "longitude": 17.049595
+    },
+    {
+      "name": "Pekara Klas",
+      "latitude": 45.899372,
+      "longitude": 16.84543
+    },
+    {
+      "name": "Pekara Klas",
+      "latitude": 45.900872,
+      "longitude": 16.838413
+    },
+    {
+      "name": "Pekara Klas Trgovina",
+      "latitude": 46.298867,
+      "longitude": 16.403533
+    },
+    {
+      "name": "Pekara Klasje",
+      "latitude": 45.832706,
+      "longitude": 15.903199
+    },
+    {
+      "name": "Pekara Kod Šime",
+      "latitude": 44.137609,
+      "longitude": 15.222386
+    },
+    {
+      "name": "Pekara Kolgjeraj",
+      "latitude": 43.044157,
+      "longitude": 16.089357
+    },
+    {
+      "name": "Pekara Kolđeraj",
+      "latitude": 43.058143,
+      "longitude": 16.19872
+    },
+    {
+      "name": "Pekara Končanica",
+      "latitude": 45.637741,
+      "longitude": 17.164679
+    },
+    {
+      "name": "Pekara Kraljica mira",
+      "latitude": 43.163004,
+      "longitude": 16.702699
+    },
+    {
+      "name": "Pekara Kuraž",
+      "latitude": 45.812942,
+      "longitude": 15.99579
+    },
+    {
+      "name": "Pekara Lapovci",
+      "latitude": 45.295484,
+      "longitude": 18.810771
+    },
+    {
+      "name": "Pekara Laura",
+      "latitude": 43.817136,
+      "longitude": 15.668184
+    },
+    {
+      "name": "Pekara Lea",
+      "latitude": 43.27489,
+      "longitude": 17.050237
+    },
+    {
+      "name": "Pekara Lekaj",
+      "latitude": 45.484608,
+      "longitude": 15.546058
+    },
+    {
+      "name": "Pekara Lipa",
+      "latitude": 45.543729,
+      "longitude": 18.718565
+    },
+    {
+      "name": "Pekara Lipa",
+      "latitude": 45.829251,
+      "longitude": 17.386211
+    },
+    {
+      "name": "Pekara Luigi",
+      "latitude": 45.157509,
+      "longitude": 14.719606
+    },
+    {
+      "name": "Pekara Luščić",
+      "latitude": 45.483361,
+      "longitude": 15.546801
+    },
+    {
+      "name": "Pekara Mal-pek",
+      "latitude": 45.823925,
+      "longitude": 16.121805
+    },
+    {
+      "name": "Pekara Marinići",
+      "latitude": 45.362945,
+      "longitude": 14.392789
+    },
+    {
+      "name": "Pekara Marko",
+      "latitude": 45.34194,
+      "longitude": 14.414803
+    },
+    {
+      "name": "Pekara Marković",
+      "latitude": 45.663693,
+      "longitude": 17.430899
+    },
+    {
+      "name": "Pekara Martin",
+      "latitude": 45.90632,
+      "longitude": 16.848664
+    },
+    {
+      "name": "Pekara Martin",
+      "latitude": 46.324862,
+      "longitude": 16.293871
+    },
+    {
+      "name": "Pekara Martin 1",
+      "latitude": 45.905716,
+      "longitude": 16.858277
+    },
+    {
+      "name": "Pekara Mateljan",
+      "latitude": 43.127829,
+      "longitude": 16.639547
+    },
+    {
+      "name": "Pekara Matić",
+      "latitude": 45.154709,
+      "longitude": 18.403256
+    },
+    {
+      "name": "Pekara Mikes",
+      "latitude": 45.804778,
+      "longitude": 17.50706
+    },
+    {
+      "name": "Pekara Mikes",
+      "latitude": 45.825649,
+      "longitude": 17.39985
+    },
+    {
+      "name": "Pekara Mivit",
+      "latitude": 45.188304,
+      "longitude": 15.284705
+    },
+    {
+      "name": "Pekara Mivit",
+      "latitude": 45.26404,
+      "longitude": 15.220801
+    },
+    {
+      "name": "Pekara Mladost",
+      "latitude": 45.824994,
+      "longitude": 15.985202
+    },
+    {
+      "name": "Pekara Mrvica",
+      "latitude": 45.32712,
+      "longitude": 15.694582
+    },
+    {
+      "name": "Pekara Mrvica",
+      "latitude": 45.337603,
+      "longitude": 15.609805
+    },
+    {
+      "name": "Pekara Nikolac",
+      "latitude": 43.024027,
+      "longitude": 17.55181
+    },
+    {
+      "name": "Pekara Nin",
+      "latitude": 44.240907,
+      "longitude": 15.179951
+    },
+    {
+      "name": "Pekara Ninaj",
+      "latitude": 44.992101,
+      "longitude": 15.648172
+    },
+    {
+      "name": "Pekara Ozalj",
+      "latitude": 45.612146,
+      "longitude": 15.479176
+    },
+    {
+      "name": "Pekara Oškera",
+      "latitude": 45.945755,
+      "longitude": 16.730687
+    },
+    {
+      "name": "Pekara Pakostane",
+      "latitude": 43.889095,
+      "longitude": 15.539963
+    },
+    {
+      "name": "Pekara Pakoštane",
+      "latitude": 43.907073,
+      "longitude": 15.503191
+    },
+    {
+      "name": "PEKARA Palma",
+      "latitude": 43.367393,
+      "longitude": 16.931245
+    },
+    {
+      "name": "Pekara Panificio Fažana",
+      "latitude": 44.927076,
+      "longitude": 13.803864
+    },
+    {
+      "name": "Pekara Panis",
+      "latitude": 43.443614,
+      "longitude": 16.683855
+    },
+    {
+      "name": "Pekara Paris",
+      "latitude": 43.183951,
+      "longitude": 16.598749
+    },
+    {
+      "name": "Pekara Park",
+      "latitude": 45.114757,
+      "longitude": 15.58552
+    },
+    {
+      "name": "Pekara Paštrik 2",
+      "latitude": 45.144361,
+      "longitude": 18.705505
+    },
+    {
+      "name": "Pekara Pecolaj",
+      "latitude": 45.699858,
+      "longitude": 17.707607
+    },
+    {
+      "name": "Pekara Pecolaj",
+      "latitude": 45.758017,
+      "longitude": 17.576902
+    },
+    {
+      "name": "Pekara Prenki",
+      "latitude": 45.88996,
+      "longitude": 16.824087
+    },
+    {
+      "name": "Pekara Primorka",
+      "latitude": 45.181902,
+      "longitude": 14.68137
+    },
+    {
+      "name": "pekara Prvić",
+      "latitude": 43.732701,
+      "longitude": 15.787547
+    },
+    {
+      "name": "Pekara Rajić",
+      "latitude": 45.889507,
+      "longitude": 16.856587
+    },
+    {
+      "name": "Pekara Rajić",
+      "latitude": 45.900452,
+      "longitude": 16.843561
+    },
+    {
+      "name": "Pekara Rakovac",
+      "latitude": 45.484493,
+      "longitude": 15.556947
+    },
+    {
+      "name": "Pekara Ražanac",
+      "latitude": 44.282853,
+      "longitude": 15.347541
+    },
+    {
+      "name": "Pekara Reful",
+      "latitude": 43.545294,
+      "longitude": 16.463461
+    },
+    {
+      "name": "Pekara Repušnica",
+      "latitude": 45.495265,
+      "longitude": 16.730466
+    },
+    {
+      "name": "Pekara Rita",
+      "latitude": 43.507324,
+      "longitude": 16.465809
+    },
+    {
+      "name": "Pekara Robi",
+      "latitude": 45.932162,
+      "longitude": 16.930803
+    },
+    {
+      "name": "Pekara Royal",
+      "latitude": 45.301733,
+      "longitude": 13.625452
+    },
+    {
+      "name": "Pekara Savski most",
+      "latitude": 45.785728,
+      "longitude": 15.952677
+    },
+    {
+      "name": "Pekara Sebastian",
+      "latitude": 43.489021,
+      "longitude": 16.544359
+    },
+    {
+      "name": "Pekara Seget Vranjica",
+      "latitude": 43.514262,
+      "longitude": 16.18762
+    },
+    {
+      "name": "Pekara segotiči",
+      "latitude": 44.93741,
+      "longitude": 13.999802
+    },
+    {
+      "name": "Pekara Sezam",
+      "latitude": 44.659041,
+      "longitude": 14.39751
+    },
+    {
+      "name": "Pekara Sirač",
+      "latitude": 45.527699,
+      "longitude": 17.253818
+    },
+    {
+      "name": "Pekara Solin",
+      "latitude": 43.511447,
+      "longitude": 16.432073
+    },
+    {
+      "name": "Pekara Solin",
+      "latitude": 43.512911,
+      "longitude": 16.434265
+    },
+    {
+      "name": "Pekara Solin",
+      "latitude": 43.525971,
+      "longitude": 16.483175
+    },
+    {
+      "name": "Pekara Split",
+      "latitude": 43.513746,
+      "longitude": 16.427303
+    },
+    {
+      "name": "Pekara Stella",
+      "latitude": 45.318856,
+      "longitude": 13.569204
+    },
+    {
+      "name": "Pekara Supetar",
+      "latitude": 43.384055,
+      "longitude": 16.554547
+    },
+    {
+      "name": "Pekara Sutivan",
+      "latitude": 43.385441,
+      "longitude": 16.478248
+    },
+    {
+      "name": "Pekara Sv. Mateja",
+      "latitude": 44.534642,
+      "longitude": 14.472347
+    },
+    {
+      "name": "Pekara Sveti Kuzam",
+      "latitude": 45.312258,
+      "longitude": 14.523776
+    },
+    {
+      "name": "Pekara Tina",
+      "latitude": 45.335327,
+      "longitude": 14.426403
+    },
+    {
+      "name": "Pekara tina",
+      "latitude": 45.371162,
+      "longitude": 14.386514
+    },
+    {
+      "name": "Pekara Tolić",
+      "latitude": 45.162261,
+      "longitude": 18.06651
+    },
+    {
+      "name": "Pekara Trnsko",
+      "latitude": 45.771978,
+      "longitude": 15.964162
+    },
+    {
+      "name": "Pekara Tromilja",
+      "latitude": 43.778726,
+      "longitude": 15.963983
+    },
+    {
+      "name": "Pekara Urbarija",
+      "latitude": 45.490648,
+      "longitude": 18.095287
+    },
+    {
+      "name": "Pekara Valentina",
+      "latitude": 43.821304,
+      "longitude": 15.92187
+    },
+    {
+      "name": "Pekara Veli",
+      "latitude": 44.30754,
+      "longitude": 15.281227
+    },
+    {
+      "name": "Pekara Veronika",
+      "latitude": 43.260654,
+      "longitude": 16.654298
+    },
+    {
+      "name": "Pekara VG",
+      "latitude": 45.710841,
+      "longitude": 16.076566
+    },
+    {
+      "name": "Pekara Victoria",
+      "latitude": 45.490575,
+      "longitude": 18.093816
+    },
+    {
+      "name": "Pekara Viktor",
+      "latitude": 44.240424,
+      "longitude": 15.14659
+    },
+    {
+      "name": "Pekara Vilson",
+      "latitude": 44.823991,
+      "longitude": 13.853308
+    },
+    {
+      "name": "Pekara Vilson",
+      "latitude": 44.86015,
+      "longitude": 13.814434
+    },
+    {
+      "name": "Pekara Vilson",
+      "latitude": 44.877047,
+      "longitude": 13.854747
+    },
+    {
+      "name": "Pekara Vita",
+      "latitude": 43.293275,
+      "longitude": 17.020044
+    },
+    {
+      "name": "Pekara Vojak 2",
+      "latitude": 45.323763,
+      "longitude": 14.466647
+    },
+    {
+      "name": "Pekara Vrbnik",
+      "latitude": 44.970196,
+      "longitude": 14.751769
+    },
+    {
+      "name": "Pekara Vrbnik",
+      "latitude": 45.019052,
+      "longitude": 14.568352
+    },
+    {
+      "name": "Pekara Vrbnik",
+      "latitude": 45.021586,
+      "longitude": 14.62886
+    },
+    {
+      "name": "Pekara Vrbnik",
+      "latitude": 45.075709,
+      "longitude": 14.674761
+    },
+    {
+      "name": "Pekara Vrbnik",
+      "latitude": 45.122018,
+      "longitude": 14.494006
+    },
+    {
+      "name": "Pekara Vrbnik",
+      "latitude": 45.156395,
+      "longitude": 14.620219
+    },
+    {
+      "name": "Pekara Vrbnik",
+      "latitude": 45.306049,
+      "longitude": 14.535125
+    },
+    {
+      "name": "PEKARA VRBNIK - prodavaonica Rijeka",
+      "latitude": 45.325419,
+      "longitude": 14.444826
+    },
+    {
+      "name": "Pekara Vribnik",
+      "latitude": 45.164116,
+      "longitude": 14.541735
+    },
+    {
+      "name": "Pekara Vuljanić",
+      "latitude": 45.484755,
+      "longitude": 15.556551
+    },
+    {
+      "name": "Pekara Zaboky",
+      "latitude": 46.025104,
+      "longitude": 15.906456
+    },
+    {
+      "name": "Pekara Zagorje",
+      "latitude": 46.091677,
+      "longitude": 15.838036
+    },
+    {
+      "name": "Pekara Zlatar",
+      "latitude": 46.089171,
+      "longitude": 16.078205
+    },
+    {
+      "name": "Pekara Zlinje",
+      "latitude": 42.960639,
+      "longitude": 17.134854
+    },
+    {
+      "name": "PEKARA ČAKOVEC",
+      "latitude": 46.401128,
+      "longitude": 16.423916
+    },
+    {
+      "name": "Pekara Čakovec",
+      "latitude": 46.513188,
+      "longitude": 16.439191
+    },
+    {
+      "name": "Pekara Čiovo",
+      "latitude": 43.514789,
+      "longitude": 16.251715
+    },
+    {
+      "name": "Pekara Črnomerec",
+      "latitude": 45.817821,
+      "longitude": 15.93706
+    },
+    {
+      "name": "Pekara Šen",
+      "latitude": 44.913717,
+      "longitude": 19.068829
+    },
+    {
+      "name": "Pekara Šnajder",
+      "latitude": 45.147191,
+      "longitude": 18.705865
+    },
+    {
+      "name": "Pekara Štef",
+      "latitude": 46.248169,
+      "longitude": 16.621426
+    },
+    {
+      "name": "Pekara Žito",
+      "latitude": 44.80363,
+      "longitude": 14.725995
+    },
+    {
+      "name": "Pekara Žito",
+      "latitude": 45.33556,
+      "longitude": 14.404601
+    },
+    {
+      "name": "Pekara Žito",
+      "latitude": 45.337794,
+      "longitude": 14.431568
+    },
+    {
+      "name": "Pekara Žitopek",
+      "latitude": 46.168473,
+      "longitude": 16.817513
+    },
+    {
+      "name": "Pekara&bakery",
+      "latitude": 44.2406,
+      "longitude": 15.175216
+    },
+    {
+      "name": "Pekara-Panificio Nello",
+      "latitude": 44.951866,
+      "longitude": 13.799021
+    },
+    {
+      "name": "Pekaria Vrbnik",
+      "latitude": 45.024076,
+      "longitude": 14.570105
+    },
+    {
+      "name": "Pekarina",
+      "latitude": 43.588655,
+      "longitude": 15.923774
+    },
+    {
+      "name": "Pekarinuca Vodice Pag",
+      "latitude": 44.442405,
+      "longitude": 15.055863
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 43.297494,
+      "longitude": 17.017406
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 43.508231,
+      "longitude": 16.455417
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 43.518682,
+      "longitude": 16.467317
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 43.818726,
+      "longitude": 15.92284
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 44.106995,
+      "longitude": 15.249239
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 44.218791,
+      "longitude": 15.177965
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 44.293167,
+      "longitude": 15.441013
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 45.278384,
+      "longitude": 18.806246
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 45.489261,
+      "longitude": 15.547028
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 45.490314,
+      "longitude": 15.549109
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 45.748385,
+      "longitude": 16.608604
+    },
+    {
+      "name": "pekarna",
+      "latitude": 45.806861,
+      "longitude": 15.893912
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 45.80948,
+      "longitude": 16.048047
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 45.813764,
+      "longitude": 15.99158
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 45.825306,
+      "longitude": 16.041076
+    },
+    {
+      "name": "Pekarna \"Hajduk\"",
+      "latitude": 43.921802,
+      "longitude": 15.419117
+    },
+    {
+      "name": "Pekarna \"Hajduk\"",
+      "latitude": 43.92227,
+      "longitude": 15.41749
+    },
+    {
+      "name": "Pekarna \"Klaka\"",
+      "latitude": 45.834514,
+      "longitude": 16.050243
+    },
+    {
+      "name": "Pekarna - Bakery",
+      "latitude": 43.508019,
+      "longitude": 16.442017
+    },
+    {
+      "name": "Pekarna Anita",
+      "latitude": 45.788433,
+      "longitude": 16.006547
+    },
+    {
+      "name": "Pekarna Aroma",
+      "latitude": 44.442174,
+      "longitude": 15.050769
+    },
+    {
+      "name": "Pekarna Aroma",
+      "latitude": 45.785404,
+      "longitude": 15.927717
+    },
+    {
+      "name": "Pekarna Bakery",
+      "latitude": 43.32526,
+      "longitude": 16.449961
+    },
+    {
+      "name": "pekarna Barba Tony",
+      "latitude": 45.166665,
+      "longitude": 14.545967
+    },
+    {
+      "name": "Pekarna Bu&Ba",
+      "latitude": 45.815436,
+      "longitude": 15.933816
+    },
+    {
+      "name": "Pekarna Centar",
+      "latitude": 44.866997,
+      "longitude": 13.848758
+    },
+    {
+      "name": "Pekarna Centar",
+      "latitude": 45.359121,
+      "longitude": 17.764008
+    },
+    {
+      "name": "Pekarna Centar",
+      "latitude": 45.747803,
+      "longitude": 16.61398
+    },
+    {
+      "name": "Pekarna Centar",
+      "latitude": 46.249501,
+      "longitude": 16.616636
+    },
+    {
+      "name": "Pekarna Cerovac",
+      "latitude": 45.331687,
+      "longitude": 17.671536
+    },
+    {
+      "name": "Pekarna Croatia",
+      "latitude": 45.788494,
+      "longitude": 15.943109
+    },
+    {
+      "name": "Pekarna Croatia",
+      "latitude": 45.813769,
+      "longitude": 15.996484
+    },
+    {
+      "name": "Pekarna Dalma",
+      "latitude": 43.738803,
+      "longitude": 15.890847
+    },
+    {
+      "name": "Pekarna Dan-noć",
+      "latitude": 45.331859,
+      "longitude": 17.670444
+    },
+    {
+      "name": "Pekarna Dan-noć",
+      "latitude": 45.336782,
+      "longitude": 17.679614
+    },
+    {
+      "name": "Pekarna Dora-Pek",
+      "latitude": 45.761599,
+      "longitude": 15.88157
+    },
+    {
+      "name": "Pekarna Draškovićeva",
+      "latitude": 45.813514,
+      "longitude": 15.983616
+    },
+    {
+      "name": "Pekarna Elena",
+      "latitude": 43.756489,
+      "longitude": 15.774611
+    },
+    {
+      "name": "Pekarna Elita",
+      "latitude": 43.690757,
+      "longitude": 15.905849
+    },
+    {
+      "name": "Pekarna Fino & friško",
+      "latitude": 45.33761,
+      "longitude": 17.668193
+    },
+    {
+      "name": "Pekarna Golub",
+      "latitude": 44.110069,
+      "longitude": 15.235643
+    },
+    {
+      "name": "Pekarna Hit",
+      "latitude": 45.554557,
+      "longitude": 18.69778
+    },
+    {
+      "name": "Pekarna Hrstić",
+      "latitude": 43.512877,
+      "longitude": 16.442809
+    },
+    {
+      "name": "Pekarna Jadran",
+      "latitude": 44.258476,
+      "longitude": 15.160797
+    },
+    {
+      "name": "Pekarna Jadran",
+      "latitude": 44.305085,
+      "longitude": 15.102189
+    },
+    {
+      "name": "Pekarna Jadre",
+      "latitude": 44.895775,
+      "longitude": 13.818265
+    },
+    {
+      "name": "Pekarna JOHNY",
+      "latitude": 45.45183,
+      "longitude": 15.495856
+    },
+    {
+      "name": "Pekarna Kadulja",
+      "latitude": 45.545218,
+      "longitude": 18.725855
+    },
+    {
+      "name": "Pekarna Kastelo",
+      "latitude": 44.5561,
+      "longitude": 14.882988
+    },
+    {
+      "name": "Pekarna Katarina",
+      "latitude": 45.666296,
+      "longitude": 15.646581
+    },
+    {
+      "name": "Pekarna Klas",
+      "latitude": 45.797639,
+      "longitude": 15.943535
+    },
+    {
+      "name": "Pekarna Knežija",
+      "latitude": 45.790454,
+      "longitude": 15.949513
+    },
+    {
+      "name": "Pekarna Krimeja",
+      "latitude": 45.322383,
+      "longitude": 14.465405
+    },
+    {
+      "name": "Pekarna Lamešić",
+      "latitude": 45.792566,
+      "longitude": 15.901719
+    },
+    {
+      "name": "Pekarna Laste",
+      "latitude": 45.078307,
+      "longitude": 13.651694
+    },
+    {
+      "name": "Pekarna Marinići",
+      "latitude": 45.372925,
+      "longitude": 14.348769
+    },
+    {
+      "name": "Pekarna Marko",
+      "latitude": 45.81641,
+      "longitude": 16.02798
+    },
+    {
+      "name": "Pekarna Marko",
+      "latitude": 45.818639,
+      "longitude": 16.026833
+    },
+    {
+      "name": "Pekarna Martinaj",
+      "latitude": 45.33918,
+      "longitude": 16.091571
+    },
+    {
+      "name": "Pekarna Mladost",
+      "latitude": 45.827559,
+      "longitude": 15.978957
+    },
+    {
+      "name": "Pekarna Mus",
+      "latitude": 45.489441,
+      "longitude": 15.547113
+    },
+    {
+      "name": "Pekarna Otočac",
+      "latitude": 44.869294,
+      "longitude": 15.241959
+    },
+    {
+      "name": "Pekarna Otočac",
+      "latitude": 44.869351,
+      "longitude": 15.234382
+    },
+    {
+      "name": "Pekarna Palma",
+      "latitude": 43.295276,
+      "longitude": 17.01567
+    },
+    {
+      "name": "Pekarna Pane di Vita",
+      "latitude": 45.341026,
+      "longitude": 16.972698
+    },
+    {
+      "name": "Pekarna Panificio Pula",
+      "latitude": 44.856913,
+      "longitude": 13.83872
+    },
+    {
+      "name": "Pekarna Petruševec",
+      "latitude": 45.775281,
+      "longitude": 16.058731
+    },
+    {
+      "name": "Pekarna Poljanec",
+      "latitude": 46.3763,
+      "longitude": 16.530409
+    },
+    {
+      "name": "Pekarna Rina",
+      "latitude": 45.814981,
+      "longitude": 15.8772
+    },
+    {
+      "name": "Pekarna Rogatec",
+      "latitude": 46.223989,
+      "longitude": 15.700859
+    },
+    {
+      "name": "Pekarna Savica",
+      "latitude": 45.793696,
+      "longitude": 15.995879
+    },
+    {
+      "name": "Pekarna Senia",
+      "latitude": 44.9287,
+      "longitude": 14.919564
+    },
+    {
+      "name": "Pekarna Slavonija",
+      "latitude": 45.357742,
+      "longitude": 17.76476
+    },
+    {
+      "name": "Pekarna split",
+      "latitude": 43.517886,
+      "longitude": 16.462266
+    },
+    {
+      "name": "Pekarna Središće",
+      "latitude": 45.778608,
+      "longitude": 15.987334
+    },
+    {
+      "name": "Pekarna Srednjaci",
+      "latitude": 45.790132,
+      "longitude": 15.938046
+    },
+    {
+      "name": "Pekarna Stari Zagreb",
+      "latitude": 45.816402,
+      "longitude": 16.003301
+    },
+    {
+      "name": "Pekarna Stobreč",
+      "latitude": 43.499736,
+      "longitude": 16.522236
+    },
+    {
+      "name": "Pekarna Sunce",
+      "latitude": 45.805158,
+      "longitude": 15.824689
+    },
+    {
+      "name": "Pekarna Sučić",
+      "latitude": 43.518029,
+      "longitude": 16.465419
+    },
+    {
+      "name": "Pekarna Sveta Klara",
+      "latitude": 45.765663,
+      "longitude": 15.9607
+    },
+    {
+      "name": "Pekarna Sveta Nedelja",
+      "latitude": 45.79632,
+      "longitude": 15.776773
+    },
+    {
+      "name": "Pekarna Tiki",
+      "latitude": 45.449236,
+      "longitude": 15.501108
+    },
+    {
+      "name": "Pekarna Tina",
+      "latitude": 44.045913,
+      "longitude": 15.314637
+    },
+    {
+      "name": "Pekarna Trzni Centar",
+      "latitude": 45.489005,
+      "longitude": 15.547435
+    },
+    {
+      "name": "Pekarna Vikend",
+      "latitude": 45.479225,
+      "longitude": 16.775817
+    },
+    {
+      "name": "Pekarna Viktor",
+      "latitude": 44.183135,
+      "longitude": 15.16192
+    },
+    {
+      "name": "Pekarna Vodice",
+      "latitude": 43.759183,
+      "longitude": 15.778577
+    },
+    {
+      "name": "Pekarna Volovčica",
+      "latitude": 45.811358,
+      "longitude": 16.014811
+    },
+    {
+      "name": "Pekarna Vuljanic",
+      "latitude": 45.484083,
+      "longitude": 15.545915
+    },
+    {
+      "name": "Pekarna Vuljanić",
+      "latitude": 45.494136,
+      "longitude": 15.551512
+    },
+    {
+      "name": "Pekarna Wind",
+      "latitude": 44.127064,
+      "longitude": 15.224903
+    },
+    {
+      "name": "Pekarna Zagreb",
+      "latitude": 45.812357,
+      "longitude": 15.950002
+    },
+    {
+      "name": "Pekarna Zagreb",
+      "latitude": 45.823701,
+      "longitude": 16.056804
+    },
+    {
+      "name": "pekarna Zagreb",
+      "latitude": 45.829311,
+      "longitude": 16.055539
+    },
+    {
+      "name": "Pekarna Zimaj",
+      "latitude": 44.116082,
+      "longitude": 15.245183
+    },
+    {
+      "name": "Pekarna Zitoproizvod",
+      "latitude": 45.489291,
+      "longitude": 15.547457
+    },
+    {
+      "name": "Pekarna Zlatni Klas",
+      "latitude": 46.023418,
+      "longitude": 16.551592
+    },
+    {
+      "name": "Pekarne Dinara",
+      "latitude": 45.798902,
+      "longitude": 15.953532
+    },
+    {
+      "name": "Pekarne Dinara",
+      "latitude": 45.804672,
+      "longitude": 15.977448
+    },
+    {
+      "name": "Pekarne Golub",
+      "latitude": 44.06762,
+      "longitude": 15.283144
+    },
+    {
+      "name": "Pekarne Kod Pere",
+      "latitude": 44.294388,
+      "longitude": 15.111105
+    },
+    {
+      "name": "Pekarnica",
+      "latitude": 43.439525,
+      "longitude": 16.668464
+    },
+    {
+      "name": "Pekarnica",
+      "latitude": 43.817267,
+      "longitude": 15.921913
+    },
+    {
+      "name": "Pekarnica",
+      "latitude": 44.545294,
+      "longitude": 15.3724
+    },
+    {
+      "name": "Pekarnica",
+      "latitude": 45.817453,
+      "longitude": 16.049165
+    },
+    {
+      "name": "Pekarnica \"Klinča\"",
+      "latitude": 45.69187,
+      "longitude": 15.741139
+    },
+    {
+      "name": "Pekarnica \"Lopar\"",
+      "latitude": 44.828863,
+      "longitude": 14.73341
+    },
+    {
+      "name": "Pekarnica Aroma",
+      "latitude": 45.559148,
+      "longitude": 18.68274
+    },
+    {
+      "name": "Pekarnica Babin vir",
+      "latitude": 45.331204,
+      "longitude": 17.667421
+    },
+    {
+      "name": "Pekarnica Britanac",
+      "latitude": 45.812392,
+      "longitude": 15.963854
+    },
+    {
+      "name": "Pekarnica Centar",
+      "latitude": 44.443987,
+      "longitude": 15.054254
+    },
+    {
+      "name": "Pekarnica Centar",
+      "latitude": 45.562562,
+      "longitude": 18.673785
+    },
+    {
+      "name": "Pekarnica Croatia",
+      "latitude": 45.80453,
+      "longitude": 16.244015
+    },
+    {
+      "name": "Pekarnica Držićeva",
+      "latitude": 45.803554,
+      "longitude": 15.99449
+    },
+    {
+      "name": "Pekarnica Europek",
+      "latitude": 45.290151,
+      "longitude": 15.969225
+    },
+    {
+      "name": "pekarnica Florentina",
+      "latitude": 45.807497,
+      "longitude": 16.040637
+    },
+    {
+      "name": "Pekarnica i sandwich bar Mladost",
+      "latitude": 45.786495,
+      "longitude": 15.952424
+    },
+    {
+      "name": "Pekarnica Imako",
+      "latitude": 45.415213,
+      "longitude": 17.162958
+    },
+    {
+      "name": "Pekarnica Imako",
+      "latitude": 45.591311,
+      "longitude": 17.223347
+    },
+    {
+      "name": "Pekarnica Imako",
+      "latitude": 45.592826,
+      "longitude": 17.222996
+    },
+    {
+      "name": "Pekarnica Janković",
+      "latitude": 45.165306,
+      "longitude": 17.755612
+    },
+    {
+      "name": "Pekarnica Johny",
+      "latitude": 45.448086,
+      "longitude": 15.496425
+    },
+    {
+      "name": "Pekarnica Kajtazi",
+      "latitude": 45.154464,
+      "longitude": 18.067383
+    },
+    {
+      "name": "Pekarnica Kajzerica",
+      "latitude": 45.783059,
+      "longitude": 15.961854
+    },
+    {
+      "name": "Pekarnica Kalinić",
+      "latitude": 46.078302,
+      "longitude": 16.953582
+    },
+    {
+      "name": "Pekarnica Klas III",
+      "latitude": 46.176066,
+      "longitude": 16.841178
+    },
+    {
+      "name": "Pekarnica Kolibri",
+      "latitude": 45.557578,
+      "longitude": 18.673658
+    },
+    {
+      "name": "Pekarnica Končanica",
+      "latitude": 45.702589,
+      "longitude": 17.174298
+    },
+    {
+      "name": "Pekarnica Lopar",
+      "latitude": 44.825286,
+      "longitude": 14.74045
+    },
+    {
+      "name": "Pekarnica Lopar",
+      "latitude": 44.825634,
+      "longitude": 14.742859
+    },
+    {
+      "name": "Pekarnica Luka",
+      "latitude": 45.349134,
+      "longitude": 19.00427
+    },
+    {
+      "name": "Pekarnica Luka",
+      "latitude": 45.370517,
+      "longitude": 18.957331
+    },
+    {
+      "name": "Pekarnica Mokosica",
+      "latitude": 42.675297,
+      "longitude": 18.09388
+    },
+    {
+      "name": "Pekarnica Nessa",
+      "latitude": 45.806959,
+      "longitude": 15.942391
+    },
+    {
+      "name": "Pekarnica Nikl",
+      "latitude": 45.805331,
+      "longitude": 15.721677
+    },
+    {
+      "name": "Pekarnica non stop",
+      "latitude": 44.308155,
+      "longitude": 15.081682
+    },
+    {
+      "name": "Pekarnica Novalja",
+      "latitude": 44.554705,
+      "longitude": 14.88463
+    },
+    {
+      "name": "Pekarnica Novalja",
+      "latitude": 44.582088,
+      "longitude": 14.886411
+    },
+    {
+      "name": "Pekarnica Pan-Pek",
+      "latitude": 45.807902,
+      "longitude": 16.009555
+    },
+    {
+      "name": "Pekarnica Pecolaj",
+      "latitude": 45.702392,
+      "longitude": 17.173064
+    },
+    {
+      "name": "Pekarnica Petra",
+      "latitude": 46.371438,
+      "longitude": 16.112704
+    },
+    {
+      "name": "Pekarnica Pinjur",
+      "latitude": 43.699028,
+      "longitude": 16.640752
+    },
+    {
+      "name": "Pekarnica RiPek",
+      "latitude": 45.735459,
+      "longitude": 16.029849
+    },
+    {
+      "name": "Pekarnica Robi",
+      "latitude": 45.896316,
+      "longitude": 16.841184
+    },
+    {
+      "name": "Pekarnica Sardelic",
+      "latitude": 42.961233,
+      "longitude": 16.716496
+    },
+    {
+      "name": "Pekarnica Sezam",
+      "latitude": 45.815666,
+      "longitude": 15.87575
+    },
+    {
+      "name": "Pekarnica Sladopek",
+      "latitude": 45.806266,
+      "longitude": 15.991253
+    },
+    {
+      "name": "Pekarnica Sloboština",
+      "latitude": 45.763517,
+      "longitude": 15.987728
+    },
+    {
+      "name": "Pekarnica Sopot",
+      "latitude": 45.77603,
+      "longitude": 15.982603
+    },
+    {
+      "name": "Pekarnica Tomislav",
+      "latitude": 45.127108,
+      "longitude": 14.791325
+    },
+    {
+      "name": "Pekarnica Tvrđa",
+      "latitude": 45.558044,
+      "longitude": 18.681587
+    },
+    {
+      "name": "Pekarnica Utrine",
+      "latitude": 45.774622,
+      "longitude": 15.996558
+    },
+    {
+      "name": "Pekarnica Valentino",
+      "latitude": 45.59228,
+      "longitude": 17.223488
+    },
+    {
+      "name": "Pekarnica Veliki Zdenci",
+      "latitude": 45.674156,
+      "longitude": 17.11067
+    },
+    {
+      "name": "Pekarnica Zaprešić",
+      "latitude": 45.916654,
+      "longitude": 15.777137
+    },
+    {
+      "name": "Pekarnika",
+      "latitude": 43.172193,
+      "longitude": 16.442041
+    },
+    {
+      "name": "Pekarska djelatnost Supetar",
+      "latitude": 43.382324,
+      "longitude": 16.523049
+    },
+    {
+      "name": "Pekarski Obrt",
+      "latitude": 44.819256,
+      "longitude": 13.936923
+    },
+    {
+      "name": "Pekarski obrt - Zvonimirov grad",
+      "latitude": 44.042382,
+      "longitude": 16.197703
+    },
+    {
+      "name": "Pekarski obrt Jadran - Vrsi",
+      "latitude": 44.262816,
+      "longitude": 15.23367
+    },
+    {
+      "name": "Pekarski obrt Medulin",
+      "latitude": 44.815588,
+      "longitude": 13.933086
+    },
+    {
+      "name": "Pekarski Obrt Sloga",
+      "latitude": 45.590145,
+      "longitude": 17.221864
+    },
+    {
+      "name": "pekarski poizvidi",
+      "latitude": 45.086472,
+      "longitude": 14.851201
+    },
+    {
+      "name": "Pekarstvo",
+      "latitude": 43.017562,
+      "longitude": 17.562501
+    },
+    {
+      "name": "Pekarstvo Metkovka",
+      "latitude": 43.023082,
+      "longitude": 17.619348
+    },
+    {
+      "name": "Pekarstvo Metkovka",
+      "latitude": 43.046069,
+      "longitude": 17.643386
+    },
+    {
+      "name": "Pekarstvo Metkovka",
+      "latitude": 43.053903,
+      "longitude": 17.641482
+    },
+    {
+      "name": "Pekarstvo Metkovka",
+      "latitude": 43.054024,
+      "longitude": 17.64816
+    },
+    {
+      "name": "Pekarstvo Metkovka",
+      "latitude": 43.057178,
+      "longitude": 17.647787
+    },
+    {
+      "name": "Pekarstvo Metkovka",
+      "latitude": 43.058701,
+      "longitude": 17.648723
+    },
+    {
+      "name": "Pekarstvo Metkovka",
+      "latitude": 43.061307,
+      "longitude": 17.642864
+    },
+    {
+      "name": "Pekarstvo Metkovka (trgovina Imoćanka)",
+      "latitude": 43.051221,
+      "longitude": 17.649915
+    },
+    {
+      "name": "Pekarstvo Šarić",
+      "latitude": 46.027376,
+      "longitude": 16.545422
+    },
+    {
+      "name": "Pekom",
+      "latitude": 46.222222,
+      "longitude": 15.69981
+    },
+    {
+      "name": "Perec",
+      "latitude": 45.274293,
+      "longitude": 14.56895
+    },
+    {
+      "name": "Perffeto",
+      "latitude": 44.299224,
+      "longitude": 15.08549
+    },
+    {
+      "name": "Perjavica",
+      "latitude": 45.813836,
+      "longitude": 15.905816
+    },
+    {
+      "name": "Perjavica",
+      "latitude": 45.817417,
+      "longitude": 15.889245
+    },
+    {
+      "name": "Permo",
+      "latitude": 43.057789,
+      "longitude": 16.198204
+    },
+    {
+      "name": "Petra",
+      "latitude": 46.286714,
+      "longitude": 16.33498
+    },
+    {
+      "name": "Piko",
+      "latitude": 45.326124,
+      "longitude": 14.44626
+    },
+    {
+      "name": "Piko",
+      "latitude": 45.327142,
+      "longitude": 14.440405
+    },
+    {
+      "name": "PIKO",
+      "latitude": 45.329799,
+      "longitude": 14.459888
+    },
+    {
+      "name": "Pikolo",
+      "latitude": 44.04723,
+      "longitude": 15.313949
+    },
+    {
+      "name": "Pikolo",
+      "latitude": 44.066972,
+      "longitude": 15.282469
+    },
+    {
+      "name": "Pinokio",
+      "latitude": 45.80053,
+      "longitude": 16.000632
+    },
+    {
+      "name": "Pinokio",
+      "latitude": 45.80888,
+      "longitude": 15.997286
+    },
+    {
+      "name": "Pirovac",
+      "latitude": 43.816149,
+      "longitude": 15.668607
+    },
+    {
+      "name": "PITA - JELO",
+      "latitude": 43.51654,
+      "longitude": 16.450991
+    },
+    {
+      "name": "Pita cut",
+      "latitude": 45.796808,
+      "longitude": 15.953364
+    },
+    {
+      "name": "Piterija Zvrk",
+      "latitude": 45.896325,
+      "longitude": 16.839748
+    },
+    {
+      "name": "Plavo polje",
+      "latitude": 45.159893,
+      "longitude": 18.011127
+    },
+    {
+      "name": "Pletenica",
+      "latitude": 44.10599,
+      "longitude": 15.243449
+    },
+    {
+      "name": "Pletenica",
+      "latitude": 44.116846,
+      "longitude": 15.232924
+    },
+    {
+      "name": "Pletenica",
+      "latitude": 44.121472,
+      "longitude": 15.236312
+    },
+    {
+      "name": "Pletenica",
+      "latitude": 45.433232,
+      "longitude": 13.520399
+    },
+    {
+      "name": "Ploće",
+      "latitude": 43.048621,
+      "longitude": 17.434957
+    },
+    {
+      "name": "Ploče",
+      "latitude": 43.104531,
+      "longitude": 17.343388
+    },
+    {
+      "name": "Ploče",
+      "latitude": 43.10753,
+      "longitude": 17.339682
+    },
+    {
+      "name": "Poi Domacu",
+      "latitude": 42.922825,
+      "longitude": 17.1725
+    },
+    {
+      "name": "Posavskog",
+      "latitude": 45.80824,
+      "longitude": 15.99273
+    },
+    {
+      "name": "Pracny",
+      "latitude": 45.156115,
+      "longitude": 18.023914
+    },
+    {
+      "name": "Pracny",
+      "latitude": 45.15774,
+      "longitude": 18.03286
+    },
+    {
+      "name": "Pracny",
+      "latitude": 45.16286,
+      "longitude": 18.033479
+    },
+    {
+      "name": "Prerada",
+      "latitude": 43.507737,
+      "longitude": 16.442582
+    },
+    {
+      "name": "Prerada",
+      "latitude": 43.515268,
+      "longitude": 16.444065
+    },
+    {
+      "name": "Presečki",
+      "latitude": 46.092659,
+      "longitude": 15.837741
+    },
+    {
+      "name": "Prečko",
+      "latitude": 45.795792,
+      "longitude": 15.90009
+    },
+    {
+      "name": "Priko 05",
+      "latitude": 43.444564,
+      "longitude": 16.691881
+    },
+    {
+      "name": "Primavera",
+      "latitude": 44.871671,
+      "longitude": 13.848867
+    },
+    {
+      "name": "Prodavaonica br. 3",
+      "latitude": 46.520735,
+      "longitude": 16.376823
+    },
+    {
+      "name": "Proof 33",
+      "latitude": 45.812829,
+      "longitude": 15.970754
+    },
+    {
+      "name": "Prva parna pekara",
+      "latitude": 43.446521,
+      "longitude": 16.688306
+    },
+    {
+      "name": "Prva Parna pekara Omiš(prod.br.4)",
+      "latitude": 43.441057,
+      "longitude": 16.657824
+    },
+    {
+      "name": "Prva parna pekara Omiš(prod.br.6)",
+      "latitude": 43.461317,
+      "longitude": 16.59931
+    },
+    {
+      "name": "Pšenica",
+      "latitude": 45.740177,
+      "longitude": 15.932812
+    },
+    {
+      "name": "Raša",
+      "latitude": 45.080899,
+      "longitude": 14.083871
+    },
+    {
+      "name": "Reginex",
+      "latitude": 45.239471,
+      "longitude": 13.942077
+    },
+    {
+      "name": "Riki",
+      "latitude": 45.536064,
+      "longitude": 18.633705
+    },
+    {
+      "name": "Rita",
+      "latitude": 43.50508,
+      "longitude": 16.258261
+    },
+    {
+      "name": "RITA",
+      "latitude": 43.552769,
+      "longitude": 16.343277
+    },
+    {
+      "name": "Riva",
+      "latitude": 45.433514,
+      "longitude": 13.522629
+    },
+    {
+      "name": "Robi",
+      "latitude": 45.936605,
+      "longitude": 16.780953
+    },
+    {
+      "name": "Roko",
+      "latitude": 45.32622,
+      "longitude": 14.446381
+    },
+    {
+      "name": "Romaja",
+      "latitude": 45.804916,
+      "longitude": 15.957169
+    },
+    {
+      "name": "Romeo",
+      "latitude": 45.399925,
+      "longitude": 14.308319
+    },
+    {
+      "name": "Royal",
+      "latitude": 45.27722,
+      "longitude": 13.721749
+    },
+    {
+      "name": "Rusica",
+      "latitude": 42.653731,
+      "longitude": 18.092718
+    },
+    {
+      "name": "Rusica",
+      "latitude": 45.765364,
+      "longitude": 15.961985
+    },
+    {
+      "name": "Rusica",
+      "latitude": 45.775933,
+      "longitude": 15.977315
+    },
+    {
+      "name": "Rusica Bakery",
+      "latitude": 42.651439,
+      "longitude": 18.089116
+    },
+    {
+      "name": "Rustika",
+      "latitude": 45.040066,
+      "longitude": 13.787338
+    },
+    {
+      "name": "Ruža",
+      "latitude": 45.467892,
+      "longitude": 16.37445
+    },
+    {
+      "name": "Ruža",
+      "latitude": 45.846316,
+      "longitude": 16.055757
+    },
+    {
+      "name": "Ružica",
+      "latitude": 45.718769,
+      "longitude": 16.062279
+    },
+    {
+      "name": "Saljska Pekarna",
+      "latitude": 43.938357,
+      "longitude": 15.163573
+    },
+    {
+      "name": "Samoborska pekarna",
+      "latitude": 45.801642,
+      "longitude": 15.709299
+    },
+    {
+      "name": "Samoborska pekarna",
+      "latitude": 45.806234,
+      "longitude": 15.717861
+    },
+    {
+      "name": "Samčović",
+      "latitude": 43.442995,
+      "longitude": 17.207707
+    },
+    {
+      "name": "San Antonio",
+      "latitude": 43.162086,
+      "longitude": 16.690039
+    },
+    {
+      "name": "San Sebastian",
+      "latitude": 44.814769,
+      "longitude": 13.932548
+    },
+    {
+      "name": "San Sebastian",
+      "latitude": 44.824811,
+      "longitude": 13.932554
+    },
+    {
+      "name": "Sandi",
+      "latitude": 45.833418,
+      "longitude": 16.804486
+    },
+    {
+      "name": "Sardelić",
+      "latitude": 42.905978,
+      "longitude": 16.858866
+    },
+    {
+      "name": "Sardelić",
+      "latitude": 42.937644,
+      "longitude": 16.7908
+    },
+    {
+      "name": "Sardelić",
+      "latitude": 42.937757,
+      "longitude": 16.7929
+    },
+    {
+      "name": "Senia",
+      "latitude": 44.990563,
+      "longitude": 14.901025
+    },
+    {
+      "name": "SI-MA",
+      "latitude": 45.655373,
+      "longitude": 17.009515
+    },
+    {
+      "name": "Simple bake",
+      "latitude": 45.801373,
+      "longitude": 15.972332
+    },
+    {
+      "name": "Skoko",
+      "latitude": 45.156454,
+      "longitude": 18.001407
+    },
+    {
+      "name": "Skoko",
+      "latitude": 45.157684,
+      "longitude": 17.999164
+    },
+    {
+      "name": "Slad",
+      "latitude": 44.115562,
+      "longitude": 15.225256
+    },
+    {
+      "name": "Sladopek",
+      "latitude": 45.808352,
+      "longitude": 15.984029
+    },
+    {
+      "name": "Slastice kod Mate",
+      "latitude": 43.515356,
+      "longitude": 16.444158
+    },
+    {
+      "name": "Slastice, kolači",
+      "latitude": 46.344688,
+      "longitude": 16.361672
+    },
+    {
+      "name": "Slavonija",
+      "latitude": 45.314959,
+      "longitude": 18.407581
+    },
+    {
+      "name": "Slavonija",
+      "latitude": 45.324824,
+      "longitude": 18.412905
+    },
+    {
+      "name": "Slavonija",
+      "latitude": 45.684159,
+      "longitude": 18.403149
+    },
+    {
+      "name": "Složna braća",
+      "latitude": 45.155207,
+      "longitude": 18.021067
+    },
+    {
+      "name": "Složna braća",
+      "latitude": 45.166467,
+      "longitude": 18.037615
+    },
+    {
+      "name": "Sokol",
+      "latitude": 45.353122,
+      "longitude": 14.431779
+    },
+    {
+      "name": "Solin",
+      "latitude": 43.534946,
+      "longitude": 16.486423
+    },
+    {
+      "name": "Sora",
+      "latitude": 45.744784,
+      "longitude": 15.889264
+    },
+    {
+      "name": "Spaqi",
+      "latitude": 45.662087,
+      "longitude": 16.520162
+    },
+    {
+      "name": "Srdoči",
+      "latitude": 45.353708,
+      "longitude": 14.370563
+    },
+    {
+      "name": "Stanovi",
+      "latitude": 44.115909,
+      "longitude": 15.244368
+    },
+    {
+      "name": "Stari Bjelovar \"PEKARA LEO\"",
+      "latitude": 45.895313,
+      "longitude": 16.843159
+    },
+    {
+      "name": "Stari brend",
+      "latitude": 43.515063,
+      "longitude": 16.443942
+    },
+    {
+      "name": "Stari mlin",
+      "latitude": 43.967748,
+      "longitude": 15.40699
+    },
+    {
+      "name": "Stari Zagreb",
+      "latitude": 45.841576,
+      "longitude": 16.055687
+    },
+    {
+      "name": "STIL",
+      "latitude": 45.754971,
+      "longitude": 15.938942
+    },
+    {
+      "name": "Still",
+      "latitude": 45.778756,
+      "longitude": 15.988238
+    },
+    {
+      "name": "Stobreč",
+      "latitude": 43.507834,
+      "longitude": 16.474171
+    },
+    {
+      "name": "Street food",
+      "latitude": 45.734419,
+      "longitude": 16.016503
+    },
+    {
+      "name": "Student",
+      "latitude": 45.809151,
+      "longitude": 15.988178
+    },
+    {
+      "name": "Suban",
+      "latitude": 45.846116,
+      "longitude": 15.687473
+    },
+    {
+      "name": "Sukošan",
+      "latitude": 44.045278,
+      "longitude": 15.316207
+    },
+    {
+      "name": "Sunce",
+      "latitude": 44.113808,
+      "longitude": 15.227121
+    },
+    {
+      "name": "Sunce",
+      "latitude": 45.786721,
+      "longitude": 15.919628
+    },
+    {
+      "name": "Supetar",
+      "latitude": 43.385039,
+      "longitude": 16.55649
+    },
+    {
+      "name": "Suzy",
+      "latitude": 45.334086,
+      "longitude": 16.983704
+    },
+    {
+      "name": "Sv. Josip",
+      "latitude": 45.161651,
+      "longitude": 14.76078
+    },
+    {
+      "name": "Sv. Petar",
+      "latitude": 43.384403,
+      "longitude": 16.553305
+    },
+    {
+      "name": "sv.Juraj",
+      "latitude": 46.042413,
+      "longitude": 17.068507
+    },
+    {
+      "name": "Svalina",
+      "latitude": 45.319719,
+      "longitude": 18.407928
+    },
+    {
+      "name": "Sveta Ana",
+      "latitude": 45.945057,
+      "longitude": 16.732361
+    },
+    {
+      "name": "Sveta Jelena",
+      "latitude": 45.173188,
+      "longitude": 14.692809
+    },
+    {
+      "name": "Sveta Klara",
+      "latitude": 45.762439,
+      "longitude": 15.961439
+    },
+    {
+      "name": "Sveti Matej",
+      "latitude": 45.76364,
+      "longitude": 16.001789
+    },
+    {
+      "name": "Tea",
+      "latitude": 45.818784,
+      "longitude": 15.976519
+    },
+    {
+      "name": "Tena",
+      "latitude": 43.728638,
+      "longitude": 15.903413
+    },
+    {
+      "name": "Tena",
+      "latitude": 45.309539,
+      "longitude": 18.41349
+    },
+    {
+      "name": "Tepic",
+      "latitude": 43.184757,
+      "longitude": 16.599405
+    },
+    {
+      "name": "Tes-co",
+      "latitude": 43.48702,
+      "longitude": 16.117876
+    },
+    {
+      "name": "Tes-co (Bäckerstand)",
+      "latitude": 43.489384,
+      "longitude": 16.112536
+    },
+    {
+      "name": "Tesco",
+      "latitude": 43.517038,
+      "longitude": 16.117335
+    },
+    {
+      "name": "The Bakery",
+      "latitude": 45.297557,
+      "longitude": 13.586224
+    },
+    {
+      "name": "TIN",
+      "latitude": 45.848578,
+      "longitude": 16.061065
+    },
+    {
+      "name": "Tina",
+      "latitude": 45.811765,
+      "longitude": 16.110733
+    },
+    {
+      "name": "Tina",
+      "latitude": 45.831765,
+      "longitude": 16.117663
+    },
+    {
+      "name": "Tolić",
+      "latitude": 45.157071,
+      "longitude": 18.032113
+    },
+    {
+      "name": "Toni",
+      "latitude": 43.704191,
+      "longitude": 16.646477
+    },
+    {
+      "name": "Toni",
+      "latitude": 43.819866,
+      "longitude": 15.922317
+    },
+    {
+      "name": "Tonka",
+      "latitude": 45.001041,
+      "longitude": 15.1346
+    },
+    {
+      "name": "Trešnja Pek",
+      "latitude": 45.799686,
+      "longitude": 15.953006
+    },
+    {
+      "name": "Trgovina Pod Urom",
+      "latitude": 44.960178,
+      "longitude": 14.408568
+    },
+    {
+      "name": "Trogir",
+      "latitude": 43.524176,
+      "longitude": 16.267161
+    },
+    {
+      "name": "Turanj",
+      "latitude": 45.462612,
+      "longitude": 15.568047
+    },
+    {
+      "name": "Tusak Pekare",
+      "latitude": 44.558429,
+      "longitude": 15.033067
+    },
+    {
+      "name": "Tvornica kruha Zadar",
+      "latitude": 44.12646,
+      "longitude": 15.236154
+    },
+    {
+      "name": "Tvrđa",
+      "latitude": 45.560237,
+      "longitude": 18.694789
+    },
+    {
+      "name": "VAL",
+      "latitude": 45.122989,
+      "longitude": 14.528773
+    },
+    {
+      "name": "Val-Pek",
+      "latitude": 45.662233,
+      "longitude": 18.413318
+    },
+    {
+      "name": "Vedrana",
+      "latitude": 43.305833,
+      "longitude": 17.008373
+    },
+    {
+      "name": "Vedrana",
+      "latitude": 43.442137,
+      "longitude": 17.20586
+    },
+    {
+      "name": "Venera 2",
+      "latitude": 45.500354,
+      "longitude": 16.360382
+    },
+    {
+      "name": "Veris",
+      "latitude": 45.308828,
+      "longitude": 18.414211
+    },
+    {
+      "name": "Veronika",
+      "latitude": 46.049157,
+      "longitude": 15.738623
+    },
+    {
+      "name": "Vesna kolači",
+      "latitude": 45.579527,
+      "longitude": 16.214309
+    },
+    {
+      "name": "Vikend",
+      "latitude": 45.610113,
+      "longitude": 16.586111
+    },
+    {
+      "name": "Vilar",
+      "latitude": 43.516058,
+      "longitude": 16.555972
+    },
+    {
+      "name": "Vilson",
+      "latitude": 44.824527,
+      "longitude": 13.87857
+    },
+    {
+      "name": "Vilson",
+      "latitude": 44.905307,
+      "longitude": 13.824003
+    },
+    {
+      "name": "Vilson",
+      "latitude": 44.927712,
+      "longitude": 13.804659
+    },
+    {
+      "name": "Vilson",
+      "latitude": 44.989428,
+      "longitude": 13.755743
+    },
+    {
+      "name": "Vodice",
+      "latitude": 44.447269,
+      "longitude": 15.053014
+    },
+    {
+      "name": "Vojak",
+      "latitude": 45.325672,
+      "longitude": 14.464144
+    },
+    {
+      "name": "Voštarnica",
+      "latitude": 44.11719,
+      "longitude": 15.237027
+    },
+    {
+      "name": "Vražap",
+      "latitude": 44.112587,
+      "longitude": 15.227543
+    },
+    {
+      "name": "Vrbnik",
+      "latitude": 45.122464,
+      "longitude": 14.526714
+    },
+    {
+      "name": "Vrbnik",
+      "latitude": 45.146695,
+      "longitude": 14.664922
+    },
+    {
+      "name": "Vrbnik",
+      "latitude": 45.173277,
+      "longitude": 14.691828
+    },
+    {
+      "name": "Vrbnik",
+      "latitude": 45.211134,
+      "longitude": 14.556425
+    },
+    {
+      "name": "Vukelić",
+      "latitude": 45.816488,
+      "longitude": 15.835664
+    },
+    {
+      "name": "Winny",
+      "latitude": 43.732331,
+      "longitude": 15.896321
+    },
+    {
+      "name": "Yum",
+      "latitude": 43.73535,
+      "longitude": 15.891972
+    },
+    {
+      "name": "Zadar",
+      "latitude": 44.124672,
+      "longitude": 15.233023
+    },
+    {
+      "name": "Zagorje",
+      "latitude": 46.093087,
+      "longitude": 15.837804
+    },
+    {
+      "name": "zagreb",
+      "latitude": 45.792055,
+      "longitude": 16.005363
+    },
+    {
+      "name": "Zalogajnica",
+      "latitude": 45.485995,
+      "longitude": 16.378826
+    },
+    {
+      "name": "Zara",
+      "latitude": 44.132402,
+      "longitude": 15.23934
+    },
+    {
+      "name": "Zemljić",
+      "latitude": 45.840367,
+      "longitude": 15.686101
+    },
+    {
+      "name": "Zemljič",
+      "latitude": 45.803195,
+      "longitude": 15.710685
+    },
+    {
+      "name": "Zimaj",
+      "latitude": 44.117024,
+      "longitude": 15.239482
+    },
+    {
+      "name": "Zlatni klas",
+      "latitude": 43.509501,
+      "longitude": 16.456065
+    },
+    {
+      "name": "Zlatni Klas",
+      "latitude": 43.729552,
+      "longitude": 15.902161
+    },
+    {
+      "name": "Zlatni klas",
+      "latitude": 44.529497,
+      "longitude": 14.474545
+    },
+    {
+      "name": "Zlatni klas",
+      "latitude": 46.025658,
+      "longitude": 16.545655
+    },
+    {
+      "name": "Zlatno zrno",
+      "latitude": 42.64333,
+      "longitude": 18.111566
+    },
+    {
+      "name": "Zlatno zrno",
+      "latitude": 42.651809,
+      "longitude": 18.082005
+    },
+    {
+      "name": "Zlatno žito",
+      "latitude": 43.675116,
+      "longitude": 16.011689
+    },
+    {
+      "name": "Zrinski",
+      "latitude": 45.977284,
+      "longitude": 15.930798
+    },
+    {
+      "name": "Zrno Ljubavi",
+      "latitude": 43.508991,
+      "longitude": 16.472789
+    },
+    {
+      "name": "Čakovečki mlinovi",
+      "latitude": 46.386736,
+      "longitude": 16.428949
+    },
+    {
+      "name": "Čakovečki mlinovi",
+      "latitude": 46.388414,
+      "longitude": 16.437933
+    },
+    {
+      "name": "Čavjanka",
+      "latitude": 45.356243,
+      "longitude": 14.487746
+    },
+    {
+      "name": "Čičak",
+      "latitude": 45.657585,
+      "longitude": 18.421863
+    },
+    {
+      "name": "Šalina",
+      "latitude": 44.21072,
+      "longitude": 15.475636
+    },
+    {
+      "name": "Šaribok",
+      "latitude": 43.617792,
+      "longitude": 16.731318
+    },
+    {
+      "name": "Šaribok",
+      "latitude": 43.702304,
+      "longitude": 16.64036
+    },
+    {
+      "name": "Šaribok",
+      "latitude": 43.703654,
+      "longitude": 16.638027
+    },
+    {
+      "name": "Šestine",
+      "latitude": 45.85486,
+      "longitude": 15.954057
+    },
+    {
+      "name": "Štruca",
+      "latitude": 45.363821,
+      "longitude": 14.323336
+    },
+    {
+      "name": "Šumci",
+      "latitude": 45.35199,
+      "longitude": 14.38137
+    },
+    {
+      "name": "Žit-Pek",
+      "latitude": 45.55912,
+      "longitude": 18.682742
+    },
+    {
+      "name": "Žito",
+      "latitude": 44.755822,
+      "longitude": 14.761437
+    },
+    {
+      "name": "Žito",
+      "latitude": 44.760887,
+      "longitude": 14.76035
+    },
+    {
+      "name": "Žitopek",
+      "latitude": 45.313602,
+      "longitude": 18.41338
+    },
+    {
+      "name": "Žurkovo",
+      "latitude": 45.309968,
+      "longitude": 14.487504
+    },
+    {
+      "name": "Бојићи",
+      "latitude": 45.292253,
+      "longitude": 19.140282
+    }
+  ],
+  "meta": {
+    "title": "Pekarnice u Hrvatskoj - Besplatno preuzimanje",
+    "description": "Bakeries in Croatia (shop=bakery) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors. Sadrži 1494 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Pekarnice u Hrvatskoj | ListBase",
+    "seo_description": "Preuzmi Pekarnice u Hrvatskoj — 1494 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 1494 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

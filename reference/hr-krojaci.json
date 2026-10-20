@@ -1,0 +1,346 @@
+{
+  "id": "hr-krojaci",
+  "name": "Krojači",
+  "title": "Krojači",
+  "description": "Krojači u Hrvatskoj (61 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=tailor), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Amrita Mistika",
+      "latitude": 45.802178,
+      "longitude": 15.959911
+    },
+    {
+      "name": "Andrea, obrt za krojačke usluge i trgovinu",
+      "latitude": 45.437852,
+      "longitude": 16.267137
+    },
+    {
+      "name": "Ani",
+      "latitude": 45.812364,
+      "longitude": 15.95105
+    },
+    {
+      "name": "Anna",
+      "latitude": 46.510979,
+      "longitude": 16.447506
+    },
+    {
+      "name": "Anna",
+      "latitude": 46.51249,
+      "longitude": 16.44132
+    },
+    {
+      "name": "Boki krojački popravci",
+      "latitude": 45.789934,
+      "longitude": 15.928534
+    },
+    {
+      "name": "Brzi krojački popravci Marcela",
+      "latitude": 45.807674,
+      "longitude": 15.939428
+    },
+    {
+      "name": "Ema",
+      "latitude": 45.801725,
+      "longitude": 15.713311
+    },
+    {
+      "name": "Greta šnajderaj",
+      "latitude": 45.550553,
+      "longitude": 18.700183
+    },
+    {
+      "name": "Gumbek",
+      "latitude": 45.789691,
+      "longitude": 15.928572
+    },
+    {
+      "name": "Igla",
+      "latitude": 45.811008,
+      "longitude": 15.943456
+    },
+    {
+      "name": "Ignacio",
+      "latitude": 43.444924,
+      "longitude": 16.691802
+    },
+    {
+      "name": "Intertekstil Stanić",
+      "latitude": 43.44456,
+      "longitude": 16.685582
+    },
+    {
+      "name": "Iva",
+      "latitude": 45.801515,
+      "longitude": 15.712655
+    },
+    {
+      "name": "Jacquard",
+      "latitude": 45.812497,
+      "longitude": 15.863118
+    },
+    {
+      "name": "Keti – brzi krojački popravci",
+      "latitude": 45.872094,
+      "longitude": 15.827383
+    },
+    {
+      "name": "Krojač",
+      "latitude": 43.507702,
+      "longitude": 16.464622
+    },
+    {
+      "name": "Krojački obrt",
+      "latitude": 45.347726,
+      "longitude": 16.971742
+    },
+    {
+      "name": "Krojački obrt KIM",
+      "latitude": 43.505589,
+      "longitude": 16.465484
+    },
+    {
+      "name": "Krojački obrt Roza",
+      "latitude": 45.800922,
+      "longitude": 15.95787
+    },
+    {
+      "name": "Krojački popravci",
+      "latitude": 45.789664,
+      "longitude": 15.92841
+    },
+    {
+      "name": "Krojački popravci",
+      "latitude": 45.796792,
+      "longitude": 15.934776
+    },
+    {
+      "name": "Krojački popravci",
+      "latitude": 45.806594,
+      "longitude": 15.98869
+    },
+    {
+      "name": "Krojački popravci AD",
+      "latitude": 45.786949,
+      "longitude": 15.949532
+    },
+    {
+      "name": "Krojački popravci AZ style",
+      "latitude": 45.798459,
+      "longitude": 15.955422
+    },
+    {
+      "name": "Krojački popravci Barbara",
+      "latitude": 45.801187,
+      "longitude": 15.95343
+    },
+    {
+      "name": "Krojački popravci Ljiljana",
+      "latitude": 45.805938,
+      "longitude": 15.983832
+    },
+    {
+      "name": "Krojački popravci Marcela",
+      "latitude": 45.798538,
+      "longitude": 15.954162
+    },
+    {
+      "name": "Krojački popravci Mima",
+      "latitude": 45.795608,
+      "longitude": 15.965146
+    },
+    {
+      "name": "Krojački popravci Opravica",
+      "latitude": 45.802228,
+      "longitude": 15.967573
+    },
+    {
+      "name": "Krojački popravi",
+      "latitude": 45.811382,
+      "longitude": 16.000446
+    },
+    {
+      "name": "Krojački Salon",
+      "latitude": 45.551438,
+      "longitude": 18.695809
+    },
+    {
+      "name": "Krojački salon",
+      "latitude": 45.79406,
+      "longitude": 15.918583
+    },
+    {
+      "name": "Krojački salon",
+      "latitude": 45.800656,
+      "longitude": 15.956511
+    },
+    {
+      "name": "Krojački salon Antonela",
+      "latitude": 45.795746,
+      "longitude": 15.966541
+    },
+    {
+      "name": "Krojački salon Danijel",
+      "latitude": 45.813496,
+      "longitude": 15.980323
+    },
+    {
+      "name": "Krojački salon Nada Dizajn",
+      "latitude": 46.452589,
+      "longitude": 16.571027
+    },
+    {
+      "name": "Lara",
+      "latitude": 46.022158,
+      "longitude": 16.547945
+    },
+    {
+      "name": "Lea style",
+      "latitude": 43.50494,
+      "longitude": 16.455878
+    },
+    {
+      "name": "Manira",
+      "latitude": 45.811294,
+      "longitude": 15.972567
+    },
+    {
+      "name": "Marytess",
+      "latitude": 45.407102,
+      "longitude": 13.963101
+    },
+    {
+      "name": "Mega cif",
+      "latitude": 45.81123,
+      "longitude": 15.973541
+    },
+    {
+      "name": "MilaMari Moda",
+      "latitude": 45.803213,
+      "longitude": 15.709202
+    },
+    {
+      "name": "Mirjana",
+      "latitude": 43.508347,
+      "longitude": 16.444136
+    },
+    {
+      "name": "Mirta",
+      "latitude": 43.516706,
+      "longitude": 16.472941
+    },
+    {
+      "name": "Modikom",
+      "latitude": 46.228448,
+      "longitude": 16.147637
+    },
+    {
+      "name": "Modni atelje Dizajn",
+      "latitude": 45.813811,
+      "longitude": 15.984286
+    },
+    {
+      "name": "Modni salon Čipka",
+      "latitude": 45.798381,
+      "longitude": 15.946526
+    },
+    {
+      "name": "Nada",
+      "latitude": 45.811317,
+      "longitude": 15.973539
+    },
+    {
+      "name": "NoA",
+      "latitude": 45.812418,
+      "longitude": 15.92706
+    },
+    {
+      "name": "Popravci odjeće",
+      "latitude": 45.799966,
+      "longitude": 15.999497
+    },
+    {
+      "name": "Princeza",
+      "latitude": 45.775076,
+      "longitude": 15.955125
+    },
+    {
+      "name": "Segotex",
+      "latitude": 45.8009,
+      "longitude": 15.953505
+    },
+    {
+      "name": "Stil",
+      "latitude": 45.325152,
+      "longitude": 14.444868
+    },
+    {
+      "name": "Studio Mode d.o.o.",
+      "latitude": 46.378479,
+      "longitude": 16.335584
+    },
+    {
+      "name": "Toni",
+      "latitude": 45.81375,
+      "longitude": 15.990837
+    },
+    {
+      "name": "Vesna",
+      "latitude": 45.595942,
+      "longitude": 17.223043
+    },
+    {
+      "name": "Wedding Dress",
+      "latitude": 45.326853,
+      "longitude": 14.443757
+    },
+    {
+      "name": "www.iggy.hr",
+      "latitude": 45.814266,
+      "longitude": 15.994369
+    },
+    {
+      "name": "Šicel",
+      "latitude": 45.801438,
+      "longitude": 15.7116
+    },
+    {
+      "name": "Štefanija",
+      "latitude": 45.810978,
+      "longitude": 15.996261
+    }
+  ],
+  "meta": {
+    "title": "Krojači - Besplatno preuzimanje",
+    "description": "Krojači u Hrvatskoj (61 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=tailor), izrez EU-POIS/HR. Sadrži 61 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Krojači | ListBase",
+    "seo_description": "Preuzmi Krojači — 61 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 61 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

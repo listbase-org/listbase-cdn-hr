@@ -1,0 +1,576 @@
+{
+  "id": "hr-slasticarnice",
+  "name": "Slastičarnice",
+  "title": "Slastičarnice",
+  "description": "Slastičarnice u Hrvatskoj (107 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=pastry), izrez EU-POIS/HR.",
+  "category": "food",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 107,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Art Patisserie",
+      "latitude": 43.507015,
+      "longitude": 16.439652
+    },
+    {
+      "name": "Babić",
+      "latitude": 44.143521,
+      "longitude": 15.211304
+    },
+    {
+      "name": "Bacio",
+      "latitude": 44.960352,
+      "longitude": 14.40799
+    },
+    {
+      "name": "Bread & Deli",
+      "latitude": 45.810806,
+      "longitude": 15.988239
+    },
+    {
+      "name": "Butiga Cukerin",
+      "latitude": 45.337704,
+      "longitude": 14.308311
+    },
+    {
+      "name": "bábá",
+      "latitude": 45.796367,
+      "longitude": 15.96908
+    },
+    {
+      "name": "Cacao",
+      "latitude": 45.326964,
+      "longitude": 14.439343
+    },
+    {
+      "name": "Cacao -Tower Center Rijeka",
+      "latitude": 45.317546,
+      "longitude": 14.469741
+    },
+    {
+      "name": "Cakes & Bakes",
+      "latitude": 45.74157,
+      "longitude": 16.081184
+    },
+    {
+      "name": "Cooksić",
+      "latitude": 45.811122,
+      "longitude": 15.976312
+    },
+    {
+      "name": "Cremalat",
+      "latitude": 45.315982,
+      "longitude": 13.559316
+    },
+    {
+      "name": "Crofna",
+      "latitude": 45.798164,
+      "longitude": 15.945303
+    },
+    {
+      "name": "Cukeraj",
+      "latitude": 45.807887,
+      "longitude": 15.980369
+    },
+    {
+      "name": "Cup & Cake",
+      "latitude": 45.757533,
+      "longitude": 15.971436
+    },
+    {
+      "name": "Diva",
+      "latitude": 45.120649,
+      "longitude": 15.587629
+    },
+    {
+      "name": "Dolce Torte",
+      "latitude": 45.795561,
+      "longitude": 15.968921
+    },
+    {
+      "name": "Dolcemania",
+      "latitude": 43.514633,
+      "longitude": 16.443918
+    },
+    {
+      "name": "dulcia",
+      "latitude": 45.799897,
+      "longitude": 15.953044
+    },
+    {
+      "name": "Ekos Cakes",
+      "latitude": 46.388847,
+      "longitude": 16.413707
+    },
+    {
+      "name": "Europa",
+      "latitude": 45.316225,
+      "longitude": 13.559239
+    },
+    {
+      "name": "Francuska priča",
+      "latitude": 45.805675,
+      "longitude": 15.920642
+    },
+    {
+      "name": "Fritule mini donuts",
+      "latitude": 44.115395,
+      "longitude": 15.226482
+    },
+    {
+      "name": "Grand Marnier",
+      "latitude": 45.801912,
+      "longitude": 15.953702
+    },
+    {
+      "name": "Holy Donut",
+      "latitude": 45.491891,
+      "longitude": 15.553961
+    },
+    {
+      "name": "Home Cake",
+      "latitude": 45.780697,
+      "longitude": 15.962298
+    },
+    {
+      "name": "I Gemelli",
+      "latitude": 43.444254,
+      "longitude": 16.693439
+    },
+    {
+      "name": "Ilica 92",
+      "latitude": 45.812455,
+      "longitude": 15.9642
+    },
+    {
+      "name": "Jolie Petite Patisserie",
+      "latitude": 45.790031,
+      "longitude": 15.949615
+    },
+    {
+      "name": "Kameni cvit",
+      "latitude": 43.347779,
+      "longitude": 16.731931
+    },
+    {
+      "name": "Kaokakao",
+      "latitude": 45.347562,
+      "longitude": 14.319047
+    },
+    {
+      "name": "Katini kolači",
+      "latitude": 45.548903,
+      "longitude": 18.695822
+    },
+    {
+      "name": "Keks point",
+      "latitude": 45.792551,
+      "longitude": 15.951963
+    },
+    {
+      "name": "Kolačić sreće",
+      "latitude": 46.224114,
+      "longitude": 16.12185
+    },
+    {
+      "name": "Kolačić sreće",
+      "latitude": 46.224225,
+      "longitude": 16.12547
+    },
+    {
+      "name": "Korzo",
+      "latitude": 45.264723,
+      "longitude": 15.227308
+    },
+    {
+      "name": "Krokant",
+      "latitude": 45.763886,
+      "longitude": 16.002079
+    },
+    {
+      "name": "La Belle d'Or",
+      "latitude": 45.315615,
+      "longitude": 13.561379
+    },
+    {
+      "name": "La Turka",
+      "latitude": 45.770239,
+      "longitude": 15.939555
+    },
+    {
+      "name": "La Turka",
+      "latitude": 45.809186,
+      "longitude": 15.98023
+    },
+    {
+      "name": "Lapačinka",
+      "latitude": 45.789726,
+      "longitude": 15.928283
+    },
+    {
+      "name": "Lička pita",
+      "latitude": 45.90106,
+      "longitude": 16.892724
+    },
+    {
+      "name": "M&M slastičarnica",
+      "latitude": 45.798498,
+      "longitude": 15.917548
+    },
+    {
+      "name": "Macarons by Marija",
+      "latitude": 45.800952,
+      "longitude": 15.938822
+    },
+    {
+      "name": "Mara Uštipak",
+      "latitude": 43.519993,
+      "longitude": 16.445757
+    },
+    {
+      "name": "Margareta",
+      "latitude": 44.960772,
+      "longitude": 14.411138
+    },
+    {
+      "name": "Martina",
+      "latitude": 45.82769,
+      "longitude": 16.107582
+    },
+    {
+      "name": "Medenjak",
+      "latitude": 45.790343,
+      "longitude": 15.9319
+    },
+    {
+      "name": "Meli",
+      "latitude": 45.799247,
+      "longitude": 15.946205
+    },
+    {
+      "name": "Mil burger & Milčinkica Sisak",
+      "latitude": 45.486038,
+      "longitude": 16.370934
+    },
+    {
+      "name": "Mimoza",
+      "latitude": 45.029539,
+      "longitude": 14.567272
+    },
+    {
+      "name": "Mistena",
+      "latitude": 45.436397,
+      "longitude": 17.193719
+    },
+    {
+      "name": "Monika",
+      "latitude": 45.806254,
+      "longitude": 15.715745
+    },
+    {
+      "name": "Mr.Pancake",
+      "latitude": 45.832589,
+      "longitude": 16.10895
+    },
+    {
+      "name": "Nutelino bar",
+      "latitude": 45.813475,
+      "longitude": 15.979382
+    },
+    {
+      "name": "Oš Kolač - Artisan Cakes & Pastries",
+      "latitude": 43.511417,
+      "longitude": 16.438491
+    },
+    {
+      "name": "Pala je činka",
+      "latitude": 45.795277,
+      "longitude": 15.944071
+    },
+    {
+      "name": "Pancakes Bol",
+      "latitude": 43.260213,
+      "longitude": 16.653144
+    },
+    {
+      "name": "Pek Snack",
+      "latitude": 45.77025,
+      "longitude": 15.939694
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 45.797012,
+      "longitude": 15.960772
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 45.799721,
+      "longitude": 15.953274
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 45.805203,
+      "longitude": 15.977502
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 45.815431,
+      "longitude": 15.933938
+    },
+    {
+      "name": "Pekara Kolđeraj",
+      "latitude": 43.045037,
+      "longitude": 16.09017
+    },
+    {
+      "name": "Puffy Li’l Pancakes",
+      "latitude": 43.508819,
+      "longitude": 16.437597
+    },
+    {
+      "name": "Reginex",
+      "latitude": 45.240179,
+      "longitude": 13.936192
+    },
+    {
+      "name": "Rudina",
+      "latitude": 43.797252,
+      "longitude": 15.642717
+    },
+    {
+      "name": "Sky Gelato",
+      "latitude": 45.326182,
+      "longitude": 14.445928
+    },
+    {
+      "name": "Slasta",
+      "latitude": 45.55982,
+      "longitude": 18.678462
+    },
+    {
+      "name": "Slasticarna",
+      "latitude": 45.316578,
+      "longitude": 13.560659
+    },
+    {
+      "name": "Slastice Lucija",
+      "latitude": 46.091009,
+      "longitude": 15.833646
+    },
+    {
+      "name": "Slastičarna \"dinamo\"",
+      "latitude": 45.884905,
+      "longitude": 16.417602
+    },
+    {
+      "name": "Slastičarna \"Tortessa\"",
+      "latitude": 43.736355,
+      "longitude": 15.891779
+    },
+    {
+      "name": "Slastičarna Anna",
+      "latitude": 45.523543,
+      "longitude": 18.577216
+    },
+    {
+      "name": "Slastičarna Casa del padrone",
+      "latitude": 45.025337,
+      "longitude": 14.572079
+    },
+    {
+      "name": "Slastičarna Frapa",
+      "latitude": 43.531585,
+      "longitude": 15.961101
+    },
+    {
+      "name": "Slastičarna Holiday Prelog",
+      "latitude": 46.337122,
+      "longitude": 16.613298
+    },
+    {
+      "name": "Slastičarna Mediteran",
+      "latitude": 43.510969,
+      "longitude": 16.116021
+    },
+    {
+      "name": "Slastičarnica",
+      "latitude": 45.820227,
+      "longitude": 16.025431
+    },
+    {
+      "name": "Slastičarnica Centar",
+      "latitude": 46.376667,
+      "longitude": 16.384884
+    },
+    {
+      "name": "Slastičarnica Corso",
+      "latitude": 45.327069,
+      "longitude": 14.441867
+    },
+    {
+      "name": "slastičarnica SM \"Mladost\"",
+      "latitude": 45.269393,
+      "longitude": 16.910211
+    },
+    {
+      "name": "Slastičarnica Zagreb",
+      "latitude": 45.811286,
+      "longitude": 15.973999
+    },
+    {
+      "name": "Slastičarnica Zvončarnica",
+      "latitude": 45.362247,
+      "longitude": 14.393281
+    },
+    {
+      "name": "Slatka Danijela",
+      "latitude": 46.040929,
+      "longitude": 17.067291
+    },
+    {
+      "name": "Stari Brend",
+      "latitude": 43.504582,
+      "longitude": 16.456205
+    },
+    {
+      "name": "Susak",
+      "latitude": 44.511891,
+      "longitude": 14.308216
+    },
+    {
+      "name": "Sweet corner",
+      "latitude": 44.114489,
+      "longitude": 15.224241
+    },
+    {
+      "name": "Sweet family",
+      "latitude": 45.789316,
+      "longitude": 15.938209
+    },
+    {
+      "name": "Sweet line",
+      "latitude": 45.923011,
+      "longitude": 16.825019
+    },
+    {
+      "name": "Sweet Story",
+      "latitude": 46.025636,
+      "longitude": 16.546359
+    },
+    {
+      "name": "Torte i to",
+      "latitude": 45.811711,
+      "longitude": 15.950675
+    },
+    {
+      "name": "Torterie Macaron",
+      "latitude": 45.770464,
+      "longitude": 15.941454
+    },
+    {
+      "name": "Tradicija",
+      "latitude": 43.509148,
+      "longitude": 16.439378
+    },
+    {
+      "name": "Trešnja okićka",
+      "latitude": 45.801629,
+      "longitude": 15.708989
+    },
+    {
+      "name": "Tri užitka",
+      "latitude": 46.024218,
+      "longitude": 15.905275
+    },
+    {
+      "name": "U prolazu",
+      "latitude": 45.802032,
+      "longitude": 15.709921
+    },
+    {
+      "name": "Ukusno i.",
+      "latitude": 45.813611,
+      "longitude": 15.986331
+    },
+    {
+      "name": "Van Doren",
+      "latitude": 46.390539,
+      "longitude": 16.436042
+    },
+    {
+      "name": "Vilma",
+      "latitude": 44.759861,
+      "longitude": 14.767413
+    },
+    {
+      "name": "Vincek",
+      "latitude": 45.798837,
+      "longitude": 15.953557
+    },
+    {
+      "name": "Vincek",
+      "latitude": 45.810209,
+      "longitude": 15.989231
+    },
+    {
+      "name": "Viški cvit",
+      "latitude": 43.058652,
+      "longitude": 16.189077
+    },
+    {
+      "name": "Zdravljak \"Sršek\"",
+      "latitude": 45.806934,
+      "longitude": 15.954902
+    },
+    {
+      "name": "Zlatni Rab",
+      "latitude": 44.758112,
+      "longitude": 14.759393
+    },
+    {
+      "name": "Čarolija",
+      "latitude": 45.90113,
+      "longitude": 16.841509
+    },
+    {
+      "name": "Činkica",
+      "latitude": 45.805642,
+      "longitude": 15.895413
+    },
+    {
+      "name": "Škrinjica okusa",
+      "latitude": 46.025563,
+      "longitude": 16.544066
+    }
+  ],
+  "meta": {
+    "title": "Slastičarnice - Besplatno preuzimanje",
+    "description": "Slastičarnice u Hrvatskoj (107 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=pastry), izrez EU-POIS/HR. Sadrži 107 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Slastičarnice | ListBase",
+    "seo_description": "Preuzmi Slastičarnice — 107 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 107 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

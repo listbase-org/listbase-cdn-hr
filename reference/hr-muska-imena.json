@@ -1,0 +1,3922 @@
+{
+  "id": "hr-muska-imena",
+  "name": "Hrvatska muška imena",
+  "title": "Hrvatska muška imena",
+  "description": "Popis hrvatskih muških osobnih imena (Muško). Sva imena ovdje zabilježena kao muška u upstream izvoru; uključene su i tri imena koja se pojavljuju i kao ženska (Đana, Alex, Nedeljko).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 646,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "spol",
+      "label": "Spol",
+      "type": "string"
+    },
+    {
+      "key": "spol_hr",
+      "label": "Spol Hr",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Adam",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 2,
+      "ime": "Adel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 3,
+      "ime": "Adil",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 4,
+      "ime": "Admir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 5,
+      "ime": "Adnan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 6,
+      "ime": "Adrian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 7,
+      "ime": "Adriano",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 8,
+      "ime": "Adrijan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 9,
+      "ime": "Adrijano",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 10,
+      "ime": "Advan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 11,
+      "ime": "Advija",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 12,
+      "ime": "Afrim",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 13,
+      "ime": "Aladin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 14,
+      "ime": "Alain",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 15,
+      "ime": "Alan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 16,
+      "ime": "Albert",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 17,
+      "ime": "Alberto",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 18,
+      "ime": "Albin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 19,
+      "ime": "Aldin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 20,
+      "ime": "Aleksandar",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 21,
+      "ime": "Aleksej",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 22,
+      "ime": "Alen",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 23,
+      "ime": "Alenko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 24,
+      "ime": "Alex",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 25,
+      "ime": "Alexander",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 26,
+      "ime": "Aleš",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 27,
+      "ime": "Alfred",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 28,
+      "ime": "Aljosa",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 29,
+      "ime": "Aljoša",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 30,
+      "ime": "Almir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 31,
+      "ime": "Alojzije",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 32,
+      "ime": "Amar",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 33,
+      "ime": "Amel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 34,
+      "ime": "Amil",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 35,
+      "ime": "Anatol",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 36,
+      "ime": "Andelko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 37,
+      "ime": "Andi",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 38,
+      "ime": "Andreas",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 39,
+      "ime": "Andreasusz",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 40,
+      "ime": "Andrej",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 41,
+      "ime": "Andreo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 42,
+      "ime": "Andria",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 43,
+      "ime": "Andrija",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 44,
+      "ime": "Andrijano",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 45,
+      "ime": "Andro",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 46,
+      "ime": "André",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 47,
+      "ime": "Ante",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 48,
+      "ime": "Anthony",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 49,
+      "ime": "Anto",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 50,
+      "ime": "Anton",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 51,
+      "ime": "Anton Grgo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 52,
+      "ime": "Antonijo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 53,
+      "ime": "Antonio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 54,
+      "ime": "Antun",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 55,
+      "ime": "Antun Krešimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 56,
+      "ime": "Anđelko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 57,
+      "ime": "Anđelo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 58,
+      "ime": "Arben",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 59,
+      "ime": "Arian Zvonimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 60,
+      "ime": "Armando",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 61,
+      "ime": "Armin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 62,
+      "ime": "Aron",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 63,
+      "ime": "Arsen",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 64,
+      "ime": "Artur",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 65,
+      "ime": "Bariša",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 66,
+      "ime": "Bartol",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 67,
+      "ime": "Bartul",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 68,
+      "ime": "Bashir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 69,
+      "ime": "Bastian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 70,
+      "ime": "Bekim",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 71,
+      "ime": "Benjamin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 72,
+      "ime": "Beris",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 73,
+      "ime": "Berislav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 74,
+      "ime": "Bernard",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 75,
+      "ime": "Bernardo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 76,
+      "ime": "Blazan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 77,
+      "ime": "Blaž",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 78,
+      "ime": "Bogdan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 79,
+      "ime": "Bogdanzep",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 80,
+      "ime": "Bogosav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 81,
+      "ime": "Bojan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 82,
+      "ime": "Boran",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 83,
+      "ime": "Bore",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 84,
+      "ime": "Boris",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 85,
+      "ime": "Boris-Jakov",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 86,
+      "ime": "Borislav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 87,
+      "ime": "Borna",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 88,
+      "ime": "Bosko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 89,
+      "ime": "Boze",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 90,
+      "ime": "Bozenko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 91,
+      "ime": "Bozidar",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 92,
+      "ime": "Bozo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 93,
+      "ime": "Božidar",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 94,
+      "ime": "Božo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 95,
+      "ime": "Brane",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 96,
+      "ime": "Branimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 97,
+      "ime": "Branislav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 98,
+      "ime": "Branko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 99,
+      "ime": "Brano",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 100,
+      "ime": "Braslav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 101,
+      "ime": "Bruno",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 102,
+      "ime": "Carlo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 103,
+      "ime": "Christian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 104,
+      "ime": "Christoph",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 105,
+      "ime": "Cvijeto",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 106,
+      "ime": "Dalibor",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 107,
+      "ime": "Dalio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 108,
+      "ime": "Damir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 109,
+      "ime": "Damir Claus",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 110,
+      "ime": "Damjan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 111,
+      "ime": "Dane",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 112,
+      "ime": "Dani",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 113,
+      "ime": "Daniel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 114,
+      "ime": "Danijel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 115,
+      "ime": "Danijell Nikolla",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 116,
+      "ime": "Danko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 117,
+      "ime": "Darian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 118,
+      "ime": "Darijo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 119,
+      "ime": "Dario",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 120,
+      "ime": "Darjan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 121,
+      "ime": "Darko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 122,
+      "ime": "Daslav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 123,
+      "ime": "David",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 124,
+      "ime": "David Ante",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 125,
+      "ime": "Davide",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 126,
+      "ime": "Davidino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 127,
+      "ime": "Davor",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 128,
+      "ime": "Davorin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 129,
+      "ime": "Dean",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 130,
+      "ime": "Dejan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 131,
+      "ime": "Dejvis",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 132,
+      "ime": "Demi",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 133,
+      "ime": "Demian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 134,
+      "ime": "Deni",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 135,
+      "ime": "Deniel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 136,
+      "ime": "Denis",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 137,
+      "ime": "Diego",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 138,
+      "ime": "Dimitar",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 139,
+      "ime": "Dimitrije",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 140,
+      "ime": "Dinko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 141,
+      "ime": "Dino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 142,
+      "ime": "Djuro",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 143,
+      "ime": "Domagoj",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 144,
+      "ime": "Dominik",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 145,
+      "ime": "Dominko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 146,
+      "ime": "Donato",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 147,
+      "ime": "Dorian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 148,
+      "ime": "Dorijan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 149,
+      "ime": "Dorijano",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 150,
+      "ime": "Dorjan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 151,
+      "ime": "Dragan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 152,
+      "ime": "Dragan Čikara",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 153,
+      "ime": "Drago",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 154,
+      "ime": "Dragutin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 155,
+      "ime": "Drazen",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 156,
+      "ime": "Draško",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 157,
+      "ime": "Dražen",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 158,
+      "ime": "Dubravko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 159,
+      "ime": "Duje",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 160,
+      "ime": "Dusan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 161,
+      "ime": "Dusko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 162,
+      "ime": "Dušan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 163,
+      "ime": "Duško",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 164,
+      "ime": "Edi",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 165,
+      "ime": "Edin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 166,
+      "ime": "Edo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 167,
+      "ime": "Eduard",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 168,
+      "ime": "Edvard",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 169,
+      "ime": "Edvin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 170,
+      "ime": "Egon",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 171,
+      "ime": "Eldarwyk",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 172,
+      "ime": "Elio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 173,
+      "ime": "Elvin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 174,
+      "ime": "Elvis",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 175,
+      "ime": "Emanuel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 176,
+      "ime": "Emerik",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 177,
+      "ime": "Emil",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 178,
+      "ime": "Emir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 179,
+      "ime": "Emrah",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 180,
+      "ime": "Endrit",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 181,
+      "ime": "Enes",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 182,
+      "ime": "Enoh",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 183,
+      "ime": "Erden",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 184,
+      "ime": "Eric",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 185,
+      "ime": "Erik",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 186,
+      "ime": "Ermano",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 187,
+      "ime": "Ermin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 188,
+      "ime": "Ernest",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 189,
+      "ime": "Ervin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 190,
+      "ime": "Esmir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 191,
+      "ime": "Ester",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 192,
+      "ime": "Eugen",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 193,
+      "ime": "Eugen Stjepan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 194,
+      "ime": "Fabijan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 195,
+      "ime": "Fabio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 196,
+      "ime": "Fausto",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 197,
+      "ime": "Fetije",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 198,
+      "ime": "Fikret",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 199,
+      "ime": "Filip",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 200,
+      "ime": "Florian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 201,
+      "ime": "Florijan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 202,
+      "ime": "Fran",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 203,
+      "ime": "Frane",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 204,
+      "ime": "Franjo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 205,
+      "ime": "Franko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 206,
+      "ime": "Frano",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 207,
+      "ime": "Fucko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 208,
+      "ime": "Gabriel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 209,
+      "ime": "Gabrijel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 210,
+      "ime": "Georg",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 211,
+      "ime": "Giorgio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 212,
+      "ime": "Giovanni",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 213,
+      "ime": "Gojko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 214,
+      "ime": "Goran",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 215,
+      "ime": "Gordan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 216,
+      "ime": "Granit",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 217,
+      "ime": "Gregor",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 218,
+      "ime": "Grgo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 219,
+      "ime": "Gudrun",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 220,
+      "ime": "Hajrija",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 221,
+      "ime": "Halid",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 222,
+      "ime": "Halim",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 223,
+      "ime": "Hamdija",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 224,
+      "ime": "Haris",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 225,
+      "ime": "Hasan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 226,
+      "ime": "Herman",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 227,
+      "ime": "Hrvoje",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 228,
+      "ime": "Hubert",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 229,
+      "ime": "Ian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 230,
+      "ime": "Ibrahim",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 231,
+      "ime": "Igor",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 232,
+      "ime": "Igorleb",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 233,
+      "ime": "Ilari",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 234,
+      "ime": "Ildiko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 235,
+      "ime": "Ilija",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 236,
+      "ime": "Irenko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 237,
+      "ime": "Irgen",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 238,
+      "ime": "Ismet",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 239,
+      "ime": "Istvan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 240,
+      "ime": "Ivan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 241,
+      "ime": "Ivan Antonio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 242,
+      "ime": "Ivan Zvonimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 243,
+      "ime": "Ivanko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 244,
+      "ime": "Ivica",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 245,
+      "ime": "Ivo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 246,
+      "ime": "Ivor",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 247,
+      "ime": "Izet",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 248,
+      "ime": "Izidor",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 249,
+      "ime": "Jacob",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 250,
+      "ime": "Jadranko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 251,
+      "ime": "Jakica",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 252,
+      "ime": "Jakob",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 253,
+      "ime": "Jakov",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 254,
+      "ime": "Jakša",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 255,
+      "ime": "Jan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 256,
+      "ime": "Janko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 257,
+      "ime": "Jasenko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 258,
+      "ime": "Jasmin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 259,
+      "ime": "Javorko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 260,
+      "ime": "Jerko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 261,
+      "ime": "Joaip",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 262,
+      "ime": "Joakim",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 263,
+      "ime": "Johan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 264,
+      "ime": "John",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 265,
+      "ime": "Joko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 266,
+      "ime": "Josip",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 267,
+      "ime": "Josko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 268,
+      "ime": "Joso",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 269,
+      "ime": "Jovan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 270,
+      "ime": "Jozef",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 271,
+      "ime": "Jozo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 272,
+      "ime": "Joško",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 273,
+      "ime": "Jože",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 274,
+      "ime": "Julio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 275,
+      "ime": "Juraj",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 276,
+      "ime": "Jure",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 277,
+      "ime": "Jurica",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 278,
+      "ime": "Karlo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 279,
+      "ime": "Kemal",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 280,
+      "ime": "Kenan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 281,
+      "ime": "Kevin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 282,
+      "ime": "Klaudio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 283,
+      "ime": "Konrad",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 284,
+      "ime": "Korab",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 285,
+      "ime": "Korino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 286,
+      "ime": "Kresimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 287,
+      "ime": "Kreso",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 288,
+      "ime": "Krešimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 289,
+      "ime": "Krešo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 290,
+      "ime": "Kristian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 291,
+      "ime": "Kristian-Tin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 292,
+      "ime": "Kristijan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 293,
+      "ime": "Kristinko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 294,
+      "ime": "Kruni",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 295,
+      "ime": "Kruno",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 296,
+      "ime": "Krunoslav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 297,
+      "ime": "Ladislav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 298,
+      "ime": "Leo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 299,
+      "ime": "Leon",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 300,
+      "ime": "Leonard",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 301,
+      "ime": "Leonardo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 302,
+      "ime": "Leonnel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 303,
+      "ime": "Leopold",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 304,
+      "ime": "Lino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 305,
+      "ime": "Livio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 306,
+      "ime": "Ljubisa",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 307,
+      "ime": "Ljubo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 308,
+      "ime": "Ljubomir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 309,
+      "ime": "Ljudevit",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 310,
+      "ime": "Lorenzo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 311,
+      "ime": "Lovre",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 312,
+      "ime": "Lovro",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 313,
+      "ime": "Lucas",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 314,
+      "ime": "Lucian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 315,
+      "ime": "Luka",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 316,
+      "ime": "Lukas",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 317,
+      "ime": "Luko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 318,
+      "ime": "Luksa",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 319,
+      "ime": "Lukša",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 320,
+      "ime": "Lusin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 321,
+      "ime": "Mahnet",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 322,
+      "ime": "Mak",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 323,
+      "ime": "Manuel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 324,
+      "ime": "Marcel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 325,
+      "ime": "Marcelino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 326,
+      "ime": "Marcell",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 327,
+      "ime": "Mariano",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 328,
+      "ime": "Marijan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 329,
+      "ime": "Marijo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 330,
+      "ime": "Marin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 331,
+      "ime": "Marin Benjamin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 332,
+      "ime": "Marinko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 333,
+      "ime": "Marino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 334,
+      "ime": "Mario",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 335,
+      "ime": "Marjan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 336,
+      "ime": "Marjo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 337,
+      "ime": "Mark",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 338,
+      "ime": "Marko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 339,
+      "ime": "Maro",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 340,
+      "ime": "Maroje",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 341,
+      "ime": "Marsel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 342,
+      "ime": "Martin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 343,
+      "ime": "Martino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 344,
+      "ime": "Massimo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 345,
+      "ime": "Mate",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 346,
+      "ime": "Matei",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 347,
+      "ime": "Matej",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 348,
+      "ime": "Matej Josip",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 349,
+      "ime": "Matej Leon",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 350,
+      "ime": "Mateo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 351,
+      "ime": "Mathias",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 352,
+      "ime": "Matija",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 353,
+      "ime": "Matijas",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 354,
+      "ime": "Matko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 355,
+      "ime": "Mato",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 356,
+      "ime": "Matteo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 357,
+      "ime": "Mauro",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 358,
+      "ime": "Meho",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 359,
+      "ime": "Michael",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 360,
+      "ime": "Michel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 361,
+      "ime": "Miha",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 362,
+      "ime": "Mihael",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 363,
+      "ime": "Mihajlo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 364,
+      "ime": "Miho",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 365,
+      "ime": "Mihovil",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 366,
+      "ime": "Mijo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 367,
+      "ime": "Mikan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 368,
+      "ime": "Mike",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 369,
+      "ime": "Milan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 370,
+      "ime": "Mile",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 371,
+      "ime": "Milenko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 372,
+      "ime": "Milivoj",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 373,
+      "ime": "Miljenko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 374,
+      "ime": "Milko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 375,
+      "ime": "Milorad",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 376,
+      "ime": "Milos",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 377,
+      "ime": "Miloš",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 378,
+      "ime": "Miodrag",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 379,
+      "ime": "Miran",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 380,
+      "ime": "Mirko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 381,
+      "ime": "Miro",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 382,
+      "ime": "Miroljub",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 383,
+      "ime": "Miroslav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 384,
+      "ime": "Mirsad",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 385,
+      "ime": "Mirza",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 386,
+      "ime": "Mirzet",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 387,
+      "ime": "Mislav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 388,
+      "ime": "Mišel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 389,
+      "ime": "Mišo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 390,
+      "ime": "Mladen",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 391,
+      "ime": "Momir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 392,
+      "ime": "Momčilo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 393,
+      "ime": "Moreno",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 394,
+      "ime": "Muhamed",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 395,
+      "ime": "Mujo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 396,
+      "ime": "Murat",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 397,
+      "ime": "Nadan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 398,
+      "ime": "Narcis",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 399,
+      "ime": "Natko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 400,
+      "ime": "Nebojsa",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 401,
+      "ime": "Nebojša",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 402,
+      "ime": "Nedeljko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 403,
+      "ime": "Nediljko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 404,
+      "ime": "Nedim",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 405,
+      "ime": "Nedjeljko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 406,
+      "ime": "Nedžad",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 407,
+      "ime": "Nemanja",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 408,
+      "ime": "Nenad",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 409,
+      "ime": "Neno",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 410,
+      "ime": "Nermin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 411,
+      "ime": "Neven",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 412,
+      "ime": "Nevesin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 413,
+      "ime": "Neđad",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 414,
+      "ime": "Nicolo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 415,
+      "ime": "Nihad",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 416,
+      "ime": "Nikica",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 417,
+      "ime": "Niko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 418,
+      "ime": "Nikola",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 419,
+      "ime": "Niksa",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 420,
+      "ime": "Nikša",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 421,
+      "ime": "Nino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 422,
+      "ime": "Ninoslav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 423,
+      "ime": "Njegomir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 424,
+      "ime": "Norbert",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 425,
+      "ime": "Novica",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 426,
+      "ime": "Ognjen",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 427,
+      "ime": "Oliver",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 428,
+      "ime": "Orsat",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 429,
+      "ime": "Oskar",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 430,
+      "ime": "Osman",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 431,
+      "ime": "Oto",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 432,
+      "ime": "Oton",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 433,
+      "ime": "Ozcan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 434,
+      "ime": "Ozren",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 435,
+      "ime": "Paolo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 436,
+      "ime": "Patrick",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 437,
+      "ime": "Patrik",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 438,
+      "ime": "Paul",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 439,
+      "ime": "Paulino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 440,
+      "ime": "Pavao",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 441,
+      "ime": "Pave",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 442,
+      "ime": "Pavle",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 443,
+      "ime": "Pavo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 444,
+      "ime": "Paško",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 445,
+      "ime": "Pere",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 446,
+      "ime": "Perica",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 447,
+      "ime": "Pero",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 448,
+      "ime": "Petar",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 449,
+      "ime": "Petar Krešimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 450,
+      "ime": "Peter",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 451,
+      "ime": "Peterwep",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 452,
+      "ime": "Pino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 453,
+      "ime": "Plamenko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 454,
+      "ime": "Podrug",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 455,
+      "ime": "Predrag",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 456,
+      "ime": "Prerad",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 457,
+      "ime": "Pstrick",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 458,
+      "ime": "Rade",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 459,
+      "ime": "Radenko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 460,
+      "ime": "Radislav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 461,
+      "ime": "Radomir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 462,
+      "ime": "Radoslav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 463,
+      "ime": "Radovan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 464,
+      "ime": "Rafael",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 465,
+      "ime": "Rajko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 466,
+      "ime": "Rajmond",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 467,
+      "ime": "Ranko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 468,
+      "ime": "Ratko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 469,
+      "ime": "Ratmir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 470,
+      "ime": "Renato",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 471,
+      "ime": "Ricardo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 472,
+      "ime": "Richard",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 473,
+      "ime": "Riki",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 474,
+      "ime": "Rino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 475,
+      "ime": "Robert",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 476,
+      "ime": "Roberto",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 477,
+      "ime": "Robi",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 478,
+      "ime": "Robin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 479,
+      "ime": "Roko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 480,
+      "ime": "Roman",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 481,
+      "ime": "Roman Christian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 482,
+      "ime": "Romano",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 483,
+      "ime": "Romeo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 484,
+      "ime": "Ronald",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 485,
+      "ime": "Rudolf",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 486,
+      "ime": "Rutger",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 487,
+      "ime": "Ryan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 488,
+      "ime": "Rycky",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 489,
+      "ime": "Sadmir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 490,
+      "ime": "Safer",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 491,
+      "ime": "Salih",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 492,
+      "ime": "Samir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 493,
+      "ime": "Samuel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 494,
+      "ime": "Samuelrok",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 495,
+      "ime": "Sandi",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 496,
+      "ime": "Sandro",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 497,
+      "ime": "Sanel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 498,
+      "ime": "Sanijel",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 499,
+      "ime": "Sanjin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 500,
+      "ime": "Sasa",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 501,
+      "ime": "Sasha",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 502,
+      "ime": "Savo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 503,
+      "ime": "Saša",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 504,
+      "ime": "Sead",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 505,
+      "ime": "Sean",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 506,
+      "ime": "Sebastian",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 507,
+      "ime": "Sebastijan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 508,
+      "ime": "Seid",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 509,
+      "ime": "Sejad",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 510,
+      "ime": "Semir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 511,
+      "ime": "Senad",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 512,
+      "ime": "Serden",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 513,
+      "ime": "Sergej",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 514,
+      "ime": "Sergio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 515,
+      "ime": "Silvano",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 516,
+      "ime": "Silvestar",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 517,
+      "ime": "Silvije",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 518,
+      "ime": "Silvijo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 519,
+      "ime": "Silvijo Ivan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 520,
+      "ime": "Silvio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 521,
+      "ime": "Sime",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 522,
+      "ime": "Simon",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 523,
+      "ime": "Sinisa",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 524,
+      "ime": "Siniša",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 525,
+      "ime": "Siniša Josip",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 526,
+      "ime": "Slaven",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 527,
+      "ime": "Slaviša",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 528,
+      "ime": "Slavko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 529,
+      "ime": "Slavomir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 530,
+      "ime": "Slobdan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 531,
+      "ime": "Slobodan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 532,
+      "ime": "Smiljan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 533,
+      "ime": "Spomenko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 534,
+      "ime": "Sreten",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 535,
+      "ime": "Sreto",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 536,
+      "ime": "Srećko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 537,
+      "ime": "Srečko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 538,
+      "ime": "Srđan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 539,
+      "ime": "Stanislav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 540,
+      "ime": "Stanko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 541,
+      "ime": "Stefan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 542,
+      "ime": "Stephanio",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 543,
+      "ime": "Stevica",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 544,
+      "ime": "Stevo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 545,
+      "ime": "Stin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 546,
+      "ime": "Stipan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 547,
+      "ime": "Stipe",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 548,
+      "ime": "Stipica",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 549,
+      "ime": "Stipo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 550,
+      "ime": "Stjepan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 551,
+      "ime": "Stjepko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 552,
+      "ime": "Stribor",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 553,
+      "ime": "Sulejman",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 554,
+      "ime": "Sven",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 555,
+      "ime": "Tadej",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 556,
+      "ime": "Tadija",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 557,
+      "ime": "Teo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 558,
+      "ime": "Thomas",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 559,
+      "ime": "Tibor",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 560,
+      "ime": "Tihi",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 561,
+      "ime": "Tihomir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 562,
+      "ime": "Tin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 563,
+      "ime": "Tino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 564,
+      "ime": "Toma",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 565,
+      "ime": "Tomas",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 566,
+      "ime": "Tomaž",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 567,
+      "ime": "Tome",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 568,
+      "ime": "Tomi",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 569,
+      "ime": "Tomica",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 570,
+      "ime": "Tomislav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 571,
+      "ime": "Tomo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 572,
+      "ime": "Tonci",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 573,
+      "ime": "Toni",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 574,
+      "ime": "Toni Ante",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 575,
+      "ime": "Tonko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 576,
+      "ime": "Tony",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 577,
+      "ime": "Tonći",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 578,
+      "ime": "Tonči",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 579,
+      "ime": "Tvrtko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 580,
+      "ime": "Valent",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 581,
+      "ime": "Valentin",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 582,
+      "ime": "Valentino",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 583,
+      "ime": "Valter",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 584,
+      "ime": "Vanja",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 585,
+      "ime": "Vedran",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 586,
+      "ime": "Vehid",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 587,
+      "ime": "Vehmir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 588,
+      "ime": "Velimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 589,
+      "ime": "Veljko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 590,
+      "ime": "Veselko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 591,
+      "ime": "Vibor",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 592,
+      "ime": "Vice",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 593,
+      "ime": "Vicencije",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 594,
+      "ime": "Vicko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 595,
+      "ime": "Victorrko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 596,
+      "ime": "Vid",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 597,
+      "ime": "Vido",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 598,
+      "ime": "Viktor",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 599,
+      "ime": "Vili",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 600,
+      "ime": "Vilim",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 601,
+      "ime": "Vinko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 602,
+      "ime": "Vitalii",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 603,
+      "ime": "Vito",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 604,
+      "ime": "Vitomir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 605,
+      "ime": "Vjeko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 606,
+      "ime": "Vjekoslav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 607,
+      "ime": "Vjeran",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 608,
+      "ime": "Vladan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 609,
+      "ime": "Vladimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 610,
+      "ime": "Vladimirrym",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 611,
+      "ime": "Vlado",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 612,
+      "ime": "Vlaho",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 613,
+      "ime": "Vlastimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 614,
+      "ime": "Vlatko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 615,
+      "ime": "Vojislav",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 616,
+      "ime": "Vojko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 617,
+      "ime": "Walter",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 618,
+      "ime": "Willy",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 619,
+      "ime": "Yurii",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 620,
+      "ime": "Zarko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 621,
+      "ime": "Zdenko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 622,
+      "ime": "Zdravko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 623,
+      "ime": "Zeljko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 624,
+      "ime": "Zlatko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 625,
+      "ime": "Zoltan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 626,
+      "ime": "Zoran",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 627,
+      "ime": "Zrinko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 628,
+      "ime": "Zvjezdan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 629,
+      "ime": "Zvonimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 630,
+      "ime": "Zvonko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 631,
+      "ime": "Čedomir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 632,
+      "ime": "Đana",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 633,
+      "ime": "Đani",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 634,
+      "ime": "Đankarlo",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 635,
+      "ime": "Đorđe",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 636,
+      "ime": "Đuro",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 637,
+      "ime": "Šime",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 638,
+      "ime": "Šimun",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 639,
+      "ime": "Štefan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 640,
+      "ime": "Žarko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 641,
+      "ime": "Želimir",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 642,
+      "ime": "Željan",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 643,
+      "ime": "Željko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 644,
+      "ime": "Željkp",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 645,
+      "ime": "Žiga",
+      "spol": "M",
+      "spol_hr": "Muško"
+    },
+    {
+      "id": 646,
+      "ime": "Živko",
+      "spol": "M",
+      "spol_hr": "Muško"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatska muška imena - Besplatno preuzimanje",
+    "description": "Popis hrvatskih muških osobnih imena (Muško). Sva imena ovdje zabilježena kao muška u upstream izvoru; uključene su i tri imena koja se pojavljuju i kao ženska (Đana, Alex, Nedeljko). Sadrži 646 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Hrvatska muška imena | ListBase",
+    "seo_description": "Preuzmi Hrvatska muška imena — 646 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 646 zapisa / 4 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "id": "hr-bolnice",
+  "name": "Bolnice",
+  "title": "Bolnice",
+  "description": "Bolnice u Hrvatskoj (86 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=hospital), izrez EU-POIS/HR.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Akromion",
+      "latitude": 45.760404,
+      "longitude": 15.994034
+    },
+    {
+      "name": "Bolnica za ortopediju i rehabilitaciju Martin Horvat Rovinj",
+      "latitude": 45.098704,
+      "longitude": 13.633219
+    },
+    {
+      "name": "Daruvarske toplice specijalna bolnica za medicinsku rehabilitaciju",
+      "latitude": 45.597315,
+      "longitude": 17.227051
+    },
+    {
+      "name": "Dječja bolnica Srebrnjak",
+      "latitude": 45.825339,
+      "longitude": 15.993387
+    },
+    {
+      "name": "Dom zdravlja \"Kozma i Damjan\"",
+      "latitude": 45.183174,
+      "longitude": 16.813581
+    },
+    {
+      "name": "Dom zdravlja Korčula",
+      "latitude": 42.949469,
+      "longitude": 17.136427
+    },
+    {
+      "name": "Dom zdravlja Rijeka – Ginekološka ambulanta",
+      "latitude": 45.332137,
+      "longitude": 14.427098
+    },
+    {
+      "name": "KBC Split - Križine",
+      "latitude": 43.505528,
+      "longitude": 16.468895
+    },
+    {
+      "name": "Klinika Magdalena",
+      "latitude": 46.094187,
+      "longitude": 15.83713
+    },
+    {
+      "name": "Klinika za dječje bolesti",
+      "latitude": 45.80969,
+      "longitude": 15.964688
+    },
+    {
+      "name": "Klinika za infektivne bolesti Dr. Fran Mihaljević",
+      "latitude": 45.830275,
+      "longitude": 15.981264
+    },
+    {
+      "name": "Klinika za ortopediju Lovran",
+      "latitude": 45.299215,
+      "longitude": 14.278612
+    },
+    {
+      "name": "Klinika za plućne bolesti",
+      "latitude": 45.825844,
+      "longitude": 16.003352
+    },
+    {
+      "name": "Klinika za psihijatriju Sveti Ivan",
+      "latitude": 45.805418,
+      "longitude": 15.874387
+    },
+    {
+      "name": "Klinika za psihijatriju Vrapče",
+      "latitude": 45.816501,
+      "longitude": 15.898353
+    },
+    {
+      "name": "Klinika za traumatologiju",
+      "latitude": 45.810194,
+      "longitude": 15.984378
+    },
+    {
+      "name": "Klinika za tumore",
+      "latitude": 45.81223,
+      "longitude": 15.944086
+    },
+    {
+      "name": "Klinika za ženske bolesti i porode",
+      "latitude": 45.815874,
+      "longitude": 15.99315
+    },
+    {
+      "name": "Klinička bolnica Dubrava",
+      "latitude": 45.83518,
+      "longitude": 16.035749
+    },
+    {
+      "name": "Klinička bolnica Merkur",
+      "latitude": 45.820467,
+      "longitude": 15.997258
+    },
+    {
+      "name": "Klinička bolnica Sveti Duh",
+      "latitude": 45.820531,
+      "longitude": 15.939042
+    },
+    {
+      "name": "Klinički bolnički centar Osijek",
+      "latitude": 45.558641,
+      "longitude": 18.713482
+    },
+    {
+      "name": "Klinički bolnički centar Rijeka",
+      "latitude": 45.332488,
+      "longitude": 14.427186
+    },
+    {
+      "name": "Klinički bolnički centar Rijeka, lokacija Sušak",
+      "latitude": 45.325933,
+      "longitude": 14.470099
+    },
+    {
+      "name": "Klinički bolnički centar Sestre milosrdnice - Vinogradska",
+      "latitude": 45.815886,
+      "longitude": 15.952276
+    },
+    {
+      "name": "Klinički bolnički centar Split - Firule",
+      "latitude": 43.503913,
+      "longitude": 16.458749
+    },
+    {
+      "name": "Klinički bolnički centar Zagreb - Rebro",
+      "latitude": 45.824612,
+      "longitude": 16.005933
+    },
+    {
+      "name": "Klinički bolnički centar Zagreb - Šalata",
+      "latitude": 45.819646,
+      "longitude": 15.985011
+    },
+    {
+      "name": "Lječilište Bizovačke toplice",
+      "latitude": 45.580982,
+      "longitude": 18.459982
+    },
+    {
+      "name": "Lječilište Topusko",
+      "latitude": 45.294631,
+      "longitude": 15.972246
+    },
+    {
+      "name": "Lječilište Topusko",
+      "latitude": 45.295137,
+      "longitude": 15.971116
+    },
+    {
+      "name": "Lječilište Veli Lošinj",
+      "latitude": 44.516439,
+      "longitude": 14.501354
+    },
+    {
+      "name": "Nacionalna memorijalna bolnica \"Dr. Juraj Njavro\" Vukovar",
+      "latitude": 45.357936,
+      "longitude": 18.992808
+    },
+    {
+      "name": "Naftalan, specijalna bolnica za medicinsku rehabilitaciju",
+      "latitude": 45.7068,
+      "longitude": 16.385667
+    },
+    {
+      "name": "Neuropsihijatrijska bolnica dr. Ivan Barbot Popovača",
+      "latitude": 45.574274,
+      "longitude": 16.638485
+    },
+    {
+      "name": "Opća bolnica \" Dr. Tomislav Bardek\" Koprivnica",
+      "latitude": 46.163223,
+      "longitude": 16.836959
+    },
+    {
+      "name": "Opća bolnica dr. Anđelko Višić Bjelovar",
+      "latitude": 45.901874,
+      "longitude": 16.848106
+    },
+    {
+      "name": "Opća bolnica dr. Ivo Pedišić",
+      "latitude": 45.476426,
+      "longitude": 16.36894
+    },
+    {
+      "name": "Opća bolnica dr. Ivo Pedišić, odjel u Petrinji",
+      "latitude": 45.423421,
+      "longitude": 16.276767
+    },
+    {
+      "name": "Opća bolnica dr. Ivo Pedišić, odjeli za pulmologiju i palijativu",
+      "latitude": 45.440353,
+      "longitude": 16.344653
+    },
+    {
+      "name": "Opća bolnica Dr. Josip Benčević Slavonski Brod",
+      "latitude": 45.15549,
+      "longitude": 18.025451
+    },
+    {
+      "name": "Opća bolnica Dubrovnik",
+      "latitude": 42.648546,
+      "longitude": 18.076692
+    },
+    {
+      "name": "Opća bolnica Gospić",
+      "latitude": 44.543726,
+      "longitude": 15.362333
+    },
+    {
+      "name": "Opća bolnica i bolnica branitelja domovinskog rata Ogulin",
+      "latitude": 45.25735,
+      "longitude": 15.231367
+    },
+    {
+      "name": "Opća bolnica Karlovac",
+      "latitude": 45.477552,
+      "longitude": 15.538388
+    },
+    {
+      "name": "Opća bolnica Nova Gradiška",
+      "latitude": 45.261252,
+      "longitude": 17.390095
+    },
+    {
+      "name": "Opća bolnica Pula",
+      "latitude": 44.866644,
+      "longitude": 13.855989
+    },
+    {
+      "name": "Opća bolnica Varaždin",
+      "latitude": 46.303056,
+      "longitude": 16.326875
+    },
+    {
+      "name": "Opća bolnica Virovitica",
+      "latitude": 45.828596,
+      "longitude": 17.389075
+    },
+    {
+      "name": "Opća bolnica Zabok i bolnica hrvatskih veterana",
+      "latitude": 46.01781,
+      "longitude": 15.939915
+    },
+    {
+      "name": "Opća bolnica Zadar",
+      "latitude": 44.10754,
+      "longitude": 15.234683
+    },
+    {
+      "name": "Opća bolnica Šibensko-kninske županije",
+      "latitude": 43.732618,
+      "longitude": 15.900048
+    },
+    {
+      "name": "Opća i veteranska bolnica Hrvatski Ponos Knin",
+      "latitude": 44.052506,
+      "longitude": 16.21508
+    },
+    {
+      "name": "Opća županijska bolnica Našice",
+      "latitude": 45.48887,
+      "longitude": 18.09793
+    },
+    {
+      "name": "Opća županijska bolnica Pakrac i bolnica hrvatskih veterana",
+      "latitude": 45.430372,
+      "longitude": 17.188495
+    },
+    {
+      "name": "Opća županijska bolnica Požega",
+      "latitude": 45.344027,
+      "longitude": 17.699759
+    },
+    {
+      "name": "Opća županijska bolnica Vinkovci",
+      "latitude": 45.2925,
+      "longitude": 18.818786
+    },
+    {
+      "name": "Opšta bolnica Gradiška",
+      "latitude": 45.144832,
+      "longitude": 17.247023
+    },
+    {
+      "name": "Patológia",
+      "latitude": 45.344662,
+      "longitude": 17.700401
+    },
+    {
+      "name": "Psihijatrijska bolnica Lopača",
+      "latitude": 45.378121,
+      "longitude": 14.441154
+    },
+    {
+      "name": "Psihijatrijska bolnica Ugljan",
+      "latitude": 44.110906,
+      "longitude": 15.098595
+    },
+    {
+      "name": "Psihijatrijska bolnica za djecu i mladež",
+      "latitude": 45.814959,
+      "longitude": 15.963049
+    },
+    {
+      "name": "Služba za plućne bolesti i TBC Klenovnik",
+      "latitude": 46.273194,
+      "longitude": 16.075926
+    },
+    {
+      "name": "Služba za produženo liječenje i palijativnu skrb Novi Marof",
+      "latitude": 46.166094,
+      "longitude": 16.336853
+    },
+    {
+      "name": "Specijalna bolnica Biokovka",
+      "latitude": 43.303872,
+      "longitude": 17.007644
+    },
+    {
+      "name": "Specijalna bolnica dr. Nemec",
+      "latitude": 45.364056,
+      "longitude": 14.313483
+    },
+    {
+      "name": "Specijalna bolnica Primamed",
+      "latitude": 45.80003,
+      "longitude": 16.00818
+    },
+    {
+      "name": "Specijalna bolnica Sveta Katarina",
+      "latitude": 45.809297,
+      "longitude": 16.002575
+    },
+    {
+      "name": "Specijalna bolnica za kronične bolesti dječje dobi Gornja Bistra",
+      "latitude": 45.916526,
+      "longitude": 15.903859
+    },
+    {
+      "name": "Specijalna bolnica za medicinsku rehabilitaciju Kalos",
+      "latitude": 42.968343,
+      "longitude": 16.712797
+    },
+    {
+      "name": "Specijalna bolnica za medicinsku rehabilitaciju Krapinske Toplice",
+      "latitude": 46.093699,
+      "longitude": 15.837855
+    },
+    {
+      "name": "Specijalna bolnica za medicinsku rehabilitaciju Stubičke Toplice",
+      "latitude": 45.977506,
+      "longitude": 15.936053
+    },
+    {
+      "name": "Specijalna bolnica za medicinsku rehabilitaciju Varaždinske Toplice",
+      "latitude": 46.210386,
+      "longitude": 16.421097
+    },
+    {
+      "name": "Specijalna bolnica za ortopediju",
+      "latitude": 43.947735,
+      "longitude": 15.44722
+    },
+    {
+      "name": "Specijalna bolnica za plućne bolesti",
+      "latitude": 45.842194,
+      "longitude": 15.971548
+    },
+    {
+      "name": "Specijalna bolnica za produženo liječenje Duga Resa",
+      "latitude": 45.453483,
+      "longitude": 15.499723
+    },
+    {
+      "name": "Specijalna bolnica za zaštitu djece s neurorazvojnim i motoričkim smetnjama",
+      "latitude": 45.81914,
+      "longitude": 15.964084
+    },
+    {
+      "name": "Specijalna bolnica za zaštitu djece s neurorazvojnim i motoričkim smetnjama",
+      "latitude": 45.825541,
+      "longitude": 15.965997
+    },
+    {
+      "name": "Thalassotherapia Crikvenica",
+      "latitude": 45.186026,
+      "longitude": 14.677365
+    },
+    {
+      "name": "Thalassotherapia Opatija",
+      "latitude": 45.32898,
+      "longitude": 14.300226
+    },
+    {
+      "name": "Toplice Lipik - Specijalna bolnica za medicinsku rehabilitaciju",
+      "latitude": 45.413847,
+      "longitude": 17.161273
+    },
+    {
+      "name": "Zatvorska bolnica",
+      "latitude": 45.839794,
+      "longitude": 16.027652
+    },
+    {
+      "name": "Zavod za fizikalnu medicinu i rehabilitaciju",
+      "latitude": 45.582655,
+      "longitude": 18.462459
+    },
+    {
+      "name": "Zavod za pomorsku medicinu",
+      "latitude": 43.506798,
+      "longitude": 16.469368
+    },
+    {
+      "name": "Županijska bolnica Čakovec",
+      "latitude": 46.393623,
+      "longitude": 16.433666
+    },
+    {
+      "name": "Županijska specijalna bolnica Insula",
+      "latitude": 44.779301,
+      "longitude": 14.719645
+    }
+  ],
+  "meta": {
+    "title": "Bolnice - Besplatno preuzimanje",
+    "description": "Bolnice u Hrvatskoj (86 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=hospital), izrez EU-POIS/HR. Sadrži 86 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Bolnice | ListBase",
+    "seo_description": "Preuzmi Bolnice — 86 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 86 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

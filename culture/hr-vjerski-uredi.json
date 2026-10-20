@@ -1,0 +1,601 @@
+{
+  "id": "hr-vjerski-uredi",
+  "name": "Vjerski uredi",
+  "title": "Vjerski uredi",
+  "description": "Vjerski uredi u Hrvatskoj (112 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=religion), izrez EU-POIS/HR.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 112,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Baganelovica\"",
+      "latitude": 43.786207,
+      "longitude": 15.642729
+    },
+    {
+      "name": "Biskupija Šibenska",
+      "latitude": 43.735563,
+      "longitude": 15.888919
+    },
+    {
+      "name": "Biskupski ordinarijat",
+      "latitude": 45.330956,
+      "longitude": 17.677809
+    },
+    {
+      "name": "Crkvena općina Ilok",
+      "latitude": 45.223707,
+      "longitude": 19.388153
+    },
+    {
+      "name": "Crkveni dom",
+      "latitude": 45.802658,
+      "longitude": 18.664989
+    },
+    {
+      "name": "Dominikanski samostan sv. Nikole",
+      "latitude": 42.962703,
+      "longitude": 17.129208
+    },
+    {
+      "name": "Eparhija pakračko slavonska",
+      "latitude": 45.434832,
+      "longitude": 17.194983
+    },
+    {
+      "name": "Hrvatska biskupska konferencija",
+      "latitude": 45.838538,
+      "longitude": 15.978046
+    },
+    {
+      "name": "Hrvatska pravoslavna zajednica",
+      "latitude": 45.815521,
+      "longitude": 15.996862
+    },
+    {
+      "name": "Hrvatska Salezijanska provincija",
+      "latitude": 45.793349,
+      "longitude": 15.952986
+    },
+    {
+      "name": "Kapucinski samostan",
+      "latitude": 45.831375,
+      "longitude": 16.042224
+    },
+    {
+      "name": "Kristova crkva Samobor",
+      "latitude": 45.801265,
+      "longitude": 15.711571
+    },
+    {
+      "name": "Kršćanski centar Riječ Života",
+      "latitude": 45.901358,
+      "longitude": 16.842014
+    },
+    {
+      "name": "Medžlis Islamske zajednice Osijek",
+      "latitude": 45.55423,
+      "longitude": 18.688619
+    },
+    {
+      "name": "Međubiskupijsko sjemenište",
+      "latitude": 45.822749,
+      "longitude": 15.987087
+    },
+    {
+      "name": "Nadbiskupijski arhiv",
+      "latitude": 45.816139,
+      "longitude": 15.979531
+    },
+    {
+      "name": "Nadbiskupski ordinarijat",
+      "latitude": 44.11678,
+      "longitude": 15.224273
+    },
+    {
+      "name": "Nadbiskupski pastoralni institut",
+      "latitude": 45.815231,
+      "longitude": 15.979516
+    },
+    {
+      "name": "Nadbiskupsko sjemenište Zmajević",
+      "latitude": 44.116597,
+      "longitude": 15.223834
+    },
+    {
+      "name": "Parohijski dom",
+      "latitude": 45.263675,
+      "longitude": 15.228786
+    },
+    {
+      "name": "Parohijski dom",
+      "latitude": 45.519278,
+      "longitude": 18.553561
+    },
+    {
+      "name": "Pastoralni centar",
+      "latitude": 46.24927,
+      "longitude": 16.616536
+    },
+    {
+      "name": "Pastoralni centar blaženog Alojzija Stepinca",
+      "latitude": 45.82819,
+      "longitude": 16.109835
+    },
+    {
+      "name": "Rektorat Međubiskupijskog sjemeništa",
+      "latitude": 45.823309,
+      "longitude": 15.986061
+    },
+    {
+      "name": "Rkt. Župa Sv. Luke Evanđelista",
+      "latitude": 45.771242,
+      "longitude": 15.99607
+    },
+    {
+      "name": "Samostan sv. Dominika",
+      "latitude": 42.641729,
+      "longitude": 18.110899
+    },
+    {
+      "name": "Sjedište nadbiskupije",
+      "latitude": 45.329552,
+      "longitude": 14.437692
+    },
+    {
+      "name": "Srpska pravoslavna opština Darda",
+      "latitude": 45.625202,
+      "longitude": 18.688407
+    },
+    {
+      "name": "Sveti Stefan",
+      "latitude": 45.402949,
+      "longitude": 18.980914
+    },
+    {
+      "name": "Vikarijat Osijek",
+      "latitude": 45.564667,
+      "longitude": 18.66933
+    },
+    {
+      "name": "Vojni ordinarijat u Republici Hrvatskoj",
+      "latitude": 45.837791,
+      "longitude": 15.977986
+    },
+    {
+      "name": "Zagrebačka nadbiskupija",
+      "latitude": 45.814387,
+      "longitude": 15.980613
+    },
+    {
+      "name": "Župa Bezgrešnog začeća Blažene Djevice Marije",
+      "latitude": 45.149309,
+      "longitude": 18.946689
+    },
+    {
+      "name": "Župa Duha Svetoga - Đulovac",
+      "latitude": 45.663045,
+      "longitude": 17.4296
+    },
+    {
+      "name": "Župa Macinec",
+      "latitude": 46.388408,
+      "longitude": 16.323475
+    },
+    {
+      "name": "Župa mučeništva sv. Ivana Krstitelja",
+      "latitude": 45.517933,
+      "longitude": 18.675497
+    },
+    {
+      "name": "Župa Pohoda Blažene Djevice Marije Cirkvena",
+      "latitude": 45.935689,
+      "longitude": 16.658082
+    },
+    {
+      "name": "Župa Porođenja BDM",
+      "latitude": 43.493288,
+      "longitude": 16.60309
+    },
+    {
+      "name": "Župa Preslavnog Imena Marijina",
+      "latitude": 45.558758,
+      "longitude": 18.720191
+    },
+    {
+      "name": "Župa Presvetog Srca Isusova",
+      "latitude": 45.102371,
+      "longitude": 14.113662
+    },
+    {
+      "name": "Župa Presvetog Trojstva",
+      "latitude": 45.52013,
+      "longitude": 18.554109
+    },
+    {
+      "name": "Župa Presvetog Trojstva",
+      "latitude": 45.797301,
+      "longitude": 15.777474
+    },
+    {
+      "name": "Župa Rokovci-Andrijaševci",
+      "latitude": 45.227744,
+      "longitude": 18.741182
+    },
+    {
+      "name": "Župa Rođenja presvete Bogorodice",
+      "latitude": 45.250673,
+      "longitude": 19.08486
+    },
+    {
+      "name": "Župa sv. Augustina",
+      "latitude": 45.463456,
+      "longitude": 17.657109
+    },
+    {
+      "name": "Župa sv. Josipa Radnika Belišće",
+      "latitude": 45.684155,
+      "longitude": 18.40178
+    },
+    {
+      "name": "Župa sv. Jurja",
+      "latitude": 43.586208,
+      "longitude": 15.921381
+    },
+    {
+      "name": "Župa sv. Lovre",
+      "latitude": 43.49981,
+      "longitude": 16.520882
+    },
+    {
+      "name": "Župa sv. Martina",
+      "latitude": 45.226509,
+      "longitude": 18.432712
+    },
+    {
+      "name": "Župa sv. Mihaela Arkanđela",
+      "latitude": 45.445706,
+      "longitude": 17.613443
+    },
+    {
+      "name": "Župa sv. Mihovila",
+      "latitude": 43.815734,
+      "longitude": 15.592355
+    },
+    {
+      "name": "Župa sv. Nikole biskupa",
+      "latitude": 45.299657,
+      "longitude": 18.811035
+    },
+    {
+      "name": "Župa sv. Nikole Tavelića",
+      "latitude": 45.084908,
+      "longitude": 18.699887
+    },
+    {
+      "name": "Župa sv. Tome Rajić",
+      "latitude": 45.3048,
+      "longitude": 17.10371
+    },
+    {
+      "name": "Župa svete Lucije",
+      "latitude": 45.306084,
+      "longitude": 14.500403
+    },
+    {
+      "name": "Župa svetog Ilije",
+      "latitude": 45.156772,
+      "longitude": 18.39503
+    },
+    {
+      "name": "Župa svetog Ladislava kralja",
+      "latitude": 45.432702,
+      "longitude": 18.411051
+    },
+    {
+      "name": "Župa svetog Lovre",
+      "latitude": 45.056334,
+      "longitude": 19.071873
+    },
+    {
+      "name": "Župa svetog Mihaela Arkanđela",
+      "latitude": 45.761464,
+      "longitude": 18.161012
+    },
+    {
+      "name": "Župa svetog Vida",
+      "latitude": 45.884476,
+      "longitude": 16.418125
+    },
+    {
+      "name": "Župa svetog Vida",
+      "latitude": 45.953549,
+      "longitude": 17.236826
+    },
+    {
+      "name": "Župa Uzašašća Isusova",
+      "latitude": 45.313483,
+      "longitude": 18.001152
+    },
+    {
+      "name": "Župa Uznesenja Blažene Djevice Marije",
+      "latitude": 46.178553,
+      "longitude": 16.784093
+    },
+    {
+      "name": "Župa Uznesenja Blažene Djevice Marije (Brezovica)",
+      "latitude": 45.732082,
+      "longitude": 15.897759
+    },
+    {
+      "name": "Župa Uzvišenja Svetog Križa",
+      "latitude": 45.561592,
+      "longitude": 18.648663
+    },
+    {
+      "name": "Župe Presvetog Srca Isusova",
+      "latitude": 45.68588,
+      "longitude": 18.667363
+    },
+    {
+      "name": "Župni dvor",
+      "latitude": 45.441136,
+      "longitude": 16.275954
+    },
+    {
+      "name": "Župni dvor sv. Mateja apostola",
+      "latitude": 45.15122,
+      "longitude": 17.334155
+    },
+    {
+      "name": "Župni dvor sv. Petra i Pavla",
+      "latitude": 45.560761,
+      "longitude": 18.674922
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 42.766622,
+      "longitude": 16.898268
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 44.373917,
+      "longitude": 14.695496
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 44.873626,
+      "longitude": 15.632072
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.087899,
+      "longitude": 13.881634
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.146954,
+      "longitude": 18.884649
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.265228,
+      "longitude": 15.225346
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.288859,
+      "longitude": 18.804153
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.34056,
+      "longitude": 16.088944
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.370524,
+      "longitude": 14.461118
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.492661,
+      "longitude": 15.555543
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.520771,
+      "longitude": 15.529897
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.571664,
+      "longitude": 18.600601
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.640087,
+      "longitude": 15.483101
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.659452,
+      "longitude": 18.418199
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.793365,
+      "longitude": 15.952858
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.796802,
+      "longitude": 15.97379
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.798285,
+      "longitude": 16.045159
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.799076,
+      "longitude": 15.905479
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.800249,
+      "longitude": 15.996818
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 45.801436,
+      "longitude": 15.709811
+    },
+    {
+      "name": "Župni ured",
+      "latitude": 46.161259,
+      "longitude": 16.831311
+    },
+    {
+      "name": "Župni ured bl. Alojzija Stepnica",
+      "latitude": 45.800096,
+      "longitude": 15.811096
+    },
+    {
+      "name": "Župni ured Bristivica",
+      "latitude": 43.582457,
+      "longitude": 16.154554
+    },
+    {
+      "name": "Župni ured Donja Dubrava",
+      "latitude": 46.315395,
+      "longitude": 16.80993
+    },
+    {
+      "name": "Župni ured Donji Vidovec",
+      "latitude": 46.330097,
+      "longitude": 16.78344
+    },
+    {
+      "name": "Župni ured Gospe od Zdravlja",
+      "latitude": 43.790524,
+      "longitude": 15.636873
+    },
+    {
+      "name": "Župni ured Ivanec",
+      "latitude": 46.222649,
+      "longitude": 16.124758
+    },
+    {
+      "name": "Župni ured Jasenovac",
+      "latitude": 45.269126,
+      "longitude": 16.908785
+    },
+    {
+      "name": "Župni ured Martijanec",
+      "latitude": 46.264008,
+      "longitude": 16.545722
+    },
+    {
+      "name": "Župni ured Orehovica",
+      "latitude": 46.335398,
+      "longitude": 16.508069
+    },
+    {
+      "name": "Župni ured Pohođenja BDM",
+      "latitude": 43.513054,
+      "longitude": 16.42898
+    },
+    {
+      "name": "Župni ured Slunj",
+      "latitude": 45.115913,
+      "longitude": 15.58799
+    },
+    {
+      "name": "Župni ured Sv. Filip i Jakov",
+      "latitude": 43.961308,
+      "longitude": 15.427779
+    },
+    {
+      "name": "Župni ured Sv. Jurja - Trsat",
+      "latitude": 45.330925,
+      "longitude": 14.457357
+    },
+    {
+      "name": "Župni ured sv. Martina biskupa Beli Manastir",
+      "latitude": 45.774782,
+      "longitude": 18.610389
+    },
+    {
+      "name": "Župni ured sv. Rozalije, djevice",
+      "latitude": 45.486188,
+      "longitude": 18.63662
+    },
+    {
+      "name": "Župni ured Sv. Stjepana",
+      "latitude": 43.18298,
+      "longitude": 16.598368
+    },
+    {
+      "name": "Župni ured Sv. Stjepana pod borovima",
+      "latitude": 43.508213,
+      "longitude": 16.435527
+    },
+    {
+      "name": "Župni ured Sveta Marija",
+      "latitude": 46.332384,
+      "longitude": 16.73945
+    },
+    {
+      "name": "Župni ured Veliki Bukovec",
+      "latitude": 46.287803,
+      "longitude": 16.709548
+    },
+    {
+      "name": "Župni ured Zapolje",
+      "latitude": 45.243322,
+      "longitude": 17.466049
+    },
+    {
+      "name": "Župni ured Čazma",
+      "latitude": 45.748355,
+      "longitude": 16.612591
+    },
+    {
+      "name": "Жупа Светог Петра и Пава апостола",
+      "latitude": 45.792321,
+      "longitude": 18.934378
+    }
+  ],
+  "meta": {
+    "title": "Vjerski uredi - Besplatno preuzimanje",
+    "description": "Vjerski uredi u Hrvatskoj (112 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=religion), izrez EU-POIS/HR. Sadrži 112 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vjerski uredi | ListBase",
+    "seo_description": "Preuzmi Vjerski uredi — 112 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 112 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "id": "hr-kazalista",
+  "name": "Kazališta",
+  "title": "Kazališta",
+  "description": "Kazališta u Hrvatskoj (86 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=theatre), izrez EU-POIS/HR.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "&TD",
+      "latitude": 45.803282,
+      "longitude": 15.967335
+    },
+    {
+      "name": "Amatersko kazalište Belišće",
+      "latitude": 45.681747,
+      "longitude": 18.404029
+    },
+    {
+      "name": "Amfiteatar Duga Resa",
+      "latitude": 45.452773,
+      "longitude": 15.496753
+    },
+    {
+      "name": "Amfiteatar Lun",
+      "latitude": 44.688769,
+      "longitude": 14.739171
+    },
+    {
+      "name": "Amfiteatar Wasserburg",
+      "latitude": 45.671048,
+      "longitude": 15.646746
+    },
+    {
+      "name": "Animation Arena",
+      "latitude": 45.346122,
+      "longitude": 13.616623
+    },
+    {
+      "name": "Atrij",
+      "latitude": 46.06644,
+      "longitude": 15.784593
+    },
+    {
+      "name": "Bagatella",
+      "latitude": 45.802744,
+      "longitude": 15.972798
+    },
+    {
+      "name": "Bjelovarsko kazalište",
+      "latitude": 45.897594,
+      "longitude": 16.842265
+    },
+    {
+      "name": "Centar za kulturu Čakovec",
+      "latitude": 46.390472,
+      "longitude": 16.434521
+    },
+    {
+      "name": "Daska",
+      "latitude": 45.485495,
+      "longitude": 16.373108
+    },
+    {
+      "name": "Dječje kazalište Branka Mihaljevića",
+      "latitude": 45.555311,
+      "longitude": 18.720508
+    },
+    {
+      "name": "Dječje kazalište Dubrava",
+      "latitude": 45.824341,
+      "longitude": 16.041697
+    },
+    {
+      "name": "Dom Kulture",
+      "latitude": 45.48323,
+      "longitude": 16.773151
+    },
+    {
+      "name": "Dom kulture",
+      "latitude": 45.900387,
+      "longitude": 16.843951
+    },
+    {
+      "name": "Dom kulture",
+      "latitude": 46.040252,
+      "longitude": 17.067003
+    },
+    {
+      "name": "Domoljub",
+      "latitude": 46.159392,
+      "longitude": 16.829139
+    },
+    {
+      "name": "Dramsko kazalište Gavella",
+      "latitude": 45.812107,
+      "longitude": 15.968678
+    },
+    {
+      "name": "Dvorana Lora",
+      "latitude": 43.521233,
+      "longitude": 16.42808
+    },
+    {
+      "name": "Dvorana POU-a",
+      "latitude": 45.408533,
+      "longitude": 13.6588
+    },
+    {
+      "name": "Festivalska dvorana",
+      "latitude": 46.162435,
+      "longitude": 15.871409
+    },
+    {
+      "name": "Filodrammatica",
+      "latitude": 45.327451,
+      "longitude": 14.440748
+    },
+    {
+      "name": "Gradska glazba Virovitica",
+      "latitude": 45.834335,
+      "longitude": 17.383128
+    },
+    {
+      "name": "Gradsko kazalište",
+      "latitude": 43.183644,
+      "longitude": 16.59434
+    },
+    {
+      "name": "Gradsko kazalište lutaka",
+      "latitude": 43.509793,
+      "longitude": 16.436831
+    },
+    {
+      "name": "Gradsko kazalište mladih",
+      "latitude": 43.509377,
+      "longitude": 16.436804
+    },
+    {
+      "name": "Gradsko kazalište Požega",
+      "latitude": 45.330596,
+      "longitude": 17.676989
+    },
+    {
+      "name": "Gradsko kazalište Trešnja",
+      "latitude": 45.794662,
+      "longitude": 15.943695
+    },
+    {
+      "name": "Gradsko kazalište Žar ptica",
+      "latitude": 45.832659,
+      "longitude": 15.994533
+    },
+    {
+      "name": "Gradsko kulturno središte",
+      "latitude": 43.053639,
+      "longitude": 17.65247
+    },
+    {
+      "name": "Histrionski dom",
+      "latitude": 45.812969,
+      "longitude": 15.96406
+    },
+    {
+      "name": "HNK2",
+      "latitude": 45.805834,
+      "longitude": 15.960872
+    },
+    {
+      "name": "Hrvatski dom",
+      "latitude": 45.577186,
+      "longitude": 16.940576
+    },
+    {
+      "name": "Hrvatski dom Petrinja",
+      "latitude": 45.442089,
+      "longitude": 16.27514
+    },
+    {
+      "name": "Hrvatski kulturni dom na Sušaku",
+      "latitude": 45.325772,
+      "longitude": 14.450964
+    },
+    {
+      "name": "Hrvatsko narodno kazaliste Ivana pl. Zajca",
+      "latitude": 45.324396,
+      "longitude": 14.444649
+    },
+    {
+      "name": "Hrvatsko narodno kazalište",
+      "latitude": 44.114873,
+      "longitude": 15.226503
+    },
+    {
+      "name": "Hrvatsko narodno kazalište u Osijeku",
+      "latitude": 45.559651,
+      "longitude": 18.676678
+    },
+    {
+      "name": "Hrvatsko narodno kazalište u Splitu",
+      "latitude": 43.511002,
+      "longitude": 16.437248
+    },
+    {
+      "name": "Hrvatsko narodno kazalište u Varaždinu",
+      "latitude": 46.305712,
+      "longitude": 16.337136
+    },
+    {
+      "name": "Hrvatsko narodno kazalište u Zagrebu",
+      "latitude": 45.809434,
+      "longitude": 15.970024
+    },
+    {
+      "name": "Hrvatsko narodno kazalište u Šibeniku",
+      "latitude": 43.734926,
+      "longitude": 15.892996
+    },
+    {
+      "name": "Hvarsko kazalište",
+      "latitude": 43.172122,
+      "longitude": 16.441471
+    },
+    {
+      "name": "Istarsko narodno kazalište",
+      "latitude": 44.867141,
+      "longitude": 13.847223
+    },
+    {
+      "name": "Kazališna dvorana \"Antonio Coslovich\"",
+      "latitude": 45.432955,
+      "longitude": 13.522733
+    },
+    {
+      "name": "Kazališno-koncertna dvorana \"Ivana Brlić-Mažuranić\"",
+      "latitude": 45.15369,
+      "longitude": 18.009592
+    },
+    {
+      "name": "Kazalište",
+      "latitude": 45.832783,
+      "longitude": 17.38265
+    },
+    {
+      "name": "Kazalište 21",
+      "latitude": 45.483217,
+      "longitude": 16.378075
+    },
+    {
+      "name": "Kazalište Ivan Goran Kovačić",
+      "latitude": 45.814695,
+      "longitude": 15.977278
+    },
+    {
+      "name": "Kazalište Komedija",
+      "latitude": 45.816093,
+      "longitude": 15.978098
+    },
+    {
+      "name": "Kazalište lutaka",
+      "latitude": 44.112721,
+      "longitude": 15.227144
+    },
+    {
+      "name": "Kazalište Marina Držića",
+      "latitude": 42.640513,
+      "longitude": 18.110906
+    },
+    {
+      "name": "Kazalište Oz",
+      "latitude": 45.178593,
+      "longitude": 14.235686
+    },
+    {
+      "name": "Kazalište slijepih NOVI ŽIVOT",
+      "latitude": 45.806379,
+      "longitude": 15.983492
+    },
+    {
+      "name": "Kazalište „Mika Živković“ – Retkovci",
+      "latitude": 45.233765,
+      "longitude": 18.651823
+    },
+    {
+      "name": "Knap",
+      "latitude": 45.808559,
+      "longitude": 16.018107
+    },
+    {
+      "name": "Koncertna dvorana Franjo Krežma",
+      "latitude": 45.555755,
+      "longitude": 18.695114
+    },
+    {
+      "name": "KUC Kalvarija",
+      "latitude": 45.328844,
+      "longitude": 14.44547
+    },
+    {
+      "name": "Kulturni centar Travno",
+      "latitude": 45.771181,
+      "longitude": 15.995069
+    },
+    {
+      "name": "KunstTeatar",
+      "latitude": 45.799355,
+      "longitude": 15.947131
+    },
+    {
+      "name": "Ljetna pozornica",
+      "latitude": 45.335109,
+      "longitude": 14.31045
+    },
+    {
+      "name": "Ljetna pozornica Matulji",
+      "latitude": 45.362516,
+      "longitude": 14.324751
+    },
+    {
+      "name": "Ljetno kino",
+      "latitude": 43.053566,
+      "longitude": 17.653048
+    },
+    {
+      "name": "Luda kuća",
+      "latitude": 45.811361,
+      "longitude": 15.998061
+    },
+    {
+      "name": "Ludens Teatar",
+      "latitude": 46.162941,
+      "longitude": 16.82711
+    },
+    {
+      "name": "Lutkarska scena Ivana Brlić - Mažuranić",
+      "latitude": 45.779342,
+      "longitude": 15.996355
+    },
+    {
+      "name": "Mala ljetna pozornica",
+      "latitude": 45.334993,
+      "longitude": 14.309907
+    },
+    {
+      "name": "Mala scena",
+      "latitude": 45.81966,
+      "longitude": 15.979693
+    },
+    {
+      "name": "Malo kazaliste",
+      "latitude": 45.085626,
+      "longitude": 14.123456
+    },
+    {
+      "name": "Marjanski amfiteatar",
+      "latitude": 43.508975,
+      "longitude": 16.424607
+    },
+    {
+      "name": "MINT Cabaret",
+      "latitude": 45.801465,
+      "longitude": 15.961233
+    },
+    {
+      "name": "Multimedijalni centar Kult",
+      "latitude": 46.305662,
+      "longitude": 16.340502
+    },
+    {
+      "name": "Palma",
+      "latitude": 45.255977,
+      "longitude": 13.582774
+    },
+    {
+      "name": "POU - Kazalište",
+      "latitude": 45.701764,
+      "longitude": 17.703519
+    },
+    {
+      "name": "Satiričko kazalište Kerempuh",
+      "latitude": 45.81231,
+      "longitude": 15.9711
+    },
+    {
+      "name": "Scena Vidra",
+      "latitude": 45.806069,
+      "longitude": 15.983824
+    },
+    {
+      "name": "Smješko",
+      "latitude": 45.810942,
+      "longitude": 15.959098
+    },
+    {
+      "name": "Spomen dom",
+      "latitude": 45.240174,
+      "longitude": 13.939124
+    },
+    {
+      "name": "Teatar EXIT",
+      "latitude": 45.812557,
+      "longitude": 15.94998
+    },
+    {
+      "name": "Teatar Rugantino",
+      "latitude": 45.811771,
+      "longitude": 15.987319
+    },
+    {
+      "name": "Teatar uz more",
+      "latitude": 43.521356,
+      "longitude": 16.42811
+    },
+    {
+      "name": "Teatrin DVA Ferala",
+      "latitude": 43.261559,
+      "longitude": 16.655987
+    },
+    {
+      "name": "Teatro Fenice",
+      "latitude": 45.32905,
+      "longitude": 14.438817
+    },
+    {
+      "name": "Zagrebačko kazalište lutaka",
+      "latitude": 45.807191,
+      "longitude": 15.977297
+    },
+    {
+      "name": "Zagrebačko kazalište mladih",
+      "latitude": 45.811095,
+      "longitude": 15.975861
+    },
+    {
+      "name": "Zorin dom",
+      "latitude": 45.491684,
+      "longitude": 15.550729
+    }
+  ],
+  "meta": {
+    "title": "Kazališta - Besplatno preuzimanje",
+    "description": "Kazališta u Hrvatskoj (86 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=theatre), izrez EU-POIS/HR. Sadrži 86 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kazališta | ListBase",
+    "seo_description": "Preuzmi Kazališta — 86 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 86 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

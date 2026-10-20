@@ -1,0 +1,556 @@
+{
+  "id": "hr-udruge",
+  "name": "Udruge",
+  "title": "Udruge",
+  "description": "Udruge u Hrvatskoj (103 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=association), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 103,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ADOPTA - udruga za potporu posvajanju",
+      "latitude": 45.80741,
+      "longitude": 15.953781
+    },
+    {
+      "name": "Agape-udruga osoba sa invaliditetom",
+      "latitude": 43.442593,
+      "longitude": 16.688958
+    },
+    {
+      "name": "AK Požega",
+      "latitude": 45.332028,
+      "longitude": 17.671254
+    },
+    {
+      "name": "Akademija tehničkih znanosti Hrvatske",
+      "latitude": 45.807309,
+      "longitude": 15.963515
+    },
+    {
+      "name": "Argonauta",
+      "latitude": 43.814524,
+      "longitude": 15.593292
+    },
+    {
+      "name": "Attack",
+      "latitude": 45.806386,
+      "longitude": 15.96481
+    },
+    {
+      "name": "BK Pedala",
+      "latitude": 43.514393,
+      "longitude": 16.469411
+    },
+    {
+      "name": "Concordia discors, Akademski zbor Filozofkog fakulteta u Zagrebu",
+      "latitude": 45.796684,
+      "longitude": 15.971336
+    },
+    {
+      "name": "Crveni križ",
+      "latitude": 45.410556,
+      "longitude": 13.965643
+    },
+    {
+      "name": "Crveni križ",
+      "latitude": 45.76572,
+      "longitude": 18.166182
+    },
+    {
+      "name": "Crveni križ Požega",
+      "latitude": 45.339784,
+      "longitude": 17.682211
+    },
+    {
+      "name": "Drugo More",
+      "latitude": 45.32757,
+      "longitude": 14.440876
+    },
+    {
+      "name": "Društvo arhitektonskih i građevinskih inžinjera i tehničara Požega",
+      "latitude": 45.333315,
+      "longitude": 17.676158
+    },
+    {
+      "name": "Društvo multiple skleroze Grada Zagreba",
+      "latitude": 45.773657,
+      "longitude": 15.964839
+    },
+    {
+      "name": "Gradska glasba Sinj",
+      "latitude": 43.703179,
+      "longitude": 16.641632
+    },
+    {
+      "name": "HAK - Auto klub 'Rijeka'",
+      "latitude": 45.328789,
+      "longitude": 14.43895
+    },
+    {
+      "name": "HAK - Regionalni ispitni centar Rijeka",
+      "latitude": 45.328405,
+      "longitude": 14.43921
+    },
+    {
+      "name": "HAK-Usluge d.o.o.",
+      "latitude": 45.477243,
+      "longitude": 16.776507
+    },
+    {
+      "name": "HDZ",
+      "latitude": 43.444082,
+      "longitude": 16.692355
+    },
+    {
+      "name": "HGSS - Stanica Split",
+      "latitude": 43.519406,
+      "longitude": 16.458071
+    },
+    {
+      "name": "HGSS Stanica Split - ispostava Kaštela",
+      "latitude": 43.552295,
+      "longitude": 16.362437
+    },
+    {
+      "name": "HPD Japetić Samobor",
+      "latitude": 45.801553,
+      "longitude": 15.713646
+    },
+    {
+      "name": "Hrvatska udruga bivših studenata i prijatelja Geodetskog fakulteta Sveučilišta u Zagrebu",
+      "latitude": 45.807989,
+      "longitude": 15.963351
+    },
+    {
+      "name": "Hrvatski autoklub",
+      "latitude": 46.288346,
+      "longitude": 16.358582
+    },
+    {
+      "name": "HRVATSKI CRVENI KRIŽ",
+      "latitude": 45.026019,
+      "longitude": 14.575479
+    },
+    {
+      "name": "Hrvatski Crveni križ",
+      "latitude": 45.483355,
+      "longitude": 16.374658
+    },
+    {
+      "name": "Hrvatski crveni križ. Gradsko društvo crvenog križa Slunj.",
+      "latitude": 45.115273,
+      "longitude": 15.584607
+    },
+    {
+      "name": "Hrvatski jedriličarski savez",
+      "latitude": 43.508781,
+      "longitude": 16.452421
+    },
+    {
+      "name": "Hrvatsko društvo likovnih umjetnika",
+      "latitude": 45.809973,
+      "longitude": 15.987025
+    },
+    {
+      "name": "Hrvatsko planinarsko društvo Mosor",
+      "latitude": 43.508986,
+      "longitude": 16.435331
+    },
+    {
+      "name": "Hrvatsko planinarsko društvo Željezničar",
+      "latitude": 45.802014,
+      "longitude": 15.982176
+    },
+    {
+      "name": "HSPD Sljeme",
+      "latitude": 45.845832,
+      "longitude": 15.92872
+    },
+    {
+      "name": "Hvidra Omiš",
+      "latitude": 43.445585,
+      "longitude": 16.686348
+    },
+    {
+      "name": "HVIDRA Susedgrad",
+      "latitude": 45.814409,
+      "longitude": 15.874225
+    },
+    {
+      "name": "Jockey klub Hrvatske",
+      "latitude": 45.765643,
+      "longitude": 15.904892
+    },
+    {
+      "name": "Južne strane",
+      "latitude": 43.785627,
+      "longitude": 15.644502
+    },
+    {
+      "name": "Katolička udruga Veronikin rubac",
+      "latitude": 45.561708,
+      "longitude": 18.697165
+    },
+    {
+      "name": "klub žena liječenih od raka dojke",
+      "latitude": 43.443989,
+      "longitude": 16.691785
+    },
+    {
+      "name": "Kulturno umjetnička udruga Staro Brestje",
+      "latitude": 45.833168,
+      "longitude": 16.093064
+    },
+    {
+      "name": "Lovačka udruga „Jareb” Gustirna",
+      "latitude": 43.534313,
+      "longitude": 16.103406
+    },
+    {
+      "name": "Lovački dom Nedelišće",
+      "latitude": 46.366921,
+      "longitude": 16.386666
+    },
+    {
+      "name": "Lovački savez Požeško-slavonske županije",
+      "latitude": 45.333298,
+      "longitude": 17.67336
+    },
+    {
+      "name": "Lovačko društvo Zrinski",
+      "latitude": 45.348497,
+      "longitude": 18.980623
+    },
+    {
+      "name": "Milan Istra",
+      "latitude": 45.433838,
+      "longitude": 13.517659
+    },
+    {
+      "name": "Mirovna grupa mladih Dunav",
+      "latitude": 45.349187,
+      "longitude": 18.991916
+    },
+    {
+      "name": "MNK Jezera",
+      "latitude": 43.78552,
+      "longitude": 15.644544
+    },
+    {
+      "name": "NEDWirelles",
+      "latitude": 46.372342,
+      "longitude": 16.387577
+    },
+    {
+      "name": "NK Mraclin",
+      "latitude": 45.661913,
+      "longitude": 16.099819
+    },
+    {
+      "name": "Outward Bound Croatia",
+      "latitude": 44.596314,
+      "longitude": 15.337797
+    },
+    {
+      "name": "Park prirode Kopački Rit, Šetnica",
+      "latitude": 45.608108,
+      "longitude": 18.789061
+    },
+    {
+      "name": "Planinarsko društvo Imber Omiš",
+      "latitude": 43.441748,
+      "longitude": 16.688343
+    },
+    {
+      "name": "Planinarsko društvo Paklenica",
+      "latitude": 44.114073,
+      "longitude": 15.226714
+    },
+    {
+      "name": "Planinarsko društvo sveučilišta Velebit",
+      "latitude": 45.809652,
+      "longitude": 15.961733
+    },
+    {
+      "name": "poljoprivredno turistička zadruga Faust Vrančić",
+      "latitude": 43.724899,
+      "longitude": 15.797698
+    },
+    {
+      "name": "Ribički klub Šaran Palinovec",
+      "latitude": 46.389408,
+      "longitude": 16.595232
+    },
+    {
+      "name": "Savez društava multiple skleroze Hrvatske",
+      "latitude": 45.773659,
+      "longitude": 15.965086
+    },
+    {
+      "name": "Sportski savez grada Zagreba",
+      "latitude": 45.792167,
+      "longitude": 15.95758
+    },
+    {
+      "name": "SRK Pedala Laganini",
+      "latitude": 45.496059,
+      "longitude": 15.553648
+    },
+    {
+      "name": "Student servis Split",
+      "latitude": 43.511991,
+      "longitude": 16.465963
+    },
+    {
+      "name": "Udruga BUP",
+      "latitude": 45.809578,
+      "longitude": 15.985505
+    },
+    {
+      "name": "Udruga hrvatskih branitelja Sajmište",
+      "latitude": 45.343475,
+      "longitude": 19.002345
+    },
+    {
+      "name": "Udruga invalida koprivničko-križevačke županije",
+      "latitude": 46.161591,
+      "longitude": 16.818732
+    },
+    {
+      "name": "Udruga izviđača Omiš",
+      "latitude": 43.442052,
+      "longitude": 16.688321
+    },
+    {
+      "name": "Udruga Leptirići",
+      "latitude": 43.053935,
+      "longitude": 17.641274
+    },
+    {
+      "name": "Udruga mladih",
+      "latitude": 45.543528,
+      "longitude": 18.049033
+    },
+    {
+      "name": "Udruga mladih Hiperaktivni Cestica",
+      "latitude": 46.369407,
+      "longitude": 16.129688
+    },
+    {
+      "name": "Udruga mladih Mačkovac",
+      "latitude": 45.151616,
+      "longitude": 17.333463
+    },
+    {
+      "name": "Udruga Mogu",
+      "latitude": 45.571464,
+      "longitude": 18.648005
+    },
+    {
+      "name": "Udruga Navijača Gerila Kutina",
+      "latitude": 45.488414,
+      "longitude": 16.783426
+    },
+    {
+      "name": "Udruga oboljelih od ASL-a",
+      "latitude": 45.77487,
+      "longitude": 15.965559
+    },
+    {
+      "name": "Udruga osoba s intelektualnim teškoćama Srce Rijeka",
+      "latitude": 45.332069,
+      "longitude": 14.433425
+    },
+    {
+      "name": "Udruga P.O.I.N.T.",
+      "latitude": 46.021551,
+      "longitude": 16.544671
+    },
+    {
+      "name": "Udruga pčelara Pula",
+      "latitude": 44.868531,
+      "longitude": 13.849927
+    },
+    {
+      "name": "Udruga RIOS",
+      "latitude": 45.547586,
+      "longitude": 18.685151
+    },
+    {
+      "name": "udruga roditelja djece i odraslih sa posebnim potrebama",
+      "latitude": 43.441679,
+      "longitude": 16.688355
+    },
+    {
+      "name": "Udruga roditelja OKO",
+      "latitude": 45.809764,
+      "longitude": 15.994258
+    },
+    {
+      "name": "Udruga roditelja poginulih u dom.ratu",
+      "latitude": 43.441803,
+      "longitude": 16.688343
+    },
+    {
+      "name": "Udruga Slama",
+      "latitude": 45.559204,
+      "longitude": 18.69632
+    },
+    {
+      "name": "Udruga slijepih",
+      "latitude": 45.557759,
+      "longitude": 18.671946
+    },
+    {
+      "name": "Udruga specijalne policije iz Domovinskog rata",
+      "latitude": 45.810599,
+      "longitude": 15.986477
+    },
+    {
+      "name": "Udruga umirovljenika Nedelišće",
+      "latitude": 46.37693,
+      "longitude": 16.383688
+    },
+    {
+      "name": "Udruga za biološka istraživanja BIOM",
+      "latitude": 45.808507,
+      "longitude": 15.974145
+    },
+    {
+      "name": "Udruga za očuvanje folklora, Prostor istine",
+      "latitude": 43.444871,
+      "longitude": 16.691946
+    },
+    {
+      "name": "Udruga za ruralni turizam Đola",
+      "latitude": 45.62353,
+      "longitude": 18.687126
+    },
+    {
+      "name": "Udruga športskih ribolovaca invalida domovinskog rata Odra - novi zagreb",
+      "latitude": 45.766133,
+      "longitude": 15.902463
+    },
+    {
+      "name": "Udruga žena Šipek",
+      "latitude": 46.453461,
+      "longitude": 16.56615
+    },
+    {
+      "name": "Udruženje obrtnika Omiš",
+      "latitude": 43.445532,
+      "longitude": 16.686408
+    },
+    {
+      "name": "Udruženje obrtnika Samobor",
+      "latitude": 45.80559,
+      "longitude": 15.710489
+    },
+    {
+      "name": "UHDDR Makarsko Primorje",
+      "latitude": 43.293963,
+      "longitude": 17.02046
+    },
+    {
+      "name": "Ukrajinski dom",
+      "latitude": 45.328248,
+      "longitude": 18.993744
+    },
+    {
+      "name": "Vatrogasna zajednica općine Orle",
+      "latitude": 45.68911,
+      "longitude": 16.231857
+    },
+    {
+      "name": "Vatrogasna zajednica Požeško-slavonske županije",
+      "latitude": 45.332526,
+      "longitude": 17.6744
+    },
+    {
+      "name": "Zagrebačka zajednica tehničke kulture",
+      "latitude": 45.809483,
+      "longitude": 15.986251
+    },
+    {
+      "name": "Zagrebački para sportski savez",
+      "latitude": 45.79226,
+      "longitude": 15.957638
+    },
+    {
+      "name": "Zagrebački radioamaterski savez",
+      "latitude": 45.811239,
+      "longitude": 15.9884
+    },
+    {
+      "name": "Zagrebačko tjelovježbeno društvo Hrvatski sokol",
+      "latitude": 45.808662,
+      "longitude": 15.970017
+    },
+    {
+      "name": "Zajednica Dobri Pastir - Klis",
+      "latitude": 43.585806,
+      "longitude": 16.572746
+    },
+    {
+      "name": "Zajedničko vijeće općina",
+      "latitude": 45.348377,
+      "longitude": 18.997565
+    },
+    {
+      "name": "Zametske maškare i zvončari",
+      "latitude": 45.34451,
+      "longitude": 14.38565
+    },
+    {
+      "name": "Športsko ribolovno društvo Ludbreg",
+      "latitude": 46.240815,
+      "longitude": 16.604511
+    },
+    {
+      "name": "Športsko ribolovno društvo Pešćenica",
+      "latitude": 45.772297,
+      "longitude": 16.026063
+    },
+    {
+      "name": "ŠRD Punta rata",
+      "latitude": 43.784615,
+      "longitude": 15.644896
+    },
+    {
+      "name": "Židovska općina Zagreb",
+      "latitude": 45.811579,
+      "longitude": 15.981561
+    }
+  ],
+  "meta": {
+    "title": "Udruge - Besplatno preuzimanje",
+    "description": "Udruge u Hrvatskoj (103 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=association), izrez EU-POIS/HR. Sadrži 103 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Udruge | ListBase",
+    "seo_description": "Preuzmi Udruge — 103 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 103 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

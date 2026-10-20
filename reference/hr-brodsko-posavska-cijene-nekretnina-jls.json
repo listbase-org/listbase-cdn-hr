@@ -1,0 +1,445 @@
+{
+  "id": "hr-brodsko-posavska-cijene-nekretnina-jls",
+  "name": "Medijalne cijene nekretnina po m² (JLS) — Brodsko-posavska",
+  "title": "Medijalne cijene nekretnina po m² (JLS) — Brodsko-posavska",
+  "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Brodsko-posavska: 28 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "2012",
+      "label": "2012",
+      "type": "string"
+    },
+    {
+      "key": "2013",
+      "label": "2013",
+      "type": "string"
+    },
+    {
+      "key": "2014",
+      "label": "2014",
+      "type": "string"
+    },
+    {
+      "key": "2015",
+      "label": "2015",
+      "type": "string"
+    },
+    {
+      "key": "2016",
+      "label": "2016",
+      "type": "string"
+    },
+    {
+      "key": "2017",
+      "label": "2017",
+      "type": "string"
+    },
+    {
+      "key": "2018",
+      "label": "2018",
+      "type": "string"
+    },
+    {
+      "key": "2019",
+      "label": "2019",
+      "type": "string"
+    },
+    {
+      "key": "Šifra",
+      "label": "ŠIfra",
+      "type": "number"
+    },
+    {
+      "key": "Naziv županije",
+      "label": "Naziv žUpanije",
+      "type": "string"
+    },
+    {
+      "key": "Naziv JLS-a",
+      "label": "Naziv JLS A",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 108,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "BEBRINA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 396,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "BRODSKI STUPNIK"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 5673,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "BUKOVLJE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 469,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "CERNIK"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 680,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "DAVOR"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 817,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "DONJI ANDRIJEVCI"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 5681,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "DRAGALIĆ"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 1180,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "GARČIN"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 5690,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "GORNJA VRBA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 1279,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "GORNJI BOGIĆEVCI"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 1406,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "GUNDINCI"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 1856,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "KLAKAR"
+    },
+    {
+      "2012": 4433.49,
+      "2013": 4571.05,
+      "2014": 4363.83,
+      "2015": 4193.62,
+      "2016": 4480.5,
+      "2017": 3505.3,
+      "2018": 4027.4,
+      "2019": 3101.26,
+      "Šifra": 2844,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "NOVA GRADIŠKA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 2852,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "NOVA KAPELA"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "-",
+      "2015": "z",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 2992,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "OKUČANI"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 3034,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "OPRISAVCI"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 3093,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "ORIOVAC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 3387,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "PODCRKAVLJE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 3727,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "REŠETARI"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 3883,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "SIBINJ"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 5703,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "SIKIREVCI"
+    },
+    {
+      "2012": 5472.61,
+      "2013": 5651.47,
+      "2014": 5702.69,
+      "2015": 5214.19,
+      "2016": 5249.36,
+      "2017": 4981.6,
+      "2018": 5180.5,
+      "2019": 5225.04,
+      "Šifra": 3964,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "SLAVONSKI BROD"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 3972,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "SLAVONSKI ŠAMAC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "z",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 4120,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "STARA GRADIŠKA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 4189,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "STARO PETROVO SELO"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 4766,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "VELIKA KOPANICA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 5061,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "VRBJE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 5142,
+      "Naziv županije": "Brodsko-posavska",
+      "Naziv JLS-a": "VRPOLJE"
+    }
+  ],
+  "meta": {
+    "title": "Medijalne cijene nekretnina po m² (JLS) — Brodsko-posavska - Besplatno preuzimanje",
+    "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Brodsko-posavska: 28 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data. Sadrži 28 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Medijalne cijene nekretnina po m² (JLS) — Brodsko-posavska | ListBase",
+    "seo_description": "Preuzmi Medijalne cijene nekretnina po m² (JLS) — Brodsko-posavska — 28 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 28 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

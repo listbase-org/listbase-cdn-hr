@@ -1,0 +1,2266 @@
+{
+  "id": "hr-drustveni-domovi",
+  "name": "Društveni domovi",
+  "title": "Društveni domovi",
+  "description": "Društveni domovi u Hrvatskoj (445 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=community_centre), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 445,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "4sobe",
+      "latitude": 45.793549,
+      "longitude": 15.915817
+    },
+    {
+      "name": "Annah",
+      "latitude": 45.793783,
+      "longitude": 15.910901
+    },
+    {
+      "name": "Biciklistička Udruga Guvernal",
+      "latitude": 45.575561,
+      "longitude": 16.941051
+    },
+    {
+      "name": "Bunker - centar za mlade",
+      "latitude": 45.794779,
+      "longitude": 15.720199
+    },
+    {
+      "name": "Centar Knap",
+      "latitude": 45.808456,
+      "longitude": 16.018029
+    },
+    {
+      "name": "Centar kulture Predavac",
+      "latitude": 45.937555,
+      "longitude": 16.779264
+    },
+    {
+      "name": "Centar Talijana ''Fulvio Tomizza''",
+      "latitude": 45.432652,
+      "longitude": 13.522453
+    },
+    {
+      "name": "Centar udruga Velika Pisanica",
+      "latitude": 45.800325,
+      "longitude": 17.065588
+    },
+    {
+      "name": "Centar udruge zajednica Bjelovar",
+      "latitude": 45.895781,
+      "longitude": 16.845818
+    },
+    {
+      "name": "Centar za kulturu",
+      "latitude": 45.671077,
+      "longitude": 15.650199
+    },
+    {
+      "name": "Centar za kulturu i informacije Maksimir",
+      "latitude": 45.818726,
+      "longitude": 16.004626
+    },
+    {
+      "name": "CENTAR ZA KULTURU I INFORMIRANJE DR. FRANJO TUĐMAN",
+      "latitude": 45.70301,
+      "longitude": 17.170009
+    },
+    {
+      "name": "Centar za kulturu i obrazovanje Susedgrad",
+      "latitude": 45.815331,
+      "longitude": 15.875694
+    },
+    {
+      "name": "Centar za kulturu Mursko Središće",
+      "latitude": 46.513857,
+      "longitude": 16.439422
+    },
+    {
+      "name": "Centar za kulturu Novi Zagreb",
+      "latitude": 45.76795,
+      "longitude": 15.94768
+    },
+    {
+      "name": "Centar za kulturu Sigmund Romberg",
+      "latitude": 45.681755,
+      "longitude": 18.404198
+    },
+    {
+      "name": "Centar za kulturu Trešnjevka",
+      "latitude": 45.797969,
+      "longitude": 15.950081
+    },
+    {
+      "name": "Centar za kulturu Vela Luka",
+      "latitude": 42.96088,
+      "longitude": 16.71759
+    },
+    {
+      "name": "Centar za mlade Grabrik",
+      "latitude": 45.481045,
+      "longitude": 15.54883
+    },
+    {
+      "name": "Centar za mlade Laura",
+      "latitude": 45.44415,
+      "longitude": 16.273027
+    },
+    {
+      "name": "Centar za neformalnu edukaciju mladih (CnC)",
+      "latitude": 45.56425,
+      "longitude": 18.667994
+    },
+    {
+      "name": "Centar za posjetitelje Križnica",
+      "latitude": 45.972567,
+      "longitude": 17.354452
+    },
+    {
+      "name": "Centar za socijalnu skrb",
+      "latitude": 43.443292,
+      "longitude": 16.684353
+    },
+    {
+      "name": "Centar za talijansku kulturu Split",
+      "latitude": 43.510621,
+      "longitude": 16.439597
+    },
+    {
+      "name": "CeZaM Zaprešić",
+      "latitude": 45.864333,
+      "longitude": 15.800589
+    },
+    {
+      "name": "CheckPoint Zagreb",
+      "latitude": 45.807394,
+      "longitude": 15.98621
+    },
+    {
+      "name": "Comunità degli italiani \"Armando Capolicchio\"",
+      "latitude": 44.930874,
+      "longitude": 13.868994
+    },
+    {
+      "name": "Comunità degli Italiani di Pola",
+      "latitude": 44.869969,
+      "longitude": 13.847765
+    },
+    {
+      "name": "Comunità Nazionale Italiana",
+      "latitude": 45.325384,
+      "longitude": 14.44357
+    },
+    {
+      "name": "Czech House",
+      "latitude": 45.594573,
+      "longitude": 17.221926
+    },
+    {
+      "name": "Dnevni boravak za umirovljenike",
+      "latitude": 45.90006,
+      "longitude": 16.843804
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Željezničar",
+      "latitude": 45.893791,
+      "longitude": 16.843604
+    },
+    {
+      "name": "Dom Bertelovci",
+      "latitude": 45.365803,
+      "longitude": 17.750156
+    },
+    {
+      "name": "Dom Glavnica Donja",
+      "latitude": 45.937935,
+      "longitude": 16.143344
+    },
+    {
+      "name": "Dom Hrgovljani",
+      "latitude": 45.921254,
+      "longitude": 16.824714
+    },
+    {
+      "name": "Dom Hrvatske vojske",
+      "latitude": 43.521366,
+      "longitude": 16.428028
+    },
+    {
+      "name": "Dom hrvatskih branitelja",
+      "latitude": 45.381275,
+      "longitude": 14.3861
+    },
+    {
+      "name": "Dom hrvatskih branitelja u Čazmi",
+      "latitude": 45.74953,
+      "longitude": 16.614268
+    },
+    {
+      "name": "Dom hrvatskih veterana",
+      "latitude": 45.413994,
+      "longitude": 17.162005
+    },
+    {
+      "name": "Dom invalida Domovinskog rata",
+      "latitude": 45.810257,
+      "longitude": 15.952919
+    },
+    {
+      "name": "Dom izviđača",
+      "latitude": 45.289908,
+      "longitude": 18.804141
+    },
+    {
+      "name": "Dom kulture",
+      "latitude": 45.425306,
+      "longitude": 15.007442
+    },
+    {
+      "name": "Dom kulture",
+      "latitude": 45.569441,
+      "longitude": 16.625767
+    },
+    {
+      "name": "Dom kulture",
+      "latitude": 45.762794,
+      "longitude": 18.163405
+    },
+    {
+      "name": "Dom kulture Berak",
+      "latitude": 45.230767,
+      "longitude": 19.00282
+    },
+    {
+      "name": "Dom kulture Cirkovljan",
+      "latitude": 46.342882,
+      "longitude": 16.648314
+    },
+    {
+      "name": "Dom kulture Donji Vidovec",
+      "latitude": 46.330263,
+      "longitude": 16.787549
+    },
+    {
+      "name": "Dom kulture Dr. Franjo Tijan",
+      "latitude": 45.308834,
+      "longitude": 14.555335
+    },
+    {
+      "name": "DOM KULTURE GRADA PRELOGA",
+      "latitude": 46.337664,
+      "longitude": 16.615845
+    },
+    {
+      "name": "Dom kulture Kapela",
+      "latitude": 45.985913,
+      "longitude": 16.851823
+    },
+    {
+      "name": "Dom kulture Komiža",
+      "latitude": 43.045631,
+      "longitude": 16.091928
+    },
+    {
+      "name": "Dom kulture Kotlina",
+      "latitude": 45.78749,
+      "longitude": 18.738375
+    },
+    {
+      "name": "Dom kulture Lepoglava",
+      "latitude": 46.207869,
+      "longitude": 16.043273
+    },
+    {
+      "name": "Dom kulture Novi Bezdan",
+      "latitude": 45.738104,
+      "longitude": 18.464836
+    },
+    {
+      "name": "Dom kulture Nuštar",
+      "latitude": 45.331148,
+      "longitude": 18.839855
+    },
+    {
+      "name": "Dom kulture Orehovica",
+      "latitude": 46.331585,
+      "longitude": 16.507016
+    },
+    {
+      "name": "Dom kulture Petefi Šandor",
+      "latitude": 45.414171,
+      "longitude": 18.699445
+    },
+    {
+      "name": "Dom Kulture Skrad",
+      "latitude": 45.431498,
+      "longitude": 14.906838
+    },
+    {
+      "name": "Dom kulture Sveta Marija",
+      "latitude": 46.332064,
+      "longitude": 16.746237
+    },
+    {
+      "name": "Dom kulture Veliko Trgovišće",
+      "latitude": 46.002319,
+      "longitude": 15.845236
+    },
+    {
+      "name": "Dom kulture Vrbovsko",
+      "latitude": 45.373683,
+      "longitude": 15.072544
+    },
+    {
+      "name": "Dom kulture Zalan",
+      "latitude": 46.31525,
+      "longitude": 16.810591
+    },
+    {
+      "name": "Dom kulture Zasadbreg",
+      "latitude": 46.446954,
+      "longitude": 16.412179
+    },
+    {
+      "name": "Dom kulture Čavle",
+      "latitude": 45.357093,
+      "longitude": 14.488025
+    },
+    {
+      "name": "Dom kulture Šmrika",
+      "latitude": 45.256247,
+      "longitude": 14.598637
+    },
+    {
+      "name": "Dom kulture Štrigova",
+      "latitude": 46.500072,
+      "longitude": 16.289938
+    },
+    {
+      "name": "Dom mladih",
+      "latitude": 43.51251,
+      "longitude": 16.450298
+    },
+    {
+      "name": "Dom mladih",
+      "latitude": 43.702962,
+      "longitude": 16.641639
+    },
+    {
+      "name": "Dom Mladih Koprivnica",
+      "latitude": 46.163037,
+      "longitude": 16.826962
+    },
+    {
+      "name": "Dom obrtnika",
+      "latitude": 45.713774,
+      "longitude": 16.073156
+    },
+    {
+      "name": "Dom Stare Plavnice",
+      "latitude": 45.892957,
+      "longitude": 16.807291
+    },
+    {
+      "name": "Dom tehnike",
+      "latitude": 45.561276,
+      "longitude": 18.694301
+    },
+    {
+      "name": "dom tehnike",
+      "latitude": 45.784814,
+      "longitude": 15.909953
+    },
+    {
+      "name": "Dom Zvijerci",
+      "latitude": 45.923583,
+      "longitude": 16.864284
+    },
+    {
+      "name": "Društeni dom Gunja",
+      "latitude": 44.879339,
+      "longitude": 18.851216
+    },
+    {
+      "name": "Društevni dom Fuka",
+      "latitude": 45.886254,
+      "longitude": 16.528217
+    },
+    {
+      "name": "Društveni centar Inkubator ideja",
+      "latitude": 45.898707,
+      "longitude": 16.831134
+    },
+    {
+      "name": "Društveni centar Krapinske Toplice",
+      "latitude": 46.095652,
+      "longitude": 15.837445
+    },
+    {
+      "name": "Društveni centar Lastovo",
+      "latitude": 42.765798,
+      "longitude": 16.898341
+    },
+    {
+      "name": "Društveni dom",
+      "latitude": 43.472551,
+      "longitude": 16.65103
+    },
+    {
+      "name": "društveni dom",
+      "latitude": 45.147082,
+      "longitude": 17.457754
+    },
+    {
+      "name": "društveni dom",
+      "latitude": 45.176884,
+      "longitude": 17.848127
+    },
+    {
+      "name": "Društveni dom",
+      "latitude": 45.301559,
+      "longitude": 16.828455
+    },
+    {
+      "name": "Društveni dom",
+      "latitude": 45.315166,
+      "longitude": 16.955731
+    },
+    {
+      "name": "Društveni dom",
+      "latitude": 45.356944,
+      "longitude": 16.959416
+    },
+    {
+      "name": "društveni dom",
+      "latitude": 45.394291,
+      "longitude": 16.635882
+    },
+    {
+      "name": "Društveni dom",
+      "latitude": 45.647468,
+      "longitude": 18.348876
+    },
+    {
+      "name": "Društveni dom",
+      "latitude": 45.85726,
+      "longitude": 17.300833
+    },
+    {
+      "name": "Društveni dom",
+      "latitude": 46.287029,
+      "longitude": 16.629042
+    },
+    {
+      "name": "Društveni dom",
+      "latitude": 46.360118,
+      "longitude": 16.618633
+    },
+    {
+      "name": "Društveni dom",
+      "latitude": 46.361586,
+      "longitude": 16.185661
+    },
+    {
+      "name": "Društveni dom \"Stara škola\"",
+      "latitude": 45.70312,
+      "longitude": 16.124206
+    },
+    {
+      "name": "Društveni dom Belica",
+      "latitude": 46.407471,
+      "longitude": 16.521642
+    },
+    {
+      "name": "Društveni dom Bodegraj",
+      "latitude": 45.266,
+      "longitude": 17.183426
+    },
+    {
+      "name": "Društveni dom Braće Milih Rubeši",
+      "latitude": 45.364849,
+      "longitude": 14.344071
+    },
+    {
+      "name": "Društveni dom Budrovci",
+      "latitude": 45.270373,
+      "longitude": 18.441799
+    },
+    {
+      "name": "društveni dom Bukevje",
+      "latitude": 45.72215,
+      "longitude": 16.206898
+    },
+    {
+      "name": "Društveni dom Donje Podotočje",
+      "latitude": 45.695433,
+      "longitude": 16.145896
+    },
+    {
+      "name": "Društveni dom Donji Mosti",
+      "latitude": 46.049495,
+      "longitude": 16.86725
+    },
+    {
+      "name": "Društveni dom Dopsin",
+      "latitude": 45.451393,
+      "longitude": 18.559286
+    },
+    {
+      "name": "Društveni dom Dubrovčak Lijevi",
+      "latitude": 45.648178,
+      "longitude": 16.340867
+    },
+    {
+      "name": "Društveni dom Eugen Kvaternik",
+      "latitude": 45.457235,
+      "longitude": 16.372385
+    },
+    {
+      "name": "Društveni dom Forkuševci",
+      "latitude": 45.349162,
+      "longitude": 18.494771
+    },
+    {
+      "name": "Društveni dom Galovac",
+      "latitude": 45.845728,
+      "longitude": 16.85182
+    },
+    {
+      "name": "Društveni dom Gornji Mosti",
+      "latitude": 46.064436,
+      "longitude": 16.841226
+    },
+    {
+      "name": "Društveni dom Gradići",
+      "latitude": 45.70436,
+      "longitude": 16.038021
+    },
+    {
+      "name": "Društveni dom Grubišno Polje",
+      "latitude": 45.704594,
+      "longitude": 17.193863
+    },
+    {
+      "name": "Društveni dom Herešin",
+      "latitude": 46.17701,
+      "longitude": 16.867011
+    },
+    {
+      "name": "Društveni dom Hrastelnica",
+      "latitude": 45.503773,
+      "longitude": 16.417889
+    },
+    {
+      "name": "Društveni dom Ivanečka Željeznica",
+      "latitude": 46.209077,
+      "longitude": 16.192012
+    },
+    {
+      "name": "Društveni dom Jagodno",
+      "latitude": 45.706128,
+      "longitude": 16.141159
+    },
+    {
+      "name": "Društveni dom Jazavica",
+      "latitude": 45.318345,
+      "longitude": 17.062504
+    },
+    {
+      "name": "Društveni dom Kaniža",
+      "latitude": 45.110796,
+      "longitude": 17.886678
+    },
+    {
+      "name": "Društveni dom Kapela Podravska",
+      "latitude": 46.278442,
+      "longitude": 16.692325
+    },
+    {
+      "name": "Društveni dom Kešinci",
+      "latitude": 45.353148,
+      "longitude": 18.556122
+    },
+    {
+      "name": "Društveni dom Klinča Sela",
+      "latitude": 45.691544,
+      "longitude": 15.743523
+    },
+    {
+      "name": "Društveni dom Kozarevac",
+      "latitude": 45.934294,
+      "longitude": 17.12204
+    },
+    {
+      "name": "Društveni dom Kruševica",
+      "latitude": 45.075896,
+      "longitude": 18.484482
+    },
+    {
+      "name": "Društveni dom Laduč",
+      "latitude": 45.882585,
+      "longitude": 15.719546
+    },
+    {
+      "name": "Društveni dom Lančić-Knapić",
+      "latitude": 46.217932,
+      "longitude": 16.103242
+    },
+    {
+      "name": "Društveni dom Lapovci",
+      "latitude": 45.24259,
+      "longitude": 18.228533
+    },
+    {
+      "name": "Društveni dom Legrad",
+      "latitude": 46.298758,
+      "longitude": 16.855977
+    },
+    {
+      "name": "Društveni dom Lužan",
+      "latitude": 45.885803,
+      "longitude": 16.195934
+    },
+    {
+      "name": "Društveni dom Mala Subotica",
+      "latitude": 46.375915,
+      "longitude": 16.528021
+    },
+    {
+      "name": "Društveni dom Mate Justinić",
+      "latitude": 45.126157,
+      "longitude": 14.542574
+    },
+    {
+      "name": "Društveni dom Mladen Markač",
+      "latitude": 46.043922,
+      "longitude": 17.078008
+    },
+    {
+      "name": "društveni dom Mužilovčica",
+      "latitude": 45.390916,
+      "longitude": 16.682353
+    },
+    {
+      "name": "Društveni dom Normanci",
+      "latitude": 45.555403,
+      "longitude": 18.363777
+    },
+    {
+      "name": "Društveni dom Novakovec",
+      "latitude": 46.453561,
+      "longitude": 16.566371
+    },
+    {
+      "name": "Društveni dom Okuje",
+      "latitude": 45.674971,
+      "longitude": 16.068698
+    },
+    {
+      "name": "Društveni dom Orešje",
+      "latitude": 45.815824,
+      "longitude": 15.804385
+    },
+    {
+      "name": "Društveni dom Očura",
+      "latitude": 46.204954,
+      "longitude": 16.023502
+    },
+    {
+      "name": "Društveni dom Palinovec",
+      "latitude": 46.392576,
+      "longitude": 16.597953
+    },
+    {
+      "name": "Društveni Dom Podgora",
+      "latitude": 45.966642,
+      "longitude": 15.971726
+    },
+    {
+      "name": "Društveni dom Potok",
+      "latitude": 45.552607,
+      "longitude": 16.58448
+    },
+    {
+      "name": "Društveni dom Radovanci",
+      "latitude": 45.444199,
+      "longitude": 17.649547
+    },
+    {
+      "name": "Društveni dom Rajić",
+      "latitude": 45.304016,
+      "longitude": 17.111843
+    },
+    {
+      "name": "Društveni dom Retkovci",
+      "latitude": 45.233888,
+      "longitude": 18.653198
+    },
+    {
+      "name": "Društveni dom Roč",
+      "latitude": 45.394878,
+      "longitude": 14.044962
+    },
+    {
+      "name": "Društveni dom Slanje",
+      "latitude": 46.231885,
+      "longitude": 16.546396
+    },
+    {
+      "name": "Društveni dom Srednji Mosti",
+      "latitude": 46.060357,
+      "longitude": 16.855442
+    },
+    {
+      "name": "Društveni dom Strmec",
+      "latitude": 45.812621,
+      "longitude": 15.789704
+    },
+    {
+      "name": "Društveni dom Svinica",
+      "latitude": 45.305826,
+      "longitude": 16.494982
+    },
+    {
+      "name": "društveni dom Trebarjevo Lijevo",
+      "latitude": 45.595278,
+      "longitude": 16.348628
+    },
+    {
+      "name": "Društveni dom Trebovec",
+      "latitude": 45.716921,
+      "longitude": 16.317035
+    },
+    {
+      "name": "Društveni dom Turčišće",
+      "latitude": 46.416776,
+      "longitude": 16.594925
+    },
+    {
+      "name": "Društveni dom Vinica",
+      "latitude": 46.168518,
+      "longitude": 16.796076
+    },
+    {
+      "name": "Društveni dom Vojakovac",
+      "latitude": 46.076217,
+      "longitude": 16.592648
+    },
+    {
+      "name": "Društveni dom Voloder",
+      "latitude": 45.549653,
+      "longitude": 16.669029
+    },
+    {
+      "name": "Društveni dom Vratišinec",
+      "latitude": 46.477011,
+      "longitude": 16.456239
+    },
+    {
+      "name": "Društveni dom Čehi",
+      "latitude": 45.74244,
+      "longitude": 15.957699
+    },
+    {
+      "name": "Društvo Esperantista Bjelovara",
+      "latitude": 45.899907,
+      "longitude": 16.843453
+    },
+    {
+      "name": "Društvo Poljičana Sv.Jure",
+      "latitude": 43.447109,
+      "longitude": 16.688616
+    },
+    {
+      "name": "DSR \"Primorje\"",
+      "latitude": 45.328974,
+      "longitude": 14.439405
+    },
+    {
+      "name": "Dva bunara",
+      "latitude": 43.725198,
+      "longitude": 15.797523
+    },
+    {
+      "name": "DVD Bešlinec",
+      "latitude": 45.76127,
+      "longitude": 16.447713
+    },
+    {
+      "name": "DVD Donja Greda",
+      "latitude": 45.758442,
+      "longitude": 16.278498
+    },
+    {
+      "name": "DVD Črnec",
+      "latitude": 45.760366,
+      "longitude": 16.26668
+    },
+    {
+      "name": "DVD Šćapovec",
+      "latitude": 45.748562,
+      "longitude": 16.405509
+    },
+    {
+      "name": "Etno kuća Ivanovo Selo",
+      "latitude": 45.669541,
+      "longitude": 17.249086
+    },
+    {
+      "name": "FA Turopolje",
+      "latitude": 45.708564,
+      "longitude": 16.068156
+    },
+    {
+      "name": "Gradska glazba Đurđenovac",
+      "latitude": 45.543788,
+      "longitude": 18.04441
+    },
+    {
+      "name": "Gradska munjara",
+      "latitude": 45.440601,
+      "longitude": 16.272816
+    },
+    {
+      "name": "Grgin dol",
+      "latitude": 45.910175,
+      "longitude": 16.89235
+    },
+    {
+      "name": "Hangar",
+      "latitude": 45.362692,
+      "longitude": 14.320454
+    },
+    {
+      "name": "HGSS - Hrvatska Gorska Služba Spašavanja",
+      "latitude": 45.81349,
+      "longitude": 16.011514
+    },
+    {
+      "name": "HGSS-OT Sinj",
+      "latitude": 43.703368,
+      "longitude": 16.654317
+    },
+    {
+      "name": "HORKUD \"Golub\"",
+      "latitude": 45.901504,
+      "longitude": 16.845003
+    },
+    {
+      "name": "House of Croatian Defenders",
+      "latitude": 44.867188,
+      "longitude": 13.845809
+    },
+    {
+      "name": "Hrvatski dom",
+      "latitude": 45.182688,
+      "longitude": 19.094767
+    },
+    {
+      "name": "Hrvatski dom",
+      "latitude": 45.527556,
+      "longitude": 17.255549
+    },
+    {
+      "name": "Hrvatski dom",
+      "latitude": 45.595545,
+      "longitude": 17.221876
+    },
+    {
+      "name": "Hrvatski dom",
+      "latitude": 45.640092,
+      "longitude": 18.335955
+    },
+    {
+      "name": "Hrvatski dom",
+      "latitude": 45.663119,
+      "longitude": 18.484603
+    },
+    {
+      "name": "Hrvatski dom",
+      "latitude": 45.906541,
+      "longitude": 16.822511
+    },
+    {
+      "name": "Hrvatski dom Ante Starčević",
+      "latitude": 45.79907,
+      "longitude": 15.929575
+    },
+    {
+      "name": "Hrvatski dom Bogdanovci",
+      "latitude": 45.338648,
+      "longitude": 18.931715
+    },
+    {
+      "name": "Hrvatski dom Cetingrad",
+      "latitude": 45.159684,
+      "longitude": 15.74082
+    },
+    {
+      "name": "Hrvatski dom Draga",
+      "latitude": 45.322214,
+      "longitude": 14.497395
+    },
+    {
+      "name": "Hrvatski dom Ivanovac",
+      "latitude": 45.486006,
+      "longitude": 18.637057
+    },
+    {
+      "name": "Hrvatski dom Josipovac",
+      "latitude": 45.577107,
+      "longitude": 18.588178
+    },
+    {
+      "name": "Hrvatski dom kulture",
+      "latitude": 45.16649,
+      "longitude": 17.995582
+    },
+    {
+      "name": "Hrvatski dom Markuševec",
+      "latitude": 45.876076,
+      "longitude": 16.015346
+    },
+    {
+      "name": "Hrvatski dom Mičevec",
+      "latitude": 45.752763,
+      "longitude": 16.052855
+    },
+    {
+      "name": "Hrvatski dom Sv. Kuzam",
+      "latitude": 45.313256,
+      "longitude": 14.523371
+    },
+    {
+      "name": "Hrvatski dom Tenja",
+      "latitude": 45.504889,
+      "longitude": 18.742828
+    },
+    {
+      "name": "Hrvatski dom Vežica",
+      "latitude": 45.325507,
+      "longitude": 14.476317
+    },
+    {
+      "name": "Hrvatski dom Voćarica",
+      "latitude": 45.32008,
+      "longitude": 17.037011
+    },
+    {
+      "name": "Hrvatski dom Vukovar",
+      "latitude": 45.353981,
+      "longitude": 19.001192
+    },
+    {
+      "name": "Hrvatski dom Đulovac",
+      "latitude": 45.662112,
+      "longitude": 17.428499
+    },
+    {
+      "name": "Hrvatski dom Šimljanica",
+      "latitude": 45.708617,
+      "longitude": 16.85512
+    },
+    {
+      "name": "Hrvatski dom „Dr. Franjo Tuđman“",
+      "latitude": 45.438056,
+      "longitude": 17.19609
+    },
+    {
+      "name": "Hrvatski Seljački Dom",
+      "latitude": 45.528757,
+      "longitude": 16.923475
+    },
+    {
+      "name": "Hrvatski seljački dom",
+      "latitude": 45.655038,
+      "longitude": 17.009212
+    },
+    {
+      "name": "Hrvatski seljački dom sela Križci",
+      "latitude": 45.767134,
+      "longitude": 16.433249
+    },
+    {
+      "name": "Hrvatski seljački prosvjetni dom",
+      "latitude": 45.387637,
+      "longitude": 16.966309
+    },
+    {
+      "name": "Institut Liszt",
+      "latitude": 45.813048,
+      "longitude": 15.980221
+    },
+    {
+      "name": "Iskorak",
+      "latitude": 45.806303,
+      "longitude": 15.98283
+    },
+    {
+      "name": "Jedna Mladost - Klub za druženje i edukaciju djece i mladih",
+      "latitude": 43.517758,
+      "longitude": 16.46232
+    },
+    {
+      "name": "K.a.m. Hram",
+      "latitude": 43.512457,
+      "longitude": 16.450414
+    },
+    {
+      "name": "Kamp izviđača Dišnik - Stara škola",
+      "latitude": 45.607565,
+      "longitude": 16.886226
+    },
+    {
+      "name": "Kantun kulture",
+      "latitude": 43.518848,
+      "longitude": 16.251672
+    },
+    {
+      "name": "Karlo Rojc",
+      "latitude": 44.86324,
+      "longitude": 13.844515
+    },
+    {
+      "name": "Katolički dom",
+      "latitude": 46.39017,
+      "longitude": 16.438356
+    },
+    {
+      "name": "Klub Kulture",
+      "latitude": 46.02492,
+      "longitude": 16.544368
+    },
+    {
+      "name": "Klub žena liječenih na dojci",
+      "latitude": 43.443736,
+      "longitude": 16.692272
+    },
+    {
+      "name": "Konjogojska udruga “Bilogora”",
+      "latitude": 45.84557,
+      "longitude": 16.863236
+    },
+    {
+      "name": "korak po korak",
+      "latitude": 45.810346,
+      "longitude": 15.991778
+    },
+    {
+      "name": "Krajevna Skupnost",
+      "latitude": 46.55025,
+      "longitude": 16.355414
+    },
+    {
+      "name": "KUD Mosor Gata",
+      "latitude": 43.463812,
+      "longitude": 16.711841
+    },
+    {
+      "name": "Kulturna udruga Tonska",
+      "latitude": 45.902713,
+      "longitude": 16.842926
+    },
+    {
+      "name": "Kulturni centar",
+      "latitude": 45.526202,
+      "longitude": 18.994915
+    },
+    {
+      "name": "Kulturni centar",
+      "latitude": 45.836778,
+      "longitude": 16.537205
+    },
+    {
+      "name": "Kulturni centar Bistra",
+      "latitude": 45.906266,
+      "longitude": 15.876061
+    },
+    {
+      "name": "Kulturni centar Dubrava",
+      "latitude": 45.829878,
+      "longitude": 16.053883
+    },
+    {
+      "name": "Kulturni centar Ivan Rabuzin",
+      "latitude": 46.164489,
+      "longitude": 16.331712
+    },
+    {
+      "name": "Kulturni centar Kaštel Lukšić",
+      "latitude": 43.552142,
+      "longitude": 16.362431
+    },
+    {
+      "name": "Kulturni Centar Rovišće",
+      "latitude": 45.945496,
+      "longitude": 16.732761
+    },
+    {
+      "name": "Kulturni centar u Bereku",
+      "latitude": 45.742062,
+      "longitude": 16.831325
+    },
+    {
+      "name": "Kulturni centar Veliko Trojstvo",
+      "latitude": 45.932027,
+      "longitude": 16.930368
+    },
+    {
+      "name": "Kulturni centar Virje",
+      "latitude": 46.068477,
+      "longitude": 16.990673
+    },
+    {
+      "name": "Kulturni centar Zajednice Albanaca Bjelovar",
+      "latitude": 45.894555,
+      "longitude": 16.841443
+    },
+    {
+      "name": "Kulturno informativni centar Gospić",
+      "latitude": 44.548848,
+      "longitude": 15.375798
+    },
+    {
+      "name": "Kulturno Prosvjetni Dom Prugovac",
+      "latitude": 45.96973,
+      "longitude": 17.12043
+    },
+    {
+      "name": "Kulturno umjetnički dom",
+      "latitude": 45.255308,
+      "longitude": 18.399615
+    },
+    {
+      "name": "Kulturno umjetničko društvo Hrvatskih željeznica Varaždin",
+      "latitude": 46.306381,
+      "longitude": 16.345582
+    },
+    {
+      "name": "Kulturno umjetničko društvo “Palična”",
+      "latitude": 45.852642,
+      "longitude": 16.978825
+    },
+    {
+      "name": "Kulturno-prosvjetni dom \"Sloga\"",
+      "latitude": 44.050881,
+      "longitude": 15.108609
+    },
+    {
+      "name": "Landhaus Norddalmatien",
+      "latitude": 44.394114,
+      "longitude": 15.835224
+    },
+    {
+      "name": "LD Vijenac",
+      "latitude": 46.032253,
+      "longitude": 16.872429
+    },
+    {
+      "name": "Liberbase",
+      "latitude": 45.798452,
+      "longitude": 18.805648
+    },
+    {
+      "name": "Lovačka udruga \"Bilo\" Velika Pisanica",
+      "latitude": 45.822848,
+      "longitude": 17.087694
+    },
+    {
+      "name": "Lovačka udruga \"Jastreb\"",
+      "latitude": 45.822337,
+      "longitude": 15.805129
+    },
+    {
+      "name": "Lovački dom",
+      "latitude": 45.862748,
+      "longitude": 15.732413
+    },
+    {
+      "name": "Lovački dom \"Srndać\" Rovišće",
+      "latitude": 45.954292,
+      "longitude": 16.75044
+    },
+    {
+      "name": "Lovačko društvo Bilogora Grubišno Polje",
+      "latitude": 45.70137,
+      "longitude": 17.171675
+    },
+    {
+      "name": "Lovačko društvo Vepar Trnovitički Popovac",
+      "latitude": 45.646716,
+      "longitude": 16.86918
+    },
+    {
+      "name": "Lovačko društvo Šljuka Bjelovar",
+      "latitude": 45.924484,
+      "longitude": 16.796899
+    },
+    {
+      "name": "Lovačko društvo “Jelen” Rogoža",
+      "latitude": 45.543144,
+      "longitude": 16.869792
+    },
+    {
+      "name": "Lovačko društvo “Srna” Nova Rača",
+      "latitude": 45.807771,
+      "longitude": 16.9598
+    },
+    {
+      "name": "Lovačko Udruženje \"Vepar\" Puričani",
+      "latitude": 45.924638,
+      "longitude": 16.90645
+    },
+    {
+      "name": "Masarykův dům Hercegovec",
+      "latitude": 45.65307,
+      "longitude": 17.007671
+    },
+    {
+      "name": "Matica slovačka Ilok",
+      "latitude": 45.224626,
+      "longitude": 19.387995
+    },
+    {
+      "name": "Matica umirovljenika Omiš",
+      "latitude": 43.443692,
+      "longitude": 16.692324
+    },
+    {
+      "name": "Matica Umirovljenika Čazma",
+      "latitude": 45.747629,
+      "longitude": 16.613142
+    },
+    {
+      "name": "Mađarska etno kuća „Bilogora”",
+      "latitude": 45.704782,
+      "longitude": 17.122295
+    },
+    {
+      "name": "Meeple's corner",
+      "latitude": 45.806085,
+      "longitude": 15.989437
+    },
+    {
+      "name": "MIZ Split",
+      "latitude": 43.509598,
+      "longitude": 16.440216
+    },
+    {
+      "name": "Mjesni dom",
+      "latitude": 45.499057,
+      "longitude": 17.118863
+    },
+    {
+      "name": "Mjesni dom",
+      "latitude": 45.753878,
+      "longitude": 16.997844
+    },
+    {
+      "name": "Mjesni dom",
+      "latitude": 45.799013,
+      "longitude": 16.951109
+    },
+    {
+      "name": "Mjesni dom",
+      "latitude": 45.810271,
+      "longitude": 16.949441
+    },
+    {
+      "name": "Mjesni dom",
+      "latitude": 45.885013,
+      "longitude": 16.573931
+    },
+    {
+      "name": "Mjesni dom Babinac",
+      "latitude": 45.749442,
+      "longitude": 16.813042
+    },
+    {
+      "name": "Mjesni dom Babinac",
+      "latitude": 45.829001,
+      "longitude": 17.043659
+    },
+    {
+      "name": "Mjesni dom Babotok",
+      "latitude": 46.015498,
+      "longitude": 16.889232
+    },
+    {
+      "name": "Mjesni dom Badljevina",
+      "latitude": 45.514475,
+      "longitude": 17.19161
+    },
+    {
+      "name": "Mjesni dom Batinjani",
+      "latitude": 45.619153,
+      "longitude": 17.245601
+    },
+    {
+      "name": "Mjesni dom Bedenik",
+      "latitude": 45.827844,
+      "longitude": 17.008905
+    },
+    {
+      "name": "Mjesni dom Blatnica",
+      "latitude": 45.830347,
+      "longitude": 16.739455
+    },
+    {
+      "name": "Mjesni dom Bojana",
+      "latitude": 45.756506,
+      "longitude": 16.681058
+    },
+    {
+      "name": "Mjesni dom Bosiljevo",
+      "latitude": 45.743308,
+      "longitude": 16.580708
+    },
+    {
+      "name": "Mjesni dom Botniac",
+      "latitude": 45.996823,
+      "longitude": 16.862781
+    },
+    {
+      "name": "Mjesni dom Breza",
+      "latitude": 45.871411,
+      "longitude": 16.717378
+    },
+    {
+      "name": "Mjesni Dom Brezovac",
+      "latitude": 45.867944,
+      "longitude": 16.837977
+    },
+    {
+      "name": "Mjesni dom Cabuna",
+      "latitude": 45.758322,
+      "longitude": 17.58006
+    },
+    {
+      "name": "Mjesni dom Ciglena",
+      "latitude": 45.867025,
+      "longitude": 16.936746
+    },
+    {
+      "name": "Mjesni dom Cugovec",
+      "latitude": 45.91223,
+      "longitude": 16.516562
+    },
+    {
+      "name": "Mjesni dom Daruvarski Brestovac",
+      "latitude": 45.620815,
+      "longitude": 17.127385
+    },
+    {
+      "name": "Mjesni dom Dautan",
+      "latitude": 45.831036,
+      "longitude": 16.926809
+    },
+    {
+      "name": "Mjesni dom Dereza",
+      "latitude": 45.756471,
+      "longitude": 16.599797
+    },
+    {
+      "name": "Mjesni dom Dišnik",
+      "latitude": 45.611965,
+      "longitude": 16.897107
+    },
+    {
+      "name": "Mjesni dom Domankuš",
+      "latitude": 45.993836,
+      "longitude": 16.767685
+    },
+    {
+      "name": "Mjesni dom Donji Bolč",
+      "latitude": 45.875345,
+      "longitude": 16.678121
+    },
+    {
+      "name": "Mjesni dom Drljanovac",
+      "latitude": 45.798397,
+      "longitude": 16.983488
+    },
+    {
+      "name": "Mjesni dom Golubnjak",
+      "latitude": 45.560953,
+      "longitude": 17.159599
+    },
+    {
+      "name": "Mjesni dom Gornja Garešnica",
+      "latitude": 45.654646,
+      "longitude": 16.814324
+    },
+    {
+      "name": "Mjesni dom Gornja Petrička",
+      "latitude": 45.735896,
+      "longitude": 16.779818
+    },
+    {
+      "name": "Mjesni dom Gornje Plavnice",
+      "latitude": 45.940354,
+      "longitude": 16.854271
+    },
+    {
+      "name": "Mjesni dom Gornje Rovišće",
+      "latitude": 45.955259,
+      "longitude": 16.758974
+    },
+    {
+      "name": "Mjesni dom Gornji Bolč",
+      "latitude": 45.904659,
+      "longitude": 16.686499
+    },
+    {
+      "name": "Mjesni dom Gornji Daruvar",
+      "latitude": 45.589714,
+      "longitude": 17.186501
+    },
+    {
+      "name": "Mjesni dom Gornji Draganec",
+      "latitude": 45.784673,
+      "longitude": 16.649493
+    },
+    {
+      "name": "Mjesni dom Gornji Sređani",
+      "latitude": 45.527943,
+      "longitude": 17.16023
+    },
+    {
+      "name": "Mjesni dom Grabovnica",
+      "latitude": 45.747494,
+      "longitude": 16.64512
+    },
+    {
+      "name": "Mjesni dom Grbavac",
+      "latitude": 45.706867,
+      "longitude": 17.114462
+    },
+    {
+      "name": "Mjesni dom Grginac",
+      "latitude": 45.91381,
+      "longitude": 16.907641
+    },
+    {
+      "name": "Mjesni dom Gudovac",
+      "latitude": 45.880833,
+      "longitude": 16.785441
+    },
+    {
+      "name": "Mjesni dom Hrastovac",
+      "latitude": 45.550827,
+      "longitude": 16.989198
+    },
+    {
+      "name": "Mjesni dom Ivanovo Selo",
+      "latitude": 45.673575,
+      "longitude": 17.251465
+    },
+    {
+      "name": "Mjesni dom Kajgana",
+      "latitude": 45.589256,
+      "longitude": 16.973042
+    },
+    {
+      "name": "Mjesni dom Kakinac",
+      "latitude": 45.968129,
+      "longitude": 16.771958
+    },
+    {
+      "name": "Mjesni dom Kapelica",
+      "latitude": 45.574791,
+      "longitude": 16.891252
+    },
+    {
+      "name": "Mjesni Dom Klokočevac",
+      "latitude": 45.915872,
+      "longitude": 16.785124
+    },
+    {
+      "name": "Mjesni dom Kobasičari",
+      "latitude": 45.961503,
+      "longitude": 16.812916
+    },
+    {
+      "name": "Mjesni dom Kokinac",
+      "latitude": 45.846136,
+      "longitude": 16.90359
+    },
+    {
+      "name": "Mjesni dom Kozarevac Račanski",
+      "latitude": 45.791226,
+      "longitude": 16.923426
+    },
+    {
+      "name": "Mjesni dom Križic",
+      "latitude": 45.776096,
+      "longitude": 16.783568
+    },
+    {
+      "name": "Mjesni dom Lasovac",
+      "latitude": 45.851456,
+      "longitude": 17.029711
+    },
+    {
+      "name": "Mjesni dom Mala Pisanica",
+      "latitude": 45.774513,
+      "longitude": 17.01761
+    },
+    {
+      "name": "Mjesni dom Mali Pašijan",
+      "latitude": 45.63813,
+      "longitude": 16.921787
+    },
+    {
+      "name": "Mjesni dom Mali Zdenci",
+      "latitude": 45.679728,
+      "longitude": 17.122985
+    },
+    {
+      "name": "Mjesni dom Malo Vukovje",
+      "latitude": 45.518631,
+      "longitude": 16.910049
+    },
+    {
+      "name": "Mjesni dom Martinac",
+      "latitude": 45.947475,
+      "longitude": 16.914558
+    },
+    {
+      "name": "Mjesni dom Međurača",
+      "latitude": 45.802601,
+      "longitude": 16.890273
+    },
+    {
+      "name": "Mjesni dom Miholjanec",
+      "latitude": 46.041947,
+      "longitude": 16.949137
+    },
+    {
+      "name": "Mjesni dom Milanovac",
+      "latitude": 45.80517,
+      "longitude": 17.387745
+    },
+    {
+      "name": "Mjesni dom Narta",
+      "latitude": 45.834095,
+      "longitude": 16.810486
+    },
+    {
+      "name": "Mjesni dom Nevinac",
+      "latitude": 45.816109,
+      "longitude": 16.904119
+    },
+    {
+      "name": "Mjesni dom Nova Diklenica",
+      "latitude": 45.971942,
+      "longitude": 16.890776
+    },
+    {
+      "name": "Mjesni dom Nova Pisanica",
+      "latitude": 45.81031,
+      "longitude": 17.109349
+    },
+    {
+      "name": "Mjesni dom Novi Pavljani",
+      "latitude": 45.857102,
+      "longitude": 16.84591
+    },
+    {
+      "name": "Mjesni Dom Novoseljani",
+      "latitude": 45.89341,
+      "longitude": 16.869744
+    },
+    {
+      "name": "Mjesni dom Obrovnica",
+      "latitude": 45.828896,
+      "longitude": 16.875112
+    },
+    {
+      "name": "Mjesni dom Orlovac",
+      "latitude": 45.743732,
+      "longitude": 16.952898
+    },
+    {
+      "name": "Mjesni dom Orovac",
+      "latitude": 45.85923,
+      "longitude": 16.980802
+    },
+    {
+      "name": "Mjesni dom Osijek Vojakovački",
+      "latitude": 46.127246,
+      "longitude": 16.537983
+    },
+    {
+      "name": "Mjesni dom Oštri Zid",
+      "latitude": 45.672827,
+      "longitude": 16.824858
+    },
+    {
+      "name": "Mjesni dom Patkovac",
+      "latitude": 45.852615,
+      "longitude": 16.930254
+    },
+    {
+      "name": "Mjesni dom Podgorci",
+      "latitude": 45.968113,
+      "longitude": 16.795191
+    },
+    {
+      "name": "Mjesni dom Polum",
+      "latitude": 45.825839,
+      "longitude": 17.092392
+    },
+    {
+      "name": "Mjesni dom Prespa",
+      "latitude": 45.864033,
+      "longitude": 16.919138
+    },
+    {
+      "name": "Mjesni dom Prgomelje",
+      "latitude": 45.889729,
+      "longitude": 16.739166
+    },
+    {
+      "name": "Mjesni dom Prokljuvani",
+      "latitude": 45.902489,
+      "longitude": 16.898815
+    },
+    {
+      "name": "Mjesni dom Pčelić",
+      "latitude": 45.774445,
+      "longitude": 17.506515
+    },
+    {
+      "name": "Mjesni dom Rajić",
+      "latitude": 45.898599,
+      "longitude": 16.705594
+    },
+    {
+      "name": "Mjesni dom Repaš",
+      "latitude": 46.145817,
+      "longitude": 17.083322
+    },
+    {
+      "name": "Mjesni dom Rogoža",
+      "latitude": 45.542908,
+      "longitude": 16.870093
+    },
+    {
+      "name": "Mjesni dom Sirova Katalena",
+      "latitude": 45.957191,
+      "longitude": 17.059947
+    },
+    {
+      "name": "Mjesni dom Slovinska Kovačica",
+      "latitude": 45.758403,
+      "longitude": 16.981746
+    },
+    {
+      "name": "Mjesni dom Srednja Diklenica",
+      "latitude": 45.968217,
+      "longitude": 16.877054
+    },
+    {
+      "name": "Mjesni dom Srijedska",
+      "latitude": 45.772683,
+      "longitude": 16.841177
+    },
+    {
+      "name": "Mjesni dom Stanići",
+      "latitude": 45.96447,
+      "longitude": 16.833421
+    },
+    {
+      "name": "Mjesni dom Stančići",
+      "latitude": 45.903677,
+      "longitude": 16.755991
+    },
+    {
+      "name": "Mjesni dom Stara Diklenica",
+      "latitude": 45.968172,
+      "longitude": 16.861148
+    },
+    {
+      "name": "Mjesni dom Stari Pavljani",
+      "latitude": 45.858085,
+      "longitude": 16.884029
+    },
+    {
+      "name": "Mjesni dom Suha Katalena",
+      "latitude": 45.94412,
+      "longitude": 17.084754
+    },
+    {
+      "name": "Mjesni dom Sušine",
+      "latitude": 45.549746,
+      "longitude": 18.063541
+    },
+    {
+      "name": "Mjesni dom Tociljevac",
+      "latitude": 45.785108,
+      "longitude": 16.94046
+    },
+    {
+      "name": "Mjesni Dom Trojstveni Markovac",
+      "latitude": 45.918502,
+      "longitude": 16.87316
+    },
+    {
+      "name": "Mjesni dom Tuk",
+      "latitude": 45.921432,
+      "longitude": 16.71964
+    },
+    {
+      "name": "Mjesni dom Uljanik",
+      "latitude": 45.534454,
+      "longitude": 17.02321
+    },
+    {
+      "name": "Mjesni dom Vagovina",
+      "latitude": 45.780994,
+      "longitude": 16.674299
+    },
+    {
+      "name": "Mjesni dom Velika Barna",
+      "latitude": 45.734492,
+      "longitude": 17.139358
+    },
+    {
+      "name": "Mjesni dom Velika Bršljanica",
+      "latitude": 45.584183,
+      "longitude": 16.851206
+    },
+    {
+      "name": "Mjesni Dom Velike Sredice",
+      "latitude": 45.886292,
+      "longitude": 16.819445
+    },
+    {
+      "name": "Mjesni dom Veliki Bastaji",
+      "latitude": 45.644906,
+      "longitude": 17.325706
+    },
+    {
+      "name": "Mjesni dom Veliki Zdenci",
+      "latitude": 45.663395,
+      "longitude": 17.090038
+    },
+    {
+      "name": "Mjesni Dom Veliko Korenovo",
+      "latitude": 45.858233,
+      "longitude": 16.81106
+    },
+    {
+      "name": "Mjesni dom Veliko Vukovje",
+      "latitude": 45.520239,
+      "longitude": 16.886971
+    },
+    {
+      "name": "Mjesni dom Vrbica",
+      "latitude": 45.953715,
+      "longitude": 16.973
+    },
+    {
+      "name": "Mjesni dom Vukovije",
+      "latitude": 45.616049,
+      "longitude": 17.282312
+    },
+    {
+      "name": "Mjesni dom Ćurlovac",
+      "latitude": 45.977538,
+      "longitude": 16.905255
+    },
+    {
+      "name": "Mjesni dom Čađavac",
+      "latitude": 45.823531,
+      "longitude": 17.112515
+    },
+    {
+      "name": "Mjesni dom Đurđic",
+      "latitude": 45.787023,
+      "longitude": 16.838906
+    },
+    {
+      "name": "Mjesni dom Šibovac",
+      "latitude": 45.568547,
+      "longitude": 17.198134
+    },
+    {
+      "name": "Mjesni dom Žabjak",
+      "latitude": 45.932656,
+      "longitude": 16.738409
+    },
+    {
+      "name": "Mjesni dom Žabnica",
+      "latitude": 45.909328,
+      "longitude": 16.613616
+    },
+    {
+      "name": "Mjesni Dom Ždralovi",
+      "latitude": 45.878619,
+      "longitude": 16.880943
+    },
+    {
+      "name": "Mjesni dom Žegar",
+      "latitude": 45.268997,
+      "longitude": 15.22625
+    },
+    {
+      "name": "Mjesni odbor Kupinovac",
+      "latitude": 45.950342,
+      "longitude": 16.890741
+    },
+    {
+      "name": "Mjesni odbor Letičani",
+      "latitude": 45.933057,
+      "longitude": 16.893576
+    },
+    {
+      "name": "Mjesni odbor Malo Korenovo",
+      "latitude": 45.852643,
+      "longitude": 16.826456
+    },
+    {
+      "name": "Mjesni odbor Prvić Luka",
+      "latitude": 43.724922,
+      "longitude": 15.798281
+    },
+    {
+      "name": "MMC Fažana",
+      "latitude": 44.927,
+      "longitude": 13.803658
+    },
+    {
+      "name": "Multifunkcionalni centar Čazma",
+      "latitude": 45.74829,
+      "longitude": 16.613476
+    },
+    {
+      "name": "MUZA",
+      "latitude": 45.492903,
+      "longitude": 15.557979
+    },
+    {
+      "name": "Nacionalni centar tehnicke kulture Kraljevica",
+      "latitude": 45.271434,
+      "longitude": 14.570652
+    },
+    {
+      "name": "Narodni dom",
+      "latitude": 45.438957,
+      "longitude": 13.710122
+    },
+    {
+      "name": "Obiteljski Centar PS Bjelovarsko-bilogorska",
+      "latitude": 45.897206,
+      "longitude": 16.838911
+    },
+    {
+      "name": "Obrtnički dom",
+      "latitude": 45.49146,
+      "longitude": 18.097103
+    },
+    {
+      "name": "Odgojno-obrazovni i kulturni centar",
+      "latitude": 45.48968,
+      "longitude": 16.37141
+    },
+    {
+      "name": "OPG Bačak",
+      "latitude": 45.935825,
+      "longitude": 16.935125
+    },
+    {
+      "name": "Palača Moise",
+      "latitude": 44.959575,
+      "longitude": 14.409739
+    },
+    {
+      "name": "Pepi Club",
+      "latitude": 45.18828,
+      "longitude": 13.594066
+    },
+    {
+      "name": "Planinarsko društvo \"Kamenjak\" Rijeka",
+      "latitude": 45.327721,
+      "longitude": 14.43957
+    },
+    {
+      "name": "Poljoprivredna zadruga Velika Pisanica",
+      "latitude": 45.801394,
+      "longitude": 17.037562
+    },
+    {
+      "name": "Poljska kulturna udruga Mikołaj Kopernik",
+      "latitude": 45.801404,
+      "longitude": 15.963279
+    },
+    {
+      "name": "Prostorija",
+      "latitude": 45.492721,
+      "longitude": 15.549264
+    },
+    {
+      "name": "Pučki dom Jasenovac",
+      "latitude": 45.269062,
+      "longitude": 16.910345
+    },
+    {
+      "name": "Pučko otvoreno učilište Labin",
+      "latitude": 45.088089,
+      "longitude": 14.124878
+    },
+    {
+      "name": "Pčelarska Udruga dr. Đuro Sulimanović",
+      "latitude": 45.577779,
+      "longitude": 16.940529
+    },
+    {
+      "name": "Radnički dom",
+      "latitude": 45.543445,
+      "longitude": 18.053267
+    },
+    {
+      "name": "Ribarska kuća Česma",
+      "latitude": 45.840987,
+      "longitude": 16.648793
+    },
+    {
+      "name": "Ribički dom",
+      "latitude": 45.864946,
+      "longitude": 18.760226
+    },
+    {
+      "name": "ribički dom ŠRU \"Štuka\" Lasinja",
+      "latitude": 45.531454,
+      "longitude": 15.865394
+    },
+    {
+      "name": "Ribnjak Narta",
+      "latitude": 45.835293,
+      "longitude": 16.82121
+    },
+    {
+      "name": "Riječki alpinistički klub",
+      "latitude": 45.320316,
+      "longitude": 14.461033
+    },
+    {
+      "name": "Romska kuća - Etno kuća Lovara",
+      "latitude": 45.910762,
+      "longitude": 16.927655
+    },
+    {
+      "name": "Romski dom Grubišno Polje",
+      "latitude": 45.708101,
+      "longitude": 17.182085
+    },
+    {
+      "name": "Rođendaonica Havana",
+      "latitude": 45.555386,
+      "longitude": 18.667708
+    },
+    {
+      "name": "Slovenski dom KPD Bazovica",
+      "latitude": 45.334722,
+      "longitude": 14.426224
+    },
+    {
+      "name": "Spomen kuća Nijemaca i Austrijanaca Sirač",
+      "latitude": 45.52686,
+      "longitude": 17.257869
+    },
+    {
+      "name": "Spomen-soba hrvatskim braniteljima",
+      "latitude": 45.738121,
+      "longitude": 16.417859
+    },
+    {
+      "name": "Srpski crkveni dom",
+      "latitude": 45.484949,
+      "longitude": 18.985361
+    },
+    {
+      "name": "Srpski dom",
+      "latitude": 45.348888,
+      "longitude": 19.002504
+    },
+    {
+      "name": "Srpski Kulturni Centar \"Pavle Solarić\"",
+      "latitude": 45.895227,
+      "longitude": 16.842087
+    },
+    {
+      "name": "Stari dom kulture",
+      "latitude": 46.075141,
+      "longitude": 16.950748
+    },
+    {
+      "name": "Studentski centar",
+      "latitude": 45.556121,
+      "longitude": 18.694374
+    },
+    {
+      "name": "Studentski centar",
+      "latitude": 45.803657,
+      "longitude": 15.966901
+    },
+    {
+      "name": "The Union of Czechs in the Republic of Croatia",
+      "latitude": 45.594258,
+      "longitude": 17.223067
+    },
+    {
+      "name": "Trokut Inkubator",
+      "latitude": 43.716231,
+      "longitude": 15.907784
+    },
+    {
+      "name": "Udruga antifašističkih boraca i antifašista Bjelovar",
+      "latitude": 45.900794,
+      "longitude": 16.846574
+    },
+    {
+      "name": "Udruga antifašističkih boraca i antifašista Garešnica",
+      "latitude": 45.578115,
+      "longitude": 16.940167
+    },
+    {
+      "name": "Udruga dragovoljaca Narodne zaštite 91. Končanica",
+      "latitude": 45.638309,
+      "longitude": 17.164267
+    },
+    {
+      "name": "Udruga hrvatskih dragovoljaca Domovinskog rata",
+      "latitude": 45.527796,
+      "longitude": 17.25689
+    },
+    {
+      "name": "Udruga hrvatskih dragovoljaca Domovinskog rata",
+      "latitude": 45.897484,
+      "longitude": 16.841402
+    },
+    {
+      "name": "Udruga izvornih Roma – Lovari",
+      "latitude": 45.909884,
+      "longitude": 16.850709
+    },
+    {
+      "name": "Udruga mještana Kuče",
+      "latitude": 45.675784,
+      "longitude": 16.139584
+    },
+    {
+      "name": "Udruga Mudrica",
+      "latitude": 45.797723,
+      "longitude": 15.908129
+    },
+    {
+      "name": "Udruga OMR Čakovec",
+      "latitude": 46.387886,
+      "longitude": 16.432885
+    },
+    {
+      "name": "Udruga osoba s intelektualnim teškoćama",
+      "latitude": 45.910671,
+      "longitude": 16.851374
+    },
+    {
+      "name": "Udruga roditelja poginulih branitelja u dom.ratu",
+      "latitude": 43.442683,
+      "longitude": 16.684062
+    },
+    {
+      "name": "Udruga Roma Grada Bjelovara",
+      "latitude": 45.908997,
+      "longitude": 16.84437
+    },
+    {
+      "name": "udruga Vestigum",
+      "latitude": 45.794163,
+      "longitude": 15.918432
+    },
+    {
+      "name": "Udruga vinogradara i voćara Garešnica",
+      "latitude": 45.577816,
+      "longitude": 16.944277
+    },
+    {
+      "name": "Udruga Zamisli - Centar za mlade grada zagreba",
+      "latitude": 45.815767,
+      "longitude": 15.994278
+    },
+    {
+      "name": "Udruga žena Gudovac",
+      "latitude": 45.877939,
+      "longitude": 16.783193
+    },
+    {
+      "name": "up2date",
+      "latitude": 45.811203,
+      "longitude": 15.94971
+    },
+    {
+      "name": "Ustanova za sveobuhvatnu skrb \"Tigrovi\"",
+      "latitude": 45.787783,
+      "longitude": 15.81465
+    },
+    {
+      "name": "Vijeće Srpske nacionalne manjine BBŽ",
+      "latitude": 45.895298,
+      "longitude": 16.842164
+    },
+    {
+      "name": "Vijeće srpske nacionalne manjine Općine Đulovac",
+      "latitude": 45.624084,
+      "longitude": 17.286469
+    },
+    {
+      "name": "Virus",
+      "latitude": 43.444593,
+      "longitude": 16.642329
+    },
+    {
+      "name": "Yedikıta tursko-hrvatski kulturni centar",
+      "latitude": 45.820991,
+      "longitude": 16.004692
+    },
+    {
+      "name": "Zadružni dom Bribir",
+      "latitude": 45.1618,
+      "longitude": 14.761661
+    },
+    {
+      "name": "Zadružni dom Generalski Stol",
+      "latitude": 45.345907,
+      "longitude": 15.378812
+    },
+    {
+      "name": "Zajednica Mađara Bjelovar",
+      "latitude": 45.89577,
+      "longitude": 16.845954
+    },
+    {
+      "name": "Zajednica Mađara Pisanica",
+      "latitude": 45.801017,
+      "longitude": 17.036032
+    },
+    {
+      "name": "Zajednica Talijana \"Liberta\" Ploštine",
+      "latitude": 45.498977,
+      "longitude": 17.118959
+    },
+    {
+      "name": "Zajednica talijana Buje",
+      "latitude": 45.408816,
+      "longitude": 13.657767
+    },
+    {
+      "name": "Zajednica tehničke kulture Ka i Ka žup",
+      "latitude": 45.480713,
+      "longitude": 15.548616
+    },
+    {
+      "name": "Česká Beseda Dežanovec",
+      "latitude": 45.565024,
+      "longitude": 17.082767
+    },
+    {
+      "name": "Česká beseda Horni Daruvar",
+      "latitude": 45.589627,
+      "longitude": 17.186609
+    },
+    {
+      "name": "Česká beseda Lipovec",
+      "latitude": 45.604316,
+      "longitude": 17.182035
+    },
+    {
+      "name": "Český Dům",
+      "latitude": 45.638211,
+      "longitude": 17.164572
+    },
+    {
+      "name": "Český dům Dolní Střežan",
+      "latitude": 45.531849,
+      "longitude": 17.143281
+    },
+    {
+      "name": "Češka beseda Ivanovo Selo",
+      "latitude": 45.673521,
+      "longitude": 17.251329
+    },
+    {
+      "name": "Češka beseda Veliki i Mali Zdenci",
+      "latitude": 45.663413,
+      "longitude": 17.090263
+    },
+    {
+      "name": "Češka beseda Zagreb",
+      "latitude": 45.810021,
+      "longitude": 15.993305
+    },
+    {
+      "name": "Češka obec Bjelovar",
+      "latitude": 45.900339,
+      "longitude": 16.846624
+    },
+    {
+      "name": "Češki dom T. G. Masaryka",
+      "latitude": 45.352402,
+      "longitude": 14.396539
+    },
+    {
+      "name": "Športski plesni klub „H-8“",
+      "latitude": 45.908981,
+      "longitude": 16.86158
+    },
+    {
+      "name": "Športsko nautičko-ribolovno društvo Omiš",
+      "latitude": 43.441467,
+      "longitude": 16.687627
+    },
+    {
+      "name": "Športsko ribolovno društvo JEZ Jasenovac",
+      "latitude": 45.268912,
+      "longitude": 16.909304
+    },
+    {
+      "name": "Župa Uznesenja Blažene Djevice Marije",
+      "latitude": 45.638385,
+      "longitude": 17.165408
+    }
+  ],
+  "meta": {
+    "title": "Društveni domovi - Besplatno preuzimanje",
+    "description": "Društveni domovi u Hrvatskoj (445 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=community_centre), izrez EU-POIS/HR. Sadrži 445 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Društveni domovi | ListBase",
+    "seo_description": "Preuzmi Društveni domovi — 445 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 445 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

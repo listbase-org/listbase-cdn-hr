@@ -1,0 +1,846 @@
+{
+  "id": "hr-nocni-klubovi",
+  "name": "Noćni klubovi",
+  "title": "Noćni klubovi",
+  "description": "Noćni klubovi u Hrvatskoj (161 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=nightclub), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 161,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Admiral Club",
+      "latitude": 43.510824,
+      "longitude": 16.43819
+    },
+    {
+      "name": "Adris Old Tobacco Factory",
+      "latitude": 45.079515,
+      "longitude": 13.639584
+    },
+    {
+      "name": "Allegro",
+      "latitude": 45.897508,
+      "longitude": 16.844073
+    },
+    {
+      "name": "American Bar",
+      "latitude": 45.446761,
+      "longitude": 13.521484
+    },
+    {
+      "name": "Aqua",
+      "latitude": 43.930494,
+      "longitude": 15.44822
+    },
+    {
+      "name": "Aquarius",
+      "latitude": 45.778258,
+      "longitude": 15.937184
+    },
+    {
+      "name": "Armus",
+      "latitude": 45.814759,
+      "longitude": 15.836052
+    },
+    {
+      "name": "Aurora",
+      "latitude": 43.58578,
+      "longitude": 15.945691
+    },
+    {
+      "name": "Aurora",
+      "latitude": 45.685379,
+      "longitude": 15.704121
+    },
+    {
+      "name": "Automat Club",
+      "latitude": 45.488345,
+      "longitude": 15.546601
+    },
+    {
+      "name": "Avalon",
+      "latitude": 43.90699,
+      "longitude": 15.507879
+    },
+    {
+      "name": "Banana Club",
+      "latitude": 45.084006,
+      "longitude": 18.482449
+    },
+    {
+      "name": "Bang night club and caffe bar",
+      "latitude": 45.793731,
+      "longitude": 15.957408
+    },
+    {
+      "name": "Barbarella's Discotheque",
+      "latitude": 43.83426,
+      "longitude": 15.639986
+    },
+    {
+      "name": "BBS",
+      "latitude": 45.780716,
+      "longitude": 15.955008
+    },
+    {
+      "name": "Beertija",
+      "latitude": 45.807468,
+      "longitude": 15.9815
+    },
+    {
+      "name": "Bench",
+      "latitude": 45.798219,
+      "longitude": 15.917883
+    },
+    {
+      "name": "Best life",
+      "latitude": 46.048029,
+      "longitude": 16.184722
+    },
+    {
+      "name": "Big Mama",
+      "latitude": 45.763726,
+      "longitude": 15.978548
+    },
+    {
+      "name": "BlueOne",
+      "latitude": 44.821352,
+      "longitude": 13.938256
+    },
+    {
+      "name": "Boiler Club & Dining",
+      "latitude": 43.510534,
+      "longitude": 16.437664
+    },
+    {
+      "name": "Boogie Jungle Night Club",
+      "latitude": 42.954454,
+      "longitude": 17.126132
+    },
+    {
+      "name": "Boxer",
+      "latitude": 45.797413,
+      "longitude": 15.93124
+    },
+    {
+      "name": "Brodway",
+      "latitude": 45.563583,
+      "longitude": 18.694217
+    },
+    {
+      "name": "Buena Vista Club",
+      "latitude": 45.793703,
+      "longitude": 15.957784
+    },
+    {
+      "name": "By the way",
+      "latitude": 45.810673,
+      "longitude": 16.013534
+    },
+    {
+      "name": "Byblos Club",
+      "latitude": 45.202204,
+      "longitude": 13.598296
+    },
+    {
+      "name": "Cabaret Gentleman's Club Cristal",
+      "latitude": 43.531364,
+      "longitude": 15.959792
+    },
+    {
+      "name": "Caffe & Night Barr Šampion",
+      "latitude": 46.431608,
+      "longitude": 16.599085
+    },
+    {
+      "name": "Central The Club",
+      "latitude": 43.510842,
+      "longitude": 16.438685
+    },
+    {
+      "name": "Cezar",
+      "latitude": 45.155215,
+      "longitude": 18.016212
+    },
+    {
+      "name": "Cinema",
+      "latitude": 45.222459,
+      "longitude": 19.377972
+    },
+    {
+      "name": "City",
+      "latitude": 45.768977,
+      "longitude": 18.597725
+    },
+    {
+      "name": "Cleopatra",
+      "latitude": 45.766669,
+      "longitude": 18.617291
+    },
+    {
+      "name": "Club EXIT Osijek",
+      "latitude": 45.559689,
+      "longitude": 18.696932
+    },
+    {
+      "name": "Club H2O",
+      "latitude": 45.804247,
+      "longitude": 15.96974
+    },
+    {
+      "name": "Club Quasimodo",
+      "latitude": 43.513997,
+      "longitude": 16.438888
+    },
+    {
+      "name": "Colapis",
+      "latitude": 45.613536,
+      "longitude": 15.468616
+    },
+    {
+      "name": "Crkva",
+      "latitude": 45.331044,
+      "longitude": 14.452607
+    },
+    {
+      "name": "Diamont Club",
+      "latitude": 45.112302,
+      "longitude": 14.54548
+    },
+    {
+      "name": "Dioniz",
+      "latitude": 45.485009,
+      "longitude": 16.372669
+    },
+    {
+      "name": "Disco Bar Jungle",
+      "latitude": 45.026581,
+      "longitude": 14.57351
+    },
+    {
+      "name": "Disco bar Zelendvor",
+      "latitude": 45.414996,
+      "longitude": 17.160907
+    },
+    {
+      "name": "Disco Club Monaco",
+      "latitude": 43.514884,
+      "longitude": 16.252246
+    },
+    {
+      "name": "Disco klub 69 INTIM",
+      "latitude": 45.420918,
+      "longitude": 15.474582
+    },
+    {
+      "name": "Disco Saturnus",
+      "latitude": 44.231883,
+      "longitude": 15.172413
+    },
+    {
+      "name": "Disco Summer Club",
+      "latitude": 44.814157,
+      "longitude": 13.930488
+    },
+    {
+      "name": "Discoteque Planet",
+      "latitude": 45.446997,
+      "longitude": 13.520234
+    },
+    {
+      "name": "Dolls",
+      "latitude": 43.506592,
+      "longitude": 16.482226
+    },
+    {
+      "name": "Dom kulture",
+      "latitude": 45.633308,
+      "longitude": 15.396012
+    },
+    {
+      "name": "Drago Club",
+      "latitude": 45.334825,
+      "longitude": 14.305875
+    },
+    {
+      "name": "Dubioza rent a bar",
+      "latitude": 45.560462,
+      "longitude": 18.694416
+    },
+    {
+      "name": "Dva osam",
+      "latitude": 45.823946,
+      "longitude": 15.97153
+    },
+    {
+      "name": "El ron de Cuba",
+      "latitude": 43.385361,
+      "longitude": 16.548045
+    },
+    {
+      "name": "Element",
+      "latitude": 45.318836,
+      "longitude": 13.568431
+    },
+    {
+      "name": "Elyx",
+      "latitude": 42.64205,
+      "longitude": 18.105283
+    },
+    {
+      "name": "EPIC - Alternativni klub Osijek",
+      "latitude": 45.561862,
+      "longitude": 18.697549
+    },
+    {
+      "name": "Escape",
+      "latitude": 44.284357,
+      "longitude": 15.464372
+    },
+    {
+      "name": "Feniks",
+      "latitude": 46.233021,
+      "longitude": 16.121354
+    },
+    {
+      "name": "Gallery Club",
+      "latitude": 45.780901,
+      "longitude": 15.933027
+    },
+    {
+      "name": "Gaudi",
+      "latitude": 42.960938,
+      "longitude": 17.136744
+    },
+    {
+      "name": "Grill",
+      "latitude": 45.485087,
+      "longitude": 16.373283
+    },
+    {
+      "name": "Hacienda",
+      "latitude": 43.764328,
+      "longitude": 15.799767
+    },
+    {
+      "name": "Hemingway Bar",
+      "latitude": 43.517476,
+      "longitude": 16.42731
+    },
+    {
+      "name": "History",
+      "latitude": 45.81736,
+      "longitude": 15.976366
+    },
+    {
+      "name": "Horti",
+      "latitude": 45.801326,
+      "longitude": 15.788197
+    },
+    {
+      "name": "Ilir Bar",
+      "latitude": 46.164182,
+      "longitude": 15.870296
+    },
+    {
+      "name": "INFINITY Club Bjelovar",
+      "latitude": 45.895339,
+      "longitude": 16.837343
+    },
+    {
+      "name": "Inside",
+      "latitude": 43.713794,
+      "longitude": 15.911476
+    },
+    {
+      "name": "Jack Daniels",
+      "latitude": 45.749669,
+      "longitude": 16.615264
+    },
+    {
+      "name": "Jedinica",
+      "latitude": 45.818778,
+      "longitude": 15.978023
+    },
+    {
+      "name": "Judino drvo",
+      "latitude": 43.523008,
+      "longitude": 16.453846
+    },
+    {
+      "name": "Klub Kocka",
+      "latitude": 43.512381,
+      "longitude": 16.450135
+    },
+    {
+      "name": "Klub Uljanik",
+      "latitude": 44.866652,
+      "longitude": 13.845584
+    },
+    {
+      "name": "Konoba",
+      "latitude": 44.989239,
+      "longitude": 14.899308
+    },
+    {
+      "name": "Kontesa music & cabare",
+      "latitude": 45.813154,
+      "longitude": 15.978705
+    },
+    {
+      "name": "Kuglana",
+      "latitude": 43.739426,
+      "longitude": 15.89957
+    },
+    {
+      "name": "Kuka",
+      "latitude": 43.511931,
+      "longitude": 16.435841
+    },
+    {
+      "name": "Ledana",
+      "latitude": 44.112529,
+      "longitude": 15.22958
+    },
+    {
+      "name": "Lemon",
+      "latitude": 45.810878,
+      "longitude": 15.976194
+    },
+    {
+      "name": "Limb",
+      "latitude": 45.801103,
+      "longitude": 15.969884
+    },
+    {
+      "name": "Lord of the Pubs",
+      "latitude": 45.181829,
+      "longitude": 14.681569
+    },
+    {
+      "name": "Lost and found",
+      "latitude": 45.790797,
+      "longitude": 15.980463
+    },
+    {
+      "name": "Luda Koka",
+      "latitude": 43.176587,
+      "longitude": 16.666565
+    },
+    {
+      "name": "Ludnica",
+      "latitude": 45.812405,
+      "longitude": 15.901803
+    },
+    {
+      "name": "Madhouse",
+      "latitude": 43.444156,
+      "longitude": 17.232748
+    },
+    {
+      "name": "Magnus",
+      "latitude": 44.988876,
+      "longitude": 14.900847
+    },
+    {
+      "name": "Makarana",
+      "latitude": 43.294909,
+      "longitude": 17.012984
+    },
+    {
+      "name": "Malex",
+      "latitude": 43.446602,
+      "longitude": 17.217648
+    },
+    {
+      "name": "Marvil",
+      "latitude": 46.22864,
+      "longitude": 16.129699
+    },
+    {
+      "name": "Master",
+      "latitude": 43.617735,
+      "longitude": 16.730747
+    },
+    {
+      "name": "Masters Klub",
+      "latitude": 45.821566,
+      "longitude": 16.032649
+    },
+    {
+      "name": "Mint club & more",
+      "latitude": 45.801456,
+      "longitude": 15.961275
+    },
+    {
+      "name": "Modesto",
+      "latitude": 45.327281,
+      "longitude": 14.444608
+    },
+    {
+      "name": "Močvara",
+      "latitude": 45.790996,
+      "longitude": 15.976222
+    },
+    {
+      "name": "Museum Katran",
+      "latitude": 45.804023,
+      "longitude": 16.001375
+    },
+    {
+      "name": "News",
+      "latitude": 45.152302,
+      "longitude": 18.02043
+    },
+    {
+      "name": "Night club BOSS",
+      "latitude": 43.489582,
+      "longitude": 16.985554
+    },
+    {
+      "name": "Night Club Montana",
+      "latitude": 45.279477,
+      "longitude": 13.755063
+    },
+    {
+      "name": "No Limit",
+      "latitude": 45.498116,
+      "longitude": 18.092422
+    },
+    {
+      "name": "Nord",
+      "latitude": 45.433543,
+      "longitude": 13.517539
+    },
+    {
+      "name": "Noćni Club M7",
+      "latitude": 44.039891,
+      "longitude": 16.201267
+    },
+    {
+      "name": "Noćni klub \"M\"",
+      "latitude": 45.761292,
+      "longitude": 15.988708
+    },
+    {
+      "name": "Noštromo",
+      "latitude": 44.301664,
+      "longitude": 15.084586
+    },
+    {
+      "name": "Opera",
+      "latitude": 43.758559,
+      "longitude": 15.777211
+    },
+    {
+      "name": "Palach",
+      "latitude": 45.328103,
+      "longitude": 14.439685
+    },
+    {
+      "name": "Palazzo",
+      "latitude": 45.227477,
+      "longitude": 13.589787
+    },
+    {
+      "name": "Paparazzo",
+      "latitude": 43.385285,
+      "longitude": 16.548831
+    },
+    {
+      "name": "Petar Pan",
+      "latitude": 43.289819,
+      "longitude": 17.021423
+    },
+    {
+      "name": "Piccadilly",
+      "latitude": 43.70288,
+      "longitude": 16.641676
+    },
+    {
+      "name": "Platinum Bar & Discotheque",
+      "latitude": 45.332092,
+      "longitude": 17.676818
+    },
+    {
+      "name": "Plus",
+      "latitude": 45.287719,
+      "longitude": 18.802913
+    },
+    {
+      "name": "Pocco Locco cocktail bar",
+      "latitude": 43.930544,
+      "longitude": 15.449108
+    },
+    {
+      "name": "Podrum",
+      "latitude": 45.32333,
+      "longitude": 14.448104
+    },
+    {
+      "name": "Porta Salina",
+      "latitude": 44.442538,
+      "longitude": 15.052779
+    },
+    {
+      "name": "Pub na kraju svijeta",
+      "latitude": 45.816738,
+      "longitude": 15.972143
+    },
+    {
+      "name": "Puls",
+      "latitude": 43.702413,
+      "longitude": 16.63711
+    },
+    {
+      "name": "Q Club",
+      "latitude": 45.560206,
+      "longitude": 18.69492
+    },
+    {
+      "name": "Queen bar",
+      "latitude": 43.93045,
+      "longitude": 15.449574
+    },
+    {
+      "name": "Regenerator",
+      "latitude": 46.024586,
+      "longitude": 15.906711
+    },
+    {
+      "name": "Restaurant Bijela Uvala",
+      "latitude": 45.188803,
+      "longitude": 13.591819
+    },
+    {
+      "name": "Revelin",
+      "latitude": 42.64222,
+      "longitude": 18.112179
+    },
+    {
+      "name": "Revelin",
+      "latitude": 42.652316,
+      "longitude": 18.091376
+    },
+    {
+      "name": "Ritam Grada",
+      "latitude": 45.812809,
+      "longitude": 15.976212
+    },
+    {
+      "name": "River Pub",
+      "latitude": 45.328423,
+      "longitude": 14.442061
+    },
+    {
+      "name": "Rock Klub Ribnjak",
+      "latitude": 45.816013,
+      "longitude": 15.980098
+    },
+    {
+      "name": "S.R",
+      "latitude": 45.883912,
+      "longitude": 16.917354
+    },
+    {
+      "name": "Sagapo bar",
+      "latitude": 43.906633,
+      "longitude": 15.507446
+    },
+    {
+      "name": "Salvador Dali",
+      "latitude": 45.155276,
+      "longitude": 18.016236
+    },
+    {
+      "name": "San Marco",
+      "latitude": 45.154342,
+      "longitude": 18.013828
+    },
+    {
+      "name": "Sax",
+      "latitude": 45.811124,
+      "longitude": 15.981064
+    },
+    {
+      "name": "Shine",
+      "latitude": 45.313789,
+      "longitude": 18.41306
+    },
+    {
+      "name": "Sokol klub Zagreb",
+      "latitude": 45.808459,
+      "longitude": 15.969663
+    },
+    {
+      "name": "Space",
+      "latitude": 45.56047,
+      "longitude": 18.694322
+    },
+    {
+      "name": "Splav \"Sveti Nikola\"",
+      "latitude": 45.184195,
+      "longitude": 16.81154
+    },
+    {
+      "name": "Splav Element",
+      "latitude": 44.88055,
+      "longitude": 18.807731
+    },
+    {
+      "name": "Stara hiža",
+      "latitude": 45.474921,
+      "longitude": 15.458703
+    },
+    {
+      "name": "Stereo (club)",
+      "latitude": 45.325943,
+      "longitude": 14.450933
+    },
+    {
+      "name": "Svarog Bar",
+      "latitude": 44.112367,
+      "longitude": 15.228491
+    },
+    {
+      "name": "Swinger Club \"Anaconda\"",
+      "latitude": 45.118955,
+      "longitude": 13.635603
+    },
+    {
+      "name": "Teens Club",
+      "latitude": 45.30314,
+      "longitude": 13.590111
+    },
+    {
+      "name": "Temple Night Club",
+      "latitude": 43.168799,
+      "longitude": 16.457347
+    },
+    {
+      "name": "The Beat Beach Club",
+      "latitude": 45.07378,
+      "longitude": 14.161541
+    },
+    {
+      "name": "The Club",
+      "latitude": 45.342772,
+      "longitude": 16.974389
+    },
+    {
+      "name": "The Red Apple Pub",
+      "latitude": 45.793703,
+      "longitude": 15.907686
+    },
+    {
+      "name": "Thriller",
+      "latitude": 43.385351,
+      "longitude": 16.548368
+    },
+    {
+      "name": "Time",
+      "latitude": 44.861068,
+      "longitude": 13.851949
+    },
+    {
+      "name": "Toro",
+      "latitude": 43.907047,
+      "longitude": 15.507761
+    },
+    {
+      "name": "Tower",
+      "latitude": 43.694108,
+      "longitude": 15.887225
+    },
+    {
+      "name": "Trocadero",
+      "latitude": 42.641541,
+      "longitude": 18.109641
+    },
+    {
+      "name": "Tropic",
+      "latitude": 43.501867,
+      "longitude": 16.448513
+    },
+    {
+      "name": "Tunel",
+      "latitude": 43.71902,
+      "longitude": 15.904121
+    },
+    {
+      "name": "Vagabundo",
+      "latitude": 44.301687,
+      "longitude": 15.084099
+    },
+    {
+      "name": "Vanilla Club",
+      "latitude": 43.521805,
+      "longitude": 16.432183
+    },
+    {
+      "name": "Veliki Arsenal",
+      "latitude": 44.117476,
+      "longitude": 15.224546
+    },
+    {
+      "name": "Veneranda",
+      "latitude": 43.170933,
+      "longitude": 16.436959
+    },
+    {
+      "name": "Vetro bar & bites",
+      "latitude": 45.804645,
+      "longitude": 15.995811
+    },
+    {
+      "name": "Vintage Industrial Bar",
+      "latitude": 45.790568,
+      "longitude": 15.955062
+    },
+    {
+      "name": "Zenta",
+      "latitude": 43.499957,
+      "longitude": 16.455674
+    },
+    {
+      "name": "Život",
+      "latitude": 45.328958,
+      "longitude": 14.450505
+    },
+    {
+      "name": "Диско бар Бумеранг",
+      "latitude": 45.794709,
+      "longitude": 18.933866
+    }
+  ],
+  "meta": {
+    "title": "Noćni klubovi - Besplatno preuzimanje",
+    "description": "Noćni klubovi u Hrvatskoj (161 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=nightclub), izrez EU-POIS/HR. Sadrži 161 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Noćni klubovi | ListBase",
+    "seo_description": "Preuzmi Noćni klubovi — 161 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 161 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

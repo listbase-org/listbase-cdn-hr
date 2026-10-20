@@ -1,0 +1,97 @@
+{
+  "id": "hr-mjerne-jedinice-consumption",
+  "name": "Mjerne jedinice — kategorija 'consumption' (4)",
+  "title": "Mjerne jedinice — kategorija 'consumption' (4)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'consumption' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategorija": "consumption",
+      "naziv": "litre na 100 kilometara",
+      "kratica": "l/100 km",
+      "naziv_uski": "l/100 km",
+      "obrazac": "{0} litara na 100 kilometara"
+    },
+    {
+      "id": 2,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategorija": "consumption",
+      "naziv": "litre po kilometru",
+      "kratica": "l/km",
+      "naziv_uski": "l/km",
+      "obrazac": "{0} litara po kilometru"
+    },
+    {
+      "id": 3,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategorija": "consumption",
+      "naziv": "milje po galonu",
+      "kratica": "mpg",
+      "naziv_uski": "mpg",
+      "obrazac": "{0} milja po galonu"
+    },
+    {
+      "id": 4,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategorija": "consumption",
+      "naziv": "milje po imp. galonu",
+      "kratica": "milje/imp. gal.",
+      "naziv_uski": "milje/imp. gal.",
+      "obrazac": "{0} milja po imp. galonu"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'consumption' (4) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'consumption' s hrvatskim nazivima. Sadrži 4 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'consumption' (4) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'consumption' (4) — 4 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 4 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

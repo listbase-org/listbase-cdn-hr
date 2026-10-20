@@ -1,0 +1,261 @@
+{
+  "id": "hr-prezimena",
+  "name": "Najčešća prezimena u Hrvatskoj (Popular Croatian Surnames)",
+  "title": "Najčešća prezimena u Hrvatskoj (Popular Croatian Surnames)",
+  "description": "Najfrekventnija hrvatska prezimena prema popisu stanovništva i registru državljana, s brojem nositelja gdje je dostupno.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "HR-1",
+      "rank": 1,
+      "localized": "Horvat",
+      "romanized": "Horvat",
+      "count": 21618
+    },
+    {
+      "name_group": "HR-2",
+      "rank": 2,
+      "localized": "Kovačević",
+      "romanized": "Kovačević",
+      "count": 15160
+    },
+    {
+      "name_group": "HR-3",
+      "rank": 3,
+      "localized": "Babić",
+      "romanized": "Babić",
+      "count": 12840
+    },
+    {
+      "name_group": "HR-4",
+      "rank": 4,
+      "localized": "Marić",
+      "romanized": "Marić",
+      "count": 11555
+    },
+    {
+      "name_group": "HR-5",
+      "rank": 5,
+      "localized": "Jurić",
+      "romanized": "Jurić",
+      "count": 11163
+    },
+    {
+      "name_group": "HR-6",
+      "rank": 6,
+      "localized": "Novak",
+      "romanized": "Novak",
+      "count": 10794
+    },
+    {
+      "name_group": "HR-7",
+      "rank": 7,
+      "localized": "Kovačić",
+      "romanized": "Kovačić",
+      "count": 10546
+    },
+    {
+      "name_group": "HR-8",
+      "rank": 8,
+      "localized": "Knežević",
+      "romanized": "Knežević",
+      "count": 10334
+    },
+    {
+      "name_group": "HR-9",
+      "rank": 9,
+      "localized": "Vuković",
+      "romanized": "Vuković",
+      "count": 10191
+    },
+    {
+      "name_group": "HR-10",
+      "rank": 10,
+      "localized": "Marković",
+      "romanized": "Marković",
+      "count": 9854
+    },
+    {
+      "name_group": "HR-11",
+      "rank": 11,
+      "localized": "Petrović",
+      "romanized": "Petrović",
+      "count": 9614
+    },
+    {
+      "name_group": "HR-12",
+      "rank": 12,
+      "localized": "Matić",
+      "romanized": "Matić",
+      "count": 9960
+    },
+    {
+      "name_group": "HR-13",
+      "rank": 13,
+      "localized": "Tomić",
+      "romanized": "Tomić",
+      "count": 9464
+    },
+    {
+      "name_group": "HR-14",
+      "rank": 14,
+      "localized": "Pavlović",
+      "romanized": "Pavlović",
+      "count": 8601
+    },
+    {
+      "name_group": "HR-15",
+      "rank": 15,
+      "localized": "Kovač",
+      "romanized": "Kovač",
+      "count": 8542
+    },
+    {
+      "name_group": "HR-16",
+      "rank": 16,
+      "localized": "Božić",
+      "romanized": "Božić",
+      "count": 8258
+    },
+    {
+      "name_group": "HR-17",
+      "rank": 17,
+      "localized": "Blažević",
+      "romanized": "Blažević",
+      "count": 8152
+    },
+    {
+      "name_group": "HR-18",
+      "rank": 18,
+      "localized": "Grgić",
+      "romanized": "Grgić",
+      "count": 8010
+    },
+    {
+      "name_group": "HR-19",
+      "rank": 19,
+      "localized": "Pavić",
+      "romanized": "Pavić",
+      "count": 7538
+    },
+    {
+      "name_group": "HR-20",
+      "rank": 20,
+      "localized": "Radić",
+      "romanized": "Radić",
+      "count": 7406
+    },
+    {
+      "name_group": "HR-21",
+      "rank": 21,
+      "localized": "Perić",
+      "romanized": "Perić",
+      "count": 7351
+    },
+    {
+      "name_group": "HR-22",
+      "rank": 22,
+      "localized": "Filipović",
+      "romanized": "Filipović",
+      "count": 7321
+    },
+    {
+      "name_group": "HR-23",
+      "rank": 23,
+      "localized": "Šarić",
+      "romanized": "Šarić",
+      "count": 7184
+    },
+    {
+      "name_group": "HR-24",
+      "rank": 24,
+      "localized": "Lovrić",
+      "romanized": "Lovrić",
+      "count": 7131
+    },
+    {
+      "name_group": "HR-25",
+      "rank": 25,
+      "localized": "Vidović",
+      "romanized": "Vidović",
+      "count": 6986
+    },
+    {
+      "name_group": "HR-26",
+      "rank": 26,
+      "localized": "Perković",
+      "romanized": "Perković",
+      "count": 6903
+    },
+    {
+      "name_group": "HR-27",
+      "rank": 27,
+      "localized": "Popović",
+      "romanized": "Popović",
+      "count": 6797
+    },
+    {
+      "name_group": "HR-28",
+      "rank": 28,
+      "localized": "Bošnjak",
+      "romanized": "Bošnjak",
+      "count": 6760
+    },
+    {
+      "name_group": "HR-29",
+      "rank": 29,
+      "localized": "Jukić",
+      "romanized": "Jukić",
+      "count": 6653
+    },
+    {
+      "name_group": "HR-30",
+      "rank": 30,
+      "localized": "Barišić",
+      "romanized": "Barišić",
+      "count": 6417
+    }
+  ],
+  "meta": {
+    "title": "Najčešća prezimena u Hrvatskoj (Popular Croatian Surnames) - Besplatno preuzimanje",
+    "description": "Najfrekventnija hrvatska prezimena prema popisu stanovništva i registru državljana, s brojem nositelja gdje je dostupno. Sadrži 30 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Najčešća prezimena u Hrvatskoj (Popular Croatian Surnames) | ListBase",
+    "seo_description": "Preuzmi Najčešća prezimena u Hrvatskoj (Popular Croatian Surnames) — 30 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 30 zapisa / 5 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

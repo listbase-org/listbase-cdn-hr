@@ -1,0 +1,211 @@
+{
+  "id": "hr-pozesko-slavonska-cijene-nekretnina-jls",
+  "name": "Medijalne cijene nekretnina po m² (JLS) — Požeško-slavonska",
+  "title": "Medijalne cijene nekretnina po m² (JLS) — Požeško-slavonska",
+  "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Požeško-slavonska: 10 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "2012",
+      "label": "2012",
+      "type": "string"
+    },
+    {
+      "key": "2013",
+      "label": "2013",
+      "type": "string"
+    },
+    {
+      "key": "2014",
+      "label": "2014",
+      "type": "string"
+    },
+    {
+      "key": "2015",
+      "label": "2015",
+      "type": "string"
+    },
+    {
+      "key": "2016",
+      "label": "2016",
+      "type": "string"
+    },
+    {
+      "key": "2017",
+      "label": "2017",
+      "type": "string"
+    },
+    {
+      "key": "2018",
+      "label": "2018",
+      "type": "string"
+    },
+    {
+      "key": "2019",
+      "label": "2019",
+      "type": "string"
+    },
+    {
+      "key": "Šifra",
+      "label": "ŠIfra",
+      "type": "number"
+    },
+    {
+      "key": "Naziv županije",
+      "label": "Naziv žUpanije",
+      "type": "string"
+    },
+    {
+      "key": "Naziv JLS-a",
+      "label": "Naziv JLS A",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 353,
+      "Naziv županije": "Požeško-slavonska",
+      "Naziv JLS-a": "BRESTOVAC"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 582,
+      "Naziv županije": "Požeško-slavonska",
+      "Naziv JLS-a": "ČAGLIN"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 1643,
+      "Naziv županije": "Požeško-slavonska",
+      "Naziv JLS-a": "JAKŠIĆ"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 1775,
+      "Naziv županije": "Požeško-slavonska",
+      "Naziv JLS-a": "KAPTOL"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "z",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 2216,
+      "Naziv županije": "Požeško-slavonska",
+      "Naziv JLS-a": "KUTJEVO"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": 3110.55,
+      "Šifra": 2313,
+      "Naziv županije": "Požeško-slavonska",
+      "Naziv JLS-a": "LIPIK"
+    },
+    {
+      "2012": 3683.65,
+      "2013": 2937.27,
+      "2014": 3516.96,
+      "2015": 3369.82,
+      "2016": "z",
+      "2017": "z",
+      "2018": 2888.4,
+      "2019": 2881.61,
+      "Šifra": 3182,
+      "Naziv županije": "Požeško-slavonska",
+      "Naziv JLS-a": "PAKRAC"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 3344,
+      "Naziv županije": "Požeško-slavonska",
+      "Naziv JLS-a": "PLETERNICA"
+    },
+    {
+      "2012": 5026.94,
+      "2013": 5216.7,
+      "2014": 4694.7,
+      "2015": 4613.93,
+      "2016": 3482.05,
+      "2017": 4228.3,
+      "2018": 3986.4,
+      "2019": 4952.38,
+      "Šifra": 3514,
+      "Naziv županije": "Požeško-slavonska",
+      "Naziv JLS-a": "POŽEGA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4758,
+      "Naziv županije": "Požeško-slavonska",
+      "Naziv JLS-a": "VELIKA"
+    }
+  ],
+  "meta": {
+    "title": "Medijalne cijene nekretnina po m² (JLS) — Požeško-slavonska - Besplatno preuzimanje",
+    "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Požeško-slavonska: 10 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data. Sadrži 10 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Medijalne cijene nekretnina po m² (JLS) — Požeško-slavonska | ListBase",
+    "seo_description": "Preuzmi Medijalne cijene nekretnina po m² (JLS) — Požeško-slavonska — 10 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 10 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

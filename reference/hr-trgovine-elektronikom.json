@@ -1,0 +1,861 @@
+{
+  "id": "hr-trgovine-elektronikom",
+  "name": "Trgovine elektronikom",
+  "title": "Trgovine elektronikom",
+  "description": "Trgovine elektronikom u Hrvatskoj (164 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=electronics), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 164,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A/D elektronic",
+      "latitude": 46.388978,
+      "longitude": 16.437408
+    },
+    {
+      "name": "Alucel elektromaterijal",
+      "latitude": 45.607914,
+      "longitude": 18.738541
+    },
+    {
+      "name": "Andabaka",
+      "latitude": 43.513755,
+      "longitude": 16.437147
+    },
+    {
+      "name": "Andabaka",
+      "latitude": 43.523229,
+      "longitude": 16.45203
+    },
+    {
+      "name": "Bart elektronika",
+      "latitude": 45.486354,
+      "longitude": 16.37432
+    },
+    {
+      "name": "Baterijski centar",
+      "latitude": 45.810538,
+      "longitude": 15.9804
+    },
+    {
+      "name": "Bepo",
+      "latitude": 43.384615,
+      "longitude": 16.555714
+    },
+    {
+      "name": "BFT Adria",
+      "latitude": 45.39419,
+      "longitude": 14.469332
+    },
+    {
+      "name": "Big Bang",
+      "latitude": 45.769516,
+      "longitude": 15.935105
+    },
+    {
+      "name": "Big Bang",
+      "latitude": 45.798963,
+      "longitude": 15.884825
+    },
+    {
+      "name": "BIG BANG",
+      "latitude": 46.264136,
+      "longitude": 16.378893
+    },
+    {
+      "name": "Bijela Kuća",
+      "latitude": 45.353059,
+      "longitude": 19.000185
+    },
+    {
+      "name": "Bitechnique",
+      "latitude": 45.430427,
+      "longitude": 13.5228
+    },
+    {
+      "name": "Bosch",
+      "latitude": 45.801047,
+      "longitude": 15.939922
+    },
+    {
+      "name": "Brodomerkur",
+      "latitude": 43.37832,
+      "longitude": 16.560252
+    },
+    {
+      "name": "Brodomerkur",
+      "latitude": 43.50975,
+      "longitude": 16.437207
+    },
+    {
+      "name": "Bukal elektronika",
+      "latitude": 46.379139,
+      "longitude": 16.442862
+    },
+    {
+      "name": "Candy",
+      "latitude": 45.340528,
+      "longitude": 14.407484
+    },
+    {
+      "name": "Centar tehnike",
+      "latitude": 45.15348,
+      "longitude": 18.02227
+    },
+    {
+      "name": "Centar tehnike",
+      "latitude": 45.556881,
+      "longitude": 18.675809
+    },
+    {
+      "name": "Centar za digitalnu mikroelektroniku",
+      "latitude": 46.224385,
+      "longitude": 16.125668
+    },
+    {
+      "name": "Chipoteka",
+      "latitude": 44.114016,
+      "longitude": 15.235789
+    },
+    {
+      "name": "Chipoteka",
+      "latitude": 44.86874,
+      "longitude": 13.848698
+    },
+    {
+      "name": "Chipoteka",
+      "latitude": 45.33054,
+      "longitude": 14.44215
+    },
+    {
+      "name": "Concolor",
+      "latitude": 45.811752,
+      "longitude": 15.979521
+    },
+    {
+      "name": "Conrad",
+      "latitude": 45.821881,
+      "longitude": 16.032891
+    },
+    {
+      "name": "Daikin",
+      "latitude": 45.812363,
+      "longitude": 15.951192
+    },
+    {
+      "name": "Deak-Tehna",
+      "latitude": 45.806411,
+      "longitude": 15.715465
+    },
+    {
+      "name": "Dominis",
+      "latitude": 43.50656,
+      "longitude": 16.466213
+    },
+    {
+      "name": "Edar Elektronika",
+      "latitude": 44.875667,
+      "longitude": 13.849865
+    },
+    {
+      "name": "Ehome",
+      "latitude": 45.796558,
+      "longitude": 15.980098
+    },
+    {
+      "name": "Ekran",
+      "latitude": 45.562462,
+      "longitude": 18.674941
+    },
+    {
+      "name": "Eldom",
+      "latitude": 45.173584,
+      "longitude": 14.691211
+    },
+    {
+      "name": "ElectronIC Center",
+      "latitude": 45.559518,
+      "longitude": 18.68054
+    },
+    {
+      "name": "Electronic shop",
+      "latitude": 45.794317,
+      "longitude": 15.996678
+    },
+    {
+      "name": "electus",
+      "latitude": 45.813392,
+      "longitude": 15.925345
+    },
+    {
+      "name": "Eleg.g",
+      "latitude": 45.702973,
+      "longitude": 16.393767
+    },
+    {
+      "name": "Elekom servis",
+      "latitude": 45.806153,
+      "longitude": 15.933598
+    },
+    {
+      "name": "Elekta",
+      "latitude": 43.700554,
+      "longitude": 16.638227
+    },
+    {
+      "name": "Elektro centar",
+      "latitude": 45.703107,
+      "longitude": 16.393427
+    },
+    {
+      "name": "Elektro Centar",
+      "latitude": 45.811937,
+      "longitude": 15.969559
+    },
+    {
+      "name": "Elektro Krk",
+      "latitude": 45.027268,
+      "longitude": 14.572865
+    },
+    {
+      "name": "Elektro Rab d.o.o.",
+      "latitude": 44.761325,
+      "longitude": 14.760725
+    },
+    {
+      "name": "ElektroCentar",
+      "latitude": 44.548944,
+      "longitude": 14.886787
+    },
+    {
+      "name": "Elektromaterijal Botić",
+      "latitude": 43.506689,
+      "longitude": 16.474803
+    },
+    {
+      "name": "Elektromaterijal Niko",
+      "latitude": 45.314642,
+      "longitude": 18.414266
+    },
+    {
+      "name": "Elektronika Lapat",
+      "latitude": 46.379354,
+      "longitude": 16.443123
+    },
+    {
+      "name": "Elektrotrade",
+      "latitude": 45.249032,
+      "longitude": 15.242729
+    },
+    {
+      "name": "Elipso",
+      "latitude": 43.755262,
+      "longitude": 15.879473
+    },
+    {
+      "name": "Elipso",
+      "latitude": 45.173808,
+      "longitude": 18.053993
+    },
+    {
+      "name": "Elipso",
+      "latitude": 45.337541,
+      "longitude": 14.408639
+    },
+    {
+      "name": "Elipso",
+      "latitude": 45.495788,
+      "longitude": 16.35719
+    },
+    {
+      "name": "Elipso",
+      "latitude": 45.507249,
+      "longitude": 15.544125
+    },
+    {
+      "name": "Elipso",
+      "latitude": 45.547485,
+      "longitude": 18.657626
+    },
+    {
+      "name": "Elipso",
+      "latitude": 45.756571,
+      "longitude": 15.986413
+    },
+    {
+      "name": "Elipso",
+      "latitude": 45.770083,
+      "longitude": 15.940736
+    },
+    {
+      "name": "Elipso",
+      "latitude": 45.799416,
+      "longitude": 15.957242
+    },
+    {
+      "name": "Elipso",
+      "latitude": 45.799853,
+      "longitude": 15.883913
+    },
+    {
+      "name": "Elipso",
+      "latitude": 45.801576,
+      "longitude": 15.726101
+    },
+    {
+      "name": "Elipso",
+      "latitude": 46.318374,
+      "longitude": 16.306244
+    },
+    {
+      "name": "Elko",
+      "latitude": 45.343089,
+      "longitude": 14.442545
+    },
+    {
+      "name": "Ellipso",
+      "latitude": 45.317663,
+      "longitude": 14.469603
+    },
+    {
+      "name": "Emmezeta",
+      "latitude": 45.801116,
+      "longitude": 16.047567
+    },
+    {
+      "name": "EPIS",
+      "latitude": 45.407634,
+      "longitude": 13.965521
+    },
+    {
+      "name": "Fetura",
+      "latitude": 45.55586,
+      "longitude": 18.673596
+    },
+    {
+      "name": "Frigo",
+      "latitude": 46.247839,
+      "longitude": 16.625447
+    },
+    {
+      "name": "Frigo d.o.o.",
+      "latitude": 46.018764,
+      "longitude": 16.537924
+    },
+    {
+      "name": "Frigo DC d.o.o.",
+      "latitude": 45.332339,
+      "longitude": 14.432075
+    },
+    {
+      "name": "G-zona",
+      "latitude": 45.555539,
+      "longitude": 18.682728
+    },
+    {
+      "name": "Gorenje",
+      "latitude": 45.159648,
+      "longitude": 18.027255
+    },
+    {
+      "name": "Grom doo (prod.br.3)",
+      "latitude": 43.445422,
+      "longitude": 16.64094
+    },
+    {
+      "name": "H 18",
+      "latitude": 44.117336,
+      "longitude": 15.271007
+    },
+    {
+      "name": "H1 Info Centar",
+      "latitude": 45.325313,
+      "longitude": 14.445814
+    },
+    {
+      "name": "H18",
+      "latitude": 46.388784,
+      "longitude": 16.438417
+    },
+    {
+      "name": "Habek Computer Shop",
+      "latitude": 46.225544,
+      "longitude": 16.127146
+    },
+    {
+      "name": "hama",
+      "latitude": 45.813387,
+      "longitude": 15.973821
+    },
+    {
+      "name": "Hangar 18",
+      "latitude": 46.263401,
+      "longitude": 16.375539
+    },
+    {
+      "name": "Holex elektronika",
+      "latitude": 45.349016,
+      "longitude": 14.377172
+    },
+    {
+      "name": "iducan.hr",
+      "latitude": 45.807758,
+      "longitude": 15.935096
+    },
+    {
+      "name": "IMAGE eNTER D.O.O.",
+      "latitude": 45.898532,
+      "longitude": 16.852108
+    },
+    {
+      "name": "iStyle",
+      "latitude": 43.513343,
+      "longitude": 16.503763
+    },
+    {
+      "name": "iStyle",
+      "latitude": 44.116133,
+      "longitude": 15.27199
+    },
+    {
+      "name": "iStyle",
+      "latitude": 45.317238,
+      "longitude": 14.469822
+    },
+    {
+      "name": "iSTYLE",
+      "latitude": 45.770545,
+      "longitude": 15.941041
+    },
+    {
+      "name": "iStyle",
+      "latitude": 45.799098,
+      "longitude": 15.885457
+    },
+    {
+      "name": "ITALVIDEO",
+      "latitude": 43.511782,
+      "longitude": 16.473052
+    },
+    {
+      "name": "J.M. Poljak",
+      "latitude": 45.803112,
+      "longitude": 15.709165
+    },
+    {
+      "name": "Jacera Daikin",
+      "latitude": 43.506199,
+      "longitude": 16.448328
+    },
+    {
+      "name": "K-M d.o.o \"Kvasina\"",
+      "latitude": 43.445428,
+      "longitude": 17.217549
+    },
+    {
+      "name": "Kerman",
+      "latitude": 46.373871,
+      "longitude": 16.377474
+    },
+    {
+      "name": "Kilovat",
+      "latitude": 45.781028,
+      "longitude": 15.958867
+    },
+    {
+      "name": "Klima centar Periš",
+      "latitude": 43.510242,
+      "longitude": 16.457653
+    },
+    {
+      "name": "Kralj Commerce",
+      "latitude": 45.820213,
+      "longitude": 16.065066
+    },
+    {
+      "name": "LED Art",
+      "latitude": 45.808802,
+      "longitude": 15.999485
+    },
+    {
+      "name": "Letrika",
+      "latitude": 42.939054,
+      "longitude": 16.786837
+    },
+    {
+      "name": "Lumis",
+      "latitude": 43.51667,
+      "longitude": 16.454398
+    },
+    {
+      "name": "Malarm",
+      "latitude": 45.75765,
+      "longitude": 15.976927
+    },
+    {
+      "name": "Mali Zelin",
+      "latitude": 43.50698,
+      "longitude": 16.452379
+    },
+    {
+      "name": "Marine electronics",
+      "latitude": 45.028672,
+      "longitude": 14.628918
+    },
+    {
+      "name": "Media centae",
+      "latitude": 45.340332,
+      "longitude": 16.973765
+    },
+    {
+      "name": "Merc&Dujmović",
+      "latitude": 43.51021,
+      "longitude": 16.457516
+    },
+    {
+      "name": "Miele",
+      "latitude": 45.810632,
+      "longitude": 15.964853
+    },
+    {
+      "name": "Minigo",
+      "latitude": 45.89769,
+      "longitude": 16.841128
+    },
+    {
+      "name": "Mobilmedia",
+      "latitude": 46.263199,
+      "longitude": 16.375056
+    },
+    {
+      "name": "Mobilmedia Poreč",
+      "latitude": 45.230277,
+      "longitude": 13.612548
+    },
+    {
+      "name": "moda sport",
+      "latitude": 45.478884,
+      "longitude": 16.776515
+    },
+    {
+      "name": "MP elektronika",
+      "latitude": 45.80255,
+      "longitude": 15.960679
+    },
+    {
+      "name": "Neutrino tau",
+      "latitude": 45.80572,
+      "longitude": 15.922166
+    },
+    {
+      "name": "NITRE",
+      "latitude": 46.156777,
+      "longitude": 16.817884
+    },
+    {
+      "name": "Pinturić",
+      "latitude": 45.711488,
+      "longitude": 16.067038
+    },
+    {
+      "name": "Planet Medija",
+      "latitude": 43.519004,
+      "longitude": 16.230769
+    },
+    {
+      "name": "Plug & play",
+      "latitude": 45.803038,
+      "longitude": 15.971892
+    },
+    {
+      "name": "Polux",
+      "latitude": 43.510926,
+      "longitude": 16.454342
+    },
+    {
+      "name": "proluft",
+      "latitude": 45.802924,
+      "longitude": 15.919485
+    },
+    {
+      "name": "Pušić",
+      "latitude": 45.806156,
+      "longitude": 15.934324
+    },
+    {
+      "name": "Quadro",
+      "latitude": 45.809689,
+      "longitude": 15.846539
+    },
+    {
+      "name": "Real Tehnika",
+      "latitude": 45.226827,
+      "longitude": 13.600486
+    },
+    {
+      "name": "Reuse Systems",
+      "latitude": 45.27201,
+      "longitude": 18.80641
+    },
+    {
+      "name": "Roko",
+      "latitude": 43.820136,
+      "longitude": 15.592897
+    },
+    {
+      "name": "Ronis",
+      "latitude": 45.777748,
+      "longitude": 15.969724
+    },
+    {
+      "name": "Ronis",
+      "latitude": 46.395529,
+      "longitude": 16.429301
+    },
+    {
+      "name": "Rowel servis elektroničkih uređaja",
+      "latitude": 45.486152,
+      "longitude": 15.547362
+    },
+    {
+      "name": "Samsung",
+      "latitude": 43.506568,
+      "longitude": 16.443471
+    },
+    {
+      "name": "Samsung",
+      "latitude": 45.770371,
+      "longitude": 15.941039
+    },
+    {
+      "name": "Samsung",
+      "latitude": 45.776653,
+      "longitude": 15.978699
+    },
+    {
+      "name": "Sancta Domenica",
+      "latitude": 44.112477,
+      "longitude": 15.256224
+    },
+    {
+      "name": "Sancta Domenica",
+      "latitude": 45.354754,
+      "longitude": 14.363668
+    },
+    {
+      "name": "Sancta Domenica",
+      "latitude": 45.790949,
+      "longitude": 15.91389
+    },
+    {
+      "name": "Sancta Domenica",
+      "latitude": 45.799065,
+      "longitude": 15.772475
+    },
+    {
+      "name": "Sancta Domenica",
+      "latitude": 45.872298,
+      "longitude": 15.826982
+    },
+    {
+      "name": "SE-Mark",
+      "latitude": 45.546346,
+      "longitude": 18.656376
+    },
+    {
+      "name": "SEGMENT",
+      "latitude": 45.812068,
+      "longitude": 15.810274
+    },
+    {
+      "name": "SiguranDom.hr",
+      "latitude": 45.800563,
+      "longitude": 15.95617
+    },
+    {
+      "name": "SK Elektro",
+      "latitude": 45.337902,
+      "longitude": 14.305131
+    },
+    {
+      "name": "Smart Music Centar Mobi Shop",
+      "latitude": 45.90017,
+      "longitude": 16.843716
+    },
+    {
+      "name": "SolarShop",
+      "latitude": 43.748027,
+      "longitude": 15.883921
+    },
+    {
+      "name": "Soldered",
+      "latitude": 45.544943,
+      "longitude": 18.676382
+    },
+    {
+      "name": "sonus art",
+      "latitude": 45.741362,
+      "longitude": 16.079221
+    },
+    {
+      "name": "Sorić Elektronika",
+      "latitude": 45.488389,
+      "longitude": 16.374304
+    },
+    {
+      "name": "STIMO d.o.o.",
+      "latitude": 45.904757,
+      "longitude": 16.861672
+    },
+    {
+      "name": "Store",
+      "latitude": 45.812536,
+      "longitude": 15.973363
+    },
+    {
+      "name": "Svijet Medija",
+      "latitude": 43.289475,
+      "longitude": 17.025169
+    },
+    {
+      "name": "Svijet medija",
+      "latitude": 44.868378,
+      "longitude": 13.867751
+    },
+    {
+      "name": "Svijet medija",
+      "latitude": 45.813559,
+      "longitude": 15.984898
+    },
+    {
+      "name": "Svijet medija",
+      "latitude": 45.820077,
+      "longitude": 15.977545
+    },
+    {
+      "name": "T-Centar",
+      "latitude": 45.328473,
+      "longitude": 14.439007
+    },
+    {
+      "name": "Taberna Franco",
+      "latitude": 45.40765,
+      "longitude": 13.659837
+    },
+    {
+      "name": "TECHNO",
+      "latitude": 45.314132,
+      "longitude": 18.4134
+    },
+    {
+      "name": "Techno 2000",
+      "latitude": 45.485218,
+      "longitude": 16.371669
+    },
+    {
+      "name": "Techno Shop",
+      "latitude": 45.897275,
+      "longitude": 16.845658
+    },
+    {
+      "name": "TechnoMarket",
+      "latitude": 44.115791,
+      "longitude": 15.255643
+    },
+    {
+      "name": "Technomarket",
+      "latitude": 44.883064,
+      "longitude": 13.864283
+    },
+    {
+      "name": "Tele2",
+      "latitude": 45.560517,
+      "longitude": 18.678635
+    },
+    {
+      "name": "Trend-X",
+      "latitude": 45.80188,
+      "longitude": 15.71405
+    },
+    {
+      "name": "Trgovina",
+      "latitude": 43.690173,
+      "longitude": 16.646858
+    },
+    {
+      "name": "Unielektro d.o.o.",
+      "latitude": 43.75593,
+      "longitude": 15.77008
+    },
+    {
+      "name": "UNIUS d.o.o.",
+      "latitude": 45.336396,
+      "longitude": 17.699311
+    },
+    {
+      "name": "Unuk elektro",
+      "latitude": 45.334021,
+      "longitude": 14.422733
+    },
+    {
+      "name": "VACOM",
+      "latitude": 45.233806,
+      "longitude": 13.92303
+    },
+    {
+      "name": "Vacom",
+      "latitude": 45.486614,
+      "longitude": 16.370903
+    },
+    {
+      "name": "Vacom",
+      "latitude": 45.804238,
+      "longitude": 16.227581
+    },
+    {
+      "name": "Vacom",
+      "latitude": 46.247529,
+      "longitude": 16.628321
+    },
+    {
+      "name": "Video-TV servis",
+      "latitude": 45.808179,
+      "longitude": 15.898101
+    },
+    {
+      "name": "Zvonmark",
+      "latitude": 45.798561,
+      "longitude": 15.918961
+    }
+  ],
+  "meta": {
+    "title": "Trgovine elektronikom - Besplatno preuzimanje",
+    "description": "Trgovine elektronikom u Hrvatskoj (164 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=electronics), izrez EU-POIS/HR. Sadrži 164 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovine elektronikom | ListBase",
+    "seo_description": "Preuzmi Trgovine elektronikom — 164 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 164 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "hr-rijeka-banke",
+  "name": "Banke u Rijeka — SWIFT/BIC kodovi (Rijeka bank SWIFT/BIC codes)",
+  "title": "Banke u Rijeka — SWIFT/BIC kodovi (Rijeka bank SWIFT/BIC codes)",
+  "description": "Popis: 5 bankovnih institucija u Rijeka sa SWIFT/BIC kodovima — naziv banke, grad, podružnica i SWIFT kod. Razdvojeno po gradovima iz nacionalnog skupa hr-banke (78 zapisa) PeterNotenboom/SwiftCodes. Per-city split of the Croatian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 9,
+      "bank": "BKS BANK AG, GLAVNA PODRUZNICA HRVATSKA",
+      "city": "RIJEKA",
+      "branch": "",
+      "swift_code": "BFKKHR22"
+    },
+    {
+      "id": 13,
+      "bank": "ERSTE AND STEIERMAERKISCHE BANK D.D.",
+      "city": "RIJEKA",
+      "branch": "",
+      "swift_code": "ESBCHR22"
+    },
+    {
+      "id": 36,
+      "bank": "OTP BANKA HRVATSKA D.D.",
+      "city": "RIJEKA",
+      "branch": "(RIJEKA)",
+      "swift_code": "OTPVHR2XRJK"
+    },
+    {
+      "id": 45,
+      "bank": "PRIMORSKA BANKA D.D RIJEKA",
+      "city": "RIJEKA",
+      "branch": "",
+      "swift_code": "SPRMHR22"
+    },
+    {
+      "id": 70,
+      "bank": "ZAGREBACKA BANKA DD",
+      "city": "RIJEKA",
+      "branch": "(RIJEKA BRANCH)",
+      "swift_code": "ZABAHR2XRIJ"
+    }
+  ],
+  "meta": {
+    "title": "Banke u Rijeka — SWIFT/BIC kodovi (Rijeka bank SWIFT/BIC codes) - Besplatno preuzimanje",
+    "description": "Popis: 5 bankovnih institucija u Rijeka sa SWIFT/BIC kodovima — naziv banke, grad, podružnica i SWIFT kod. Razdvojeno po gradovima iz nacionalnog skupa hr-banke (78 zapisa) PeterNotenboom/SwiftCodes. Per-city split of the Croatian SWIFT/BIC list. Sadrži 5 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Banke u Rijeka — SWIFT/BIC kodovi (Rijeka bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Preuzmi Banke u Rijeka — SWIFT/BIC kodovi (Rijeka bank SWIFT/BIC codes) — 5 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 5 zapisa / 5 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

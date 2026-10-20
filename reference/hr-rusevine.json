@@ -1,0 +1,1661 @@
+{
+  "id": "hr-rusevine",
+  "name": "Ruševine",
+  "title": "Ruševine",
+  "description": "Ruševine u Hrvatskoj (324 zapisa) — točke interesa iz OpenStreetMapa (oznaka historic=ruins), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 324,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adventističke crkve Donje Cjepidlake",
+      "latitude": 45.688008,
+      "longitude": 17.399704
+    },
+    {
+      "name": "Anića staje",
+      "latitude": 44.072365,
+      "longitude": 16.263569
+    },
+    {
+      "name": "Arboretum",
+      "latitude": 45.656607,
+      "longitude": 17.502033
+    },
+    {
+      "name": "Basilika Christiana",
+      "latitude": 44.916792,
+      "longitude": 13.969802
+    },
+    {
+      "name": "Bazen",
+      "latitude": 46.324657,
+      "longitude": 16.150705
+    },
+    {
+      "name": "Bedemgrad",
+      "latitude": 45.435945,
+      "longitude": 17.999951
+    },
+    {
+      "name": "Bela Crkva",
+      "latitude": 45.597552,
+      "longitude": 16.74836
+    },
+    {
+      "name": "Benediktinska opatija Sveta Jelena de Podborje",
+      "latitude": 45.585156,
+      "longitude": 17.204649
+    },
+    {
+      "name": "Benediktinski Samonstan Kucista",
+      "latitude": 43.644518,
+      "longitude": 15.664096
+    },
+    {
+      "name": "Benediktinski samostan sv. Jurja Koprivskoga",
+      "latitude": 44.205025,
+      "longitude": 15.664946
+    },
+    {
+      "name": "Bivša skladišta na Barutani",
+      "latitude": 45.932679,
+      "longitude": 16.819371
+    },
+    {
+      "name": "Bodulski Metar",
+      "latitude": 45.150773,
+      "longitude": 14.609389
+    },
+    {
+      "name": "Brončanodobna gradina",
+      "latitude": 44.912355,
+      "longitude": 13.770969
+    },
+    {
+      "name": "Brončanodobna nekropola",
+      "latitude": 44.911388,
+      "longitude": 13.771212
+    },
+    {
+      "name": "Bunar",
+      "latitude": 44.57976,
+      "longitude": 15.920595
+    },
+    {
+      "name": "Bunker",
+      "latitude": 43.697053,
+      "longitude": 16.623047
+    },
+    {
+      "name": "Bunker iz II.WW",
+      "latitude": 43.707914,
+      "longitude": 16.621309
+    },
+    {
+      "name": "Bunker iz II.WW",
+      "latitude": 43.709144,
+      "longitude": 16.620735
+    },
+    {
+      "name": "Byzantine Fort",
+      "latitude": 45.144102,
+      "longitude": 14.6746
+    },
+    {
+      "name": "Carska Čatrnja",
+      "latitude": 43.525065,
+      "longitude": 17.095188
+    },
+    {
+      "name": "Castle Rakalj",
+      "latitude": 44.97852,
+      "longitude": 14.070393
+    },
+    {
+      "name": "Centralna Partizanska Bolnica",
+      "latitude": 45.295868,
+      "longitude": 15.754264
+    },
+    {
+      "name": "Cesargrad",
+      "latitude": 46.060124,
+      "longitude": 15.722203
+    },
+    {
+      "name": "Chapel of San Martino",
+      "latitude": 44.995902,
+      "longitude": 14.147923
+    },
+    {
+      "name": "Church of St. Bartol",
+      "latitude": 45.119451,
+      "longitude": 13.640974
+    },
+    {
+      "name": "Cickini",
+      "latitude": 45.125906,
+      "longitude": 14.551434
+    },
+    {
+      "name": "Crikvina",
+      "latitude": 43.904195,
+      "longitude": 15.212019
+    },
+    {
+      "name": "Crkva Preobraženja Gospodnjeg",
+      "latitude": 44.503522,
+      "longitude": 15.767683
+    },
+    {
+      "name": "Crkva Sv Nikola",
+      "latitude": 44.936912,
+      "longitude": 14.746126
+    },
+    {
+      "name": "Crkva sv. Andrije",
+      "latitude": 44.232737,
+      "longitude": 15.159882
+    },
+    {
+      "name": "Crkva sv. Eufemije",
+      "latitude": 43.434912,
+      "longitude": 16.703417
+    },
+    {
+      "name": "Crkva sv. Ivana V st.",
+      "latitude": 44.138425,
+      "longitude": 15.073049
+    },
+    {
+      "name": "Crkva Sv. Jura",
+      "latitude": 45.002068,
+      "longitude": 14.626502
+    },
+    {
+      "name": "Crkva SV. Juraj",
+      "latitude": 44.301493,
+      "longitude": 15.052178
+    },
+    {
+      "name": "Crkva Sv. Kate",
+      "latitude": 44.255663,
+      "longitude": 15.150642
+    },
+    {
+      "name": "crkva sv. Marije",
+      "latitude": 44.910998,
+      "longitude": 13.75637
+    },
+    {
+      "name": "Crkva sv. Nikola",
+      "latitude": 44.980033,
+      "longitude": 14.617808
+    },
+    {
+      "name": "Crkva sv. Nikole",
+      "latitude": 45.180695,
+      "longitude": 14.699123
+    },
+    {
+      "name": "crkva sv. Petra",
+      "latitude": 44.912006,
+      "longitude": 13.758064
+    },
+    {
+      "name": "Crkva sv. Petra (ostaci)",
+      "latitude": 42.445659,
+      "longitude": 18.435209
+    },
+    {
+      "name": "Crkva sv. Velikomučenika Georgija",
+      "latitude": 44.564427,
+      "longitude": 15.682879
+    },
+    {
+      "name": "Crkva Sv. Vida",
+      "latitude": 43.279153,
+      "longitude": 16.61768
+    },
+    {
+      "name": "Crkva Sv. Vida",
+      "latitude": 44.742288,
+      "longitude": 14.438096
+    },
+    {
+      "name": "Crkva svete Petronile",
+      "latitude": 45.792169,
+      "longitude": 15.489417
+    },
+    {
+      "name": "Crkva Svetih Petra i Pavla (ostaci)",
+      "latitude": 44.843548,
+      "longitude": 15.675361
+    },
+    {
+      "name": "crkva svetog Ante",
+      "latitude": 44.806762,
+      "longitude": 15.013867
+    },
+    {
+      "name": "Crkva svetog Benedikta",
+      "latitude": 43.513986,
+      "longitude": 16.40279
+    },
+    {
+      "name": "Crkva Svetog Duha",
+      "latitude": 44.974394,
+      "longitude": 14.760836
+    },
+    {
+      "name": "Crkva Svetog Duha",
+      "latitude": 45.402453,
+      "longitude": 16.273982
+    },
+    {
+      "name": "Crkva Svetog Ivana Evanđelista",
+      "latitude": 44.756425,
+      "longitude": 14.759531
+    },
+    {
+      "name": "Crkva svetog Ivana Nepomuka",
+      "latitude": 45.341927,
+      "longitude": 16.089318
+    },
+    {
+      "name": "Crkva svetog Jurja",
+      "latitude": 45.182417,
+      "longitude": 14.701027
+    },
+    {
+      "name": "Crkva Svetog Lovre",
+      "latitude": 44.283282,
+      "longitude": 15.216948
+    },
+    {
+      "name": "Crkva svetog Martina",
+      "latitude": 44.316176,
+      "longitude": 15.063025
+    },
+    {
+      "name": "crkva svetog Martina",
+      "latitude": 45.823575,
+      "longitude": 16.234883
+    },
+    {
+      "name": "Crkva svetoga Trojstva",
+      "latitude": 45.185678,
+      "longitude": 14.7047
+    },
+    {
+      "name": "crkvica svete Katarine",
+      "latitude": 43.933095,
+      "longitude": 15.429335
+    },
+    {
+      "name": "Crkvica Svetog Mavra",
+      "latitude": 45.144068,
+      "longitude": 14.596365
+    },
+    {
+      "name": "Crkvina Čupići",
+      "latitude": 43.886046,
+      "longitude": 16.112763
+    },
+    {
+      "name": "Devići",
+      "latitude": 45.27862,
+      "longitude": 13.672621
+    },
+    {
+      "name": "Dom JNA",
+      "latitude": 42.743845,
+      "longitude": 16.827047
+    },
+    {
+      "name": "Dračeva Luka",
+      "latitude": 43.268852,
+      "longitude": 16.585643
+    },
+    {
+      "name": "Dutić",
+      "latitude": 43.268652,
+      "longitude": 16.584374
+    },
+    {
+      "name": "Dvigrad",
+      "latitude": 45.127096,
+      "longitude": 13.811986
+    },
+    {
+      "name": "Dvor Jelačić",
+      "latitude": 45.702599,
+      "longitude": 16.059052
+    },
+    {
+      "name": "Dvor Josipović",
+      "latitude": 45.698641,
+      "longitude": 16.076091
+    },
+    {
+      "name": "Dvorac grofa Jankovića",
+      "latitude": 45.762146,
+      "longitude": 17.569304
+    },
+    {
+      "name": "Eastern Basilica",
+      "latitude": 42.785389,
+      "longitude": 17.3784
+    },
+    {
+      "name": "ex Rifugio Guido Rey",
+      "latitude": 45.534486,
+      "longitude": 14.474778
+    },
+    {
+      "name": "Filibejeva utvrda",
+      "latitude": 45.559939,
+      "longitude": 18.692484
+    },
+    {
+      "name": "Fort Peneda",
+      "latitude": 44.892033,
+      "longitude": 13.748026
+    },
+    {
+      "name": "Forteca",
+      "latitude": 42.946451,
+      "longitude": 16.693426
+    },
+    {
+      "name": "Forticina",
+      "latitude": 45.20706,
+      "longitude": 14.553557
+    },
+    {
+      "name": "Gnječi",
+      "latitude": 43.041962,
+      "longitude": 17.580375
+    },
+    {
+      "name": "Goli otok prison",
+      "latitude": 44.841369,
+      "longitude": 14.806102
+    },
+    {
+      "name": "Goričica",
+      "latitude": 45.135692,
+      "longitude": 14.188928
+    },
+    {
+      "name": "Gorni Nakovanj",
+      "latitude": 42.997139,
+      "longitude": 17.093189
+    },
+    {
+      "name": "Grabrovica",
+      "latitude": 44.936394,
+      "longitude": 14.319871
+    },
+    {
+      "name": "Grad Galešnik",
+      "latitude": 43.148396,
+      "longitude": 16.703001
+    },
+    {
+      "name": "Grad Konjska",
+      "latitude": 45.986726,
+      "longitude": 16.764172
+    },
+    {
+      "name": "Grad Modruš",
+      "latitude": 45.148939,
+      "longitude": 15.246715
+    },
+    {
+      "name": "Gradina",
+      "latitude": 43.159518,
+      "longitude": 17.257509
+    },
+    {
+      "name": "Gradina",
+      "latitude": 43.359651,
+      "longitude": 16.945876
+    },
+    {
+      "name": "Gradina",
+      "latitude": 44.800335,
+      "longitude": 14.881702
+    },
+    {
+      "name": "Gradina",
+      "latitude": 45.446694,
+      "longitude": 14.373677
+    },
+    {
+      "name": "Gradina",
+      "latitude": 45.654288,
+      "longitude": 16.770933
+    },
+    {
+      "name": "Gradina Badanj",
+      "latitude": 45.192933,
+      "longitude": 14.699713
+    },
+    {
+      "name": "Gradina Ledenice",
+      "latitude": 45.129914,
+      "longitude": 14.836376
+    },
+    {
+      "name": "Gradina Nevinac",
+      "latitude": 45.817747,
+      "longitude": 16.902029
+    },
+    {
+      "name": "Gradina Poličnik",
+      "latitude": 44.179268,
+      "longitude": 15.375425
+    },
+    {
+      "name": "Gradina Rašpor",
+      "latitude": 45.443672,
+      "longitude": 14.081281
+    },
+    {
+      "name": "Gradina Vitunj",
+      "latitude": 45.282119,
+      "longitude": 15.132961
+    },
+    {
+      "name": "Gradina Šiljar",
+      "latitude": 45.002808,
+      "longitude": 14.031743
+    },
+    {
+      "name": "Gradiška",
+      "latitude": 44.760177,
+      "longitude": 14.390757
+    },
+    {
+      "name": "Grkokatolička crkva Preobraženja Gospodinova",
+      "latitude": 43.828972,
+      "longitude": 16.301594
+    },
+    {
+      "name": "Grobljanska crkva sv. Antuna",
+      "latitude": 44.913367,
+      "longitude": 13.767187
+    },
+    {
+      "name": "Grčka kula Tor",
+      "latitude": 43.14839,
+      "longitude": 16.696857
+    },
+    {
+      "name": "Gusterna",
+      "latitude": 43.637048,
+      "longitude": 15.711592
+    },
+    {
+      "name": "Guvno (Threshing floor)",
+      "latitude": 42.78416,
+      "longitude": 17.377704
+    },
+    {
+      "name": "Haludovo Palace Resort Hotel",
+      "latitude": 45.131195,
+      "longitude": 14.527474
+    },
+    {
+      "name": "Herkov mlin",
+      "latitude": 45.886018,
+      "longitude": 16.851356
+    },
+    {
+      "name": "Hidroelektrana Jaruga 1",
+      "latitude": 43.80459,
+      "longitude": 15.963564
+    },
+    {
+      "name": "Hotel California",
+      "latitude": 44.046097,
+      "longitude": 15.237021
+    },
+    {
+      "name": "Hotel California",
+      "latitude": 45.462651,
+      "longitude": 15.56734
+    },
+    {
+      "name": "hram vaskresenja Gospodnjeg",
+      "latitude": 45.404379,
+      "longitude": 15.930734
+    },
+    {
+      "name": "Ilirska utvrda",
+      "latitude": 43.567715,
+      "longitude": 16.51034
+    },
+    {
+      "name": "Izdencnek",
+      "latitude": 45.644005,
+      "longitude": 17.08308
+    },
+    {
+      "name": "Jelengrad",
+      "latitude": 45.642536,
+      "longitude": 16.683283
+    },
+    {
+      "name": "Kalac na Dolčine",
+      "latitude": 45.288925,
+      "longitude": 14.258641
+    },
+    {
+      "name": "Kamengrad",
+      "latitude": 45.502673,
+      "longitude": 17.56392
+    },
+    {
+      "name": "Kapela Sv. Juraj",
+      "latitude": 45.096825,
+      "longitude": 14.506002
+    },
+    {
+      "name": "Kapela sv. Nikole",
+      "latitude": 45.089072,
+      "longitude": 14.522413
+    },
+    {
+      "name": "Kapela Sv. Tri Kralja",
+      "latitude": 46.167216,
+      "longitude": 15.854116
+    },
+    {
+      "name": "Kapele sv. Kristofora",
+      "latitude": 44.974071,
+      "longitude": 14.757887
+    },
+    {
+      "name": "Kapelica sv. Kuzme",
+      "latitude": 45.211562,
+      "longitude": 14.67249
+    },
+    {
+      "name": "Kapitolium",
+      "latitude": 44.916505,
+      "longitude": 13.969268
+    },
+    {
+      "name": "Karaula SHS",
+      "latitude": 45.477071,
+      "longitude": 14.457622
+    },
+    {
+      "name": "karavla SHS",
+      "latitude": 45.52064,
+      "longitude": 14.477849
+    },
+    {
+      "name": "Kastel Baska",
+      "latitude": 44.973885,
+      "longitude": 14.75983
+    },
+    {
+      "name": "Kastel Salatić",
+      "latitude": 45.04903,
+      "longitude": 14.548719
+    },
+    {
+      "name": "Kaštel",
+      "latitude": 44.374531,
+      "longitude": 14.696305
+    },
+    {
+      "name": "Kaštel",
+      "latitude": 44.976543,
+      "longitude": 14.395418
+    },
+    {
+      "name": "Kaštel Baška",
+      "latitude": 44.973547,
+      "longitude": 14.761098
+    },
+    {
+      "name": "Kaštel Vranja",
+      "latitude": 45.313848,
+      "longitude": 14.158118
+    },
+    {
+      "name": "Kaštel Zaton",
+      "latitude": 44.221108,
+      "longitude": 15.165007
+    },
+    {
+      "name": "Kaštelina",
+      "latitude": 44.2911,
+      "longitude": 15.077019
+    },
+    {
+      "name": "Kaštelina",
+      "latitude": 44.794098,
+      "longitude": 14.689549
+    },
+    {
+      "name": "Kaštil",
+      "latitude": 43.278949,
+      "longitude": 16.824994
+    },
+    {
+      "name": "Kaštilac",
+      "latitude": 43.186676,
+      "longitude": 16.676777
+    },
+    {
+      "name": "Kitešića kolibe",
+      "latitude": 44.046086,
+      "longitude": 16.273559
+    },
+    {
+      "name": "Klak",
+      "latitude": 45.539137,
+      "longitude": 17.708141
+    },
+    {
+      "name": "Knežev dvor",
+      "latitude": 42.690371,
+      "longitude": 17.943706
+    },
+    {
+      "name": "Kneževići",
+      "latitude": 44.345948,
+      "longitude": 15.488368
+    },
+    {
+      "name": "Kninska katedrala",
+      "latitude": 44.028806,
+      "longitude": 16.207449
+    },
+    {
+      "name": "Kolovrat",
+      "latitude": 43.182071,
+      "longitude": 17.1956
+    },
+    {
+      "name": "Komarnica",
+      "latitude": 46.067626,
+      "longitude": 16.937894
+    },
+    {
+      "name": "Konjušnica dvorca Türk - Mažuranić",
+      "latitude": 45.5635,
+      "longitude": 15.518032
+    },
+    {
+      "name": "Kraljicino",
+      "latitude": 43.029751,
+      "longitude": 15.763466
+    },
+    {
+      "name": "Krunska utvrda",
+      "latitude": 45.563515,
+      "longitude": 18.701998
+    },
+    {
+      "name": "Krunska utvrda",
+      "latitude": 45.564083,
+      "longitude": 18.701331
+    },
+    {
+      "name": "Kula Bentinck Terjun",
+      "latitude": 43.071165,
+      "longitude": 16.191544
+    },
+    {
+      "name": "Kula Zečevo",
+      "latitude": 43.97853,
+      "longitude": 15.875659
+    },
+    {
+      "name": "Kulturno-povijesna cjelina Trpinjin",
+      "latitude": 44.099039,
+      "longitude": 15.160204
+    },
+    {
+      "name": "Kurija Janković",
+      "latitude": 45.618826,
+      "longitude": 17.542501
+    },
+    {
+      "name": "Labirintski ulaz u Gradinu",
+      "latitude": 44.912544,
+      "longitude": 13.770692
+    },
+    {
+      "name": "Lansirna rampa za torpeda",
+      "latitude": 45.33415,
+      "longitude": 14.403564
+    },
+    {
+      "name": "Liburnijski Limes / Rimski Zid",
+      "latitude": 45.331455,
+      "longitude": 14.448369
+    },
+    {
+      "name": "Liburnijski Limes / Rimski Zid",
+      "latitude": 45.336797,
+      "longitude": 14.451426
+    },
+    {
+      "name": "Likorova kuća",
+      "latitude": 43.171574,
+      "longitude": 16.60713
+    },
+    {
+      "name": "Lokvišće",
+      "latitude": 45.220085,
+      "longitude": 14.611455
+    },
+    {
+      "name": "Maklavun",
+      "latitude": 45.108483,
+      "longitude": 13.75283
+    },
+    {
+      "name": "Mali Sveti Anđeo (Istarski megalitski krug)",
+      "latitude": 45.21307,
+      "longitude": 13.627819
+    },
+    {
+      "name": "Markov mlin",
+      "latitude": 44.321537,
+      "longitude": 15.477904
+    },
+    {
+      "name": "Minaret",
+      "latitude": 43.856483,
+      "longitude": 16.15569
+    },
+    {
+      "name": "Mirine",
+      "latitude": 45.203918,
+      "longitude": 14.544138
+    },
+    {
+      "name": "Mirje",
+      "latitude": 43.365167,
+      "longitude": 16.63843
+    },
+    {
+      "name": "Mladineova kula",
+      "latitude": 43.035024,
+      "longitude": 16.128041
+    },
+    {
+      "name": "Mlin",
+      "latitude": 45.313026,
+      "longitude": 14.263077
+    },
+    {
+      "name": "Mlin za masline",
+      "latitude": 43.263063,
+      "longitude": 17.070576
+    },
+    {
+      "name": "Mlinica",
+      "latitude": 44.369548,
+      "longitude": 15.114632
+    },
+    {
+      "name": "Modruš",
+      "latitude": 45.14853,
+      "longitude": 15.246592
+    },
+    {
+      "name": "Monastery",
+      "latitude": 42.624861,
+      "longitude": 18.121063
+    },
+    {
+      "name": "Morski tunel",
+      "latitude": 43.727182,
+      "longitude": 15.874264
+    },
+    {
+      "name": "Mosyna",
+      "latitude": 45.905715,
+      "longitude": 17.008195
+    },
+    {
+      "name": "Movie Set \"As the Sea Rages\"",
+      "latitude": 43.800881,
+      "longitude": 15.263532
+    },
+    {
+      "name": "Mulinski tijesak",
+      "latitude": 44.139716,
+      "longitude": 15.072672
+    },
+    {
+      "name": "Napoleon Road",
+      "latitude": 43.381297,
+      "longitude": 16.930227
+    },
+    {
+      "name": "Napoleonov magazin",
+      "latitude": 45.11987,
+      "longitude": 15.589062
+    },
+    {
+      "name": "Novi grad Žumberački",
+      "latitude": 45.747394,
+      "longitude": 15.442444
+    },
+    {
+      "name": "Okić grad",
+      "latitude": 45.748839,
+      "longitude": 15.706643
+    },
+    {
+      "name": "Old Well",
+      "latitude": 44.556276,
+      "longitude": 14.883587
+    },
+    {
+      "name": "Opojgrad",
+      "latitude": 46.173514,
+      "longitude": 16.698761
+    },
+    {
+      "name": "Osmankovac",
+      "latitude": 43.586518,
+      "longitude": 16.431911
+    },
+    {
+      "name": "Ostaci bedema i okrugle kule",
+      "latitude": 45.251609,
+      "longitude": 13.901129
+    },
+    {
+      "name": "Ostaci bedema i okrugle kule",
+      "latitude": 45.252574,
+      "longitude": 13.899112
+    },
+    {
+      "name": "Ostaci crkve Sv. Dorliga",
+      "latitude": 45.174701,
+      "longitude": 13.743723
+    },
+    {
+      "name": "Ostaci crkve Svih Svetih",
+      "latitude": 45.15327,
+      "longitude": 14.579402
+    },
+    {
+      "name": "Ostaci vojarne",
+      "latitude": 45.323386,
+      "longitude": 14.489455
+    },
+    {
+      "name": "Ostaci vojarne",
+      "latitude": 45.324172,
+      "longitude": 14.488374
+    },
+    {
+      "name": "Palača Contarini",
+      "latitude": 45.373483,
+      "longitude": 13.774243
+    },
+    {
+      "name": "Paliska",
+      "latitude": 45.11855,
+      "longitude": 14.163997
+    },
+    {
+      "name": "Partizanska bolnica Gudnoga",
+      "latitude": 45.553931,
+      "longitude": 17.60859
+    },
+    {
+      "name": "Pavlinski samostan sv. Nikola Gvozd",
+      "latitude": 45.111829,
+      "longitude": 15.224464
+    },
+    {
+      "name": "Pizin",
+      "latitude": 44.757507,
+      "longitude": 14.398122
+    },
+    {
+      "name": "Polača",
+      "latitude": 45.057856,
+      "longitude": 14.470141
+    },
+    {
+      "name": "Poljan Grad",
+      "latitude": 46.046823,
+      "longitude": 16.915227
+    },
+    {
+      "name": "Polje",
+      "latitude": 43.02668,
+      "longitude": 15.753092
+    },
+    {
+      "name": "Portal Opatovina povijesne Cistercitske crkve Blažene Djevice Marije",
+      "latitude": 45.292479,
+      "longitude": 15.968279
+    },
+    {
+      "name": "Previja Poznića",
+      "latitude": 44.371028,
+      "longitude": 15.95739
+    },
+    {
+      "name": "Prižba",
+      "latitude": 43.753546,
+      "longitude": 15.829779
+    },
+    {
+      "name": "Pudarica",
+      "latitude": 43.778739,
+      "longitude": 15.632146
+    },
+    {
+      "name": "Pustinja Dračeva Luka",
+      "latitude": 43.268827,
+      "longitude": 16.58562
+    },
+    {
+      "name": "Putalj",
+      "latitude": 43.564138,
+      "longitude": 16.423846
+    },
+    {
+      "name": "Rakovnik Kula",
+      "latitude": 44.188649,
+      "longitude": 16.051702
+    },
+    {
+      "name": "Resort Zelena Punta",
+      "latitude": 44.035276,
+      "longitude": 15.250848
+    },
+    {
+      "name": "Resort Zelena Punta",
+      "latitude": 44.035413,
+      "longitude": 15.251769
+    },
+    {
+      "name": "Resort Zelena Punta",
+      "latitude": 44.036262,
+      "longitude": 15.250436
+    },
+    {
+      "name": "Resort Zelena Punta",
+      "latitude": 44.036462,
+      "longitude": 15.2512
+    },
+    {
+      "name": "Resort Zelena Punta",
+      "latitude": 44.036761,
+      "longitude": 15.25052
+    },
+    {
+      "name": "Resort Zelena Punta",
+      "latitude": 44.037518,
+      "longitude": 15.25032
+    },
+    {
+      "name": "Resort Zelena Punta",
+      "latitude": 44.037894,
+      "longitude": 15.251006
+    },
+    {
+      "name": "Rimska kolona",
+      "latitude": 44.11306,
+      "longitude": 15.228778
+    },
+    {
+      "name": "Rimska kula",
+      "latitude": 45.459103,
+      "longitude": 14.430919
+    },
+    {
+      "name": "Rimska utvrda Lopar",
+      "latitude": 45.121953,
+      "longitude": 14.802054
+    },
+    {
+      "name": "Rimska vila Dragonera Jug",
+      "latitude": 44.965925,
+      "longitude": 13.773015
+    },
+    {
+      "name": "Rimska vila Dragonera Sjever",
+      "latitude": 44.97086,
+      "longitude": 13.767663
+    },
+    {
+      "name": "Rimske Palače",
+      "latitude": 42.786207,
+      "longitude": 17.377195
+    },
+    {
+      "name": "Rimski zid / Liburnijski Limes",
+      "latitude": 45.442833,
+      "longitude": 14.410682
+    },
+    {
+      "name": "Rinkov",
+      "latitude": 46.135656,
+      "longitude": 16.513678
+    },
+    {
+      "name": "Rokovačke zidine",
+      "latitude": 45.257218,
+      "longitude": 18.74906
+    },
+    {
+      "name": "Roman baths",
+      "latitude": 43.063705,
+      "longitude": 16.1855
+    },
+    {
+      "name": "Roman bridge",
+      "latitude": 45.112326,
+      "longitude": 14.353333
+    },
+    {
+      "name": "Roman Forum at Fulfinum, Mirine, Omišalj",
+      "latitude": 45.203092,
+      "longitude": 14.544833
+    },
+    {
+      "name": "Rotonda",
+      "latitude": 42.892662,
+      "longitude": 17.737882
+    },
+    {
+      "name": "Rovine Villa Romana",
+      "latitude": 45.28136,
+      "longitude": 13.598703
+    },
+    {
+      "name": "Ruine",
+      "latitude": 42.622061,
+      "longitude": 18.119902
+    },
+    {
+      "name": "Ruševine crkve Sv. Jovana Krstitelja",
+      "latitude": 43.831076,
+      "longitude": 16.553594
+    },
+    {
+      "name": "ruševine Hidrobaze",
+      "latitude": 44.900769,
+      "longitude": 13.811767
+    },
+    {
+      "name": "Ruševine pravoslavnog hrama Svete Nedelje",
+      "latitude": 44.1316,
+      "longitude": 15.635159
+    },
+    {
+      "name": "Ruševine samostana svetog Stjepana",
+      "latitude": 43.403346,
+      "longitude": 16.174927
+    },
+    {
+      "name": "Ruševine utvrde Furjan",
+      "latitude": 45.057614,
+      "longitude": 15.688207
+    },
+    {
+      "name": "Samograd Stari Stan",
+      "latitude": 43.648762,
+      "longitude": 15.666575
+    },
+    {
+      "name": "Samostan Sv. Ivana Evanđelista",
+      "latitude": 43.938547,
+      "longitude": 15.440812
+    },
+    {
+      "name": "San Magradi",
+      "latitude": 42.76882,
+      "longitude": 17.360389
+    },
+    {
+      "name": "Selo Paka",
+      "latitude": 45.489751,
+      "longitude": 14.408468
+    },
+    {
+      "name": "Siculi - Antičko naselje",
+      "latitude": 43.540513,
+      "longitude": 16.31273
+    },
+    {
+      "name": "Silvio",
+      "latitude": 43.269558,
+      "longitude": 16.597061
+    },
+    {
+      "name": "Sklopina",
+      "latitude": 44.348196,
+      "longitude": 15.484809
+    },
+    {
+      "name": "Smokvica",
+      "latitude": 43.026966,
+      "longitude": 15.763678
+    },
+    {
+      "name": "St. Kocijan church",
+      "latitude": 45.291547,
+      "longitude": 14.052449
+    },
+    {
+      "name": "St. Simon Chapel",
+      "latitude": 44.968979,
+      "longitude": 14.399009
+    },
+    {
+      "name": "Stara Hrastovica",
+      "latitude": 45.401679,
+      "longitude": 16.270408
+    },
+    {
+      "name": "Stara Raslina",
+      "latitude": 43.810469,
+      "longitude": 15.857756
+    },
+    {
+      "name": "Stara tvrdava",
+      "latitude": 43.333588,
+      "longitude": 16.985982
+    },
+    {
+      "name": "Stara škola",
+      "latitude": 43.197772,
+      "longitude": 17.138009
+    },
+    {
+      "name": "Stara škola",
+      "latitude": 43.696129,
+      "longitude": 15.838954
+    },
+    {
+      "name": "Stare Soline",
+      "latitude": 43.367507,
+      "longitude": 16.93375
+    },
+    {
+      "name": "Stari grad Orahovica",
+      "latitude": 45.494244,
+      "longitude": 17.850771
+    },
+    {
+      "name": "stari grad Plaški",
+      "latitude": 45.053733,
+      "longitude": 15.381437
+    },
+    {
+      "name": "Stari grad Stelnik",
+      "latitude": 45.418113,
+      "longitude": 15.301045
+    },
+    {
+      "name": "Stari grad Zirch",
+      "latitude": 45.528277,
+      "longitude": 17.258359
+    },
+    {
+      "name": "Stari grad Žumberak",
+      "latitude": 45.758151,
+      "longitude": 15.418746
+    },
+    {
+      "name": "Stari mlin",
+      "latitude": 44.372488,
+      "longitude": 14.695544
+    },
+    {
+      "name": "Stari Tar",
+      "latitude": 45.306861,
+      "longitude": 13.607954
+    },
+    {
+      "name": "Stipančići",
+      "latitude": 43.269307,
+      "longitude": 16.601347
+    },
+    {
+      "name": "Stranj",
+      "latitude": 42.542873,
+      "longitude": 18.299449
+    },
+    {
+      "name": "Stražeman Grad",
+      "latitude": 45.473182,
+      "longitude": 17.616885
+    },
+    {
+      "name": "Sv. Bartul",
+      "latitude": 45.304605,
+      "longitude": 14.043434
+    },
+    {
+      "name": "Sv. Blaž",
+      "latitude": 45.005011,
+      "longitude": 14.352815
+    },
+    {
+      "name": "Sv. Damjana u Paludu",
+      "latitude": 45.02478,
+      "longitude": 13.705669
+    },
+    {
+      "name": "Sv. Hipolit",
+      "latitude": 44.118536,
+      "longitude": 15.105924
+    },
+    {
+      "name": "Sv. Ivan",
+      "latitude": 43.918974,
+      "longitude": 15.125187
+    },
+    {
+      "name": "Sv. Jelena",
+      "latitude": 44.799688,
+      "longitude": 14.882145
+    },
+    {
+      "name": "Sv. Jelene na Dolu",
+      "latitude": 45.212418,
+      "longitude": 14.557167
+    },
+    {
+      "name": "Sv. Juraj",
+      "latitude": 45.337076,
+      "longitude": 13.633379
+    },
+    {
+      "name": "Sv. Lovro",
+      "latitude": 43.368794,
+      "longitude": 16.664899
+    },
+    {
+      "name": "Sv. Lovro",
+      "latitude": 44.932892,
+      "longitude": 14.458094
+    },
+    {
+      "name": "Sv. Marcela",
+      "latitude": 44.279812,
+      "longitude": 15.283081
+    },
+    {
+      "name": "Sv. Marija",
+      "latitude": 44.2788,
+      "longitude": 15.283739
+    },
+    {
+      "name": "Sv. Marina",
+      "latitude": 45.037771,
+      "longitude": 14.485972
+    },
+    {
+      "name": "Sv. Marko",
+      "latitude": 44.116344,
+      "longitude": 15.612251
+    },
+    {
+      "name": "Sv. Martin",
+      "latitude": 45.192069,
+      "longitude": 13.612907
+    },
+    {
+      "name": "Sv. Mihovil pod zemljom",
+      "latitude": 45.279589,
+      "longitude": 13.694951
+    },
+    {
+      "name": "Sv. Nikola",
+      "latitude": 44.845967,
+      "longitude": 14.330618
+    },
+    {
+      "name": "Sv. Petar",
+      "latitude": 45.03323,
+      "longitude": 14.63177
+    },
+    {
+      "name": "Sv. Silvestar",
+      "latitude": 45.324717,
+      "longitude": 14.01836
+    },
+    {
+      "name": "Sv. Teodor",
+      "latitude": 44.730295,
+      "longitude": 14.446732
+    },
+    {
+      "name": "Sv. Viktor",
+      "latitude": 43.914702,
+      "longitude": 15.123245
+    },
+    {
+      "name": "Sv. Šimun",
+      "latitude": 44.84318,
+      "longitude": 14.450904
+    },
+    {
+      "name": "Sv.Mihovil",
+      "latitude": 44.971754,
+      "longitude": 13.807833
+    },
+    {
+      "name": "Sveta Cecilija",
+      "latitude": 45.092099,
+      "longitude": 13.693252
+    },
+    {
+      "name": "Sveta Sofija",
+      "latitude": 45.127322,
+      "longitude": 13.811643
+    },
+    {
+      "name": "Sveti Bartolomej",
+      "latitude": 44.979163,
+      "longitude": 14.422726
+    },
+    {
+      "name": "Sveti Ilija",
+      "latitude": 45.29752,
+      "longitude": 15.453648
+    },
+    {
+      "name": "Sveti Ivan",
+      "latitude": 44.302898,
+      "longitude": 15.561223
+    },
+    {
+      "name": "Sveti Kristofor",
+      "latitude": 44.807944,
+      "longitude": 14.369502
+    },
+    {
+      "name": "Sveti Stjepan",
+      "latitude": 45.378545,
+      "longitude": 13.881905
+    },
+    {
+      "name": "Sveti Tudor",
+      "latitude": 43.321131,
+      "longitude": 16.545553
+    },
+    {
+      "name": "Sveti Vid",
+      "latitude": 43.494337,
+      "longitude": 16.02302
+    },
+    {
+      "name": "Tabernae",
+      "latitude": 44.916695,
+      "longitude": 13.969502
+    },
+    {
+      "name": "Teleferika",
+      "latitude": 45.073582,
+      "longitude": 14.15297
+    },
+    {
+      "name": "The church of St Hieronymus Crkva sv.Jeronima",
+      "latitude": 44.948902,
+      "longitude": 14.701811
+    },
+    {
+      "name": "Topića staje",
+      "latitude": 43.372506,
+      "longitude": 16.969977
+    },
+    {
+      "name": "Tunera",
+      "latitude": 44.812426,
+      "longitude": 14.347356
+    },
+    {
+      "name": "Turnina",
+      "latitude": 45.091045,
+      "longitude": 13.682272
+    },
+    {
+      "name": "Tušćak Gradina",
+      "latitude": 45.823564,
+      "longitude": 15.562584
+    },
+    {
+      "name": "Tvornica Žakalj",
+      "latitude": 45.338807,
+      "longitude": 14.463487
+    },
+    {
+      "name": "Tvrđava Fortica",
+      "latitude": 44.872744,
+      "longitude": 15.233887
+    },
+    {
+      "name": "Ustashe Concentration Camp",
+      "latitude": 44.509165,
+      "longitude": 15.01114
+    },
+    {
+      "name": "Utvrda Gradišće",
+      "latitude": 46.22121,
+      "longitude": 16.209361
+    },
+    {
+      "name": "Utvrda Ilinac",
+      "latitude": 45.923589,
+      "longitude": 16.856169
+    },
+    {
+      "name": "Utvrda Paka",
+      "latitude": 46.126491,
+      "longitude": 16.341972
+    },
+    {
+      "name": "Utvrda Svetojanj",
+      "latitude": 44.603505,
+      "longitude": 14.913835
+    },
+    {
+      "name": "Vecchio Lavatoio",
+      "latitude": 45.409828,
+      "longitude": 13.655725
+    },
+    {
+      "name": "Veliki Sveti Anđeo",
+      "latitude": 45.210903,
+      "longitude": 13.627451
+    },
+    {
+      "name": "Velington",
+      "latitude": 43.068559,
+      "longitude": 16.215377
+    },
+    {
+      "name": "Veselinovića stanovi",
+      "latitude": 44.250433,
+      "longitude": 15.825526
+    },
+    {
+      "name": "Večka kula",
+      "latitude": 44.279587,
+      "longitude": 15.453507
+    },
+    {
+      "name": "Vidikovac Opatija (ostaci)",
+      "latitude": 44.918113,
+      "longitude": 13.764797
+    },
+    {
+      "name": "Vila Izvor",
+      "latitude": 44.902743,
+      "longitude": 15.571775
+    },
+    {
+      "name": "Vila Rebar",
+      "latitude": 45.863408,
+      "longitude": 15.979075
+    },
+    {
+      "name": "Villa Rustica",
+      "latitude": 43.889584,
+      "longitude": 15.217115
+    },
+    {
+      "name": "Vojak",
+      "latitude": 45.459463,
+      "longitude": 14.443196
+    },
+    {
+      "name": "Votive Chapel of Our Lady of Lourdes",
+      "latitude": 44.252821,
+      "longitude": 15.460668
+    },
+    {
+      "name": "Voćinska utvrda",
+      "latitude": 45.619178,
+      "longitude": 17.539112
+    },
+    {
+      "name": "Wandelbahn",
+      "latitude": 45.412654,
+      "longitude": 17.160483
+    },
+    {
+      "name": "Western Basilica",
+      "latitude": 42.786187,
+      "longitude": 17.375015
+    },
+    {
+      "name": "Zalina Kula",
+      "latitude": 43.197407,
+      "longitude": 17.13762
+    },
+    {
+      "name": "Zamina",
+      "latitude": 43.933595,
+      "longitude": 15.600618
+    },
+    {
+      "name": "Zdenac",
+      "latitude": 45.439263,
+      "longitude": 13.709785
+    },
+    {
+      "name": "Zelengrad",
+      "latitude": 45.29183,
+      "longitude": 13.943883
+    },
+    {
+      "name": "Zidine planinarskog doma Jospia Svobode",
+      "latitude": 45.395472,
+      "longitude": 17.284455
+    },
+    {
+      "name": "Zisterna",
+      "latitude": 44.917004,
+      "longitude": 13.969881
+    },
+    {
+      "name": "Ćaćića staje",
+      "latitude": 44.07012,
+      "longitude": 16.27118
+    },
+    {
+      "name": "Ćurkove staje",
+      "latitude": 44.073603,
+      "longitude": 16.271945
+    },
+    {
+      "name": "Čaklovac grad",
+      "latitude": 45.453084,
+      "longitude": 17.284774
+    },
+    {
+      "name": "Črni grad",
+      "latitude": 45.38217,
+      "longitude": 14.081942
+    },
+    {
+      "name": "Črni most",
+      "latitude": 46.393917,
+      "longitude": 16.712727
+    },
+    {
+      "name": "Šašar grad",
+      "latitude": 45.638049,
+      "longitude": 16.856438
+    },
+    {
+      "name": "Škola Donje Cjepidlake",
+      "latitude": 45.688955,
+      "longitude": 17.400317
+    },
+    {
+      "name": "Žaga",
+      "latitude": 45.196843,
+      "longitude": 15.222044
+    },
+    {
+      "name": "Željezna vrata",
+      "latitude": 45.480514,
+      "longitude": 14.448684
+    },
+    {
+      "name": "Željeznički kolodvor Vukovar",
+      "latitude": 45.361645,
+      "longitude": 18.987906
+    },
+    {
+      "name": "Старий дім",
+      "latitude": 43.355315,
+      "longitude": 16.990719
+    }
+  ],
+  "meta": {
+    "title": "Ruševine - Besplatno preuzimanje",
+    "description": "Ruševine u Hrvatskoj (324 zapisa) — točke interesa iz OpenStreetMapa (oznaka historic=ruins), izrez EU-POIS/HR. Sadrži 324 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Ruševine | ListBase",
+    "seo_description": "Preuzmi Ruševine — 324 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 324 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

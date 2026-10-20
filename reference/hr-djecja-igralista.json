@@ -1,0 +1,906 @@
+{
+  "id": "hr-djecja-igralista",
+  "name": "Dječja igrališta",
+  "title": "Dječja igrališta",
+  "description": "Dječja igrališta u Hrvatskoj (173 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=playground), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 173,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Lastovo\" swing",
+      "latitude": 42.765565,
+      "longitude": 16.812246
+    },
+    {
+      "name": "\"Rotary International\"",
+      "latitude": 45.900442,
+      "longitude": 16.845825
+    },
+    {
+      "name": "Adrenalin path",
+      "latitude": 45.41845,
+      "longitude": 14.684758
+    },
+    {
+      "name": "adventure park",
+      "latitude": 43.911042,
+      "longitude": 15.498604
+    },
+    {
+      "name": "Apollo park",
+      "latitude": 45.575613,
+      "longitude": 16.946079
+    },
+    {
+      "name": "Aquapark na napuhavanje",
+      "latitude": 45.316484,
+      "longitude": 13.55683
+    },
+    {
+      "name": "Betonsko igralište",
+      "latitude": 45.550853,
+      "longitude": 18.698343
+    },
+    {
+      "name": "Bolnički park",
+      "latitude": 46.09249,
+      "longitude": 15.838627
+    },
+    {
+      "name": "Bor",
+      "latitude": 45.025157,
+      "longitude": 14.583231
+    },
+    {
+      "name": "Bär und spielplatz",
+      "latitude": 44.239097,
+      "longitude": 15.147672
+    },
+    {
+      "name": "Children playgroud",
+      "latitude": 44.815769,
+      "longitude": 13.899741
+    },
+    {
+      "name": "Cipera",
+      "latitude": 45.293205,
+      "longitude": 14.277353
+    },
+    {
+      "name": "Crveno dječje igralište",
+      "latitude": 45.861892,
+      "longitude": 15.801349
+    },
+    {
+      "name": "Dadopark",
+      "latitude": 45.804016,
+      "longitude": 15.892401
+    },
+    {
+      "name": "Dječije igralište",
+      "latitude": 45.567119,
+      "longitude": 18.449504
+    },
+    {
+      "name": "Dječije igralište Vir",
+      "latitude": 44.299765,
+      "longitude": 15.08867
+    },
+    {
+      "name": "Dječja igrala",
+      "latitude": 46.213059,
+      "longitude": 16.025949
+    },
+    {
+      "name": "Dječja igrala",
+      "latitude": 46.213942,
+      "longitude": 16.067859
+    },
+    {
+      "name": "Dječja igrala",
+      "latitude": 46.241609,
+      "longitude": 16.048211
+    },
+    {
+      "name": "Dječja igrala",
+      "latitude": 46.243376,
+      "longitude": 16.036793
+    },
+    {
+      "name": "Dječja igrala",
+      "latitude": 46.25797,
+      "longitude": 16.01605
+    },
+    {
+      "name": "Dječja igralište Ivanovo Selo",
+      "latitude": 45.674122,
+      "longitude": 17.249835
+    },
+    {
+      "name": "Dječje iglalište",
+      "latitude": 45.239512,
+      "longitude": 13.931422
+    },
+    {
+      "name": "dječje igralište",
+      "latitude": 45.245894,
+      "longitude": 14.144362
+    },
+    {
+      "name": "Dječje igralište",
+      "latitude": 45.258059,
+      "longitude": 13.77623
+    },
+    {
+      "name": "Dječje igralište",
+      "latitude": 45.282114,
+      "longitude": 18.808679
+    },
+    {
+      "name": "Dječje igralište",
+      "latitude": 45.488274,
+      "longitude": 16.377581
+    },
+    {
+      "name": "Dječje igralište",
+      "latitude": 45.764663,
+      "longitude": 18.608921
+    },
+    {
+      "name": "Dječje igralište",
+      "latitude": 45.77134,
+      "longitude": 18.614123
+    },
+    {
+      "name": "Dječje igralište",
+      "latitude": 45.832422,
+      "longitude": 16.053332
+    },
+    {
+      "name": "Dječje igralište",
+      "latitude": 45.83308,
+      "longitude": 16.060334
+    },
+    {
+      "name": "Dječje igralište",
+      "latitude": 46.205649,
+      "longitude": 16.02274
+    },
+    {
+      "name": "Dječje igralište",
+      "latitude": 46.227105,
+      "longitude": 16.01614
+    },
+    {
+      "name": "Dječje igralište \"Kopčevec\"",
+      "latitude": 45.804697,
+      "longitude": 16.214496
+    },
+    {
+      "name": "Dječje igralište \"Lovrakova\"",
+      "latitude": 45.840153,
+      "longitude": 16.060902
+    },
+    {
+      "name": "Dječje igralište \"Lovrakova\"",
+      "latitude": 45.840393,
+      "longitude": 16.059265
+    },
+    {
+      "name": "Dječje igralište \"Potkova\"",
+      "latitude": 45.835392,
+      "longitude": 16.056752
+    },
+    {
+      "name": "Dječje igralište \"Sjever\"",
+      "latitude": 45.868399,
+      "longitude": 15.794971
+    },
+    {
+      "name": "Dječje igralište \"Tržnica\"",
+      "latitude": 45.856085,
+      "longitude": 15.804458
+    },
+    {
+      "name": "Dječje igralište \"Zaprešić\"",
+      "latitude": 45.866335,
+      "longitude": 15.797079
+    },
+    {
+      "name": "Dječje igralište - Sv. Lucija",
+      "latitude": 45.305427,
+      "longitude": 14.500899
+    },
+    {
+      "name": "Dječje igralište Banderovo",
+      "latitude": 45.336777,
+      "longitude": 14.426933
+    },
+    {
+      "name": "Dječje igralište Banina",
+      "latitude": 44.118755,
+      "longitude": 15.244292
+    },
+    {
+      "name": "Dječje igralište Boćarski dom",
+      "latitude": 45.789454,
+      "longitude": 15.963168
+    },
+    {
+      "name": "Dječje igralište Cernik",
+      "latitude": 45.352103,
+      "longitude": 14.49257
+    },
+    {
+      "name": "Dječje igralište Cesarica",
+      "latitude": 44.563615,
+      "longitude": 15.02059
+    },
+    {
+      "name": "Dječje igralište dječjeg vrtića Čigra",
+      "latitude": 45.802279,
+      "longitude": 16.001047
+    },
+    {
+      "name": "Dječje igralište Doričići",
+      "latitude": 45.300025,
+      "longitude": 14.500098
+    },
+    {
+      "name": "Dječje igralište Dujmići",
+      "latitude": 45.299009,
+      "longitude": 14.512723
+    },
+    {
+      "name": "Dječje igralište Jadro",
+      "latitude": 44.297711,
+      "longitude": 15.086207
+    },
+    {
+      "name": "Dječje igralište Kaufland",
+      "latitude": 45.803856,
+      "longitude": 15.877294
+    },
+    {
+      "name": "Dječje igralište Kaufland",
+      "latitude": 45.833642,
+      "longitude": 16.10785
+    },
+    {
+      "name": "Dječje igralište Kerestinec",
+      "latitude": 45.778805,
+      "longitude": 15.814902
+    },
+    {
+      "name": "Dječje igralište Kipišće",
+      "latitude": 45.807652,
+      "longitude": 15.78659
+    },
+    {
+      "name": "Dječje igralište kod ribnjaka",
+      "latitude": 46.458187,
+      "longitude": 16.569648
+    },
+    {
+      "name": "Dječje igralište kod škole",
+      "latitude": 46.481217,
+      "longitude": 16.458017
+    },
+    {
+      "name": "Dječje igralište Kozarevac Račanski",
+      "latitude": 45.79142,
+      "longitude": 16.923454
+    },
+    {
+      "name": "Dječje igralište Lipovica",
+      "latitude": 45.34402,
+      "longitude": 14.31555
+    },
+    {
+      "name": "Dječje igralište Margečan",
+      "latitude": 46.214453,
+      "longitude": 16.226764
+    },
+    {
+      "name": "Dječje igralište Matulji - Vrtić Matulji",
+      "latitude": 45.362407,
+      "longitude": 14.323955
+    },
+    {
+      "name": "Dječje igralište Musapstan",
+      "latitude": 44.12971,
+      "longitude": 15.280133
+    },
+    {
+      "name": "Dječje igralište Orovac",
+      "latitude": 45.859355,
+      "longitude": 16.981702
+    },
+    {
+      "name": "Dječje Igralište Petefi",
+      "latitude": 46.299135,
+      "longitude": 16.847938
+    },
+    {
+      "name": "Dječje igralište Pirgo",
+      "latitude": 45.495824,
+      "longitude": 16.381122
+    },
+    {
+      "name": "Dječje igralište Platak",
+      "latitude": 45.426177,
+      "longitude": 14.565044
+    },
+    {
+      "name": "Dječje igralište Pribeniš",
+      "latitude": 45.428489,
+      "longitude": 14.565346
+    },
+    {
+      "name": "Dječje igralište Punta Kolova",
+      "latitude": 45.320775,
+      "longitude": 14.295967
+    },
+    {
+      "name": "Dječje igralište Randići",
+      "latitude": 45.292622,
+      "longitude": 14.536078
+    },
+    {
+      "name": "Dječje igralište Suha Katalena",
+      "latitude": 45.944388,
+      "longitude": 17.085198
+    },
+    {
+      "name": "Dječje igralište Sunce",
+      "latitude": 45.955297,
+      "longitude": 16.610097
+    },
+    {
+      "name": "Dječje igralište Trokut",
+      "latitude": 45.783446,
+      "longitude": 16.804245
+    },
+    {
+      "name": "Dječje igralište Turanj",
+      "latitude": 43.969668,
+      "longitude": 15.404322
+    },
+    {
+      "name": "Dječje igralište Virje",
+      "latitude": 46.067656,
+      "longitude": 16.989221
+    },
+    {
+      "name": "Dječje igralište Viška ulica",
+      "latitude": 44.853128,
+      "longitude": 13.842239
+    },
+    {
+      "name": "Dječje igralište Vrbak",
+      "latitude": 45.530392,
+      "longitude": 17.261473
+    },
+    {
+      "name": "Dječje igralište Črnikovica",
+      "latitude": 45.350049,
+      "longitude": 14.320636
+    },
+    {
+      "name": "Dječje igralište Šandrovac",
+      "latitude": 45.905235,
+      "longitude": 17.027644
+    },
+    {
+      "name": "Dječje igralište Šmrika",
+      "latitude": 45.256353,
+      "longitude": 14.59857
+    },
+    {
+      "name": "Dječje igralište Žarka Pezelja",
+      "latitude": 45.293688,
+      "longitude": 14.51142
+    },
+    {
+      "name": "Dječje igralište Željeznica",
+      "latitude": 46.208869,
+      "longitude": 16.192074
+    },
+    {
+      "name": "Dječji grad",
+      "latitude": 43.509005,
+      "longitude": 16.424226
+    },
+    {
+      "name": "Dječji grad Volkswagen",
+      "latitude": 43.922229,
+      "longitude": 15.415803
+    },
+    {
+      "name": "Dječji i spomen park obitelji Kostelić",
+      "latitude": 45.862053,
+      "longitude": 15.982653
+    },
+    {
+      "name": "Dječji park",
+      "latitude": 43.195499,
+      "longitude": 17.144301
+    },
+    {
+      "name": "Dječji Park Dedići",
+      "latitude": 45.84549,
+      "longitude": 15.944914
+    },
+    {
+      "name": "Dječji park Poliklinike SUVAG",
+      "latitude": 45.807663,
+      "longitude": 15.993368
+    },
+    {
+      "name": "Dječji park Srednjaci",
+      "latitude": 45.790227,
+      "longitude": 15.940117
+    },
+    {
+      "name": "Dječji Park Topusko",
+      "latitude": 45.29123,
+      "longitude": 15.969011
+    },
+    {
+      "name": "Dječji vrtić",
+      "latitude": 43.617266,
+      "longitude": 16.725183
+    },
+    {
+      "name": "Dječji vrtić Sunčana",
+      "latitude": 45.806143,
+      "longitude": 15.89545
+    },
+    {
+      "name": "Drvengrad",
+      "latitude": 45.560431,
+      "longitude": 18.690541
+    },
+    {
+      "name": "En Ten Tini",
+      "latitude": 43.731523,
+      "longitude": 15.897985
+    },
+    {
+      "name": "Glavani Adventure Park",
+      "latitude": 45.021418,
+      "longitude": 13.951406
+    },
+    {
+      "name": "Igraliste",
+      "latitude": 45.608398,
+      "longitude": 18.738725
+    },
+    {
+      "name": "igraliste vrtica",
+      "latitude": 43.053214,
+      "longitude": 17.644163
+    },
+    {
+      "name": "Igralište",
+      "latitude": 46.329445,
+      "longitude": 16.363642
+    },
+    {
+      "name": "Igralište \"Raketa\"",
+      "latitude": 45.906235,
+      "longitude": 16.851398
+    },
+    {
+      "name": "Igralište Andrije Lustiga",
+      "latitude": 45.575951,
+      "longitude": 16.943124
+    },
+    {
+      "name": "Igralište Božidar Adžija",
+      "latitude": 45.317396,
+      "longitude": 18.404162
+    },
+    {
+      "name": "Igralište Bregi",
+      "latitude": 45.349433,
+      "longitude": 14.300238
+    },
+    {
+      "name": "Igralište Centar",
+      "latitude": 45.310688,
+      "longitude": 18.40444
+    },
+    {
+      "name": "Igralište Cvjetno naselje",
+      "latitude": 45.9106,
+      "longitude": 16.857356
+    },
+    {
+      "name": "Igralište dom",
+      "latitude": 46.309593,
+      "longitude": 16.349187
+    },
+    {
+      "name": "Igralište Dubravka",
+      "latitude": 45.827155,
+      "longitude": 17.374156
+    },
+    {
+      "name": "Igralište DV Petar Pan",
+      "latitude": 43.509227,
+      "longitude": 16.471925
+    },
+    {
+      "name": "Igralište Frankopansko naselje",
+      "latitude": 45.89653,
+      "longitude": 16.832982
+    },
+    {
+      "name": "Igralište Galdovo",
+      "latitude": 45.487137,
+      "longitude": 16.405895
+    },
+    {
+      "name": "Igralište Južni blok",
+      "latitude": 45.827199,
+      "longitude": 17.380791
+    },
+    {
+      "name": "Igralište Matulji - amfiteatar",
+      "latitude": 45.362406,
+      "longitude": 14.324311
+    },
+    {
+      "name": "Igralište Mirele Ljutak",
+      "latitude": 45.590383,
+      "longitude": 17.217797
+    },
+    {
+      "name": "Igralište Naselje Matija Gubec",
+      "latitude": 45.902525,
+      "longitude": 16.836741
+    },
+    {
+      "name": "Igralište Naselje P. Biškupa",
+      "latitude": 45.906414,
+      "longitude": 16.844186
+    },
+    {
+      "name": "Igralište Naselje P. Biškupa",
+      "latitude": 45.907616,
+      "longitude": 16.844749
+    },
+    {
+      "name": "Igralište Omladinac",
+      "latitude": 45.897616,
+      "longitude": 16.841737
+    },
+    {
+      "name": "Igralište pod Vojnovićem",
+      "latitude": 45.902439,
+      "longitude": 16.82882
+    },
+    {
+      "name": "Igralište Pčelica",
+      "latitude": 45.747603,
+      "longitude": 16.615855
+    },
+    {
+      "name": "Igralište Suvara",
+      "latitude": 45.831777,
+      "longitude": 17.393279
+    },
+    {
+      "name": "Igralište Varoška",
+      "latitude": 45.851091,
+      "longitude": 16.060259
+    },
+    {
+      "name": "Igralište Vinkovačka ulica",
+      "latitude": 45.907206,
+      "longitude": 16.858913
+    },
+    {
+      "name": "Igralište Vinkovićevo naselje",
+      "latitude": 45.893034,
+      "longitude": 16.832444
+    },
+    {
+      "name": "Igralište Waldorfske škole",
+      "latitude": 45.770214,
+      "longitude": 15.966972
+    },
+    {
+      "name": "Igralište za djecu u sklopu ŠRC-a",
+      "latitude": 46.211205,
+      "longitude": 16.037444
+    },
+    {
+      "name": "Impy park",
+      "latitude": 44.822822,
+      "longitude": 14.736544
+    },
+    {
+      "name": "Kids Club",
+      "latitude": 43.591023,
+      "longitude": 15.919345
+    },
+    {
+      "name": "Kids Land",
+      "latitude": 46.087895,
+      "longitude": 15.912932
+    },
+    {
+      "name": "kids playground",
+      "latitude": 43.878305,
+      "longitude": 15.544456
+    },
+    {
+      "name": "Kondicijsko igralište Matulji - amfiteatar",
+      "latitude": 45.361995,
+      "longitude": 14.324796
+    },
+    {
+      "name": "Labirint",
+      "latitude": 43.508579,
+      "longitude": 16.424044
+    },
+    {
+      "name": "LEGOS",
+      "latitude": 45.56334,
+      "longitude": 18.675398
+    },
+    {
+      "name": "Lela Park",
+      "latitude": 45.806733,
+      "longitude": 15.94459
+    },
+    {
+      "name": "Ljuljačka",
+      "latitude": 45.206963,
+      "longitude": 13.912499
+    },
+    {
+      "name": "ljuljačke",
+      "latitude": 45.749134,
+      "longitude": 15.703379
+    },
+    {
+      "name": "Majmunjak",
+      "latitude": 45.486109,
+      "longitude": 16.371871
+    },
+    {
+      "name": "Mali Raj",
+      "latitude": 43.506162,
+      "longitude": 16.459469
+    },
+    {
+      "name": "Malo dječje igralište",
+      "latitude": 45.8205,
+      "longitude": 16.01391
+    },
+    {
+      "name": "Maro Kids Pumptrack",
+      "latitude": 45.077481,
+      "longitude": 14.168796
+    },
+    {
+      "name": "McDonald's PlayPlace",
+      "latitude": 44.868199,
+      "longitude": 13.866929
+    },
+    {
+      "name": "McDonald's PlayPlace",
+      "latitude": 45.892156,
+      "longitude": 16.852816
+    },
+    {
+      "name": "MSU Rođendaonica",
+      "latitude": 45.779172,
+      "longitude": 15.982291
+    },
+    {
+      "name": "Multifunkcionalno igralište uz rijeku Petrinjčicu",
+      "latitude": 45.435194,
+      "longitude": 16.27241
+    },
+    {
+      "name": "Murali edutainment factory",
+      "latitude": 45.34188,
+      "longitude": 13.54471
+    },
+    {
+      "name": "Park",
+      "latitude": 43.126305,
+      "longitude": 17.186431
+    },
+    {
+      "name": "Park Banderovo",
+      "latitude": 45.337072,
+      "longitude": 14.42837
+    },
+    {
+      "name": "Park Borivoja Dovnikovića",
+      "latitude": 45.798154,
+      "longitude": 15.956176
+    },
+    {
+      "name": "Park za djecu",
+      "latitude": 45.410862,
+      "longitude": 17.16182
+    },
+    {
+      "name": "Park za djecu",
+      "latitude": 45.811892,
+      "longitude": 15.708454
+    },
+    {
+      "name": "Parkić kraj Kineskog Zida",
+      "latitude": 45.772852,
+      "longitude": 16.002484
+    },
+    {
+      "name": "Perla Nero",
+      "latitude": 43.795631,
+      "longitude": 15.644354
+    },
+    {
+      "name": "Plavo dječje igralište",
+      "latitude": 45.861574,
+      "longitude": 15.798578
+    },
+    {
+      "name": "Play 2 day",
+      "latitude": 45.780913,
+      "longitude": 15.973989
+    },
+    {
+      "name": "Playground Šušnjar I",
+      "latitude": 44.151869,
+      "longitude": 15.624018
+    },
+    {
+      "name": "Playground Šušnjar I.",
+      "latitude": 44.151869,
+      "longitude": 15.624018
+    },
+    {
+      "name": "Playground Šušnjar II",
+      "latitude": 44.155021,
+      "longitude": 15.619996
+    },
+    {
+      "name": "Ploce",
+      "latitude": 42.642155,
+      "longitude": 18.107169
+    },
+    {
+      "name": "Public playground",
+      "latitude": 46.081621,
+      "longitude": 15.908195
+    },
+    {
+      "name": "Salvela",
+      "latitude": 45.334563,
+      "longitude": 13.560628
+    },
+    {
+      "name": "Scientific park",
+      "latitude": 44.227905,
+      "longitude": 15.166845
+    },
+    {
+      "name": "Spray Kids Arena",
+      "latitude": 45.346501,
+      "longitude": 13.617858
+    },
+    {
+      "name": "Tenisko Igralište",
+      "latitude": 45.412321,
+      "longitude": 17.161708
+    },
+    {
+      "name": "Train",
+      "latitude": 45.301009,
+      "longitude": 13.591298
+    },
+    {
+      "name": "Trg Antuna Mihanovića",
+      "latitude": 45.801583,
+      "longitude": 15.71967
+    },
+    {
+      "name": "Trnjanski parkić",
+      "latitude": 45.798916,
+      "longitude": 15.992434
+    },
+    {
+      "name": "Trnovčica",
+      "latitude": 45.835767,
+      "longitude": 16.06879
+    },
+    {
+      "name": "Veliko dječje igralište",
+      "latitude": 45.822666,
+      "longitude": 16.017687
+    },
+    {
+      "name": "Veliko Dječje Igralište - Petrinjčica",
+      "latitude": 45.43145,
+      "longitude": 16.273731
+    },
+    {
+      "name": "Vila Toplissa",
+      "latitude": 46.213164,
+      "longitude": 16.417122
+    },
+    {
+      "name": "Violinski ključ",
+      "latitude": 45.803112,
+      "longitude": 15.712291
+    },
+    {
+      "name": "Vrtić",
+      "latitude": 43.506156,
+      "longitude": 16.458283
+    },
+    {
+      "name": "Šanac",
+      "latitude": 45.836121,
+      "longitude": 16.53842
+    },
+    {
+      "name": "Šestinjak",
+      "latitude": 45.846565,
+      "longitude": 15.938772
+    },
+    {
+      "name": "Školica",
+      "latitude": 43.508555,
+      "longitude": 16.424164
+    },
+    {
+      "name": "Školsko igralište",
+      "latitude": 45.320096,
+      "longitude": 18.413982
+    },
+    {
+      "name": "Školsko igralište",
+      "latitude": 45.320209,
+      "longitude": 18.410834
+    }
+  ],
+  "meta": {
+    "title": "Dječja igrališta - Besplatno preuzimanje",
+    "description": "Dječja igrališta u Hrvatskoj (173 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=playground), izrez EU-POIS/HR. Sadrži 173 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Dječja igrališta | ListBase",
+    "seo_description": "Preuzmi Dječja igrališta — 173 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 173 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

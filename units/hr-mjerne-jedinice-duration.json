@@ -1,0 +1,196 @@
+{
+  "id": "hr-mjerne-jedinice-duration",
+  "name": "Mjerne jedinice — kategorija 'duration' (15)",
+  "title": "Mjerne jedinice — kategorija 'duration' (15)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'duration' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "duration-century",
+      "kategorija": "duration",
+      "naziv": "stoljeća",
+      "kratica": "st.",
+      "naziv_uski": "st.",
+      "obrazac": "{0} stoljeća"
+    },
+    {
+      "id": 2,
+      "unit_code": "duration-day",
+      "kategorija": "duration",
+      "naziv": "dani",
+      "kratica": "dani",
+      "naziv_uski": "d.",
+      "obrazac": "{0} dana"
+    },
+    {
+      "id": 3,
+      "unit_code": "duration-decade",
+      "kategorija": "duration",
+      "naziv": "desetljeća",
+      "kratica": "des.",
+      "naziv_uski": "des.",
+      "obrazac": "{0} desetljeća"
+    },
+    {
+      "id": 4,
+      "unit_code": "duration-fortnight",
+      "kategorija": "duration",
+      "naziv": "fortnight",
+      "kratica": "fortnight",
+      "naziv_uski": "fortnight",
+      "obrazac": "{0} fw"
+    },
+    {
+      "id": 5,
+      "unit_code": "duration-hour",
+      "kategorija": "duration",
+      "naziv": "sati",
+      "kratica": "h",
+      "naziv_uski": "h",
+      "obrazac": "{0} sati"
+    },
+    {
+      "id": 6,
+      "unit_code": "duration-microsecond",
+      "kategorija": "duration",
+      "naziv": "mikrosekunde",
+      "kratica": "μs",
+      "naziv_uski": "μs",
+      "obrazac": "{0} mikrosekundi"
+    },
+    {
+      "id": 7,
+      "unit_code": "duration-millisecond",
+      "kategorija": "duration",
+      "naziv": "milisekunde",
+      "kratica": "ms",
+      "naziv_uski": "ms",
+      "obrazac": "{0} milisekundi"
+    },
+    {
+      "id": 8,
+      "unit_code": "duration-minute",
+      "kategorija": "duration",
+      "naziv": "minute",
+      "kratica": "min",
+      "naziv_uski": "min",
+      "obrazac": "{0} minuta"
+    },
+    {
+      "id": 9,
+      "unit_code": "duration-month",
+      "kategorija": "duration",
+      "naziv": "mjeseci",
+      "kratica": "mj.",
+      "naziv_uski": "mj.",
+      "obrazac": "{0} mjeseci"
+    },
+    {
+      "id": 10,
+      "unit_code": "duration-nanosecond",
+      "kategorija": "duration",
+      "naziv": "nanosekunde",
+      "kratica": "ns",
+      "naziv_uski": "ns",
+      "obrazac": "{0} nanosekundi"
+    },
+    {
+      "id": 11,
+      "unit_code": "duration-night",
+      "kategorija": "duration",
+      "naziv": "noći",
+      "kratica": "noć",
+      "naziv_uski": "noć",
+      "obrazac": "{0} noći"
+    },
+    {
+      "id": 12,
+      "unit_code": "duration-quarter",
+      "kategorija": "duration",
+      "naziv": "četvrtine",
+      "kratica": "čet.",
+      "naziv_uski": "čet.",
+      "obrazac": "{0} četvrtina"
+    },
+    {
+      "id": 13,
+      "unit_code": "duration-second",
+      "kategorija": "duration",
+      "naziv": "sekunde",
+      "kratica": "s",
+      "naziv_uski": "s",
+      "obrazac": "{0} sekundi"
+    },
+    {
+      "id": 14,
+      "unit_code": "duration-week",
+      "kategorija": "duration",
+      "naziv": "tjedni",
+      "kratica": "tj.",
+      "naziv_uski": "tj.",
+      "obrazac": "{0} tjedana"
+    },
+    {
+      "id": 15,
+      "unit_code": "duration-year",
+      "kategorija": "duration",
+      "naziv": "godine",
+      "kratica": "g.",
+      "naziv_uski": "g.",
+      "obrazac": "{0} godina"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'duration' (15) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'duration' s hrvatskim nazivima. Sadrži 15 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'duration' (15) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'duration' (15) — 15 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 15 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

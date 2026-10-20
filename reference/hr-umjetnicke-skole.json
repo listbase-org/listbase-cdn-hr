@@ -1,0 +1,744 @@
+{
+  "id": "hr-umjetnicke-skole",
+  "name": "Umjetničke škole u Republici Hrvatskoj",
+  "title": "Umjetničke škole u Republici Hrvatskoj",
+  "description": "Art schools in Croatia with addresses",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "Naziv ustanove",
+      "label": "Naziv Ustanove",
+      "type": "string"
+    },
+    {
+      "key": "Email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "Adresa",
+      "label": "Adresa",
+      "type": "string"
+    },
+    {
+      "key": "Poštanski broj",
+      "label": "PošTanski Broj",
+      "type": "number"
+    },
+    {
+      "key": "Mjesto",
+      "label": "Mjesto",
+      "type": "string"
+    },
+    {
+      "key": "Općina",
+      "label": "OpćIna",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "Naziv ustanove": "Glazbena škola Dugo Selo",
+      "Email": "ured@ogs-dugo-selo.skole.hr",
+      "Adresa": "Zagrebačka 24",
+      "Poštanski broj": 10370,
+      "Mjesto": "Dugo Selo",
+      "Općina": "DUGO SELO"
+    },
+    {
+      "Naziv ustanove": "Osnovna muzička škola Milke Trnine (pri Pučkom otvorenom učilištu Ivanić-Grad)",
+      "Email": "ured@ogs-mtrnine-ivanicgrad.skole.hr",
+      "Adresa": "MOSLAVAČKA 11",
+      "Poštanski broj": 10310,
+      "Mjesto": "Ivanić-Grad",
+      "Općina": "IVANIĆ-GRAD"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA JASTREBARSKO",
+      "Email": "",
+      "Adresa": "Ulica Zrinski-Frankopanska 13",
+      "Poštanski broj": 10450,
+      "Mjesto": "Jastrebarsko",
+      "Općina": "JASTREBARSKO"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Ferdo Livadić",
+      "Email": "ured@ss-glazbena-flivadic-samobor.skole.hr",
+      "Adresa": "TRG MATICE HRVATSKE 3",
+      "Poštanski broj": 10430,
+      "Mjesto": "Samobor",
+      "Općina": "SAMOBOR"
+    },
+    {
+      "Naziv ustanove": "Umjetnička škola Franje Lučića",
+      "Email": "ured@ss-umjetnicka-flucica-velikagorica.skole.hr",
+      "Adresa": "SLAVKA KOLARA 39",
+      "Poštanski broj": 10410,
+      "Mjesto": "Velika Gorica",
+      "Općina": "VELIKA GORICA"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola (pri Pučkom otvorenom učilištu Vrbovec)",
+      "Email": "glazbena.skola@pou-vrbovec.hr",
+      "Adresa": "KOLODVORSKA 1",
+      "Poštanski broj": 10340,
+      "Mjesto": "Vrbovec",
+      "Općina": "VRBOVEC"
+    },
+    {
+      "Naziv ustanove": "OSNOVNA ŠKOLA PAVAO BELAS",
+      "Email": "osnovna.skola-pavao.belas@zg.t-com.hr",
+      "Adresa": "Ilije Gregorića 28",
+      "Poštanski broj": 10291,
+      "Mjesto": "Brdovec",
+      "Općina": "BRDOVEC"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA BONAR",
+      "Email": "bonar@bonar.hr",
+      "Adresa": "DRAGE GERVAISA 13",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "Škola za umjetnost, dizajn, grafiku i odjeću Zabok",
+      "Email": "ured@ss-sudigo-zabok.skole.hr",
+      "Adresa": "Prilaz prof. Ivana Vrančića 5",
+      "Poštanski broj": 49210,
+      "Mjesto": "Zabok",
+      "Općina": "ZABOK"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA PREGRADA",
+      "Email": "glazbena.skola.pregrada@kr.t-com.hr",
+      "Adresa": "Ulica Ljudevita Gaja 34",
+      "Poštanski broj": 49218,
+      "Mjesto": "Pregrada",
+      "Općina": "PREGRADA"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola Borisa Papandopula",
+      "Email": "robert.kolenc@skole.hr",
+      "Adresa": "Stjepana Radića 3",
+      "Poštanski broj": 44320,
+      "Mjesto": "Kutina",
+      "Općina": "KUTINA"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola u Novskoj",
+      "Email": "ured@ss-glazbena-novska.skole.hr",
+      "Adresa": "Trg dr. Franje Tuđmana 3",
+      "Poštanski broj": 44330,
+      "Mjesto": "Novska",
+      "Općina": "NOVSKA"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA FRANA LHOTKE",
+      "Email": "ured@ogs-franlhotka-sk.skole.hr",
+      "Adresa": "Trg Ljudevita Posavskog 2",
+      "Poštanski broj": 44000,
+      "Mjesto": "Sisak",
+      "Općina": "SISAK"
+    },
+    {
+      "Naziv ustanove": "SREDNJA ŠKOLA DUGA RESA",
+      "Email": "tajnistvo@ssdr.hr",
+      "Adresa": "Jozefinska cesta 27",
+      "Poštanski broj": 47250,
+      "Mjesto": "Duga Resa",
+      "Općina": "DUGA RESA"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA",
+      "Email": "glazbena-skola-karlovac@ka.t-com.hr",
+      "Adresa": "CESARČEVA 3.",
+      "Poštanski broj": 47000,
+      "Mjesto": "Karlovac",
+      "Općina": "KARLOVAC"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola Ladislava Šabana (pri Pučkom otvorenom učilištu ˝Đuro Arnold˝)",
+      "Email": "OS-IVANEC-003@skole.t-com.hr",
+      "Adresa": "VLADIMIRA NAZORA 1",
+      "Poštanski broj": 42240,
+      "Mjesto": "Ivanec",
+      "Općina": "IVANEC"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola (pri Pučkom otvorenom učilištu Dragutin Novak)",
+      "Email": "tajnistvo@pou-ludbreg.hr",
+      "Adresa": "TRG SVETOG TROJSTVA 19",
+      "Poštanski broj": 42230,
+      "Mjesto": "Ludbreg",
+      "Općina": "LUDBREG"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola \"Ivan Padovec\" (pri Pučkom otvorenom učilištu Novi Marof)",
+      "Email": "ns-novi-marof@vz.t-com.hr",
+      "Adresa": "Zagorska 30",
+      "Poštanski broj": 42220,
+      "Mjesto": "Novi Marof",
+      "Općina": "NOVI MAROF"
+    },
+    {
+      "Naziv ustanove": "SREDNJA STRUKOVNA ŠKOLA",
+      "Email": "sss@sss-vz.hr",
+      "Adresa": "BOŽENE PLAZZERIANO 4",
+      "Poštanski broj": 42000,
+      "Mjesto": "Varaždin",
+      "Općina": "VARAŽDIN"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola u Varaždinu",
+      "Email": "ured@ogs-varazdin.skole.hr",
+      "Adresa": "Kapucinski trg 8",
+      "Poštanski broj": 42000,
+      "Mjesto": "Varaždin",
+      "Općina": "VARAŽDIN"
+    },
+    {
+      "Naziv ustanove": "Umjetnička škola Fortunat Pintarić",
+      "Email": "ravnatelj@glazbena.com",
+      "Adresa": "Svilarska 12",
+      "Poštanski broj": 48000,
+      "Mjesto": "Koprivnica",
+      "Općina": "KOPRIVNICA"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Alberta Štrige, Križevci",
+      "Email": "tajnistvo@ss-glazbena-astrige-kc.skole.hr",
+      "Adresa": "Antuna Gustava Matoša 4",
+      "Poštanski broj": 48260,
+      "Mjesto": "Križevci",
+      "Općina": "KRIŽEVCI"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA VATROSLAVA LISINSKOG BJELOVAR",
+      "Email": "ravnateljica@lisinski-bj.hr",
+      "Adresa": "Vatroslava Lisinskog 1",
+      "Poštanski broj": 43000,
+      "Mjesto": "Bjelovar",
+      "Općina": "BJELOVAR"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA BRUNE BJELINSKOG DARUVAR",
+      "Email": "ured@gs-bbjelinskog-daruvar.skole.hr",
+      "Adresa": "Trg Presvetog Trojstva 8",
+      "Poštanski broj": 43500,
+      "Mjesto": "Daruvar",
+      "Općina": "DARUVAR"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola Ive Tijardovića Delnice",
+      "Email": "ogs-ive-tijardovica@ri.t-com.hr",
+      "Adresa": "ŠKOLSKA 25",
+      "Poštanski broj": 51300,
+      "Mjesto": "Delnice",
+      "Općina": "DELNICE"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola TARLA",
+      "Email": "glazbenaskolatarla@gmail.com",
+      "Adresa": "Šporova jama 2",
+      "Poštanski broj": 51215,
+      "Mjesto": "Kastav",
+      "Općina": "KASTAV"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola ALEKSANDRA JUG - MATIĆ",
+      "Email": "glazbena.matic@gmail.com",
+      "Adresa": "ZVONIMIROVA 1/1",
+      "Poštanski broj": 51000,
+      "Mjesto": "Rijeka",
+      "Općina": "RIJEKA"
+    },
+    {
+      "Naziv ustanove": "Trgovačka i tekstilna škola u Rijeci",
+      "Email": "trgovacka-i-tekstilna-skola@ri.t-com.hr",
+      "Adresa": "STANE VONČINE 1A",
+      "Poštanski broj": 51000,
+      "Mjesto": "Rijeka",
+      "Općina": "RIJEKA"
+    },
+    {
+      "Naziv ustanove": "Građevinska tehnička škola",
+      "Email": " \tgts@ss-gradjevinska-tehnicka-ri.skole.hr",
+      "Adresa": "PODHUMSKIH ŽRTAVA 4",
+      "Poštanski broj": 51000,
+      "Mjesto": "Rijeka",
+      "Općina": "RIJEKA"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Ivana Matetića Ronjgova Rijeka",
+      "Email": "ured@ogs-imateticaronjgova-ri.skole.hr",
+      "Adresa": "LAGINJINA 1",
+      "Poštanski broj": 51000,
+      "Mjesto": "Rijeka",
+      "Općina": "RIJEKA"
+    },
+    {
+      "Naziv ustanove": "Škola za primijenjenu umjetnost u Rijeci",
+      "Email": "ured@spur.hr",
+      "Adresa": "ŠETALIŠTE XIII. DIVIZIJE 75",
+      "Poštanski broj": 51000,
+      "Mjesto": "Rijeka",
+      "Općina": "RIJEKA"
+    },
+    {
+      "Naziv ustanove": "OSNOVNA GLAZBENA ŠKOLA MIRKOVIĆ",
+      "Email": "ured@oss-glazbena-mirkovic-opatija.skole.hr",
+      "Adresa": "A. ŠTANGERA 67",
+      "Poštanski broj": 51410,
+      "Mjesto": "Opatija",
+      "Općina": "OPATIJA"
+    },
+    {
+      "Naziv ustanove": "SREDNJA GLAZBENA ŠKOLA MIRKOVIĆ, s pravom javnosti",
+      "Email": "urd@oss-glazbena-mirkovic-opatija.skole.hr",
+      "Adresa": "ANDRIJE ŠTANGERA 67",
+      "Poštanski broj": 51410,
+      "Mjesto": "Opatija",
+      "Općina": "OPATIJA"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola Josipa Kašmana (pri Pučkom otvorenom učilištu Mali Lošinj)",
+      "Email": "skola@ogs-jkasmana-malilosinj.skole.hr",
+      "Adresa": "VLADIMIRA GORTANA 35",
+      "Poštanski broj": 51550,
+      "Mjesto": "Mali Lošinj",
+      "Općina": "MALI LOŠINJ"
+    },
+    {
+      "Naziv ustanove": "OSNOVNA ŠKOLA SILVIJA STRAHIMIRA KRANJČEVIĆA SENJ",
+      "Email": "tajništvo@os-sskranjcevica-senj.skole.hr",
+      "Adresa": "SILVIJA STRAHIMIRA KRANJČEVIĆA 1",
+      "Poštanski broj": 53270,
+      "Mjesto": "Senj",
+      "Općina": "SENJ"
+    },
+    {
+      "Naziv ustanove": "OSNOVNA GLAZBENA ŠKOLA SLATINA",
+      "Email": "ravnatelj@ogs-slatina.skole.hr",
+      "Adresa": "Braće Radića 4",
+      "Poštanski broj": 33520,
+      "Mjesto": "Slatina",
+      "Općina": "SLATINA"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Jan Vlašimsky Virovitica",
+      "Email": "ured@gs-jvlasimsky-vt.skole.hr",
+      "Adresa": "ANTUNA MIHANOVIĆA 21",
+      "Poštanski broj": 33000,
+      "Mjesto": "Virovitica",
+      "Općina": "VIROVITICA"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola Pakrac",
+      "Email": "glazbena@ogs-pakrac.skole.hr",
+      "Adresa": "TRG BANA JELAČIĆA 1",
+      "Poštanski broj": 34550,
+      "Mjesto": "Pakrac",
+      "Općina": "PAKRAC"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Požega",
+      "Email": "ured@ss-glazbena-pozega.skole.hr",
+      "Adresa": "Vjekoslava Babukića 27",
+      "Poštanski broj": 34000,
+      "Mjesto": "Požega",
+      "Općina": "POŽEGA"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola (pri Pučkom otvorenom učilištu Matija Antun Relković)",
+      "Email": "poumar@sb.t-com.hr",
+      "Adresa": "RELKOVIĆEVA ULICA 4",
+      "Poštanski broj": 35400,
+      "Mjesto": "Nova Gradiška",
+      "Općina": "NOVA GRADIŠKA"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Slavonski Brod",
+      "Email": "ured@ogs-izajc-sb.skole.hr",
+      "Adresa": "VUKOVARSKA 1",
+      "Poštanski broj": 35000,
+      "Mjesto": "Slavonski Brod",
+      "Općina": "SLAVONSKI BROD"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola SV. BENEDIKTA",
+      "Email": "ogs.sv.benedikta@hi.t-com.hr ogs.sv.benedikta@hotmail.com",
+      "Adresa": "Madijevaca 10",
+      "Poštanski broj": 23000,
+      "Mjesto": "Zadar",
+      "Općina": "ZADAR"
+    },
+    {
+      "Naziv ustanove": "ŠKOLA PRIMIJENJENE UMJETNOSTI I DIZAJNA",
+      "Email": "ured@ss-primijenjenaumjetnostidizajn-zd.skole.hr",
+      "Adresa": "PERIVOJ VLADIMIRA NAZORA 3/III",
+      "Poštanski broj": 23000,
+      "Mjesto": "Zadar",
+      "Općina": "ZADAR"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Blagoje Bersa Zadar",
+      "Email": "gl-skola-blagoja-bersa-zd@zd.htnet.hr",
+      "Adresa": "Dr. Franje Tuđmana 24e",
+      "Poštanski broj": 23000,
+      "Mjesto": "Zadar",
+      "Općina": "ZADAR"
+    },
+    {
+      "Naziv ustanove": "Umjetnička škola Beli Manastir",
+      "Email": "osnovna.glazbena.skola.beli.manastir@os.t-com.hr",
+      "Adresa": "Kralja Tomislava 2",
+      "Poštanski broj": 31300,
+      "Mjesto": "Beli Manastir",
+      "Općina": "BELI MANASTIR"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola Kontesa Dora",
+      "Email": "ured@ogs-kontesa-dora.skole.hr",
+      "Adresa": "Dore Pejačević 2",
+      "Poštanski broj": 31500,
+      "Mjesto": "Našice",
+      "Općina": "NAŠICE"
+    },
+    {
+      "Naziv ustanove": "ŠKOLA PRIMIJENJENE UMJETNOSTI I DIZAJNA OSIJEK",
+      "Email": "ured@ss-primijenjenaumjetnostidizajn-os.skole.hr",
+      "Adresa": "KRBAVSKA B.B.",
+      "Poštanski broj": 31000,
+      "Mjesto": "Osijek",
+      "Općina": "OSIJEK"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA FRANJE KUHAČA Osijek",
+      "Email": "gsfko@ogs-fkuhaca-os.skole.hr",
+      "Adresa": "TRG SVETOG TROJSTVA 1",
+      "Poštanski broj": 31000,
+      "Mjesto": "Osijek",
+      "Općina": "OSIJEK"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola KRSTO ODAK",
+      "Email": "glazbena@ogs-kodak-drnis.skole.hr",
+      "Adresa": "VLADIMIRA NAZORA 4",
+      "Poštanski broj": 22320,
+      "Mjesto": "Drniš",
+      "Općina": "DRNIŠ"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA IVANA LUKAČIĆA",
+      "Email": "ured@glazbena-ilukacica-si.skole.hr",
+      "Adresa": "SPLITSKI PUT 2",
+      "Poštanski broj": 22000,
+      "Mjesto": "Šibenik",
+      "Općina": "ŠIBENIK"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Josipa Runjanina",
+      "Email": "ured@glazbena-jrunjanina-vk.skole.hr",
+      "Adresa": "Istarska 3",
+      "Poštanski broj": 32100,
+      "Mjesto": "Vinkovci",
+      "Općina": "VINKOVCI"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA DR. FRA IVAN GLIBOTIĆ-IMOTSKI",
+      "Email": "ured@gs-drfraiglibotic-imotski.skole.hr",
+      "Adresa": "Bruna Bušića 1",
+      "Poštanski broj": 21260,
+      "Mjesto": "Imotski",
+      "Općina": "IMOTSKI"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Makarska",
+      "Email": "ured@gs-makarska.skole.hr",
+      "Adresa": "DON MIHOVILA PAVLINOVIĆA 1",
+      "Poštanski broj": 21300,
+      "Mjesto": "Makarska",
+      "Općina": "MAKARSKA"
+    },
+    {
+      "Naziv ustanove": "OSNOVNA GLAZBENA ŠKOLA \"LOVRO pl. MATAČIĆ\" OMIŠ",
+      "Email": "ogs.lovro.pl.matacic@st.t-com.hr",
+      "Adresa": "PUNTA 1",
+      "Poštanski broj": 21310,
+      "Mjesto": "Omiš",
+      "Općina": "OMIŠ"
+    },
+    {
+      "Naziv ustanove": "OSNOVNA GLAZBENA ŠKOLA JAKOVA GOTOVCA",
+      "Email": "ured@ogs-jgotovca-sinj.skole.hr",
+      "Adresa": "ALKARSKO TRKALIŠTE 11/A",
+      "Poštanski broj": 21230,
+      "Mjesto": "Sinj",
+      "Općina": "SINJ"
+    },
+    {
+      "Naziv ustanove": "Privatna osnovna glazbena škola BORIS PAPANDOPULO",
+      "Email": "ogs.b.papandopulo@st.t-com.hr",
+      "Adresa": "BORISA PAPANDOPULA 15",
+      "Poštanski broj": 21000,
+      "Mjesto": "Split",
+      "Općina": "SPLIT"
+    },
+    {
+      "Naziv ustanove": "ŠKOLA ZA DIZAJN, GRAFIKU I ODRŽIVU GRADNJU",
+      "Email": "ured@ss-dizajngrafikuiodrzivugradnju-st.skole.hr",
+      "Adresa": "Matice Hrvatske 11",
+      "Poštanski broj": 21000,
+      "Mjesto": "Split",
+      "Općina": "SPLIT"
+    },
+    {
+      "Naziv ustanove": "ŠKOLA LIKOVNIH UMJETNOSTI",
+      "Email": "skola-likovnih-umjetnosti@st.t-com.hr",
+      "Adresa": "FAUSTA VRANČIĆA 17",
+      "Poštanski broj": 21000,
+      "Mjesto": "Split",
+      "Općina": "SPLIT"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA JOSIPA HATZEA",
+      "Email": "ured@ogs-jhatzea-st.skole.hr",
+      "Adresa": "TRG HRVATSKE BRATSKE ZAJEDNICE 3",
+      "Poštanski broj": 21000,
+      "Mjesto": "Split",
+      "Općina": "SPLIT"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola Brač",
+      "Email": "",
+      "Adresa": "Trg Hrvatskog skupa 10",
+      "Poštanski broj": 21412,
+      "Mjesto": "Pučišća",
+      "Općina": "PUČIŠĆA"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola Matka Brajše Rašana (pri Pučkom otvorenom učilištu Labin)",
+      "Email": "ured@ogs-mbrasan-labin.skole.hr",
+      "Adresa": "Alda Negrija 11",
+      "Poštanski broj": 52220,
+      "Mjesto": "Labin",
+      "Općina": "LABIN"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola (pri Pučkom otvorenom učilištu u Pazinu)",
+      "Email": "tajnistvo@puckouciliste-pazin.hr",
+      "Adresa": "ULICA NARODNOG DOMA 1",
+      "Poštanski broj": 52000,
+      "Mjesto": "Pazin",
+      "Općina": "PAZIN"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola \"Slavko Zlatić\" (pri Pučkom otvorenom učilištu Poreč)",
+      "Email": "ogs@poup.hr",
+      "Adresa": "P. KANDLERA 2",
+      "Poštanski broj": 52440,
+      "Mjesto": "Poreč",
+      "Općina": "POREČ"
+    },
+    {
+      "Naziv ustanove": "Škola primijenjenih umjetnosti i dizajna - Pula",
+      "Email": "ured@ss-primijenjenihumjetnostiidizajna-pu.skole.hr",
+      "Adresa": "Radićeva 19",
+      "Poštanski broj": 52100,
+      "Mjesto": "Pula",
+      "Općina": "PULA"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Ivana Matetića - Ronjgova Pula",
+      "Email": "glazbena@imr.hr",
+      "Adresa": "CISCUTTIJEVA 22",
+      "Poštanski broj": 52100,
+      "Mjesto": "Pula",
+      "Općina": "PULA"
+    },
+    {
+      "Naziv ustanove": "UMJETNIČKA ŠKOLA LUKE SORKOČEVIĆA DUBROVNIK",
+      "Email": "umjetnicka.skola.luke.sorkocevica@du.t-com.hr",
+      "Adresa": "STROSSMAYEROVA 3",
+      "Poštanski broj": 20000,
+      "Mjesto": "Dubrovnik",
+      "Općina": "DUBROVNIK"
+    },
+    {
+      "Naziv ustanove": "OSNOVNA GLAZBENA ŠKOLA METKOVIĆ",
+      "Email": "osnovna.glazbena.skola.metkovic@du.t-com.hr",
+      "Adresa": "KRALJA ZVONIMIRA 7",
+      "Poštanski broj": 20350,
+      "Mjesto": "Metković",
+      "Općina": "METKOVIĆ"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola (pri Pučkom otvorenom učilištu Ploče)",
+      "Email": "osnovna-glazbena-skola-ploce@du.t-com.hr",
+      "Adresa": "GRAČKA 2",
+      "Poštanski broj": 20340,
+      "Mjesto": "Ploče",
+      "Općina": "PLOČE"
+    },
+    {
+      "Naziv ustanove": "Umjetnička škola Miroslav Magdalenić Čakovec",
+      "Email": "ured@os-umjetnicka-ck.skole.hr",
+      "Adresa": "VLADIMIRA NAZORA 14",
+      "Poštanski broj": 40000,
+      "Mjesto": "Čakovec",
+      "Općina": "ČAKOVEC"
+    },
+    {
+      "Naziv ustanove": "GRADITELJSKA ŠKOLA ČAKOVEC",
+      "Email": "gsc@ss-graditeljska-ck.skole.hr",
+      "Adresa": "ŠPORTSKA 1",
+      "Poštanski broj": 40000,
+      "Mjesto": "Čakovec",
+      "Općina": "ČAKOVEC"
+    },
+    {
+      "Naziv ustanove": "Škola za balet i ritmiku",
+      "Email": "skola.balet.ritmika@skolabalet.tcloud.hr",
+      "Adresa": "ZAGORSKA 16",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "NARODNO SVEUČILIŠTE SESVETE OSNOVNA GLAZBENA ŠKOLA ZLATKA GRGOŠEVIĆA",
+      "Email": "ogszg@inet.hr",
+      "Adresa": "Bjelovarska 48b",
+      "Poštanski broj": 10360,
+      "Mjesto": "Sesvete",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "OSNOVNA GLAZBENA ŠKOLA IVANA ZAJCA",
+      "Email": "os-zagreb-128@skole.t-com.hr",
+      "Adresa": "Ilica 227",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "Osnovna glazbena škola Rudolfa Matza",
+      "Email": "tajnistvo@ogs-rmatza-zg.skole.hr",
+      "Adresa": "Selska cesta 114",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "Škola za modu i dizajn",
+      "Email": "skola-mid@email.ht.hr",
+      "Adresa": "Prilaz baruna Filipovića 30",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "ŠKOLA PRIMIJENJENE UMJETNOSTI I DIZAJNA",
+      "Email": "spud@zg.htnet.hr",
+      "Adresa": "TRG MARŠALA TITA 11",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "ŠKOLA ZA KLASIČNI BALET",
+      "Email": "skola@skolazaklasicnibalet.hr",
+      "Adresa": "ILIRSKI TRG 9",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "ŠKOLA SUVREMENOG PLESA ANE MALETIĆ",
+      "Email": "skola@skolaanemaletic.hr",
+      "Adresa": "Laginjina 13",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Pavla Markovca",
+      "Email": "pavla.markovca@zg.t-com.hr",
+      "Adresa": "TRG  ŽRTAVA  FAŠIZMA 9",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "Glazbeno učilište Elly Bašić",
+      "Email": "tajnistvo@uciliste-glazbeno-ebasic-zg.skole.hr",
+      "Adresa": "MLINARSKA 25",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA VATROSLAVA LISINSKOG",
+      "Email": "ured@ss-glazbena-vlisinskog-zg.skole.hr",
+      "Adresa": "GUNDULIĆEVA 4/1",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Blagoja Berse",
+      "Email": "glazbena@bersa.hr",
+      "Adresa": "BRITANSKI TRG 5",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "Glazbena škola Zlatka Balokovića",
+      "Email": "OS-ZAGREB-125@skole.t-com.hr",
+      "Adresa": "Božidara Magovca 103",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "Učilište za popularnu i jazz glazbu",
+      "Email": "info@rock-akademija.hr",
+      "Adresa": "Park Ribnjak 1",
+      "Poštanski broj": 10000,
+      "Mjesto": "Zagreb",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "GLAZBENA ŠKOLA VANJA KOS",
+      "Email": "ured@glazbena-vanjakos-sesvete.skole.hr",
+      "Adresa": "Varaždinska 57",
+      "Poštanski broj": 10360,
+      "Mjesto": "Sesvete",
+      "Općina": "GRAD ZAGREB"
+    },
+    {
+      "Naziv ustanove": "",
+      "Email": "info@glazbenaskolabrkanovic.hr",
+      "Adresa": "",
+      "Poštanski broj": "",
+      "Mjesto": "",
+      "Općina": ""
+    }
+  ],
+  "meta": {
+    "title": "Umjetničke škole u Republici Hrvatskoj - Besplatno preuzimanje",
+    "description": "Art schools in Croatia with addresses Sadrži 86 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Umjetničke škole u Republici Hrvatskoj | ListBase",
+    "seo_description": "Preuzmi Umjetničke škole u Republici Hrvatskoj — 86 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 86 zapisa / 6 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

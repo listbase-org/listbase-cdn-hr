@@ -1,0 +1,416 @@
+{
+  "id": "hr-vremenske-zone-asia",
+  "name": "Vremenske zone — Asia (45)",
+  "title": "Vremenske zone — Asia (45)",
+  "description": "Vremenske zone čiji IANA identifikator počinje s 'Asia/', s hrvatskim nazivima.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regija",
+      "label": "Regija",
+      "type": "string"
+    },
+    {
+      "key": "grad",
+      "label": "Grad",
+      "type": "string"
+    },
+    {
+      "key": "standardno_ime",
+      "label": "Standardno Ime",
+      "type": "string"
+    },
+    {
+      "key": "ljetno_ime",
+      "label": "Ljetno Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Asia/Almaty",
+      "regija": "Asia",
+      "grad": "Alma Ata",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Asia/Anadyr",
+      "regija": "Asia",
+      "grad": "Anadir",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Asia/Aqtau",
+      "regija": "Asia",
+      "grad": "Aktau",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Asia/Aqtobe",
+      "regija": "Asia",
+      "grad": "Aktobe",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Asia/Ashgabat",
+      "regija": "Asia",
+      "grad": "Ašgabat",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Asia/Baghdad",
+      "regija": "Asia",
+      "grad": "Bagdad",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Asia/Bahrain",
+      "regija": "Asia",
+      "grad": "Bahrein",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Asia/Bishkek",
+      "regija": "Asia",
+      "grad": "Biškek",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Asia/Brunei",
+      "regija": "Asia",
+      "grad": "Brunej",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Asia/Calcutta",
+      "regija": "Asia",
+      "grad": "Kolkata",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Asia/Chita",
+      "regija": "Asia",
+      "grad": "Čita",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Asia/Damascus",
+      "regija": "Asia",
+      "grad": "Damask",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Asia/Dushanbe",
+      "regija": "Asia",
+      "grad": "Dušanbe",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Asia/Hovd",
+      "regija": "Asia",
+      "grad": "Khovd",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Asia/Jakarta",
+      "regija": "Asia",
+      "grad": "Džakarta",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Asia/Jerusalem",
+      "regija": "Asia",
+      "grad": "Jeruzalem",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Asia/Kamchatka",
+      "regija": "Asia",
+      "grad": "Kamčatka",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Asia/Karachi",
+      "regija": "Asia",
+      "grad": "Karači",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Asia/Katmandu",
+      "regija": "Asia",
+      "grad": "Katmandu",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Asia/Khandyga",
+      "regija": "Asia",
+      "grad": "Handiga",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Asia/Krasnoyarsk",
+      "regija": "Asia",
+      "grad": "Krasnojarsk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Asia/Kuwait",
+      "regija": "Asia",
+      "grad": "Kuvajt",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Asia/Macau",
+      "regija": "Asia",
+      "grad": "Makao",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Asia/Nicosia",
+      "regija": "Asia",
+      "grad": "Nikozija",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Asia/Novokuznetsk",
+      "regija": "Asia",
+      "grad": "Novokuznjeck",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Asia/Pyongyang",
+      "regija": "Asia",
+      "grad": "Pjongjang",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Asia/Qatar",
+      "regija": "Asia",
+      "grad": "Katar",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Asia/Qostanay",
+      "regija": "Asia",
+      "grad": "Kostanay",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Asia/Qyzylorda",
+      "regija": "Asia",
+      "grad": "Kizilorda",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Asia/Rangoon",
+      "regija": "Asia",
+      "grad": "Rangun",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Asia/Riyadh",
+      "regija": "Asia",
+      "grad": "Rijad",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Asia/Saigon",
+      "regija": "Asia",
+      "grad": "Ho Ši Min",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Asia/Sakhalin",
+      "regija": "Asia",
+      "grad": "Sahalin",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Asia/Seoul",
+      "regija": "Asia",
+      "grad": "Seul",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Asia/Shanghai",
+      "regija": "Asia",
+      "grad": "Šangaj",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Asia/Singapore",
+      "regija": "Asia",
+      "grad": "Singapur",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Asia/Srednekolymsk",
+      "regija": "Asia",
+      "grad": "Srednekolimsk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Asia/Tashkent",
+      "regija": "Asia",
+      "grad": "Taškent",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Asia/Tehran",
+      "regija": "Asia",
+      "grad": "Teheran",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Asia/Tokyo",
+      "regija": "Asia",
+      "grad": "Tokio",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Asia/Ulaanbaatar",
+      "regija": "Asia",
+      "grad": "Ulan Bator",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Asia/Urumqi",
+      "regija": "Asia",
+      "grad": "Urumči",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Asia/Yakutsk",
+      "regija": "Asia",
+      "grad": "Jakutsk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Asia/Yekaterinburg",
+      "regija": "Asia",
+      "grad": "Jekaterinburg",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Asia/Yerevan",
+      "regija": "Asia",
+      "grad": "Erevan",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    }
+  ],
+  "meta": {
+    "title": "Vremenske zone — Asia (45) - Besplatno preuzimanje",
+    "description": "Vremenske zone čiji IANA identifikator počinje s 'Asia/', s hrvatskim nazivima. Sadrži 45 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vremenske zone — Asia (45) | ListBase",
+    "seo_description": "Preuzmi Vremenske zone — Asia (45) — 45 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 45 zapisa / 6 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

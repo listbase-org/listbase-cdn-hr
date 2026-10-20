@@ -1,0 +1,536 @@
+{
+  "id": "hr-glazbene-skole",
+  "name": "Glazbene škole",
+  "title": "Glazbene škole",
+  "description": "Glazbene škole u Hrvatskoj (99 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=music_school), izrez EU-POIS/HR.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Glazbena škola \"Muzički atelje\"",
+      "latitude": 45.816456,
+      "longitude": 16.00753
+    },
+    {
+      "name": "Glazbena škola Alberta Štrige",
+      "latitude": 46.024679,
+      "longitude": 16.544567
+    },
+    {
+      "name": "Glazbena škola Blagoje Bersa",
+      "latitude": 44.113531,
+      "longitude": 15.237851
+    },
+    {
+      "name": "Glazbena škola Blagoje Berse",
+      "latitude": 45.774122,
+      "longitude": 15.962695
+    },
+    {
+      "name": "Glazbena škola Blagoje Berse",
+      "latitude": 45.812273,
+      "longitude": 15.969296
+    },
+    {
+      "name": "Glazbena škola Bonar",
+      "latitude": 45.798954,
+      "longitude": 15.894888
+    },
+    {
+      "name": "Glazbena škola Bonar, područni odjel Jakovlje",
+      "latitude": 45.947211,
+      "longitude": 15.849079
+    },
+    {
+      "name": "Glazbena škola Bonar, područni odjel Lanište",
+      "latitude": 45.768987,
+      "longitude": 15.941138
+    },
+    {
+      "name": "Glazbena škola Boris Papandopulo",
+      "latitude": 43.507795,
+      "longitude": 16.473938
+    },
+    {
+      "name": "Glazbena škola Borisa Papandopula",
+      "latitude": 45.483258,
+      "longitude": 16.77351
+    },
+    {
+      "name": "Glazbena škola Brkanović",
+      "latitude": 45.806777,
+      "longitude": 15.97782
+    },
+    {
+      "name": "Glazbena škola Brune Bjelinskog",
+      "latitude": 45.59512,
+      "longitude": 17.223356
+    },
+    {
+      "name": "Glazbena Škola Brune Bjelinskog Daruvar",
+      "latitude": 45.595452,
+      "longitude": 17.223164
+    },
+    {
+      "name": "Glazbena škola dr. fra Ivan Glibotić",
+      "latitude": 43.445949,
+      "longitude": 17.216544
+    },
+    {
+      "name": "Glazbena škola Dugo Selo",
+      "latitude": 45.806869,
+      "longitude": 16.227665
+    },
+    {
+      "name": "Glazbena škola Ferdo Livadić",
+      "latitude": 45.802806,
+      "longitude": 15.71196
+    },
+    {
+      "name": "Glazbena škola Frana Lhotke",
+      "latitude": 45.440596,
+      "longitude": 16.271648
+    },
+    {
+      "name": "Glazbena škola Frana Lhotke",
+      "latitude": 45.489388,
+      "longitude": 16.374059
+    },
+    {
+      "name": "Glazbena škola Franje Kuhača Osijek",
+      "latitude": 45.560373,
+      "longitude": 18.695017
+    },
+    {
+      "name": "Glazbena škola Ivana Lukačića",
+      "latitude": 43.733194,
+      "longitude": 15.892509
+    },
+    {
+      "name": "Glazbena škola Ivana Matetića - Ronjgova",
+      "latitude": 44.867462,
+      "longitude": 13.847635
+    },
+    {
+      "name": "Glazbena škola Ivana Matetića Ronjgova",
+      "latitude": 45.330067,
+      "longitude": 14.442654
+    },
+    {
+      "name": "Glazbena škola Jakov Gotovac",
+      "latitude": 43.699129,
+      "longitude": 16.638171
+    },
+    {
+      "name": "Glazbena škola Jan Vlašimski",
+      "latitude": 45.833622,
+      "longitude": 17.388515
+    },
+    {
+      "name": "Glazbena škola Jastrebarsko",
+      "latitude": 45.672644,
+      "longitude": 15.64785
+    },
+    {
+      "name": "Glazbena škola Josip Hatze, stara škola",
+      "latitude": 43.50991,
+      "longitude": 16.438157
+    },
+    {
+      "name": "Glazbena škola Josipa Hatzea, dislocirani odjel Kaštela",
+      "latitude": 43.548201,
+      "longitude": 16.377693
+    },
+    {
+      "name": "Glazbena škola Josipa Hatzea, dislocirani odjel Postira",
+      "latitude": 43.373382,
+      "longitude": 16.628875
+    },
+    {
+      "name": "Glazbena škola Josipa Hatzea, dislocirani odjel Stari Grad",
+      "latitude": 43.18282,
+      "longitude": 16.595403
+    },
+    {
+      "name": "Glazbena škola Josipa Hatzea, dislocirani odjel Supetar",
+      "latitude": 43.262137,
+      "longitude": 16.656891
+    },
+    {
+      "name": "Glazbena škola Josipa Hatzea, dislocirani odjel Supetar",
+      "latitude": 43.383269,
+      "longitude": 16.553612
+    },
+    {
+      "name": "Glazbena škola Josipa Hatzea, dislocirani odjel Trogir",
+      "latitude": 43.516868,
+      "longitude": 16.251605
+    },
+    {
+      "name": "Glazbena škola Josipa Hatzea, dislocirani odjel Vis",
+      "latitude": 43.057789,
+      "longitude": 16.193659
+    },
+    {
+      "name": "Glazbena škola Josipa Hatzea, nova škola",
+      "latitude": 43.514682,
+      "longitude": 16.439822
+    },
+    {
+      "name": "Glazbena škola Jospita Hatzea, dislocirani odjel Hvar",
+      "latitude": 43.172979,
+      "longitude": 16.442248
+    },
+    {
+      "name": "Glazbena škola Karlovac",
+      "latitude": 45.493143,
+      "longitude": 15.553367
+    },
+    {
+      "name": "Glazbena škola Ladislav Račić",
+      "latitude": 45.815878,
+      "longitude": 15.980051
+    },
+    {
+      "name": "Glazbena škola Makarska",
+      "latitude": 43.294102,
+      "longitude": 17.021572
+    },
+    {
+      "name": "Glazbena škola Muzički atelje",
+      "latitude": 45.787849,
+      "longitude": 15.927339
+    },
+    {
+      "name": "Glazbena škola Pavla Markovca",
+      "latitude": 45.809521,
+      "longitude": 15.98831
+    },
+    {
+      "name": "Glazbena škola Pavla Markovca, odjel Vukovarska",
+      "latitude": 45.800044,
+      "longitude": 15.966989
+    },
+    {
+      "name": "Glazbena škola Požega",
+      "latitude": 45.334845,
+      "longitude": 17.677128
+    },
+    {
+      "name": "Glazbena škola Pregrada",
+      "latitude": 46.159398,
+      "longitude": 15.752971
+    },
+    {
+      "name": "Glazbena škola Slavonski Brod",
+      "latitude": 45.154164,
+      "longitude": 18.008167
+    },
+    {
+      "name": "Glazbena škola Tome Cecchinija",
+      "latitude": 43.160784,
+      "longitude": 16.696789
+    },
+    {
+      "name": "Glazbena škola u Novskoj",
+      "latitude": 45.340951,
+      "longitude": 16.97779
+    },
+    {
+      "name": "Glazbena škola u Varaždinu",
+      "latitude": 46.305543,
+      "longitude": 16.333459
+    },
+    {
+      "name": "Glazbena škola Vatroslava Lisinskog Bjelovar",
+      "latitude": 45.904232,
+      "longitude": 16.851962
+    },
+    {
+      "name": "Glazbena škola Zlatka Balokovića",
+      "latitude": 45.808288,
+      "longitude": 16.018239
+    },
+    {
+      "name": "Glazbena škola Zlatka Grgoševića",
+      "latitude": 45.824239,
+      "longitude": 16.117973
+    },
+    {
+      "name": "Glazbena škola Zlatka Grgoševića",
+      "latitude": 45.829152,
+      "longitude": 16.117967
+    },
+    {
+      "name": "Glazbena škola Zlatka Grgoševića",
+      "latitude": 45.833375,
+      "longitude": 16.106855
+    },
+    {
+      "name": "Glazbena škola Zlatka Grgoševića, područni odjel Sveti Ivan Zelina",
+      "latitude": 45.959221,
+      "longitude": 16.244278
+    },
+    {
+      "name": "Glazbeni odjel",
+      "latitude": 45.86588,
+      "longitude": 15.768247
+    },
+    {
+      "name": "Glazbeno učilište Elly Bašić",
+      "latitude": 45.814034,
+      "longitude": 15.989559
+    },
+    {
+      "name": "Latido",
+      "latitude": 45.792982,
+      "longitude": 15.913761
+    },
+    {
+      "name": "Međunarodna ljetna glazbena škola",
+      "latitude": 43.34863,
+      "longitude": 16.73243
+    },
+    {
+      "name": "Mikrofon",
+      "latitude": 45.812618,
+      "longitude": 15.986597
+    },
+    {
+      "name": "Musički centar",
+      "latitude": 44.127731,
+      "longitude": 15.222126
+    },
+    {
+      "name": "Odjel u Đurđevcu",
+      "latitude": 46.041299,
+      "longitude": 17.065673
+    },
+    {
+      "name": "OKUD Istra",
+      "latitude": 44.868822,
+      "longitude": 13.853381
+    },
+    {
+      "name": "Osnovna glazbena škola",
+      "latitude": 42.939271,
+      "longitude": 16.793089
+    },
+    {
+      "name": "Osnovna glazbena škola",
+      "latitude": 43.017712,
+      "longitude": 17.558887
+    },
+    {
+      "name": "Osnovna glazbena škola",
+      "latitude": 43.939152,
+      "longitude": 15.445549
+    },
+    {
+      "name": "Osnovna glazbena škola",
+      "latitude": 44.548718,
+      "longitude": 15.377893
+    },
+    {
+      "name": "Osnovna glazbena škola",
+      "latitude": 45.082989,
+      "longitude": 13.636949
+    },
+    {
+      "name": "Osnovna glazbena škola",
+      "latitude": 45.127387,
+      "longitude": 14.79245
+    },
+    {
+      "name": "Osnovna glazbena škola",
+      "latitude": 45.317298,
+      "longitude": 13.568404
+    },
+    {
+      "name": "Osnovna glazbena škola",
+      "latitude": 45.354917,
+      "longitude": 18.994521
+    },
+    {
+      "name": "Osnovna glazbena škola",
+      "latitude": 45.655571,
+      "longitude": 18.41838
+    },
+    {
+      "name": "Osnovna glazbena škola Ivan Zajc, podružnica Studentski grad",
+      "latitude": 45.834697,
+      "longitude": 16.056381
+    },
+    {
+      "name": "Osnovna glazbena škola Ivan Zajc, podružnica Susedgrad",
+      "latitude": 45.815323,
+      "longitude": 15.875728
+    },
+    {
+      "name": "Osnovna glazbena škola Ivana Zajca, podružnica Trnje",
+      "latitude": 45.79791,
+      "longitude": 15.9731
+    },
+    {
+      "name": "Osnovna glazbena škola Josipa pl. Matačića",
+      "latitude": 43.442853,
+      "longitude": 16.691344
+    },
+    {
+      "name": "Osnovna glazbena škola Josipa pl. Matačića, odjel Kostanje",
+      "latitude": 43.440739,
+      "longitude": 16.834321
+    },
+    {
+      "name": "Osnovna glazbena škola Josipa pl. Matačića, odjel Podstrana",
+      "latitude": 43.476045,
+      "longitude": 16.565157
+    },
+    {
+      "name": "Osnovna glazbena škola Kontesa Dora",
+      "latitude": 45.491794,
+      "longitude": 18.09036
+    },
+    {
+      "name": "Osnovna glazbena škola Krsto Odak",
+      "latitude": 43.858483,
+      "longitude": 16.156717
+    },
+    {
+      "name": "Osnovna glazbena škola Pakrac",
+      "latitude": 45.436401,
+      "longitude": 17.194393
+    },
+    {
+      "name": "Osnovna glazbena škola pri osnovnoj školi August Harambašić",
+      "latitude": 45.762333,
+      "longitude": 18.162777
+    },
+    {
+      "name": "Osnovna glazbena škola pri Osnovnoj školi Augusta Cesarca",
+      "latitude": 46.168309,
+      "longitude": 15.863031
+    },
+    {
+      "name": "Osnovna glazbena škola pri Osnovnoj školi Ivan Goran Kovačić",
+      "latitude": 45.311215,
+      "longitude": 18.414368
+    },
+    {
+      "name": "Osnovna glazbena škola Rudolfa Matza",
+      "latitude": 45.79813,
+      "longitude": 15.942924
+    },
+    {
+      "name": "Osnovna glazbena škola Slavko Zlatić",
+      "latitude": 45.226717,
+      "longitude": 13.59546
+    },
+    {
+      "name": "Osnovna glazbena škola sv. Benedikta",
+      "latitude": 44.114893,
+      "longitude": 15.225251
+    },
+    {
+      "name": "Osnovna glazbena škola Vjenceslava Novaka",
+      "latitude": 44.989189,
+      "longitude": 14.904236
+    },
+    {
+      "name": "Osnovna škola Ivana Kozarca, glazbeni odjel",
+      "latitude": 45.071979,
+      "longitude": 18.691285
+    },
+    {
+      "name": "Osnovni glazbeni odjel",
+      "latitude": 45.573324,
+      "longitude": 16.94014
+    },
+    {
+      "name": "Privatna glazbena škola Iva Kuprešak",
+      "latitude": 45.834602,
+      "longitude": 16.039525
+    },
+    {
+      "name": "Suita",
+      "latitude": 46.386094,
+      "longitude": 16.447124
+    },
+    {
+      "name": "Umjetnička škola Beli Manastir",
+      "latitude": 45.770613,
+      "longitude": 18.599716
+    },
+    {
+      "name": "Umjetnička škola Fortunat Pintarić",
+      "latitude": 46.164537,
+      "longitude": 16.831995
+    },
+    {
+      "name": "Umjetnička škola Fortunat Pintarić (objekt Virje)",
+      "latitude": 46.067253,
+      "longitude": 16.994926
+    },
+    {
+      "name": "Umjetnička škola Franjo Lučić",
+      "latitude": 45.709389,
+      "longitude": 16.068739
+    },
+    {
+      "name": "Umjetnička škola Matka Brajše Rašana",
+      "latitude": 45.088086,
+      "longitude": 14.125063
+    },
+    {
+      "name": "Umjetnička škola Matka Brajše Rašana, područni odjel Buzet",
+      "latitude": 45.409009,
+      "longitude": 13.966281
+    },
+    {
+      "name": "Umjetnička škola Matka Brajše Rašana, područni odjel Lovran",
+      "latitude": 45.291067,
+      "longitude": 14.273596
+    },
+    {
+      "name": "Umjetnička škola Matka Brajše Rašana, područni odjel Potpićan",
+      "latitude": 45.192901,
+      "longitude": 14.099085
+    },
+    {
+      "name": "United Academy Zagreb",
+      "latitude": 45.804983,
+      "longitude": 15.996466
+    }
+  ],
+  "meta": {
+    "title": "Glazbene škole - Besplatno preuzimanje",
+    "description": "Glazbene škole u Hrvatskoj (99 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=music_school), izrez EU-POIS/HR. Sadrži 99 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Glazbene škole | ListBase",
+    "seo_description": "Preuzmi Glazbene škole — 99 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 99 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

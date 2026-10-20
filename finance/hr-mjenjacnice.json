@@ -1,0 +1,621 @@
+{
+  "id": "hr-mjenjacnice",
+  "name": "Mjenjačnice",
+  "title": "Mjenjačnice",
+  "description": "Mjenjačnice u Hrvatskoj (116 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=bureau_de_change), izrez EU-POIS/HR.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 116,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Active holidays",
+      "latitude": 43.444256,
+      "longitude": 16.691797
+    },
+    {
+      "name": "Active holidays",
+      "latitude": 43.446311,
+      "longitude": 16.688839
+    },
+    {
+      "name": "AK adriakey",
+      "latitude": 43.297187,
+      "longitude": 17.016244
+    },
+    {
+      "name": "ATM",
+      "latitude": 43.799497,
+      "longitude": 15.641429
+    },
+    {
+      "name": "Auro Domus",
+      "latitude": 45.325842,
+      "longitude": 14.445518
+    },
+    {
+      "name": "Auro Domus",
+      "latitude": 45.327392,
+      "longitude": 14.444164
+    },
+    {
+      "name": "Auro Domus Money Exchange",
+      "latitude": 43.239407,
+      "longitude": 17.076981
+    },
+    {
+      "name": "Auro Domus Money Exchange",
+      "latitude": 43.243226,
+      "longitude": 17.074
+    },
+    {
+      "name": "Auro Domus Money Exchange",
+      "latitude": 43.293562,
+      "longitude": 17.021491
+    },
+    {
+      "name": "Auro Domus Money Exchange",
+      "latitude": 43.295151,
+      "longitude": 17.015745
+    },
+    {
+      "name": "Auto Domus",
+      "latitude": 45.813727,
+      "longitude": 15.996455
+    },
+    {
+      "name": "Bitcoin Store",
+      "latitude": 43.517222,
+      "longitude": 16.444891
+    },
+    {
+      "name": "Bitcoin Store",
+      "latitude": 45.326401,
+      "longitude": 14.449341
+    },
+    {
+      "name": "Bitcoin Store",
+      "latitude": 45.558212,
+      "longitude": 18.675757
+    },
+    {
+      "name": "Bitcoin Store",
+      "latitude": 45.802903,
+      "longitude": 16.050131
+    },
+    {
+      "name": "Bonavia",
+      "latitude": 44.115583,
+      "longitude": 15.227877
+    },
+    {
+      "name": "Botanović",
+      "latitude": 43.444308,
+      "longitude": 16.691735
+    },
+    {
+      "name": "Botanović",
+      "latitude": 43.445921,
+      "longitude": 16.68819
+    },
+    {
+      "name": "Breza",
+      "latitude": 46.391297,
+      "longitude": 16.435737
+    },
+    {
+      "name": "Cambio",
+      "latitude": 44.55629,
+      "longitude": 14.882823
+    },
+    {
+      "name": "Change",
+      "latitude": 45.809741,
+      "longitude": 15.977437
+    },
+    {
+      "name": "Crypto exchange",
+      "latitude": 45.812636,
+      "longitude": 15.976578
+    },
+    {
+      "name": "currency exchange",
+      "latitude": 45.332624,
+      "longitude": 14.302341
+    },
+    {
+      "name": "currency exchange",
+      "latitude": 45.338633,
+      "longitude": 14.308211
+    },
+    {
+      "name": "Dabo",
+      "latitude": 46.378594,
+      "longitude": 16.450656
+    },
+    {
+      "name": "Dukat Kreditna unija",
+      "latitude": 45.334297,
+      "longitude": 14.507858
+    },
+    {
+      "name": "ET",
+      "latitude": 43.786023,
+      "longitude": 15.642051
+    },
+    {
+      "name": "Euro",
+      "latitude": 43.446149,
+      "longitude": 17.216165
+    },
+    {
+      "name": "Euro trezor",
+      "latitude": 45.81474,
+      "longitude": 15.935709
+    },
+    {
+      "name": "Euro-kuna",
+      "latitude": 45.777089,
+      "longitude": 15.995809
+    },
+    {
+      "name": "EXC",
+      "latitude": 45.495423,
+      "longitude": 16.365486
+    },
+    {
+      "name": "Exchange",
+      "latitude": 43.298559,
+      "longitude": 17.017451
+    },
+    {
+      "name": "Exchange",
+      "latitude": 44.114844,
+      "longitude": 15.228574
+    },
+    {
+      "name": "Exchange",
+      "latitude": 44.24191,
+      "longitude": 15.182795
+    },
+    {
+      "name": "Exchange office",
+      "latitude": 42.974863,
+      "longitude": 17.171479
+    },
+    {
+      "name": "Exclusive Change",
+      "latitude": 44.117412,
+      "longitude": 15.271249
+    },
+    {
+      "name": "Exclusive Change",
+      "latitude": 45.159845,
+      "longitude": 17.998382
+    },
+    {
+      "name": "Exclusive Change",
+      "latitude": 45.174374,
+      "longitude": 18.054419
+    },
+    {
+      "name": "Exclusive Change",
+      "latitude": 45.770223,
+      "longitude": 15.93935
+    },
+    {
+      "name": "Exclusive Change",
+      "latitude": 45.801428,
+      "longitude": 15.726543
+    },
+    {
+      "name": "Exclusive Change d.o.o.",
+      "latitude": 45.872225,
+      "longitude": 15.825648
+    },
+    {
+      "name": "Exclusive Exchange",
+      "latitude": 43.941762,
+      "longitude": 15.453663
+    },
+    {
+      "name": "FINA",
+      "latitude": 45.116025,
+      "longitude": 15.58644
+    },
+    {
+      "name": "Fina",
+      "latitude": 45.337524,
+      "longitude": 14.308554
+    },
+    {
+      "name": "Fortica",
+      "latitude": 43.443302,
+      "longitude": 16.692904
+    },
+    {
+      "name": "Fran-kuna",
+      "latitude": 45.798272,
+      "longitude": 15.974256
+    },
+    {
+      "name": "Gold shop",
+      "latitude": 45.814063,
+      "longitude": 15.983071
+    },
+    {
+      "name": "hotel Borovik",
+      "latitude": 43.79874,
+      "longitude": 15.641231
+    },
+    {
+      "name": "HP",
+      "latitude": 43.822116,
+      "longitude": 15.592397
+    },
+    {
+      "name": "Hrvatska Posta",
+      "latitude": 45.026073,
+      "longitude": 14.572683
+    },
+    {
+      "name": "In kapital",
+      "latitude": 45.802058,
+      "longitude": 16.002446
+    },
+    {
+      "name": "J. E. M. Trade",
+      "latitude": 44.840162,
+      "longitude": 13.849419
+    },
+    {
+      "name": "Jadranska banka",
+      "latitude": 43.82148,
+      "longitude": 15.586025
+    },
+    {
+      "name": "Jakir",
+      "latitude": 43.293235,
+      "longitude": 17.020066
+    },
+    {
+      "name": "Kantor",
+      "latitude": 43.123542,
+      "longitude": 17.303141
+    },
+    {
+      "name": "Lepirac",
+      "latitude": 45.975892,
+      "longitude": 17.170769
+    },
+    {
+      "name": "Limito",
+      "latitude": 45.796192,
+      "longitude": 15.969636
+    },
+    {
+      "name": "Lotus",
+      "latitude": 46.389276,
+      "longitude": 16.438398
+    },
+    {
+      "name": "m dar",
+      "latitude": 43.512238,
+      "longitude": 16.449881
+    },
+    {
+      "name": "Maresole",
+      "latitude": 43.966337,
+      "longitude": 15.409825
+    },
+    {
+      "name": "Marjan",
+      "latitude": 43.511166,
+      "longitude": 16.438556
+    },
+    {
+      "name": "Marušić",
+      "latitude": 45.153967,
+      "longitude": 18.015334
+    },
+    {
+      "name": "Mjenjacn Ca",
+      "latitude": 43.816391,
+      "longitude": 15.667928
+    },
+    {
+      "name": "Mjenjacnica",
+      "latitude": 43.507997,
+      "longitude": 16.442735
+    },
+    {
+      "name": "mjenjacnica",
+      "latitude": 44.295431,
+      "longitude": 15.114579
+    },
+    {
+      "name": "Mjenjačnica",
+      "latitude": 43.50807,
+      "longitude": 16.438745
+    },
+    {
+      "name": "Mjenjačnica",
+      "latitude": 43.513897,
+      "longitude": 16.439896
+    },
+    {
+      "name": "Mjenjačnica",
+      "latitude": 43.532672,
+      "longitude": 15.967386
+    },
+    {
+      "name": "Mjenjačnica",
+      "latitude": 43.702498,
+      "longitude": 16.637039
+    },
+    {
+      "name": "Mjenjačnica",
+      "latitude": 45.502115,
+      "longitude": 18.744547
+    },
+    {
+      "name": "Mjenjačnica",
+      "latitude": 45.544617,
+      "longitude": 18.709543
+    },
+    {
+      "name": "Mjenjačnica",
+      "latitude": 45.711986,
+      "longitude": 16.078234
+    },
+    {
+      "name": "Mjenjačnica",
+      "latitude": 45.718241,
+      "longitude": 16.054594
+    },
+    {
+      "name": "Mjenjačnica",
+      "latitude": 45.809209,
+      "longitude": 15.957349
+    },
+    {
+      "name": "Mjenjačnica",
+      "latitude": 46.087733,
+      "longitude": 15.912723
+    },
+    {
+      "name": "Mjenjačnica",
+      "latitude": 46.208476,
+      "longitude": 16.041149
+    },
+    {
+      "name": "Mjenjačnica / Exclusive Change",
+      "latitude": 45.792061,
+      "longitude": 16.153274
+    },
+    {
+      "name": "Mjenjačnica Bobex",
+      "latitude": 43.506,
+      "longitude": 16.459864
+    },
+    {
+      "name": "Mjenjačnica BOSO",
+      "latitude": 45.558355,
+      "longitude": 18.68232
+    },
+    {
+      "name": "Mjenjačnica Božo",
+      "latitude": 45.799436,
+      "longitude": 15.958578
+    },
+    {
+      "name": "Mjenjačnica Centar",
+      "latitude": 45.813404,
+      "longitude": 15.980791
+    },
+    {
+      "name": "Mjenjačnica Frapa",
+      "latitude": 43.531893,
+      "longitude": 15.961197
+    },
+    {
+      "name": "Mjenjačnica Gulden",
+      "latitude": 45.812488,
+      "longitude": 15.965856
+    },
+    {
+      "name": "Mjenjačnica Jakir",
+      "latitude": 43.293049,
+      "longitude": 17.020273
+    },
+    {
+      "name": "Mjenjačnica Kuna",
+      "latitude": 45.329017,
+      "longitude": 14.439858
+    },
+    {
+      "name": "Mjenjačnica Patrik",
+      "latitude": 45.225996,
+      "longitude": 13.59652
+    },
+    {
+      "name": "Mjenjačnica Solida",
+      "latitude": 46.223722,
+      "longitude": 16.124258
+    },
+    {
+      "name": "mjenjačnica Wechselstube",
+      "latitude": 45.806821,
+      "longitude": 15.924888
+    },
+    {
+      "name": "mjenjačnica Zagreb",
+      "latitude": 45.803768,
+      "longitude": 15.993462
+    },
+    {
+      "name": "Nakić Trade",
+      "latitude": 43.513079,
+      "longitude": 16.445675
+    },
+    {
+      "name": "Niksa",
+      "latitude": 45.219734,
+      "longitude": 16.546978
+    },
+    {
+      "name": "Novac",
+      "latitude": 46.389401,
+      "longitude": 16.435662
+    },
+    {
+      "name": "Otkup Zlata",
+      "latitude": 42.650567,
+      "longitude": 18.090969
+    },
+    {
+      "name": "Otkup Zlata",
+      "latitude": 44.114949,
+      "longitude": 15.22638
+    },
+    {
+      "name": "Otkup Zlata",
+      "latitude": 45.492707,
+      "longitude": 15.55042
+    },
+    {
+      "name": "Otkup Zlata",
+      "latitude": 45.813355,
+      "longitude": 15.969433
+    },
+    {
+      "name": "Prince d. o. o.",
+      "latitude": 43.507544,
+      "longitude": 16.466715
+    },
+    {
+      "name": "Rea & Ria",
+      "latitude": 43.818171,
+      "longitude": 15.923029
+    },
+    {
+      "name": "Reception (Apartments)",
+      "latitude": 45.140617,
+      "longitude": 13.602253
+    },
+    {
+      "name": "Restaurant Dubravka 1836 Souvenirs and Exchange",
+      "latitude": 42.641709,
+      "longitude": 18.106241
+    },
+    {
+      "name": "Sencci",
+      "latitude": 45.798399,
+      "longitude": 15.947733
+    },
+    {
+      "name": "Silver",
+      "latitude": 43.799521,
+      "longitude": 15.641982
+    },
+    {
+      "name": "Sića",
+      "latitude": 43.547729,
+      "longitude": 16.408181
+    },
+    {
+      "name": "TA \"AQUARIUS\"",
+      "latitude": 43.821816,
+      "longitude": 15.591923
+    },
+    {
+      "name": "TA \"KORNATTURIST\"",
+      "latitude": 43.821843,
+      "longitude": 15.591897
+    },
+    {
+      "name": "Tada",
+      "latitude": 45.154344,
+      "longitude": 18.023674
+    },
+    {
+      "name": "Tada",
+      "latitude": 45.162425,
+      "longitude": 18.018421
+    },
+    {
+      "name": "Titanic",
+      "latitude": 45.488838,
+      "longitude": 15.546428
+    },
+    {
+      "name": "Tobacco Exchange Cambio",
+      "latitude": 45.026658,
+      "longitude": 14.576398
+    },
+    {
+      "name": "Tobacco Shop",
+      "latitude": 45.026181,
+      "longitude": 14.574857
+    },
+    {
+      "name": "Toninai",
+      "latitude": 43.732489,
+      "longitude": 15.896167
+    },
+    {
+      "name": "Tourist Office",
+      "latitude": 45.039451,
+      "longitude": 14.619638
+    },
+    {
+      "name": "Ugodan Put",
+      "latitude": 45.330207,
+      "longitude": 14.301929
+    },
+    {
+      "name": "Ville Matilde Reception",
+      "latitude": 43.757811,
+      "longitude": 15.784269
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.295637,
+      "longitude": 13.616398
+    },
+    {
+      "name": "Zeka",
+      "latitude": 43.702436,
+      "longitude": 16.63996
+    }
+  ],
+  "meta": {
+    "title": "Mjenjačnice - Besplatno preuzimanje",
+    "description": "Mjenjačnice u Hrvatskoj (116 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=bureau_de_change), izrez EU-POIS/HR. Sadrži 116 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjenjačnice | ListBase",
+    "seo_description": "Preuzmi Mjenjačnice — 116 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 116 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "hr-mjerne-jedinice-acceleration",
+  "name": "Mjerne jedinice — kategorija 'acceleration' (2)",
+  "title": "Mjerne jedinice — kategorija 'acceleration' (2)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'acceleration' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategorija": "acceleration",
+      "naziv": "G",
+      "kratica": "G",
+      "naziv_uski": "G",
+      "obrazac": "{0} G"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategorija": "acceleration",
+      "naziv": "metri u sekundi na kvadrat",
+      "kratica": "m/s²",
+      "naziv_uski": "m/s²",
+      "obrazac": "{0} metara u sekundi na kvadrat"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'acceleration' (2) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'acceleration' s hrvatskim nazivima. Sadrži 2 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'acceleration' (2) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'acceleration' (2) — 2 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 2 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

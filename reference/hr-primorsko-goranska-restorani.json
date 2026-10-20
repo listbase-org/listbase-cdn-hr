@@ -1,0 +1,3861 @@
+{
+  "id": "hr-primorsko-goranska-restorani",
+  "name": "Restorani — Primorsko-goranska županija",
+  "title": "Restorani — Primorsko-goranska županija",
+  "description": "764 restorani u županiji Primorsko-goranska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 764,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "7 Seas Restaurant & Bar",
+      "latitude": 45.167453,
+      "longitude": 14.54537
+    },
+    {
+      "name": "9 Bofora",
+      "latitude": 45.028785,
+      "longitude": 14.628503
+    },
+    {
+      "name": "A & D grill",
+      "latitude": 45.328158,
+      "longitude": 14.301386
+    },
+    {
+      "name": "Academia Bistro & Coffee House",
+      "latitude": 45.327797,
+      "longitude": 14.439414
+    },
+    {
+      "name": "Aco",
+      "latitude": 44.733367,
+      "longitude": 14.807117
+    },
+    {
+      "name": "Admiral",
+      "latitude": 45.127508,
+      "longitude": 14.786421
+    },
+    {
+      "name": "Adria",
+      "latitude": 44.693022,
+      "longitude": 14.392586
+    },
+    {
+      "name": "Adriatic Restaurant",
+      "latitude": 45.325659,
+      "longitude": 14.299447
+    },
+    {
+      "name": "Aerosteak",
+      "latitude": 45.378684,
+      "longitude": 14.514769
+    },
+    {
+      "name": "Agroturizam Bevčovi",
+      "latitude": 45.495325,
+      "longitude": 14.236655
+    },
+    {
+      "name": "Agroturizam Dvori Sv. Jurja",
+      "latitude": 45.03045,
+      "longitude": 14.52643
+    },
+    {
+      "name": "Al buon gusto",
+      "latitude": 44.959869,
+      "longitude": 14.409316
+    },
+    {
+      "name": "Alta Marea",
+      "latitude": 44.616208,
+      "longitude": 14.500878
+    },
+    {
+      "name": "Amadeus",
+      "latitude": 44.966053,
+      "longitude": 14.74917
+    },
+    {
+      "name": "Amfora",
+      "latitude": 44.960529,
+      "longitude": 14.407858
+    },
+    {
+      "name": "Amico",
+      "latitude": 44.461268,
+      "longitude": 14.548446
+    },
+    {
+      "name": "Amor",
+      "latitude": 45.172666,
+      "longitude": 14.693238
+    },
+    {
+      "name": "Andy's Pizza",
+      "latitude": 45.336588,
+      "longitude": 14.307776
+    },
+    {
+      "name": "Anka",
+      "latitude": 44.759106,
+      "longitude": 14.722271
+    },
+    {
+      "name": "Ankora",
+      "latitude": 44.833931,
+      "longitude": 14.727236
+    },
+    {
+      "name": "Ankora",
+      "latitude": 45.146776,
+      "longitude": 14.667158
+    },
+    {
+      "name": "Antack Restaurant",
+      "latitude": 45.325116,
+      "longitude": 14.441961
+    },
+    {
+      "name": "Antika",
+      "latitude": 45.126215,
+      "longitude": 14.792549
+    },
+    {
+      "name": "Antonio",
+      "latitude": 45.022352,
+      "longitude": 14.628656
+    },
+    {
+      "name": "Apollo",
+      "latitude": 44.757109,
+      "longitude": 14.760064
+    },
+    {
+      "name": "Arcadia",
+      "latitude": 45.127938,
+      "longitude": 14.789952
+    },
+    {
+      "name": "Arta",
+      "latitude": 44.874595,
+      "longitude": 14.748061
+    },
+    {
+      "name": "Artatore Janja",
+      "latitude": 44.575828,
+      "longitude": 14.407734
+    },
+    {
+      "name": "As Janos",
+      "latitude": 45.017678,
+      "longitude": 14.628679
+    },
+    {
+      "name": "Astoria",
+      "latitude": 44.755451,
+      "longitude": 14.761867
+    },
+    {
+      "name": "aura eatery & bar",
+      "latitude": 44.825549,
+      "longitude": 14.744993
+    },
+    {
+      "name": "Azur",
+      "latitude": 45.126338,
+      "longitude": 14.792115
+    },
+    {
+      "name": "a’Vali",
+      "latitude": 45.327025,
+      "longitude": 14.440811
+    },
+    {
+      "name": "Bajta",
+      "latitude": 45.306003,
+      "longitude": 14.584799
+    },
+    {
+      "name": "Bakarska Konoba",
+      "latitude": 45.307219,
+      "longitude": 14.535849
+    },
+    {
+      "name": "Balkan Express",
+      "latitude": 45.175906,
+      "longitude": 14.686366
+    },
+    {
+      "name": "Baracuda Gostionica",
+      "latitude": 44.532785,
+      "longitude": 14.4663
+    },
+    {
+      "name": "Barbakuan",
+      "latitude": 44.657248,
+      "longitude": 14.39808
+    },
+    {
+      "name": "BARBQ DOLAC",
+      "latitude": 44.660824,
+      "longitude": 14.397564
+    },
+    {
+      "name": "Batak",
+      "latitude": 45.326849,
+      "longitude": 14.439625
+    },
+    {
+      "name": "Batana",
+      "latitude": 44.753612,
+      "longitude": 14.770666
+    },
+    {
+      "name": "Baška",
+      "latitude": 44.969752,
+      "longitude": 14.753094
+    },
+    {
+      "name": "Beach & food bar Porto",
+      "latitude": 44.824641,
+      "longitude": 14.746804
+    },
+    {
+      "name": "Beach Bar & Grill Jert",
+      "latitude": 45.039971,
+      "longitude": 14.473939
+    },
+    {
+      "name": "Beach Bar Casa del Padrone",
+      "latitude": 45.038678,
+      "longitude": 14.618343
+    },
+    {
+      "name": "Beach Bar Mel",
+      "latitude": 44.784086,
+      "longitude": 14.70655
+    },
+    {
+      "name": "Beach Bar Pudarica",
+      "latitude": 44.707289,
+      "longitude": 14.831507
+    },
+    {
+      "name": "Bella Vista",
+      "latitude": 45.164623,
+      "longitude": 14.545011
+    },
+    {
+      "name": "Belona",
+      "latitude": 44.960202,
+      "longitude": 14.410746
+    },
+    {
+      "name": "Bevanda",
+      "latitude": 45.334893,
+      "longitude": 14.310972
+    },
+    {
+      "name": "Bife kod Marta",
+      "latitude": 45.617446,
+      "longitude": 14.593565
+    },
+    {
+      "name": "BILI AS",
+      "latitude": 44.810793,
+      "longitude": 14.716404
+    },
+    {
+      "name": "Bimbo",
+      "latitude": 44.749165,
+      "longitude": 14.782867
+    },
+    {
+      "name": "Biser Kandarola",
+      "latitude": 44.760036,
+      "longitude": 14.734718
+    },
+    {
+      "name": "Bisto I Pizzeria Kantun",
+      "latitude": 45.026787,
+      "longitude": 14.576824
+    },
+    {
+      "name": "Bistor Uno",
+      "latitude": 45.325323,
+      "longitude": 14.521539
+    },
+    {
+      "name": "Bistro Aries",
+      "latitude": 45.189144,
+      "longitude": 14.672617
+    },
+    {
+      "name": "Bistro Bonaca",
+      "latitude": 44.824823,
+      "longitude": 14.743109
+    },
+    {
+      "name": "Bistro Bukarica",
+      "latitude": 45.121183,
+      "longitude": 14.532354
+    },
+    {
+      "name": "Bistro Dunat",
+      "latitude": 45.039399,
+      "longitude": 14.619772
+    },
+    {
+      "name": "Bistro Fajfer",
+      "latitude": 44.97867,
+      "longitude": 14.733913
+    },
+    {
+      "name": "Bistro Forza",
+      "latitude": 44.969933,
+      "longitude": 14.753929
+    },
+    {
+      "name": "Bistro Grill Batista",
+      "latitude": 45.346864,
+      "longitude": 14.378778
+    },
+    {
+      "name": "Bistro Kod Kumova",
+      "latitude": 45.125506,
+      "longitude": 14.531622
+    },
+    {
+      "name": "Bistro Kos Frege",
+      "latitude": 44.970615,
+      "longitude": 14.758938
+    },
+    {
+      "name": "Bistro Kvarner",
+      "latitude": 44.968106,
+      "longitude": 14.750475
+    },
+    {
+      "name": "Bistro Kvarner",
+      "latitude": 45.169826,
+      "longitude": 14.698607
+    },
+    {
+      "name": "Bistro Lipe",
+      "latitude": 45.386754,
+      "longitude": 14.885877
+    },
+    {
+      "name": "Bistro Loran",
+      "latitude": 45.184574,
+      "longitude": 14.677874
+    },
+    {
+      "name": "Bistro Lukas",
+      "latitude": 45.128431,
+      "longitude": 14.779911
+    },
+    {
+      "name": "Bistro Lučice",
+      "latitude": 45.378987,
+      "longitude": 14.795096
+    },
+    {
+      "name": "Bistro Macao",
+      "latitude": 45.328645,
+      "longitude": 14.5102
+    },
+    {
+      "name": "Bistro Marina",
+      "latitude": 44.758347,
+      "longitude": 14.762968
+    },
+    {
+      "name": "Bistro Marina",
+      "latitude": 45.126038,
+      "longitude": 14.788111
+    },
+    {
+      "name": "Bistro Mario",
+      "latitude": 45.362771,
+      "longitude": 14.393499
+    },
+    {
+      "name": "Bistro Melin",
+      "latitude": 44.958376,
+      "longitude": 14.403333
+    },
+    {
+      "name": "Bistro Na Kantridi",
+      "latitude": 45.33842,
+      "longitude": 14.381075
+    },
+    {
+      "name": "Bistro Neptun",
+      "latitude": 45.152462,
+      "longitude": 14.669865
+    },
+    {
+      "name": "Bistro NONO",
+      "latitude": 45.328457,
+      "longitude": 14.43789
+    },
+    {
+      "name": "Bistro Paris Kalorija",
+      "latitude": 45.325139,
+      "longitude": 14.459424
+    },
+    {
+      "name": "Bistro Park",
+      "latitude": 44.757986,
+      "longitude": 14.759654
+    },
+    {
+      "name": "Bistro pastrva",
+      "latitude": 45.411068,
+      "longitude": 15.022916
+    },
+    {
+      "name": "Bistro Pizzeria Rubin",
+      "latitude": 45.228937,
+      "longitude": 14.254485
+    },
+    {
+      "name": "Bistro Pizzeria San Martino",
+      "latitude": 44.821998,
+      "longitude": 14.340713
+    },
+    {
+      "name": "Bistro Pizzeria ĐIR",
+      "latitude": 45.128429,
+      "longitude": 14.790696
+    },
+    {
+      "name": "Bistro Pojata",
+      "latitude": 45.118819,
+      "longitude": 14.519186
+    },
+    {
+      "name": "Bistro Polaca",
+      "latitude": 45.158347,
+      "longitude": 14.718203
+    },
+    {
+      "name": "Bistro Revelin",
+      "latitude": 44.755803,
+      "longitude": 14.761677
+    },
+    {
+      "name": "Bistro Riva",
+      "latitude": 45.201203,
+      "longitude": 14.654645
+    },
+    {
+      "name": "Bistro Rokan",
+      "latitude": 45.154571,
+      "longitude": 14.717428
+    },
+    {
+      "name": "bistro Sirius",
+      "latitude": 44.520232,
+      "longitude": 14.506291
+    },
+    {
+      "name": "Bistro Sveti Marin",
+      "latitude": 44.82638,
+      "longitude": 14.743869
+    },
+    {
+      "name": "Bistro Tron",
+      "latitude": 45.395275,
+      "longitude": 14.800178
+    },
+    {
+      "name": "Bistro Užanca",
+      "latitude": 45.326241,
+      "longitude": 14.446271
+    },
+    {
+      "name": "bistro Vala",
+      "latitude": 45.126209,
+      "longitude": 14.526953
+    },
+    {
+      "name": "Bistro Venecija",
+      "latitude": 45.318107,
+      "longitude": 14.290659
+    },
+    {
+      "name": "Bistro Veseljak",
+      "latitude": 45.339408,
+      "longitude": 14.404723
+    },
+    {
+      "name": "Bistró Mango",
+      "latitude": 44.969309,
+      "longitude": 14.751287
+    },
+    {
+      "name": "Bitoraj",
+      "latitude": 45.304446,
+      "longitude": 14.713163
+    },
+    {
+      "name": "Bocca Vera",
+      "latitude": 44.534672,
+      "longitude": 14.467142
+    },
+    {
+      "name": "Bodega",
+      "latitude": 45.325079,
+      "longitude": 14.444161
+    },
+    {
+      "name": "Boka",
+      "latitude": 45.011759,
+      "longitude": 14.623144
+    },
+    {
+      "name": "Bonaca",
+      "latitude": 45.024219,
+      "longitude": 14.629325
+    },
+    {
+      "name": "Bonaca",
+      "latitude": 45.130294,
+      "longitude": 14.76902
+    },
+    {
+      "name": "Boneta",
+      "latitude": 44.968721,
+      "longitude": 14.771501
+    },
+    {
+      "name": "Bonifacic",
+      "latitude": 44.694102,
+      "longitude": 14.391822
+    },
+    {
+      "name": "Boonker",
+      "latitude": 45.326988,
+      "longitude": 14.437515
+    },
+    {
+      "name": "Bora Bar",
+      "latitude": 44.520291,
+      "longitude": 14.506356
+    },
+    {
+      "name": "Borići",
+      "latitude": 44.8253,
+      "longitude": 14.744416
+    },
+    {
+      "name": "Boutique",
+      "latitude": 45.333145,
+      "longitude": 14.303734
+    },
+    {
+      "name": "Boćarija Grill",
+      "latitude": 45.336492,
+      "longitude": 14.306591
+    },
+    {
+      "name": "Bracol",
+      "latitude": 44.937883,
+      "longitude": 14.734085
+    },
+    {
+      "name": "Bribirska obala",
+      "latitude": 45.128297,
+      "longitude": 14.779832
+    },
+    {
+      "name": "Bruschetta",
+      "latitude": 44.545165,
+      "longitude": 14.455895
+    },
+    {
+      "name": "Brvnara",
+      "latitude": 45.57103,
+      "longitude": 14.618639
+    },
+    {
+      "name": "Buffet \"Cocco\"",
+      "latitude": 45.328191,
+      "longitude": 14.438449
+    },
+    {
+      "name": "Buffet \"Mel\"",
+      "latitude": 44.823532,
+      "longitude": 14.739543
+    },
+    {
+      "name": "Buffet A&M",
+      "latitude": 45.156024,
+      "longitude": 14.620032
+    },
+    {
+      "name": "Buffet Adria",
+      "latitude": 45.127552,
+      "longitude": 14.790266
+    },
+    {
+      "name": "Buffet Amel",
+      "latitude": 45.34787,
+      "longitude": 14.42792
+    },
+    {
+      "name": "Buffet Autogol",
+      "latitude": 45.027523,
+      "longitude": 14.564861
+    },
+    {
+      "name": "Buffet Brajdi",
+      "latitude": 45.107948,
+      "longitude": 14.356966
+    },
+    {
+      "name": "Buffet Fiorin",
+      "latitude": 45.415788,
+      "longitude": 14.302364
+    },
+    {
+      "name": "Buffet Fiume",
+      "latitude": 45.324132,
+      "longitude": 14.442399
+    },
+    {
+      "name": "Buffet Kažot",
+      "latitude": 45.323879,
+      "longitude": 14.467281
+    },
+    {
+      "name": "Buffet Kozala",
+      "latitude": 45.333222,
+      "longitude": 14.441731
+    },
+    {
+      "name": "Buffet Kuki",
+      "latitude": 44.806504,
+      "longitude": 14.707637
+    },
+    {
+      "name": "Buffet Livačina",
+      "latitude": 44.824691,
+      "longitude": 14.7498
+    },
+    {
+      "name": "Buffet Lučica",
+      "latitude": 45.169955,
+      "longitude": 14.697752
+    },
+    {
+      "name": "Buffet Sportsko",
+      "latitude": 45.238889,
+      "longitude": 14.251458
+    },
+    {
+      "name": "Buffet Tennis",
+      "latitude": 45.337031,
+      "longitude": 14.305508
+    },
+    {
+      "name": "Buffet Škver",
+      "latitude": 44.761331,
+      "longitude": 14.752961
+    },
+    {
+      "name": "Bukaleta",
+      "latitude": 44.531732,
+      "longitude": 14.467592
+    },
+    {
+      "name": "Bukaleta",
+      "latitude": 44.922694,
+      "longitude": 14.437849
+    },
+    {
+      "name": "Bulin",
+      "latitude": 45.016118,
+      "longitude": 14.629599
+    },
+    {
+      "name": "Burin",
+      "latitude": 44.972959,
+      "longitude": 14.747212
+    },
+    {
+      "name": "Burin",
+      "latitude": 45.18271,
+      "longitude": 14.680378
+    },
+    {
+      "name": "Busola",
+      "latitude": 44.960428,
+      "longitude": 14.409079
+    },
+    {
+      "name": "Busola",
+      "latitude": 45.314246,
+      "longitude": 14.288699
+    },
+    {
+      "name": "Butter & Salt",
+      "latitude": 45.335882,
+      "longitude": 14.30711
+    },
+    {
+      "name": "Buža",
+      "latitude": 44.757161,
+      "longitude": 14.760011
+    },
+    {
+      "name": "Cafe Bar Mario",
+      "latitude": 45.157613,
+      "longitude": 14.719748
+    },
+    {
+      "name": "Caffe Bar Tina",
+      "latitude": 45.347654,
+      "longitude": 14.489862
+    },
+    {
+      "name": "Caffe Cristallo",
+      "latitude": 45.017036,
+      "longitude": 14.566167
+    },
+    {
+      "name": "Caffe Ema",
+      "latitude": 45.293232,
+      "longitude": 14.275956
+    },
+    {
+      "name": "Calypso",
+      "latitude": 45.312981,
+      "longitude": 14.286542
+    },
+    {
+      "name": "Canoba IVE",
+      "latitude": 45.118681,
+      "longitude": 14.527554
+    },
+    {
+      "name": "Capitano",
+      "latitude": 44.958317,
+      "longitude": 14.409334
+    },
+    {
+      "name": "Capo Fronte",
+      "latitude": 44.75545,
+      "longitude": 14.761615
+    },
+    {
+      "name": "Captain Nemo",
+      "latitude": 45.027266,
+      "longitude": 14.577443
+    },
+    {
+      "name": "Carpe Diem",
+      "latitude": 45.481951,
+      "longitude": 14.282075
+    },
+    {
+      "name": "Carraca Pub",
+      "latitude": 45.331465,
+      "longitude": 14.458623
+    },
+    {
+      "name": "Casa tua",
+      "latitude": 45.335701,
+      "longitude": 14.310491
+    },
+    {
+      "name": "Casablanca",
+      "latitude": 44.758194,
+      "longitude": 14.723329
+    },
+    {
+      "name": "Chill & Grill",
+      "latitude": 44.962524,
+      "longitude": 14.746539
+    },
+    {
+      "name": "Citta Veccia Krk",
+      "latitude": 45.0266,
+      "longitude": 14.576562
+    },
+    {
+      "name": "Cochin",
+      "latitude": 45.325019,
+      "longitude": 14.44261
+    },
+    {
+      "name": "Colosseum",
+      "latitude": 45.329889,
+      "longitude": 14.302233
+    },
+    {
+      "name": "Conca D' Oro",
+      "latitude": 45.327777,
+      "longitude": 14.440189
+    },
+    {
+      "name": "Continent",
+      "latitude": 45.123883,
+      "longitude": 14.525734
+    },
+    {
+      "name": "Corso",
+      "latitude": 45.176206,
+      "longitude": 14.686175
+    },
+    {
+      "name": "Creshendo",
+      "latitude": 44.826134,
+      "longitude": 14.744258
+    },
+    {
+      "name": "D&D Apartements & Restaurant",
+      "latitude": 44.784706,
+      "longitude": 14.705116
+    },
+    {
+      "name": "Da Nino",
+      "latitude": 45.231626,
+      "longitude": 14.612624
+    },
+    {
+      "name": "Dalmacija",
+      "latitude": 44.956907,
+      "longitude": 14.403041
+    },
+    {
+      "name": "Dalmatinka",
+      "latitude": 44.460057,
+      "longitude": 14.551775
+    },
+    {
+      "name": "Danica",
+      "latitude": 45.116568,
+      "longitude": 14.819219
+    },
+    {
+      "name": "Del Mar",
+      "latitude": 45.339654,
+      "longitude": 14.310754
+    },
+    {
+      "name": "Delfino",
+      "latitude": 45.294087,
+      "longitude": 14.274886
+    },
+    {
+      "name": "Delmare",
+      "latitude": 45.120951,
+      "longitude": 14.52299
+    },
+    {
+      "name": "Deveron Gastro Pub",
+      "latitude": 44.532414,
+      "longitude": 14.468856
+    },
+    {
+      "name": "Dišpet",
+      "latitude": 45.181355,
+      "longitude": 14.681734
+    },
+    {
+      "name": "Dock 69",
+      "latitude": 44.756768,
+      "longitude": 14.761429
+    },
+    {
+      "name": "Domino",
+      "latitude": 45.193302,
+      "longitude": 14.666879
+    },
+    {
+      "name": "Domino Restaurant",
+      "latitude": 45.326299,
+      "longitude": 14.29969
+    },
+    {
+      "name": "Dopolavoro",
+      "latitude": 45.306627,
+      "longitude": 14.206502
+    },
+    {
+      "name": "Dora",
+      "latitude": 45.235053,
+      "longitude": 14.254439
+    },
+    {
+      "name": "Draga di Lovrana",
+      "latitude": 45.275747,
+      "longitude": 14.251481
+    },
+    {
+      "name": "Dragica",
+      "latitude": 44.826833,
+      "longitude": 14.744646
+    },
+    {
+      "name": "Duga",
+      "latitude": 45.023793,
+      "longitude": 14.628582
+    },
+    {
+      "name": "Duga",
+      "latitude": 45.187718,
+      "longitude": 14.681744
+    },
+    {
+      "name": "Dupin",
+      "latitude": 44.791927,
+      "longitude": 14.705394
+    },
+    {
+      "name": "Dvije Palme",
+      "latitude": 44.589362,
+      "longitude": 14.409105
+    },
+    {
+      "name": "Eki",
+      "latitude": 44.578003,
+      "longitude": 14.406035
+    },
+    {
+      "name": "El Paso",
+      "latitude": 44.568703,
+      "longitude": 14.391436
+    },
+    {
+      "name": "El Rio",
+      "latitude": 45.327857,
+      "longitude": 14.439196
+    },
+    {
+      "name": "Elita",
+      "latitude": 45.33145,
+      "longitude": 14.302251
+    },
+    {
+      "name": "Esempio",
+      "latitude": 44.461725,
+      "longitude": 14.548014
+    },
+    {
+      "name": "Europa",
+      "latitude": 45.172963,
+      "longitude": 14.694449
+    },
+    {
+      "name": "Eva",
+      "latitude": 45.366211,
+      "longitude": 14.713684
+    },
+    {
+      "name": "Fango",
+      "latitude": 45.156461,
+      "longitude": 14.598489
+    },
+    {
+      "name": "Faro",
+      "latitude": 45.192895,
+      "longitude": 14.665902
+    },
+    {
+      "name": "Fast food ME GUSTA",
+      "latitude": 45.334323,
+      "longitude": 14.507582
+    },
+    {
+      "name": "Fast food Pizzeria \"U šumi\"",
+      "latitude": 44.650382,
+      "longitude": 14.39788
+    },
+    {
+      "name": "Feral",
+      "latitude": 44.818107,
+      "longitude": 14.354148
+    },
+    {
+      "name": "Feral",
+      "latitude": 44.835877,
+      "longitude": 14.725997
+    },
+    {
+      "name": "Feral",
+      "latitude": 44.959702,
+      "longitude": 14.408541
+    },
+    {
+      "name": "Feral",
+      "latitude": 45.325081,
+      "longitude": 14.445059
+    },
+    {
+      "name": "Fico",
+      "latitude": 45.235656,
+      "longitude": 14.2543
+    },
+    {
+      "name": "Filodrammatica",
+      "latitude": 45.327418,
+      "longitude": 14.440671
+    },
+    {
+      "name": "Fish House",
+      "latitude": 45.208075,
+      "longitude": 14.552123
+    },
+    {
+      "name": "Food & wine bar GANEUM",
+      "latitude": 45.292042,
+      "longitude": 14.276936
+    },
+    {
+      "name": "Food bar Loki",
+      "latitude": 45.348839,
+      "longitude": 14.386398
+    },
+    {
+      "name": "Fortuna",
+      "latitude": 44.52189,
+      "longitude": 14.500444
+    },
+    {
+      "name": "Francesca",
+      "latitude": 44.970068,
+      "longitude": 14.756004
+    },
+    {
+      "name": "Franica",
+      "latitude": 44.96987,
+      "longitude": 14.762039
+    },
+    {
+      "name": "Frankopan",
+      "latitude": 45.025928,
+      "longitude": 14.575395
+    },
+    {
+      "name": "Frkanj",
+      "latitude": 44.756185,
+      "longitude": 14.744996
+    },
+    {
+      "name": "Fukuro Sushi & Sashimi Bar",
+      "latitude": 45.326569,
+      "longitude": 14.445174
+    },
+    {
+      "name": "Furman",
+      "latitude": 45.317297,
+      "longitude": 14.729012
+    },
+    {
+      "name": "Galeb",
+      "latitude": 44.80316,
+      "longitude": 14.727366
+    },
+    {
+      "name": "Galeb",
+      "latitude": 44.966447,
+      "longitude": 14.749504
+    },
+    {
+      "name": "Galeb",
+      "latitude": 45.025445,
+      "longitude": 14.574081
+    },
+    {
+      "name": "Galija",
+      "latitude": 45.027958,
+      "longitude": 14.575349
+    },
+    {
+      "name": "Galija",
+      "latitude": 45.181894,
+      "longitude": 14.680907
+    },
+    {
+      "name": "Galiot",
+      "latitude": 45.178949,
+      "longitude": 14.683146
+    },
+    {
+      "name": "Gardens",
+      "latitude": 44.757012,
+      "longitude": 14.760693
+    },
+    {
+      "name": "Gardens",
+      "latitude": 45.326006,
+      "longitude": 14.441708
+    },
+    {
+      "name": "Garfild",
+      "latitude": 45.116401,
+      "longitude": 14.825875
+    },
+    {
+      "name": "Gastionica \"Panorama\"",
+      "latitude": 44.767926,
+      "longitude": 14.76066
+    },
+    {
+      "name": "Gaucho",
+      "latitude": 44.824732,
+      "longitude": 14.742709
+    },
+    {
+      "name": "Gec",
+      "latitude": 45.028109,
+      "longitude": 14.577916
+    },
+    {
+      "name": "Gelateria Aida",
+      "latitude": 44.969526,
+      "longitude": 14.752661
+    },
+    {
+      "name": "Gelateria Bruch",
+      "latitude": 44.96839,
+      "longitude": 14.751027
+    },
+    {
+      "name": "Gelateria Mateo",
+      "latitude": 44.969335,
+      "longitude": 14.752439
+    },
+    {
+      "name": "Gimi",
+      "latitude": 45.235309,
+      "longitude": 14.254364
+    },
+    {
+      "name": "Girica",
+      "latitude": 45.340325,
+      "longitude": 14.417184
+    },
+    {
+      "name": "Golden Rose",
+      "latitude": 45.024773,
+      "longitude": 14.582761
+    },
+    {
+      "name": "Golubinjak",
+      "latitude": 45.356853,
+      "longitude": 14.764879
+    },
+    {
+      "name": "Gonar",
+      "latitude": 44.802318,
+      "longitude": 14.700612
+    },
+    {
+      "name": "Goranska kuća",
+      "latitude": 45.393103,
+      "longitude": 14.796953
+    },
+    {
+      "name": "Gospoja",
+      "latitude": 45.076408,
+      "longitude": 14.674279
+    },
+    {
+      "name": "Gostiona Igralište",
+      "latitude": 45.347447,
+      "longitude": 14.500036
+    },
+    {
+      "name": "Gostiona Sidro",
+      "latitude": 45.121323,
+      "longitude": 14.494182
+    },
+    {
+      "name": "Gostiona Zrinski",
+      "latitude": 45.174874,
+      "longitude": 14.688311
+    },
+    {
+      "name": "Gostionica BAG",
+      "latitude": 44.969706,
+      "longitude": 14.755412
+    },
+    {
+      "name": "Gostionica IN CHOON FRITULIN",
+      "latitude": 44.970421,
+      "longitude": 14.759123
+    },
+    {
+      "name": "Gostionica Joker",
+      "latitude": 44.640744,
+      "longitude": 14.393075
+    },
+    {
+      "name": "Gostionica Kaneta",
+      "latitude": 45.343357,
+      "longitude": 14.31013
+    },
+    {
+      "name": "Gostionica Portić",
+      "latitude": 45.147202,
+      "longitude": 14.663223
+    },
+    {
+      "name": "Gostionica Promenada",
+      "latitude": 44.659135,
+      "longitude": 14.396394
+    },
+    {
+      "name": "Gostionica Štranga",
+      "latitude": 45.334963,
+      "longitude": 14.426599
+    },
+    {
+      "name": "Gostonica Kauzlarićevi dvori",
+      "latitude": 45.395504,
+      "longitude": 14.806006
+    },
+    {
+      "name": "Gožinka",
+      "latitude": 44.761635,
+      "longitude": 14.715141
+    },
+    {
+      "name": "Gradec",
+      "latitude": 45.175611,
+      "longitude": 14.686546
+    },
+    {
+      "name": "Grill Adriatic by Sićko",
+      "latitude": 44.536049,
+      "longitude": 14.465986
+    },
+    {
+      "name": "Grill house",
+      "latitude": 45.323037,
+      "longitude": 14.298491
+    },
+    {
+      "name": "Grill House BAVA",
+      "latitude": 44.967907,
+      "longitude": 14.750269
+    },
+    {
+      "name": "Grill zona",
+      "latitude": 45.337339,
+      "longitude": 14.387401
+    },
+    {
+      "name": "Grill&BBQ House Porta Bragadina",
+      "latitude": 44.959215,
+      "longitude": 14.411081
+    },
+    {
+      "name": "Gušti",
+      "latitude": 45.170416,
+      "longitude": 14.700404
+    },
+    {
+      "name": "Hacienda",
+      "latitude": 44.766387,
+      "longitude": 14.754313
+    },
+    {
+      "name": "Harbour",
+      "latitude": 45.023392,
+      "longitude": 14.571235
+    },
+    {
+      "name": "Harpun",
+      "latitude": 44.756835,
+      "longitude": 14.760837
+    },
+    {
+      "name": "Index",
+      "latitude": 45.330005,
+      "longitude": 14.433825
+    },
+    {
+      "name": "Istarska hiža",
+      "latitude": 45.349233,
+      "longitude": 14.299518
+    },
+    {
+      "name": "Istranka",
+      "latitude": 45.33815,
+      "longitude": 14.308272
+    },
+    {
+      "name": "Iva",
+      "latitude": 44.739666,
+      "longitude": 14.798494
+    },
+    {
+      "name": "Jezevac",
+      "latitude": 45.021379,
+      "longitude": 14.573246
+    },
+    {
+      "name": "Johnson",
+      "latitude": 45.238448,
+      "longitude": 14.24884
+    },
+    {
+      "name": "K Ribaru",
+      "latitude": 45.011253,
+      "longitude": 14.630182
+    },
+    {
+      "name": "Kanajt",
+      "latitude": 45.033465,
+      "longitude": 14.630936
+    },
+    {
+      "name": "Kantunić",
+      "latitude": 45.161174,
+      "longitude": 14.71502
+    },
+    {
+      "name": "Karlo",
+      "latitude": 45.174225,
+      "longitude": 14.692375
+    },
+    {
+      "name": "Katarina",
+      "latitude": 45.026074,
+      "longitude": 14.57455
+    },
+    {
+      "name": "Katarina",
+      "latitude": 45.047079,
+      "longitude": 14.876813
+    },
+    {
+      "name": "Kavana Andrea",
+      "latitude": 44.751777,
+      "longitude": 14.774226
+    },
+    {
+      "name": "King‘s Caffe",
+      "latitude": 45.324199,
+      "longitude": 14.444096
+    },
+    {
+      "name": "Kinkela",
+      "latitude": 45.348604,
+      "longitude": 14.299706
+    },
+    {
+      "name": "Kloštar",
+      "latitude": 45.216845,
+      "longitude": 14.625857
+    },
+    {
+      "name": "Knezgrad",
+      "latitude": 45.29261,
+      "longitude": 14.275403
+    },
+    {
+      "name": "Koboba Aco",
+      "latitude": 44.733196,
+      "longitude": 14.80703
+    },
+    {
+      "name": "Kod Bujola",
+      "latitude": 44.791987,
+      "longitude": 14.706501
+    },
+    {
+      "name": "Kod Gusara Ive",
+      "latitude": 44.760345,
+      "longitude": 14.73748
+    },
+    {
+      "name": "Kokolo",
+      "latitude": 45.341682,
+      "longitude": 14.396063
+    },
+    {
+      "name": "Konoba",
+      "latitude": 45.076526,
+      "longitude": 14.677882
+    },
+    {
+      "name": "Konoba  Šantek",
+      "latitude": 45.120027,
+      "longitude": 14.557755
+    },
+    {
+      "name": "Konoba \"LUKA\"",
+      "latitude": 45.252465,
+      "longitude": 14.575673
+    },
+    {
+      "name": "Konoba \"Pod Prevolt\"",
+      "latitude": 45.081701,
+      "longitude": 14.457555
+    },
+    {
+      "name": "Konoba 180°",
+      "latitude": 45.028279,
+      "longitude": 14.572752
+    },
+    {
+      "name": "Konoba Andreja",
+      "latitude": 45.026071,
+      "longitude": 14.574043
+    },
+    {
+      "name": "Konoba Balvanida",
+      "latitude": 44.494452,
+      "longitude": 14.503511
+    },
+    {
+      "name": "Konoba Barbara",
+      "latitude": 44.507426,
+      "longitude": 14.306988
+    },
+    {
+      "name": "Konoba Beli",
+      "latitude": 45.111534,
+      "longitude": 14.354453
+    },
+    {
+      "name": "Konoba Belveder",
+      "latitude": 45.332934,
+      "longitude": 14.438978
+    },
+    {
+      "name": "Konoba Bonaparte",
+      "latitude": 44.658962,
+      "longitude": 14.396611
+    },
+    {
+      "name": "Konoba Borik",
+      "latitude": 44.761621,
+      "longitude": 14.755369
+    },
+    {
+      "name": "Konoba Borik",
+      "latitude": 45.314441,
+      "longitude": 14.470295
+    },
+    {
+      "name": "Konoba Boskarin",
+      "latitude": 45.073472,
+      "longitude": 14.465128
+    },
+    {
+      "name": "Konoba Bracera",
+      "latitude": 45.123143,
+      "longitude": 14.528686
+    },
+    {
+      "name": "Konoba Cantina",
+      "latitude": 45.144956,
+      "longitude": 14.774621
+    },
+    {
+      "name": "Konoba Corrado",
+      "latitude": 44.529757,
+      "longitude": 14.474695
+    },
+    {
+      "name": "Konoba Corsaro",
+      "latitude": 45.025415,
+      "longitude": 14.574566
+    },
+    {
+      "name": "Konoba Disped",
+      "latitude": 44.529735,
+      "longitude": 14.475019
+    },
+    {
+      "name": "Konoba Doma",
+      "latitude": 44.96986,
+      "longitude": 14.756408
+    },
+    {
+      "name": "Konoba Feral",
+      "latitude": 45.126058,
+      "longitude": 14.526966
+    },
+    {
+      "name": "Konoba FERAL",
+      "latitude": 45.227753,
+      "longitude": 14.612291
+    },
+    {
+      "name": "Konoba Feral",
+      "latitude": 45.23925,
+      "longitude": 14.252018
+    },
+    {
+      "name": "Konoba Fran Krsto Frankopan",
+      "latitude": 45.27575,
+      "longitude": 14.564829
+    },
+    {
+      "name": "Konoba Furešti",
+      "latitude": 45.125547,
+      "longitude": 14.547536
+    },
+    {
+      "name": "Konoba Gradini",
+      "latitude": 44.880549,
+      "longitude": 14.42458
+    },
+    {
+      "name": "konoba Gromača",
+      "latitude": 44.775436,
+      "longitude": 14.424533
+    },
+    {
+      "name": "Konoba Hibernicia",
+      "latitude": 44.888123,
+      "longitude": 14.331546
+    },
+    {
+      "name": "Konoba Intrada",
+      "latitude": 45.120173,
+      "longitude": 14.533888
+    },
+    {
+      "name": "Konoba Ive",
+      "latitude": 45.354543,
+      "longitude": 14.369874
+    },
+    {
+      "name": "Konoba Kaldanac",
+      "latitude": 44.755068,
+      "longitude": 14.762078
+    },
+    {
+      "name": "Konoba Kali",
+      "latitude": 45.266613,
+      "longitude": 14.261518
+    },
+    {
+      "name": "Konoba Kod Joze",
+      "latitude": 44.635965,
+      "longitude": 14.248015
+    },
+    {
+      "name": "Konoba kod kineza",
+      "latitude": 44.756084,
+      "longitude": 14.760681
+    },
+    {
+      "name": "Konoba Lastura",
+      "latitude": 45.156134,
+      "longitude": 14.597601
+    },
+    {
+      "name": "Konoba Lovranska Draga",
+      "latitude": 45.276707,
+      "longitude": 14.242959
+    },
+    {
+      "name": "Konoba Lucia",
+      "latitude": 44.962928,
+      "longitude": 14.74563
+    },
+    {
+      "name": "Konoba Lucija",
+      "latitude": 45.11542,
+      "longitude": 14.82055
+    },
+    {
+      "name": "Konoba Mama",
+      "latitude": 44.733157,
+      "longitude": 14.804831
+    },
+    {
+      "name": "Konoba Mare",
+      "latitude": 44.694241,
+      "longitude": 14.393563
+    },
+    {
+      "name": "Konoba Marea",
+      "latitude": 45.046837,
+      "longitude": 14.612479
+    },
+    {
+      "name": "Konoba Maretina",
+      "latitude": 45.377053,
+      "longitude": 14.386091
+    },
+    {
+      "name": "Konoba Marija",
+      "latitude": 45.050983,
+      "longitude": 14.522558
+    },
+    {
+      "name": "Konoba Maritim",
+      "latitude": 45.022042,
+      "longitude": 14.569698
+    },
+    {
+      "name": "Konoba Maslina",
+      "latitude": 45.030414,
+      "longitude": 14.630172
+    },
+    {
+      "name": "Konoba Mate",
+      "latitude": 45.12694,
+      "longitude": 14.790508
+    },
+    {
+      "name": "Konoba Matilda",
+      "latitude": 45.333474,
+      "longitude": 14.441368
+    },
+    {
+      "name": "Konoba Nautica",
+      "latitude": 45.128081,
+      "longitude": 14.789822
+    },
+    {
+      "name": "Konoba Navigare",
+      "latitude": 45.100928,
+      "longitude": 14.843073
+    },
+    {
+      "name": "Konoba Nebuloza",
+      "latitude": 45.327992,
+      "longitude": 14.44878
+    },
+    {
+      "name": "Konoba Nina",
+      "latitude": 45.175489,
+      "longitude": 14.686619
+    },
+    {
+      "name": "Konoba Nono",
+      "latitude": 45.028356,
+      "longitude": 14.578969
+    },
+    {
+      "name": "Konoba Nora",
+      "latitude": 45.164873,
+      "longitude": 14.542784
+    },
+    {
+      "name": "Konoba Pandora",
+      "latitude": 45.174416,
+      "longitude": 14.692521
+    },
+    {
+      "name": "Konoba Pescaria",
+      "latitude": 45.237889,
+      "longitude": 14.255359
+    },
+    {
+      "name": "Konoba Pirun",
+      "latitude": 44.969099,
+      "longitude": 14.763476
+    },
+    {
+      "name": "Konoba Pizzeria \"Mama Mia\"",
+      "latitude": 45.113958,
+      "longitude": 14.519073
+    },
+    {
+      "name": "Konoba Pizzeria Camplin",
+      "latitude": 45.026471,
+      "longitude": 14.576872
+    },
+    {
+      "name": "Konoba Pizzeria IVINCIC",
+      "latitude": 45.049117,
+      "longitude": 14.492372
+    },
+    {
+      "name": "Konoba Pizzeria Vijon",
+      "latitude": 45.164646,
+      "longitude": 14.541251
+    },
+    {
+      "name": "Konoba Placa",
+      "latitude": 45.076839,
+      "longitude": 14.674414
+    },
+    {
+      "name": "Konoba pod orajom",
+      "latitude": 45.104382,
+      "longitude": 14.844839
+    },
+    {
+      "name": "Konoba Porat",
+      "latitude": 45.122071,
+      "longitude": 14.494496
+    },
+    {
+      "name": "Konoba Portić",
+      "latitude": 45.279277,
+      "longitude": 14.581916
+    },
+    {
+      "name": "Konoba Przun",
+      "latitude": 44.840904,
+      "longitude": 14.804353
+    },
+    {
+      "name": "Konoba Pud Brest",
+      "latitude": 45.080348,
+      "longitude": 14.457333
+    },
+    {
+      "name": "Konoba Rab",
+      "latitude": 44.756375,
+      "longitude": 14.760451
+    },
+    {
+      "name": "Konoba Ribarnica Volosko",
+      "latitude": 45.350036,
+      "longitude": 14.320224
+    },
+    {
+      "name": "Konoba Roza",
+      "latitude": 44.955351,
+      "longitude": 14.414864
+    },
+    {
+      "name": "Konoba Sidro",
+      "latitude": 45.024436,
+      "longitude": 14.628851
+    },
+    {
+      "name": "Konoba Tarsa",
+      "latitude": 45.331749,
+      "longitude": 14.464907
+    },
+    {
+      "name": "Konoba Taverna",
+      "latitude": 45.047846,
+      "longitude": 14.52943
+    },
+    {
+      "name": "Konoba Trabakul",
+      "latitude": 45.174324,
+      "longitude": 14.688369
+    },
+    {
+      "name": "Konoba Tramerka",
+      "latitude": 45.347841,
+      "longitude": 14.319783
+    },
+    {
+      "name": "Konoba Tri Maruna",
+      "latitude": 45.085191,
+      "longitude": 14.490589
+    },
+    {
+      "name": "Konoba Tri Maruni",
+      "latitude": 45.115846,
+      "longitude": 14.518408
+    },
+    {
+      "name": "Konoba Ugnjisce",
+      "latitude": 44.80379,
+      "longitude": 14.369259
+    },
+    {
+      "name": "Konoba Ulika",
+      "latitude": 45.15907,
+      "longitude": 14.717041
+    },
+    {
+      "name": "Konoba Ulikva",
+      "latitude": 45.211647,
+      "longitude": 14.553977
+    },
+    {
+      "name": "Konoba Valle Losca",
+      "latitude": 45.350269,
+      "longitude": 14.320082
+    },
+    {
+      "name": "Konoba Vera",
+      "latitude": 44.511907,
+      "longitude": 14.307984
+    },
+    {
+      "name": "Konoba Zijavica",
+      "latitude": 45.236584,
+      "longitude": 14.254315
+    },
+    {
+      "name": "Konoba Šime",
+      "latitude": 45.025398,
+      "longitude": 14.574393
+    },
+    {
+      "name": "Konoba Šontula",
+      "latitude": 45.294618,
+      "longitude": 14.508498
+    },
+    {
+      "name": "Konoba\"MOL\"",
+      "latitude": 44.520414,
+      "longitude": 14.50645
+    },
+    {
+      "name": "Kopac",
+      "latitude": 44.960645,
+      "longitude": 14.408724
+    },
+    {
+      "name": "Koralj",
+      "latitude": 44.533237,
+      "longitude": 14.465153
+    },
+    {
+      "name": "Koralj",
+      "latitude": 44.765495,
+      "longitude": 14.752861
+    },
+    {
+      "name": "Koralj",
+      "latitude": 44.818677,
+      "longitude": 14.352486
+    },
+    {
+      "name": "Kostrenka",
+      "latitude": 45.301549,
+      "longitude": 14.48997
+    },
+    {
+      "name": "Kozica",
+      "latitude": 45.056241,
+      "longitude": 14.872414
+    },
+    {
+      "name": "Krušija",
+      "latitude": 44.960006,
+      "longitude": 14.408129
+    },
+    {
+      "name": "Kukuriku",
+      "latitude": 45.373399,
+      "longitude": 14.348093
+    },
+    {
+      "name": "Kumpanija",
+      "latitude": 44.958792,
+      "longitude": 14.405403
+    },
+    {
+      "name": "Kvarner",
+      "latitude": 45.23855,
+      "longitude": 14.256907
+    },
+    {
+      "name": "La Bussola",
+      "latitude": 45.325396,
+      "longitude": 14.444657
+    },
+    {
+      "name": "La Playa",
+      "latitude": 45.355203,
+      "longitude": 14.332902
+    },
+    {
+      "name": "La Scarpetta",
+      "latitude": 45.329057,
+      "longitude": 14.46045
+    },
+    {
+      "name": "Labirint",
+      "latitude": 44.755869,
+      "longitude": 14.760908
+    },
+    {
+      "name": "Ladici",
+      "latitude": 45.023716,
+      "longitude": 14.628605
+    },
+    {
+      "name": "Laguna",
+      "latitude": 44.825717,
+      "longitude": 14.74251
+    },
+    {
+      "name": "Lanterna",
+      "latitude": 44.834561,
+      "longitude": 14.726339
+    },
+    {
+      "name": "Lanterna",
+      "latitude": 45.123922,
+      "longitude": 14.525615
+    },
+    {
+      "name": "Lanterna pečenjara",
+      "latitude": 44.526027,
+      "longitude": 14.4486
+    },
+    {
+      "name": "Lantino",
+      "latitude": 44.969058,
+      "longitude": 14.751856
+    },
+    {
+      "name": "Lara",
+      "latitude": 45.020836,
+      "longitude": 14.629409
+    },
+    {
+      "name": "Laurus",
+      "latitude": 45.356074,
+      "longitude": 14.319236
+    },
+    {
+      "name": "Lavanda",
+      "latitude": 44.828411,
+      "longitude": 14.747563
+    },
+    {
+      "name": "Lavanda",
+      "latitude": 45.027045,
+      "longitude": 14.581761
+    },
+    {
+      "name": "Lavanda",
+      "latitude": 45.125664,
+      "longitude": 14.791427
+    },
+    {
+      "name": "Lavanda",
+      "latitude": 45.331024,
+      "longitude": 14.302133
+    },
+    {
+      "name": "Leut",
+      "latitude": 44.776956,
+      "longitude": 14.424257
+    },
+    {
+      "name": "Lido Grill & Pizzeria",
+      "latitude": 45.334695,
+      "longitude": 14.310443
+    },
+    {
+      "name": "Lounge bar Vincenzo",
+      "latitude": 44.736075,
+      "longitude": 14.798168
+    },
+    {
+      "name": "Lovačka konoba",
+      "latitude": 45.126333,
+      "longitude": 14.541354
+    },
+    {
+      "name": "Lovački Dom Zvonko",
+      "latitude": 45.107563,
+      "longitude": 14.905413
+    },
+    {
+      "name": "Lovorka",
+      "latitude": 45.346555,
+      "longitude": 14.405546
+    },
+    {
+      "name": "Lovranska Vrata",
+      "latitude": 45.291771,
+      "longitude": 14.276487
+    },
+    {
+      "name": "Lošinjsko Jidro",
+      "latitude": 44.530133,
+      "longitude": 14.47348
+    },
+    {
+      "name": "Loža",
+      "latitude": 44.75567,
+      "longitude": 14.761318
+    },
+    {
+      "name": "Loža",
+      "latitude": 45.3727,
+      "longitude": 14.348647
+    },
+    {
+      "name": "Lumber",
+      "latitude": 45.34028,
+      "longitude": 14.309329
+    },
+    {
+      "name": "Luna",
+      "latitude": 45.174479,
+      "longitude": 14.688045
+    },
+    {
+      "name": "Luna Rosso",
+      "latitude": 44.959721,
+      "longitude": 14.407289
+    },
+    {
+      "name": "Lungo M",
+      "latitude": 45.30644,
+      "longitude": 14.281437
+    },
+    {
+      "name": "Lungo mare",
+      "latitude": 45.33047,
+      "longitude": 14.302034
+    },
+    {
+      "name": "Lučica",
+      "latitude": 45.310658,
+      "longitude": 14.285989
+    },
+    {
+      "name": "Lučice",
+      "latitude": 44.611145,
+      "longitude": 14.517319
+    },
+    {
+      "name": "Macao",
+      "latitude": 45.1466,
+      "longitude": 14.663863
+    },
+    {
+      "name": "MADAGASCAR pizza & spritz bar",
+      "latitude": 45.294523,
+      "longitude": 14.500912
+    },
+    {
+      "name": "Mala krčma \"Skalinada\"",
+      "latitude": 45.348233,
+      "longitude": 14.318498
+    },
+    {
+      "name": "Mala Luka",
+      "latitude": 44.993872,
+      "longitude": 14.800038
+    },
+    {
+      "name": "Mala riba",
+      "latitude": 45.362694,
+      "longitude": 14.318049
+    },
+    {
+      "name": "Malena konoba by EOLA",
+      "latitude": 44.953568,
+      "longitude": 14.690046
+    },
+    {
+      "name": "Mali Gaj",
+      "latitude": 44.758513,
+      "longitude": 14.759202
+    },
+    {
+      "name": "Mali Nono",
+      "latitude": 45.026699,
+      "longitude": 14.576467
+    },
+    {
+      "name": "Mali Rai",
+      "latitude": 44.835197,
+      "longitude": 14.349642
+    },
+    {
+      "name": "Mali raj",
+      "latitude": 45.318948,
+      "longitude": 14.291901
+    },
+    {
+      "name": "Mali Raj",
+      "latitude": 45.423589,
+      "longitude": 15.221485
+    },
+    {
+      "name": "Malo Misto",
+      "latitude": 45.026351,
+      "longitude": 14.574293
+    },
+    {
+      "name": "MaMaLu",
+      "latitude": 44.905615,
+      "longitude": 14.361263
+    },
+    {
+      "name": "Mamma Mia",
+      "latitude": 44.970273,
+      "longitude": 14.758532
+    },
+    {
+      "name": "Mamma Mia",
+      "latitude": 45.238119,
+      "longitude": 14.254596
+    },
+    {
+      "name": "Mance",
+      "latitude": 45.463084,
+      "longitude": 14.853192
+    },
+    {
+      "name": "Mare",
+      "latitude": 44.969693,
+      "longitude": 14.75326
+    },
+    {
+      "name": "Marenda",
+      "latitude": 44.800918,
+      "longitude": 14.699859
+    },
+    {
+      "name": "Marendarijus",
+      "latitude": 45.333071,
+      "longitude": 14.427217
+    },
+    {
+      "name": "Mareta",
+      "latitude": 44.803133,
+      "longitude": 14.37032
+    },
+    {
+      "name": "Mariana",
+      "latitude": 44.952691,
+      "longitude": 14.689563
+    },
+    {
+      "name": "Marina",
+      "latitude": 44.521798,
+      "longitude": 14.500383
+    },
+    {
+      "name": "Marina Restaurant",
+      "latitude": 45.02999,
+      "longitude": 14.628344
+    },
+    {
+      "name": "Mariolina",
+      "latitude": 45.02379,
+      "longitude": 14.586307
+    },
+    {
+      "name": "Maris",
+      "latitude": 45.234671,
+      "longitude": 14.551745
+    },
+    {
+      "name": "Marjan",
+      "latitude": 45.104479,
+      "longitude": 14.525423
+    },
+    {
+      "name": "Marko",
+      "latitude": 44.730261,
+      "longitude": 14.808391
+    },
+    {
+      "name": "Marmota Taqueria",
+      "latitude": 45.343815,
+      "longitude": 14.500828
+    },
+    {
+      "name": "Marun",
+      "latitude": 45.291496,
+      "longitude": 14.275984
+    },
+    {
+      "name": "Marun",
+      "latitude": 45.341251,
+      "longitude": 14.415926
+    },
+    {
+      "name": "Maslina",
+      "latitude": 44.777988,
+      "longitude": 14.753825
+    },
+    {
+      "name": "Maslina",
+      "latitude": 45.173699,
+      "longitude": 14.691516
+    },
+    {
+      "name": "Matsunoki",
+      "latitude": 44.531466,
+      "longitude": 14.455313
+    },
+    {
+      "name": "Meat Me",
+      "latitude": 44.960377,
+      "longitude": 14.409091
+    },
+    {
+      "name": "Meduza",
+      "latitude": 44.735839,
+      "longitude": 14.798356
+    },
+    {
+      "name": "Medvejica",
+      "latitude": 45.271088,
+      "longitude": 14.269067
+    },
+    {
+      "name": "Meliores",
+      "latitude": 45.146322,
+      "longitude": 14.66604
+    },
+    {
+      "name": "Mika",
+      "latitude": 45.185668,
+      "longitude": 14.68376
+    },
+    {
+      "name": "Mili",
+      "latitude": 45.348022,
+      "longitude": 14.320401
+    },
+    {
+      "name": "Miramare",
+      "latitude": 45.164481,
+      "longitude": 14.540967
+    },
+    {
+      "name": "Mirna Dolina",
+      "latitude": 45.211014,
+      "longitude": 14.68388
+    },
+    {
+      "name": "Mitan Marina",
+      "latitude": 45.12138,
+      "longitude": 14.806189
+    },
+    {
+      "name": "Moho",
+      "latitude": 45.347512,
+      "longitude": 14.320111
+    },
+    {
+      "name": "Molo",
+      "latitude": 45.336242,
+      "longitude": 14.310759
+    },
+    {
+      "name": "Molo Longo",
+      "latitude": 45.323501,
+      "longitude": 14.438871
+    },
+    {
+      "name": "More",
+      "latitude": 44.801158,
+      "longitude": 14.700191
+    },
+    {
+      "name": "More&More",
+      "latitude": 44.755205,
+      "longitude": 14.767188
+    },
+    {
+      "name": "Mornar",
+      "latitude": 44.658574,
+      "longitude": 14.396623
+    },
+    {
+      "name": "Mornar",
+      "latitude": 45.324749,
+      "longitude": 14.441831
+    },
+    {
+      "name": "Morska vila",
+      "latitude": 45.078224,
+      "longitude": 14.675492
+    },
+    {
+      "name": "Morčić",
+      "latitude": 45.353192,
+      "longitude": 14.391136
+    },
+    {
+      "name": "Mošuna",
+      "latitude": 45.021842,
+      "longitude": 14.683347
+    },
+    {
+      "name": "Mul",
+      "latitude": 44.953068,
+      "longitude": 14.689726
+    },
+    {
+      "name": "Municipium",
+      "latitude": 45.327587,
+      "longitude": 14.441421
+    },
+    {
+      "name": "My Wok",
+      "latitude": 45.326409,
+      "longitude": 14.442121
+    },
+    {
+      "name": "Na kantunu",
+      "latitude": 45.323314,
+      "longitude": 14.444167
+    },
+    {
+      "name": "Na Moru",
+      "latitude": 44.904353,
+      "longitude": 14.361738
+    },
+    {
+      "name": "Na Piketu",
+      "latitude": 45.283232,
+      "longitude": 14.600594
+    },
+    {
+      "name": "Na Sušaku",
+      "latitude": 45.319556,
+      "longitude": 14.471897
+    },
+    {
+      "name": "Nada",
+      "latitude": 45.07804,
+      "longitude": 14.675094
+    },
+    {
+      "name": "Nami",
+      "latitude": 45.338051,
+      "longitude": 14.308714
+    },
+    {
+      "name": "Nautica Restaurant&Bar",
+      "latitude": 45.340735,
+      "longitude": 14.372174
+    },
+    {
+      "name": "Nava",
+      "latitude": 45.126011,
+      "longitude": 14.792762
+    },
+    {
+      "name": "Navigator",
+      "latitude": 44.826233,
+      "longitude": 14.743614
+    },
+    {
+      "name": "Neptun",
+      "latitude": 45.027556,
+      "longitude": 14.578391
+    },
+    {
+      "name": "Nici & Lifi",
+      "latitude": 45.219132,
+      "longitude": 14.624223
+    },
+    {
+      "name": "No.13",
+      "latitude": 44.512749,
+      "longitude": 14.309471
+    },
+    {
+      "name": "Nonina Konoba",
+      "latitude": 44.788213,
+      "longitude": 14.379506
+    },
+    {
+      "name": "Nonina kuhinja",
+      "latitude": 44.694154,
+      "longitude": 14.392056
+    },
+    {
+      "name": "Nono Frane",
+      "latitude": 44.959295,
+      "longitude": 14.408587
+    },
+    {
+      "name": "Nono Frane",
+      "latitude": 45.377099,
+      "longitude": 14.386601
+    },
+    {
+      "name": "Nono Frane II",
+      "latitude": 44.958855,
+      "longitude": 14.390659
+    },
+    {
+      "name": "Nono Frane II",
+      "latitude": 44.959961,
+      "longitude": 14.391358
+    },
+    {
+      "name": "Nostalgija",
+      "latitude": 45.328522,
+      "longitude": 14.437993
+    },
+    {
+      "name": "Noštromo",
+      "latitude": 45.123696,
+      "longitude": 14.526314
+    },
+    {
+      "name": "Nu!",
+      "latitude": 45.324047,
+      "longitude": 14.443955
+    },
+    {
+      "name": "Obala",
+      "latitude": 45.326533,
+      "longitude": 14.299707
+    },
+    {
+      "name": "Odmorište Ravna Gora",
+      "latitude": 45.381074,
+      "longitude": 14.912094
+    },
+    {
+      "name": "Oh La la",
+      "latitude": 45.119419,
+      "longitude": 14.519887
+    },
+    {
+      "name": "Oleander",
+      "latitude": 45.156422,
+      "longitude": 14.620069
+    },
+    {
+      "name": "Oliva",
+      "latitude": 44.461528,
+      "longitude": 14.547792
+    },
+    {
+      "name": "Oliva",
+      "latitude": 44.967144,
+      "longitude": 14.749429
+    },
+    {
+      "name": "Oliva",
+      "latitude": 45.02332,
+      "longitude": 14.590424
+    },
+    {
+      "name": "Oliva",
+      "latitude": 45.164598,
+      "longitude": 14.541117
+    },
+    {
+      "name": "Oliva Bistro Grill",
+      "latitude": 45.024578,
+      "longitude": 14.585802
+    },
+    {
+      "name": "Oliveto",
+      "latitude": 45.156455,
+      "longitude": 14.71947
+    },
+    {
+      "name": "OPG MAGRITZ Mirjenko Mrakovčić",
+      "latitude": 45.052304,
+      "longitude": 14.587241
+    },
+    {
+      "name": "Orjentovo ognjišće",
+      "latitude": 45.323723,
+      "longitude": 14.467623
+    },
+    {
+      "name": "Osor",
+      "latitude": 44.693904,
+      "longitude": 14.393809
+    },
+    {
+      "name": "Ostaria Veranda",
+      "latitude": 45.348854,
+      "longitude": 14.32021
+    },
+    {
+      "name": "Osteria da Ugo",
+      "latitude": 45.33782,
+      "longitude": 14.308849
+    },
+    {
+      "name": "Oštarija \"Osojnak\"",
+      "latitude": 45.352267,
+      "longitude": 14.313495
+    },
+    {
+      "name": "Oštarija Fortica",
+      "latitude": 45.372459,
+      "longitude": 14.348631
+    },
+    {
+      "name": "Padova II",
+      "latitude": 44.754115,
+      "longitude": 14.769807
+    },
+    {
+      "name": "palachinka club",
+      "latitude": 45.166609,
+      "longitude": 14.545932
+    },
+    {
+      "name": "Palada",
+      "latitude": 44.959799,
+      "longitude": 14.407242
+    },
+    {
+      "name": "Palit",
+      "latitude": 44.764171,
+      "longitude": 14.755774
+    },
+    {
+      "name": "palma",
+      "latitude": 45.124532,
+      "longitude": 14.528578
+    },
+    {
+      "name": "Panorama",
+      "latitude": 44.744897,
+      "longitude": 14.404896
+    },
+    {
+      "name": "Pansion Lovački",
+      "latitude": 45.395356,
+      "longitude": 14.795149
+    },
+    {
+      "name": "Pansion Tramontana",
+      "latitude": 45.114507,
+      "longitude": 14.350562
+    },
+    {
+      "name": "PapaBepi",
+      "latitude": 44.535214,
+      "longitude": 14.472209
+    },
+    {
+      "name": "Paulaner",
+      "latitude": 44.968277,
+      "longitude": 14.750703
+    },
+    {
+      "name": "Pačalinka",
+      "latitude": 45.32823,
+      "longitude": 14.438797
+    },
+    {
+      "name": "Peking",
+      "latitude": 45.334146,
+      "longitude": 14.440016
+    },
+    {
+      "name": "Perla",
+      "latitude": 44.750027,
+      "longitude": 14.775707
+    },
+    {
+      "name": "Perun",
+      "latitude": 45.226022,
+      "longitude": 14.248437
+    },
+    {
+      "name": "Piano",
+      "latitude": 44.831575,
+      "longitude": 14.729344
+    },
+    {
+      "name": "Piko",
+      "latitude": 45.175862,
+      "longitude": 14.6864
+    },
+    {
+      "name": "Pink Panter",
+      "latitude": 45.417721,
+      "longitude": 15.041312
+    },
+    {
+      "name": "Pio",
+      "latitude": 44.760834,
+      "longitude": 14.763257
+    },
+    {
+      "name": "Pirati",
+      "latitude": 45.326858,
+      "longitude": 14.44676
+    },
+    {
+      "name": "Pirun ex Walter",
+      "latitude": 45.352325,
+      "longitude": 14.49278
+    },
+    {
+      "name": "Pivac",
+      "latitude": 44.803697,
+      "longitude": 14.707289
+    },
+    {
+      "name": "Pivnica Krug Kukuljanovo",
+      "latitude": 45.334781,
+      "longitude": 14.511521
+    },
+    {
+      "name": "Pivnica Rubin II",
+      "latitude": 45.229442,
+      "longitude": 14.253827
+    },
+    {
+      "name": "Pivnica Šime",
+      "latitude": 44.756388,
+      "longitude": 14.761164
+    },
+    {
+      "name": "Pivski Vrt Polimora Selce",
+      "latitude": 45.153335,
+      "longitude": 14.717432
+    },
+    {
+      "name": "Pizza Bracera",
+      "latitude": 45.327707,
+      "longitude": 14.440071
+    },
+    {
+      "name": "Pizza Hut",
+      "latitude": 45.317659,
+      "longitude": 14.468871
+    },
+    {
+      "name": "Pizza Place Destino",
+      "latitude": 45.321349,
+      "longitude": 14.474475
+    },
+    {
+      "name": "Pizza Valbenz",
+      "latitude": 45.028749,
+      "longitude": 14.498082
+    },
+    {
+      "name": "pizzeria",
+      "latitude": 45.388475,
+      "longitude": 14.409428
+    },
+    {
+      "name": "Pizzeria Antonio",
+      "latitude": 45.325594,
+      "longitude": 14.476439
+    },
+    {
+      "name": "Pizzeria Colibri",
+      "latitude": 45.128394,
+      "longitude": 14.788565
+    },
+    {
+      "name": "Pizzeria DO IT",
+      "latitude": 45.334464,
+      "longitude": 14.447483
+    },
+    {
+      "name": "Pizzeria Draga",
+      "latitude": 44.530266,
+      "longitude": 14.473291
+    },
+    {
+      "name": "Pizzeria EX",
+      "latitude": 45.355053,
+      "longitude": 14.369005
+    },
+    {
+      "name": "Pizzeria Forno",
+      "latitude": 45.330681,
+      "longitude": 14.302356
+    },
+    {
+      "name": "Pizzeria Kačjak Inn",
+      "latitude": 45.202693,
+      "longitude": 14.651559
+    },
+    {
+      "name": "Pizzeria Leo",
+      "latitude": 45.022537,
+      "longitude": 14.628722
+    },
+    {
+      "name": "Pizzeria Leut",
+      "latitude": 45.116103,
+      "longitude": 14.506153
+    },
+    {
+      "name": "Pizzeria Mala Vrata",
+      "latitude": 45.025387,
+      "longitude": 14.574697
+    },
+    {
+      "name": "Pizzeria Mamma Mia",
+      "latitude": 45.171125,
+      "longitude": 14.695488
+    },
+    {
+      "name": "Pizzeria Mandrac",
+      "latitude": 45.116458,
+      "longitude": 14.513938
+    },
+    {
+      "name": "Pizzeria Marina",
+      "latitude": 45.237504,
+      "longitude": 14.253828
+    },
+    {
+      "name": "Pizzeria Maslina",
+      "latitude": 45.326883,
+      "longitude": 14.443519
+    },
+    {
+      "name": "Pizzeria Matteo",
+      "latitude": 45.126386,
+      "longitude": 14.527498
+    },
+    {
+      "name": "Pizzeria Maya",
+      "latitude": 45.337414,
+      "longitude": 14.308067
+    },
+    {
+      "name": "Pizzeria Mia",
+      "latitude": 45.124406,
+      "longitude": 14.526078
+    },
+    {
+      "name": "Pizzeria Morska Vila",
+      "latitude": 45.078207,
+      "longitude": 14.675478
+    },
+    {
+      "name": "Pizzeria PAMPAS",
+      "latitude": 45.328769,
+      "longitude": 14.461743
+    },
+    {
+      "name": "Pizzeria Paris",
+      "latitude": 45.311261,
+      "longitude": 14.486287
+    },
+    {
+      "name": "Pizzeria Petrus",
+      "latitude": 45.272882,
+      "longitude": 14.571653
+    },
+    {
+      "name": "Pizzeria Polizubi , Caffe, Bar",
+      "latitude": 45.161863,
+      "longitude": 14.760436
+    },
+    {
+      "name": "Pizzeria Porto Re",
+      "latitude": 45.273254,
+      "longitude": 14.569013
+    },
+    {
+      "name": "Pizzeria Rustica",
+      "latitude": 45.371938,
+      "longitude": 14.350027
+    },
+    {
+      "name": "Pizzeria Ruza",
+      "latitude": 45.216124,
+      "longitude": 14.551465
+    },
+    {
+      "name": "Pizzeria Taverna",
+      "latitude": 45.253408,
+      "longitude": 14.577343
+    },
+    {
+      "name": "Pizzeria Tiffany",
+      "latitude": 45.160435,
+      "longitude": 14.715092
+    },
+    {
+      "name": "Pizzerija Skipper",
+      "latitude": 44.79062,
+      "longitude": 14.708888
+    },
+    {
+      "name": "Placa",
+      "latitude": 44.97044,
+      "longitude": 14.758422
+    },
+    {
+      "name": "Planinski centar Petehovac",
+      "latitude": 45.380448,
+      "longitude": 14.819677
+    },
+    {
+      "name": "Planinski raj",
+      "latitude": 45.305312,
+      "longitude": 14.900961
+    },
+    {
+      "name": "Plavi podrum",
+      "latitude": 45.347739,
+      "longitude": 14.320149
+    },
+    {
+      "name": "Plaza",
+      "latitude": 45.236037,
+      "longitude": 14.254191
+    },
+    {
+      "name": "Plaža",
+      "latitude": 44.756948,
+      "longitude": 14.72344
+    },
+    {
+      "name": "Plitvice",
+      "latitude": 44.529138,
+      "longitude": 14.466329
+    },
+    {
+      "name": "Pod murvu",
+      "latitude": 45.108772,
+      "longitude": 14.530449
+    },
+    {
+      "name": "Pogana",
+      "latitude": 44.616473,
+      "longitude": 14.50517
+    },
+    {
+      "name": "Polina's Taverne",
+      "latitude": 45.02362,
+      "longitude": 14.628964
+    },
+    {
+      "name": "Popaj  Fisch & Chips",
+      "latitude": 45.1222,
+      "longitude": 14.534684
+    },
+    {
+      "name": "Poper",
+      "latitude": 44.969722,
+      "longitude": 14.75744
+    },
+    {
+      "name": "Portella",
+      "latitude": 45.02668,
+      "longitude": 14.576965
+    },
+    {
+      "name": "Portic",
+      "latitude": 44.970443,
+      "longitude": 14.760511
+    },
+    {
+      "name": "Portić",
+      "latitude": 45.122381,
+      "longitude": 14.524238
+    },
+    {
+      "name": "Porto",
+      "latitude": 44.459642,
+      "longitude": 14.550228
+    },
+    {
+      "name": "Primorska koliba",
+      "latitude": 45.119795,
+      "longitude": 14.523423
+    },
+    {
+      "name": "Primorska konoba",
+      "latitude": 45.327499,
+      "longitude": 14.443014
+    },
+    {
+      "name": "Priroda i društvo",
+      "latitude": 45.326771,
+      "longitude": 14.444946
+    },
+    {
+      "name": "Pul Prdele",
+      "latitude": 45.249231,
+      "longitude": 14.583205
+    },
+    {
+      "name": "Punta di Galetto",
+      "latitude": 45.025513,
+      "longitude": 14.579552
+    },
+    {
+      "name": "Putniku",
+      "latitude": 45.375774,
+      "longitude": 14.513128
+    },
+    {
+      "name": "Ragusa",
+      "latitude": 44.969629,
+      "longitude": 14.756003
+    },
+    {
+      "name": "Ragusa",
+      "latitude": 45.021495,
+      "longitude": 14.629332
+    },
+    {
+      "name": "RareBar",
+      "latitude": 44.970354,
+      "longitude": 14.754379
+    },
+    {
+      "name": "Regata",
+      "latitude": 44.959299,
+      "longitude": 14.407601
+    },
+    {
+      "name": "Remi",
+      "latitude": 45.192259,
+      "longitude": 14.667112
+    },
+    {
+      "name": "Remy",
+      "latitude": 45.12822,
+      "longitude": 14.789718
+    },
+    {
+      "name": "Rendezvous",
+      "latitude": 45.021648,
+      "longitude": 14.628632
+    },
+    {
+      "name": "Restaurant \"Lopari\"",
+      "latitude": 44.682461,
+      "longitude": 14.396224
+    },
+    {
+      "name": "Restaurant Ana",
+      "latitude": 44.577313,
+      "longitude": 14.407084
+    },
+    {
+      "name": "Restaurant Ana",
+      "latitude": 44.762407,
+      "longitude": 14.759548
+    },
+    {
+      "name": "Restaurant Barbat",
+      "latitude": 44.735441,
+      "longitude": 14.799461
+    },
+    {
+      "name": "restaurant Batelan",
+      "latitude": 45.178633,
+      "longitude": 14.234466
+    },
+    {
+      "name": "Restaurant Belveder",
+      "latitude": 44.80246,
+      "longitude": 14.714994
+    },
+    {
+      "name": "Restaurant Bepo",
+      "latitude": 44.725609,
+      "longitude": 14.81216
+    },
+    {
+      "name": "Restaurant Capote y ole",
+      "latitude": 45.325157,
+      "longitude": 14.442295
+    },
+    {
+      "name": "Restaurant Cicibela",
+      "latitude": 44.969226,
+      "longitude": 14.752261
+    },
+    {
+      "name": "Restaurant Cikat",
+      "latitude": 44.536239,
+      "longitude": 14.448659
+    },
+    {
+      "name": "Restaurant Dado",
+      "latitude": 44.747954,
+      "longitude": 14.786764
+    },
+    {
+      "name": "Restaurant Frankopan",
+      "latitude": 45.277121,
+      "longitude": 14.571035
+    },
+    {
+      "name": "Restaurant Galeb",
+      "latitude": 45.312359,
+      "longitude": 14.284494
+    },
+    {
+      "name": "Restaurant Hotel Miramar",
+      "latitude": 45.341292,
+      "longitude": 14.313247
+    },
+    {
+      "name": "Restaurant Kamenjak",
+      "latitude": 44.765575,
+      "longitude": 14.786411
+    },
+    {
+      "name": "Restaurant Leut",
+      "latitude": 44.733288,
+      "longitude": 14.806817
+    },
+    {
+      "name": "Restaurant Lungo Mare",
+      "latitude": 44.768284,
+      "longitude": 14.744197
+    },
+    {
+      "name": "Restaurant Malin",
+      "latitude": 44.973753,
+      "longitude": 14.736294
+    },
+    {
+      "name": "Restaurant Mulino",
+      "latitude": 45.120308,
+      "longitude": 14.520618
+    },
+    {
+      "name": "Restaurant Nadia",
+      "latitude": 44.952626,
+      "longitude": 14.690193
+    },
+    {
+      "name": "Restaurant Piccola Venezia",
+      "latitude": 45.121718,
+      "longitude": 14.49403
+    },
+    {
+      "name": "Restaurant Polinezija",
+      "latitude": 44.992737,
+      "longitude": 14.627561
+    },
+    {
+      "name": "Restaurant Televrin",
+      "latitude": 44.659272,
+      "longitude": 14.397784
+    },
+    {
+      "name": "Restaurant Trsatica",
+      "latitude": 45.331135,
+      "longitude": 14.456314
+    },
+    {
+      "name": "Restaurant Ulika",
+      "latitude": 45.292194,
+      "longitude": 14.277033
+    },
+    {
+      "name": "Restaurant Veja's",
+      "latitude": 45.0233,
+      "longitude": 14.56911
+    },
+    {
+      "name": "Restaurant Villa Petrac",
+      "latitude": 44.749473,
+      "longitude": 14.774744
+    },
+    {
+      "name": "Restaurant Za Kantuni",
+      "latitude": 44.534001,
+      "longitude": 14.468163
+    },
+    {
+      "name": "Restoran Anić",
+      "latitude": 45.303177,
+      "longitude": 14.488272
+    },
+    {
+      "name": "Restoran Aurora-Veprinac",
+      "latitude": 45.327111,
+      "longitude": 14.271632
+    },
+    {
+      "name": "Restoran Baćo",
+      "latitude": 45.32379,
+      "longitude": 14.465749
+    },
+    {
+      "name": "Restoran bianco&nero",
+      "latitude": 45.344949,
+      "longitude": 14.313878
+    },
+    {
+      "name": "Restoran Grand",
+      "latitude": 44.757621,
+      "longitude": 14.760518
+    },
+    {
+      "name": "Restoran Hostela \"Stoimena\"",
+      "latitude": 45.167943,
+      "longitude": 14.704423
+    },
+    {
+      "name": "Restoran Kamačnik",
+      "latitude": 45.367438,
+      "longitude": 15.07213
+    },
+    {
+      "name": "Restoran Kampus",
+      "latitude": 45.328467,
+      "longitude": 14.468997
+    },
+    {
+      "name": "Restoran Karaka",
+      "latitude": 45.017761,
+      "longitude": 14.567215
+    },
+    {
+      "name": "Restoran Kvarner",
+      "latitude": 45.290851,
+      "longitude": 14.278043
+    },
+    {
+      "name": "Restoran Mirni kut",
+      "latitude": 45.423513,
+      "longitude": 15.192869
+    },
+    {
+      "name": "Restoran Mladenka",
+      "latitude": 45.382089,
+      "longitude": 14.384232
+    },
+    {
+      "name": "Restoran Nada",
+      "latitude": 44.763287,
+      "longitude": 14.754933
+    },
+    {
+      "name": "Restoran Palma",
+      "latitude": 44.761499,
+      "longitude": 14.756079
+    },
+    {
+      "name": "Restoran Palma",
+      "latitude": 45.161522,
+      "longitude": 14.71847
+    },
+    {
+      "name": "Restoran Premijer",
+      "latitude": 44.801302,
+      "longitude": 14.712135
+    },
+    {
+      "name": "Restoran Rim",
+      "latitude": 45.421471,
+      "longitude": 15.202816
+    },
+    {
+      "name": "Restoran Slamnjaki",
+      "latitude": 45.211193,
+      "longitude": 14.232157
+    },
+    {
+      "name": "Restoran Strossmayer",
+      "latitude": 45.173742,
+      "longitude": 14.689104
+    },
+    {
+      "name": "Restoran Ugor",
+      "latitude": 45.34947,
+      "longitude": 14.380047
+    },
+    {
+      "name": "Restoran Veli Žal",
+      "latitude": 44.524035,
+      "longitude": 14.458907
+    },
+    {
+      "name": "Restoran Vila Rova",
+      "latitude": 45.116432,
+      "longitude": 14.513197
+    },
+    {
+      "name": "Restoran Vinodol",
+      "latitude": 45.127928,
+      "longitude": 14.783018
+    },
+    {
+      "name": "Restoran XXXL Lesnina",
+      "latitude": 45.337012,
+      "longitude": 14.505739
+    },
+    {
+      "name": "Restoran Yacht Club",
+      "latitude": 45.33692,
+      "longitude": 14.309939
+    },
+    {
+      "name": "Restoran Zelena dolina",
+      "latitude": 45.313197,
+      "longitude": 14.523118
+    },
+    {
+      "name": "Restoran Zlatni",
+      "latitude": 45.356262,
+      "longitude": 14.313541
+    },
+    {
+      "name": "Restoran Zvončar",
+      "latitude": 45.382942,
+      "longitude": 14.37783
+    },
+    {
+      "name": "Restoran Žal",
+      "latitude": 45.156725,
+      "longitude": 14.619979
+    },
+    {
+      "name": "Restoran “Stara Pošta” Novi Vinodolski",
+      "latitude": 45.126507,
+      "longitude": 14.788698
+    },
+    {
+      "name": "Riba Riba Rijeka",
+      "latitude": 45.327641,
+      "longitude": 14.443632
+    },
+    {
+      "name": "Ribar",
+      "latitude": 44.970087,
+      "longitude": 14.758563
+    },
+    {
+      "name": "Ribica",
+      "latitude": 45.33859,
+      "longitude": 14.383639
+    },
+    {
+      "name": "Riva",
+      "latitude": 44.754948,
+      "longitude": 14.762283
+    },
+    {
+      "name": "Riva",
+      "latitude": 44.959592,
+      "longitude": 14.408694
+    },
+    {
+      "name": "Riva",
+      "latitude": 45.02251,
+      "longitude": 14.628722
+    },
+    {
+      "name": "Rivica",
+      "latitude": 45.164906,
+      "longitude": 14.542271
+    },
+    {
+      "name": "Riviera",
+      "latitude": 45.190027,
+      "longitude": 14.670941
+    },
+    {
+      "name": "Riviera",
+      "latitude": 45.296961,
+      "longitude": 14.275726
+    },
+    {
+      "name": "Roko",
+      "latitude": 45.335169,
+      "longitude": 14.306933
+    },
+    {
+      "name": "Romero",
+      "latitude": 45.332978,
+      "longitude": 14.301835
+    },
+    {
+      "name": "Ronjgi",
+      "latitude": 45.389823,
+      "longitude": 14.400301
+    },
+    {
+      "name": "Rosemary",
+      "latitude": 44.53278,
+      "longitude": 14.458779
+    },
+    {
+      "name": "Rubin Kitchen & Wine",
+      "latitude": 45.178408,
+      "longitude": 14.687043
+    },
+    {
+      "name": "Ružmarin",
+      "latitude": 45.332416,
+      "longitude": 14.301316
+    },
+    {
+      "name": "Sabbia",
+      "latitude": 45.177512,
+      "longitude": 14.684832
+    },
+    {
+      "name": "Sagena",
+      "latitude": 44.962549,
+      "longitude": 14.74741
+    },
+    {
+      "name": "Saloon",
+      "latitude": 44.970125,
+      "longitude": 14.748667
+    },
+    {
+      "name": "Sambuca Beach Bar & Grill - U.O. Mina",
+      "latitude": 45.265229,
+      "longitude": 14.56302
+    },
+    {
+      "name": "San Lorenzo",
+      "latitude": 44.827936,
+      "longitude": 14.745844
+    },
+    {
+      "name": "San Marco",
+      "latitude": 44.756738,
+      "longitude": 14.760343
+    },
+    {
+      "name": "San Marco",
+      "latitude": 44.905274,
+      "longitude": 14.361328
+    },
+    {
+      "name": "San Marino",
+      "latitude": 44.822516,
+      "longitude": 14.736154
+    },
+    {
+      "name": "San Marino",
+      "latitude": 44.830018,
+      "longitude": 14.730862
+    },
+    {
+      "name": "San Marino",
+      "latitude": 45.122098,
+      "longitude": 14.800507
+    },
+    {
+      "name": "San Servolo Delicatesse & Snack Bar",
+      "latitude": 45.326127,
+      "longitude": 14.442886
+    },
+    {
+      "name": "Santa Lucia",
+      "latitude": 44.958425,
+      "longitude": 14.40657
+    },
+    {
+      "name": "Santa Marija",
+      "latitude": 44.825019,
+      "longitude": 14.750611
+    },
+    {
+      "name": "santos",
+      "latitude": 44.707046,
+      "longitude": 14.831995
+    },
+    {
+      "name": "Scorpion",
+      "latitude": 45.39618,
+      "longitude": 14.800875
+    },
+    {
+      "name": "Sea food / pizza restaurant venus",
+      "latitude": 45.156917,
+      "longitude": 14.720671
+    },
+    {
+      "name": "Selina",
+      "latitude": 45.220727,
+      "longitude": 14.624079
+    },
+    {
+      "name": "Shop LUCE",
+      "latitude": 45.074844,
+      "longitude": 14.671077
+    },
+    {
+      "name": "Sidro",
+      "latitude": 44.818728,
+      "longitude": 14.351138
+    },
+    {
+      "name": "SIDRO",
+      "latitude": 45.201314,
+      "longitude": 14.649498
+    },
+    {
+      "name": "Sidro",
+      "latitude": 45.241027,
+      "longitude": 14.251139
+    },
+    {
+      "name": "Sidro",
+      "latitude": 45.249518,
+      "longitude": 14.583227
+    },
+    {
+      "name": "Silver Bay",
+      "latitude": 44.534763,
+      "longitude": 14.447057
+    },
+    {
+      "name": "Skalinada",
+      "latitude": 45.331249,
+      "longitude": 14.302254
+    },
+    {
+      "name": "Skrila",
+      "latitude": 44.966469,
+      "longitude": 14.674731
+    },
+    {
+      "name": "Slamni",
+      "latitude": 45.153655,
+      "longitude": 14.617372
+    },
+    {
+      "name": "Slatina",
+      "latitude": 45.331602,
+      "longitude": 14.302178
+    },
+    {
+      "name": "Slatko & Slano",
+      "latitude": 45.327661,
+      "longitude": 14.441185
+    },
+    {
+      "name": "Spagho",
+      "latitude": 45.325716,
+      "longitude": 14.442581
+    },
+    {
+      "name": "Spinnaker",
+      "latitude": 44.653949,
+      "longitude": 14.395984
+    },
+    {
+      "name": "SPIZZA - pizza & grill",
+      "latitude": 45.388892,
+      "longitude": 14.46698
+    },
+    {
+      "name": "Spoon",
+      "latitude": 45.327348,
+      "longitude": 14.443136
+    },
+    {
+      "name": "Sport",
+      "latitude": 44.758127,
+      "longitude": 14.763098
+    },
+    {
+      "name": "Stacion",
+      "latitude": 45.365071,
+      "longitude": 14.321451
+    },
+    {
+      "name": "Stancija Kovačići",
+      "latitude": 45.365353,
+      "longitude": 14.30147
+    },
+    {
+      "name": "Stara posta",
+      "latitude": 45.420006,
+      "longitude": 14.303777
+    },
+    {
+      "name": "Stari Grad",
+      "latitude": 45.292026,
+      "longitude": 14.275999
+    },
+    {
+      "name": "Stella",
+      "latitude": 44.82555,
+      "longitude": 14.741269
+    },
+    {
+      "name": "Stella",
+      "latitude": 45.176312,
+      "longitude": 14.686121
+    },
+    {
+      "name": "Strand Bistro",
+      "latitude": 44.968553,
+      "longitude": 14.751239
+    },
+    {
+      "name": "Stubica",
+      "latitude": 45.29125,
+      "longitude": 14.276932
+    },
+    {
+      "name": "Studio Food",
+      "latitude": 45.326161,
+      "longitude": 14.465222
+    },
+    {
+      "name": "surf 'n' fries",
+      "latitude": 45.166536,
+      "longitude": 14.545895
+    },
+    {
+      "name": "Susak",
+      "latitude": 44.511814,
+      "longitude": 14.308276
+    },
+    {
+      "name": "Sushi bar Tunai",
+      "latitude": 45.327092,
+      "longitude": 14.440853
+    },
+    {
+      "name": "Sveti Jakov",
+      "latitude": 45.334494,
+      "longitude": 14.30689
+    },
+    {
+      "name": "Sweet Hose",
+      "latitude": 45.328981,
+      "longitude": 14.439719
+    },
+    {
+      "name": "Taiyo",
+      "latitude": 45.324888,
+      "longitude": 14.44237
+    },
+    {
+      "name": "Tamaris",
+      "latitude": 45.025028,
+      "longitude": 14.58153
+    },
+    {
+      "name": "Tapas bar Kampanel",
+      "latitude": 44.754869,
+      "longitude": 14.761173
+    },
+    {
+      "name": "Tea",
+      "latitude": 45.173442,
+      "longitude": 14.690535
+    },
+    {
+      "name": "Teatro",
+      "latitude": 45.324109,
+      "longitude": 14.444358
+    },
+    {
+      "name": "The Kitchen",
+      "latitude": 45.12455,
+      "longitude": 14.526326
+    },
+    {
+      "name": "Tifan Co.",
+      "latitude": 45.31448,
+      "longitude": 14.475205
+    },
+    {
+      "name": "Tivoli",
+      "latitude": 45.17345,
+      "longitude": 14.690362
+    },
+    {
+      "name": "Toljanic Gospoj",
+      "latitude": 45.076087,
+      "longitude": 14.67472
+    },
+    {
+      "name": "Toni",
+      "latitude": 45.118162,
+      "longitude": 14.497008
+    },
+    {
+      "name": "Tonivale",
+      "latitude": 45.047756,
+      "longitude": 14.489204
+    },
+    {
+      "name": "Top Grill Bistro",
+      "latitude": 45.02927,
+      "longitude": 14.584175
+    },
+    {
+      "name": "Toš Juna",
+      "latitude": 44.904777,
+      "longitude": 14.361082
+    },
+    {
+      "name": "Trampov Breg",
+      "latitude": 45.361309,
+      "longitude": 14.385936
+    },
+    {
+      "name": "Trattoria Bodulka",
+      "latitude": 45.173937,
+      "longitude": 14.688962
+    },
+    {
+      "name": "Trattoria Krug",
+      "latitude": 45.355669,
+      "longitude": 14.373233
+    },
+    {
+      "name": "Trattoria Mandrac",
+      "latitude": 45.347415,
+      "longitude": 14.32018
+    },
+    {
+      "name": "Trattoria Volar",
+      "latitude": 45.402706,
+      "longitude": 14.307279
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 45.173367,
+      "longitude": 14.693043
+    },
+    {
+      "name": "Tu Tamo",
+      "latitude": 45.226642,
+      "longitude": 14.249631
+    },
+    {
+      "name": "Tuna House",
+      "latitude": 44.970063,
+      "longitude": 14.758488
+    },
+    {
+      "name": "tutto a posto",
+      "latitude": 45.330044,
+      "longitude": 14.438801
+    },
+    {
+      "name": "Tutto bene Kukuljanovo",
+      "latitude": 45.333761,
+      "longitude": 14.508563
+    },
+    {
+      "name": "ULIKA GRILL",
+      "latitude": 45.070285,
+      "longitude": 14.665907
+    },
+    {
+      "name": "Unijana",
+      "latitude": 44.638426,
+      "longitude": 14.246477
+    },
+    {
+      "name": "Val",
+      "latitude": 45.010168,
+      "longitude": 14.622857
+    },
+    {
+      "name": "Valbiska Bistro",
+      "latitude": 45.028947,
+      "longitude": 14.497465
+    },
+    {
+      "name": "Vallis",
+      "latitude": 45.307251,
+      "longitude": 14.536771
+    },
+    {
+      "name": "Vele Vode",
+      "latitude": 45.024233,
+      "longitude": 14.62871
+    },
+    {
+      "name": "Veliki Dom Platak",
+      "latitude": 45.429538,
+      "longitude": 14.564478
+    },
+    {
+      "name": "Velum",
+      "latitude": 44.7617,
+      "longitude": 14.760045
+    },
+    {
+      "name": "Vera",
+      "latitude": 45.220328,
+      "longitude": 14.807052
+    },
+    {
+      "name": "Verde",
+      "latitude": 45.124913,
+      "longitude": 14.527976
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.298981,
+      "longitude": 14.534675
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.373019,
+      "longitude": 14.347699
+    },
+    {
+      "name": "Viktor & Koko",
+      "latitude": 45.025343,
+      "longitude": 14.575007
+    },
+    {
+      "name": "Viktorija",
+      "latitude": 45.165198,
+      "longitude": 14.543306
+    },
+    {
+      "name": "Villa Ariston",
+      "latitude": 45.319962,
+      "longitude": 14.296895
+    },
+    {
+      "name": "Villa Eva & Pipo",
+      "latitude": 45.214549,
+      "longitude": 14.551434
+    },
+    {
+      "name": "Villa Plasa",
+      "latitude": 45.407415,
+      "longitude": 14.283903
+    },
+    {
+      "name": "Villa Sandy",
+      "latitude": 45.360012,
+      "longitude": 14.485732
+    },
+    {
+      "name": "Vojko",
+      "latitude": 44.803139,
+      "longitude": 14.726225
+    },
+    {
+      "name": "VOLSONIS",
+      "latitude": 45.026111,
+      "longitude": 14.573841
+    },
+    {
+      "name": "Volta",
+      "latitude": 45.123972,
+      "longitude": 14.527656
+    },
+    {
+      "name": "Vongola",
+      "latitude": 45.33347,
+      "longitude": 14.305419
+    },
+    {
+      "name": "Zaglav",
+      "latitude": 44.806248,
+      "longitude": 14.364769
+    },
+    {
+      "name": "Zal",
+      "latitude": 44.82217,
+      "longitude": 14.338591
+    },
+    {
+      "name": "Zdravljak jasmina Burek",
+      "latitude": 45.172985,
+      "longitude": 14.693394
+    },
+    {
+      "name": "Zeko",
+      "latitude": 44.756696,
+      "longitude": 14.76095
+    },
+    {
+      "name": "Zeleni Vir",
+      "latitude": 45.425695,
+      "longitude": 14.892333
+    },
+    {
+      "name": "Zgribnica",
+      "latitude": 45.075435,
+      "longitude": 14.678479
+    },
+    {
+      "name": "Zijavica",
+      "latitude": 45.235913,
+      "longitude": 14.254274
+    },
+    {
+      "name": "Zlatni Lav",
+      "latitude": 44.821643,
+      "longitude": 14.351957
+    },
+    {
+      "name": "Zlatni zalaz",
+      "latitude": 44.818654,
+      "longitude": 14.712536
+    },
+    {
+      "name": "Zora",
+      "latitude": 45.130445,
+      "longitude": 14.603499
+    },
+    {
+      "name": "Zrinski",
+      "latitude": 45.025885,
+      "longitude": 14.575438
+    },
+    {
+      "name": "Šanpjer",
+      "latitude": 44.75635,
+      "longitude": 14.761736
+    },
+    {
+      "name": "Šilo",
+      "latitude": 45.14894,
+      "longitude": 14.669578
+    },
+    {
+      "name": "ŠtoRija",
+      "latitude": 45.326707,
+      "longitude": 14.441902
+    },
+    {
+      "name": "Žamarić",
+      "latitude": 45.345306,
+      "longitude": 14.388753
+    },
+    {
+      "name": "Žiraffa",
+      "latitude": 44.970475,
+      "longitude": 14.7595
+    }
+  ],
+  "meta": {
+    "title": "Restorani — Primorsko-goranska županija - Besplatno preuzimanje",
+    "description": "764 restorani u županiji Primorsko-goranska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 764 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Restorani — Primorsko-goranska županija | ListBase",
+    "seo_description": "Preuzmi Restorani — Primorsko-goranska županija — 764 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 764 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,736 @@
+{
+  "id": "hr-knjizare",
+  "name": "Knjižare",
+  "title": "Knjižare",
+  "description": "Knjižare u Hrvatskoj (139 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=books), izrez EU-POIS/HR.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 139,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A. G. Matoš",
+      "latitude": 45.560441,
+      "longitude": 18.686243
+    },
+    {
+      "name": "A4 knjižara",
+      "latitude": 45.885162,
+      "longitude": 16.417841
+    },
+    {
+      "name": "Ab Bookshop",
+      "latitude": 45.870588,
+      "longitude": 15.825798
+    },
+    {
+      "name": "Algebra",
+      "latitude": 42.641268,
+      "longitude": 18.108818
+    },
+    {
+      "name": "Algoritiam",
+      "latitude": 42.641214,
+      "longitude": 18.109961
+    },
+    {
+      "name": "Antikvarijat",
+      "latitude": 45.329435,
+      "longitude": 14.437065
+    },
+    {
+      "name": "Antikvarijat Nostrimus",
+      "latitude": 43.50963,
+      "longitude": 16.435929
+    },
+    {
+      "name": "Antikvarijat Vremeplov",
+      "latitude": 45.811251,
+      "longitude": 15.989113
+    },
+    {
+      "name": "Arka antikvarijat",
+      "latitude": 45.561217,
+      "longitude": 18.676964
+    },
+    {
+      "name": "Big3 anime shop",
+      "latitude": 45.801406,
+      "longitude": 15.958299
+    },
+    {
+      "name": "Biro galerija",
+      "latitude": 45.812721,
+      "longitude": 15.976985
+    },
+    {
+      "name": "Bookara",
+      "latitude": 45.816277,
+      "longitude": 16.001455
+    },
+    {
+      "name": "Club&Bookstore Giardini 2",
+      "latitude": 44.869544,
+      "longitude": 13.848055
+    },
+    {
+      "name": "Dani lipa",
+      "latitude": 45.748547,
+      "longitude": 16.615632
+    },
+    {
+      "name": "Dominović",
+      "latitude": 43.510181,
+      "longitude": 16.455553
+    },
+    {
+      "name": "Dominović",
+      "latitude": 45.796315,
+      "longitude": 15.978425
+    },
+    {
+      "name": "Duhovna knjiga",
+      "latitude": 45.810937,
+      "longitude": 15.999064
+    },
+    {
+      "name": "Ezop antikvariat",
+      "latitude": 45.557636,
+      "longitude": 18.675949
+    },
+    {
+      "name": "Forum - Book Souvenir Shop",
+      "latitude": 44.115591,
+      "longitude": 15.225561
+    },
+    {
+      "name": "Grafički studio MIMI",
+      "latitude": 46.226492,
+      "longitude": 16.12756
+    },
+    {
+      "name": "Grafocentar",
+      "latitude": 45.896698,
+      "longitude": 16.840256
+    },
+    {
+      "name": "Grafocentar",
+      "latitude": 46.027014,
+      "longitude": 16.545094
+    },
+    {
+      "name": "Green",
+      "latitude": 43.510912,
+      "longitude": 16.464758
+    },
+    {
+      "name": "HardJura",
+      "latitude": 45.899901,
+      "longitude": 16.849514
+    },
+    {
+      "name": "Hoću knjigu",
+      "latitude": 45.317539,
+      "longitude": 14.469065
+    },
+    {
+      "name": "Hoću Knjigu",
+      "latitude": 45.820466,
+      "longitude": 15.976763
+    },
+    {
+      "name": "Hoću knjigu",
+      "latitude": 46.309708,
+      "longitude": 16.337306
+    },
+    {
+      "name": "Hrvatsko slovo",
+      "latitude": 45.796398,
+      "longitude": 15.978424
+    },
+    {
+      "name": "Ibis Grafika",
+      "latitude": 45.817671,
+      "longitude": 16.032176
+    },
+    {
+      "name": "Istarske Knjižare",
+      "latitude": 45.239934,
+      "longitude": 13.937269
+    },
+    {
+      "name": "Izvori",
+      "latitude": 45.797461,
+      "longitude": 15.980373
+    },
+    {
+      "name": "Katolička Knjižara",
+      "latitude": 46.305067,
+      "longitude": 16.337222
+    },
+    {
+      "name": "Knjižara",
+      "latitude": 45.81064,
+      "longitude": 15.959681
+    },
+    {
+      "name": "Knjižara \"Nova\"",
+      "latitude": 45.561182,
+      "longitude": 18.676274
+    },
+    {
+      "name": "Knjižara AGM",
+      "latitude": 45.811261,
+      "longitude": 15.976075
+    },
+    {
+      "name": "Knjižara Alfa",
+      "latitude": 45.804986,
+      "longitude": 15.977446
+    },
+    {
+      "name": "Knjižara Arkadija",
+      "latitude": 45.812658,
+      "longitude": 15.977494
+    },
+    {
+      "name": "Knjižara Dr. Josip Turčinović",
+      "latitude": 45.56062,
+      "longitude": 18.678382
+    },
+    {
+      "name": "Knjižara Fraktura",
+      "latitude": 45.809384,
+      "longitude": 15.986138
+    },
+    {
+      "name": "Knjižara Friščić",
+      "latitude": 46.225045,
+      "longitude": 16.123633
+    },
+    {
+      "name": "Knjižara Grabrik",
+      "latitude": 45.481236,
+      "longitude": 15.549661
+    },
+    {
+      "name": "Knjižara i suvenirnica Sv. Franjo",
+      "latitude": 45.898528,
+      "longitude": 16.844916
+    },
+    {
+      "name": "Knjižara Kršćanska sadašnjost",
+      "latitude": 45.330858,
+      "longitude": 14.434172
+    },
+    {
+      "name": "Knjižara Ljevak",
+      "latitude": 45.812851,
+      "longitude": 15.976157
+    },
+    {
+      "name": "Knjižara Mladost",
+      "latitude": 45.558873,
+      "longitude": 18.679767
+    },
+    {
+      "name": "Knjižara Pravnog fakulteta",
+      "latitude": 45.80969,
+      "longitude": 15.971264
+    },
+    {
+      "name": "Knjižara Svijet",
+      "latitude": 45.660518,
+      "longitude": 18.418255
+    },
+    {
+      "name": "Knjižara VBZ",
+      "latitude": 45.493256,
+      "longitude": 15.553984
+    },
+    {
+      "name": "Knjižara Verbum",
+      "latitude": 45.326251,
+      "longitude": 14.445113
+    },
+    {
+      "name": "Knjižara Verbum",
+      "latitude": 45.333663,
+      "longitude": 17.677465
+    },
+    {
+      "name": "Knjižara Verbum",
+      "latitude": 46.304869,
+      "longitude": 16.336929
+    },
+    {
+      "name": "Knjižara Znanje",
+      "latitude": 45.337798,
+      "longitude": 14.407234
+    },
+    {
+      "name": "Knjižara, Fotokopiranje",
+      "latitude": 45.11407,
+      "longitude": 15.585526
+    },
+    {
+      "name": "Knjžara i papirnica Marfan",
+      "latitude": 45.431519,
+      "longitude": 13.521843
+    },
+    {
+      "name": "Kršćanska sadašnjost",
+      "latitude": 45.815406,
+      "longitude": 15.978933
+    },
+    {
+      "name": "Kršćanska sadašnjost - knjižara \"Sveta Klara\"",
+      "latitude": 43.506035,
+      "longitude": 16.446138
+    },
+    {
+      "name": "Leksikografska knjižara",
+      "latitude": 45.810659,
+      "longitude": 15.969086
+    },
+    {
+      "name": "Mala knjižara",
+      "latitude": 46.02253,
+      "longitude": 16.547392
+    },
+    {
+      "name": "Mala zvona",
+      "latitude": 45.802837,
+      "longitude": 15.963818
+    },
+    {
+      "name": "Medicinska naklada",
+      "latitude": 45.813734,
+      "longitude": 15.991972
+    },
+    {
+      "name": "Menart",
+      "latitude": 45.77671,
+      "longitude": 15.978812
+    },
+    {
+      "name": "Meridijani",
+      "latitude": 45.814835,
+      "longitude": 16.001351
+    },
+    {
+      "name": "Mozaik knjiga",
+      "latitude": 45.897451,
+      "longitude": 16.840932
+    },
+    {
+      "name": "Nanina knjiga",
+      "latitude": 45.789771,
+      "longitude": 15.929291
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 45.492468,
+      "longitude": 15.554632
+    },
+    {
+      "name": "Narodne Novine",
+      "latitude": 45.673028,
+      "longitude": 15.652855
+    },
+    {
+      "name": "Nova informator",
+      "latitude": 45.810774,
+      "longitude": 15.98006
+    },
+    {
+      "name": "Ocean more",
+      "latitude": 45.811508,
+      "longitude": 16.000015
+    },
+    {
+      "name": "Og grafika d.o.o.",
+      "latitude": 45.265213,
+      "longitude": 15.224823
+    },
+    {
+      "name": "Papyrus",
+      "latitude": 45.816562,
+      "longitude": 15.835507
+    },
+    {
+      "name": "Planetopija",
+      "latitude": 44.86735,
+      "longitude": 13.848622
+    },
+    {
+      "name": "Planetopija",
+      "latitude": 45.812488,
+      "longitude": 15.972967
+    },
+    {
+      "name": "Planetopija",
+      "latitude": 45.813082,
+      "longitude": 15.966691
+    },
+    {
+      "name": "Poslovna knjižara um",
+      "latitude": 45.80051,
+      "longitude": 15.992
+    },
+    {
+      "name": "Pričozemska",
+      "latitude": 45.81957,
+      "longitude": 16.026339
+    },
+    {
+      "name": "Profil",
+      "latitude": 45.326052,
+      "longitude": 14.445706
+    },
+    {
+      "name": "Profil Mozaik",
+      "latitude": 43.443198,
+      "longitude": 16.689495
+    },
+    {
+      "name": "Profil Mozaik",
+      "latitude": 44.869662,
+      "longitude": 13.848065
+    },
+    {
+      "name": "Profil Mozaik",
+      "latitude": 45.15604,
+      "longitude": 18.012654
+    },
+    {
+      "name": "Prosvjeta",
+      "latitude": 45.812896,
+      "longitude": 15.973708
+    },
+    {
+      "name": "R&M Prestige",
+      "latitude": 43.054677,
+      "longitude": 17.434676
+    },
+    {
+      "name": "Skolska Knjiga",
+      "latitude": 44.111866,
+      "longitude": 15.234822
+    },
+    {
+      "name": "skolska knjiga",
+      "latitude": 44.86964,
+      "longitude": 13.842741
+    },
+    {
+      "name": "Skriptarnica",
+      "latitude": 45.815812,
+      "longitude": 16.012632
+    },
+    {
+      "name": "SLOBODNA DALMACIJA",
+      "latitude": 43.517463,
+      "longitude": 16.445508
+    },
+    {
+      "name": "Spero",
+      "latitude": 45.716583,
+      "longitude": 16.067789
+    },
+    {
+      "name": "srce lubenice",
+      "latitude": 45.815809,
+      "longitude": 15.977237
+    },
+    {
+      "name": "Strip-knjižara Asteroid B612",
+      "latitude": 45.810431,
+      "longitude": 15.976723
+    },
+    {
+      "name": "Stripovi na kvadrat",
+      "latitude": 45.808568,
+      "longitude": 15.974561
+    },
+    {
+      "name": "Superknjižara",
+      "latitude": 45.807593,
+      "longitude": 15.968099
+    },
+    {
+      "name": "Svijet Knjige",
+      "latitude": 45.561068,
+      "longitude": 18.679109
+    },
+    {
+      "name": "Svijet knjige",
+      "latitude": 45.813129,
+      "longitude": 15.985099
+    },
+    {
+      "name": "Tisak Media",
+      "latitude": 44.117077,
+      "longitude": 15.270711
+    },
+    {
+      "name": "Tisak media",
+      "latitude": 45.17433,
+      "longitude": 18.054728
+    },
+    {
+      "name": "Tisak Media",
+      "latitude": 45.800307,
+      "longitude": 15.954194
+    },
+    {
+      "name": "Tisak media",
+      "latitude": 45.804528,
+      "longitude": 15.977527
+    },
+    {
+      "name": "Tisak Media",
+      "latitude": 45.812461,
+      "longitude": 15.969656
+    },
+    {
+      "name": "Tisak media",
+      "latitude": 45.812766,
+      "longitude": 15.976277
+    },
+    {
+      "name": "TisakMedia",
+      "latitude": 45.811667,
+      "longitude": 15.984047
+    },
+    {
+      "name": "Torpedo comics",
+      "latitude": 45.811656,
+      "longitude": 15.973533
+    },
+    {
+      "name": "Tvoja knjiga",
+      "latitude": 45.799165,
+      "longitude": 15.949155
+    },
+    {
+      "name": "V.B.Z.",
+      "latitude": 45.715836,
+      "longitude": 16.070337
+    },
+    {
+      "name": "V.B.Z.",
+      "latitude": 46.390156,
+      "longitude": 16.436624
+    },
+    {
+      "name": "V.B.Z. knjižara",
+      "latitude": 45.771043,
+      "longitude": 15.994574
+    },
+    {
+      "name": "VBZ",
+      "latitude": 45.159343,
+      "longitude": 17.998531
+    },
+    {
+      "name": "VBZ",
+      "latitude": 45.326125,
+      "longitude": 14.443206
+    },
+    {
+      "name": "vbz",
+      "latitude": 45.327559,
+      "longitude": 14.440236
+    },
+    {
+      "name": "vbz",
+      "latitude": 45.812368,
+      "longitude": 15.951824
+    },
+    {
+      "name": "vbz",
+      "latitude": 45.814043,
+      "longitude": 15.996746
+    },
+    {
+      "name": "Verbum",
+      "latitude": 43.506817,
+      "longitude": 16.466144
+    },
+    {
+      "name": "Verbum",
+      "latitude": 43.508136,
+      "longitude": 16.435517
+    },
+    {
+      "name": "Verbum",
+      "latitude": 44.116925,
+      "longitude": 15.223666
+    },
+    {
+      "name": "Verbum",
+      "latitude": 45.153348,
+      "longitude": 18.019386
+    },
+    {
+      "name": "Verbum",
+      "latitude": 45.290152,
+      "longitude": 18.803923
+    },
+    {
+      "name": "Verbum",
+      "latitude": 45.811222,
+      "longitude": 15.975303
+    },
+    {
+      "name": "Verbum",
+      "latitude": 45.815502,
+      "longitude": 15.978903
+    },
+    {
+      "name": "Vuković&Runjić",
+      "latitude": 45.811353,
+      "longitude": 15.974549
+    },
+    {
+      "name": "Zavicajna Knijzara",
+      "latitude": 44.871195,
+      "longitude": 13.844204
+    },
+    {
+      "name": "znanje",
+      "latitude": 44.115612,
+      "longitude": 15.226004
+    },
+    {
+      "name": "Znanje",
+      "latitude": 45.546565,
+      "longitude": 18.690963
+    },
+    {
+      "name": "Znanje",
+      "latitude": 45.812576,
+      "longitude": 15.976592
+    },
+    {
+      "name": "Znanje",
+      "latitude": 46.263903,
+      "longitude": 16.374814
+    },
+    {
+      "name": "Školska knjiga",
+      "latitude": 42.641426,
+      "longitude": 18.107487
+    },
+    {
+      "name": "Školska Knjiga",
+      "latitude": 43.29345,
+      "longitude": 17.020651
+    },
+    {
+      "name": "Školska Knjiga",
+      "latitude": 43.508255,
+      "longitude": 16.438584
+    },
+    {
+      "name": "Školska knjiga",
+      "latitude": 43.70183,
+      "longitude": 16.636886
+    },
+    {
+      "name": "Školska knjiga",
+      "latitude": 44.114432,
+      "longitude": 15.228195
+    },
+    {
+      "name": "Školska knjiga",
+      "latitude": 45.326077,
+      "longitude": 14.442479
+    },
+    {
+      "name": "Školska knjiga",
+      "latitude": 45.331307,
+      "longitude": 17.676354
+    },
+    {
+      "name": "Školska knjiga",
+      "latitude": 45.492817,
+      "longitude": 15.554493
+    },
+    {
+      "name": "Školska knjiga",
+      "latitude": 45.810405,
+      "longitude": 15.971223
+    },
+    {
+      "name": "Školska knjiga",
+      "latitude": 45.812112,
+      "longitude": 15.975733
+    },
+    {
+      "name": "Školska Knjiga",
+      "latitude": 45.814422,
+      "longitude": 15.996494
+    },
+    {
+      "name": "Školska knjiga",
+      "latitude": 45.897298,
+      "longitude": 16.840676
+    },
+    {
+      "name": "Školska Knjiga",
+      "latitude": 46.307492,
+      "longitude": 16.335545
+    },
+    {
+      "name": "Školska knjiga",
+      "latitude": 46.389998,
+      "longitude": 16.436735
+    },
+    {
+      "name": "Škoska knjiga",
+      "latitude": 45.561276,
+      "longitude": 18.677601
+    },
+    {
+      "name": "Što čitaš?",
+      "latitude": 45.810946,
+      "longitude": 15.968318
+    },
+    {
+      "name": "Župna knjižara Ivana Pavla II",
+      "latitude": 45.810616,
+      "longitude": 15.886323
+    }
+  ],
+  "meta": {
+    "title": "Knjižare - Besplatno preuzimanje",
+    "description": "Knjižare u Hrvatskoj (139 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=books), izrez EU-POIS/HR. Sadrži 139 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Knjižare | ListBase",
+    "seo_description": "Preuzmi Knjižare — 139 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 139 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

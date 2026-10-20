@@ -1,0 +1,97 @@
+{
+  "id": "hr-mjerne-jedinice-frequency",
+  "name": "Mjerne jedinice — kategorija 'frequency' (4)",
+  "title": "Mjerne jedinice — kategorija 'frequency' (4)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'frequency' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "frequency-gigahertz",
+      "kategorija": "frequency",
+      "naziv": "gigaherci",
+      "kratica": "GHz",
+      "naziv_uski": "GHz",
+      "obrazac": "{0} gigaherca"
+    },
+    {
+      "id": 2,
+      "unit_code": "frequency-hertz",
+      "kategorija": "frequency",
+      "naziv": "herci",
+      "kratica": "Hz",
+      "naziv_uski": "Hz",
+      "obrazac": "{0} herca"
+    },
+    {
+      "id": 3,
+      "unit_code": "frequency-kilohertz",
+      "kategorija": "frequency",
+      "naziv": "kiloherci",
+      "kratica": "kHz",
+      "naziv_uski": "kHz",
+      "obrazac": "{0} kiloherca"
+    },
+    {
+      "id": 4,
+      "unit_code": "frequency-megahertz",
+      "kategorija": "frequency",
+      "naziv": "megaherci",
+      "kratica": "MHz",
+      "naziv_uski": "MHz",
+      "obrazac": "{0} megaherca"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'frequency' (4) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'frequency' s hrvatskim nazivima. Sadrži 4 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'frequency' (4) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'frequency' (4) — 4 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 4 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

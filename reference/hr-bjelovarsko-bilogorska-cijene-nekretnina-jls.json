@@ -1,0 +1,380 @@
+{
+  "id": "hr-bjelovarsko-bilogorska-cijene-nekretnina-jls",
+  "name": "Medijalne cijene nekretnina po m² (JLS) — Bjelovarsko-bilogorska",
+  "title": "Medijalne cijene nekretnina po m² (JLS) — Bjelovarsko-bilogorska",
+  "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Bjelovarsko-bilogorska: 23 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "2012",
+      "label": "2012",
+      "type": "string"
+    },
+    {
+      "key": "2013",
+      "label": "2013",
+      "type": "string"
+    },
+    {
+      "key": "2014",
+      "label": "2014",
+      "type": "string"
+    },
+    {
+      "key": "2015",
+      "label": "2015",
+      "type": "string"
+    },
+    {
+      "key": "2016",
+      "label": "2016",
+      "type": "string"
+    },
+    {
+      "key": "2017",
+      "label": "2017",
+      "type": "string"
+    },
+    {
+      "key": "2018",
+      "label": "2018",
+      "type": "string"
+    },
+    {
+      "key": "2019",
+      "label": "2019",
+      "type": "string"
+    },
+    {
+      "key": "Šifra",
+      "label": "ŠIfra",
+      "type": "number"
+    },
+    {
+      "key": "Naziv županije",
+      "label": "Naziv žUpanije",
+      "type": "string"
+    },
+    {
+      "key": "Naziv JLS-a",
+      "label": "Naziv JLS A",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 183,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "BEREK"
+    },
+    {
+      "2012": 6083.4,
+      "2013": 5690.75,
+      "2014": 5593.8,
+      "2015": 5539.86,
+      "2016": 5221.91,
+      "2017": 5558.8,
+      "2018": 5342,
+      "2019": 5595.12,
+      "Šifra": 248,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "BJELOVAR"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": 3737,
+      "2018": 4457,
+      "2019": 4166.04,
+      "Šifra": 639,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "ČAZMA"
+    },
+    {
+      "2012": 5950.49,
+      "2013": 5635.51,
+      "2014": 5242.15,
+      "2015": 4473.92,
+      "2016": 4268.2,
+      "2017": 4064.6,
+      "2018": 4063.8,
+      "2019": 4898.93,
+      "Šifra": 671,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "DARUVAR"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 710,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "DEŽANOVAC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 1058,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "ĐULOVAC"
+    },
+    {
+      "2012": "z",
+      "2013": 4649.42,
+      "2014": 3350.09,
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": 3001.1,
+      "2019": 3361.8,
+      "Šifra": 1198,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "GAREŠNICA"
+    },
+    {
+      "2012": "z",
+      "2013": 3765.81,
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": 3032.24,
+      "Šifra": 1392,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "GRUBIŠNO POLJE"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1449,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "HERCEGOVAC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 1619,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "IVANSKA"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1767,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "KAPELA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 1996,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "KONČANICA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 2879,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "NOVA RAČA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 3751,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "ROVIŠĆE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 5649,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "ŠANDROVAC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 5622,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "SEVERIN"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 3905,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "SIRAČ"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4502,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "ŠTEFANJE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4782,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "VELIKA PISANICA"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 5657,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "VELIKA TRNOVITICA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 4804,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "VELIKI GRĐEVAC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4839,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "VELIKO TROJSTVO"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 5665,
+      "Naziv županije": "Bjelovarsko-bilogorska",
+      "Naziv JLS-a": "ZRINSKI TOPOLOVAC"
+    }
+  ],
+  "meta": {
+    "title": "Medijalne cijene nekretnina po m² (JLS) — Bjelovarsko-bilogorska - Besplatno preuzimanje",
+    "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Bjelovarsko-bilogorska: 23 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data. Sadrži 23 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Medijalne cijene nekretnina po m² (JLS) — Bjelovarsko-bilogorska | ListBase",
+    "seo_description": "Preuzmi Medijalne cijene nekretnina po m² (JLS) — Bjelovarsko-bilogorska — 23 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 23 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

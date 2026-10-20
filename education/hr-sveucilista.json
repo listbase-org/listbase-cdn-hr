@@ -1,0 +1,186 @@
+{
+  "id": "hr-sveucilista",
+  "name": "Croatia — Universities (sveučilišta)",
+  "title": "Croatia — Universities (sveučilišta)",
+  "description": "List of accredited universities and higher-education institutions in Croatia. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Croatia\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Algebra University College",
+      "slug": "algebra",
+      "domain": "algebra.hr",
+      "domains": "algebra.hr",
+      "web_page": "http://www.algebra.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    },
+    {
+      "name": "University North",
+      "slug": "unin",
+      "domain": "unin.hr",
+      "domains": "unin.hr",
+      "web_page": "http://www.unin.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    },
+    {
+      "name": "University of Dubrovnik",
+      "slug": "unidu",
+      "domain": "unidu.hr",
+      "domains": "unidu.hr",
+      "web_page": "http://www.unidu.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    },
+    {
+      "name": "University of Osijek",
+      "slug": "unios",
+      "domain": "unios.hr",
+      "domains": "unios.hr",
+      "web_page": "http://www.unios.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    },
+    {
+      "name": "University of Pula",
+      "slug": "unipu",
+      "domain": "unipu.hr",
+      "domains": "unipu.hr",
+      "web_page": "http://www.unipu.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    },
+    {
+      "name": "University of Rijeka",
+      "slug": "uniri",
+      "domain": "uniri.hr",
+      "domains": "uniri.hr",
+      "web_page": "http://www.uniri.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    },
+    {
+      "name": "University of Split",
+      "slug": "unist",
+      "domain": "unist.hr",
+      "domains": "unist.hr",
+      "web_page": "http://www.unist.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    },
+    {
+      "name": "University of Zadar",
+      "slug": "unizd",
+      "domain": "unizd.hr",
+      "domains": "unizd.hr",
+      "web_page": "http://www.unizd.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    },
+    {
+      "name": "University of Zagreb",
+      "slug": "unizg",
+      "domain": "unizg.hr",
+      "domains": "unizg.hr",
+      "web_page": "http://www.unizg.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    },
+    {
+      "name": "VERN' University of Applied Sciences",
+      "slug": "vern",
+      "domain": "vern.hr",
+      "domains": "vern.hr",
+      "web_page": "http://www.vern.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    },
+    {
+      "name": "Zagreb School of Economics and Management",
+      "slug": "zsem",
+      "domain": "zsem.hr",
+      "domains": "zsem.hr",
+      "web_page": "http://www.zsem.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    },
+    {
+      "name": "Zagreb University of Applied Sciences",
+      "slug": "tvz",
+      "domain": "tvz.hr",
+      "domains": "tvz.hr",
+      "web_page": "http://www.tvz.hr/",
+      "country": "Croatia",
+      "country_code": "HR",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Croatia — Universities (sveučilišta) - Besplatno preuzimanje",
+    "description": "List of accredited universities and higher-education institutions in Croatia. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Croatia\"). Sadrži 12 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Croatia — Universities (sveučilišta) | ListBase",
+    "seo_description": "Preuzmi Croatia — Universities (sveučilišta) — 12 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 12 zapisa / 8 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,1301 @@
+{
+  "id": "hr-hosteli",
+  "name": "Hosteli",
+  "title": "Hosteli",
+  "description": "Hosteli u Hrvatskoj (252 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=hostel), izrez EU-POIS/HR.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 252,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "101 Dalmatinac Boutique Hostel",
+      "latitude": 43.519784,
+      "longitude": 16.469421
+    },
+    {
+      "name": "Adria",
+      "latitude": 43.463726,
+      "longitude": 16.590541
+    },
+    {
+      "name": "Adriatic Hostel",
+      "latitude": 43.508056,
+      "longitude": 16.441921
+    },
+    {
+      "name": "Adriatic Hostel",
+      "latitude": 44.11744,
+      "longitude": 15.235487
+    },
+    {
+      "name": "After dark",
+      "latitude": 43.510653,
+      "longitude": 16.436316
+    },
+    {
+      "name": "AI Hostel",
+      "latitude": 43.51482,
+      "longitude": 16.439491
+    },
+    {
+      "name": "Alfa Micro",
+      "latitude": 45.80931,
+      "longitude": 15.975082
+    },
+    {
+      "name": "Anchi Guesthouse",
+      "latitude": 42.661447,
+      "longitude": 18.085535
+    },
+    {
+      "name": "Angelina",
+      "latitude": 42.639721,
+      "longitude": 18.110095
+    },
+    {
+      "name": "Aparthotel Barbara",
+      "latitude": 46.151092,
+      "longitude": 15.59929
+    },
+    {
+      "name": "Apartman Curić",
+      "latitude": 43.516335,
+      "longitude": 16.248523
+    },
+    {
+      "name": "Apartmani Ardelić",
+      "latitude": 42.962051,
+      "longitude": 17.135533
+    },
+    {
+      "name": "Apartmani Irena",
+      "latitude": 45.333948,
+      "longitude": 14.291723
+    },
+    {
+      "name": "Apartment Davorka",
+      "latitude": 44.296177,
+      "longitude": 15.109854
+    },
+    {
+      "name": "Apartments \"Manuel\"",
+      "latitude": 45.31685,
+      "longitude": 13.566385
+    },
+    {
+      "name": "Apartments Balticadriatic",
+      "latitude": 45.19939,
+      "longitude": 14.664944
+    },
+    {
+      "name": "Apartments Milka",
+      "latitude": 45.429315,
+      "longitude": 13.52807
+    },
+    {
+      "name": "Appartements Delphin",
+      "latitude": 44.292665,
+      "longitude": 15.117195
+    },
+    {
+      "name": "Art Hostel Pipištrelo",
+      "latitude": 44.869369,
+      "longitude": 13.841848
+    },
+    {
+      "name": "Art Rijeka",
+      "latitude": 45.332414,
+      "longitude": 14.434521
+    },
+    {
+      "name": "Backpackers",
+      "latitude": 43.506597,
+      "longitude": 16.444259
+    },
+    {
+      "name": "Balkan Express Hostel",
+      "latitude": 45.808938,
+      "longitude": 15.953443
+    },
+    {
+      "name": "Boutique Hostel Forum",
+      "latitude": 44.116147,
+      "longitude": 15.224865
+    },
+    {
+      "name": "Boškinac",
+      "latitude": 44.572465,
+      "longitude": 14.900212
+    },
+    {
+      "name": "Bubnic apartman",
+      "latitude": 45.438833,
+      "longitude": 13.530942
+    },
+    {
+      "name": "Celjski Dom",
+      "latitude": 44.965596,
+      "longitude": 14.747175
+    },
+    {
+      "name": "Centar",
+      "latitude": 45.813628,
+      "longitude": 15.97956
+    },
+    {
+      "name": "chalet Tina",
+      "latitude": 44.562331,
+      "longitude": 15.635509
+    },
+    {
+      "name": "Ciril",
+      "latitude": 46.165517,
+      "longitude": 15.602579
+    },
+    {
+      "name": "City Centre Hostel",
+      "latitude": 45.816187,
+      "longitude": 15.976328
+    },
+    {
+      "name": "City Hostel",
+      "latitude": 43.516589,
+      "longitude": 16.250956
+    },
+    {
+      "name": "City Walls Hostel",
+      "latitude": 42.639528,
+      "longitude": 18.108114
+    },
+    {
+      "name": "Cliffbase",
+      "latitude": 43.134719,
+      "longitude": 16.595291
+    },
+    {
+      "name": "Crazy House Hostel",
+      "latitude": 44.877504,
+      "longitude": 13.848893
+    },
+    {
+      "name": "CroParadise Blue Hostel",
+      "latitude": 43.510993,
+      "longitude": 16.443083
+    },
+    {
+      "name": "CroParadise Green Hostel",
+      "latitude": 43.509453,
+      "longitude": 16.442889
+    },
+    {
+      "name": "CroParadise Pink Hostel",
+      "latitude": 43.511011,
+      "longitude": 16.443434
+    },
+    {
+      "name": "CUVI appartments",
+      "latitude": 45.067264,
+      "longitude": 13.646346
+    },
+    {
+      "name": "CŠOD OE Radenci",
+      "latitude": 45.467553,
+      "longitude": 15.092567
+    },
+    {
+      "name": "Das Hostel Rijeka",
+      "latitude": 45.329441,
+      "longitude": 14.459821
+    },
+    {
+      "name": "DESIGN HOSTEL \"Mr. Charles\"",
+      "latitude": 44.117525,
+      "longitude": 15.24025
+    },
+    {
+      "name": "Dharma Hostels",
+      "latitude": 45.31456,
+      "longitude": 14.475325
+    },
+    {
+      "name": "Dink's Place Hostel",
+      "latitude": 43.167493,
+      "longitude": 16.448297
+    },
+    {
+      "name": "Dom Crveni Križ Rijeka",
+      "latitude": 45.321361,
+      "longitude": 14.461416
+    },
+    {
+      "name": "Dom Crvenog križa Grada Zagreba",
+      "latitude": 45.889666,
+      "longitude": 15.934285
+    },
+    {
+      "name": "Dom na Mediteranu",
+      "latitude": 44.061833,
+      "longitude": 15.209251
+    },
+    {
+      "name": "Dormitorij",
+      "latitude": 42.642473,
+      "longitude": 18.102683
+    },
+    {
+      "name": "Dots",
+      "latitude": 45.810234,
+      "longitude": 15.981603
+    },
+    {
+      "name": "Downtown Boutique Hostel",
+      "latitude": 44.114372,
+      "longitude": 15.22654
+    },
+    {
+      "name": "Downtown hostel",
+      "latitude": 43.508315,
+      "longitude": 16.439254
+    },
+    {
+      "name": "Dragan's Den Hostel",
+      "latitude": 42.947841,
+      "longitude": 17.142533
+    },
+    {
+      "name": "Dragan's Den Plitvice",
+      "latitude": 44.85152,
+      "longitude": 15.42516
+    },
+    {
+      "name": "Dubrovnik Backpackers Club",
+      "latitude": 42.659072,
+      "longitude": 18.073758
+    },
+    {
+      "name": "Ekoethno Selo Strug",
+      "latitude": 45.314122,
+      "longitude": 16.834228
+    },
+    {
+      "name": "Emi",
+      "latitude": 45.484331,
+      "longitude": 13.500799
+    },
+    {
+      "name": "Empire Hostel",
+      "latitude": 43.508179,
+      "longitude": 16.441589
+    },
+    {
+      "name": "En Route Hostel",
+      "latitude": 43.508463,
+      "longitude": 16.451182
+    },
+    {
+      "name": "Falling Lakes Hostel",
+      "latitude": 44.747838,
+      "longitude": 15.702543
+    },
+    {
+      "name": "Festino",
+      "latitude": 45.316665,
+      "longitude": 13.566264
+    },
+    {
+      "name": "Filip",
+      "latitude": 45.808172,
+      "longitude": 15.984264
+    },
+    {
+      "name": "Flower Square Apartment Ilica",
+      "latitude": 45.813178,
+      "longitude": 15.974009
+    },
+    {
+      "name": "Fun Hostel",
+      "latitude": 45.320562,
+      "longitude": 14.460681
+    },
+    {
+      "name": "Funk Lounge Hostel",
+      "latitude": 45.81791,
+      "longitude": 16.006221
+    },
+    {
+      "name": "Funky Donkey",
+      "latitude": 43.381348,
+      "longitude": 16.56081
+    },
+    {
+      "name": "Funky Donky",
+      "latitude": 43.260822,
+      "longitude": 16.649006
+    },
+    {
+      "name": "Grad Mladih",
+      "latitude": 45.854518,
+      "longitude": 16.051629
+    },
+    {
+      "name": "Gravitas Hostel",
+      "latitude": 43.512372,
+      "longitude": 16.437215
+    },
+    {
+      "name": "Green Lizard",
+      "latitude": 43.169132,
+      "longitude": 16.446288
+    },
+    {
+      "name": "Guest House Kozjak",
+      "latitude": 46.090168,
+      "longitude": 15.919468
+    },
+    {
+      "name": "Haus Annabel",
+      "latitude": 44.295408,
+      "longitude": 15.108803
+    },
+    {
+      "name": "HI Hostel Rijeka",
+      "latitude": 45.321791,
+      "longitude": 14.459582
+    },
+    {
+      "name": "Hi Hostel Zagreb",
+      "latitude": 45.806728,
+      "longitude": 15.980466
+    },
+    {
+      "name": "Himalayan Hostel",
+      "latitude": 45.807482,
+      "longitude": 15.980717
+    },
+    {
+      "name": "Hobo Bear Hostel",
+      "latitude": 45.812416,
+      "longitude": 15.966661
+    },
+    {
+      "name": "Hostel & Rooms Ana",
+      "latitude": 42.641359,
+      "longitude": 18.110368
+    },
+    {
+      "name": "Hostel 101 Dalmatinac",
+      "latitude": 45.348269,
+      "longitude": 19.001966
+    },
+    {
+      "name": "Hostel 365 For U",
+      "latitude": 42.650666,
+      "longitude": 18.092967
+    },
+    {
+      "name": "Hostel 63",
+      "latitude": 45.814117,
+      "longitude": 15.984849
+    },
+    {
+      "name": "Hostel Adria Zadar",
+      "latitude": 44.152568,
+      "longitude": 15.205337
+    },
+    {
+      "name": "Hostel Arena",
+      "latitude": 45.770594,
+      "longitude": 15.947973
+    },
+    {
+      "name": "Hostel Backpacker's Fairytale",
+      "latitude": 43.511765,
+      "longitude": 16.442705
+    },
+    {
+      "name": "Hostel Bordada",
+      "latitude": 45.274369,
+      "longitude": 14.569413
+    },
+    {
+      "name": "Hostel Borik",
+      "latitude": 46.050323,
+      "longitude": 17.074875
+    },
+    {
+      "name": "Hostel Bureau",
+      "latitude": 45.813042,
+      "longitude": 15.982813
+    },
+    {
+      "name": "Hostel Caenazzo",
+      "latitude": 42.961866,
+      "longitude": 17.136057
+    },
+    {
+      "name": "Hostel Casablanca",
+      "latitude": 45.813389,
+      "longitude": 15.99242
+    },
+    {
+      "name": "Hostel Chameleon",
+      "latitude": 45.809318,
+      "longitude": 15.974658
+    },
+    {
+      "name": "Hostel City Central Old Town",
+      "latitude": 42.641824,
+      "longitude": 18.104971
+    },
+    {
+      "name": "Hostel Crni Lug",
+      "latitude": 45.418865,
+      "longitude": 14.705505
+    },
+    {
+      "name": "Hostel Cvrčak",
+      "latitude": 44.925897,
+      "longitude": 14.029305
+    },
+    {
+      "name": "Hostel Dalmatia",
+      "latitude": 43.402106,
+      "longitude": 16.836323
+    },
+    {
+      "name": "Hostel Dioklecijan Delux",
+      "latitude": 43.507683,
+      "longitude": 16.4729
+    },
+    {
+      "name": "Hostel Dvor",
+      "latitude": 43.51095,
+      "longitude": 16.433201
+    },
+    {
+      "name": "Hostel Elena",
+      "latitude": 44.112864,
+      "longitude": 15.225724
+    },
+    {
+      "name": "Hostel Enjoy",
+      "latitude": 44.870595,
+      "longitude": 13.85557
+    },
+    {
+      "name": "Hostel Fancy",
+      "latitude": 45.798566,
+      "longitude": 15.964849
+    },
+    {
+      "name": "Hostel Favela",
+      "latitude": 45.811403,
+      "longitude": 16.014639
+    },
+    {
+      "name": "Hostel Fužinarska House",
+      "latitude": 45.306271,
+      "longitude": 14.716003
+    },
+    {
+      "name": "Hostel Globo",
+      "latitude": 43.732494,
+      "longitude": 15.893148
+    },
+    {
+      "name": "Hostel Jedro Gradac",
+      "latitude": 43.105061,
+      "longitude": 17.345591
+    },
+    {
+      "name": "Hostel Kantun",
+      "latitude": 45.017171,
+      "longitude": 14.631105
+    },
+    {
+      "name": "Hostel Karlovac",
+      "latitude": 45.163536,
+      "longitude": 14.711849
+    },
+    {
+      "name": "Hostel Kiki",
+      "latitude": 43.263593,
+      "longitude": 16.651784
+    },
+    {
+      "name": "Hostel Korcula",
+      "latitude": 42.961179,
+      "longitude": 17.135893
+    },
+    {
+      "name": "Hostel Korzo",
+      "latitude": 45.327012,
+      "longitude": 14.442055
+    },
+    {
+      "name": "Hostel Kosy",
+      "latitude": 45.326241,
+      "longitude": 14.445533
+    },
+    {
+      "name": "Hostel Križevci",
+      "latitude": 46.021076,
+      "longitude": 16.541676
+    },
+    {
+      "name": "Hostel Kumrovec",
+      "latitude": 46.076699,
+      "longitude": 15.679744
+    },
+    {
+      "name": "Hostel Lana Haus",
+      "latitude": 44.876372,
+      "longitude": 15.716126
+    },
+    {
+      "name": "Hostel Lapidarium",
+      "latitude": 45.775675,
+      "longitude": 15.953357
+    },
+    {
+      "name": "Hostel Leptir",
+      "latitude": 45.807581,
+      "longitude": 15.939343
+    },
+    {
+      "name": "Hostel Levicki",
+      "latitude": 45.153317,
+      "longitude": 18.011135
+    },
+    {
+      "name": "Hostel Link",
+      "latitude": 45.298063,
+      "longitude": 14.276657
+    },
+    {
+      "name": "Hostel Loda",
+      "latitude": 43.820944,
+      "longitude": 15.922352
+    },
+    {
+      "name": "Hostel Makarska SubTub",
+      "latitude": 43.295402,
+      "longitude": 17.019675
+    },
+    {
+      "name": "Hostel Mare",
+      "latitude": 43.736396,
+      "longitude": 15.891778
+    },
+    {
+      "name": "Hostel Marina",
+      "latitude": 43.513247,
+      "longitude": 16.248633
+    },
+    {
+      "name": "Hostel Marinero",
+      "latitude": 43.172827,
+      "longitude": 16.440363
+    },
+    {
+      "name": "Hostel Marker Dubrovnik Old Town",
+      "latitude": 42.641681,
+      "longitude": 18.104308
+    },
+    {
+      "name": "hostel Morčić",
+      "latitude": 45.327567,
+      "longitude": 14.439431
+    },
+    {
+      "name": "Hostel Na putu",
+      "latitude": 45.49263,
+      "longitude": 15.550388
+    },
+    {
+      "name": "Hostel Oasis",
+      "latitude": 43.505945,
+      "longitude": 16.457635
+    },
+    {
+      "name": "Hostel Old Town 1819",
+      "latitude": 43.734938,
+      "longitude": 15.891678
+    },
+    {
+      "name": "Hostel Old Town Cinema",
+      "latitude": 45.224795,
+      "longitude": 19.380128
+    },
+    {
+      "name": "Hostel Papalina",
+      "latitude": 45.227009,
+      "longitude": 13.594789
+    },
+    {
+      "name": "Hostel Parenzana Magic Friendly Center",
+      "latitude": 45.40277,
+      "longitude": 13.692222
+    },
+    {
+      "name": "Hostel Plus",
+      "latitude": 45.289896,
+      "longitude": 18.799386
+    },
+    {
+      "name": "Hostel Plus Centar",
+      "latitude": 45.287727,
+      "longitude": 18.80306
+    },
+    {
+      "name": "Hostel Providenca",
+      "latitude": 44.556719,
+      "longitude": 14.883405
+    },
+    {
+      "name": "Hostel Samobor",
+      "latitude": 45.801304,
+      "longitude": 15.706324
+    },
+    {
+      "name": "Hostel Savski most",
+      "latitude": 45.785849,
+      "longitude": 15.952768
+    },
+    {
+      "name": "Hostel Sol",
+      "latitude": 42.660196,
+      "longitude": 18.085979
+    },
+    {
+      "name": "Hostel Splendido",
+      "latitude": 43.73273,
+      "longitude": 15.893972
+    },
+    {
+      "name": "Hostel Split Backpackers2",
+      "latitude": 43.505404,
+      "longitude": 16.447115
+    },
+    {
+      "name": "Hostel Stoimena",
+      "latitude": 45.168426,
+      "longitude": 14.703747
+    },
+    {
+      "name": "Hostel Sunce",
+      "latitude": 43.183665,
+      "longitude": 16.599897
+    },
+    {
+      "name": "Hostel Suzzzy",
+      "latitude": 45.333757,
+      "longitude": 16.971152
+    },
+    {
+      "name": "Hostel Sveti Rok",
+      "latitude": 44.362298,
+      "longitude": 15.653301
+    },
+    {
+      "name": "Hostel Trogir",
+      "latitude": 43.51494,
+      "longitude": 16.253023
+    },
+    {
+      "name": "Hostel Villa Angelina Old Town",
+      "latitude": 42.642556,
+      "longitude": 18.108609
+    },
+    {
+      "name": "Hostel Villa Micika",
+      "latitude": 42.655193,
+      "longitude": 18.074742
+    },
+    {
+      "name": "Hostel Villa Zorana",
+      "latitude": 43.16789,
+      "longitude": 16.44616
+    },
+    {
+      "name": "Hostel Yeti",
+      "latitude": 43.293444,
+      "longitude": 17.020778
+    },
+    {
+      "name": "Hostel Zlatokrila",
+      "latitude": 44.521194,
+      "longitude": 14.503815
+    },
+    {
+      "name": "Hostel Čakovec",
+      "latitude": 45.192588,
+      "longitude": 14.667902
+    },
+    {
+      "name": "Hostel Čelina",
+      "latitude": 44.527795,
+      "longitude": 15.114371
+    },
+    {
+      "name": "Hostel54",
+      "latitude": 45.79873,
+      "longitude": 15.94777
+    },
+    {
+      "name": "Hotel Aton",
+      "latitude": 46.38115,
+      "longitude": 16.389938
+    },
+    {
+      "name": "Hotel Conte",
+      "latitude": 43.336245,
+      "longitude": 16.969485
+    },
+    {
+      "name": "House Veljko",
+      "latitude": 44.848514,
+      "longitude": 15.436098
+    },
+    {
+      "name": "Hrid",
+      "latitude": 43.942372,
+      "longitude": 15.449885
+    },
+    {
+      "name": "Hurricane hostel",
+      "latitude": 43.51048,
+      "longitude": 16.44125
+    },
+    {
+      "name": "Hvar Out Hostel",
+      "latitude": 43.170868,
+      "longitude": 16.441741
+    },
+    {
+      "name": "Indigo",
+      "latitude": 43.734682,
+      "longitude": 15.891279
+    },
+    {
+      "name": "Inn",
+      "latitude": 43.761109,
+      "longitude": 15.782758
+    },
+    {
+      "name": "itt lakunk",
+      "latitude": 45.130907,
+      "longitude": 14.781221
+    },
+    {
+      "name": "Kapa hostel",
+      "latitude": 43.165623,
+      "longitude": 16.446686
+    },
+    {
+      "name": "Kaptol",
+      "latitude": 45.81478,
+      "longitude": 15.977987
+    },
+    {
+      "name": "Kings Landing Hostel Old Town",
+      "latitude": 42.641933,
+      "longitude": 18.110121
+    },
+    {
+      "name": "Kod Zore",
+      "latitude": 44.489462,
+      "longitude": 16.143184
+    },
+    {
+      "name": "Kolovare",
+      "latitude": 44.105861,
+      "longitude": 15.23454
+    },
+    {
+      "name": "KTC",
+      "latitude": 46.015078,
+      "longitude": 16.536226
+    },
+    {
+      "name": "Kuca Bajlo",
+      "latitude": 44.101762,
+      "longitude": 15.241636
+    },
+    {
+      "name": "Lazy monkey hostel",
+      "latitude": 44.101309,
+      "longitude": 15.246501
+    },
+    {
+      "name": "Life Center Kroatien",
+      "latitude": 45.169629,
+      "longitude": 14.700246
+    },
+    {
+      "name": "Lika",
+      "latitude": 45.798551,
+      "longitude": 15.999724
+    },
+    {
+      "name": "Logistics Youth Centre",
+      "latitude": 45.758678,
+      "longitude": 16.01997
+    },
+    {
+      "name": "Luka's Lodge",
+      "latitude": 43.169977,
+      "longitude": 16.446002
+    },
+    {
+      "name": "Luna Hostel",
+      "latitude": 45.315714,
+      "longitude": 14.727556
+    },
+    {
+      "name": "Main Square Hostel",
+      "latitude": 45.813804,
+      "longitude": 15.976225
+    },
+    {
+      "name": "Maju Jaya Hostel",
+      "latitude": 45.797735,
+      "longitude": 16.013458
+    },
+    {
+      "name": "Maksimilijan Restoran & Hostel",
+      "latitude": 45.25883,
+      "longitude": 17.385002
+    },
+    {
+      "name": "Mali mrak",
+      "latitude": 45.813038,
+      "longitude": 15.929332
+    },
+    {
+      "name": "Mandela Hostel",
+      "latitude": 43.510283,
+      "longitude": 16.434973
+    },
+    {
+      "name": "MONTE ZARO",
+      "latitude": 44.861967,
+      "longitude": 13.846954
+    },
+    {
+      "name": "Moving",
+      "latitude": 45.803887,
+      "longitude": 15.954303
+    },
+    {
+      "name": "My Way Hostel Dubrovnik",
+      "latitude": 42.65256,
+      "longitude": 18.093429
+    },
+    {
+      "name": "My Way House",
+      "latitude": 45.806616,
+      "longitude": 15.984715
+    },
+    {
+      "name": "Neron Turistički centar",
+      "latitude": 44.73697,
+      "longitude": 15.923103
+    },
+    {
+      "name": "Nokturno",
+      "latitude": 45.814762,
+      "longitude": 15.976893
+    },
+    {
+      "name": "Odmaralište \"Požega\"",
+      "latitude": 43.721821,
+      "longitude": 15.798343
+    },
+    {
+      "name": "Odmaralište Zaostrog - Sisak",
+      "latitude": 43.13945,
+      "longitude": 17.281795
+    },
+    {
+      "name": "Old School Hostel",
+      "latitude": 45.321757,
+      "longitude": 14.497578
+    },
+    {
+      "name": "Old Town Backpackers",
+      "latitude": 44.113882,
+      "longitude": 15.227276
+    },
+    {
+      "name": "Old Town Hostel",
+      "latitude": 42.641836,
+      "longitude": 18.108301
+    },
+    {
+      "name": "Old Town Hostel",
+      "latitude": 44.113712,
+      "longitude": 15.227802
+    },
+    {
+      "name": "Omladinski hostel Dubrovnik",
+      "latitude": 42.648048,
+      "longitude": 18.092561
+    },
+    {
+      "name": "Omladinski hostel Pula",
+      "latitude": 44.849747,
+      "longitude": 13.836906
+    },
+    {
+      "name": "Omladinski hostel Veli Lošinj",
+      "latitude": 44.521811,
+      "longitude": 14.50191
+    },
+    {
+      "name": "Omladinski hostel Zadar",
+      "latitude": 44.129817,
+      "longitude": 15.211559
+    },
+    {
+      "name": "ORANGE",
+      "latitude": 43.16944,
+      "longitude": 16.446011
+    },
+    {
+      "name": "OT Hostel",
+      "latitude": 43.507519,
+      "longitude": 16.457424
+    },
+    {
+      "name": "Palmers Lodge",
+      "latitude": 45.805638,
+      "longitude": 15.983877
+    },
+    {
+      "name": "Party Hostel",
+      "latitude": 45.801198,
+      "longitude": 16.010797
+    },
+    {
+      "name": "Perla",
+      "latitude": 45.555092,
+      "longitude": 18.681195
+    },
+    {
+      "name": "Peski",
+      "latitude": 43.722967,
+      "longitude": 15.796845
+    },
+    {
+      "name": "Petra Marina",
+      "latitude": 42.657142,
+      "longitude": 18.088519
+    },
+    {
+      "name": "Pinesta",
+      "latitude": 45.330203,
+      "longitude": 13.540663
+    },
+    {
+      "name": "Plitvice Backpackers",
+      "latitude": 44.852714,
+      "longitude": 15.653193
+    },
+    {
+      "name": "Poolside hostel",
+      "latitude": 45.815873,
+      "longitude": 15.985419
+    },
+    {
+      "name": "Poslon",
+      "latitude": 46.147582,
+      "longitude": 15.880179
+    },
+    {
+      "name": "Prenoćište Slavonska kuća",
+      "latitude": 45.860783,
+      "longitude": 17.307526
+    },
+    {
+      "name": "Prenočište \"Kod Duje\"",
+      "latitude": 45.331417,
+      "longitude": 14.450859
+    },
+    {
+      "name": "Pula Art Hostel",
+      "latitude": 44.860444,
+      "longitude": 13.847628
+    },
+    {
+      "name": "Radgona",
+      "latitude": 45.386398,
+      "longitude": 13.533484
+    },
+    {
+      "name": "Rock Hostel",
+      "latitude": 44.11629,
+      "longitude": 15.232506
+    },
+    {
+      "name": "San Nikola",
+      "latitude": 43.183255,
+      "longitude": 16.599066
+    },
+    {
+      "name": "Scala",
+      "latitude": 43.734033,
+      "longitude": 15.896304
+    },
+    {
+      "name": "Seljačko domaćinstvo \"Opođe\"",
+      "latitude": 45.290769,
+      "longitude": 17.393545
+    },
+    {
+      "name": "Shangri-La Hostel",
+      "latitude": 45.808416,
+      "longitude": 15.974833
+    },
+    {
+      "name": "Shappy",
+      "latitude": 45.812001,
+      "longitude": 15.972737
+    },
+    {
+      "name": "Silver Central Hostel",
+      "latitude": 43.510085,
+      "longitude": 16.4377
+    },
+    {
+      "name": "Simple Hostel",
+      "latitude": 43.505957,
+      "longitude": 16.44562
+    },
+    {
+      "name": "Situs",
+      "latitude": 43.513577,
+      "longitude": 16.437639
+    },
+    {
+      "name": "Skijaški dom Mrkopalj",
+      "latitude": 45.30909,
+      "longitude": 14.86076
+    },
+    {
+      "name": "Slavonija point",
+      "latitude": 45.311378,
+      "longitude": 17.324124
+    },
+    {
+      "name": "Split Hostel",
+      "latitude": 43.509506,
+      "longitude": 16.438411
+    },
+    {
+      "name": "Split Old Town / City Square Hostel",
+      "latitude": 43.508702,
+      "longitude": 16.438694
+    },
+    {
+      "name": "Stara Vaga Bar and Hostel",
+      "latitude": 46.31736,
+      "longitude": 16.340553
+    },
+    {
+      "name": "Stay Swanky",
+      "latitude": 45.813645,
+      "longitude": 15.968497
+    },
+    {
+      "name": "Studentski dom",
+      "latitude": 46.309633,
+      "longitude": 16.34867
+    },
+    {
+      "name": "Sunset Hostel",
+      "latitude": 44.097092,
+      "longitude": 15.247721
+    },
+    {
+      "name": "Sweet Spot Hostel",
+      "latitude": 43.505575,
+      "longitude": 16.456896
+    },
+    {
+      "name": "Tchaikovsky Hostel Split",
+      "latitude": 43.512028,
+      "longitude": 16.437057
+    },
+    {
+      "name": "Temza",
+      "latitude": 45.806353,
+      "longitude": 15.982568
+    },
+    {
+      "name": "The Brit Hostel",
+      "latitude": 45.811944,
+      "longitude": 15.964353
+    },
+    {
+      "name": "The Cherry Hostel",
+      "latitude": 45.798207,
+      "longitude": 15.958724
+    },
+    {
+      "name": "The Hostel",
+      "latitude": 44.111391,
+      "longitude": 15.235412
+    },
+    {
+      "name": "The Mellow Monkey Hostel",
+      "latitude": 44.101549,
+      "longitude": 15.242928
+    },
+    {
+      "name": "The Shaka Hostel",
+      "latitude": 43.169552,
+      "longitude": 16.447145
+    },
+    {
+      "name": "The Wallaby House Hostel",
+      "latitude": 45.798989,
+      "longitude": 15.998005
+    },
+    {
+      "name": "The White Rabbit Hostel",
+      "latitude": 43.171976,
+      "longitude": 16.442016
+    },
+    {
+      "name": "Three corners hostel",
+      "latitude": 44.113168,
+      "longitude": 15.226355
+    },
+    {
+      "name": "Timeout Heritage Hotel Zagreb",
+      "latitude": 45.813204,
+      "longitude": 15.973568
+    },
+    {
+      "name": "Toplice Lešće",
+      "latitude": 45.374849,
+      "longitude": 15.356198
+    },
+    {
+      "name": "Tufna",
+      "latitude": 45.560453,
+      "longitude": 18.694485
+    },
+    {
+      "name": "Underground Hostel",
+      "latitude": 44.877811,
+      "longitude": 13.848563
+    },
+    {
+      "name": "Val",
+      "latitude": 44.525975,
+      "longitude": 15.072149
+    },
+    {
+      "name": "Vila Medvedec",
+      "latitude": 43.941846,
+      "longitude": 15.448805
+    },
+    {
+      "name": "Vila Nikolina",
+      "latitude": 43.942425,
+      "longitude": 15.448176
+    },
+    {
+      "name": "Villa Divine",
+      "latitude": 42.662283,
+      "longitude": 18.077248
+    },
+    {
+      "name": "Villa Knežević",
+      "latitude": 44.871753,
+      "longitude": 15.63019
+    },
+    {
+      "name": "Villa Laurel",
+      "latitude": 45.299216,
+      "longitude": 14.27689
+    },
+    {
+      "name": "villa Mia",
+      "latitude": 44.124277,
+      "longitude": 15.228468
+    },
+    {
+      "name": "Villa Niki",
+      "latitude": 42.578609,
+      "longitude": 18.224313
+    },
+    {
+      "name": "Villa Skansi",
+      "latitude": 43.167925,
+      "longitude": 16.446001
+    },
+    {
+      "name": "Vortex",
+      "latitude": 46.309828,
+      "longitude": 16.337859
+    },
+    {
+      "name": "White house hostel",
+      "latitude": 43.261867,
+      "longitude": 16.651821
+    },
+    {
+      "name": "Whole wide world hostel",
+      "latitude": 45.812061,
+      "longitude": 15.964258
+    },
+    {
+      "name": "Youth Hostel Villa Marija",
+      "latitude": 43.167449,
+      "longitude": 16.450372
+    },
+    {
+      "name": "Youthhostel Ravnice",
+      "latitude": 45.818928,
+      "longitude": 16.029956
+    },
+    {
+      "name": "Zrinjevac",
+      "latitude": 45.554847,
+      "longitude": 18.681274
+    }
+  ],
+  "meta": {
+    "title": "Hosteli - Besplatno preuzimanje",
+    "description": "Hosteli u Hrvatskoj (252 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=hostel), izrez EU-POIS/HR. Sadrži 252 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Hosteli | ListBase",
+    "seo_description": "Preuzmi Hosteli — 252 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 252 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

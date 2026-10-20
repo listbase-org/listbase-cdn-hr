@@ -1,0 +1,224 @@
+{
+  "id": "hr-osobna-imena",
+  "name": "Najpopularnija osobna imena u Hrvatskoj (Popular Croatian Forenames)",
+  "title": "Najpopularnija osobna imena u Hrvatskoj (Popular Croatian Forenames)",
+  "description": "Najčešća muška i ženska osobna imena u Hrvatskoj prema podacima Državnog zavoda za statistiku iz 2021. godine; rangirana po učestalosti.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "N-HR-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Mia",
+      "romanized": "Mia",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Lucija",
+      "romanized": "Lucija",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Nika",
+      "romanized": "Nika",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Rita",
+      "romanized": "Rita",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "Ema",
+      "romanized": "Ema",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Mila",
+      "romanized": "Mila",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Marta",
+      "romanized": "Marta",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Sara",
+      "romanized": "Sara",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Ana",
+      "romanized": "Ana",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Dora",
+      "romanized": "Dora",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "Luka",
+      "romanized": "Luka",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "David",
+      "romanized": "David",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "Jakov",
+      "romanized": "Jakov",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Ivan",
+      "romanized": "Ivan",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Roko",
+      "romanized": "Roko",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Petar",
+      "romanized": "Petar",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Mateo",
+      "romanized": "Mateo",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Niko",
+      "romanized": "Niko",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "Matej",
+      "romanized": "Matej",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "Fran",
+      "romanized": "Fran",
+      "year": 2021
+    },
+    {
+      "name_group": "N-HR-1-M-11",
+      "gender": "M",
+      "rank": 11,
+      "localized": "Josip",
+      "romanized": "Josip",
+      "year": 2021
+    }
+  ],
+  "meta": {
+    "title": "Najpopularnija osobna imena u Hrvatskoj (Popular Croatian Forenames) - Besplatno preuzimanje",
+    "description": "Najčešća muška i ženska osobna imena u Hrvatskoj prema podacima Državnog zavoda za statistiku iz 2021. godine; rangirana po učestalosti. Sadrži 21 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Najpopularnija osobna imena u Hrvatskoj (Popular Croatian Forenames) | ListBase",
+    "seo_description": "Preuzmi Najpopularnija osobna imena u Hrvatskoj (Popular Croatian Forenames) — 21 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 21 zapisa / 6 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

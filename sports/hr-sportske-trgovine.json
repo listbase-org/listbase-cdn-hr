@@ -1,0 +1,861 @@
+{
+  "id": "hr-sportske-trgovine",
+  "name": "Sportske trgovine",
+  "title": "Sportske trgovine",
+  "description": "Sportske trgovine u Hrvatskoj (164 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=sports), izrez EU-POIS/HR.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 164,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "active bol",
+      "latitude": 43.263032,
+      "longitude": 16.609924
+    },
+    {
+      "name": "Adidas",
+      "latitude": 43.712874,
+      "longitude": 15.913641
+    },
+    {
+      "name": "Adidas",
+      "latitude": 44.868423,
+      "longitude": 13.844974
+    },
+    {
+      "name": "Adidas",
+      "latitude": 45.317914,
+      "longitude": 14.468987
+    },
+    {
+      "name": "Adidas",
+      "latitude": 45.555013,
+      "longitude": 18.638738
+    },
+    {
+      "name": "Adidas",
+      "latitude": 45.770146,
+      "longitude": 15.94001
+    },
+    {
+      "name": "Adidas",
+      "latitude": 45.812031,
+      "longitude": 15.975909
+    },
+    {
+      "name": "Adidas",
+      "latitude": 45.813049,
+      "longitude": 15.972449
+    },
+    {
+      "name": "Adidas",
+      "latitude": 46.263446,
+      "longitude": 16.374715
+    },
+    {
+      "name": "Adidas outlet",
+      "latitude": 43.588047,
+      "longitude": 16.570883
+    },
+    {
+      "name": "Adidas Outlet",
+      "latitude": 45.792057,
+      "longitude": 16.15275
+    },
+    {
+      "name": "Adidas Outlet",
+      "latitude": 45.803512,
+      "longitude": 16.113283
+    },
+    {
+      "name": "Adidas Outlet",
+      "latitude": 46.087514,
+      "longitude": 15.912778
+    },
+    {
+      "name": "Adventure Rakela",
+      "latitude": 43.510979,
+      "longitude": 16.453513
+    },
+    {
+      "name": "AMG Šport",
+      "latitude": 44.116639,
+      "longitude": 15.224953
+    },
+    {
+      "name": "aqua",
+      "latitude": 44.113596,
+      "longitude": 15.226765
+    },
+    {
+      "name": "Athlete's foot",
+      "latitude": 45.770035,
+      "longitude": 15.939109
+    },
+    {
+      "name": "BBV Sport",
+      "latitude": 45.798443,
+      "longitude": 15.762869
+    },
+    {
+      "name": "Budo sport",
+      "latitude": 45.799198,
+      "longitude": 15.996085
+    },
+    {
+      "name": "Bungee Site Zrce",
+      "latitude": 44.5412,
+      "longitude": 14.913139
+    },
+    {
+      "name": "City store outlet",
+      "latitude": 43.588769,
+      "longitude": 16.571556
+    },
+    {
+      "name": "Combat international",
+      "latitude": 45.799062,
+      "longitude": 15.982743
+    },
+    {
+      "name": "DADO servis",
+      "latitude": 45.821778,
+      "longitude": 16.033096
+    },
+    {
+      "name": "Decathlon",
+      "latitude": 43.529885,
+      "longitude": 16.490396
+    },
+    {
+      "name": "Decathlon",
+      "latitude": 44.115894,
+      "longitude": 15.25589
+    },
+    {
+      "name": "Decathlon",
+      "latitude": 44.866156,
+      "longitude": 13.868772
+    },
+    {
+      "name": "Decathlon",
+      "latitude": 45.347733,
+      "longitude": 14.419724
+    },
+    {
+      "name": "Decathlon",
+      "latitude": 45.561976,
+      "longitude": 18.637036
+    },
+    {
+      "name": "Decathlon",
+      "latitude": 46.291734,
+      "longitude": 16.355026
+    },
+    {
+      "name": "Decathlon istok",
+      "latitude": 45.802676,
+      "longitude": 16.047958
+    },
+    {
+      "name": "Decathlon zapad",
+      "latitude": 45.79559,
+      "longitude": 15.856699
+    },
+    {
+      "name": "ExtraSports",
+      "latitude": 45.769331,
+      "longitude": 15.935935
+    },
+    {
+      "name": "Extreme Sport",
+      "latitude": 45.81368,
+      "longitude": 15.970441
+    },
+    {
+      "name": "Fan shop",
+      "latitude": 45.813333,
+      "longitude": 15.970772
+    },
+    {
+      "name": "Ferivi sport",
+      "latitude": 45.159596,
+      "longitude": 17.998298
+    },
+    {
+      "name": "Hajduk Split Fan Shop",
+      "latitude": 43.520148,
+      "longitude": 16.43031
+    },
+    {
+      "name": "Hervis",
+      "latitude": 43.711905,
+      "longitude": 15.912651
+    },
+    {
+      "name": "Hervis",
+      "latitude": 44.868352,
+      "longitude": 13.867959
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.159411,
+      "longitude": 17.998868
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.286973,
+      "longitude": 18.752303
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.334285,
+      "longitude": 14.508425
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.337736,
+      "longitude": 14.408645
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.494456,
+      "longitude": 16.379244
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.546785,
+      "longitude": 18.690053
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.555123,
+      "longitude": 18.636553
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.756308,
+      "longitude": 15.988478
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.798996,
+      "longitude": 15.88546
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.802481,
+      "longitude": 16.05103
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.815243,
+      "longitude": 16.105654
+    },
+    {
+      "name": "Hervis",
+      "latitude": 45.872677,
+      "longitude": 15.826878
+    },
+    {
+      "name": "Hervis Sports",
+      "latitude": 46.087072,
+      "longitude": 15.912406
+    },
+    {
+      "name": "HK Style",
+      "latitude": 45.154395,
+      "longitude": 18.018164
+    },
+    {
+      "name": "HNK Rijeka Fan Shop",
+      "latitude": 45.326257,
+      "longitude": 14.446062
+    },
+    {
+      "name": "Hockey4U",
+      "latitude": 45.776578,
+      "longitude": 15.977609
+    },
+    {
+      "name": "Hristo Airsoft Store",
+      "latitude": 45.786431,
+      "longitude": 16.005277
+    },
+    {
+      "name": "Hrvoje sport",
+      "latitude": 45.801303,
+      "longitude": 15.991653
+    },
+    {
+      "name": "hummel",
+      "latitude": 45.770123,
+      "longitude": 15.939599
+    },
+    {
+      "name": "Iglu šport",
+      "latitude": 43.510113,
+      "longitude": 16.436441
+    },
+    {
+      "name": "In Shape",
+      "latitude": 45.79259,
+      "longitude": 15.91191
+    },
+    {
+      "name": "Intersport",
+      "latitude": 42.652557,
+      "longitude": 18.090781
+    },
+    {
+      "name": "Intersport",
+      "latitude": 43.05415,
+      "longitude": 17.64576
+    },
+    {
+      "name": "Intersport",
+      "latitude": 43.288829,
+      "longitude": 17.025394
+    },
+    {
+      "name": "Intersport",
+      "latitude": 43.513406,
+      "longitude": 16.502014
+    },
+    {
+      "name": "Intersport",
+      "latitude": 43.542057,
+      "longitude": 16.289791
+    },
+    {
+      "name": "Intersport",
+      "latitude": 43.713357,
+      "longitude": 15.912522
+    },
+    {
+      "name": "Intersport",
+      "latitude": 43.760254,
+      "longitude": 15.78303
+    },
+    {
+      "name": "Intersport",
+      "latitude": 43.765471,
+      "longitude": 15.795673
+    },
+    {
+      "name": "Intersport",
+      "latitude": 43.941322,
+      "longitude": 15.453394
+    },
+    {
+      "name": "Intersport",
+      "latitude": 44.115864,
+      "longitude": 15.255573
+    },
+    {
+      "name": "Intersport",
+      "latitude": 44.869515,
+      "longitude": 13.86752
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.036132,
+      "longitude": 14.567097
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.080615,
+      "longitude": 13.65496
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.090024,
+      "longitude": 13.658974
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.105808,
+      "longitude": 14.116966
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.188153,
+      "longitude": 14.680267
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.223686,
+      "longitude": 13.597591
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.317174,
+      "longitude": 14.469836
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.339369,
+      "longitude": 17.682983
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.432102,
+      "longitude": 13.532459
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.493242,
+      "longitude": 15.548499
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.49626,
+      "longitude": 16.358279
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.505555,
+      "longitude": 15.544236
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.714405,
+      "longitude": 16.070495
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.770013,
+      "longitude": 15.93885
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.802615,
+      "longitude": 16.006735
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.811441,
+      "longitude": 15.711728
+    },
+    {
+      "name": "Intersport",
+      "latitude": 45.811966,
+      "longitude": 15.979376
+    },
+    {
+      "name": "Intersport",
+      "latitude": 46.311426,
+      "longitude": 16.326048
+    },
+    {
+      "name": "Intersport",
+      "latitude": 46.318604,
+      "longitude": 16.305815
+    },
+    {
+      "name": "iTAK Sport",
+      "latitude": 45.815729,
+      "longitude": 15.985211
+    },
+    {
+      "name": "Lera SPORT Shop and Service",
+      "latitude": 45.356049,
+      "longitude": 14.487608
+    },
+    {
+      "name": "Market Magdalena",
+      "latitude": 44.138077,
+      "longitude": 15.21469
+    },
+    {
+      "name": "Maya Maya",
+      "latitude": 45.79229,
+      "longitude": 16.15292
+    },
+    {
+      "name": "Multi-sport d.o.o.",
+      "latitude": 45.241309,
+      "longitude": 13.949936
+    },
+    {
+      "name": "Nim Sport",
+      "latitude": 45.901607,
+      "longitude": 16.842144
+    },
+    {
+      "name": "Polleo Sport",
+      "latitude": 45.561304,
+      "longitude": 18.676314
+    },
+    {
+      "name": "Polleo Sport",
+      "latitude": 45.777747,
+      "longitude": 15.969322
+    },
+    {
+      "name": "Polleo sport",
+      "latitude": 45.797942,
+      "longitude": 15.94399
+    },
+    {
+      "name": "Polleo sport",
+      "latitude": 45.813062,
+      "longitude": 15.979779
+    },
+    {
+      "name": "Polleo Sport",
+      "latitude": 45.871165,
+      "longitude": 15.825968
+    },
+    {
+      "name": "Polleosport",
+      "latitude": 44.114774,
+      "longitude": 15.233567
+    },
+    {
+      "name": "Pop Sport",
+      "latitude": 44.868127,
+      "longitude": 13.848452
+    },
+    {
+      "name": "Pressing",
+      "latitude": 45.562863,
+      "longitude": 18.676762
+    },
+    {
+      "name": "Pride",
+      "latitude": 43.505563,
+      "longitude": 16.449891
+    },
+    {
+      "name": "Proteini outlet",
+      "latitude": 45.794902,
+      "longitude": 15.992208
+    },
+    {
+      "name": "PTO Barba",
+      "latitude": 43.444061,
+      "longitude": 16.691882
+    },
+    {
+      "name": "Rost-sport",
+      "latitude": 45.808204,
+      "longitude": 15.945875
+    },
+    {
+      "name": "Rost-sport",
+      "latitude": 45.827295,
+      "longitude": 16.077094
+    },
+    {
+      "name": "Running Gate",
+      "latitude": 45.814701,
+      "longitude": 15.995659
+    },
+    {
+      "name": "Saloma",
+      "latitude": 45.266782,
+      "longitude": 15.224569
+    },
+    {
+      "name": "Splendor tekstil",
+      "latitude": 45.795598,
+      "longitude": 15.909036
+    },
+    {
+      "name": "Sport & Moda Outlet",
+      "latitude": 44.152184,
+      "longitude": 15.238912
+    },
+    {
+      "name": "Sport Box",
+      "latitude": 45.410306,
+      "longitude": 13.969038
+    },
+    {
+      "name": "Sport lab",
+      "latitude": 45.803534,
+      "longitude": 15.999147
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 42.624297,
+      "longitude": 18.192559
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 43.054337,
+      "longitude": 17.645078
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 44.140076,
+      "longitude": 15.227304
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 44.556295,
+      "longitude": 15.382628
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 44.957338,
+      "longitude": 15.640216
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.118612,
+      "longitude": 14.118839
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.159456,
+      "longitude": 17.998114
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.232975,
+      "longitude": 13.92175
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.28745,
+      "longitude": 18.75181
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.317083,
+      "longitude": 14.469857
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.331454,
+      "longitude": 17.649202
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.332268,
+      "longitude": 14.509
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.355287,
+      "longitude": 14.364717
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.368552,
+      "longitude": 18.971369
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.496869,
+      "longitude": 16.358502
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.546555,
+      "longitude": 18.656148
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.77017,
+      "longitude": 15.940204
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.793325,
+      "longitude": 16.152238
+    },
+    {
+      "name": "sport vision",
+      "latitude": 45.799178,
+      "longitude": 15.885452
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.801479,
+      "longitude": 15.726342
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 45.889888,
+      "longitude": 16.852467
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 46.02385,
+      "longitude": 15.905594
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 46.158592,
+      "longitude": 16.333855
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 46.264221,
+      "longitude": 16.375734
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 46.388478,
+      "longitude": 16.449824
+    },
+    {
+      "name": "Sport Vision",
+      "latitude": 46.395646,
+      "longitude": 16.429538
+    },
+    {
+      "name": "Sport Vision Outlet",
+      "latitude": 43.589626,
+      "longitude": 16.571656
+    },
+    {
+      "name": "Sportdirekt",
+      "latitude": 45.802569,
+      "longitude": 15.960757
+    },
+    {
+      "name": "Sporteka",
+      "latitude": 45.79084,
+      "longitude": 15.927075
+    },
+    {
+      "name": "Sportina",
+      "latitude": 45.770657,
+      "longitude": 15.940467
+    },
+    {
+      "name": "Sportisimo",
+      "latitude": 44.556447,
+      "longitude": 15.382426
+    },
+    {
+      "name": "Sportisimo",
+      "latitude": 45.118176,
+      "longitude": 14.118836
+    },
+    {
+      "name": "Sportisimo",
+      "latitude": 45.285941,
+      "longitude": 18.407522
+    },
+    {
+      "name": "Sportisimo",
+      "latitude": 46.388055,
+      "longitude": 16.449762
+    },
+    {
+      "name": "Sportivo",
+      "latitude": 45.819632,
+      "longitude": 16.034211
+    },
+    {
+      "name": "Sports-man",
+      "latitude": 45.804919,
+      "longitude": 16.2333
+    },
+    {
+      "name": "Sportska obuća i odjeća",
+      "latitude": 45.7042,
+      "longitude": 16.394045
+    },
+    {
+      "name": "Surfshop",
+      "latitude": 45.788618,
+      "longitude": 15.936201
+    },
+    {
+      "name": "Sve za sport",
+      "latitude": 45.787286,
+      "longitude": 15.9508
+    },
+    {
+      "name": "TenisWil",
+      "latitude": 45.795642,
+      "longitude": 15.965044
+    },
+    {
+      "name": "tennis+sport",
+      "latitude": 45.813454,
+      "longitude": 15.973827
+    },
+    {
+      "name": "Top sport",
+      "latitude": 45.485212,
+      "longitude": 16.372044
+    },
+    {
+      "name": "Top Sport",
+      "latitude": 45.493259,
+      "longitude": 15.551096
+    },
+    {
+      "name": "Top Sport",
+      "latitude": 45.8152,
+      "longitude": 15.998021
+    },
+    {
+      "name": "Top Sport",
+      "latitude": 45.87126,
+      "longitude": 15.826026
+    },
+    {
+      "name": "Top Sport",
+      "latitude": 45.900815,
+      "longitude": 16.844247
+    },
+    {
+      "name": "Wave",
+      "latitude": 43.508023,
+      "longitude": 16.434788
+    },
+    {
+      "name": "Z sport",
+      "latitude": 46.034706,
+      "longitude": 16.541259
+    },
+    {
+      "name": "Zagrebšport",
+      "latitude": 45.783725,
+      "longitude": 15.944064
+    },
+    {
+      "name": "Čiček sport",
+      "latitude": 46.223357,
+      "longitude": 16.12367
+    }
+  ],
+  "meta": {
+    "title": "Sportske trgovine - Besplatno preuzimanje",
+    "description": "Sportske trgovine u Hrvatskoj (164 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=sports), izrez EU-POIS/HR. Sadrži 164 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Sportske trgovine | ListBase",
+    "seo_description": "Preuzmi Sportske trgovine — 164 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 164 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "id": "hr-koprivnicko-krizevacka-zeljeznicke-postaje",
+  "name": "Željezničke postaje — Koprivničko-Križevačka županija",
+  "title": "Željezničke postaje — Koprivničko-Križevačka županija",
+  "description": "Željezničke postaje i stajališta u Koprivničko-Križevačka županija (šifra 06) iz trainline-eu/stations. 10 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "number"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_slug",
+      "label": "Zupanija Slug",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_code",
+      "label": "Zupanija Code",
+      "type": "number"
+    },
+    {
+      "key": "najblize_mjesto",
+      "label": "Najblize Mjesto",
+      "type": "string"
+    },
+    {
+      "key": "udaljenost_km",
+      "label": "Udaljenost Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 26844,
+      "name": "Koprivnica",
+      "slug": "koprivnica",
+      "uic": "7873160",
+      "latitude": 46.16487,
+      "longitude": 16.817468,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Koprivničko-Križevačka",
+      "zupanija_slug": "koprivnicko-krizevacka",
+      "zupanija_code": "06",
+      "najblize_mjesto": "Koprivnica",
+      "udaljenost_km": 0.806,
+      "country": "HR"
+    },
+    {
+      "id": 2,
+      "station_id": 26845,
+      "name": "Djurdjevac Autobusni Kolodvor",
+      "slug": "djurdjevac-autobusni-kolodvor",
+      "uic": "",
+      "latitude": 46.03072,
+      "longitude": 17.065283,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": true,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": 29286,
+      "info_en": "",
+      "zupanija": "Koprivničko-Križevačka",
+      "zupanija_slug": "koprivnicko-krizevacka",
+      "zupanija_code": "06",
+      "najblize_mjesto": "Đurđevac",
+      "udaljenost_km": 0.805,
+      "country": "HR"
+    },
+    {
+      "id": 3,
+      "station_id": 29286,
+      "name": "Đurđevac",
+      "slug": "durdevac",
+      "uic": "",
+      "latitude": 46.039876,
+      "longitude": 17.07145,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Koprivničko-Križevačka",
+      "zupanija_slug": "koprivnicko-krizevacka",
+      "zupanija_code": "06",
+      "najblize_mjesto": "Đurđevac",
+      "udaljenost_km": 1.779,
+      "country": "HR"
+    },
+    {
+      "id": 4,
+      "station_id": 38977,
+      "name": "Krizevci",
+      "slug": "krizevci",
+      "uic": "",
+      "latitude": 46.00645,
+      "longitude": 16.543217,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Koprivničko-Križevačka",
+      "zupanija_slug": "koprivnicko-krizevacka",
+      "zupanija_code": "06",
+      "najblize_mjesto": "Prikraj Križevački",
+      "udaljenost_km": 0.888,
+      "country": "HR"
+    },
+    {
+      "id": 5,
+      "station_id": 38995,
+      "name": "Klostar",
+      "slug": "klostar",
+      "uic": "",
+      "latitude": 45.98128,
+      "longitude": 17.139534,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Koprivničko-Križevačka",
+      "zupanija_slug": "koprivnicko-krizevacka",
+      "zupanija_code": "06",
+      "najblize_mjesto": "Budančevica",
+      "udaljenost_km": 0.839,
+      "country": "HR"
+    },
+    {
+      "id": 6,
+      "station_id": 38999,
+      "name": "Lepavina",
+      "slug": "lepavina",
+      "uic": "",
+      "latitude": 46.097681,
+      "longitude": 16.685426,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Koprivničko-Križevačka",
+      "zupanija_slug": "koprivnicko-krizevacka",
+      "zupanija_code": "06",
+      "najblize_mjesto": "Lepavina",
+      "udaljenost_km": 0.789,
+      "country": "HR"
+    },
+    {
+      "id": 7,
+      "station_id": 39005,
+      "name": "Mucna Reka",
+      "slug": "mucna-reka",
+      "uic": "",
+      "latitude": 46.124865,
+      "longitude": 16.763677,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Koprivničko-Križevačka",
+      "zupanija_slug": "koprivnicko-krizevacka",
+      "zupanija_code": "06",
+      "najblize_mjesto": "Reka",
+      "udaljenost_km": 0.653,
+      "country": "HR"
+    },
+    {
+      "id": 8,
+      "station_id": 39013,
+      "name": "Sveti Ivan Zabno",
+      "slug": "sveti-ivan-zabno",
+      "uic": "",
+      "latitude": 45.945233,
+      "longitude": 16.621099,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Koprivničko-Križevačka",
+      "zupanija_slug": "koprivnicko-krizevacka",
+      "zupanija_code": "06",
+      "najblize_mjesto": "Sveti Ivan Žabno",
+      "udaljenost_km": 0.611,
+      "country": "HR"
+    },
+    {
+      "id": 9,
+      "station_id": 39016,
+      "name": "Virje",
+      "slug": "virje",
+      "uic": "",
+      "latitude": 46.069716,
+      "longitude": 17.002799,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Koprivničko-Križevačka",
+      "zupanija_slug": "koprivnicko-krizevacka",
+      "zupanija_code": "06",
+      "najblize_mjesto": "Virje",
+      "udaljenost_km": 1.026,
+      "country": "HR"
+    },
+    {
+      "id": 10,
+      "station_id": 39021,
+      "name": "Bregi",
+      "slug": "bregi",
+      "uic": "",
+      "latitude": 46.126654,
+      "longitude": 16.891872,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Koprivničko-Križevačka",
+      "zupanija_slug": "koprivnicko-krizevacka",
+      "zupanija_code": "06",
+      "najblize_mjesto": "Koprivnički Bregi",
+      "udaljenost_km": 1.708,
+      "country": "HR"
+    }
+  ],
+  "meta": {
+    "title": "Željezničke postaje — Koprivničko-Križevačka županija - Besplatno preuzimanje",
+    "description": "Željezničke postaje i stajališta u Koprivničko-Križevačka županija (šifra 06) iz trainline-eu/stations. 10 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi. Sadrži 10 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Željezničke postaje — Koprivničko-Križevačka županija | ListBase",
+    "seo_description": "Preuzmi Željezničke postaje — Koprivničko-Križevačka županija — 10 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 10 zapisa / 20 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

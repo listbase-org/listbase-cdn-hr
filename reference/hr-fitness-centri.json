@@ -1,0 +1,831 @@
+{
+  "id": "hr-fitness-centri",
+  "name": "Fitness centri",
+  "title": "Fitness centri",
+  "description": "Fitness centri u Hrvatskoj (158 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=fitness_centre), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 158,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2Life Stenjevec",
+      "latitude": 45.817951,
+      "longitude": 15.888395
+    },
+    {
+      "name": "4allGym",
+      "latitude": 45.815061,
+      "longitude": 15.930369
+    },
+    {
+      "name": "AEROfitness club by FILA",
+      "latitude": 45.816791,
+      "longitude": 15.941843
+    },
+    {
+      "name": "Amazona",
+      "latitude": 45.814689,
+      "longitude": 15.896509
+    },
+    {
+      "name": "Aquila Fitness Centar",
+      "latitude": 46.388012,
+      "longitude": 16.417751
+    },
+    {
+      "name": "Balans",
+      "latitude": 45.798987,
+      "longitude": 15.724784
+    },
+    {
+      "name": "Baš fit",
+      "latitude": 45.3412,
+      "longitude": 16.973871
+    },
+    {
+      "name": "BBK Gladiator",
+      "latitude": 45.815266,
+      "longitude": 15.985482
+    },
+    {
+      "name": "BETA Fitness",
+      "latitude": 45.810606,
+      "longitude": 16.0167
+    },
+    {
+      "name": "Big Gym",
+      "latitude": 45.832335,
+      "longitude": 16.057641
+    },
+    {
+      "name": "Blue Gym",
+      "latitude": 45.332214,
+      "longitude": 14.438187
+    },
+    {
+      "name": "Blue Gym",
+      "latitude": 45.561513,
+      "longitude": 18.672841
+    },
+    {
+      "name": "Blue Gym Livana",
+      "latitude": 45.529524,
+      "longitude": 18.608471
+    },
+    {
+      "name": "Blue Gym Sjenjak",
+      "latitude": 45.551253,
+      "longitude": 18.695532
+    },
+    {
+      "name": "Bluegym Retfala",
+      "latitude": 45.564362,
+      "longitude": 18.637685
+    },
+    {
+      "name": "Body builder klub Olympia",
+      "latitude": 45.832818,
+      "longitude": 15.994646
+    },
+    {
+      "name": "Body Solutions",
+      "latitude": 46.15547,
+      "longitude": 16.825048
+    },
+    {
+      "name": "Bodybuilding Fitness Club Petrinja",
+      "latitude": 45.431669,
+      "longitude": 16.276084
+    },
+    {
+      "name": "Bodybuilding klub Maksimir",
+      "latitude": 45.788398,
+      "longitude": 15.93063
+    },
+    {
+      "name": "Boksački klub Optimist",
+      "latitude": 45.786158,
+      "longitude": 15.929186
+    },
+    {
+      "name": "Bull Gym",
+      "latitude": 45.722155,
+      "longitude": 16.072391
+    },
+    {
+      "name": "California gym",
+      "latitude": 43.51763,
+      "longitude": 16.469996
+    },
+    {
+      "name": "Centar Osobne Moći",
+      "latitude": 45.561042,
+      "longitude": 18.699093
+    },
+    {
+      "name": "Champoin gym",
+      "latitude": 43.519412,
+      "longitude": 16.445975
+    },
+    {
+      "name": "City gym",
+      "latitude": 44.117425,
+      "longitude": 15.24212
+    },
+    {
+      "name": "CrossFit",
+      "latitude": 43.522806,
+      "longitude": 16.447889
+    },
+    {
+      "name": "CrossFit",
+      "latitude": 45.807809,
+      "longitude": 15.97343
+    },
+    {
+      "name": "CrossFit Bura",
+      "latitude": 44.950064,
+      "longitude": 13.798185
+    },
+    {
+      "name": "Damar Gym",
+      "latitude": 45.365134,
+      "longitude": 14.298075
+    },
+    {
+      "name": "Dea",
+      "latitude": 45.809725,
+      "longitude": 15.97273
+    },
+    {
+      "name": "Dvorana",
+      "latitude": 45.790217,
+      "longitude": 15.910421
+    },
+    {
+      "name": "Dvorana za fitness bazenskog kompleksa Svetice",
+      "latitude": 45.817063,
+      "longitude": 16.016019
+    },
+    {
+      "name": "E.body croatia",
+      "latitude": 45.330166,
+      "longitude": 14.438499
+    },
+    {
+      "name": "Energy fitness Samobor",
+      "latitude": 45.801592,
+      "longitude": 15.713918
+    },
+    {
+      "name": "ENERGYM",
+      "latitude": 45.178593,
+      "longitude": 13.745398
+    },
+    {
+      "name": "Enjoy",
+      "latitude": 45.808068,
+      "longitude": 15.930244
+    },
+    {
+      "name": "Evergym",
+      "latitude": 45.786851,
+      "longitude": 15.955945
+    },
+    {
+      "name": "Fire Bod",
+      "latitude": 45.904734,
+      "longitude": 16.845173
+    },
+    {
+      "name": "Fit FOR LIFE Fitness Centar",
+      "latitude": 45.322893,
+      "longitude": 14.46491
+    },
+    {
+      "name": "Fit Studio Thailia",
+      "latitude": 45.785074,
+      "longitude": 15.939348
+    },
+    {
+      "name": "FitLab Karlo",
+      "latitude": 45.775406,
+      "longitude": 15.959122
+    },
+    {
+      "name": "Fitnes dvorana paviljon 10",
+      "latitude": 45.78487,
+      "longitude": 15.947341
+    },
+    {
+      "name": "Fitnes dvorana paviljon 11",
+      "latitude": 45.784475,
+      "longitude": 15.945702
+    },
+    {
+      "name": "Fitness Ana",
+      "latitude": 45.813001,
+      "longitude": 15.927418
+    },
+    {
+      "name": "Fitness centar",
+      "latitude": 44.293969,
+      "longitude": 15.114918
+    },
+    {
+      "name": "Fitness Centar",
+      "latitude": 45.025514,
+      "longitude": 14.586187
+    },
+    {
+      "name": "Fitness centar \"Next Level\"",
+      "latitude": 46.227216,
+      "longitude": 16.126197
+    },
+    {
+      "name": "Fitness centar Baloba",
+      "latitude": 43.951147,
+      "longitude": 15.457448
+    },
+    {
+      "name": "Fitness centar Grabrik",
+      "latitude": 45.48064,
+      "longitude": 15.549552
+    },
+    {
+      "name": "Fitness Centar JUMP",
+      "latitude": 45.819849,
+      "longitude": 16.006697
+    },
+    {
+      "name": "Fitness Centar Popaj",
+      "latitude": 44.126494,
+      "longitude": 15.236989
+    },
+    {
+      "name": "Fitness centar SPES",
+      "latitude": 45.328336,
+      "longitude": 14.462175
+    },
+    {
+      "name": "Fitness centar Trnje",
+      "latitude": 45.79816,
+      "longitude": 15.993149
+    },
+    {
+      "name": "Fitness Cvjetno",
+      "latitude": 45.792322,
+      "longitude": 15.961491
+    },
+    {
+      "name": "FITNESS FOR LIFE",
+      "latitude": 45.897965,
+      "longitude": 16.840172
+    },
+    {
+      "name": "Fitness klub Play",
+      "latitude": 45.333577,
+      "longitude": 17.682455
+    },
+    {
+      "name": "Fitness Point",
+      "latitude": 45.825533,
+      "longitude": 16.08925
+    },
+    {
+      "name": "Fitness PUMP",
+      "latitude": 45.550873,
+      "longitude": 18.713566
+    },
+    {
+      "name": "Fitness Studio Gymnasium & Wellness Spa",
+      "latitude": 45.779522,
+      "longitude": 16.005535
+    },
+    {
+      "name": "Fitness Studio S",
+      "latitude": 45.330638,
+      "longitude": 14.460369
+    },
+    {
+      "name": "Fitness, Boxing, Jiu-Jitsu",
+      "latitude": 45.812952,
+      "longitude": 15.995298
+    },
+    {
+      "name": "FitnessOF",
+      "latitude": 45.811021,
+      "longitude": 15.711667
+    },
+    {
+      "name": "Flow",
+      "latitude": 45.156483,
+      "longitude": 18.01614
+    },
+    {
+      "name": "FORCE",
+      "latitude": 45.896457,
+      "longitude": 16.846749
+    },
+    {
+      "name": "Formé studio",
+      "latitude": 45.775242,
+      "longitude": 15.959093
+    },
+    {
+      "name": "Fortis knin",
+      "latitude": 44.046063,
+      "longitude": 16.2003
+    },
+    {
+      "name": "Fox",
+      "latitude": 45.9097,
+      "longitude": 16.843341
+    },
+    {
+      "name": "Gibi Gib",
+      "latitude": 46.307124,
+      "longitude": 16.360333
+    },
+    {
+      "name": "Gibigib",
+      "latitude": 45.79489,
+      "longitude": 15.93191
+    },
+    {
+      "name": "Gladijator",
+      "latitude": 44.033598,
+      "longitude": 15.615281
+    },
+    {
+      "name": "Guliver Energija",
+      "latitude": 43.52919,
+      "longitude": 16.49031
+    },
+    {
+      "name": "Gym",
+      "latitude": 46.35542,
+      "longitude": 16.808774
+    },
+    {
+      "name": "Gym 23",
+      "latitude": 46.225774,
+      "longitude": 16.109497
+    },
+    {
+      "name": "Gym cafe",
+      "latitude": 45.806457,
+      "longitude": 15.974829
+    },
+    {
+      "name": "Gym Snoopy",
+      "latitude": 44.343295,
+      "longitude": 15.112405
+    },
+    {
+      "name": "gym4you",
+      "latitude": 44.110739,
+      "longitude": 15.238174
+    },
+    {
+      "name": "Gymlab",
+      "latitude": 45.799404,
+      "longitude": 15.892973
+    },
+    {
+      "name": "Gyms 4 you",
+      "latitude": 45.811017,
+      "longitude": 16.001759
+    },
+    {
+      "name": "Gyms 4 you VMD",
+      "latitude": 45.803732,
+      "longitude": 15.989342
+    },
+    {
+      "name": "Gyms4U",
+      "latitude": 45.811097,
+      "longitude": 15.950658
+    },
+    {
+      "name": "Gyms4you",
+      "latitude": 43.517303,
+      "longitude": 16.446029
+    },
+    {
+      "name": "Gyms4you",
+      "latitude": 45.490306,
+      "longitude": 15.549757
+    },
+    {
+      "name": "Gyms4you",
+      "latitude": 45.560153,
+      "longitude": 18.678091
+    },
+    {
+      "name": "Gyms4you",
+      "latitude": 45.776068,
+      "longitude": 15.974153
+    },
+    {
+      "name": "Gyms4you",
+      "latitude": 45.782224,
+      "longitude": 15.981481
+    },
+    {
+      "name": "Gyms4you",
+      "latitude": 45.8058,
+      "longitude": 15.987243
+    },
+    {
+      "name": "Gyms4you",
+      "latitude": 45.80737,
+      "longitude": 15.930171
+    },
+    {
+      "name": "Gyms4you",
+      "latitude": 45.816896,
+      "longitude": 16.004058
+    },
+    {
+      "name": "Gyms4you Dubrava Risnjačka",
+      "latitude": 45.841167,
+      "longitude": 16.051482
+    },
+    {
+      "name": "gyms4you Zagreb Remiza",
+      "latitude": 45.796305,
+      "longitude": 15.940223
+    },
+    {
+      "name": "Happy step",
+      "latitude": 46.15394,
+      "longitude": 16.837057
+    },
+    {
+      "name": "Hornet Boxing Gym",
+      "latitude": 45.804987,
+      "longitude": 15.715267
+    },
+    {
+      "name": "Invictus Fitness",
+      "latitude": 45.791214,
+      "longitude": 15.914218
+    },
+    {
+      "name": "Mint",
+      "latitude": 43.515205,
+      "longitude": 16.423086
+    },
+    {
+      "name": "My Gym Bjelovar",
+      "latitude": 45.889376,
+      "longitude": 16.847285
+    },
+    {
+      "name": "My Look",
+      "latitude": 43.508223,
+      "longitude": 16.466858
+    },
+    {
+      "name": "My Way",
+      "latitude": 45.900322,
+      "longitude": 16.838272
+    },
+    {
+      "name": "Niky by Bodyscupt R",
+      "latitude": 45.80026,
+      "longitude": 15.920314
+    },
+    {
+      "name": "Nim Sport",
+      "latitude": 45.902343,
+      "longitude": 16.842859
+    },
+    {
+      "name": "Novigrad Gym",
+      "latitude": 45.319317,
+      "longitude": 13.571692
+    },
+    {
+      "name": "Olimpijski centar - teakwondo klub Marjan",
+      "latitude": 43.508912,
+      "longitude": 16.451437
+    },
+    {
+      "name": "Olymp Fitness Centar",
+      "latitude": 45.748193,
+      "longitude": 16.619033
+    },
+    {
+      "name": "Omega",
+      "latitude": 45.901819,
+      "longitude": 16.843889
+    },
+    {
+      "name": "Omega Gym",
+      "latitude": 45.899456,
+      "longitude": 16.843256
+    },
+    {
+      "name": "Omnia teretana",
+      "latitude": 44.1205,
+      "longitude": 15.239952
+    },
+    {
+      "name": "Plank reformer studio",
+      "latitude": 45.780634,
+      "longitude": 15.954955
+    },
+    {
+      "name": "Plank reformer studio",
+      "latitude": 45.798692,
+      "longitude": 15.940161
+    },
+    {
+      "name": "Prime",
+      "latitude": 45.231221,
+      "longitude": 13.609476
+    },
+    {
+      "name": "Qfit",
+      "latitude": 45.800896,
+      "longitude": 15.711377
+    },
+    {
+      "name": "Qfit",
+      "latitude": 45.809762,
+      "longitude": 15.715256
+    },
+    {
+      "name": "QUANTUM Premium Gym Trešnjevka",
+      "latitude": 45.805612,
+      "longitude": 15.940723
+    },
+    {
+      "name": "Quattro",
+      "latitude": 43.509408,
+      "longitude": 16.467916
+    },
+    {
+      "name": "Record Gym",
+      "latitude": 45.789052,
+      "longitude": 16.008106
+    },
+    {
+      "name": "Replejs",
+      "latitude": 45.792804,
+      "longitude": 15.950064
+    },
+    {
+      "name": "Ritam Pulsa",
+      "latitude": 45.564104,
+      "longitude": 18.652608
+    },
+    {
+      "name": "Rival",
+      "latitude": 44.440864,
+      "longitude": 15.050449
+    },
+    {
+      "name": "Saurus Gym",
+      "latitude": 45.442759,
+      "longitude": 16.277005
+    },
+    {
+      "name": "Shape 'N' tone",
+      "latitude": 45.787365,
+      "longitude": 15.948534
+    },
+    {
+      "name": "Sil-sport",
+      "latitude": 45.797668,
+      "longitude": 15.988364
+    },
+    {
+      "name": "Sparta gym & spa Rotor",
+      "latitude": 45.778179,
+      "longitude": 15.948123
+    },
+    {
+      "name": "Sparta Gym Zapad",
+      "latitude": 45.804346,
+      "longitude": 15.911152
+    },
+    {
+      "name": "Spartak",
+      "latitude": 45.796396,
+      "longitude": 15.996521
+    },
+    {
+      "name": "Spartan",
+      "latitude": 43.818898,
+      "longitude": 15.669495
+    },
+    {
+      "name": "Specijalizirani prenatal/postnatal centar",
+      "latitude": 45.786935,
+      "longitude": 15.949783
+    },
+    {
+      "name": "Sport Box",
+      "latitude": 45.793402,
+      "longitude": 15.969303
+    },
+    {
+      "name": "Sportski studio Sport performance",
+      "latitude": 45.798289,
+      "longitude": 15.939403
+    },
+    {
+      "name": "Step",
+      "latitude": 45.902377,
+      "longitude": 16.844356
+    },
+    {
+      "name": "Street Gym - Klaka",
+      "latitude": 45.836747,
+      "longitude": 16.054224
+    },
+    {
+      "name": "Studio Eccentric",
+      "latitude": 45.550827,
+      "longitude": 18.713742
+    },
+    {
+      "name": "Super body aerobic centar",
+      "latitude": 45.787777,
+      "longitude": 15.938034
+    },
+    {
+      "name": "Surya International Yoga Study Center",
+      "latitude": 46.203059,
+      "longitude": 16.178696
+    },
+    {
+      "name": "Terme fitness centre",
+      "latitude": 46.065937,
+      "longitude": 15.783606
+    },
+    {
+      "name": "Terminal 7",
+      "latitude": 45.323873,
+      "longitude": 14.43862
+    },
+    {
+      "name": "The fitness Branimir",
+      "latitude": 45.806227,
+      "longitude": 15.984597
+    },
+    {
+      "name": "The fitness dubrava",
+      "latitude": 45.83122,
+      "longitude": 16.056648
+    },
+    {
+      "name": "THE fitness GreenGold",
+      "latitude": 45.80198,
+      "longitude": 16.002315
+    },
+    {
+      "name": "The Fitness HoB",
+      "latitude": 45.793309,
+      "longitude": 15.970246
+    },
+    {
+      "name": "THE fitness Kaptol",
+      "latitude": 45.819809,
+      "longitude": 15.977743
+    },
+    {
+      "name": "The Fitness Zonar",
+      "latitude": 45.805749,
+      "longitude": 15.952492
+    },
+    {
+      "name": "THE fitness Črnomerec",
+      "latitude": 45.810335,
+      "longitude": 15.938475
+    },
+    {
+      "name": "The Gym",
+      "latitude": 45.664076,
+      "longitude": 15.642495
+    },
+    {
+      "name": "Tin Gym",
+      "latitude": 45.484234,
+      "longitude": 15.547115
+    },
+    {
+      "name": "Titan Gym",
+      "latitude": 45.9092,
+      "longitude": 16.85115
+    },
+    {
+      "name": "Tonus",
+      "latitude": 45.798977,
+      "longitude": 15.948194
+    },
+    {
+      "name": "Train station",
+      "latitude": 45.792953,
+      "longitude": 15.912472
+    },
+    {
+      "name": "Trening centar Osvit",
+      "latitude": 45.788445,
+      "longitude": 15.944629
+    },
+    {
+      "name": "U-Fit",
+      "latitude": 45.155222,
+      "longitude": 17.998378
+    },
+    {
+      "name": "Ultragym",
+      "latitude": 45.79424,
+      "longitude": 15.990274
+    },
+    {
+      "name": "Vitruvian Vision",
+      "latitude": 45.89642,
+      "longitude": 16.839869
+    },
+    {
+      "name": "Viva",
+      "latitude": 45.83145,
+      "longitude": 16.058957
+    },
+    {
+      "name": "Vježbaonica",
+      "latitude": 45.787769,
+      "longitude": 15.927326
+    },
+    {
+      "name": "Wellness Centar Coner",
+      "latitude": 45.89617,
+      "longitude": 16.845583
+    },
+    {
+      "name": "World Class Sheraton",
+      "latitude": 45.807474,
+      "longitude": 15.984552
+    },
+    {
+      "name": "World Class Westin",
+      "latitude": 45.806679,
+      "longitude": 15.965524
+    },
+    {
+      "name": "World Class Westin",
+      "latitude": 45.813518,
+      "longitude": 15.979761
+    },
+    {
+      "name": "XXL 1",
+      "latitude": 45.779975,
+      "longitude": 15.968982
+    },
+    {
+      "name": "XXL 2",
+      "latitude": 45.777762,
+      "longitude": 15.973978
+    },
+    {
+      "name": "XXL Fitness",
+      "latitude": 45.553845,
+      "longitude": 18.707894
+    }
+  ],
+  "meta": {
+    "title": "Fitness centri - Besplatno preuzimanje",
+    "description": "Fitness centri u Hrvatskoj (158 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=fitness_centre), izrez EU-POIS/HR. Sadrži 158 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Fitness centri | ListBase",
+    "seo_description": "Preuzmi Fitness centri — 158 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 158 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

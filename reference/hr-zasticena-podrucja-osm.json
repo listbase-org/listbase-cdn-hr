@@ -1,0 +1,445 @@
+{
+  "id": "hr-zasticena-podrucja-osm",
+  "name": "Zaštićena područja Hrvatske (OSM)",
+  "title": "Zaštićena područja Hrvatske (OSM)",
+  "description": "32 OSM-mapped zaštićena područja in Croatia: nacionalni parkovi (national parks) and parkovi prirode / strogi rezervati / posebni rezervati (nature parks, strict and special reserves) collected from OSM features with boundary=protected_area or boundary=national_park. Includes coverage of Croatian national parks (Plitvička jezera, Mljet, Brijuni, Risnjak, Krka, Kornati, Sjeverni Velebit, Paklenica) plus parkovi prirode and other zaštićena područja. Each record carries the OSM relation id, names, protection type (national_park vs. protected_area), centroid lat/lon and bounding box.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "osm_id",
+      "label": "Osm Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "local_name",
+      "label": "Local Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_level",
+      "label": "Admin Level",
+      "type": "string"
+    },
+    {
+      "key": "boundary",
+      "label": "Boundary",
+      "type": "string"
+    },
+    {
+      "key": "parents",
+      "label": "Parents",
+      "type": "string"
+    },
+    {
+      "key": "centroid_lat",
+      "label": "Centroid Lat",
+      "type": "number"
+    },
+    {
+      "key": "centroid_lon",
+      "label": "Centroid Lon",
+      "type": "number"
+    },
+    {
+      "key": "bbox",
+      "label": "Bbox",
+      "type": "string"
+    },
+    {
+      "key": "protection_type",
+      "label": "Protection Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "osm_id": -10047688,
+      "name": "Brijuni Islands National Park",
+      "local_name": "Nacionalni park Brijuni",
+      "name_en": "Brijuni Islands National Park",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-2259875,-226351,-214885",
+      "centroid_lat": 44.914661,
+      "centroid_lon": 13.75552,
+      "bbox": "13.709787, 44.88778, 13.800505, 44.945228",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -12319563,
+      "name": "Dinara Nature Park",
+      "local_name": "Park prirode Dinara",
+      "name_en": "Dinara Nature Park",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-214885",
+      "centroid_lat": 43.893144,
+      "centroid_lon": 16.548788,
+      "bbox": "16.222893, 43.632484, 16.917025, 44.178088",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -10048121,
+      "name": "Krka National Park",
+      "local_name": "Nacionalni park Krka",
+      "name_en": "Krka National Park",
+      "admin_level": "",
+      "boundary": "national_park",
+      "parents": "-226741,-214885",
+      "centroid_lat": 43.915454,
+      "centroid_lon": 16.012183,
+      "bbox": "15.926542, 43.786837, 16.160145, 44.05256",
+      "protection_type": "national_park"
+    },
+    {
+      "osm_id": 143407077,
+      "name": "Krka National Park",
+      "local_name": "Nacionalni park Krka",
+      "name_en": "Krka National Park",
+      "admin_level": "",
+      "boundary": "national_park",
+      "parents": "-226741,-214885",
+      "centroid_lat": 43.915454,
+      "centroid_lon": 16.012183,
+      "bbox": "15.926542, 43.786837, 16.160145, 44.05256",
+      "protection_type": "national_park"
+    },
+    {
+      "osm_id": -9137424,
+      "name": "Malostonski zaljev i Malo more",
+      "local_name": "Malostonski zaljev i Malo more",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-226750,-214885",
+      "centroid_lat": 42.88653,
+      "centroid_lon": 17.638954,
+      "bbox": "17.430233, 42.816186, 17.777889, 42.979533",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -9342886,
+      "name": "Marjan Park-Forest",
+      "local_name": "Park-šuma Marjan",
+      "name_en": "Marjan Park-Forest",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-11153757,-2826807,-226749,-214885",
+      "centroid_lat": 43.509381,
+      "centroid_lon": 16.411135,
+      "bbox": "16.387795, 43.500653, 16.430881, 43.51645",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -10206060,
+      "name": "Nacionalni park Mljet",
+      "local_name": "Nacionalni park Mljet",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "national_park",
+      "parents": "-226750,-214885",
+      "centroid_lat": 42.777541,
+      "centroid_lon": 17.391452,
+      "bbox": "17.31716, 42.752288, 17.448411, 42.807145",
+      "protection_type": "national_park"
+    },
+    {
+      "osm_id": -10047755,
+      "name": "Nacionalni park Risnjak",
+      "local_name": "Nacionalni park Risnjak",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "national_park",
+      "parents": "-226452,-214885",
+      "centroid_lat": 45.450368,
+      "centroid_lon": 14.647962,
+      "bbox": "14.54928, 45.401491, 14.723504, 45.531527",
+      "protection_type": "national_park"
+    },
+    {
+      "osm_id": -6572144,
+      "name": "National Park Kornati",
+      "local_name": "Nacionalni park Kornati",
+      "name_en": "National Park Kornati",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-226741,-214885",
+      "centroid_lat": 43.798858,
+      "centroid_lon": 15.327592,
+      "bbox": "15.206814, 43.673929, 15.558962, 43.87722",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": 112892995,
+      "name": "National Park Northern Velebit",
+      "local_name": "Nacionalni park Sjeverni Velebit",
+      "name_en": "National Park Northern Velebit",
+      "admin_level": "",
+      "boundary": "national_park",
+      "parents": "-8778207,-226465,-214885",
+      "centroid_lat": 44.763661,
+      "centroid_lon": 14.973677,
+      "bbox": "14.916109, 44.692323, 15.060781, 44.855268",
+      "protection_type": "national_park"
+    },
+    {
+      "osm_id": 205665264,
+      "name": "National park Paklenica",
+      "local_name": "Nacionalni park Paklenica",
+      "name_en": "National park Paklenica",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-6722980,-214885",
+      "centroid_lat": 44.341576,
+      "centroid_lon": 15.489762,
+      "bbox": "15.388718, 44.283616, 15.576721, 44.411619",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -10048134,
+      "name": "Northern Velebit National Park",
+      "local_name": "Nacionalni park Sjeverni Velebit",
+      "name_en": "Northern Velebit National Park",
+      "admin_level": "",
+      "boundary": "national_park",
+      "parents": "-8778207,-226465,-214885",
+      "centroid_lat": 44.763661,
+      "centroid_lon": 14.973677,
+      "bbox": "14.916109, 44.692323, 15.060781, 44.855268",
+      "protection_type": "national_park"
+    },
+    {
+      "osm_id": 315514270,
+      "name": "Pag triangle",
+      "local_name": "Paški Trokut",
+      "name_en": "Pag triangle",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-226465,-214885",
+      "centroid_lat": 44.555269,
+      "centroid_lon": 14.957846,
+      "bbox": "14.957686, 44.555109, 14.958048, 44.555449",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -6889390,
+      "name": "Park prirode Biokovo",
+      "local_name": "Park prirode Biokovo",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-226749,-214885",
+      "centroid_lat": 43.32939,
+      "centroid_lon": 17.061952,
+      "bbox": "16.892313, 43.231369, 17.21328, 43.423909",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -9085567,
+      "name": "Park prirode Kopački rit",
+      "local_name": "Park prirode Kopački rit",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-10137268,-222646,-214885",
+      "centroid_lat": 45.63519,
+      "centroid_lon": 18.859287,
+      "bbox": "18.736983, 45.544421, 18.963255, 45.754262",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -3183116,
+      "name": "Park prirode Lastovsko otočje",
+      "local_name": "Park prirode Lastovsko otočje",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-226750,-214885",
+      "centroid_lat": 42.755022,
+      "centroid_lon": 16.845265,
+      "bbox": "16.487236, 42.722917, 17.146991, 42.816281",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": 435626488,
+      "name": "Park prirode Medvednica",
+      "local_name": "Park prirode Medvednica",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-214885",
+      "centroid_lat": 45.910519,
+      "centroid_lon": 15.961892,
+      "bbox": "15.83084, 45.824896, 16.115488, 45.982391",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -6572145,
+      "name": "Park prirode Telašćica",
+      "local_name": "Park prirode Telašćica",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-214885",
+      "centroid_lat": 43.906877,
+      "centroid_lon": 15.167531,
+      "bbox": "15.102481, 43.849175, 15.243312, 43.943785",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -6722980,
+      "name": "Park prirode Velebit",
+      "local_name": "Park prirode Velebit",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-214885",
+      "centroid_lat": 44.4917,
+      "centroid_lon": 15.37259,
+      "bbox": "14.878819, 44.082957, 16.0911, 44.984933",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -6482172,
+      "name": "Park prirode Žumberak - Samoborsko gorje",
+      "local_name": "Park prirode Žumberak - Samoborsko gorje",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-214885",
+      "centroid_lat": 45.746353,
+      "centroid_lon": 15.474491,
+      "bbox": "15.256752, 45.644036, 15.719954, 45.85371",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -10047860,
+      "name": "Plitvice Lakes National Park",
+      "local_name": "Nacionalni park Plitvička jezera",
+      "name_en": "Plitvice Lakes National Park",
+      "admin_level": "",
+      "boundary": "national_park",
+      "parents": "-214885",
+      "centroid_lat": 44.851215,
+      "centroid_lon": 15.588137,
+      "bbox": "15.46262, 44.731947, 15.703436, 44.971842",
+      "protection_type": "national_park"
+    },
+    {
+      "osm_id": -253235,
+      "name": "Rt Kamenjak",
+      "local_name": "Rt Kamenjak",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-2277603,-226351,-214885",
+      "centroid_lat": 44.780971,
+      "centroid_lon": 13.91166,
+      "bbox": "13.900904, 44.76605, 13.926784, 44.797077",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -11096731,
+      "name": "Veliki Pažut",
+      "local_name": "Veliki Pažut",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-8756807,-226209,-214885",
+      "centroid_lat": 46.324831,
+      "centroid_lon": 16.86517,
+      "bbox": "16.845944, 46.297808, 16.880201, 46.35521",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": 229802879,
+      "name": "Vidova Gora",
+      "local_name": "Vidova Gora",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-226749,-214885",
+      "centroid_lat": 43.292383,
+      "centroid_lon": 16.61092,
+      "bbox": "16.56607, 43.273037, 16.652312, 43.310945",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -8241686,
+      "name": "Vodocrpilište Mala Mlaka",
+      "local_name": "Vodocrpilište Mala Mlaka",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-11775902,-3173887,-226224,-214885",
+      "centroid_lat": 45.738185,
+      "centroid_lon": 15.971324,
+      "bbox": "15.956592, 45.722584, 15.987812, 45.753308",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -8240740,
+      "name": "Vodocrpilište Petruševec",
+      "local_name": "Vodocrpilište Petruševec",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-11789171,-3173936,-226224,-214885",
+      "centroid_lat": 45.767328,
+      "centroid_lon": 16.049906,
+      "bbox": "16.043178, 45.765709, 16.055486, 45.768929",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -8240728,
+      "name": "Vodocrpilište Strmec",
+      "local_name": "Vodocrpilište Strmec",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-10893788,-8281993,-226241,-214885",
+      "centroid_lat": 45.826461,
+      "centroid_lon": 15.791091,
+      "bbox": "15.781557, 45.823098, 15.796348, 45.82869",
+      "protection_type": "protected_area"
+    },
+    {
+      "osm_id": -8240748,
+      "name": "Vodocrpilište Zapruđe",
+      "local_name": "Vodocrpilište Zapruđe",
+      "name_en": "",
+      "admin_level": "",
+      "boundary": "protected_area",
+      "parents": "-8867818,-3173894,-226224,-214885",
+      "centroid_lat": 45.784384,
+      "centroid_lon": 15.981729,
+      "bbox": "15.980878, 45.783675, 15.984426, 45.784775",
+      "protection_type": "protected_area"
+    }
+  ],
+  "meta": {
+    "title": "Zaštićena područja Hrvatske (OSM) - Besplatno preuzimanje",
+    "description": "32 OSM-mapped zaštićena područja in Croatia: nacionalni parkovi (national parks) and parkovi prirode / strogi rezervati / posebni rezervati (nature parks, strict and special reserves) collected from OSM features with boundary=protected_area or boundary=national_park. Includes coverage of Croatian national parks (Plitvička jezera, Mljet, Brijuni, Risnjak, Krka, Kornati, Sjeverni Velebit, Paklenica) plus parkovi prirode and other zaštićena područja. Each record carries the OSM relation id, names, protection type (national_park vs. protected_area), centroid lat/lon and bounding box. Sadrži 28 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Zaštićena područja Hrvatske (OSM) | ListBase",
+    "seo_description": "Preuzmi Zaštićena područja Hrvatske (OSM) — 28 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 28 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

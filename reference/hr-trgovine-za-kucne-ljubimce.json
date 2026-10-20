@@ -1,0 +1,581 @@
+{
+  "id": "hr-trgovine-za-kucne-ljubimce",
+  "name": "Trgovine za kućne ljubimce",
+  "title": "Trgovine za kućne ljubimce",
+  "description": "Trgovine za kućne ljubimce u Hrvatskoj (108 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=pet), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 108,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agos",
+      "latitude": 43.447043,
+      "longitude": 16.689635
+    },
+    {
+      "name": "Agrar Centar",
+      "latitude": 45.175154,
+      "longitude": 14.693134
+    },
+    {
+      "name": "Aqua-Terra d.o.o.",
+      "latitude": 45.803592,
+      "longitude": 15.877693
+    },
+    {
+      "name": "Belugo plus",
+      "latitude": 45.794018,
+      "longitude": 15.996291
+    },
+    {
+      "name": "Belugo plus",
+      "latitude": 45.811773,
+      "longitude": 15.995997
+    },
+    {
+      "name": "Bondy",
+      "latitude": 45.66295,
+      "longitude": 18.412716
+    },
+    {
+      "name": "Butiga o' beštij",
+      "latitude": 43.520095,
+      "longitude": 16.467799
+    },
+    {
+      "name": "DJD Zagreb",
+      "latitude": 45.798441,
+      "longitude": 15.762774
+    },
+    {
+      "name": "Dog & Style",
+      "latitude": 45.811109,
+      "longitude": 15.951552
+    },
+    {
+      "name": "Filtea",
+      "latitude": 45.812407,
+      "longitude": 15.963973
+    },
+    {
+      "name": "Happy Zoo",
+      "latitude": 44.852211,
+      "longitude": 13.864593
+    },
+    {
+      "name": "HOP",
+      "latitude": 45.322519,
+      "longitude": 14.464997
+    },
+    {
+      "name": "HOP",
+      "latitude": 45.359361,
+      "longitude": 14.488537
+    },
+    {
+      "name": "Hop",
+      "latitude": 46.014846,
+      "longitude": 16.538039
+    },
+    {
+      "name": "HOP Partner",
+      "latitude": 45.354391,
+      "longitude": 14.322215
+    },
+    {
+      "name": "HOP Pet Shop",
+      "latitude": 45.804415,
+      "longitude": 16.233535
+    },
+    {
+      "name": "HOP Rijeka centar",
+      "latitude": 45.327481,
+      "longitude": 14.440477
+    },
+    {
+      "name": "Hop Shop",
+      "latitude": 45.832758,
+      "longitude": 16.108106
+    },
+    {
+      "name": "Hop Shop",
+      "latitude": 45.846055,
+      "longitude": 15.815698
+    },
+    {
+      "name": "HOP Shop",
+      "latitude": 45.902208,
+      "longitude": 16.833303
+    },
+    {
+      "name": "House4DOGS",
+      "latitude": 45.728072,
+      "longitude": 16.203175
+    },
+    {
+      "name": "K-9 pet shop",
+      "latitude": 45.799239,
+      "longitude": 15.914572
+    },
+    {
+      "name": "K9 shop",
+      "latitude": 45.816245,
+      "longitude": 16.001305
+    },
+    {
+      "name": "Kakadu",
+      "latitude": 45.156396,
+      "longitude": 18.025424
+    },
+    {
+      "name": "Nemo",
+      "latitude": 43.507581,
+      "longitude": 16.476705
+    },
+    {
+      "name": "Nemo",
+      "latitude": 43.517162,
+      "longitude": 16.445006
+    },
+    {
+      "name": "Ohana",
+      "latitude": 45.79167,
+      "longitude": 15.918827
+    },
+    {
+      "name": "Pas Kitchen",
+      "latitude": 45.808172,
+      "longitude": 15.898604
+    },
+    {
+      "name": "Per Shop Agrarija",
+      "latitude": 45.122412,
+      "longitude": 14.528938
+    },
+    {
+      "name": "Pet Centar",
+      "latitude": 42.660702,
+      "longitude": 18.085789
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 43.513242,
+      "longitude": 16.471999
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 43.525798,
+      "longitude": 16.483342
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 45.337595,
+      "longitude": 14.408042
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 45.352567,
+      "longitude": 14.415409
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 45.35465,
+      "longitude": 14.364764
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 45.545083,
+      "longitude": 18.708092
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 45.756858,
+      "longitude": 15.98794
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 45.794171,
+      "longitude": 15.924927
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 45.808156,
+      "longitude": 16.003939
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 45.808538,
+      "longitude": 15.930112
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 45.814729,
+      "longitude": 16.104716
+    },
+    {
+      "name": "Pet centar",
+      "latitude": 45.827256,
+      "longitude": 16.077023
+    },
+    {
+      "name": "Pet centar Pula",
+      "latitude": 44.87134,
+      "longitude": 13.868089
+    },
+    {
+      "name": "Pet Club",
+      "latitude": 44.113667,
+      "longitude": 15.227087
+    },
+    {
+      "name": "Pet home",
+      "latitude": 45.811714,
+      "longitude": 15.972186
+    },
+    {
+      "name": "Pet Home",
+      "latitude": 45.812966,
+      "longitude": 15.984941
+    },
+    {
+      "name": "Pet Home",
+      "latitude": 46.30887,
+      "longitude": 16.337779
+    },
+    {
+      "name": "Pet home shop",
+      "latitude": 45.813473,
+      "longitude": 15.981203
+    },
+    {
+      "name": "Pet shop Gizmo",
+      "latitude": 45.331763,
+      "longitude": 17.671093
+    },
+    {
+      "name": "Pet shop Gold",
+      "latitude": 43.513268,
+      "longitude": 16.452838
+    },
+    {
+      "name": "Pet shop Gold",
+      "latitude": 43.514068,
+      "longitude": 16.445915
+    },
+    {
+      "name": "PET Shop i veterinarska ljekarna Domjanićeva",
+      "latitude": 45.816542,
+      "longitude": 15.996479
+    },
+    {
+      "name": "Pet shop Max",
+      "latitude": 43.383873,
+      "longitude": 16.555088
+    },
+    {
+      "name": "Pet shop Trag",
+      "latitude": 45.338602,
+      "longitude": 14.308605
+    },
+    {
+      "name": "Pet shop Šape",
+      "latitude": 45.796675,
+      "longitude": 15.966275
+    },
+    {
+      "name": "PetVet",
+      "latitude": 45.41312,
+      "longitude": 13.971181
+    },
+    {
+      "name": "PiPi",
+      "latitude": 44.867144,
+      "longitude": 13.848567
+    },
+    {
+      "name": "Pro plan",
+      "latitude": 45.796072,
+      "longitude": 15.900515
+    },
+    {
+      "name": "Sajmište – Prodaja stoke/kućnih ljubimaca",
+      "latitude": 45.805266,
+      "longitude": 15.73269
+    },
+    {
+      "name": "Simply The Best",
+      "latitude": 45.776576,
+      "longitude": 15.958131
+    },
+    {
+      "name": "Super zoo",
+      "latitude": 43.547837,
+      "longitude": 16.413339
+    },
+    {
+      "name": "Trgovina za ljubimce",
+      "latitude": 45.592833,
+      "longitude": 17.221404
+    },
+    {
+      "name": "Tukano",
+      "latitude": 45.491704,
+      "longitude": 15.541208
+    },
+    {
+      "name": "VetCentar",
+      "latitude": 45.174902,
+      "longitude": 14.696478
+    },
+    {
+      "name": "Veterinarska stanica Labin",
+      "latitude": 45.095225,
+      "longitude": 14.115246
+    },
+    {
+      "name": "Willy",
+      "latitude": 44.118596,
+      "longitude": 15.231341
+    },
+    {
+      "name": "Zoo city",
+      "latitude": 43.50488,
+      "longitude": 16.455464
+    },
+    {
+      "name": "Zoo City",
+      "latitude": 44.140221,
+      "longitude": 15.227195
+    },
+    {
+      "name": "Zoo City",
+      "latitude": 44.869235,
+      "longitude": 13.868482
+    },
+    {
+      "name": "Zoo city",
+      "latitude": 45.173231,
+      "longitude": 18.052667
+    },
+    {
+      "name": "Zoo City",
+      "latitude": 45.233662,
+      "longitude": 13.922935
+    },
+    {
+      "name": "Zoo City",
+      "latitude": 45.776281,
+      "longitude": 15.9789
+    },
+    {
+      "name": "Zoo City",
+      "latitude": 45.801709,
+      "longitude": 15.725764
+    },
+    {
+      "name": "Zoo city",
+      "latitude": 45.812412,
+      "longitude": 15.972927
+    },
+    {
+      "name": "Zoo City",
+      "latitude": 45.820377,
+      "longitude": 15.977657
+    },
+    {
+      "name": "Zoo City",
+      "latitude": 46.263425,
+      "longitude": 16.375072
+    },
+    {
+      "name": "Zoo City",
+      "latitude": 46.395399,
+      "longitude": 16.429071
+    },
+    {
+      "name": "Zoo City Osijek",
+      "latitude": 45.550933,
+      "longitude": 18.691678
+    },
+    {
+      "name": "Zoo City XXL",
+      "latitude": 45.802671,
+      "longitude": 16.006703
+    },
+    {
+      "name": "Zoo Farma",
+      "latitude": 45.80633,
+      "longitude": 16.228526
+    },
+    {
+      "name": "Zoo Vili",
+      "latitude": 45.800528,
+      "longitude": 15.725812
+    },
+    {
+      "name": "Zoo Vili",
+      "latitude": 45.800689,
+      "longitude": 15.717774
+    },
+    {
+      "name": "ZOO Villi",
+      "latitude": 45.494221,
+      "longitude": 15.549682
+    },
+    {
+      "name": "Zoo Wili",
+      "latitude": 45.77722,
+      "longitude": 15.99444
+    },
+    {
+      "name": "Zoocitiy",
+      "latitude": 45.80334,
+      "longitude": 16.226482
+    },
+    {
+      "name": "ZooCity",
+      "latitude": 43.713002,
+      "longitude": 15.912974
+    },
+    {
+      "name": "Zoocity",
+      "latitude": 44.556098,
+      "longitude": 15.38252
+    },
+    {
+      "name": "Zoocity",
+      "latitude": 45.089476,
+      "longitude": 13.657571
+    },
+    {
+      "name": "ZooCity",
+      "latitude": 45.118782,
+      "longitude": 14.118833
+    },
+    {
+      "name": "ZooCity",
+      "latitude": 45.287661,
+      "longitude": 18.75175
+    },
+    {
+      "name": "ZOOCITY",
+      "latitude": 45.335066,
+      "longitude": 14.508178
+    },
+    {
+      "name": "ZooCity",
+      "latitude": 45.339184,
+      "longitude": 19.023378
+    },
+    {
+      "name": "Zoocity",
+      "latitude": 45.506197,
+      "longitude": 15.54512
+    },
+    {
+      "name": "ZooCity",
+      "latitude": 45.560438,
+      "longitude": 18.637532
+    },
+    {
+      "name": "Zoocity",
+      "latitude": 45.770185,
+      "longitude": 15.940492
+    },
+    {
+      "name": "ZooCity",
+      "latitude": 45.776206,
+      "longitude": 15.988678
+    },
+    {
+      "name": "Zoocity",
+      "latitude": 45.853647,
+      "longitude": 15.80675
+    },
+    {
+      "name": "ZOOCITY",
+      "latitude": 46.023897,
+      "longitude": 15.905718
+    },
+    {
+      "name": "ZOOCITY",
+      "latitude": 46.144844,
+      "longitude": 15.873182
+    },
+    {
+      "name": "ZOOCITY",
+      "latitude": 46.157558,
+      "longitude": 16.332885
+    },
+    {
+      "name": "ZOOCity",
+      "latitude": 46.264143,
+      "longitude": 16.379035
+    },
+    {
+      "name": "ZOOCITY",
+      "latitude": 46.388205,
+      "longitude": 16.449786
+    },
+    {
+      "name": "ZOOCITY XXL",
+      "latitude": 44.112278,
+      "longitude": 15.256346
+    },
+    {
+      "name": "ZOOCITY XXL",
+      "latitude": 45.818949,
+      "longitude": 16.041721
+    },
+    {
+      "name": "ZOOCITY Đakovo",
+      "latitude": 45.285571,
+      "longitude": 18.40829
+    },
+    {
+      "name": "Zvjerinjak",
+      "latitude": 45.797991,
+      "longitude": 15.888323
+    },
+    {
+      "name": "Zvjerinjak",
+      "latitude": 45.827434,
+      "longitude": 16.081571
+    },
+    {
+      "name": "Šapica",
+      "latitude": 45.558853,
+      "longitude": 18.721355
+    }
+  ],
+  "meta": {
+    "title": "Trgovine za kućne ljubimce - Besplatno preuzimanje",
+    "description": "Trgovine za kućne ljubimce u Hrvatskoj (108 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=pet), izrez EU-POIS/HR. Sadrži 108 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovine za kućne ljubimce | ListBase",
+    "seo_description": "Preuzmi Trgovine za kućne ljubimce — 108 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 108 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "id": "hr-kamp-odmorista",
+  "name": "Kamp odmorišta za kampere",
+  "title": "Kamp odmorišta za kampere",
+  "description": "Kamp odmorišta za kampere u Hrvatskoj (60 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=caravan_site), izrez EU-POIS/HR.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "(private site)",
+      "latitude": 44.541548,
+      "longitude": 14.442652
+    },
+    {
+      "name": "Adria",
+      "latitude": 43.954907,
+      "longitude": 15.435399
+    },
+    {
+      "name": "Antonio",
+      "latitude": 43.973842,
+      "longitude": 15.400044
+    },
+    {
+      "name": "Auto Kamp Bambo",
+      "latitude": 42.77533,
+      "longitude": 17.885259
+    },
+    {
+      "name": "Auto Kamp Banja",
+      "latitude": 42.774273,
+      "longitude": 17.884158
+    },
+    {
+      "name": "Auto-kamp Skradin-Skorići",
+      "latitude": 43.824336,
+      "longitude": 15.911113
+    },
+    {
+      "name": "Auto-kamp Đardin",
+      "latitude": 43.960663,
+      "longitude": 15.427384
+    },
+    {
+      "name": "Autocamp Matkovica",
+      "latitude": 42.624468,
+      "longitude": 18.193201
+    },
+    {
+      "name": "Autocamp Puškarić",
+      "latitude": 45.106746,
+      "longitude": 15.584983
+    },
+    {
+      "name": "Autokamp \"Dalmacija\"",
+      "latitude": 44.256061,
+      "longitude": 15.12571
+    },
+    {
+      "name": "Barbarossa",
+      "latitude": 43.958864,
+      "longitude": 15.431457
+    },
+    {
+      "name": "Bepo",
+      "latitude": 43.965472,
+      "longitude": 15.413147
+    },
+    {
+      "name": "Big Berry Resort",
+      "latitude": 45.628237,
+      "longitude": 15.301002
+    },
+    {
+      "name": "Blaž",
+      "latitude": 43.907954,
+      "longitude": 15.500865
+    },
+    {
+      "name": "Camp \"Slapovi Krke\"",
+      "latitude": 43.791625,
+      "longitude": 15.971026
+    },
+    {
+      "name": "Camp Ciste",
+      "latitude": 43.167709,
+      "longitude": 17.20838
+    },
+    {
+      "name": "Camp Livada",
+      "latitude": 43.959087,
+      "longitude": 15.430623
+    },
+    {
+      "name": "Camp Male Ciste",
+      "latitude": 43.168053,
+      "longitude": 17.207484
+    },
+    {
+      "name": "Camp Mitar",
+      "latitude": 44.002781,
+      "longitude": 15.367509
+    },
+    {
+      "name": "Camp Punta",
+      "latitude": 44.00116,
+      "longitude": 15.36819
+    },
+    {
+      "name": "Camp Seget",
+      "latitude": 43.518482,
+      "longitude": 16.224471
+    },
+    {
+      "name": "Camp Sime",
+      "latitude": 44.001833,
+      "longitude": 15.368281
+    },
+    {
+      "name": "Camper Area Felix",
+      "latitude": 45.029675,
+      "longitude": 14.581369
+    },
+    {
+      "name": "Camping Baldo",
+      "latitude": 42.791327,
+      "longitude": 17.884786
+    },
+    {
+      "name": "Camping Kozarica Pakoštane",
+      "latitude": 43.907931,
+      "longitude": 15.498652
+    },
+    {
+      "name": "Camping Labadusa",
+      "latitude": 43.483699,
+      "longitude": 16.244298
+    },
+    {
+      "name": "Camping Mario",
+      "latitude": 42.979244,
+      "longitude": 17.192915
+    },
+    {
+      "name": "Farm Pino",
+      "latitude": 45.220278,
+      "longitude": 13.728909
+    },
+    {
+      "name": "Filko",
+      "latitude": 44.005125,
+      "longitude": 15.367378
+    },
+    {
+      "name": "Futura Campers",
+      "latitude": 44.103002,
+      "longitude": 15.247105
+    },
+    {
+      "name": "Hostin",
+      "latitude": 43.800366,
+      "longitude": 15.656645
+    },
+    {
+      "name": "Ivana",
+      "latitude": 44.036978,
+      "longitude": 15.328451
+    },
+    {
+      "name": "Jugo",
+      "latitude": 43.965911,
+      "longitude": 15.412279
+    },
+    {
+      "name": "Kamp Igor",
+      "latitude": 44.283293,
+      "longitude": 15.463687
+    },
+    {
+      "name": "Kamp Odmoriste Leso",
+      "latitude": 45.032714,
+      "longitude": 14.881715
+    },
+    {
+      "name": "Kamp Odmorište Otočac",
+      "latitude": 44.860634,
+      "longitude": 15.266924
+    },
+    {
+      "name": "Kamp Vinia",
+      "latitude": 45.925195,
+      "longitude": 16.895684
+    },
+    {
+      "name": "Kamp Škver",
+      "latitude": 44.994469,
+      "longitude": 14.899813
+    },
+    {
+      "name": "Karavany Sveti Petar",
+      "latitude": 44.003452,
+      "longitude": 15.367268
+    },
+    {
+      "name": "Las nad morzem",
+      "latitude": 43.650239,
+      "longitude": 15.949849
+    },
+    {
+      "name": "Lu-Ka",
+      "latitude": 43.905462,
+      "longitude": 15.515588
+    },
+    {
+      "name": "Malenica",
+      "latitude": 44.036909,
+      "longitude": 15.327707
+    },
+    {
+      "name": "Mario",
+      "latitude": 43.887722,
+      "longitude": 15.535298
+    },
+    {
+      "name": "Mia",
+      "latitude": 43.934424,
+      "longitude": 15.448431
+    },
+    {
+      "name": "Minicamp Michael",
+      "latitude": 44.298616,
+      "longitude": 15.431062
+    },
+    {
+      "name": "Nive",
+      "latitude": 43.966222,
+      "longitude": 15.41488
+    },
+    {
+      "name": "Nordsee",
+      "latitude": 43.905129,
+      "longitude": 15.515767
+    },
+    {
+      "name": "Pila",
+      "latitude": 45.015926,
+      "longitude": 14.628484
+    },
+    {
+      "name": "Potirna",
+      "latitude": 42.929366,
+      "longitude": 16.68553
+    },
+    {
+      "name": "Premium Camping Zadar",
+      "latitude": 44.136578,
+      "longitude": 15.213839
+    },
+    {
+      "name": "PZA Benetič",
+      "latitude": 45.459624,
+      "longitude": 15.258162
+    },
+    {
+      "name": "R&B",
+      "latitude": 43.965617,
+      "longitude": 15.412899
+    },
+    {
+      "name": "Rio",
+      "latitude": 43.9557,
+      "longitude": 15.43422
+    },
+    {
+      "name": "Straško",
+      "latitude": 44.540243,
+      "longitude": 14.883532
+    },
+    {
+      "name": "Two rivers",
+      "latitude": 45.558807,
+      "longitude": 15.51906
+    },
+    {
+      "name": "Ulaz",
+      "latitude": 45.115919,
+      "longitude": 15.580686
+    },
+    {
+      "name": "Val-Travel",
+      "latitude": 45.878524,
+      "longitude": 16.09567
+    },
+    {
+      "name": "Zak Mobile Homes",
+      "latitude": 45.470777,
+      "longitude": 13.510635
+    },
+    {
+      "name": "Zora",
+      "latitude": 43.905134,
+      "longitude": 15.517011
+    },
+    {
+      "name": "Školjka",
+      "latitude": 44.03697,
+      "longitude": 15.328884
+    }
+  ],
+  "meta": {
+    "title": "Kamp odmorišta za kampere - Besplatno preuzimanje",
+    "description": "Kamp odmorišta za kampere u Hrvatskoj (60 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=caravan_site), izrez EU-POIS/HR. Sadrži 60 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kamp odmorišta za kampere | ListBase",
+    "seo_description": "Preuzmi Kamp odmorišta za kampere — 60 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 60 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

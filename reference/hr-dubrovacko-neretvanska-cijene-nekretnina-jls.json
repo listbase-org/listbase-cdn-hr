@@ -1,0 +1,367 @@
+{
+  "id": "hr-dubrovacko-neretvanska-cijene-nekretnina-jls",
+  "name": "Medijalne cijene nekretnina po m² (JLS) — Dubrovačko-neretvanska",
+  "title": "Medijalne cijene nekretnina po m² (JLS) — Dubrovačko-neretvanska",
+  "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Dubrovačko-neretvanska: 22 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "2012",
+      "label": "2012",
+      "type": "string"
+    },
+    {
+      "key": "2013",
+      "label": "2013",
+      "type": "string"
+    },
+    {
+      "key": "2014",
+      "label": "2014",
+      "type": "string"
+    },
+    {
+      "key": "2015",
+      "label": "2015",
+      "type": "string"
+    },
+    {
+      "key": "2016",
+      "label": "2016",
+      "type": "string"
+    },
+    {
+      "key": "2017",
+      "label": "2017",
+      "type": "string"
+    },
+    {
+      "key": "2018",
+      "label": "2018",
+      "type": "string"
+    },
+    {
+      "key": "2019",
+      "label": "2019",
+      "type": "string"
+    },
+    {
+      "key": "Šifra",
+      "label": "ŠIfra",
+      "type": "number"
+    },
+    {
+      "key": "Naziv županije",
+      "label": "Naziv žUpanije",
+      "type": "string"
+    },
+    {
+      "key": "Naziv JLS-a",
+      "label": "Naziv JLS A",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 256,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "BLATO"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "z",
+      "2015": "z",
+      "2016": "-",
+      "2017": "z",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 5983,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "DUBROVAČKO PRIMORJE"
+    },
+    {
+      "2012": 16810.78,
+      "2013": 15151.55,
+      "2014": 16070.45,
+      "2015": 15193.92,
+      "2016": 14652.06,
+      "2017": 15385.8,
+      "2018": 16890.9,
+      "2019": 18037.62,
+      "Šifra": 981,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "DUBROVNIK"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 5991,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "JANJINA"
+    },
+    {
+      "2012": 10875.19,
+      "2013": 11384.08,
+      "2014": 11365,
+      "2015": 10898.97,
+      "2016": 10066.95,
+      "2017": 12510.2,
+      "2018": 11606.6,
+      "2019": 10738.25,
+      "Šifra": 1988,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "KONAVLE"
+    },
+    {
+      "2012": "z",
+      "2013": 7972.27,
+      "2014": 14651.73,
+      "2015": "z",
+      "2016": 8711.44,
+      "2017": 11586,
+      "2018": 10323.5,
+      "2019": 7801.98,
+      "Šifra": 2046,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "KORČULA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 2194,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "KULA NORINSKA"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 2267,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "LASTOVO"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 6009,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "LUMBARDA"
+    },
+    {
+      "2012": 6786.16,
+      "2013": 6494.52,
+      "2014": 6799.15,
+      "2015": 6234.15,
+      "2016": 5342.62,
+      "2017": 5976.6,
+      "2018": 7337,
+      "2019": 6230.92,
+      "Šifra": 2640,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "METKOVIĆ"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "z",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 2682,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "MLJET"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": 6765.62,
+      "Šifra": 3069,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "OPUZEN"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": 7357.84,
+      "2017": 6708.9,
+      "2018": "z",
+      "2019": 7621.95,
+      "Šifra": 3085,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "OREBIĆ"
+    },
+    {
+      "2012": 6310.43,
+      "2013": 6539.38,
+      "2014": 6611.55,
+      "2015": 5678.23,
+      "2016": 5558.3,
+      "2017": 4798.1,
+      "2018": 5639.9,
+      "2019": 7185.03,
+      "Šifra": 3352,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "PLOČE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 3433,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "POJEZERJE"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": 4870.59,
+      "2016": 6513.88,
+      "2017": "z",
+      "2018": 9610.8,
+      "2019": 8052.3,
+      "Šifra": 3999,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "SLIVNO"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4022,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "SMOKVICA"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 4197,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "STON"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 6017,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "TRPANJ"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4740,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "VELA LUKA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 5231,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "ZAŽABLJE"
+    },
+    {
+      "2012": 11638.7,
+      "2013": 12346.08,
+      "2014": 12626.77,
+      "2015": 11275.87,
+      "2016": 10016.53,
+      "2017": 11509.1,
+      "2018": 12033.3,
+      "2019": 13199.77,
+      "Šifra": 6025,
+      "Naziv županije": "Dubrovačko-neretvanska",
+      "Naziv JLS-a": "ŽUPA DUBROVAČKA"
+    }
+  ],
+  "meta": {
+    "title": "Medijalne cijene nekretnina po m² (JLS) — Dubrovačko-neretvanska - Besplatno preuzimanje",
+    "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Dubrovačko-neretvanska: 22 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data. Sadrži 22 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Medijalne cijene nekretnina po m² (JLS) — Dubrovačko-neretvanska | ListBase",
+    "seo_description": "Preuzmi Medijalne cijene nekretnina po m² (JLS) — Dubrovačko-neretvanska — 22 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 22 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

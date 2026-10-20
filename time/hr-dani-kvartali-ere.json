@@ -1,0 +1,212 @@
+{
+  "id": "hr-dani-kvartali-ere",
+  "name": "Dani, kvartali, doba dana i ere — hrvatski nazivi (CLDR)",
+  "title": "Dani, kvartali, doba dana i ere — hrvatski nazivi (CLDR)",
+  "description": "Hrvatski nazivi dana u tjednu, kvartala, doba dana i era iz gregorijanskog kalendara CLDR hr lokala.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "vrsta",
+      "label": "Vrsta",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "vrsta": "dan",
+      "code": "sun",
+      "naziv": "nedjelja",
+      "kratica": "ned"
+    },
+    {
+      "id": 2,
+      "vrsta": "dan",
+      "code": "mon",
+      "naziv": "ponedjeljak",
+      "kratica": "pon"
+    },
+    {
+      "id": 3,
+      "vrsta": "dan",
+      "code": "tue",
+      "naziv": "utorak",
+      "kratica": "uto"
+    },
+    {
+      "id": 4,
+      "vrsta": "dan",
+      "code": "wed",
+      "naziv": "srijeda",
+      "kratica": "sri"
+    },
+    {
+      "id": 5,
+      "vrsta": "dan",
+      "code": "thu",
+      "naziv": "četvrtak",
+      "kratica": "čet"
+    },
+    {
+      "id": 6,
+      "vrsta": "dan",
+      "code": "fri",
+      "naziv": "petak",
+      "kratica": "pet"
+    },
+    {
+      "id": 7,
+      "vrsta": "dan",
+      "code": "sat",
+      "naziv": "subota",
+      "kratica": "sub"
+    },
+    {
+      "id": 8,
+      "vrsta": "kvartal",
+      "code": "1",
+      "naziv": "1. kvartal",
+      "kratica": "1kv"
+    },
+    {
+      "id": 9,
+      "vrsta": "kvartal",
+      "code": "2",
+      "naziv": "2. kvartal",
+      "kratica": "2kv"
+    },
+    {
+      "id": 10,
+      "vrsta": "kvartal",
+      "code": "3",
+      "naziv": "3. kvartal",
+      "kratica": "3kv"
+    },
+    {
+      "id": 11,
+      "vrsta": "kvartal",
+      "code": "4",
+      "naziv": "4. kvartal",
+      "kratica": "4kv"
+    },
+    {
+      "id": 12,
+      "vrsta": "doba_dana",
+      "code": "midnight",
+      "naziv": "ponoć",
+      "kratica": "ponoć"
+    },
+    {
+      "id": 13,
+      "vrsta": "doba_dana",
+      "code": "am",
+      "naziv": "AM",
+      "kratica": "AM"
+    },
+    {
+      "id": 14,
+      "vrsta": "doba_dana",
+      "code": "noon",
+      "naziv": "podne",
+      "kratica": "podne"
+    },
+    {
+      "id": 15,
+      "vrsta": "doba_dana",
+      "code": "pm",
+      "naziv": "PM",
+      "kratica": "PM"
+    },
+    {
+      "id": 16,
+      "vrsta": "doba_dana",
+      "code": "morning1",
+      "naziv": "ujutro",
+      "kratica": "ujutro"
+    },
+    {
+      "id": 17,
+      "vrsta": "doba_dana",
+      "code": "afternoon1",
+      "naziv": "poslije podne",
+      "kratica": "popodne"
+    },
+    {
+      "id": 18,
+      "vrsta": "doba_dana",
+      "code": "evening1",
+      "naziv": "navečer",
+      "kratica": "navečer"
+    },
+    {
+      "id": 19,
+      "vrsta": "doba_dana",
+      "code": "night1",
+      "naziv": "noću",
+      "kratica": "noću"
+    },
+    {
+      "id": 20,
+      "vrsta": "era",
+      "code": "0",
+      "naziv": "prije Krista",
+      "kratica": "pr. Kr."
+    },
+    {
+      "id": 21,
+      "vrsta": "era",
+      "code": "0-alt-variant",
+      "naziv": "prije nove ere",
+      "kratica": "pr. n. e."
+    },
+    {
+      "id": 22,
+      "vrsta": "era",
+      "code": "1",
+      "naziv": "poslije Krista",
+      "kratica": "po. Kr."
+    },
+    {
+      "id": 23,
+      "vrsta": "era",
+      "code": "1-alt-variant",
+      "naziv": "nove ere",
+      "kratica": "n. e."
+    }
+  ],
+  "meta": {
+    "title": "Dani, kvartali, doba dana i ere — hrvatski nazivi (CLDR) - Besplatno preuzimanje",
+    "description": "Hrvatski nazivi dana u tjednu, kvartala, doba dana i era iz gregorijanskog kalendara CLDR hr lokala. Sadrži 23 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Dani, kvartali, doba dana i ere — hrvatski nazivi (CLDR) | ListBase",
+    "seo_description": "Preuzmi Dani, kvartali, doba dana i ere — hrvatski nazivi (CLDR) — 23 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 23 zapisa / 5 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "id": "hr-najam-plovila",
+  "name": "Najam plovila",
+  "title": "Najam plovila",
+  "description": "Najam plovila u Hrvatskoj (67 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=boat_rental), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ace - Adriatic Yachting",
+      "latitude": 43.515892,
+      "longitude": 16.234993
+    },
+    {
+      "name": "Adriatic Sailing",
+      "latitude": 43.546382,
+      "longitude": 16.403442
+    },
+    {
+      "name": "Adventure Charter",
+      "latitude": 44.053569,
+      "longitude": 15.29656
+    },
+    {
+      "name": "Albatros Yachting",
+      "latitude": 44.119479,
+      "longitude": 15.226948
+    },
+    {
+      "name": "Alex rentals jet ski",
+      "latitude": 44.933077,
+      "longitude": 13.798931
+    },
+    {
+      "name": "Angelina/Kroki Yacht Charter",
+      "latitude": 44.053802,
+      "longitude": 15.296393
+    },
+    {
+      "name": "Argola",
+      "latitude": 43.828028,
+      "longitude": 15.580077
+    },
+    {
+      "name": "AVS Charter",
+      "latitude": 43.516847,
+      "longitude": 16.232153
+    },
+    {
+      "name": "AYC yacht charter",
+      "latitude": 43.826851,
+      "longitude": 15.601574
+    },
+    {
+      "name": "Big Blue",
+      "latitude": 44.758885,
+      "longitude": 14.759734
+    },
+    {
+      "name": "Croatia Yachting",
+      "latitude": 43.516912,
+      "longitude": 16.232155
+    },
+    {
+      "name": "Dubrovnik by boat",
+      "latitude": 42.641148,
+      "longitude": 18.106349
+    },
+    {
+      "name": "Fenix",
+      "latitude": 42.641425,
+      "longitude": 18.106299
+    },
+    {
+      "name": "Free Wave",
+      "latitude": 43.515887,
+      "longitude": 16.235044
+    },
+    {
+      "name": "Idea",
+      "latitude": 43.821892,
+      "longitude": 15.586462
+    },
+    {
+      "name": "Iznajmljivanje čamaca",
+      "latitude": 44.880441,
+      "longitude": 15.617813
+    },
+    {
+      "name": "Jarušica",
+      "latitude": 43.82707,
+      "longitude": 15.592752
+    },
+    {
+      "name": "Jet Fun",
+      "latitude": 42.653703,
+      "longitude": 18.068391
+    },
+    {
+      "name": "Jet Ski Sukošan",
+      "latitude": 44.037927,
+      "longitude": 15.307391
+    },
+    {
+      "name": "Jetski",
+      "latitude": 44.571512,
+      "longitude": 14.88629
+    },
+    {
+      "name": "Jetski und Sup",
+      "latitude": 44.106292,
+      "longitude": 15.232733
+    },
+    {
+      "name": "Jetsky Rental",
+      "latitude": 45.298674,
+      "longitude": 13.569742
+    },
+    {
+      "name": "Jistra Adventures",
+      "latitude": 44.794767,
+      "longitude": 13.917435
+    },
+    {
+      "name": "Kayaking-Dubrovnik",
+      "latitude": 42.641322,
+      "longitude": 18.106245
+    },
+    {
+      "name": "la Stella",
+      "latitude": 44.758891,
+      "longitude": 14.759424
+    },
+    {
+      "name": "LENNMAR",
+      "latitude": 45.318121,
+      "longitude": 13.561148
+    },
+    {
+      "name": "Lido Rent",
+      "latitude": 42.905935,
+      "longitude": 16.796635
+    },
+    {
+      "name": "MAREA Marine",
+      "latitude": 45.316432,
+      "longitude": 13.559346
+    },
+    {
+      "name": "MAXI NAUTIKA",
+      "latitude": 45.075804,
+      "longitude": 14.159792
+    },
+    {
+      "name": "Mk Yacht",
+      "latitude": 43.515881,
+      "longitude": 16.235071
+    },
+    {
+      "name": "Moto sport",
+      "latitude": 43.823975,
+      "longitude": 15.594119
+    },
+    {
+      "name": "Nautic Zone Pakostane Rent a boat & Dry marina",
+      "latitude": 43.906844,
+      "longitude": 15.506348
+    },
+    {
+      "name": "Navigare Yachting",
+      "latitude": 43.515858,
+      "longitude": 16.235593
+    },
+    {
+      "name": "Navigo Yacht Charter",
+      "latitude": 44.053372,
+      "longitude": 15.296691
+    },
+    {
+      "name": "Navis Yacht Charter",
+      "latitude": 43.504116,
+      "longitude": 16.455859
+    },
+    {
+      "name": "Nostromo",
+      "latitude": 44.799683,
+      "longitude": 14.719841
+    },
+    {
+      "name": "Orebic Boat Rent",
+      "latitude": 42.974762,
+      "longitude": 17.169069
+    },
+    {
+      "name": "Orvas Yachting Base",
+      "latitude": 43.501182,
+      "longitude": 16.429873
+    },
+    {
+      "name": "Paspartu Yachts",
+      "latitude": 43.508082,
+      "longitude": 16.435237
+    },
+    {
+      "name": "Pika",
+      "latitude": 43.484818,
+      "longitude": 16.112255
+    },
+    {
+      "name": "Poseidon",
+      "latitude": 43.171996,
+      "longitude": 16.44159
+    },
+    {
+      "name": "PROSIKA - PP Vransko jezero",
+      "latitude": 43.850004,
+      "longitude": 15.629272
+    },
+    {
+      "name": "Rent",
+      "latitude": 43.51829,
+      "longitude": 16.134633
+    },
+    {
+      "name": "Rent a boat",
+      "latitude": 43.532109,
+      "longitude": 15.960922
+    },
+    {
+      "name": "Rent A Boat & Jet Ski",
+      "latitude": 43.439731,
+      "longitude": 16.662023
+    },
+    {
+      "name": "Rent A Boat Krk - BURA",
+      "latitude": 45.025294,
+      "longitude": 14.573246
+    },
+    {
+      "name": "RENT A BOAT POREČ",
+      "latitude": 45.230992,
+      "longitude": 13.603713
+    },
+    {
+      "name": "Rent a Boat Rab",
+      "latitude": 44.758608,
+      "longitude": 14.760025
+    },
+    {
+      "name": "Rent a Boat Rab",
+      "latitude": 44.806533,
+      "longitude": 14.722247
+    },
+    {
+      "name": "Rent a boat Silba",
+      "latitude": 44.374071,
+      "longitude": 14.699057
+    },
+    {
+      "name": "Rent a kayak",
+      "latitude": 43.92627,
+      "longitude": 15.135606
+    },
+    {
+      "name": "Rent a kayak",
+      "latitude": 44.371487,
+      "longitude": 14.695967
+    },
+    {
+      "name": "Rent Jet Ski and aqua Sofa/Slider",
+      "latitude": 45.164602,
+      "longitude": 14.540374
+    },
+    {
+      "name": "rent-a-boat Kristian",
+      "latitude": 43.744995,
+      "longitude": 15.801896
+    },
+    {
+      "name": "Rivera",
+      "latitude": 44.759728,
+      "longitude": 14.76051
+    },
+    {
+      "name": "Sail Club Croatia d.o.o",
+      "latitude": 43.515948,
+      "longitude": 16.234443
+    },
+    {
+      "name": "Sea Kayaking",
+      "latitude": 42.64127,
+      "longitude": 18.106261
+    },
+    {
+      "name": "Split Yacht Charter / Pitter Yachtcharter",
+      "latitude": 43.502178,
+      "longitude": 16.429823
+    },
+    {
+      "name": "Taxi Daba",
+      "latitude": 44.928614,
+      "longitude": 14.918153
+    },
+    {
+      "name": "Torete",
+      "latitude": 44.119916,
+      "longitude": 15.2263
+    },
+    {
+      "name": "Umbrella Yacht",
+      "latitude": 43.515956,
+      "longitude": 16.234235
+    },
+    {
+      "name": "Undina Adriatica",
+      "latitude": 44.878998,
+      "longitude": 13.823776
+    },
+    {
+      "name": "Vagabundo Boat Tours",
+      "latitude": 42.658686,
+      "longitude": 18.087049
+    },
+    {
+      "name": "Val",
+      "latitude": 43.822296,
+      "longitude": 15.590456
+    },
+    {
+      "name": "water sport center",
+      "latitude": 43.592117,
+      "longitude": 15.917783
+    },
+    {
+      "name": "Water Sports Centar NEMO",
+      "latitude": 45.496306,
+      "longitude": 13.498377
+    },
+    {
+      "name": "Windsurfing center The Surf pit",
+      "latitude": 43.962563,
+      "longitude": 15.421752
+    }
+  ],
+  "meta": {
+    "title": "Najam plovila - Besplatno preuzimanje",
+    "description": "Najam plovila u Hrvatskoj (67 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=boat_rental), izrez EU-POIS/HR. Sadrži 67 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Najam plovila | ListBase",
+    "seo_description": "Preuzmi Najam plovila — 67 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 67 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

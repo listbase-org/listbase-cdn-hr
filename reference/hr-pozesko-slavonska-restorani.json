@@ -1,0 +1,131 @@
+{
+  "id": "hr-pozesko-slavonska-restorani",
+  "name": "Restorani — Požeško-slavonska županija",
+  "title": "Restorani — Požeško-slavonska županija",
+  "description": "18 restorani u županiji Požeško-slavonska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bilburger",
+      "latitude": 45.347567,
+      "longitude": 17.674062
+    },
+    {
+      "name": "Bistro \"Ledić Catering\"",
+      "latitude": 45.334306,
+      "longitude": 17.683391
+    },
+    {
+      "name": "Calimero",
+      "latitude": 45.337193,
+      "longitude": 17.669352
+    },
+    {
+      "name": "Chili fusion",
+      "latitude": 45.333231,
+      "longitude": 17.677236
+    },
+    {
+      "name": "Cool",
+      "latitude": 45.336826,
+      "longitude": 17.704952
+    },
+    {
+      "name": "Grill Lav",
+      "latitude": 45.335894,
+      "longitude": 17.678754
+    },
+    {
+      "name": "Kutjevački podrum",
+      "latitude": 45.429632,
+      "longitude": 17.885987
+    },
+    {
+      "name": "Mama mia",
+      "latitude": 45.333627,
+      "longitude": 17.677218
+    },
+    {
+      "name": "Pizza Bolte Lounge Bar.",
+      "latitude": 45.331309,
+      "longitude": 17.6762
+    },
+    {
+      "name": "Pizzeria Monaco",
+      "latitude": 45.434188,
+      "longitude": 17.665781
+    },
+    {
+      "name": "Restoran \"Vrata Slavonije\"",
+      "latitude": 45.41386,
+      "longitude": 17.162019
+    },
+    {
+      "name": "Restoran Nada",
+      "latitude": 45.414813,
+      "longitude": 17.164701
+    },
+    {
+      "name": "Restoran Stari Grad",
+      "latitude": 45.332306,
+      "longitude": 17.680455
+    },
+    {
+      "name": "Restoran Tomislav",
+      "latitude": 45.334813,
+      "longitude": 17.676669
+    },
+    {
+      "name": "Schön Blick",
+      "latitude": 45.416525,
+      "longitude": 17.776699
+    },
+    {
+      "name": "Stari Brestovac",
+      "latitude": 45.317893,
+      "longitude": 17.598534
+    },
+    {
+      "name": "Zdravljak \"Fontana\"",
+      "latitude": 45.413394,
+      "longitude": 17.162041
+    },
+    {
+      "name": "Čiča Mata",
+      "latitude": 45.459171,
+      "longitude": 17.658672
+    }
+  ],
+  "meta": {
+    "title": "Restorani — Požeško-slavonska županija - Besplatno preuzimanje",
+    "description": "18 restorani u županiji Požeško-slavonska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 18 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Restorani — Požeško-slavonska županija | ListBase",
+    "seo_description": "Preuzmi Restorani — Požeško-slavonska županija — 18 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 18 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

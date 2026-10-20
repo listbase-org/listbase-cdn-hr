@@ -1,0 +1,711 @@
+{
+  "id": "hr-rent-a-car",
+  "name": "Rent-a-car",
+  "title": "Rent-a-car",
+  "description": "Rent-a-car u Hrvatskoj (134 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=car_rental), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 134,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "4x4 Safari",
+      "latitude": 42.577726,
+      "longitude": 18.225374
+    },
+    {
+      "name": "ACTIVE",
+      "latitude": 44.096707,
+      "longitude": 15.352694
+    },
+    {
+      "name": "Adriatic Osiguranje",
+      "latitude": 43.058665,
+      "longitude": 16.188596
+    },
+    {
+      "name": "AIR",
+      "latitude": 44.096657,
+      "longitude": 15.352695
+    },
+    {
+      "name": "Alamo / Enterprise",
+      "latitude": 44.097255,
+      "longitude": 15.35261
+    },
+    {
+      "name": "Alfa rent",
+      "latitude": 43.514655,
+      "longitude": 16.253087
+    },
+    {
+      "name": "All for rent",
+      "latitude": 42.96026,
+      "longitude": 17.135836
+    },
+    {
+      "name": "Auto Vicić j.d.o.o.",
+      "latitude": 45.904054,
+      "longitude": 16.771855
+    },
+    {
+      "name": "autoUnion",
+      "latitude": 44.096352,
+      "longitude": 15.35302
+    },
+    {
+      "name": "AUTOWILL",
+      "latitude": 44.096763,
+      "longitude": 15.352697
+    },
+    {
+      "name": "Autowill",
+      "latitude": 45.75142,
+      "longitude": 16.095926
+    },
+    {
+      "name": "Avant car",
+      "latitude": 45.802447,
+      "longitude": 16.002811
+    },
+    {
+      "name": "Avantcar",
+      "latitude": 43.506916,
+      "longitude": 16.432532
+    },
+    {
+      "name": "Avax rent a car",
+      "latitude": 43.50689,
+      "longitude": 16.440203
+    },
+    {
+      "name": "Avax rent a car Dubrovnik",
+      "latitude": 42.655602,
+      "longitude": 18.07665
+    },
+    {
+      "name": "Avax rent a car Vela Luka",
+      "latitude": 42.960116,
+      "longitude": 16.71759
+    },
+    {
+      "name": "Avax rent a car Zagreb",
+      "latitude": 45.810767,
+      "longitude": 15.995142
+    },
+    {
+      "name": "Avia",
+      "latitude": 43.731829,
+      "longitude": 15.893418
+    },
+    {
+      "name": "AVIA",
+      "latitude": 44.097108,
+      "longitude": 15.352605
+    },
+    {
+      "name": "Avia",
+      "latitude": 44.113589,
+      "longitude": 15.230577
+    },
+    {
+      "name": "Avia Rent Car",
+      "latitude": 45.75142,
+      "longitude": 16.095584
+    },
+    {
+      "name": "Avis",
+      "latitude": 42.656903,
+      "longitude": 18.069994
+    },
+    {
+      "name": "Avis",
+      "latitude": 44.096303,
+      "longitude": 15.353131
+    },
+    {
+      "name": "Avis",
+      "latitude": 44.097279,
+      "longitude": 15.352609
+    },
+    {
+      "name": "Bašetina d.o.o.",
+      "latitude": 43.18567,
+      "longitude": 16.596683
+    },
+    {
+      "name": "Best Buy Rent a car",
+      "latitude": 42.559835,
+      "longitude": 18.260485
+    },
+    {
+      "name": "Black Tie d.o.o",
+      "latitude": 43.507295,
+      "longitude": 16.444272
+    },
+    {
+      "name": "Budget",
+      "latitude": 44.096304,
+      "longitude": 15.353105
+    },
+    {
+      "name": "Budget / AVIS",
+      "latitude": 43.501236,
+      "longitude": 16.429828
+    },
+    {
+      "name": "Buggy Adventure",
+      "latitude": 42.649397,
+      "longitude": 18.111723
+    },
+    {
+      "name": "Carwiz",
+      "latitude": 42.559455,
+      "longitude": 18.260674
+    },
+    {
+      "name": "Carwiz",
+      "latitude": 42.647039,
+      "longitude": 18.091086
+    },
+    {
+      "name": "CARWIZ",
+      "latitude": 44.096693,
+      "longitude": 15.352998
+    },
+    {
+      "name": "Carwiz",
+      "latitude": 45.794694,
+      "longitude": 15.958808
+    },
+    {
+      "name": "coche",
+      "latitude": 44.113197,
+      "longitude": 15.233387
+    },
+    {
+      "name": "Connitor Rent a Car",
+      "latitude": 44.0972,
+      "longitude": 15.352608
+    },
+    {
+      "name": "Dino Rent Hvar",
+      "latitude": 43.166715,
+      "longitude": 16.445516
+    },
+    {
+      "name": "Dollar / Thrifty",
+      "latitude": 45.80603,
+      "longitude": 15.98041
+    },
+    {
+      "name": "Dollar / Thrifty Rent-a-car",
+      "latitude": 43.506626,
+      "longitude": 16.432402
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 43.505438,
+      "longitude": 16.44234
+    },
+    {
+      "name": "Eseker",
+      "latitude": 43.822832,
+      "longitude": 15.591978
+    },
+    {
+      "name": "Europcar",
+      "latitude": 43.53344,
+      "longitude": 16.297872
+    },
+    {
+      "name": "Europcar",
+      "latitude": 44.097211,
+      "longitude": 15.352609
+    },
+    {
+      "name": "Fleet",
+      "latitude": 43.537864,
+      "longitude": 16.305938
+    },
+    {
+      "name": "Fleet",
+      "latitude": 44.097229,
+      "longitude": 15.352605
+    },
+    {
+      "name": "Fleet Car Rental",
+      "latitude": 42.559791,
+      "longitude": 18.26065
+    },
+    {
+      "name": "Fortuna Maris",
+      "latitude": 43.82291,
+      "longitude": 15.59221
+    },
+    {
+      "name": "Gold Prestige",
+      "latitude": 43.556834,
+      "longitude": 16.390033
+    },
+    {
+      "name": "GreenMotion",
+      "latitude": 45.796261,
+      "longitude": 15.729384
+    },
+    {
+      "name": "GREENMOTION Zagreb - Jankomir",
+      "latitude": 45.798021,
+      "longitude": 15.859184
+    },
+    {
+      "name": "Hak - Rent a car",
+      "latitude": 45.811888,
+      "longitude": 15.993558
+    },
+    {
+      "name": "Hertz",
+      "latitude": 42.559319,
+      "longitude": 18.260427
+    },
+    {
+      "name": "Hertz",
+      "latitude": 43.533608,
+      "longitude": 16.297955
+    },
+    {
+      "name": "Hertz",
+      "latitude": 44.097131,
+      "longitude": 15.352607
+    },
+    {
+      "name": "HM rent-a-car",
+      "latitude": 45.562168,
+      "longitude": 18.681266
+    },
+    {
+      "name": "Inter-Auto",
+      "latitude": 45.433159,
+      "longitude": 13.521544
+    },
+    {
+      "name": "Interauto",
+      "latitude": 45.433487,
+      "longitude": 13.522599
+    },
+    {
+      "name": "Kompas",
+      "latitude": 44.117209,
+      "longitude": 15.225141
+    },
+    {
+      "name": "Last minute",
+      "latitude": 43.507998,
+      "longitude": 16.434257
+    },
+    {
+      "name": "Last Minute Rent-a-Car",
+      "latitude": 45.220084,
+      "longitude": 14.57168
+    },
+    {
+      "name": "Linde Viličari Hrvatska",
+      "latitude": 45.806336,
+      "longitude": 15.718225
+    },
+    {
+      "name": "Lulic",
+      "latitude": 44.09715,
+      "longitude": 15.352608
+    },
+    {
+      "name": "Luna Vectura Rent a Car",
+      "latitude": 43.515004,
+      "longitude": 16.252409
+    },
+    {
+      "name": "Lutar",
+      "latitude": 43.509619,
+      "longitude": 16.436246
+    },
+    {
+      "name": "Matić",
+      "latitude": 43.709688,
+      "longitude": 16.640421
+    },
+    {
+      "name": "MB RENT Agency (Matko boats)",
+      "latitude": 43.17244,
+      "longitude": 16.444333
+    },
+    {
+      "name": "Mini Brum",
+      "latitude": 42.739347,
+      "longitude": 17.621515
+    },
+    {
+      "name": "Mini BRUM",
+      "latitude": 42.786542,
+      "longitude": 17.380481
+    },
+    {
+      "name": "Motorent Croatia",
+      "latitude": 45.809739,
+      "longitude": 16.024617
+    },
+    {
+      "name": "Munita",
+      "latitude": 44.076463,
+      "longitude": 15.193379
+    },
+    {
+      "name": "Nova",
+      "latitude": 42.648349,
+      "longitude": 18.086202
+    },
+    {
+      "name": "Nova",
+      "latitude": 43.506733,
+      "longitude": 16.440216
+    },
+    {
+      "name": "NOVA",
+      "latitude": 44.09673,
+      "longitude": 15.352695
+    },
+    {
+      "name": "Nova Rent a Car",
+      "latitude": 43.506629,
+      "longitude": 16.441687
+    },
+    {
+      "name": "Nova rent a car",
+      "latitude": 45.801831,
+      "longitude": 15.995432
+    },
+    {
+      "name": "Nox rent a car",
+      "latitude": 43.506524,
+      "longitude": 16.459462
+    },
+    {
+      "name": "okmobility",
+      "latitude": 44.096674,
+      "longitude": 15.353003
+    },
+    {
+      "name": "ORYX",
+      "latitude": 44.097189,
+      "longitude": 15.352607
+    },
+    {
+      "name": "Oryx",
+      "latitude": 45.799649,
+      "longitude": 15.974458
+    },
+    {
+      "name": "Oryx rent a car",
+      "latitude": 42.645347,
+      "longitude": 18.103262
+    },
+    {
+      "name": "ORYX Rent a car - Dubrovnik airport",
+      "latitude": 42.559876,
+      "longitude": 18.260416
+    },
+    {
+      "name": "ORYX Rent a car - Dubrovnik downtown",
+      "latitude": 42.645481,
+      "longitude": 18.103221
+    },
+    {
+      "name": "ORYX Rent a car - Split airport",
+      "latitude": 43.536988,
+      "longitude": 16.299508
+    },
+    {
+      "name": "ORYX Rent a car - Split downtown",
+      "latitude": 43.506555,
+      "longitude": 16.443305
+    },
+    {
+      "name": "ORYX Rent a car - Zagreb airport",
+      "latitude": 45.741048,
+      "longitude": 16.080325
+    },
+    {
+      "name": "ORYX Rent a car Karlovac",
+      "latitude": 45.493823,
+      "longitude": 15.550609
+    },
+    {
+      "name": "ORYX Rent a car Pula ZL",
+      "latitude": 44.899381,
+      "longitude": 13.922684
+    },
+    {
+      "name": "ORYX Rent a Car Rijeka",
+      "latitude": 45.323847,
+      "longitude": 14.43891
+    },
+    {
+      "name": "Oryx Rent a car Rijeka Zračna Luka",
+      "latitude": 45.219641,
+      "longitude": 14.572141
+    },
+    {
+      "name": "ORYX Rent a car Rovinj",
+      "latitude": 45.076346,
+      "longitude": 13.636613
+    },
+    {
+      "name": "Oryx Rent a car Zagreb Esplanade Hotel",
+      "latitude": 45.805241,
+      "longitude": 15.975888
+    },
+    {
+      "name": "Payless",
+      "latitude": 44.096304,
+      "longitude": 15.353076
+    },
+    {
+      "name": "popcar",
+      "latitude": 44.117286,
+      "longitude": 15.225278
+    },
+    {
+      "name": "Rapidus",
+      "latitude": 43.161853,
+      "longitude": 16.691857
+    },
+    {
+      "name": "Rapidus",
+      "latitude": 43.185071,
+      "longitude": 16.598951
+    },
+    {
+      "name": "Rent 4",
+      "latitude": 45.148021,
+      "longitude": 13.605616
+    },
+    {
+      "name": "Rent a boat Mare",
+      "latitude": 43.799748,
+      "longitude": 15.641011
+    },
+    {
+      "name": "Rent a boat Prova",
+      "latitude": 43.802854,
+      "longitude": 15.635007
+    },
+    {
+      "name": "Rent a boat Sunčana oaza",
+      "latitude": 43.803774,
+      "longitude": 15.636188
+    },
+    {
+      "name": "Rent a boat Tisno",
+      "latitude": 43.799271,
+      "longitude": 15.643614
+    },
+    {
+      "name": "Rent a buggy/quad",
+      "latitude": 44.824966,
+      "longitude": 14.739031
+    },
+    {
+      "name": "Rent a car - Scooter - Boutique",
+      "latitude": 43.260278,
+      "longitude": 16.65366
+    },
+    {
+      "name": "RentARoberts",
+      "latitude": 43.385326,
+      "longitude": 16.547438
+    },
+    {
+      "name": "Sixt",
+      "latitude": 42.559466,
+      "longitude": 18.260445
+    },
+    {
+      "name": "SIXT",
+      "latitude": 43.294434,
+      "longitude": 17.014656
+    },
+    {
+      "name": "SIXT",
+      "latitude": 43.533358,
+      "longitude": 16.297902
+    },
+    {
+      "name": "SIXT",
+      "latitude": 43.533695,
+      "longitude": 16.300295
+    },
+    {
+      "name": "Sixt",
+      "latitude": 44.096305,
+      "longitude": 15.353024
+    },
+    {
+      "name": "Sixt",
+      "latitude": 44.097169,
+      "longitude": 15.352609
+    },
+    {
+      "name": "Sixt",
+      "latitude": 44.836429,
+      "longitude": 13.839068
+    },
+    {
+      "name": "Sixt",
+      "latitude": 45.3301,
+      "longitude": 14.438527
+    },
+    {
+      "name": "Sixt",
+      "latitude": 45.340123,
+      "longitude": 14.311319
+    },
+    {
+      "name": "Sixt",
+      "latitude": 45.732704,
+      "longitude": 16.061987
+    },
+    {
+      "name": "Sixt",
+      "latitude": 45.741627,
+      "longitude": 16.080897
+    },
+    {
+      "name": "SIXT",
+      "latitude": 45.804508,
+      "longitude": 15.952806
+    },
+    {
+      "name": "SIXT - Rent a Car",
+      "latitude": 45.223932,
+      "longitude": 13.597359
+    },
+    {
+      "name": "Sixt Rent A Car",
+      "latitude": 44.105397,
+      "longitude": 15.241454
+    },
+    {
+      "name": "Smart rental",
+      "latitude": 45.800028,
+      "longitude": 15.986812
+    },
+    {
+      "name": "Smart trade",
+      "latitude": 45.795605,
+      "longitude": 15.900529
+    },
+    {
+      "name": "SunCity",
+      "latitude": 43.185411,
+      "longitude": 16.59823
+    },
+    {
+      "name": "Surprise Cars",
+      "latitude": 45.330345,
+      "longitude": 14.432545
+    },
+    {
+      "name": "Tref Rent a Car",
+      "latitude": 44.87608,
+      "longitude": 13.849237
+    },
+    {
+      "name": "Trustee car rental",
+      "latitude": 43.505328,
+      "longitude": 16.460659
+    },
+    {
+      "name": "Uni rent",
+      "latitude": 45.159085,
+      "longitude": 18.0155
+    },
+    {
+      "name": "uni rent",
+      "latitude": 45.751468,
+      "longitude": 16.095858
+    },
+    {
+      "name": "Unirent",
+      "latitude": 42.559654,
+      "longitude": 18.261036
+    },
+    {
+      "name": "Unirent",
+      "latitude": 44.097082,
+      "longitude": 15.352606
+    },
+    {
+      "name": "Vespa-Verleih",
+      "latitude": 43.495525,
+      "longitude": 16.261952
+    },
+    {
+      "name": "VETURA",
+      "latitude": 44.132668,
+      "longitude": 15.212506
+    },
+    {
+      "name": "Vetura",
+      "latitude": 45.077278,
+      "longitude": 13.637743
+    },
+    {
+      "name": "Vetura",
+      "latitude": 45.226834,
+      "longitude": 13.597938
+    },
+    {
+      "name": "Vintax & GreenMotion",
+      "latitude": 43.538348,
+      "longitude": 16.306459
+    },
+    {
+      "name": "VIP Prestige Travel",
+      "latitude": 43.519003,
+      "longitude": 16.457062
+    },
+    {
+      "name": "XL",
+      "latitude": 44.096681,
+      "longitude": 15.352693
+    }
+  ],
+  "meta": {
+    "title": "Rent-a-car - Besplatno preuzimanje",
+    "description": "Rent-a-car u Hrvatskoj (134 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=car_rental), izrez EU-POIS/HR. Sadrži 134 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Rent-a-car | ListBase",
+    "seo_description": "Preuzmi Rent-a-car — 134 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 134 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "id": "hr-viroviticko-podravska-zeljeznicke-postaje",
+  "name": "Željezničke postaje — Virovitičko-Podravska županija",
+  "title": "Željezničke postaje — Virovitičko-Podravska županija",
+  "description": "Željezničke postaje i stajališta u Virovitičko-Podravska županija (šifra 17) iz trainline-eu/stations. 8 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "number"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_slug",
+      "label": "Zupanija Slug",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_code",
+      "label": "Zupanija Code",
+      "type": "number"
+    },
+    {
+      "key": "najblize_mjesto",
+      "label": "Najblize Mjesto",
+      "type": "string"
+    },
+    {
+      "key": "udaljenost_km",
+      "label": "Udaljenost Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 26846,
+      "name": "Virovitica Autobusni Kolodvor",
+      "slug": "virovitica-autobusni-kolodvor",
+      "uic": "",
+      "latitude": 45.835641,
+      "longitude": 17.387764,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": true,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": 29287,
+      "info_en": "",
+      "zupanija": "Virovitičko-Podravska",
+      "zupanija_slug": "viroviticko-podravska",
+      "zupanija_code": "17",
+      "najblize_mjesto": "Virovitica",
+      "udaljenost_km": 0.513,
+      "country": "HR"
+    },
+    {
+      "id": 2,
+      "station_id": 26847,
+      "name": "Slatina Autobusni Kolodvor",
+      "slug": "slatina-autobusni-kolodvor",
+      "uic": "",
+      "latitude": 45.706386,
+      "longitude": 17.704483,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": true,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": 29291,
+      "info_en": "",
+      "zupanija": "Virovitičko-Podravska",
+      "zupanija_slug": "viroviticko-podravska",
+      "zupanija_code": "17",
+      "najblize_mjesto": "Slatina",
+      "udaljenost_km": 0.367,
+      "country": "HR"
+    },
+    {
+      "id": 3,
+      "station_id": 29287,
+      "name": "Virovitica",
+      "slug": "virovitica",
+      "uic": "",
+      "latitude": 45.831646,
+      "longitude": 17.385543,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Virovitičko-Podravska",
+      "zupanija_slug": "viroviticko-podravska",
+      "zupanija_code": "17",
+      "najblize_mjesto": "Virovitica",
+      "udaljenost_km": 0.13,
+      "country": "HR"
+    },
+    {
+      "id": 4,
+      "station_id": 29291,
+      "name": "Slatina",
+      "slug": "slatina",
+      "uic": "",
+      "latitude": 45.701932,
+      "longitude": 17.701144,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Virovitičko-Podravska",
+      "zupanija_slug": "viroviticko-podravska",
+      "zupanija_code": "17",
+      "najblize_mjesto": "Slatina",
+      "udaljenost_km": 0.199,
+      "country": "HR"
+    },
+    {
+      "id": 5,
+      "station_id": 29614,
+      "name": "Pitomača",
+      "slug": "pitomaca",
+      "uic": "",
+      "latitude": 45.950107,
+      "longitude": 17.232652,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Virovitičko-Podravska",
+      "zupanija_slug": "viroviticko-podravska",
+      "zupanija_code": "17",
+      "najblize_mjesto": "Pitomača",
+      "udaljenost_km": 0.257,
+      "country": "HR"
+    },
+    {
+      "id": 6,
+      "station_id": 32351,
+      "name": "Orahovica",
+      "slug": "orahovica",
+      "uic": "",
+      "latitude": 45.529585,
+      "longitude": 17.858019,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Virovitičko-Podravska",
+      "zupanija_slug": "viroviticko-podravska",
+      "zupanija_code": "17",
+      "najblize_mjesto": "Duzluk",
+      "udaljenost_km": 1.779,
+      "country": "HR"
+    },
+    {
+      "id": 7,
+      "station_id": 32589,
+      "name": "Podravska Slatina",
+      "slug": "podravska-slatina",
+      "uic": "",
+      "latitude": 45.700249,
+      "longitude": 17.71225,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Virovitičko-Podravska",
+      "zupanija_slug": "viroviticko-podravska",
+      "zupanija_code": "17",
+      "najblize_mjesto": "Slatina",
+      "udaljenost_km": 0.808,
+      "country": "HR"
+    },
+    {
+      "id": 8,
+      "station_id": 68108,
+      "name": "Pcelic",
+      "slug": "pcelic",
+      "uic": "",
+      "latitude": 45.780335,
+      "longitude": 17.525531,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Virovitičko-Podravska",
+      "zupanija_slug": "viroviticko-podravska",
+      "zupanija_code": "17",
+      "najblize_mjesto": "Pčelić",
+      "udaljenost_km": 0.957,
+      "country": "HR"
+    }
+  ],
+  "meta": {
+    "title": "Željezničke postaje — Virovitičko-Podravska županija - Besplatno preuzimanje",
+    "description": "Željezničke postaje i stajališta u Virovitičko-Podravska županija (šifra 17) iz trainline-eu/stations. 8 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi. Sadrži 8 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Željezničke postaje — Virovitičko-Podravska županija | ListBase",
+    "seo_description": "Preuzmi Željezničke postaje — Virovitičko-Podravska županija — 8 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 8 zapisa / 20 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

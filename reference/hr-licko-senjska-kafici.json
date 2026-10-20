@@ -1,0 +1,346 @@
+{
+  "id": "hr-licko-senjska-kafici",
+  "name": "Kafići — Ličko-senjska županija",
+  "title": "Kafići — Ličko-senjska županija",
+  "description": "61 kafići u županiji Ličko-senjska županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Amigos",
+      "latitude": 44.552225,
+      "longitude": 14.884295
+    },
+    {
+      "name": "Bilao",
+      "latitude": 44.990057,
+      "longitude": 14.901677
+    },
+    {
+      "name": "Bistro Kozjačka Draga",
+      "latitude": 44.893839,
+      "longitude": 15.603087
+    },
+    {
+      "name": "Bistro Mario",
+      "latitude": 44.942043,
+      "longitude": 15.651824
+    },
+    {
+      "name": "Bluee",
+      "latitude": 44.555104,
+      "longitude": 15.963941
+    },
+    {
+      "name": "Bonus",
+      "latitude": 44.545313,
+      "longitude": 15.376752
+    },
+    {
+      "name": "Borje",
+      "latitude": 44.765336,
+      "longitude": 15.690494
+    },
+    {
+      "name": "Cadillac",
+      "latitude": 44.649667,
+      "longitude": 15.384045
+    },
+    {
+      "name": "Cafe Bar Bolero",
+      "latitude": 44.868811,
+      "longitude": 15.234566
+    },
+    {
+      "name": "CAFE BAR MAJA",
+      "latitude": 44.531865,
+      "longitude": 15.767074
+    },
+    {
+      "name": "Caffe Bar Art",
+      "latitude": 44.649162,
+      "longitude": 15.384351
+    },
+    {
+      "name": "Caffe Bar Domig",
+      "latitude": 44.804326,
+      "longitude": 15.324863
+    },
+    {
+      "name": "Caffe Bar Forum",
+      "latitude": 44.547389,
+      "longitude": 15.372306
+    },
+    {
+      "name": "Caffe Bar Kristina",
+      "latitude": 44.656008,
+      "longitude": 15.381929
+    },
+    {
+      "name": "Caffe Bar KRIŽ",
+      "latitude": 44.989441,
+      "longitude": 14.900607
+    },
+    {
+      "name": "Caffe Bar Kunić",
+      "latitude": 44.803719,
+      "longitude": 15.325554
+    },
+    {
+      "name": "Caffe bar LA",
+      "latitude": 44.547289,
+      "longitude": 15.371028
+    },
+    {
+      "name": "Caffe Bar Life",
+      "latitude": 44.650164,
+      "longitude": 15.383211
+    },
+    {
+      "name": "Caffe Bar Liso",
+      "latitude": 44.556199,
+      "longitude": 14.883654
+    },
+    {
+      "name": "Caffe Bar Nehaj",
+      "latitude": 44.989547,
+      "longitude": 14.900495
+    },
+    {
+      "name": "Caffe Bar Sofora",
+      "latitude": 44.556168,
+      "longitude": 14.883558
+    },
+    {
+      "name": "Caffé bar \"Jakišnica\"",
+      "latitude": 44.644672,
+      "longitude": 14.779895
+    },
+    {
+      "name": "Central",
+      "latitude": 44.551597,
+      "longitude": 15.961433
+    },
+    {
+      "name": "Cissa",
+      "latitude": 44.552546,
+      "longitude": 14.885234
+    },
+    {
+      "name": "City Bar",
+      "latitude": 44.545204,
+      "longitude": 15.37683
+    },
+    {
+      "name": "Crni Niko",
+      "latitude": 44.989912,
+      "longitude": 14.901003
+    },
+    {
+      "name": "Crodux Bistro",
+      "latitude": 44.751676,
+      "longitude": 15.372915
+    },
+    {
+      "name": "Dvorac",
+      "latitude": 44.989732,
+      "longitude": 14.901587
+    },
+    {
+      "name": "El Faro",
+      "latitude": 44.555046,
+      "longitude": 14.883773
+    },
+    {
+      "name": "Fontana",
+      "latitude": 44.989716,
+      "longitude": 14.901839
+    },
+    {
+      "name": "Fresh corner",
+      "latitude": 44.462346,
+      "longitude": 15.601509
+    },
+    {
+      "name": "Gaudino",
+      "latitude": 44.557625,
+      "longitude": 14.882139
+    },
+    {
+      "name": "Izzy",
+      "latitude": 44.953913,
+      "longitude": 15.311907
+    },
+    {
+      "name": "Jandrić",
+      "latitude": 44.743136,
+      "longitude": 15.707473
+    },
+    {
+      "name": "Jure",
+      "latitude": 44.705217,
+      "longitude": 14.897563
+    },
+    {
+      "name": "Klara",
+      "latitude": 44.990027,
+      "longitude": 14.902204
+    },
+    {
+      "name": "Kod Ivine",
+      "latitude": 44.641519,
+      "longitude": 15.184653
+    },
+    {
+      "name": "Kod Tadije",
+      "latitude": 44.631833,
+      "longitude": 15.297983
+    },
+    {
+      "name": "La cha",
+      "latitude": 44.552529,
+      "longitude": 14.884419
+    },
+    {
+      "name": "Laganini",
+      "latitude": 44.551759,
+      "longitude": 14.880839
+    },
+    {
+      "name": "Mack",
+      "latitude": 44.998508,
+      "longitude": 15.128684
+    },
+    {
+      "name": "Master",
+      "latitude": 44.989886,
+      "longitude": 14.901123
+    },
+    {
+      "name": "Maun",
+      "latitude": 44.556112,
+      "longitude": 14.883445
+    },
+    {
+      "name": "Mirakul",
+      "latitude": 44.989652,
+      "longitude": 14.900995
+    },
+    {
+      "name": "Miramare",
+      "latitude": 44.834389,
+      "longitude": 15.294903
+    },
+    {
+      "name": "Mustang",
+      "latitude": 44.390769,
+      "longitude": 15.686078
+    },
+    {
+      "name": "Pink Pather",
+      "latitude": 44.531549,
+      "longitude": 15.766272
+    },
+    {
+      "name": "Pirassa cafe",
+      "latitude": 44.990086,
+      "longitude": 14.900688
+    },
+    {
+      "name": "Plitvice",
+      "latitude": 44.84877,
+      "longitude": 15.434564
+    },
+    {
+      "name": "Santana",
+      "latitude": 45.000035,
+      "longitude": 15.131421
+    },
+    {
+      "name": "SPORT CAFFE",
+      "latitude": 44.545288,
+      "longitude": 15.371906
+    },
+    {
+      "name": "Sportivo",
+      "latitude": 44.999892,
+      "longitude": 15.135599
+    },
+    {
+      "name": "Stari hotel",
+      "latitude": 44.998686,
+      "longitude": 15.129905
+    },
+    {
+      "name": "The Highlander's pub",
+      "latitude": 44.546511,
+      "longitude": 15.372007
+    },
+    {
+      "name": "Titanic",
+      "latitude": 45.001158,
+      "longitude": 15.135001
+    },
+    {
+      "name": "Tomo",
+      "latitude": 44.98927,
+      "longitude": 14.901321
+    },
+    {
+      "name": "Uskok",
+      "latitude": 44.9894,
+      "longitude": 14.900729
+    },
+    {
+      "name": "Valis",
+      "latitude": 44.556431,
+      "longitude": 14.883343
+    },
+    {
+      "name": "Venera",
+      "latitude": 44.552517,
+      "longitude": 14.884913
+    },
+    {
+      "name": "YES",
+      "latitude": 44.556163,
+      "longitude": 15.38256
+    },
+    {
+      "name": "Zona organic",
+      "latitude": 44.576752,
+      "longitude": 15.393313
+    }
+  ],
+  "meta": {
+    "title": "Kafići — Ličko-senjska županija - Besplatno preuzimanje",
+    "description": "61 kafići u županiji Ličko-senjska županija. Kafići (amenity=cafe) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 61 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kafići — Ličko-senjska županija | ListBase",
+    "seo_description": "Preuzmi Kafići — Ličko-senjska županija — 61 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 61 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

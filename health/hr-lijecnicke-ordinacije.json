@@ -1,0 +1,2386 @@
+{
+  "id": "hr-lijecnicke-ordinacije",
+  "name": "Liječničke ordinacije",
+  "title": "Liječničke ordinacije",
+  "description": "Liječničke ordinacije u Hrvatskoj (469 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=doctors), izrez EU-POIS/HR.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 469,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "3D Maxio",
+      "latitude": 45.806019,
+      "longitude": 15.715551
+    },
+    {
+      "name": "3Dent",
+      "latitude": 45.813199,
+      "longitude": 15.955255
+    },
+    {
+      "name": "Akromion - Specijalna bolnica za ortopediju i traumatologiju lokomotornog sustava - Ambulanta Split",
+      "latitude": 43.508906,
+      "longitude": 16.45777
+    },
+    {
+      "name": "Ambuanta Runović",
+      "latitude": 43.386311,
+      "longitude": 17.243711
+    },
+    {
+      "name": "ambulanca",
+      "latitude": 45.08138,
+      "longitude": 13.63882
+    },
+    {
+      "name": "Ambulanta",
+      "latitude": 43.375295,
+      "longitude": 16.628789
+    },
+    {
+      "name": "Ambulanta",
+      "latitude": 44.969854,
+      "longitude": 14.75422
+    },
+    {
+      "name": "Ambulanta",
+      "latitude": 45.190849,
+      "longitude": 16.80629
+    },
+    {
+      "name": "Ambulanta",
+      "latitude": 45.192619,
+      "longitude": 18.837123
+    },
+    {
+      "name": "Ambulanta",
+      "latitude": 45.220319,
+      "longitude": 19.364167
+    },
+    {
+      "name": "Ambulanta",
+      "latitude": 45.226526,
+      "longitude": 18.741228
+    },
+    {
+      "name": "Ambulanta",
+      "latitude": 45.495939,
+      "longitude": 16.372542
+    },
+    {
+      "name": "Ambulanta",
+      "latitude": 45.671121,
+      "longitude": 15.872796
+    },
+    {
+      "name": "Ambulanta",
+      "latitude": 45.81245,
+      "longitude": 16.183292
+    },
+    {
+      "name": "Ambulanta 1",
+      "latitude": 45.349498,
+      "longitude": 19.002946
+    },
+    {
+      "name": "Ambulanta Bapska",
+      "latitude": 45.199074,
+      "longitude": 19.262239
+    },
+    {
+      "name": "Ambulanta Barilović",
+      "latitude": 45.38124,
+      "longitude": 15.54661
+    },
+    {
+      "name": "Ambulanta Baška Voda",
+      "latitude": 43.358063,
+      "longitude": 16.951878
+    },
+    {
+      "name": "Ambulanta Bedekovčina",
+      "latitude": 46.043192,
+      "longitude": 15.99743
+    },
+    {
+      "name": "Ambulanta Belec",
+      "latitude": 46.131671,
+      "longitude": 16.121027
+    },
+    {
+      "name": "Ambulanta Belica",
+      "latitude": 46.407044,
+      "longitude": 16.522593
+    },
+    {
+      "name": "Ambulanta Bibinje",
+      "latitude": 44.069522,
+      "longitude": 15.284496
+    },
+    {
+      "name": "Ambulanta Blatine",
+      "latitude": 43.506329,
+      "longitude": 16.460324
+    },
+    {
+      "name": "Ambulanta Bobota",
+      "latitude": 45.421372,
+      "longitude": 18.856491
+    },
+    {
+      "name": "Ambulanta Bogdanovci",
+      "latitude": 45.338206,
+      "longitude": 18.930073
+    },
+    {
+      "name": "Ambulanta Borovo",
+      "latitude": 45.402287,
+      "longitude": 18.978645
+    },
+    {
+      "name": "Ambulanta Bregana",
+      "latitude": 45.837801,
+      "longitude": 15.688283
+    },
+    {
+      "name": "Ambulanta Bršadin",
+      "latitude": 45.361242,
+      "longitude": 18.904398
+    },
+    {
+      "name": "Ambulanta Cerić",
+      "latitude": 45.311641,
+      "longitude": 18.856591
+    },
+    {
+      "name": "Ambulanta Cerna",
+      "latitude": 45.188711,
+      "longitude": 18.688726
+    },
+    {
+      "name": "Ambulanta Cestica",
+      "latitude": 46.36965,
+      "longitude": 16.127468
+    },
+    {
+      "name": "Ambulanta Ciglenica",
+      "latitude": 45.80626,
+      "longitude": 15.940102
+    },
+    {
+      "name": "Ambulanta Cres",
+      "latitude": 44.963447,
+      "longitude": 14.411042
+    },
+    {
+      "name": "Ambulanta Dežanovac",
+      "latitude": 45.565004,
+      "longitude": 17.083058
+    },
+    {
+      "name": "Ambulanta Domašinec",
+      "latitude": 46.430767,
+      "longitude": 16.596587
+    },
+    {
+      "name": "Ambulanta Donja Dubrava",
+      "latitude": 46.316296,
+      "longitude": 16.808753
+    },
+    {
+      "name": "Ambulanta dr. Bonković",
+      "latitude": 43.582951,
+      "longitude": 16.59581
+    },
+    {
+      "name": "Ambulanta dr. Caktaš",
+      "latitude": 43.579842,
+      "longitude": 16.594863
+    },
+    {
+      "name": "Ambulanta dr. Pešić",
+      "latitude": 43.910209,
+      "longitude": 15.507528
+    },
+    {
+      "name": "Ambulanta Drnje",
+      "latitude": 46.206849,
+      "longitude": 16.909262
+    },
+    {
+      "name": "Ambulanta Dubravica",
+      "latitude": 45.954769,
+      "longitude": 15.731604
+    },
+    {
+      "name": "Ambulanta Dubravica",
+      "latitude": 45.959362,
+      "longitude": 15.819788
+    },
+    {
+      "name": "Ambulanta Galdovo",
+      "latitude": 45.477916,
+      "longitude": 16.400959
+    },
+    {
+      "name": "Ambulanta Goričan",
+      "latitude": 46.382589,
+      "longitude": 16.669617
+    },
+    {
+      "name": "Ambulanta Gornja Stubica",
+      "latitude": 45.974859,
+      "longitude": 16.018069
+    },
+    {
+      "name": "Ambulanta Gornji Mihaljevec",
+      "latitude": 46.429776,
+      "longitude": 16.321622
+    },
+    {
+      "name": "Ambulanta Goveđari",
+      "latitude": 42.778725,
+      "longitude": 17.368233
+    },
+    {
+      "name": "Ambulanta Gradec",
+      "latitude": 45.910297,
+      "longitude": 16.480263
+    },
+    {
+      "name": "Ambulanta Gradište",
+      "latitude": 45.150004,
+      "longitude": 18.706666
+    },
+    {
+      "name": "Ambulanta Gunja",
+      "latitude": 44.884343,
+      "longitude": 18.839694
+    },
+    {
+      "name": "Ambulanta Hercegovac",
+      "latitude": 45.655868,
+      "longitude": 17.01439
+    },
+    {
+      "name": "Ambulanta Hlebine",
+      "latitude": 46.155756,
+      "longitude": 16.962584
+    },
+    {
+      "name": "Ambulanta Ilača",
+      "latitude": 45.182042,
+      "longitude": 19.094424
+    },
+    {
+      "name": "Ambulanta Joža Vlahović",
+      "latitude": 45.801686,
+      "longitude": 15.956153
+    },
+    {
+      "name": "Ambulanta Kali",
+      "latitude": 44.061854,
+      "longitude": 15.206616
+    },
+    {
+      "name": "Ambulanta Kastel Stari",
+      "latitude": 43.553131,
+      "longitude": 16.351035
+    },
+    {
+      "name": "Ambulanta Kašina",
+      "latitude": 45.908736,
+      "longitude": 16.124043
+    },
+    {
+      "name": "Ambulanta Kman",
+      "latitude": 43.519554,
+      "longitude": 16.452112
+    },
+    {
+      "name": "Ambulanta Koločep",
+      "latitude": 42.677738,
+      "longitude": 18.010343
+    },
+    {
+      "name": "Ambulanta Komletinci",
+      "latitude": 45.149367,
+      "longitude": 18.946921
+    },
+    {
+      "name": "Ambulanta Krapinske Toplice",
+      "latitude": 46.091102,
+      "longitude": 15.834571
+    },
+    {
+      "name": "Ambulanta Kravarsko",
+      "latitude": 45.5854,
+      "longitude": 16.049482
+    },
+    {
+      "name": "Ambulanta Kuna",
+      "latitude": 42.964586,
+      "longitude": 17.34638
+    },
+    {
+      "name": "Ambulanta Lokve",
+      "latitude": 43.509129,
+      "longitude": 16.458234
+    },
+    {
+      "name": "Ambulanta Lokve",
+      "latitude": 43.510101,
+      "longitude": 16.461015
+    },
+    {
+      "name": "Ambulanta Lonjica",
+      "latitude": 45.856581,
+      "longitude": 16.322702
+    },
+    {
+      "name": "Ambulanta Lopatinec",
+      "latitude": 46.440122,
+      "longitude": 16.378437
+    },
+    {
+      "name": "Ambulanta Lopud",
+      "latitude": 42.687308,
+      "longitude": 17.940892
+    },
+    {
+      "name": "Ambulanta Lovas",
+      "latitude": 45.226732,
+      "longitude": 19.168156
+    },
+    {
+      "name": "Ambulanta Macinec",
+      "latitude": 46.391289,
+      "longitude": 16.323727
+    },
+    {
+      "name": "Ambulanta Maksimir",
+      "latitude": 43.513998,
+      "longitude": 16.444777
+    },
+    {
+      "name": "Ambulanta Marija Bistrica",
+      "latitude": 46.0067,
+      "longitude": 16.11815
+    },
+    {
+      "name": "Ambulanta Markuševec",
+      "latitude": 45.876531,
+      "longitude": 16.015314
+    },
+    {
+      "name": "Ambulanta Martijanec",
+      "latitude": 46.26489,
+      "longitude": 16.540052
+    },
+    {
+      "name": "Ambulanta Medici Vir",
+      "latitude": 44.304776,
+      "longitude": 15.078701
+    },
+    {
+      "name": "Ambulanta Mertojak",
+      "latitude": 43.508807,
+      "longitude": 16.477033
+    },
+    {
+      "name": "Ambulanta Mikluševci",
+      "latitude": 45.251325,
+      "longitude": 19.085394
+    },
+    {
+      "name": "Ambulanta Moravice",
+      "latitude": 45.427483,
+      "longitude": 15.009589
+    },
+    {
+      "name": "Ambulanta Mošćenica",
+      "latitude": 45.436873,
+      "longitude": 16.358769
+    },
+    {
+      "name": "Ambulanta Mursko Središće",
+      "latitude": 46.514207,
+      "longitude": 16.442087
+    },
+    {
+      "name": "Ambulanta Nedelišće",
+      "latitude": 46.377155,
+      "longitude": 16.380655
+    },
+    {
+      "name": "Ambulanta Nin",
+      "latitude": 44.237098,
+      "longitude": 15.180821
+    },
+    {
+      "name": "Ambulanta Novi Marof",
+      "latitude": 46.163433,
+      "longitude": 16.332205
+    },
+    {
+      "name": "Ambulanta Novo Selo",
+      "latitude": 45.289197,
+      "longitude": 18.76859
+    },
+    {
+      "name": "Ambulanta Novo Čiče",
+      "latitude": 45.704234,
+      "longitude": 16.119048
+    },
+    {
+      "name": "Ambulanta Nuštar",
+      "latitude": 45.332496,
+      "longitude": 18.842382
+    },
+    {
+      "name": "Ambulanta obiteljske medicine",
+      "latitude": 45.296129,
+      "longitude": 18.815751
+    },
+    {
+      "name": "ambulanta obiteljske medicine",
+      "latitude": 45.480712,
+      "longitude": 15.54943
+    },
+    {
+      "name": "Ambulanta Okrug Gornji",
+      "latitude": 43.493264,
+      "longitude": 16.263814
+    },
+    {
+      "name": "Ambulanta Opatovac",
+      "latitude": 45.26065,
+      "longitude": 19.170938
+    },
+    {
+      "name": "Ambulanta Opuzen",
+      "latitude": 43.016975,
+      "longitude": 17.558762
+    },
+    {
+      "name": "Ambulanta opće medicine Vrsi",
+      "latitude": 44.259001,
+      "longitude": 15.230828
+    },
+    {
+      "name": "Ambulanta Orebić",
+      "latitude": 42.97712,
+      "longitude": 17.177795
+    },
+    {
+      "name": "Ambulanta Orehovica",
+      "latitude": 46.328553,
+      "longitude": 16.506207
+    },
+    {
+      "name": "Ambulanta Otok",
+      "latitude": 45.146399,
+      "longitude": 18.884209
+    },
+    {
+      "name": "Ambulanta Pačetin",
+      "latitude": 45.372036,
+      "longitude": 18.847703
+    },
+    {
+      "name": "Ambulanta Petrovci",
+      "latitude": 45.28789,
+      "longitude": 18.945818
+    },
+    {
+      "name": "Ambulanta Pirovac",
+      "latitude": 43.817273,
+      "longitude": 15.66718
+    },
+    {
+      "name": "Ambulanta Plokite",
+      "latitude": 43.513871,
+      "longitude": 16.458132
+    },
+    {
+      "name": "Ambulanta Ploče",
+      "latitude": 42.642488,
+      "longitude": 18.11152
+    },
+    {
+      "name": "Ambulanta Podturen",
+      "latitude": 46.463784,
+      "longitude": 16.546172
+    },
+    {
+      "name": "Ambulanta Pokupsko",
+      "latitude": 45.485922,
+      "longitude": 15.992085
+    },
+    {
+      "name": "Ambulanta Posavski Podgajci",
+      "latitude": 44.944743,
+      "longitude": 18.83113
+    },
+    {
+      "name": "Ambulanta Preko",
+      "latitude": 44.079457,
+      "longitude": 15.187219
+    },
+    {
+      "name": "Ambulanta Prigorje Brdovečko",
+      "latitude": 45.878213,
+      "longitude": 15.739744
+    },
+    {
+      "name": "Ambulanta Prvić Luka",
+      "latitude": 43.724549,
+      "longitude": 15.800077
+    },
+    {
+      "name": "Ambulanta Prvić Šepurina",
+      "latitude": 43.734475,
+      "longitude": 15.78658
+    },
+    {
+      "name": "Ambulanta Rakovec",
+      "latitude": 45.930873,
+      "longitude": 16.31744
+    },
+    {
+      "name": "Ambulanta Rakovica",
+      "latitude": 44.993911,
+      "longitude": 15.650234
+    },
+    {
+      "name": "Ambulanta Rasinja",
+      "latitude": 46.188764,
+      "longitude": 16.709411
+    },
+    {
+      "name": "Ambulanta Račinovci - Đurići",
+      "latitude": 44.880353,
+      "longitude": 18.915758
+    },
+    {
+      "name": "Ambulanta Retkovci",
+      "latitude": 45.234053,
+      "longitude": 18.653333
+    },
+    {
+      "name": "Ambulanta Rogoznica",
+      "latitude": 43.528143,
+      "longitude": 15.968091
+    },
+    {
+      "name": "Ambulanta Rude",
+      "latitude": 45.765341,
+      "longitude": 15.671352
+    },
+    {
+      "name": "Ambulanta Rugvica",
+      "latitude": 45.747528,
+      "longitude": 16.231029
+    },
+    {
+      "name": "Ambulanta Sajmište",
+      "latitude": 45.343522,
+      "longitude": 19.003057
+    },
+    {
+      "name": "Ambulanta Selnica",
+      "latitude": 46.493136,
+      "longitude": 16.398018
+    },
+    {
+      "name": "Ambulanta Silba",
+      "latitude": 44.376132,
+      "longitude": 14.697079
+    },
+    {
+      "name": "Ambulanta Skalice",
+      "latitude": 43.517245,
+      "longitude": 16.43614
+    },
+    {
+      "name": "Ambulanta Slakovci",
+      "latitude": 45.220106,
+      "longitude": 18.948601
+    },
+    {
+      "name": "Ambulanta Smokvica",
+      "latitude": 42.925869,
+      "longitude": 16.889189
+    },
+    {
+      "name": "Ambulanta Stubičke Toplice",
+      "latitude": 45.977747,
+      "longitude": 15.930136
+    },
+    {
+      "name": "Ambulanta Sveta Marija",
+      "latitude": 46.330164,
+      "longitude": 16.736092
+    },
+    {
+      "name": "Ambulanta Sveti Križ Začretje",
+      "latitude": 46.082991,
+      "longitude": 15.90827
+    },
+    {
+      "name": "Ambulanta Sveti Martin na Muri",
+      "latitude": 46.525413,
+      "longitude": 16.363508
+    },
+    {
+      "name": "Ambulanta Sveti Đurđ",
+      "latitude": 46.2817,
+      "longitude": 16.605016
+    },
+    {
+      "name": "Ambulanta Tisno",
+      "latitude": 43.799582,
+      "longitude": 15.642518
+    },
+    {
+      "name": "Ambulanta Tordinci",
+      "latitude": 45.36981,
+      "longitude": 18.795799
+    },
+    {
+      "name": "Ambulanta Tovarnik",
+      "latitude": 45.16667,
+      "longitude": 19.153727
+    },
+    {
+      "name": "Ambulanta Trnovec Bartolovečki",
+      "latitude": 46.292064,
+      "longitude": 16.405914
+    },
+    {
+      "name": "Ambulanta Trpanj",
+      "latitude": 43.009028,
+      "longitude": 17.269706
+    },
+    {
+      "name": "Ambulanta Varaždinske Toplice",
+      "latitude": 46.20773,
+      "longitude": 16.418888
+    },
+    {
+      "name": "Ambulanta Veliko Trgovišće",
+      "latitude": 46.002157,
+      "longitude": 15.844209
+    },
+    {
+      "name": "Ambulanta Vir",
+      "latitude": 44.299841,
+      "longitude": 15.084724
+    },
+    {
+      "name": "Ambulanta Vodice",
+      "latitude": 43.759311,
+      "longitude": 15.777546
+    },
+    {
+      "name": "Ambulanta Voltino",
+      "latitude": 45.801949,
+      "longitude": 15.929581
+    },
+    {
+      "name": "Ambulanta Vratišinec",
+      "latitude": 46.477181,
+      "longitude": 16.45547
+    },
+    {
+      "name": "Ambulanta Vrbovsko",
+      "latitude": 45.374327,
+      "longitude": 15.070843
+    },
+    {
+      "name": "Ambulanta za dobrovoljno darivanje krvi",
+      "latitude": 43.504416,
+      "longitude": 16.457623
+    },
+    {
+      "name": "Ambulanta Zibel",
+      "latitude": 45.471731,
+      "longitude": 16.365582
+    },
+    {
+      "name": "Ambulanta Zlarin",
+      "latitude": 43.696855,
+      "longitude": 15.835636
+    },
+    {
+      "name": "Ambulanta Zlatar",
+      "latitude": 46.095294,
+      "longitude": 16.076194
+    },
+    {
+      "name": "Ambulanta Čabar",
+      "latitude": 45.595664,
+      "longitude": 14.64435
+    },
+    {
+      "name": "Ambulanta Čakovci",
+      "latitude": 45.237204,
+      "longitude": 19.058052
+    },
+    {
+      "name": "Ambulanta Đurište",
+      "latitude": 45.879646,
+      "longitude": 16.38808
+    },
+    {
+      "name": "Ambulanta Šarengrad",
+      "latitude": 45.233568,
+      "longitude": 19.285776
+    },
+    {
+      "name": "Ambulanta Šenkovec",
+      "latitude": 46.403417,
+      "longitude": 16.422062
+    },
+    {
+      "name": "Ambulanta Šilo",
+      "latitude": 45.145396,
+      "longitude": 14.662398
+    },
+    {
+      "name": "Ambulanta Šipan",
+      "latitude": 42.708711,
+      "longitude": 17.904799
+    },
+    {
+      "name": "Ambulanta Štitar",
+      "latitude": 45.093755,
+      "longitude": 18.636647
+    },
+    {
+      "name": "Ambulanta Štrigova",
+      "latitude": 46.501045,
+      "longitude": 16.28663
+    },
+    {
+      "name": "Ambulanta Žakanje",
+      "latitude": 45.616653,
+      "longitude": 15.323439
+    },
+    {
+      "name": "Ambulanta Željezara",
+      "latitude": 45.454068,
+      "longitude": 16.391884
+    },
+    {
+      "name": "Ambulanta Žirje",
+      "latitude": 43.656782,
+      "longitude": 15.652417
+    },
+    {
+      "name": "Ambulanta „Mali Iž”",
+      "latitude": 44.028551,
+      "longitude": 15.138685
+    },
+    {
+      "name": "Ambulanta( zubar,opća medicina)",
+      "latitude": 45.682397,
+      "longitude": 15.751067
+    },
+    {
+      "name": "Anita Vladović",
+      "latitude": 43.586301,
+      "longitude": 15.941811
+    },
+    {
+      "name": "Anka Dadić-Matavulj",
+      "latitude": 43.504568,
+      "longitude": 16.445856
+    },
+    {
+      "name": "Aromaderm",
+      "latitude": 45.801068,
+      "longitude": 15.711704
+    },
+    {
+      "name": "Ataraksija",
+      "latitude": 45.801459,
+      "longitude": 15.992657
+    },
+    {
+      "name": "Babić dr. Ivana",
+      "latitude": 46.523591,
+      "longitude": 16.357682
+    },
+    {
+      "name": "Caktaš",
+      "latitude": 43.511737,
+      "longitude": 16.4428
+    },
+    {
+      "name": "Centar za kraljeznicu",
+      "latitude": 43.517648,
+      "longitude": 16.450104
+    },
+    {
+      "name": "Centar za medicinu spavanja Hypnos",
+      "latitude": 43.51323,
+      "longitude": 16.43628
+    },
+    {
+      "name": "Centar za psihosocijalnu pomoć Bjelovar",
+      "latitude": 45.901979,
+      "longitude": 16.834156
+    },
+    {
+      "name": "Centralno naručivanje bolesnika",
+      "latitude": 43.504035,
+      "longitude": 16.45884
+    },
+    {
+      "name": "Dentist Ordinacija Dentalne Medicine",
+      "latitude": 43.172413,
+      "longitude": 16.442407
+    },
+    {
+      "name": "Derematovenerološka ordinacija Bartolić",
+      "latitude": 46.390559,
+      "longitude": 16.444023
+    },
+    {
+      "name": "DermaCare",
+      "latitude": 45.811373,
+      "longitude": 15.975043
+    },
+    {
+      "name": "DermaMed",
+      "latitude": 43.506192,
+      "longitude": 16.464061
+    },
+    {
+      "name": "Dermatovenerološka ordinacija",
+      "latitude": 44.10797,
+      "longitude": 15.23767
+    },
+    {
+      "name": "Dežurni pedijatar",
+      "latitude": 43.508862,
+      "longitude": 16.476905
+    },
+    {
+      "name": "Dežurstvo Mertojak",
+      "latitude": 43.508758,
+      "longitude": 16.476899
+    },
+    {
+      "name": "Dialog",
+      "latitude": 45.791308,
+      "longitude": 15.93912
+    },
+    {
+      "name": "Dječja ambulanta",
+      "latitude": 43.50468,
+      "longitude": 16.457564
+    },
+    {
+      "name": "Doktor opće prakse",
+      "latitude": 43.518985,
+      "longitude": 16.229661
+    },
+    {
+      "name": "Doktorica Marinela Somek dr. med.",
+      "latitude": 45.473046,
+      "longitude": 15.542396
+    },
+    {
+      "name": "Doktorica Snježana Jurčević dr. med.",
+      "latitude": 45.473064,
+      "longitude": 15.542451
+    },
+    {
+      "name": "Dom za odrasle osobe Bjelovar",
+      "latitude": 45.900734,
+      "longitude": 16.834172
+    },
+    {
+      "name": "Dom Zdravlja",
+      "latitude": 43.817073,
+      "longitude": 15.592628
+    },
+    {
+      "name": "DOM ZDRAVLJA",
+      "latitude": 44.533006,
+      "longitude": 15.766734
+    },
+    {
+      "name": "Dom zdravlja",
+      "latitude": 45.355302,
+      "longitude": 15.866117
+    },
+    {
+      "name": "Dom zdravlja",
+      "latitude": 45.547251,
+      "longitude": 18.712485
+    },
+    {
+      "name": "Dom zdravlja",
+      "latitude": 45.791025,
+      "longitude": 15.947351
+    },
+    {
+      "name": "Dom zdravlja",
+      "latitude": 45.8093,
+      "longitude": 15.995562
+    },
+    {
+      "name": "Dom zdravlja",
+      "latitude": 45.812346,
+      "longitude": 15.928632
+    },
+    {
+      "name": "Dom zdravlja",
+      "latitude": 45.819618,
+      "longitude": 16.025265
+    },
+    {
+      "name": "Dom zdravlja",
+      "latitude": 45.824329,
+      "longitude": 15.984214
+    },
+    {
+      "name": "Dom zdravlja",
+      "latitude": 45.830612,
+      "longitude": 15.905324
+    },
+    {
+      "name": "Dom zdravlja",
+      "latitude": 45.871344,
+      "longitude": 16.054735
+    },
+    {
+      "name": "Dom zdravlja",
+      "latitude": 45.876782,
+      "longitude": 16.111725
+    },
+    {
+      "name": "Dom zdravlja",
+      "latitude": 45.904257,
+      "longitude": 16.161431
+    },
+    {
+      "name": "Dom zdravlja \"Građevinari\"",
+      "latitude": 43.511883,
+      "longitude": 16.444326
+    },
+    {
+      "name": "Dom zdravlja Banova Jaruga",
+      "latitude": 45.445358,
+      "longitude": 16.878238
+    },
+    {
+      "name": "Dom zdravlja Bačvice-Gripe",
+      "latitude": 43.50588,
+      "longitude": 16.451652
+    },
+    {
+      "name": "Dom zdravlja Belovar",
+      "latitude": 45.882833,
+      "longitude": 16.175928
+    },
+    {
+      "name": "Dom zdravlja Biograd",
+      "latitude": 43.939967,
+      "longitude": 15.446741
+    },
+    {
+      "name": "Dom zdravlja Bistra-Donja Bistra",
+      "latitude": 45.903589,
+      "longitude": 15.855645
+    },
+    {
+      "name": "Dom zdravlja Bjelovar",
+      "latitude": 45.901465,
+      "longitude": 16.849804
+    },
+    {
+      "name": "Dom zdravlja Blato",
+      "latitude": 42.938357,
+      "longitude": 16.791947
+    },
+    {
+      "name": "Dom zdravlja Bošnjaci",
+      "latitude": 45.049443,
+      "longitude": 18.757275
+    },
+    {
+      "name": "Dom zdravlja Brckovljani",
+      "latitude": 45.822994,
+      "longitude": 16.290006
+    },
+    {
+      "name": "Dom zdravlja Brda-Ravne njive",
+      "latitude": 43.520972,
+      "longitude": 16.466242
+    },
+    {
+      "name": "Dom zdravlja Brdovec-Prigorje Brdovečko",
+      "latitude": 45.867966,
+      "longitude": 15.766483
+    },
+    {
+      "name": "Dom zdravlja Brezovica",
+      "latitude": 45.724018,
+      "longitude": 15.907044
+    },
+    {
+      "name": "Dom zdravlja Daruvar",
+      "latitude": 45.589966,
+      "longitude": 17.22473
+    },
+    {
+      "name": "Dom zdravlja Dobri I",
+      "latitude": 43.514423,
+      "longitude": 16.437376
+    },
+    {
+      "name": "Dom zdravlja Donja Stubica",
+      "latitude": 45.982636,
+      "longitude": 15.97161
+    },
+    {
+      "name": "Dom zdravlja Donji Kukuruzari",
+      "latitude": 45.281361,
+      "longitude": 16.432111
+    },
+    {
+      "name": "Dom zdravlja Draganić",
+      "latitude": 45.593836,
+      "longitude": 15.597611
+    },
+    {
+      "name": "Dom zdravlja Drenovci",
+      "latitude": 44.920826,
+      "longitude": 18.914275
+    },
+    {
+      "name": "Dom zdravlja Dubranec",
+      "latitude": 45.61207,
+      "longitude": 15.965747
+    },
+    {
+      "name": "Dom zdravlja Dubrava",
+      "latitude": 45.835153,
+      "longitude": 16.539297
+    },
+    {
+      "name": "Dom zdravlja Dubrovnik, ordinacije Cavtat",
+      "latitude": 42.577664,
+      "longitude": 18.221597
+    },
+    {
+      "name": "Dom zdravlja Duga Resa",
+      "latitude": 45.452655,
+      "longitude": 15.495711
+    },
+    {
+      "name": "Dom zdravlja Dvor",
+      "latitude": 45.071915,
+      "longitude": 16.369547
+    },
+    {
+      "name": "Dom zdravlja Gajevo-Jarun",
+      "latitude": 45.789538,
+      "longitude": 15.934235
+    },
+    {
+      "name": "Dom zdravlja Gajnice",
+      "latitude": 45.815868,
+      "longitude": 15.876976
+    },
+    {
+      "name": "Dom zdravlja Glina",
+      "latitude": 45.333704,
+      "longitude": 16.084817
+    },
+    {
+      "name": "Dom zdravlja Gospić",
+      "latitude": 44.543321,
+      "longitude": 15.378752
+    },
+    {
+      "name": "Dom zdravlja Grižanska",
+      "latitude": 45.830544,
+      "longitude": 16.052447
+    },
+    {
+      "name": "Dom zdravlja Hrvatska Kostajnica",
+      "latitude": 45.229364,
+      "longitude": 16.537339
+    },
+    {
+      "name": "Dom zdravlja Ivanec Bistranski",
+      "latitude": 45.849691,
+      "longitude": 15.833583
+    },
+    {
+      "name": "Dom zdravlja Jabukovac",
+      "latitude": 45.328829,
+      "longitude": 16.297177
+    },
+    {
+      "name": "Dom zdravlja Jakovlje",
+      "latitude": 45.948063,
+      "longitude": 15.849091
+    },
+    {
+      "name": "Dom zdravlja Jasenovac",
+      "latitude": 45.269141,
+      "longitude": 16.907557
+    },
+    {
+      "name": "Dom zdravlja Kratečko",
+      "latitude": 45.393954,
+      "longitude": 16.635253
+    },
+    {
+      "name": "Dom zdravlja Kutina",
+      "latitude": 45.486028,
+      "longitude": 16.768158
+    },
+    {
+      "name": "Dom zdravlja Laginjina",
+      "latitude": 45.812857,
+      "longitude": 15.992155
+    },
+    {
+      "name": "Dom zdravlja Lekenik",
+      "latitude": 45.585411,
+      "longitude": 16.210761
+    },
+    {
+      "name": "Dom zdravlja Lepoglava",
+      "latitude": 46.208506,
+      "longitude": 16.047016
+    },
+    {
+      "name": "Dom zdravlja Lipovljani",
+      "latitude": 45.396686,
+      "longitude": 16.896279
+    },
+    {
+      "name": "Dom zdravlja Ljubijska",
+      "latitude": 45.832916,
+      "longitude": 16.040757
+    },
+    {
+      "name": "Dom zdravlja Maksimir",
+      "latitude": 45.819059,
+      "longitude": 16.004246
+    },
+    {
+      "name": "Dom zdravlja Marija Gorica",
+      "latitude": 45.91313,
+      "longitude": 15.729304
+    },
+    {
+      "name": "Dom zdravlja Martićeva",
+      "latitude": 45.812643,
+      "longitude": 15.992884
+    },
+    {
+      "name": "Dom zdravlja Matulji",
+      "latitude": 45.364496,
+      "longitude": 14.314764
+    },
+    {
+      "name": "Dom zdravlja Mirogojska",
+      "latitude": 45.830487,
+      "longitude": 15.97983
+    },
+    {
+      "name": "Dom zdravlja Našice",
+      "latitude": 45.488823,
+      "longitude": 18.097309
+    },
+    {
+      "name": "Dom zdravlja Nemetova",
+      "latitude": 45.841985,
+      "longitude": 15.971753
+    },
+    {
+      "name": "Dom zdravlja Novalja",
+      "latitude": 44.55961,
+      "longitude": 14.880104
+    },
+    {
+      "name": "Dom zdravlja Novska",
+      "latitude": 45.343685,
+      "longitude": 16.975433
+    },
+    {
+      "name": "Dom Zdravlja OBŽ - Ambulanta Zmajevac",
+      "latitude": 45.801434,
+      "longitude": 18.808255
+    },
+    {
+      "name": "Dom zdravlja Omiš",
+      "latitude": 43.439571,
+      "longitude": 16.698242
+    },
+    {
+      "name": "Dom zdravlja Orle",
+      "latitude": 45.688586,
+      "longitude": 16.231967
+    },
+    {
+      "name": "Dom zdravlja Oroslavje",
+      "latitude": 45.994302,
+      "longitude": 15.911918
+    },
+    {
+      "name": "Dom zdravlja Otočac",
+      "latitude": 44.86674,
+      "longitude": 15.238993
+    },
+    {
+      "name": "Dom zdravlja Ožegovićeva",
+      "latitude": 45.81532,
+      "longitude": 16.000205
+    },
+    {
+      "name": "Dom zdravlja Park Stara Trešnjevka",
+      "latitude": 45.797003,
+      "longitude": 15.949896
+    },
+    {
+      "name": "Dom zdravlja Petrinja",
+      "latitude": 45.42893,
+      "longitude": 16.276774
+    },
+    {
+      "name": "Dom zdravlja Petrinja",
+      "latitude": 45.441923,
+      "longitude": 16.274628
+    },
+    {
+      "name": "Dom zdravlja Peščenica",
+      "latitude": 45.805581,
+      "longitude": 16.018654
+    },
+    {
+      "name": "Dom zdravlja Pleternica",
+      "latitude": 45.286957,
+      "longitude": 17.799446
+    },
+    {
+      "name": "Dom zdravlja Ploče",
+      "latitude": 43.049792,
+      "longitude": 17.432732
+    },
+    {
+      "name": "Dom zdravlja Podsused",
+      "latitude": 45.815587,
+      "longitude": 15.846077
+    },
+    {
+      "name": "Dom zdravlja Pongračevo",
+      "latitude": 45.801081,
+      "longitude": 15.932657
+    },
+    {
+      "name": "Dom zdravlja Popovača",
+      "latitude": 45.56962,
+      "longitude": 16.626784
+    },
+    {
+      "name": "Dom zdravlja Prečko",
+      "latitude": 45.793315,
+      "longitude": 15.904738
+    },
+    {
+      "name": "Dom zdravlja Pušća-Donja Pušća",
+      "latitude": 45.916459,
+      "longitude": 15.775973
+    },
+    {
+      "name": "Dom zdravlja Rijeka, zdravstvena stanca Viškovo",
+      "latitude": 45.376902,
+      "longitude": 14.38661
+    },
+    {
+      "name": "Dom zdravlja Rijeka-dežurna služba",
+      "latitude": 45.33138,
+      "longitude": 14.430012
+    },
+    {
+      "name": "Dom zdravlja Rudeš",
+      "latitude": 45.797136,
+      "longitude": 15.920614
+    },
+    {
+      "name": "Dom zdravlja Runjaninova",
+      "latitude": 45.804673,
+      "longitude": 15.969109
+    },
+    {
+      "name": "Dom zdravlja S.D.Ž - Ambulanta Sućidar",
+      "latitude": 43.514408,
+      "longitude": 16.465883
+    },
+    {
+      "name": "Dom zdravlja Sesvetski Kraljevec",
+      "latitude": 45.816201,
+      "longitude": 16.17664
+    },
+    {
+      "name": "Dom zdravlja Siget",
+      "latitude": 45.772939,
+      "longitude": 15.979107
+    },
+    {
+      "name": "Dom zdravlja Sigečica",
+      "latitude": 45.799649,
+      "longitude": 16.003656
+    },
+    {
+      "name": "Dom zdravlja Sisak",
+      "latitude": 45.483894,
+      "longitude": 16.374768
+    },
+    {
+      "name": "Dom zdravlja Slavonska",
+      "latitude": 45.82038,
+      "longitude": 16.051257
+    },
+    {
+      "name": "Dom zdravlja Sloboština",
+      "latitude": 45.7665,
+      "longitude": 15.989747
+    },
+    {
+      "name": "Dom zdravlja Srednjaci",
+      "latitude": 45.791376,
+      "longitude": 15.94157
+    },
+    {
+      "name": "Dom zdravlja Studentski dom Stjepan Radić",
+      "latitude": 45.784763,
+      "longitude": 15.947166
+    },
+    {
+      "name": "Dom zdravlja Sveta Nedelja",
+      "latitude": 45.7978,
+      "longitude": 15.775954
+    },
+    {
+      "name": "Dom zdravlja Topusko",
+      "latitude": 45.288638,
+      "longitude": 15.96859
+    },
+    {
+      "name": "Dom zdravlja Utrine",
+      "latitude": 45.775614,
+      "longitude": 15.999826
+    },
+    {
+      "name": "Dom zdravlja Vela Luka",
+      "latitude": 42.968314,
+      "longitude": 16.711872
+    },
+    {
+      "name": "Dom zdravlja Virovitica",
+      "latitude": 45.829536,
+      "longitude": 17.389286
+    },
+    {
+      "name": "Dom zdravlja Vojnić",
+      "latitude": 45.325338,
+      "longitude": 15.691402
+    },
+    {
+      "name": "Dom zdravlja Voćin",
+      "latitude": 45.620157,
+      "longitude": 17.547579
+    },
+    {
+      "name": "Dom zdravlja Vrapče",
+      "latitude": 45.814073,
+      "longitude": 15.906932
+    },
+    {
+      "name": "Dom zdravlja Vrbanja",
+      "latitude": 44.980964,
+      "longitude": 18.927994
+    },
+    {
+      "name": "Dom zdravlja Zagreb - Centar",
+      "latitude": 45.662867,
+      "longitude": 15.94198
+    },
+    {
+      "name": "Dom zdravlja Zagreb - Centar",
+      "latitude": 45.806149,
+      "longitude": 15.990854
+    },
+    {
+      "name": "Dom zdravlja Zagreb - Centar",
+      "latitude": 45.806604,
+      "longitude": 15.990874
+    },
+    {
+      "name": "Dom zdravlja Zagreb - Centar",
+      "latitude": 45.807906,
+      "longitude": 15.985293
+    },
+    {
+      "name": "Dom zdravlja Zagreb - Centar",
+      "latitude": 45.822121,
+      "longitude": 15.978531
+    },
+    {
+      "name": "Dom zdravlja Zagreb - Zapad",
+      "latitude": 45.790776,
+      "longitude": 15.951472
+    },
+    {
+      "name": "Dom zdravlja Zagreb - Zapad",
+      "latitude": 45.802969,
+      "longitude": 15.895005
+    },
+    {
+      "name": "Dom zdravlja Zagreb - Zapad",
+      "latitude": 45.803875,
+      "longitude": 15.946254
+    },
+    {
+      "name": "Dom zdravlja Zagreb Centar",
+      "latitude": 45.795468,
+      "longitude": 15.969253
+    },
+    {
+      "name": "Dom zdravlja Zagreb-Istok Ambulante Borongaj",
+      "latitude": 45.8124,
+      "longitude": 16.024739
+    },
+    {
+      "name": "Dom zdravlja Zapruđe",
+      "latitude": 45.778892,
+      "longitude": 15.99716
+    },
+    {
+      "name": "Dom zdravlja Zdenci",
+      "latitude": 45.584014,
+      "longitude": 17.950474
+    },
+    {
+      "name": "Dom zdravlja Čazma",
+      "latitude": 45.7481,
+      "longitude": 16.61576
+    },
+    {
+      "name": "Dom zdravlja Črnomerec",
+      "latitude": 45.809829,
+      "longitude": 15.961452
+    },
+    {
+      "name": "Dom zdravlja Šenkovec",
+      "latitude": 45.888901,
+      "longitude": 15.694204
+    },
+    {
+      "name": "Dom zdravlja Žažina",
+      "latitude": 45.512827,
+      "longitude": 16.250338
+    },
+    {
+      "name": "Dom zdravlja Željezničar",
+      "latitude": 45.264831,
+      "longitude": 15.233626
+    },
+    {
+      "name": "Dom zdravlja željezničara",
+      "latitude": 43.520822,
+      "longitude": 16.470183
+    },
+    {
+      "name": "Dom zdravlja Žitnjak",
+      "latitude": 45.781522,
+      "longitude": 16.061155
+    },
+    {
+      "name": "Donadić fizioterapija",
+      "latitude": 45.798972,
+      "longitude": 15.991911
+    },
+    {
+      "name": "Dr. Danijela Zekić",
+      "latitude": 43.505879,
+      "longitude": 16.423153
+    },
+    {
+      "name": "dr. Gojko Gošović",
+      "latitude": 43.512747,
+      "longitude": 16.442208
+    },
+    {
+      "name": "Dr. Grgić",
+      "latitude": 43.512552,
+      "longitude": 16.437314
+    },
+    {
+      "name": "Dr. Ljutić",
+      "latitude": 43.504059,
+      "longitude": 16.455499
+    },
+    {
+      "name": "dr. Maslać",
+      "latitude": 45.239394,
+      "longitude": 13.941258
+    },
+    {
+      "name": "Dr. Ratko Kezić",
+      "latitude": 43.506358,
+      "longitude": 16.430912
+    },
+    {
+      "name": "Dr. Sanja Žamić",
+      "latitude": 43.504104,
+      "longitude": 16.455727
+    },
+    {
+      "name": "Dr. Senka Pavić Marjanović",
+      "latitude": 43.513913,
+      "longitude": 16.444763
+    },
+    {
+      "name": "Dr. Silvestra Kolega",
+      "latitude": 44.060075,
+      "longitude": 15.202933
+    },
+    {
+      "name": "Dr. Vedrana Buljević",
+      "latitude": 43.50372,
+      "longitude": 16.455887
+    },
+    {
+      "name": "Dr. Wagner medicina rada",
+      "latitude": 43.517956,
+      "longitude": 16.442834
+    },
+    {
+      "name": "dr. Zvjezdana Nervo",
+      "latitude": 46.025026,
+      "longitude": 16.554214
+    },
+    {
+      "name": "dr. Đino Lovrinić",
+      "latitude": 45.235854,
+      "longitude": 13.940914
+    },
+    {
+      "name": "Dubravka Nikolić",
+      "latitude": 43.515016,
+      "longitude": 16.451943
+    },
+    {
+      "name": "DZZ-Zapad - Ordinacija obiteljske medicine",
+      "latitude": 45.814298,
+      "longitude": 15.952574
+    },
+    {
+      "name": "EMG ambulanta",
+      "latitude": 46.525647,
+      "longitude": 16.36176
+    },
+    {
+      "name": "Fizikalna Terapija Toni Zoranić",
+      "latitude": 42.646971,
+      "longitude": 18.088
+    },
+    {
+      "name": "Fizioterapeut Čop",
+      "latitude": 45.793405,
+      "longitude": 15.934564
+    },
+    {
+      "name": "Ginekolog Robert Živčić",
+      "latitude": 45.486713,
+      "longitude": 15.5477
+    },
+    {
+      "name": "Ginekologija Babić",
+      "latitude": 45.77591,
+      "longitude": 15.962597
+    },
+    {
+      "name": "Ginekološka ordinacija",
+      "latitude": 43.443131,
+      "longitude": 16.689416
+    },
+    {
+      "name": "Ginekološka ordinacija",
+      "latitude": 45.487171,
+      "longitude": 16.376793
+    },
+    {
+      "name": "Ginekološka ordinacija Dr. Jeleković",
+      "latitude": 45.788273,
+      "longitude": 15.929311
+    },
+    {
+      "name": "Ginekološka ordinacija Golubić",
+      "latitude": 46.390563,
+      "longitude": 16.43124
+    },
+    {
+      "name": "Ginekološka poliklinika Tadić",
+      "latitude": 45.795582,
+      "longitude": 15.968086
+    },
+    {
+      "name": "Gynema",
+      "latitude": 45.798914,
+      "longitude": 15.991941
+    },
+    {
+      "name": "Gynenova",
+      "latitude": 43.505825,
+      "longitude": 16.46172
+    },
+    {
+      "name": "Helena Šimurina, dr. med. spec. obiteljske medicine",
+      "latitude": 45.787058,
+      "longitude": 15.949684
+    },
+    {
+      "name": "Hiropraktika i Osteopatija Bolkovac",
+      "latitude": 45.332172,
+      "longitude": 14.438026
+    },
+    {
+      "name": "Hitna pomoć",
+      "latitude": 43.586295,
+      "longitude": 15.941996
+    },
+    {
+      "name": "Hitna pomoć",
+      "latitude": 44.060022,
+      "longitude": 15.202922
+    },
+    {
+      "name": "Hitna pomoć ispostava Imotski",
+      "latitude": 43.446946,
+      "longitude": 17.20678
+    },
+    {
+      "name": "Hitna pomoć ispostava Makarska",
+      "latitude": 43.292389,
+      "longitude": 17.022457
+    },
+    {
+      "name": "Hitni dječji prijem",
+      "latitude": 43.503436,
+      "longitude": 16.458913
+    },
+    {
+      "name": "Ingrid Kakarigi",
+      "latitude": 45.805979,
+      "longitude": 15.973807
+    },
+    {
+      "name": "Istarski domovi zdravlja - pedijatrijske ambulante",
+      "latitude": 44.8719,
+      "longitude": 13.848736
+    },
+    {
+      "name": "Ivica Mastelić",
+      "latitude": 43.69943,
+      "longitude": 16.642495
+    },
+    {
+      "name": "Ivo Gregurić",
+      "latitude": 45.800247,
+      "longitude": 15.953123
+    },
+    {
+      "name": "Kinematika",
+      "latitude": 45.812817,
+      "longitude": 15.991915
+    },
+    {
+      "name": "Koversada",
+      "latitude": 45.142088,
+      "longitude": 13.605663
+    },
+    {
+      "name": "LabPlus",
+      "latitude": 43.505333,
+      "longitude": 16.455794
+    },
+    {
+      "name": "LabPlus Split",
+      "latitude": 43.504492,
+      "longitude": 16.45625
+    },
+    {
+      "name": "Ligament",
+      "latitude": 45.808216,
+      "longitude": 15.945534
+    },
+    {
+      "name": "Liječnik Žuža-Škunca Gordana",
+      "latitude": 44.177154,
+      "longitude": 15.375856
+    },
+    {
+      "name": "Manoto",
+      "latitude": 45.803381,
+      "longitude": 15.961432
+    },
+    {
+      "name": "Marinič - Prvulović",
+      "latitude": 45.15352,
+      "longitude": 18.028955
+    },
+    {
+      "name": "Medical Center",
+      "latitude": 45.063488,
+      "longitude": 13.668043
+    },
+    {
+      "name": "Medicina familiaris",
+      "latitude": 44.115795,
+      "longitude": 15.245317
+    },
+    {
+      "name": "Medicina rada",
+      "latitude": 44.869277,
+      "longitude": 13.848032
+    },
+    {
+      "name": "Medicina rada Bjelovar",
+      "latitude": 45.900621,
+      "longitude": 16.84679
+    },
+    {
+      "name": "Medicinska ambulanta Nijemci",
+      "latitude": 45.139841,
+      "longitude": 19.038883
+    },
+    {
+      "name": "Medikol",
+      "latitude": 43.506086,
+      "longitude": 16.470323
+    },
+    {
+      "name": "Milan Čudić",
+      "latitude": 43.440968,
+      "longitude": 16.678648
+    },
+    {
+      "name": "Mladena Strukan, dr.med.",
+      "latitude": 45.802767,
+      "longitude": 15.942168
+    },
+    {
+      "name": "mr. sc. Koraljka Marušić dr. med.",
+      "latitude": 45.830793,
+      "longitude": 15.99992
+    },
+    {
+      "name": "Nastavni zavod za javno zdravstvo \"dr. Andrija Štampar\"",
+      "latitude": 45.815276,
+      "longitude": 16.000458
+    },
+    {
+      "name": "Nastavni zavod za javno zdravstvo - ispitivanje sluha (audiometrija)",
+      "latitude": 43.504581,
+      "longitude": 16.445959
+    },
+    {
+      "name": "Neven",
+      "latitude": 46.074806,
+      "longitude": 16.950246
+    },
+    {
+      "name": "Nuklearna medicina",
+      "latitude": 43.503284,
+      "longitude": 16.458654
+    },
+    {
+      "name": "Obiteljska (opća) medicina",
+      "latitude": 42.766662,
+      "longitude": 16.8917
+    },
+    {
+      "name": "Obiteljska medicina",
+      "latitude": 45.801809,
+      "longitude": 15.707628
+    },
+    {
+      "name": "Odjel za reumatske bolesti, fizikalnu medicinu i rehabilitaciju",
+      "latitude": 45.158748,
+      "longitude": 18.011883
+    },
+    {
+      "name": "OHBP - internističke djelatnosti",
+      "latitude": 43.503532,
+      "longitude": 16.458569
+    },
+    {
+      "name": "OHBP - kirurške djelatnosti",
+      "latitude": 43.503984,
+      "longitude": 16.457426
+    },
+    {
+      "name": "Okulist Jadran Mimica",
+      "latitude": 43.444117,
+      "longitude": 16.691147
+    },
+    {
+      "name": "Optimamed",
+      "latitude": 45.802201,
+      "longitude": 15.952918
+    },
+    {
+      "name": "opća medicina Marko Gudelj",
+      "latitude": 43.443064,
+      "longitude": 16.689495
+    },
+    {
+      "name": "opća medicina Tihana Barišić",
+      "latitude": 43.443,
+      "longitude": 16.689562
+    },
+    {
+      "name": "ordinacija Amerl-Šakić",
+      "latitude": 45.790314,
+      "longitude": 15.91526
+    },
+    {
+      "name": "Ordinacija dr. Marija Čatipović",
+      "latitude": 45.91186,
+      "longitude": 16.863848
+    },
+    {
+      "name": "Ordinacija Dr. Mates",
+      "latitude": 45.494588,
+      "longitude": 15.535579
+    },
+    {
+      "name": "Ordinacija dr. Rossman",
+      "latitude": 45.496718,
+      "longitude": 15.554724
+    },
+    {
+      "name": "Ordinacija Klobučić",
+      "latitude": 45.901955,
+      "longitude": 16.84466
+    },
+    {
+      "name": "Ordinacija obiteljske medicine",
+      "latitude": 44.12971,
+      "longitude": 15.104228
+    },
+    {
+      "name": "Ordinacija obiteljske medicine dr. Ante Radoš",
+      "latitude": 43.560871,
+      "longitude": 16.523517
+    },
+    {
+      "name": "Ordinacija obiteljske medicine dr. Merice Vukasović",
+      "latitude": 43.516152,
+      "longitude": 16.487609
+    },
+    {
+      "name": "Ordinacija opće / obiteljske medicine",
+      "latitude": 45.793809,
+      "longitude": 15.917593
+    },
+    {
+      "name": "Ordinacija opće medicine",
+      "latitude": 43.756948,
+      "longitude": 16.620054
+    },
+    {
+      "name": "Ordinacija Opće Medicine",
+      "latitude": 44.105648,
+      "longitude": 15.379731
+    },
+    {
+      "name": "Ordinacija opće medicine",
+      "latitude": 45.114631,
+      "longitude": 18.536538
+    },
+    {
+      "name": "Ordinacija opće medicine",
+      "latitude": 45.807054,
+      "longitude": 15.887362
+    },
+    {
+      "name": "Ordinacija opće medicine",
+      "latitude": 45.80777,
+      "longitude": 15.898122
+    },
+    {
+      "name": "Ordinacija opće medicine",
+      "latitude": 45.834868,
+      "longitude": 16.057288
+    },
+    {
+      "name": "Ordinacija Opće Medicine - Dr. Sanja Sućić",
+      "latitude": 43.506474,
+      "longitude": 16.431551
+    },
+    {
+      "name": "Ordinacija opće medicine Anđelija Vlahek dr.med.",
+      "latitude": 46.021901,
+      "longitude": 16.543602
+    },
+    {
+      "name": "Ordinacija opće medicine Ivanka Anđelić - Ištvanović",
+      "latitude": 46.050082,
+      "longitude": 16.627339
+    },
+    {
+      "name": "ordinacija opće medicine Skakavac",
+      "latitude": 45.450437,
+      "longitude": 15.686803
+    },
+    {
+      "name": "Ordinacija opće medicine Tanja Šare-Čolak, dr.med",
+      "latitude": 44.117015,
+      "longitude": 15.239629
+    },
+    {
+      "name": "Ordinacija Slavonski Šamac",
+      "latitude": 45.066526,
+      "longitude": 18.482064
+    },
+    {
+      "name": "Ordinacija Željka Roje",
+      "latitude": 43.508953,
+      "longitude": 16.45776
+    },
+    {
+      "name": "Ortho-X rendgen centar",
+      "latitude": 45.810861,
+      "longitude": 15.952036
+    },
+    {
+      "name": "Orto Maks",
+      "latitude": 45.900678,
+      "longitude": 16.848293
+    },
+    {
+      "name": "pedijatar Ksenija Vulić",
+      "latitude": 43.446135,
+      "longitude": 16.687468
+    },
+    {
+      "name": "poliklinika \"Svečnjak\"",
+      "latitude": 45.790375,
+      "longitude": 15.925455
+    },
+    {
+      "name": "Poliklinika Acu Med Plus",
+      "latitude": 43.504645,
+      "longitude": 16.455952
+    },
+    {
+      "name": "Poliklinika Analiza",
+      "latitude": 43.504883,
+      "longitude": 16.455893
+    },
+    {
+      "name": "Poliklinika Analiza",
+      "latitude": 43.515282,
+      "longitude": 16.438972
+    },
+    {
+      "name": "Poliklinika Analiza",
+      "latitude": 43.587671,
+      "longitude": 16.575052
+    },
+    {
+      "name": "Poliklinika BaDeM",
+      "latitude": 43.507528,
+      "longitude": 16.450927
+    },
+    {
+      "name": "Poliklinika Breyer",
+      "latitude": 45.812556,
+      "longitude": 15.945281
+    },
+    {
+      "name": "Poliklinika Croatia zdravstveno osiguranje",
+      "latitude": 43.508955,
+      "longitude": 16.457813
+    },
+    {
+      "name": "Poliklinika Derma Kosor",
+      "latitude": 43.505312,
+      "longitude": 16.460648
+    },
+    {
+      "name": "Poliklinika dr. Car",
+      "latitude": 45.77943,
+      "longitude": 15.98933
+    },
+    {
+      "name": "Poliklinika Dr. Jerkobic",
+      "latitude": 45.225912,
+      "longitude": 13.598828
+    },
+    {
+      "name": "Poliklinika Dr.Brazda",
+      "latitude": 45.816375,
+      "longitude": 15.99656
+    },
+    {
+      "name": "Poliklinika Gemini Plus",
+      "latitude": 45.806754,
+      "longitude": 15.888783
+    },
+    {
+      "name": "Poliklinika Ginecej",
+      "latitude": 45.80292,
+      "longitude": 15.990204
+    },
+    {
+      "name": "Poliklinika Hormona",
+      "latitude": 43.508782,
+      "longitude": 16.457813
+    },
+    {
+      "name": "Poliklinika IVF",
+      "latitude": 45.817516,
+      "longitude": 15.994326
+    },
+    {
+      "name": "Poliklinika Jelovac",
+      "latitude": 45.184581,
+      "longitude": 13.805873
+    },
+    {
+      "name": "poliklinika Leptir",
+      "latitude": 45.814648,
+      "longitude": 15.932793
+    },
+    {
+      "name": "Poliklinika Mediderm",
+      "latitude": 43.505545,
+      "longitude": 16.451116
+    },
+    {
+      "name": "Poliklinika Milojević",
+      "latitude": 45.820453,
+      "longitude": 15.976704
+    },
+    {
+      "name": "Poliklinika Nova",
+      "latitude": 43.505763,
+      "longitude": 16.463117
+    },
+    {
+      "name": "Poliklinika Optical Express",
+      "latitude": 45.803179,
+      "longitude": 15.989287
+    },
+    {
+      "name": "Poliklinika Optima",
+      "latitude": 43.505432,
+      "longitude": 16.461043
+    },
+    {
+      "name": "Poliklinika Panaceja",
+      "latitude": 45.073658,
+      "longitude": 18.69198
+    },
+    {
+      "name": "Poliklinika Pediatri",
+      "latitude": 43.508813,
+      "longitude": 16.457739
+    },
+    {
+      "name": "Poliklinika Pintarić",
+      "latitude": 45.805773,
+      "longitude": 15.890708
+    },
+    {
+      "name": "Poliklinika Reuma",
+      "latitude": 43.503872,
+      "longitude": 16.455405
+    },
+    {
+      "name": "Poliklinika RODA",
+      "latitude": 43.513833,
+      "longitude": 16.44496
+    },
+    {
+      "name": "Poliklinika Tušin",
+      "latitude": 45.805603,
+      "longitude": 15.715093
+    },
+    {
+      "name": "Poliklinika Vukas",
+      "latitude": 45.803695,
+      "longitude": 15.942674
+    },
+    {
+      "name": "Poliklinika Đurić",
+      "latitude": 45.812111,
+      "longitude": 15.987129
+    },
+    {
+      "name": "Poliklinika Šparac",
+      "latitude": 43.503926,
+      "longitude": 16.455316
+    },
+    {
+      "name": "Poliklinike",
+      "latitude": 43.504579,
+      "longitude": 16.457915
+    },
+    {
+      "name": "Poliklinike",
+      "latitude": 43.505936,
+      "longitude": 16.469076
+    },
+    {
+      "name": "Poliklinuku za medicinsku mikrobiologiju s parazitologijom",
+      "latitude": 45.817045,
+      "longitude": 15.996231
+    },
+    {
+      "name": "Prijem, upis i otpust pacijenata",
+      "latitude": 43.503638,
+      "longitude": 16.458228
+    },
+    {
+      "name": "Privatna ginekološka ordinacija",
+      "latitude": 45.554603,
+      "longitude": 18.683931
+    },
+    {
+      "name": "Privatna internistička i kardiološka ordinacija mr.sc.dr.med. Đuro Druško",
+      "latitude": 45.556445,
+      "longitude": 18.684322
+    },
+    {
+      "name": "Privatna lječnička ordinacija dr.Dijana Petričević",
+      "latitude": 43.506606,
+      "longitude": 16.482919
+    },
+    {
+      "name": "Privatna ordinacija dr. Neven Martinović MD-PhD",
+      "latitude": 45.332566,
+      "longitude": 14.432788
+    },
+    {
+      "name": "Privatna ordinacija opće medicine",
+      "latitude": 44.11649,
+      "longitude": 15.222794
+    },
+    {
+      "name": "Privatna ordinacija opće medicine",
+      "latitude": 44.180277,
+      "longitude": 15.551209
+    },
+    {
+      "name": "Privatna Praksa dr. Vlasta Popić",
+      "latitude": 44.92639,
+      "longitude": 13.803201
+    },
+    {
+      "name": "Privatna Specijalisticka Ordinacija Obiteljske Medicine",
+      "latitude": 44.549857,
+      "longitude": 14.885731
+    },
+    {
+      "name": "Prva pomoć",
+      "latitude": 45.19801,
+      "longitude": 13.606283
+    },
+    {
+      "name": "Puclini centar za terapiju kralježnice",
+      "latitude": 45.799441,
+      "longitude": 15.958882
+    },
+    {
+      "name": "Ružica Bubić Friščić",
+      "latitude": 46.373555,
+      "longitude": 16.377964
+    },
+    {
+      "name": "Salve - dr. Mataić",
+      "latitude": 43.505094,
+      "longitude": 16.474516
+    },
+    {
+      "name": "Sanda Pivalica",
+      "latitude": 43.504584,
+      "longitude": 16.445747
+    },
+    {
+      "name": "Sanja Gršić-Burić",
+      "latitude": 45.813489,
+      "longitude": 15.955783
+    },
+    {
+      "name": "Silk skin clinic",
+      "latitude": 45.816986,
+      "longitude": 15.996624
+    },
+    {
+      "name": "Specijalistička ordinacija medicine rada",
+      "latitude": 46.292337,
+      "longitude": 16.343374
+    },
+    {
+      "name": "Specijalistička ordinacija obiteljske medicine Anamarija Lazarušić Sesar",
+      "latitude": 45.337195,
+      "longitude": 17.682023
+    },
+    {
+      "name": "Specijalistička ordinacija obiteljske medicine Oskar Franjić",
+      "latitude": 45.766728,
+      "longitude": 18.605106
+    },
+    {
+      "name": "Specijalistička pedijatrijska ordinacija dr.med. Tatjana Relić-Niemčić, spec. pedijatrije",
+      "latitude": 46.021884,
+      "longitude": 16.543731
+    },
+    {
+      "name": "Splošna ambulanta Zavrč",
+      "latitude": 46.377938,
+      "longitude": 16.056178
+    },
+    {
+      "name": "Tonus",
+      "latitude": 45.565189,
+      "longitude": 18.66878
+    },
+    {
+      "name": "Tourist ambulance",
+      "latitude": 43.817337,
+      "longitude": 15.592808
+    },
+    {
+      "name": "Tourist ambulance",
+      "latitude": 45.075287,
+      "longitude": 14.163809
+    },
+    {
+      "name": "Tourist medical center",
+      "latitude": 43.504527,
+      "longitude": 16.455976
+    },
+    {
+      "name": "Turistička Ambulanta",
+      "latitude": 44.867556,
+      "longitude": 13.850391
+    },
+    {
+      "name": "Turistička ambulanta",
+      "latitude": 45.165724,
+      "longitude": 14.544769
+    },
+    {
+      "name": "Turistička ambulanta Grad",
+      "latitude": 42.639719,
+      "longitude": 18.109836
+    },
+    {
+      "name": "UniMedic Centar",
+      "latitude": 45.812928,
+      "longitude": 15.902756
+    },
+    {
+      "name": "Videnić;Trkulja;Talkić",
+      "latitude": 45.49038,
+      "longitude": 15.550325
+    },
+    {
+      "name": "xDent",
+      "latitude": 45.799418,
+      "longitude": 15.951538
+    },
+    {
+      "name": "Zavod za hitnu medicinu Karlovačke županije",
+      "latitude": 45.49275,
+      "longitude": 15.541191
+    },
+    {
+      "name": "ZD Rogatec",
+      "latitude": 46.224461,
+      "longitude": 15.702219
+    },
+    {
+      "name": "Zdravlje plus - Mlikotić",
+      "latitude": 45.906331,
+      "longitude": 15.805494
+    },
+    {
+      "name": "Zdravstvena stanica Soljani",
+      "latitude": 44.9512,
+      "longitude": 18.970681
+    },
+    {
+      "name": "Zdravstvena stranica \"Pomorci\"",
+      "latitude": 43.506458,
+      "longitude": 16.431527
+    },
+    {
+      "name": "Zdravstveni centar Novamed",
+      "latitude": 45.76656,
+      "longitude": 15.981319
+    },
+    {
+      "name": "Šimac - Rako",
+      "latitude": 43.700054,
+      "longitude": 16.644068
+    },
+    {
+      "name": "Školska medicina",
+      "latitude": 45.159732,
+      "longitude": 18.021342
+    },
+    {
+      "name": "Športska ambulanta",
+      "latitude": 44.115799,
+      "longitude": 15.225982
+    }
+  ],
+  "meta": {
+    "title": "Liječničke ordinacije - Besplatno preuzimanje",
+    "description": "Liječničke ordinacije u Hrvatskoj (469 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=doctors), izrez EU-POIS/HR. Sadrži 469 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Liječničke ordinacije | ListBase",
+    "seo_description": "Preuzmi Liječničke ordinacije — 469 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 469 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

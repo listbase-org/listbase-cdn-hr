@@ -1,0 +1,1141 @@
+{
+  "id": "hr-autopraonice",
+  "name": "Autopraonice",
+  "title": "Autopraonice",
+  "description": "Autopraonice u Hrvatskoj (220 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=car_wash), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 220,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adria Petrol",
+      "latitude": 45.111658,
+      "longitude": 14.546012
+    },
+    {
+      "name": "Adriatech ručna autopraonica",
+      "latitude": 45.868496,
+      "longitude": 15.755994
+    },
+    {
+      "name": "Adriateh",
+      "latitude": 44.103294,
+      "longitude": 15.263263
+    },
+    {
+      "name": "AG detailing",
+      "latitude": 45.805765,
+      "longitude": 15.721813
+    },
+    {
+      "name": "Aqua",
+      "latitude": 45.159941,
+      "longitude": 18.029229
+    },
+    {
+      "name": "Aquarama",
+      "latitude": 45.826157,
+      "longitude": 17.393759
+    },
+    {
+      "name": "Aquarama Car Wash",
+      "latitude": 45.362148,
+      "longitude": 14.392634
+    },
+    {
+      "name": "As",
+      "latitude": 45.795781,
+      "longitude": 15.953383
+    },
+    {
+      "name": "Auto Optimus",
+      "latitude": 43.942392,
+      "longitude": 15.456597
+    },
+    {
+      "name": "auto praona Kralj",
+      "latitude": 45.803616,
+      "longitude": 16.004286
+    },
+    {
+      "name": "Auto Praonica Autowash",
+      "latitude": 43.354996,
+      "longitude": 16.954212
+    },
+    {
+      "name": "Auto Punkt",
+      "latitude": 45.791719,
+      "longitude": 15.958354
+    },
+    {
+      "name": "Auto-Cool",
+      "latitude": 45.544651,
+      "longitude": 18.745289
+    },
+    {
+      "name": "Automatska Autopraonica i Self Service Kantrida",
+      "latitude": 45.338969,
+      "longitude": 14.396012
+    },
+    {
+      "name": "Autopranica Pitstop",
+      "latitude": 45.343458,
+      "longitude": 14.501328
+    },
+    {
+      "name": "Autopraona",
+      "latitude": 45.813142,
+      "longitude": 16.005357
+    },
+    {
+      "name": "Autopraona",
+      "latitude": 45.823357,
+      "longitude": 15.998068
+    },
+    {
+      "name": "autopraona",
+      "latitude": 45.845423,
+      "longitude": 16.054817
+    },
+    {
+      "name": "Autopraona \"357\"",
+      "latitude": 45.337349,
+      "longitude": 16.974631
+    },
+    {
+      "name": "autopraona Herc",
+      "latitude": 45.79699,
+      "longitude": 15.919659
+    },
+    {
+      "name": "Autopraona Kapljica",
+      "latitude": 45.879594,
+      "longitude": 16.406633
+    },
+    {
+      "name": "Autopraona Mr. Bean",
+      "latitude": 45.799741,
+      "longitude": 15.988859
+    },
+    {
+      "name": "Autopraona PLUS",
+      "latitude": 44.872128,
+      "longitude": 13.866771
+    },
+    {
+      "name": "Autopraona Rijeka Trans",
+      "latitude": 45.323291,
+      "longitude": 14.511343
+    },
+    {
+      "name": "Autopraonica",
+      "latitude": 44.032292,
+      "longitude": 16.196261
+    },
+    {
+      "name": "Autopraonica",
+      "latitude": 44.552781,
+      "longitude": 14.885628
+    },
+    {
+      "name": "Autopraonica",
+      "latitude": 45.541073,
+      "longitude": 18.042583
+    },
+    {
+      "name": "Autopraonica",
+      "latitude": 45.804317,
+      "longitude": 16.085054
+    },
+    {
+      "name": "Autopraonica",
+      "latitude": 45.812575,
+      "longitude": 15.861596
+    },
+    {
+      "name": "Autopraonica",
+      "latitude": 46.379761,
+      "longitude": 16.410353
+    },
+    {
+      "name": "Autopraonica Auto Line",
+      "latitude": 43.50846,
+      "longitude": 16.496113
+    },
+    {
+      "name": "Autopraonica Box",
+      "latitude": 45.795595,
+      "longitude": 15.920377
+    },
+    {
+      "name": "Autopraonica Buba",
+      "latitude": 43.502161,
+      "longitude": 16.459305
+    },
+    {
+      "name": "Autopraonica Dedić",
+      "latitude": 45.342871,
+      "longitude": 19.002387
+    },
+    {
+      "name": "Autopraonica DOHA",
+      "latitude": 45.798933,
+      "longitude": 15.938432
+    },
+    {
+      "name": "Autopraonica DunavTrans",
+      "latitude": 45.367389,
+      "longitude": 18.967548
+    },
+    {
+      "name": "Autopraonica Džajić",
+      "latitude": 43.438432,
+      "longitude": 17.201669
+    },
+    {
+      "name": "Autopraonica Fast&Shine",
+      "latitude": 42.667562,
+      "longitude": 18.082508
+    },
+    {
+      "name": "Autopraonica Finish",
+      "latitude": 45.651727,
+      "longitude": 18.432987
+    },
+    {
+      "name": "Autopraonica Haban",
+      "latitude": 46.025127,
+      "longitude": 16.537615
+    },
+    {
+      "name": "Autopraonica Ivanska",
+      "latitude": 45.783829,
+      "longitude": 16.802988
+    },
+    {
+      "name": "Autopraonica Jarun",
+      "latitude": 45.78567,
+      "longitude": 15.924559
+    },
+    {
+      "name": "Autopraonica Kapljica",
+      "latitude": 45.587856,
+      "longitude": 17.211768
+    },
+    {
+      "name": "autopraonica Kapljica",
+      "latitude": 45.805359,
+      "longitude": 16.247722
+    },
+    {
+      "name": "Autopraonica Keser",
+      "latitude": 45.471706,
+      "longitude": 15.552008
+    },
+    {
+      "name": "Autopraonica King",
+      "latitude": 43.505122,
+      "longitude": 16.510893
+    },
+    {
+      "name": "Autopraonica Krka",
+      "latitude": 44.031809,
+      "longitude": 16.191281
+    },
+    {
+      "name": "Autopraonica Lana",
+      "latitude": 43.442729,
+      "longitude": 17.20765
+    },
+    {
+      "name": "Autopraonica Marta",
+      "latitude": 45.347671,
+      "longitude": 14.420887
+    },
+    {
+      "name": "Autopraonica Matić",
+      "latitude": 45.905462,
+      "longitude": 16.825205
+    },
+    {
+      "name": "Autopraonica Mia",
+      "latitude": 45.798293,
+      "longitude": 15.901939
+    },
+    {
+      "name": "Autopraonica Nin",
+      "latitude": 44.241811,
+      "longitude": 15.17109
+    },
+    {
+      "name": "Autopraonica Novi Centar",
+      "latitude": 45.488595,
+      "longitude": 15.539078
+    },
+    {
+      "name": "Autopraonica Palinić",
+      "latitude": 43.520765,
+      "longitude": 16.447649
+    },
+    {
+      "name": "Autopraonica Pomme",
+      "latitude": 45.798178,
+      "longitude": 15.991882
+    },
+    {
+      "name": "Autopraonica Pularis",
+      "latitude": 45.288625,
+      "longitude": 18.819317
+    },
+    {
+      "name": "Autopraonica Rokovci",
+      "latitude": 45.231493,
+      "longitude": 18.744765
+    },
+    {
+      "name": "Autopraonica Sertić",
+      "latitude": 45.590251,
+      "longitude": 17.219789
+    },
+    {
+      "name": "Autopraonica Sušak",
+      "latitude": 45.323899,
+      "longitude": 14.470771
+    },
+    {
+      "name": "Autopraonica Tolo",
+      "latitude": 43.447961,
+      "longitude": 17.220617
+    },
+    {
+      "name": "Autopraonica Tulić",
+      "latitude": 45.895137,
+      "longitude": 16.850107
+    },
+    {
+      "name": "Autopraonica za Autobuse",
+      "latitude": 45.976555,
+      "longitude": 17.170214
+    },
+    {
+      "name": "Autopraonica Zamet sjever",
+      "latitude": 45.344971,
+      "longitude": 14.398327
+    },
+    {
+      "name": "Autopraonica Zar-mont",
+      "latitude": 46.027461,
+      "longitude": 16.540682
+    },
+    {
+      "name": "Autopraonica Šestine",
+      "latitude": 45.854024,
+      "longitude": 15.950256
+    },
+    {
+      "name": "Autopraonice Slavonija - Osijek 2",
+      "latitude": 45.548989,
+      "longitude": 18.691911
+    },
+    {
+      "name": "Autostaklo Bingo",
+      "latitude": 46.301461,
+      "longitude": 16.323925
+    },
+    {
+      "name": "Autowaschanlage",
+      "latitude": 43.281981,
+      "longitude": 17.03449
+    },
+    {
+      "name": "Avtopralnica",
+      "latitude": 46.151152,
+      "longitude": 15.599523
+    },
+    {
+      "name": "Avtopralnica Ferčec",
+      "latitude": 46.2255,
+      "longitude": 15.695005
+    },
+    {
+      "name": "Baza",
+      "latitude": 46.384983,
+      "longitude": 16.689907
+    },
+    {
+      "name": "Biser",
+      "latitude": 45.851151,
+      "longitude": 16.055051
+    },
+    {
+      "name": "BlackPearl",
+      "latitude": 45.803621,
+      "longitude": 15.918598
+    },
+    {
+      "name": "Brba Detailing PPF",
+      "latitude": 45.797862,
+      "longitude": 15.981455
+    },
+    {
+      "name": "Car Wash",
+      "latitude": 43.024051,
+      "longitude": 17.551974
+    },
+    {
+      "name": "Car Wash",
+      "latitude": 44.291902,
+      "longitude": 15.441837
+    },
+    {
+      "name": "Car Wash",
+      "latitude": 45.036401,
+      "longitude": 14.568873
+    },
+    {
+      "name": "Car Wash",
+      "latitude": 45.079553,
+      "longitude": 13.662115
+    },
+    {
+      "name": "Car Wash",
+      "latitude": 45.217065,
+      "longitude": 14.565462
+    },
+    {
+      "name": "Car Wash",
+      "latitude": 45.298198,
+      "longitude": 14.276182
+    },
+    {
+      "name": "Car wash",
+      "latitude": 46.502922,
+      "longitude": 16.448275
+    },
+    {
+      "name": "Car wash Dario",
+      "latitude": 42.975991,
+      "longitude": 17.167903
+    },
+    {
+      "name": "Car Wash Life",
+      "latitude": 43.709459,
+      "longitude": 15.91004
+    },
+    {
+      "name": "Car Wash Rovinj",
+      "latitude": 45.081287,
+      "longitude": 13.654601
+    },
+    {
+      "name": "Car wash self-service 0-24",
+      "latitude": 43.530347,
+      "longitude": 16.484895
+    },
+    {
+      "name": "Car wash self-service 0-24",
+      "latitude": 43.553965,
+      "longitude": 16.36205
+    },
+    {
+      "name": "Car wash self-service Bubic",
+      "latitude": 43.528759,
+      "longitude": 16.483287
+    },
+    {
+      "name": "CarWash",
+      "latitude": 45.845281,
+      "longitude": 15.813977
+    },
+    {
+      "name": "Centar",
+      "latitude": 45.337675,
+      "longitude": 16.976077
+    },
+    {
+      "name": "Centar car wash",
+      "latitude": 43.944849,
+      "longitude": 15.45505
+    },
+    {
+      "name": "CER",
+      "latitude": 45.798946,
+      "longitude": 15.973448
+    },
+    {
+      "name": "Crodux Wash",
+      "latitude": 44.861632,
+      "longitude": 13.863142
+    },
+    {
+      "name": "Crodux wash",
+      "latitude": 45.795605,
+      "longitude": 16.01231
+    },
+    {
+      "name": "Davor",
+      "latitude": 45.290424,
+      "longitude": 18.409075
+    },
+    {
+      "name": "dujma promet",
+      "latitude": 45.793089,
+      "longitude": 15.906641
+    },
+    {
+      "name": "Ecola",
+      "latitude": 45.549453,
+      "longitude": 18.700479
+    },
+    {
+      "name": "Economic",
+      "latitude": 45.310593,
+      "longitude": 18.396828
+    },
+    {
+      "name": "ecoWash",
+      "latitude": 45.337801,
+      "longitude": 14.408207
+    },
+    {
+      "name": "Ehrle",
+      "latitude": 45.730154,
+      "longitude": 16.026499
+    },
+    {
+      "name": "em",
+      "latitude": 45.80874,
+      "longitude": 15.908392
+    },
+    {
+      "name": "Ema",
+      "latitude": 45.790333,
+      "longitude": 16.02309
+    },
+    {
+      "name": "Erik",
+      "latitude": 45.344038,
+      "longitude": 13.552943
+    },
+    {
+      "name": "FAST Prišlin",
+      "latitude": 45.889832,
+      "longitude": 16.824651
+    },
+    {
+      "name": "FEBO",
+      "latitude": 45.317832,
+      "longitude": 13.564579
+    },
+    {
+      "name": "Fortis usluge",
+      "latitude": 45.494123,
+      "longitude": 16.365918
+    },
+    {
+      "name": "Froggy",
+      "latitude": 45.354948,
+      "longitude": 14.427914
+    },
+    {
+      "name": "G-Wash",
+      "latitude": 46.521146,
+      "longitude": 16.376908
+    },
+    {
+      "name": "General Blistakonov",
+      "latitude": 45.798871,
+      "longitude": 15.886261
+    },
+    {
+      "name": "Gold Freez",
+      "latitude": 45.804713,
+      "longitude": 15.953545
+    },
+    {
+      "name": "Green Line",
+      "latitude": 46.179509,
+      "longitude": 16.841818
+    },
+    {
+      "name": "H2O",
+      "latitude": 45.810211,
+      "longitude": 15.711042
+    },
+    {
+      "name": "Horvi-Glanz",
+      "latitude": 45.820794,
+      "longitude": 15.791905
+    },
+    {
+      "name": "IN",
+      "latitude": 45.244227,
+      "longitude": 18.40944
+    },
+    {
+      "name": "INA",
+      "latitude": 43.443059,
+      "longitude": 16.683937
+    },
+    {
+      "name": "Invictus",
+      "latitude": 45.797883,
+      "longitude": 15.937578
+    },
+    {
+      "name": "Istobal",
+      "latitude": 45.8046,
+      "longitude": 16.08557
+    },
+    {
+      "name": "Istobal",
+      "latitude": 46.388032,
+      "longitude": 16.414125
+    },
+    {
+      "name": "Istobal Car Wash",
+      "latitude": 45.098219,
+      "longitude": 14.11352
+    },
+    {
+      "name": "iWash Levar",
+      "latitude": 45.318773,
+      "longitude": 14.47221
+    },
+    {
+      "name": "J & K",
+      "latitude": 45.800317,
+      "longitude": 15.989501
+    },
+    {
+      "name": "Jet wash",
+      "latitude": 45.767163,
+      "longitude": 16.234254
+    },
+    {
+      "name": "Jet Wash",
+      "latitude": 46.395529,
+      "longitude": 16.426828
+    },
+    {
+      "name": "Kapljica",
+      "latitude": 45.164077,
+      "longitude": 18.025208
+    },
+    {
+      "name": "Kemoboja",
+      "latitude": 45.312514,
+      "longitude": 18.419413
+    },
+    {
+      "name": "Kiki Car Wash",
+      "latitude": 45.228047,
+      "longitude": 13.613175
+    },
+    {
+      "name": "Kockica",
+      "latitude": 45.329786,
+      "longitude": 18.396716
+    },
+    {
+      "name": "Kod Luburića",
+      "latitude": 45.300783,
+      "longitude": 18.809532
+    },
+    {
+      "name": "Korčula bus",
+      "latitude": 42.958879,
+      "longitude": 17.125688
+    },
+    {
+      "name": "Krajcer",
+      "latitude": 45.527286,
+      "longitude": 17.254843
+    },
+    {
+      "name": "Kunjka",
+      "latitude": 43.754709,
+      "longitude": 15.771336
+    },
+    {
+      "name": "Kvatrić",
+      "latitude": 45.81284,
+      "longitude": 16.00005
+    },
+    {
+      "name": "Leko",
+      "latitude": 45.804506,
+      "longitude": 16.001387
+    },
+    {
+      "name": "Maiva",
+      "latitude": 45.90505,
+      "longitude": 16.858734
+    },
+    {
+      "name": "MAKI",
+      "latitude": 45.330593,
+      "longitude": 18.418862
+    },
+    {
+      "name": "Martina",
+      "latitude": 45.796635,
+      "longitude": 15.887093
+    },
+    {
+      "name": "Miramarska",
+      "latitude": 45.80305,
+      "longitude": 15.975306
+    },
+    {
+      "name": "Mlaz",
+      "latitude": 45.544971,
+      "longitude": 18.657193
+    },
+    {
+      "name": "Moby Dick",
+      "latitude": 45.422463,
+      "longitude": 13.529143
+    },
+    {
+      "name": "Monza",
+      "latitude": 44.300833,
+      "longitude": 15.07987
+    },
+    {
+      "name": "Motorsport Stričević - Detailing Studio & Car Wash",
+      "latitude": 43.506092,
+      "longitude": 16.419593
+    },
+    {
+      "name": "Mustač",
+      "latitude": 45.830003,
+      "longitude": 17.387605
+    },
+    {
+      "name": "neptun Car Wash",
+      "latitude": 45.094194,
+      "longitude": 18.700793
+    },
+    {
+      "name": "NR Detailing",
+      "latitude": 45.078346,
+      "longitude": 18.697295
+    },
+    {
+      "name": "Oldtimer - autopraonica",
+      "latitude": 45.79849,
+      "longitude": 15.958732
+    },
+    {
+      "name": "Peri a ne deri!",
+      "latitude": 43.513887,
+      "longitude": 16.503677
+    },
+    {
+      "name": "Peta brzina",
+      "latitude": 45.757436,
+      "longitude": 17.049868
+    },
+    {
+      "name": "Petrol",
+      "latitude": 44.139687,
+      "longitude": 15.31042
+    },
+    {
+      "name": "Pilip",
+      "latitude": 45.838936,
+      "longitude": 15.695469
+    },
+    {
+      "name": "Pit stop",
+      "latitude": 45.350061,
+      "longitude": 14.418133
+    },
+    {
+      "name": "Platinum Cars",
+      "latitude": 45.808481,
+      "longitude": 15.934105
+    },
+    {
+      "name": "Praona",
+      "latitude": 46.290034,
+      "longitude": 16.322965
+    },
+    {
+      "name": "Praonica automobila",
+      "latitude": 45.764288,
+      "longitude": 18.599513
+    },
+    {
+      "name": "Praonica automobila",
+      "latitude": 45.830238,
+      "longitude": 16.056854
+    },
+    {
+      "name": "Preciso Servizio d.o.o.",
+      "latitude": 45.815809,
+      "longitude": 16.025796
+    },
+    {
+      "name": "Premiom car wash",
+      "latitude": 43.94761,
+      "longitude": 15.452082
+    },
+    {
+      "name": "Roller",
+      "latitude": 43.520432,
+      "longitude": 16.431835
+    },
+    {
+      "name": "Royal",
+      "latitude": 44.049029,
+      "longitude": 15.312607
+    },
+    {
+      "name": "rudeš",
+      "latitude": 45.80066,
+      "longitude": 15.912709
+    },
+    {
+      "name": "Samoperi 1",
+      "latitude": 45.888441,
+      "longitude": 16.852521
+    },
+    {
+      "name": "Samoperi 2",
+      "latitude": 45.912086,
+      "longitude": 16.854675
+    },
+    {
+      "name": "Samopolužna Autopraonica Jaska",
+      "latitude": 45.663903,
+      "longitude": 15.642413
+    },
+    {
+      "name": "Samoposluzna autopraonica",
+      "latitude": 43.540219,
+      "longitude": 16.453185
+    },
+    {
+      "name": "Samoposlužna Auto Praona",
+      "latitude": 45.94608,
+      "longitude": 16.608173
+    },
+    {
+      "name": "Samoposlužna Autopraona",
+      "latitude": 45.815671,
+      "longitude": 16.981648
+    },
+    {
+      "name": "Samoposlužna Autopraona Pajca",
+      "latitude": 45.240479,
+      "longitude": 13.913859
+    },
+    {
+      "name": "Samoposlužna autopraonica",
+      "latitude": 45.572703,
+      "longitude": 16.94181
+    },
+    {
+      "name": "Samoposlužna Autopraonica",
+      "latitude": 45.699158,
+      "longitude": 17.17372
+    },
+    {
+      "name": "Samoposlužna autopraonica",
+      "latitude": 45.708937,
+      "longitude": 16.065712
+    },
+    {
+      "name": "Samoposlužna autopraonica",
+      "latitude": 45.74647,
+      "longitude": 16.599764
+    },
+    {
+      "name": "Samoposlužna Autopraonica",
+      "latitude": 45.976276,
+      "longitude": 17.17009
+    },
+    {
+      "name": "Samoposlužna autopraonica",
+      "latitude": 46.170161,
+      "longitude": 16.819368
+    },
+    {
+      "name": "Samoposlužna Autopraonica",
+      "latitude": 46.171238,
+      "longitude": 16.338688
+    },
+    {
+      "name": "Samoposlužna Autopraonica",
+      "latitude": 46.33955,
+      "longitude": 16.628946
+    },
+    {
+      "name": "Samoposlužna autopraonica \"NOAN\"",
+      "latitude": 45.417138,
+      "longitude": 13.956546
+    },
+    {
+      "name": "Samoposlužna autopraonica \"Teo\"",
+      "latitude": 45.944729,
+      "longitude": 16.731439
+    },
+    {
+      "name": "Samoposlužna autopraonica 0-24",
+      "latitude": 43.530595,
+      "longitude": 16.493772
+    },
+    {
+      "name": "Samoposlužna Autopraonica 0-24",
+      "latitude": 45.496544,
+      "longitude": 16.379127
+    },
+    {
+      "name": "Samoposlužna autopraonica Bjelovar",
+      "latitude": 45.905178,
+      "longitude": 16.846432
+    },
+    {
+      "name": "Samoposlužna autopraonica Dubvac",
+      "latitude": 45.490928,
+      "longitude": 15.535767
+    },
+    {
+      "name": "Samoposlužna autopraonica Ilovac",
+      "latitude": 45.515399,
+      "longitude": 15.543186
+    },
+    {
+      "name": "Samoposlužna autopraonica Mokrice",
+      "latitude": 46.005826,
+      "longitude": 15.872709
+    },
+    {
+      "name": "Samoposlužna autopraonica Odeta",
+      "latitude": 45.48015,
+      "longitude": 15.55685
+    },
+    {
+      "name": "Samoposlužna autopraonica Žitna",
+      "latitude": 45.70795,
+      "longitude": 16.408747
+    },
+    {
+      "name": "Samoposlužna autopraouna",
+      "latitude": 45.821639,
+      "longitude": 16.063518
+    },
+    {
+      "name": "Samoposlužna praonica Lav",
+      "latitude": 45.620141,
+      "longitude": 18.680821
+    },
+    {
+      "name": "Samouslužna autopraonica Zagreb 1",
+      "latitude": 45.79712,
+      "longitude": 15.902196
+    },
+    {
+      "name": "Samposlužna praonica AutoČunj 01",
+      "latitude": 45.760767,
+      "longitude": 18.154945
+    },
+    {
+      "name": "Sebo",
+      "latitude": 45.935091,
+      "longitude": 16.78101
+    },
+    {
+      "name": "Self - Service Car Wash",
+      "latitude": 45.371827,
+      "longitude": 14.311783
+    },
+    {
+      "name": "Self Service Car Wash",
+      "latitude": 44.884999,
+      "longitude": 13.869357
+    },
+    {
+      "name": "Shell",
+      "latitude": 45.175402,
+      "longitude": 18.063342
+    },
+    {
+      "name": "Shell",
+      "latitude": 45.240596,
+      "longitude": 13.912619
+    },
+    {
+      "name": "Show & Shine Detailing",
+      "latitude": 45.741557,
+      "longitude": 16.014999
+    },
+    {
+      "name": "Siba 1",
+      "latitude": 45.106485,
+      "longitude": 14.117214
+    },
+    {
+      "name": "Slap",
+      "latitude": 45.169643,
+      "longitude": 18.041174
+    },
+    {
+      "name": "Slavonija",
+      "latitude": 45.317036,
+      "longitude": 18.417339
+    },
+    {
+      "name": "Soap",
+      "latitude": 45.779214,
+      "longitude": 16.004878
+    },
+    {
+      "name": "Spevy",
+      "latitude": 45.803594,
+      "longitude": 15.715325
+    },
+    {
+      "name": "Sport Manila - samouslužna autopraonica",
+      "latitude": 46.216323,
+      "longitude": 16.059558
+    },
+    {
+      "name": "Stanić autopraonica",
+      "latitude": 45.796156,
+      "longitude": 16.032048
+    },
+    {
+      "name": "Star Wash",
+      "latitude": 45.945482,
+      "longitude": 16.23814
+    },
+    {
+      "name": "Starline car wash",
+      "latitude": 45.506336,
+      "longitude": 18.740915
+    },
+    {
+      "name": "Szabo",
+      "latitude": 45.769051,
+      "longitude": 16.004441
+    },
+    {
+      "name": "SzabWash",
+      "latitude": 45.777364,
+      "longitude": 15.963583
+    },
+    {
+      "name": "Szabwash",
+      "latitude": 45.802114,
+      "longitude": 15.962841
+    },
+    {
+      "name": "Tehnoguma",
+      "latitude": 46.159027,
+      "longitude": 16.335546
+    },
+    {
+      "name": "Tifon",
+      "latitude": 45.843623,
+      "longitude": 15.81511
+    },
+    {
+      "name": "tip tip",
+      "latitude": 45.797284,
+      "longitude": 15.914453
+    },
+    {
+      "name": "Tkalča",
+      "latitude": 45.82073,
+      "longitude": 15.976425
+    },
+    {
+      "name": "Trnje",
+      "latitude": 45.795339,
+      "longitude": 15.982276
+    },
+    {
+      "name": "Uslužna",
+      "latitude": 44.124044,
+      "longitude": 15.231973
+    },
+    {
+      "name": "Val",
+      "latitude": 45.168206,
+      "longitude": 18.041193
+    },
+    {
+      "name": "VG",
+      "latitude": 45.818611,
+      "longitude": 16.022515
+    },
+    {
+      "name": "Vitezi",
+      "latitude": 46.234234,
+      "longitude": 16.149383
+    },
+    {
+      "name": "Vlado",
+      "latitude": 45.221169,
+      "longitude": 19.367965
+    },
+    {
+      "name": "Vulkan",
+      "latitude": 45.760532,
+      "longitude": 18.182858
+    },
+    {
+      "name": "Washworld",
+      "latitude": 45.796511,
+      "longitude": 15.763348
+    },
+    {
+      "name": "Zoom",
+      "latitude": 45.828537,
+      "longitude": 16.100839
+    },
+    {
+      "name": "Čolo",
+      "latitude": 45.799717,
+      "longitude": 15.982082
+    },
+    {
+      "name": "Špica +",
+      "latitude": 45.803526,
+      "longitude": 15.997473
+    }
+  ],
+  "meta": {
+    "title": "Autopraonice - Besplatno preuzimanje",
+    "description": "Autopraonice u Hrvatskoj (220 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=car_wash), izrez EU-POIS/HR. Sadrži 220 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Autopraonice | ListBase",
+    "seo_description": "Preuzmi Autopraonice — 220 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 220 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "id": "hr-planinarski-domovi",
+  "name": "Planinarski domovi",
+  "title": "Planinarski domovi",
+  "description": "Planinarski domovi u Hrvatskoj (122 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=alpine_hut), izrez EU-POIS/HR.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 122,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Anin vrh",
+      "latitude": 46.083767,
+      "longitude": 16.846866
+    },
+    {
+      "name": "Ačkova hiža",
+      "latitude": 46.177664,
+      "longitude": 15.832812
+    },
+    {
+      "name": "Belecgrad",
+      "latitude": 46.164433,
+      "longitude": 16.116663
+    },
+    {
+      "name": "Brezovac",
+      "latitude": 44.096368,
+      "longitude": 16.347378
+    },
+    {
+      "name": "Careva kuća",
+      "latitude": 44.741803,
+      "longitude": 15.057354
+    },
+    {
+      "name": "Cerinski vir",
+      "latitude": 45.776107,
+      "longitude": 15.634677
+    },
+    {
+      "name": "Dom \"Sveti Andrija\"",
+      "latitude": 43.053691,
+      "longitude": 16.183628
+    },
+    {
+      "name": "Dom Bijele Stijene",
+      "latitude": 45.295303,
+      "longitude": 14.884081
+    },
+    {
+      "name": "Dom Vuković",
+      "latitude": 43.814933,
+      "longitude": 16.696762
+    },
+    {
+      "name": "Dom Zavižan",
+      "latitude": 44.814586,
+      "longitude": 14.9755
+    },
+    {
+      "name": "Filićev dom",
+      "latitude": 46.269399,
+      "longitude": 15.987228
+    },
+    {
+      "name": "Glavica",
+      "latitude": 45.842543,
+      "longitude": 15.876015
+    },
+    {
+      "name": "Grofica",
+      "latitude": 45.899757,
+      "longitude": 15.955105
+    },
+    {
+      "name": "Kamačnik",
+      "latitude": 45.370903,
+      "longitude": 15.062985
+    },
+    {
+      "name": "Klet Matija",
+      "latitude": 46.189361,
+      "longitude": 16.315389
+    },
+    {
+      "name": "Kuća Apatišan",
+      "latitude": 44.770998,
+      "longitude": 15.093137
+    },
+    {
+      "name": "Kuća Donji Kosinj",
+      "latitude": 44.748753,
+      "longitude": 15.265187
+    },
+    {
+      "name": "Kuća Javorova Kosa",
+      "latitude": 45.38814,
+      "longitude": 14.95212
+    },
+    {
+      "name": "Kuća Lazac",
+      "latitude": 45.45012,
+      "longitude": 14.60189
+    },
+    {
+      "name": "Kuća Lokanda",
+      "latitude": 45.323518,
+      "longitude": 14.929761
+    },
+    {
+      "name": "Kuća Mance",
+      "latitude": 45.305025,
+      "longitude": 14.902188
+    },
+    {
+      "name": "Kuća Miroslav Hirtz",
+      "latitude": 44.704517,
+      "longitude": 14.897256
+    },
+    {
+      "name": "Kuća Mrkvište",
+      "latitude": 44.708971,
+      "longitude": 15.048698
+    },
+    {
+      "name": "Kuća Oltari",
+      "latitude": 44.873551,
+      "longitude": 14.984324
+    },
+    {
+      "name": "Kuća Sijaset",
+      "latitude": 44.963338,
+      "longitude": 14.967814
+    },
+    {
+      "name": "Kuća Vinište",
+      "latitude": 45.111705,
+      "longitude": 14.863952
+    },
+    {
+      "name": "Lovačka kuća Dobra voda",
+      "latitude": 45.469443,
+      "longitude": 17.829088
+    },
+    {
+      "name": "Lovačka kuća Perun",
+      "latitude": 45.237442,
+      "longitude": 14.203918
+    },
+    {
+      "name": "Lovačka kuća Prve njive",
+      "latitude": 45.465349,
+      "longitude": 14.355328
+    },
+    {
+      "name": "Lovački dom",
+      "latitude": 45.979897,
+      "longitude": 16.235215
+    },
+    {
+      "name": "Lujčekova hiža",
+      "latitude": 46.179857,
+      "longitude": 16.234346
+    },
+    {
+      "name": "Mladen Polović",
+      "latitude": 45.446235,
+      "longitude": 15.522235
+    },
+    {
+      "name": "Omanovac",
+      "latitude": 45.417428,
+      "longitude": 17.24849
+    },
+    {
+      "name": "Paravićeva miza",
+      "latitude": 45.566436,
+      "longitude": 14.49963
+    },
+    {
+      "name": "Picelj",
+      "latitude": 46.041183,
+      "longitude": 15.882044
+    },
+    {
+      "name": "Planinarska kuća \"Bajin Kijer\"",
+      "latitude": 45.329933,
+      "longitude": 17.551741
+    },
+    {
+      "name": "Planinarska kuća \"Borovik\"",
+      "latitude": 45.388154,
+      "longitude": 18.164941
+    },
+    {
+      "name": "Planinarska kuća \"Dragutin Hirtz\"",
+      "latitude": 45.218929,
+      "longitude": 14.977327
+    },
+    {
+      "name": "Planinarska kuća \"Ivanova Hiža\"",
+      "latitude": 45.553154,
+      "longitude": 15.499899
+    },
+    {
+      "name": "Planinarska kuća \"Česmina\"",
+      "latitude": 43.581387,
+      "longitude": 16.32739
+    },
+    {
+      "name": "Planinarska kuća Alan",
+      "latitude": 44.721379,
+      "longitude": 14.969193
+    },
+    {
+      "name": "Planinarska kuća Boris Farkaš",
+      "latitude": 45.730343,
+      "longitude": 15.306692
+    },
+    {
+      "name": "Planinarska kuća Cesargrad",
+      "latitude": 46.058779,
+      "longitude": 15.724641
+    },
+    {
+      "name": "Planinarska kuća Frbežari",
+      "latitude": 45.569032,
+      "longitude": 14.624128
+    },
+    {
+      "name": "Planinarska kuća Gažul",
+      "latitude": 43.305278,
+      "longitude": 16.629926
+    },
+    {
+      "name": "Planinarska kuća Grebengrad",
+      "latitude": 46.175759,
+      "longitude": 16.286934
+    },
+    {
+      "name": "Planinarska kuća Grohot",
+      "latitude": 45.956904,
+      "longitude": 16.117459
+    },
+    {
+      "name": "Planinarska kuća Kladeščica",
+      "latitude": 45.990128,
+      "longitude": 16.187286
+    },
+    {
+      "name": "Planinarska kuća Korita",
+      "latitude": 45.378849,
+      "longitude": 14.161366
+    },
+    {
+      "name": "Planinarska kuća Kuna gora",
+      "latitude": 46.168448,
+      "longitude": 15.74832
+    },
+    {
+      "name": "Planinarska kuća Lapjak",
+      "latitude": 45.468016,
+      "longitude": 17.658662
+    },
+    {
+      "name": "Planinarska kuća Ledinec",
+      "latitude": 46.238124,
+      "longitude": 16.271885
+    },
+    {
+      "name": "Planinarska kuća Majer",
+      "latitude": 46.164906,
+      "longitude": 16.088356
+    },
+    {
+      "name": "Planinarska kuća Mlaka",
+      "latitude": 45.449567,
+      "longitude": 17.854376
+    },
+    {
+      "name": "Planinarska kuća na Strahinjščici",
+      "latitude": 46.185567,
+      "longitude": 15.89332
+    },
+    {
+      "name": "Planinarska kuća Pljuskara",
+      "latitude": 45.233749,
+      "longitude": 17.949331
+    },
+    {
+      "name": "Planinarska kuća pod Koludrom",
+      "latitude": 43.567983,
+      "longitude": 16.392678
+    },
+    {
+      "name": "Planinarska kuća Pusti Duh",
+      "latitude": 46.274886,
+      "longitude": 15.980393
+    },
+    {
+      "name": "Planinarska kuća Rudi Jurić",
+      "latitude": 46.170626,
+      "longitude": 16.727808
+    },
+    {
+      "name": "Planinarska kuća Skitača",
+      "latitude": 44.983412,
+      "longitude": 14.145558
+    },
+    {
+      "name": "Planinarska kuća Slobodan Ravlić na Lokvi",
+      "latitude": 43.338222,
+      "longitude": 17.033645
+    },
+    {
+      "name": "Planinarska kuća Strmac",
+      "latitude": 45.348477,
+      "longitude": 17.380623
+    },
+    {
+      "name": "Planinarska kuća Sv. Jure",
+      "latitude": 43.339325,
+      "longitude": 17.053785
+    },
+    {
+      "name": "Planinarska kuća Sveti Gaudent",
+      "latitude": 44.695158,
+      "longitude": 14.347912
+    },
+    {
+      "name": "Planinarska kuća Sveti Jakov",
+      "latitude": 43.859286,
+      "longitude": 16.639385
+    },
+    {
+      "name": "Planinarska kuća Trišnjica",
+      "latitude": 45.494512,
+      "longitude": 17.709427
+    },
+    {
+      "name": "Planinarska kuća Vagon",
+      "latitude": 46.242904,
+      "longitude": 16.278889
+    },
+    {
+      "name": "Planinarska kuća Vila Velebita",
+      "latitude": 44.525141,
+      "longitude": 15.178094
+    },
+    {
+      "name": "Planinarska kuća Viljevo",
+      "latitude": 45.197643,
+      "longitude": 17.733133
+    },
+    {
+      "name": "Planinarska kuća Zvonimir Plevnik",
+      "latitude": 45.505444,
+      "longitude": 15.499651
+    },
+    {
+      "name": "Planinarska kuča Lazica",
+      "latitude": 45.473716,
+      "longitude": 14.969752
+    },
+    {
+      "name": "Planinarska kuča Orlovac",
+      "latitude": 43.702576,
+      "longitude": 16.804832
+    },
+    {
+      "name": "Planinarski dom \"Dr. Maks Plotnikov\"",
+      "latitude": 45.749029,
+      "longitude": 15.70338
+    },
+    {
+      "name": "Planinarski dom \"Lipa Rog\"",
+      "latitude": 45.929565,
+      "longitude": 16.067418
+    },
+    {
+      "name": "Planinarski dom \"Sušak\"",
+      "latitude": 45.423862,
+      "longitude": 14.567342
+    },
+    {
+      "name": "Planinarski dom 'Toni Roso' Vošac",
+      "latitude": 43.310686,
+      "longitude": 17.046241
+    },
+    {
+      "name": "Planinarski dom Hahlić",
+      "latitude": 45.441626,
+      "longitude": 14.480099
+    },
+    {
+      "name": "Planinarski dom Ivica Sudnik",
+      "latitude": 45.771386,
+      "longitude": 15.650191
+    },
+    {
+      "name": "Planinarski dom Jankovac",
+      "latitude": 45.522142,
+      "longitude": 17.684602
+    },
+    {
+      "name": "Planinarski dom Josip Pasarić",
+      "latitude": 46.182116,
+      "longitude": 16.12644
+    },
+    {
+      "name": "Planinarski dom Kalnik",
+      "latitude": 46.132278,
+      "longitude": 16.46273
+    },
+    {
+      "name": "Planinarski dom Kamenitovac",
+      "latitude": 45.910185,
+      "longitude": 16.94158
+    },
+    {
+      "name": "Planinarski dom Klek",
+      "latitude": 45.257227,
+      "longitude": 15.144305
+    },
+    {
+      "name": "Planinarski dom Ledinec",
+      "latitude": 46.238158,
+      "longitude": 16.271888
+    },
+    {
+      "name": "Planinarski dom Malačka",
+      "latitude": 43.581016,
+      "longitude": 16.32543
+    },
+    {
+      "name": "Planinarski dom Matija Filjak",
+      "latitude": 45.396112,
+      "longitude": 16.270798
+    },
+    {
+      "name": "Planinarski dom Orlove stine",
+      "latitude": 43.769779,
+      "longitude": 16.524169
+    },
+    {
+      "name": "Planinarski dom Paklenica",
+      "latitude": 44.345797,
+      "longitude": 15.482636
+    },
+    {
+      "name": "Planinarski dom Petrov vrh",
+      "latitude": 45.588612,
+      "longitude": 17.312847
+    },
+    {
+      "name": "Planinarski dom pod Vošcem",
+      "latitude": 43.312404,
+      "longitude": 17.051984
+    },
+    {
+      "name": "Planinarski dom Poklon",
+      "latitude": 45.308456,
+      "longitude": 14.215711
+    },
+    {
+      "name": "Planinarski dom Promina",
+      "latitude": 43.908802,
+      "longitude": 16.171625
+    },
+    {
+      "name": "Planinarski dom Putalj",
+      "latitude": 43.567616,
+      "longitude": 16.424142
+    },
+    {
+      "name": "Planinarski dom Radoboj",
+      "latitude": 46.172929,
+      "longitude": 15.917951
+    },
+    {
+      "name": "Planinarski dom Ravni dabar",
+      "latitude": 44.56329,
+      "longitude": 15.124602
+    },
+    {
+      "name": "Planinarski dom Sveti Ilija",
+      "latitude": 42.995293,
+      "longitude": 17.151606
+    },
+    {
+      "name": "Planinarski dom Umberto Girometta",
+      "latitude": 43.522203,
+      "longitude": 16.619528
+    },
+    {
+      "name": "Planinarski dom Vugrovec",
+      "latitude": 45.892495,
+      "longitude": 16.100256
+    },
+    {
+      "name": "Planinarski dom Đuro Pilar",
+      "latitude": 45.189278,
+      "longitude": 18.003255
+    },
+    {
+      "name": "Planinarski dom Žbevnica",
+      "latitude": 45.455375,
+      "longitude": 14.012636
+    },
+    {
+      "name": "Planinarski dom Žitnica",
+      "latitude": 45.741176,
+      "longitude": 15.60356
+    },
+    {
+      "name": "Planinarsko sklonište Pakline",
+      "latitude": 43.37656,
+      "longitude": 16.947955
+    },
+    {
+      "name": "Planinaska kuća Bukovac",
+      "latitude": 43.382396,
+      "longitude": 16.952169
+    },
+    {
+      "name": "Planiniarski dom Pleterac",
+      "latitude": 45.682308,
+      "longitude": 16.671803
+    },
+    {
+      "name": "Planinska kuća Pod javorom",
+      "latitude": 43.298077,
+      "longitude": 17.071874
+    },
+    {
+      "name": "Planinska kuća Tivanovo",
+      "latitude": 45.49211,
+      "longitude": 17.938042
+    },
+    {
+      "name": "Planinski dom Lisina",
+      "latitude": 45.387674,
+      "longitude": 14.247111
+    },
+    {
+      "name": "Poljana",
+      "latitude": 44.844136,
+      "longitude": 15.1212
+    },
+    {
+      "name": "Runolist",
+      "latitude": 45.897238,
+      "longitude": 15.961456
+    },
+    {
+      "name": "Schlosserov dom",
+      "latitude": 45.42944,
+      "longitude": 14.62193
+    },
+    {
+      "name": "Scout",
+      "latitude": 45.79278,
+      "longitude": 15.55134
+    },
+    {
+      "name": "Studenka",
+      "latitude": 43.265887,
+      "longitude": 17.260543
+    },
+    {
+      "name": "Sveti Bernard",
+      "latitude": 45.774449,
+      "longitude": 15.594415
+    },
+    {
+      "name": "Vagabundina koliba",
+      "latitude": 45.221886,
+      "longitude": 14.80502
+    },
+    {
+      "name": "Veliki dom \"Platak\"",
+      "latitude": 45.429513,
+      "longitude": 14.564696
+    },
+    {
+      "name": "Veliki lom",
+      "latitude": 44.779069,
+      "longitude": 15.014447
+    },
+    {
+      "name": "Vepar",
+      "latitude": 45.217095,
+      "longitude": 14.801384
+    },
+    {
+      "name": "Vodice",
+      "latitude": 45.764792,
+      "longitude": 15.380058
+    },
+    {
+      "name": "Šoićeva kuća",
+      "latitude": 45.760771,
+      "longitude": 15.627069
+    },
+    {
+      "name": "Željezničar",
+      "latitude": 45.763199,
+      "longitude": 15.648784
+    },
+    {
+      "name": "Žlabina-Umac",
+      "latitude": 43.687132,
+      "longitude": 16.894385
+    },
+    {
+      "name": "Планинарски дом „Др Радивој Симоновић”",
+      "latitude": 45.744,
+      "longitude": 18.981635
+    }
+  ],
+  "meta": {
+    "title": "Planinarski domovi - Besplatno preuzimanje",
+    "description": "Planinarski domovi u Hrvatskoj (122 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=alpine_hut), izrez EU-POIS/HR. Sadrži 122 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Planinarski domovi | ListBase",
+    "seo_description": "Preuzmi Planinarski domovi — 122 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 122 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

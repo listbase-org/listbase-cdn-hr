@@ -1,0 +1,771 @@
+{
+  "id": "hr-zagrebacka-restorani",
+  "name": "Restorani — Zagrebačka županija",
+  "title": "Restorani — Zagrebačka županija",
+  "description": "146 restorani u županiji Zagrebačka županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 146,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ali kebaba",
+      "latitude": 45.713768,
+      "longitude": 16.073071
+    },
+    {
+      "name": "Batak Grill",
+      "latitude": 45.870688,
+      "longitude": 15.82624
+    },
+    {
+      "name": "Batak grill",
+      "latitude": 45.873909,
+      "longitude": 15.805346
+    },
+    {
+      "name": "Bistro Club 44 Restaurant",
+      "latitude": 45.670971,
+      "longitude": 15.65053
+    },
+    {
+      "name": "Bistro Dobar tek",
+      "latitude": 45.912667,
+      "longitude": 16.507946
+    },
+    {
+      "name": "Bistro Kaktus",
+      "latitude": 45.716386,
+      "longitude": 16.065017
+    },
+    {
+      "name": "Bistro Kantun",
+      "latitude": 45.801004,
+      "longitude": 15.707018
+    },
+    {
+      "name": "Bistro Lav",
+      "latitude": 45.780403,
+      "longitude": 16.175085
+    },
+    {
+      "name": "Bistro Nino",
+      "latitude": 45.798574,
+      "longitude": 15.731548
+    },
+    {
+      "name": "Bistro Puh",
+      "latitude": 45.749932,
+      "longitude": 15.806816
+    },
+    {
+      "name": "Bistro Stari Grad",
+      "latitude": 45.810557,
+      "longitude": 15.710881
+    },
+    {
+      "name": "Bistro Sv. Brcko",
+      "latitude": 45.826967,
+      "longitude": 16.307765
+    },
+    {
+      "name": "Bistro Ziher",
+      "latitude": 45.715675,
+      "longitude": 16.06522
+    },
+    {
+      "name": "Buffet Dva hrasta",
+      "latitude": 45.911095,
+      "longitude": 15.807826
+    },
+    {
+      "name": "buffet Piccolo",
+      "latitude": 45.916502,
+      "longitude": 15.776866
+    },
+    {
+      "name": "Buffet Vuka",
+      "latitude": 45.6688,
+      "longitude": 16.101515
+    },
+    {
+      "name": "Caffe Bar & Restaurant Piano",
+      "latitude": 45.804288,
+      "longitude": 15.77459
+    },
+    {
+      "name": "Caffe Bar Colombo",
+      "latitude": 45.612214,
+      "longitude": 15.593899
+    },
+    {
+      "name": "Dalmacija",
+      "latitude": 45.800704,
+      "longitude": 15.723703
+    },
+    {
+      "name": "Dante",
+      "latitude": 45.788781,
+      "longitude": 15.818602
+    },
+    {
+      "name": "Dinamo",
+      "latitude": 45.881677,
+      "longitude": 16.405651
+    },
+    {
+      "name": "Dioniz",
+      "latitude": 45.805469,
+      "longitude": 16.237235
+    },
+    {
+      "name": "Divlje Vode",
+      "latitude": 45.836853,
+      "longitude": 15.606391
+    },
+    {
+      "name": "Domagoj",
+      "latitude": 45.941609,
+      "longitude": 15.845444
+    },
+    {
+      "name": "Domaćica",
+      "latitude": 45.600781,
+      "longitude": 15.811583
+    },
+    {
+      "name": "Dva potoka",
+      "latitude": 45.970566,
+      "longitude": 15.779904
+    },
+    {
+      "name": "Eden grill",
+      "latitude": 45.909168,
+      "longitude": 15.807869
+    },
+    {
+      "name": "Foodie",
+      "latitude": 45.870739,
+      "longitude": 15.826269
+    },
+    {
+      "name": "Fork restoran & bar",
+      "latitude": 45.730719,
+      "longitude": 16.064182
+    },
+    {
+      "name": "Fort Apache steak house",
+      "latitude": 45.806871,
+      "longitude": 15.786272
+    },
+    {
+      "name": "Franteo",
+      "latitude": 45.830863,
+      "longitude": 16.22531
+    },
+    {
+      "name": "G.O.A.T. Pub",
+      "latitude": 45.691714,
+      "longitude": 15.737189
+    },
+    {
+      "name": "Gablerica",
+      "latitude": 45.720157,
+      "longitude": 16.073747
+    },
+    {
+      "name": "Gabreku 1929.",
+      "latitude": 45.800792,
+      "longitude": 15.69986
+    },
+    {
+      "name": "Garfield",
+      "latitude": 45.71771,
+      "longitude": 16.403597
+    },
+    {
+      "name": "Gorička klet",
+      "latitude": 45.709659,
+      "longitude": 16.081689
+    },
+    {
+      "name": "Gostiona Gabrovica",
+      "latitude": 45.838292,
+      "longitude": 15.611156
+    },
+    {
+      "name": "Gostiona Radić-Ilas",
+      "latitude": 45.750291,
+      "longitude": 15.381795
+    },
+    {
+      "name": "Gostionica Grgos špilja",
+      "latitude": 45.819356,
+      "longitude": 15.678211
+    },
+    {
+      "name": "Grill Adriatica",
+      "latitude": 45.810925,
+      "longitude": 15.708085
+    },
+    {
+      "name": "Hop Inn Pub",
+      "latitude": 45.870134,
+      "longitude": 15.753117
+    },
+    {
+      "name": "Izletište \"Eko selo Žumberak\"",
+      "latitude": 45.801744,
+      "longitude": 15.546345
+    },
+    {
+      "name": "Izletište Dumić",
+      "latitude": 45.784805,
+      "longitude": 15.642737
+    },
+    {
+      "name": "Izletište Gogo",
+      "latitude": 45.792264,
+      "longitude": 15.636809
+    },
+    {
+      "name": "Izletište restoran Milečki",
+      "latitude": 45.766168,
+      "longitude": 15.734943
+    },
+    {
+      "name": "Izletište Suhina",
+      "latitude": 45.81245,
+      "longitude": 15.830952
+    },
+    {
+      "name": "Jadran",
+      "latitude": 45.711135,
+      "longitude": 16.056452
+    },
+    {
+      "name": "Jamnici",
+      "latitude": 45.586115,
+      "longitude": 15.859947
+    },
+    {
+      "name": "Jana Wine House",
+      "latitude": 45.719705,
+      "longitude": 15.614159
+    },
+    {
+      "name": "Jo-lame",
+      "latitude": 45.56697,
+      "longitude": 15.864056
+    },
+    {
+      "name": "K Lojzeku - Restaurant and wine cellar",
+      "latitude": 45.673604,
+      "longitude": 15.652397
+    },
+    {
+      "name": "Kezele",
+      "latitude": 45.722425,
+      "longitude": 16.505826
+    },
+    {
+      "name": "Klet Bunčić",
+      "latitude": 45.818652,
+      "longitude": 16.239353
+    },
+    {
+      "name": "Klet Poljanica",
+      "latitude": 45.736933,
+      "longitude": 15.65525
+    },
+    {
+      "name": "Ključić Brdo",
+      "latitude": 45.620283,
+      "longitude": 16.035149
+    },
+    {
+      "name": "Ključić brdo",
+      "latitude": 45.631406,
+      "longitude": 16.042284
+    },
+    {
+      "name": "Konoba Barba",
+      "latitude": 45.80533,
+      "longitude": 16.240615
+    },
+    {
+      "name": "krčma \"K Lovcu\"",
+      "latitude": 45.628827,
+      "longitude": 15.820146
+    },
+    {
+      "name": "Krčma \"Kod Marka\"",
+      "latitude": 45.810794,
+      "longitude": 15.824988
+    },
+    {
+      "name": "Krčma Baraž",
+      "latitude": 45.792877,
+      "longitude": 15.730231
+    },
+    {
+      "name": "Kršlinov Mlin",
+      "latitude": 45.833809,
+      "longitude": 15.620495
+    },
+    {
+      "name": "Kuća Pizze",
+      "latitude": 45.801339,
+      "longitude": 15.711542
+    },
+    {
+      "name": "Ladanjski Raj",
+      "latitude": 45.912904,
+      "longitude": 15.732107
+    },
+    {
+      "name": "Legenda",
+      "latitude": 45.676922,
+      "longitude": 15.756869
+    },
+    {
+      "name": "Ljubekov Gaj",
+      "latitude": 45.927176,
+      "longitude": 16.238829
+    },
+    {
+      "name": "Lockdown",
+      "latitude": 45.802223,
+      "longitude": 15.707703
+    },
+    {
+      "name": "Lovačka kuća Preseka",
+      "latitude": 45.980637,
+      "longitude": 16.387123
+    },
+    {
+      "name": "lovački dom Zaprešić",
+      "latitude": 45.875233,
+      "longitude": 15.799523
+    },
+    {
+      "name": "mali raj",
+      "latitude": 45.746279,
+      "longitude": 16.432583
+    },
+    {
+      "name": "Milenij",
+      "latitude": 45.99155,
+      "longitude": 16.275496
+    },
+    {
+      "name": "MirMi",
+      "latitude": 45.731611,
+      "longitude": 16.028021
+    },
+    {
+      "name": "Mlin iz bajke",
+      "latitude": 45.825401,
+      "longitude": 15.690629
+    },
+    {
+      "name": "Mon Ami",
+      "latitude": 45.711421,
+      "longitude": 16.079984
+    },
+    {
+      "name": "Nota",
+      "latitude": 45.805996,
+      "longitude": 16.231752
+    },
+    {
+      "name": "Obrt za ugostiteljstvo Marica",
+      "latitude": 45.850352,
+      "longitude": 15.834138
+    },
+    {
+      "name": "Odranski Ribič",
+      "latitude": 45.672693,
+      "longitude": 16.174508
+    },
+    {
+      "name": "Old Barn Steak House",
+      "latitude": 45.814726,
+      "longitude": 15.704932
+    },
+    {
+      "name": "OOPG Mlađan",
+      "latitude": 45.851813,
+      "longitude": 16.526503
+    },
+    {
+      "name": "Paradiso",
+      "latitude": 45.809359,
+      "longitude": 16.212147
+    },
+    {
+      "name": "Phoenix",
+      "latitude": 45.688633,
+      "longitude": 16.112285
+    },
+    {
+      "name": "Piroš čarda",
+      "latitude": 45.804792,
+      "longitude": 15.799032
+    },
+    {
+      "name": "Piterija Oklagija",
+      "latitude": 45.801993,
+      "longitude": 15.710549
+    },
+    {
+      "name": "Pivnica Jastrebarsko",
+      "latitude": 45.674444,
+      "longitude": 15.652897
+    },
+    {
+      "name": "Pizzeria & slastičarnica Limač",
+      "latitude": 45.883482,
+      "longitude": 16.417266
+    },
+    {
+      "name": "Pizzeria Amigo",
+      "latitude": 45.883386,
+      "longitude": 16.416598
+    },
+    {
+      "name": "pizzeria Barny",
+      "latitude": 45.804761,
+      "longitude": 16.244105
+    },
+    {
+      "name": "Pizzeria Bimbo",
+      "latitude": 45.862604,
+      "longitude": 15.791201
+    },
+    {
+      "name": "Pizzeria Erdody",
+      "latitude": 45.666576,
+      "longitude": 15.647673
+    },
+    {
+      "name": "Pizzeria Jezero",
+      "latitude": 45.801813,
+      "longitude": 15.828033
+    },
+    {
+      "name": "Pizzeria Monnet",
+      "latitude": 45.806274,
+      "longitude": 15.714532
+    },
+    {
+      "name": "Pizzeria Monument",
+      "latitude": 45.710578,
+      "longitude": 16.059347
+    },
+    {
+      "name": "Pizzeria Napoli",
+      "latitude": 45.804987,
+      "longitude": 15.719766
+    },
+    {
+      "name": "Pizzeria No1",
+      "latitude": 45.862233,
+      "longitude": 15.803011
+    },
+    {
+      "name": "Pizzeria Plima",
+      "latitude": 45.910436,
+      "longitude": 15.885189
+    },
+    {
+      "name": "pizzeria Rošo",
+      "latitude": 45.701082,
+      "longitude": 16.394434
+    },
+    {
+      "name": "Pizzeria Šalata",
+      "latitude": 45.86181,
+      "longitude": 15.794378
+    },
+    {
+      "name": "Pizzeria Špiro 2",
+      "latitude": 45.878693,
+      "longitude": 15.732112
+    },
+    {
+      "name": "Planinarski dom",
+      "latitude": 45.990046,
+      "longitude": 16.187259
+    },
+    {
+      "name": "Posavska hiža",
+      "latitude": 45.760919,
+      "longitude": 16.232306
+    },
+    {
+      "name": "Pri staroj vuri",
+      "latitude": 45.799886,
+      "longitude": 15.711792
+    },
+    {
+      "name": "Ranch Cowboy",
+      "latitude": 45.657031,
+      "longitude": 15.96484
+    },
+    {
+      "name": "Regata",
+      "latitude": 45.705893,
+      "longitude": 16.147077
+    },
+    {
+      "name": "Restaurant Karlo",
+      "latitude": 45.717231,
+      "longitude": 15.661396
+    },
+    {
+      "name": "Restaurant Klet Poljanice",
+      "latitude": 45.736917,
+      "longitude": 15.65524
+    },
+    {
+      "name": "Restaurant Kuna",
+      "latitude": 45.687556,
+      "longitude": 15.710196
+    },
+    {
+      "name": "Restoran Breza",
+      "latitude": 45.800206,
+      "longitude": 15.778032
+    },
+    {
+      "name": "Restoran Brezinka",
+      "latitude": 45.873391,
+      "longitude": 15.848227
+    },
+    {
+      "name": "Restoran Galerija",
+      "latitude": 45.883255,
+      "longitude": 16.417493
+    },
+    {
+      "name": "Restoran Ivančić",
+      "latitude": 45.726349,
+      "longitude": 15.652758
+    },
+    {
+      "name": "Restoran Jezera",
+      "latitude": 45.86837,
+      "longitude": 15.84548
+    },
+    {
+      "name": "Restoran Lavica",
+      "latitude": 45.800884,
+      "longitude": 15.708508
+    },
+    {
+      "name": "Restoran Ćurak",
+      "latitude": 45.745957,
+      "longitude": 16.2337
+    },
+    {
+      "name": "Ribarska koliba Bunčić",
+      "latitude": 45.785024,
+      "longitude": 16.236416
+    },
+    {
+      "name": "Ribnjaci Jasevnica",
+      "latitude": 45.697319,
+      "longitude": 15.4716
+    },
+    {
+      "name": "Samoborska klet",
+      "latitude": 45.802288,
+      "longitude": 15.710103
+    },
+    {
+      "name": "Samoborska Oštarija",
+      "latitude": 45.806575,
+      "longitude": 15.718744
+    },
+    {
+      "name": "Samoborska pivnica",
+      "latitude": 45.802554,
+      "longitude": 15.708551
+    },
+    {
+      "name": "San Antonio",
+      "latitude": 45.809178,
+      "longitude": 15.818812
+    },
+    {
+      "name": "San Martin",
+      "latitude": 45.805493,
+      "longitude": 16.232733
+    },
+    {
+      "name": "seoski turizam Stara Preša",
+      "latitude": 45.893864,
+      "longitude": 15.699006
+    },
+    {
+      "name": "Seosko domaćinstvo Matezović",
+      "latitude": 45.837986,
+      "longitude": 16.305277
+    },
+    {
+      "name": "Seosko domaćinstvo Oslaković",
+      "latitude": 45.742268,
+      "longitude": 15.65233
+    },
+    {
+      "name": "Sevdah",
+      "latitude": 45.81128,
+      "longitude": 15.827183
+    },
+    {
+      "name": "Skeja",
+      "latitude": 45.755485,
+      "longitude": 15.808298
+    },
+    {
+      "name": "Stari mlin",
+      "latitude": 45.744979,
+      "longitude": 16.436031
+    },
+    {
+      "name": "Stari podrum",
+      "latitude": 45.70684,
+      "longitude": 16.049829
+    },
+    {
+      "name": "Street Food Samobor",
+      "latitude": 45.801371,
+      "longitude": 15.71211
+    },
+    {
+      "name": "Sveti Nikola",
+      "latitude": 45.812071,
+      "longitude": 16.270263
+    },
+    {
+      "name": "Tik Tak",
+      "latitude": 45.89654,
+      "longitude": 16.201653
+    },
+    {
+      "name": "Tik Tok",
+      "latitude": 45.708453,
+      "longitude": 16.064183
+    },
+    {
+      "name": "Trajbar",
+      "latitude": 45.879964,
+      "longitude": 15.796956
+    },
+    {
+      "name": "Tur",
+      "latitude": 45.715257,
+      "longitude": 16.073277
+    },
+    {
+      "name": "Vilibald",
+      "latitude": 45.72072,
+      "longitude": 15.781388
+    },
+    {
+      "name": "Vilinske jame",
+      "latitude": 45.820873,
+      "longitude": 15.64382
+    },
+    {
+      "name": "Vinarija Sesan",
+      "latitude": 45.857594,
+      "longitude": 16.282588
+    },
+    {
+      "name": "Vugrinščak",
+      "latitude": 45.800059,
+      "longitude": 15.699761
+    },
+    {
+      "name": "XXL pancake",
+      "latitude": 45.870793,
+      "longitude": 15.795665
+    },
+    {
+      "name": "Za Vašu Dušu",
+      "latitude": 45.678452,
+      "longitude": 16.061616
+    },
+    {
+      "name": "Zlatno srce - sala za svadbe",
+      "latitude": 45.884113,
+      "longitude": 15.857894
+    },
+    {
+      "name": "Zrinski",
+      "latitude": 45.75169,
+      "longitude": 16.109632
+    },
+    {
+      "name": "Š.R.D. Šaran Zaprešić",
+      "latitude": 45.847132,
+      "longitude": 15.803639
+    },
+    {
+      "name": "Špica",
+      "latitude": 45.913991,
+      "longitude": 16.572346
+    },
+    {
+      "name": "Špiček",
+      "latitude": 45.85272,
+      "longitude": 15.807934
+    },
+    {
+      "name": "Šumski dvor",
+      "latitude": 45.723798,
+      "longitude": 15.596535
+    },
+    {
+      "name": "Šumski dvori",
+      "latitude": 45.986869,
+      "longitude": 16.276371
+    },
+    {
+      "name": "Žumberački Raj",
+      "latitude": 45.719529,
+      "longitude": 15.454159
+    }
+  ],
+  "meta": {
+    "title": "Restorani — Zagrebačka županija - Besplatno preuzimanje",
+    "description": "146 restorani u županiji Zagrebačka županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 146 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Restorani — Zagrebačka županija | ListBase",
+    "seo_description": "Preuzmi Restorani — Zagrebačka županija — 146 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 146 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

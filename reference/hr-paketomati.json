@@ -1,0 +1,661 @@
+{
+  "id": "hr-paketomati",
+  "name": "Paketomati",
+  "title": "Paketomati",
+  "description": "Paketomati u Hrvatskoj (124 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=parcel_locker), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 124,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Box Now",
+      "latitude": 43.519081,
+      "longitude": 16.446682
+    },
+    {
+      "name": "Box Now",
+      "latitude": 43.520204,
+      "longitude": 16.445976
+    },
+    {
+      "name": "BOX NOW",
+      "latitude": 45.566107,
+      "longitude": 18.704042
+    },
+    {
+      "name": "Box Now",
+      "latitude": 45.704954,
+      "longitude": 16.065258
+    },
+    {
+      "name": "BOX NOW",
+      "latitude": 45.801325,
+      "longitude": 16.050178
+    },
+    {
+      "name": "BOX NOW",
+      "latitude": 45.831394,
+      "longitude": 16.056574
+    },
+    {
+      "name": "Box Now - Trgovina Novska",
+      "latitude": 45.338131,
+      "longitude": 16.976022
+    },
+    {
+      "name": "Box Now paketomat",
+      "latitude": 45.406496,
+      "longitude": 13.962569
+    },
+    {
+      "name": "Box Now paketomat",
+      "latitude": 45.410268,
+      "longitude": 13.966545
+    },
+    {
+      "name": "DHL",
+      "latitude": 45.806224,
+      "longitude": 15.990969
+    },
+    {
+      "name": "DPD",
+      "latitude": 45.797984,
+      "longitude": 15.992602
+    },
+    {
+      "name": "DPD L256 P",
+      "latitude": 45.557246,
+      "longitude": 18.675859
+    },
+    {
+      "name": "GLS",
+      "latitude": 43.180338,
+      "longitude": 16.577027
+    },
+    {
+      "name": "GLS",
+      "latitude": 43.516554,
+      "longitude": 16.446137
+    },
+    {
+      "name": "GLS",
+      "latitude": 45.796091,
+      "longitude": 15.996903
+    },
+    {
+      "name": "GLS",
+      "latitude": 45.817529,
+      "longitude": 16.008186
+    },
+    {
+      "name": "GLS",
+      "latitude": 45.831393,
+      "longitude": 16.056634
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 43.505657,
+      "longitude": 16.457114
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 43.506191,
+      "longitude": 16.466455
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 43.50629,
+      "longitude": 16.430993
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 43.509359,
+      "longitude": 16.480092
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 43.520165,
+      "longitude": 16.445923
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 44.294191,
+      "longitude": 15.440221
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.360089,
+      "longitude": 14.488433
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.474176,
+      "longitude": 16.364842
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.704986,
+      "longitude": 16.065234
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.775056,
+      "longitude": 15.965554
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.780805,
+      "longitude": 15.954996
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.792991,
+      "longitude": 15.920675
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.795808,
+      "longitude": 15.980656
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.798366,
+      "longitude": 15.947377
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.812209,
+      "longitude": 15.919937
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.812829,
+      "longitude": 15.944589
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.813438,
+      "longitude": 16.013639
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.893642,
+      "longitude": 16.838597
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 45.894931,
+      "longitude": 16.8415
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 46.376126,
+      "longitude": 16.38816
+    },
+    {
+      "name": "GLS Paketomat",
+      "latitude": 46.524252,
+      "longitude": 16.366537
+    },
+    {
+      "name": "GLS Paketomat - Ulica kralja Tomislava 51",
+      "latitude": 45.336393,
+      "longitude": 16.974711
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.772129,
+      "longitude": 15.967935
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.774352,
+      "longitude": 15.953892
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.783336,
+      "longitude": 15.960216
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.789372,
+      "longitude": 16.005677
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.791303,
+      "longitude": 15.996185
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.792568,
+      "longitude": 15.915542
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.794024,
+      "longitude": 15.919931
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.797415,
+      "longitude": 15.761065
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.797988,
+      "longitude": 15.974468
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.798958,
+      "longitude": 15.956888
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.799914,
+      "longitude": 16.01952
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.803923,
+      "longitude": 15.858999
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.805222,
+      "longitude": 15.928663
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.809583,
+      "longitude": 15.927242
+    },
+    {
+      "name": "GLS Parcel Locker",
+      "latitude": 45.809904,
+      "longitude": 15.91774
+    },
+    {
+      "name": "IKEA - Ormarići za preuzimanje 24/7 Zagreb",
+      "latitude": 45.793698,
+      "longitude": 16.156428
+    },
+    {
+      "name": "Osijek - Mr. Kebap",
+      "latitude": 45.557264,
+      "longitude": 18.675863
+    },
+    {
+      "name": "Paket 24",
+      "latitude": 43.483497,
+      "longitude": 16.554604
+    },
+    {
+      "name": "Paket24",
+      "latitude": 42.648941,
+      "longitude": 18.095138
+    },
+    {
+      "name": "Paket24",
+      "latitude": 43.442854,
+      "longitude": 16.68365
+    },
+    {
+      "name": "Paket24",
+      "latitude": 43.510749,
+      "longitude": 16.488122
+    },
+    {
+      "name": "Paket24",
+      "latitude": 43.512175,
+      "longitude": 16.45731
+    },
+    {
+      "name": "Paket24",
+      "latitude": 43.513028,
+      "longitude": 16.450862
+    },
+    {
+      "name": "Paket24",
+      "latitude": 43.513338,
+      "longitude": 16.502975
+    },
+    {
+      "name": "Paket24",
+      "latitude": 43.516628,
+      "longitude": 16.499997
+    },
+    {
+      "name": "Paket24",
+      "latitude": 43.521684,
+      "longitude": 16.263587
+    },
+    {
+      "name": "Paket24",
+      "latitude": 43.521777,
+      "longitude": 16.436873
+    },
+    {
+      "name": "Paket24",
+      "latitude": 43.708476,
+      "longitude": 15.909411
+    },
+    {
+      "name": "paket24",
+      "latitude": 43.755229,
+      "longitude": 15.87978
+    },
+    {
+      "name": "Paket24",
+      "latitude": 44.100656,
+      "longitude": 15.263224
+    },
+    {
+      "name": "Paket24",
+      "latitude": 44.111079,
+      "longitude": 15.237586
+    },
+    {
+      "name": "Paket24",
+      "latitude": 44.115235,
+      "longitude": 15.272042
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.172505,
+      "longitude": 14.69142
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.310308,
+      "longitude": 14.484968
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.316706,
+      "longitude": 14.473272
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.330455,
+      "longitude": 14.459672
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.330538,
+      "longitude": 14.460725
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.331321,
+      "longitude": 14.508649
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.335709,
+      "longitude": 14.506138
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.720771,
+      "longitude": 16.053626
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.738177,
+      "longitude": 16.015788
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.77116,
+      "longitude": 15.945605
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.771857,
+      "longitude": 15.994613
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.772072,
+      "longitude": 15.964427
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.774836,
+      "longitude": 15.955253
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.778389,
+      "longitude": 15.998415
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.785207,
+      "longitude": 15.947769
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.789527,
+      "longitude": 15.929929
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.792491,
+      "longitude": 15.961183
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.795312,
+      "longitude": 15.96709
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.795809,
+      "longitude": 15.980567
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.79584,
+      "longitude": 15.857123
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.796021,
+      "longitude": 15.990392
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.799598,
+      "longitude": 15.734673
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.79994,
+      "longitude": 16.019519
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.799967,
+      "longitude": 15.955585
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.800223,
+      "longitude": 15.919852
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.800461,
+      "longitude": 15.97362
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.800722,
+      "longitude": 15.983103
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.801359,
+      "longitude": 16.050179
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.801952,
+      "longitude": 16.013654
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.80264,
+      "longitude": 16.000854
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.802656,
+      "longitude": 15.976787
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.802951,
+      "longitude": 16.006973
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.803796,
+      "longitude": 15.959175
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.80475,
+      "longitude": 15.992676
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.804884,
+      "longitude": 15.980931
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.80528,
+      "longitude": 15.921329
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.805362,
+      "longitude": 15.995098
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.809691,
+      "longitude": 15.715133
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.810493,
+      "longitude": 15.908739
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.812265,
+      "longitude": 15.934321
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.812392,
+      "longitude": 15.972808
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.812869,
+      "longitude": 15.94457
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.813029,
+      "longitude": 15.995859
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.813039,
+      "longitude": 15.902075
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.814686,
+      "longitude": 16.008605
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.816577,
+      "longitude": 15.935039
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.830115,
+      "longitude": 16.05626
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.840153,
+      "longitude": 16.051157
+    },
+    {
+      "name": "Paket24",
+      "latitude": 45.861806,
+      "longitude": 15.985597
+    },
+    {
+      "name": "Paket24 Borongaj",
+      "latitude": 45.813125,
+      "longitude": 16.042098
+    },
+    {
+      "name": "Paketomat Voltino",
+      "latitude": 45.801085,
+      "longitude": 15.929436
+    },
+    {
+      "name": "Samobor - PBZ",
+      "latitude": 45.801663,
+      "longitude": 15.711742
+    },
+    {
+      "name": "Samobor - TIFON",
+      "latitude": 45.799267,
+      "longitude": 15.725702
+    }
+  ],
+  "meta": {
+    "title": "Paketomati - Besplatno preuzimanje",
+    "description": "Paketomati u Hrvatskoj (124 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=parcel_locker), izrez EU-POIS/HR. Sadrži 124 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Paketomati | ListBase",
+    "seo_description": "Preuzmi Paketomati — 124 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 124 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

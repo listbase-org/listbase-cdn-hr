@@ -1,0 +1,457 @@
+{
+  "id": "hr-mjerne-jedinice-volume",
+  "name": "Mjerne jedinice — kategorija 'volume' (44)",
+  "title": "Mjerne jedinice — kategorija 'volume' (44)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'volume' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "volume-acre-foot",
+      "kategorija": "volume",
+      "naziv": "aker-stope",
+      "kratica": "ac ft",
+      "naziv_uski": "ac ft",
+      "obrazac": "{0} aker-stopi"
+    },
+    {
+      "id": 2,
+      "unit_code": "volume-barrel",
+      "kategorija": "volume",
+      "naziv": "bareli",
+      "kratica": "bbl",
+      "naziv_uski": "bbl",
+      "obrazac": "{0} barela"
+    },
+    {
+      "id": 3,
+      "unit_code": "volume-bushel",
+      "kategorija": "volume",
+      "naziv": "bušeli",
+      "kratica": "bu",
+      "naziv_uski": "bu",
+      "obrazac": "{0} bušela"
+    },
+    {
+      "id": 4,
+      "unit_code": "volume-centiliter",
+      "kategorija": "volume",
+      "naziv": "centilitri",
+      "kratica": "cl",
+      "naziv_uski": "cl",
+      "obrazac": "{0} centilitara"
+    },
+    {
+      "id": 5,
+      "unit_code": "volume-cubic-centimeter",
+      "kategorija": "volume",
+      "naziv": "kubni centimetri",
+      "kratica": "cm³",
+      "naziv_uski": "cm³",
+      "obrazac": "{0} kubnih centimetara"
+    },
+    {
+      "id": 6,
+      "unit_code": "volume-cubic-foot",
+      "kategorija": "volume",
+      "naziv": "kubne stope",
+      "kratica": "ft³",
+      "naziv_uski": "ft³",
+      "obrazac": "{0} kubnih stopa"
+    },
+    {
+      "id": 7,
+      "unit_code": "volume-cubic-inch",
+      "kategorija": "volume",
+      "naziv": "kubni inči",
+      "kratica": "in³",
+      "naziv_uski": "in³",
+      "obrazac": "{0} kubnih inča"
+    },
+    {
+      "id": 8,
+      "unit_code": "volume-cubic-kilometer",
+      "kategorija": "volume",
+      "naziv": "kubni kilometri",
+      "kratica": "km³",
+      "naziv_uski": "km³",
+      "obrazac": "{0} kubnih kilometara"
+    },
+    {
+      "id": 9,
+      "unit_code": "volume-cubic-meter",
+      "kategorija": "volume",
+      "naziv": "kubni metri",
+      "kratica": "m³",
+      "naziv_uski": "m³",
+      "obrazac": "{0} kubnih metara"
+    },
+    {
+      "id": 10,
+      "unit_code": "volume-cubic-mile",
+      "kategorija": "volume",
+      "naziv": "kubne milje",
+      "kratica": "mi³",
+      "naziv_uski": "mi³",
+      "obrazac": "{0} kubnih milja"
+    },
+    {
+      "id": 11,
+      "unit_code": "volume-cubic-yard",
+      "kategorija": "volume",
+      "naziv": "kubni jardi",
+      "kratica": "yd³",
+      "naziv_uski": "yd³",
+      "obrazac": "{0} kubnih jardi"
+    },
+    {
+      "id": 12,
+      "unit_code": "volume-cup",
+      "kategorija": "volume",
+      "naziv": "šalice",
+      "kratica": "šalice",
+      "naziv_uski": "šalica",
+      "obrazac": "{0} šalica"
+    },
+    {
+      "id": 13,
+      "unit_code": "volume-cup-imperial",
+      "kategorija": "volume",
+      "naziv": "cup Imp.",
+      "kratica": "cup Imp.",
+      "naziv_uski": "cup Imp.",
+      "obrazac": "{0} cup Imp."
+    },
+    {
+      "id": 14,
+      "unit_code": "volume-cup-jp",
+      "kategorija": "volume",
+      "naziv": "cup [JP]",
+      "kratica": "cup [JP]",
+      "naziv_uski": "cup [JP]",
+      "obrazac": "{0} cup [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "volume-cup-metric",
+      "kategorija": "volume",
+      "naziv": "metričke šalice",
+      "kratica": "m. šalica",
+      "naziv_uski": "m. šalica",
+      "obrazac": "{0} metričkih šalica"
+    },
+    {
+      "id": 16,
+      "unit_code": "volume-deciliter",
+      "kategorija": "volume",
+      "naziv": "decilitri",
+      "kratica": "dl",
+      "naziv_uski": "dl",
+      "obrazac": "{0} decilitara"
+    },
+    {
+      "id": 17,
+      "unit_code": "volume-dessert-spoon",
+      "kategorija": "volume",
+      "naziv": "desertna žličica",
+      "kratica": "des. žličica",
+      "naziv_uski": "žličica",
+      "obrazac": "{0} desertnih žličica"
+    },
+    {
+      "id": 18,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategorija": "volume",
+      "naziv": "imperijalna desertna žličica",
+      "kratica": "imp. žličica",
+      "naziv_uski": "imp. žličica",
+      "obrazac": "{0} imperijalnih desertnih žličica"
+    },
+    {
+      "id": 19,
+      "unit_code": "volume-dram",
+      "kategorija": "volume",
+      "naziv": "dram tekućine",
+      "kratica": "fl dr",
+      "naziv_uski": "fl dr",
+      "obrazac": "{0} drama tekućine"
+    },
+    {
+      "id": 20,
+      "unit_code": "volume-drop",
+      "kategorija": "volume",
+      "naziv": "kap",
+      "kratica": "kap",
+      "naziv_uski": "kap",
+      "obrazac": "{0} kapi"
+    },
+    {
+      "id": 21,
+      "unit_code": "volume-fluid-ounce",
+      "kategorija": "volume",
+      "naziv": "tekuće unce",
+      "kratica": "fl oz",
+      "naziv_uski": "fl oz",
+      "obrazac": "{0} tekućih unci"
+    },
+    {
+      "id": 22,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategorija": "volume",
+      "naziv": "imp. tekuće unce",
+      "kratica": "imp. fl oz",
+      "naziv_uski": "imp. fl oz",
+      "obrazac": "{0} imp. tekućih unci"
+    },
+    {
+      "id": 23,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategorija": "volume",
+      "naziv": "tekuće unce",
+      "kratica": "fl oz m.",
+      "naziv_uski": "fl oz m.",
+      "obrazac": "{0} tekućih unci"
+    },
+    {
+      "id": 24,
+      "unit_code": "volume-gallon",
+      "kategorija": "volume",
+      "naziv": "galoni",
+      "kratica": "gal",
+      "naziv_uski": "gal",
+      "obrazac": "{0} galona"
+    },
+    {
+      "id": 25,
+      "unit_code": "volume-gallon-imperial",
+      "kategorija": "volume",
+      "naziv": "imp. galoni",
+      "kratica": "imp. gal.",
+      "naziv_uski": "imp. gal.",
+      "obrazac": "{0} imp. galona"
+    },
+    {
+      "id": 26,
+      "unit_code": "volume-hectoliter",
+      "kategorija": "volume",
+      "naziv": "hektolitri",
+      "kratica": "hl",
+      "naziv_uski": "hl",
+      "obrazac": "{0} hektolitara"
+    },
+    {
+      "id": 27,
+      "unit_code": "volume-jigger",
+      "kategorija": "volume",
+      "naziv": "jiggeri",
+      "kratica": "jigger",
+      "naziv_uski": "jigger",
+      "obrazac": "{0} jiggera"
+    },
+    {
+      "id": 28,
+      "unit_code": "volume-koku",
+      "kategorija": "volume",
+      "naziv": "koku [JP]",
+      "kratica": "koku [JP]",
+      "naziv_uski": "koku [JP]",
+      "obrazac": "{0} koku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "volume-kosaji",
+      "kategorija": "volume",
+      "naziv": "kosaji [JP]",
+      "kratica": "kosaji [JP]",
+      "naziv_uski": "kosaji [JP]",
+      "obrazac": "{0} kosaji [JP]"
+    },
+    {
+      "id": 30,
+      "unit_code": "volume-liter",
+      "kategorija": "volume",
+      "naziv": "litre",
+      "kratica": "l",
+      "naziv_uski": "l",
+      "obrazac": "{0} litara"
+    },
+    {
+      "id": 31,
+      "unit_code": "volume-megaliter",
+      "kategorija": "volume",
+      "naziv": "megalitri",
+      "kratica": "Ml",
+      "naziv_uski": "Ml",
+      "obrazac": "{0} megalitara"
+    },
+    {
+      "id": 32,
+      "unit_code": "volume-milliliter",
+      "kategorija": "volume",
+      "naziv": "mililitri",
+      "kratica": "ml",
+      "naziv_uski": "ml",
+      "obrazac": "{0} mililitara"
+    },
+    {
+      "id": 33,
+      "unit_code": "volume-osaji",
+      "kategorija": "volume",
+      "naziv": "osaji [JP]",
+      "kratica": "osaji [JP]",
+      "naziv_uski": "osaji [JP]",
+      "obrazac": "{0} osaji [JP]"
+    },
+    {
+      "id": 34,
+      "unit_code": "volume-pinch",
+      "kategorija": "volume",
+      "naziv": "prstohvat",
+      "kratica": "prstohvat",
+      "naziv_uski": "prstohvat",
+      "obrazac": "{0} prstohvata"
+    },
+    {
+      "id": 35,
+      "unit_code": "volume-pint",
+      "kategorija": "volume",
+      "naziv": "pinte",
+      "kratica": "pt",
+      "naziv_uski": "pt",
+      "obrazac": "{0} pinti"
+    },
+    {
+      "id": 36,
+      "unit_code": "volume-pint-imperial",
+      "kategorija": "volume",
+      "naziv": "pint Imp.",
+      "kratica": "pint Imp.",
+      "naziv_uski": "pint Imp.",
+      "obrazac": "{0} pt Imp."
+    },
+    {
+      "id": 37,
+      "unit_code": "volume-pint-metric",
+      "kategorija": "volume",
+      "naziv": "metričke pinte",
+      "kratica": "mpt",
+      "naziv_uski": "mpt",
+      "obrazac": "{0} metričkih pinti"
+    },
+    {
+      "id": 38,
+      "unit_code": "volume-quart",
+      "kategorija": "volume",
+      "naziv": "četvrtine",
+      "kratica": "qt",
+      "naziv_uski": "qt",
+      "obrazac": "{0} četvrtina"
+    },
+    {
+      "id": 39,
+      "unit_code": "volume-quart-imperial",
+      "kategorija": "volume",
+      "naziv": "imperijalna četvrtina",
+      "kratica": "qt Imp",
+      "naziv_uski": "qt Imp",
+      "obrazac": "{0} imperijalne četvrtine"
+    },
+    {
+      "id": 40,
+      "unit_code": "volume-sai",
+      "kategorija": "volume",
+      "naziv": "sai [JP]",
+      "kratica": "sai [JP]",
+      "naziv_uski": "sai [JP]",
+      "obrazac": "{0} sai [JP]"
+    },
+    {
+      "id": 41,
+      "unit_code": "volume-shaku",
+      "kategorija": "volume",
+      "naziv": "shaku [vol, JP]",
+      "kratica": "shaku [vol, JP]",
+      "naziv_uski": "shaku [vol, JP]",
+      "obrazac": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 42,
+      "unit_code": "volume-tablespoon",
+      "kategorija": "volume",
+      "naziv": "žlice",
+      "kratica": "tbsp",
+      "naziv_uski": "tbsp",
+      "obrazac": "{0} žlica"
+    },
+    {
+      "id": 43,
+      "unit_code": "volume-teaspoon",
+      "kategorija": "volume",
+      "naziv": "žličice",
+      "kratica": "tsp",
+      "naziv_uski": "tsp",
+      "obrazac": "{0} žličica"
+    },
+    {
+      "id": 44,
+      "unit_code": "volume-to-jp",
+      "kategorija": "volume",
+      "naziv": "to [JP]",
+      "kratica": "to [JP]",
+      "naziv_uski": "to [JP]",
+      "obrazac": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'volume' (44) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'volume' s hrvatskim nazivima. Sadrži 44 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'volume' (44) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'volume' (44) — 44 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 44 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

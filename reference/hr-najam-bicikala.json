@@ -1,0 +1,1736 @@
+{
+  "id": "hr-najam-bicikala",
+  "name": "Najam bicikala",
+  "title": "Najam bicikala",
+  "description": "Najam bicikala u Hrvatskoj (339 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=bicycle_rental), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 339,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ACF",
+      "latitude": 43.383641,
+      "longitude": 16.546661
+    },
+    {
+      "name": "Alpi",
+      "latitude": 45.333938,
+      "longitude": 14.305154
+    },
+    {
+      "name": "Autobusni kolodvor",
+      "latitude": 44.106846,
+      "longitude": 15.241315
+    },
+    {
+      "name": "Bajs Arena Zagreb",
+      "latitude": 45.771597,
+      "longitude": 15.944661
+    },
+    {
+      "name": "Bajs Autobusni kolodvor",
+      "latitude": 45.804231,
+      "longitude": 15.993973
+    },
+    {
+      "name": "Bajs Autobusni terminal Sesvete",
+      "latitude": 45.825343,
+      "longitude": 16.109713
+    },
+    {
+      "name": "Bajs Autobusno stajalište Dubec",
+      "latitude": 45.827824,
+      "longitude": 16.105806
+    },
+    {
+      "name": "Bajs Autobusno stajalište Prigornica",
+      "latitude": 45.815219,
+      "longitude": 15.848375
+    },
+    {
+      "name": "Bajs Avenija Većeslava Holjevca - Buzinski prilaz",
+      "latitude": 45.747947,
+      "longitude": 15.99318
+    },
+    {
+      "name": "Bajs Avenija Većeslava Holjevca - Ulica Miroslava Miholića",
+      "latitude": 45.76088,
+      "longitude": 15.982771
+    },
+    {
+      "name": "Bajs Avenue Mall",
+      "latitude": 45.777066,
+      "longitude": 15.979566
+    },
+    {
+      "name": "Bajs Barutanski Breg - Bukovačka cesta",
+      "latitude": 45.825111,
+      "longitude": 16.010811
+    },
+    {
+      "name": "Bajs Baseball club Zagreb",
+      "latitude": 45.779694,
+      "longitude": 15.908429
+    },
+    {
+      "name": "Bajs Bazen Utrina",
+      "latitude": 45.774019,
+      "longitude": 15.992497
+    },
+    {
+      "name": "Bajs Baštijanova ulica - Golikova ulica",
+      "latitude": 45.800427,
+      "longitude": 15.930444
+    },
+    {
+      "name": "Bajs Borongaj okretište",
+      "latitude": 45.814583,
+      "longitude": 16.017358
+    },
+    {
+      "name": "Bajs Borongajska cesta - Ulica Marijana Čavića",
+      "latitude": 45.805851,
+      "longitude": 16.036297
+    },
+    {
+      "name": "Bajs Branimirova ulica 13A",
+      "latitude": 45.814518,
+      "longitude": 16.024912
+    },
+    {
+      "name": "Bajs Braće Domany",
+      "latitude": 45.788404,
+      "longitude": 15.937114
+    },
+    {
+      "name": "Bajs Bundek",
+      "latitude": 45.785834,
+      "longitude": 15.985495
+    },
+    {
+      "name": "Bajs Buzin Supernova",
+      "latitude": 45.754412,
+      "longitude": 15.988976
+    },
+    {
+      "name": "Bajs Carinarnica Zagreb",
+      "latitude": 45.800511,
+      "longitude": 16.057086
+    },
+    {
+      "name": "Bajs Centar Bundek",
+      "latitude": 45.783465,
+      "longitude": 15.982083
+    },
+    {
+      "name": "Bajs Crkva svete Mati Slobode",
+      "latitude": 45.787411,
+      "longitude": 15.92908
+    },
+    {
+      "name": "Bajs Dom zdravlja Siget",
+      "latitude": 45.772626,
+      "longitude": 15.979963
+    },
+    {
+      "name": "Bajs Draškovićeva ulica",
+      "latitude": 45.813781,
+      "longitude": 15.983486
+    },
+    {
+      "name": "Bajs Draškovićeva ulica - Ulica kneza Mislava",
+      "latitude": 45.807998,
+      "longitude": 15.984126
+    },
+    {
+      "name": "Bajs Dubec okretište",
+      "latitude": 45.828,
+      "longitude": 16.077395
+    },
+    {
+      "name": "Bajs Dubrava okretište",
+      "latitude": 45.824218,
+      "longitude": 16.036374
+    },
+    {
+      "name": "Bajs Dubrava Supernova",
+      "latitude": 45.835674,
+      "longitude": 16.044501
+    },
+    {
+      "name": "Bajs Eurospin Dubrava",
+      "latitude": 45.818089,
+      "longitude": 16.042995
+    },
+    {
+      "name": "Bajs Filozofski fakultet",
+      "latitude": 45.796261,
+      "longitude": 15.970386
+    },
+    {
+      "name": "Bajs Frankopanska ulica",
+      "latitude": 45.811839,
+      "longitude": 15.969486
+    },
+    {
+      "name": "Bajs Gajeva ulica - Ulica Nikole Tesle",
+      "latitude": 45.811268,
+      "longitude": 15.976354
+    },
+    {
+      "name": "Bajs Gajnice - Grintavečka ulica",
+      "latitude": 45.81637,
+      "longitude": 15.872673
+    },
+    {
+      "name": "Bajs Gimnazija Sesvete",
+      "latitude": 45.832773,
+      "longitude": 16.107136
+    },
+    {
+      "name": "Bajs Gomboševa ulica - Hrelićka ulica",
+      "latitude": 45.761094,
+      "longitude": 16.007419
+    },
+    {
+      "name": "Bajs Green Gold",
+      "latitude": 45.802863,
+      "longitude": 16.001808
+    },
+    {
+      "name": "Bajs Gupčeva zvijezda",
+      "latitude": 45.828018,
+      "longitude": 15.979133
+    },
+    {
+      "name": "Bajs HAK",
+      "latitude": 45.77768,
+      "longitude": 15.99984
+    },
+    {
+      "name": "Bajs Horvaćanska cesta - Ulica Hrvatskog sokola",
+      "latitude": 45.789003,
+      "longitude": 15.920377
+    },
+    {
+      "name": "Bajs Hotel Admiral",
+      "latitude": 45.795007,
+      "longitude": 15.919316
+    },
+    {
+      "name": "Bajs Hotel Zonar",
+      "latitude": 45.806109,
+      "longitude": 15.952868
+    },
+    {
+      "name": "Bajs Hrgovići - Zagrebačka avenija",
+      "latitude": 45.794075,
+      "longitude": 15.931372
+    },
+    {
+      "name": "Bajs Hrvatsko katoličko sveučilište",
+      "latitude": 45.814632,
+      "longitude": 15.94451
+    },
+    {
+      "name": "Bajs Ivanićgradska ulica",
+      "latitude": 45.809462,
+      "longitude": 16.016667
+    },
+    {
+      "name": "Bajs Jarunska ulica - Hrgovići",
+      "latitude": 45.783275,
+      "longitude": 15.925895
+    },
+    {
+      "name": "Bajs Jordanovac",
+      "latitude": 45.819368,
+      "longitude": 16.006426
+    },
+    {
+      "name": "Bajs Jukićeva ulica - Ulica Isidora Kršnjavoga",
+      "latitude": 45.807774,
+      "longitude": 15.962096
+    },
+    {
+      "name": "Bajs Južna ulica - Branimirova ulica",
+      "latitude": 45.821152,
+      "longitude": 16.06326
+    },
+    {
+      "name": "Bajs Kampus Borongaj",
+      "latitude": 45.812474,
+      "longitude": 16.041821
+    },
+    {
+      "name": "Bajs KB Dubrava",
+      "latitude": 45.834493,
+      "longitude": 16.033476
+    },
+    {
+      "name": "Bajs KBC Rebro",
+      "latitude": 45.823072,
+      "longitude": 16.008045
+    },
+    {
+      "name": "Bajs Kings Cross Jankomir",
+      "latitude": 45.79811,
+      "longitude": 15.857215
+    },
+    {
+      "name": "Bajs Klizalište Velesajam",
+      "latitude": 45.783163,
+      "longitude": 15.970924
+    },
+    {
+      "name": "Bajs Kninski trg - Vrbik",
+      "latitude": 45.795683,
+      "longitude": 15.966689
+    },
+    {
+      "name": "Bajs Koranska ulica",
+      "latitude": 45.802411,
+      "longitude": 15.968004
+    },
+    {
+      "name": "Bajs Kruge",
+      "latitude": 45.798331,
+      "longitude": 15.987821
+    },
+    {
+      "name": "Bajs Kulturni centar Dubrava",
+      "latitude": 45.829429,
+      "longitude": 16.054108
+    },
+    {
+      "name": "Bajs Lastovska ulica",
+      "latitude": 45.79132,
+      "longitude": 15.999408
+    },
+    {
+      "name": "Bajs Maksimir",
+      "latitude": 45.818713,
+      "longitude": 16.013296
+    },
+    {
+      "name": "Bajs Maksimirska cesta 51",
+      "latitude": 45.816649,
+      "longitude": 16.003127
+    },
+    {
+      "name": "Bajs Martićeva ulica - Ulica Frane Bulića",
+      "latitude": 45.812396,
+      "longitude": 15.988781
+    },
+    {
+      "name": "Bajs Medpotoki - Jovinovačka ulica",
+      "latitude": 45.815593,
+      "longitude": 15.878801
+    },
+    {
+      "name": "Bajs Mihaljevac okretište",
+      "latitude": 45.84277,
+      "longitude": 15.975444
+    },
+    {
+      "name": "Bajs Mirogoj",
+      "latitude": 45.835847,
+      "longitude": 15.983759
+    },
+    {
+      "name": "Bajs Mladost",
+      "latitude": 45.783666,
+      "longitude": 15.944421
+    },
+    {
+      "name": "Bajs MUP Heinzelova",
+      "latitude": 45.797845,
+      "longitude": 16.015798
+    },
+    {
+      "name": "Bajs Nacionalna Sveučilišna Knjižnica",
+      "latitude": 45.797098,
+      "longitude": 15.978431
+    },
+    {
+      "name": "Bajs Okretište Prečko",
+      "latitude": 45.793568,
+      "longitude": 15.892433
+    },
+    {
+      "name": "Bajs Oktogon Dugave",
+      "latitude": 45.765934,
+      "longitude": 15.992512
+    },
+    {
+      "name": "Bajs Oranice - Ulica Ivane Brlić Mažuranić",
+      "latitude": 45.806518,
+      "longitude": 15.90805
+    },
+    {
+      "name": "Bajs Osnovna škola Ive Andrića - Sopot",
+      "latitude": 45.773386,
+      "longitude": 15.985602
+    },
+    {
+      "name": "Bajs Osnovna škola Kajzerica",
+      "latitude": 45.780423,
+      "longitude": 15.961329
+    },
+    {
+      "name": "Bajs Osnovna škola Malešnica",
+      "latitude": 45.808107,
+      "longitude": 15.901107
+    },
+    {
+      "name": "Bajs park Kate Šoljić",
+      "latitude": 45.803216,
+      "longitude": 15.942995
+    },
+    {
+      "name": "Bajs Park Stara Trešnjevka",
+      "latitude": 45.797744,
+      "longitude": 15.948919
+    },
+    {
+      "name": "Bajs Perjavica",
+      "latitude": 45.81751,
+      "longitude": 15.888986
+    },
+    {
+      "name": "Bajs Perkovčeva",
+      "latitude": 45.807815,
+      "longitude": 15.968351
+    },
+    {
+      "name": "Bajs Petrinjska",
+      "latitude": 45.811693,
+      "longitude": 15.979418
+    },
+    {
+      "name": "Bajs Petrova ulica - Ulica Ivana Zajca",
+      "latitude": 45.817515,
+      "longitude": 15.997226
+    },
+    {
+      "name": "Bajs Pierottijeva ulica",
+      "latitude": 45.806866,
+      "longitude": 15.964357
+    },
+    {
+      "name": "Bajs Podbrežje",
+      "latitude": 45.76721,
+      "longitude": 15.972132
+    },
+    {
+      "name": "Bajs Podsused okretište",
+      "latitude": 45.815286,
+      "longitude": 15.835376
+    },
+    {
+      "name": "Bajs Pogon Jedinstvo",
+      "latitude": 45.790971,
+      "longitude": 15.976776
+    },
+    {
+      "name": "Bajs Point centar Vrbani",
+      "latitude": 45.790505,
+      "longitude": 15.913393
+    },
+    {
+      "name": "Bajs Potok Kustošak",
+      "latitude": 45.810137,
+      "longitude": 15.925099
+    },
+    {
+      "name": "Bajs Preradovićeva ulica",
+      "latitude": 45.811071,
+      "longitude": 15.974232
+    },
+    {
+      "name": "Bajs Prisavlje 14 - Kockica",
+      "latitude": 45.791351,
+      "longitude": 15.969409
+    },
+    {
+      "name": "Bajs Pučko otvoreno učilište",
+      "latitude": 45.79956,
+      "longitude": 15.970959
+    },
+    {
+      "name": "Bajs Radnička cesta 212A",
+      "latitude": 45.788161,
+      "longitude": 16.034956
+    },
+    {
+      "name": "Bajs Radnička cesta 228",
+      "latitude": 45.778294,
+      "longitude": 16.054749
+    },
+    {
+      "name": "Bajs Radnička ulica - Ulica Frana Folnegovića",
+      "latitude": 45.801006,
+      "longitude": 16.009029
+    },
+    {
+      "name": "Bajs Radnički dol",
+      "latitude": 45.81438,
+      "longitude": 15.963883
+    },
+    {
+      "name": "Bajs Remetinečka cesta - Savski gaj XIII.",
+      "latitude": 45.771361,
+      "longitude": 15.950949
+    },
+    {
+      "name": "Bajs Remiza Ljubljanica",
+      "latitude": 45.797334,
+      "longitude": 15.937997
+    },
+    {
+      "name": "Bajs Rotor Remetinec",
+      "latitude": 45.776886,
+      "longitude": 15.953323
+    },
+    {
+      "name": "Bajs RTL",
+      "latitude": 45.803993,
+      "longitude": 15.946714
+    },
+    {
+      "name": "Bajs RŠC Jarun - Petrine",
+      "latitude": 45.783584,
+      "longitude": 15.933339
+    },
+    {
+      "name": "Bajs S. D. Stjepan Radić",
+      "latitude": 45.784933,
+      "longitude": 15.949276
+    },
+    {
+      "name": "Bajs S.D. Cvjetno naselje",
+      "latitude": 45.790554,
+      "longitude": 15.961663
+    },
+    {
+      "name": "Bajs Sajmišna cesta",
+      "latitude": 45.781882,
+      "longitude": 16.002499
+    },
+    {
+      "name": "Bajs Savska cesta - Slavonska avenija",
+      "latitude": 45.794427,
+      "longitude": 15.959315
+    },
+    {
+      "name": "Bajs Savska cesta 150",
+      "latitude": 45.790491,
+      "longitude": 15.956345
+    },
+    {
+      "name": "Bajs Savski most okretište",
+      "latitude": 45.785162,
+      "longitude": 15.952251
+    },
+    {
+      "name": "Bajs Selska cesta - Ulica Blaža Trogiranina",
+      "latitude": 45.791085,
+      "longitude": 15.944526
+    },
+    {
+      "name": "Bajs Shopping centar Prečko",
+      "latitude": 45.795566,
+      "longitude": 15.899926
+    },
+    {
+      "name": "Bajs Slavonska avenija - Koledovčina",
+      "latitude": 45.796847,
+      "longitude": 16.037709
+    },
+    {
+      "name": "Bajs Slavonska avenija - Trnjanska cesta",
+      "latitude": 45.794564,
+      "longitude": 15.980726
+    },
+    {
+      "name": "Bajs Sopot",
+      "latitude": 45.777536,
+      "longitude": 15.989901
+    },
+    {
+      "name": "Bajs Sportska dvorana Peščenica",
+      "latitude": 45.804766,
+      "longitude": 16.02541
+    },
+    {
+      "name": "Bajs Sportska dvorana Sutinska vrela",
+      "latitude": 45.817699,
+      "longitude": 15.832539
+    },
+    {
+      "name": "Bajs sportski centar Trnje",
+      "latitude": 45.798397,
+      "longitude": 15.99281
+    },
+    {
+      "name": "Bajs Srednja škola Jelkovec",
+      "latitude": 45.811697,
+      "longitude": 16.106546
+    },
+    {
+      "name": "Bajs Studentski dom Ante Starčević",
+      "latitude": 45.794494,
+      "longitude": 15.956567
+    },
+    {
+      "name": "Bajs Super Andrija Siget",
+      "latitude": 45.772197,
+      "longitude": 15.9684
+    },
+    {
+      "name": "Bajs Sveučilište Algebra",
+      "latitude": 45.810117,
+      "longitude": 15.940625
+    },
+    {
+      "name": "Bajs Tkalčićeva ulica",
+      "latitude": 45.818486,
+      "longitude": 15.976389
+    },
+    {
+      "name": "Bajs Tratinska ul. / Savska ul.",
+      "latitude": 45.803548,
+      "longitude": 15.964825
+    },
+    {
+      "name": "Bajs Travno - Mamutica",
+      "latitude": 45.772567,
+      "longitude": 15.994135
+    },
+    {
+      "name": "Bajs Trešnjevački trg",
+      "latitude": 45.800089,
+      "longitude": 15.954081
+    },
+    {
+      "name": "Bajs Trg 101. brigade",
+      "latitude": 45.798659,
+      "longitude": 15.905182
+    },
+    {
+      "name": "Bajs Trg doktora Franje Tuđmana",
+      "latitude": 45.812975,
+      "longitude": 15.957198
+    },
+    {
+      "name": "Bajs Trg Eugena Kvaternika",
+      "latitude": 45.814402,
+      "longitude": 15.998093
+    },
+    {
+      "name": "Bajs Trg hrvatskih velikana",
+      "latitude": 45.811672,
+      "longitude": 15.983646
+    },
+    {
+      "name": "Bajs Trg Ivana Kukuljevića",
+      "latitude": 45.803547,
+      "longitude": 15.895999
+    },
+    {
+      "name": "Bajs Trg Katarine Zrinski",
+      "latitude": 45.814832,
+      "longitude": 15.97387
+    },
+    {
+      "name": "Bajs Trg kralja Tomislava",
+      "latitude": 45.805073,
+      "longitude": 15.977934
+    },
+    {
+      "name": "Bajs Trg Marka Marulića",
+      "latitude": 45.807108,
+      "longitude": 15.969424
+    },
+    {
+      "name": "Bajs Trg Nikole Zrinskog",
+      "latitude": 45.809494,
+      "longitude": 15.978969
+    },
+    {
+      "name": "Bajs Trg Republike Hrvatske",
+      "latitude": 45.808842,
+      "longitude": 15.970653
+    },
+    {
+      "name": "Bajs Trg Stjepana Radića",
+      "latitude": 45.800858,
+      "longitude": 15.977425
+    },
+    {
+      "name": "Bajs Trg žrtava fašizma",
+      "latitude": 45.809551,
+      "longitude": 15.988157
+    },
+    {
+      "name": "Bajs Trnsko - Avenija Dubrovnik",
+      "latitude": 45.776818,
+      "longitude": 15.964199
+    },
+    {
+      "name": "Bajs Trnsko 34B",
+      "latitude": 45.773075,
+      "longitude": 15.965244
+    },
+    {
+      "name": "Bajs Tržni centar Savica",
+      "latitude": 45.793777,
+      "longitude": 15.997093
+    },
+    {
+      "name": "Bajs Tržni centar Zapruđe",
+      "latitude": 45.778183,
+      "longitude": 15.995762
+    },
+    {
+      "name": "Bajs Tržnica Jarun",
+      "latitude": 45.789226,
+      "longitude": 15.929717
+    },
+    {
+      "name": "Bajs Tržnica Kvatrić",
+      "latitude": 45.812758,
+      "longitude": 15.995746
+    },
+    {
+      "name": "Bajs Tržnica Vrapče",
+      "latitude": 45.813438,
+      "longitude": 15.905835
+    },
+    {
+      "name": "Bajs tržnica Špansko",
+      "latitude": 45.80182,
+      "longitude": 15.897912
+    },
+    {
+      "name": "Bajs Tvornica kulture",
+      "latitude": 45.808538,
+      "longitude": 15.991879
+    },
+    {
+      "name": "Bajs Ulica Ante Šoljana - Okretište",
+      "latitude": 45.802234,
+      "longitude": 15.889786
+    },
+    {
+      "name": "Bajs Ulica Ante Šoljana - Ulica Gustava Krkleca",
+      "latitude": 45.801744,
+      "longitude": 15.903198
+    },
+    {
+      "name": "Bajs Ulica Augusta Harambašića - Trg Johna Fitzgeralda Kennedyja",
+      "latitude": 45.814778,
+      "longitude": 16.008514
+    },
+    {
+      "name": "Bajs Ulica Božidara Magovca",
+      "latitude": 45.769472,
+      "longitude": 15.999941
+    },
+    {
+      "name": "Bajs Ulica Božidara Magovca - Ukrajinska ulica",
+      "latitude": 45.772869,
+      "longitude": 16.001731
+    },
+    {
+      "name": "Bajs Ulica Dragutina Golika - Gaboška ulica",
+      "latitude": 45.805143,
+      "longitude": 15.930228
+    },
+    {
+      "name": "Bajs Ulica Franje Petračića - Ulica Andrije Žaje",
+      "latitude": 45.807389,
+      "longitude": 15.95721
+    },
+    {
+      "name": "Bajs Ulica grada Chicaga",
+      "latitude": 45.786281,
+      "longitude": 16.006034
+    },
+    {
+      "name": "Bajs Ulica grada Mainza - Vodovodna ulica",
+      "latitude": 45.811251,
+      "longitude": 15.948793
+    },
+    {
+      "name": "Bajs Ulica grada Vukovara - Olipska ulica",
+      "latitude": 45.801161,
+      "longitude": 16.000128
+    },
+    {
+      "name": "Bajs Ulica grada Vukovara - Ulica Vjekoslava Heinzela",
+      "latitude": 45.802361,
+      "longitude": 16.011742
+    },
+    {
+      "name": "Bajs Ulica grada Vukovara 52",
+      "latitude": 45.799246,
+      "longitude": 15.963361
+    },
+    {
+      "name": "Bajs Ulica hrvatskog sokola - Jarun",
+      "latitude": 45.78558,
+      "longitude": 15.917563
+    },
+    {
+      "name": "Bajs Ulica Josipa Hatzea - Dobronićeva ulica",
+      "latitude": 45.792678,
+      "longitude": 15.900696
+    },
+    {
+      "name": "Bajs Ulica Konstantina Vojnovića",
+      "latitude": 45.8123,
+      "longitude": 15.99106
+    },
+    {
+      "name": "Bajs Ulica Ljudevita Posavskog - Ulica Baltazara Bogišića",
+      "latitude": 45.80894,
+      "longitude": 15.997399
+    },
+    {
+      "name": "Bajs Ulica majstora Radonje - Srednjaci",
+      "latitude": 45.791462,
+      "longitude": 15.940903
+    },
+    {
+      "name": "Bajs Ulica Milke Trnine",
+      "latitude": 45.793224,
+      "longitude": 16.005068
+    },
+    {
+      "name": "Bajs Ulica Republike Austrije",
+      "latitude": 45.809918,
+      "longitude": 15.956934
+    },
+    {
+      "name": "Bajs Ulica Saliha Alića - Ulica Stjepana Draganića",
+      "latitude": 45.807223,
+      "longitude": 15.896043
+    },
+    {
+      "name": "Bajs Ulica svetog Mateja",
+      "latitude": 45.762162,
+      "longitude": 15.996793
+    },
+    {
+      "name": "Bajs Ulica Tina Ujevića - Albaharijeva ulica",
+      "latitude": 45.790855,
+      "longitude": 15.94945
+    },
+    {
+      "name": "Bajs Ulica Velimira Škorpika - Samoborska cesta",
+      "latitude": 45.812258,
+      "longitude": 15.86132
+    },
+    {
+      "name": "Bajs Ulica Vjekoslava Heinzela - Ulica Hermana Bužana",
+      "latitude": 45.811252,
+      "longitude": 16.001361
+    },
+    {
+      "name": "Bajs Ulica Vladimira Varićaka 12",
+      "latitude": 45.765565,
+      "longitude": 15.988403
+    },
+    {
+      "name": "Bajs Vlaška ulica",
+      "latitude": 45.813834,
+      "longitude": 15.979097
+    },
+    {
+      "name": "Bajs Vrapče okretište",
+      "latitude": 45.812727,
+      "longitude": 15.897378
+    },
+    {
+      "name": "Bajs Vukovarska ulica - Držićeva ulica",
+      "latitude": 45.800721,
+      "longitude": 15.994988
+    },
+    {
+      "name": "Bajs Z centar",
+      "latitude": 45.798563,
+      "longitude": 15.88736
+    },
+    {
+      "name": "Bajs Zagrebačka avenija 100",
+      "latitude": 45.797127,
+      "longitude": 15.898632
+    },
+    {
+      "name": "Bajs Zagrebačka cesta 126",
+      "latitude": 45.805633,
+      "longitude": 15.922602
+    },
+    {
+      "name": "Bajs Zagrebačka cesta 199",
+      "latitude": 45.80068,
+      "longitude": 15.914979
+    },
+    {
+      "name": "Bajs Zagrebačka cesta 231",
+      "latitude": 45.796832,
+      "longitude": 15.909047
+    },
+    {
+      "name": "Bajs Zagrebački velesajam",
+      "latitude": 45.777584,
+      "longitude": 15.969702
+    },
+    {
+      "name": "Bajs Zelena tržnica",
+      "latitude": 45.800068,
+      "longitude": 16.049843
+    },
+    {
+      "name": "Bajs Črnomerec okretište",
+      "latitude": 45.814969,
+      "longitude": 15.934771
+    },
+    {
+      "name": "Bajs Šetalište Jurija Gagarina",
+      "latitude": 45.796777,
+      "longitude": 15.961127
+    },
+    {
+      "name": "Bajs Šetnica Dragutina Albrechta",
+      "latitude": 45.818569,
+      "longitude": 16.02681
+    },
+    {
+      "name": "Bajs Željezničko stajalište Gajnice",
+      "latitude": 45.814015,
+      "longitude": 15.872707
+    },
+    {
+      "name": "Bajs Žičara Sljeme",
+      "latitude": 45.860897,
+      "longitude": 15.982872
+    },
+    {
+      "name": "BicKo Cerine",
+      "latitude": 46.153249,
+      "longitude": 16.842857
+    },
+    {
+      "name": "BicKo Dom Mladih",
+      "latitude": 46.162673,
+      "longitude": 16.826637
+    },
+    {
+      "name": "BicKo Lenišće",
+      "latitude": 46.162045,
+      "longitude": 16.838208
+    },
+    {
+      "name": "Bike and scooter rent",
+      "latitude": 43.550158,
+      "longitude": 16.345115
+    },
+    {
+      "name": "Bike Centar",
+      "latitude": 45.025473,
+      "longitude": 14.585931
+    },
+    {
+      "name": "Bike center Rabac",
+      "latitude": 45.077267,
+      "longitude": 14.167773
+    },
+    {
+      "name": "Bike Point",
+      "latitude": 45.172493,
+      "longitude": 14.69246
+    },
+    {
+      "name": "bikePoint",
+      "latitude": 44.110337,
+      "longitude": 15.237328
+    },
+    {
+      "name": "bikePoint",
+      "latitude": 44.11782,
+      "longitude": 15.241211
+    },
+    {
+      "name": "Bili brig",
+      "latitude": 44.122863,
+      "longitude": 15.25408
+    },
+    {
+      "name": "BIOS - poduzetnički inkubator",
+      "latitude": 45.564563,
+      "longitude": 18.633448
+    },
+    {
+      "name": "BK Dinamo Start Ponit",
+      "latitude": 45.78146,
+      "longitude": 15.933207
+    },
+    {
+      "name": "Blue bike",
+      "latitude": 45.812378,
+      "longitude": 15.976862
+    },
+    {
+      "name": "Borik",
+      "latitude": 44.130984,
+      "longitude": 15.210781
+    },
+    {
+      "name": "Bosutsko naselje",
+      "latitude": 45.545674,
+      "longitude": 18.678023
+    },
+    {
+      "name": "Bota Bike and Car rental",
+      "latitude": 43.179166,
+      "longitude": 16.673875
+    },
+    {
+      "name": "Brač e-bike",
+      "latitude": 43.281096,
+      "longitude": 16.861908
+    },
+    {
+      "name": "Camp Rožac",
+      "latitude": 43.505096,
+      "longitude": 16.258127
+    },
+    {
+      "name": "Centar - Makarska",
+      "latitude": 43.29497,
+      "longitude": 17.018015
+    },
+    {
+      "name": "Centar za posjetitelje",
+      "latitude": 45.559086,
+      "longitude": 18.698696
+    },
+    {
+      "name": "CITY COCO RENT POREČ",
+      "latitude": 45.230981,
+      "longitude": 13.603722
+    },
+    {
+      "name": "Copacabana",
+      "latitude": 45.565439,
+      "longitude": 18.69279
+    },
+    {
+      "name": "Dragec Prijevoz",
+      "latitude": 44.829465,
+      "longitude": 15.050336
+    },
+    {
+      "name": "E-bike Sprtva",
+      "latitude": 44.802867,
+      "longitude": 13.908496
+    },
+    {
+      "name": "Elegance tours",
+      "latitude": 44.113298,
+      "longitude": 15.227038
+    },
+    {
+      "name": "Fiore tours",
+      "latitude": 45.230675,
+      "longitude": 13.602354
+    },
+    {
+      "name": "Fortuna",
+      "latitude": 43.302088,
+      "longitude": 17.009667
+    },
+    {
+      "name": "Frankopanska",
+      "latitude": 45.49138,
+      "longitude": 16.371982
+    },
+    {
+      "name": "Frimir d.o.o.",
+      "latitude": 43.384975,
+      "longitude": 16.550286
+    },
+    {
+      "name": "Gacka ulica",
+      "latitude": 45.549404,
+      "longitude": 18.69137
+    },
+    {
+      "name": "Gajev trg",
+      "latitude": 45.557526,
+      "longitude": 18.685199
+    },
+    {
+      "name": "Go2bike",
+      "latitude": 45.804742,
+      "longitude": 15.999916
+    },
+    {
+      "name": "Hrvatski dom Josipovac",
+      "latitude": 45.577154,
+      "longitude": 18.587696
+    },
+    {
+      "name": "Hvar.life",
+      "latitude": 43.181874,
+      "longitude": 16.590241
+    },
+    {
+      "name": "Jug 2 - centar",
+      "latitude": 45.543572,
+      "longitude": 18.718883
+    },
+    {
+      "name": "Jug 2 - sportska dvorana",
+      "latitude": 45.543644,
+      "longitude": 18.709527
+    },
+    {
+      "name": "Kamenjak Bike Sport",
+      "latitude": 44.798574,
+      "longitude": 13.909862
+    },
+    {
+      "name": "Kaštelanska - Umaška",
+      "latitude": 45.545268,
+      "longitude": 18.725275
+    },
+    {
+      "name": "Korzo",
+      "latitude": 45.155401,
+      "longitude": 18.011863
+    },
+    {
+      "name": "majcan",
+      "latitude": 45.807229,
+      "longitude": 15.995242
+    },
+    {
+      "name": "Maki's Rent Center",
+      "latitude": 44.532795,
+      "longitude": 14.453539
+    },
+    {
+      "name": "MD Segway",
+      "latitude": 44.836689,
+      "longitude": 13.832864
+    },
+    {
+      "name": "Mjesni odbor Cvjetno",
+      "latitude": 45.533116,
+      "longitude": 18.629122
+    },
+    {
+      "name": "Nextbike",
+      "latitude": 43.513621,
+      "longitude": 16.42073
+    },
+    {
+      "name": "nextbike",
+      "latitude": 43.513857,
+      "longitude": 16.292564
+    },
+    {
+      "name": "nextbike",
+      "latitude": 43.516785,
+      "longitude": 16.472765
+    },
+    {
+      "name": "nextbike",
+      "latitude": 43.517092,
+      "longitude": 16.429975
+    },
+    {
+      "name": "nextbike",
+      "latitude": 43.732041,
+      "longitude": 15.892575
+    },
+    {
+      "name": "Nextbike",
+      "latitude": 44.859844,
+      "longitude": 13.814549
+    },
+    {
+      "name": "Nextbike Banj",
+      "latitude": 43.741659,
+      "longitude": 15.884353
+    },
+    {
+      "name": "Nextbike Brinje",
+      "latitude": 44.998705,
+      "longitude": 15.130234
+    },
+    {
+      "name": "Nextbike Centar",
+      "latitude": 46.025843,
+      "longitude": 16.545348
+    },
+    {
+      "name": "Nextbike Centar, Vrbovec",
+      "latitude": 45.885422,
+      "longitude": 16.417992
+    },
+    {
+      "name": "Nextbike Foginovo",
+      "latitude": 45.486427,
+      "longitude": 15.556848
+    },
+    {
+      "name": "nextbike gat Krka",
+      "latitude": 43.73367,
+      "longitude": 15.891377
+    },
+    {
+      "name": "Nextbike Groblje",
+      "latitude": 46.039131,
+      "longitude": 16.539617
+    },
+    {
+      "name": "Nextbike Koprivnička",
+      "latitude": 46.023089,
+      "longitude": 16.551023
+    },
+    {
+      "name": "Nextbike Novi Dvori",
+      "latitude": 45.870506,
+      "longitude": 15.80356
+    },
+    {
+      "name": "nextbike Poljana",
+      "latitude": 43.734229,
+      "longitude": 15.893784
+    },
+    {
+      "name": "Nextbike Poštarska ulica",
+      "latitude": 45.718716,
+      "longitude": 16.048713
+    },
+    {
+      "name": "Nextbike Ravne Njive - Dom Rata, Ul. Domovinskog rata",
+      "latitude": 43.519738,
+      "longitude": 16.467214
+    },
+    {
+      "name": "Nextbike Razvojni centar i tehnološki park",
+      "latitude": 46.01912,
+      "longitude": 16.542154
+    },
+    {
+      "name": "Nextbike Rotor Markovićeva",
+      "latitude": 46.033065,
+      "longitude": 16.541078
+    },
+    {
+      "name": "Nextbike Sportska dvorana",
+      "latitude": 46.028895,
+      "longitude": 16.549233
+    },
+    {
+      "name": "Nextbike Trg kralja Tomislava",
+      "latitude": 45.712934,
+      "longitude": 16.077613
+    },
+    {
+      "name": "Nextbike Tržnica",
+      "latitude": 45.487879,
+      "longitude": 15.545051
+    },
+    {
+      "name": "Nextbike VG Goričanka",
+      "latitude": 45.717273,
+      "longitude": 16.05681
+    },
+    {
+      "name": "Nextbike Šetalište dr. Franje Tuđmana 1",
+      "latitude": 45.493891,
+      "longitude": 15.552231
+    },
+    {
+      "name": "Nextbike Šumarija",
+      "latitude": 46.01353,
+      "longitude": 16.545364
+    },
+    {
+      "name": "OŠ Jagode Truhelke",
+      "latitude": 45.558917,
+      "longitude": 18.71947
+    },
+    {
+      "name": "Pedalistra",
+      "latitude": 45.148164,
+      "longitude": 13.90784
+    },
+    {
+      "name": "Pedaloo",
+      "latitude": 45.812394,
+      "longitude": 15.977076
+    },
+    {
+      "name": "Poluotok",
+      "latitude": 44.114898,
+      "longitude": 15.228921
+    },
+    {
+      "name": "Portanova",
+      "latitude": 45.555568,
+      "longitude": 18.640044
+    },
+    {
+      "name": "Prolaz kod Snježne Gospe",
+      "latitude": 45.554633,
+      "longitude": 18.719373
+    },
+    {
+      "name": "Rent \"Park\"",
+      "latitude": 43.184123,
+      "longitude": 16.599815
+    },
+    {
+      "name": "Rent a Bike",
+      "latitude": 44.857804,
+      "longitude": 13.814207
+    },
+    {
+      "name": "Rent a bike",
+      "latitude": 45.445944,
+      "longitude": 13.516064
+    },
+    {
+      "name": "Rent a Bike Gale",
+      "latitude": 45.041855,
+      "longitude": 13.784302
+    },
+    {
+      "name": "Rent a Bike Krnica",
+      "latitude": 44.974321,
+      "longitude": 14.016195
+    },
+    {
+      "name": "Rent a bike Nin",
+      "latitude": 44.244795,
+      "longitude": 15.201893
+    },
+    {
+      "name": "Rent a scooter",
+      "latitude": 43.161624,
+      "longitude": 16.487433
+    },
+    {
+      "name": "Rent a Scooter & Rent a Bike",
+      "latitude": 45.078415,
+      "longitude": 13.643015
+    },
+    {
+      "name": "Rent E-Bike",
+      "latitude": 42.97595,
+      "longitude": 17.174838
+    },
+    {
+      "name": "Rent E-Bike Rijeka",
+      "latitude": 45.323049,
+      "longitude": 14.466923
+    },
+    {
+      "name": "Rent-a-Scooter",
+      "latitude": 44.555817,
+      "longitude": 14.886163
+    },
+    {
+      "name": "servis bicikla Pumpa",
+      "latitude": 43.785195,
+      "longitude": 15.6417
+    },
+    {
+      "name": "Sjenjak",
+      "latitude": 45.551592,
+      "longitude": 18.698983
+    },
+    {
+      "name": "Slano MOCI - rent a E-bike, rent a car & transfers",
+      "latitude": 42.786575,
+      "longitude": 17.889317
+    },
+    {
+      "name": "Sloboda 2.0 business center",
+      "latitude": 45.851645,
+      "longitude": 18.852833
+    },
+    {
+      "name": "Song Gem OBRT ZA",
+      "latitude": 45.075137,
+      "longitude": 13.648057
+    },
+    {
+      "name": "Sustav javnih bicikala",
+      "latitude": 43.180631,
+      "longitude": 16.576291
+    },
+    {
+      "name": "Sustav javnih bicikala",
+      "latitude": 43.18373,
+      "longitude": 16.591656
+    },
+    {
+      "name": "Sustav javnih bicikala",
+      "latitude": 43.535348,
+      "longitude": 16.49561
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.483454,
+      "longitude": 16.554585
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.500324,
+      "longitude": 16.522819
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.501644,
+      "longitude": 16.463383
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.502914,
+      "longitude": 16.448319
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.50313,
+      "longitude": 16.426329
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.503278,
+      "longitude": 16.476127
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.503618,
+      "longitude": 16.533046
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.504453,
+      "longitude": 16.495127
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.504485,
+      "longitude": 16.402954
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.505133,
+      "longitude": 16.456905
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.505586,
+      "longitude": 16.447679
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.505844,
+      "longitude": 16.478514
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.50677,
+      "longitude": 16.46077
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.5068,
+      "longitude": 16.441945
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.506837,
+      "longitude": 16.464771
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.507089,
+      "longitude": 16.508553
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.50752,
+      "longitude": 16.493773
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.507547,
+      "longitude": 16.471453
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.507994,
+      "longitude": 16.483672
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.508243,
+      "longitude": 16.450184
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.508467,
+      "longitude": 16.435803
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.50866,
+      "longitude": 16.522608
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.508959,
+      "longitude": 16.481862
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.509211,
+      "longitude": 16.477283
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.509492,
+      "longitude": 16.456909
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.510322,
+      "longitude": 16.49141
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.510879,
+      "longitude": 16.480661
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.511005,
+      "longitude": 16.466855
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.511223,
+      "longitude": 16.451225
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.51184,
+      "longitude": 16.436184
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.512853,
+      "longitude": 16.50344
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.513147,
+      "longitude": 16.442591
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.513447,
+      "longitude": 16.450778
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.513588,
+      "longitude": 16.459658
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.514451,
+      "longitude": 16.432997
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.514944,
+      "longitude": 16.443174
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.515138,
+      "longitude": 16.423524
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.516714,
+      "longitude": 16.455623
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.519534,
+      "longitude": 16.4489
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.519823,
+      "longitude": 16.445481
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.51988,
+      "longitude": 16.455467
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.521938,
+      "longitude": 16.469338
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.523121,
+      "longitude": 16.450213
+    },
+    {
+      "name": "Sustav javnih bicikala Split",
+      "latitude": 43.53167,
+      "longitude": 16.465
+    },
+    {
+      "name": "Sveučilišni kampus",
+      "latitude": 45.55487,
+      "longitude": 18.708997
+    },
+    {
+      "name": "t-club",
+      "latitude": 43.161221,
+      "longitude": 16.694588
+    },
+    {
+      "name": "TA Kosirina-rent a bike",
+      "latitude": 43.799486,
+      "longitude": 15.643068
+    },
+    {
+      "name": "Tenja - centar",
+      "latitude": 45.501579,
+      "longitude": 18.745168
+    },
+    {
+      "name": "Tenja - Osječka ulica",
+      "latitude": 45.519567,
+      "longitude": 18.728312
+    },
+    {
+      "name": "Titan rent",
+      "latitude": 42.9602,
+      "longitude": 17.135286
+    },
+    {
+      "name": "Trg bana Josipa Jelačića",
+      "latitude": 45.484945,
+      "longitude": 16.371195
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 45.154449,
+      "longitude": 18.023737
+    },
+    {
+      "name": "Tržnica Retfala",
+      "latitude": 45.563505,
+      "longitude": 18.654353
+    },
+    {
+      "name": "Vijenac I. Meštrovića",
+      "latitude": 45.555648,
+      "longitude": 18.696155
+    },
+    {
+      "name": "Vijenac Petrove gore",
+      "latitude": 45.556654,
+      "longitude": 18.653296
+    },
+    {
+      "name": "Višnjevac - okretište tramvaja",
+      "latitude": 45.566998,
+      "longitude": 18.616661
+    },
+    {
+      "name": "Zeleno polje - okretište tramvaja",
+      "latitude": 45.552519,
+      "longitude": 18.730989
+    },
+    {
+      "name": "ZOO vrt",
+      "latitude": 45.568341,
+      "longitude": 18.669549
+    },
+    {
+      "name": "Šetnica - Školska ulica",
+      "latitude": 45.705155,
+      "longitude": 16.390921
+    },
+    {
+      "name": "Štromček",
+      "latitude": 46.378709,
+      "longitude": 16.445841
+    },
+    {
+      "name": "Štromček",
+      "latitude": 46.391119,
+      "longitude": 16.435891
+    },
+    {
+      "name": "Željeznički kolodvor",
+      "latitude": 45.553276,
+      "longitude": 18.683862
+    },
+    {
+      "name": "Županijska 3",
+      "latitude": 45.560585,
+      "longitude": 18.67641
+    }
+  ],
+  "meta": {
+    "title": "Najam bicikala - Besplatno preuzimanje",
+    "description": "Najam bicikala u Hrvatskoj (339 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=bicycle_rental), izrez EU-POIS/HR. Sadrži 339 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Najam bicikala | ListBase",
+    "seo_description": "Preuzmi Najam bicikala — 339 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 339 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

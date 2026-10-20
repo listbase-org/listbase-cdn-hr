@@ -1,0 +1,611 @@
+{
+  "id": "hr-trgovine-mobitelima",
+  "name": "Trgovine mobitelima",
+  "title": "Trgovine mobitelima",
+  "description": "Trgovine mobitelima u Hrvatskoj (114 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=mobile_phone), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A1",
+      "latitude": 44.113818,
+      "longitude": 15.232839
+    },
+    {
+      "name": "A1",
+      "latitude": 45.494754,
+      "longitude": 15.552376
+    },
+    {
+      "name": "A1",
+      "latitude": 45.59273,
+      "longitude": 17.224639
+    },
+    {
+      "name": "A1",
+      "latitude": 45.704315,
+      "longitude": 16.393462
+    },
+    {
+      "name": "A1",
+      "latitude": 45.790791,
+      "longitude": 15.913233
+    },
+    {
+      "name": "Alo Alo 10",
+      "latitude": 43.51294,
+      "longitude": 16.503902
+    },
+    {
+      "name": "Amadeus II d.o.o.",
+      "latitude": 43.053418,
+      "longitude": 17.435394
+    },
+    {
+      "name": "Butikk",
+      "latitude": 45.801351,
+      "longitude": 15.711164
+    },
+    {
+      "name": "Case shop",
+      "latitude": 45.812519,
+      "longitude": 15.951172
+    },
+    {
+      "name": "Connect Split",
+      "latitude": 43.508622,
+      "longitude": 16.437049
+    },
+    {
+      "name": "Eximo 46",
+      "latitude": 43.509093,
+      "longitude": 16.459337
+    },
+    {
+      "name": "FAXtel",
+      "latitude": 45.482573,
+      "longitude": 16.774764
+    },
+    {
+      "name": "Finomehanika Spetić",
+      "latitude": 45.433462,
+      "longitude": 13.522522
+    },
+    {
+      "name": "GSM shop",
+      "latitude": 45.80828,
+      "longitude": 15.984023
+    },
+    {
+      "name": "Hrvatski Telekom",
+      "latitude": 43.053911,
+      "longitude": 17.648482
+    },
+    {
+      "name": "Hrvatski Telekom",
+      "latitude": 44.11042,
+      "longitude": 15.237326
+    },
+    {
+      "name": "Hrvatski Telekom",
+      "latitude": 45.811869,
+      "longitude": 15.974138
+    },
+    {
+      "name": "iDoctor",
+      "latitude": 45.807705,
+      "longitude": 15.942374
+    },
+    {
+      "name": "iMob servis mobitela",
+      "latitude": 45.801403,
+      "longitude": 15.951512
+    },
+    {
+      "name": "Impuls",
+      "latitude": 43.70126,
+      "longitude": 16.63671
+    },
+    {
+      "name": "IN Mobile",
+      "latitude": 44.117398,
+      "longitude": 15.271019
+    },
+    {
+      "name": "Insignum",
+      "latitude": 45.793986,
+      "longitude": 15.918368
+    },
+    {
+      "name": "iService",
+      "latitude": 45.813893,
+      "longitude": 15.997637
+    },
+    {
+      "name": "Legatel",
+      "latitude": 43.731692,
+      "longitude": 15.89691
+    },
+    {
+      "name": "Lenovo",
+      "latitude": 45.770206,
+      "longitude": 15.941126
+    },
+    {
+      "name": "Marko servisi",
+      "latitude": 46.148571,
+      "longitude": 16.838113
+    },
+    {
+      "name": "Markus Mobile",
+      "latitude": 45.331427,
+      "longitude": 17.677876
+    },
+    {
+      "name": "Maskice",
+      "latitude": 45.805712,
+      "longitude": 16.235716
+    },
+    {
+      "name": "Maskice.hr",
+      "latitude": 45.79785,
+      "longitude": 15.943421
+    },
+    {
+      "name": "Maskice.hr",
+      "latitude": 45.814179,
+      "longitude": 15.997147
+    },
+    {
+      "name": "matrix",
+      "latitude": 46.024354,
+      "longitude": 16.545687
+    },
+    {
+      "name": "Mi Store",
+      "latitude": 45.770188,
+      "longitude": 15.940351
+    },
+    {
+      "name": "Mobiexpress",
+      "latitude": 45.315727,
+      "longitude": 13.558949
+    },
+    {
+      "name": "Mobifrend",
+      "latitude": 45.795825,
+      "longitude": 15.969354
+    },
+    {
+      "name": "MobiLab",
+      "latitude": 45.334224,
+      "longitude": 17.681696
+    },
+    {
+      "name": "Mobiland",
+      "latitude": 45.804011,
+      "longitude": 16.234388
+    },
+    {
+      "name": "Mobilcentar",
+      "latitude": 45.091596,
+      "longitude": 14.123313
+    },
+    {
+      "name": "Mobile Shop",
+      "latitude": 45.316928,
+      "longitude": 13.559578
+    },
+    {
+      "name": "Mobis",
+      "latitude": 45.80461,
+      "longitude": 15.997555
+    },
+    {
+      "name": "Mobitel centar Dado d.o.o.",
+      "latitude": 45.814346,
+      "longitude": 15.99857
+    },
+    {
+      "name": "Mobitel shop",
+      "latitude": 45.806317,
+      "longitude": 15.990941
+    },
+    {
+      "name": "Mobitronic",
+      "latitude": 45.78698,
+      "longitude": 15.94952
+    },
+    {
+      "name": "Moby Freak",
+      "latitude": 45.715071,
+      "longitude": 16.073186
+    },
+    {
+      "name": "MS Elektronika",
+      "latitude": 45.798746,
+      "longitude": 15.980417
+    },
+    {
+      "name": "Oprema za mobitele",
+      "latitude": 45.799118,
+      "longitude": 15.956133
+    },
+    {
+      "name": "Optika Grivičić",
+      "latitude": 45.153671,
+      "longitude": 18.012524
+    },
+    {
+      "name": "Pilot shop",
+      "latitude": 43.445718,
+      "longitude": 16.687808
+    },
+    {
+      "name": "Se-Mark",
+      "latitude": 45.805842,
+      "longitude": 16.234396
+    },
+    {
+      "name": "se-mark",
+      "latitude": 45.816403,
+      "longitude": 16.001992
+    },
+    {
+      "name": "Servis  mobitela Vrbani",
+      "latitude": 45.791932,
+      "longitude": 15.914443
+    },
+    {
+      "name": "Servis Mobitela",
+      "latitude": 45.810117,
+      "longitude": 15.992638
+    },
+    {
+      "name": "Servis mobitela i tableta",
+      "latitude": 43.514169,
+      "longitude": 16.473717
+    },
+    {
+      "name": "Servis mobitela Mobilab",
+      "latitude": 45.769872,
+      "longitude": 15.994571
+    },
+    {
+      "name": "Sigma",
+      "latitude": 43.702721,
+      "longitude": 16.639695
+    },
+    {
+      "name": "Smart spot",
+      "latitude": 45.786877,
+      "longitude": 15.951118
+    },
+    {
+      "name": "SmartDoktor",
+      "latitude": 45.354829,
+      "longitude": 14.363319
+    },
+    {
+      "name": "SMARTLAB",
+      "latitude": 45.819002,
+      "longitude": 16.04123
+    },
+    {
+      "name": "smartoprema.hr",
+      "latitude": 45.80298,
+      "longitude": 15.953088
+    },
+    {
+      "name": "Svijet medija",
+      "latitude": 45.230224,
+      "longitude": 13.621225
+    },
+    {
+      "name": "svijet mobitela",
+      "latitude": 45.861541,
+      "longitude": 15.803262
+    },
+    {
+      "name": "T Centar",
+      "latitude": 42.652271,
+      "longitude": 18.090554
+    },
+    {
+      "name": "T Centar",
+      "latitude": 45.486792,
+      "longitude": 16.37239
+    },
+    {
+      "name": "T-Centar",
+      "latitude": 43.445666,
+      "longitude": 17.216883
+    },
+    {
+      "name": "T-Centar",
+      "latitude": 43.508445,
+      "longitude": 16.436931
+    },
+    {
+      "name": "T-centar",
+      "latitude": 44.109716,
+      "longitude": 15.237305
+    },
+    {
+      "name": "T-Centar",
+      "latitude": 45.480818,
+      "longitude": 16.777489
+    },
+    {
+      "name": "T-Centar",
+      "latitude": 45.770411,
+      "longitude": 15.941186
+    },
+    {
+      "name": "T-Centar",
+      "latitude": 45.871125,
+      "longitude": 15.827358
+    },
+    {
+      "name": "T-centar",
+      "latitude": 45.899351,
+      "longitude": 16.843098
+    },
+    {
+      "name": "T-centar",
+      "latitude": 46.163213,
+      "longitude": 16.831719
+    },
+    {
+      "name": "T-centar",
+      "latitude": 46.263947,
+      "longitude": 16.3749
+    },
+    {
+      "name": "T-Centar Požega",
+      "latitude": 45.334774,
+      "longitude": 17.677788
+    },
+    {
+      "name": "T-Com",
+      "latitude": 43.702161,
+      "longitude": 16.636933
+    },
+    {
+      "name": "T-HT",
+      "latitude": 45.803131,
+      "longitude": 15.710244
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 43.520491,
+      "longitude": 16.446677
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 43.732306,
+      "longitude": 15.896794
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 45.026111,
+      "longitude": 14.572615
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 45.155258,
+      "longitude": 18.012435
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 45.790824,
+      "longitude": 15.913286
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 45.804165,
+      "longitude": 15.99939
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 45.805363,
+      "longitude": 16.235292
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 46.388856,
+      "longitude": 16.413466
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 46.390261,
+      "longitude": 16.435513
+    },
+    {
+      "name": "Tehnomobil",
+      "latitude": 42.651998,
+      "longitude": 18.089461
+    },
+    {
+      "name": "Tele 2",
+      "latitude": 43.445168,
+      "longitude": 17.217725
+    },
+    {
+      "name": "Tele2",
+      "latitude": 42.652157,
+      "longitude": 18.0888
+    },
+    {
+      "name": "Tele2",
+      "latitude": 44.11746,
+      "longitude": 15.27097
+    },
+    {
+      "name": "Tele2",
+      "latitude": 45.154847,
+      "longitude": 18.016021
+    },
+    {
+      "name": "Tele2",
+      "latitude": 45.172687,
+      "longitude": 14.693143
+    },
+    {
+      "name": "Tele2",
+      "latitude": 45.485222,
+      "longitude": 16.371746
+    },
+    {
+      "name": "Tele2",
+      "latitude": 45.492106,
+      "longitude": 15.549268
+    },
+    {
+      "name": "Tele2",
+      "latitude": 45.495998,
+      "longitude": 16.378531
+    },
+    {
+      "name": "Tele2",
+      "latitude": 45.87148,
+      "longitude": 15.827647
+    },
+    {
+      "name": "Tele2",
+      "latitude": 46.163669,
+      "longitude": 16.830018
+    },
+    {
+      "name": "Tele2",
+      "latitude": 46.223807,
+      "longitude": 16.122006
+    },
+    {
+      "name": "Tele2",
+      "latitude": 46.336915,
+      "longitude": 16.620972
+    },
+    {
+      "name": "Tele2",
+      "latitude": 46.389696,
+      "longitude": 16.439192
+    },
+    {
+      "name": "Telekom",
+      "latitude": 43.294391,
+      "longitude": 17.014732
+    },
+    {
+      "name": "Telekom Centar",
+      "latitude": 44.117333,
+      "longitude": 15.271321
+    },
+    {
+      "name": "Telemach",
+      "latitude": 43.702172,
+      "longitude": 16.636909
+    },
+    {
+      "name": "Telemach",
+      "latitude": 45.33186,
+      "longitude": 17.676496
+    },
+    {
+      "name": "Telemach",
+      "latitude": 45.7703,
+      "longitude": 15.940557
+    },
+    {
+      "name": "Telemach",
+      "latitude": 45.790657,
+      "longitude": 15.913362
+    },
+    {
+      "name": "Telemach",
+      "latitude": 45.801178,
+      "longitude": 15.711228
+    },
+    {
+      "name": "Telemach",
+      "latitude": 45.812776,
+      "longitude": 15.985235
+    },
+    {
+      "name": "TIA Mobiteli",
+      "latitude": 45.695001,
+      "longitude": 15.646257
+    },
+    {
+      "name": "Trgovina Goga",
+      "latitude": 45.437742,
+      "longitude": 16.266935
+    },
+    {
+      "name": "Vacom",
+      "latitude": 45.286212,
+      "longitude": 18.407499
+    },
+    {
+      "name": "Vice promet-VIP",
+      "latitude": 43.442892,
+      "longitude": 16.689837
+    },
+    {
+      "name": "VIP",
+      "latitude": 43.702147,
+      "longitude": 16.637756
+    },
+    {
+      "name": "VIP Agency",
+      "latitude": 45.026189,
+      "longitude": 14.574326
+    },
+    {
+      "name": "Vip centar",
+      "latitude": 43.445415,
+      "longitude": 17.217101
+    },
+    {
+      "name": "Vip centar",
+      "latitude": 45.155029,
+      "longitude": 18.01702
+    },
+    {
+      "name": "Xiaomi",
+      "latitude": 45.555081,
+      "longitude": 18.637361
+    }
+  ],
+  "meta": {
+    "title": "Trgovine mobitelima - Besplatno preuzimanje",
+    "description": "Trgovine mobitelima u Hrvatskoj (114 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=mobile_phone), izrez EU-POIS/HR. Sadrži 114 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovine mobitelima | ListBase",
+    "seo_description": "Preuzmi Trgovine mobitelima — 114 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 114 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "hr-mjerne-jedinice-force",
+  "name": "Mjerne jedinice — kategorija 'force' (4)",
+  "title": "Mjerne jedinice — kategorija 'force' (4)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'force' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "force-kilogram-force",
+      "kategorija": "force",
+      "naziv": "kilogram-sila",
+      "kratica": "kgf",
+      "naziv_uski": "kgf",
+      "obrazac": "{0} kilogram-sila"
+    },
+    {
+      "id": 2,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategorija": "force",
+      "naziv": "kilovatsat na 100 kilometara",
+      "kratica": "kWh/100 km",
+      "naziv_uski": "kWh/100km",
+      "obrazac": "{0} kilovatsati na 100 kilometara"
+    },
+    {
+      "id": 3,
+      "unit_code": "force-newton",
+      "kategorija": "force",
+      "naziv": "njutni",
+      "kratica": "N",
+      "naziv_uski": "N",
+      "obrazac": "{0} njutna"
+    },
+    {
+      "id": 4,
+      "unit_code": "force-pound-force",
+      "kategorija": "force",
+      "naziv": "funte sile",
+      "kratica": "lbf",
+      "naziv_uski": "lbf",
+      "obrazac": "{0} funti sile"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'force' (4) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'force' s hrvatskim nazivima. Sadrži 4 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'force' (4) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'force' (4) — 4 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 4 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

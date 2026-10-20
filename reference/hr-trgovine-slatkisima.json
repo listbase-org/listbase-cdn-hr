@@ -1,0 +1,416 @@
+{
+  "id": "hr-trgovine-slatkisima",
+  "name": "Trgovine slatkišima",
+  "title": "Trgovine slatkišima",
+  "description": "Trgovine slatkišima u Hrvatskoj (75 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=confectionery), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ago",
+      "latitude": 45.147484,
+      "longitude": 14.66325
+    },
+    {
+      "name": "Albina",
+      "latitude": 45.499585,
+      "longitude": 16.360478
+    },
+    {
+      "name": "Amelie",
+      "latitude": 45.822172,
+      "longitude": 16.011597
+    },
+    {
+      "name": "Art Patisserie",
+      "latitude": 43.5113,
+      "longitude": 16.437
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.731448,
+      "longitude": 15.89772
+    },
+    {
+      "name": "Bobis",
+      "latitude": 43.73373,
+      "longitude": 15.895865
+    },
+    {
+      "name": "Bobis Food",
+      "latitude": 43.505241,
+      "longitude": 16.442384
+    },
+    {
+      "name": "BOMBON",
+      "latitude": 45.805962,
+      "longitude": 16.719421
+    },
+    {
+      "name": "Bonbonetta",
+      "latitude": 45.343603,
+      "longitude": 14.38939
+    },
+    {
+      "name": "Bonbonniere Kraš",
+      "latitude": 46.308268,
+      "longitude": 16.337611
+    },
+    {
+      "name": "Bonbonnière Kraš",
+      "latitude": 43.508876,
+      "longitude": 16.438289
+    },
+    {
+      "name": "Bonbonnière Kraš",
+      "latitude": 44.868177,
+      "longitude": 13.847042
+    },
+    {
+      "name": "Bonbonnière Kraš",
+      "latitude": 45.155143,
+      "longitude": 18.01185
+    },
+    {
+      "name": "Butik torti",
+      "latitude": 45.799083,
+      "longitude": 16.003354
+    },
+    {
+      "name": "Cake Box",
+      "latitude": 42.937659,
+      "longitude": 16.790695
+    },
+    {
+      "name": "Cake Time",
+      "latitude": 45.077025,
+      "longitude": 14.496781
+    },
+    {
+      "name": "Candy Bar",
+      "latitude": 43.50918,
+      "longitude": 16.439324
+    },
+    {
+      "name": "Candy Bar",
+      "latitude": 44.870589,
+      "longitude": 13.842331
+    },
+    {
+      "name": "Candy Cat",
+      "latitude": 45.026492,
+      "longitude": 14.576067
+    },
+    {
+      "name": "Candy shop",
+      "latitude": 43.937376,
+      "longitude": 15.44046
+    },
+    {
+      "name": "Candy Shop",
+      "latitude": 44.114187,
+      "longitude": 15.225956
+    },
+    {
+      "name": "Candy Shop",
+      "latitude": 44.242111,
+      "longitude": 15.182845
+    },
+    {
+      "name": "Candy Shop",
+      "latitude": 44.868263,
+      "longitude": 13.84557
+    },
+    {
+      "name": "Candy Snack",
+      "latitude": 45.872044,
+      "longitude": 15.827375
+    },
+    {
+      "name": "Captain Candy",
+      "latitude": 42.640952,
+      "longitude": 18.107989
+    },
+    {
+      "name": "Captain Candy",
+      "latitude": 42.64116,
+      "longitude": 18.109305
+    },
+    {
+      "name": "City of Candy",
+      "latitude": 44.115235,
+      "longitude": 15.22597
+    },
+    {
+      "name": "Corso ice",
+      "latitude": 44.185215,
+      "longitude": 15.161446
+    },
+    {
+      "name": "Cukar",
+      "latitude": 43.045099,
+      "longitude": 16.090085
+    },
+    {
+      "name": "Cukeraj",
+      "latitude": 45.790059,
+      "longitude": 15.92791
+    },
+    {
+      "name": "Dakar",
+      "latitude": 43.938137,
+      "longitude": 15.445825
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.812127,
+      "longitude": 15.986992
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.813594,
+      "longitude": 15.998466
+    },
+    {
+      "name": "Holy pancakes",
+      "latitude": 45.803994,
+      "longitude": 16.234572
+    },
+    {
+      "name": "Home of Donuts",
+      "latitude": 45.813569,
+      "longitude": 15.973738
+    },
+    {
+      "name": "Jagoda i čokolada",
+      "latitude": 45.804213,
+      "longitude": 16.233256
+    },
+    {
+      "name": "Jopa",
+      "latitude": 43.444406,
+      "longitude": 16.691633
+    },
+    {
+      "name": "kiwi",
+      "latitude": 42.96007,
+      "longitude": 17.135563
+    },
+    {
+      "name": "Koestlin Prodavaonica",
+      "latitude": 45.895001,
+      "longitude": 16.849324
+    },
+    {
+      "name": "Kraš",
+      "latitude": 45.325865,
+      "longitude": 14.44405
+    },
+    {
+      "name": "Kraš",
+      "latitude": 45.776544,
+      "longitude": 15.99634
+    },
+    {
+      "name": "Kraš",
+      "latitude": 45.778907,
+      "longitude": 15.995742
+    },
+    {
+      "name": "Kraš",
+      "latitude": 45.802903,
+      "longitude": 15.963843
+    },
+    {
+      "name": "Kraš",
+      "latitude": 45.804501,
+      "longitude": 15.977466
+    },
+    {
+      "name": "Kraš",
+      "latitude": 45.811856,
+      "longitude": 15.973767
+    },
+    {
+      "name": "Kraš Diskont",
+      "latitude": 45.821975,
+      "longitude": 16.032101
+    },
+    {
+      "name": "Krem",
+      "latitude": 45.81412,
+      "longitude": 16.008306
+    },
+    {
+      "name": "mans",
+      "latitude": 45.480735,
+      "longitude": 16.777691
+    },
+    {
+      "name": "Market",
+      "latitude": 43.05827,
+      "longitude": 16.198624
+    },
+    {
+      "name": "Nonica Caffe Bar",
+      "latitude": 43.171631,
+      "longitude": 16.441634
+    },
+    {
+      "name": "Orijent",
+      "latitude": 45.815953,
+      "longitude": 16.001212
+    },
+    {
+      "name": "Pirate's Secret (Candy Shop)",
+      "latitude": 45.227246,
+      "longitude": 13.591837
+    },
+    {
+      "name": "Pirate's Secret Candy Store",
+      "latitude": 45.813991,
+      "longitude": 15.976449
+    },
+    {
+      "name": "Priceza",
+      "latitude": 45.164169,
+      "longitude": 18.118189
+    },
+    {
+      "name": "Pčelarstvo Pintar",
+      "latitude": 45.418937,
+      "longitude": 14.7052
+    },
+    {
+      "name": "Slastice",
+      "latitude": 45.779387,
+      "longitude": 15.986156
+    },
+    {
+      "name": "slastičarna",
+      "latitude": 45.830038,
+      "longitude": 16.055609
+    },
+    {
+      "name": "slastičarna Banica",
+      "latitude": 45.339212,
+      "longitude": 16.089667
+    },
+    {
+      "name": "Slastičarna Grgur",
+      "latitude": 44.24233,
+      "longitude": 15.183132
+    },
+    {
+      "name": "slastičarna Šumska vila",
+      "latitude": 45.483388,
+      "longitude": 16.774171
+    },
+    {
+      "name": "Slastičarnica",
+      "latitude": 42.962549,
+      "longitude": 17.13644
+    },
+    {
+      "name": "slastičarnica",
+      "latitude": 45.813764,
+      "longitude": 15.927797
+    },
+    {
+      "name": "slastičarnica \"Le Kolač\"",
+      "latitude": 45.814827,
+      "longitude": 15.990964
+    },
+    {
+      "name": "Slastičarnica Jadrija",
+      "latitude": 43.724224,
+      "longitude": 15.844907
+    },
+    {
+      "name": "slatka priča",
+      "latitude": 45.803495,
+      "longitude": 15.960131
+    },
+    {
+      "name": "Slatki centar",
+      "latitude": 45.492512,
+      "longitude": 15.54906
+    },
+    {
+      "name": "Sugarfina",
+      "latitude": 44.113668,
+      "longitude": 15.226946
+    },
+    {
+      "name": "sweet corner",
+      "latitude": 45.080991,
+      "longitude": 13.636365
+    },
+    {
+      "name": "Torte i to",
+      "latitude": 45.81023,
+      "longitude": 15.998674
+    },
+    {
+      "name": "Vincek",
+      "latitude": 45.782333,
+      "longitude": 15.982251
+    },
+    {
+      "name": "Vitlov Chocolate",
+      "latitude": 44.113951,
+      "longitude": 15.226088
+    },
+    {
+      "name": "Zvečevo",
+      "latitude": 45.154362,
+      "longitude": 18.018333
+    },
+    {
+      "name": "Zvečevo",
+      "latitude": 45.331447,
+      "longitude": 17.676748
+    },
+    {
+      "name": "Zvečevo",
+      "latitude": 45.485437,
+      "longitude": 16.372613
+    },
+    {
+      "name": "Ĉagali",
+      "latitude": 43.181371,
+      "longitude": 16.671272
+    }
+  ],
+  "meta": {
+    "title": "Trgovine slatkišima - Besplatno preuzimanje",
+    "description": "Trgovine slatkišima u Hrvatskoj (75 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=confectionery), izrez EU-POIS/HR. Sadrži 75 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovine slatkišima | ListBase",
+    "seo_description": "Preuzmi Trgovine slatkišima — 75 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 75 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

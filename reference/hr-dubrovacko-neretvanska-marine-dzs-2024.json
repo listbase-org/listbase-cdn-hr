@@ -1,0 +1,316 @@
+{
+  "id": "hr-dubrovacko-neretvanska-marine-dzs-2024",
+  "name": "Marine — Dubrovačko-neretvanska županija (DZS 2024)",
+  "title": "Marine — Dubrovačko-neretvanska županija (DZS 2024)",
+  "description": "7 marina u županiji Dubrovačko-neretvanska županija (DZS 2024); podskup skupa hr-marine-dzs-2024.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "adresa",
+      "label": "Adresa",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "number"
+    },
+    {
+      "key": "mokri_vez",
+      "label": "Mokri Vez",
+      "type": "number"
+    },
+    {
+      "key": "suhi_vez",
+      "label": "Suhi Vez",
+      "type": "number"
+    },
+    {
+      "key": "duljina",
+      "label": "Duljina",
+      "type": "number"
+    },
+    {
+      "key": "gaz",
+      "label": "Gaz",
+      "type": "number"
+    },
+    {
+      "key": "otvoreno",
+      "label": "Otvoreno",
+      "type": "string"
+    },
+    {
+      "key": "servis",
+      "label": "Servis",
+      "type": "string"
+    },
+    {
+      "key": "prehrana",
+      "label": "Prehrana",
+      "type": "string"
+    },
+    {
+      "key": "wi_fi",
+      "label": "Wi Fi",
+      "type": "string"
+    },
+    {
+      "key": "crpka",
+      "label": "Crpka",
+      "type": "string"
+    },
+    {
+      "key": "punionica",
+      "label": "Punionica",
+      "type": "string"
+    },
+    {
+      "key": "parking",
+      "label": "Parking",
+      "type": "string"
+    },
+    {
+      "key": "smjestaj",
+      "label": "Smjestaj",
+      "type": "string"
+    },
+    {
+      "key": "bankomat",
+      "label": "Bankomat",
+      "type": "string"
+    },
+    {
+      "key": "najam",
+      "label": "Najam",
+      "type": "string"
+    },
+    {
+      "key": "web",
+      "label": "Web",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_normalizirano",
+      "label": "Zupanija Normalizirano",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 36,
+      "naziv": "ACI Marina Korčula",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "adresa": "Šetalište Frana Kršinića bb, Korčula",
+      "kategorija": 2,
+      "mokri_vez": 135,
+      "suhi_vez": 50,
+      "duljina": 50,
+      "gaz": 5,
+      "otvoreno": "cjelogodišnje",
+      "servis": "ne",
+      "prehrana": "da",
+      "wi_fi": "da",
+      "crpka": "da",
+      "punionica": "da",
+      "parking": "da",
+      "smjestaj": "ne",
+      "bankomat": "da",
+      "najam": "ne",
+      "web": "https://aci-marinas.com/hr/marina/aci-korcula/",
+      "zupanija_normalizirano": "Dubrovačko-neretvanska županija",
+      "latitude": 42.958943,
+      "longitude": 17.135873
+    },
+    {
+      "id": 46,
+      "naziv": "ACI Marina ''Veljko Barbieri'' Slano",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "adresa": "Slanica 2, Slano",
+      "kategorija": 3,
+      "mokri_vez": 200,
+      "suhi_vez": 0,
+      "duljina": 50,
+      "gaz": 5,
+      "otvoreno": "cjelogodišnje",
+      "servis": "da",
+      "prehrana": "da",
+      "wi_fi": "da",
+      "crpka": "da",
+      "punionica": "da",
+      "parking": "da",
+      "smjestaj": "ne",
+      "bankomat": "da",
+      "najam": "automobil, bicikl",
+      "web": "https://aci-marinas.com/hr/marina/aci-veljko-barbieri-slano/",
+      "zupanija_normalizirano": "Dubrovačko-neretvanska županija",
+      "latitude": 42.783836,
+      "longitude": 17.889105
+    },
+    {
+      "id": 47,
+      "naziv": "ACI Marina Dubrovnik",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "adresa": "Na skali 2, Mokošica, Dubrovnik",
+      "kategorija": 2,
+      "mokri_vez": 400,
+      "suhi_vez": 150,
+      "duljina": 45,
+      "gaz": 5,
+      "otvoreno": "cjelogodišnje",
+      "servis": "da",
+      "prehrana": "da",
+      "wi_fi": "da",
+      "crpka": "da",
+      "punionica": "da",
+      "parking": "da",
+      "smjestaj": "ne",
+      "bankomat": "da",
+      "najam": "brod",
+      "web": "https://aci-marinas.com/hr/marina/aci-dubrovnik/",
+      "zupanija_normalizirano": "Dubrovačko-neretvanska županija",
+      "latitude": 42.670635,
+      "longitude": 18.125228
+    },
+    {
+      "id": 63,
+      "naziv": "Marina Korkyra",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "adresa": "Obala 4, Vela Luka",
+      "kategorija": 3,
+      "mokri_vez": 132,
+      "suhi_vez": 0,
+      "duljina": 20,
+      "gaz": 3,
+      "otvoreno": "cjelogodišnje",
+      "servis": "ne",
+      "prehrana": "ne",
+      "wi_fi": "ne",
+      "crpka": "da",
+      "punionica": "ne",
+      "parking": "ne",
+      "smjestaj": "ne",
+      "bankomat": "ne",
+      "najam": "ne",
+      "web": "https://marina21.com/hr/marina-korkyra/",
+      "zupanija_normalizirano": "Dubrovačko-neretvanska županija",
+      "latitude": 42.960683,
+      "longitude": 16.713581
+    },
+    {
+      "id": 77,
+      "naziv": "Marina Ladesta Ubli",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "adresa": "Uvala Pasadur bb, Ubli, Lastovo",
+      "kategorija": 5,
+      "mokri_vez": 10,
+      "suhi_vez": 0,
+      "duljina": 20,
+      "gaz": 2,
+      "otvoreno": "polugodišnje (1. IV. - 31. X.)",
+      "servis": "ne",
+      "prehrana": "ne",
+      "wi_fi": "ne",
+      "crpka": "ne",
+      "punionica": "ne",
+      "parking": "ne",
+      "smjestaj": "ne",
+      "bankomat": "ne",
+      "najam": "ne",
+      "web": "https://www.navily.com/de/port/ubli-immigration-passport-control/3148",
+      "zupanija_normalizirano": "Dubrovačko-neretvanska županija",
+      "latitude": 42.744345,
+      "longitude": 16.824681
+    },
+    {
+      "id": 82,
+      "naziv": "Marina Solitudo",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "adresa": "Uvala Pasadur bb, Lastovo",
+      "kategorija": 2,
+      "mokri_vez": 30,
+      "suhi_vez": 0,
+      "duljina": 20,
+      "gaz": 3,
+      "otvoreno": "polugodišnje (1. IV. - 31. X.)",
+      "servis": "ne",
+      "prehrana": "da",
+      "wi_fi": "ne",
+      "crpka": "ne",
+      "punionica": "ne",
+      "parking": "ne",
+      "smjestaj": "da",
+      "bankomat": "ne",
+      "najam": "ne",
+      "web": "https://my-sea.com/en/poi/croatia/south-dalmatia/lastovo/marina-solitudo/6a231eca-6091-4862-b1cc-8dd37d030cea",
+      "zupanija_normalizirano": "Dubrovačko-neretvanska županija",
+      "latitude": 42.765787,
+      "longitude": 16.822308
+    },
+    {
+      "id": 83,
+      "naziv": "Marina Frapa (Gruž) Dubrovnik",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "adresa": "Lapadska obala 21a, Dubrovnik",
+      "kategorija": 3,
+      "mokri_vez": 179,
+      "suhi_vez": 0,
+      "duljina": 25,
+      "gaz": 3.5,
+      "otvoreno": "cjelogodišnje",
+      "servis": "da",
+      "prehrana": "da",
+      "wi_fi": "da",
+      "crpka": "da",
+      "punionica": "da",
+      "parking": "da",
+      "smjestaj": "ne",
+      "bankomat": "da",
+      "najam": "automobil",
+      "web": "https://www.marinafrapa.hr/dubrovnik/marina",
+      "zupanija_normalizirano": "Dubrovačko-neretvanska županija",
+      "latitude": 42.657525,
+      "longitude": 18.081435
+    }
+  ],
+  "meta": {
+    "title": "Marine — Dubrovačko-neretvanska županija (DZS 2024) - Besplatno preuzimanje",
+    "description": "7 marina u županiji Dubrovačko-neretvanska županija (DZS 2024); podskup skupa hr-marine-dzs-2024. Sadrži 7 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Marine — Dubrovačko-neretvanska županija (DZS 2024) | ListBase",
+    "seo_description": "Preuzmi Marine — Dubrovačko-neretvanska županija (DZS 2024) — 7 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 7 zapisa / 23 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

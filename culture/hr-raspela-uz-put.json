@@ -1,0 +1,576 @@
+{
+  "id": "hr-raspela-uz-put",
+  "name": "Raspela uz put",
+  "title": "Raspela uz put",
+  "description": "Raspela uz put u Hrvatskoj (107 zapisa) — točke interesa iz OpenStreetMapa (oznaka historic=wayside_cross), izrez EU-POIS/HR.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 107,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Belusici",
+      "latitude": 45.157939,
+      "longitude": 14.050932
+    },
+    {
+      "name": "Gospa od Karmena",
+      "latitude": 43.023036,
+      "longitude": 17.025486
+    },
+    {
+      "name": "I",
+      "latitude": 42.646817,
+      "longitude": 18.108282
+    },
+    {
+      "name": "I",
+      "latitude": 45.023421,
+      "longitude": 14.635819
+    },
+    {
+      "name": "I postaja križnog puta",
+      "latitude": 44.032352,
+      "longitude": 15.400538
+    },
+    {
+      "name": "IHS  P.I.V. 1939",
+      "latitude": 44.989788,
+      "longitude": 14.720755
+    },
+    {
+      "name": "II",
+      "latitude": 42.647139,
+      "longitude": 18.10845
+    },
+    {
+      "name": "II",
+      "latitude": 45.023525,
+      "longitude": 14.636507
+    },
+    {
+      "name": "II postaja križnog puta",
+      "latitude": 44.032548,
+      "longitude": 15.400056
+    },
+    {
+      "name": "III",
+      "latitude": 42.647233,
+      "longitude": 18.108695
+    },
+    {
+      "name": "III",
+      "latitude": 45.023871,
+      "longitude": 14.636639
+    },
+    {
+      "name": "III postaja križnog puta",
+      "latitude": 44.032472,
+      "longitude": 15.399438
+    },
+    {
+      "name": "IV",
+      "latitude": 42.6473,
+      "longitude": 18.109157
+    },
+    {
+      "name": "IV",
+      "latitude": 45.023904,
+      "longitude": 14.637
+    },
+    {
+      "name": "IV postaja križnog puta",
+      "latitude": 44.032714,
+      "longitude": 15.3986
+    },
+    {
+      "name": "IX",
+      "latitude": 42.648309,
+      "longitude": 18.109813
+    },
+    {
+      "name": "IX",
+      "latitude": 45.023647,
+      "longitude": 14.638632
+    },
+    {
+      "name": "IX postaja križnog puta",
+      "latitude": 44.033921,
+      "longitude": 15.396354
+    },
+    {
+      "name": "Kalvarija",
+      "latitude": 44.987936,
+      "longitude": 14.900806
+    },
+    {
+      "name": "Kalvarija",
+      "latitude": 45.182914,
+      "longitude": 13.833133
+    },
+    {
+      "name": "Kalvarija",
+      "latitude": 45.219953,
+      "longitude": 14.00676
+    },
+    {
+      "name": "Kalvarija",
+      "latitude": 45.238704,
+      "longitude": 13.92727
+    },
+    {
+      "name": "Kalvarija",
+      "latitude": 45.293665,
+      "longitude": 14.275252
+    },
+    {
+      "name": "kameni križ",
+      "latitude": 44.829081,
+      "longitude": 15.299319
+    },
+    {
+      "name": "Kameni križ",
+      "latitude": 45.252897,
+      "longitude": 13.900499
+    },
+    {
+      "name": "Kapelica",
+      "latitude": 45.750128,
+      "longitude": 15.630691
+    },
+    {
+      "name": "Kapelica na Prekrižju",
+      "latitude": 45.740684,
+      "longitude": 15.65575
+    },
+    {
+      "name": "Križ",
+      "latitude": 43.624392,
+      "longitude": 16.717699
+    },
+    {
+      "name": "Križ",
+      "latitude": 45.362796,
+      "longitude": 17.750549
+    },
+    {
+      "name": "Križ krajputaš u Levkušju",
+      "latitude": 45.573053,
+      "longitude": 15.520442
+    },
+    {
+      "name": "Križ rudeške nade",
+      "latitude": 45.797068,
+      "longitude": 15.920028
+    },
+    {
+      "name": "LIPJE",
+      "latitude": 45.48435,
+      "longitude": 15.697933
+    },
+    {
+      "name": "Mali Opaćac",
+      "latitude": 44.04979,
+      "longitude": 15.112823
+    },
+    {
+      "name": "Marin grob",
+      "latitude": 45.234787,
+      "longitude": 14.972909
+    },
+    {
+      "name": "Milenijski križ",
+      "latitude": 45.836675,
+      "longitude": 15.568443
+    },
+    {
+      "name": "Oplovac",
+      "latitude": 45.287776,
+      "longitude": 14.248632
+    },
+    {
+      "name": "Orljak",
+      "latitude": 45.419469,
+      "longitude": 14.126701
+    },
+    {
+      "name": "Petra Hanzliková",
+      "latitude": 42.98113,
+      "longitude": 17.127788
+    },
+    {
+      "name": "Pil u Javoru",
+      "latitude": 45.773622,
+      "longitude": 15.477195
+    },
+    {
+      "name": "Podrucje Lovnog mira",
+      "latitude": 45.140158,
+      "longitude": 14.021859
+    },
+    {
+      "name": "Poklonac",
+      "latitude": 45.675309,
+      "longitude": 16.068783
+    },
+    {
+      "name": "Postaja križnog puta",
+      "latitude": 43.317735,
+      "longitude": 16.43744
+    },
+    {
+      "name": "Postaja križnog puta",
+      "latitude": 43.318301,
+      "longitude": 16.438791
+    },
+    {
+      "name": "Postaja križnog puta",
+      "latitude": 43.318695,
+      "longitude": 16.439842
+    },
+    {
+      "name": "Postaja križnog puta",
+      "latitude": 43.319239,
+      "longitude": 16.440946
+    },
+    {
+      "name": "Postaja križnog puta",
+      "latitude": 43.320215,
+      "longitude": 16.441469
+    },
+    {
+      "name": "Postaja križnog puta",
+      "latitude": 43.320842,
+      "longitude": 16.442626
+    },
+    {
+      "name": "Postaja križnog puta",
+      "latitude": 43.321204,
+      "longitude": 16.443699
+    },
+    {
+      "name": "Postaja križnog puta",
+      "latitude": 43.321851,
+      "longitude": 16.444946
+    },
+    {
+      "name": "Postaja križnog puta",
+      "latitude": 43.322506,
+      "longitude": 16.44589
+    },
+    {
+      "name": "Postaja križnog puta",
+      "latitude": 43.32325,
+      "longitude": 16.446689
+    },
+    {
+      "name": "Postaja križnog puta",
+      "latitude": 43.3239,
+      "longitude": 16.447641
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.621114,
+      "longitude": 17.127259
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 46.032634,
+      "longitude": 15.969607
+    },
+    {
+      "name": "Raspelo Prgomelje",
+      "latitude": 45.889391,
+      "longitude": 16.738691
+    },
+    {
+      "name": "Raspelo sv. Ane",
+      "latitude": 45.441036,
+      "longitude": 16.903423
+    },
+    {
+      "name": "Reformatski križ",
+      "latitude": 45.75108,
+      "longitude": 18.729083
+    },
+    {
+      "name": "Spominski križ",
+      "latitude": 46.54133,
+      "longitude": 16.357183
+    },
+    {
+      "name": "St. XII",
+      "latitude": 46.003683,
+      "longitude": 16.122978
+    },
+    {
+      "name": "Sv. Lucija",
+      "latitude": 44.98292,
+      "longitude": 14.137372
+    },
+    {
+      "name": "Sv. Petar",
+      "latitude": 43.178483,
+      "longitude": 17.192459
+    },
+    {
+      "name": "Sveta Lucija",
+      "latitude": 44.302327,
+      "longitude": 15.073572
+    },
+    {
+      "name": "Sveto znamenje",
+      "latitude": 46.550238,
+      "longitude": 16.352017
+    },
+    {
+      "name": "The Cross of Triton",
+      "latitude": 42.633053,
+      "longitude": 18.118832
+    },
+    {
+      "name": "Tri krizi",
+      "latitude": 45.023928,
+      "longitude": 14.639535
+    },
+    {
+      "name": "V",
+      "latitude": 42.647541,
+      "longitude": 18.109392
+    },
+    {
+      "name": "V",
+      "latitude": 45.023886,
+      "longitude": 14.637491
+    },
+    {
+      "name": "V postaja križnog puta",
+      "latitude": 44.032925,
+      "longitude": 15.398261
+    },
+    {
+      "name": "VI",
+      "latitude": 42.647777,
+      "longitude": 18.109586
+    },
+    {
+      "name": "VI",
+      "latitude": 45.023774,
+      "longitude": 14.637792
+    },
+    {
+      "name": "VI postaja križnog puta",
+      "latitude": 44.033314,
+      "longitude": 15.397776
+    },
+    {
+      "name": "VII",
+      "latitude": 42.647845,
+      "longitude": 18.109847
+    },
+    {
+      "name": "VII",
+      "latitude": 45.023698,
+      "longitude": 14.637999
+    },
+    {
+      "name": "VII postaja križnog puta",
+      "latitude": 44.03355,
+      "longitude": 15.397207
+    },
+    {
+      "name": "VIII",
+      "latitude": 42.648024,
+      "longitude": 18.10983
+    },
+    {
+      "name": "VIII",
+      "latitude": 45.023672,
+      "longitude": 14.638389
+    },
+    {
+      "name": "VIII postaja križnog puta",
+      "latitude": 44.033764,
+      "longitude": 15.396791
+    },
+    {
+      "name": "Visoka-1.postaja križnog puta",
+      "latitude": 43.687816,
+      "longitude": 16.622806
+    },
+    {
+      "name": "Visoka-10.postaja križnog puta",
+      "latitude": 43.68967,
+      "longitude": 16.613891
+    },
+    {
+      "name": "Visoka-11.postaja križnog puta",
+      "latitude": 43.689178,
+      "longitude": 16.612367
+    },
+    {
+      "name": "Visoka-12.postaja križnog puta",
+      "latitude": 43.687858,
+      "longitude": 16.611002
+    },
+    {
+      "name": "Visoka-13.postaja križnog puta",
+      "latitude": 43.686276,
+      "longitude": 16.609515
+    },
+    {
+      "name": "Visoka-14.postaja križnog puta",
+      "latitude": 43.684914,
+      "longitude": 16.60935
+    },
+    {
+      "name": "Visoka-23.postaja križnog puta",
+      "latitude": 43.688606,
+      "longitude": 16.620408
+    },
+    {
+      "name": "Visoka-4.postaja križnog puta",
+      "latitude": 43.68905,
+      "longitude": 16.620057
+    },
+    {
+      "name": "Visoka-5.postaja križnog puta",
+      "latitude": 43.689182,
+      "longitude": 16.619195
+    },
+    {
+      "name": "Visoka-6.postaja križnog puta",
+      "latitude": 43.689373,
+      "longitude": 16.618406
+    },
+    {
+      "name": "Visoka-7.postaja križnog puta",
+      "latitude": 43.689508,
+      "longitude": 16.617653
+    },
+    {
+      "name": "Visoka-8.postaja križnog puta",
+      "latitude": 43.689775,
+      "longitude": 16.616573
+    },
+    {
+      "name": "Visoka-9.postaja križnog puta",
+      "latitude": 43.689462,
+      "longitude": 16.615856
+    },
+    {
+      "name": "X",
+      "latitude": 42.648458,
+      "longitude": 18.109973
+    },
+    {
+      "name": "X",
+      "latitude": 45.023645,
+      "longitude": 14.639007
+    },
+    {
+      "name": "X postaja križnog puta",
+      "latitude": 44.03392,
+      "longitude": 15.39578
+    },
+    {
+      "name": "XI",
+      "latitude": 42.648872,
+      "longitude": 18.110066
+    },
+    {
+      "name": "XI",
+      "latitude": 45.023736,
+      "longitude": 14.639593
+    },
+    {
+      "name": "XI postaja križnog puta",
+      "latitude": 44.033716,
+      "longitude": 15.395163
+    },
+    {
+      "name": "XII",
+      "latitude": 42.649064,
+      "longitude": 18.110529
+    },
+    {
+      "name": "XII",
+      "latitude": 45.023898,
+      "longitude": 14.639569
+    },
+    {
+      "name": "XII postaja križnog puta",
+      "latitude": 44.033413,
+      "longitude": 15.394738
+    },
+    {
+      "name": "XIII",
+      "latitude": 42.649231,
+      "longitude": 18.110705
+    },
+    {
+      "name": "XIII",
+      "latitude": 45.024056,
+      "longitude": 14.639679
+    },
+    {
+      "name": "XIII postaja križnog puta",
+      "latitude": 44.03297,
+      "longitude": 15.394828
+    },
+    {
+      "name": "XIV",
+      "latitude": 42.649417,
+      "longitude": 18.11068
+    },
+    {
+      "name": "XIV",
+      "latitude": 45.024092,
+      "longitude": 14.639824
+    },
+    {
+      "name": "XIV postaja križnog puta",
+      "latitude": 44.032419,
+      "longitude": 15.39513
+    },
+    {
+      "name": "Zakam",
+      "latitude": 44.977656,
+      "longitude": 14.750627
+    },
+    {
+      "name": "Zavjetni križ",
+      "latitude": 46.176606,
+      "longitude": 16.303887
+    }
+  ],
+  "meta": {
+    "title": "Raspela uz put - Besplatno preuzimanje",
+    "description": "Raspela uz put u Hrvatskoj (107 zapisa) — točke interesa iz OpenStreetMapa (oznaka historic=wayside_cross), izrez EU-POIS/HR. Sadrži 107 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Raspela uz put | ListBase",
+    "seo_description": "Preuzmi Raspela uz put — 107 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 107 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

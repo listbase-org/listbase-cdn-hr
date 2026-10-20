@@ -1,0 +1,406 @@
+{
+  "id": "hr-papirnice",
+  "name": "Papirnice",
+  "title": "Papirnice",
+  "description": "Papirnice u Hrvatskoj (73 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=stationery), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A4",
+      "latitude": 45.88517,
+      "longitude": 16.417866
+    },
+    {
+      "name": "Ama",
+      "latitude": 43.55037,
+      "longitude": 16.343188
+    },
+    {
+      "name": "AMK",
+      "latitude": 45.485143,
+      "longitude": 16.371368
+    },
+    {
+      "name": "Bajlo-MIL",
+      "latitude": 45.803235,
+      "longitude": 15.997282
+    },
+    {
+      "name": "Binar",
+      "latitude": 43.511345,
+      "longitude": 16.441707
+    },
+    {
+      "name": "Binar",
+      "latitude": 43.517358,
+      "longitude": 16.444637
+    },
+    {
+      "name": "Cetis-ZG",
+      "latitude": 45.80135,
+      "longitude": 15.763767
+    },
+    {
+      "name": "DM Copy",
+      "latitude": 45.786121,
+      "longitude": 15.952982
+    },
+    {
+      "name": "Domina-M",
+      "latitude": 46.376053,
+      "longitude": 16.387236
+    },
+    {
+      "name": "Fartek",
+      "latitude": 45.805798,
+      "longitude": 15.714406
+    },
+    {
+      "name": "Fokus",
+      "latitude": 45.372981,
+      "longitude": 14.390544
+    },
+    {
+      "name": "Fornetarija",
+      "latitude": 45.825352,
+      "longitude": 15.985173
+    },
+    {
+      "name": "Galerija Tischler",
+      "latitude": 45.813232,
+      "longitude": 15.966795
+    },
+    {
+      "name": "Grafoplast",
+      "latitude": 46.376534,
+      "longitude": 16.3838
+    },
+    {
+      "name": "Grafoton",
+      "latitude": 45.487935,
+      "longitude": 16.372546
+    },
+    {
+      "name": "IWE",
+      "latitude": 45.325703,
+      "longitude": 13.575865
+    },
+    {
+      "name": "Jelena",
+      "latitude": 45.482777,
+      "longitude": 16.776216
+    },
+    {
+      "name": "Kiosk Tisak",
+      "latitude": 45.616092,
+      "longitude": 18.536038
+    },
+    {
+      "name": "Knjizara i papirnica",
+      "latitude": 46.338119,
+      "longitude": 16.613936
+    },
+    {
+      "name": "Knjižara I Papirnica",
+      "latitude": 43.162032,
+      "longitude": 16.690873
+    },
+    {
+      "name": "Knjižara i papirnica Tiskara ŠiM",
+      "latitude": 45.80509,
+      "longitude": 16.2371
+    },
+    {
+      "name": "Knjižara i papirnica Zrno promet",
+      "latitude": 45.794538,
+      "longitude": 15.994629
+    },
+    {
+      "name": "Knjižara Jelena",
+      "latitude": 45.341649,
+      "longitude": 16.975928
+    },
+    {
+      "name": "Knjižara Tip",
+      "latitude": 45.342631,
+      "longitude": 16.974723
+    },
+    {
+      "name": "krex",
+      "latitude": 45.48036,
+      "longitude": 16.777086
+    },
+    {
+      "name": "Kult",
+      "latitude": 45.287887,
+      "longitude": 18.806246
+    },
+    {
+      "name": "LIBAR",
+      "latitude": 45.318934,
+      "longitude": 13.569309
+    },
+    {
+      "name": "M",
+      "latitude": 45.487689,
+      "longitude": 16.371066
+    },
+    {
+      "name": "Mažuranić",
+      "latitude": 43.513866,
+      "longitude": 16.454906
+    },
+    {
+      "name": "Naprijed",
+      "latitude": 45.776613,
+      "longitude": 15.995853
+    },
+    {
+      "name": "Narodne Novine",
+      "latitude": 43.295642,
+      "longitude": 17.01701
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 43.506377,
+      "longitude": 16.445194
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 45.023273,
+      "longitude": 14.569304
+    },
+    {
+      "name": "Narodne Novine",
+      "latitude": 45.230206,
+      "longitude": 13.605955
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 45.325022,
+      "longitude": 14.445234
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 45.331978,
+      "longitude": 17.677039
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 45.491069,
+      "longitude": 16.373921
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 45.769471,
+      "longitude": 15.951647
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 45.79885,
+      "longitude": 15.980428
+    },
+    {
+      "name": "Narodne Novine",
+      "latitude": 45.80562,
+      "longitude": 16.233843
+    },
+    {
+      "name": "Narodne Novine",
+      "latitude": 45.809789,
+      "longitude": 15.986263
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 45.81259,
+      "longitude": 15.979003
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 45.826719,
+      "longitude": 16.045205
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 46.042372,
+      "longitude": 17.066266
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 46.163186,
+      "longitude": 16.831599
+    },
+    {
+      "name": "Narodne novine",
+      "latitude": 46.389869,
+      "longitude": 16.437154
+    },
+    {
+      "name": "Opstanak",
+      "latitude": 43.515417,
+      "longitude": 16.482358
+    },
+    {
+      "name": "P'XY",
+      "latitude": 45.79655,
+      "longitude": 15.964844
+    },
+    {
+      "name": "Palma",
+      "latitude": 43.502351,
+      "longitude": 16.524931
+    },
+    {
+      "name": "Papirko",
+      "latitude": 43.51886,
+      "longitude": 16.446694
+    },
+    {
+      "name": "Papirnica",
+      "latitude": 45.799993,
+      "longitude": 15.953067
+    },
+    {
+      "name": "Papirnica California",
+      "latitude": 45.792361,
+      "longitude": 15.949464
+    },
+    {
+      "name": "Papirnica Hari",
+      "latitude": 44.113347,
+      "longitude": 15.226947
+    },
+    {
+      "name": "Papirnica Kogutex",
+      "latitude": 46.044734,
+      "longitude": 16.083903
+    },
+    {
+      "name": "papirnica Maksimir",
+      "latitude": 45.819147,
+      "longitude": 16.002762
+    },
+    {
+      "name": "papirnica Tip",
+      "latitude": 45.479764,
+      "longitude": 16.775803
+    },
+    {
+      "name": "Pepco",
+      "latitude": 45.089963,
+      "longitude": 13.658404
+    },
+    {
+      "name": "Pin exclusive",
+      "latitude": 45.33629,
+      "longitude": 17.675858
+    },
+    {
+      "name": "Plavi dućan",
+      "latitude": 45.165441,
+      "longitude": 17.998653
+    },
+    {
+      "name": "proming HCH",
+      "latitude": 45.788817,
+      "longitude": 15.910851
+    },
+    {
+      "name": "Prosvjeta",
+      "latitude": 45.797581,
+      "longitude": 15.943496
+    },
+    {
+      "name": "Prosvjeta",
+      "latitude": 45.802479,
+      "longitude": 15.929689
+    },
+    {
+      "name": "Prosvjeta",
+      "latitude": 45.813174,
+      "longitude": 15.968671
+    },
+    {
+      "name": "Salamander",
+      "latitude": 45.412597,
+      "longitude": 13.970733
+    },
+    {
+      "name": "Sunčica",
+      "latitude": 43.061283,
+      "longitude": 16.183145
+    },
+    {
+      "name": "Textpapir",
+      "latitude": 43.513724,
+      "longitude": 16.439885
+    },
+    {
+      "name": "Trafik",
+      "latitude": 45.256358,
+      "longitude": 13.582305
+    },
+    {
+      "name": "Tramax",
+      "latitude": 43.507715,
+      "longitude": 16.4666
+    },
+    {
+      "name": "Tramax",
+      "latitude": 43.513178,
+      "longitude": 16.451788
+    },
+    {
+      "name": "Trgovina Krk d.d.  p 46 (123046)knjižara papirnica",
+      "latitude": 45.995872,
+      "longitude": 15.916022
+    },
+    {
+      "name": "Vino Vero",
+      "latitude": 45.813438,
+      "longitude": 15.92723
+    },
+    {
+      "name": "Znanje",
+      "latitude": 45.80343,
+      "longitude": 16.226185
+    },
+    {
+      "name": "Škatula",
+      "latitude": 43.515419,
+      "longitude": 16.435583
+    }
+  ],
+  "meta": {
+    "title": "Papirnice - Besplatno preuzimanje",
+    "description": "Papirnice u Hrvatskoj (73 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=stationery), izrez EU-POIS/HR. Sadrži 73 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Papirnice | ListBase",
+    "seo_description": "Preuzmi Papirnice — 73 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 73 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

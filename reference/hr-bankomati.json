@@ -1,0 +1,4581 @@
+{
+  "id": "hr-bankomati",
+  "name": "Bankomati u Hrvatskoj",
+  "title": "Bankomati u Hrvatskoj",
+  "description": "ATMs in Croatia (amenity=atm) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 908,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Addiko",
+      "latitude": 44.07553,
+      "longitude": 15.194375
+    },
+    {
+      "name": "Addiko",
+      "latitude": 45.488642,
+      "longitude": 15.546129
+    },
+    {
+      "name": "Addiko",
+      "latitude": 45.769474,
+      "longitude": 16.00475
+    },
+    {
+      "name": "Addiko",
+      "latitude": 45.772707,
+      "longitude": 15.94475
+    },
+    {
+      "name": "Addiko",
+      "latitude": 45.791335,
+      "longitude": 15.913633
+    },
+    {
+      "name": "Addiko",
+      "latitude": 45.793888,
+      "longitude": 15.969714
+    },
+    {
+      "name": "Addiko",
+      "latitude": 45.800301,
+      "longitude": 15.973352
+    },
+    {
+      "name": "Addiko",
+      "latitude": 45.809264,
+      "longitude": 15.964974
+    },
+    {
+      "name": "Addiko",
+      "latitude": 45.810548,
+      "longitude": 16.00209
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 42.660484,
+      "longitude": 18.179742
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 43.506419,
+      "longitude": 16.44413
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 43.509158,
+      "longitude": 16.443341
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 43.516597,
+      "longitude": 16.251038
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 43.734485,
+      "longitude": 15.890796
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 44.056246,
+      "longitude": 15.298722
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 44.693257,
+      "longitude": 14.393425
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 45.565616,
+      "longitude": 18.620439
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 45.772854,
+      "longitude": 15.968136
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 45.776925,
+      "longitude": 15.978545
+    },
+    {
+      "name": "ADDIKO Bank",
+      "latitude": 45.787104,
+      "longitude": 15.951872
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 45.799859,
+      "longitude": 15.952758
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 45.801367,
+      "longitude": 15.707257
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 45.805708,
+      "longitude": 16.231527
+    },
+    {
+      "name": "Addiko Bank",
+      "latitude": 45.813523,
+      "longitude": 15.976607
+    },
+    {
+      "name": "Addiko Bank BiH",
+      "latitude": 43.051065,
+      "longitude": 17.672426
+    },
+    {
+      "name": "Addiko Banka",
+      "latitude": 43.506634,
+      "longitude": 16.43232
+    },
+    {
+      "name": "Addiko Banka",
+      "latitude": 45.541029,
+      "longitude": 18.051525
+    },
+    {
+      "name": "Agram Banka",
+      "latitude": 43.295157,
+      "longitude": 17.016216
+    },
+    {
+      "name": "Atm",
+      "latitude": 42.622295,
+      "longitude": 18.2064
+    },
+    {
+      "name": "ATM",
+      "latitude": 42.727359,
+      "longitude": 17.671322
+    },
+    {
+      "name": "ATM",
+      "latitude": 43.482185,
+      "longitude": 16.556695
+    },
+    {
+      "name": "ATM",
+      "latitude": 45.291023,
+      "longitude": 14.27707
+    },
+    {
+      "name": "ATM (NA)",
+      "latitude": 43.552474,
+      "longitude": 16.34244
+    },
+    {
+      "name": "ATM Core Lounge",
+      "latitude": 43.811654,
+      "longitude": 15.300533
+    },
+    {
+      "name": "ATM Erste",
+      "latitude": 44.075613,
+      "longitude": 15.19464
+    },
+    {
+      "name": "ATM Erste",
+      "latitude": 44.295074,
+      "longitude": 15.115604
+    },
+    {
+      "name": "ATM Erste",
+      "latitude": 44.30158,
+      "longitude": 15.081058
+    },
+    {
+      "name": "Atm euronet",
+      "latitude": 44.822138,
+      "longitude": 13.854686
+    },
+    {
+      "name": "Atm HPB",
+      "latitude": 44.823752,
+      "longitude": 13.853385
+    },
+    {
+      "name": "ATM Hrvatska Poštanska Banka",
+      "latitude": 45.433208,
+      "longitude": 13.519409
+    },
+    {
+      "name": "ATM Otpbanka",
+      "latitude": 42.689127,
+      "longitude": 17.942096
+    },
+    {
+      "name": "Auro Domus",
+      "latitude": 43.51679,
+      "longitude": 16.250947
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 44.81891,
+      "longitude": 14.350743
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 46.15173,
+      "longitude": 15.600741
+    },
+    {
+      "name": "Bankomat",
+      "latitude": 46.368866,
+      "longitude": 16.126758
+    },
+    {
+      "name": "Bankomat ERSTE",
+      "latitude": 45.082152,
+      "longitude": 13.634756
+    },
+    {
+      "name": "bankomat hotel Labineca",
+      "latitude": 43.11019,
+      "longitude": 17.339167
+    },
+    {
+      "name": "Bankomat Opat",
+      "latitude": 43.739443,
+      "longitude": 15.453249
+    },
+    {
+      "name": "Bankomat OTP banke",
+      "latitude": 43.560999,
+      "longitude": 16.522482
+    },
+    {
+      "name": "Bankomat PBZ",
+      "latitude": 45.797924,
+      "longitude": 15.905491
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 42.655268,
+      "longitude": 18.07645
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 43.51849,
+      "longitude": 16.484094
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 44.110623,
+      "longitude": 15.237727
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 44.860616,
+      "longitude": 13.824435
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 45.317404,
+      "longitude": 14.469533
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 45.554934,
+      "longitude": 18.636768
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 45.794887,
+      "longitude": 15.918727
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 45.807075,
+      "longitude": 15.994629
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 45.81253,
+      "longitude": 15.950608
+    },
+    {
+      "name": "Cash machine",
+      "latitude": 42.653028,
+      "longitude": 18.07943
+    },
+    {
+      "name": "Centar Banka",
+      "latitude": 45.558162,
+      "longitude": 18.676068
+    },
+    {
+      "name": "Croatia",
+      "latitude": 45.154267,
+      "longitude": 18.011776
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.264949,
+      "longitude": 17.057193
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.502527,
+      "longitude": 16.525176
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.507071,
+      "longitude": 16.442885
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.513178,
+      "longitude": 16.451012
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.513444,
+      "longitude": 16.109026
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.51665,
+      "longitude": 16.457303
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.550155,
+      "longitude": 16.385284
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.701748,
+      "longitude": 16.644129
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.712959,
+      "longitude": 15.913035
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.937366,
+      "longitude": 15.167078
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.939623,
+      "longitude": 15.439859
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.94189,
+      "longitude": 15.453106
+    },
+    {
+      "name": "Erste",
+      "latitude": 43.942467,
+      "longitude": 15.445552
+    },
+    {
+      "name": "Erste",
+      "latitude": 44.532025,
+      "longitude": 14.467664
+    },
+    {
+      "name": "erste",
+      "latitude": 44.546992,
+      "longitude": 15.371339
+    },
+    {
+      "name": "Erste",
+      "latitude": 44.7557,
+      "longitude": 14.761759
+    },
+    {
+      "name": "Erste",
+      "latitude": 44.992176,
+      "longitude": 14.9007
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.312433,
+      "longitude": 14.285784
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.331255,
+      "longitude": 14.301521
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.332395,
+      "longitude": 14.302604
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.338382,
+      "longitude": 14.308749
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.354785,
+      "longitude": 14.369435
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.440539,
+      "longitude": 13.524339
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.482803,
+      "longitude": 16.776136
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.488632,
+      "longitude": 15.546137
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.544737,
+      "longitude": 18.709441
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.546653,
+      "longitude": 18.656421
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.556172,
+      "longitude": 18.716573
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.559236,
+      "longitude": 18.677958
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.705618,
+      "longitude": 16.393249
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.713082,
+      "longitude": 16.069513
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.71839,
+      "longitude": 16.054513
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.790259,
+      "longitude": 15.93805
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.79232,
+      "longitude": 15.901987
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.792829,
+      "longitude": 15.914995
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.794912,
+      "longitude": 15.919257
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.795157,
+      "longitude": 16.017991
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.797448,
+      "longitude": 15.937952
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.79788,
+      "longitude": 15.905563
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.797919,
+      "longitude": 15.913783
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.799236,
+      "longitude": 15.970223
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.799938,
+      "longitude": 15.981318
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.800122,
+      "longitude": 16.008335
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.801784,
+      "longitude": 15.99042
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.802134,
+      "longitude": 16.050724
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.80571,
+      "longitude": 16.231565
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.805735,
+      "longitude": 15.985391
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.805753,
+      "longitude": 16.225704
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.809086,
+      "longitude": 15.71669
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.809224,
+      "longitude": 16.013668
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.810519,
+      "longitude": 16.002119
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.813455,
+      "longitude": 15.942372
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.832014,
+      "longitude": 15.977753
+    },
+    {
+      "name": "Erste",
+      "latitude": 45.852269,
+      "longitude": 15.94996
+    },
+    {
+      "name": "Erste",
+      "latitude": 46.305629,
+      "longitude": 16.330592
+    },
+    {
+      "name": "Erste & SteierMärkische Bank",
+      "latitude": 44.958662,
+      "longitude": 14.409529
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 42.560618,
+      "longitude": 18.261225
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.180299,
+      "longitude": 16.577587
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.240989,
+      "longitude": 17.076489
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.260661,
+      "longitude": 16.654448
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.26477,
+      "longitude": 17.057155
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.295119,
+      "longitude": 17.017763
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.443335,
+      "longitude": 16.692878
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.50343,
+      "longitude": 16.476627
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.506336,
+      "longitude": 16.504674
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.507806,
+      "longitude": 16.475939
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.508852,
+      "longitude": 16.436847
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.586072,
+      "longitude": 15.922558
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.588081,
+      "longitude": 16.571106
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.733413,
+      "longitude": 15.894977
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.755591,
+      "longitude": 15.87898
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 43.936445,
+      "longitude": 15.443411
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 44.037194,
+      "longitude": 16.19751
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 44.056254,
+      "longitude": 15.298711
+    },
+    {
+      "name": "Erste bank",
+      "latitude": 44.518927,
+      "longitude": 14.501896
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 44.970194,
+      "longitude": 14.752156
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.075868,
+      "longitude": 14.675064
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.079032,
+      "longitude": 14.15806
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.125048,
+      "longitude": 14.79361
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.173225,
+      "longitude": 14.690958
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.219726,
+      "longitude": 14.572122
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.274313,
+      "longitude": 14.569338
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.325975,
+      "longitude": 14.445146
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.326737,
+      "longitude": 14.44271
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.326791,
+      "longitude": 14.441926
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.339392,
+      "longitude": 17.682785
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.342365,
+      "longitude": 17.666678
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.433282,
+      "longitude": 13.520932
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.552896,
+      "longitude": 18.675473
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.561298,
+      "longitude": 18.680024
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.631439,
+      "longitude": 15.322299
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.715266,
+      "longitude": 16.072695
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.772319,
+      "longitude": 15.964997
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.776362,
+      "longitude": 15.965517
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.776544,
+      "longitude": 15.979035
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.776717,
+      "longitude": 15.972366
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.790999,
+      "longitude": 15.947068
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 45.794262,
+      "longitude": 15.997112
+    },
+    {
+      "name": "Erste Bank",
+      "latitude": 46.093015,
+      "longitude": 15.837821
+    },
+    {
+      "name": "Erste banka",
+      "latitude": 43.442438,
+      "longitude": 17.201202
+    },
+    {
+      "name": "Erste banka",
+      "latitude": 43.504208,
+      "longitude": 16.442837
+    },
+    {
+      "name": "Erste Banka",
+      "latitude": 45.81647,
+      "longitude": 15.933824
+    },
+    {
+      "name": "Erstebank",
+      "latitude": 45.487767,
+      "longitude": 16.372543
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.641071,
+      "longitude": 18.109472
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.641323,
+      "longitude": 18.108321
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.662095,
+      "longitude": 18.070438
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.701302,
+      "longitude": 18.040101
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.906916,
+      "longitude": 16.799586
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.912146,
+      "longitude": 16.936677
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.922702,
+      "longitude": 17.172018
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.941486,
+      "longitude": 17.335007
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.953617,
+      "longitude": 17.127528
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.960353,
+      "longitude": 17.13443
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.960745,
+      "longitude": 17.133919
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.973989,
+      "longitude": 17.176256
+    },
+    {
+      "name": "Euronet",
+      "latitude": 42.977069,
+      "longitude": 17.187237
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.161996,
+      "longitude": 16.689276
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.171996,
+      "longitude": 16.441598
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.184217,
+      "longitude": 16.596744
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.217724,
+      "longitude": 17.10867
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.236939,
+      "longitude": 17.077753
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.24035,
+      "longitude": 17.076823
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.27026,
+      "longitude": 17.053371
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.2935,
+      "longitude": 17.019893
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.294668,
+      "longitude": 17.019426
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.295044,
+      "longitude": 17.020145
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.295173,
+      "longitude": 17.018201
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.295212,
+      "longitude": 17.015375
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.295898,
+      "longitude": 17.01387
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.305587,
+      "longitude": 17.00814
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.307103,
+      "longitude": 17.000764
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.381918,
+      "longitude": 16.478278
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.443492,
+      "longitude": 16.694118
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.443725,
+      "longitude": 16.693588
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.445222,
+      "longitude": 16.638646
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.490415,
+      "longitude": 16.267321
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.505158,
+      "longitude": 16.442021
+    },
+    {
+      "name": "EuroNet",
+      "latitude": 43.506365,
+      "longitude": 16.432981
+    },
+    {
+      "name": "EuroNet",
+      "latitude": 43.507316,
+      "longitude": 16.433526
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.511117,
+      "longitude": 16.306517
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.515089,
+      "longitude": 16.252951
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.517435,
+      "longitude": 16.136727
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.522239,
+      "longitude": 16.253032
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.548784,
+      "longitude": 16.326029
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.550062,
+      "longitude": 16.344722
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.586079,
+      "longitude": 15.922101
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.635019,
+      "longitude": 15.963588
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.73335,
+      "longitude": 15.891768
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.737417,
+      "longitude": 15.887709
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.783036,
+      "longitude": 15.644445
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.785597,
+      "longitude": 15.644277
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.789518,
+      "longitude": 15.630704
+    },
+    {
+      "name": "Euronet",
+      "latitude": 43.960641,
+      "longitude": 15.425259
+    },
+    {
+      "name": "Euronet",
+      "latitude": 44.103603,
+      "longitude": 15.2648
+    },
+    {
+      "name": "Euronet",
+      "latitude": 44.113016,
+      "longitude": 15.226303
+    },
+    {
+      "name": "Euronet",
+      "latitude": 44.295792,
+      "longitude": 15.437855
+    },
+    {
+      "name": "Euronet",
+      "latitude": 44.374153,
+      "longitude": 14.692115
+    },
+    {
+      "name": "Euronet",
+      "latitude": 44.801181,
+      "longitude": 13.909718
+    },
+    {
+      "name": "Euronet",
+      "latitude": 44.802323,
+      "longitude": 13.910125
+    },
+    {
+      "name": "Euronet",
+      "latitude": 44.804722,
+      "longitude": 13.910002
+    },
+    {
+      "name": "Euronet",
+      "latitude": 44.968747,
+      "longitude": 14.751418
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.029396,
+      "longitude": 14.628328
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.075672,
+      "longitude": 14.674529
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.128427,
+      "longitude": 14.786686
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.164385,
+      "longitude": 14.541643
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.173749,
+      "longitude": 14.68943
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.17392,
+      "longitude": 14.694754
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.17479,
+      "longitude": 14.687413
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.228069,
+      "longitude": 13.591218
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.238913,
+      "longitude": 14.251551
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.313944,
+      "longitude": 14.288272
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.316077,
+      "longitude": 13.563384
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.326997,
+      "longitude": 14.443256
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.329767,
+      "longitude": 13.542989
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.331202,
+      "longitude": 14.302468
+    },
+    {
+      "name": "Euronet",
+      "latitude": 45.812752,
+      "longitude": 15.976836
+    },
+    {
+      "name": "Euronet ATM",
+      "latitude": 44.926032,
+      "longitude": 13.804959
+    },
+    {
+      "name": "Euronet Worldwide",
+      "latitude": 44.839925,
+      "longitude": 13.848974
+    },
+    {
+      "name": "HPB",
+      "latitude": 42.96241,
+      "longitude": 16.71785
+    },
+    {
+      "name": "HPB",
+      "latitude": 43.264347,
+      "longitude": 17.057847
+    },
+    {
+      "name": "HPB",
+      "latitude": 43.264836,
+      "longitude": 17.057209
+    },
+    {
+      "name": "HPB",
+      "latitude": 43.297066,
+      "longitude": 17.016458
+    },
+    {
+      "name": "HPB",
+      "latitude": 43.519043,
+      "longitude": 16.448176
+    },
+    {
+      "name": "HPB",
+      "latitude": 43.536314,
+      "longitude": 16.298956
+    },
+    {
+      "name": "HPB",
+      "latitude": 43.553477,
+      "longitude": 16.353443
+    },
+    {
+      "name": "HPB",
+      "latitude": 43.700578,
+      "longitude": 16.64429
+    },
+    {
+      "name": "HPB",
+      "latitude": 43.702166,
+      "longitude": 16.638061
+    },
+    {
+      "name": "HPB",
+      "latitude": 43.704751,
+      "longitude": 16.63872
+    },
+    {
+      "name": "HPB",
+      "latitude": 43.713056,
+      "longitude": 15.912892
+    },
+    {
+      "name": "HPB",
+      "latitude": 44.663388,
+      "longitude": 14.397757
+    },
+    {
+      "name": "HPB",
+      "latitude": 44.824382,
+      "longitude": 13.932222
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.080879,
+      "longitude": 13.639346
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.338106,
+      "longitude": 14.308786
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.523105,
+      "longitude": 18.564187
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.544764,
+      "longitude": 18.67925
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.546487,
+      "longitude": 18.656523
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.554946,
+      "longitude": 18.719233
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.560118,
+      "longitude": 18.685866
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.561004,
+      "longitude": 18.652959
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.747976,
+      "longitude": 16.614689
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.788842,
+      "longitude": 15.938146
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.793479,
+      "longitude": 16.004934
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.794311,
+      "longitude": 15.996871
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.795001,
+      "longitude": 16.017125
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.798033,
+      "longitude": 15.91366
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.800293,
+      "longitude": 15.973412
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.802104,
+      "longitude": 16.050661
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.802823,
+      "longitude": 15.989331
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.803002,
+      "longitude": 16.007008
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.80535,
+      "longitude": 16.235447
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.807101,
+      "longitude": 15.940992
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.811809,
+      "longitude": 15.944312
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.811972,
+      "longitude": 15.971948
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.813747,
+      "longitude": 15.927648
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.817414,
+      "longitude": 16.000477
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.830255,
+      "longitude": 16.054451
+    },
+    {
+      "name": "HPB",
+      "latitude": 45.852244,
+      "longitude": 15.949962
+    },
+    {
+      "name": "Hpb",
+      "latitude": 46.005234,
+      "longitude": 16.118758
+    },
+    {
+      "name": "HPB",
+      "latitude": 46.513831,
+      "longitude": 16.440081
+    },
+    {
+      "name": "HPB ATM Bankomat",
+      "latitude": 44.991763,
+      "longitude": 14.900982
+    },
+    {
+      "name": "HPB Atm Bankomat 0-24",
+      "latitude": 45.162031,
+      "longitude": 14.538763
+    },
+    {
+      "name": "HPB automat",
+      "latitude": 45.104127,
+      "longitude": 14.844807
+    },
+    {
+      "name": "HPB Bank",
+      "latitude": 42.560621,
+      "longitude": 18.261195
+    },
+    {
+      "name": "HPB Bank",
+      "latitude": 44.096332,
+      "longitude": 15.353099
+    },
+    {
+      "name": "Hrvatska Poštanka Banka",
+      "latitude": 44.821287,
+      "longitude": 13.865771
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.518467,
+      "longitude": 18.369431
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.561057,
+      "longitude": 18.260345
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.580867,
+      "longitude": 18.217678
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.641005,
+      "longitude": 18.108091
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.642384,
+      "longitude": 18.105637
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.645051,
+      "longitude": 18.103139
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.651671,
+      "longitude": 18.093203
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.656678,
+      "longitude": 18.076784
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.675943,
+      "longitude": 18.109153
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.90635,
+      "longitude": 16.861363
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.96006,
+      "longitude": 17.135635
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.960451,
+      "longitude": 17.134246
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.964405,
+      "longitude": 16.716402
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.973953,
+      "longitude": 17.176902
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 42.974793,
+      "longitude": 17.174598
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.049145,
+      "longitude": 17.434002
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.053722,
+      "longitude": 17.649483
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.293333,
+      "longitude": 17.02032
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.295086,
+      "longitude": 17.016705
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.295357,
+      "longitude": 17.015601
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.295447,
+      "longitude": 17.017779
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.384599,
+      "longitude": 16.552191
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.444256,
+      "longitude": 16.692152
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.489559,
+      "longitude": 16.983296
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.503332,
+      "longitude": 16.426781
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.505943,
+      "longitude": 16.447391
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.507695,
+      "longitude": 16.439112
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.508902,
+      "longitude": 16.436905
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.516712,
+      "longitude": 16.251445
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 43.732227,
+      "longitude": 15.896791
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 44.116772,
+      "longitude": 15.232904
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 44.286042,
+      "longitude": 15.450553
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 44.760955,
+      "longitude": 14.76058
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 44.769607,
+      "longitude": 13.910017
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.039913,
+      "longitude": 13.787408
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.155262,
+      "longitude": 18.019426
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.155788,
+      "longitude": 18.014423
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.156559,
+      "longitude": 18.395729
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.15795,
+      "longitude": 18.033544
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.17255,
+      "longitude": 14.691375
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.227323,
+      "longitude": 13.595984
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.25894,
+      "longitude": 17.381194
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.259417,
+      "longitude": 17.200851
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.264471,
+      "longitude": 15.226078
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.32471,
+      "longitude": 15.695182
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.325419,
+      "longitude": 14.443257
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.44904,
+      "longitude": 15.499165
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.481568,
+      "longitude": 15.549178
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.488585,
+      "longitude": 16.372926
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.489334,
+      "longitude": 15.547285
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.491426,
+      "longitude": 18.094634
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.49486,
+      "longitude": 15.553431
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.505747,
+      "longitude": 15.544496
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.541983,
+      "longitude": 18.050543
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.593589,
+      "longitude": 17.223405
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.711973,
+      "longitude": 16.077529
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.77619,
+      "longitude": 15.97872
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.778735,
+      "longitude": 15.987129
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.803432,
+      "longitude": 15.792993
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.803817,
+      "longitude": 15.993133
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.805,
+      "longitude": 15.89541
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.812288,
+      "longitude": 15.979267
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.81263,
+      "longitude": 15.976559
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.818358,
+      "longitude": 16.010435
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.896354,
+      "longitude": 16.841455
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.898618,
+      "longitude": 16.840755
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 45.904377,
+      "longitude": 16.851256
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 46.024197,
+      "longitude": 16.545806
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 46.161721,
+      "longitude": 16.839365
+    },
+    {
+      "name": "Hrvatska poštanska banka",
+      "latitude": 46.16419,
+      "longitude": 16.828191
+    },
+    {
+      "name": "Hypo",
+      "latitude": 42.657372,
+      "longitude": 18.088171
+    },
+    {
+      "name": "Hypo",
+      "latitude": 43.385519,
+      "longitude": 16.555394
+    },
+    {
+      "name": "Hypo",
+      "latitude": 43.712932,
+      "longitude": 15.913085
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.155644,
+      "longitude": 18.013022
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.174385,
+      "longitude": 18.053949
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.486719,
+      "longitude": 16.378811
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.546542,
+      "longitude": 18.656478
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.557921,
+      "longitude": 18.712622
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.560815,
+      "longitude": 18.676602
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.769489,
+      "longitude": 16.004852
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.77268,
+      "longitude": 15.944702
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.779134,
+      "longitude": 15.995839
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.798397,
+      "longitude": 15.913717
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.802182,
+      "longitude": 16.050755
+    },
+    {
+      "name": "Hypo",
+      "latitude": 45.803824,
+      "longitude": 15.993154
+    },
+    {
+      "name": "Hypo Alpe",
+      "latitude": 43.510534,
+      "longitude": 16.438615
+    },
+    {
+      "name": "Hypo Alpe Adria",
+      "latitude": 45.561908,
+      "longitude": 18.63801
+    },
+    {
+      "name": "Hypo alpe adria",
+      "latitude": 45.715319,
+      "longitude": 16.071974
+    },
+    {
+      "name": "HYPO Alpe Adria banka",
+      "latitude": 45.490409,
+      "longitude": 18.092411
+    },
+    {
+      "name": "Imex",
+      "latitude": 43.508349,
+      "longitude": 16.46699
+    },
+    {
+      "name": "Intesa Sanpaolo",
+      "latitude": 43.358719,
+      "longitude": 16.947325
+    },
+    {
+      "name": "Intesa Sanpaolo",
+      "latitude": 45.021624,
+      "longitude": 14.628854
+    },
+    {
+      "name": "Intesa Sanpaolo",
+      "latitude": 45.559219,
+      "longitude": 18.683816
+    },
+    {
+      "name": "Istarska",
+      "latitude": 45.333488,
+      "longitude": 14.304587
+    },
+    {
+      "name": "Jadranska",
+      "latitude": 43.713022,
+      "longitude": 15.912939
+    },
+    {
+      "name": "Jadranska banka",
+      "latitude": 43.5321,
+      "longitude": 15.967927
+    },
+    {
+      "name": "KABA",
+      "latitude": 45.488228,
+      "longitude": 15.54607
+    },
+    {
+      "name": "Karlovačka",
+      "latitude": 45.484475,
+      "longitude": 15.546026
+    },
+    {
+      "name": "Karlovačka banka",
+      "latitude": 45.326094,
+      "longitude": 15.696164
+    },
+    {
+      "name": "KBZ",
+      "latitude": 43.702702,
+      "longitude": 16.642859
+    },
+    {
+      "name": "KBZ",
+      "latitude": 45.347662,
+      "longitude": 14.419867
+    },
+    {
+      "name": "KBZ",
+      "latitude": 45.711559,
+      "longitude": 16.058578
+    },
+    {
+      "name": "KBZ",
+      "latitude": 45.803609,
+      "longitude": 16.013547
+    },
+    {
+      "name": "Kreditna banka",
+      "latitude": 45.558499,
+      "longitude": 18.678709
+    },
+    {
+      "name": "Kreditna banka Zagreb",
+      "latitude": 43.523838,
+      "longitude": 16.448321
+    },
+    {
+      "name": "Kreditna banka Zagreb",
+      "latitude": 43.937972,
+      "longitude": 15.444078
+    },
+    {
+      "name": "Kreditna Banka Zagreb",
+      "latitude": 45.230519,
+      "longitude": 13.60509
+    },
+    {
+      "name": "Kreditna banka Zagreb",
+      "latitude": 45.810467,
+      "longitude": 15.992346
+    },
+    {
+      "name": "Monestiq",
+      "latitude": 43.171995,
+      "longitude": 16.441605
+    },
+    {
+      "name": "Money Exchange",
+      "latitude": 43.93689,
+      "longitude": 15.441074
+    },
+    {
+      "name": "Money Exchange",
+      "latitude": 45.326072,
+      "longitude": 14.446186
+    },
+    {
+      "name": "MoneyGet",
+      "latitude": 43.298604,
+      "longitude": 17.016755
+    },
+    {
+      "name": "MoneyGet",
+      "latitude": 43.635083,
+      "longitude": 15.963098
+    },
+    {
+      "name": "NLB",
+      "latitude": 45.459803,
+      "longitude": 15.255411
+    },
+    {
+      "name": "Nova Hrvatska Banka",
+      "latitude": 43.054013,
+      "longitude": 17.643306
+    },
+    {
+      "name": "Optbanka",
+      "latitude": 43.45372,
+      "longitude": 16.911764
+    },
+    {
+      "name": "OTP",
+      "latitude": 42.641778,
+      "longitude": 18.106338
+    },
+    {
+      "name": "OTP",
+      "latitude": 42.692093,
+      "longitude": 18.040012
+    },
+    {
+      "name": "OTP",
+      "latitude": 42.785761,
+      "longitude": 17.378464
+    },
+    {
+      "name": "OTP",
+      "latitude": 43.506619,
+      "longitude": 16.483361
+    },
+    {
+      "name": "OTP",
+      "latitude": 43.508651,
+      "longitude": 16.480165
+    },
+    {
+      "name": "OTP",
+      "latitude": 43.701291,
+      "longitude": 16.637157
+    },
+    {
+      "name": "OTP",
+      "latitude": 43.907366,
+      "longitude": 15.508428
+    },
+    {
+      "name": "OTP",
+      "latitude": 43.938314,
+      "longitude": 15.446068
+    },
+    {
+      "name": "OTP",
+      "latitude": 43.941305,
+      "longitude": 15.453587
+    },
+    {
+      "name": "OTP",
+      "latitude": 44.033719,
+      "longitude": 15.245989
+    },
+    {
+      "name": "OTP",
+      "latitude": 44.260919,
+      "longitude": 15.214707
+    },
+    {
+      "name": "OTP",
+      "latitude": 45.155673,
+      "longitude": 18.012634
+    },
+    {
+      "name": "OTP",
+      "latitude": 45.335034,
+      "longitude": 14.306823
+    },
+    {
+      "name": "Otp",
+      "latitude": 45.358189,
+      "longitude": 14.327149
+    },
+    {
+      "name": "OTP",
+      "latitude": 45.457806,
+      "longitude": 16.385746
+    },
+    {
+      "name": "OTP",
+      "latitude": 45.544654,
+      "longitude": 18.709532
+    },
+    {
+      "name": "Otp",
+      "latitude": 45.55528,
+      "longitude": 18.719705
+    },
+    {
+      "name": "OTP",
+      "latitude": 45.792382,
+      "longitude": 15.902314
+    },
+    {
+      "name": "OTP",
+      "latitude": 45.811443,
+      "longitude": 15.951228
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 42.973905,
+      "longitude": 17.176582
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.053955,
+      "longitude": 17.649773
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.185013,
+      "longitude": 16.599331
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.261761,
+      "longitude": 16.656838
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.384808,
+      "longitude": 16.556813
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.502896,
+      "longitude": 16.441875
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.503974,
+      "longitude": 16.458284
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.504232,
+      "longitude": 16.442817
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.504698,
+      "longitude": 16.442639
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.505548,
+      "longitude": 16.451675
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.505593,
+      "longitude": 16.442273
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.506278,
+      "longitude": 16.466103
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.509091,
+      "longitude": 16.43683
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.509485,
+      "longitude": 16.436034
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.509889,
+      "longitude": 16.454652
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.510254,
+      "longitude": 16.438544
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.510693,
+      "longitude": 16.436503
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.511759,
+      "longitude": 16.466424
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.513315,
+      "longitude": 16.442629
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.520298,
+      "longitude": 16.467098
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.540066,
+      "longitude": 16.447618
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.712992,
+      "longitude": 15.912988
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.731951,
+      "longitude": 15.892912
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.822105,
+      "longitude": 15.592257
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 43.966338,
+      "longitude": 15.409859
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 44.099312,
+      "longitude": 15.267676
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 44.100835,
+      "longitude": 15.263562
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 44.13881,
+      "longitude": 15.241626
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 44.865692,
+      "longitude": 13.849353
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 45.486587,
+      "longitude": 16.379192
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 45.712661,
+      "longitude": 16.077189
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 45.772301,
+      "longitude": 15.964998
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 45.77625,
+      "longitude": 15.979149
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 45.803816,
+      "longitude": 15.993123
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 45.813003,
+      "longitude": 15.995842
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 45.813918,
+      "longitude": 15.985678
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 45.815541,
+      "longitude": 15.997128
+    },
+    {
+      "name": "OTP Banka",
+      "latitude": 42.560381,
+      "longitude": 18.261872
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 42.973935,
+      "longitude": 17.176821
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 43.053383,
+      "longitude": 17.648791
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 43.05868,
+      "longitude": 17.64861
+    },
+    {
+      "name": "OTP Banka",
+      "latitude": 43.238568,
+      "longitude": 17.07688
+    },
+    {
+      "name": "OTP Banka",
+      "latitude": 43.295102,
+      "longitude": 17.017182
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 43.377112,
+      "longitude": 16.628695
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 43.396177,
+      "longitude": 16.299722
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 43.442481,
+      "longitude": 17.201028
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 43.445226,
+      "longitude": 17.218773
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 43.502597,
+      "longitude": 16.525261
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 43.516588,
+      "longitude": 16.436905
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 43.517521,
+      "longitude": 16.446898
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 43.537615,
+      "longitude": 16.4909
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 43.588498,
+      "longitude": 15.924911
+    },
+    {
+      "name": "OTP Banka",
+      "latitude": 43.937095,
+      "longitude": 15.443537
+    },
+    {
+      "name": "OTP Banka",
+      "latitude": 43.937771,
+      "longitude": 15.443994
+    },
+    {
+      "name": "OTP Banka",
+      "latitude": 44.12985,
+      "longitude": 15.105186
+    },
+    {
+      "name": "OTP Banka",
+      "latitude": 44.200882,
+      "longitude": 15.683352
+    },
+    {
+      "name": "OTP Banka",
+      "latitude": 44.242015,
+      "longitude": 15.182891
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 44.869566,
+      "longitude": 13.84283
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 44.871618,
+      "longitude": 13.848817
+    },
+    {
+      "name": "OTP Banka",
+      "latitude": 45.32669,
+      "longitude": 14.442759
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 45.33742,
+      "longitude": 14.308485
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 45.477284,
+      "longitude": 16.368123
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 45.491761,
+      "longitude": 18.094803
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 45.776827,
+      "longitude": 15.996599
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 45.78513,
+      "longitude": 15.947746
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 45.789541,
+      "longitude": 15.92992
+    },
+    {
+      "name": "otp banka",
+      "latitude": 45.791199,
+      "longitude": 15.962601
+    },
+    {
+      "name": "otp banka",
+      "latitude": 45.798784,
+      "longitude": 15.905296
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 45.803853,
+      "longitude": 15.919618
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 45.808749,
+      "longitude": 15.931057
+    },
+    {
+      "name": "Otpbanka",
+      "latitude": 43.104435,
+      "longitude": 17.343763
+    },
+    {
+      "name": "otpbanka",
+      "latitude": 43.295968,
+      "longitude": 16.848698
+    },
+    {
+      "name": "otpbanka",
+      "latitude": 45.8067,
+      "longitude": 15.991283
+    },
+    {
+      "name": "Otpbanka",
+      "latitude": 45.812463,
+      "longitude": 15.978339
+    },
+    {
+      "name": "Payout",
+      "latitude": 44.992115,
+      "longitude": 14.900773
+    },
+    {
+      "name": "Payout",
+      "latitude": 45.813438,
+      "longitude": 15.979512
+    },
+    {
+      "name": "PBZ",
+      "latitude": 42.645448,
+      "longitude": 18.103305
+    },
+    {
+      "name": "PBZ",
+      "latitude": 42.658089,
+      "longitude": 18.087295
+    },
+    {
+      "name": "PBZ",
+      "latitude": 42.975914,
+      "longitude": 17.182107
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.05276,
+      "longitude": 17.648393
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.058691,
+      "longitude": 17.648669
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.060095,
+      "longitude": 16.18517
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.18102,
+      "longitude": 16.672708
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.184667,
+      "longitude": 16.599388
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.241517,
+      "longitude": 17.076148
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.264777,
+      "longitude": 17.05721
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.295,
+      "longitude": 17.018111
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.295175,
+      "longitude": 17.01687
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.385427,
+      "longitude": 16.478342
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.444658,
+      "longitude": 16.640794
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.445945,
+      "longitude": 16.688239
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.50069,
+      "longitude": 16.522815
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.50292,
+      "longitude": 16.441833
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.505583,
+      "longitude": 16.449959
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.507789,
+      "longitude": 16.475778
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.508679,
+      "longitude": 16.436593
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.510324,
+      "longitude": 16.448984
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.51085,
+      "longitude": 16.43726
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.513669,
+      "longitude": 16.29178
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.513858,
+      "longitude": 16.454838
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.516463,
+      "longitude": 16.435461
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.517793,
+      "longitude": 16.462347
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.519731,
+      "longitude": 16.472583
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.532296,
+      "longitude": 15.968205
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.547178,
+      "longitude": 16.426003
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.55086,
+      "longitude": 16.345987
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.617223,
+      "longitude": 16.730391
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.699774,
+      "longitude": 16.646408
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.71165,
+      "longitude": 15.912387
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.767654,
+      "longitude": 15.772239
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.824374,
+      "longitude": 15.594481
+    },
+    {
+      "name": "PBZ",
+      "latitude": 43.937519,
+      "longitude": 15.444822
+    },
+    {
+      "name": "PBZ",
+      "latitude": 44.106132,
+      "longitude": 15.240719
+    },
+    {
+      "name": "PBZ",
+      "latitude": 44.532021,
+      "longitude": 14.467653
+    },
+    {
+      "name": "pbz",
+      "latitude": 44.547092,
+      "longitude": 15.37123
+    },
+    {
+      "name": "PBZ",
+      "latitude": 44.763517,
+      "longitude": 14.759192
+    },
+    {
+      "name": "PBZ",
+      "latitude": 44.95845,
+      "longitude": 14.409791
+    },
+    {
+      "name": "PBZ",
+      "latitude": 44.970215,
+      "longitude": 14.752122
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.035601,
+      "longitude": 14.569148
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.154805,
+      "longitude": 18.021247
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.156398,
+      "longitude": 18.012699
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.159852,
+      "longitude": 18.012858
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.162132,
+      "longitude": 18.02095
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.173123,
+      "longitude": 14.693047
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.174008,
+      "longitude": 18.04803
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.190222,
+      "longitude": 17.909255
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.265953,
+      "longitude": 15.226172
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.268987,
+      "longitude": 16.909808
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.276406,
+      "longitude": 18.806074
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.289208,
+      "longitude": 18.805551
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.291941,
+      "longitude": 18.817864
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.293871,
+      "longitude": 14.276429
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.29476,
+      "longitude": 18.801433
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.294933,
+      "longitude": 15.970565
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.326748,
+      "longitude": 14.445312
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.326771,
+      "longitude": 15.695017
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.327371,
+      "longitude": 14.440145
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.333686,
+      "longitude": 14.304823
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.399188,
+      "longitude": 16.892989
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.48537,
+      "longitude": 16.371032
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.488335,
+      "longitude": 15.545951
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.495076,
+      "longitude": 15.552403
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.52449,
+      "longitude": 18.579241
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.556441,
+      "longitude": 18.705039
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.560961,
+      "longitude": 18.680041
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.564886,
+      "longitude": 18.647898
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.650964,
+      "longitude": 18.435485
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.653978,
+      "longitude": 15.517049
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.657879,
+      "longitude": 18.418898
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.704821,
+      "longitude": 16.394074
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.712742,
+      "longitude": 16.077028
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.716991,
+      "longitude": 16.066751
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.770328,
+      "longitude": 16.004485
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.770399,
+      "longitude": 15.940223
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.776181,
+      "longitude": 15.979029
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.776738,
+      "longitude": 15.972365
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.77837,
+      "longitude": 15.987012
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.77893,
+      "longitude": 15.996105
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.789259,
+      "longitude": 15.931184
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.789399,
+      "longitude": 15.938209
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.789756,
+      "longitude": 15.928283
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.789903,
+      "longitude": 15.949523
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.792217,
+      "longitude": 15.949473
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.793187,
+      "longitude": 16.004922
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.795412,
+      "longitude": 15.96657
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.796054,
+      "longitude": 15.90009
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.797441,
+      "longitude": 15.937902
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.799701,
+      "longitude": 15.975584
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.799919,
+      "longitude": 15.9532
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.800297,
+      "longitude": 15.954586
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.801992,
+      "longitude": 15.709832
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.80216,
+      "longitude": 16.050824
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.802516,
+      "longitude": 16.006827
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.802611,
+      "longitude": 16.0019
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.803223,
+      "longitude": 15.959004
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.803223,
+      "longitude": 16.000311
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.803232,
+      "longitude": 15.791891
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.80413,
+      "longitude": 15.993321
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.806261,
+      "longitude": 15.983831
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.806627,
+      "longitude": 15.902123
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.807586,
+      "longitude": 15.999994
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.808147,
+      "longitude": 15.941927
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.809139,
+      "longitude": 15.716645
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.812011,
+      "longitude": 15.973778
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.812721,
+      "longitude": 15.944892
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.813563,
+      "longitude": 15.996273
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.813594,
+      "longitude": 15.905835
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.813895,
+      "longitude": 15.988429
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.814061,
+      "longitude": 15.998228
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.816593,
+      "longitude": 15.890492
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.819178,
+      "longitude": 16.025944
+    },
+    {
+      "name": "Pbz",
+      "latitude": 45.819858,
+      "longitude": 15.938324
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.823305,
+      "longitude": 16.293371
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.831908,
+      "longitude": 15.976924
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.831994,
+      "longitude": 15.977752
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.858527,
+      "longitude": 15.973447
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.861964,
+      "longitude": 15.985553
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.864069,
+      "longitude": 16.154387
+    },
+    {
+      "name": "PBZ",
+      "latitude": 45.97736,
+      "longitude": 15.932422
+    },
+    {
+      "name": "Pbz",
+      "latitude": 46.005143,
+      "longitude": 16.118764
+    },
+    {
+      "name": "PBZ",
+      "latitude": 46.022027,
+      "longitude": 16.546748
+    },
+    {
+      "name": "PBZ",
+      "latitude": 46.02425,
+      "longitude": 15.900936
+    },
+    {
+      "name": "PBZ",
+      "latitude": 46.026746,
+      "longitude": 16.544922
+    },
+    {
+      "name": "PBZ",
+      "latitude": 46.065443,
+      "longitude": 15.782611
+    },
+    {
+      "name": "PBZ",
+      "latitude": 46.165616,
+      "longitude": 16.81735
+    },
+    {
+      "name": "PBZ",
+      "latitude": 46.297149,
+      "longitude": 16.327694
+    },
+    {
+      "name": "PBZ",
+      "latitude": 46.332071,
+      "longitude": 16.744471
+    },
+    {
+      "name": "PBZ",
+      "latitude": 46.376447,
+      "longitude": 16.379322
+    },
+    {
+      "name": "PBZ",
+      "latitude": 46.390565,
+      "longitude": 16.434827
+    },
+    {
+      "name": "PBZ",
+      "latitude": 46.403286,
+      "longitude": 16.421213
+    },
+    {
+      "name": "PBZ",
+      "latitude": 46.51332,
+      "longitude": 16.439768
+    },
+    {
+      "name": "PBZ banka",
+      "latitude": 45.785258,
+      "longitude": 15.947396
+    },
+    {
+      "name": "PBZ bankomat",
+      "latitude": 45.54323,
+      "longitude": 18.719023
+    },
+    {
+      "name": "PBZ bankomat",
+      "latitude": 45.804871,
+      "longitude": 16.238007
+    },
+    {
+      "name": "PBZ;Atm PBZ",
+      "latitude": 42.727319,
+      "longitude": 17.862497
+    },
+    {
+      "name": "PBZ;OTP Banka;Zagrebačka",
+      "latitude": 42.560564,
+      "longitude": 18.261326
+    },
+    {
+      "name": "Planet cash",
+      "latitude": 42.72759,
+      "longitude": 17.67013
+    },
+    {
+      "name": "Podravska banka",
+      "latitude": 45.801833,
+      "longitude": 16.002578
+    },
+    {
+      "name": "Privredna banka",
+      "latitude": 43.326713,
+      "longitude": 16.448429
+    },
+    {
+      "name": "Privredna banka",
+      "latitude": 45.115058,
+      "longitude": 15.585713
+    },
+    {
+      "name": "Privredna banka",
+      "latitude": 45.804488,
+      "longitude": 15.896287
+    },
+    {
+      "name": "Privredna banka Zagreb",
+      "latitude": 43.447142,
+      "longitude": 17.22043
+    },
+    {
+      "name": "Privredna banka Zagreb",
+      "latitude": 44.960365,
+      "longitude": 14.408091
+    },
+    {
+      "name": "Privredna banka Zagreb",
+      "latitude": 45.186728,
+      "longitude": 18.031833
+    },
+    {
+      "name": "Privredna Banka Zagreb",
+      "latitude": 45.230433,
+      "longitude": 13.605086
+    },
+    {
+      "name": "Privredna Banka Zagreb",
+      "latitude": 45.236331,
+      "longitude": 13.603891
+    },
+    {
+      "name": "Privredna banka Zagreb",
+      "latitude": 45.490142,
+      "longitude": 18.093223
+    },
+    {
+      "name": "Privredna banka Zagreb",
+      "latitude": 45.505746,
+      "longitude": 15.544443
+    },
+    {
+      "name": "Privredna banka Zagreb",
+      "latitude": 45.542487,
+      "longitude": 18.051416
+    },
+    {
+      "name": "Privredna banka Zagreb",
+      "latitude": 45.780739,
+      "longitude": 15.965866
+    },
+    {
+      "name": "Privredna banka Zagreb",
+      "latitude": 45.793108,
+      "longitude": 15.911297
+    },
+    {
+      "name": "privredna banka ZAGREB",
+      "latitude": 45.816365,
+      "longitude": 15.933867
+    },
+    {
+      "name": "Privredna banka Zagreb",
+      "latitude": 45.906075,
+      "longitude": 15.87576
+    },
+    {
+      "name": "Privredna banka Zagreb",
+      "latitude": 46.250308,
+      "longitude": 16.618084
+    },
+    {
+      "name": "Raifaisen",
+      "latitude": 45.980238,
+      "longitude": 15.969361
+    },
+    {
+      "name": "Raifeisen",
+      "latitude": 45.802401,
+      "longitude": 16.00472
+    },
+    {
+      "name": "Raifeisen",
+      "latitude": 46.005534,
+      "longitude": 16.118905
+    },
+    {
+      "name": "Raiffaisen",
+      "latitude": 45.558503,
+      "longitude": 18.678572
+    },
+    {
+      "name": "Raiffaisen",
+      "latitude": 45.797437,
+      "longitude": 15.937837
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 44.819275,
+      "longitude": 13.93694
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.288498,
+      "longitude": 18.800665
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.492957,
+      "longitude": 15.549061
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.564632,
+      "longitude": 18.619826
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.657037,
+      "longitude": 18.419971
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.770466,
+      "longitude": 16.001738
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.778964,
+      "longitude": 15.996098
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.781235,
+      "longitude": 15.986664
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.789361,
+      "longitude": 15.93821
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.791828,
+      "longitude": 15.940699
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.793495,
+      "longitude": 15.907571
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.796537,
+      "longitude": 15.915116
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.797351,
+      "longitude": 15.899427
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.798151,
+      "longitude": 15.906606
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.802178,
+      "longitude": 16.050656
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.805707,
+      "longitude": 16.2316
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.812528,
+      "longitude": 15.980305
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 45.817363,
+      "longitude": 15.886104
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 46.024117,
+      "longitude": 15.904417
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 46.297022,
+      "longitude": 16.328085
+    },
+    {
+      "name": "Raiffeisen Bank",
+      "latitude": 42.560313,
+      "longitude": 18.261251
+    },
+    {
+      "name": "Raiffeisen bank",
+      "latitude": 43.303891,
+      "longitude": 17.010797
+    },
+    {
+      "name": "Raiffeisen bank",
+      "latitude": 43.724856,
+      "longitude": 15.798176
+    },
+    {
+      "name": "Raiffeisen bank",
+      "latitude": 45.082167,
+      "longitude": 13.634285
+    },
+    {
+      "name": "Raiffeisen Bank",
+      "latitude": 45.230472,
+      "longitude": 13.605088
+    },
+    {
+      "name": "Raiffeisen bank",
+      "latitude": 45.553878,
+      "longitude": 18.68291
+    },
+    {
+      "name": "Raiffeisen Bank",
+      "latitude": 45.762385,
+      "longitude": 15.961383
+    },
+    {
+      "name": "Raiffeisen Bank",
+      "latitude": 45.776803,
+      "longitude": 15.995818
+    },
+    {
+      "name": "Raiffeisen bank",
+      "latitude": 45.794262,
+      "longitude": 15.99703
+    },
+    {
+      "name": "Raiffeisen Bank",
+      "latitude": 46.38948,
+      "longitude": 16.438359
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 45.476609,
+      "longitude": 16.367929
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 45.490293,
+      "longitude": 18.092165
+    },
+    {
+      "name": "Raiffeisen RBA",
+      "latitude": 43.615546,
+      "longitude": 16.725769
+    },
+    {
+      "name": "RaiffeisenBANK",
+      "latitude": 45.749381,
+      "longitude": 16.615891
+    },
+    {
+      "name": "Raiffeisenbank",
+      "latitude": 45.789889,
+      "longitude": 15.949523
+    },
+    {
+      "name": "Raiffeisenbank",
+      "latitude": 45.805369,
+      "longitude": 15.896408
+    },
+    {
+      "name": "Raiffeisenbank",
+      "latitude": 46.250164,
+      "longitude": 16.618033
+    },
+    {
+      "name": "Raiffeissen",
+      "latitude": 43.447089,
+      "longitude": 17.21706
+    },
+    {
+      "name": "RBA",
+      "latitude": 43.551259,
+      "longitude": 16.335873
+    },
+    {
+      "name": "RBA",
+      "latitude": 43.70273,
+      "longitude": 16.642797
+    },
+    {
+      "name": "RBA",
+      "latitude": 44.2869,
+      "longitude": 15.449359
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.1553,
+      "longitude": 18.012438
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.157565,
+      "longitude": 18.033226
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.29103,
+      "longitude": 14.277072
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.334752,
+      "longitude": 14.306652
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.339687,
+      "longitude": 16.08969
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.339782,
+      "longitude": 16.978315
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.457412,
+      "longitude": 16.386049
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.485603,
+      "longitude": 15.547116
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.552943,
+      "longitude": 18.675678
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.768578,
+      "longitude": 15.804118
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.792273,
+      "longitude": 15.914214
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.801067,
+      "longitude": 15.938655
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.802445,
+      "longitude": 15.898155
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.803224,
+      "longitude": 15.792403
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.804984,
+      "longitude": 15.953084
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.816609,
+      "longitude": 15.835549
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.822004,
+      "longitude": 16.011842
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.824154,
+      "longitude": 15.997912
+    },
+    {
+      "name": "RBA",
+      "latitude": 45.83195,
+      "longitude": 15.977741
+    },
+    {
+      "name": "Sberbank",
+      "latitude": 43.516514,
+      "longitude": 16.249125
+    },
+    {
+      "name": "Sberbank",
+      "latitude": 43.732034,
+      "longitude": 15.896982
+    },
+    {
+      "name": "Sberbank",
+      "latitude": 44.114799,
+      "longitude": 15.232883
+    },
+    {
+      "name": "Splitska Banka",
+      "latitude": 42.96039,
+      "longitude": 17.135296
+    },
+    {
+      "name": "Splitska banka - OTP BANKA",
+      "latitude": 44.038591,
+      "longitude": 16.197307
+    },
+    {
+      "name": "Tourist Office Cappelli",
+      "latitude": 44.541701,
+      "longitude": 14.465224
+    },
+    {
+      "name": "VABA",
+      "latitude": 45.15614,
+      "longitude": 18.012666
+    },
+    {
+      "name": "Worldwide ATM",
+      "latitude": 44.83669,
+      "longitude": 13.84696
+    },
+    {
+      "name": "ZABA",
+      "latitude": 43.155108,
+      "longitude": 17.249293
+    },
+    {
+      "name": "ZABA",
+      "latitude": 43.358472,
+      "longitude": 16.948013
+    },
+    {
+      "name": "ZABA",
+      "latitude": 43.442543,
+      "longitude": 17.201121
+    },
+    {
+      "name": "Zaba",
+      "latitude": 43.444503,
+      "longitude": 16.691492
+    },
+    {
+      "name": "ZABA",
+      "latitude": 43.537019,
+      "longitude": 16.489467
+    },
+    {
+      "name": "ZABA",
+      "latitude": 43.55001,
+      "longitude": 16.344545
+    },
+    {
+      "name": "ZABA",
+      "latitude": 43.699834,
+      "longitude": 16.646444
+    },
+    {
+      "name": "ZABA",
+      "latitude": 43.704438,
+      "longitude": 16.638716
+    },
+    {
+      "name": "Zaba",
+      "latitude": 43.711696,
+      "longitude": 15.912458
+    },
+    {
+      "name": "Zaba",
+      "latitude": 44.530805,
+      "longitude": 14.471364
+    },
+    {
+      "name": "ZABA",
+      "latitude": 44.969982,
+      "longitude": 14.751955
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.082259,
+      "longitude": 13.635478
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.155248,
+      "longitude": 18.020101
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.226812,
+      "longitude": 13.599253
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.227069,
+      "longitude": 16.542203
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.278818,
+      "longitude": 18.797684
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.306809,
+      "longitude": 14.2818
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.476548,
+      "longitude": 16.367927
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.482617,
+      "longitude": 15.547954
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.488288,
+      "longitude": 15.546027
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.491139,
+      "longitude": 16.373015
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.492987,
+      "longitude": 15.554295
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.493309,
+      "longitude": 15.549348
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.544429,
+      "longitude": 18.679293
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.544669,
+      "longitude": 18.70951
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.555007,
+      "longitude": 18.639232
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.658216,
+      "longitude": 18.418793
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.737177,
+      "longitude": 16.418314
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.776496,
+      "longitude": 15.995823
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.779094,
+      "longitude": 15.996311
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.779584,
+      "longitude": 15.986666
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.783626,
+      "longitude": 16.151243
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.78756,
+      "longitude": 15.949624
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.788613,
+      "longitude": 15.938196
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.789506,
+      "longitude": 15.929552
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.791087,
+      "longitude": 15.950003
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.793036,
+      "longitude": 15.94684
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.793277,
+      "longitude": 16.003701
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.793615,
+      "longitude": 15.90766
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.794089,
+      "longitude": 15.99692
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.795727,
+      "longitude": 15.943538
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.796085,
+      "longitude": 16.012378
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.796527,
+      "longitude": 15.9151
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.796741,
+      "longitude": 15.86257
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.797346,
+      "longitude": 15.899477
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.797665,
+      "longitude": 15.948969
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.799212,
+      "longitude": 15.915802
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.799504,
+      "longitude": 15.97258
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.79994,
+      "longitude": 15.981392
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.801003,
+      "longitude": 16.000957
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.801578,
+      "longitude": 15.935027
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.802075,
+      "longitude": 16.050731
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.802214,
+      "longitude": 15.967502
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.802587,
+      "longitude": 17.49539
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.803618,
+      "longitude": 16.014293
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.804322,
+      "longitude": 16.242223
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.80479,
+      "longitude": 15.97755
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.80576,
+      "longitude": 16.22568
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.807287,
+      "longitude": 15.984087
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.809704,
+      "longitude": 15.986262
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.809835,
+      "longitude": 16.004305
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.810186,
+      "longitude": 16.001507
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.810927,
+      "longitude": 15.997542
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.811552,
+      "longitude": 15.97435
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.811766,
+      "longitude": 15.863933
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.812323,
+      "longitude": 15.947934
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.812886,
+      "longitude": 15.978571
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.813133,
+      "longitude": 15.975595
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.817474,
+      "longitude": 15.886708
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.817616,
+      "longitude": 15.997514
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.819788,
+      "longitude": 15.937947
+    },
+    {
+      "name": "ZABA",
+      "latitude": 45.821992,
+      "longitude": 16.011995
+    },
+    {
+      "name": "Zaba",
+      "latitude": 45.977582,
+      "longitude": 15.932547
+    },
+    {
+      "name": "Zaba Atm",
+      "latitude": 45.763599,
+      "longitude": 16.001665
+    },
+    {
+      "name": "Zagrebača banka",
+      "latitude": 45.790657,
+      "longitude": 15.961584
+    },
+    {
+      "name": "Zagrebačka",
+      "latitude": 45.734312,
+      "longitude": 16.064947
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 42.641458,
+      "longitude": 18.108743
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 42.94719,
+      "longitude": 17.139911
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 42.960484,
+      "longitude": 17.135728
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.162062,
+      "longitude": 16.690423
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.184771,
+      "longitude": 16.599351
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.241716,
+      "longitude": 17.076175
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.259989,
+      "longitude": 16.641033
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.261747,
+      "longitude": 16.657132
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.262052,
+      "longitude": 17.059886
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.294706,
+      "longitude": 17.019374
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.295485,
+      "longitude": 17.01508
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.295498,
+      "longitude": 17.018449
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.381534,
+      "longitude": 16.560739
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.384044,
+      "longitude": 16.553328
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.384678,
+      "longitude": 16.551786
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.444518,
+      "longitude": 16.640688
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.447535,
+      "longitude": 17.21579
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.488991,
+      "longitude": 16.544404
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.502947,
+      "longitude": 16.442433
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.505406,
+      "longitude": 16.449419
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.507521,
+      "longitude": 16.467088
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.510817,
+      "longitude": 16.468147
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.510906,
+      "longitude": 16.436367
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.512219,
+      "longitude": 16.454352
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.513563,
+      "longitude": 16.248535
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.519333,
+      "longitude": 16.253228
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.519981,
+      "longitude": 16.446668
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.520294,
+      "longitude": 16.46719
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.52312,
+      "longitude": 16.468337
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.524494,
+      "longitude": 16.484009
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.530128,
+      "longitude": 16.490486
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.542828,
+      "longitude": 16.479427
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.586959,
+      "longitude": 16.573843
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.616388,
+      "longitude": 16.72975
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.735384,
+      "longitude": 15.889999
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.82269,
+      "longitude": 15.59189
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.827432,
+      "longitude": 15.592442
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 43.941383,
+      "longitude": 15.453725
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 44.295171,
+      "longitude": 15.438739
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 44.758305,
+      "longitude": 14.759709
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 44.802713,
+      "longitude": 13.910074
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 44.854965,
+      "longitude": 13.838188
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 44.855109,
+      "longitude": 13.848408
+    },
+    {
+      "name": "Zagrebačka Banka",
+      "latitude": 44.868072,
+      "longitude": 13.847615
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 44.95848,
+      "longitude": 14.409751
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.035584,
+      "longitude": 14.569108
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.122932,
+      "longitude": 14.52802
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.155112,
+      "longitude": 18.012402
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.274554,
+      "longitude": 14.569366
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.310693,
+      "longitude": 18.410982
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.330557,
+      "longitude": 14.433469
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.334293,
+      "longitude": 14.306055
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.339132,
+      "longitude": 14.309764
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.340349,
+      "longitude": 16.974195
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.34911,
+      "longitude": 19.002757
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.553075,
+      "longitude": 18.675546
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.559218,
+      "longitude": 18.683778
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.57062,
+      "longitude": 16.626561
+    },
+    {
+      "name": "Zagrebačka Banka",
+      "latitude": 45.653954,
+      "longitude": 15.517076
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.662815,
+      "longitude": 15.942107
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.711807,
+      "longitude": 16.066743
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.715544,
+      "longitude": 16.071303
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.723277,
+      "longitude": 15.906508
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.772725,
+      "longitude": 15.968143
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.775936,
+      "longitude": 15.978661
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.776927,
+      "longitude": 15.979012
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.777149,
+      "longitude": 15.986821
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.777752,
+      "longitude": 15.969662
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.785871,
+      "longitude": 15.953215
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.788474,
+      "longitude": 15.923004
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.795847,
+      "longitude": 15.899534
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.796831,
+      "longitude": 15.97019
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.801326,
+      "longitude": 15.726552
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.801914,
+      "longitude": 15.708977
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.802242,
+      "longitude": 15.898208
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.803756,
+      "longitude": 15.896516
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.804104,
+      "longitude": 15.993326
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.804157,
+      "longitude": 15.966006
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.804764,
+      "longitude": 16.234008
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.806677,
+      "longitude": 15.898104
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.806896,
+      "longitude": 15.954562
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.807157,
+      "longitude": 15.967832
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.80899,
+      "longitude": 15.716778
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.809263,
+      "longitude": 15.964964
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.815281,
+      "longitude": 15.9532
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.820064,
+      "longitude": 15.976732
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.823253,
+      "longitude": 16.29343
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.824855,
+      "longitude": 16.063902
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.824895,
+      "longitude": 16.039136
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.846072,
+      "longitude": 15.815207
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.870145,
+      "longitude": 15.795087
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.885144,
+      "longitude": 15.706262
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.916609,
+      "longitude": 15.77663
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 45.99779,
+      "longitude": 15.9109
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 46.076186,
+      "longitude": 15.680017
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 46.091088,
+      "longitude": 15.833637
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 46.160834,
+      "longitude": 16.334913
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 46.164018,
+      "longitude": 16.334182
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 46.178138,
+      "longitude": 16.339475
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 46.224164,
+      "longitude": 16.124742
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 46.249874,
+      "longitude": 16.617978
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 46.29718,
+      "longitude": 16.327805
+    },
+    {
+      "name": "Zagrebačka banka",
+      "latitude": 46.332712,
+      "longitude": 16.152179
+    }
+  ],
+  "meta": {
+    "title": "Bankomati u Hrvatskoj - Besplatno preuzimanje",
+    "description": "ATMs in Croatia (amenity=atm) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors. Sadrži 908 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Bankomati u Hrvatskoj | ListBase",
+    "seo_description": "Preuzmi Bankomati u Hrvatskoj — 908 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 908 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

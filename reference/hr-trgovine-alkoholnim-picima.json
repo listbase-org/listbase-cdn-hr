@@ -1,0 +1,406 @@
+{
+  "id": "hr-trgovine-alkoholnim-picima",
+  "name": "Trgovine alkoholnim pićima",
+  "title": "Trgovine alkoholnim pićima",
+  "description": "Trgovine alkoholnim pićima u Hrvatskoj (73 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=alcohol), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aura",
+      "latitude": 45.026332,
+      "longitude": 14.576772
+    },
+    {
+      "name": "Aura",
+      "latitude": 45.076681,
+      "longitude": 14.674424
+    },
+    {
+      "name": "Aura",
+      "latitude": 45.316018,
+      "longitude": 13.558686
+    },
+    {
+      "name": "Aura",
+      "latitude": 45.316589,
+      "longitude": 13.559373
+    },
+    {
+      "name": "Aura",
+      "latitude": 45.325931,
+      "longitude": 14.4435
+    },
+    {
+      "name": "Aura",
+      "latitude": 45.336552,
+      "longitude": 13.828369
+    },
+    {
+      "name": "Aura",
+      "latitude": 45.378684,
+      "longitude": 13.722341
+    },
+    {
+      "name": "Aura Poreč",
+      "latitude": 45.228256,
+      "longitude": 13.593134
+    },
+    {
+      "name": "Aura Rovinj 1",
+      "latitude": 45.082872,
+      "longitude": 13.631938
+    },
+    {
+      "name": "Aura Rovinj 2",
+      "latitude": 45.081722,
+      "longitude": 13.633408
+    },
+    {
+      "name": "B&M",
+      "latitude": 45.337288,
+      "longitude": 13.828876
+    },
+    {
+      "name": "Badel",
+      "latitude": 45.799666,
+      "longitude": 16.033873
+    },
+    {
+      "name": "BIBICh Wine Shop",
+      "latitude": 43.818686,
+      "longitude": 15.9228
+    },
+    {
+      "name": "BIBICh Winery",
+      "latitude": 43.881111,
+      "longitude": 15.918964
+    },
+    {
+      "name": "Dalmacijavino",
+      "latitude": 43.700571,
+      "longitude": 16.637021
+    },
+    {
+      "name": "Dalmacijavino br. 35",
+      "latitude": 43.506312,
+      "longitude": 16.483386
+    },
+    {
+      "name": "Dapna",
+      "latitude": 45.08109,
+      "longitude": 13.639221
+    },
+    {
+      "name": "Destilerija Aura",
+      "latitude": 45.409065,
+      "longitude": 13.966458
+    },
+    {
+      "name": "Diskont Fumar",
+      "latitude": 43.180262,
+      "longitude": 16.576889
+    },
+    {
+      "name": "Diskont Fumar",
+      "latitude": 43.516727,
+      "longitude": 16.435204
+    },
+    {
+      "name": "Dominik",
+      "latitude": 43.445092,
+      "longitude": 16.692196
+    },
+    {
+      "name": "Fumar Wine & Liquor Shop",
+      "latitude": 43.509912,
+      "longitude": 16.438404
+    },
+    {
+      "name": "Goblet Beer Store",
+      "latitude": 45.789882,
+      "longitude": 15.961385
+    },
+    {
+      "name": "Humidor",
+      "latitude": 45.811849,
+      "longitude": 15.979456
+    },
+    {
+      "name": "Iločki podrum",
+      "latitude": 45.154437,
+      "longitude": 18.021011
+    },
+    {
+      "name": "Iločki podrumi",
+      "latitude": 43.511195,
+      "longitude": 16.434915
+    },
+    {
+      "name": "Iločki podrumi",
+      "latitude": 45.77578,
+      "longitude": 15.996562
+    },
+    {
+      "name": "Iločki podrumi",
+      "latitude": 45.817018,
+      "longitude": 16.025229
+    },
+    {
+      "name": "Le petit enoteque",
+      "latitude": 43.817201,
+      "longitude": 15.921886
+    },
+    {
+      "name": "Liquor & Tobacco",
+      "latitude": 43.508591,
+      "longitude": 16.436717
+    },
+    {
+      "name": "Little Beer Shop",
+      "latitude": 43.507913,
+      "longitude": 16.434081
+    },
+    {
+      "name": "Magic Beer Room",
+      "latitude": 45.765596,
+      "longitude": 15.945534
+    },
+    {
+      "name": "Peperoncino",
+      "latitude": 45.291709,
+      "longitude": 14.27688
+    },
+    {
+      "name": "Pivac",
+      "latitude": 44.046262,
+      "longitude": 15.314049
+    },
+    {
+      "name": "Pomalo beer shop",
+      "latitude": 45.798028,
+      "longitude": 15.944491
+    },
+    {
+      "name": "Pošip poljoprivredna zadruga Čara",
+      "latitude": 42.930362,
+      "longitude": 16.93435
+    },
+    {
+      "name": "Rakija",
+      "latitude": 43.513478,
+      "longitude": 16.252227
+    },
+    {
+      "name": "ROTO",
+      "latitude": 45.312853,
+      "longitude": 18.415726
+    },
+    {
+      "name": "Roto diskont pića",
+      "latitude": 45.861405,
+      "longitude": 15.80373
+    },
+    {
+      "name": "Sempervivum",
+      "latitude": 45.229017,
+      "longitude": 13.655291
+    },
+    {
+      "name": "Stridon",
+      "latitude": 45.775934,
+      "longitude": 15.977086
+    },
+    {
+      "name": "Stridon diskont",
+      "latitude": 45.34033,
+      "longitude": 16.08908
+    },
+    {
+      "name": "Tax-free shop",
+      "latitude": 45.635088,
+      "longitude": 15.322201
+    },
+    {
+      "name": "Teri",
+      "latitude": 45.310349,
+      "longitude": 18.39675
+    },
+    {
+      "name": "Terraneo",
+      "latitude": 44.819144,
+      "longitude": 13.933268
+    },
+    {
+      "name": "Testament",
+      "latitude": 43.81857,
+      "longitude": 15.922927
+    },
+    {
+      "name": "The artisan",
+      "latitude": 45.796563,
+      "longitude": 15.919382
+    },
+    {
+      "name": "To & To",
+      "latitude": 45.817195,
+      "longitude": 15.889633
+    },
+    {
+      "name": "Tociona vina",
+      "latitude": 43.358859,
+      "longitude": 16.947073
+    },
+    {
+      "name": "Točionica vina",
+      "latitude": 43.509132,
+      "longitude": 16.453268
+    },
+    {
+      "name": "Točionica vina Goran",
+      "latitude": 43.509421,
+      "longitude": 16.454809
+    },
+    {
+      "name": "Vinarija",
+      "latitude": 45.355239,
+      "longitude": 14.368937
+    },
+    {
+      "name": "Vinarija Rossi",
+      "latitude": 45.336317,
+      "longitude": 13.73511
+    },
+    {
+      "name": "Vinarija Sesan",
+      "latitude": 45.804302,
+      "longitude": 16.233207
+    },
+    {
+      "name": "Vine shop \"Toreta\"",
+      "latitude": 42.927838,
+      "longitude": 16.891826
+    },
+    {
+      "name": "Vineria Medulin",
+      "latitude": 44.819001,
+      "longitude": 13.933409
+    },
+    {
+      "name": "vinery",
+      "latitude": 45.143708,
+      "longitude": 14.774905
+    },
+    {
+      "name": "Vino",
+      "latitude": 43.357042,
+      "longitude": 16.951732
+    },
+    {
+      "name": "Vino Ilok",
+      "latitude": 45.776561,
+      "longitude": 15.995984
+    },
+    {
+      "name": "Vinoteka Brbić",
+      "latitude": 45.225712,
+      "longitude": 13.596436
+    },
+    {
+      "name": "Vinoteka Iločki podrumi",
+      "latitude": 45.559419,
+      "longitude": 18.683965
+    },
+    {
+      "name": "Vinoteka Roki",
+      "latitude": 43.062473,
+      "longitude": 16.183859
+    },
+    {
+      "name": "Vinoteka Čakovec",
+      "latitude": 46.390188,
+      "longitude": 16.444931
+    },
+    {
+      "name": "Vinotočje Čočić",
+      "latitude": 45.556007,
+      "longitude": 18.68214
+    },
+    {
+      "name": "Vivat",
+      "latitude": 45.812089,
+      "longitude": 15.986665
+    },
+    {
+      "name": "Vrutak",
+      "latitude": 45.814233,
+      "longitude": 15.978075
+    },
+    {
+      "name": "Wein vom Fass",
+      "latitude": 44.532727,
+      "longitude": 14.466031
+    },
+    {
+      "name": "Wine and Sourvenir Shop",
+      "latitude": 42.581835,
+      "longitude": 18.216848
+    },
+    {
+      "name": "Wine shop \"Toreta\"",
+      "latitude": 42.905129,
+      "longitude": 16.857639
+    },
+    {
+      "name": "Winery",
+      "latitude": 45.170988,
+      "longitude": 13.607629
+    },
+    {
+      "name": "Wines Ledinić",
+      "latitude": 42.838616,
+      "longitude": 17.696148
+    },
+    {
+      "name": "wineshop",
+      "latitude": 42.939295,
+      "longitude": 16.793769
+    },
+    {
+      "name": "Wise Grus",
+      "latitude": 45.809983,
+      "longitude": 15.980173
+    }
+  ],
+  "meta": {
+    "title": "Trgovine alkoholnim pićima - Besplatno preuzimanje",
+    "description": "Trgovine alkoholnim pićima u Hrvatskoj (73 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=alcohol), izrez EU-POIS/HR. Sadrži 73 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovine alkoholnim pićima | ListBase",
+    "seo_description": "Preuzmi Trgovine alkoholnim pićima — 73 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 73 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

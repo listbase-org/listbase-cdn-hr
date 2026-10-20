@@ -1,0 +1,771 @@
+{
+  "id": "hr-trgovacki-centri",
+  "name": "Trgovački centri",
+  "title": "Trgovački centri",
+  "description": "Trgovački centri u Hrvatskoj (146 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=mall), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 146,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ALLES d.o.o.",
+      "latitude": 45.33708,
+      "longitude": 17.703894
+    },
+    {
+      "name": "Ambienta",
+      "latitude": 45.776764,
+      "longitude": 15.977298
+    },
+    {
+      "name": "Arena centar",
+      "latitude": 45.770282,
+      "longitude": 15.939831
+    },
+    {
+      "name": "Arena Park",
+      "latitude": 45.769311,
+      "longitude": 15.935146
+    },
+    {
+      "name": "Avenue Mall",
+      "latitude": 45.776526,
+      "longitude": 15.97887
+    },
+    {
+      "name": "Avenue Mall Osijek",
+      "latitude": 45.546799,
+      "longitude": 18.656946
+    },
+    {
+      "name": "Branimir Mingle Mall",
+      "latitude": 45.806171,
+      "longitude": 15.984608
+    },
+    {
+      "name": "Bure centar",
+      "latitude": 43.941752,
+      "longitude": 15.453226
+    },
+    {
+      "name": "Capitol Park Kutina",
+      "latitude": 45.479166,
+      "longitude": 16.774534
+    },
+    {
+      "name": "Centar Kaptol",
+      "latitude": 45.8203,
+      "longitude": 15.977267
+    },
+    {
+      "name": "Centar novog života",
+      "latitude": 45.43772,
+      "longitude": 16.267284
+    },
+    {
+      "name": "City Center one East",
+      "latitude": 45.802069,
+      "longitude": 16.050719
+    },
+    {
+      "name": "City Center One Split",
+      "latitude": 43.513315,
+      "longitude": 16.503273
+    },
+    {
+      "name": "City Center one West",
+      "latitude": 45.79943,
+      "longitude": 15.885076
+    },
+    {
+      "name": "City Galleria",
+      "latitude": 44.110284,
+      "longitude": 15.238001
+    },
+    {
+      "name": "City Life",
+      "latitude": 43.731469,
+      "longitude": 15.897554
+    },
+    {
+      "name": "City Park Zadar",
+      "latitude": 44.112661,
+      "longitude": 15.255602
+    },
+    {
+      "name": "City Park Zelina",
+      "latitude": 45.952159,
+      "longitude": 16.237856
+    },
+    {
+      "name": "Color trgovina",
+      "latitude": 45.336514,
+      "longitude": 17.705159
+    },
+    {
+      "name": "Dalmare",
+      "latitude": 43.712334,
+      "longitude": 15.912578
+    },
+    {
+      "name": "Designer Outlet Croatia",
+      "latitude": 45.792555,
+      "longitude": 16.152447
+    },
+    {
+      "name": "Duga Mall",
+      "latitude": 45.188116,
+      "longitude": 14.680012
+    },
+    {
+      "name": "Emmezeta",
+      "latitude": 45.748055,
+      "longitude": 15.879913
+    },
+    {
+      "name": "Emmezeta",
+      "latitude": 45.797658,
+      "longitude": 15.860844
+    },
+    {
+      "name": "Emmezeta",
+      "latitude": 46.294505,
+      "longitude": 16.353982
+    },
+    {
+      "name": "ERA",
+      "latitude": 43.014367,
+      "longitude": 17.552499
+    },
+    {
+      "name": "ERA Comerce",
+      "latitude": 43.014889,
+      "longitude": 17.55297
+    },
+    {
+      "name": "Esseker centar",
+      "latitude": 45.562488,
+      "longitude": 18.677285
+    },
+    {
+      "name": "Family mall",
+      "latitude": 45.804031,
+      "longitude": 15.860323
+    },
+    {
+      "name": "FT Park",
+      "latitude": 45.806917,
+      "longitude": 15.860807
+    },
+    {
+      "name": "Gacka Retail Park",
+      "latitude": 45.546953,
+      "longitude": 18.69056
+    },
+    {
+      "name": "Galerija Bakar",
+      "latitude": 45.333667,
+      "longitude": 14.509279
+    },
+    {
+      "name": "Galerije Bakar",
+      "latitude": 45.332406,
+      "longitude": 14.509329
+    },
+    {
+      "name": "Golubica Mall",
+      "latitude": 45.353194,
+      "longitude": 19.001728
+    },
+    {
+      "name": "Grama",
+      "latitude": 45.48642,
+      "longitude": 16.373626
+    },
+    {
+      "name": "Građa",
+      "latitude": 43.022585,
+      "longitude": 17.552586
+    },
+    {
+      "name": "Green Gold",
+      "latitude": 45.802166,
+      "longitude": 16.002479
+    },
+    {
+      "name": "Green Park",
+      "latitude": 46.263972,
+      "longitude": 16.379044
+    },
+    {
+      "name": "Hey Park Ogulin",
+      "latitude": 45.255528,
+      "longitude": 15.235932
+    },
+    {
+      "name": "HEY Park Zadar",
+      "latitude": 44.139875,
+      "longitude": 15.227277
+    },
+    {
+      "name": "HEY Vukovar",
+      "latitude": 45.368549,
+      "longitude": 18.971212
+    },
+    {
+      "name": "HOTO Centar",
+      "latitude": 45.803728,
+      "longitude": 15.792948
+    },
+    {
+      "name": "Importanne Centar",
+      "latitude": 45.803815,
+      "longitude": 15.97751
+    },
+    {
+      "name": "Importanne Centar",
+      "latitude": 45.804719,
+      "longitude": 15.977458
+    },
+    {
+      "name": "Importanne Galleria",
+      "latitude": 45.812983,
+      "longitude": 15.985078
+    },
+    {
+      "name": "Jaska park",
+      "latitude": 45.662767,
+      "longitude": 15.644265
+    },
+    {
+      "name": "Joker Mall",
+      "latitude": 43.520286,
+      "longitude": 16.446634
+    },
+    {
+      "name": "Jug Mall",
+      "latitude": 46.380024,
+      "longitude": 16.443275
+    },
+    {
+      "name": "JYSK",
+      "latitude": 45.290808,
+      "longitude": 18.411733
+    },
+    {
+      "name": "K centar Iadera",
+      "latitude": 44.116401,
+      "longitude": 15.25545
+    },
+    {
+      "name": "Karlovčanka",
+      "latitude": 45.493214,
+      "longitude": 15.54854
+    },
+    {
+      "name": "King Cross Jankomir",
+      "latitude": 45.79647,
+      "longitude": 15.855412
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.318935,
+      "longitude": 13.567151
+    },
+    {
+      "name": "Konzum centar",
+      "latitude": 45.544655,
+      "longitude": 18.678789
+    },
+    {
+      "name": "Konzum Centar",
+      "latitude": 45.811558,
+      "longitude": 15.711823
+    },
+    {
+      "name": "Konzum Radnička",
+      "latitude": 45.802997,
+      "longitude": 16.006428
+    },
+    {
+      "name": "Krk Shopping Capitol",
+      "latitude": 45.035736,
+      "longitude": 14.569014
+    },
+    {
+      "name": "KTC Robni centar Dugo Selo",
+      "latitude": 45.796127,
+      "longitude": 16.227768
+    },
+    {
+      "name": "KTC robni centar Karlovac",
+      "latitude": 45.477084,
+      "longitude": 15.543842
+    },
+    {
+      "name": "Kvaternik plaza",
+      "latitude": 45.81498,
+      "longitude": 15.99891
+    },
+    {
+      "name": "Lonia Shop & Joy Novi Marof",
+      "latitude": 46.158123,
+      "longitude": 16.333086
+    },
+    {
+      "name": "Lumini",
+      "latitude": 46.263965,
+      "longitude": 16.375087
+    },
+    {
+      "name": "Mall of Split",
+      "latitude": 43.519045,
+      "longitude": 16.484035
+    },
+    {
+      "name": "Marti Retail Park",
+      "latitude": 45.35505,
+      "longitude": 14.363271
+    },
+    {
+      "name": "Marti Retail Park",
+      "latitude": 45.355292,
+      "longitude": 14.364569
+    },
+    {
+      "name": "Max City",
+      "latitude": 44.860634,
+      "longitude": 13.824286
+    },
+    {
+      "name": "Mercator centar",
+      "latitude": 45.796626,
+      "longitude": 15.909947
+    },
+    {
+      "name": "Meridijan 16°",
+      "latitude": 45.861876,
+      "longitude": 15.985703
+    },
+    {
+      "name": "Metro",
+      "latitude": 44.888518,
+      "longitude": 13.857666
+    },
+    {
+      "name": "Muller",
+      "latitude": 45.035039,
+      "longitude": 14.567476
+    },
+    {
+      "name": "Nama",
+      "latitude": 45.814022,
+      "longitude": 15.928239
+    },
+    {
+      "name": "Park & Shop Imotski",
+      "latitude": 43.442901,
+      "longitude": 17.20126
+    },
+    {
+      "name": "Park & Shop Krk",
+      "latitude": 45.036109,
+      "longitude": 14.566769
+    },
+    {
+      "name": "Park&Shop",
+      "latitude": 45.821592,
+      "longitude": 17.409792
+    },
+    {
+      "name": "Park&Shop Biograd na Moru",
+      "latitude": 43.945864,
+      "longitude": 15.454488
+    },
+    {
+      "name": "Patricija",
+      "latitude": 46.335112,
+      "longitude": 16.152683
+    },
+    {
+      "name": "pevex gospić",
+      "latitude": 44.577525,
+      "longitude": 15.391734
+    },
+    {
+      "name": "Plitvice Mall",
+      "latitude": 44.956987,
+      "longitude": 15.640004
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.7656,
+      "longitude": 18.618642
+    },
+    {
+      "name": "Point Shopping Center",
+      "latitude": 45.791006,
+      "longitude": 15.913684
+    },
+    {
+      "name": "Port Mall",
+      "latitude": 43.054772,
+      "longitude": 17.434614
+    },
+    {
+      "name": "Portanova",
+      "latitude": 45.554762,
+      "longitude": 18.638107
+    },
+    {
+      "name": "Požega Shopping Capitol",
+      "latitude": 45.339439,
+      "longitude": 17.683217
+    },
+    {
+      "name": "Prima 3",
+      "latitude": 43.507617,
+      "longitude": 16.46752
+    },
+    {
+      "name": "Retail Park Dugo Selo",
+      "latitude": 45.810088,
+      "longitude": 16.207583
+    },
+    {
+      "name": "Retail park Labin",
+      "latitude": 45.097663,
+      "longitude": 14.114123
+    },
+    {
+      "name": "Retail park Pigik",
+      "latitude": 45.43682,
+      "longitude": 16.260348
+    },
+    {
+      "name": "Retail park Radnička",
+      "latitude": 45.775728,
+      "longitude": 16.056573
+    },
+    {
+      "name": "Retail Park Retfala Nova",
+      "latitude": 45.560381,
+      "longitude": 18.637682
+    },
+    {
+      "name": "Retail Park Rovinj",
+      "latitude": 45.089714,
+      "longitude": 13.657526
+    },
+    {
+      "name": "Retail Park Rovinj",
+      "latitude": 45.089903,
+      "longitude": 13.658862
+    },
+    {
+      "name": "Retail park Županja",
+      "latitude": 45.079576,
+      "longitude": 18.698253
+    },
+    {
+      "name": "Riva Mall",
+      "latitude": 45.223651,
+      "longitude": 13.597443
+    },
+    {
+      "name": "Rotonda centar",
+      "latitude": 45.812632,
+      "longitude": 15.982337
+    },
+    {
+      "name": "Salona Mall",
+      "latitude": 43.530007,
+      "longitude": 16.491121
+    },
+    {
+      "name": "Shoping centar - Stop&shop",
+      "latitude": 45.890313,
+      "longitude": 16.852821
+    },
+    {
+      "name": "Shopping centar Prečko",
+      "latitude": 45.795904,
+      "longitude": 15.900289
+    },
+    {
+      "name": "Shopping Gallery Samobor",
+      "latitude": 45.801399,
+      "longitude": 15.726863
+    },
+    {
+      "name": "SPAR supermarket Bibinje",
+      "latitude": 44.061491,
+      "longitude": 15.29515
+    },
+    {
+      "name": "Spot Mall Korčula",
+      "latitude": 42.956695,
+      "longitude": 17.132588
+    },
+    {
+      "name": "Spot shopping mall",
+      "latitude": 43.289098,
+      "longitude": 17.025098
+    },
+    {
+      "name": "SPOT shopping park",
+      "latitude": 43.542444,
+      "longitude": 16.289136
+    },
+    {
+      "name": "STC 2",
+      "latitude": 45.494458,
+      "longitude": 16.378369
+    },
+    {
+      "name": "STC 3",
+      "latitude": 45.494601,
+      "longitude": 16.380029
+    },
+    {
+      "name": "Stop Shop",
+      "latitude": 43.54813,
+      "longitude": 16.41327
+    },
+    {
+      "name": "Stop Shop",
+      "latitude": 45.287343,
+      "longitude": 18.752424
+    },
+    {
+      "name": "Stop Shop",
+      "latitude": 45.716953,
+      "longitude": 16.055394
+    },
+    {
+      "name": "Stop Shop Bjelovar",
+      "latitude": 45.887266,
+      "longitude": 16.847005
+    },
+    {
+      "name": "STOP SHOP Dugo Selo",
+      "latitude": 45.803777,
+      "longitude": 16.227234
+    },
+    {
+      "name": "Stop Shop Nova Gradiška",
+      "latitude": 45.253456,
+      "longitude": 17.382994
+    },
+    {
+      "name": "Stop Shop Pazin",
+      "latitude": 45.233321,
+      "longitude": 13.922332
+    },
+    {
+      "name": "Stop shop Virovitica",
+      "latitude": 45.819454,
+      "longitude": 17.39414
+    },
+    {
+      "name": "Stop Shop Čakovec",
+      "latitude": 46.388547,
+      "longitude": 16.449692
+    },
+    {
+      "name": "Sub City",
+      "latitude": 42.623942,
+      "longitude": 18.192406
+    },
+    {
+      "name": "SunPark Vodice",
+      "latitude": 43.765548,
+      "longitude": 15.796242
+    },
+    {
+      "name": "Super Osijek",
+      "latitude": 45.560128,
+      "longitude": 18.678047
+    },
+    {
+      "name": "Supernova",
+      "latitude": 43.755507,
+      "longitude": 15.878915
+    },
+    {
+      "name": "Supernova",
+      "latitude": 44.116128,
+      "longitude": 15.271655
+    },
+    {
+      "name": "Supernova",
+      "latitude": 45.174478,
+      "longitude": 18.05437
+    },
+    {
+      "name": "Supernova",
+      "latitude": 45.505589,
+      "longitude": 15.544647
+    },
+    {
+      "name": "Supernova",
+      "latitude": 45.507209,
+      "longitude": 15.544779
+    },
+    {
+      "name": "Supernova",
+      "latitude": 46.016786,
+      "longitude": 16.544527
+    },
+    {
+      "name": "Supernova",
+      "latitude": 46.318874,
+      "longitude": 16.307167
+    },
+    {
+      "name": "Supernova Colosseum",
+      "latitude": 45.159729,
+      "longitude": 17.998138
+    },
+    {
+      "name": "Supernova Cvjetni",
+      "latitude": 45.812396,
+      "longitude": 15.973293
+    },
+    {
+      "name": "Supernova Garden Mall",
+      "latitude": 45.836053,
+      "longitude": 16.045995
+    },
+    {
+      "name": "Supernova Jastrebarsko",
+      "latitude": 45.660239,
+      "longitude": 15.653477
+    },
+    {
+      "name": "Supernova Koprivnica",
+      "latitude": 46.145973,
+      "longitude": 16.835246
+    },
+    {
+      "name": "Supernova Požega",
+      "latitude": 45.331018,
+      "longitude": 17.647761
+    },
+    {
+      "name": "Supernova Zagreb - Buzin",
+      "latitude": 45.75607,
+      "longitude": 15.987877
+    },
+    {
+      "name": "Tower Centar Rijeka",
+      "latitude": 45.317589,
+      "longitude": 14.469402
+    },
+    {
+      "name": "Tramontana Mall Volosko",
+      "latitude": 45.354424,
+      "longitude": 14.321965
+    },
+    {
+      "name": "Trgovački centar Dubrava",
+      "latitude": 45.826385,
+      "longitude": 16.043646
+    },
+    {
+      "name": "Trgovački centar Kaštela",
+      "latitude": 43.539043,
+      "longitude": 16.449664
+    },
+    {
+      "name": "Trgovački centar Marisa",
+      "latitude": 43.518338,
+      "longitude": 16.243714
+    },
+    {
+      "name": "Trgovački Centar Merces",
+      "latitude": 43.295236,
+      "longitude": 17.016526
+    },
+    {
+      "name": "Trgovački centar Slatina",
+      "latitude": 45.331375,
+      "longitude": 14.301543
+    },
+    {
+      "name": "Tržni centar Kvatrić",
+      "latitude": 45.813283,
+      "longitude": 15.996913
+    },
+    {
+      "name": "Tržni centar Velika Gorica",
+      "latitude": 45.711763,
+      "longitude": 16.07793
+    },
+    {
+      "name": "VSC - Nama",
+      "latitude": 45.288773,
+      "longitude": 18.800791
+    },
+    {
+      "name": "West Centar Koprivnica",
+      "latitude": 46.167659,
+      "longitude": 16.816814
+    },
+    {
+      "name": "West point Umag",
+      "latitude": 45.432998,
+      "longitude": 13.532511
+    },
+    {
+      "name": "Westgate Shopping City",
+      "latitude": 45.871339,
+      "longitude": 15.826922
+    },
+    {
+      "name": "Z centar",
+      "latitude": 45.797964,
+      "longitude": 15.888449
+    },
+    {
+      "name": "Zadar shopping Capitol",
+      "latitude": 44.107338,
+      "longitude": 15.240413
+    },
+    {
+      "name": "ZTC",
+      "latitude": 45.337793,
+      "longitude": 14.406834
+    }
+  ],
+  "meta": {
+    "title": "Trgovački centri - Besplatno preuzimanje",
+    "description": "Trgovački centri u Hrvatskoj (146 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=mall), izrez EU-POIS/HR. Sadrži 146 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovački centri | ListBase",
+    "seo_description": "Preuzmi Trgovački centri — 146 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 146 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

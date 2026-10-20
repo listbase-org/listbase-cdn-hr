@@ -1,0 +1,766 @@
+{
+  "id": "hr-trgovine-biciklima",
+  "name": "Trgovine biciklima",
+  "title": "Trgovine biciklima",
+  "description": "Trgovine biciklima u Hrvatskoj (145 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=bicycle), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 145,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2 kotača",
+      "latitude": 45.771134,
+      "longitude": 16.001194
+    },
+    {
+      "name": "Adventure Support Croatia: mobile bicycle service",
+      "latitude": 43.359257,
+      "longitude": 16.95117
+    },
+    {
+      "name": "Alanprim",
+      "latitude": 45.842876,
+      "longitude": 15.973004
+    },
+    {
+      "name": "Alpha Bike",
+      "latitude": 45.482183,
+      "longitude": 16.37564
+    },
+    {
+      "name": "AM Adria",
+      "latitude": 43.756045,
+      "longitude": 15.789307
+    },
+    {
+      "name": "Auto-Hrvatska",
+      "latitude": 44.115819,
+      "longitude": 15.232466
+    },
+    {
+      "name": "Auto-stop",
+      "latitude": 45.166371,
+      "longitude": 17.999262
+    },
+    {
+      "name": "Balty Moto Sport",
+      "latitude": 44.757559,
+      "longitude": 14.766864
+    },
+    {
+      "name": "Beciklin",
+      "latitude": 46.37939,
+      "longitude": 16.449199
+    },
+    {
+      "name": "Bicikl Centar",
+      "latitude": 45.828471,
+      "longitude": 17.393734
+    },
+    {
+      "name": "Bicikli",
+      "latitude": 45.800115,
+      "longitude": 15.777399
+    },
+    {
+      "name": "Bicikli Fumić",
+      "latitude": 45.757719,
+      "longitude": 15.945213
+    },
+    {
+      "name": "Bicikli Jakovčević",
+      "latitude": 45.555799,
+      "longitude": 18.675203
+    },
+    {
+      "name": "Bicikli Škos",
+      "latitude": 45.556331,
+      "longitude": 18.67454
+    },
+    {
+      "name": "Biciklist",
+      "latitude": 45.900753,
+      "longitude": 16.844402
+    },
+    {
+      "name": "Biciklopopravljaona",
+      "latitude": 45.812933,
+      "longitude": 15.970057
+    },
+    {
+      "name": "Bicycle Service",
+      "latitude": 45.76278,
+      "longitude": 18.158515
+    },
+    {
+      "name": "Bike & Ski Shop",
+      "latitude": 45.556635,
+      "longitude": 18.675418
+    },
+    {
+      "name": "Bike Box",
+      "latitude": 45.225996,
+      "longitude": 13.604706
+    },
+    {
+      "name": "Bike Box",
+      "latitude": 46.306297,
+      "longitude": 16.340769
+    },
+    {
+      "name": "Bike Centar Majić",
+      "latitude": 45.326415,
+      "longitude": 18.400122
+    },
+    {
+      "name": "Bike Medic",
+      "latitude": 45.813733,
+      "longitude": 15.92936
+    },
+    {
+      "name": "Bike Peroj",
+      "latitude": 44.949424,
+      "longitude": 13.798929
+    },
+    {
+      "name": "Bike Planet",
+      "latitude": 44.856572,
+      "longitude": 13.834089
+    },
+    {
+      "name": "Bike Planet",
+      "latitude": 45.080681,
+      "longitude": 13.638298
+    },
+    {
+      "name": "Bike point Radotić",
+      "latitude": 46.388796,
+      "longitude": 16.440057
+    },
+    {
+      "name": "Bike shop",
+      "latitude": 45.486163,
+      "longitude": 16.375562
+    },
+    {
+      "name": "Bike shop Anjo Šport",
+      "latitude": 45.824221,
+      "longitude": 16.122581
+    },
+    {
+      "name": "Bike Shop Experience",
+      "latitude": 45.366016,
+      "longitude": 14.332276
+    },
+    {
+      "name": "Bike shop Kutina",
+      "latitude": 45.484152,
+      "longitude": 16.772822
+    },
+    {
+      "name": "Bike Shop Ljubas",
+      "latitude": 45.313513,
+      "longitude": 18.412842
+    },
+    {
+      "name": "Bike Shop Vukovar",
+      "latitude": 45.344044,
+      "longitude": 19.01024
+    },
+    {
+      "name": "Bike Sport",
+      "latitude": 45.557542,
+      "longitude": 18.675575
+    },
+    {
+      "name": "Bike Station Split",
+      "latitude": 43.520174,
+      "longitude": 16.55682
+    },
+    {
+      "name": "Bike Zone",
+      "latitude": 45.292444,
+      "longitude": 18.803959
+    },
+    {
+      "name": "Bikea",
+      "latitude": 45.563784,
+      "longitude": 18.66199
+    },
+    {
+      "name": "BIKELAB DM",
+      "latitude": 45.761894,
+      "longitude": 18.152526
+    },
+    {
+      "name": "Bikeshop Zadar",
+      "latitude": 44.118762,
+      "longitude": 15.235753
+    },
+    {
+      "name": "BIM",
+      "latitude": 45.806717,
+      "longitude": 15.984215
+    },
+    {
+      "name": "Brand Bike",
+      "latitude": 45.565187,
+      "longitude": 18.63878
+    },
+    {
+      "name": "BRB Sport",
+      "latitude": 44.849829,
+      "longitude": 13.941852
+    },
+    {
+      "name": "Buycycle",
+      "latitude": 45.16047,
+      "longitude": 18.030222
+    },
+    {
+      "name": "Calimero sport",
+      "latitude": 44.111772,
+      "longitude": 15.234942
+    },
+    {
+      "name": "Ciklo box",
+      "latitude": 45.789045,
+      "longitude": 15.954687
+    },
+    {
+      "name": "Ciklo-centar d.o.o.",
+      "latitude": 45.831646,
+      "longitude": 16.009637
+    },
+    {
+      "name": "CikloMont",
+      "latitude": 43.519407,
+      "longitude": 16.448343
+    },
+    {
+      "name": "CikloSport",
+      "latitude": 45.796059,
+      "longitude": 15.978452
+    },
+    {
+      "name": "Ciklus",
+      "latitude": 45.884102,
+      "longitude": 16.029378
+    },
+    {
+      "name": "Cobra box",
+      "latitude": 45.798301,
+      "longitude": 15.906326
+    },
+    {
+      "name": "Davor Bike",
+      "latitude": 45.452626,
+      "longitude": 13.539371
+    },
+    {
+      "name": "Drago sport",
+      "latitude": 45.816835,
+      "longitude": 16.005795
+    },
+    {
+      "name": "DSG",
+      "latitude": 45.77904,
+      "longitude": 15.983118
+    },
+    {
+      "name": "DSG",
+      "latitude": 45.779471,
+      "longitude": 15.983581
+    },
+    {
+      "name": "DSG",
+      "latitude": 45.899512,
+      "longitude": 16.84061
+    },
+    {
+      "name": "DSG bicikli d.o.o.",
+      "latitude": 45.902513,
+      "longitude": 16.842733
+    },
+    {
+      "name": "DSG Servis Središće",
+      "latitude": 45.779152,
+      "longitude": 15.986021
+    },
+    {
+      "name": "Dubrovnik bike adventure shop",
+      "latitude": 42.661392,
+      "longitude": 18.085687
+    },
+    {
+      "name": "E2GO",
+      "latitude": 43.508773,
+      "longitude": 16.437338
+    },
+    {
+      "name": "Ebike",
+      "latitude": 45.801459,
+      "longitude": 15.99245
+    },
+    {
+      "name": "Enduro Bike Service",
+      "latitude": 44.14253,
+      "longitude": 15.23941
+    },
+    {
+      "name": "Enduro bikes&stuff",
+      "latitude": 44.862813,
+      "longitude": 13.860746
+    },
+    {
+      "name": "Enguie",
+      "latitude": 45.795374,
+      "longitude": 15.959248
+    },
+    {
+      "name": "Espo",
+      "latitude": 45.253274,
+      "longitude": 13.612017
+    },
+    {
+      "name": "Euro bike",
+      "latitude": 44.111024,
+      "longitude": 15.23843
+    },
+    {
+      "name": "Euro Bike",
+      "latitude": 45.315907,
+      "longitude": 18.414607
+    },
+    {
+      "name": "Extreme Shop",
+      "latitude": 43.507089,
+      "longitude": 16.466122
+    },
+    {
+      "name": "Extreme Shop – 7bofora",
+      "latitude": 43.513214,
+      "longitude": 16.436078
+    },
+    {
+      "name": "Extreme Sport",
+      "latitude": 45.564444,
+      "longitude": 18.649366
+    },
+    {
+      "name": "Far Out",
+      "latitude": 45.332777,
+      "longitude": 14.424107
+    },
+    {
+      "name": "Fortitus Bike Shop",
+      "latitude": 46.16964,
+      "longitude": 16.814726
+    },
+    {
+      "name": "frzop",
+      "latitude": 43.759994,
+      "longitude": 15.772153
+    },
+    {
+      "name": "Giro",
+      "latitude": 45.329475,
+      "longitude": 14.452402
+    },
+    {
+      "name": "Golf aurora",
+      "latitude": 45.464058,
+      "longitude": 15.496616
+    },
+    {
+      "name": "Golf Aurora",
+      "latitude": 45.489344,
+      "longitude": 15.541857
+    },
+    {
+      "name": "Hafer",
+      "latitude": 45.798289,
+      "longitude": 15.918012
+    },
+    {
+      "name": "Hlevnjak",
+      "latitude": 45.794428,
+      "longitude": 15.994185
+    },
+    {
+      "name": "Hohnjec Sport",
+      "latitude": 45.792237,
+      "longitude": 15.930049
+    },
+    {
+      "name": "Hvar Life",
+      "latitude": 43.1818,
+      "longitude": 16.590176
+    },
+    {
+      "name": "Hvar.Life",
+      "latitude": 43.181854,
+      "longitude": 16.590356
+    },
+    {
+      "name": "iBike - bicycle adventure",
+      "latitude": 43.588304,
+      "longitude": 15.923326
+    },
+    {
+      "name": "Instruktor",
+      "latitude": 45.80464,
+      "longitude": 15.712602
+    },
+    {
+      "name": "Jastreb trgovina",
+      "latitude": 45.797456,
+      "longitude": 15.914343
+    },
+    {
+      "name": "Keindl Sport",
+      "latitude": 44.11292,
+      "longitude": 15.255485
+    },
+    {
+      "name": "Keindl Sport",
+      "latitude": 45.230817,
+      "longitude": 13.615089
+    },
+    {
+      "name": "Keindl Sport",
+      "latitude": 45.342303,
+      "longitude": 14.370672
+    },
+    {
+      "name": "Keindl sport",
+      "latitude": 45.776944,
+      "longitude": 15.977572
+    },
+    {
+      "name": "Keindl sport",
+      "latitude": 45.802789,
+      "longitude": 15.939005
+    },
+    {
+      "name": "Lacković",
+      "latitude": 45.496676,
+      "longitude": 16.366518
+    },
+    {
+      "name": "Lavanda",
+      "latitude": 45.296091,
+      "longitude": 18.809275
+    },
+    {
+      "name": "Lopuh Alfa",
+      "latitude": 45.717719,
+      "longitude": 16.063844
+    },
+    {
+      "name": "LR pedala",
+      "latitude": 45.802576,
+      "longitude": 15.998761
+    },
+    {
+      "name": "M's Garage",
+      "latitude": 45.316349,
+      "longitude": 13.565072
+    },
+    {
+      "name": "Mario bicikli",
+      "latitude": 45.780757,
+      "longitude": 15.962188
+    },
+    {
+      "name": "Marko Projekt",
+      "latitude": 45.778324,
+      "longitude": 15.983247
+    },
+    {
+      "name": "Marko projekt",
+      "latitude": 45.813972,
+      "longitude": 15.988813
+    },
+    {
+      "name": "Matić",
+      "latitude": 45.231381,
+      "longitude": 13.916627
+    },
+    {
+      "name": "Matić Prom",
+      "latitude": 43.709676,
+      "longitude": 16.640424
+    },
+    {
+      "name": "Matić servis",
+      "latitude": 45.231241,
+      "longitude": 13.91677
+    },
+    {
+      "name": "Matta & bikes",
+      "latitude": 45.443986,
+      "longitude": 16.284073
+    },
+    {
+      "name": "Max studio",
+      "latitude": 45.262895,
+      "longitude": 15.230552
+    },
+    {
+      "name": "Metalija",
+      "latitude": 45.493945,
+      "longitude": 15.549563
+    },
+    {
+      "name": "Mi-Sport",
+      "latitude": 45.814431,
+      "longitude": 15.87109
+    },
+    {
+      "name": "MIHALEC TRGOVINA BECIKLIN",
+      "latitude": 46.337159,
+      "longitude": 16.613064
+    },
+    {
+      "name": "Miško trgovina",
+      "latitude": 46.024606,
+      "longitude": 16.549666
+    },
+    {
+      "name": "Montana Sport - Hafer",
+      "latitude": 45.806889,
+      "longitude": 15.89373
+    },
+    {
+      "name": "mr.big sport",
+      "latitude": 45.829214,
+      "longitude": 16.054937
+    },
+    {
+      "name": "MTB shop",
+      "latitude": 45.859158,
+      "longitude": 15.804197
+    },
+    {
+      "name": "MTB shop",
+      "latitude": 45.861073,
+      "longitude": 15.796314
+    },
+    {
+      "name": "Omega Bike",
+      "latitude": 42.648758,
+      "longitude": 18.096296
+    },
+    {
+      "name": "Orlić sport",
+      "latitude": 45.4371,
+      "longitude": 16.275727
+    },
+    {
+      "name": "Panex Dinamic",
+      "latitude": 46.315262,
+      "longitude": 16.325432
+    },
+    {
+      "name": "Panex Dinamic",
+      "latitude": 46.391014,
+      "longitude": 16.444679
+    },
+    {
+      "name": "Panex dinamic",
+      "latitude": 46.395338,
+      "longitude": 16.430329
+    },
+    {
+      "name": "Pedala",
+      "latitude": 45.804139,
+      "longitude": 15.937232
+    },
+    {
+      "name": "Peloton bike shop",
+      "latitude": 43.522621,
+      "longitude": 16.433449
+    },
+    {
+      "name": "Peloton Bike Shop",
+      "latitude": 45.801412,
+      "longitude": 16.011644
+    },
+    {
+      "name": "RABike",
+      "latitude": 44.767673,
+      "longitude": 14.75181
+    },
+    {
+      "name": "ROG Joma",
+      "latitude": 45.325613,
+      "longitude": 14.442932
+    },
+    {
+      "name": "Rog-Joma",
+      "latitude": 45.558728,
+      "longitude": 18.679759
+    },
+    {
+      "name": "rog-joma",
+      "latitude": 45.787387,
+      "longitude": 15.949111
+    },
+    {
+      "name": "Rog-Joma Koprivnica",
+      "latitude": 46.165406,
+      "longitude": 16.828721
+    },
+    {
+      "name": "Rog-Joma Savska",
+      "latitude": 45.805666,
+      "longitude": 15.966226
+    },
+    {
+      "name": "Rog-joma servis",
+      "latitude": 45.81337,
+      "longitude": 15.986797
+    },
+    {
+      "name": "Rog-joma Split",
+      "latitude": 43.512681,
+      "longitude": 16.43762
+    },
+    {
+      "name": "Rog-joma Varaždin Kukuljevićeva",
+      "latitude": 46.309161,
+      "longitude": 16.339591
+    },
+    {
+      "name": "Rog-joma Varaždin Zagrebačka",
+      "latitude": 46.294377,
+      "longitude": 16.342515
+    },
+    {
+      "name": "Rog-joma Virovitica",
+      "latitude": 45.834904,
+      "longitude": 17.385567
+    },
+    {
+      "name": "Rog-joma Vlaška",
+      "latitude": 45.813756,
+      "longitude": 15.991377
+    },
+    {
+      "name": "Rog-joma Zadar",
+      "latitude": 44.114174,
+      "longitude": 15.232597
+    },
+    {
+      "name": "Ronin sport",
+      "latitude": 45.818248,
+      "longitude": 15.961027
+    },
+    {
+      "name": "Servis bicikala BID",
+      "latitude": 45.765683,
+      "longitude": 15.992262
+    },
+    {
+      "name": "Servis bicikala Loknar",
+      "latitude": 45.681953,
+      "longitude": 18.402298
+    },
+    {
+      "name": "Servis bicikla Palko",
+      "latitude": 45.817702,
+      "longitude": 15.891675
+    },
+    {
+      "name": "Servis Volf",
+      "latitude": 45.556968,
+      "longitude": 18.655662
+    },
+    {
+      "name": "Simpil bicikli",
+      "latitude": 45.860942,
+      "longitude": 15.984952
+    },
+    {
+      "name": "Sportech",
+      "latitude": 45.788497,
+      "longitude": 15.946391
+    },
+    {
+      "name": "Svijet bicikala",
+      "latitude": 45.717855,
+      "longitude": 16.063716
+    },
+    {
+      "name": "T.Č.T.",
+      "latitude": 45.812356,
+      "longitude": 15.944698
+    },
+    {
+      "name": "Trgoavto",
+      "latitude": 45.428284,
+      "longitude": 13.525512
+    },
+    {
+      "name": "TurboSport",
+      "latitude": 44.867934,
+      "longitude": 13.84849
+    },
+    {
+      "name": "Ullmann d.o.o.",
+      "latitude": 44.108706,
+      "longitude": 15.254887
+    },
+    {
+      "name": "Veble bikes",
+      "latitude": 45.335742,
+      "longitude": 16.982052
+    },
+    {
+      "name": "Viva sport",
+      "latitude": 45.80533,
+      "longitude": 16.238734
+    },
+    {
+      "name": "Vozimiško servis bicikala",
+      "latitude": 45.776603,
+      "longitude": 15.977187
+    },
+    {
+      "name": "Zelena vozila d.o.o.",
+      "latitude": 45.797427,
+      "longitude": 15.954901
+    }
+  ],
+  "meta": {
+    "title": "Trgovine biciklima - Besplatno preuzimanje",
+    "description": "Trgovine biciklima u Hrvatskoj (145 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=bicycle), izrez EU-POIS/HR. Sadrži 145 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovine biciklima | ListBase",
+    "seo_description": "Preuzmi Trgovine biciklima — 145 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 145 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

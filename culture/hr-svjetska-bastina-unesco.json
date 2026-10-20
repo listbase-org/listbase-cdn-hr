@@ -1,0 +1,241 @@
+{
+  "id": "hr-svjetska-bastina-unesco",
+  "name": "Svjetska baština UNESCO-a u Hrvatskoj",
+  "title": "Svjetska baština UNESCO-a u Hrvatskoj",
+  "description": "Popis lokaliteta svjetske baštine UNESCO-a koji se nalaze u Hrvatskoj",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Historical Complex of Split with the Palace of Diocletian",
+      "category": "Cultural",
+      "date_inscribed": 1979,
+      "criteria": "(ii)(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Croatia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 43.50944,
+      "longitude": 16.44333,
+      "short_description": "The ruins of Diocletian's Palace, built between the late 3rd and the early 4th centuries A.D., can be found throughout the city. The cathedral was built in the Middle Ages, reusing materials from the ancient mausoleum. Twelfth- and 13th-century Romanesque churches, medieval fortifications, 15th-century Gothic palaces and other palaces in Renaissance and Baroque style make up the rest of the protected area.",
+      "id_number": 97,
+      "url": "https://whc.unesco.org/en/list/97"
+    },
+    {
+      "name": "Old City of Dubrovnik",
+      "category": "Cultural",
+      "date_inscribed": 1979,
+      "criteria": "(i)(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Croatia",
+      "transboundary": false,
+      "danger": true,
+      "latitude": 42.65056,
+      "longitude": 18.09139,
+      "short_description": "The 'Pearl of the Adriatic', situated on the Dalmatian coast, became an important Mediterranean sea power from the 13th century onwards. Although severely damaged by an earthquake in 1667, Dubrovnik managed to preserve its beautiful Gothic, Renaissance and Baroque churches, monasteries, palaces and fountains. Damaged again in the 1990s by armed conflict, it is now the focus of a major restoration programme co-ordinated by UNESCO.",
+      "id_number": 95,
+      "url": "https://whc.unesco.org/en/list/95"
+    },
+    {
+      "name": "Plitvice Lakes National Park",
+      "category": "Natural",
+      "date_inscribed": 1979,
+      "criteria": "(vii)(viii)(ix)",
+      "region": "Europe and North America",
+      "states": "Croatia",
+      "transboundary": false,
+      "danger": true,
+      "latitude": 44.87778,
+      "longitude": 15.61444,
+      "short_description": "The waters flowing over the limestone and chalk have, over thousands of years, deposited travertine barriers, creating natural dams which in turn have created a series of beautiful lakes, caves and waterfalls. These geological processes continue today. The forests in the park are home to bears, wolves and many rare bird species.",
+      "id_number": 98,
+      "url": "https://whc.unesco.org/en/list/98"
+    },
+    {
+      "name": "Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč",
+      "category": "Cultural",
+      "date_inscribed": 1997,
+      "criteria": "(ii)(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Croatia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 45.22917,
+      "longitude": 13.59444,
+      "short_description": "The group of religious monuments in Porec, where Christianity was established as early as the 4th century, constitutes the most complete surviving complex of its type. The basilica, atrium, baptistery and episcopal palace are outstanding examples of religious architecture, while the basilica itself combines classical and Byzantine elements in an exceptional manner.",
+      "id_number": 809,
+      "url": "https://whc.unesco.org/en/list/809"
+    },
+    {
+      "name": "Historic City of Trogir",
+      "category": "Cultural",
+      "date_inscribed": 1997,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Croatia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 43.5125,
+      "longitude": 16.25167,
+      "short_description": "Trogir is a remarkable example of urban continuity. The orthogonal street plan of this island settlement dates back to the Hellenistic period and it was embellished by successive rulers with many fine public and domestic buildings and fortifications. Its beautiful Romanesque churches are complemented by the outstanding Renaissance and Baroque buildings from the Venetian period.",
+      "id_number": 810,
+      "url": "https://whc.unesco.org/en/list/810"
+    },
+    {
+      "name": "The Cathedral of St James in Šibenik",
+      "category": "Cultural",
+      "date_inscribed": 2000,
+      "criteria": "(i)(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Croatia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 43.73629,
+      "longitude": 15.89038,
+      "short_description": "The Cathedral of St James in Šibenik (1431-1535), on the Dalmatian coast, bears witness to the considerable exchanges in the field of monumental arts between Northern Italy, Dalmatia and Tuscany in the 15th and 16th centuries. The three architects who succeeded one another in the construction of the Cathedral - Francesco di Giacomo, Georgius Mathei Dalmaticus and Niccolò di Giovanni Fiorentino - developed a structure built entirely from stone and using unique construction techniques for the vaulting and the dome of the Cathedral. The form and the decorative elements of the Cathedral, such as a remarkable frieze decorated with 71 sculptured faces of men, women, and children, also illustrate the successful fusion of Gothic and Renaissance art.",
+      "id_number": 963,
+      "url": "https://whc.unesco.org/en/list/963"
+    },
+    {
+      "name": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+      "category": "Natural",
+      "date_inscribed": 2007,
+      "criteria": "(ix)",
+      "region": "Europe and North America",
+      "states": "Albania, Austria, Belgium, Bulgaria, Croatia, Germany, Italy, Romania, Slovakia, Slovenia, Spain, Ukraine",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 49.009722,
+      "longitude": 22.338889,
+      "short_description": "This transboundary property stretches over 12 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians , Dinarides , Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+      "id_number": 1133,
+      "url": "https://whc.unesco.org/en/list/1133"
+    },
+    {
+      "name": "Stari Grad Plain",
+      "category": "Cultural",
+      "date_inscribed": 2008,
+      "criteria": "(ii)(iii)(v)",
+      "region": "Europe and North America",
+      "states": "Croatia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 43.181667,
+      "longitude": 16.638611,
+      "short_description": "Stari Grad Plain on the Adriatic island of Hvar is a cultural landscape that has remained practically intact since it was first colonized by Ionian Greeks from Paros in the 4th century BC. The original agricultural activity of this fertile plain, mainly centring on grapes and olives, has been maintained since Greek times to the present. The site is also a natural reserve. The landscape features ancient stone walls and trims, or small stone shelters, and bears testimony to the ancient geometrical system of land division used by the ancient Greeks, the chora which has remained virtually intact over 24 centuries.",
+      "id_number": 1240,
+      "url": "https://whc.unesco.org/en/list/1240"
+    },
+    {
+      "name": "Stećci Medieval Tombstone Graveyards",
+      "category": "Cultural",
+      "date_inscribed": 2016,
+      "criteria": "(iii)(vi)",
+      "region": "Europe and North America",
+      "states": "Bosnia and Herzegovina, Croatia, Serbia, Montenegro",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 43.092214,
+      "longitude": 17.924053,
+      "short_description": "This serial property combines 28 sites, located in Bosnia and Herzegovina, western Serbia, western Montenegro and central and southern Croatia, representing these cemeteries and regionally distinctive medieval tombstones, or stećci. The cemeteries, which date from the 12th to 16th centuries CE, are laid out in rows, as was the common custom in Europe from the Middle Ages. The stećci are mostly carved from limestone. They feature a wide range of decorative motifs and inscriptions that represent iconographic continuities within medieval Europe as well as locally distinctive traditions.",
+      "id_number": 1504,
+      "url": "https://whc.unesco.org/en/list/1504"
+    },
+    {
+      "name": "Venetian Works of Defence between the 16th and 17th Centuries: Stato da Terra – Western Stato da Mar",
+      "category": "Cultural",
+      "date_inscribed": 2017,
+      "criteria": "(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Croatia, Italy, Montenegro",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 45.703333,
+      "longitude": 9.663611,
+      "short_description": "This property consists of 6 components of defence works in Italy, Croatia and Montenegro, spanning more than 1,000 km between the Lombard region of Italy and the eastern Adriatic Coast. The fortifications throughout the Stato da Terra protected the Republic of Venice from other European powers to the northwest and those of the Stato da Mar protected the sea routes and ports in the Adriatic Sea to the Levant. They were necessary to support the expansion and authority of the Serenissima . The introduction of gunpowder led to significant shifts in military techniques and architecture that are reflected in the design of so-called alla moderna / bastioned, fortifications, which were to spread throughout Europe.",
+      "id_number": 1533,
+      "url": "https://whc.unesco.org/en/list/1533"
+    }
+  ],
+  "meta": {
+    "title": "Svjetska baština UNESCO-a u Hrvatskoj - Besplatno preuzimanje",
+    "description": "Popis lokaliteta svjetske baštine UNESCO-a koji se nalaze u Hrvatskoj Sadrži 10 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Svjetska baština UNESCO-a u Hrvatskoj | ListBase",
+    "seo_description": "Preuzmi Svjetska baština UNESCO-a u Hrvatskoj — 10 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 10 zapisa / 13 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

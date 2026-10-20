@@ -1,0 +1,7461 @@
+{
+  "id": "hr-supermarketi",
+  "name": "Supermarketi u Hrvatskoj",
+  "title": "Supermarketi u Hrvatskoj",
+  "description": "Supermarkets in Croatia (shop=supermarket) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1484,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Antikvarijat ExLibris",
+      "latitude": 45.32493,
+      "longitude": 14.441839
+    },
+    {
+      "name": "Appollo",
+      "latitude": 43.541677,
+      "longitude": 16.492415
+    },
+    {
+      "name": "Asian Cash & Carry",
+      "latitude": 45.776015,
+      "longitude": 15.974089
+    },
+    {
+      "name": "Bakmaz",
+      "latitude": 44.11593,
+      "longitude": 15.244791
+    },
+    {
+      "name": "Bakmaz",
+      "latitude": 44.128893,
+      "longitude": 15.215877
+    },
+    {
+      "name": "Bakmaz",
+      "latitude": 44.140927,
+      "longitude": 15.244139
+    },
+    {
+      "name": "Bakmaz",
+      "latitude": 44.147033,
+      "longitude": 15.320787
+    },
+    {
+      "name": "Bakmaz",
+      "latitude": 44.14774,
+      "longitude": 15.245605
+    },
+    {
+      "name": "Bakmaz",
+      "latitude": 44.150647,
+      "longitude": 15.239697
+    },
+    {
+      "name": "Bakmaz",
+      "latitude": 44.240312,
+      "longitude": 15.181112
+    },
+    {
+      "name": "Bakmaz",
+      "latitude": 44.243087,
+      "longitude": 15.13726
+    },
+    {
+      "name": "Bat",
+      "latitude": 45.67743,
+      "longitude": 18.638451
+    },
+    {
+      "name": "Becić Mini",
+      "latitude": 45.865337,
+      "longitude": 18.727602
+    },
+    {
+      "name": "BF Komerc",
+      "latitude": 45.193025,
+      "longitude": 15.79235
+    },
+    {
+      "name": "bike shop & service kospor",
+      "latitude": 46.374271,
+      "longitude": 16.408452
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.226218,
+      "longitude": 18.425201
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.513508,
+      "longitude": 18.733253
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.546117,
+      "longitude": 18.678026
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.59906,
+      "longitude": 18.787542
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.605208,
+      "longitude": 18.742956
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.625434,
+      "longitude": 18.444842
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.634813,
+      "longitude": 18.687254
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.638062,
+      "longitude": 18.176863
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.701433,
+      "longitude": 18.58794
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.743345,
+      "longitude": 17.856357
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.766527,
+      "longitude": 18.616978
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.767532,
+      "longitude": 18.607656
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.80154,
+      "longitude": 17.746263
+    },
+    {
+      "name": "Biljemerkant",
+      "latitude": 45.802278,
+      "longitude": 17.633457
+    },
+    {
+      "name": "Billa",
+      "latitude": 45.707581,
+      "longitude": 17.698318
+    },
+    {
+      "name": "Boat Shop",
+      "latitude": 43.571846,
+      "longitude": 15.940352
+    },
+    {
+      "name": "Boso",
+      "latitude": 44.915539,
+      "longitude": 19.064286
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.114469,
+      "longitude": 18.536285
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.140137,
+      "longitude": 19.034012
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.164802,
+      "longitude": 19.153256
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.187529,
+      "longitude": 18.687342
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.194902,
+      "longitude": 18.838007
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.220045,
+      "longitude": 18.948435
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.22818,
+      "longitude": 18.741889
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.250615,
+      "longitude": 18.905029
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.262652,
+      "longitude": 19.171453
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.278931,
+      "longitude": 18.797699
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.289915,
+      "longitude": 18.805801
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.290237,
+      "longitude": 18.769068
+    },
+    {
+      "name": "BOSO",
+      "latitude": 45.290762,
+      "longitude": 18.692761
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.292335,
+      "longitude": 19.099864
+    },
+    {
+      "name": "BOSO",
+      "latitude": 45.298291,
+      "longitude": 18.797659
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.305731,
+      "longitude": 18.558587
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.312582,
+      "longitude": 18.420676
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.315241,
+      "longitude": 18.407736
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.340624,
+      "longitude": 17.675285
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.343718,
+      "longitude": 19.002022
+    },
+    {
+      "name": "Boso",
+      "latitude": 45.39806,
+      "longitude": 18.976212
+    },
+    {
+      "name": "BOSO",
+      "latitude": 45.456261,
+      "longitude": 18.221971
+    },
+    {
+      "name": "BOSO",
+      "latitude": 45.54171,
+      "longitude": 18.050912
+    },
+    {
+      "name": "Boso Drenovci",
+      "latitude": 44.919361,
+      "longitude": 18.91153
+    },
+    {
+      "name": "BOSO Plus",
+      "latitude": 45.545471,
+      "longitude": 18.056037
+    },
+    {
+      "name": "Bosso",
+      "latitude": 45.304764,
+      "longitude": 18.418271
+    },
+    {
+      "name": "Bosso",
+      "latitude": 45.306635,
+      "longitude": 18.416411
+    },
+    {
+      "name": "Branka",
+      "latitude": 46.31865,
+      "longitude": 16.314943
+    },
+    {
+      "name": "Briciola",
+      "latitude": 45.443522,
+      "longitude": 13.655991
+    },
+    {
+      "name": "Brionka",
+      "latitude": 44.824395,
+      "longitude": 13.896097
+    },
+    {
+      "name": "Brionka-Trgovina",
+      "latitude": 44.916146,
+      "longitude": 13.906321
+    },
+    {
+      "name": "Brodokomerc Kantrida",
+      "latitude": 45.341944,
+      "longitude": 14.373266
+    },
+    {
+      "name": "Bure",
+      "latitude": 43.925477,
+      "longitude": 15.457005
+    },
+    {
+      "name": "Bure",
+      "latitude": 43.939842,
+      "longitude": 15.467964
+    },
+    {
+      "name": "Bure Cash & Carry",
+      "latitude": 44.124893,
+      "longitude": 15.101683
+    },
+    {
+      "name": "Butiga",
+      "latitude": 45.440708,
+      "longitude": 13.529879
+    },
+    {
+      "name": "Butiga Pod školu",
+      "latitude": 45.42205,
+      "longitude": 14.273579
+    },
+    {
+      "name": "Butiga ULTRA",
+      "latitude": 45.116189,
+      "longitude": 13.838219
+    },
+    {
+      "name": "Camping Bijar",
+      "latitude": 44.699907,
+      "longitude": 14.396293
+    },
+    {
+      "name": "Check-In",
+      "latitude": 44.824075,
+      "longitude": 13.850704
+    },
+    {
+      "name": "COMET Ltd.",
+      "latitude": 45.895209,
+      "longitude": 16.837528
+    },
+    {
+      "name": "Conty plus d.o.o.",
+      "latitude": 45.337653,
+      "longitude": 14.502962
+    },
+    {
+      "name": "Corner Market",
+      "latitude": 42.688851,
+      "longitude": 17.941895
+    },
+    {
+      "name": "Cresanka Vaša Trgovina",
+      "latitude": 44.959862,
+      "longitude": 14.391696
+    },
+    {
+      "name": "Cuk Promet",
+      "latitude": 45.721936,
+      "longitude": 18.516812
+    },
+    {
+      "name": "Cvijet Kvarnera",
+      "latitude": 45.131891,
+      "longitude": 14.546362
+    },
+    {
+      "name": "Dalmata Jurashop",
+      "latitude": 43.059687,
+      "longitude": 17.657873
+    },
+    {
+      "name": "Delfin",
+      "latitude": 45.797171,
+      "longitude": 15.948019
+    },
+    {
+      "name": "Desetka",
+      "latitude": 45.817768,
+      "longitude": 15.878231
+    },
+    {
+      "name": "Di Meglio",
+      "latitude": 44.877137,
+      "longitude": 13.857029
+    },
+    {
+      "name": "Diona",
+      "latitude": 45.239912,
+      "longitude": 13.935769
+    },
+    {
+      "name": "Diona",
+      "latitude": 45.241292,
+      "longitude": 13.945559
+    },
+    {
+      "name": "Diona",
+      "latitude": 45.340034,
+      "longitude": 16.088298
+    },
+    {
+      "name": "Diona",
+      "latitude": 45.793242,
+      "longitude": 16.004917
+    },
+    {
+      "name": "Diona",
+      "latitude": 45.81455,
+      "longitude": 15.996086
+    },
+    {
+      "name": "Discount Valalta",
+      "latitude": 45.08524,
+      "longitude": 13.64103
+    },
+    {
+      "name": "Diskont",
+      "latitude": 44.956169,
+      "longitude": 14.414949
+    },
+    {
+      "name": "Diskont",
+      "latitude": 45.096287,
+      "longitude": 14.115011
+    },
+    {
+      "name": "Diskont Fami Rakitovica",
+      "latitude": 45.716943,
+      "longitude": 18.191775
+    },
+    {
+      "name": "Diskont Jedinstvo",
+      "latitude": 45.096192,
+      "longitude": 14.114994
+    },
+    {
+      "name": "Diskont Stanic",
+      "latitude": 44.967472,
+      "longitude": 15.644064
+    },
+    {
+      "name": "Diskont Stanić",
+      "latitude": 44.823931,
+      "longitude": 13.93207
+    },
+    {
+      "name": "Diskont Stanić",
+      "latitude": 45.500982,
+      "longitude": 15.54865
+    },
+    {
+      "name": "Diskont Stanić Šibenik",
+      "latitude": 43.711549,
+      "longitude": 15.910362
+    },
+    {
+      "name": "Diskont Valalta",
+      "latitude": 45.109593,
+      "longitude": 13.7166
+    },
+    {
+      "name": "Divje Dore",
+      "latitude": 45.494888,
+      "longitude": 15.551581
+    },
+    {
+      "name": "djelo",
+      "latitude": 43.661202,
+      "longitude": 15.657039
+    },
+    {
+      "name": "Djelo",
+      "latitude": 43.732524,
+      "longitude": 15.897526
+    },
+    {
+      "name": "Djelo",
+      "latitude": 43.755545,
+      "longitude": 15.773486
+    },
+    {
+      "name": "Djelo",
+      "latitude": 43.756545,
+      "longitude": 15.750317
+    },
+    {
+      "name": "Djelo",
+      "latitude": 43.769188,
+      "longitude": 15.772073
+    },
+    {
+      "name": "Djelo",
+      "latitude": 43.783221,
+      "longitude": 16.019177
+    },
+    {
+      "name": "Djelo",
+      "latitude": 43.806678,
+      "longitude": 15.855336
+    },
+    {
+      "name": "Djelo",
+      "latitude": 43.815461,
+      "longitude": 15.591766
+    },
+    {
+      "name": "Djelo",
+      "latitude": 43.822049,
+      "longitude": 15.592236
+    },
+    {
+      "name": "Djelo d.o.o.",
+      "latitude": 43.745524,
+      "longitude": 15.896496
+    },
+    {
+      "name": "Djelo dućan",
+      "latitude": 43.784867,
+      "longitude": 15.880379
+    },
+    {
+      "name": "Djelo Market",
+      "latitude": 43.739174,
+      "longitude": 15.890979
+    },
+    {
+      "name": "Draga",
+      "latitude": 45.075942,
+      "longitude": 14.675092
+    },
+    {
+      "name": "Dulić",
+      "latitude": 43.389006,
+      "longitude": 17.236396
+    },
+    {
+      "name": "Duravit",
+      "latitude": 44.873493,
+      "longitude": 13.85378
+    },
+    {
+      "name": "Dvor",
+      "latitude": 43.32849,
+      "longitude": 16.978315
+    },
+    {
+      "name": "Emmezeta",
+      "latitude": 45.172227,
+      "longitude": 18.063611
+    },
+    {
+      "name": "Enderić",
+      "latitude": 45.491,
+      "longitude": 18.986381
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 43.528045,
+      "longitude": 16.483253
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 43.945833,
+      "longitude": 15.45401
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 44.113133,
+      "longitude": 15.255046
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 44.13973,
+      "longitude": 15.227563
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 44.867348,
+      "longitude": 13.867635
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.117909,
+      "longitude": 14.118831
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.162116,
+      "longitude": 18.017508
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.231571,
+      "longitude": 13.619209
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.232784,
+      "longitude": 13.921421
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.285669,
+      "longitude": 18.407552
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.288905,
+      "longitude": 18.818284
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.331052,
+      "longitude": 17.647639
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.335072,
+      "longitude": 14.505689
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.339927,
+      "longitude": 19.020391
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.363096,
+      "longitude": 14.318061
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.370581,
+      "longitude": 14.385454
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.486599,
+      "longitude": 15.542224
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.495792,
+      "longitude": 16.357543
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.547685,
+      "longitude": 18.690763
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.660383,
+      "longitude": 15.653371
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.724257,
+      "longitude": 16.062058
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.803094,
+      "longitude": 16.227363
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.810438,
+      "longitude": 15.714826
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.811423,
+      "longitude": 15.867381
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.818641,
+      "longitude": 16.043029
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.8199,
+      "longitude": 17.394475
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.827761,
+      "longitude": 16.082124
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.859155,
+      "longitude": 15.797601
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.88674,
+      "longitude": 16.411841
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 45.904146,
+      "longitude": 16.853493
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 46.017205,
+      "longitude": 16.547178
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 46.165395,
+      "longitude": 16.832294
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 46.24242,
+      "longitude": 16.626343
+    },
+    {
+      "name": "EuroSpin",
+      "latitude": 46.389686,
+      "longitude": 16.414197
+    },
+    {
+      "name": "Eurotrade",
+      "latitude": 43.515467,
+      "longitude": 16.489878
+    },
+    {
+      "name": "Fami",
+      "latitude": 45.6667,
+      "longitude": 18.291121
+    },
+    {
+      "name": "Fami",
+      "latitude": 45.786347,
+      "longitude": 17.983203
+    },
+    {
+      "name": "Family shop",
+      "latitude": 42.675204,
+      "longitude": 18.104832
+    },
+    {
+      "name": "Fipi Koka",
+      "latitude": 45.806894,
+      "longitude": 15.716225
+    },
+    {
+      "name": "Fis",
+      "latitude": 45.173825,
+      "longitude": 18.066022
+    },
+    {
+      "name": "Fresh",
+      "latitude": 45.69191,
+      "longitude": 15.742023
+    },
+    {
+      "name": "Galerija Poreč",
+      "latitude": 45.230129,
+      "longitude": 13.620066
+    },
+    {
+      "name": "Gavranović",
+      "latitude": 44.990397,
+      "longitude": 14.901374
+    },
+    {
+      "name": "Gavranović",
+      "latitude": 45.351229,
+      "longitude": 15.864821
+    },
+    {
+      "name": "Gavranović",
+      "latitude": 45.43832,
+      "longitude": 16.268654
+    },
+    {
+      "name": "Gavranović",
+      "latitude": 45.48508,
+      "longitude": 15.555722
+    },
+    {
+      "name": "Gavranović",
+      "latitude": 45.491342,
+      "longitude": 15.53918
+    },
+    {
+      "name": "Gavranović",
+      "latitude": 45.496626,
+      "longitude": 15.557553
+    },
+    {
+      "name": "Gavranović",
+      "latitude": 45.786006,
+      "longitude": 16.030244
+    },
+    {
+      "name": "Gavranović market",
+      "latitude": 45.484835,
+      "longitude": 15.548775
+    },
+    {
+      "name": "Gavranović market",
+      "latitude": 45.808222,
+      "longitude": 15.941902
+    },
+    {
+      "name": "Germania",
+      "latitude": 43.499032,
+      "longitude": 16.339206
+    },
+    {
+      "name": "Getro",
+      "latitude": 44.886523,
+      "longitude": 13.860263
+    },
+    {
+      "name": "Glavač promet d.o.o.",
+      "latitude": 45.994188,
+      "longitude": 15.916678
+    },
+    {
+      "name": "GM",
+      "latitude": 45.215513,
+      "longitude": 15.317236
+    },
+    {
+      "name": "Građa",
+      "latitude": 42.629898,
+      "longitude": 18.16129
+    },
+    {
+      "name": "Grga Market",
+      "latitude": 44.817377,
+      "longitude": 13.938154
+    },
+    {
+      "name": "Histria Venum - Kamp BiVillage",
+      "latitude": 44.91675,
+      "longitude": 13.808792
+    },
+    {
+      "name": "Horeca Team",
+      "latitude": 45.906385,
+      "longitude": 16.86017
+    },
+    {
+      "name": "Interspar",
+      "latitude": 43.51375,
+      "longitude": 16.501488
+    },
+    {
+      "name": "Interspar",
+      "latitude": 43.519059,
+      "longitude": 16.484327
+    },
+    {
+      "name": "Interspar",
+      "latitude": 44.107367,
+      "longitude": 15.240541
+    },
+    {
+      "name": "Interspar",
+      "latitude": 44.115011,
+      "longitude": 15.252642
+    },
+    {
+      "name": "Interspar",
+      "latitude": 44.869805,
+      "longitude": 13.868303
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.174771,
+      "longitude": 18.054572
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.317673,
+      "longitude": 14.469289
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.333528,
+      "longitude": 14.509076
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.338407,
+      "longitude": 14.400829
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.344588,
+      "longitude": 14.407617
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.495816,
+      "longitude": 16.378127
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.5056,
+      "longitude": 15.545114
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.552751,
+      "longitude": 18.675258
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.554658,
+      "longitude": 18.639511
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.719633,
+      "longitude": 16.077352
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.748884,
+      "longitude": 15.880792
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.754902,
+      "longitude": 15.988082
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.770051,
+      "longitude": 15.940089
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.79666,
+      "longitude": 15.854606
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.798934,
+      "longitude": 15.883737
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.799973,
+      "longitude": 15.727539
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.801451,
+      "longitude": 16.05081
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.825176,
+      "longitude": 16.078878
+    },
+    {
+      "name": "Interspar",
+      "latitude": 45.836625,
+      "longitude": 16.0462
+    },
+    {
+      "name": "Interspar",
+      "latitude": 46.146428,
+      "longitude": 16.834265
+    },
+    {
+      "name": "Istarski Supermarketi",
+      "latitude": 45.150323,
+      "longitude": 13.607081
+    },
+    {
+      "name": "Istarski Supermarketi (P-918)",
+      "latitude": 45.149298,
+      "longitude": 13.603842
+    },
+    {
+      "name": "Ivelma",
+      "latitude": 43.396992,
+      "longitude": 17.056665
+    },
+    {
+      "name": "Izbor Jandrić",
+      "latitude": 44.531425,
+      "longitude": 15.766085
+    },
+    {
+      "name": "Izbor Jandrić",
+      "latitude": 44.74354,
+      "longitude": 15.707552
+    },
+    {
+      "name": "Jadranka",
+      "latitude": 44.519262,
+      "longitude": 14.501098
+    },
+    {
+      "name": "Jadranka",
+      "latitude": 44.525026,
+      "longitude": 14.470105
+    },
+    {
+      "name": "Jadranka",
+      "latitude": 44.531383,
+      "longitude": 14.469579
+    },
+    {
+      "name": "Jadranka",
+      "latitude": 44.533175,
+      "longitude": 14.465422
+    },
+    {
+      "name": "Jadranka",
+      "latitude": 44.535082,
+      "longitude": 14.471527
+    },
+    {
+      "name": "Jadranka",
+      "latitude": 44.536071,
+      "longitude": 14.448913
+    },
+    {
+      "name": "Jadranka Markt",
+      "latitude": 44.637812,
+      "longitude": 14.493345
+    },
+    {
+      "name": "Jadranka Supermarkt",
+      "latitude": 44.614308,
+      "longitude": 14.511086
+    },
+    {
+      "name": "Jager",
+      "latitude": 46.22387,
+      "longitude": 15.702087
+    },
+    {
+      "name": "Jagoda",
+      "latitude": 45.802064,
+      "longitude": 16.002547
+    },
+    {
+      "name": "Jakšinić d.o.o.",
+      "latitude": 46.016594,
+      "longitude": 16.536984
+    },
+    {
+      "name": "Jandrić",
+      "latitude": 44.650558,
+      "longitude": 15.384212
+    },
+    {
+      "name": "Jedinstvo",
+      "latitude": 45.064268,
+      "longitude": 14.016455
+    },
+    {
+      "name": "Jedinstvo",
+      "latitude": 45.093125,
+      "longitude": 14.120346
+    },
+    {
+      "name": "JYSK / Intersport",
+      "latitude": 46.022111,
+      "longitude": 16.548433
+    },
+    {
+      "name": "K Market",
+      "latitude": 42.93882,
+      "longitude": 16.788787
+    },
+    {
+      "name": "K Market",
+      "latitude": 42.961089,
+      "longitude": 16.716708
+    },
+    {
+      "name": "K.K. KLJUČ",
+      "latitude": 45.956595,
+      "longitude": 16.236836
+    },
+    {
+      "name": "Karlovačko Market",
+      "latitude": 43.504138,
+      "longitude": 16.479225
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 42.631459,
+      "longitude": 18.16317
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 43.285085,
+      "longitude": 17.030328
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 43.508477,
+      "longitude": 16.474596
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 43.520081,
+      "longitude": 16.46739
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 43.533597,
+      "longitude": 16.280653
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 43.722914,
+      "longitude": 15.90579
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 43.766737,
+      "longitude": 15.773084
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 43.94506,
+      "longitude": 15.452331
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 44.105296,
+      "longitude": 15.263571
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 44.118171,
+      "longitude": 15.240884
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.089664,
+      "longitude": 13.656592
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.162556,
+      "longitude": 18.019123
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.231515,
+      "longitude": 13.62111
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.253165,
+      "longitude": 17.385365
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.29223,
+      "longitude": 18.795646
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.336527,
+      "longitude": 17.684873
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.340714,
+      "longitude": 14.398588
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.341135,
+      "longitude": 14.424802
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.367088,
+      "longitude": 18.965654
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.423007,
+      "longitude": 13.527047
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.476207,
+      "longitude": 16.777572
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.488491,
+      "longitude": 15.545514
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.49566,
+      "longitude": 16.364652
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.544604,
+      "longitude": 18.709142
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.563936,
+      "longitude": 18.637145
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.71836,
+      "longitude": 16.054186
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.761354,
+      "longitude": 15.98636
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.769148,
+      "longitude": 15.933337
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.778683,
+      "longitude": 15.984916
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.79612,
+      "longitude": 15.918607
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.799834,
+      "longitude": 15.735402
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.80357,
+      "longitude": 15.876984
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.805128,
+      "longitude": 15.92047
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.805496,
+      "longitude": 16.225439
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.808212,
+      "longitude": 16.013157
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.817505,
+      "longitude": 16.03623
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.828087,
+      "longitude": 16.007369
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.828527,
+      "longitude": 17.398173
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.833089,
+      "longitude": 16.108016
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.834274,
+      "longitude": 16.057874
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.846215,
+      "longitude": 15.815274
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 45.90309,
+      "longitude": 16.851918
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 46.022864,
+      "longitude": 15.907348
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 46.171751,
+      "longitude": 16.819275
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 46.229983,
+      "longitude": 16.130381
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 46.292284,
+      "longitude": 16.342627
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 46.315385,
+      "longitude": 16.337551
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 46.388563,
+      "longitude": 16.413509
+    },
+    {
+      "name": "Kaufland Sinj",
+      "latitude": 43.701541,
+      "longitude": 16.644585
+    },
+    {
+      "name": "Kaufland Đakovo",
+      "latitude": 45.309564,
+      "longitude": 18.397295
+    },
+    {
+      "name": "Kitro",
+      "latitude": 46.256935,
+      "longitude": 16.602408
+    },
+    {
+      "name": "Kogutex",
+      "latitude": 46.034372,
+      "longitude": 16.220691
+    },
+    {
+      "name": "Konikom",
+      "latitude": 45.770946,
+      "longitude": 18.598954
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.583107,
+      "longitude": 18.216455
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.631393,
+      "longitude": 18.1654
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.640105,
+      "longitude": 18.10991
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.642353,
+      "longitude": 18.105307
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.64825,
+      "longitude": 18.096104
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.662102,
+      "longitude": 18.083892
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.669389,
+      "longitude": 18.128306
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.922499,
+      "longitude": 17.17186
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.951357,
+      "longitude": 17.145867
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.958639,
+      "longitude": 17.135309
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.960323,
+      "longitude": 17.135774
+    },
+    {
+      "name": "Konzum",
+      "latitude": 42.983674,
+      "longitude": 17.199207
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.051131,
+      "longitude": 17.632211
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.054151,
+      "longitude": 17.645168
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.061038,
+      "longitude": 16.183126
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.126268,
+      "longitude": 17.186114
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.139962,
+      "longitude": 17.27826
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.161953,
+      "longitude": 16.68916
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.172715,
+      "longitude": 16.443999
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.203495,
+      "longitude": 17.379785
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.261815,
+      "longitude": 16.65729
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.264495,
+      "longitude": 17.057634
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.285411,
+      "longitude": 17.032317
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.294052,
+      "longitude": 17.020588
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.305324,
+      "longitude": 17.010989
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.310769,
+      "longitude": 17.010498
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.355986,
+      "longitude": 16.949403
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.367582,
+      "longitude": 16.931498
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.374786,
+      "longitude": 16.633595
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.378869,
+      "longitude": 16.5586
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.442285,
+      "longitude": 17.201585
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.499386,
+      "longitude": 16.260325
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.505231,
+      "longitude": 16.448804
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.506247,
+      "longitude": 16.431637
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.506312,
+      "longitude": 16.504345
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.511056,
+      "longitude": 16.458334
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.517482,
+      "longitude": 16.43486
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.518889,
+      "longitude": 16.250265
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.524105,
+      "longitude": 16.448323
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.529845,
+      "longitude": 16.492431
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.542975,
+      "longitude": 16.479292
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.548832,
+      "longitude": 16.335857
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.588227,
+      "longitude": 15.924141
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.676392,
+      "longitude": 15.920311
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.687614,
+      "longitude": 16.733829
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.702836,
+      "longitude": 16.643208
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.713423,
+      "longitude": 15.912631
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.719367,
+      "longitude": 15.901365
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.733031,
+      "longitude": 15.896001
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.750193,
+      "longitude": 15.891786
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.756537,
+      "longitude": 15.744924
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.759442,
+      "longitude": 15.778434
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.765671,
+      "longitude": 15.796697
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.786614,
+      "longitude": 15.823593
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.788002,
+      "longitude": 15.639665
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.817454,
+      "longitude": 15.922525
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.821517,
+      "longitude": 15.586503
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.902462,
+      "longitude": 15.701106
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.941144,
+      "longitude": 15.445726
+    },
+    {
+      "name": "Konzum",
+      "latitude": 43.941683,
+      "longitude": 15.453743
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.037417,
+      "longitude": 16.19748
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.043124,
+      "longitude": 16.198603
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.065344,
+      "longitude": 16.214595
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.075404,
+      "longitude": 15.194736
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.081079,
+      "longitude": 15.187712
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.100252,
+      "longitude": 15.248152
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.10656,
+      "longitude": 15.242158
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.109996,
+      "longitude": 15.237236
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.115492,
+      "longitude": 15.227529
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.11645,
+      "longitude": 15.255773
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.116839,
+      "longitude": 15.232411
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.132171,
+      "longitude": 15.211979
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.183329,
+      "longitude": 15.161982
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.200757,
+      "longitude": 15.685481
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.242808,
+      "longitude": 15.171559
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.294964,
+      "longitude": 15.115503
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.345415,
+      "longitude": 15.114233
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.478426,
+      "longitude": 14.920003
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.545317,
+      "longitude": 14.894051
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.546952,
+      "longitude": 15.371257
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.552343,
+      "longitude": 15.374772
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.648084,
+      "longitude": 15.384023
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.744526,
+      "longitude": 15.70659
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.756881,
+      "longitude": 14.766627
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.758764,
+      "longitude": 14.759381
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.763611,
+      "longitude": 14.759437
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.791468,
+      "longitude": 14.70695
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.799652,
+      "longitude": 14.718816
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.824877,
+      "longitude": 13.849526
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.826208,
+      "longitude": 13.878831
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.829162,
+      "longitude": 14.728939
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.856466,
+      "longitude": 13.838317
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.859518,
+      "longitude": 13.838795
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.860609,
+      "longitude": 13.846959
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.861366,
+      "longitude": 13.832516
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.868261,
+      "longitude": 15.234363
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.869745,
+      "longitude": 13.855078
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.883824,
+      "longitude": 13.869096
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.926112,
+      "longitude": 13.804923
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.928009,
+      "longitude": 14.005038
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.953773,
+      "longitude": 13.853354
+    },
+    {
+      "name": "Konzum",
+      "latitude": 44.956404,
+      "longitude": 14.414767
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.035832,
+      "longitude": 14.568698
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.053602,
+      "longitude": 13.685795
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.061787,
+      "longitude": 13.671817
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.072823,
+      "longitude": 18.696106
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.074313,
+      "longitude": 13.649617
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.080259,
+      "longitude": 13.638813
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.080453,
+      "longitude": 13.654924
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.082216,
+      "longitude": 13.6343
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.082243,
+      "longitude": 13.650435
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.100706,
+      "longitude": 13.635351
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.105886,
+      "longitude": 14.116871
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.112046,
+      "longitude": 17.513078
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.127514,
+      "longitude": 14.790613
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.128415,
+      "longitude": 14.78997
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.134579,
+      "longitude": 13.605339
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.140613,
+      "longitude": 13.602004
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.151372,
+      "longitude": 13.617604
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.157107,
+      "longitude": 14.719972
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.159534,
+      "longitude": 17.999061
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.161659,
+      "longitude": 14.760431
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.165587,
+      "longitude": 13.605014
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.173988,
+      "longitude": 14.693159
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.182103,
+      "longitude": 14.681102
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.186985,
+      "longitude": 18.031842
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.188214,
+      "longitude": 14.680095
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.219155,
+      "longitude": 14.623889
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.224124,
+      "longitude": 19.368792
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.228011,
+      "longitude": 13.597476
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.230412,
+      "longitude": 13.605575
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.245208,
+      "longitude": 15.249551
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.257364,
+      "longitude": 17.383848
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.260865,
+      "longitude": 17.201348
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.275735,
+      "longitude": 18.805831
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.28869,
+      "longitude": 18.800748
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.292606,
+      "longitude": 14.274981
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.306619,
+      "longitude": 14.281167
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.312528,
+      "longitude": 14.285689
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.315302,
+      "longitude": 14.853814
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.315901,
+      "longitude": 13.561897
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.317507,
+      "longitude": 18.418096
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.325139,
+      "longitude": 14.443156
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.327625,
+      "longitude": 14.438476
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.330758,
+      "longitude": 14.509651
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.338718,
+      "longitude": 14.309171
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.340414,
+      "longitude": 16.97448
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.351357,
+      "longitude": 14.41651
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.364041,
+      "longitude": 14.323683
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.364981,
+      "longitude": 14.345603
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.365816,
+      "longitude": 14.298953
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.375527,
+      "longitude": 18.952771
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.393301,
+      "longitude": 14.805603
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.399012,
+      "longitude": 16.893249
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.407125,
+      "longitude": 13.962652
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.40781,
+      "longitude": 13.659239
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.41498,
+      "longitude": 13.661428
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.415002,
+      "longitude": 17.162188
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.431426,
+      "longitude": 13.529275
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.432039,
+      "longitude": 13.52242
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.446095,
+      "longitude": 15.498197
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.449272,
+      "longitude": 15.500259
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.450258,
+      "longitude": 13.519625
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.454127,
+      "longitude": 16.372069
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.456988,
+      "longitude": 15.490756
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.484305,
+      "longitude": 13.566787
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.484679,
+      "longitude": 15.556
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.490587,
+      "longitude": 15.540527
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.490657,
+      "longitude": 18.674582
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.492853,
+      "longitude": 15.548695
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.496632,
+      "longitude": 18.096142
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.518338,
+      "longitude": 18.729839
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.523563,
+      "longitude": 17.974427
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.524694,
+      "longitude": 18.579074
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.542359,
+      "longitude": 18.051396
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.543206,
+      "longitude": 18.719234
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.544705,
+      "longitude": 18.679015
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.551241,
+      "longitude": 18.695996
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.555882,
+      "longitude": 18.691801
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.55599,
+      "longitude": 18.720092
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.557715,
+      "longitude": 18.678761
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.561744,
+      "longitude": 18.677407
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.563797,
+      "longitude": 18.653449
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.564995,
+      "longitude": 14.62875
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.565114,
+      "longitude": 18.648038
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.56845,
+      "longitude": 16.624438
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.574976,
+      "longitude": 16.943039
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.600903,
+      "longitude": 18.742503
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.612431,
+      "longitude": 15.47653
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.624501,
+      "longitude": 18.686562
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.625889,
+      "longitude": 15.3227
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.636622,
+      "longitude": 14.579539
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.658119,
+      "longitude": 18.419159
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.664827,
+      "longitude": 15.643119
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.677268,
+      "longitude": 15.656238
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.684853,
+      "longitude": 18.408932
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.691908,
+      "longitude": 15.742504
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.704863,
+      "longitude": 16.394203
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.707457,
+      "longitude": 16.407004
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.711443,
+      "longitude": 16.058977
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.715459,
+      "longitude": 16.071389
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.734036,
+      "longitude": 16.025731
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.737664,
+      "longitude": 15.999903
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.738202,
+      "longitude": 16.016554
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.738769,
+      "longitude": 15.797123
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.755422,
+      "longitude": 15.835052
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.756668,
+      "longitude": 15.946381
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.758546,
+      "longitude": 18.164026
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.76989,
+      "longitude": 16.004299
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.770729,
+      "longitude": 18.598543
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.771997,
+      "longitude": 15.994873
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.773208,
+      "longitude": 15.99013
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.776376,
+      "longitude": 15.978782
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.77885,
+      "longitude": 15.995916
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.780858,
+      "longitude": 15.965913
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.785142,
+      "longitude": 15.927678
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.788196,
+      "longitude": 16.007336
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.789705,
+      "longitude": 15.931514
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.789818,
+      "longitude": 15.996018
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.790768,
+      "longitude": 15.952702
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.7908,
+      "longitude": 15.94445
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.790884,
+      "longitude": 15.913753
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.79177,
+      "longitude": 15.940025
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.793094,
+      "longitude": 16.049109
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.793112,
+      "longitude": 15.911342
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.796612,
+      "longitude": 15.909909
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.797837,
+      "longitude": 15.892926
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.800303,
+      "longitude": 15.954316
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.80051,
+      "longitude": 15.725852
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.800611,
+      "longitude": 16.007346
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.802839,
+      "longitude": 15.972053
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.802843,
+      "longitude": 16.238815
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.803457,
+      "longitude": 15.99933
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.803744,
+      "longitude": 16.013806
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.807014,
+      "longitude": 15.940903
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.807299,
+      "longitude": 15.86039
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.808575,
+      "longitude": 15.930966
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.808687,
+      "longitude": 15.996652
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.81206,
+      "longitude": 15.711545
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.81241,
+      "longitude": 15.973094
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.812544,
+      "longitude": 15.883435
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.81276,
+      "longitude": 15.965254
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.813219,
+      "longitude": 15.955916
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.813975,
+      "longitude": 15.928277
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.815323,
+      "longitude": 15.997397
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.815632,
+      "longitude": 15.868369
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.815666,
+      "longitude": 15.953556
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.816656,
+      "longitude": 15.934452
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.816664,
+      "longitude": 16.002816
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.817157,
+      "longitude": 16.174552
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.817435,
+      "longitude": 15.886133
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.821341,
+      "longitude": 17.409572
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.823275,
+      "longitude": 16.293825
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.824121,
+      "longitude": 16.117471
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.828035,
+      "longitude": 16.067986
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.828388,
+      "longitude": 16.07955
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.828547,
+      "longitude": 16.052055
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.831168,
+      "longitude": 17.387058
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.831444,
+      "longitude": 15.998528
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.838117,
+      "longitude": 16.048158
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.83884,
+      "longitude": 16.061644
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.840499,
+      "longitude": 16.013919
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.841509,
+      "longitude": 16.05374
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.857188,
+      "longitude": 15.80443
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.861936,
+      "longitude": 15.985862
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.863138,
+      "longitude": 15.786636
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.875514,
+      "longitude": 16.014436
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.879398,
+      "longitude": 16.397603
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.896248,
+      "longitude": 16.841378
+    },
+    {
+      "name": "Konzum",
+      "latitude": 45.952606,
+      "longitude": 17.23175
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.016936,
+      "longitude": 16.544117
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.018163,
+      "longitude": 15.894089
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.039511,
+      "longitude": 17.066674
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.079988,
+      "longitude": 15.907656
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.091833,
+      "longitude": 15.838506
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.131917,
+      "longitude": 15.970922
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.161128,
+      "longitude": 16.33611
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.162502,
+      "longitude": 16.826678
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.162543,
+      "longitude": 15.873597
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.164727,
+      "longitude": 16.836498
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.172001,
+      "longitude": 15.863964
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.210056,
+      "longitude": 16.03813
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.224256,
+      "longitude": 16.124792
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.263196,
+      "longitude": 16.374431
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.292747,
+      "longitude": 16.405182
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.297328,
+      "longitude": 16.327847
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.300029,
+      "longitude": 16.339211
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.302959,
+      "longitude": 16.328937
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.311641,
+      "longitude": 16.326246
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.315259,
+      "longitude": 16.343379
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.339475,
+      "longitude": 16.62755
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.381425,
+      "longitude": 16.416008
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.386797,
+      "longitude": 16.424433
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.390557,
+      "longitude": 16.434946
+    },
+    {
+      "name": "Konzum",
+      "latitude": 46.507021,
+      "longitude": 16.431569
+    },
+    {
+      "name": "KONZUM market",
+      "latitude": 44.810595,
+      "longitude": 13.929395
+    },
+    {
+      "name": "Konzum Market",
+      "latitude": 45.062905,
+      "longitude": 13.665038
+    },
+    {
+      "name": "Krešimir",
+      "latitude": 44.390756,
+      "longitude": 15.685892
+    },
+    {
+      "name": "KTC",
+      "latitude": 45.439724,
+      "longitude": 16.276601
+    },
+    {
+      "name": "KTC",
+      "latitude": 45.490039,
+      "longitude": 16.386883
+    },
+    {
+      "name": "KTC",
+      "latitude": 45.495732,
+      "longitude": 16.366304
+    },
+    {
+      "name": "KTC",
+      "latitude": 45.507461,
+      "longitude": 15.546728
+    },
+    {
+      "name": "KTC",
+      "latitude": 45.70148,
+      "longitude": 17.17405
+    },
+    {
+      "name": "KTC",
+      "latitude": 45.710991,
+      "longitude": 17.696329
+    },
+    {
+      "name": "KTC",
+      "latitude": 45.747758,
+      "longitude": 16.601351
+    },
+    {
+      "name": "KTC",
+      "latitude": 45.902559,
+      "longitude": 16.840521
+    },
+    {
+      "name": "KTC",
+      "latitude": 46.022553,
+      "longitude": 16.54563
+    },
+    {
+      "name": "KTC",
+      "latitude": 46.233519,
+      "longitude": 16.14423
+    },
+    {
+      "name": "KTC",
+      "latitude": 46.260257,
+      "longitude": 16.478392
+    },
+    {
+      "name": "KTC",
+      "latitude": 46.325159,
+      "longitude": 16.614943
+    },
+    {
+      "name": "KTC",
+      "latitude": 46.389344,
+      "longitude": 16.418943
+    },
+    {
+      "name": "KTC",
+      "latitude": 46.507506,
+      "longitude": 16.42816
+    },
+    {
+      "name": "KTC Bjelovar",
+      "latitude": 45.889854,
+      "longitude": 16.851333
+    },
+    {
+      "name": "KTC Daruvar",
+      "latitude": 45.592253,
+      "longitude": 17.232425
+    },
+    {
+      "name": "KTC Koprivnica",
+      "latitude": 46.180585,
+      "longitude": 16.835471
+    },
+    {
+      "name": "KTC Krapina",
+      "latitude": 46.145844,
+      "longitude": 15.873188
+    },
+    {
+      "name": "KTC Križevci",
+      "latitude": 46.015746,
+      "longitude": 16.536468
+    },
+    {
+      "name": "KTC Pakrac",
+      "latitude": 45.444811,
+      "longitude": 17.197029
+    },
+    {
+      "name": "KTC Požega",
+      "latitude": 45.342107,
+      "longitude": 17.666854
+    },
+    {
+      "name": "KTC Robni centar Đurđevac",
+      "latitude": 46.042744,
+      "longitude": 17.064505
+    },
+    {
+      "name": "KTC Varaždin",
+      "latitude": 46.290352,
+      "longitude": 16.340509
+    },
+    {
+      "name": "KTC Velika Gorica",
+      "latitude": 45.711988,
+      "longitude": 16.077612
+    },
+    {
+      "name": "KTC Virovitica",
+      "latitude": 45.822273,
+      "longitude": 17.389276
+    },
+    {
+      "name": "KTC Vrbovec",
+      "latitude": 45.886368,
+      "longitude": 16.406781
+    },
+    {
+      "name": "KTC Zabok",
+      "latitude": 46.022021,
+      "longitude": 15.902564
+    },
+    {
+      "name": "Kvarner",
+      "latitude": 45.021326,
+      "longitude": 14.629283
+    },
+    {
+      "name": "L&L Market",
+      "latitude": 43.977187,
+      "longitude": 15.342187
+    },
+    {
+      "name": "Lasin",
+      "latitude": 43.731808,
+      "longitude": 15.902233
+    },
+    {
+      "name": "Laura",
+      "latitude": 43.785902,
+      "longitude": 15.643802
+    },
+    {
+      "name": "Lesnina XXXL Pula",
+      "latitude": 44.89459,
+      "longitude": 13.885195
+    },
+    {
+      "name": "Lidl",
+      "latitude": 42.631159,
+      "longitude": 18.166931
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.043685,
+      "longitude": 17.623997
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.049595,
+      "longitude": 17.440119
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.288785,
+      "longitude": 17.023815
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.379628,
+      "longitude": 16.561058
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.439392,
+      "longitude": 17.205269
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.505677,
+      "longitude": 16.507785
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.507956,
+      "longitude": 16.470174
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.514494,
+      "longitude": 16.43012
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.515179,
+      "longitude": 16.491303
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.522219,
+      "longitude": 16.436107
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.533109,
+      "longitude": 16.490388
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.533713,
+      "longitude": 16.283046
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.548008,
+      "longitude": 16.411372
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.587987,
+      "longitude": 16.571026
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.695466,
+      "longitude": 16.641586
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.710201,
+      "longitude": 15.909433
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.746444,
+      "longitude": 15.89465
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.768239,
+      "longitude": 15.771329
+    },
+    {
+      "name": "Lidl",
+      "latitude": 43.944611,
+      "longitude": 15.453574
+    },
+    {
+      "name": "Lidl",
+      "latitude": 44.039354,
+      "longitude": 16.202059
+    },
+    {
+      "name": "Lidl",
+      "latitude": 44.103341,
+      "longitude": 15.26498
+    },
+    {
+      "name": "Lidl",
+      "latitude": 44.109632,
+      "longitude": 15.243447
+    },
+    {
+      "name": "Lidl",
+      "latitude": 44.124494,
+      "longitude": 15.237022
+    },
+    {
+      "name": "Lidl",
+      "latitude": 44.530062,
+      "longitude": 14.46755
+    },
+    {
+      "name": "Lidl",
+      "latitude": 44.549445,
+      "longitude": 15.377082
+    },
+    {
+      "name": "Lidl",
+      "latitude": 44.827561,
+      "longitude": 13.930753
+    },
+    {
+      "name": "Lidl",
+      "latitude": 44.862663,
+      "longitude": 13.865444
+    },
+    {
+      "name": "Lidl",
+      "latitude": 44.868691,
+      "longitude": 15.232619
+    },
+    {
+      "name": "Lidl",
+      "latitude": 44.882336,
+      "longitude": 13.863791
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.034712,
+      "longitude": 14.56828
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.078822,
+      "longitude": 18.69796
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.080012,
+      "longitude": 13.656377
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.096906,
+      "longitude": 14.116721
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.128497,
+      "longitude": 14.786215
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.162462,
+      "longitude": 18.012999
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.173894,
+      "longitude": 18.050063
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.187645,
+      "longitude": 14.680866
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.217071,
+      "longitude": 14.565193
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.230244,
+      "longitude": 13.62223
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.236896,
+      "longitude": 13.934217
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.253531,
+      "longitude": 17.387965
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.258997,
+      "longitude": 15.234341
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.290152,
+      "longitude": 18.793509
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.313529,
+      "longitude": 18.410972
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.316585,
+      "longitude": 14.472753
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.335548,
+      "longitude": 14.505985
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.33803,
+      "longitude": 17.685033
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.342747,
+      "longitude": 14.389925
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.344627,
+      "longitude": 16.971931
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.348997,
+      "longitude": 14.418329
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.358651,
+      "longitude": 14.330882
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.368029,
+      "longitude": 18.973661
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.37152,
+      "longitude": 14.38583
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.393041,
+      "longitude": 14.796245
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.413457,
+      "longitude": 13.965772
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.431137,
+      "longitude": 13.531411
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.441646,
+      "longitude": 16.296444
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.479597,
+      "longitude": 16.773495
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.493593,
+      "longitude": 15.538985
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.496565,
+      "longitude": 16.360052
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.497396,
+      "longitude": 18.098359
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.500335,
+      "longitude": 15.551815
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.549051,
+      "longitude": 18.667503
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.553006,
+      "longitude": 18.731575
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.5659,
+      "longitude": 18.636964
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.588807,
+      "longitude": 17.219228
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.649002,
+      "longitude": 18.419448
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.66999,
+      "longitude": 15.647689
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.699174,
+      "longitude": 16.399484
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.699417,
+      "longitude": 17.7068
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.707822,
+      "longitude": 16.087014
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.720687,
+      "longitude": 16.05325
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.760105,
+      "longitude": 15.983636
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.761561,
+      "longitude": 18.170609
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.77144,
+      "longitude": 18.606377
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.771534,
+      "longitude": 15.945732
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.776173,
+      "longitude": 16.057623
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.779524,
+      "longitude": 15.98121
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.790965,
+      "longitude": 15.99907
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.792591,
+      "longitude": 15.945178
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.795789,
+      "longitude": 15.900214
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.797654,
+      "longitude": 15.861464
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.798018,
+      "longitude": 15.890906
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.80179,
+      "longitude": 16.013666
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.805207,
+      "longitude": 16.226091
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.805461,
+      "longitude": 15.807596
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.807573,
+      "longitude": 15.954252
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.809777,
+      "longitude": 15.715142
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.810812,
+      "longitude": 15.908577
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.813092,
+      "longitude": 15.943414
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.813623,
+      "longitude": 16.105256
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.815158,
+      "longitude": 15.866809
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.823079,
+      "longitude": 16.155643
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.826339,
+      "longitude": 16.043852
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.827815,
+      "longitude": 17.392433
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.828217,
+      "longitude": 16.06963
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.840433,
+      "longitude": 16.051593
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.851174,
+      "longitude": 15.80808
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.887149,
+      "longitude": 16.413651
+    },
+    {
+      "name": "Lidl",
+      "latitude": 45.891339,
+      "longitude": 16.852663
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.021155,
+      "longitude": 16.536853
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.023305,
+      "longitude": 15.90638
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.030874,
+      "longitude": 17.06483
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.156236,
+      "longitude": 15.874353
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.15836,
+      "longitude": 16.332907
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.159403,
+      "longitude": 16.824708
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.229333,
+      "longitude": 16.120108
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.248769,
+      "longitude": 16.625258
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.28994,
+      "longitude": 16.353477
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.31895,
+      "longitude": 16.31357
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.343733,
+      "longitude": 16.610167
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.387781,
+      "longitude": 16.420611
+    },
+    {
+      "name": "Lidl",
+      "latitude": 46.388508,
+      "longitude": 16.447779
+    },
+    {
+      "name": "Lito market",
+      "latitude": 42.945038,
+      "longitude": 17.562335
+    },
+    {
+      "name": "Lito Market",
+      "latitude": 43.885863,
+      "longitude": 15.533127
+    },
+    {
+      "name": "Lito market",
+      "latitude": 44.258319,
+      "longitude": 15.160963
+    },
+    {
+      "name": "Lito Market",
+      "latitude": 44.295139,
+      "longitude": 15.108662
+    },
+    {
+      "name": "Lito Market",
+      "latitude": 44.528439,
+      "longitude": 14.901062
+    },
+    {
+      "name": "Lito market",
+      "latitude": 44.805098,
+      "longitude": 14.708264
+    },
+    {
+      "name": "Lito market",
+      "latitude": 45.035681,
+      "longitude": 14.155654
+    },
+    {
+      "name": "Lito Market",
+      "latitude": 45.188386,
+      "longitude": 13.594238
+    },
+    {
+      "name": "Lito Market",
+      "latitude": 45.256267,
+      "longitude": 13.58274
+    },
+    {
+      "name": "Lito market",
+      "latitude": 45.297722,
+      "longitude": 13.592878
+    },
+    {
+      "name": "Lito Market",
+      "latitude": 45.305652,
+      "longitude": 13.594407
+    },
+    {
+      "name": "Lito market",
+      "latitude": 45.317682,
+      "longitude": 13.572334
+    },
+    {
+      "name": "LiTo Market",
+      "latitude": 45.366612,
+      "longitude": 13.545607
+    },
+    {
+      "name": "LiTo Market",
+      "latitude": 45.373556,
+      "longitude": 13.544407
+    },
+    {
+      "name": "Lito market",
+      "latitude": 45.486626,
+      "longitude": 13.492488
+    },
+    {
+      "name": "Lonia",
+      "latitude": 45.438296,
+      "longitude": 16.284095
+    },
+    {
+      "name": "Lonia",
+      "latitude": 45.457391,
+      "longitude": 16.388495
+    },
+    {
+      "name": "Lonia",
+      "latitude": 45.495477,
+      "longitude": 16.72884
+    },
+    {
+      "name": "Lonia",
+      "latitude": 45.511669,
+      "longitude": 16.695721
+    },
+    {
+      "name": "Lonia",
+      "latitude": 45.573439,
+      "longitude": 16.94139
+    },
+    {
+      "name": "Lorenco",
+      "latitude": 44.352726,
+      "longitude": 15.114894
+    },
+    {
+      "name": "Lori",
+      "latitude": 45.157241,
+      "longitude": 14.161297
+    },
+    {
+      "name": "Lovorka",
+      "latitude": 44.894654,
+      "longitude": 13.817996
+    },
+    {
+      "name": "Lux",
+      "latitude": 45.341762,
+      "longitude": 17.674617
+    },
+    {
+      "name": "Lux",
+      "latitude": 45.345843,
+      "longitude": 17.676956
+    },
+    {
+      "name": "M.P.C.",
+      "latitude": 45.477422,
+      "longitude": 16.777589
+    },
+    {
+      "name": "Magma",
+      "latitude": 46.285733,
+      "longitude": 16.319577
+    },
+    {
+      "name": "Majstorija",
+      "latitude": 45.412943,
+      "longitude": 13.966231
+    },
+    {
+      "name": "Marché",
+      "latitude": 45.382135,
+      "longitude": 14.936791
+    },
+    {
+      "name": "Market",
+      "latitude": 44.143227,
+      "longitude": 14.854422
+    },
+    {
+      "name": "Market",
+      "latitude": 44.282826,
+      "longitude": 15.345999
+    },
+    {
+      "name": "Market",
+      "latitude": 45.234486,
+      "longitude": 14.551772
+    },
+    {
+      "name": "Market",
+      "latitude": 45.239511,
+      "longitude": 13.932934
+    },
+    {
+      "name": "Market \"Studenac\"",
+      "latitude": 42.906268,
+      "longitude": 16.861343
+    },
+    {
+      "name": "Market \"Tommy\"",
+      "latitude": 42.929167,
+      "longitude": 16.89373
+    },
+    {
+      "name": "Market & Caffe Korni",
+      "latitude": 42.944006,
+      "longitude": 17.534176
+    },
+    {
+      "name": "Market Antonio",
+      "latitude": 44.301431,
+      "longitude": 15.0846
+    },
+    {
+      "name": "Market Bakmaz",
+      "latitude": 43.96212,
+      "longitude": 15.764902
+    },
+    {
+      "name": "Market Bakmaz",
+      "latitude": 44.065492,
+      "longitude": 15.204548
+    },
+    {
+      "name": "Market Bakmaz",
+      "latitude": 44.183174,
+      "longitude": 15.162047
+    },
+    {
+      "name": "Market Bure",
+      "latitude": 43.886379,
+      "longitude": 15.542769
+    },
+    {
+      "name": "Market by Strasko",
+      "latitude": 44.537937,
+      "longitude": 14.884149
+    },
+    {
+      "name": "Market Dure",
+      "latitude": 44.09651,
+      "longitude": 15.172561
+    },
+    {
+      "name": "Market Jadranka",
+      "latitude": 44.512154,
+      "longitude": 14.309555
+    },
+    {
+      "name": "Market Jedinstvo Rabac",
+      "latitude": 45.079444,
+      "longitude": 14.158591
+    },
+    {
+      "name": "Market Kršan",
+      "latitude": 45.174058,
+      "longitude": 14.139098
+    },
+    {
+      "name": "Market Lola",
+      "latitude": 43.688673,
+      "longitude": 15.70889
+    },
+    {
+      "name": "Market Mena",
+      "latitude": 45.136434,
+      "longitude": 14.009097
+    },
+    {
+      "name": "Market Mescina",
+      "latitude": 44.852351,
+      "longitude": 13.941515
+    },
+    {
+      "name": "Market mesnica Žužić",
+      "latitude": 45.030796,
+      "longitude": 14.568471
+    },
+    {
+      "name": "Market Osilnica",
+      "latitude": 45.529202,
+      "longitude": 14.698835
+    },
+    {
+      "name": "Market Posavlje",
+      "latitude": 44.306486,
+      "longitude": 15.087068
+    },
+    {
+      "name": "Market Punta Skala",
+      "latitude": 44.191103,
+      "longitude": 15.151427
+    },
+    {
+      "name": "Market Rapoća",
+      "latitude": 44.663306,
+      "longitude": 14.397884
+    },
+    {
+      "name": "Market REFUL",
+      "latitude": 43.661052,
+      "longitude": 15.657355
+    },
+    {
+      "name": "Market Sarag",
+      "latitude": 44.112829,
+      "longitude": 15.23405
+    },
+    {
+      "name": "Market Sarag",
+      "latitude": 44.114679,
+      "longitude": 15.2269
+    },
+    {
+      "name": "Market Studenac",
+      "latitude": 42.939206,
+      "longitude": 16.788992
+    },
+    {
+      "name": "Market STUDENAC",
+      "latitude": 44.856337,
+      "longitude": 13.834664
+    },
+    {
+      "name": "Market Zaneta",
+      "latitude": 44.377503,
+      "longitude": 15.265218
+    },
+    {
+      "name": "Market Čale",
+      "latitude": 44.226282,
+      "longitude": 14.839087
+    },
+    {
+      "name": "Mateo's Market",
+      "latitude": 44.309069,
+      "longitude": 15.861017
+    },
+    {
+      "name": "Maxi Konzum",
+      "latitude": 42.623846,
+      "longitude": 18.192334
+    },
+    {
+      "name": "Maxi Konzum",
+      "latitude": 46.303741,
+      "longitude": 16.336906
+    },
+    {
+      "name": "Maxi Market Semafori",
+      "latitude": 42.653022,
+      "longitude": 18.078939
+    },
+    {
+      "name": "Menalo",
+      "latitude": 45.31789,
+      "longitude": 18.41551
+    },
+    {
+      "name": "Mercator",
+      "latitude": 46.225113,
+      "longitude": 15.697737
+    },
+    {
+      "name": "Meteor Kordun",
+      "latitude": 45.116258,
+      "longitude": 15.583503
+    },
+    {
+      "name": "METSS",
+      "latitude": 45.674052,
+      "longitude": 17.107662
+    },
+    {
+      "name": "Metss",
+      "latitude": 45.842791,
+      "longitude": 17.386911
+    },
+    {
+      "name": "METSS",
+      "latitude": 46.368013,
+      "longitude": 16.648668
+    },
+    {
+      "name": "Metss",
+      "latitude": 46.404113,
+      "longitude": 16.519451
+    },
+    {
+      "name": "Metss NTL",
+      "latitude": 45.830051,
+      "longitude": 17.381883
+    },
+    {
+      "name": "Mini Market",
+      "latitude": 44.62794,
+      "longitude": 14.796258
+    },
+    {
+      "name": "Mini Market",
+      "latitude": 45.211028,
+      "longitude": 13.593593
+    },
+    {
+      "name": "Mini Market",
+      "latitude": 45.471573,
+      "longitude": 13.511412
+    },
+    {
+      "name": "Mini Market Mango",
+      "latitude": 45.823591,
+      "longitude": 16.133455
+    },
+    {
+      "name": "Mini Market Mariva",
+      "latitude": 44.301321,
+      "longitude": 15.098742
+    },
+    {
+      "name": "Minimarket Sandra",
+      "latitude": 45.087479,
+      "longitude": 14.61444
+    },
+    {
+      "name": "MiniMarket Suzy",
+      "latitude": 45.178995,
+      "longitude": 14.235297
+    },
+    {
+      "name": "Minimarkt",
+      "latitude": 43.54576,
+      "longitude": 16.425411
+    },
+    {
+      "name": "Miracolo",
+      "latitude": 44.910673,
+      "longitude": 13.822025
+    },
+    {
+      "name": "Miracolo",
+      "latitude": 44.956011,
+      "longitude": 13.956166
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.357978,
+      "longitude": 17.767256
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.438311,
+      "longitude": 16.264392
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.440371,
+      "longitude": 16.27106
+    },
+    {
+      "name": "Mlin i pekare",
+      "latitude": 45.444014,
+      "longitude": 16.284059
+    },
+    {
+      "name": "Moj Dućan",
+      "latitude": 44.139998,
+      "longitude": 14.907431
+    },
+    {
+      "name": "Mokšica",
+      "latitude": 42.675148,
+      "longitude": 18.093188
+    },
+    {
+      "name": "MR Higijena",
+      "latitude": 45.677984,
+      "longitude": 15.745706
+    },
+    {
+      "name": "Muller",
+      "latitude": 44.300336,
+      "longitude": 15.086883
+    },
+    {
+      "name": "Muller",
+      "latitude": 45.507982,
+      "longitude": 15.544495
+    },
+    {
+      "name": "Müller",
+      "latitude": 45.858648,
+      "longitude": 15.797634
+    },
+    {
+      "name": "Nivex",
+      "latitude": 43.348157,
+      "longitude": 16.731631
+    },
+    {
+      "name": "NK Commerce 7",
+      "latitude": 43.64772,
+      "longitude": 16.760759
+    },
+    {
+      "name": "Non Stop Market",
+      "latitude": 45.146723,
+      "longitude": 14.664053
+    },
+    {
+      "name": "Novalis Supermarkt",
+      "latitude": 44.556751,
+      "longitude": 14.882929
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.155851,
+      "longitude": 18.394701
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.423241,
+      "longitude": 17.882116
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.42396,
+      "longitude": 15.483163
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.441115,
+      "longitude": 17.665498
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.4537,
+      "longitude": 15.490915
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.486314,
+      "longitude": 18.983245
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.52312,
+      "longitude": 18.575169
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.528761,
+      "longitude": 18.950152
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.533817,
+      "longitude": 18.629108
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.551637,
+      "longitude": 18.704953
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.556027,
+      "longitude": 18.697341
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.557706,
+      "longitude": 18.728672
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.684484,
+      "longitude": 18.406198
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.691821,
+      "longitude": 17.937595
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.702348,
+      "longitude": 17.700467
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.746648,
+      "longitude": 18.064829
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.74939,
+      "longitude": 18.732915
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.755813,
+      "longitude": 17.913327
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.783718,
+      "longitude": 17.978951
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.809063,
+      "longitude": 17.700644
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.832201,
+      "longitude": 17.387157
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.842481,
+      "longitude": 16.108678
+    },
+    {
+      "name": "NTL",
+      "latitude": 45.866313,
+      "longitude": 16.154877
+    },
+    {
+      "name": "NTL",
+      "latitude": 46.154341,
+      "longitude": 15.874785
+    },
+    {
+      "name": "NTL Popovac",
+      "latitude": 45.805161,
+      "longitude": 18.66237
+    },
+    {
+      "name": "Ofertissima",
+      "latitude": 46.16307,
+      "longitude": 16.82598
+    },
+    {
+      "name": "Offertissima",
+      "latitude": 45.805807,
+      "longitude": 15.800288
+    },
+    {
+      "name": "Olaz",
+      "latitude": 42.653089,
+      "longitude": 18.093227
+    },
+    {
+      "name": "Opskrbni centar",
+      "latitude": 45.098496,
+      "longitude": 14.114278
+    },
+    {
+      "name": "Optima",
+      "latitude": 43.294712,
+      "longitude": 17.019435
+    },
+    {
+      "name": "Optima",
+      "latitude": 43.367396,
+      "longitude": 16.93132
+    },
+    {
+      "name": "Patričar",
+      "latitude": 44.91943,
+      "longitude": 18.910271
+    },
+    {
+      "name": "Patričar 42",
+      "latitude": 45.22633,
+      "longitude": 18.951641
+    },
+    {
+      "name": "Pemo supermarket",
+      "latitude": 42.578108,
+      "longitude": 18.22243
+    },
+    {
+      "name": "Pepco",
+      "latitude": 45.501083,
+      "longitude": 15.548463
+    },
+    {
+      "name": "Perutnina Ptuj",
+      "latitude": 45.490591,
+      "longitude": 18.095161
+    },
+    {
+      "name": "Petra",
+      "latitude": 43.4488,
+      "longitude": 16.145618
+    },
+    {
+      "name": "Petra",
+      "latitude": 44.737046,
+      "longitude": 14.803318
+    },
+    {
+      "name": "Petra",
+      "latitude": 44.760181,
+      "longitude": 14.766477
+    },
+    {
+      "name": "Petra 3",
+      "latitude": 44.751997,
+      "longitude": 14.7744
+    },
+    {
+      "name": "Pivac",
+      "latitude": 42.660139,
+      "longitude": 18.085999
+    },
+    {
+      "name": "Pivac",
+      "latitude": 43.172392,
+      "longitude": 16.444461
+    },
+    {
+      "name": "Pivac market",
+      "latitude": 42.550564,
+      "longitude": 18.285072
+    },
+    {
+      "name": "Plava Laguna Market",
+      "latitude": 45.20946,
+      "longitude": 13.592971
+    },
+    {
+      "name": "Plodine",
+      "latitude": 42.84229,
+      "longitude": 17.686339
+    },
+    {
+      "name": "Plodine",
+      "latitude": 42.953872,
+      "longitude": 17.127491
+    },
+    {
+      "name": "Plodine",
+      "latitude": 42.981237,
+      "longitude": 17.19534
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.011696,
+      "longitude": 17.551729
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.050286,
+      "longitude": 17.63127
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.052339,
+      "longitude": 17.439221
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.140985,
+      "longitude": 17.281968
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.164608,
+      "longitude": 16.680429
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.284283,
+      "longitude": 17.033496
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.508724,
+      "longitude": 16.49357
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.518544,
+      "longitude": 16.243651
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.522493,
+      "longitude": 16.434991
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.54381,
+      "longitude": 15.965899
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.549061,
+      "longitude": 16.411533
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.550266,
+      "longitude": 16.323431
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.708695,
+      "longitude": 15.908916
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.753341,
+      "longitude": 15.882106
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.75951,
+      "longitude": 15.752626
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.759985,
+      "longitude": 15.899937
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.76784,
+      "longitude": 15.772269
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.811419,
+      "longitude": 15.603251
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.82562,
+      "longitude": 15.658796
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.915216,
+      "longitude": 15.510178
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.942482,
+      "longitude": 15.455518
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.957497,
+      "longitude": 15.368373
+    },
+    {
+      "name": "Plodine",
+      "latitude": 43.965569,
+      "longitude": 15.421469
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.030132,
+      "longitude": 15.613917
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.058026,
+      "longitude": 15.300604
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.067363,
+      "longitude": 15.198983
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.101378,
+      "longitude": 15.256987
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.102595,
+      "longitude": 15.262504
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.113566,
+      "longitude": 15.256241
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.140178,
+      "longitude": 15.229498
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.213368,
+      "longitude": 15.46967
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.238536,
+      "longitude": 15.17381
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.272151,
+      "longitude": 15.131782
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.442213,
+      "longitude": 15.061654
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.546319,
+      "longitude": 14.894763
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.550726,
+      "longitude": 15.374938
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.552375,
+      "longitude": 14.886028
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.762721,
+      "longitude": 14.767339
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.765764,
+      "longitude": 15.692835
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.826746,
+      "longitude": 13.930909
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.826793,
+      "longitude": 13.889329
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.860609,
+      "longitude": 13.824202
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.861877,
+      "longitude": 13.861971
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.872315,
+      "longitude": 15.237357
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.879011,
+      "longitude": 13.864567
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.92139,
+      "longitude": 13.806548
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.953721,
+      "longitude": 13.8523
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.963837,
+      "longitude": 14.411755
+    },
+    {
+      "name": "Plodine",
+      "latitude": 44.991129,
+      "longitude": 14.90386
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.034084,
+      "longitude": 14.56569
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.0798,
+      "longitude": 13.657254
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.093853,
+      "longitude": 18.701253
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.096175,
+      "longitude": 14.115816
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.120254,
+      "longitude": 14.119919
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.132221,
+      "longitude": 14.782682
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.134168,
+      "longitude": 14.545692
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.144697,
+      "longitude": 13.901468
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.152148,
+      "longitude": 13.617296
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.173704,
+      "longitude": 14.694649
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.176899,
+      "longitude": 13.607757
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.180195,
+      "longitude": 18.010036
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.212431,
+      "longitude": 13.671898
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.229846,
+      "longitude": 13.616816
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.237473,
+      "longitude": 13.604166
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.24077,
+      "longitude": 13.915042
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.256405,
+      "longitude": 17.393223
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.26456,
+      "longitude": 15.220346
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.283655,
+      "longitude": 18.802824
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.286929,
+      "longitude": 18.751847
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.296082,
+      "longitude": 13.618178
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.297468,
+      "longitude": 18.40984
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.299704,
+      "longitude": 17.79437
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.301791,
+      "longitude": 14.278858
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.310782,
+      "longitude": 14.485035
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.31943,
+      "longitude": 13.568564
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.324309,
+      "longitude": 14.470478
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.324485,
+      "longitude": 14.443288
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.33005,
+      "longitude": 14.451844
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.334604,
+      "longitude": 16.975786
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.335291,
+      "longitude": 14.503773
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.3359,
+      "longitude": 14.497643
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.337813,
+      "longitude": 14.40667
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.340485,
+      "longitude": 19.022031
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.340599,
+      "longitude": 14.42781
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.342509,
+      "longitude": 17.694389
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.3427,
+      "longitude": 14.378569
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.342904,
+      "longitude": 14.413189
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.343429,
+      "longitude": 14.390034
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.353067,
+      "longitude": 14.429801
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.354524,
+      "longitude": 14.321928
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.355449,
+      "longitude": 14.365877
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.356314,
+      "longitude": 14.426597
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.362864,
+      "longitude": 14.316073
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.366199,
+      "longitude": 14.352876
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.366292,
+      "longitude": 14.331537
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.371388,
+      "longitude": 14.390293
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.377974,
+      "longitude": 14.385227
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.409736,
+      "longitude": 13.974336
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.415532,
+      "longitude": 13.659706
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.422189,
+      "longitude": 13.527025
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.441215,
+      "longitude": 16.268427
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.46516,
+      "longitude": 16.381416
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.482276,
+      "longitude": 16.765309
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.498782,
+      "longitude": 18.096255
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.505299,
+      "longitude": 15.550739
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.525034,
+      "longitude": 18.576346
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.553095,
+      "longitude": 18.714196
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.564139,
+      "longitude": 18.634482
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.593463,
+      "longitude": 17.200861
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.597319,
+      "longitude": 15.486482
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.650169,
+      "longitude": 18.419866
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.663242,
+      "longitude": 15.644956
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.698861,
+      "longitude": 16.387317
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.706221,
+      "longitude": 17.698326
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.716156,
+      "longitude": 16.054711
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.750734,
+      "longitude": 16.615344
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.760149,
+      "longitude": 18.185052
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.773055,
+      "longitude": 15.943025
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.779532,
+      "longitude": 16.002751
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.799153,
+      "longitude": 15.889467
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.802871,
+      "longitude": 15.786089
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.803719,
+      "longitude": 16.102258
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.804221,
+      "longitude": 15.859232
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.80608,
+      "longitude": 16.248376
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.819161,
+      "longitude": 16.042916
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.821912,
+      "longitude": 17.3919
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.85862,
+      "longitude": 15.798928
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.88545,
+      "longitude": 16.405181
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.888854,
+      "longitude": 16.848907
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.951458,
+      "longitude": 17.236292
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.951665,
+      "longitude": 16.238069
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.952809,
+      "longitude": 16.238249
+    },
+    {
+      "name": "Plodine",
+      "latitude": 45.979479,
+      "longitude": 15.983083
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.014298,
+      "longitude": 16.546291
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.021765,
+      "longitude": 15.905341
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.083721,
+      "longitude": 15.839438
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.144568,
+      "longitude": 15.873444
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.15701,
+      "longitude": 16.333125
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.157261,
+      "longitude": 15.754095
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.182992,
+      "longitude": 16.838465
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.211716,
+      "longitude": 16.041837
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.215594,
+      "longitude": 16.058172
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.24285,
+      "longitude": 16.629341
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.292986,
+      "longitude": 16.354224
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.31687,
+      "longitude": 16.315883
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.342438,
+      "longitude": 16.60022
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.383315,
+      "longitude": 16.429641
+    },
+    {
+      "name": "Plodine",
+      "latitude": 46.389138,
+      "longitude": 16.449939
+    },
+    {
+      "name": "Plus",
+      "latitude": 43.050717,
+      "longitude": 17.434678
+    },
+    {
+      "name": "PLUS",
+      "latitude": 45.353481,
+      "longitude": 14.390849
+    },
+    {
+      "name": "Plus",
+      "latitude": 45.674825,
+      "longitude": 15.578702
+    },
+    {
+      "name": "Plus",
+      "latitude": 45.701907,
+      "longitude": 15.583682
+    },
+    {
+      "name": "Plus Market",
+      "latitude": 43.48857,
+      "longitude": 16.267511
+    },
+    {
+      "name": "Plus market",
+      "latitude": 43.489675,
+      "longitude": 16.112554
+    },
+    {
+      "name": "Plus Market",
+      "latitude": 44.897564,
+      "longitude": 13.850689
+    },
+    {
+      "name": "Plus market",
+      "latitude": 45.330187,
+      "longitude": 14.460992
+    },
+    {
+      "name": "Plus Market",
+      "latitude": 45.667154,
+      "longitude": 18.29195
+    },
+    {
+      "name": "Plus Market",
+      "latitude": 45.682947,
+      "longitude": 18.336112
+    },
+    {
+      "name": "Plus Market",
+      "latitude": 45.799417,
+      "longitude": 18.805491
+    },
+    {
+      "name": "Plus Market",
+      "latitude": 45.830873,
+      "longitude": 16.132859
+    },
+    {
+      "name": "Plus Market Riva",
+      "latitude": 42.729172,
+      "longitude": 17.861497
+    },
+    {
+      "name": "Plusmarket",
+      "latitude": 42.924788,
+      "longitude": 17.430592
+    },
+    {
+      "name": "Porat",
+      "latitude": 45.273861,
+      "longitude": 13.59822
+    },
+    {
+      "name": "PPK d.d.",
+      "latitude": 45.65463,
+      "longitude": 17.008862
+    },
+    {
+      "name": "Prehrana",
+      "latitude": 45.828473,
+      "longitude": 15.930844
+    },
+    {
+      "name": "Prima",
+      "latitude": 45.826456,
+      "longitude": 17.392203
+    },
+    {
+      "name": "prodavaonica Orlec",
+      "latitude": 44.88251,
+      "longitude": 14.424305
+    },
+    {
+      "name": "Promex doljani",
+      "latitude": 43.048384,
+      "longitude": 17.66566
+    },
+    {
+      "name": "PROMEX gabela polje",
+      "latitude": 43.068323,
+      "longitude": 17.666887
+    },
+    {
+      "name": "Puljanka",
+      "latitude": 45.287514,
+      "longitude": 13.586922
+    },
+    {
+      "name": "Puljanka",
+      "latitude": 45.29096,
+      "longitude": 13.584563
+    },
+    {
+      "name": "Puljanka 134",
+      "latitude": 44.836895,
+      "longitude": 13.837221
+    },
+    {
+      "name": "Purex Plus",
+      "latitude": 43.509159,
+      "longitude": 16.438017
+    },
+    {
+      "name": "pčelarski proizvodi Kvik82",
+      "latitude": 45.805183,
+      "longitude": 16.240268
+    },
+    {
+      "name": "Radioton",
+      "latitude": 45.750923,
+      "longitude": 17.967864
+    },
+    {
+      "name": "Razvitak",
+      "latitude": 43.358663,
+      "longitude": 16.947918
+    },
+    {
+      "name": "Refužo",
+      "latitude": 43.518849,
+      "longitude": 16.235466
+    },
+    {
+      "name": "Ria Export-Import d.o.o.",
+      "latitude": 46.294455,
+      "longitude": 16.366118
+    },
+    {
+      "name": "Ribola",
+      "latitude": 42.983596,
+      "longitude": 17.197685
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.054852,
+      "longitude": 17.434705
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.139885,
+      "longitude": 17.277169
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.16185,
+      "longitude": 16.688931
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.35882,
+      "longitude": 16.948347
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.375728,
+      "longitude": 16.924759
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.380475,
+      "longitude": 16.323916
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.445221,
+      "longitude": 16.638704
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.492566,
+      "longitude": 16.263313
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.502516,
+      "longitude": 16.525025
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.502951,
+      "longitude": 16.442578
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.505151,
+      "longitude": 16.427548
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.508752,
+      "longitude": 16.443679
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.513244,
+      "longitude": 16.206446
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.513514,
+      "longitude": 16.27745
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.513837,
+      "longitude": 16.450948
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.514281,
+      "longitude": 16.469398
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.518735,
+      "longitude": 16.246424
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.541235,
+      "longitude": 16.492823
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.543005,
+      "longitude": 16.473428
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.547655,
+      "longitude": 16.322386
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.548029,
+      "longitude": 16.494261
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.549573,
+      "longitude": 16.396147
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.550927,
+      "longitude": 16.345981
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.700054,
+      "longitude": 16.647045
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.704864,
+      "longitude": 16.651122
+    },
+    {
+      "name": "Ribola",
+      "latitude": 43.732949,
+      "longitude": 15.897192
+    },
+    {
+      "name": "Ribola",
+      "latitude": 44.136525,
+      "longitude": 15.221556
+    },
+    {
+      "name": "Ribola Market 66",
+      "latitude": 43.188099,
+      "longitude": 17.160858
+    },
+    {
+      "name": "Ribola market 91",
+      "latitude": 44.117083,
+      "longitude": 15.23721
+    },
+    {
+      "name": "Ribola Supermarket",
+      "latitude": 43.501296,
+      "longitude": 16.535334
+    },
+    {
+      "name": "Ribola Supermarket br. 39",
+      "latitude": 43.561662,
+      "longitude": 16.316589
+    },
+    {
+      "name": "Ribola Supermarket br. 73",
+      "latitude": 43.561267,
+      "longitude": 16.342683
+    },
+    {
+      "name": "Ribola Supermarket br. 78",
+      "latitude": 43.553258,
+      "longitude": 16.34473
+    },
+    {
+      "name": "Riva",
+      "latitude": 45.274338,
+      "longitude": 13.598916
+    },
+    {
+      "name": "Robin Market",
+      "latitude": 45.935201,
+      "longitude": 16.658445
+    },
+    {
+      "name": "Robna kuća Novi Marof",
+      "latitude": 46.165027,
+      "longitude": 16.33443
+    },
+    {
+      "name": "Robna kuća Šijana",
+      "latitude": 44.877064,
+      "longitude": 13.861102
+    },
+    {
+      "name": "Robni centar",
+      "latitude": 44.874218,
+      "longitude": 15.628421
+    },
+    {
+      "name": "Roto Dinamic d.o.o.",
+      "latitude": 45.716924,
+      "longitude": 16.066667
+    },
+    {
+      "name": "Roto dinamic svijet pića",
+      "latitude": 43.548062,
+      "longitude": 16.410398
+    },
+    {
+      "name": "Samoposluga",
+      "latitude": 45.404288,
+      "longitude": 18.979981
+    },
+    {
+      "name": "Sarag Market",
+      "latitude": 44.303836,
+      "longitude": 15.081007
+    },
+    {
+      "name": "SatoshiCommerce",
+      "latitude": 45.734202,
+      "longitude": 16.431856
+    },
+    {
+      "name": "Simply Market",
+      "latitude": 45.358431,
+      "longitude": 13.55753
+    },
+    {
+      "name": "Slavonija Bošković",
+      "latitude": 45.141634,
+      "longitude": 18.882342
+    },
+    {
+      "name": "Sonic",
+      "latitude": 44.297852,
+      "longitude": 15.435469
+    },
+    {
+      "name": "Sonik",
+      "latitude": 44.104974,
+      "longitude": 15.38024
+    },
+    {
+      "name": "Sonik",
+      "latitude": 44.159328,
+      "longitude": 15.344345
+    },
+    {
+      "name": "Sonik",
+      "latitude": 44.186396,
+      "longitude": 15.2756
+    },
+    {
+      "name": "Sonik Market",
+      "latitude": 43.885735,
+      "longitude": 15.543187
+    },
+    {
+      "name": "Spar",
+      "latitude": 43.503835,
+      "longitude": 16.456488
+    },
+    {
+      "name": "Spar",
+      "latitude": 43.504703,
+      "longitude": 16.454053
+    },
+    {
+      "name": "Spar",
+      "latitude": 43.508518,
+      "longitude": 16.438351
+    },
+    {
+      "name": "Spar",
+      "latitude": 43.547647,
+      "longitude": 16.413353
+    },
+    {
+      "name": "Spar",
+      "latitude": 43.755716,
+      "longitude": 15.878744
+    },
+    {
+      "name": "Spar",
+      "latitude": 44.041883,
+      "longitude": 16.202612
+    },
+    {
+      "name": "Spar",
+      "latitude": 44.061534,
+      "longitude": 15.295263
+    },
+    {
+      "name": "Spar",
+      "latitude": 44.110873,
+      "longitude": 15.237819
+    },
+    {
+      "name": "Spar",
+      "latitude": 44.240665,
+      "longitude": 15.170885
+    },
+    {
+      "name": "Spar",
+      "latitude": 44.868392,
+      "longitude": 13.86332
+    },
+    {
+      "name": "Spar",
+      "latitude": 44.992591,
+      "longitude": 14.902164
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.098342,
+      "longitude": 14.115141
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.162878,
+      "longitude": 18.007364
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.165644,
+      "longitude": 14.711883
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.223754,
+      "longitude": 13.597452
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.28636,
+      "longitude": 17.801905
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.295516,
+      "longitude": 18.807643
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.310696,
+      "longitude": 18.411277
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.325482,
+      "longitude": 14.442334
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.339377,
+      "longitude": 17.683171
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.339394,
+      "longitude": 14.427783
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.343843,
+      "longitude": 14.310839
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.36805,
+      "longitude": 18.971547
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.370874,
+      "longitude": 14.351828
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.411198,
+      "longitude": 13.664117
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.430303,
+      "longitude": 13.531567
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.431946,
+      "longitude": 17.194258
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.482449,
+      "longitude": 15.548216
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.489539,
+      "longitude": 18.093538
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.52502,
+      "longitude": 18.580831
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.539228,
+      "longitude": 17.893791
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.550061,
+      "longitude": 18.69254
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.560289,
+      "longitude": 18.639442
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.563218,
+      "longitude": 18.656144
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.567434,
+      "longitude": 16.631667
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.592455,
+      "longitude": 17.217997
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.650699,
+      "longitude": 18.435447
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.698768,
+      "longitude": 16.400546
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.702302,
+      "longitude": 17.176183
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.711888,
+      "longitude": 16.077912
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.712839,
+      "longitude": 16.065078
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.761226,
+      "longitude": 15.992791
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.764726,
+      "longitude": 15.966484
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.770908,
+      "longitude": 15.994641
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.772353,
+      "longitude": 15.964925
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.773519,
+      "longitude": 15.983215
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.775229,
+      "longitude": 15.988812
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.777024,
+      "longitude": 15.986677
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.777546,
+      "longitude": 15.997442
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.780004,
+      "longitude": 15.984511
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.788455,
+      "longitude": 15.943983
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.78909,
+      "longitude": 15.929801
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.78987,
+      "longitude": 15.949655
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.791065,
+      "longitude": 15.905793
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.794813,
+      "longitude": 15.907954
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.798835,
+      "longitude": 15.961241
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.802714,
+      "longitude": 17.495428
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.8067,
+      "longitude": 15.907093
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.808011,
+      "longitude": 15.973549
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.808465,
+      "longitude": 15.902019
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.81003,
+      "longitude": 16.000868
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.810104,
+      "longitude": 16.208082
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.810444,
+      "longitude": 15.988284
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.811451,
+      "longitude": 16.017962
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.812719,
+      "longitude": 15.904433
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.813071,
+      "longitude": 15.986074
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.813238,
+      "longitude": 15.887689
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.813635,
+      "longitude": 15.932114
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.813704,
+      "longitude": 15.98374
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.816359,
+      "longitude": 16.17271
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.819869,
+      "longitude": 16.025703
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.821715,
+      "longitude": 15.991252
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.822361,
+      "longitude": 16.063409
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.824773,
+      "longitude": 15.98462
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.827602,
+      "longitude": 17.393867
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.828138,
+      "longitude": 16.049648
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.830634,
+      "longitude": 16.05768
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.858442,
+      "longitude": 15.973392
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.870774,
+      "longitude": 15.795129
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.904934,
+      "longitude": 16.848306
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.945678,
+      "longitude": 16.239558
+    },
+    {
+      "name": "Spar",
+      "latitude": 45.978651,
+      "longitude": 15.952276
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.003686,
+      "longitude": 16.109969
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.02722,
+      "longitude": 16.541751
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.086958,
+      "longitude": 16.078964
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.148314,
+      "longitude": 15.761683
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.156124,
+      "longitude": 16.33291
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.163675,
+      "longitude": 16.817314
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.227822,
+      "longitude": 16.119609
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.248061,
+      "longitude": 16.626836
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.297472,
+      "longitude": 16.343098
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.298829,
+      "longitude": 16.328986
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.315599,
+      "longitude": 16.35008
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.379998,
+      "longitude": 16.442968
+    },
+    {
+      "name": "Spar",
+      "latitude": 46.396157,
+      "longitude": 16.428801
+    },
+    {
+      "name": "SPAR Supermarket",
+      "latitude": 45.355106,
+      "longitude": 14.362611
+    },
+    {
+      "name": "Stacun",
+      "latitude": 45.971256,
+      "longitude": 16.098255
+    },
+    {
+      "name": "Stanić",
+      "latitude": 45.119867,
+      "longitude": 14.118712
+    },
+    {
+      "name": "Stanić",
+      "latitude": 45.434625,
+      "longitude": 13.525429
+    },
+    {
+      "name": "Stara Nama",
+      "latitude": 45.287959,
+      "longitude": 18.801603
+    },
+    {
+      "name": "Stop & Shop Čazma",
+      "latitude": 45.747502,
+      "longitude": 16.601447
+    },
+    {
+      "name": "Strahinjčica",
+      "latitude": 45.80343,
+      "longitude": 15.718413
+    },
+    {
+      "name": "Strahinjčica",
+      "latitude": 46.229006,
+      "longitude": 15.983798
+    },
+    {
+      "name": "Stridon",
+      "latitude": 45.813814,
+      "longitude": 16.184894
+    },
+    {
+      "name": "Stridon",
+      "latitude": 45.814892,
+      "longitude": 16.1032
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.669767,
+      "longitude": 18.134778
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.677299,
+      "longitude": 18.108543
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.701324,
+      "longitude": 18.040157
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.731819,
+      "longitude": 17.583691
+    },
+    {
+      "name": "STUDENAC",
+      "latitude": 42.73834,
+      "longitude": 17.597558
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.745882,
+      "longitude": 16.832929
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.845151,
+      "longitude": 17.630951
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.922212,
+      "longitude": 17.174024
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.924901,
+      "longitude": 17.430369
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.95083,
+      "longitude": 17.0352
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.961371,
+      "longitude": 16.716287
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.961533,
+      "longitude": 16.717578
+    },
+    {
+      "name": "Studenac",
+      "latitude": 42.966278,
+      "longitude": 17.346662
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.009049,
+      "longitude": 17.269336
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.030958,
+      "longitude": 16.213294
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.053075,
+      "longitude": 17.436902
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.104467,
+      "longitude": 17.343646
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.119312,
+      "longitude": 17.324009
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.12484,
+      "longitude": 17.187593
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.166873,
+      "longitude": 16.446395
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.18333,
+      "longitude": 16.601474
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.264869,
+      "longitude": 16.648528
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.333923,
+      "longitude": 16.836847
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.354135,
+      "longitude": 16.955736
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.358654,
+      "longitude": 16.947955
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.369195,
+      "longitude": 16.352293
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.447274,
+      "longitude": 17.221932
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.509942,
+      "longitude": 15.977211
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.615651,
+      "longitude": 16.725721
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.702314,
+      "longitude": 16.640139
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.817034,
+      "longitude": 15.66504
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.817835,
+      "longitude": 15.92404
+    },
+    {
+      "name": "Studenac",
+      "latitude": 43.955671,
+      "longitude": 15.3891
+    },
+    {
+      "name": "Studenac",
+      "latitude": 44.047138,
+      "longitude": 15.314014
+    },
+    {
+      "name": "Studenac",
+      "latitude": 44.234235,
+      "longitude": 15.165533
+    },
+    {
+      "name": "Studenac",
+      "latitude": 44.240541,
+      "longitude": 15.146005
+    },
+    {
+      "name": "Studenac",
+      "latitude": 44.603483,
+      "longitude": 15.423772
+    },
+    {
+      "name": "Studenac",
+      "latitude": 44.802335,
+      "longitude": 13.910179
+    },
+    {
+      "name": "Studenac",
+      "latitude": 44.824846,
+      "longitude": 13.868299
+    },
+    {
+      "name": "Studenac",
+      "latitude": 45.082899,
+      "longitude": 13.633754
+    },
+    {
+      "name": "STUDENAC",
+      "latitude": 45.154758,
+      "longitude": 14.724035
+    },
+    {
+      "name": "Studenac",
+      "latitude": 45.274183,
+      "longitude": 13.598793
+    },
+    {
+      "name": "Studenac",
+      "latitude": 45.27623,
+      "longitude": 14.01187
+    },
+    {
+      "name": "Studenac",
+      "latitude": 45.806564,
+      "longitude": 15.889447
+    },
+    {
+      "name": "Studenac (prod.br. 7)",
+      "latitude": 43.445299,
+      "longitude": 16.641215
+    },
+    {
+      "name": "Studenac Market",
+      "latitude": 43.061839,
+      "longitude": 16.18362
+    },
+    {
+      "name": "Studenac Market",
+      "latitude": 43.444281,
+      "longitude": 16.686487
+    },
+    {
+      "name": "Studenac Market",
+      "latitude": 43.51332,
+      "longitude": 16.109073
+    },
+    {
+      "name": "Studenac Market",
+      "latitude": 43.992599,
+      "longitude": 15.490801
+    },
+    {
+      "name": "Studenac Market",
+      "latitude": 44.110014,
+      "longitude": 15.235579
+    },
+    {
+      "name": "Studenac market",
+      "latitude": 44.272542,
+      "longitude": 14.766654
+    },
+    {
+      "name": "Studenac Market",
+      "latitude": 44.815386,
+      "longitude": 13.934032
+    },
+    {
+      "name": "Studenac Market",
+      "latitude": 44.83421,
+      "longitude": 13.867915
+    },
+    {
+      "name": "Studenac Market",
+      "latitude": 44.941652,
+      "longitude": 15.632154
+    },
+    {
+      "name": "Studenac Market",
+      "latitude": 44.993262,
+      "longitude": 15.649434
+    },
+    {
+      "name": "Studenac Market",
+      "latitude": 45.089419,
+      "longitude": 13.882634
+    },
+    {
+      "name": "studenac market",
+      "latitude": 45.388521,
+      "longitude": 14.409347
+    },
+    {
+      "name": "Studenac T-965",
+      "latitude": 43.634113,
+      "longitude": 16.595344
+    },
+    {
+      "name": "Studenak Market",
+      "latitude": 43.172426,
+      "longitude": 16.442756
+    },
+    {
+      "name": "Stupalo",
+      "latitude": 43.522193,
+      "longitude": 16.486581
+    },
+    {
+      "name": "Super Konzum",
+      "latitude": 43.54828,
+      "longitude": 16.408489
+    },
+    {
+      "name": "Super Konzum",
+      "latitude": 45.803283,
+      "longitude": 16.005977
+    },
+    {
+      "name": "Super Konzum",
+      "latitude": 45.871299,
+      "longitude": 15.82862
+    },
+    {
+      "name": "Super Konzum",
+      "latitude": 46.23321,
+      "longitude": 16.141741
+    },
+    {
+      "name": "Super Market Camping Solaris",
+      "latitude": 43.699244,
+      "longitude": 15.879846
+    },
+    {
+      "name": "Supermarket",
+      "latitude": 44.055427,
+      "longitude": 15.295028
+    },
+    {
+      "name": "Supermarket",
+      "latitude": 44.555318,
+      "longitude": 14.442304
+    },
+    {
+      "name": "Supermarket",
+      "latitude": 44.991166,
+      "longitude": 14.629023
+    },
+    {
+      "name": "supermarket",
+      "latitude": 45.804821,
+      "longitude": 15.824825
+    },
+    {
+      "name": "Supermarket Lopud",
+      "latitude": 42.689171,
+      "longitude": 17.942134
+    },
+    {
+      "name": "Supermarket Tommy",
+      "latitude": 43.446739,
+      "longitude": 17.216843
+    },
+    {
+      "name": "Supermarket TOMMY",
+      "latitude": 44.301754,
+      "longitude": 15.081253
+    },
+    {
+      "name": "Supermarkt",
+      "latitude": 45.297811,
+      "longitude": 13.592957
+    },
+    {
+      "name": "Tanja 5",
+      "latitude": 44.853554,
+      "longitude": 13.866676
+    },
+    {
+      "name": "Tina Comerc",
+      "latitude": 44.835963,
+      "longitude": 13.86437
+    },
+    {
+      "name": "Tisak",
+      "latitude": 45.523598,
+      "longitude": 17.977609
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.452475,
+      "longitude": 18.43571
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.518149,
+      "longitude": 18.364046
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.581265,
+      "longitude": 18.23521
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.652594,
+      "longitude": 18.090962
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.653597,
+      "longitude": 18.092917
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.655278,
+      "longitude": 18.075905
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.658368,
+      "longitude": 18.090334
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.675484,
+      "longitude": 18.097318
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.734413,
+      "longitude": 17.551621
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.83763,
+      "longitude": 17.695527
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.953881,
+      "longitude": 16.716578
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.956863,
+      "longitude": 17.132272
+    },
+    {
+      "name": "Tommy",
+      "latitude": 42.983856,
+      "longitude": 17.198549
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.052954,
+      "longitude": 17.43766
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.102326,
+      "longitude": 17.347378
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.158574,
+      "longitude": 16.68262
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.179515,
+      "longitude": 16.576292
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.185074,
+      "longitude": 16.599263
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.263305,
+      "longitude": 16.650767
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.297276,
+      "longitude": 16.850077
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.303976,
+      "longitude": 17.010752
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.354809,
+      "longitude": 16.955659
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.386991,
+      "longitude": 17.24118
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.44307,
+      "longitude": 16.694489
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.443417,
+      "longitude": 17.22185
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.444808,
+      "longitude": 16.641444
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.453312,
+      "longitude": 16.913292
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.453614,
+      "longitude": 16.910947
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.468179,
+      "longitude": 17.154247
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.491956,
+      "longitude": 16.264128
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.498988,
+      "longitude": 16.260656
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.505408,
+      "longitude": 16.428841
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.505616,
+      "longitude": 16.455822
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.50571,
+      "longitude": 16.462929
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.505793,
+      "longitude": 16.445093
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.506477,
+      "longitude": 16.482821
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.507496,
+      "longitude": 16.467282
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.507602,
+      "longitude": 16.441417
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.507986,
+      "longitude": 16.434564
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.508357,
+      "longitude": 16.45159
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.509101,
+      "longitude": 16.443394
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.509351,
+      "longitude": 16.472926
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.511679,
+      "longitude": 16.463853
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.512401,
+      "longitude": 16.436306
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.512952,
+      "longitude": 16.450637
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.513084,
+      "longitude": 16.429421
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.513099,
+      "longitude": 16.485574
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.513409,
+      "longitude": 16.292032
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.513694,
+      "longitude": 16.107568
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.513899,
+      "longitude": 16.459537
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.515646,
+      "longitude": 16.439645
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.517016,
+      "longitude": 16.451204
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.517356,
+      "longitude": 16.489744
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.518673,
+      "longitude": 16.247159
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.519605,
+      "longitude": 16.472464
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.520414,
+      "longitude": 16.446311
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.522865,
+      "longitude": 16.468604
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.530935,
+      "longitude": 16.48715
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.539747,
+      "longitude": 15.968484
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.543142,
+      "longitude": 16.288309
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.549608,
+      "longitude": 16.327027
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.562155,
+      "longitude": 16.343208
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.586181,
+      "longitude": 15.942605
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.58722,
+      "longitude": 16.5702
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.616536,
+      "longitude": 16.729423
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.635263,
+      "longitude": 16.593704
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.690016,
+      "longitude": 16.645955
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.693209,
+      "longitude": 16.466435
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.69932,
+      "longitude": 16.641268
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.723209,
+      "longitude": 15.908969
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.731289,
+      "longitude": 15.897474
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.735375,
+      "longitude": 15.892894
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.737077,
+      "longitude": 15.936966
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.742984,
+      "longitude": 15.898515
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.760432,
+      "longitude": 15.783389
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.789589,
+      "longitude": 15.630361
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.793329,
+      "longitude": 15.626919
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.819371,
+      "longitude": 15.923611
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.824252,
+      "longitude": 15.594439
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.934521,
+      "longitude": 15.167682
+    },
+    {
+      "name": "Tommy",
+      "latitude": 43.941484,
+      "longitude": 15.451331
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.032999,
+      "longitude": 15.61698
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.054879,
+      "longitude": 15.306885
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.084007,
+      "longitude": 15.179522
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.10747,
+      "longitude": 15.378012
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.109595,
+      "longitude": 15.233529
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.12053,
+      "longitude": 15.228378
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.121872,
+      "longitude": 15.254455
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.129364,
+      "longitude": 15.236447
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.129724,
+      "longitude": 15.231215
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.19988,
+      "longitude": 15.680272
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.212501,
+      "longitude": 15.472613
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.224293,
+      "longitude": 15.536653
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.242149,
+      "longitude": 15.170014
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.261789,
+      "longitude": 15.118809
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.279292,
+      "longitude": 15.345501
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.285873,
+      "longitude": 15.450469
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.298985,
+      "longitude": 15.103877
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.304922,
+      "longitude": 15.077176
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.306301,
+      "longitude": 15.086443
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.770354,
+      "longitude": 14.749941
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.87696,
+      "longitude": 13.860973
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.956508,
+      "longitude": 15.64021
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.974626,
+      "longitude": 14.742281
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.077844,
+      "longitude": 13.639508
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.131343,
+      "longitude": 14.544001
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.131703,
+      "longitude": 14.783449
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.17393,
+      "longitude": 14.693588
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.330489,
+      "longitude": 14.434548
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.331345,
+      "longitude": 14.301529
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.332645,
+      "longitude": 14.441886
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.344028,
+      "longitude": 14.38206
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.378787,
+      "longitude": 14.38729
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.79941,
+      "longitude": 15.722146
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.803877,
+      "longitude": 15.996193
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.806394,
+      "longitude": 15.808956
+    },
+    {
+      "name": "Tommy",
+      "latitude": 45.815224,
+      "longitude": 16.106424
+    },
+    {
+      "name": "Tommy Hipermarket",
+      "latitude": 43.288665,
+      "longitude": 17.025392
+    },
+    {
+      "name": "Tommy Hipermarket",
+      "latitude": 43.379846,
+      "longitude": 16.560293
+    },
+    {
+      "name": "Tommy Hipermarket",
+      "latitude": 45.298281,
+      "longitude": 13.620879
+    },
+    {
+      "name": "Tommy Market",
+      "latitude": 44.338209,
+      "longitude": 15.340335
+    },
+    {
+      "name": "Tommy Maximarket",
+      "latitude": 43.44295,
+      "longitude": 17.206758
+    },
+    {
+      "name": "Tommy Maximarket",
+      "latitude": 43.503203,
+      "longitude": 16.534393
+    },
+    {
+      "name": "Tommy Maximarket",
+      "latitude": 44.115466,
+      "longitude": 15.243772
+    },
+    {
+      "name": "Tommy Maximarket",
+      "latitude": 44.297231,
+      "longitude": 15.84456
+    },
+    {
+      "name": "Tommy Maximarket",
+      "latitude": 44.551923,
+      "longitude": 14.884582
+    },
+    {
+      "name": "Tommy Maximarket",
+      "latitude": 45.326877,
+      "longitude": 14.442811
+    },
+    {
+      "name": "Tommy supermarket",
+      "latitude": 43.16642,
+      "longitude": 16.447064
+    },
+    {
+      "name": "Tommy Supermarket",
+      "latitude": 44.13218,
+      "longitude": 15.220428
+    },
+    {
+      "name": "Tommy's",
+      "latitude": 43.263157,
+      "longitude": 16.650588
+    },
+    {
+      "name": "Tornado",
+      "latitude": 44.099938,
+      "longitude": 15.260049
+    },
+    {
+      "name": "Travel-Free Gruškovje",
+      "latitude": 46.275538,
+      "longitude": 15.865739
+    },
+    {
+      "name": "Trgocentar",
+      "latitude": 45.81373,
+      "longitude": 17.586422
+    },
+    {
+      "name": "Trgocentar",
+      "latitude": 45.825357,
+      "longitude": 17.346984
+    },
+    {
+      "name": "Trgocentar",
+      "latitude": 45.835304,
+      "longitude": 17.386509
+    },
+    {
+      "name": "Trgocentar",
+      "latitude": 45.835524,
+      "longitude": 17.374251
+    },
+    {
+      "name": "Trgocentar",
+      "latitude": 45.872858,
+      "longitude": 17.426275
+    },
+    {
+      "name": "Trgocentar",
+      "latitude": 45.967239,
+      "longitude": 16.251539
+    },
+    {
+      "name": "Trgocentar",
+      "latitude": 46.035653,
+      "longitude": 16.245371
+    },
+    {
+      "name": "Trgocentar",
+      "latitude": 46.088374,
+      "longitude": 15.912306
+    },
+    {
+      "name": "Trgocentar",
+      "latitude": 46.093412,
+      "longitude": 16.078584
+    },
+    {
+      "name": "Trgocentar",
+      "latitude": 46.11633,
+      "longitude": 15.890668
+    },
+    {
+      "name": "Trgocentar elektronika",
+      "latitude": 46.021696,
+      "longitude": 15.899319
+    },
+    {
+      "name": "Trgomont",
+      "latitude": 45.879943,
+      "longitude": 16.401318
+    },
+    {
+      "name": "Trgostil",
+      "latitude": 45.764431,
+      "longitude": 15.963542
+    },
+    {
+      "name": "Trgostil",
+      "latitude": 45.790396,
+      "longitude": 15.946987
+    },
+    {
+      "name": "Trgostil",
+      "latitude": 45.974262,
+      "longitude": 16.018261
+    },
+    {
+      "name": "Trgostil",
+      "latitude": 45.982523,
+      "longitude": 15.970658
+    },
+    {
+      "name": "Trgostil",
+      "latitude": 46.004512,
+      "longitude": 16.117592
+    },
+    {
+      "name": "Trgostil",
+      "latitude": 46.043949,
+      "longitude": 16.003411
+    },
+    {
+      "name": "Trgostil",
+      "latitude": 46.157463,
+      "longitude": 15.870822
+    },
+    {
+      "name": "Trgovački centar Lorenco",
+      "latitude": 44.441415,
+      "longitude": 15.058135
+    },
+    {
+      "name": "Trgovina",
+      "latitude": 45.79901,
+      "longitude": 17.635407
+    },
+    {
+      "name": "Trgovina Cerje",
+      "latitude": 45.772333,
+      "longitude": 15.691376
+    },
+    {
+      "name": "Trgovina Kea",
+      "latitude": 46.151687,
+      "longitude": 15.600615
+    },
+    {
+      "name": "Trgovina Krk",
+      "latitude": 45.017122,
+      "longitude": 14.630392
+    },
+    {
+      "name": "Trgovina Krk",
+      "latitude": 45.024151,
+      "longitude": 14.569833
+    },
+    {
+      "name": "Trgovina Krk",
+      "latitude": 45.024229,
+      "longitude": 14.592211
+    },
+    {
+      "name": "Trgovina Krk",
+      "latitude": 45.02914,
+      "longitude": 14.572505
+    },
+    {
+      "name": "Trgovina Krk",
+      "latitude": 45.044365,
+      "longitude": 14.480129
+    },
+    {
+      "name": "Trgovina Krk",
+      "latitude": 45.046185,
+      "longitude": 14.479162
+    },
+    {
+      "name": "Trgovina Krk",
+      "latitude": 45.144142,
+      "longitude": 14.660714
+    },
+    {
+      "name": "Trgovina Krk",
+      "latitude": 45.164332,
+      "longitude": 14.541671
+    },
+    {
+      "name": "Trgovina Krk",
+      "latitude": 45.315503,
+      "longitude": 14.853649
+    },
+    {
+      "name": "Trgovina Krk",
+      "latitude": 45.374027,
+      "longitude": 14.936263
+    },
+    {
+      "name": "Trgovina Krk",
+      "latitude": 45.431489,
+      "longitude": 14.907031
+    },
+    {
+      "name": "Trgovina Krk - Šilo",
+      "latitude": 45.147667,
+      "longitude": 14.662846
+    },
+    {
+      "name": "Trgovina krk d.d.",
+      "latitude": 45.106364,
+      "longitude": 14.599628
+    },
+    {
+      "name": "Trgovina Krk d.d. samoposluga P O-1 (121181)",
+      "latitude": 45.995216,
+      "longitude": 15.915867
+    },
+    {
+      "name": "Trgovina Krk Malinska",
+      "latitude": 45.122939,
+      "longitude": 14.528286
+    },
+    {
+      "name": "Trgovina Krk Market",
+      "latitude": 45.293131,
+      "longitude": 14.653188
+    },
+    {
+      "name": "Trgovina Krk market 121008",
+      "latitude": 46.001296,
+      "longitude": 15.930153
+    },
+    {
+      "name": "Trgovina Krk P-40",
+      "latitude": 44.969962,
+      "longitude": 14.751822
+    },
+    {
+      "name": "Trgovina Mlin i pekare",
+      "latitude": 45.648573,
+      "longitude": 16.341309
+    },
+    {
+      "name": "Trgovine Valentin",
+      "latitude": 45.393398,
+      "longitude": 14.798717
+    },
+    {
+      "name": "Trgovine Valentin",
+      "latitude": 45.395646,
+      "longitude": 14.800641
+    },
+    {
+      "name": "Trogovina Krk",
+      "latitude": 45.029632,
+      "longitude": 14.628391
+    },
+    {
+      "name": "Trogovina Krk",
+      "latitude": 45.050474,
+      "longitude": 14.533801
+    },
+    {
+      "name": "Tropic",
+      "latitude": 45.148098,
+      "longitude": 17.251192
+    },
+    {
+      "name": "Tvornica zdrave hrane",
+      "latitude": 45.814915,
+      "longitude": 15.996398
+    },
+    {
+      "name": "Ultra",
+      "latitude": 43.732044,
+      "longitude": 15.896502
+    },
+    {
+      "name": "Ultra Djelo",
+      "latitude": 43.785484,
+      "longitude": 15.644421
+    },
+    {
+      "name": "Ultra Ribola",
+      "latitude": 43.46096,
+      "longitude": 16.602004
+    },
+    {
+      "name": "Ultra Ribola",
+      "latitude": 43.518477,
+      "longitude": 16.224507
+    },
+    {
+      "name": "Ultra Ribola",
+      "latitude": 43.546727,
+      "longitude": 16.402231
+    },
+    {
+      "name": "Ultra Sonic",
+      "latitude": 44.204418,
+      "longitude": 15.346806
+    },
+    {
+      "name": "Ultra Sonik",
+      "latitude": 44.14367,
+      "longitude": 15.318756
+    },
+    {
+      "name": "Valalta Market",
+      "latitude": 45.124239,
+      "longitude": 13.627278
+    },
+    {
+      "name": "Valentin",
+      "latitude": 45.431751,
+      "longitude": 14.906609
+    },
+    {
+      "name": "Velepromet",
+      "latitude": 45.360486,
+      "longitude": 18.970373
+    },
+    {
+      "name": "Velma doo",
+      "latitude": 43.442832,
+      "longitude": 16.690957
+    },
+    {
+      "name": "Velpro",
+      "latitude": 44.100502,
+      "longitude": 15.249139
+    },
+    {
+      "name": "Velpro",
+      "latitude": 45.799217,
+      "longitude": 16.027369
+    },
+    {
+      "name": "VELPRO",
+      "latitude": 46.297886,
+      "longitude": 16.349254
+    },
+    {
+      "name": "VELPRO 415 Dubrovnik",
+      "latitude": 42.66984,
+      "longitude": 18.133687
+    },
+    {
+      "name": "Victa",
+      "latitude": 43.504725,
+      "longitude": 16.455999
+    },
+    {
+      "name": "Victa",
+      "latitude": 43.520929,
+      "longitude": 16.46483
+    },
+    {
+      "name": "Vindija",
+      "latitude": 45.813479,
+      "longitude": 15.996548
+    },
+    {
+      "name": "Vindon",
+      "latitude": 45.341002,
+      "longitude": 17.677856
+    },
+    {
+      "name": "Vinkoprom",
+      "latitude": 45.287826,
+      "longitude": 18.817312
+    },
+    {
+      "name": "Vinkoprom",
+      "latitude": 45.669896,
+      "longitude": 18.4138
+    },
+    {
+      "name": "Vinkoprom Slatina",
+      "latitude": 45.699655,
+      "longitude": 17.709715
+    },
+    {
+      "name": "Vrutak",
+      "latitude": 45.809026,
+      "longitude": 15.945886
+    },
+    {
+      "name": "Vrutak ultra",
+      "latitude": 45.789623,
+      "longitude": 15.931279
+    },
+    {
+      "name": "Vrutak Ultra",
+      "latitude": 45.801489,
+      "longitude": 15.941142
+    },
+    {
+      "name": "Wolt market",
+      "latitude": 45.804385,
+      "longitude": 15.996547
+    },
+    {
+      "name": "Zelena tržnica",
+      "latitude": 43.902148,
+      "longitude": 15.701585
+    },
+    {
+      "name": "Zrno Split",
+      "latitude": 43.520694,
+      "longitude": 16.468591
+    },
+    {
+      "name": "ŠPEŽA",
+      "latitude": 45.074015,
+      "longitude": 13.652873
+    }
+  ],
+  "meta": {
+    "title": "Supermarketi u Hrvatskoj - Besplatno preuzimanje",
+    "description": "Supermarkets in Croatia (shop=supermarket) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti, filtrirano na Hrvatsku. © OpenStreetMap contributors. Sadrži 1484 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Supermarketi u Hrvatskoj | ListBase",
+    "seo_description": "Preuzmi Supermarketi u Hrvatskoj — 1484 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 1484 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

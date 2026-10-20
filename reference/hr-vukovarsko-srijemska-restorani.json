@@ -1,0 +1,156 @@
+{
+  "id": "hr-vukovarsko-srijemska-restorani",
+  "name": "Restorani — Vukovarsko-srijemska županija",
+  "title": "Restorani — Vukovarsko-srijemska županija",
+  "description": "23 restorani u županiji Vukovarsko-srijemska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Acin stan",
+      "latitude": 45.368308,
+      "longitude": 18.808955
+    },
+    {
+      "name": "Antin stan",
+      "latitude": 45.298224,
+      "longitude": 18.715486
+    },
+    {
+      "name": "Bistro Vinkovci",
+      "latitude": 45.298471,
+      "longitude": 18.803953
+    },
+    {
+      "name": "Božo",
+      "latitude": 45.223639,
+      "longitude": 19.369705
+    },
+    {
+      "name": "Chiara",
+      "latitude": 45.350867,
+      "longitude": 19.001371
+    },
+    {
+      "name": "Dunav",
+      "latitude": 45.229909,
+      "longitude": 19.380044
+    },
+    {
+      "name": "Dunavska Golubica",
+      "latitude": 45.350577,
+      "longitude": 19.005889
+    },
+    {
+      "name": "Fontana Tovarnik",
+      "latitude": 45.165731,
+      "longitude": 19.15211
+    },
+    {
+      "name": "Gerfield",
+      "latitude": 45.279986,
+      "longitude": 18.799176
+    },
+    {
+      "name": "Lamut",
+      "latitude": 45.291767,
+      "longitude": 18.806874
+    },
+    {
+      "name": "Mala Kuhinja",
+      "latitude": 45.346025,
+      "longitude": 19.000075
+    },
+    {
+      "name": "Pleter",
+      "latitude": 45.35661,
+      "longitude": 18.994932
+    },
+    {
+      "name": "Principovac",
+      "latitude": 45.200492,
+      "longitude": 19.358832
+    },
+    {
+      "name": "Raffaello",
+      "latitude": 45.28901,
+      "longitude": 18.805731
+    },
+    {
+      "name": "Restoran Kunjevci",
+      "latitude": 45.253682,
+      "longitude": 18.781858
+    },
+    {
+      "name": "Restoran Mornar",
+      "latitude": 45.361682,
+      "longitude": 18.989647
+    },
+    {
+      "name": "Restoran Stari toranj",
+      "latitude": 45.350914,
+      "longitude": 19.004664
+    },
+    {
+      "name": "Salaš Tena",
+      "latitude": 45.30348,
+      "longitude": 18.825321
+    },
+    {
+      "name": "Stari podrumi",
+      "latitude": 45.22409,
+      "longitude": 19.371785
+    },
+    {
+      "name": "Velkec",
+      "latitude": 45.186782,
+      "longitude": 18.688156
+    },
+    {
+      "name": "Villa Iva",
+      "latitude": 45.222371,
+      "longitude": 19.375423
+    },
+    {
+      "name": "Vrške",
+      "latitude": 45.353843,
+      "longitude": 19.003141
+    },
+    {
+      "name": "Vukovarska kuća",
+      "latitude": 45.353828,
+      "longitude": 18.97662
+    }
+  ],
+  "meta": {
+    "title": "Restorani — Vukovarsko-srijemska županija - Besplatno preuzimanje",
+    "description": "23 restorani u županiji Vukovarsko-srijemska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 23 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Restorani — Vukovarsko-srijemska županija | ListBase",
+    "seo_description": "Preuzmi Restorani — Vukovarsko-srijemska županija — 23 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 23 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

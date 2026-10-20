@@ -1,0 +1,128 @@
+{
+  "id": "hr-istarska-zracne-luke",
+  "name": "Zračne luke — Istarska županija",
+  "title": "Zračne luke — Istarska županija",
+  "description": "Zračne luke i aerodromi u Istarska županija (Hrvatska / HR) — ICAO/IATA kodovi, grad, koordinate (WGS84), nadmorska visina i vremenska zona. Slice nacionalnog flagship dataseta `hr-zracne-luke` filtriran na Istria. (Airports in Istarska županija county — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LDPL",
+      "iata": "PUY",
+      "name": "Pula Airport",
+      "city": "Pula",
+      "subdivision": "Istria",
+      "subdivision_native": "Istarska županija",
+      "country": "HR",
+      "elevation_ft": 274,
+      "latitude": 44.8935,
+      "longitude": 13.9222,
+      "timezone": "Europe/Zagreb",
+      "lid": ""
+    },
+    {
+      "icao": "LDPM",
+      "iata": "",
+      "name": "Medulin Campanoz Airport",
+      "city": "Medulin",
+      "subdivision": "Istria",
+      "subdivision_native": "Istarska županija",
+      "country": "HR",
+      "elevation_ft": 171,
+      "latitude": 44.8433,
+      "longitude": 13.9042,
+      "timezone": "Europe/Zagreb",
+      "lid": ""
+    },
+    {
+      "icao": "LDPV",
+      "iata": "",
+      "name": "Vrsar Crljenka Airport",
+      "city": "Vrsar",
+      "subdivision": "Istria",
+      "subdivision_native": "Istarska županija",
+      "country": "HR",
+      "elevation_ft": 121,
+      "latitude": 45.1417,
+      "longitude": 13.6306,
+      "timezone": "Europe/Zagreb",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Zračne luke — Istarska županija - Besplatno preuzimanje",
+    "description": "Zračne luke i aerodromi u Istarska županija (Hrvatska / HR) — ICAO/IATA kodovi, grad, koordinate (WGS84), nadmorska visina i vremenska zona. Slice nacionalnog flagship dataseta `hr-zracne-luke` filtriran na Istria. (Airports in Istarska županija county — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.) Sadrži 3 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Zračne luke — Istarska županija | ListBase",
+    "seo_description": "Preuzmi Zračne luke — Istarska županija — 3 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 3 zapisa / 12 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

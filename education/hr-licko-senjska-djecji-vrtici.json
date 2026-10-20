@@ -1,0 +1,289 @@
+{
+  "id": "hr-licko-senjska-djecji-vrtici",
+  "name": "Dječji vrtići — Ličko-Senjska županija",
+  "title": "Dječji vrtići — Ličko-Senjska županija",
+  "description": "Kindergartens (MO = matični objekt / main site, PO = područni objekt / branch site) in Ličko-Senjska, Croatia — the Ličko-Senjska subset of hr-djecji-vrtici. Source: Ministarstvo znanosti i obrazovanja via codeforcroatia/open-data.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "Naziv objekta",
+      "label": "Naziv Objekta",
+      "type": "string"
+    },
+    {
+      "key": "Tip objekta",
+      "label": "Tip Objekta",
+      "type": "string"
+    },
+    {
+      "key": "Matični vrtić",
+      "label": "MatičNi Vrtić",
+      "type": "string"
+    },
+    {
+      "key": "Županija",
+      "label": "ŽUpanija",
+      "type": "string"
+    },
+    {
+      "key": "Naselje",
+      "label": "Naselje",
+      "type": "string"
+    },
+    {
+      "key": "Ulica i broj",
+      "label": "Ulica I Broj",
+      "type": "string"
+    },
+    {
+      "key": "Telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "Faks",
+      "label": "Faks",
+      "type": "string"
+    },
+    {
+      "key": "E-mail",
+      "label": "E Mail",
+      "type": "string"
+    },
+    {
+      "key": "Odgovorna osoba",
+      "label": "Odgovorna Osoba",
+      "type": "string"
+    },
+    {
+      "key": "Naziv osnivača",
+      "label": "Naziv OsnivačA",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "Naziv objekta": "Predškolski program pri OŠ Donji Lapac",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Donji Lapac",
+      "Ulica i broj": "S. Matića 18",
+      "Telefon": "053/765-001",
+      "Faks": "053/765-800",
+      "E-mail": "os-donji-lapac-001@skole.htnet.hr",
+      "Odgovorna osoba": "Marko Matić",
+      "Naziv osnivača": "Ličko-senjska županija"
+    },
+    {
+      "Naziv objekta": "Predškolski program pri OŠ dr. Ante Starčevića, Pazarište Klanac",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Klanac",
+      "Ulica i broj": "Klanac 3",
+      "Telefon": "053/686-002",
+      "Faks": "053/686-600",
+      "E-mail": "ured@os-astarcevic-klanac.skole.hr",
+      "Odgovorna osoba": "Ivan Pezelj",
+      "Naziv osnivača": "Grad Gospić"
+    },
+    {
+      "Naziv objekta": "PŠ Donje Pazarište",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Predškolski program pri OŠ dr. Ante Starčevića, Pazarište Klanac",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Donje Pazarište",
+      "Ulica i broj": "",
+      "Telefon": "053685602",
+      "Faks": "",
+      "E-mail": "",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PŠ Aleksinica",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Predškolski program pri OŠ dr. Ante Starčevića, Pazarište Klanac",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Aleksinica",
+      "Ulica i broj": "",
+      "Telefon": "053686604",
+      "Faks": "",
+      "E-mail": "",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PŠ Kalinovača",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Predškolski program pri OŠ dr. Ante Starčevića, Pazarište Klanac",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Kalinovača",
+      "Ulica i broj": "",
+      "Telefon": "",
+      "Faks": "",
+      "E-mail": "",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "DV \"Medo\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Udbina",
+      "Ulica i broj": "Trg sv. Lucije 4",
+      "Telefon": "053/778-280",
+      "Faks": "053/778-613",
+      "E-mail": "dv.medo@live.com",
+      "Odgovorna osoba": "Slavica Ivanišević",
+      "Naziv osnivača": "općina Udbina"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Ciciban\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Otočac",
+      "Ulica i broj": "I. B. Mažuranić 3",
+      "Telefon": "053/772-154, 746-037",
+      "Faks": "053/746-038",
+      "E-mail": "djecji.vrtic.ciciban@gs.t-com.hr",
+      "Odgovorna osoba": "Ljiljana Gomerčić",
+      "Naziv osnivača": "Grad Otočac"
+    },
+    {
+      "Naziv objekta": "DV \"Tratinčica\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Brinje",
+      "Ulica i broj": "Popa Marka Mesića bb",
+      "Telefon": "053/700-857",
+      "Faks": "053/700-857",
+      "E-mail": "djecji.vrtic.tratincica@gs.t-com.hr",
+      "Odgovorna osoba": "Ružica Perković",
+      "Naziv osnivača": "Općina Brinje"
+    },
+    {
+      "Naziv objekta": "DV \"Travica\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Senj",
+      "Ulica i broj": "M. C. Nehajeva 1",
+      "Telefon": "053/881-313",
+      "Faks": "053/884-584",
+      "E-mail": "vrtictravica@gmail.com",
+      "Odgovorna osoba": "Dubravka Glavaš",
+      "Naziv osnivača": "Grad Senj"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Slapić\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Korenica",
+      "Ulica i broj": "Hrvatske mladeži 3",
+      "Telefon": "053/776-015  099/3402-174",
+      "Faks": "053/776-015",
+      "E-mail": "djecji.vrtic.slapic@gs.t-com.hr",
+      "Odgovorna osoba": "Marijana Mijić",
+      "Naziv osnivača": "Općina Plitvička jezera"
+    },
+    {
+      "Naziv objekta": "PO Vidra, Mukinje",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Slapić\"",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Plitvička Jezera",
+      "Ulica i broj": "MUKINJE BB",
+      "Telefon": "053/774-092",
+      "Faks": "053/774-092",
+      "E-mail": "djecji.vrtic.slapic@gs.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Carić\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Novalja",
+      "Ulica i broj": "Zeleni put bb",
+      "Telefon": "053/662-269",
+      "Faks": "053/662-269",
+      "E-mail": "djecji.vrtic.caric.novalja@gs.t-com.hr",
+      "Odgovorna osoba": "Anton  Dabo",
+      "Naziv osnivača": "grad Novalja"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Pahuljica\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Gospić",
+      "Ulica i broj": "Žabička ulica 30",
+      "Telefon": "053/572-843; 573-122",
+      "Faks": "053/560-247",
+      "E-mail": "djecji.vrtic.pahuljica@gs.t-com.hr",
+      "Odgovorna osoba": "Kata Novačić",
+      "Naziv osnivača": "Grad Gospić"
+    },
+    {
+      "Naziv objekta": "PO Karlobag",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Pahuljica\"",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Karlobag",
+      "Ulica i broj": "B.I.Karlovića bb",
+      "Telefon": "053/694-366",
+      "Faks": "",
+      "E-mail": "",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Lički Osik",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Pahuljica\"",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Lički Osik",
+      "Ulica i broj": "Riječka bb",
+      "Telefon": "053/639-270",
+      "Faks": "",
+      "E-mail": "",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Perušić",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Pahuljica\"",
+      "Županija": "Ličko-senjska županija",
+      "Naselje": "Perušić",
+      "Ulica i broj": "Hrvatske mladeži bb",
+      "Telefon": "053/679-009",
+      "Faks": "",
+      "E-mail": "",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    }
+  ],
+  "meta": {
+    "title": "Dječji vrtići — Ličko-Senjska županija - Besplatno preuzimanje",
+    "description": "Kindergartens (MO = matični objekt / main site, PO = područni objekt / branch site) in Ličko-Senjska, Croatia — the Ličko-Senjska subset of hr-djecji-vrtici. Source: Ministarstvo znanosti i obrazovanja via codeforcroatia/open-data. Sadrži 16 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Dječji vrtići — Ličko-Senjska županija | ListBase",
+    "seo_description": "Preuzmi Dječji vrtići — Ličko-Senjska županija — 16 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 16 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

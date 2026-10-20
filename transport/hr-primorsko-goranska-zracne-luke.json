@@ -1,0 +1,142 @@
+{
+  "id": "hr-primorsko-goranska-zracne-luke",
+  "name": "Zračne luke — Primorsko-goranska županija",
+  "title": "Zračne luke — Primorsko-goranska županija",
+  "description": "Zračne luke i aerodromi u Primorsko-goranska županija (Hrvatska / HR) — ICAO/IATA kodovi, grad, koordinate (WGS84), nadmorska visina i vremenska zona. Slice nacionalnog flagship dataseta `hr-zracne-luke` filtriran na Primorsko-Goranska. (Airports in Primorsko-goranska županija county — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LDLO",
+      "iata": "LSZ",
+      "name": "Losinj Island Airport",
+      "city": "Losinj",
+      "subdivision": "Primorsko-Goranska",
+      "subdivision_native": "Primorsko-goranska županija",
+      "country": "HR",
+      "elevation_ft": 151,
+      "latitude": 44.5658,
+      "longitude": 14.3931,
+      "timezone": "Europe/Zagreb",
+      "lid": ""
+    },
+    {
+      "icao": "LDPN",
+      "iata": "",
+      "name": "Unije Airport",
+      "city": "Unije Island",
+      "subdivision": "Primorsko-Goranska",
+      "subdivision_native": "Primorsko-goranska županija",
+      "country": "HR",
+      "elevation_ft": 39,
+      "latitude": 44.6283,
+      "longitude": 14.2411,
+      "timezone": "Europe/Zagreb",
+      "lid": ""
+    },
+    {
+      "icao": "LDRG",
+      "iata": "",
+      "name": "Grobnicko Polje Airport",
+      "city": "Grobnicko",
+      "subdivision": "Primorsko-Goranska",
+      "subdivision_native": "Primorsko-goranska županija",
+      "country": "HR",
+      "elevation_ft": 951,
+      "latitude": 45.3795,
+      "longitude": 14.5038,
+      "timezone": "Europe/Zagreb",
+      "lid": ""
+    },
+    {
+      "icao": "LDRI",
+      "iata": "RJK",
+      "name": "Rijeka Airport",
+      "city": "Rijeka",
+      "subdivision": "Primorsko-Goranska",
+      "subdivision_native": "Primorsko-goranska županija",
+      "country": "HR",
+      "elevation_ft": 278,
+      "latitude": 45.2169,
+      "longitude": 14.5703,
+      "timezone": "Europe/Zagreb",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Zračne luke — Primorsko-goranska županija - Besplatno preuzimanje",
+    "description": "Zračne luke i aerodromi u Primorsko-goranska županija (Hrvatska / HR) — ICAO/IATA kodovi, grad, koordinate (WGS84), nadmorska visina i vremenska zona. Slice nacionalnog flagship dataseta `hr-zracne-luke` filtriran na Primorsko-Goranska. (Airports in Primorsko-goranska županija county — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.) Sadrži 4 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Zračne luke — Primorsko-goranska županija | ListBase",
+    "seo_description": "Preuzmi Zračne luke — Primorsko-goranska županija — 4 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 4 zapisa / 12 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

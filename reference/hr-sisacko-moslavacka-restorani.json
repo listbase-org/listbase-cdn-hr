@@ -1,0 +1,341 @@
+{
+  "id": "hr-sisacko-moslavacka-restorani",
+  "name": "Restorani — Sisačko-moslavačka županija",
+  "title": "Restorani — Sisačko-moslavačka županija",
+  "description": "60 restorani u županiji Sisačko-moslavačka županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Barun",
+      "latitude": 45.487992,
+      "longitude": 16.374269
+    },
+    {
+      "name": "Batak Sisak",
+      "latitude": 45.487904,
+      "longitude": 16.374266
+    },
+    {
+      "name": "Bijela lađa",
+      "latitude": 45.48141,
+      "longitude": 16.369542
+    },
+    {
+      "name": "Bistro Bjekić",
+      "latitude": 45.435873,
+      "longitude": 16.271766
+    },
+    {
+      "name": "Bistro M",
+      "latitude": 45.468067,
+      "longitude": 16.368688
+    },
+    {
+      "name": "Bistro Pizzeria Ema",
+      "latitude": 45.430835,
+      "longitude": 16.271954
+    },
+    {
+      "name": "bistro Servus",
+      "latitude": 45.481236,
+      "longitude": 16.778103
+    },
+    {
+      "name": "Bon Tanjur",
+      "latitude": 45.340795,
+      "longitude": 16.97843
+    },
+    {
+      "name": "Bonaparte",
+      "latitude": 45.224652,
+      "longitude": 16.545309
+    },
+    {
+      "name": "Brioni",
+      "latitude": 45.341992,
+      "longitude": 16.041186
+    },
+    {
+      "name": "Cassina",
+      "latitude": 45.34029,
+      "longitude": 16.088619
+    },
+    {
+      "name": "City Garden food & drinks",
+      "latitude": 45.486744,
+      "longitude": 16.370448
+    },
+    {
+      "name": "Cookie",
+      "latitude": 45.482664,
+      "longitude": 16.774776
+    },
+    {
+      "name": "Djed",
+      "latitude": 45.225836,
+      "longitude": 16.547793
+    },
+    {
+      "name": "Ekoetno Selo Strug",
+      "latitude": 45.314334,
+      "longitude": 16.834314
+    },
+    {
+      "name": "Fast Food MAKALU",
+      "latitude": 45.4096,
+      "longitude": 16.298233
+    },
+    {
+      "name": "Gema",
+      "latitude": 45.487294,
+      "longitude": 16.370479
+    },
+    {
+      "name": "Gostionica Svratište",
+      "latitude": 45.364314,
+      "longitude": 16.723239
+    },
+    {
+      "name": "Gušti 2",
+      "latitude": 45.486605,
+      "longitude": 16.37903
+    },
+    {
+      "name": "Gvozd",
+      "latitude": 45.349616,
+      "longitude": 15.86718
+    },
+    {
+      "name": "Ivan",
+      "latitude": 45.490232,
+      "longitude": 16.386514
+    },
+    {
+      "name": "Jo Lame",
+      "latitude": 45.293323,
+      "longitude": 15.970268
+    },
+    {
+      "name": "Journal",
+      "latitude": 45.491361,
+      "longitude": 16.372466
+    },
+    {
+      "name": "Jozin Budžak",
+      "latitude": 45.292946,
+      "longitude": 16.826287
+    },
+    {
+      "name": "Kaptolska klet",
+      "latitude": 45.468302,
+      "longitude": 16.368403
+    },
+    {
+      "name": "Kod Mate",
+      "latitude": 45.484494,
+      "longitude": 16.776362
+    },
+    {
+      "name": "Kod ribiča",
+      "latitude": 45.270634,
+      "longitude": 16.908377
+    },
+    {
+      "name": "Korablja Tišinić",
+      "latitude": 45.398637,
+      "longitude": 16.311204
+    },
+    {
+      "name": "Kovačević",
+      "latitude": 45.309777,
+      "longitude": 15.968324
+    },
+    {
+      "name": "Lucija",
+      "latitude": 45.442478,
+      "longitude": 16.276425
+    },
+    {
+      "name": "MIS",
+      "latitude": 45.442642,
+      "longitude": 16.276593
+    },
+    {
+      "name": "Mlinski kamen",
+      "latitude": 45.460114,
+      "longitude": 16.269817
+    },
+    {
+      "name": "Napoli",
+      "latitude": 45.588509,
+      "longitude": 16.20595
+    },
+    {
+      "name": "Naso ćevapi",
+      "latitude": 45.437523,
+      "longitude": 16.26726
+    },
+    {
+      "name": "Petica",
+      "latitude": 45.493347,
+      "longitude": 16.369963
+    },
+    {
+      "name": "Pečenjarnica Garfild",
+      "latitude": 45.29092,
+      "longitude": 15.969028
+    },
+    {
+      "name": "Pizza 044",
+      "latitude": 45.485229,
+      "longitude": 16.373785
+    },
+    {
+      "name": "Pizzeria Lucija",
+      "latitude": 45.437779,
+      "longitude": 16.267343
+    },
+    {
+      "name": "Pizzeria Luki",
+      "latitude": 45.486749,
+      "longitude": 16.374369
+    },
+    {
+      "name": "Pizzeria Modesto",
+      "latitude": 45.479471,
+      "longitude": 16.368589
+    },
+    {
+      "name": "Plaza",
+      "latitude": 45.48353,
+      "longitude": 16.367815
+    },
+    {
+      "name": "Restoran Cocktail - Dvorana za svečanosti",
+      "latitude": 45.489836,
+      "longitude": 16.388454
+    },
+    {
+      "name": "Restoran Grand",
+      "latitude": 45.491063,
+      "longitude": 16.381747
+    },
+    {
+      "name": "Restoran kod starog mosta",
+      "latitude": 45.483243,
+      "longitude": 16.367805
+    },
+    {
+      "name": "Restoran Vukelić",
+      "latitude": 45.408392,
+      "longitude": 16.90468
+    },
+    {
+      "name": "SAM",
+      "latitude": 45.457886,
+      "longitude": 16.371023
+    },
+    {
+      "name": "San Luca",
+      "latitude": 45.33546,
+      "longitude": 16.974615
+    },
+    {
+      "name": "Slavonija sjever",
+      "latitude": 45.308268,
+      "longitude": 17.014303
+    },
+    {
+      "name": "Stara klet",
+      "latitude": 45.471127,
+      "longitude": 16.373646
+    },
+    {
+      "name": "Stari Trami",
+      "latitude": 45.534879,
+      "longitude": 16.238506
+    },
+    {
+      "name": "Tradicije Čigoč",
+      "latitude": 45.41749,
+      "longitude": 16.62823
+    },
+    {
+      "name": "Tramontana",
+      "latitude": 45.484327,
+      "longitude": 16.776986
+    },
+    {
+      "name": "Trica",
+      "latitude": 45.45788,
+      "longitude": 16.387694
+    },
+    {
+      "name": "Turizam Ravlić",
+      "latitude": 45.391722,
+      "longitude": 16.681297
+    },
+    {
+      "name": "Turopoljska Klet",
+      "latitude": 45.602172,
+      "longitude": 16.16591
+    },
+    {
+      "name": "Vis",
+      "latitude": 45.490885,
+      "longitude": 16.373329
+    },
+    {
+      "name": "Zelena Dolina",
+      "latitude": 45.364355,
+      "longitude": 16.276772
+    },
+    {
+      "name": "Đenadija",
+      "latitude": 45.221985,
+      "longitude": 16.511589
+    },
+    {
+      "name": "Štuka",
+      "latitude": 45.444698,
+      "longitude": 16.273296
+    },
+    {
+      "name": "Žar",
+      "latitude": 45.476568,
+      "longitude": 16.367408
+    }
+  ],
+  "meta": {
+    "title": "Restorani — Sisačko-moslavačka županija - Besplatno preuzimanje",
+    "description": "60 restorani u županiji Sisačko-moslavačka županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 60 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Restorani — Sisačko-moslavačka županija | ListBase",
+    "seo_description": "Preuzmi Restorani — Sisačko-moslavačka županija — 60 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 60 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

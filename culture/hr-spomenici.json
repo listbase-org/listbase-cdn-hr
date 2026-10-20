@@ -1,0 +1,1241 @@
+{
+  "id": "hr-spomenici",
+  "name": "Spomenici",
+  "title": "Spomenici",
+  "description": "Spomenici u Hrvatskoj (240 zapisa) — točke interesa iz OpenStreetMapa (oznaka historic=monument), izrez EU-POIS/HR.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 240,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Selo Plavnice 1770. god.\"",
+      "latitude": 45.94016,
+      "longitude": 16.854146
+    },
+    {
+      "name": "Antunovo Vrelo",
+      "latitude": 45.413859,
+      "longitude": 17.160381
+    },
+    {
+      "name": "Bernard Vukas Bajdo",
+      "latitude": 43.520306,
+      "longitude": 16.430473
+    },
+    {
+      "name": "Bivši spomenik NOB",
+      "latitude": 45.076069,
+      "longitude": 18.695288
+    },
+    {
+      "name": "Centralni križ",
+      "latitude": 45.661991,
+      "longitude": 17.432926
+    },
+    {
+      "name": "Centralni križ",
+      "latitude": 45.911581,
+      "longitude": 17.026534
+    },
+    {
+      "name": "Centralni križ",
+      "latitude": 45.922657,
+      "longitude": 16.883087
+    },
+    {
+      "name": "Centralni križ",
+      "latitude": 45.957015,
+      "longitude": 16.836993
+    },
+    {
+      "name": "Crkva svetog Spasa",
+      "latitude": 43.973217,
+      "longitude": 16.427176
+    },
+    {
+      "name": "Domovinski križ",
+      "latitude": 45.322844,
+      "longitude": 17.665251
+    },
+    {
+      "name": "don Marko Sikirić župnik i domoljub",
+      "latitude": 44.067183,
+      "longitude": 15.280852
+    },
+    {
+      "name": "Drveno raspelo",
+      "latitude": 45.918625,
+      "longitude": 17.028692
+    },
+    {
+      "name": "Glas hrvatske žrtve - Zid boli",
+      "latitude": 45.838674,
+      "longitude": 15.983497
+    },
+    {
+      "name": "Gorjanci (Trdinov vrh), trig. točka I. reda",
+      "latitude": 45.75976,
+      "longitude": 15.318186
+    },
+    {
+      "name": "Gospa Od Loreta",
+      "latitude": 43.571958,
+      "longitude": 15.927623
+    },
+    {
+      "name": "Hrvatski sokol",
+      "latitude": 45.493759,
+      "longitude": 15.553428
+    },
+    {
+      "name": "Kameni cvijet",
+      "latitude": 45.280355,
+      "longitude": 16.928384
+    },
+    {
+      "name": "Kameni križ 1907. godine",
+      "latitude": 45.592542,
+      "longitude": 17.223883
+    },
+    {
+      "name": "Karlovački miljokaz",
+      "latitude": 45.492166,
+      "longitude": 15.549843
+    },
+    {
+      "name": "Klišević",
+      "latitude": 44.662872,
+      "longitude": 16.033016
+    },
+    {
+      "name": "Klupa iz Austro-ugarske",
+      "latitude": 45.413897,
+      "longitude": 17.159952
+    },
+    {
+      "name": "Kompas",
+      "latitude": 45.115672,
+      "longitude": 14.504593
+    },
+    {
+      "name": "Konavoska mati",
+      "latitude": 42.54965,
+      "longitude": 18.285224
+    },
+    {
+      "name": "Kralj hrvatski Tomislav",
+      "latitude": 42.736295,
+      "longitude": 17.547167
+    },
+    {
+      "name": "Križ Kristu Otkupitelju",
+      "latitude": 43.279195,
+      "longitude": 16.618416
+    },
+    {
+      "name": "Križ na Srđu",
+      "latitude": 42.648779,
+      "longitude": 18.112171
+    },
+    {
+      "name": "Kursalon Lipik",
+      "latitude": 45.411903,
+      "longitude": 17.161194
+    },
+    {
+      "name": "Kužni pil Presvetog Trojstva",
+      "latitude": 45.560502,
+      "longitude": 18.695747
+    },
+    {
+      "name": "Lipicanac Klupa",
+      "latitude": 45.413878,
+      "longitude": 17.159894
+    },
+    {
+      "name": "Majka Božja Sutinska",
+      "latitude": 46.172509,
+      "longitude": 15.754611
+    },
+    {
+      "name": "MađarskI križ obitelji Nagy",
+      "latitude": 45.801215,
+      "longitude": 17.038007
+    },
+    {
+      "name": "Memorijalni spomenik masovne grobnice",
+      "latitude": 44.984148,
+      "longitude": 15.475445
+    },
+    {
+      "name": "Monument to Victims of Fascism",
+      "latitude": 44.532866,
+      "longitude": 14.460813
+    },
+    {
+      "name": "Najveći HRast",
+      "latitude": 45.209177,
+      "longitude": 17.230801
+    },
+    {
+      "name": "Necropolis ad Viam Suburbanam",
+      "latitude": 43.539124,
+      "longitude": 16.478898
+    },
+    {
+      "name": "Nikola Tesla 1856-1943",
+      "latitude": 45.811245,
+      "longitude": 15.974124
+    },
+    {
+      "name": "NOB",
+      "latitude": 45.314615,
+      "longitude": 14.28825
+    },
+    {
+      "name": "NOB",
+      "latitude": 45.388073,
+      "longitude": 14.249697
+    },
+    {
+      "name": "NOB",
+      "latitude": 46.287396,
+      "longitude": 16.628547
+    },
+    {
+      "name": "NOB Donja Rašenica",
+      "latitude": 45.675386,
+      "longitude": 17.206142
+    },
+    {
+      "name": "NOB Orovac",
+      "latitude": 45.859069,
+      "longitude": 16.981432
+    },
+    {
+      "name": "NOB Paulovac",
+      "latitude": 45.938958,
+      "longitude": 16.974632
+    },
+    {
+      "name": "Obelisk",
+      "latitude": 45.377575,
+      "longitude": 14.542361
+    },
+    {
+      "name": "Palim borcima",
+      "latitude": 45.466413,
+      "longitude": 14.30451
+    },
+    {
+      "name": "Palim borcima i žrtvama fašističkog terora 1956",
+      "latitude": 45.083841,
+      "longitude": 13.633875
+    },
+    {
+      "name": "Palim borcima Vignja in Nakovnja",
+      "latitude": 42.983407,
+      "longitude": 17.099624
+    },
+    {
+      "name": "Pamätník",
+      "latitude": 43.778625,
+      "longitude": 15.782751
+    },
+    {
+      "name": "Partizanski prelaz",
+      "latitude": 45.423593,
+      "longitude": 14.302583
+    },
+    {
+      "name": "Partizanski spomenik",
+      "latitude": 43.824224,
+      "longitude": 16.307994
+    },
+    {
+      "name": "Partizanski spomenik iznad Knina",
+      "latitude": 44.038814,
+      "longitude": 16.190657
+    },
+    {
+      "name": "Partizansko groblje",
+      "latitude": 45.15081,
+      "longitude": 18.955919
+    },
+    {
+      "name": "Partizansko groblje Kovačica",
+      "latitude": 45.521765,
+      "longitude": 17.652566
+    },
+    {
+      "name": "Podhumskim žrtvama",
+      "latitude": 45.375544,
+      "longitude": 14.497178
+    },
+    {
+      "name": "Poklonac",
+      "latitude": 45.686163,
+      "longitude": 16.95322
+    },
+    {
+      "name": "Pomorski desant",
+      "latitude": 43.345854,
+      "longitude": 16.95644
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.513999,
+      "longitude": 17.191985
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.525042,
+      "longitude": 17.253148
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.528751,
+      "longitude": 16.922909
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.535534,
+      "longitude": 17.147654
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.560865,
+      "longitude": 17.1522
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.582726,
+      "longitude": 16.851967
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.591389,
+      "longitude": 17.185427
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.638058,
+      "longitude": 16.92144
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.638503,
+      "longitude": 17.163541
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.64256,
+      "longitude": 17.289437
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.644786,
+      "longitude": 17.324444
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.659713,
+      "longitude": 17.01338
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.66323,
+      "longitude": 17.428177
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.66394,
+      "longitude": 17.089833
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.696934,
+      "longitude": 16.758537
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.702325,
+      "longitude": 17.171799
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.741658,
+      "longitude": 16.830172
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.745809,
+      "longitude": 16.964136
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.747179,
+      "longitude": 16.830186
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.754066,
+      "longitude": 16.999144
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.754616,
+      "longitude": 17.049579
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.772891,
+      "longitude": 16.840938
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.775492,
+      "longitude": 16.783223
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.784046,
+      "longitude": 16.646629
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.800532,
+      "longitude": 16.718124
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.80874,
+      "longitude": 16.716941
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.814852,
+      "longitude": 16.953839
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.815904,
+      "longitude": 16.723003
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.841444,
+      "longitude": 16.895428
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.893356,
+      "longitude": 16.869849
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.902564,
+      "longitude": 16.900727
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.903766,
+      "longitude": 16.755926
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.907613,
+      "longitude": 17.022083
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.912701,
+      "longitude": 16.5778
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.935371,
+      "longitude": 16.657981
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.936082,
+      "longitude": 16.934248
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.950068,
+      "longitude": 16.890772
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.951089,
+      "longitude": 16.697594
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.955227,
+      "longitude": 16.758897
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.960141,
+      "longitude": 16.953338
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.96103,
+      "longitude": 17.062995
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.968326,
+      "longitude": 16.794886
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.993907,
+      "longitude": 16.767602
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.993907,
+      "longitude": 16.850397
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 46.021885,
+      "longitude": 16.901753
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 46.028095,
+      "longitude": 16.993844
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 46.03675,
+      "longitude": 16.849292
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 46.068969,
+      "longitude": 16.987519
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 46.070569,
+      "longitude": 16.970712
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 46.073137,
+      "longitude": 16.644599
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 46.075335,
+      "longitude": 16.947427
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 46.079583,
+      "longitude": 16.956897
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 46.079999,
+      "longitude": 16.952223
+    },
+    {
+      "name": "Raspelo 1883.",
+      "latitude": 45.673666,
+      "longitude": 17.250022
+    },
+    {
+      "name": "Raspelo 1905. god.",
+      "latitude": 45.800737,
+      "longitude": 16.958239
+    },
+    {
+      "name": "Raspelo 1931.",
+      "latitude": 45.950728,
+      "longitude": 16.722528
+    },
+    {
+      "name": "Raspelo 1933. godine",
+      "latitude": 45.908996,
+      "longitude": 16.613616
+    },
+    {
+      "name": "Raspelo Bazijančev put",
+      "latitude": 46.015946,
+      "longitude": 17.110495
+    },
+    {
+      "name": "Raspelo Bojana",
+      "latitude": 45.756946,
+      "longitude": 16.681457
+    },
+    {
+      "name": "Raspelo Brežanci",
+      "latitude": 46.074613,
+      "longitude": 16.943464
+    },
+    {
+      "name": "Raspelo Donja Kovačica",
+      "latitude": 45.754057,
+      "longitude": 16.997657
+    },
+    {
+      "name": "Raspelo Dravska",
+      "latitude": 46.195443,
+      "longitude": 17.058688
+    },
+    {
+      "name": "Raspelo Drljanovac",
+      "latitude": 45.800023,
+      "longitude": 16.993283
+    },
+    {
+      "name": "Raspelo Galovac",
+      "latitude": 45.843335,
+      "longitude": 16.855051
+    },
+    {
+      "name": "Raspelo Gola",
+      "latitude": 46.197799,
+      "longitude": 17.059039
+    },
+    {
+      "name": "Raspelo Gornji Mosti",
+      "latitude": 46.065664,
+      "longitude": 16.843518
+    },
+    {
+      "name": "Raspelo Grginac",
+      "latitude": 45.914792,
+      "longitude": 16.898494
+    },
+    {
+      "name": "Raspelo Gudovac",
+      "latitude": 45.881091,
+      "longitude": 16.785166
+    },
+    {
+      "name": "Raspelo Isusu V.Sredice",
+      "latitude": 45.878737,
+      "longitude": 16.814576
+    },
+    {
+      "name": "Raspelo iz 1908. god.",
+      "latitude": 45.934194,
+      "longitude": 16.65626
+    },
+    {
+      "name": "Raspelo iz 1908. godine",
+      "latitude": 45.961589,
+      "longitude": 16.81268
+    },
+    {
+      "name": "Raspelo iz 1931. godine",
+      "latitude": 45.594665,
+      "longitude": 17.223071
+    },
+    {
+      "name": "Raspelo Jasenička",
+      "latitude": 45.944395,
+      "longitude": 17.071665
+    },
+    {
+      "name": "Raspelo Kozarevac",
+      "latitude": 45.934135,
+      "longitude": 17.122394
+    },
+    {
+      "name": "Raspelo Krivaja Naseobina",
+      "latitude": 45.662205,
+      "longitude": 17.434251
+    },
+    {
+      "name": "Raspelo Miholjanec",
+      "latitude": 46.040702,
+      "longitude": 16.948965
+    },
+    {
+      "name": "Raspelo Nove Plavnice 1894.",
+      "latitude": 45.90376,
+      "longitude": 16.82037
+    },
+    {
+      "name": "Raspelo Novo Selo",
+      "latitude": 46.045953,
+      "longitude": 17.054785
+    },
+    {
+      "name": "Raspelo Orašje",
+      "latitude": 45.522052,
+      "longitude": 17.256266
+    },
+    {
+      "name": "Raspelo Peski",
+      "latitude": 46.043875,
+      "longitude": 17.077189
+    },
+    {
+      "name": "Raspelo Praška",
+      "latitude": 45.672,
+      "longitude": 17.259367
+    },
+    {
+      "name": "Raspelo Predavac",
+      "latitude": 45.935157,
+      "longitude": 16.780112
+    },
+    {
+      "name": "Raspelo Prespa",
+      "latitude": 45.864111,
+      "longitude": 16.919062
+    },
+    {
+      "name": "Raspelo Purićani",
+      "latitude": 45.92217,
+      "longitude": 16.894419
+    },
+    {
+      "name": "Raspelo Rovišće",
+      "latitude": 45.946476,
+      "longitude": 16.732436
+    },
+    {
+      "name": "Raspelo Sesvečka",
+      "latitude": 46.01543,
+      "longitude": 17.11987
+    },
+    {
+      "name": "Raspelo Severin",
+      "latitude": 45.835016,
+      "longitude": 16.958485
+    },
+    {
+      "name": "Raspelo Sredice Gornje",
+      "latitude": 46.038871,
+      "longitude": 16.827406
+    },
+    {
+      "name": "Raspelo Srednji Mosti",
+      "latitude": 46.059996,
+      "longitude": 16.85562
+    },
+    {
+      "name": "Raspelo Stara Diklenica",
+      "latitude": 45.968255,
+      "longitude": 16.861086
+    },
+    {
+      "name": "Raspelo Stari Skucani",
+      "latitude": 45.95564,
+      "longitude": 16.8345
+    },
+    {
+      "name": "Raspelo Suha Katalena",
+      "latitude": 45.949506,
+      "longitude": 17.095701
+    },
+    {
+      "name": "Raspelo Vagovina",
+      "latitude": 45.781485,
+      "longitude": 16.667249
+    },
+    {
+      "name": "Raspelo Vrazov trg",
+      "latitude": 45.896243,
+      "longitude": 16.839574
+    },
+    {
+      "name": "Raspelo Za Turnom",
+      "latitude": 46.022483,
+      "longitude": 17.051949
+    },
+    {
+      "name": "Raspelo Žabjak",
+      "latitude": 45.941249,
+      "longitude": 16.742894
+    },
+    {
+      "name": "Rimski zid",
+      "latitude": 45.452535,
+      "longitude": 14.425153
+    },
+    {
+      "name": "Ruševine NOB",
+      "latitude": 45.895844,
+      "longitude": 17.004333
+    },
+    {
+      "name": "Secesijski zdenac",
+      "latitude": 45.562129,
+      "longitude": 18.683967
+    },
+    {
+      "name": "Slavoluk Sergijevaca",
+      "latitude": 44.868271,
+      "longitude": 13.84702
+    },
+    {
+      "name": "Sokolska mogila",
+      "latitude": 45.823624,
+      "longitude": 16.015559
+    },
+    {
+      "name": "Spomen dom Šamarica",
+      "latitude": 45.200236,
+      "longitude": 16.282944
+    },
+    {
+      "name": "Spomen Grguru Karlovčanu",
+      "latitude": 46.041915,
+      "longitude": 17.066094
+    },
+    {
+      "name": "Spomen obilježje poginulim braniteljima",
+      "latitude": 46.309526,
+      "longitude": 16.321871
+    },
+    {
+      "name": "Spomen-područje Donja Gradina",
+      "latitude": 45.270216,
+      "longitude": 16.93067
+    },
+    {
+      "name": "Spomenik",
+      "latitude": 44.759521,
+      "longitude": 14.759493
+    },
+    {
+      "name": "spomenik",
+      "latitude": 45.511537,
+      "longitude": 15.812618
+    },
+    {
+      "name": "Spomenik",
+      "latitude": 46.04061,
+      "longitude": 17.063525
+    },
+    {
+      "name": "Spomenik  Rudaru Borcu",
+      "latitude": 45.095103,
+      "longitude": 14.12165
+    },
+    {
+      "name": "Spomenik 11 poginulih heroja na Barutani",
+      "latitude": 45.932313,
+      "longitude": 16.822369
+    },
+    {
+      "name": "Spomenik antifašističkim žrtvama",
+      "latitude": 43.51228,
+      "longitude": 16.44182
+    },
+    {
+      "name": "Spomenik antifašizmu",
+      "latitude": 45.492665,
+      "longitude": 15.552538
+    },
+    {
+      "name": "Spomenik Batinskoj bitci",
+      "latitude": 45.854677,
+      "longitude": 18.849239
+    },
+    {
+      "name": "Spomenik borcima NOR-a",
+      "latitude": 45.683284,
+      "longitude": 16.95448
+    },
+    {
+      "name": "Spomenik boricima NOB-a Cugovec",
+      "latitude": 45.912763,
+      "longitude": 16.514919
+    },
+    {
+      "name": "Spomenik braniteljima",
+      "latitude": 45.801969,
+      "longitude": 17.065996
+    },
+    {
+      "name": "Spomenik braniteljima Popovača",
+      "latitude": 45.56962,
+      "longitude": 16.625694
+    },
+    {
+      "name": "Spomenik braniteljima Sokolovac",
+      "latitude": 46.105603,
+      "longitude": 16.708138
+    },
+    {
+      "name": "Spomenik cesti Narta-Berek",
+      "latitude": 45.782486,
+      "longitude": 16.806284
+    },
+    {
+      "name": "Spomenik domovini",
+      "latitude": 45.800907,
+      "longitude": 15.978883
+    },
+    {
+      "name": "Spomenik Grubišnopoljskim braniteljima",
+      "latitude": 45.700201,
+      "longitude": 17.173284
+    },
+    {
+      "name": "Spomenik hrvatskim žrtvama Drugog svjetskog rata",
+      "latitude": 45.911519,
+      "longitude": 17.026479
+    },
+    {
+      "name": "Spomenik Jalkovečkim žrtvama",
+      "latitude": 46.301122,
+      "longitude": 16.327213
+    },
+    {
+      "name": "Spomenik Juditi",
+      "latitude": 45.806569,
+      "longitude": 15.970154
+    },
+    {
+      "name": "Spomenik logorašima 2. svjetskog rata",
+      "latitude": 45.801338,
+      "longitude": 17.036096
+    },
+    {
+      "name": "Spomenik Majke božje sa Isusom",
+      "latitude": 45.658055,
+      "longitude": 18.417594
+    },
+    {
+      "name": "Spomenik Mali Prokop",
+      "latitude": 45.617903,
+      "longitude": 16.834139
+    },
+    {
+      "name": "Spomenik Marija Jurić Zagorka",
+      "latitude": 45.884677,
+      "longitude": 16.417785
+    },
+    {
+      "name": "Spomenik Narodnooslobodilačkoj borbi",
+      "latitude": 45.570807,
+      "longitude": 16.627433
+    },
+    {
+      "name": "Spomenik Narodnooslobodilačkoj borbi",
+      "latitude": 45.611465,
+      "longitude": 16.850538
+    },
+    {
+      "name": "Spomenik neidentificiranim žrtvama željezničke nesreće 1974. Vojina Bakića",
+      "latitude": 45.834638,
+      "longitude": 15.988624
+    },
+    {
+      "name": "Spomenik NOB",
+      "latitude": 43.022846,
+      "longitude": 17.03161
+    },
+    {
+      "name": "Spomenik NOB",
+      "latitude": 45.75055,
+      "longitude": 18.732351
+    },
+    {
+      "name": "Spomenik NOB Sokolovac",
+      "latitude": 46.110832,
+      "longitude": 16.707686
+    },
+    {
+      "name": "Spomenik NOB-u",
+      "latitude": 44.673993,
+      "longitude": 15.848612
+    },
+    {
+      "name": "Spomenik osnivanja Saveza marvogojskih udruga Hrvatske i Slavonije",
+      "latitude": 45.94466,
+      "longitude": 16.603227
+    },
+    {
+      "name": "Spomenik palim borcima",
+      "latitude": 44.759754,
+      "longitude": 14.759702
+    },
+    {
+      "name": "Spomenik palim borcima i žrtvama fašističkog terora Dugo Selo",
+      "latitude": 45.806483,
+      "longitude": 16.230209
+    },
+    {
+      "name": "Spomenik palim borcima Kalinovac",
+      "latitude": 46.020812,
+      "longitude": 17.112843
+    },
+    {
+      "name": "Spomenik palim borcima NOB-a",
+      "latitude": 45.607916,
+      "longitude": 17.006193
+    },
+    {
+      "name": "Spomenik palim borcima NOB-a",
+      "latitude": 45.884286,
+      "longitude": 16.416853
+    },
+    {
+      "name": "Spomenik palim borcima NOR-a",
+      "latitude": 46.221848,
+      "longitude": 16.091318
+    },
+    {
+      "name": "Spomenik palim borcima NOVJ i žrtvama fašizma",
+      "latitude": 42.939573,
+      "longitude": 17.37601
+    },
+    {
+      "name": "Spomenik palim borcima NOVJ i žrtvama fašizma",
+      "latitude": 45.210229,
+      "longitude": 16.669328
+    },
+    {
+      "name": "Spomenik partizanskog odreda Matije Gupca",
+      "latitude": 45.186179,
+      "longitude": 14.763154
+    },
+    {
+      "name": "Spomenik pobjedi naroda Slavonije",
+      "latitude": 45.44614,
+      "longitude": 17.476864
+    },
+    {
+      "name": "Spomenik poginulim braniteljima u VRO Oluja",
+      "latitude": 44.667389,
+      "longitude": 15.568459
+    },
+    {
+      "name": "Spomenik poginulim hrvatskim braniteljima",
+      "latitude": 43.31951,
+      "longitude": 17.168487
+    },
+    {
+      "name": "Spomenik političkim zatvorenicima, interniranima i deportiranima",
+      "latitude": 43.513297,
+      "longitude": 16.443313
+    },
+    {
+      "name": "Spomenik posvećen tisućgodišnjici  hrvatskog kraljevstva",
+      "latitude": 45.67403,
+      "longitude": 17.107948
+    },
+    {
+      "name": "Spomenik Prvom sisačkom partizanskom odredu",
+      "latitude": 45.502695,
+      "longitude": 16.45833
+    },
+    {
+      "name": "Spomenik Prvom splitskom partizanskom odredu",
+      "latitude": 43.627812,
+      "longitude": 16.691716
+    },
+    {
+      "name": "Spomenik ranjenom borcu",
+      "latitude": 46.30544,
+      "longitude": 16.338697
+    },
+    {
+      "name": "Spomenik revolucije",
+      "latitude": 43.295975,
+      "longitude": 17.016293
+    },
+    {
+      "name": "Spomenik revolucije naroda Moslavine",
+      "latitude": 45.640814,
+      "longitude": 16.777746
+    },
+    {
+      "name": "Spomenik sinagoge",
+      "latitude": 45.480063,
+      "longitude": 16.777517
+    },
+    {
+      "name": "Spomenik streljanim HSS-ovcima",
+      "latitude": 45.073407,
+      "longitude": 18.68658
+    },
+    {
+      "name": "Spomenik ustanku naroda Banije i Korduna",
+      "latitude": 45.316224,
+      "longitude": 15.805004
+    },
+    {
+      "name": "Spomenik vojnicima",
+      "latitude": 43.534151,
+      "longitude": 16.49082
+    },
+    {
+      "name": "Spomenik žrtvama fašizma",
+      "latitude": 45.23942,
+      "longitude": 13.939963
+    },
+    {
+      "name": "Spomenik, Edo Murtic",
+      "latitude": 45.202593,
+      "longitude": 13.588814
+    },
+    {
+      "name": "Središnji križ",
+      "latitude": 45.884554,
+      "longitude": 16.63512
+    },
+    {
+      "name": "Star & TITO",
+      "latitude": 44.870949,
+      "longitude": 14.755578
+    },
+    {
+      "name": "Stara vrata",
+      "latitude": 45.327232,
+      "longitude": 14.443643
+    },
+    {
+      "name": "Stara škola Hodošan",
+      "latitude": 46.39234,
+      "longitude": 16.641376
+    },
+    {
+      "name": "Staro raspelo",
+      "latitude": 45.685697,
+      "longitude": 17.249241
+    },
+    {
+      "name": "Staro raspelo",
+      "latitude": 45.953454,
+      "longitude": 16.968156
+    },
+    {
+      "name": "Stjepan Pulišelic",
+      "latitude": 43.35548,
+      "longitude": 16.606077
+    },
+    {
+      "name": "Streljani Prvog splitskog partizanskog odreda",
+      "latitude": 43.698367,
+      "longitude": 16.625211
+    },
+    {
+      "name": "Sunčani sat",
+      "latitude": 45.277127,
+      "longitude": 13.720875
+    },
+    {
+      "name": "Sv.Mihovil",
+      "latitude": 43.619413,
+      "longitude": 16.722422
+    },
+    {
+      "name": "Sveti Mihovil",
+      "latitude": 45.140642,
+      "longitude": 13.702854
+    },
+    {
+      "name": "Tito",
+      "latitude": 45.074496,
+      "longitude": 14.017412
+    },
+    {
+      "name": "U sjećanje na 398 stradalih žrtava od 1939. do 1949. godine",
+      "latitude": 45.474266,
+      "longitude": 17.300043
+    },
+    {
+      "name": "Vatroslav Jagić",
+      "latitude": 46.307072,
+      "longitude": 16.339561
+    },
+    {
+      "name": "Vela Straža",
+      "latitude": 43.357758,
+      "longitude": 16.351931
+    },
+    {
+      "name": "Veliki zdenac",
+      "latitude": 45.738341,
+      "longitude": 16.418094
+    },
+    {
+      "name": "Vječna vatra",
+      "latitude": 45.327659,
+      "longitude": 19.039111
+    },
+    {
+      "name": "Vrata od krča",
+      "latitude": 45.609628,
+      "longitude": 16.240987
+    },
+    {
+      "name": "Vukovarski vodotoranj",
+      "latitude": 45.344009,
+      "longitude": 19.012269
+    },
+    {
+      "name": "World War II Memorial",
+      "latitude": 44.453023,
+      "longitude": 15.96944
+    },
+    {
+      "name": "Zavjetni spomenik Presvetom Trojstvu",
+      "latitude": 45.331062,
+      "longitude": 17.675979
+    },
+    {
+      "name": "Zeleni Hrast",
+      "latitude": 45.424058,
+      "longitude": 14.437516
+    },
+    {
+      "name": "Šterna",
+      "latitude": 45.284163,
+      "longitude": 14.60429
+    },
+    {
+      "name": "Žrtvama fašističkog terora",
+      "latitude": 45.468389,
+      "longitude": 14.30156
+    }
+  ],
+  "meta": {
+    "title": "Spomenici - Besplatno preuzimanje",
+    "description": "Spomenici u Hrvatskoj (240 zapisa) — točke interesa iz OpenStreetMapa (oznaka historic=monument), izrez EU-POIS/HR. Sadrži 240 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Spomenici | ListBase",
+    "seo_description": "Preuzmi Spomenici — 240 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 240 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

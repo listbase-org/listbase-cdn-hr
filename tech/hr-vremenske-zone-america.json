@@ -1,0 +1,464 @@
+{
+  "id": "hr-vremenske-zone-america",
+  "name": "Vremenske zone — America (51)",
+  "title": "Vremenske zone — America (51)",
+  "description": "Vremenske zone čiji IANA identifikator počinje s 'America/', s hrvatskim nazivima.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regija",
+      "label": "Regija",
+      "type": "string"
+    },
+    {
+      "key": "grad",
+      "label": "Grad",
+      "type": "string"
+    },
+    {
+      "key": "standardno_ime",
+      "label": "Standardno Ime",
+      "type": "string"
+    },
+    {
+      "key": "ljetno_ime",
+      "label": "Ljetno Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "America/Anguilla",
+      "regija": "America",
+      "grad": "Angvila",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "America/Araguaina",
+      "regija": "America",
+      "grad": "Araguaína",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "regija": "America",
+      "grad": "Río Gallegos",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "America/Argentina/Tucuman",
+      "regija": "America",
+      "grad": "Tucumán",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "America/Asuncion",
+      "regija": "America",
+      "grad": "Asunción",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "America/Bahia_Banderas",
+      "regija": "America",
+      "grad": "Bahia Banderas",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "America/Belem",
+      "regija": "America",
+      "grad": "Belém",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "America/Bogota",
+      "regija": "America",
+      "grad": "Bogotá",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "America/Cancun",
+      "regija": "America",
+      "grad": "Cancun",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Ciudad_Juarez",
+      "regija": "America",
+      "grad": "Ciudad Juárez",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Coral_Harbour",
+      "regija": "America",
+      "grad": "Atikokan",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Cordoba",
+      "regija": "America",
+      "grad": "Córdoba",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Costa_Rica",
+      "regija": "America",
+      "grad": "Kostarika",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Cuiaba",
+      "regija": "America",
+      "grad": "Cuiabá",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Curacao",
+      "regija": "America",
+      "grad": "Curaçao",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Dominica",
+      "regija": "America",
+      "grad": "Dominika",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Eirunepe",
+      "regija": "America",
+      "grad": "Eirunepé",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/El_Salvador",
+      "regija": "America",
+      "grad": "Salvador",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Godthab",
+      "regija": "America",
+      "grad": "Nuuk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Guadeloupe",
+      "regija": "America",
+      "grad": "Guadalupe",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Guatemala",
+      "regija": "America",
+      "grad": "Gvatemala",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Guyana",
+      "regija": "America",
+      "grad": "Gvajana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Indiana/Knox",
+      "regija": "America",
+      "grad": "Knox, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Indiana/Marengo",
+      "regija": "America",
+      "grad": "Marengo, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Indiana/Petersburg",
+      "regija": "America",
+      "grad": "Petersburg, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Indiana/Tell_City",
+      "regija": "America",
+      "grad": "Tell City, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Indiana/Vevay",
+      "regija": "America",
+      "grad": "Vevay, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Indiana/Vincennes",
+      "regija": "America",
+      "grad": "Vincennes, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Indiana/Winamac",
+      "regija": "America",
+      "grad": "Winamac, Indiana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Jamaica",
+      "regija": "America",
+      "grad": "Jamajka",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Kentucky/Monticello",
+      "regija": "America",
+      "grad": "Monticello, Kentucky",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Lower_Princes",
+      "regija": "America",
+      "grad": "Lower Prince’s Quarter",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Maceio",
+      "regija": "America",
+      "grad": "Maceió",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Mazatlan",
+      "regija": "America",
+      "grad": "Mazatlán",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Merida",
+      "regija": "America",
+      "grad": "Merida",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Mexico_City",
+      "regija": "America",
+      "grad": "Ciudad de México",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Miquelon",
+      "regija": "America",
+      "grad": "Saint-Pierre",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Noronha",
+      "regija": "America",
+      "grad": "Fernando de Noronha",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/North_Dakota/Beulah",
+      "regija": "America",
+      "grad": "Beulah, Sjeverna Dakota",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/North_Dakota/Center",
+      "regija": "America",
+      "grad": "Center, Sjeverna Dakota",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "regija": "America",
+      "grad": "New Salem, Sjeverna Dakota",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/Puerto_Rico",
+      "regija": "America",
+      "grad": "Portoriko",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/Santarem",
+      "regija": "America",
+      "grad": "Santarém",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/Sao_Paulo",
+      "regija": "America",
+      "grad": "São Paulo",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/Scoresbysund",
+      "regija": "America",
+      "grad": "Ittoqqortoormiit",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/St_Barthelemy",
+      "regija": "America",
+      "grad": "Saint Barthélemy",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/St_Johns",
+      "regija": "America",
+      "grad": "St. John’s",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/St_Kitts",
+      "regija": "America",
+      "grad": "St. Kitts",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/St_Lucia",
+      "regija": "America",
+      "grad": "St. Lucia",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/St_Thomas",
+      "regija": "America",
+      "grad": "St. Thomas",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/St_Vincent",
+      "regija": "America",
+      "grad": "St. Vincent",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    }
+  ],
+  "meta": {
+    "title": "Vremenske zone — America (51) - Besplatno preuzimanje",
+    "description": "Vremenske zone čiji IANA identifikator počinje s 'America/', s hrvatskim nazivima. Sadrži 51 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vremenske zone — America (51) | ListBase",
+    "seo_description": "Preuzmi Vremenske zone — America (51) — 51 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 51 zapisa / 6 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

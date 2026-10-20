@@ -1,0 +1,1481 @@
+{
+  "id": "hr-vidikovci",
+  "name": "Vidikovci",
+  "title": "Vidikovci",
+  "description": "Vidikovci u Hrvatskoj (288 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=viewpoint), izrez EU-POIS/HR.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 288,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Stargate\"",
+      "latitude": 45.470655,
+      "longitude": 13.98873
+    },
+    {
+      "name": "3. zub",
+      "latitude": 46.132716,
+      "longitude": 16.460675
+    },
+    {
+      "name": "4. zub",
+      "latitude": 46.132513,
+      "longitude": 16.460036
+    },
+    {
+      "name": "45° Paralela",
+      "latitude": 44.999639,
+      "longitude": 14.404136
+    },
+    {
+      "name": "5. zub",
+      "latitude": 46.132553,
+      "longitude": 16.459501
+    },
+    {
+      "name": "6. zub",
+      "latitude": 46.131965,
+      "longitude": 16.457456
+    },
+    {
+      "name": "Amazing view on Nugal Beach",
+      "latitude": 43.278929,
+      "longitude": 17.03503
+    },
+    {
+      "name": "Angel",
+      "latitude": 45.15146,
+      "longitude": 13.606067
+    },
+    {
+      "name": "Anića Kuk",
+      "latitude": 44.306889,
+      "longitude": 15.482435
+    },
+    {
+      "name": "Balkon",
+      "latitude": 46.207319,
+      "longitude": 16.279828
+    },
+    {
+      "name": "Bathtub viewpoint",
+      "latitude": 44.078361,
+      "longitude": 15.180312
+    },
+    {
+      "name": "Beach",
+      "latitude": 42.594625,
+      "longitude": 18.225824
+    },
+    {
+      "name": "Bell tower",
+      "latitude": 43.517103,
+      "longitude": 16.251258
+    },
+    {
+      "name": "Belveder",
+      "latitude": 44.701374,
+      "longitude": 14.895403
+    },
+    {
+      "name": "Belvedere",
+      "latitude": 44.874575,
+      "longitude": 15.60503
+    },
+    {
+      "name": "Belvedere Križ",
+      "latitude": 45.334442,
+      "longitude": 13.762485
+    },
+    {
+      "name": "Belvedere Oprtalj",
+      "latitude": 45.38105,
+      "longitude": 13.823296
+    },
+    {
+      "name": "Bijela peć",
+      "latitude": 46.167504,
+      "longitude": 16.040682
+    },
+    {
+      "name": "Bila glavica",
+      "latitude": 43.624287,
+      "longitude": 16.717651
+    },
+    {
+      "name": "Bile Travine",
+      "latitude": 43.126752,
+      "longitude": 17.159619
+    },
+    {
+      "name": "Brinje na dlanu",
+      "latitude": 45.009639,
+      "longitude": 15.144912
+    },
+    {
+      "name": "Bukovo",
+      "latitude": 45.159021,
+      "longitude": 14.191648
+    },
+    {
+      "name": "canyon",
+      "latitude": 43.834321,
+      "longitude": 16.041376
+    },
+    {
+      "name": "Carpe diem",
+      "latitude": 44.894963,
+      "longitude": 14.385994
+    },
+    {
+      "name": "Centurijacija",
+      "latitude": 43.508589,
+      "longitude": 16.477932
+    },
+    {
+      "name": "Cliff Diving",
+      "latitude": 44.835957,
+      "longitude": 13.827307
+    },
+    {
+      "name": "Colentum",
+      "latitude": 43.833706,
+      "longitude": 15.595577
+    },
+    {
+      "name": "Coral Beach",
+      "latitude": 42.663784,
+      "longitude": 18.062356
+    },
+    {
+      "name": "Coral beach",
+      "latitude": 44.900941,
+      "longitude": 13.789137
+    },
+    {
+      "name": "Dedek i Babica",
+      "latitude": 46.1796,
+      "longitude": 15.907872
+    },
+    {
+      "name": "Deja Duba Raba",
+      "latitude": 42.976739,
+      "longitude": 17.49184
+    },
+    {
+      "name": "Donji vidikovac",
+      "latitude": 45.31358,
+      "longitude": 14.197453
+    },
+    {
+      "name": "Dračevica",
+      "latitude": 43.900598,
+      "longitude": 15.965181
+    },
+    {
+      "name": "Dražićin kamen",
+      "latitude": 45.764245,
+      "longitude": 15.654043
+    },
+    {
+      "name": "End of Via Ferrata",
+      "latitude": 43.145522,
+      "longitude": 16.588984
+    },
+    {
+      "name": "Ercegova Gradina",
+      "latitude": 43.332373,
+      "longitude": 17.0189
+    },
+    {
+      "name": "Ferrata Bridge",
+      "latitude": 43.144139,
+      "longitude": 16.588604
+    },
+    {
+      "name": "Filićev dom",
+      "latitude": 46.268729,
+      "longitude": 15.987518
+    },
+    {
+      "name": "Firesquad survey point",
+      "latitude": 43.296354,
+      "longitude": 16.801839
+    },
+    {
+      "name": "Fort Royal",
+      "latitude": 42.630122,
+      "longitude": 18.116196
+    },
+    {
+      "name": "Gavranov greben",
+      "latitude": 45.318475,
+      "longitude": 14.192515
+    },
+    {
+      "name": "Gavranova stijena",
+      "latitude": 45.193808,
+      "longitude": 14.689089
+    },
+    {
+      "name": "Generalski stol",
+      "latitude": 46.196732,
+      "longitude": 16.053919
+    },
+    {
+      "name": "Giromettina vidilica",
+      "latitude": 43.524942,
+      "longitude": 16.618289
+    },
+    {
+      "name": "Glažareva pećina",
+      "latitude": 46.262397,
+      "longitude": 16.01586
+    },
+    {
+      "name": "Gojmera",
+      "latitude": 43.127794,
+      "longitude": 17.163317
+    },
+    {
+      "name": "Gominjak",
+      "latitude": 44.110867,
+      "longitude": 15.127918
+    },
+    {
+      "name": "Gora",
+      "latitude": 44.079096,
+      "longitude": 15.155286
+    },
+    {
+      "name": "Gora",
+      "latitude": 45.389453,
+      "longitude": 14.152292
+    },
+    {
+      "name": "Gornji vidikovac",
+      "latitude": 45.315542,
+      "longitude": 14.195294
+    },
+    {
+      "name": "Gospina Kapelica",
+      "latitude": 43.416246,
+      "longitude": 16.791336
+    },
+    {
+      "name": "Gradina Ključ",
+      "latitude": 45.254421,
+      "longitude": 15.42002
+    },
+    {
+      "name": "Gračina",
+      "latitude": 43.79815,
+      "longitude": 15.668064
+    },
+    {
+      "name": "Grbac",
+      "latitude": 45.157437,
+      "longitude": 14.177534
+    },
+    {
+      "name": "Great sunset view",
+      "latitude": 43.173099,
+      "longitude": 16.426706
+    },
+    {
+      "name": "Grleš",
+      "latitude": 45.454442,
+      "longitude": 14.511411
+    },
+    {
+      "name": "Gučnica",
+      "latitude": 43.720721,
+      "longitude": 16.68623
+    },
+    {
+      "name": "Góra Kline",
+      "latitude": 43.227472,
+      "longitude": 17.115026
+    },
+    {
+      "name": "Ilovnjak",
+      "latitude": 45.446559,
+      "longitude": 14.520149
+    },
+    {
+      "name": "IPP KT6 Greben",
+      "latitude": 45.39676,
+      "longitude": 13.896883
+    },
+    {
+      "name": "Izletište Tonimir",
+      "latitude": 46.219776,
+      "longitude": 16.416826
+    },
+    {
+      "name": "Izvor Cetine",
+      "latitude": 43.976711,
+      "longitude": 16.429373
+    },
+    {
+      "name": "izvor Sljunjčice",
+      "latitude": 45.079085,
+      "longitude": 15.587529
+    },
+    {
+      "name": "Jakovljev vrh",
+      "latitude": 43.89997,
+      "longitude": 15.427704
+    },
+    {
+      "name": "Južna terasa",
+      "latitude": 45.474876,
+      "longitude": 17.628697
+    },
+    {
+      "name": "Kamenica (Alpe)",
+      "latitude": 45.266046,
+      "longitude": 13.845484
+    },
+    {
+      "name": "Kavran Bucht",
+      "latitude": 44.899001,
+      "longitude": 14.007325
+    },
+    {
+      "name": "Kavranca",
+      "latitude": 45.504969,
+      "longitude": 14.921974
+    },
+    {
+      "name": "Kavranova stena",
+      "latitude": 45.195167,
+      "longitude": 14.695202
+    },
+    {
+      "name": "Kavranova Stijena",
+      "latitude": 45.428536,
+      "longitude": 14.910536
+    },
+    {
+      "name": "Kašjuni Beach Viewpoint",
+      "latitude": 43.505977,
+      "longitude": 16.401402
+    },
+    {
+      "name": "Kaštelanska vidilica",
+      "latitude": 43.510689,
+      "longitude": 16.42145
+    },
+    {
+      "name": "Kissing point",
+      "latitude": 42.962927,
+      "longitude": 16.703426
+    },
+    {
+      "name": "Klif",
+      "latitude": 43.330622,
+      "longitude": 16.491295
+    },
+    {
+      "name": "Klikun",
+      "latitude": 45.281537,
+      "longitude": 17.716374
+    },
+    {
+      "name": "Ključica vidikovac",
+      "latitude": 43.830483,
+      "longitude": 16.025134
+    },
+    {
+      "name": "Kneja",
+      "latitude": 45.250468,
+      "longitude": 15.174881
+    },
+    {
+      "name": "Kostelj",
+      "latitude": 43.916555,
+      "longitude": 15.500088
+    },
+    {
+      "name": "Kraljevo Brdo",
+      "latitude": 45.529075,
+      "longitude": 19.008854
+    },
+    {
+      "name": "Kremenik",
+      "latitude": 43.159714,
+      "longitude": 17.245378
+    },
+    {
+      "name": "Križ",
+      "latitude": 44.546497,
+      "longitude": 15.158031
+    },
+    {
+      "name": "Križić",
+      "latitude": 45.059461,
+      "longitude": 14.363219
+    },
+    {
+      "name": "Križni kamen",
+      "latitude": 46.120559,
+      "longitude": 16.402207
+    },
+    {
+      "name": "Kruševac Peak",
+      "latitude": 43.924027,
+      "longitude": 15.165012
+    },
+    {
+      "name": "Kudin Most",
+      "latitude": 44.187985,
+      "longitude": 15.845809
+    },
+    {
+      "name": "KUK",
+      "latitude": 45.129788,
+      "longitude": 14.174473
+    },
+    {
+      "name": "Kukovača",
+      "latitude": 45.195709,
+      "longitude": 14.812275
+    },
+    {
+      "name": "Kučac",
+      "latitude": 43.347619,
+      "longitude": 16.618503
+    },
+    {
+      "name": "Lili Josko imanje",
+      "latitude": 42.913748,
+      "longitude": 16.816644
+    },
+    {
+      "name": "Ljubimer",
+      "latitude": 44.950408,
+      "longitude": 14.750585
+    },
+    {
+      "name": "Lončeva Griža",
+      "latitude": 45.381325,
+      "longitude": 14.420232
+    },
+    {
+      "name": "Mahavica",
+      "latitude": 45.241531,
+      "longitude": 14.674722
+    },
+    {
+      "name": "Majkovac",
+      "latitude": 45.355493,
+      "longitude": 14.270951
+    },
+    {
+      "name": "Makarska Riviera",
+      "latitude": 43.082042,
+      "longitude": 17.366192
+    },
+    {
+      "name": "Makarska Riviera",
+      "latitude": 43.084377,
+      "longitude": 17.359219
+    },
+    {
+      "name": "Mala Fortica",
+      "latitude": 45.343366,
+      "longitude": 14.305032
+    },
+    {
+      "name": "Mali Bak",
+      "latitude": 43.947017,
+      "longitude": 15.577373
+    },
+    {
+      "name": "Mali vidikovac",
+      "latitude": 45.318383,
+      "longitude": 14.196153
+    },
+    {
+      "name": "Mandlova Ploča",
+      "latitude": 43.367296,
+      "longitude": 16.973168
+    },
+    {
+      "name": "Medveja stena",
+      "latitude": 45.498036,
+      "longitude": 14.921621
+    },
+    {
+      "name": "Mirabella fort",
+      "latitude": 43.444886,
+      "longitude": 16.693464
+    },
+    {
+      "name": "Mlični vrh",
+      "latitude": 45.396876,
+      "longitude": 14.583454
+    },
+    {
+      "name": "Monte Baston",
+      "latitude": 44.54096,
+      "longitude": 14.45017
+    },
+    {
+      "name": "Nigrignano",
+      "latitude": 45.34194,
+      "longitude": 13.6857
+    },
+    {
+      "name": "Oaza Jelinjak",
+      "latitude": 43.624001,
+      "longitude": 15.962784
+    },
+    {
+      "name": "Obelisk",
+      "latitude": 46.134643,
+      "longitude": 16.475094
+    },
+    {
+      "name": "Odmorište Marune",
+      "latitude": 44.249488,
+      "longitude": 15.637035
+    },
+    {
+      "name": "Old military tower",
+      "latitude": 44.344168,
+      "longitude": 14.59044
+    },
+    {
+      "name": "Old Town and Lokrum Viewpoint",
+      "latitude": 42.644713,
+      "longitude": 18.108116
+    },
+    {
+      "name": "Opuzena glava",
+      "latitude": 43.163672,
+      "longitude": 16.449245
+    },
+    {
+      "name": "Osmatračnica",
+      "latitude": 43.28832,
+      "longitude": 16.648141
+    },
+    {
+      "name": "Oštrc",
+      "latitude": 45.76141,
+      "longitude": 15.649711
+    },
+    {
+      "name": "Oštrica",
+      "latitude": 43.639758,
+      "longitude": 15.943594
+    },
+    {
+      "name": "Panjevina",
+      "latitude": 45.916524,
+      "longitude": 15.921063
+    },
+    {
+      "name": "Panorama Motovun",
+      "latitude": 45.323592,
+      "longitude": 13.82716
+    },
+    {
+      "name": "Panorama Torneg",
+      "latitude": 45.00779,
+      "longitude": 14.148056
+    },
+    {
+      "name": "Panoramic benches - Solin & Split View",
+      "latitude": 43.558548,
+      "longitude": 16.521899
+    },
+    {
+      "name": "Panoramic sea view",
+      "latitude": 43.499338,
+      "longitude": 16.521164
+    },
+    {
+      "name": "Panoramic view: Solin & Split & Valley",
+      "latitude": 43.559585,
+      "longitude": 16.476565
+    },
+    {
+      "name": "Parentium Sunset",
+      "latitude": 45.205365,
+      "longitude": 13.58684
+    },
+    {
+      "name": "Pazin cave",
+      "latitude": 45.239343,
+      "longitude": 13.929363
+    },
+    {
+      "name": "Pazinski krov",
+      "latitude": 45.243519,
+      "longitude": 13.93522
+    },
+    {
+      "name": "Peak, difficult to climb",
+      "latitude": 43.922412,
+      "longitude": 15.154092
+    },
+    {
+      "name": "Peovo",
+      "latitude": 43.447296,
+      "longitude": 16.738558
+    },
+    {
+      "name": "Pesji skok",
+      "latitude": 46.055934,
+      "longitude": 15.726294
+    },
+    {
+      "name": "Piramida",
+      "latitude": 43.558866,
+      "longitude": 16.45604
+    },
+    {
+      "name": "Pješačka staza/vidikovac Čikola",
+      "latitude": 43.839915,
+      "longitude": 16.046228
+    },
+    {
+      "name": "Planinarski dom Putalj",
+      "latitude": 43.56763,
+      "longitude": 16.42442
+    },
+    {
+      "name": "Playa",
+      "latitude": 43.917945,
+      "longitude": 15.152004
+    },
+    {
+      "name": "Plašćenica",
+      "latitude": 45.280042,
+      "longitude": 14.209596
+    },
+    {
+      "name": "Podrevec",
+      "latitude": 46.13353,
+      "longitude": 16.495174
+    },
+    {
+      "name": "Pogled na Krbavsko polje",
+      "latitude": 44.533322,
+      "longitude": 15.763907
+    },
+    {
+      "name": "Pogled na Krbavsko polje",
+      "latitude": 44.534526,
+      "longitude": 15.7657
+    },
+    {
+      "name": "Pogled na Pazinsku jamu",
+      "latitude": 45.239876,
+      "longitude": 13.930711
+    },
+    {
+      "name": "Pogled na Pazinsku jamu",
+      "latitude": 45.240343,
+      "longitude": 13.930141
+    },
+    {
+      "name": "Pogled na Pazinsku jamu",
+      "latitude": 45.240894,
+      "longitude": 13.927593
+    },
+    {
+      "name": "Pogled na Pazinsku jamu",
+      "latitude": 45.241081,
+      "longitude": 13.928781
+    },
+    {
+      "name": "Pogled na Pazinsku jamu",
+      "latitude": 45.241372,
+      "longitude": 13.927128
+    },
+    {
+      "name": "Pogled na Tinjansku Dragu",
+      "latitude": 45.227701,
+      "longitude": 13.840832
+    },
+    {
+      "name": "Pogled na Zeleno jezero",
+      "latitude": 43.499402,
+      "longitude": 17.115161
+    },
+    {
+      "name": "Pogled prema Dragi",
+      "latitude": 45.226418,
+      "longitude": 13.856324
+    },
+    {
+      "name": "Pogled prema Dragi i Tinjanu",
+      "latitude": 45.214573,
+      "longitude": 13.853353
+    },
+    {
+      "name": "Pogled prema jezeru Butoniga",
+      "latitude": 45.274295,
+      "longitude": 13.929336
+    },
+    {
+      "name": "Pogled prema jezeru Butoniga",
+      "latitude": 45.278657,
+      "longitude": 13.951486
+    },
+    {
+      "name": "Pogled prema Pazinu",
+      "latitude": 45.256426,
+      "longitude": 13.943669
+    },
+    {
+      "name": "Pogled prema Pazinu",
+      "latitude": 45.257501,
+      "longitude": 13.967192
+    },
+    {
+      "name": "Pogled prema Pazinu",
+      "latitude": 45.262046,
+      "longitude": 13.940426
+    },
+    {
+      "name": "Pogled prema Podbermu",
+      "latitude": 45.252836,
+      "longitude": 13.897501
+    },
+    {
+      "name": "Pokojišće",
+      "latitude": 45.183779,
+      "longitude": 14.744403
+    },
+    {
+      "name": "položaj Lastva",
+      "latitude": 42.841439,
+      "longitude": 17.697256
+    },
+    {
+      "name": "Portoruša Strand",
+      "latitude": 43.084067,
+      "longitude": 16.714185
+    },
+    {
+      "name": "Počivalice",
+      "latitude": 44.649315,
+      "longitude": 14.37657
+    },
+    {
+      "name": "Prdežina",
+      "latitude": 44.336846,
+      "longitude": 15.469188
+    },
+    {
+      "name": "Prema Učki",
+      "latitude": 45.29573,
+      "longitude": 14.236303
+    },
+    {
+      "name": "Pridva",
+      "latitude": 45.227898,
+      "longitude": 14.702763
+    },
+    {
+      "name": "Promatracnica “Roda”",
+      "latitude": 45.427049,
+      "longitude": 16.639779
+    },
+    {
+      "name": "Providenca",
+      "latitude": 44.522351,
+      "longitude": 14.481752
+    },
+    {
+      "name": "Prva vidilica",
+      "latitude": 43.507706,
+      "longitude": 16.430328
+    },
+    {
+      "name": "Raduč",
+      "latitude": 43.812144,
+      "longitude": 15.587041
+    },
+    {
+      "name": "Rastoke",
+      "latitude": 45.121028,
+      "longitude": 15.584399
+    },
+    {
+      "name": "Ravna vlaška",
+      "latitude": 43.285419,
+      "longitude": 17.084783
+    },
+    {
+      "name": "Razgled",
+      "latitude": 45.494508,
+      "longitude": 14.043575
+    },
+    {
+      "name": "Razgledna piramida",
+      "latitude": 45.38666,
+      "longitude": 14.951727
+    },
+    {
+      "name": "Risnjak",
+      "latitude": 45.361746,
+      "longitude": 14.266806
+    },
+    {
+      "name": "Ričičko Bilo",
+      "latitude": 45.163047,
+      "longitude": 14.90757
+    },
+    {
+      "name": "Rogovo",
+      "latitude": 43.878699,
+      "longitude": 15.974347
+    },
+    {
+      "name": "Roški slap",
+      "latitude": 43.912044,
+      "longitude": 15.954838
+    },
+    {
+      "name": "Rt Postina",
+      "latitude": 43.17682,
+      "longitude": 16.422317
+    },
+    {
+      "name": "Sablićevo",
+      "latitude": 45.318005,
+      "longitude": 14.466184
+    },
+    {
+      "name": "Sea view",
+      "latitude": 45.122037,
+      "longitude": 14.204218
+    },
+    {
+      "name": "Sea view",
+      "latitude": 45.182265,
+      "longitude": 14.240632
+    },
+    {
+      "name": "Sea view",
+      "latitude": 45.199412,
+      "longitude": 14.232899
+    },
+    {
+      "name": "Secret Beach",
+      "latitude": 45.129232,
+      "longitude": 13.651671
+    },
+    {
+      "name": "Sljeme",
+      "latitude": 45.460706,
+      "longitude": 14.505854
+    },
+    {
+      "name": "Slunj Fortress",
+      "latitude": 45.118238,
+      "longitude": 15.586195
+    },
+    {
+      "name": "Slunjčica",
+      "latitude": 45.117474,
+      "longitude": 15.587787
+    },
+    {
+      "name": "Sopalj",
+      "latitude": 45.211791,
+      "longitude": 14.672764
+    },
+    {
+      "name": "Spinutska vidilica",
+      "latitude": 43.509607,
+      "longitude": 16.425338
+    },
+    {
+      "name": "Stakleni vidikovac",
+      "latitude": 45.565835,
+      "longitude": 18.669941
+    },
+    {
+      "name": "Stari grad Dubovac",
+      "latitude": 45.494802,
+      "longitude": 15.528629
+    },
+    {
+      "name": "Stražbenica",
+      "latitude": 43.963789,
+      "longitude": 15.686286
+    },
+    {
+      "name": "Stražica",
+      "latitude": 44.145885,
+      "longitude": 15.077104
+    },
+    {
+      "name": "Strilež",
+      "latitude": 45.244619,
+      "longitude": 14.816568
+    },
+    {
+      "name": "Stričevo",
+      "latitude": 46.182614,
+      "longitude": 16.126492
+    },
+    {
+      "name": "Strmica",
+      "latitude": 42.767911,
+      "longitude": 17.452992
+    },
+    {
+      "name": "Suhi Vrh",
+      "latitude": 45.277841,
+      "longitude": 14.210554
+    },
+    {
+      "name": "sunset view",
+      "latitude": 42.650169,
+      "longitude": 18.071047
+    },
+    {
+      "name": "sunset view",
+      "latitude": 42.66359,
+      "longitude": 18.06071
+    },
+    {
+      "name": "Sunset view",
+      "latitude": 44.811762,
+      "longitude": 14.971465
+    },
+    {
+      "name": "sv. Tomáš",
+      "latitude": 43.269517,
+      "longitude": 17.07119
+    },
+    {
+      "name": "Sveti Juraj vrh brda",
+      "latitude": 45.377281,
+      "longitude": 13.759187
+    },
+    {
+      "name": "Sveti Nikola",
+      "latitude": 43.295935,
+      "longitude": 16.863049
+    },
+    {
+      "name": "Sveti Rok",
+      "latitude": 43.17547,
+      "longitude": 16.52692
+    },
+    {
+      "name": "Svetog Nikole",
+      "latitude": 43.755281,
+      "longitude": 15.742053
+    },
+    {
+      "name": "Talijanka",
+      "latitude": 44.197452,
+      "longitude": 15.684585
+    },
+    {
+      "name": "Televrina",
+      "latitude": 44.671526,
+      "longitude": 14.361772
+    },
+    {
+      "name": "Tomićevo pogledalo",
+      "latitude": 44.873715,
+      "longitude": 15.596755
+    },
+    {
+      "name": "Toreta",
+      "latitude": 44.375121,
+      "longitude": 14.695102
+    },
+    {
+      "name": "Treska",
+      "latitude": 45.406084,
+      "longitude": 14.570925
+    },
+    {
+      "name": "Tri Žaklji",
+      "latitude": 46.289859,
+      "longitude": 16.032296
+    },
+    {
+      "name": "Turnac",
+      "latitude": 45.230821,
+      "longitude": 14.693295
+    },
+    {
+      "name": "Tvrđava Napoleon",
+      "latitude": 43.177429,
+      "longitude": 16.448564
+    },
+    {
+      "name": "Vela Pliš",
+      "latitude": 45.387704,
+      "longitude": 14.591431
+    },
+    {
+      "name": "Vele steni",
+      "latitude": 45.211771,
+      "longitude": 14.552609
+    },
+    {
+      "name": "Veli Kamik",
+      "latitude": 43.134659,
+      "longitude": 16.584612
+    },
+    {
+      "name": "Veli slap",
+      "latitude": 45.291275,
+      "longitude": 13.962189
+    },
+    {
+      "name": "Velika vidilica",
+      "latitude": 43.508624,
+      "longitude": 16.418781
+    },
+    {
+      "name": "Veprinac",
+      "latitude": 45.337575,
+      "longitude": 14.278954
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 42.994187,
+      "longitude": 17.162382
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 43.512309,
+      "longitude": 17.122503
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 43.892979,
+      "longitude": 15.536576
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.110271,
+      "longitude": 14.355636
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.197122,
+      "longitude": 14.782457
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.266598,
+      "longitude": 13.919431
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.337344,
+      "longitude": 14.234235
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.356181,
+      "longitude": 14.285758
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.38091,
+      "longitude": 14.819607
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.41943,
+      "longitude": 14.921521
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.472273,
+      "longitude": 16.371706
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.69591,
+      "longitude": 17.702689
+    },
+    {
+      "name": "Vidikovac",
+      "latitude": 45.791729,
+      "longitude": 17.327967
+    },
+    {
+      "name": "Vidikovac \"Sova\"",
+      "latitude": 46.170564,
+      "longitude": 16.143296
+    },
+    {
+      "name": "Vidikovac - Odašiljač",
+      "latitude": 46.13109,
+      "longitude": 16.456737
+    },
+    {
+      "name": "Vidikovac Božavski vrh",
+      "latitude": 44.130637,
+      "longitude": 14.896044
+    },
+    {
+      "name": "Vidikovac Casanova",
+      "latitude": 45.150576,
+      "longitude": 13.605206
+    },
+    {
+      "name": "vidikovac Celine",
+      "latitude": 45.917104,
+      "longitude": 15.73849
+    },
+    {
+      "name": "Vidikovac Franje Ferdinanda",
+      "latitude": 45.203246,
+      "longitude": 14.039953
+    },
+    {
+      "name": "Vidikovac Glažareva pećina",
+      "latitude": 46.262431,
+      "longitude": 16.015788
+    },
+    {
+      "name": "vidikovac gradina",
+      "latitude": 45.131042,
+      "longitude": 14.832049
+    },
+    {
+      "name": "Vidikovac Grafičar",
+      "latitude": 45.887418,
+      "longitude": 15.933016
+    },
+    {
+      "name": "Vidikovac hrvatskih branitelja",
+      "latitude": 45.35824,
+      "longitude": 14.760095
+    },
+    {
+      "name": "Vidikovac Jelensko",
+      "latitude": 45.076695,
+      "longitude": 14.019064
+    },
+    {
+      "name": "Vidikovac Krnjeza",
+      "latitude": 44.203342,
+      "longitude": 15.853919
+    },
+    {
+      "name": "Vidikovac Kuzmanici",
+      "latitude": 43.408117,
+      "longitude": 16.877112
+    },
+    {
+      "name": "vidikovac Liskovac",
+      "latitude": 44.935923,
+      "longitude": 14.973395
+    },
+    {
+      "name": "Vidikovac Lokvarsko Jezero",
+      "latitude": 45.357296,
+      "longitude": 14.721155
+    },
+    {
+      "name": "Vidikovac na stazi  Lupogliano – Mahrenfels",
+      "latitude": 45.360573,
+      "longitude": 14.119684
+    },
+    {
+      "name": "Vidikovac Paragliding take off",
+      "latitude": 46.185364,
+      "longitude": 15.896064
+    },
+    {
+      "name": "Vidikovac Pariževačka glavica",
+      "latitude": 44.222556,
+      "longitude": 15.613637
+    },
+    {
+      "name": "Vidikovac Pazinski ponor",
+      "latitude": 45.238721,
+      "longitude": 13.928515
+    },
+    {
+      "name": "Vidikovac Perić",
+      "latitude": 45.422544,
+      "longitude": 14.90878
+    },
+    {
+      "name": "Vidikovac Petuova",
+      "latitude": 44.981583,
+      "longitude": 14.984855
+    },
+    {
+      "name": "Vidikovac Podmarače",
+      "latitude": 43.179626,
+      "longitude": 17.169913
+    },
+    {
+      "name": "Vidikovac pogled prema gradu",
+      "latitude": 45.238723,
+      "longitude": 13.927352
+    },
+    {
+      "name": "Vidikovac prema Lupoglavu",
+      "latitude": 45.359308,
+      "longitude": 14.112421
+    },
+    {
+      "name": "Vidikovac prema Pazinu",
+      "latitude": 45.253989,
+      "longitude": 13.916107
+    },
+    {
+      "name": "Vidikovac prema Roču",
+      "latitude": 45.396688,
+      "longitude": 14.069798
+    },
+    {
+      "name": "Vidikovac Ratarna",
+      "latitude": 46.031053,
+      "longitude": 16.554295
+    },
+    {
+      "name": "Vidikovac Slipica",
+      "latitude": 45.166393,
+      "longitude": 14.769388
+    },
+    {
+      "name": "Vidikovac Stražica",
+      "latitude": 45.309838,
+      "longitude": 14.201742
+    },
+    {
+      "name": "Vidikovac Sv. Jelene",
+      "latitude": 45.203533,
+      "longitude": 14.041483
+    },
+    {
+      "name": "Vidikovac Sv. Križ",
+      "latitude": 45.667922,
+      "longitude": 15.441127
+    },
+    {
+      "name": "Vidikovac Sviba",
+      "latitude": 45.11782,
+      "longitude": 14.892003
+    },
+    {
+      "name": "Vidikovac tete Olge",
+      "latitude": 44.643967,
+      "longitude": 14.39727
+    },
+    {
+      "name": "vidikovac Velka Peč",
+      "latitude": 45.93694,
+      "longitude": 16.061893
+    },
+    {
+      "name": "Vidikovac vina Belje",
+      "latitude": 45.775674,
+      "longitude": 18.669469
+    },
+    {
+      "name": "Vidikovac Čevo",
+      "latitude": 46.206196,
+      "longitude": 16.2867
+    },
+    {
+      "name": "Vidikovac Želimira Janeša",
+      "latitude": 45.391813,
+      "longitude": 14.047491
+    },
+    {
+      "name": "Vidilica",
+      "latitude": 43.456624,
+      "longitude": 16.708097
+    },
+    {
+      "name": "Vidilica",
+      "latitude": 43.50831,
+      "longitude": 16.417223
+    },
+    {
+      "name": "Vidilica Tomašić",
+      "latitude": 44.771892,
+      "longitude": 14.779502
+    },
+    {
+      "name": "view  piont",
+      "latitude": 45.157908,
+      "longitude": 14.776703
+    },
+    {
+      "name": "View Korana",
+      "latitude": 44.948824,
+      "longitude": 15.661083
+    },
+    {
+      "name": "View point",
+      "latitude": 44.111602,
+      "longitude": 15.120581
+    },
+    {
+      "name": "view point",
+      "latitude": 45.161952,
+      "longitude": 14.773511
+    },
+    {
+      "name": "Viewpoint -",
+      "latitude": 45.217508,
+      "longitude": 14.65735
+    },
+    {
+      "name": "Viewpoint Modro Jezero",
+      "latitude": 43.448473,
+      "longitude": 17.209192
+    },
+    {
+      "name": "Vikendica",
+      "latitude": 45.564354,
+      "longitude": 16.094828
+    },
+    {
+      "name": "Vinogradi",
+      "latitude": 45.524731,
+      "longitude": 19.012981
+    },
+    {
+      "name": "Vlidikovac Fortica",
+      "latitude": 45.086635,
+      "longitude": 14.125321
+    },
+    {
+      "name": "Vrana",
+      "latitude": 43.958321,
+      "longitude": 15.557965
+    },
+    {
+      "name": "Vratnik panoramic view",
+      "latitude": 44.97876,
+      "longitude": 14.984924
+    },
+    {
+      "name": "Vratosolina",
+      "latitude": 42.767194,
+      "longitude": 17.387284
+    },
+    {
+      "name": "Vukovica podi",
+      "latitude": 43.856153,
+      "longitude": 15.963013
+    },
+    {
+      "name": "Zamask",
+      "latitude": 45.326391,
+      "longitude": 13.878353
+    },
+    {
+      "name": "Zelovski gaji",
+      "latitude": 43.762876,
+      "longitude": 16.529885
+    },
+    {
+      "name": "Zija",
+      "latitude": 46.196438,
+      "longitude": 16.23122
+    },
+    {
+      "name": "Zub",
+      "latitude": 45.740979,
+      "longitude": 15.684802
+    },
+    {
+      "name": "Zvonik sv. Martin",
+      "latitude": 45.150992,
+      "longitude": 13.606234
+    },
+    {
+      "name": "Črna peć",
+      "latitude": 46.191412,
+      "longitude": 16.094508
+    },
+    {
+      "name": "Šapiti",
+      "latitude": 43.312001,
+      "longitude": 17.251764
+    },
+    {
+      "name": "Šaule",
+      "latitude": 45.351394,
+      "longitude": 15.584306
+    },
+    {
+      "name": "Šipičin",
+      "latitude": 45.278173,
+      "longitude": 14.251289
+    },
+    {
+      "name": "Štrbački buk 1",
+      "latitude": 44.656436,
+      "longitude": 16.00981
+    },
+    {
+      "name": "Štrbački buk 2",
+      "latitude": 44.656511,
+      "longitude": 16.009352
+    },
+    {
+      "name": "Štrbački buk 3",
+      "latitude": 44.65662,
+      "longitude": 16.009358
+    },
+    {
+      "name": "Štrbački buk 4",
+      "latitude": 44.656822,
+      "longitude": 16.008213
+    },
+    {
+      "name": "Šupja stina",
+      "latitude": 43.381125,
+      "longitude": 16.937936
+    }
+  ],
+  "meta": {
+    "title": "Vidikovci - Besplatno preuzimanje",
+    "description": "Vidikovci u Hrvatskoj (288 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=viewpoint), izrez EU-POIS/HR. Sadrži 288 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vidikovci | ListBase",
+    "seo_description": "Preuzmi Vidikovci — 288 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 288 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

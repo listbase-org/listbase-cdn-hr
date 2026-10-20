@@ -1,0 +1,836 @@
+{
+  "id": "hr-veterinarske-ambulante",
+  "name": "Veterinarske ambulante",
+  "title": "Veterinarske ambulante",
+  "description": "Veterinarske ambulante u Hrvatskoj (159 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=veterinary), izrez EU-POIS/HR.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 159,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Vetosan\" veterinarska ambulanta",
+      "latitude": 45.554055,
+      "longitude": 18.69182
+    },
+    {
+      "name": "Ambulanta Veliko Trgovišće za velike i male životinje",
+      "latitude": 46.00279,
+      "longitude": 15.844512
+    },
+    {
+      "name": "Ambulanta za ptice",
+      "latitude": 45.806816,
+      "longitude": 16.009003
+    },
+    {
+      "name": "Anima Veterinary clinic",
+      "latitude": 43.516578,
+      "longitude": 16.452846
+    },
+    {
+      "name": "Anima Vita",
+      "latitude": 42.67546,
+      "longitude": 18.094563
+    },
+    {
+      "name": "Ava",
+      "latitude": 45.712529,
+      "longitude": 16.074362
+    },
+    {
+      "name": "Boknjac",
+      "latitude": 43.938051,
+      "longitude": 15.445128
+    },
+    {
+      "name": "Bošnjak",
+      "latitude": 43.506201,
+      "longitude": 16.480488
+    },
+    {
+      "name": "Buba",
+      "latitude": 45.802172,
+      "longitude": 15.942155
+    },
+    {
+      "name": "Dado",
+      "latitude": 43.93894,
+      "longitude": 15.443094
+    },
+    {
+      "name": "Dogtor",
+      "latitude": 45.803534,
+      "longitude": 15.720498
+    },
+    {
+      "name": "Doktor Vau",
+      "latitude": 45.787155,
+      "longitude": 16.007467
+    },
+    {
+      "name": "Dr. Pezo",
+      "latitude": 45.779473,
+      "longitude": 15.983438
+    },
+    {
+      "name": "Faltus",
+      "latitude": 45.75774,
+      "longitude": 17.049422
+    },
+    {
+      "name": "Fiziovet",
+      "latitude": 45.811868,
+      "longitude": 16.001845
+    },
+    {
+      "name": "Fury",
+      "latitude": 45.556924,
+      "longitude": 18.681441
+    },
+    {
+      "name": "Goldi",
+      "latitude": 45.811405,
+      "longitude": 15.987344
+    },
+    {
+      "name": "Hajster",
+      "latitude": 44.858114,
+      "longitude": 13.846632
+    },
+    {
+      "name": "Happy Vet",
+      "latitude": 45.815004,
+      "longitude": 15.894275
+    },
+    {
+      "name": "Josipdolvet",
+      "latitude": 45.193244,
+      "longitude": 15.28868
+    },
+    {
+      "name": "Kinološko društvo Bjelovar",
+      "latitude": 45.894321,
+      "longitude": 16.843346
+    },
+    {
+      "name": "ljubimac",
+      "latitude": 45.812555,
+      "longitude": 15.930101
+    },
+    {
+      "name": "Majcan",
+      "latitude": 45.816072,
+      "longitude": 16.980731
+    },
+    {
+      "name": "Majcan",
+      "latitude": 45.894852,
+      "longitude": 16.832921
+    },
+    {
+      "name": "Marković",
+      "latitude": 45.797195,
+      "longitude": 15.992528
+    },
+    {
+      "name": "Mihael",
+      "latitude": 45.750992,
+      "longitude": 18.060005
+    },
+    {
+      "name": "Morna DogGenius",
+      "latitude": 45.788705,
+      "longitude": 15.911508
+    },
+    {
+      "name": "Otto",
+      "latitude": 46.035036,
+      "longitude": 16.540328
+    },
+    {
+      "name": "Pet Food Shop",
+      "latitude": 45.773399,
+      "longitude": 15.950455
+    },
+    {
+      "name": "Pet vet",
+      "latitude": 43.517796,
+      "longitude": 16.462522
+    },
+    {
+      "name": "Područna veterinarska ambulanta Žminj",
+      "latitude": 45.141141,
+      "longitude": 13.901471
+    },
+    {
+      "name": "privat",
+      "latitude": 45.246724,
+      "longitude": 13.959264
+    },
+    {
+      "name": "Raunig veterinarska ambulanta",
+      "latitude": 43.504005,
+      "longitude": 16.450353
+    },
+    {
+      "name": "Revet",
+      "latitude": 45.340793,
+      "longitude": 14.374874
+    },
+    {
+      "name": "Roman",
+      "latitude": 45.308379,
+      "longitude": 18.413475
+    },
+    {
+      "name": "Saša Mohač",
+      "latitude": 46.027792,
+      "longitude": 15.95696
+    },
+    {
+      "name": "Specijalistička veterinarska ambulanta Fabela",
+      "latitude": 45.801122,
+      "longitude": 15.958286
+    },
+    {
+      "name": "Specijalizirana veterinarska ambulanta za male životinje - Žarko Zgurić dr.vet.med",
+      "latitude": 45.791974,
+      "longitude": 15.952939
+    },
+    {
+      "name": "SplitVet",
+      "latitude": 43.505843,
+      "longitude": 16.414546
+    },
+    {
+      "name": "Vet Centar",
+      "latitude": 45.230696,
+      "longitude": 13.625443
+    },
+    {
+      "name": "Vet vision",
+      "latitude": 43.51466,
+      "longitude": 16.439855
+    },
+    {
+      "name": "Vet Vision",
+      "latitude": 45.774855,
+      "longitude": 15.98977
+    },
+    {
+      "name": "Vet-Point",
+      "latitude": 45.797772,
+      "longitude": 15.916773
+    },
+    {
+      "name": "Vet-svijet",
+      "latitude": 45.79618,
+      "longitude": 15.920194
+    },
+    {
+      "name": "Vetam",
+      "latitude": 45.565423,
+      "longitude": 18.703527
+    },
+    {
+      "name": "Veteranska ambulanta Bokanjac Vir",
+      "latitude": 44.304639,
+      "longitude": 15.0786
+    },
+    {
+      "name": "Veterina Branimir",
+      "latitude": 45.793969,
+      "longitude": 15.904154
+    },
+    {
+      "name": "Veterinar",
+      "latitude": 43.756279,
+      "longitude": 16.620727
+    },
+    {
+      "name": "VETERINAR",
+      "latitude": 44.531394,
+      "longitude": 15.767034
+    },
+    {
+      "name": "Veterinar",
+      "latitude": 45.499056,
+      "longitude": 15.548036
+    },
+    {
+      "name": "Veterinar - Nina",
+      "latitude": 45.485067,
+      "longitude": 15.547072
+    },
+    {
+      "name": "Veterinar Ava Fizio Vet",
+      "latitude": 45.149086,
+      "longitude": 13.60782
+    },
+    {
+      "name": "Veterinar Holubek",
+      "latitude": 45.899429,
+      "longitude": 16.836778
+    },
+    {
+      "name": "Veterinar Sanjin Polić",
+      "latitude": 45.331158,
+      "longitude": 14.465512
+    },
+    {
+      "name": "Veterinarska ambulanta",
+      "latitude": 42.646892,
+      "longitude": 18.08247
+    },
+    {
+      "name": "Veterinarska ambulanta",
+      "latitude": 42.673618,
+      "longitude": 18.131449
+    },
+    {
+      "name": "Veterinarska ambulanta",
+      "latitude": 43.535545,
+      "longitude": 16.486552
+    },
+    {
+      "name": "Veterinarska ambulanta",
+      "latitude": 43.858484,
+      "longitude": 16.160743
+    },
+    {
+      "name": "Veterinarska ambulanta",
+      "latitude": 45.402426,
+      "longitude": 16.884803
+    },
+    {
+      "name": "Veterinarska ambulanta",
+      "latitude": 45.539815,
+      "longitude": 18.05843
+    },
+    {
+      "name": "Veterinarska ambulanta",
+      "latitude": 45.584911,
+      "longitude": 15.855415
+    },
+    {
+      "name": "Veterinarska ambulanta \"Janković\"",
+      "latitude": 45.553743,
+      "longitude": 18.687003
+    },
+    {
+      "name": "Veterinarska ambulanta \"Kućni ljubimci\"",
+      "latitude": 45.336539,
+      "longitude": 14.444457
+    },
+    {
+      "name": "Veterinarska ambulanta Bjelovar - Zrinski Topolovac",
+      "latitude": 46.023106,
+      "longitude": 16.752379
+    },
+    {
+      "name": "Veterinarska Ambulanta Bobanović",
+      "latitude": 42.656764,
+      "longitude": 18.078201
+    },
+    {
+      "name": "Veterinarska ambulanta Brezovica",
+      "latitude": 45.728118,
+      "longitude": 15.911434
+    },
+    {
+      "name": "Veterinarska ambulanta Delonga",
+      "latitude": 43.509379,
+      "longitude": 16.474595
+    },
+    {
+      "name": "Veterinarska ambulanta Dodo Vet",
+      "latitude": 45.819914,
+      "longitude": 15.92705
+    },
+    {
+      "name": "Veterinarska ambulanta Dugo Selo d.o.o.",
+      "latitude": 45.803169,
+      "longitude": 16.232741
+    },
+    {
+      "name": "Veterinarska ambulanta HRVACE",
+      "latitude": 43.756119,
+      "longitude": 16.61937
+    },
+    {
+      "name": "Veterinarska ambulanta Imotski",
+      "latitude": 43.444805,
+      "longitude": 17.221749
+    },
+    {
+      "name": "Veterinarska ambulanta Ines-vet",
+      "latitude": 45.891783,
+      "longitude": 16.838102
+    },
+    {
+      "name": "Veterinarska ambulanta Korenica",
+      "latitude": 44.744099,
+      "longitude": 15.709245
+    },
+    {
+      "name": "Veterinarska ambulanta Lonjica",
+      "latitude": 45.857764,
+      "longitude": 16.324016
+    },
+    {
+      "name": "Veterinarska ambulanta Lota Stari Grad",
+      "latitude": 43.188729,
+      "longitude": 16.601024
+    },
+    {
+      "name": "Veterinarska ambulanta Mali Lošinj",
+      "latitude": 44.531725,
+      "longitude": 14.46726
+    },
+    {
+      "name": "Veterinarska ambulanta Martin Breg",
+      "latitude": 45.807756,
+      "longitude": 16.228223
+    },
+    {
+      "name": "Veterinarska ambulanta Maza",
+      "latitude": 45.808668,
+      "longitude": 15.739854
+    },
+    {
+      "name": "Veterinarska ambulanta Mr. Kvakan",
+      "latitude": 46.383295,
+      "longitude": 16.43203
+    },
+    {
+      "name": "Veterinarska ambulanta Novo Brestje",
+      "latitude": 45.831904,
+      "longitude": 16.090779
+    },
+    {
+      "name": "Veterinarska ambulanta Oborovo",
+      "latitude": 45.809583,
+      "longitude": 16.104509
+    },
+    {
+      "name": "Veterinarska ambulanta Omiš",
+      "latitude": 43.453237,
+      "longitude": 16.911287
+    },
+    {
+      "name": "Veterinarska ambulanta Otto",
+      "latitude": 46.173107,
+      "longitude": 16.839365
+    },
+    {
+      "name": "Veterinarska ambulanta Pag",
+      "latitude": 44.441306,
+      "longitude": 15.060978
+    },
+    {
+      "name": "Veterinarska ambulanta Patkovac-Bjelovar",
+      "latitude": 45.852742,
+      "longitude": 16.930269
+    },
+    {
+      "name": "Veterinarska ambulanta Peroković",
+      "latitude": 45.810898,
+      "longitude": 16.023002
+    },
+    {
+      "name": "Veterinarska ambulanta Predavac",
+      "latitude": 45.937508,
+      "longitude": 16.778812
+    },
+    {
+      "name": "Veterinarska ambulanta Pula",
+      "latitude": 44.876093,
+      "longitude": 13.852128
+    },
+    {
+      "name": "Veterinarska Ambulanta Puntamika",
+      "latitude": 44.13096,
+      "longitude": 15.219906
+    },
+    {
+      "name": "Veterinarska ambulanta Solin",
+      "latitude": 43.535685,
+      "longitude": 16.487989
+    },
+    {
+      "name": "Veterinarska ambulanta Supetar",
+      "latitude": 43.38129,
+      "longitude": 16.559074
+    },
+    {
+      "name": "Veterinarska ambulanta Sveti Ivan Žabno",
+      "latitude": 45.949525,
+      "longitude": 16.605895
+    },
+    {
+      "name": "Veterinarska ambulanta Velika",
+      "latitude": 45.436112,
+      "longitude": 17.670496
+    },
+    {
+      "name": "Veterinarska ambulanta Velika Gorica",
+      "latitude": 45.708913,
+      "longitude": 16.084967
+    },
+    {
+      "name": "Veterinarska ambulanta Veliki Grđevac",
+      "latitude": 45.758128,
+      "longitude": 17.049096
+    },
+    {
+      "name": "Veterinarska ambulanta Vodice",
+      "latitude": 43.761616,
+      "longitude": 15.776349
+    },
+    {
+      "name": "Veterinarska ambulanta za male životinje Gajnice",
+      "latitude": 45.819788,
+      "longitude": 15.878414
+    },
+    {
+      "name": "Veterinarska ambulanta za male životinje Podsused",
+      "latitude": 45.819652,
+      "longitude": 15.841082
+    },
+    {
+      "name": "Veterinarska ambulanta Čakovec",
+      "latitude": 46.384783,
+      "longitude": 16.45918
+    },
+    {
+      "name": "Veterinarska ambulanta Šapa",
+      "latitude": 45.800174,
+      "longitude": 15.951896
+    },
+    {
+      "name": "Veterinarska Apoteka",
+      "latitude": 45.489325,
+      "longitude": 15.546504
+    },
+    {
+      "name": "Veterinarska bolnica",
+      "latitude": 45.79459,
+      "longitude": 15.933315
+    },
+    {
+      "name": "VETERINARSKA BOLNICA POREČ",
+      "latitude": 45.230799,
+      "longitude": 13.614767
+    },
+    {
+      "name": "Veterinarska bolnica Vetti Split",
+      "latitude": 43.527588,
+      "longitude": 16.501561
+    },
+    {
+      "name": "Veterinarska Filipović",
+      "latitude": 43.516343,
+      "longitude": 16.46152
+    },
+    {
+      "name": "Veterinarska klinika Buba",
+      "latitude": 45.778232,
+      "longitude": 15.948042
+    },
+    {
+      "name": "Veterinarska ljekarna Zooteka",
+      "latitude": 45.812182,
+      "longitude": 15.987746
+    },
+    {
+      "name": "Veterinarska medicina",
+      "latitude": 45.16466,
+      "longitude": 18.017688
+    },
+    {
+      "name": "Veterinarska praksa \"Pilić\"",
+      "latitude": 43.507202,
+      "longitude": 16.451915
+    },
+    {
+      "name": "Veterinarska praksa Gracin & Perčić",
+      "latitude": 43.516655,
+      "longitude": 16.453066
+    },
+    {
+      "name": "Veterinarska stanica",
+      "latitude": 45.311956,
+      "longitude": 18.417223
+    },
+    {
+      "name": "veterinarska stanica",
+      "latitude": 45.34735,
+      "longitude": 14.3174
+    },
+    {
+      "name": "Veterinarska stanica",
+      "latitude": 45.499174,
+      "longitude": 16.351703
+    },
+    {
+      "name": "Veterinarska stanica",
+      "latitude": 45.756325,
+      "longitude": 18.72677
+    },
+    {
+      "name": "Veterinarska stanica",
+      "latitude": 45.805754,
+      "longitude": 16.006587
+    },
+    {
+      "name": "Veterinarska stanica",
+      "latitude": 46.040438,
+      "longitude": 15.985167
+    },
+    {
+      "name": "Veterinarska stanica Beli Manastir",
+      "latitude": 45.77395,
+      "longitude": 18.610454
+    },
+    {
+      "name": "Veterinarska stanica Bjelovar",
+      "latitude": 45.893201,
+      "longitude": 16.850035
+    },
+    {
+      "name": "Veterinarska stanica Bjelovar - Kapela",
+      "latitude": 45.991698,
+      "longitude": 16.84935
+    },
+    {
+      "name": "Veterinarska stanica Bjelovar - V.Pisanica",
+      "latitude": 45.800216,
+      "longitude": 17.042985
+    },
+    {
+      "name": "Veterinarska stanica Bjelovar-Severin",
+      "latitude": 45.85214,
+      "longitude": 16.984839
+    },
+    {
+      "name": "Veterinarska stanica d.o.o. Karlovac",
+      "latitude": 45.491588,
+      "longitude": 15.542125
+    },
+    {
+      "name": "Veterinarska stanica Daruvar - podružnica Dežanovac",
+      "latitude": 45.567546,
+      "longitude": 17.085012
+    },
+    {
+      "name": "Veterinarska stanica Daruvar d.o.o.",
+      "latitude": 45.591022,
+      "longitude": 17.214279
+    },
+    {
+      "name": "Veterinarska stanica Daruvar d.o.o.",
+      "latitude": 45.637484,
+      "longitude": 17.163405
+    },
+    {
+      "name": "Veterinarska stanica Ivanec",
+      "latitude": 46.226905,
+      "longitude": 16.130088
+    },
+    {
+      "name": "Veterinarska stanica Jastrebarsko",
+      "latitude": 45.656778,
+      "longitude": 15.638886
+    },
+    {
+      "name": "Veterinarska stanica Jug",
+      "latitude": 46.37855,
+      "longitude": 16.444763
+    },
+    {
+      "name": "Veterinarska stanica Križevci",
+      "latitude": 46.02943,
+      "longitude": 16.547975
+    },
+    {
+      "name": "Veterinarska stanica Našice",
+      "latitude": 45.491302,
+      "longitude": 18.10276
+    },
+    {
+      "name": "Veterinarska stanica Nova Rača",
+      "latitude": 45.800026,
+      "longitude": 16.956299
+    },
+    {
+      "name": "Veterinarska stanica Osijek",
+      "latitude": 45.54396,
+      "longitude": 18.677443
+    },
+    {
+      "name": "Veterinarska stanica Ozalj d.o.o.",
+      "latitude": 45.600165,
+      "longitude": 15.482855
+    },
+    {
+      "name": "VETERINARSKA STANICA PRELOG d.o.o.",
+      "latitude": 46.339994,
+      "longitude": 16.625319
+    },
+    {
+      "name": "Veterinarska stanica Rijeka",
+      "latitude": 45.332955,
+      "longitude": 14.433779
+    },
+    {
+      "name": "Veterinarska stanica Rovišće",
+      "latitude": 45.944455,
+      "longitude": 16.729325
+    },
+    {
+      "name": "Veterinarska stanica Samobor",
+      "latitude": 45.808982,
+      "longitude": 15.719143
+    },
+    {
+      "name": "Veterinarska stanica Slatina",
+      "latitude": 45.699173,
+      "longitude": 17.707475
+    },
+    {
+      "name": "Veterinarska stanica Slunj",
+      "latitude": 45.119209,
+      "longitude": 15.583687
+    },
+    {
+      "name": "Veterinarska stanica Split",
+      "latitude": 43.519645,
+      "longitude": 16.452876
+    },
+    {
+      "name": "Veterinarska stanica Tilj",
+      "latitude": 43.620369,
+      "longitude": 16.72794
+    },
+    {
+      "name": "Veterinarska stanica Valpovo",
+      "latitude": 45.661738,
+      "longitude": 18.415115
+    },
+    {
+      "name": "Veterinarska stanica Varaždin",
+      "latitude": 46.286378,
+      "longitude": 16.335147
+    },
+    {
+      "name": "Veterinarska stanica Veliki Bukovec",
+      "latitude": 46.285402,
+      "longitude": 16.705589
+    },
+    {
+      "name": "Veterinarska stanica Vrbovec",
+      "latitude": 45.878376,
+      "longitude": 16.412295
+    },
+    {
+      "name": "Veterinarska stanica Vukovar",
+      "latitude": 45.336521,
+      "longitude": 19.027668
+    },
+    {
+      "name": "Veterinarska stanica Zadar",
+      "latitude": 44.131726,
+      "longitude": 15.239459
+    },
+    {
+      "name": "Veterinarska stanica Zaprešić",
+      "latitude": 45.865148,
+      "longitude": 15.801458
+    },
+    {
+      "name": "Veterinarska stanica Zlatar Bistrica",
+      "latitude": 46.053216,
+      "longitude": 16.086855
+    },
+    {
+      "name": "Veterinarska stanica Čazma",
+      "latitude": 45.752012,
+      "longitude": 16.62098
+    },
+    {
+      "name": "Veterinarska stanica Đakovo, ambulanta Kešinci",
+      "latitude": 45.355094,
+      "longitude": 18.554653
+    },
+    {
+      "name": "Veterinarska stanica Đurđevac",
+      "latitude": 46.029832,
+      "longitude": 17.065422
+    },
+    {
+      "name": "Veterinarska stanica Štefanje",
+      "latitude": 45.806002,
+      "longitude": 16.7191
+    },
+    {
+      "name": "Veterinarski centar Sedlić",
+      "latitude": 45.903074,
+      "longitude": 16.844304
+    },
+    {
+      "name": "Veterinarski ured",
+      "latitude": 45.145675,
+      "longitude": 18.878596
+    },
+    {
+      "name": "Veterinarski zavod Križevci",
+      "latitude": 46.026523,
+      "longitude": 16.545683
+    },
+    {
+      "name": "Veterinarski zavod Split",
+      "latitude": 43.506277,
+      "longitude": 16.460902
+    },
+    {
+      "name": "VIPet",
+      "latitude": 45.791948,
+      "longitude": 15.980035
+    },
+    {
+      "name": "Šegota",
+      "latitude": 45.810202,
+      "longitude": 15.950499
+    }
+  ],
+  "meta": {
+    "title": "Veterinarske ambulante - Besplatno preuzimanje",
+    "description": "Veterinarske ambulante u Hrvatskoj (159 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=veterinary), izrez EU-POIS/HR. Sadrži 159 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Veterinarske ambulante | ListBase",
+    "seo_description": "Preuzmi Veterinarske ambulante — 159 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 159 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

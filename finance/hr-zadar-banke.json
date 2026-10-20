@@ -1,0 +1,72 @@
+{
+  "id": "hr-zadar-banke",
+  "name": "Banke u Zadar — SWIFT/BIC kodovi (Zadar bank SWIFT/BIC codes)",
+  "title": "Banke u Zadar — SWIFT/BIC kodovi (Zadar bank SWIFT/BIC codes)",
+  "description": "Popis: 3 bankovnih institucija u Zadar sa SWIFT/BIC kodovima — naziv banke, grad, podružnica i SWIFT kod. Razdvojeno po gradovima iz nacionalnog skupa hr-banke (78 zapisa) PeterNotenboom/SwiftCodes. Per-city split of the Croatian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 40,
+      "bank": "OTP BANKA HRVATSKA D.D.",
+      "city": "ZADAR",
+      "branch": "",
+      "swift_code": "OTPVHR2X"
+    },
+    {
+      "id": 41,
+      "bank": "OTP BANKA HRVATSKA D.D.",
+      "city": "ZADAR",
+      "branch": "",
+      "swift_code": "OTPVHR2XZAD"
+    },
+    {
+      "id": 77,
+      "bank": "ZAGREBACKA BANKA DD",
+      "city": "ZADAR",
+      "branch": "(ZADAR BRANCH)",
+      "swift_code": "ZABAHR2XZAD"
+    }
+  ],
+  "meta": {
+    "title": "Banke u Zadar — SWIFT/BIC kodovi (Zadar bank SWIFT/BIC codes) - Besplatno preuzimanje",
+    "description": "Popis: 3 bankovnih institucija u Zadar sa SWIFT/BIC kodovima — naziv banke, grad, podružnica i SWIFT kod. Razdvojeno po gradovima iz nacionalnog skupa hr-banke (78 zapisa) PeterNotenboom/SwiftCodes. Per-city split of the Croatian SWIFT/BIC list. Sadrži 3 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Banke u Zadar — SWIFT/BIC kodovi (Zadar bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Preuzmi Banke u Zadar — SWIFT/BIC kodovi (Zadar bank SWIFT/BIC codes) — 3 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 3 zapisa / 5 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

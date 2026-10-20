@@ -1,0 +1,1402 @@
+{
+  "id": "hr-muzeji",
+  "name": "Muzeji u Hrvatskoj (Museums in Croatia)",
+  "title": "Muzeji u Hrvatskoj (Museums in Croatia)",
+  "description": "Popis od 149 muzeja u Hrvatskoj iz OpenStreetMapa — naziv, grad, koordinate i web stranica.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 149,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Peek & Poke\" old computers museum",
+      "name_en": "",
+      "city": "Drenova",
+      "country": "Croatia",
+      "latitude": 45.328129,
+      "longitude": 14.445237,
+      "website": ""
+    },
+    {
+      "name": "Aquarium",
+      "name_en": "",
+      "city": "Rovinj",
+      "country": "Croatia",
+      "latitude": 45.085538,
+      "longitude": 13.639492,
+      "website": ""
+    },
+    {
+      "name": "Archeological",
+      "name_en": "",
+      "city": "Vela Luka",
+      "country": "Croatia",
+      "latitude": 42.960914,
+      "longitude": 16.717582,
+      "website": ""
+    },
+    {
+      "name": "Arheološki muzej",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.81094,
+      "longitude": 15.977307,
+      "website": "http://www.amz.hr/"
+    },
+    {
+      "name": "Arheološki Muzej (i prodaja karata)",
+      "name_en": "",
+      "city": "Solin",
+      "country": "Croatia",
+      "latitude": 43.541689,
+      "longitude": 16.483312,
+      "website": ""
+    },
+    {
+      "name": "Arhološka zbirka i Povijesni muzej",
+      "name_en": "Archeology Collection and History Museum",
+      "city": "Punat",
+      "country": "Croatia",
+      "latitude": 45.026525,
+      "longitude": 14.618527,
+      "website": ""
+    },
+    {
+      "name": "Bukovac House",
+      "name_en": "",
+      "city": "Cavtat",
+      "country": "Croatia",
+      "latitude": 42.58314,
+      "longitude": 18.216933,
+      "website": ""
+    },
+    {
+      "name": "Crikvenica Municipal Museum",
+      "name_en": "",
+      "city": "Crikvenica",
+      "country": "Croatia",
+      "latitude": 45.173021,
+      "longitude": 14.691705,
+      "website": "http://www.mgc.hr"
+    },
+    {
+      "name": "Crikvenica Municipal Museum",
+      "name_en": "",
+      "city": "Crikvenica",
+      "country": "Croatia",
+      "latitude": 45.173001,
+      "longitude": 14.691712,
+      "website": "http://www.mgc.hr"
+    },
+    {
+      "name": "Crikvenica Municipal Museum",
+      "name_en": "",
+      "city": "Crikvenica",
+      "country": "Croatia",
+      "latitude": 45.17279,
+      "longitude": 14.69161,
+      "website": ""
+    },
+    {
+      "name": "Dom Marina Držića",
+      "name_en": "",
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "latitude": 42.640847,
+      "longitude": 18.108094,
+      "website": ""
+    },
+    {
+      "name": "Ecomuseum - Istrian de Dignan",
+      "name_en": "",
+      "city": "Vodnjan",
+      "country": "Croatia",
+      "latitude": 44.960447,
+      "longitude": 13.849433,
+      "website": ""
+    },
+    {
+      "name": "Eko centar Caput Insulae Beli",
+      "name_en": "",
+      "city": "Cres",
+      "country": "Croatia",
+      "latitude": 45.114382,
+      "longitude": 14.351286,
+      "website": ""
+    },
+    {
+      "name": "etno zbirka",
+      "name_en": "",
+      "city": "Sunja",
+      "country": "Croatia",
+      "latitude": 45.415318,
+      "longitude": 16.629903,
+      "website": ""
+    },
+    {
+      "name": "Etno zbirka Barilo",
+      "name_en": "",
+      "city": "Vela Luka",
+      "country": "Croatia",
+      "latitude": 42.937659,
+      "longitude": 16.788693,
+      "website": ""
+    },
+    {
+      "name": "etnografska i prirodoslovna zbirka",
+      "name_en": "The Ethnographic and natural history collection",
+      "city": "Punat",
+      "country": "Croatia",
+      "latitude": 45.026652,
+      "longitude": 14.617893,
+      "website": ""
+    },
+    {
+      "name": "Etnografski muzej",
+      "name_en": "",
+      "city": "Split",
+      "country": "Croatia",
+      "latitude": 43.507656,
+      "longitude": 16.440038,
+      "website": ""
+    },
+    {
+      "name": "Etnografski muzej",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.808359,
+      "longitude": 15.969151,
+      "website": "http://www.emz.hr/"
+    },
+    {
+      "name": "Etnografski muzej",
+      "name_en": "Etnographic Museum Rupe",
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "latitude": 42.640338,
+      "longitude": 18.107352,
+      "website": ""
+    },
+    {
+      "name": "Etnografski muzej",
+      "name_en": "",
+      "city": "Ljubešćica",
+      "country": "Croatia",
+      "latitude": 46.209112,
+      "longitude": 16.422454,
+      "website": ""
+    },
+    {
+      "name": "Etnografski Muzej",
+      "name_en": "",
+      "city": "Buje",
+      "country": "Croatia",
+      "latitude": 45.40962,
+      "longitude": 13.656333,
+      "website": ""
+    },
+    {
+      "name": "Etnographic museum \"Toreta\"",
+      "name_en": "",
+      "city": "Smokvica",
+      "country": "Croatia",
+      "latitude": 42.928098,
+      "longitude": 16.892084,
+      "website": ""
+    },
+    {
+      "name": "Franjevački Muzej",
+      "name_en": "",
+      "city": "Sinj",
+      "country": "Croatia",
+      "latitude": 43.702025,
+      "longitude": 16.637806,
+      "website": ""
+    },
+    {
+      "name": "Franjevački muzej",
+      "name_en": "",
+      "city": "Karlovac",
+      "country": "Croatia",
+      "latitude": 45.492634,
+      "longitude": 15.555481,
+      "website": ""
+    },
+    {
+      "name": "Galerija",
+      "name_en": "",
+      "city": "Vinkovci",
+      "country": "Croatia",
+      "latitude": 45.287799,
+      "longitude": 18.803321,
+      "website": ""
+    },
+    {
+      "name": "Galerija Emanuela Vidovića",
+      "name_en": "",
+      "city": "Split",
+      "country": "Croatia",
+      "latitude": 43.508257,
+      "longitude": 16.441082,
+      "website": ""
+    },
+    {
+      "name": "Galerija keramike",
+      "name_en": "",
+      "city": "Zadar",
+      "country": "Croatia",
+      "latitude": 44.115356,
+      "longitude": 15.22704,
+      "website": ""
+    },
+    {
+      "name": "Galerija Klovićevi dvori",
+      "name_en": "",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "latitude": 45.815028,
+      "longitude": 15.974643,
+      "website": "http://gkd.hr/"
+    },
+    {
+      "name": "Galerija naive Ivan Generalić",
+      "name_en": "",
+      "city": "Hlebine",
+      "country": "Croatia",
+      "latitude": 46.153276,
+      "longitude": 16.967189,
+      "website": ""
+    },
+    {
+      "name": "Galerija naive Josip Generalić",
+      "name_en": "",
+      "city": "Hlebine",
+      "country": "Croatia",
+      "latitude": 46.148276,
+      "longitude": 16.967778,
+      "website": ""
+    },
+    {
+      "name": "Galerija Skurjeni",
+      "name_en": "",
+      "city": "Zaprešić",
+      "country": "Croatia",
+      "latitude": 45.870902,
+      "longitude": 15.804558,
+      "website": ""
+    },
+    {
+      "name": "Gallerion",
+      "name_en": "",
+      "city": "Novigrad",
+      "country": "Croatia",
+      "latitude": 45.316676,
+      "longitude": 13.560054,
+      "website": "http://www.kuk-marine-museum.net/"
+    },
+    {
+      "name": "Gliptoteka HAZU",
+      "name_en": "",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "latitude": 45.822108,
+      "longitude": 15.977421,
+      "website": "http://gliptoteka.mdc.hr/"
+    },
+    {
+      "name": "Gradeski Muzej Novalja",
+      "name_en": "",
+      "city": "Novalja",
+      "country": "Croatia",
+      "latitude": 44.557986,
+      "longitude": 14.883428,
+      "website": ""
+    },
+    {
+      "name": "Gradski lapidarij",
+      "name_en": "",
+      "city": "Banjol",
+      "country": "Croatia",
+      "latitude": 44.757306,
+      "longitude": 14.758954,
+      "website": ""
+    },
+    {
+      "name": "Gradski muzej",
+      "name_en": "",
+      "city": "Križevci",
+      "country": "Croatia",
+      "latitude": 46.025728,
+      "longitude": 16.544387,
+      "website": "http://www.mdc.hr/krizevci/povijest.htm"
+    },
+    {
+      "name": "Gradski muzej",
+      "name_en": "",
+      "city": "Sisak",
+      "country": "Croatia",
+      "latitude": 45.483716,
+      "longitude": 16.374302,
+      "website": ""
+    },
+    {
+      "name": "Gradski muzej i galerija Jastrebarsko",
+      "name_en": "",
+      "city": "Jastrebarsko",
+      "country": "Croatia",
+      "latitude": 45.674841,
+      "longitude": 15.653592,
+      "website": ""
+    },
+    {
+      "name": "Gradski muzej Karlovac",
+      "name_en": "",
+      "city": "Karlovac",
+      "country": "Croatia",
+      "latitude": 45.493823,
+      "longitude": 15.554058,
+      "website": "http://www.gmk.hr/"
+    },
+    {
+      "name": "Gradski muzej Omiš",
+      "name_en": "",
+      "city": "Omiš",
+      "country": "Croatia",
+      "latitude": 43.443614,
+      "longitude": 16.693876,
+      "website": ""
+    },
+    {
+      "name": "Gradski muzej Požega",
+      "name_en": "",
+      "city": "Požega",
+      "country": "Croatia",
+      "latitude": 45.331216,
+      "longitude": 17.675756,
+      "website": "http://www.gmp.hr/"
+    },
+    {
+      "name": "Gradski Muzej Senj",
+      "name_en": "City Museum of Senj",
+      "city": "Senj",
+      "country": "Croatia",
+      "latitude": 44.990598,
+      "longitude": 14.90175,
+      "website": ""
+    },
+    {
+      "name": "Gradski muzej Vinkovci",
+      "name_en": "",
+      "city": "Vinkovci",
+      "country": "Croatia",
+      "latitude": 45.288319,
+      "longitude": 18.803696,
+      "website": "http://hvm.mdc.hr/gradski-muzej-vinkovci,510%3AVNK/hr/info/"
+    },
+    {
+      "name": "Gradski muzej Virovitica",
+      "name_en": "",
+      "city": "Virovitica",
+      "country": "Croatia",
+      "latitude": 45.833609,
+      "longitude": 17.385367,
+      "website": "http://www.muzejvirovitica.hr/"
+    },
+    {
+      "name": "Gradski muzej Vukovar",
+      "name_en": "Eltz Manor",
+      "city": "Vukovar",
+      "country": "Croatia",
+      "latitude": 45.354712,
+      "longitude": 19.000219,
+      "website": "http://www.muzej-vukovar.hr/"
+    },
+    {
+      "name": "homeland war",
+      "name_en": "",
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "latitude": 42.649986,
+      "longitude": 18.110625,
+      "website": ""
+    },
+    {
+      "name": "Hrvatski muzej naivne umjetnosti",
+      "name_en": "",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "latitude": 45.81538,
+      "longitude": 15.97328,
+      "website": "http://www.hmnu.hr/"
+    },
+    {
+      "name": "Hrvatski muzej turizma",
+      "name_en": "",
+      "city": "Opatija",
+      "country": "Croatia",
+      "latitude": 45.335433,
+      "longitude": 14.308793,
+      "website": ""
+    },
+    {
+      "name": "Hrvatski Pomorski muzej",
+      "name_en": "",
+      "city": "Split",
+      "country": "Croatia",
+      "latitude": 43.50872,
+      "longitude": 16.447211,
+      "website": ""
+    },
+    {
+      "name": "Hrvatski povijesni muzej",
+      "name_en": "",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "latitude": 45.81602,
+      "longitude": 15.972341,
+      "website": "http://www.hismus.hr/"
+    },
+    {
+      "name": "Hrvatski školski muzej",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.809235,
+      "longitude": 15.971061,
+      "website": "http://www.hsmuzej.hr/index.asp"
+    },
+    {
+      "name": "Hrvatski športski muzej",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.812489,
+      "longitude": 15.977505,
+      "website": "http://www.sportski-muzej.hr/"
+    },
+    {
+      "name": "Hrvatski željeznički muzej",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.801322,
+      "longitude": 15.983981,
+      "website": "http://muzej.hzinfra.hr/"
+    },
+    {
+      "name": "HT muzej",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.812467,
+      "longitude": 15.981434,
+      "website": ""
+    },
+    {
+      "name": "Hutovski grad",
+      "name_en": "",
+      "city": "Podgora",
+      "country": "Croatia",
+      "latitude": 42.95098,
+      "longitude": 17.803208,
+      "website": ""
+    },
+    {
+      "name": "Izložbe",
+      "name_en": "Exhibitions",
+      "city": "Fažana",
+      "country": "Croatia",
+      "latitude": 44.918595,
+      "longitude": 13.767086,
+      "website": ""
+    },
+    {
+      "name": "Kamenjak",
+      "name_en": "",
+      "city": "Murter",
+      "country": "Croatia",
+      "latitude": 43.894496,
+      "longitude": 15.611076,
+      "website": ""
+    },
+    {
+      "name": "Klaustar",
+      "name_en": "",
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "latitude": 42.641868,
+      "longitude": 18.107954,
+      "website": ""
+    },
+    {
+      "name": "Kula Lotrščak",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.814636,
+      "longitude": 15.973194,
+      "website": "http://gkd.hr/kula-lotrscak/"
+    },
+    {
+      "name": "Kulturno-povijesni muzej",
+      "name_en": "Cultural-Historical Museum",
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "latitude": 42.640399,
+      "longitude": 18.110547,
+      "website": ""
+    },
+    {
+      "name": "Kućica od ribari",
+      "name_en": "",
+      "city": "Jadranovo",
+      "country": "Croatia",
+      "latitude": 45.225137,
+      "longitude": 14.613525,
+      "website": "http://www.mgc.hr"
+    },
+    {
+      "name": "Lapidarij",
+      "name_en": "",
+      "city": "Vodnjan",
+      "country": "Croatia",
+      "latitude": 45.041058,
+      "longitude": 13.787529,
+      "website": ""
+    },
+    {
+      "name": "Lapidarium",
+      "name_en": "",
+      "city": "Podgora",
+      "country": "Croatia",
+      "latitude": 42.785505,
+      "longitude": 17.889717,
+      "website": ""
+    },
+    {
+      "name": "Lapidarium",
+      "name_en": "",
+      "city": "Novigrad",
+      "country": "Croatia",
+      "latitude": 45.316433,
+      "longitude": 13.558954,
+      "website": ""
+    },
+    {
+      "name": "Lapidarium Ston",
+      "name_en": "",
+      "city": "Ston",
+      "country": "Croatia",
+      "latitude": 42.837798,
+      "longitude": 17.695386,
+      "website": ""
+    },
+    {
+      "name": "Lovački muzej",
+      "name_en": "",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "latitude": 45.821342,
+      "longitude": 15.968011,
+      "website": "http://www.hls.com.hr/"
+    },
+    {
+      "name": "Malakološki muzej",
+      "name_en": "",
+      "city": "Makarska",
+      "country": "Croatia",
+      "latitude": 43.291945,
+      "longitude": 17.021747,
+      "website": ""
+    },
+    {
+      "name": "Marasovići Ethno House",
+      "name_en": "",
+      "city": "Starigrad",
+      "country": "Croatia",
+      "latitude": 44.292696,
+      "longitude": 15.455854,
+      "website": "http://www.paklenica.hr/paklenica_en/Paklenica_Etno-k_Marasovici_en.htm"
+    },
+    {
+      "name": "Memorijalni centar 'Lipa pamti'",
+      "name_en": "",
+      "city": "Klana",
+      "country": "Croatia",
+      "latitude": 45.466451,
+      "longitude": 14.304307,
+      "website": ""
+    },
+    {
+      "name": "Memorijalni centar Fausta Vrančića",
+      "name_en": "",
+      "city": "Vodice",
+      "country": "Croatia",
+      "latitude": 43.724101,
+      "longitude": 15.800499,
+      "website": ""
+    },
+    {
+      "name": "Memorijalni muzej Spomen područja Jasenovac",
+      "name_en": "",
+      "city": "Novska",
+      "country": "Croatia",
+      "latitude": 45.277277,
+      "longitude": 16.922289,
+      "website": "http://www.jusp-jasenovac.hr/Default.aspx?sid=5056"
+    },
+    {
+      "name": "mini Parenzana museum",
+      "name_en": "",
+      "city": "Karojba",
+      "country": "Croatia",
+      "latitude": 45.354697,
+      "longitude": 13.828579,
+      "website": ""
+    },
+    {
+      "name": "Moderna galerija",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.809132,
+      "longitude": 15.977548,
+      "website": "http://www.moderna-galerija.hr/"
+    },
+    {
+      "name": "Museum",
+      "name_en": "",
+      "city": "Lovran",
+      "country": "Croatia",
+      "latitude": 45.226597,
+      "longitude": 14.248857,
+      "website": ""
+    },
+    {
+      "name": "Museum Burnum",
+      "name_en": "",
+      "city": "Kistanje",
+      "country": "Croatia",
+      "latitude": 44.001414,
+      "longitude": 16.022999,
+      "website": ""
+    },
+    {
+      "name": "Museum of Broken Relationships",
+      "name_en": "",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "latitude": 45.815478,
+      "longitude": 15.973576,
+      "website": "http://brokenships.com"
+    },
+    {
+      "name": "Museum of Sacral Art Vodnjan",
+      "name_en": "",
+      "city": "Vodnjan",
+      "country": "Croatia",
+      "latitude": 44.960917,
+      "longitude": 13.847633,
+      "website": ""
+    },
+    {
+      "name": "Muzej antičkog stakla",
+      "name_en": "Museum of Ancient Glass",
+      "city": "Zadar",
+      "country": "Croatia",
+      "latitude": 44.114331,
+      "longitude": 15.229527,
+      "website": "http://www.mas-zadar.hr/"
+    },
+    {
+      "name": "Muzej automobila Ferdinand Budicki",
+      "name_en": "",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "latitude": 45.808359,
+      "longitude": 15.998744,
+      "website": "http://www.otk-ferdinandbudicki.hr/"
+    },
+    {
+      "name": "Muzej Betinske drvene brodogradnje",
+      "name_en": "",
+      "city": "Murter",
+      "country": "Croatia",
+      "latitude": 43.823264,
+      "longitude": 15.604108,
+      "website": ""
+    },
+    {
+      "name": "Muzej blaženog Alojzija Stepinca",
+      "name_en": "",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "latitude": 45.814354,
+      "longitude": 15.97908,
+      "website": ""
+    },
+    {
+      "name": "Muzej Brdovec",
+      "name_en": "",
+      "city": "Brdovec",
+      "country": "Croatia",
+      "latitude": 45.864492,
+      "longitude": 15.770003,
+      "website": ""
+    },
+    {
+      "name": "Muzej Brodskog Posavlja",
+      "name_en": "",
+      "city": "Slavonski Brod",
+      "country": "Croatia",
+      "latitude": 45.152707,
+      "longitude": 18.016512,
+      "website": "http://www.muzejbp.hr/"
+    },
+    {
+      "name": "Muzej Dominikanskog Samostana",
+      "name_en": "",
+      "city": "Bol",
+      "country": "Croatia",
+      "latitude": 43.26073,
+      "longitude": 16.666734,
+      "website": ""
+    },
+    {
+      "name": "Muzej gljiva",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.813635,
+      "longitude": 15.976565,
+      "website": ""
+    },
+    {
+      "name": "muzej grada drniša",
+      "name_en": "",
+      "city": "Drniš",
+      "country": "Croatia",
+      "latitude": 43.857307,
+      "longitude": 16.158525,
+      "website": ""
+    },
+    {
+      "name": "Muzej Grada Kaštela",
+      "name_en": "",
+      "city": "Split",
+      "country": "Croatia",
+      "latitude": 43.550663,
+      "longitude": 16.363966,
+      "website": ""
+    },
+    {
+      "name": "Muzej grada Splita",
+      "name_en": "",
+      "city": "Split",
+      "country": "Croatia",
+      "latitude": 43.508635,
+      "longitude": 16.440845,
+      "website": ""
+    },
+    {
+      "name": "Muzej grada Trilja",
+      "name_en": "",
+      "city": "Trilj",
+      "country": "Croatia",
+      "latitude": 43.619548,
+      "longitude": 16.725335,
+      "website": ""
+    },
+    {
+      "name": "Muzej Grada Šibenika",
+      "name_en": "Šibenik Museum",
+      "city": "Šibenik",
+      "country": "Croatia",
+      "latitude": 43.735374,
+      "longitude": 15.889126,
+      "website": "http://www.muzej-sibenik.hr/hrv/default.asp"
+    },
+    {
+      "name": "Muzej Iluzija",
+      "name_en": "Museum of ilusions",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.813059,
+      "longitude": 15.966469,
+      "website": "http://muzejiluzija.com/"
+    },
+    {
+      "name": "Muzej iluzija",
+      "name_en": "Museum of Illusions",
+      "city": "Zadar",
+      "country": "Croatia",
+      "latitude": 44.114115,
+      "longitude": 15.229741,
+      "website": "http://zadar.muzejiluzija.com/"
+    },
+    {
+      "name": "Muzej Mimara",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.808245,
+      "longitude": 15.967118,
+      "website": "http://www.mimara.hr/"
+    },
+    {
+      "name": "Muzej općine Jelsa",
+      "name_en": "",
+      "city": "Jelsa",
+      "country": "Croatia",
+      "latitude": 43.161447,
+      "longitude": 16.693698,
+      "website": ""
+    },
+    {
+      "name": "Muzej OS",
+      "name_en": "",
+      "city": "Osijek",
+      "country": "Croatia",
+      "latitude": 45.56116,
+      "longitude": 18.675859,
+      "website": "http://osijek.hr"
+    },
+    {
+      "name": "Muzej prehrane",
+      "name_en": "",
+      "city": "Koprivnica",
+      "country": "Croatia",
+      "latitude": 46.15417,
+      "longitude": 16.824706,
+      "website": ""
+    },
+    {
+      "name": "Muzej prekinutih veza",
+      "name_en": "Museum of Broken Relationships",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.814969,
+      "longitude": 15.97353,
+      "website": "http://www.brokenships.com/"
+    },
+    {
+      "name": "Muzej sakralne umjetnosti",
+      "name_en": "The Museum of Church Art",
+      "city": "Punat",
+      "country": "Croatia",
+      "latitude": 45.02649,
+      "longitude": 14.618371,
+      "website": ""
+    },
+    {
+      "name": "Muzej seljačkih buna",
+      "name_en": "",
+      "city": "Selnica",
+      "country": "Croatia",
+      "latitude": 45.984775,
+      "longitude": 16.016614,
+      "website": "http://www.mdc.hr/msb"
+    },
+    {
+      "name": "Muzej Sinjske alke",
+      "name_en": "",
+      "city": "Sinj",
+      "country": "Croatia",
+      "latitude": 43.700865,
+      "longitude": 16.635452,
+      "website": ""
+    },
+    {
+      "name": "Muzej Sveti Ivan Zelina",
+      "name_en": "",
+      "city": "Brckovljani",
+      "country": "Croatia",
+      "latitude": 45.959184,
+      "longitude": 16.242619,
+      "website": ""
+    },
+    {
+      "name": "Muzej tambure",
+      "name_en": "",
+      "city": "Slavonski Brod",
+      "country": "Croatia",
+      "latitude": 45.156051,
+      "longitude": 18.00608,
+      "website": "http://www.but.hr/muzej_tambure.php"
+    },
+    {
+      "name": "Muzej Đakovštine",
+      "name_en": "",
+      "city": "Piškorevci",
+      "country": "Croatia",
+      "latitude": 45.313428,
+      "longitude": 18.409097,
+      "website": "http://www.muzej-djakovstine.hr/index.php"
+    },
+    {
+      "name": "Muzej školjaka i vodenog svijeta Osijek",
+      "name_en": "Sea world museum",
+      "city": "Osijek",
+      "country": "Croatia",
+      "latitude": 45.561036,
+      "longitude": 18.697758,
+      "website": "http://www.gloria-maris.hr/"
+    },
+    {
+      "name": "Muzejska arheološka zbirka",
+      "name_en": "",
+      "city": "Zaton",
+      "country": "Croatia",
+      "latitude": 43.924815,
+      "longitude": 15.841366,
+      "website": ""
+    },
+    {
+      "name": "Muzejsko-memorijalni centar Dražen Petrović",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.803064,
+      "longitude": 15.963573,
+      "website": "http://www.drazenpetrovic.net/"
+    },
+    {
+      "name": "Mузеј Батинске битке",
+      "name_en": "Museum of the Batina Battle WW2",
+      "city": "Batina",
+      "country": "Croatia",
+      "latitude": 45.850626,
+      "longitude": 18.861141,
+      "website": ""
+    },
+    {
+      "name": "Narodni muzej - Prirodoslovni odsjek",
+      "name_en": "",
+      "city": "Zadar",
+      "country": "Croatia",
+      "latitude": 44.112789,
+      "longitude": 15.228231,
+      "website": ""
+    },
+    {
+      "name": "Narodni muzej Labin",
+      "name_en": "",
+      "city": "Labin",
+      "country": "Croatia",
+      "latitude": 45.086083,
+      "longitude": 14.12404,
+      "website": ""
+    },
+    {
+      "name": "Narodni muzej Zadar",
+      "name_en": "",
+      "city": "Zadar",
+      "country": "Croatia",
+      "latitude": 44.116438,
+      "longitude": 15.226666,
+      "website": "http://nmz.hr/"
+    },
+    {
+      "name": "Natural-History Museum",
+      "name_en": "",
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "latitude": 42.639661,
+      "longitude": 18.109612,
+      "website": ""
+    },
+    {
+      "name": "Permanent exhibition of Salt",
+      "name_en": "",
+      "city": "Pag",
+      "country": "Croatia",
+      "latitude": 44.442762,
+      "longitude": 15.052342,
+      "website": ""
+    },
+    {
+      "name": "Pomorski muzej",
+      "name_en": "Maritime Museum",
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "latitude": 42.640011,
+      "longitude": 18.112456,
+      "website": ""
+    },
+    {
+      "name": "Pomorski muzej Orebić",
+      "name_en": "",
+      "city": "Orebić",
+      "country": "Croatia",
+      "latitude": 42.974131,
+      "longitude": 17.179446,
+      "website": ""
+    },
+    {
+      "name": "Povijesni i pomorski muzej Istre",
+      "name_en": "Historical and Maritime Museum of Istria",
+      "city": "Pula",
+      "country": "Croatia",
+      "latitude": 44.870262,
+      "longitude": 13.845534,
+      "website": "http://ppmi.hr/hr/"
+    },
+    {
+      "name": "Prirodoslovni muzej",
+      "name_en": "Museum Natural History",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "latitude": 45.817156,
+      "longitude": 15.97225,
+      "website": "http://www.hpm.hr/"
+    },
+    {
+      "name": "Prirodoslovni muzej",
+      "name_en": "",
+      "city": "Split",
+      "country": "Croatia",
+      "latitude": 43.507217,
+      "longitude": 16.443103,
+      "website": ""
+    },
+    {
+      "name": "Prirodoslovni Muzej (Natural History)",
+      "name_en": "",
+      "city": "Metković",
+      "country": "Croatia",
+      "latitude": 43.052364,
+      "longitude": 17.648445,
+      "website": ""
+    },
+    {
+      "name": "Rastoke",
+      "name_en": "",
+      "city": "Slunj",
+      "country": "Croatia",
+      "latitude": 45.120459,
+      "longitude": 15.584959,
+      "website": ""
+    },
+    {
+      "name": "Ribarski muzej",
+      "name_en": "",
+      "city": "Jelsa",
+      "country": "Croatia",
+      "latitude": 43.181379,
+      "longitude": 16.671316,
+      "website": ""
+    },
+    {
+      "name": "Riznica",
+      "name_en": "",
+      "city": "Korčula",
+      "country": "Croatia",
+      "latitude": 42.961426,
+      "longitude": 17.136092,
+      "website": ""
+    },
+    {
+      "name": "Riznica samostana",
+      "name_en": "",
+      "city": "Zadar",
+      "country": "Croatia",
+      "latitude": 44.116488,
+      "longitude": 15.221721,
+      "website": ""
+    },
+    {
+      "name": "Samostanski muzej",
+      "name_en": "",
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "latitude": 42.641945,
+      "longitude": 18.111422,
+      "website": ""
+    },
+    {
+      "name": "Spomen soba Dražen Petrović",
+      "name_en": "",
+      "city": "Šibenik",
+      "country": "Croatia",
+      "latitude": 43.730401,
+      "longitude": 15.902338,
+      "website": ""
+    },
+    {
+      "name": "Strossmayerova galerija starih majstora",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.809079,
+      "longitude": 15.978584,
+      "website": "http://info.hazu.hr/hr/o-akademiji/jedinice/strossmayerova_galerija_starih_majstora/"
+    },
+    {
+      "name": "Sv. Eufemija",
+      "name_en": "",
+      "city": "Kampor",
+      "country": "Croatia",
+      "latitude": 44.768754,
+      "longitude": 14.739989,
+      "website": ""
+    },
+    {
+      "name": "Swiss House",
+      "name_en": "",
+      "city": "Opatija",
+      "country": "Croatia",
+      "latitude": 45.336198,
+      "longitude": 14.308797,
+      "website": ""
+    },
+    {
+      "name": "The Apoksiomen museum",
+      "name_en": "Apoxyomenos Museum",
+      "city": "Mali Lošinj",
+      "country": "Croatia",
+      "latitude": 44.534839,
+      "longitude": 14.46703,
+      "website": "http://www.muzejapoksiomena.hr"
+    },
+    {
+      "name": "Tiflološki muzej",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.806359,
+      "longitude": 15.983876,
+      "website": "http://www.tifloloskimuzej.hr/"
+    },
+    {
+      "name": "Tortureum - Muzej torture",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.814374,
+      "longitude": 15.975933,
+      "website": "http://www.tortureum.com/"
+    },
+    {
+      "name": "Tractor Museum",
+      "name_en": "",
+      "city": "Poreč",
+      "country": "Croatia",
+      "latitude": 45.268121,
+      "longitude": 13.660572,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Podturen",
+      "country": "Croatia",
+      "latitude": 46.52739,
+      "longitude": 16.55456,
+      "website": ""
+    },
+    {
+      "name": "Ulika",
+      "name_en": "",
+      "city": "Vodnjan",
+      "country": "Croatia",
+      "latitude": 45.040387,
+      "longitude": 13.783345,
+      "website": ""
+    },
+    {
+      "name": "Umjetnički paviljon",
+      "name_en": "",
+      "city": "Zagreb - Centar",
+      "country": "Croatia",
+      "latitude": 45.807084,
+      "longitude": 15.978627,
+      "website": "http://www.umjetnicki-paviljon.hr/"
+    },
+    {
+      "name": "vatrogasni muzej?",
+      "name_en": "",
+      "city": "Budaševo",
+      "country": "Croatia",
+      "latitude": 45.441353,
+      "longitude": 16.479673,
+      "website": ""
+    },
+    {
+      "name": "War Photo Limited",
+      "name_en": "",
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "latitude": 42.641538,
+      "longitude": 18.108848,
+      "website": ""
+    },
+    {
+      "name": "Zavicajna kuca Hutovo",
+      "name_en": "",
+      "city": "Podgora",
+      "country": "Croatia",
+      "latitude": 42.956938,
+      "longitude": 17.810904,
+      "website": ""
+    },
+    {
+      "name": "Zavičajni muzej",
+      "name_en": "",
+      "city": "Biograd na Moru",
+      "country": "Croatia",
+      "latitude": 43.937899,
+      "longitude": 15.440218,
+      "website": ""
+    },
+    {
+      "name": "zavičajni muzej Donja kupčina",
+      "name_en": "",
+      "city": "Horvati",
+      "country": "Croatia",
+      "latitude": 45.548784,
+      "longitude": 15.810142,
+      "website": ""
+    },
+    {
+      "name": "Zavičajni muzej Grada Rovinja",
+      "name_en": "",
+      "city": "Rovinj",
+      "country": "Croatia",
+      "latitude": 45.082454,
+      "longitude": 13.634275,
+      "website": ""
+    },
+    {
+      "name": "Zavičajni muzej Imotski",
+      "name_en": "",
+      "city": "Imotski",
+      "country": "Croatia",
+      "latitude": 43.444064,
+      "longitude": 17.22035,
+      "website": ""
+    },
+    {
+      "name": "Zavičajni muzej Našice",
+      "name_en": "",
+      "city": "Našice",
+      "country": "Croatia",
+      "latitude": 45.491414,
+      "longitude": 18.092722,
+      "website": "http://www.zmn.hr/"
+    },
+    {
+      "name": "Zavičajni muzej Slatina",
+      "name_en": "",
+      "city": "Slatina",
+      "country": "Croatia",
+      "latitude": 45.701166,
+      "longitude": 17.700795,
+      "website": ""
+    },
+    {
+      "name": "Zavičajni muzej Stjepana Grubera",
+      "name_en": "",
+      "city": "Županja",
+      "country": "Croatia",
+      "latitude": 45.073379,
+      "longitude": 18.686722,
+      "website": ""
+    },
+    {
+      "name": "Zbirka franjevačkog samostana Imotski",
+      "name_en": "",
+      "city": "Imotski",
+      "country": "Croatia",
+      "latitude": 43.446822,
+      "longitude": 17.213484,
+      "website": ""
+    },
+    {
+      "name": "Zerostrasse",
+      "name_en": "",
+      "city": "Pula",
+      "country": "Croatia",
+      "latitude": 44.870744,
+      "longitude": 13.843309,
+      "website": ""
+    },
+    {
+      "name": "Zerostrasse",
+      "name_en": "",
+      "city": "Pula",
+      "country": "Croatia",
+      "latitude": 44.8708,
+      "longitude": 13.847314,
+      "website": ""
+    },
+    {
+      "name": "Zlato i srebro Zadra",
+      "name_en": "",
+      "city": "Zadar",
+      "country": "Croatia",
+      "latitude": 44.1153,
+      "longitude": 15.225021,
+      "website": ""
+    },
+    {
+      "name": "Ős-Dráva Látogatóközpont",
+      "name_en": "Ancient Drava Visitor Centre",
+      "city": "Viljevo",
+      "country": "Croatia",
+      "latitude": 45.800117,
+      "longitude": 18.098827,
+      "website": "http://odlk.hu"
+    }
+  ],
+  "meta": {
+    "title": "Muzeji u Hrvatskoj (Museums in Croatia) - Besplatno preuzimanje",
+    "description": "Popis od 149 muzeja u Hrvatskoj iz OpenStreetMapa — naziv, grad, koordinate i web stranica. Sadrži 149 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Muzeji u Hrvatskoj (Museums in Croatia) | ListBase",
+    "seo_description": "Preuzmi Muzeji u Hrvatskoj (Museums in Croatia) — 149 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 149 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

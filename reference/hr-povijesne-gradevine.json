@@ -1,0 +1,801 @@
+{
+  "id": "hr-povijesne-gradevine",
+  "name": "Povijesne građevine",
+  "title": "Povijesne građevine",
+  "description": "Povijesne građevine u Hrvatskoj (152 zapisa) — točke interesa iz OpenStreetMapa (oznaka historic=building), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 152,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Poštovska\" zgrada",
+      "latitude": 45.89963,
+      "longitude": 16.844038
+    },
+    {
+      "name": "Bivša vojna glazbena škola",
+      "latitude": 45.897855,
+      "longitude": 16.847877
+    },
+    {
+      "name": "Bivši caffe Toni",
+      "latitude": 45.892006,
+      "longitude": 16.826899
+    },
+    {
+      "name": "Dom sindikata",
+      "latitude": 46.389858,
+      "longitude": 16.435349
+    },
+    {
+      "name": "Dragičevića mlin",
+      "latitude": 44.187817,
+      "longitude": 15.822516
+    },
+    {
+      "name": "DVD Čazma",
+      "latitude": 45.747546,
+      "longitude": 16.612213
+    },
+    {
+      "name": "Ethno House Večenaj",
+      "latitude": 46.195771,
+      "longitude": 17.053934
+    },
+    {
+      "name": "Fenor",
+      "latitude": 45.895673,
+      "longitude": 16.843668
+    },
+    {
+      "name": "Ferostroj",
+      "latitude": 46.085071,
+      "longitude": 16.950097
+    },
+    {
+      "name": "Glagoljaško sjemenište",
+      "latitude": 43.447132,
+      "longitude": 16.688415
+    },
+    {
+      "name": "Građanska škola",
+      "latitude": 45.542681,
+      "longitude": 18.051851
+    },
+    {
+      "name": "Hotel",
+      "latitude": 45.756603,
+      "longitude": 17.05006
+    },
+    {
+      "name": "Hotel \"Holiday - Luteranska crkva u Hrastovcu",
+      "latitude": 45.551299,
+      "longitude": 16.988538
+    },
+    {
+      "name": "Hrvatski Vatrogasni Dom Gola",
+      "latitude": 46.199993,
+      "longitude": 17.05997
+    },
+    {
+      "name": "Jupiterov hram",
+      "latitude": 43.508308,
+      "longitude": 16.439588
+    },
+    {
+      "name": "Klokočevačka vila",
+      "latitude": 45.916869,
+      "longitude": 16.795767
+    },
+    {
+      "name": "Kolodvorska 25",
+      "latitude": 45.940164,
+      "longitude": 16.658655
+    },
+    {
+      "name": "Končanica 229",
+      "latitude": 45.63727,
+      "longitude": 17.163862
+    },
+    {
+      "name": "Krasotica - stara škola",
+      "latitude": 46.067522,
+      "longitude": 16.989026
+    },
+    {
+      "name": "Kroz Grodu 7-9",
+      "latitude": 43.172848,
+      "longitude": 16.442098
+    },
+    {
+      "name": "Kuca dva sveca",
+      "latitude": 45.227579,
+      "longitude": 13.592851
+    },
+    {
+      "name": "Kukuružarnik",
+      "latitude": 45.871133,
+      "longitude": 15.804872
+    },
+    {
+      "name": "Kuća Došen",
+      "latitude": 45.972157,
+      "longitude": 16.770939
+    },
+    {
+      "name": "Kuća Ede Murtića",
+      "latitude": 45.79936,
+      "longitude": 17.052696
+    },
+    {
+      "name": "Kuća Fuhrmann",
+      "latitude": 45.839379,
+      "longitude": 15.970139
+    },
+    {
+      "name": "Kuća Ivana Pohnera",
+      "latitude": 45.901489,
+      "longitude": 16.845742
+    },
+    {
+      "name": "Kuća Jakšić",
+      "latitude": 43.172782,
+      "longitude": 16.442044
+    },
+    {
+      "name": "Kuća Julina Hanze",
+      "latitude": 45.896498,
+      "longitude": 16.846508
+    },
+    {
+      "name": "Kuća Juraja i Sofije Jerčin Ladiš",
+      "latitude": 45.900509,
+      "longitude": 16.846105
+    },
+    {
+      "name": "Kuća Kozlik",
+      "latitude": 45.935605,
+      "longitude": 16.780609
+    },
+    {
+      "name": "Kuća Lavoslava Singera",
+      "latitude": 45.894943,
+      "longitude": 16.843287
+    },
+    {
+      "name": "Kuća Marof",
+      "latitude": 45.871401,
+      "longitude": 15.805038
+    },
+    {
+      "name": "Kuća narodog heroja Petra Biškupa Vene",
+      "latitude": 45.960783,
+      "longitude": 16.787906
+    },
+    {
+      "name": "Kuća Nikole Balote",
+      "latitude": 45.896318,
+      "longitude": 16.841064
+    },
+    {
+      "name": "Kuća obitelji Černy",
+      "latitude": 45.901418,
+      "longitude": 16.84608
+    },
+    {
+      "name": "Kuća Oškera",
+      "latitude": 45.945741,
+      "longitude": 16.730665
+    },
+    {
+      "name": "Kuća Pavleković",
+      "latitude": 45.910715,
+      "longitude": 16.852433
+    },
+    {
+      "name": "Kuća Petr",
+      "latitude": 45.653569,
+      "longitude": 17.008945
+    },
+    {
+      "name": "Kuća sretnog čovjeka",
+      "latitude": 43.444651,
+      "longitude": 16.692728
+    },
+    {
+      "name": "Kuća za služinčad",
+      "latitude": 46.326399,
+      "longitude": 16.148649
+    },
+    {
+      "name": "Kuća Đure Hajdukovića",
+      "latitude": 45.910093,
+      "longitude": 16.852769
+    },
+    {
+      "name": "Kvaternikova vila",
+      "latitude": 45.98425,
+      "longitude": 16.850696
+    },
+    {
+      "name": "Ljetnikovac Sollar",
+      "latitude": 45.843746,
+      "longitude": 15.964499
+    },
+    {
+      "name": "Ljetnikovac Vidrić",
+      "latitude": 45.842796,
+      "longitude": 15.96702
+    },
+    {
+      "name": "Loggia",
+      "latitude": 45.381242,
+      "longitude": 13.823452
+    },
+    {
+      "name": "Mala loža",
+      "latitude": 43.51586,
+      "longitude": 16.251038
+    },
+    {
+      "name": "Marco Polo house",
+      "latitude": 42.961849,
+      "longitude": 17.136505
+    },
+    {
+      "name": "Mlin Berek",
+      "latitude": 45.74146,
+      "longitude": 16.832759
+    },
+    {
+      "name": "Mlin Farina",
+      "latitude": 45.785602,
+      "longitude": 16.650893
+    },
+    {
+      "name": "Mlin Hladiš",
+      "latitude": 45.833459,
+      "longitude": 16.812401
+    },
+    {
+      "name": "Mlin Moster",
+      "latitude": 45.944841,
+      "longitude": 16.606735
+    },
+    {
+      "name": "Mlin na Bjelovackoj",
+      "latitude": 45.879465,
+      "longitude": 16.832754
+    },
+    {
+      "name": "Omladinski dom",
+      "latitude": 45.897697,
+      "longitude": 16.842192
+    },
+    {
+      "name": "Opskrbni centar",
+      "latitude": 46.07563,
+      "longitude": 16.948864
+    },
+    {
+      "name": "Oružarnica",
+      "latitude": 46.158849,
+      "longitude": 16.832669
+    },
+    {
+      "name": "Osmatračnica",
+      "latitude": 44.46377,
+      "longitude": 15.063214
+    },
+    {
+      "name": "Palača pravde",
+      "latitude": 45.899704,
+      "longitude": 16.84784
+    },
+    {
+      "name": "Palača Sinčić",
+      "latitude": 45.227731,
+      "longitude": 13.593281
+    },
+    {
+      "name": "Palača Sponza",
+      "latitude": 42.641297,
+      "longitude": 18.110635
+    },
+    {
+      "name": "Palača Zuccato",
+      "latitude": 45.228055,
+      "longitude": 13.592182
+    },
+    {
+      "name": "Parna pilana",
+      "latitude": 45.540619,
+      "longitude": 18.042689
+    },
+    {
+      "name": "Parohijska kuća",
+      "latitude": 45.948225,
+      "longitude": 16.732381
+    },
+    {
+      "name": "Paromlin Suhanek",
+      "latitude": 45.895495,
+      "longitude": 16.849166
+    },
+    {
+      "name": "Petnaestica",
+      "latitude": 45.900756,
+      "longitude": 16.838171
+    },
+    {
+      "name": "Piramida Koševac",
+      "latitude": 46.083191,
+      "longitude": 16.867509
+    },
+    {
+      "name": "Povijesna zgrada",
+      "latitude": 45.661949,
+      "longitude": 17.427315
+    },
+    {
+      "name": "Pučka škola Brckovljani",
+      "latitude": 45.822297,
+      "longitude": 16.288682
+    },
+    {
+      "name": "Rodna kuća Ante Kovačića",
+      "latitude": 45.915046,
+      "longitude": 15.727292
+    },
+    {
+      "name": "Rodna kuća Bakića",
+      "latitude": 45.897109,
+      "longitude": 16.845453
+    },
+    {
+      "name": "Rodna kuća Blaža Mađera",
+      "latitude": 46.073239,
+      "longitude": 16.94277
+    },
+    {
+      "name": "Romanička kuća",
+      "latitude": 45.22803,
+      "longitude": 13.591404
+    },
+    {
+      "name": "Secesijska vila",
+      "latitude": 45.897516,
+      "longitude": 16.836154
+    },
+    {
+      "name": "Silos Union",
+      "latitude": 45.555729,
+      "longitude": 18.684461
+    },
+    {
+      "name": "Sjedište drugog bojnika Križevačke pukovnije",
+      "latitude": 45.898221,
+      "longitude": 16.840841
+    },
+    {
+      "name": "Sjedište prvog bojnika Križevačke pukovnije",
+      "latitude": 45.897846,
+      "longitude": 16.841717
+    },
+    {
+      "name": "Skladište drvene građe, željeza i vojne opreme",
+      "latitude": 45.899632,
+      "longitude": 16.846542
+    },
+    {
+      "name": "Spomen dom Alojza Vulinca",
+      "latitude": 45.710764,
+      "longitude": 16.39832
+    },
+    {
+      "name": "Staklana",
+      "latitude": 45.896076,
+      "longitude": 16.842397
+    },
+    {
+      "name": "Staklar",
+      "latitude": 45.945701,
+      "longitude": 16.608445
+    },
+    {
+      "name": "Stara ciglana Omčikus",
+      "latitude": 45.894441,
+      "longitude": 16.830769
+    },
+    {
+      "name": "Stara kuća",
+      "latitude": 45.80198,
+      "longitude": 17.067579
+    },
+    {
+      "name": "Stara novigradska čitaonica",
+      "latitude": 46.07517,
+      "longitude": 16.951928
+    },
+    {
+      "name": "Stara Pučka škola",
+      "latitude": 46.075335,
+      "longitude": 16.949569
+    },
+    {
+      "name": "Stara vila",
+      "latitude": 45.897396,
+      "longitude": 16.834833
+    },
+    {
+      "name": "Stara škola",
+      "latitude": 45.654956,
+      "longitude": 16.81042
+    },
+    {
+      "name": "Stara Škola",
+      "latitude": 45.748188,
+      "longitude": 16.613192
+    },
+    {
+      "name": "Stara škola",
+      "latitude": 45.989288,
+      "longitude": 16.850496
+    },
+    {
+      "name": "Stara škola",
+      "latitude": 46.021372,
+      "longitude": 16.751082
+    },
+    {
+      "name": "Stara škola  Veliki Zdenci",
+      "latitude": 45.658309,
+      "longitude": 17.084712
+    },
+    {
+      "name": "Stara škola Katinac",
+      "latitude": 45.655658,
+      "longitude": 17.406554
+    },
+    {
+      "name": "Stara škola Legrad",
+      "latitude": 46.29693,
+      "longitude": 16.855417
+    },
+    {
+      "name": "Stara škola Obrovnica",
+      "latitude": 45.827516,
+      "longitude": 16.88304
+    },
+    {
+      "name": "Stara škola Rakovica",
+      "latitude": 44.99342,
+      "longitude": 15.649904
+    },
+    {
+      "name": "Stara škola Velika Peratovica",
+      "latitude": 45.756557,
+      "longitude": 17.248707
+    },
+    {
+      "name": "Stara škola Veliki Pašijan",
+      "latitude": 45.638821,
+      "longitude": 16.931352
+    },
+    {
+      "name": "Stari dom m",
+      "latitude": 45.735045,
+      "longitude": 17.139686
+    },
+    {
+      "name": "Stari hotel Central",
+      "latitude": 45.895808,
+      "longitude": 16.842175
+    },
+    {
+      "name": "Stari Koestlin",
+      "latitude": 45.900838,
+      "longitude": 16.840594
+    },
+    {
+      "name": "Stari mjesni dom Ivanovčani",
+      "latitude": 45.910766,
+      "longitude": 16.851385
+    },
+    {
+      "name": "Stari Paromlin",
+      "latitude": 45.903222,
+      "longitude": 16.843604
+    },
+    {
+      "name": "Stari Silos",
+      "latitude": 45.903444,
+      "longitude": 16.842786
+    },
+    {
+      "name": "Stari Zatvor",
+      "latitude": 45.897189,
+      "longitude": 16.839019
+    },
+    {
+      "name": "Staro sjedište Bjelovarsko Križevačke županije",
+      "latitude": 45.897734,
+      "longitude": 16.843019
+    },
+    {
+      "name": "Staro Svratište Toma",
+      "latitude": 45.895235,
+      "longitude": 16.844401
+    },
+    {
+      "name": "Staro Vatrogasno Spremište",
+      "latitude": 45.895047,
+      "longitude": 16.840454
+    },
+    {
+      "name": "Stočna vaga",
+      "latitude": 46.08287,
+      "longitude": 16.95633
+    },
+    {
+      "name": "Sveti Jure",
+      "latitude": 44.456272,
+      "longitude": 15.061608
+    },
+    {
+      "name": "Tekstilna tvornica \"Nada\"",
+      "latitude": 45.551947,
+      "longitude": 16.989205
+    },
+    {
+      "name": "Tinova kula",
+      "latitude": 43.204303,
+      "longitude": 17.368558
+    },
+    {
+      "name": "Titova kuća u Velikom Trojstvu",
+      "latitude": 45.934244,
+      "longitude": 16.934069
+    },
+    {
+      "name": "Turski hamam",
+      "latitude": 45.223737,
+      "longitude": 19.373668
+    },
+    {
+      "name": "Upravna zgrada paromlina",
+      "latitude": 45.903279,
+      "longitude": 16.844481
+    },
+    {
+      "name": "Veliki Kaptol",
+      "latitude": 45.483743,
+      "longitude": 16.371303
+    },
+    {
+      "name": "Vestibul",
+      "latitude": 43.50794,
+      "longitude": 16.439991
+    },
+    {
+      "name": "Vila Begović",
+      "latitude": 45.896438,
+      "longitude": 16.845796
+    },
+    {
+      "name": "Vila Branka Živkovića",
+      "latitude": 45.898071,
+      "longitude": 16.836126
+    },
+    {
+      "name": "Vila Fridrih",
+      "latitude": 45.897923,
+      "longitude": 16.836365
+    },
+    {
+      "name": "Vila Hirschler",
+      "latitude": 45.836565,
+      "longitude": 15.971464
+    },
+    {
+      "name": "Vila Keli",
+      "latitude": 45.579016,
+      "longitude": 16.94053
+    },
+    {
+      "name": "Vila Malek",
+      "latitude": 45.874749,
+      "longitude": 16.840522
+    },
+    {
+      "name": "Vila Manjkas",
+      "latitude": 45.897276,
+      "longitude": 16.83469
+    },
+    {
+      "name": "Vila Pavla Ergotića",
+      "latitude": 45.897846,
+      "longitude": 16.835395
+    },
+    {
+      "name": "Vila Pflüger",
+      "latitude": 45.838741,
+      "longitude": 15.969701
+    },
+    {
+      "name": "Vila Prekrižje",
+      "latitude": 45.845335,
+      "longitude": 15.956443
+    },
+    {
+      "name": "Vila Radoslava Grujića",
+      "latitude": 45.898206,
+      "longitude": 16.835842
+    },
+    {
+      "name": "Villa Fench",
+      "latitude": 43.586381,
+      "longitude": 15.921014
+    },
+    {
+      "name": "Villa Polesini-Scampicchio",
+      "latitude": 45.235487,
+      "longitude": 13.765364
+    },
+    {
+      "name": "Vodotoranj Varaždin",
+      "latitude": 46.306517,
+      "longitude": 16.334318
+    },
+    {
+      "name": "Vojna škola",
+      "latitude": 45.682899,
+      "longitude": 16.954686
+    },
+    {
+      "name": "Vršilnica",
+      "latitude": 45.871233,
+      "longitude": 15.804004
+    },
+    {
+      "name": "Zagrebačka pivovara",
+      "latitude": 45.895065,
+      "longitude": 16.842928
+    },
+    {
+      "name": "Zgrada \"Regiments Chirurgis\"",
+      "latitude": 45.900047,
+      "longitude": 16.843135
+    },
+    {
+      "name": "Zgrada Bartol",
+      "latitude": 45.945998,
+      "longitude": 16.608969
+    },
+    {
+      "name": "Zgrada Bauhauptmans Quartier",
+      "latitude": 45.89654,
+      "longitude": 16.843246
+    },
+    {
+      "name": "Zgrada bivše predionice svile",
+      "latitude": 45.901931,
+      "longitude": 16.83802
+    },
+    {
+      "name": "Zgrada evangeličke škole",
+      "latitude": 46.297911,
+      "longitude": 16.853174
+    },
+    {
+      "name": "Zgrada Gostinjac",
+      "latitude": 45.895405,
+      "longitude": 16.840193
+    },
+    {
+      "name": "Zgrada Jakšinić",
+      "latitude": 45.947531,
+      "longitude": 16.606103
+    },
+    {
+      "name": "Zgrada Kondor",
+      "latitude": 45.903625,
+      "longitude": 16.856164
+    },
+    {
+      "name": "Zgrada kraljevske kotarske oblasti",
+      "latitude": 45.895259,
+      "longitude": 16.842271
+    },
+    {
+      "name": "Zgrada osnovne škole Kruškovača",
+      "latitude": 45.096297,
+      "longitude": 15.735233
+    },
+    {
+      "name": "Zgrada pošte",
+      "latitude": 45.862358,
+      "longitude": 17.302647
+    },
+    {
+      "name": "Zgrada stare plinare",
+      "latitude": 45.898757,
+      "longitude": 16.852329
+    },
+    {
+      "name": "Zgrada Šumarije",
+      "latitude": 45.752306,
+      "longitude": 16.621245
+    },
+    {
+      "name": "Špoljarićeva pilana",
+      "latitude": 44.92618,
+      "longitude": 15.619822
+    },
+    {
+      "name": "Židovska mrtvančica",
+      "latitude": 45.901544,
+      "longitude": 16.852922
+    },
+    {
+      "name": "Župa Ranjenog Isusa - Gradec",
+      "latitude": 45.912134,
+      "longitude": 16.477347
+    },
+    {
+      "name": "Župa Srca Isusova Velika Pisanica",
+      "latitude": 45.801703,
+      "longitude": 17.066519
+    },
+    {
+      "name": "Župni dom Gola",
+      "latitude": 46.19709,
+      "longitude": 17.059351
+    },
+    {
+      "name": "Župni dvor crkve Ranjenog Isusa",
+      "latitude": 46.021877,
+      "longitude": 16.751965
+    },
+    {
+      "name": "Župni dvor Rastanak svetih apostola",
+      "latitude": 46.074197,
+      "longitude": 16.950081
+    },
+    {
+      "name": "Župni ured Presvetog Trojstva",
+      "latitude": 46.297974,
+      "longitude": 16.856919
+    }
+  ],
+  "meta": {
+    "title": "Povijesne građevine - Besplatno preuzimanje",
+    "description": "Povijesne građevine u Hrvatskoj (152 zapisa) — točke interesa iz OpenStreetMapa (oznaka historic=building), izrez EU-POIS/HR. Sadrži 152 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Povijesne građevine | ListBase",
+    "seo_description": "Preuzmi Povijesne građevine — 152 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 152 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

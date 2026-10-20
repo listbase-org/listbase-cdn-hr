@@ -1,0 +1,356 @@
+{
+  "id": "hr-krapinsko-zagorska-restorani",
+  "name": "Restorani — Krapinsko-zagorska županija",
+  "title": "Restorani — Krapinsko-zagorska županija",
+  "description": "63 restorani u županiji Krapinsko-zagorska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agroturizam Kos",
+      "latitude": 46.053063,
+      "longitude": 15.924017
+    },
+    {
+      "name": "Bistro Bolte",
+      "latitude": 46.093551,
+      "longitude": 16.041423
+    },
+    {
+      "name": "Bistro Slatinski gaj",
+      "latitude": 45.974864,
+      "longitude": 15.858539
+    },
+    {
+      "name": "Bolfan Vinski Vrh",
+      "latitude": 46.117433,
+      "longitude": 16.228139
+    },
+    {
+      "name": "Buffet Zagorka",
+      "latitude": 45.959324,
+      "longitude": 16.090126
+    },
+    {
+      "name": "Dobro nam došel prijatel",
+      "latitude": 46.004193,
+      "longitude": 16.118587
+    },
+    {
+      "name": "DUNAV",
+      "latitude": 46.07733,
+      "longitude": 15.906884
+    },
+    {
+      "name": "Dvorac Gjalski",
+      "latitude": 46.01502,
+      "longitude": 15.873037
+    },
+    {
+      "name": "Dvorac Mihanović",
+      "latitude": 46.066904,
+      "longitude": 15.785075
+    },
+    {
+      "name": "Grašo",
+      "latitude": 46.014326,
+      "longitude": 15.871093
+    },
+    {
+      "name": "Grešna Gorica",
+      "latitude": 46.149214,
+      "longitude": 15.658398
+    },
+    {
+      "name": "Grof",
+      "latitude": 45.984801,
+      "longitude": 16.001592
+    },
+    {
+      "name": "Hiža Štrukli",
+      "latitude": 46.16593,
+      "longitude": 15.920806
+    },
+    {
+      "name": "Kafić Putniku",
+      "latitude": 46.075379,
+      "longitude": 15.748578
+    },
+    {
+      "name": "Kapelšćak",
+      "latitude": 45.977359,
+      "longitude": 15.932368
+    },
+    {
+      "name": "Klet Gradec",
+      "latitude": 46.081443,
+      "longitude": 16.073073
+    },
+    {
+      "name": "Klet Kozjak",
+      "latitude": 46.090285,
+      "longitude": 15.919189
+    },
+    {
+      "name": "Kod Turčina",
+      "latitude": 46.097462,
+      "longitude": 15.904679
+    },
+    {
+      "name": "Kod Đurđe",
+      "latitude": 46.076299,
+      "longitude": 15.85736
+    },
+    {
+      "name": "Kramberger pub",
+      "latitude": 46.164238,
+      "longitude": 15.870016
+    },
+    {
+      "name": "Lilly",
+      "latitude": 46.044702,
+      "longitude": 16.004691
+    },
+    {
+      "name": "Lojzekova",
+      "latitude": 46.014826,
+      "longitude": 16.049791
+    },
+    {
+      "name": "Majsecov mlin",
+      "latitude": 45.972687,
+      "longitude": 15.973166
+    },
+    {
+      "name": "Mladost",
+      "latitude": 46.003,
+      "longitude": 16.119334
+    },
+    {
+      "name": "Mondo",
+      "latitude": 46.023976,
+      "longitude": 15.904369
+    },
+    {
+      "name": "Noć i dan",
+      "latitude": 46.064808,
+      "longitude": 15.779513
+    },
+    {
+      "name": "Old choco house",
+      "latitude": 46.024246,
+      "longitude": 15.901203
+    },
+    {
+      "name": "OPG Jakuš",
+      "latitude": 46.034502,
+      "longitude": 15.953149
+    },
+    {
+      "name": "OPG Posarić",
+      "latitude": 46.104311,
+      "longitude": 16.073225
+    },
+    {
+      "name": "Pečenjara Tomislav",
+      "latitude": 46.00332,
+      "longitude": 16.119246
+    },
+    {
+      "name": "Pizza Gloria",
+      "latitude": 46.026408,
+      "longitude": 15.920689
+    },
+    {
+      "name": "Pizzeria Oro-Goro",
+      "latitude": 45.979739,
+      "longitude": 15.921895
+    },
+    {
+      "name": "Pizzeria Picikato",
+      "latitude": 46.164299,
+      "longitude": 15.869678
+    },
+    {
+      "name": "Pizzeria Servus",
+      "latitude": 46.090207,
+      "longitude": 15.838167
+    },
+    {
+      "name": "Presa",
+      "latitude": 46.16111,
+      "longitude": 15.859653
+    },
+    {
+      "name": "Punkt Beer House",
+      "latitude": 46.005869,
+      "longitude": 15.879788
+    },
+    {
+      "name": "Purga",
+      "latitude": 46.049092,
+      "longitude": 16.102107
+    },
+    {
+      "name": "Restaurant Academia",
+      "latitude": 46.003446,
+      "longitude": 16.118944
+    },
+    {
+      "name": "Restoran KTC",
+      "latitude": 46.145569,
+      "longitude": 15.873245
+    },
+    {
+      "name": "Restoran Lagvić",
+      "latitude": 45.980198,
+      "longitude": 15.969621
+    },
+    {
+      "name": "Restoran Lati",
+      "latitude": 46.065742,
+      "longitude": 15.784183
+    },
+    {
+      "name": "Restoran Relax",
+      "latitude": 46.160147,
+      "longitude": 15.872699
+    },
+    {
+      "name": "Restoran Rosetina",
+      "latitude": 46.087828,
+      "longitude": 15.912649
+    },
+    {
+      "name": "Restoran Vivae",
+      "latitude": 46.090918,
+      "longitude": 15.836763
+    },
+    {
+      "name": "Ribič",
+      "latitude": 45.976018,
+      "longitude": 15.845621
+    },
+    {
+      "name": "Rody",
+      "latitude": 45.988878,
+      "longitude": 16.007184
+    },
+    {
+      "name": "Se-Mi",
+      "latitude": 45.981828,
+      "longitude": 15.837439
+    },
+    {
+      "name": "Seoski turizam Trsek",
+      "latitude": 46.158052,
+      "longitude": 15.680853
+    },
+    {
+      "name": "Seoski turizam Škalec",
+      "latitude": 46.036752,
+      "longitude": 15.799433
+    },
+    {
+      "name": "Stara Hiža Čibi",
+      "latitude": 46.095719,
+      "longitude": 16.093304
+    },
+    {
+      "name": "Stara Vodenica",
+      "latitude": 46.031878,
+      "longitude": 15.733866
+    },
+    {
+      "name": "Stara Vura",
+      "latitude": 46.076199,
+      "longitude": 15.679739
+    },
+    {
+      "name": "Stara škola",
+      "latitude": 46.063149,
+      "longitude": 15.926083
+    },
+    {
+      "name": "Tabor",
+      "latitude": 46.207922,
+      "longitude": 15.770176
+    },
+    {
+      "name": "Taverna Horizont",
+      "latitude": 46.065256,
+      "longitude": 15.785646
+    },
+    {
+      "name": "Vertigo",
+      "latitude": 46.053026,
+      "longitude": 16.077123
+    },
+    {
+      "name": "Vinarija ilčić",
+      "latitude": 46.12386,
+      "longitude": 16.053789
+    },
+    {
+      "name": "Vuglec Breg",
+      "latitude": 46.118553,
+      "longitude": 15.851317
+    },
+    {
+      "name": "Zaboky",
+      "latitude": 46.031043,
+      "longitude": 15.913337
+    },
+    {
+      "name": "Zagi",
+      "latitude": 45.992259,
+      "longitude": 15.917563
+    },
+    {
+      "name": "Zelenjak",
+      "latitude": 46.059318,
+      "longitude": 15.711763
+    },
+    {
+      "name": "Zlatna lisica",
+      "latitude": 46.030711,
+      "longitude": 15.8641
+    },
+    {
+      "name": "Zlatni lampaš",
+      "latitude": 46.089504,
+      "longitude": 16.080733
+    }
+  ],
+  "meta": {
+    "title": "Restorani — Krapinsko-zagorska županija - Besplatno preuzimanje",
+    "description": "63 restorani u županiji Krapinsko-zagorska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 63 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Restorani — Krapinsko-zagorska županija | ListBase",
+    "seo_description": "Preuzmi Restorani — Krapinsko-zagorska županija — 63 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 63 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

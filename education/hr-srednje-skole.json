@@ -1,0 +1,3152 @@
+{
+  "id": "hr-srednje-skole",
+  "name": "Srednje škole u Hrvatskoj",
+  "title": "Srednje škole u Hrvatskoj",
+  "description": "Popis svih srednjih škola u Hrvatskoj — gimnazije, strukovne, umjetničke i druge srednje škole. 443 zapisa, svaki sadrži naziv škole (izvorni veliki tisak), normalizirani naziv (Title Case) i grad/mjesto. Izvor: ddobren/CroHS, web-crawled snapshot iz siječnja 2024 (oko 28 mjeseci star). Dataset is a thin name+city flat list of all 443 Croatian secondary schools, useful as a baseline directory for per-school search queries; schema does not include county (županija), school type, address, founding year, or enrollment.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 443,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "naziv_normalized",
+      "label": "Naziv Normalized",
+      "type": "string"
+    },
+    {
+      "key": "mjesto",
+      "label": "Mjesto",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "slug": "001-bakar-pomorska-skola",
+      "naziv": "POMORSKA ŠKOLA",
+      "naziv_normalized": "Pomorska Škola",
+      "mjesto": "Bakar"
+    },
+    {
+      "id": 2,
+      "slug": "002-bedekovcina-srednja-skola-bedekovcina",
+      "naziv": "SREDNJA ŠKOLA BEDEKOVČINA",
+      "naziv_normalized": "Srednja Škola Bedekovčina",
+      "mjesto": "Bedekovčina"
+    },
+    {
+      "id": 3,
+      "slug": "003-beli-manastir-gimnazija-beli-manastir",
+      "naziv": "GIMNAZIJA BELI MANASTIR",
+      "naziv_normalized": "Gimnazija Beli Manastir",
+      "mjesto": "Beli Manastir"
+    },
+    {
+      "id": 4,
+      "slug": "004-beli-manastir-prva-srednja-skola-beli-manastir",
+      "naziv": "PRVA SREDNJA ŠKOLA BELI MANASTIR",
+      "naziv_normalized": "Prva Srednja Škola Beli Manastir",
+      "mjesto": "Beli Manastir"
+    },
+    {
+      "id": 5,
+      "slug": "005-beli-manastir-druga-srednja-skola-beli-manastir",
+      "naziv": "DRUGA SREDNJA ŠKOLA BELI MANASTIR",
+      "naziv_normalized": "Druga Srednja Škola Beli Manastir",
+      "mjesto": "Beli Manastir"
+    },
+    {
+      "id": 6,
+      "slug": "006-benkovac-srednja-skola-kneza-branimira-benkovac",
+      "naziv": "SREDNJA ŠKOLA KNEZA BRANIMIRA, BENKOVAC",
+      "naziv_normalized": "Srednja Škola Kneza Branimira, Benkovac",
+      "mjesto": "Benkovac"
+    },
+    {
+      "id": 7,
+      "slug": "007-biograd-na-moru-srednja-skola-biograd-na-moru",
+      "naziv": "SREDNJA ŠKOLA BIOGRAD NA MORU",
+      "naziv_normalized": "Srednja Škola Biograd na Moru",
+      "mjesto": "Biograd na Moru"
+    },
+    {
+      "id": 8,
+      "slug": "008-bjelovar-gimnazija-bjelovar",
+      "naziv": "GIMNAZIJA BJELOVAR",
+      "naziv_normalized": "Gimnazija Bjelovar",
+      "mjesto": "Bjelovar"
+    },
+    {
+      "id": 9,
+      "slug": "009-bjelovar-medicinska-skola-bjelovar",
+      "naziv": "MEDICINSKA ŠKOLA BJELOVAR",
+      "naziv_normalized": "Medicinska Škola Bjelovar",
+      "mjesto": "Bjelovar"
+    },
+    {
+      "id": 10,
+      "slug": "010-bjelovar-komercijalna-i-trgovacka-skola-bjelovar",
+      "naziv": "KOMERCIJALNA I TRGOVAČKA ŠKOLA BJELOVAR",
+      "naziv_normalized": "Komercijalna i Trgovačka Škola Bjelovar",
+      "mjesto": "Bjelovar"
+    },
+    {
+      "id": 11,
+      "slug": "011-bjelovar-ekonomska-i-birotehnicka-skola-bjelovar",
+      "naziv": "EKONOMSKA I BIROTEHNIČKA ŠKOLA BJELOVAR",
+      "naziv_normalized": "Ekonomska i Birotehnička Škola Bjelovar",
+      "mjesto": "Bjelovar"
+    },
+    {
+      "id": 12,
+      "slug": "012-bjelovar-tehnicka-skola-bjelovar",
+      "naziv": "TEHNIČKA ŠKOLA BJELOVAR",
+      "naziv_normalized": "Tehnička Škola Bjelovar",
+      "mjesto": "Bjelovar"
+    },
+    {
+      "id": 13,
+      "slug": "013-bjelovar-obrtnicka-skola-bjelovar",
+      "naziv": "OBRTNIČKA ŠKOLA BJELOVAR",
+      "naziv_normalized": "Obrtnička Škola Bjelovar",
+      "mjesto": "Bjelovar"
+    },
+    {
+      "id": 14,
+      "slug": "014-bjelovar-turisticko-ugostiteljska-i-prehrambena-skola-bjelovar",
+      "naziv": "TURISTIČKO-UGOSTITELJSKA I PREHRAMBENA ŠKOLA BJELOVAR",
+      "naziv_normalized": "Turističko-ugostiteljska i Prehrambena Škola Bjelovar",
+      "mjesto": "Bjelovar"
+    },
+    {
+      "id": 15,
+      "slug": "015-bjelovar-glazbena-skola-vatroslava-lisinskog-bjelovar",
+      "naziv": "GLAZBENA ŠKOLA VATROSLAVA LISINSKOG BJELOVAR",
+      "naziv_normalized": "Glazbena Škola Vatroslava Lisinskog Bjelovar",
+      "mjesto": "Bjelovar"
+    },
+    {
+      "id": 16,
+      "slug": "016-blato-srednja-skola-ivo-padovan-blato",
+      "naziv": "Srednja škola \"Ivo Padovan\" Blato",
+      "naziv_normalized": "Srednja Škola \"Ivo Padovan\" Blato",
+      "mjesto": "Blato"
+    },
+    {
+      "id": 17,
+      "slug": "017-bol-srednja-skola-bol",
+      "naziv": "SREDNJA ŠKOLA BOL",
+      "naziv_normalized": "Srednja Škola Bol",
+      "mjesto": "Bol"
+    },
+    {
+      "id": 18,
+      "slug": "018-bregana-centar-za-odgoj-i-obrazovanje-lug",
+      "naziv": "CENTAR ZA ODGOJ I OBRAZOVANJE LUG",
+      "naziv_normalized": "Centar za Odgoj i Obrazovanje Lug",
+      "mjesto": "Bregana"
+    },
+    {
+      "id": 19,
+      "slug": "019-buje-srednja-skola-vladimir-gortan-scuola-media-superiore-vladimir-gortan",
+      "naziv": "SREDNJA ŠKOLA \"VLADIMIR GORTAN\" - SCUOLA MEDIA SUPERIORE \"VLADIMIR GORTAN\"",
+      "naziv_normalized": "Srednja Škola \"Vladimir Gortan\" - Scuola Media Superiore \"Vladimir Gortan\"",
+      "mjesto": "Buje"
+    },
+    {
+      "id": 20,
+      "slug": "020-buje-talijanska-srednja-skola-scuola-media-superiore-italiana-leonardo-da-vinci-buje-buie",
+      "naziv": "Talijanska srednja škola - Scuola media superiore italiana \"Leonardo da Vinci\" Buje - Buie",
+      "naziv_normalized": "Talijanska Srednja Škola - Scuola Media Superiore Italiana \"Leonardo Da Vinci\" Buje - Buie",
+      "mjesto": "Buje"
+    },
+    {
+      "id": 21,
+      "slug": "021-buje-gospodarska-skola-istituto-professionale",
+      "naziv": "GOSPODARSKA ŠKOLA ISTITUTO PROFESSIONALE",
+      "naziv_normalized": "Gospodarska Škola Istituto Professionale",
+      "mjesto": "Buje"
+    },
+    {
+      "id": 22,
+      "slug": "022-buzet-srednja-skola-buzet",
+      "naziv": "SREDNJA ŠKOLA BUZET",
+      "naziv_normalized": "Srednja Škola Buzet",
+      "mjesto": "Buzet"
+    },
+    {
+      "id": 23,
+      "slug": "023-crikvenica-srednja-skola-dr-antuna-barca-crikvenica",
+      "naziv": "Srednja škola dr. Antuna Barca Crikvenica",
+      "naziv_normalized": "Srednja Škola Dr. Antuna Barca Crikvenica",
+      "mjesto": "Crikvenica"
+    },
+    {
+      "id": 24,
+      "slug": "024-cabar-srednja-skola-vladimir-nazor",
+      "naziv": "Srednja škola Vladimir Nazor",
+      "naziv_normalized": "Srednja Škola Vladimir Nazor",
+      "mjesto": "Čabar"
+    },
+    {
+      "id": 25,
+      "slug": "025-cakovec-srednja-skola-cakovec",
+      "naziv": "SREDNJA ŠKOLA - ČAKOVEC",
+      "naziv_normalized": "Srednja Škola - Čakovec",
+      "mjesto": "Čakovec"
+    },
+    {
+      "id": 26,
+      "slug": "026-cakovec-umjetnicka-skola-miroslav-magdalenic-cakovec",
+      "naziv": "Umjetnička škola Miroslav Magdalenić Čakovec",
+      "naziv_normalized": "Umjetnička Škola Miroslav Magdalenić Čakovec",
+      "mjesto": "Čakovec"
+    },
+    {
+      "id": 27,
+      "slug": "027-cakovec-gimnazija-josipa-slavenskog-cakovec",
+      "naziv": "Gimnazija Josipa Slavenskog Čakovec",
+      "naziv_normalized": "Gimnazija Josipa Slavenskog Čakovec",
+      "mjesto": "Čakovec"
+    },
+    {
+      "id": 28,
+      "slug": "028-cakovec-graditeljska-skola-cakovec",
+      "naziv": "GRADITELJSKA ŠKOLA ČAKOVEC",
+      "naziv_normalized": "Graditeljska Škola Čakovec",
+      "mjesto": "Čakovec"
+    },
+    {
+      "id": 29,
+      "slug": "029-cakovec-tehnicka-skola-cakovec",
+      "naziv": "TEHNIČKA ŠKOLA ČAKOVEC",
+      "naziv_normalized": "Tehnička Škola Čakovec",
+      "mjesto": "Čakovec"
+    },
+    {
+      "id": 30,
+      "slug": "030-cakovec-ekonomska-i-trgovacka-skola",
+      "naziv": "EKONOMSKA I TRGOVAČKA ŠKOLA",
+      "naziv_normalized": "Ekonomska i Trgovačka Škola",
+      "mjesto": "Čakovec"
+    },
+    {
+      "id": 31,
+      "slug": "031-cakovec-gospodarska-skola",
+      "naziv": "GOSPODARSKA ŠKOLA",
+      "naziv_normalized": "Gospodarska Škola",
+      "mjesto": "Čakovec"
+    },
+    {
+      "id": 32,
+      "slug": "032-cazma-srednja-skola-cazma",
+      "naziv": "SREDNJA ŠKOLA ČAZMA",
+      "naziv_normalized": "Srednja Škola Čazma",
+      "mjesto": "Čazma"
+    },
+    {
+      "id": 33,
+      "slug": "033-dalj-srednja-skola-dalj",
+      "naziv": "SREDNJA ŠKOLA DALJ",
+      "naziv_normalized": "Srednja Škola Dalj",
+      "mjesto": "Dalj"
+    },
+    {
+      "id": 34,
+      "slug": "034-daruvar-tehnicka-skola-daruvar",
+      "naziv": "TEHNIČKA ŠKOLA DARUVAR",
+      "naziv_normalized": "Tehnička Škola Daruvar",
+      "mjesto": "Daruvar"
+    },
+    {
+      "id": 35,
+      "slug": "035-daruvar-gimnazija-daruvar",
+      "naziv": "GIMNAZIJA DARUVAR",
+      "naziv_normalized": "Gimnazija Daruvar",
+      "mjesto": "Daruvar"
+    },
+    {
+      "id": 36,
+      "slug": "036-daruvar-ekonomska-i-turisticka-skola-daruvar",
+      "naziv": "EKONOMSKA I TURISTIČKA ŠKOLA DARUVAR",
+      "naziv_normalized": "Ekonomska i Turistička Škola Daruvar",
+      "mjesto": "Daruvar"
+    },
+    {
+      "id": 37,
+      "slug": "037-daruvar-glazbena-skola-brune-bjelinskog-daruvar",
+      "naziv": "GLAZBENA ŠKOLA BRUNE BJELINSKOG DARUVAR",
+      "naziv_normalized": "Glazbena Škola Brune Bjelinskog Daruvar",
+      "mjesto": "Daruvar"
+    },
+    {
+      "id": 38,
+      "slug": "038-delnice-srednja-skola-delnice",
+      "naziv": "SREDNJA ŠKOLA DELNICE",
+      "naziv_normalized": "Srednja Škola Delnice",
+      "mjesto": "Delnice"
+    },
+    {
+      "id": 39,
+      "slug": "039-donji-miholjac-srednja-skola-donji-miholjac",
+      "naziv": "Srednja škola Donji Miholjac",
+      "naziv_normalized": "Srednja Škola Donji Miholjac",
+      "mjesto": "Donji Miholjac"
+    },
+    {
+      "id": 40,
+      "slug": "040-drnis-srednja-skola-ivana-mestrovica-drnis",
+      "naziv": "SREDNJA ŠKOLA IVANA MEŠTROVIĆA DRNIŠ",
+      "naziv_normalized": "Srednja Škola Ivana Meštrovića Drniš",
+      "mjesto": "Drniš"
+    },
+    {
+      "id": 41,
+      "slug": "041-dubrovnik-obrtnicka-i-tehnicka-skola-dubrovnik",
+      "naziv": "Obrtnička i tehnička škola Dubrovnik",
+      "naziv_normalized": "Obrtnička i Tehnička Škola Dubrovnik",
+      "mjesto": "Dubrovnik"
+    },
+    {
+      "id": 42,
+      "slug": "042-dubrovnik-biskupijska-klasicna-gimnazija-ru-era-boskovica-s-pravom-javnosti",
+      "naziv": "BISKUPIJSKA KLASIČNA GIMNAZIJA RUĐERA BOŠKOVIĆA s pravom javnosti",
+      "naziv_normalized": "Biskupijska Klasična Gimnazija Ruđera Boškovića S Pravom Javnosti",
+      "mjesto": "Dubrovnik"
+    },
+    {
+      "id": 43,
+      "slug": "043-dubrovnik-ekonomska-i-trgovacka-skola",
+      "naziv": "EKONOMSKA I TRGOVAČKA ŠKOLA",
+      "naziv_normalized": "Ekonomska i Trgovačka Škola",
+      "mjesto": "Dubrovnik"
+    },
+    {
+      "id": 44,
+      "slug": "044-dubrovnik-gimnazija-dubrovnik",
+      "naziv": "GIMNAZIJA DUBROVNIK",
+      "naziv_normalized": "Gimnazija Dubrovnik",
+      "mjesto": "Dubrovnik"
+    },
+    {
+      "id": 45,
+      "slug": "045-dubrovnik-medicinska-skola-dubrovnik",
+      "naziv": "MEDICINSKA ŠKOLA DUBROVNIK",
+      "naziv_normalized": "Medicinska Škola Dubrovnik",
+      "mjesto": "Dubrovnik"
+    },
+    {
+      "id": 46,
+      "slug": "046-dubrovnik-pomorsko-tehnicka-skola-dubrovnik",
+      "naziv": "POMORSKO-TEHNIČKA ŠKOLA DUBROVNIK",
+      "naziv_normalized": "Pomorsko-tehnička Škola Dubrovnik",
+      "mjesto": "Dubrovnik"
+    },
+    {
+      "id": 47,
+      "slug": "047-dubrovnik-turisticka-i-ugostiteljska-skola-dubrovnik",
+      "naziv": "TURISTIČKA I UGOSTITELJSKA ŠKOLA DUBROVNIK",
+      "naziv_normalized": "Turistička i Ugostiteljska Škola Dubrovnik",
+      "mjesto": "Dubrovnik"
+    },
+    {
+      "id": 48,
+      "slug": "048-dubrovnik-umjetnicka-skola-luke-sorkocevica-dubrovnik",
+      "naziv": "UMJETNIČKA ŠKOLA LUKE SORKOČEVIĆA DUBROVNIK",
+      "naziv_normalized": "Umjetnička Škola Luke Sorkočevića Dubrovnik",
+      "mjesto": "Dubrovnik"
+    },
+    {
+      "id": 49,
+      "slug": "049-dubrovnik-dubrovacka-privatna-gimnazija",
+      "naziv": "Dubrovačka privatna gimnazija",
+      "naziv_normalized": "Dubrovačka Privatna Gimnazija",
+      "mjesto": "Dubrovnik"
+    },
+    {
+      "id": 50,
+      "slug": "050-duga-resa-srednja-skola-duga-resa",
+      "naziv": "SREDNJA ŠKOLA DUGA RESA",
+      "naziv_normalized": "Srednja Škola Duga Resa",
+      "mjesto": "Duga Resa"
+    },
+    {
+      "id": 51,
+      "slug": "051-dugo-selo-glazbena-skola-dugo-selo",
+      "naziv": "Glazbena škola Dugo Selo",
+      "naziv_normalized": "Glazbena Škola Dugo Selo",
+      "mjesto": "Dugo Selo"
+    },
+    {
+      "id": 52,
+      "slug": "052-dugo-selo-srednja-skola-dugo-selo",
+      "naziv": "Srednja škola Dugo Selo",
+      "naziv_normalized": "Srednja Škola Dugo Selo",
+      "mjesto": "Dugo Selo"
+    },
+    {
+      "id": 53,
+      "slug": "053-dugopolje-privatna-srednja-skola-aspalathos-me-unarodna-skola",
+      "naziv": "Privatna srednja škola Aspalathos Međunarodna škola",
+      "naziv_normalized": "Privatna Srednja Škola Aspalathos Međunarodna Škola",
+      "mjesto": "Dugopolje"
+    },
+    {
+      "id": 54,
+      "slug": "054-akovo-ekonomska-skola-braca-radic",
+      "naziv": "EKONOMSKA ŠKOLA BRAĆA RADIĆ",
+      "naziv_normalized": "Ekonomska Škola Braća Radić",
+      "mjesto": "Đakovo"
+    },
+    {
+      "id": 55,
+      "slug": "055-akovo-gimnazija-a-g-matosa",
+      "naziv": "GIMNAZIJA A.G.MATOŠA",
+      "naziv_normalized": "Gimnazija A.g.matoša",
+      "mjesto": "Đakovo"
+    },
+    {
+      "id": 56,
+      "slug": "056-akovo-srednja-strukovna-skola-antuna-horvata",
+      "naziv": "SREDNJA STRUKOVNA ŠKOLA ANTUNA HORVATA",
+      "naziv_normalized": "Srednja Strukovna Škola Antuna Horvata",
+      "mjesto": "Đakovo"
+    },
+    {
+      "id": 57,
+      "slug": "057-ur-enovac-srednja-skola-josipa-kozarca-ur-enovac",
+      "naziv": "SREDNJA ŠKOLA JOSIPA KOZARCA ĐURĐENOVAC",
+      "naziv_normalized": "Srednja Škola Josipa Kozarca Đurđenovac",
+      "mjesto": "Đurđenovac"
+    },
+    {
+      "id": 58,
+      "slug": "058-ur-evac-strukovna-skola-ur-evac",
+      "naziv": "STRUKOVNA ŠKOLA ĐURĐEVAC",
+      "naziv_normalized": "Strukovna Škola Đurđevac",
+      "mjesto": "Đurđevac"
+    },
+    {
+      "id": 59,
+      "slug": "059-ur-evac-gimnazija-dr-ivana-kranjceva-ur-evac",
+      "naziv": "GIMNAZIJA DR. IVANA KRANJČEVA ĐURĐEVAC",
+      "naziv_normalized": "Gimnazija Dr. Ivana Kranjčeva Đurđevac",
+      "mjesto": "Đurđevac"
+    },
+    {
+      "id": 60,
+      "slug": "060-garesnica-srednja-skola-august-senoa-garesnica",
+      "naziv": "SREDNJA ŠKOLA \"AUGUST ŠENOA\" GAREŠNICA",
+      "naziv_normalized": "Srednja Škola \"August Šenoa\" Garešnica",
+      "mjesto": "Garešnica"
+    },
+    {
+      "id": 61,
+      "slug": "061-glina-srednja-skola-glina",
+      "naziv": "Srednja škola Glina",
+      "naziv_normalized": "Srednja Škola Glina",
+      "mjesto": "Glina"
+    },
+    {
+      "id": 62,
+      "slug": "062-gospic-strukovna-skola-gospic",
+      "naziv": "STRUKOVNA ŠKOLA GOSPIĆ",
+      "naziv_normalized": "Strukovna Škola Gospić",
+      "mjesto": "Gospić"
+    },
+    {
+      "id": 63,
+      "slug": "063-gospic-gimnazija-gospic",
+      "naziv": "GIMNAZIJA GOSPIĆ",
+      "naziv_normalized": "Gimnazija Gospić",
+      "mjesto": "Gospić"
+    },
+    {
+      "id": 64,
+      "slug": "064-gracac-srednja-skola-gracac",
+      "naziv": "SREDNJA ŠKOLA GRAČAC",
+      "naziv_normalized": "Srednja Škola Gračac",
+      "mjesto": "Gračac"
+    },
+    {
+      "id": 65,
+      "slug": "065-grubisno-polje-srednja-skola-bartola-kasica-grubisno-polje",
+      "naziv": "SREDNJA ŠKOLA BARTOLA KAŠIĆA GRUBIŠNO POLJE",
+      "naziv_normalized": "Srednja Škola Bartola Kašića Grubišno Polje",
+      "mjesto": "Grubišno Polje"
+    },
+    {
+      "id": 66,
+      "slug": "066-hrvatska-kostajnica-srednja-skola-ivana-trnskoga",
+      "naziv": "Srednja škola Ivana Trnskoga",
+      "naziv_normalized": "Srednja Škola Ivana Trnskoga",
+      "mjesto": "Hrvatska Kostajnica"
+    },
+    {
+      "id": 67,
+      "slug": "067-hvar-srednja-skola-hvar",
+      "naziv": "SREDNJA ŠKOLA HVAR",
+      "naziv_normalized": "Srednja Škola Hvar",
+      "mjesto": "Hvar"
+    },
+    {
+      "id": 68,
+      "slug": "068-ilok-srednja-skola-ilok",
+      "naziv": "SREDNJA ŠKOLA ILOK",
+      "naziv_normalized": "Srednja Škola Ilok",
+      "mjesto": "Ilok"
+    },
+    {
+      "id": 69,
+      "slug": "069-imotski-obrtnicko-industrijska-skola-u-imotskom",
+      "naziv": "OBRTNIČKO-INDUSTRIJSKA ŠKOLA U IMOTSKOM",
+      "naziv_normalized": "Obrtničko-industrijska Škola u Imotskom",
+      "mjesto": "Imotski"
+    },
+    {
+      "id": 70,
+      "slug": "070-imotski-ekonomska-skola",
+      "naziv": "EKONOMSKA ŠKOLA",
+      "naziv_normalized": "Ekonomska Škola",
+      "mjesto": "Imotski"
+    },
+    {
+      "id": 71,
+      "slug": "071-imotski-tehnicka-skola-u-imotskom",
+      "naziv": "TEHNIČKA ŠKOLA U IMOTSKOM",
+      "naziv_normalized": "Tehnička Škola u Imotskom",
+      "mjesto": "Imotski"
+    },
+    {
+      "id": 72,
+      "slug": "072-imotski-gimnazija-dr-mate-ujevica",
+      "naziv": "GIMNAZIJA DR. MATE UJEVIĆA",
+      "naziv_normalized": "Gimnazija Dr. Mate Ujevića",
+      "mjesto": "Imotski"
+    },
+    {
+      "id": 73,
+      "slug": "073-imotski-glazbena-skola-dr-fra-ivan-glibotic-imotski",
+      "naziv": "GLAZBENA ŠKOLA DR. FRA IVAN GLIBOTIĆ-IMOTSKI",
+      "naziv_normalized": "Glazbena Škola Dr. Fra Ivan Glibotić-imotski",
+      "mjesto": "Imotski"
+    },
+    {
+      "id": 74,
+      "slug": "074-ivanec-srednja-skola-ivanec",
+      "naziv": "Srednja škola Ivanec",
+      "naziv_normalized": "Srednja Škola Ivanec",
+      "mjesto": "Ivanec"
+    },
+    {
+      "id": 75,
+      "slug": "075-ivanec-centar-za-pruzanje-usluga-u-zajednici-ivanec",
+      "naziv": "CENTAR ZA PRUŽANJE USLUGA U ZAJEDNICI IVANEC",
+      "naziv_normalized": "Centar za Pružanje Usluga u Zajednici Ivanec",
+      "mjesto": "Ivanec"
+    },
+    {
+      "id": 76,
+      "slug": "076-ivanic-grad-srednja-skola-ivan-svear-ivanic-grad",
+      "naziv": "Srednja škola Ivan Švear Ivanić Grad",
+      "naziv_normalized": "Srednja Škola Ivan Švear Ivanić Grad",
+      "mjesto": "Ivanić-Grad"
+    },
+    {
+      "id": 77,
+      "slug": "077-jastrebarsko-srednja-skola-jastrebarsko",
+      "naziv": "SREDNJA ŠKOLA JASTREBARSKO",
+      "naziv_normalized": "Srednja Škola Jastrebarsko",
+      "mjesto": "Jastrebarsko"
+    },
+    {
+      "id": 78,
+      "slug": "078-karlovac-centar-za-odgoj-i-obrazovanje-djece-i-mladezi",
+      "naziv": "CENTAR ZA ODGOJ I OBRAZOVANJE DJECE I MLADEŽI",
+      "naziv_normalized": "Centar za Odgoj i Obrazovanje Djece i Mladeži",
+      "mjesto": "Karlovac"
+    },
+    {
+      "id": 79,
+      "slug": "079-karlovac-glazbena-skola-karlovac",
+      "naziv": "GLAZBENA ŠKOLA KARLOVAC",
+      "naziv_normalized": "Glazbena Škola Karlovac",
+      "mjesto": "Karlovac"
+    },
+    {
+      "id": 80,
+      "slug": "080-karlovac-gimnazija-karlovac",
+      "naziv": "GIMNAZIJA KARLOVAC",
+      "naziv_normalized": "Gimnazija Karlovac",
+      "mjesto": "Karlovac"
+    },
+    {
+      "id": 81,
+      "slug": "081-karlovac-prirodoslovna-skola-karlovac",
+      "naziv": "PRIRODOSLOVNA ŠKOLA KARLOVAC",
+      "naziv_normalized": "Prirodoslovna Škola Karlovac",
+      "mjesto": "Karlovac"
+    },
+    {
+      "id": 82,
+      "slug": "082-karlovac-ekonomsko-turisticka-skola",
+      "naziv": "EKONOMSKO - TURISTIČKA ŠKOLA",
+      "naziv_normalized": "Ekonomsko - Turistička Škola",
+      "mjesto": "Karlovac"
+    },
+    {
+      "id": 83,
+      "slug": "083-karlovac-sumarska-i-drvodjeljska-skola-karlovac",
+      "naziv": "ŠUMARSKA I DRVODJELJSKA ŠKOLA KARLOVAC",
+      "naziv_normalized": "Šumarska i Drvodjeljska Škola Karlovac",
+      "mjesto": "Karlovac"
+    },
+    {
+      "id": 84,
+      "slug": "084-karlovac-medicinska-skola",
+      "naziv": "MEDICINSKA ŠKOLA",
+      "naziv_normalized": "Medicinska Škola",
+      "mjesto": "Karlovac"
+    },
+    {
+      "id": 85,
+      "slug": "085-karlovac-tehnicka-skola-karlovac",
+      "naziv": "TEHNIČKA ŠKOLA KARLOVAC",
+      "naziv_normalized": "Tehnička Škola Karlovac",
+      "mjesto": "Karlovac"
+    },
+    {
+      "id": 86,
+      "slug": "086-karlovac-trgovacko-ugostiteljska-skola",
+      "naziv": "TRGOVAČKO - UGOSTITELJSKA ŠKOLA",
+      "naziv_normalized": "Trgovačko - Ugostiteljska Škola",
+      "mjesto": "Karlovac"
+    },
+    {
+      "id": 87,
+      "slug": "087-karlovac-mjesovita-industrijsko-obrtnicka-skola",
+      "naziv": "MJEŠOVITA INDUSTRIJSKO - OBRTNIČKA ŠKOLA",
+      "naziv_normalized": "Mješovita Industrijsko - Obrtnička Škola",
+      "mjesto": "Karlovac"
+    },
+    {
+      "id": 88,
+      "slug": "088-kastel-stafilic-nehaj-srednja-skola-braca-radic",
+      "naziv": "SREDNJA ŠKOLA BRAĆA RADIĆ",
+      "naziv_normalized": "Srednja Škola Braća Radić",
+      "mjesto": "Kaštel Štafilić - Nehaj"
+    },
+    {
+      "id": 89,
+      "slug": "089-knin-srednja-skola-lovre-montija",
+      "naziv": "SREDNJA ŠKOLA LOVRE MONTIJA",
+      "naziv_normalized": "Srednja Škola Lovre Montija",
+      "mjesto": "Knin"
+    },
+    {
+      "id": 90,
+      "slug": "090-knin-srednja-strukovna-skola-kralja-zvonimira",
+      "naziv": "SREDNJA STRUKOVNA ŠKOLA KRALJA ZVONIMIRA",
+      "naziv_normalized": "Srednja Strukovna Škola Kralja Zvonimira",
+      "mjesto": "Knin"
+    },
+    {
+      "id": 91,
+      "slug": "091-konjscina-srednja-skola-konjscina",
+      "naziv": "SREDNJA ŠKOLA KONJŠČINA",
+      "naziv_normalized": "Srednja Škola Konjščina",
+      "mjesto": "Konjščina"
+    },
+    {
+      "id": 92,
+      "slug": "092-koprivnica-gimnazija-fran-galovic-koprivnica",
+      "naziv": "GIMNAZIJA \" FRAN GALOVIĆ\" KOPRIVNICA",
+      "naziv_normalized": "Gimnazija \" Fran Galović\" Koprivnica",
+      "mjesto": "Koprivnica"
+    },
+    {
+      "id": 93,
+      "slug": "093-koprivnica-obrtnicka-skola-koprivnica",
+      "naziv": "OBRTNIČKA ŠKOLA KOPRIVNICA",
+      "naziv_normalized": "Obrtnička Škola Koprivnica",
+      "mjesto": "Koprivnica"
+    },
+    {
+      "id": 94,
+      "slug": "094-koprivnica-srednja-skola-koprivnica",
+      "naziv": "SREDNJA ŠKOLA KOPRIVNICA",
+      "naziv_normalized": "Srednja Škola Koprivnica",
+      "mjesto": "Koprivnica"
+    },
+    {
+      "id": 95,
+      "slug": "095-koprivnica-umjetnicka-skola-fortunat-pintaric",
+      "naziv": "Umjetnička škola Fortunat Pintarić",
+      "naziv_normalized": "Umjetnička Škola Fortunat Pintarić",
+      "mjesto": "Koprivnica"
+    },
+    {
+      "id": 96,
+      "slug": "096-korcula-srednja-skola-petra-segedina",
+      "naziv": "SREDNJA ŠKOLA PETRA ŠEGEDINA",
+      "naziv_normalized": "Srednja Škola Petra Šegedina",
+      "mjesto": "Korčula"
+    },
+    {
+      "id": 97,
+      "slug": "097-korenica-srednja-skola-plitvicka-jezera",
+      "naziv": "Srednja škola Plitvička jezera",
+      "naziv_normalized": "Srednja Škola Plitvička Jezera",
+      "mjesto": "Korenica"
+    },
+    {
+      "id": 98,
+      "slug": "098-krapina-srednja-skola-krapina",
+      "naziv": "SREDNJA ŠKOLA KRAPINA",
+      "naziv_normalized": "Srednja Škola Krapina",
+      "mjesto": "Krapina"
+    },
+    {
+      "id": 99,
+      "slug": "099-krizevci-glazbena-skola-alberta-strige-krizevci",
+      "naziv": "Glazbena škola Alberta Štrige, Križevci",
+      "naziv_normalized": "Glazbena Škola Alberta Štrige, Križevci",
+      "mjesto": "Križevci"
+    },
+    {
+      "id": 100,
+      "slug": "100-krizevci-gimnazija-ivana-zakmardija-dijankoveckoga-krizevci",
+      "naziv": "GIMNAZIJA IVANA ZAKMARDIJA DIJANKOVEČKOGA KRIŽEVCI",
+      "naziv_normalized": "Gimnazija Ivana Zakmardija Dijankovečkoga Križevci",
+      "mjesto": "Križevci"
+    },
+    {
+      "id": 101,
+      "slug": "101-krizevci-srednja-skola-ivan-seljanec-krizevci",
+      "naziv": "SREDNJA ŠKOLA \"IVAN SELJANEC\" KRIŽEVCI",
+      "naziv_normalized": "Srednja Škola \"Ivan Seljanec\" Križevci",
+      "mjesto": "Križevci"
+    },
+    {
+      "id": 102,
+      "slug": "102-krizevci-srednja-gospodarska-skola-krizevci",
+      "naziv": "SREDNJA GOSPODARSKA ŠKOLA KRIŽEVCI",
+      "naziv_normalized": "Srednja Gospodarska Škola Križevci",
+      "mjesto": "Križevci"
+    },
+    {
+      "id": 103,
+      "slug": "103-krk-srednja-skola-hrvatski-kralj-zvonimir",
+      "naziv": "Srednja škola Hrvatski kralj Zvonimir",
+      "naziv_normalized": "Srednja Škola Hrvatski Kralj Zvonimir",
+      "mjesto": "Krk"
+    },
+    {
+      "id": 104,
+      "slug": "104-kutina-srednja-skola-tina-ujevica",
+      "naziv": "SREDNJA ŠKOLA TINA UJEVIĆA",
+      "naziv_normalized": "Srednja Škola Tina Ujevića",
+      "mjesto": "Kutina"
+    },
+    {
+      "id": 105,
+      "slug": "105-kutina-tehnicka-skola-kutina",
+      "naziv": "TEHNIČKA ŠKOLA KUTINA",
+      "naziv_normalized": "Tehnička Škola Kutina",
+      "mjesto": "Kutina"
+    },
+    {
+      "id": 106,
+      "slug": "106-labin-srednja-skola-mate-blazine-labin",
+      "naziv": "Srednja škola Mate Blažine Labin",
+      "naziv_normalized": "Srednja Škola Mate Blažine Labin",
+      "mjesto": "Labin"
+    },
+    {
+      "id": 107,
+      "slug": "107-ludbreg-srednja-skola-ludbreg",
+      "naziv": "Srednja škola Ludbreg",
+      "naziv_normalized": "Srednja Škola Ludbreg",
+      "mjesto": "Ludbreg"
+    },
+    {
+      "id": 108,
+      "slug": "108-makarska-glazbena-skola-makarska",
+      "naziv": "Glazbena škola Makarska",
+      "naziv_normalized": "Glazbena Škola Makarska",
+      "mjesto": "Makarska"
+    },
+    {
+      "id": 109,
+      "slug": "109-makarska-srednja-skola-fra-andrije-kacica-miosica",
+      "naziv": "SREDNJA ŠKOLA FRA ANDRIJE KAČIĆA MIOŠIĆA",
+      "naziv_normalized": "Srednja Škola Fra Andrije Kačića Miošića",
+      "mjesto": "Makarska"
+    },
+    {
+      "id": 110,
+      "slug": "110-makarska-srednja-strukovna-skola",
+      "naziv": "SREDNJA STRUKOVNA ŠKOLA",
+      "naziv_normalized": "Srednja Strukovna Škola",
+      "mjesto": "Makarska"
+    },
+    {
+      "id": 111,
+      "slug": "111-mali-losinj-srednja-skola-ambroza-haracica",
+      "naziv": "SREDNJA ŠKOLA AMBROZA HARAČIĆA",
+      "naziv_normalized": "Srednja Škola Ambroza Haračića",
+      "mjesto": "Mali Lošinj"
+    },
+    {
+      "id": 112,
+      "slug": "112-mali-losinj-centar-za-pruzanje-usluga-u-zajednici-mali-losinj",
+      "naziv": "Centar za pružanje usluga u zajednici Mali Lošinj",
+      "naziv_normalized": "Centar za Pružanje Usluga u Zajednici Mali Lošinj",
+      "mjesto": "Mali Lošinj"
+    },
+    {
+      "id": 113,
+      "slug": "113-marcan-srednja-skola-arboretum-opeka",
+      "naziv": "Srednja škola \"Arboretum Opeka\"",
+      "naziv_normalized": "Srednja Škola \"Arboretum Opeka\"",
+      "mjesto": "Marčan"
+    },
+    {
+      "id": 114,
+      "slug": "114-marusevec-srednja-skola-u-marusevcu-s-pravom-javnosti",
+      "naziv": "Srednja škola u Maruševcu s pravom javnosti",
+      "naziv_normalized": "Srednja Škola u Maruševcu S Pravom Javnosti",
+      "mjesto": "Maruševec"
+    },
+    {
+      "id": 115,
+      "slug": "115-metkovic-srednja-skola-metkovic",
+      "naziv": "SREDNJA ŠKOLA METKOVIĆ",
+      "naziv_normalized": "Srednja Škola Metković",
+      "mjesto": "Metković"
+    },
+    {
+      "id": 116,
+      "slug": "116-metkovic-gimnazija-metkovic",
+      "naziv": "Gimnazija METKOVIĆ",
+      "naziv_normalized": "Gimnazija Metković",
+      "mjesto": "Metković"
+    },
+    {
+      "id": 117,
+      "slug": "117-moravice-zeljeznicka-tehnicka-skola-moravice",
+      "naziv": "Željeznička tehnička škola Moravice",
+      "naziv_normalized": "Željeznička Tehnička Škola Moravice",
+      "mjesto": "Moravice"
+    },
+    {
+      "id": 118,
+      "slug": "118-nasice-srednja-skola-isidora-krsnjavoga-nasice",
+      "naziv": "Srednja škola Isidora Kršnjavoga Našice",
+      "naziv_normalized": "Srednja Škola Isidora Kršnjavoga Našice",
+      "mjesto": "Našice"
+    },
+    {
+      "id": 119,
+      "slug": "119-nova-gradiska-gimnazija-nova-gradiska",
+      "naziv": "GIMNAZIJA NOVA GRADIŠKA",
+      "naziv_normalized": "Gimnazija Nova Gradiška",
+      "mjesto": "Nova Gradiška"
+    },
+    {
+      "id": 120,
+      "slug": "120-nova-gradiska-industrijsko-obrtnicka-skola",
+      "naziv": "INDUSTRIJSKO OBRTNIČKA ŠKOLA",
+      "naziv_normalized": "Industrijsko Obrtnička Škola",
+      "mjesto": "Nova Gradiška"
+    },
+    {
+      "id": 121,
+      "slug": "121-nova-gradiska-elektrotehnicka-i-ekonomska-skola",
+      "naziv": "Elektrotehnička i Ekonomska škola",
+      "naziv_normalized": "Elektrotehnička i Ekonomska Škola",
+      "mjesto": "Nova Gradiška"
+    },
+    {
+      "id": 122,
+      "slug": "122-novi-marof-srednja-skola-novi-marof",
+      "naziv": "Srednja škola Novi Marof",
+      "naziv_normalized": "Srednja Škola Novi Marof",
+      "mjesto": "Novi Marof"
+    },
+    {
+      "id": 123,
+      "slug": "123-novska-glazbena-skola-u-novskoj",
+      "naziv": "Glazbena škola u Novskoj",
+      "naziv_normalized": "Glazbena Škola u Novskoj",
+      "mjesto": "Novska"
+    },
+    {
+      "id": 124,
+      "slug": "124-novska-srednja-skola-novska",
+      "naziv": "SREDNJA ŠKOLA NOVSKA",
+      "naziv_normalized": "Srednja Škola Novska",
+      "mjesto": "Novska"
+    },
+    {
+      "id": 125,
+      "slug": "125-obrovac-srednja-skola-obrovac",
+      "naziv": "SREDNJA ŠKOLA OBROVAC",
+      "naziv_normalized": "Srednja Škola Obrovac",
+      "mjesto": "Obrovac"
+    },
+    {
+      "id": 126,
+      "slug": "126-ogulin-obrtnicka-i-tehnicka-skola-ogulin",
+      "naziv": "OBRTNIČKA I TEHNIČKA ŠKOLA OGULIN",
+      "naziv_normalized": "Obrtnička i Tehnička Škola Ogulin",
+      "mjesto": "Ogulin"
+    },
+    {
+      "id": 127,
+      "slug": "127-ogulin-gimnazija-i-strukovna-skola-bernardina-frankopana",
+      "naziv": "GIMNAZIJA I STRUKOVNA ŠKOLA BERNARDINA FRANKOPANA",
+      "naziv_normalized": "Gimnazija i Strukovna Škola Bernardina Frankopana",
+      "mjesto": "Ogulin"
+    },
+    {
+      "id": 128,
+      "slug": "128-omis-srednja-skola-jure-kastelan",
+      "naziv": "Srednja škola Jure Kaštelan",
+      "naziv_normalized": "Srednja Škola Jure Kaštelan",
+      "mjesto": "Omiš"
+    },
+    {
+      "id": 129,
+      "slug": "129-opatija-ugostiteljska-skola-opatija",
+      "naziv": "UGOSTITELJSKA ŠKOLA OPATIJA",
+      "naziv_normalized": "Ugostiteljska Škola Opatija",
+      "mjesto": "Opatija"
+    },
+    {
+      "id": 130,
+      "slug": "130-opatija-gimnazija-eugena-kumicica-opatija",
+      "naziv": "Gimnazija Eugena Kumičića Opatija",
+      "naziv_normalized": "Gimnazija Eugena Kumičića Opatija",
+      "mjesto": "Opatija"
+    },
+    {
+      "id": 131,
+      "slug": "131-opatija-obrtnicka-skola",
+      "naziv": "OBRTNIČKA ŠKOLA",
+      "naziv_normalized": "Obrtnička Škola",
+      "mjesto": "Opatija"
+    },
+    {
+      "id": 132,
+      "slug": "132-opatija-hotelijersko-turisticka-skola",
+      "naziv": "HOTELIJERSKO - TURISTIČKA ŠKOLA",
+      "naziv_normalized": "Hotelijersko - Turistička Škola",
+      "mjesto": "Opatija"
+    },
+    {
+      "id": 133,
+      "slug": "133-opuzen-srednja-poljoprivredna-i-tehnicka-skola",
+      "naziv": "SREDNJA POLJOPRIVREDNA I TEHNIČKA ŠKOLA",
+      "naziv_normalized": "Srednja Poljoprivredna i Tehnička Škola",
+      "mjesto": "Opuzen"
+    },
+    {
+      "id": 134,
+      "slug": "134-orahovica-srednja-skola-stjepan-ivsic",
+      "naziv": "SREDNJA ŠKOLA \"STJEPAN IVŠIĆ\"",
+      "naziv_normalized": "Srednja Škola \"Stjepan Ivšić\"",
+      "mjesto": "Orahovica"
+    },
+    {
+      "id": 135,
+      "slug": "135-oroslavje-srednja-skola-oroslavje",
+      "naziv": "Srednja škola Oroslavje",
+      "naziv_normalized": "Srednja Škola Oroslavje",
+      "mjesto": "Oroslavje"
+    },
+    {
+      "id": 136,
+      "slug": "136-osijek-glazbena-skola-franje-kuhaca-osijek",
+      "naziv": "GLAZBENA ŠKOLA FRANJE KUHAČA Osijek",
+      "naziv_normalized": "Glazbena Škola Franje Kuhača Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 137,
+      "slug": "137-osijek-prosvjetno-kulturni-centar-ma-ara-u-republici-hrvatskoj",
+      "naziv": "PROSVJETNO-KULTURNI CENTAR MAĐARA U REPUBLICI HRVATSKOJ",
+      "naziv_normalized": "Prosvjetno-kulturni Centar Mađara u Republici Hrvatskoj",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 138,
+      "slug": "138-osijek-edukos-privatna-srednja-skola-s-pravom-javnosti",
+      "naziv": "EDukOS-PRIVATNA SREDNJA ŠKOLA S PRAVOM JAVNOSTI",
+      "naziv_normalized": "Edukos-privatna Srednja Škola S Pravom Javnosti",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 139,
+      "slug": "139-osijek-elektrotehnicka-i-prometna-skola-osijek",
+      "naziv": "Elektrotehnička i prometna škola Osijek",
+      "naziv_normalized": "Elektrotehnička i Prometna Škola Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 140,
+      "slug": "140-osijek-strojarska-tehnicka-skola-osijek",
+      "naziv": "Strojarska tehnička škola Osijek",
+      "naziv_normalized": "Strojarska Tehnička Škola Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 141,
+      "slug": "141-osijek-i-gimnazija-osijek",
+      "naziv": "I. Gimnazija Osijek",
+      "naziv_normalized": "I. Gimnazija Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 142,
+      "slug": "142-osijek-ii-gimnazija-osijek",
+      "naziv": "II. gimnazija Osijek",
+      "naziv_normalized": "Ii. Gimnazija Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 143,
+      "slug": "143-osijek-iii-gimnazija-osijek",
+      "naziv": "III. Gimnazija Osijek",
+      "naziv_normalized": "Iii. Gimnazija Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 144,
+      "slug": "144-osijek-medicinska-skola-osijek",
+      "naziv": "Medicinska škola Osijek",
+      "naziv_normalized": "Medicinska Škola Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 145,
+      "slug": "145-osijek-poljoprivredna-i-veterinarska-skola-osijek",
+      "naziv": "Poljoprivredna i veterinarska škola Osijek",
+      "naziv_normalized": "Poljoprivredna i Veterinarska Škola Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 146,
+      "slug": "146-osijek-graditeljsko-geodetska-skola-osijek",
+      "naziv": "GRADITELJSKO - GEODETSKA ŠKOLA OSIJEK",
+      "naziv_normalized": "Graditeljsko - Geodetska Škola Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 147,
+      "slug": "147-osijek-tehnicka-skola-i-prirodoslovna-gimnazija-ru-era-boskovica",
+      "naziv": "Tehnička škola i prirodoslovna gimnazija Ruđera Boškovića",
+      "naziv_normalized": "Tehnička Škola i Prirodoslovna Gimnazija Ruđera Boškovića",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 148,
+      "slug": "148-osijek-ekonomska-i-upravna-skola-osijek",
+      "naziv": "EKONOMSKA I UPRAVNA ŠKOLA OSIJEK",
+      "naziv_normalized": "Ekonomska i Upravna Škola Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 149,
+      "slug": "149-osijek-ugostiteljsko-turisticka-skola",
+      "naziv": "UGOSTITELJSKO-TURISTIČKA ŠKOLA",
+      "naziv_normalized": "Ugostiteljsko-turistička Škola",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 150,
+      "slug": "150-osijek-obrtnicka-skola-osijek",
+      "naziv": "Obrtnička škola Osijek",
+      "naziv_normalized": "Obrtnička Škola Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 151,
+      "slug": "151-osijek-trgovacka-i-komercijalna-skola-davor-milas",
+      "naziv": "TRGOVAČKA I KOMERCIJALNA ŠKOLA DAVOR MILAS",
+      "naziv_normalized": "Trgovačka i Komercijalna Škola Davor Milas",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 152,
+      "slug": "152-osijek-skola-primijenjene-umjetnosti-i-dizajna-osijek",
+      "naziv": "ŠKOLA PRIMIJENJENE UMJETNOSTI I DIZAJNA OSIJEK",
+      "naziv_normalized": "Škola Primijenjene Umjetnosti i Dizajna Osijek",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 153,
+      "slug": "153-osijek-isusovacka-klasicna-gimnazija-s-pravom-javnosti-u-osijeku",
+      "naziv": "ISUSOVAČKA KLASIČNA GIMNAZIJA S PRAVOM JAVNOSTI U OSIJEKU",
+      "naziv_normalized": "Isusovačka Klasična Gimnazija S Pravom Javnosti u Osijeku",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 154,
+      "slug": "154-osijek-gaudeamus-prva-privatna-srednja-skola-u-osijeku-s-pravom-javnosti",
+      "naziv": "GAUDEAMUS, prva privatna srednja škola u Osijeku s pravom javnosti",
+      "naziv_normalized": "Gaudeamus, Prva Privatna Srednja Škola u Osijeku S Pravom Javnosti",
+      "mjesto": "Osijek"
+    },
+    {
+      "id": 155,
+      "slug": "155-otocac-srednja-skola-otocac",
+      "naziv": "SREDNJA ŠKOLA OTOČAC",
+      "naziv_normalized": "Srednja Škola Otočac",
+      "mjesto": "Otočac"
+    },
+    {
+      "id": 156,
+      "slug": "156-pag-srednja-skola-bartula-kasica",
+      "naziv": "SREDNJA ŠKOLA BARTULA KAŠIĆA",
+      "naziv_normalized": "Srednja Škola Bartula Kašića",
+      "mjesto": "Pag"
+    },
+    {
+      "id": 157,
+      "slug": "157-pakrac-srednja-skola-pakrac",
+      "naziv": "Srednja škola Pakrac",
+      "naziv_normalized": "Srednja Škola Pakrac",
+      "mjesto": "Pakrac"
+    },
+    {
+      "id": 158,
+      "slug": "158-pazin-gimnazija-i-strukovna-skola-jurja-dobrile-pazin",
+      "naziv": "Gimnazija i strukovna škola Jurja Dobrile, Pazin",
+      "naziv_normalized": "Gimnazija i Strukovna Škola Jurja Dobrile, Pazin",
+      "mjesto": "Pazin"
+    },
+    {
+      "id": 159,
+      "slug": "159-pazin-pazinski-kolegij-klasicna-gimnazija-pazin-s-pravom-javnosti",
+      "naziv": "PAZINSKI KOLEGIJ - KLASIČNA GIMNAZIJA PAZIN s pravom javnosti",
+      "naziv_normalized": "Pazinski Kolegij - Klasična Gimnazija Pazin S Pravom Javnosti",
+      "mjesto": "Pazin"
+    },
+    {
+      "id": 160,
+      "slug": "160-petrinja-srednja-skola-petrinja",
+      "naziv": "SREDNJA ŠKOLA PETRINJA",
+      "naziv_normalized": "Srednja Škola Petrinja",
+      "mjesto": "Petrinja"
+    },
+    {
+      "id": 161,
+      "slug": "161-pitomaca-srednja-skola-stjepana-sulimanca",
+      "naziv": "Srednja Škola Stjepana Sulimanca",
+      "naziv_normalized": "Srednja Škola Stjepana Sulimanca",
+      "mjesto": "Pitomača"
+    },
+    {
+      "id": 162,
+      "slug": "162-ploce-srednja-skola-fra-andrije-kacica-miosica",
+      "naziv": "SREDNJA ŠKOLA FRA ANDRIJE KAČIĆA MIOŠIĆA",
+      "naziv_normalized": "Srednja Škola Fra Andrije Kačića Miošića",
+      "mjesto": "Ploče"
+    },
+    {
+      "id": 163,
+      "slug": "163-porec-srednja-skola-mate-balote",
+      "naziv": "Srednja škola Mate Balote",
+      "naziv_normalized": "Srednja Škola Mate Balote",
+      "mjesto": "Poreč"
+    },
+    {
+      "id": 164,
+      "slug": "164-porec-turisticko-ugostiteljska-skola-antona-stifanica-porec",
+      "naziv": "TURISTIČKO - UGOSTITELJSKA ŠKOLA ANTONA ŠTIFANIĆA POREČ",
+      "naziv_normalized": "Turističko - Ugostiteljska Škola Antona Štifanića Poreč",
+      "mjesto": "Poreč"
+    },
+    {
+      "id": 165,
+      "slug": "165-pozega-gimnazija",
+      "naziv": "Gimnazija",
+      "naziv_normalized": "Gimnazija",
+      "mjesto": "Požega"
+    },
+    {
+      "id": 166,
+      "slug": "166-pozega-ekonomska-skola-pozega",
+      "naziv": "Ekonomska škola, Požega",
+      "naziv_normalized": "Ekonomska Škola, Požega",
+      "mjesto": "Požega"
+    },
+    {
+      "id": 167,
+      "slug": "167-pozega-poljoprivredno-prehrambena-skola",
+      "naziv": "POLJOPRIVREDNO-PREHRAMBENA ŠKOLA",
+      "naziv_normalized": "Poljoprivredno-prehrambena Škola",
+      "mjesto": "Požega"
+    },
+    {
+      "id": 168,
+      "slug": "168-pozega-tehnicka-skola",
+      "naziv": "TEHNIČKA ŠKOLA",
+      "naziv_normalized": "Tehnička Škola",
+      "mjesto": "Požega"
+    },
+    {
+      "id": 169,
+      "slug": "169-pozega-obrtnicka-skola",
+      "naziv": "OBRTNIČKA ŠKOLA",
+      "naziv_normalized": "Obrtnička Škola",
+      "mjesto": "Požega"
+    },
+    {
+      "id": 170,
+      "slug": "170-pozega-glazbena-skola-pozega",
+      "naziv": "Glazbena škola Požega",
+      "naziv_normalized": "Glazbena Škola Požega",
+      "mjesto": "Požega"
+    },
+    {
+      "id": 171,
+      "slug": "171-pozega-katolicka-gimnazija-s-pravom-javnosti",
+      "naziv": "Katolička gimnazija s pravom javnosti",
+      "naziv_normalized": "Katolička Gimnazija S Pravom Javnosti",
+      "mjesto": "Požega"
+    },
+    {
+      "id": 172,
+      "slug": "172-pregrada-glazbena-skola-pregrada",
+      "naziv": "GLAZBENA ŠKOLA PREGRADA",
+      "naziv_normalized": "Glazbena Škola Pregrada",
+      "mjesto": "Pregrada"
+    },
+    {
+      "id": 173,
+      "slug": "173-pregrada-srednja-skola-pregrada",
+      "naziv": "SREDNJA ŠKOLA PREGRADA",
+      "naziv_normalized": "Srednja Škola Pregrada",
+      "mjesto": "Pregrada"
+    },
+    {
+      "id": 174,
+      "slug": "174-prelog-srednja-skola-prelog",
+      "naziv": "SREDNJA ŠKOLA PRELOG",
+      "naziv_normalized": "Srednja Škola Prelog",
+      "mjesto": "Prelog"
+    },
+    {
+      "id": 175,
+      "slug": "175-pucisca-klesarska-skola",
+      "naziv": "KLESARSKA ŠKOLA",
+      "naziv_normalized": "Klesarska Škola",
+      "mjesto": "Pučišća"
+    },
+    {
+      "id": 176,
+      "slug": "176-pula-skola-za-odgoj-i-obrazovanje-pula",
+      "naziv": "Škola za odgoj i obrazovanje - Pula",
+      "naziv_normalized": "Škola za Odgoj i Obrazovanje - Pula",
+      "mjesto": "Pula"
+    },
+    {
+      "id": 177,
+      "slug": "177-pula-glazbena-skola-ivana-matetica-ronjgova-pula",
+      "naziv": "Glazbena škola Ivana Matetića - Ronjgova Pula",
+      "naziv_normalized": "Glazbena Škola Ivana Matetića - Ronjgova Pula",
+      "mjesto": "Pula"
+    },
+    {
+      "id": 178,
+      "slug": "178-pula-skola-za-turizam-ugostiteljstvo-i-trgovinu",
+      "naziv": "Škola za turizam, ugostiteljstvo i trgovinu",
+      "naziv_normalized": "Škola za Turizam, Ugostiteljstvo i Trgovinu",
+      "mjesto": "Pula"
+    },
+    {
+      "id": 179,
+      "slug": "179-pula-gimnazija-pula",
+      "naziv": "Gimnazija Pula",
+      "naziv_normalized": "Gimnazija Pula",
+      "mjesto": "Pula"
+    },
+    {
+      "id": 180,
+      "slug": "180-pula-industrijsko-obrtnicka-skola-pula",
+      "naziv": "INDUSTRIJSKO - OBRTNIČKA ŠKOLA PULA",
+      "naziv_normalized": "Industrijsko - Obrtnička Škola Pula",
+      "mjesto": "Pula"
+    },
+    {
+      "id": 181,
+      "slug": "181-pula-skola-primijenjenih-umjetnosti-i-dizajna-pula",
+      "naziv": "Škola primijenjenih umjetnosti i dizajna - Pula",
+      "naziv_normalized": "Škola Primijenjenih Umjetnosti i Dizajna - Pula",
+      "mjesto": "Pula"
+    },
+    {
+      "id": 182,
+      "slug": "182-pula-talijanska-srednja-skola-dante-alighieri-pula-scuola-media-superiore-italiana-dante-alighieri-pola",
+      "naziv": "TALIJANSKA SREDNJA ŠKOLA DANTE ALIGHIERI, PULA - SCUOLA MEDIA SUPERIORE ITALIANA DANTE ALIGHIERI, POLA",
+      "naziv_normalized": "Talijanska Srednja Škola Dante Alighieri, Pula - Scuola Media Superiore Italiana Dante Alighieri, Pola",
+      "mjesto": "Pula"
+    },
+    {
+      "id": 183,
+      "slug": "183-pula-ekonomska-skola-pula",
+      "naziv": "Ekonomska škola Pula",
+      "naziv_normalized": "Ekonomska Škola Pula",
+      "mjesto": "Pula"
+    },
+    {
+      "id": 184,
+      "slug": "184-pula-medicinska-skola-pula",
+      "naziv": "Medicinska škola Pula",
+      "naziv_normalized": "Medicinska Škola Pula",
+      "mjesto": "Pula"
+    },
+    {
+      "id": 185,
+      "slug": "185-pula-tehnicka-skola-pula",
+      "naziv": "TEHNIČKA ŠKOLA PULA",
+      "naziv_normalized": "Tehnička Škola Pula",
+      "mjesto": "Pula"
+    },
+    {
+      "id": 186,
+      "slug": "186-pula-strukovna-skola-pula",
+      "naziv": "Strukovna škola Pula",
+      "naziv_normalized": "Strukovna Škola Pula",
+      "mjesto": "Pula"
+    },
+    {
+      "id": 187,
+      "slug": "187-rab-srednja-skola-markantuna-de-dominisa-rab",
+      "naziv": "Srednja škola Markantuna de Dominisa Rab",
+      "naziv_normalized": "Srednja Škola Markantuna De Dominisa Rab",
+      "mjesto": "Rab"
+    },
+    {
+      "id": 188,
+      "slug": "188-rijeka-strojarska-skola-za-industrijska-i-obrtnicka-zanimanja",
+      "naziv": "Strojarska škola za industrijska i obrtnička zanimanja",
+      "naziv_normalized": "Strojarska Škola za Industrijska i Obrtnička Zanimanja",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 189,
+      "slug": "189-rijeka-srednja-talijanska-skola-rijeka-scuola-media-superiore-italiana-fiume",
+      "naziv": "SREDNJA TALIJANSKA ŠKOLA - RIJEKA SCUOLA MEDIA SUPERIORE ITALIANA - FIUME",
+      "naziv_normalized": "Srednja Talijanska Škola - Rijeka Scuola Media Superiore Italiana - Fiume",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 190,
+      "slug": "190-rijeka-skola-za-trgovinu-i-modni-dizajn-rijeka",
+      "naziv": "Škola za trgovinu i modni dizajn Rijeka",
+      "naziv_normalized": "Škola za Trgovinu i Modni Dizajn Rijeka",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 191,
+      "slug": "191-rijeka-srednja-skola-za-elektrotehniku-i-racunalstvo",
+      "naziv": "Srednja škola za elektrotehniku i računalstvo",
+      "naziv_normalized": "Srednja Škola za Elektrotehniku i Računalstvo",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 192,
+      "slug": "192-rijeka-ekonomska-skola-mije-mirkovica-rijeka",
+      "naziv": "EKONOMSKA ŠKOLA MIJE MIRKOVIĆA RIJEKA",
+      "naziv_normalized": "Ekonomska Škola Mije Mirkovića Rijeka",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 193,
+      "slug": "193-rijeka-prva-rijecka-hrvatska-gimnazija",
+      "naziv": "PRVA RIJEČKA HRVATSKA GIMNAZIJA",
+      "naziv_normalized": "Prva Riječka Hrvatska Gimnazija",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 194,
+      "slug": "194-rijeka-prirodoslovna-i-graficka-skola-rijeka",
+      "naziv": "PRIRODOSLOVNA I GRAFIČKA ŠKOLA RIJEKA",
+      "naziv_normalized": "Prirodoslovna i Grafička Škola Rijeka",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 195,
+      "slug": "195-rijeka-gra-evinska-tehnicka-skola",
+      "naziv": "Građevinska tehnička škola",
+      "naziv_normalized": "Građevinska Tehnička Škola",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 196,
+      "slug": "196-rijeka-prva-susacka-hrvatska-gimnazija-u-rijeci",
+      "naziv": "PRVA SUŠAČKA HRVATSKA GIMNAZIJA U RIJECI",
+      "naziv_normalized": "Prva Sušačka Hrvatska Gimnazija u Rijeci",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 197,
+      "slug": "197-rijeka-gimnazija-andrije-mohorovicica-rijeka",
+      "naziv": "GIMNAZIJA ANDRIJE MOHOROVIČIĆA RIJEKA",
+      "naziv_normalized": "Gimnazija Andrije Mohorovičića Rijeka",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 198,
+      "slug": "198-rijeka-drvodjeljska-i-strojarska-skola-rijeka",
+      "naziv": "Drvodjeljska i strojarska škola Rijeka",
+      "naziv_normalized": "Drvodjeljska i Strojarska Škola Rijeka",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 199,
+      "slug": "199-rijeka-tehnicka-skola-rijeka",
+      "naziv": "Tehnička škola, Rijeka",
+      "naziv_normalized": "Tehnička Škola, Rijeka",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 200,
+      "slug": "200-rijeka-elektroindustrijska-i-obrtnicka-skola-rijeka",
+      "naziv": "Elektroindustrijska i obrtnička škola Rijeka",
+      "naziv_normalized": "Elektroindustrijska i Obrtnička Škola Rijeka",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 201,
+      "slug": "201-rijeka-graditeljska-skola-za-industriju-i-obrt",
+      "naziv": "GRADITELJSKA ŠKOLA ZA INDUSTRIJU I OBRT",
+      "naziv_normalized": "Graditeljska Škola za Industriju i Obrt",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 202,
+      "slug": "202-rijeka-medicinska-skola-u-rijeci",
+      "naziv": "MEDICINSKA ŠKOLA U RIJECI",
+      "naziv_normalized": "Medicinska Škola u Rijeci",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 203,
+      "slug": "203-rijeka-prometna-skola",
+      "naziv": "PROMETNA ŠKOLA",
+      "naziv_normalized": "Prometna Škola",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 204,
+      "slug": "204-rijeka-salezijanska-klasicna-gimnazija-s-pravom-javnosti",
+      "naziv": "SALEZIJANSKA KLASIČNA GIMNAZIJA - s pravom javnosti",
+      "naziv_normalized": "Salezijanska Klasična Gimnazija - S Pravom Javnosti",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 205,
+      "slug": "205-rijeka-skola-za-primijenjenu-umjetnost-u-rijeci",
+      "naziv": "Škola za primijenjenu umjetnost u Rijeci",
+      "naziv_normalized": "Škola za Primijenjenu Umjetnost u Rijeci",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 206,
+      "slug": "206-rijeka-srednja-skola-andrije-ljudevita-adamica",
+      "naziv": "SREDNJA ŠKOLA ANDRIJE LJUDEVITA ADAMIĆA",
+      "naziv_normalized": "Srednja Škola Andrije Ljudevita Adamića",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 207,
+      "slug": "207-rijeka-centar-za-odgoj-i-obrazovanje",
+      "naziv": "CENTAR ZA ODGOJ I OBRAZOVANJE",
+      "naziv_normalized": "Centar za Odgoj i Obrazovanje",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 208,
+      "slug": "208-rijeka-glazbena-skola-ivana-matetica-ronjgova-rijeka",
+      "naziv": "Glazbena škola Ivana Matetića Ronjgova Rijeka",
+      "naziv_normalized": "Glazbena Škola Ivana Matetića Ronjgova Rijeka",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 209,
+      "slug": "209-rijeka-srednja-waldorfska-skola-u-rijeci",
+      "naziv": "SREDNJA WALDORFSKA ŠKOLA U RIJECI",
+      "naziv_normalized": "Srednja Waldorfska Škola u Rijeci",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 210,
+      "slug": "210-rijeka-me-unarodna-srednja-skola-adria",
+      "naziv": "MEĐUNARODNA SREDNJA ŠKOLA ADRIA",
+      "naziv_normalized": "Međunarodna Srednja Škola Adria",
+      "mjesto": "Rijeka"
+    },
+    {
+      "id": 211,
+      "slug": "211-rovinj-talijanska-srednja-skola-scuola-media-superiore-italiana-rovinj-rovigno",
+      "naziv": "Talijanska srednja škola - Scuola media superiore italiana Rovinj - Rovigno",
+      "naziv_normalized": "Talijanska Srednja Škola - Scuola Media Superiore Italiana Rovinj - Rovigno",
+      "mjesto": "Rovinj"
+    },
+    {
+      "id": 212,
+      "slug": "212-rovinj-srednja-skola-zvane-crnje-rovinj-scuola-media-superiore-zvane-crnja-rovigno",
+      "naziv": "SREDNJA ŠKOLA ZVANE ČRNJE ROVINJ, SCUOLA MEDIA SUPERIORE \"ZVANE ČRNJA\" ROVIGNO",
+      "naziv_normalized": "Srednja Škola Zvane Črnje Rovinj, Scuola Media Superiore \"Zvane Črnja\" Rovigno",
+      "mjesto": "Rovinj"
+    },
+    {
+      "id": 213,
+      "slug": "213-rovinj-strukovna-skola-eugena-kumicica-rovinj-scuola-di-formazione-professionale-eugen-kumicic-rovigno",
+      "naziv": "STRUKOVNA ŠKOLA EUGENA KUMIČIĆA ROVINJ - SCUOLA DI FORMAZIONE PROFESSIONALE EUGEN KUMIČIĆ ROVIGNO",
+      "naziv_normalized": "Strukovna Škola Eugena Kumičića Rovinj - Scuola Di Formazione Professionale Eugen Kumičić Rovigno",
+      "mjesto": "Rovinj"
+    },
+    {
+      "id": 214,
+      "slug": "214-samobor-glazbena-skola-ferdo-livadic",
+      "naziv": "Glazbena škola Ferdo Livadić",
+      "naziv_normalized": "Glazbena Škola Ferdo Livadić",
+      "mjesto": "Samobor"
+    },
+    {
+      "id": 215,
+      "slug": "215-samobor-ekonomska-trgovacka-i-ugostiteljska-skola-samobor",
+      "naziv": "EKONOMSKA, TRGOVAČKA I UGOSTITELJSKA ŠKOLA - SAMOBOR",
+      "naziv_normalized": "Ekonomska, Trgovačka i Ugostiteljska Škola - Samobor",
+      "mjesto": "Samobor"
+    },
+    {
+      "id": 216,
+      "slug": "216-samobor-gimnazija-antuna-gustava-matosa",
+      "naziv": "GIMNAZIJA ANTUNA GUSTAVA MATOŠA",
+      "naziv_normalized": "Gimnazija Antuna Gustava Matoša",
+      "mjesto": "Samobor"
+    },
+    {
+      "id": 217,
+      "slug": "217-samobor-srednja-strukovna-skola",
+      "naziv": "SREDNJA STRUKOVNA ŠKOLA",
+      "naziv_normalized": "Srednja Strukovna Škola",
+      "mjesto": "Samobor"
+    },
+    {
+      "id": 218,
+      "slug": "218-senj-srednja-skola-pavla-rittera-vitezovica-u-senju",
+      "naziv": "SREDNJA ŠKOLA PAVLA RITTERA VITEZOVIĆA U SENJU",
+      "naziv_normalized": "Srednja Škola Pavla Rittera Vitezovića u Senju",
+      "mjesto": "Senj"
+    },
+    {
+      "id": 219,
+      "slug": "219-sesvete-srednja-skola-jelkovec",
+      "naziv": "Srednja škola Jelkovec",
+      "naziv_normalized": "Srednja Škola Jelkovec",
+      "mjesto": "Sesvete"
+    },
+    {
+      "id": 220,
+      "slug": "220-sesvete-gimnazija-sesvete",
+      "naziv": "GIMNAZIJA SESVETE",
+      "naziv_normalized": "Gimnazija Sesvete",
+      "mjesto": "Sesvete"
+    },
+    {
+      "id": 221,
+      "slug": "221-sinj-srednja-strukovna-skola-bana-josipa-jelacica",
+      "naziv": "Srednja strukovna škola bana Josipa Jelačića",
+      "naziv_normalized": "Srednja Strukovna Škola Bana Josipa Jelačića",
+      "mjesto": "Sinj"
+    },
+    {
+      "id": 222,
+      "slug": "222-sinj-gimnazija-dinka-simunovica-u-sinju",
+      "naziv": "GIMNAZIJA DINKA ŠIMUNOVIĆA U SINJU",
+      "naziv_normalized": "Gimnazija Dinka Šimunovića u Sinju",
+      "mjesto": "Sinj"
+    },
+    {
+      "id": 223,
+      "slug": "223-sinj-tehnicka-i-industrijska-skola-ru-era-boskovica-u-sinju",
+      "naziv": "TEHNIČKA I INDUSTRIJSKA ŠKOLA RUĐERA BOŠKOVIĆA U SINJU",
+      "naziv_normalized": "Tehnička i Industrijska Škola Ruđera Boškovića u Sinju",
+      "mjesto": "Sinj"
+    },
+    {
+      "id": 224,
+      "slug": "224-sinj-franjevacka-klasicna-gimnazija-u-sinju-s-pravom-javnosti",
+      "naziv": "FRANJEVAČKA KLASIČNA GIMNAZIJA U SINJU S PRAVOM JAVNOSTI",
+      "naziv_normalized": "Franjevačka Klasična Gimnazija u Sinju S Pravom Javnosti",
+      "mjesto": "Sinj"
+    },
+    {
+      "id": 225,
+      "slug": "225-sisak-glazbena-skola-frana-lhotke",
+      "naziv": "GLAZBENA ŠKOLA FRANA LHOTKE",
+      "naziv_normalized": "Glazbena Škola Frana Lhotke",
+      "mjesto": "Sisak"
+    },
+    {
+      "id": 226,
+      "slug": "226-sisak-gimnazija-sisak",
+      "naziv": "GIMNAZIJA SISAK",
+      "naziv_normalized": "Gimnazija Sisak",
+      "mjesto": "Sisak"
+    },
+    {
+      "id": 227,
+      "slug": "227-sisak-industrijsko-obrtnicka-skola-sisak",
+      "naziv": "Industrijsko-obrtnička škola Sisak",
+      "naziv_normalized": "Industrijsko-obrtnička Škola Sisak",
+      "mjesto": "Sisak"
+    },
+    {
+      "id": 228,
+      "slug": "228-sisak-srednja-skola-viktorovac",
+      "naziv": "Srednja škola Viktorovac",
+      "naziv_normalized": "Srednja Škola Viktorovac",
+      "mjesto": "Sisak"
+    },
+    {
+      "id": 229,
+      "slug": "229-sisak-strukovna-skola-sisak",
+      "naziv": "Strukovna škola Sisak",
+      "naziv_normalized": "Strukovna Škola Sisak",
+      "mjesto": "Sisak"
+    },
+    {
+      "id": 230,
+      "slug": "230-sisak-tehnicka-skola-sisak",
+      "naziv": "Tehnička škola Sisak",
+      "naziv_normalized": "Tehnička Škola Sisak",
+      "mjesto": "Sisak"
+    },
+    {
+      "id": 231,
+      "slug": "231-sisak-ekonomska-skola-sisak",
+      "naziv": "EKONOMSKA ŠKOLA SISAK",
+      "naziv_normalized": "Ekonomska Škola Sisak",
+      "mjesto": "Sisak"
+    },
+    {
+      "id": 232,
+      "slug": "232-slatina-srednja-skola-marka-marulica-slatina",
+      "naziv": "Srednja škola Marka Marulića Slatina",
+      "naziv_normalized": "Srednja Škola Marka Marulića Slatina",
+      "mjesto": "Slatina"
+    },
+    {
+      "id": 233,
+      "slug": "233-slatina-industrijsko-obrtnicka-skola-slatina",
+      "naziv": "Industrijsko-obrtnička škola Slatina",
+      "naziv_normalized": "Industrijsko-obrtnička Škola Slatina",
+      "mjesto": "Slatina"
+    },
+    {
+      "id": 234,
+      "slug": "234-slavonski-brod-glazbena-skola-slavonski-brod",
+      "naziv": "Glazbena škola Slavonski Brod",
+      "naziv_normalized": "Glazbena Škola Slavonski Brod",
+      "mjesto": "Slavonski Brod"
+    },
+    {
+      "id": 235,
+      "slug": "235-slavonski-brod-srednja-skola-matije-antuna-reljkovica-slavonski-brod",
+      "naziv": "SREDNJA ŠKOLA MATIJE ANTUNA RELJKOVIĆA SLAVONSKI BROD",
+      "naziv_normalized": "Srednja Škola Matije Antuna Reljkovića Slavonski Brod",
+      "mjesto": "Slavonski Brod"
+    },
+    {
+      "id": 236,
+      "slug": "236-slavonski-brod-obrtnicko-tehnicka-skola",
+      "naziv": "OBRTNIČKO-TEHNIČKA ŠKOLA",
+      "naziv_normalized": "Obrtničko-tehnička Škola",
+      "mjesto": "Slavonski Brod"
+    },
+    {
+      "id": 237,
+      "slug": "237-slavonski-brod-gimnazija-matija-mesic",
+      "naziv": "GIMNAZIJA MATIJA MESIĆ",
+      "naziv_normalized": "Gimnazija Matija Mesić",
+      "mjesto": "Slavonski Brod"
+    },
+    {
+      "id": 238,
+      "slug": "238-slavonski-brod-industrijsko-obrtnicka-skola",
+      "naziv": "INDUSTRIJSKO-OBRTNIČKA ŠKOLA",
+      "naziv_normalized": "Industrijsko-obrtnička Škola",
+      "mjesto": "Slavonski Brod"
+    },
+    {
+      "id": 239,
+      "slug": "239-slavonski-brod-tehnicka-skola-slavonski-brod",
+      "naziv": "TEHNIČKA ŠKOLA, SLAVONSKI BROD",
+      "naziv_normalized": "Tehnička Škola, Slavonski Brod",
+      "mjesto": "Slavonski Brod"
+    },
+    {
+      "id": 240,
+      "slug": "240-slavonski-brod-ekonomsko-birotehnicka-skola",
+      "naziv": "EKONOMSKO-BIROTEHNIČKA ŠKOLA",
+      "naziv_normalized": "Ekonomsko-birotehnička Škola",
+      "mjesto": "Slavonski Brod"
+    },
+    {
+      "id": 241,
+      "slug": "241-slavonski-brod-srednja-medicinska-skola",
+      "naziv": "SREDNJA MEDICINSKA ŠKOLA",
+      "naziv_normalized": "Srednja Medicinska Škola",
+      "mjesto": "Slavonski Brod"
+    },
+    {
+      "id": 242,
+      "slug": "242-slavonski-brod-klasicna-gimnazija-fra-marijana-lanosovica-s-pravom-javnosti",
+      "naziv": "Klasična gimnazija fra Marijana Lanosovića s pravom javnosti",
+      "naziv_normalized": "Klasična Gimnazija Fra Marijana Lanosovića S Pravom Javnosti",
+      "mjesto": "Slavonski Brod"
+    },
+    {
+      "id": 243,
+      "slug": "243-slunj-srednja-skola-slunj",
+      "naziv": "SREDNJA ŠKOLA SLUNJ",
+      "naziv_normalized": "Srednja Škola Slunj",
+      "mjesto": "Slunj"
+    },
+    {
+      "id": 244,
+      "slug": "244-split-centar-za-odgoj-i-obrazovanje-slava-raskaj",
+      "naziv": "Centar za odgoj i obrazovanje SLAVA RAŠKAJ",
+      "naziv_normalized": "Centar za Odgoj i Obrazovanje Slava Raškaj",
+      "mjesto": "Split"
+    },
+    {
+      "id": 245,
+      "slug": "245-split-glazbena-skola-josipa-hatzea",
+      "naziv": "GLAZBENA ŠKOLA JOSIPA HATZEA",
+      "naziv_normalized": "Glazbena Škola Josipa Hatzea",
+      "mjesto": "Split"
+    },
+    {
+      "id": 246,
+      "slug": "246-split-prirodoslovna-skola-split",
+      "naziv": "PRIRODOSLOVNA ŠKOLA SPLIT",
+      "naziv_normalized": "Prirodoslovna Škola Split",
+      "mjesto": "Split"
+    },
+    {
+      "id": 247,
+      "slug": "247-split-elektrotehnicka-skola-split",
+      "naziv": "ELEKTROTEHNIČKA ŠKOLA - SPLIT",
+      "naziv_normalized": "Elektrotehnička Škola - Split",
+      "mjesto": "Split"
+    },
+    {
+      "id": 248,
+      "slug": "248-split-graditeljsko-geodetska-tehnicka-skola",
+      "naziv": "GRADITELJSKO-GEODETSKA TEHNIČKA ŠKOLA",
+      "naziv_normalized": "Graditeljsko-geodetska Tehnička Škola",
+      "mjesto": "Split"
+    },
+    {
+      "id": 249,
+      "slug": "249-split-obrtnicka-skola",
+      "naziv": "OBRTNIČKA ŠKOLA",
+      "naziv_normalized": "Obrtnička Škola",
+      "mjesto": "Split"
+    },
+    {
+      "id": 250,
+      "slug": "250-split-i-gimnazija-split",
+      "naziv": "I. GIMNAZIJA SPLIT",
+      "naziv_normalized": "I. Gimnazija Split",
+      "mjesto": "Split"
+    },
+    {
+      "id": 251,
+      "slug": "251-split-ii-gimnazija-split",
+      "naziv": "II GIMNAZIJA - SPLIT",
+      "naziv_normalized": "Ii Gimnazija - Split",
+      "mjesto": "Split"
+    },
+    {
+      "id": 252,
+      "slug": "252-split-iii-gimnazija",
+      "naziv": "III. GIMNAZIJA",
+      "naziv_normalized": "Iii. Gimnazija",
+      "mjesto": "Split"
+    },
+    {
+      "id": 253,
+      "slug": "253-split-iv-gimnazija-marko-marulic",
+      "naziv": "IV. GIMNAZIJA MARKO MARULIĆ",
+      "naziv_normalized": "Iv. Gimnazija Marko Marulić",
+      "mjesto": "Split"
+    },
+    {
+      "id": 254,
+      "slug": "254-split-v-gimnazija-vladimir-nazor-split",
+      "naziv": "V. GIMNAZIJA VLADIMIR NAZOR SPLIT",
+      "naziv_normalized": "V. Gimnazija Vladimir Nazor Split",
+      "mjesto": "Split"
+    },
+    {
+      "id": 255,
+      "slug": "255-split-nadbiskupijska-klasicna-gimnazija-don-frane-bulic-s-pravom-javnosti",
+      "naziv": "Nadbiskupijska klasična gimnazija Don FRANE BULIĆ - s pravom javnosti",
+      "naziv_normalized": "Nadbiskupijska Klasična Gimnazija Don Frane Bulić - S Pravom Javnosti",
+      "mjesto": "Split"
+    },
+    {
+      "id": 256,
+      "slug": "256-split-ekonomska-i-upravna-skola",
+      "naziv": "EKONOMSKA I UPRAVNA ŠKOLA",
+      "naziv_normalized": "Ekonomska i Upravna Škola",
+      "mjesto": "Split"
+    },
+    {
+      "id": 257,
+      "slug": "257-split-komercijalno-trgovacka-skola-split",
+      "naziv": "KOMERCIJALNO-TRGOVAČKA ŠKOLA SPLIT",
+      "naziv_normalized": "Komercijalno-trgovačka Škola Split",
+      "mjesto": "Split"
+    },
+    {
+      "id": 258,
+      "slug": "258-split-srednja-tehnicka-prometna-skola",
+      "naziv": "SREDNJA TEHNIČKA PROMETNA ŠKOLA",
+      "naziv_normalized": "Srednja Tehnička Prometna Škola",
+      "mjesto": "Split"
+    },
+    {
+      "id": 259,
+      "slug": "259-split-tehnicka-skola-za-strojarstvo-i-mehatroniku",
+      "naziv": "TEHNIČKA ŠKOLA ZA STROJARSTVO I MEHATRONIKU",
+      "naziv_normalized": "Tehnička Škola za Strojarstvo i Mehatroniku",
+      "mjesto": "Split"
+    },
+    {
+      "id": 260,
+      "slug": "260-split-obrtna-tehnicka-skola",
+      "naziv": "OBRTNA TEHNIČKA ŠKOLA",
+      "naziv_normalized": "Obrtna Tehnička Škola",
+      "mjesto": "Split"
+    },
+    {
+      "id": 261,
+      "slug": "261-split-industrijska-skola",
+      "naziv": "INDUSTRIJSKA ŠKOLA",
+      "naziv_normalized": "Industrijska Škola",
+      "mjesto": "Split"
+    },
+    {
+      "id": 262,
+      "slug": "262-split-skola-za-dizajn-grafiku-i-odrzivu-gradnju",
+      "naziv": "ŠKOLA ZA DIZAJN, GRAFIKU I ODRŽIVU GRADNJU",
+      "naziv_normalized": "Škola za Dizajn, Grafiku i Održivu Gradnju",
+      "mjesto": "Split"
+    },
+    {
+      "id": 263,
+      "slug": "263-split-pomorska-skola",
+      "naziv": "POMORSKA ŠKOLA",
+      "naziv_normalized": "Pomorska Škola",
+      "mjesto": "Split"
+    },
+    {
+      "id": 264,
+      "slug": "264-split-skola-likovnih-umjetnosti",
+      "naziv": "ŠKOLA LIKOVNIH UMJETNOSTI",
+      "naziv_normalized": "Škola Likovnih Umjetnosti",
+      "mjesto": "Split"
+    },
+    {
+      "id": 265,
+      "slug": "265-split-zdravstvena-skola",
+      "naziv": "Zdravstvena škola",
+      "naziv_normalized": "Zdravstvena Škola",
+      "mjesto": "Split"
+    },
+    {
+      "id": 266,
+      "slug": "266-split-turisticko-ugostiteljska-skola-split",
+      "naziv": "TURISTIČKO - UGOSTITELJSKA ŠKOLA, SPLIT",
+      "naziv_normalized": "Turističko - Ugostiteljska Škola, Split",
+      "mjesto": "Split"
+    },
+    {
+      "id": 267,
+      "slug": "267-split-srednja-skola-dental-centar-marusic",
+      "naziv": "SREDNJA ŠKOLA DENTAL CENTAR MARUŠIĆ",
+      "naziv_normalized": "Srednja Škola Dental Centar Marušić",
+      "mjesto": "Split"
+    },
+    {
+      "id": 268,
+      "slug": "268-split-privatna-srednja-skola-marko-antun-de-dominis-s-pravom-javnosti",
+      "naziv": "Privatna srednja škola Marko Antun de Dominis, s pravom javnosti",
+      "naziv_normalized": "Privatna Srednja Škola Marko Antun De Dominis, S Pravom Javnosti",
+      "mjesto": "Split"
+    },
+    {
+      "id": 269,
+      "slug": "269-split-gimnazijski-kolegij-kraljica-jelena-s-pravom-javnosti",
+      "naziv": "GIMNAZIJSKI KOLEGIJ KRALJICA JELENA s pravom javnosti",
+      "naziv_normalized": "Gimnazijski Kolegij Kraljica Jelena S Pravom Javnosti",
+      "mjesto": "Split"
+    },
+    {
+      "id": 270,
+      "slug": "270-split-privatna-srednja-skola-wallner",
+      "naziv": "Privatna srednja škola Wallner",
+      "naziv_normalized": "Privatna Srednja Škola Wallner",
+      "mjesto": "Split"
+    },
+    {
+      "id": 271,
+      "slug": "271-split-centar-za-odgoj-i-obrazovanje-juraj-bonaci",
+      "naziv": "Centar za odgoj i obrazovanje JURAJ BONAČI",
+      "naziv_normalized": "Centar za Odgoj i Obrazovanje Juraj Bonači",
+      "mjesto": "Split"
+    },
+    {
+      "id": 272,
+      "slug": "272-supetar-srednja-skola-brac",
+      "naziv": "SREDNJA ŠKOLA BRAČ",
+      "naziv_normalized": "Srednja Škola Brač",
+      "mjesto": "Supetar"
+    },
+    {
+      "id": 273,
+      "slug": "273-sveti-ivan-zelina-srednja-skola-dragutina-strazimira",
+      "naziv": "Srednja škola Dragutina Stražimira",
+      "naziv_normalized": "Srednja Škola Dragutina Stražimira",
+      "mjesto": "Sveti Ivan Zelina"
+    },
+    {
+      "id": 274,
+      "slug": "274-sibenik-glazbena-skola-ivana-lukacica",
+      "naziv": "GLAZBENA ŠKOLA IVANA LUKAČIĆA",
+      "naziv_normalized": "Glazbena Škola Ivana Lukačića",
+      "mjesto": "Šibenik"
+    },
+    {
+      "id": 275,
+      "slug": "275-sibenik-ekonomska-skola-sibenik",
+      "naziv": "EKONOMSKA ŠKOLA ŠIBENIK",
+      "naziv_normalized": "Ekonomska Škola Šibenik",
+      "mjesto": "Šibenik"
+    },
+    {
+      "id": 276,
+      "slug": "276-sibenik-prometno-tehnicka-skola-sibenik",
+      "naziv": "PROMETNO-TEHNIČKA ŠKOLA ŠIBENIK",
+      "naziv_normalized": "Prometno-tehnička Škola Šibenik",
+      "mjesto": "Šibenik"
+    },
+    {
+      "id": 277,
+      "slug": "277-sibenik-medicinska-skola",
+      "naziv": "Medicinska škola",
+      "naziv_normalized": "Medicinska Škola",
+      "mjesto": "Šibenik"
+    },
+    {
+      "id": 278,
+      "slug": "278-sibenik-turisticko-ugostiteljska-skola-sibenik",
+      "naziv": "TURISTIČKO-UGOSTITELJSKA ŠKOLA ŠIBENIK",
+      "naziv_normalized": "Turističko-ugostiteljska Škola Šibenik",
+      "mjesto": "Šibenik"
+    },
+    {
+      "id": 279,
+      "slug": "279-sibenik-gimnazija-antuna-vrancica",
+      "naziv": "GIMNAZIJA ANTUNA VRANČIĆA",
+      "naziv_normalized": "Gimnazija Antuna Vrančića",
+      "mjesto": "Šibenik"
+    },
+    {
+      "id": 280,
+      "slug": "280-sibenik-tehnicka-skola",
+      "naziv": "TEHNIČKA ŠKOLA",
+      "naziv_normalized": "Tehnička Škola",
+      "mjesto": "Šibenik"
+    },
+    {
+      "id": 281,
+      "slug": "281-sibenik-industrijsko-obrtnicka-skola-sibenik",
+      "naziv": "INDUSTRIJSKO-OBRTNIČKA ŠKOLA ŠIBENIK",
+      "naziv_normalized": "Industrijsko-obrtnička Škola Šibenik",
+      "mjesto": "Šibenik"
+    },
+    {
+      "id": 282,
+      "slug": "282-sibenik-srednja-strukovna-skola-sibenik",
+      "naziv": "SREDNJA STRUKOVNA ŠKOLA ŠIBENIK",
+      "naziv_normalized": "Srednja Strukovna Škola Šibenik",
+      "mjesto": "Šibenik"
+    },
+    {
+      "id": 283,
+      "slug": "283-sibenik-centar-za-odgoj-i-obrazovanje-subicevac",
+      "naziv": "CENTAR ZA ODGOJ I OBRAZOVANJE ŠUBIĆEVAC",
+      "naziv_normalized": "Centar za Odgoj i Obrazovanje Šubićevac",
+      "mjesto": "Šibenik"
+    },
+    {
+      "id": 284,
+      "slug": "284-topusko-srednja-skola-topusko",
+      "naziv": "Srednja škola Topusko",
+      "naziv_normalized": "Srednja Škola Topusko",
+      "mjesto": "Topusko"
+    },
+    {
+      "id": 285,
+      "slug": "285-trogir-srednja-skola-ivana-lucica-trogir",
+      "naziv": "Srednja škola IVANA LUCIĆA - TROGIR",
+      "naziv_normalized": "Srednja Škola Ivana Lucića - Trogir",
+      "mjesto": "Trogir"
+    },
+    {
+      "id": 286,
+      "slug": "286-trogir-srednja-strukovna-skola-blaz-jurjev-trogiranin",
+      "naziv": "SREDNJA STRUKOVNA ŠKOLA BLAŽ JURJEV TROGIRANIN",
+      "naziv_normalized": "Srednja Strukovna Škola Blaž Jurjev Trogiranin",
+      "mjesto": "Trogir"
+    },
+    {
+      "id": 287,
+      "slug": "287-valpovo-srednja-skola-valpovo",
+      "naziv": "Srednja škola Valpovo",
+      "naziv_normalized": "Srednja Škola Valpovo",
+      "mjesto": "Valpovo"
+    },
+    {
+      "id": 288,
+      "slug": "288-varazdin-prva-gimnazija-varazdin",
+      "naziv": "Prva gimnazija Varaždin",
+      "naziv_normalized": "Prva Gimnazija Varaždin",
+      "mjesto": "Varaždin"
+    },
+    {
+      "id": 289,
+      "slug": "289-varazdin-druga-gimnazija-varazdin",
+      "naziv": "Druga gimnazija Varaždin",
+      "naziv_normalized": "Druga Gimnazija Varaždin",
+      "mjesto": "Varaždin"
+    },
+    {
+      "id": 290,
+      "slug": "290-varazdin-elektrostrojarska-skola",
+      "naziv": "Elektrostrojarska škola",
+      "naziv_normalized": "Elektrostrojarska Škola",
+      "mjesto": "Varaždin"
+    },
+    {
+      "id": 291,
+      "slug": "291-varazdin-medicinska-skola-varazdin",
+      "naziv": "Medicinska škola Varaždin",
+      "naziv_normalized": "Medicinska Škola Varaždin",
+      "mjesto": "Varaždin"
+    },
+    {
+      "id": 292,
+      "slug": "292-varazdin-gospodarska-skola-varazdin",
+      "naziv": "Gospodarska škola Varaždin",
+      "naziv_normalized": "Gospodarska Škola Varaždin",
+      "mjesto": "Varaždin"
+    },
+    {
+      "id": 293,
+      "slug": "293-varazdin-strojarska-i-prometna-skola",
+      "naziv": "STROJARSKA I PROMETNA ŠKOLA",
+      "naziv_normalized": "Strojarska i Prometna Škola",
+      "mjesto": "Varaždin"
+    },
+    {
+      "id": 294,
+      "slug": "294-varazdin-srednja-strukovna-skola",
+      "naziv": "Srednja strukovna škola",
+      "naziv_normalized": "Srednja Strukovna Škola",
+      "mjesto": "Varaždin"
+    },
+    {
+      "id": 295,
+      "slug": "295-varazdin-graditeljska-prirodoslovna-i-rudarska-skola",
+      "naziv": "Graditeljska, prirodoslovna i rudarska škola",
+      "naziv_normalized": "Graditeljska, Prirodoslovna i Rudarska Škola",
+      "mjesto": "Varaždin"
+    },
+    {
+      "id": 296,
+      "slug": "296-varazdin-prva-privatna-gimnazija-s-pravom-javnosti-varazdin",
+      "naziv": "PRVA PRIVATNA GIMNAZIJA S PRAVOM JAVNOSTI VARAŽDIN",
+      "naziv_normalized": "Prva Privatna Gimnazija S Pravom Javnosti Varaždin",
+      "mjesto": "Varaždin"
+    },
+    {
+      "id": 297,
+      "slug": "297-varazdin-centar-za-odgoj-i-obrazovanje-tomislav-spoljar",
+      "naziv": "Centar za odgoj i obrazovanje Tomislav Špoljar",
+      "naziv_normalized": "Centar za Odgoj i Obrazovanje Tomislav Špoljar",
+      "mjesto": "Varaždin"
+    },
+    {
+      "id": 298,
+      "slug": "298-varazdin-glazbena-skola-u-varazdinu",
+      "naziv": "Glazbena škola u Varaždinu",
+      "naziv_normalized": "Glazbena Škola u Varaždinu",
+      "mjesto": "Varaždin"
+    },
+    {
+      "id": 299,
+      "slug": "299-vela-luka-srednja-skola-vela-luka",
+      "naziv": "Srednja škola Vela Luka",
+      "naziv_normalized": "Srednja Škola Vela Luka",
+      "mjesto": "Vela Luka"
+    },
+    {
+      "id": 300,
+      "slug": "300-velika-gorica-ekonomska-skola-velika-gorica",
+      "naziv": "Ekonomska škola Velika Gorica",
+      "naziv_normalized": "Ekonomska Škola Velika Gorica",
+      "mjesto": "Velika Gorica"
+    },
+    {
+      "id": 301,
+      "slug": "301-velika-gorica-gimnazija-velika-gorica",
+      "naziv": "GIMNAZIJA VELIKA GORICA",
+      "naziv_normalized": "Gimnazija Velika Gorica",
+      "mjesto": "Velika Gorica"
+    },
+    {
+      "id": 302,
+      "slug": "302-velika-gorica-srednja-strukovna-skola-velika-gorica",
+      "naziv": "SREDNJA STRUKOVNA ŠKOLA VELIKA GORICA",
+      "naziv_normalized": "Srednja Strukovna Škola Velika Gorica",
+      "mjesto": "Velika Gorica"
+    },
+    {
+      "id": 303,
+      "slug": "303-velika-gorica-zrakoplovna-tehnicka-skola-rudolfa-peresina",
+      "naziv": "Zrakoplovna tehnička škola Rudolfa Perešina",
+      "naziv_normalized": "Zrakoplovna Tehnička Škola Rudolfa Perešina",
+      "mjesto": "Velika Gorica"
+    },
+    {
+      "id": 304,
+      "slug": "304-velika-gorica-umjetnicka-skola-franje-lucica",
+      "naziv": "Umjetnička škola Franje Lučića",
+      "naziv_normalized": "Umjetnička Škola Franje Lučića",
+      "mjesto": "Velika Gorica"
+    },
+    {
+      "id": 305,
+      "slug": "305-vinkovci-tehnicka-skola-ru-era-boskovica-vinkovci",
+      "naziv": "Tehnička škola Ruđera Boškovića Vinkovci",
+      "naziv_normalized": "Tehnička Škola Ruđera Boškovića Vinkovci",
+      "mjesto": "Vinkovci"
+    },
+    {
+      "id": 306,
+      "slug": "306-vinkovci-gimnazija-matije-antuna-reljkovica",
+      "naziv": "Gimnazija Matije Antuna Reljkovića",
+      "naziv_normalized": "Gimnazija Matije Antuna Reljkovića",
+      "mjesto": "Vinkovci"
+    },
+    {
+      "id": 307,
+      "slug": "307-vinkovci-ekonomska-i-trgovacka-skola-ivana-domca",
+      "naziv": "Ekonomska i trgovačka škola Ivana Domca",
+      "naziv_normalized": "Ekonomska i Trgovačka Škola Ivana Domca",
+      "mjesto": "Vinkovci"
+    },
+    {
+      "id": 308,
+      "slug": "308-vinkovci-drvodjelska-tehnicka-skola",
+      "naziv": "Drvodjelska tehnička škola",
+      "naziv_normalized": "Drvodjelska Tehnička Škola",
+      "mjesto": "Vinkovci"
+    },
+    {
+      "id": 309,
+      "slug": "309-vinkovci-srednja-strukovna-skola-vinkovci",
+      "naziv": "Srednja strukovna škola Vinkovci",
+      "naziv_normalized": "Srednja Strukovna Škola Vinkovci",
+      "mjesto": "Vinkovci"
+    },
+    {
+      "id": 310,
+      "slug": "310-vinkovci-zdravstvena-i-veterinarska-skola-dr-andrije-stampara-vinkovci",
+      "naziv": "Zdravstvena i veterinarska škola Dr. Andrije Štampara Vinkovci",
+      "naziv_normalized": "Zdravstvena i Veterinarska Škola Dr. Andrije Štampara Vinkovci",
+      "mjesto": "Vinkovci"
+    },
+    {
+      "id": 311,
+      "slug": "311-vinkovci-poljoprivredno-sumarska-skola-vinkovci",
+      "naziv": "POLJOPRIVREDNO ŠUMARSKA ŠKOLA VINKOVCI",
+      "naziv_normalized": "Poljoprivredno Šumarska Škola Vinkovci",
+      "mjesto": "Vinkovci"
+    },
+    {
+      "id": 312,
+      "slug": "312-virovitica-gimnazija-petra-preradovica-virovitica",
+      "naziv": "GIMNAZIJA PETRA PRERADOVIĆA VIROVITICA",
+      "naziv_normalized": "Gimnazija Petra Preradovića Virovitica",
+      "mjesto": "Virovitica"
+    },
+    {
+      "id": 313,
+      "slug": "313-virovitica-tehnicka-skola-virovitica",
+      "naziv": "TEHNIČKA ŠKOLA VIROVITICA",
+      "naziv_normalized": "Tehnička Škola Virovitica",
+      "mjesto": "Virovitica"
+    },
+    {
+      "id": 314,
+      "slug": "314-virovitica-industrijsko-obrtnicka-skola-virovitica",
+      "naziv": "INDUSTRIJSKO-OBRTNIČKA ŠKOLA VIROVITICA",
+      "naziv_normalized": "Industrijsko-obrtnička Škola Virovitica",
+      "mjesto": "Virovitica"
+    },
+    {
+      "id": 315,
+      "slug": "315-virovitica-strukovna-skola-virovitica",
+      "naziv": "STRUKOVNA ŠKOLA VIROVITICA",
+      "naziv_normalized": "Strukovna Škola Virovitica",
+      "mjesto": "Virovitica"
+    },
+    {
+      "id": 316,
+      "slug": "316-virovitica-glazbena-skola-jan-vlasimsky-virovitica",
+      "naziv": "Glazbena škola Jan Vlašimsky Virovitica",
+      "naziv_normalized": "Glazbena Škola Jan Vlašimsky Virovitica",
+      "mjesto": "Virovitica"
+    },
+    {
+      "id": 317,
+      "slug": "317-virovitica-centar-za-odgoj-obrazovanje-i-rehabilitaciju-virovitica",
+      "naziv": "CENTAR ZA ODGOJ, OBRAZOVANJE I REHABILITACIJU VIROVITICA",
+      "naziv_normalized": "Centar za Odgoj, Obrazovanje i Rehabilitaciju Virovitica",
+      "mjesto": "Virovitica"
+    },
+    {
+      "id": 318,
+      "slug": "318-virovitica-katolicka-klasicna-gimnazija-s-pravom-javnosti-u-virovitici",
+      "naziv": "KATOLIČKA KLASIČNA GIMNAZIJA S PRAVOM JAVNOSTI U VIROVITICI",
+      "naziv_normalized": "Katolička Klasična Gimnazija S Pravom Javnosti u Virovitici",
+      "mjesto": "Virovitica"
+    },
+    {
+      "id": 319,
+      "slug": "319-vis-srednja-skola-antun-matijasevic-karamaneo",
+      "naziv": "SREDNJA ŠKOLA ANTUN MATIJAŠEVIĆ - KARAMANEO",
+      "naziv_normalized": "Srednja Škola Antun Matijašević - Karamaneo",
+      "mjesto": "Vis"
+    },
+    {
+      "id": 320,
+      "slug": "320-vrbovec-srednja-skola-vrbovec",
+      "naziv": "SREDNJA ŠKOLA VRBOVEC",
+      "naziv_normalized": "Srednja Škola Vrbovec",
+      "mjesto": "Vrbovec"
+    },
+    {
+      "id": 321,
+      "slug": "321-vrgorac-srednja-skola-tina-ujevica",
+      "naziv": "SREDNJA ŠKOLA TINA UJEVIĆA",
+      "naziv_normalized": "Srednja Škola Tina Ujevića",
+      "mjesto": "Vrgorac"
+    },
+    {
+      "id": 322,
+      "slug": "322-vukovar-gimnazija-vukovar",
+      "naziv": "GIMNAZIJA VUKOVAR",
+      "naziv_normalized": "Gimnazija Vukovar",
+      "mjesto": "Vukovar"
+    },
+    {
+      "id": 323,
+      "slug": "323-vukovar-ekonomska-skola-vukovar",
+      "naziv": "Ekonomska škola Vukovar",
+      "naziv_normalized": "Ekonomska Škola Vukovar",
+      "mjesto": "Vukovar"
+    },
+    {
+      "id": 324,
+      "slug": "324-vukovar-tehnicka-skola-nikole-tesle",
+      "naziv": "TEHNIČKA ŠKOLA NIKOLE TESLE",
+      "naziv_normalized": "Tehnička Škola Nikole Tesle",
+      "mjesto": "Vukovar"
+    },
+    {
+      "id": 325,
+      "slug": "325-vukovar-srednja-strukovna-skola-marko-babic",
+      "naziv": "Srednja strukovna škola Marko Babić",
+      "naziv_normalized": "Srednja Strukovna Škola Marko Babić",
+      "mjesto": "Vukovar"
+    },
+    {
+      "id": 326,
+      "slug": "326-zabok-srednja-skola-zabok",
+      "naziv": "SREDNJA ŠKOLA ZABOK",
+      "naziv_normalized": "Srednja Škola Zabok",
+      "mjesto": "Zabok"
+    },
+    {
+      "id": 327,
+      "slug": "327-zabok-skola-za-umjetnost-dizajn-grafiku-i-odjecu-zabok",
+      "naziv": "Škola za umjetnost, dizajn, grafiku i odjeću Zabok",
+      "naziv_normalized": "Škola za Umjetnost, Dizajn, Grafiku i Odjeću Zabok",
+      "mjesto": "Zabok"
+    },
+    {
+      "id": 328,
+      "slug": "328-zabok-gimnazija-antuna-gustava-matosa",
+      "naziv": "GIMNAZIJA ANTUNA GUSTAVA MATOŠA",
+      "naziv_normalized": "Gimnazija Antuna Gustava Matoša",
+      "mjesto": "Zabok"
+    },
+    {
+      "id": 329,
+      "slug": "329-zadar-glazbena-skola-blagoje-bersa-zadar",
+      "naziv": "Glazbena škola Blagoje Bersa Zadar",
+      "naziv_normalized": "Glazbena Škola Blagoje Bersa Zadar",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 330,
+      "slug": "330-zadar-privatna-gimnazija-nova-s-pravom-javnosti",
+      "naziv": "Privatna gimnazija NOVA s pravom javnosti",
+      "naziv_normalized": "Privatna Gimnazija Nova S Pravom Javnosti",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 331,
+      "slug": "331-zadar-gimnazija-franje-petrica-zadar",
+      "naziv": "GIMNAZIJA FRANJE PETRIĆA ZADAR",
+      "naziv_normalized": "Gimnazija Franje Petrića Zadar",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 332,
+      "slug": "332-zadar-gimnazija-vladimira-nazora",
+      "naziv": "GIMNAZIJA VLADIMIRA NAZORA",
+      "naziv_normalized": "Gimnazija Vladimira Nazora",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 333,
+      "slug": "333-zadar-gimnazija-jurja-barakovica",
+      "naziv": "Gimnazija Jurja Barakovića",
+      "naziv_normalized": "Gimnazija Jurja Barakovića",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 334,
+      "slug": "334-zadar-klasicna-gimnazija-ivana-pavla-ii-s-pravom-javnosti",
+      "naziv": "KLASIČNA GIMNAZIJA IVANA PAVLA II. S PRAVOM JAVNOSTI",
+      "naziv_normalized": "Klasična Gimnazija Ivana Pavla Ii. S Pravom Javnosti",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 335,
+      "slug": "335-zadar-pomorska-skola-zadar",
+      "naziv": "POMORSKA ŠKOLA ZADAR",
+      "naziv_normalized": "Pomorska Škola Zadar",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 336,
+      "slug": "336-zadar-medicinska-skola-ante-kuzmanica-zadar",
+      "naziv": "MEDICINSKA ŠKOLA ANTE KUZMANIĆA-ZADAR",
+      "naziv_normalized": "Medicinska Škola Ante Kuzmanića-zadar",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 337,
+      "slug": "337-zadar-obrtnicka-skola-gojka-matuline-zadar",
+      "naziv": "OBRTNIČKA ŠKOLA GOJKA MATULINE ZADAR",
+      "naziv_normalized": "Obrtnička Škola Gojka Matuline Zadar",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 338,
+      "slug": "338-zadar-tehnicka-skola",
+      "naziv": "TEHNIČKA ŠKOLA",
+      "naziv_normalized": "Tehnička Škola",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 339,
+      "slug": "339-zadar-strukovna-skola-vice-vlatkovica",
+      "naziv": "Strukovna škola Vice Vlatkovića",
+      "naziv_normalized": "Strukovna Škola Vice Vlatkovića",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 340,
+      "slug": "340-zadar-prirodoslovno-graficka-skola",
+      "naziv": "Prirodoslovno - grafička škola",
+      "naziv_normalized": "Prirodoslovno - Grafička Škola",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 341,
+      "slug": "341-zadar-poljoprivredna-prehrambena-i-veterinarska-skola-stanka-ozanica",
+      "naziv": "Poljoprivredna, prehrambena i veterinarska škola Stanka Ožanića",
+      "naziv_normalized": "Poljoprivredna, Prehrambena i Veterinarska Škola Stanka Ožanića",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 342,
+      "slug": "342-zadar-skola-primijenjene-umjetnosti-i-dizajna",
+      "naziv": "ŠKOLA PRIMIJENJENE UMJETNOSTI I DIZAJNA",
+      "naziv_normalized": "Škola Primijenjene Umjetnosti i Dizajna",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 343,
+      "slug": "343-zadar-ekonomsko-birotehnicka-i-trgovacka-skola",
+      "naziv": "EKONOMSKO-BIROTEHNIČKA I TRGOVAČKA ŠKOLA",
+      "naziv_normalized": "Ekonomsko-birotehnička i Trgovačka Škola",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 344,
+      "slug": "344-zadar-hotelijersko-turisticka-i-ugostiteljska-skola",
+      "naziv": "HOTELIJERSKO-TURISTIČKA I UGOSTITELJSKA ŠKOLA",
+      "naziv_normalized": "Hotelijersko-turistička i Ugostiteljska Škola",
+      "mjesto": "Zadar"
+    },
+    {
+      "id": 345,
+      "slug": "345-zagreb-epoha-privatna-gimnazija-s-pravom-javnosti",
+      "naziv": "EPOHA, privatna gimnazija s pravom javnosti",
+      "naziv_normalized": "Epoha, Privatna Gimnazija S Pravom Javnosti",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 346,
+      "slug": "346-zagreb-humanisticka-gimnazija",
+      "naziv": "Humanistička gimnazija",
+      "naziv_normalized": "Humanistička Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 347,
+      "slug": "347-zagreb-privatna-sportska-i-jezicna-gimnazija-franjo-bucar",
+      "naziv": "Privatna sportska i jezična gimnazija Franjo Bučar",
+      "naziv_normalized": "Privatna Sportska i Jezična Gimnazija Franjo Bučar",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 348,
+      "slug": "348-zagreb-glazbena-skola-muzicki-atelje",
+      "naziv": "Glazbena škola \"Muzički atelje\"",
+      "naziv_normalized": "Glazbena Škola \"Muzički Atelje\"",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 349,
+      "slug": "349-zagreb-srednja-waldorfska-skola-u-zagrebu",
+      "naziv": "SREDNJA WALDORFSKA ŠKOLA U ZAGREBU",
+      "naziv_normalized": "Srednja Waldorfska Škola u Zagrebu",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 350,
+      "slug": "350-zagreb-privatna-srednja-skola-amac-me-unarodna-skola",
+      "naziv": "Privatna srednja škola AMAC međunarodna škola",
+      "naziv_normalized": "Privatna Srednja Škola Amac Međunarodna Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 351,
+      "slug": "351-zagreb-policijska-skola-josip-jovic",
+      "naziv": "Policijska škola Josip Jović",
+      "naziv_normalized": "Policijska Škola Josip Jović",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 352,
+      "slug": "352-zagreb-gimnazija-marul",
+      "naziv": "Gimnazija Marul",
+      "naziv_normalized": "Gimnazija Marul",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 353,
+      "slug": "353-zagreb-glazbena-skola-ladislav-racic",
+      "naziv": "Glazbena škola Ladislav Račić",
+      "naziv_normalized": "Glazbena Škola Ladislav Račić",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 354,
+      "slug": "354-zagreb-privatna-glazbena-skola-iva-kupresak",
+      "naziv": "Privatna glazbena škola \"Iva Kuprešak\"",
+      "naziv_normalized": "Privatna Glazbena Škola \"Iva Kuprešak\"",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 355,
+      "slug": "355-zagreb-glazbena-skola-brkanovic",
+      "naziv": "Glazbena škola Brkanović",
+      "naziv_normalized": "Glazbena Škola Brkanović",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 356,
+      "slug": "356-zagreb-opca-privatna-gimnazija",
+      "naziv": "OPĆA PRIVATNA GIMNAZIJA",
+      "naziv_normalized": "Opća Privatna Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 357,
+      "slug": "357-zagreb-skola-za-klasicni-balet",
+      "naziv": "ŠKOLA ZA KLASIČNI BALET",
+      "naziv_normalized": "Škola za Klasični Balet",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 358,
+      "slug": "358-zagreb-skola-suvremenog-plesa-ane-maletic",
+      "naziv": "ŠKOLA SUVREMENOG PLESA ANE MALETIĆ",
+      "naziv_normalized": "Škola Suvremenog Plesa Ane Maletić",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 359,
+      "slug": "359-zagreb-umjetnicka-plesna-skola-silvije-hercigonje",
+      "naziv": "UMJETNIČKA PLESNA ŠKOLA SILVIJE HERCIGONJE",
+      "naziv_normalized": "Umjetnička Plesna Škola Silvije Hercigonje",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 360,
+      "slug": "360-zagreb-glazbena-skola-zlatka-balokovica",
+      "naziv": "GLAZBENA ŠKOLA ZLATKA BALOKOVIĆA",
+      "naziv_normalized": "Glazbena Škola Zlatka Balokovića",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 361,
+      "slug": "361-zagreb-glazbena-skola-pavla-markovca",
+      "naziv": "GLAZBENA ŠKOLA PAVLA MARKOVCA",
+      "naziv_normalized": "Glazbena Škola Pavla Markovca",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 362,
+      "slug": "362-zagreb-glazbeno-uciliste-elly-basic",
+      "naziv": "Glazbeno učilište Elly Bašić",
+      "naziv_normalized": "Glazbeno Učilište Elly Bašić",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 363,
+      "slug": "363-zagreb-glazbena-skola-vatroslava-lisinskog",
+      "naziv": "GLAZBENA ŠKOLA VATROSLAVA LISINSKOG",
+      "naziv_normalized": "Glazbena Škola Vatroslava Lisinskog",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 364,
+      "slug": "364-zagreb-glazbena-skola-blagoja-berse",
+      "naziv": "Glazbena škola Blagoja Berse",
+      "naziv_normalized": "Glazbena Škola Blagoja Berse",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 365,
+      "slug": "365-zagreb-centar-za-odgoj-i-obrazovanje-vinko-bek",
+      "naziv": "Centar za odgoj i obrazovanje Vinko Bek",
+      "naziv_normalized": "Centar za Odgoj i Obrazovanje Vinko Bek",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 366,
+      "slug": "366-zagreb-centar-za-odgoj-i-obrazovanje-slave-raskaj-zagreb",
+      "naziv": "Centar za odgoj i obrazovanje Slave Raškaj Zagreb",
+      "naziv_normalized": "Centar za Odgoj i Obrazovanje Slave Raškaj Zagreb",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 367,
+      "slug": "367-zagreb-centar-za-odgoj-i-obrazovanje-dubrava",
+      "naziv": "Centar za odgoj i obrazovanje Dubrava",
+      "naziv_normalized": "Centar za Odgoj i Obrazovanje Dubrava",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 368,
+      "slug": "368-zagreb-glazbena-skola-bonar",
+      "naziv": "GLAZBENA ŠKOLA BONAR",
+      "naziv_normalized": "Glazbena Škola Bonar",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 369,
+      "slug": "369-zagreb-srednja-skola-centar-za-odgoj-i-obrazovanje",
+      "naziv": "Srednja škola - Centar za odgoj i obrazovanje",
+      "naziv_normalized": "Srednja Škola - Centar za Odgoj i Obrazovanje",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 370,
+      "slug": "370-zagreb-zenska-opca-gimnazija-druzbe-sestara-milosrdnica-s-pravom-javnosti",
+      "naziv": "Ženska opća gimnazija Družbe sestara milosrdnica - s pravom javnosti",
+      "naziv_normalized": "Ženska Opća Gimnazija Družbe Sestara Milosrdnica - S Pravom Javnosti",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 371,
+      "slug": "371-zagreb-tehnicka-skola-ru-era-boskovica",
+      "naziv": "TEHNIČKA ŠKOLA RUĐERA BOŠKOVIĆA",
+      "naziv_normalized": "Tehnička Škola Ruđera Boškovića",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 372,
+      "slug": "372-zagreb-hotelijersko-turisticka-skola-u-zagrebu",
+      "naziv": "Hotelijersko-turistička škola u Zagrebu",
+      "naziv_normalized": "Hotelijersko-turistička Škola u Zagrebu",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 373,
+      "slug": "373-zagreb-prva-privatna-gimnazija-s-pravom-javnosti",
+      "naziv": "PRVA PRIVATNA GIMNAZIJA s pravom javnosti",
+      "naziv_normalized": "Prva Privatna Gimnazija S Pravom Javnosti",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 374,
+      "slug": "374-zagreb-privatna-klasicna-gimnazija-s-pravom-javnosti",
+      "naziv": "PRIVATNA KLASIČNA GIMNAZIJA S PRAVOM JAVNOSTI",
+      "naziv_normalized": "Privatna Klasična Gimnazija S Pravom Javnosti",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 375,
+      "slug": "375-zagreb-gimnazija-i-ekonomska-skola-benedikta-kotruljevica-s-pravom-javnosti",
+      "naziv": "Gimnazija i ekonomska škola Benedikta Kotruljevića, s pravom javnosti",
+      "naziv_normalized": "Gimnazija i Ekonomska Škola Benedikta Kotruljevića, S Pravom Javnosti",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 376,
+      "slug": "376-zagreb-privatna-gimnazija-i-ekonomska-skola-katarina-zrinski",
+      "naziv": "Privatna gimnazija i ekonomska škola Katarina Zrinski",
+      "naziv_normalized": "Privatna Gimnazija i Ekonomska Škola Katarina Zrinski",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 377,
+      "slug": "377-zagreb-linigra-privatna-skola-s-pravom-javnosti",
+      "naziv": "LINIGRA-privatna škola s pravom javnosti",
+      "naziv_normalized": "Linigra-privatna Škola S Pravom Javnosti",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 378,
+      "slug": "378-zagreb-islamska-gimnazija-dr-ahmeda-smajlovica",
+      "naziv": "Islamska gimnazija dr. Ahmeda Smajlovića",
+      "naziv_normalized": "Islamska Gimnazija Dr. Ahmeda Smajlovića",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 379,
+      "slug": "379-zagreb-privatna-umjetnicka-gimnazija-s-pravom-javnosti",
+      "naziv": "Privatna umjetnička gimnazija, s pravom javnosti",
+      "naziv_normalized": "Privatna Umjetnička Gimnazija, S Pravom Javnosti",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 380,
+      "slug": "380-zagreb-privatna-gimnazija-dr-casl-s-pravom-javnosti",
+      "naziv": "Privatna gimnazija Dr. Časl, s pravom javnosti",
+      "naziv_normalized": "Privatna Gimnazija Dr. Časl, S Pravom Javnosti",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 381,
+      "slug": "381-zagreb-privatna-gimnazija-i-strukovna-skola-svijet-s-pravom-javnosti",
+      "naziv": "Privatna gimnazija i strukovna škola Svijet s pravom javnosti",
+      "naziv_normalized": "Privatna Gimnazija i Strukovna Škola Svijet S Pravom Javnosti",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 382,
+      "slug": "382-zagreb-privatna-skola-futura",
+      "naziv": "Privatna škola Futura",
+      "naziv_normalized": "Privatna Škola Futura",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 383,
+      "slug": "383-zagreb-srpska-pravoslavna-opca-gimnazija-kantakuzina-katarina-brankovic-ustanova-s-pravom-javnosti",
+      "naziv": "SRPSKA PRAVOSLAVNA OPĆA GIMNAZIJA KANTAKUZINA-KATARINA BRANKOVIĆ ustanova ˝s pravom javnosti˝",
+      "naziv_normalized": "Srpska Pravoslavna Opća Gimnazija Kantakuzina-katarina Branković Ustanova ˝S Pravom Javnosti˝",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 384,
+      "slug": "384-zagreb-privatna-gimnazija-i-turisticko-ugostiteljska-skola-jure-kupresak",
+      "naziv": "Privatna gimnazija i turističko-ugostiteljska škola Jure Kuprešak",
+      "naziv_normalized": "Privatna Gimnazija i Turističko-ugostiteljska Škola Jure Kuprešak",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 385,
+      "slug": "385-zagreb-i-gimnazija",
+      "naziv": "I. GIMNAZIJA",
+      "naziv_normalized": "I. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 386,
+      "slug": "386-zagreb-ii-gimnazija",
+      "naziv": "II. gimnazija",
+      "naziv_normalized": "Ii. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 387,
+      "slug": "387-zagreb-iii-gimnazija",
+      "naziv": "III. GIMNAZIJA",
+      "naziv_normalized": "Iii. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 388,
+      "slug": "388-zagreb-iv-gimnazija",
+      "naziv": "IV. Gimnazija",
+      "naziv_normalized": "Iv. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 389,
+      "slug": "389-zagreb-v-gimnazija",
+      "naziv": "V. gimnazija",
+      "naziv_normalized": "V. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 390,
+      "slug": "390-zagreb-gornjogradska-gimnazija",
+      "naziv": "GORNJOGRADSKA GIMNAZIJA",
+      "naziv_normalized": "Gornjogradska Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 391,
+      "slug": "391-zagreb-vii-gimnazija",
+      "naziv": "VII. GIMNAZIJA",
+      "naziv_normalized": "Vii. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 392,
+      "slug": "392-zagreb-gimnazija-titusa-brezovackog",
+      "naziv": "Gimnazija Tituša Brezovačkog",
+      "naziv_normalized": "Gimnazija Tituša Brezovačkog",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 393,
+      "slug": "393-zagreb-ix-gimnazija",
+      "naziv": "IX. GIMNAZIJA",
+      "naziv_normalized": "Ix. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 394,
+      "slug": "394-zagreb-x-gimnazija-ivan-supek",
+      "naziv": "X. gimnazija Ivan Supek",
+      "naziv_normalized": "X. Gimnazija Ivan Supek",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 395,
+      "slug": "395-zagreb-xi-gimnazija",
+      "naziv": "XI. GIMNAZIJA",
+      "naziv_normalized": "Xi. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 396,
+      "slug": "396-zagreb-xii-gimnazija",
+      "naziv": "XII. Gimnazija",
+      "naziv_normalized": "Xii. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 397,
+      "slug": "397-zagreb-xiii-gimnazija",
+      "naziv": "XIII. gimnazija",
+      "naziv_normalized": "Xiii. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 398,
+      "slug": "398-zagreb-gimnazija-lucijana-vranjanina",
+      "naziv": "Gimnazija Lucijana Vranjanina",
+      "naziv_normalized": "Gimnazija Lucijana Vranjanina",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 399,
+      "slug": "399-zagreb-xv-gimnazija",
+      "naziv": "XV. GIMNAZIJA",
+      "naziv_normalized": "Xv. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 400,
+      "slug": "400-zagreb-xvi-gimnazija",
+      "naziv": "XVI. GIMNAZIJA",
+      "naziv_normalized": "Xvi. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 401,
+      "slug": "401-zagreb-klasicna-gimnazija",
+      "naziv": "KLASIČNA GIMNAZIJA",
+      "naziv_normalized": "Klasična Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 402,
+      "slug": "402-zagreb-xviii-gimnazija",
+      "naziv": "XVIII. gimnazija",
+      "naziv_normalized": "Xviii. Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 403,
+      "slug": "403-zagreb-zdravstveno-uciliste",
+      "naziv": "ZDRAVSTVENO UČILIŠTE",
+      "naziv_normalized": "Zdravstveno Učilište",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 404,
+      "slug": "404-zagreb-skola-za-medicinske-sestre-mlinarska",
+      "naziv": "ŠKOLA ZA MEDICINSKE SESTRE MLINARSKA",
+      "naziv_normalized": "Škola za Medicinske Sestre Mlinarska",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 405,
+      "slug": "405-zagreb-skola-za-medicinske-sestre-vinogradska",
+      "naziv": "ŠKOLA ZA MEDICINSKE SESTRE VINOGRADSKA",
+      "naziv_normalized": "Škola za Medicinske Sestre Vinogradska",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 406,
+      "slug": "406-zagreb-skola-za-primalje",
+      "naziv": "ŠKOLA ZA PRIMALJE",
+      "naziv_normalized": "Škola za Primalje",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 407,
+      "slug": "407-zagreb-skola-za-medicinske-sestre-vrapce",
+      "naziv": "ŠKOLA ZA MEDICINSKE SESTRE VRAPČE",
+      "naziv_normalized": "Škola za Medicinske Sestre Vrapče",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 408,
+      "slug": "408-zagreb-veterinarska-skola",
+      "naziv": "Veterinarska škola",
+      "naziv_normalized": "Veterinarska Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 409,
+      "slug": "409-zagreb-i-tehnicka-skola-tesla",
+      "naziv": "I. tehnička škola Tesla",
+      "naziv_normalized": "I. Tehnička Škola Tesla",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 410,
+      "slug": "410-zagreb-elektrotehnicka-skola",
+      "naziv": "Elektrotehnička škola",
+      "naziv_normalized": "Elektrotehnička Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 411,
+      "slug": "411-zagreb-elektrostrojarska-obrtnicka-skola",
+      "naziv": "Elektrostrojarska obrtnička škola",
+      "naziv_normalized": "Elektrostrojarska Obrtnička Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 412,
+      "slug": "412-zagreb-graditeljska-tehnicka-skola",
+      "naziv": "GRADITELJSKA TEHNIČKA ŠKOLA",
+      "naziv_normalized": "Graditeljska Tehnička Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 413,
+      "slug": "413-zagreb-geodetska-skola",
+      "naziv": "Geodetska škola",
+      "naziv_normalized": "Geodetska Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 414,
+      "slug": "414-zagreb-prva-ekonomska-skola",
+      "naziv": "PRVA EKONOMSKA ŠKOLA",
+      "naziv_normalized": "Prva Ekonomska Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 415,
+      "slug": "415-zagreb-druga-ekonomska-skola",
+      "naziv": "DRUGA EKONOMSKA ŠKOLA",
+      "naziv_normalized": "Druga Ekonomska Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 416,
+      "slug": "416-zagreb-treca-ekonomska-skola",
+      "naziv": "Treća ekonomska škola",
+      "naziv_normalized": "Treća Ekonomska Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 417,
+      "slug": "417-zagreb-prirodoslovna-skola-vladimira-preloga",
+      "naziv": "PRIRODOSLOVNA ŠKOLA VLADIMIRA PRELOGA",
+      "naziv_normalized": "Prirodoslovna Škola Vladimira Preloga",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 418,
+      "slug": "418-zagreb-ugostiteljsko-turisticko-uciliste",
+      "naziv": "UGOSTITELJSKO-TURISTIČKO UČILIŠTE",
+      "naziv_normalized": "Ugostiteljsko-turističko Učilište",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 419,
+      "slug": "419-zagreb-postanska-i-telekomunikacijska-skola",
+      "naziv": "Poštanska i telekomunikacijska škola",
+      "naziv_normalized": "Poštanska i Telekomunikacijska Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 420,
+      "slug": "420-zagreb-skola-za-cestovni-promet",
+      "naziv": "ŠKOLA ZA CESTOVNI PROMET",
+      "naziv_normalized": "Škola za Cestovni Promet",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 421,
+      "slug": "421-zagreb-agronomska-skola-zagreb",
+      "naziv": "AGRONOMSKA ŠKOLA ZAGREB",
+      "naziv_normalized": "Agronomska Škola Zagreb",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 422,
+      "slug": "422-zagreb-prehrambeno-tehnoloska-skola",
+      "naziv": "PREHRAMBENO-TEHNOLOŠKA ŠKOLA",
+      "naziv_normalized": "Prehrambeno-tehnološka Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 423,
+      "slug": "423-zagreb-skola-za-modu-i-dizajn",
+      "naziv": "Škola za modu i dizajn",
+      "naziv_normalized": "Škola za Modu i Dizajn",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 424,
+      "slug": "424-zagreb-skola-za-grafiku-dizajn-i-medijsku-produkciju",
+      "naziv": "Škola za grafiku, dizajn i medijsku produkciju",
+      "naziv_normalized": "Škola za Grafiku, Dizajn i Medijsku Produkciju",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 425,
+      "slug": "425-zagreb-nadbiskupska-klasicna-gimnazija-s-pravom-javnosti",
+      "naziv": "NADBISKUPSKA KLASIČNA GIMNAZIJA s pravom javnosti",
+      "naziv_normalized": "Nadbiskupska Klasična Gimnazija S Pravom Javnosti",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 426,
+      "slug": "426-zagreb-strojarska-tehnicka-skola-fausta-vrancica",
+      "naziv": "STROJARSKA TEHNIČKA ŠKOLA FAUSTA VRANČIĆA",
+      "naziv_normalized": "Strojarska Tehnička Škola Fausta Vrančića",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 427,
+      "slug": "427-zagreb-strojarska-tehnicka-skola-frana-bosnjakovica",
+      "naziv": "Strojarska tehnička škola Frana Bošnjakovića",
+      "naziv_normalized": "Strojarska Tehnička Škola Frana Bošnjakovića",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 428,
+      "slug": "428-zagreb-drvodjeljska-skola-zagreb",
+      "naziv": "Drvodjeljska škola Zagreb",
+      "naziv_normalized": "Drvodjeljska Škola Zagreb",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 429,
+      "slug": "429-zagreb-tehnicka-skola-zagreb",
+      "naziv": "Tehnička škola Zagreb",
+      "naziv_normalized": "Tehnička Škola Zagreb",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 430,
+      "slug": "430-zagreb-obrtnicka-skola-za-osobne-usluge",
+      "naziv": "OBRTNIČKA ŠKOLA ZA OSOBNE USLUGE",
+      "naziv_normalized": "Obrtnička Škola za Osobne Usluge",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 431,
+      "slug": "431-zagreb-industrijska-strojarska-skola",
+      "naziv": "INDUSTRIJSKA STROJARSKA ŠKOLA",
+      "naziv_normalized": "Industrijska Strojarska Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 432,
+      "slug": "432-zagreb-obrtnicka-i-industrijska-graditeljska-skola",
+      "naziv": "OBRTNIČKA I INDUSTRIJSKA GRADITELJSKA ŠKOLA",
+      "naziv_normalized": "Obrtnička i Industrijska Graditeljska Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 433,
+      "slug": "433-zagreb-skola-za-montazu-instalacija-i-metalnih-konstrukcija",
+      "naziv": "Škola za montažu instalacija i metalnih konstrukcija",
+      "naziv_normalized": "Škola za Montažu Instalacija i Metalnih Konstrukcija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 434,
+      "slug": "434-zagreb-upravna-skola-zagreb",
+      "naziv": "Upravna škola Zagreb",
+      "naziv_normalized": "Upravna Škola Zagreb",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 435,
+      "slug": "435-zagreb-trgovacka-skola",
+      "naziv": "TRGOVAČKA ŠKOLA",
+      "naziv_normalized": "Trgovačka Škola",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 436,
+      "slug": "436-zagreb-skola-primijenjene-umjetnosti-i-dizajna",
+      "naziv": "ŠKOLA PRIMIJENJENE UMJETNOSTI I DIZAJNA",
+      "naziv_normalized": "Škola Primijenjene Umjetnosti i Dizajna",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 437,
+      "slug": "437-zagreb-sportska-gimnazija",
+      "naziv": "ŠPORTSKA GIMNAZIJA",
+      "naziv_normalized": "Športska Gimnazija",
+      "mjesto": "Zagreb"
+    },
+    {
+      "id": 438,
+      "slug": "438-zajezda-centar-za-odgoj-i-obrazovanje-zajezda",
+      "naziv": "CENTAR ZA ODGOJ I OBRAZOVANJE ZAJEZDA",
+      "naziv_normalized": "Centar za Odgoj i Obrazovanje Zajezda",
+      "mjesto": "Zajezda"
+    },
+    {
+      "id": 439,
+      "slug": "439-zapresic-srednja-skola-ban-josip-jelacic",
+      "naziv": "Srednja škola Ban Josip Jelačić",
+      "naziv_normalized": "Srednja Škola Ban Josip Jelačić",
+      "mjesto": "Zaprešić"
+    },
+    {
+      "id": 440,
+      "slug": "440-zlatar-srednja-skola-zlatar",
+      "naziv": "SREDNJA ŠKOLA ZLATAR",
+      "naziv_normalized": "Srednja Škola Zlatar",
+      "mjesto": "Zlatar"
+    },
+    {
+      "id": 441,
+      "slug": "441-zupanja-obrtnicko-industrijska-skola-zupanja",
+      "naziv": "OBRTNIČKO - INDUSTRIJSKA ŠKOLA, Županja",
+      "naziv_normalized": "Obrtničko - Industrijska Škola, Županja",
+      "mjesto": "Županja"
+    },
+    {
+      "id": 442,
+      "slug": "442-zupanja-gimnazija-zupanja",
+      "naziv": "Gimnazija Županja",
+      "naziv_normalized": "Gimnazija Županja",
+      "mjesto": "Županja"
+    },
+    {
+      "id": 443,
+      "slug": "443-zupanja-tehnicka-skola-zupanja",
+      "naziv": "Tehnička škola Županja",
+      "naziv_normalized": "Tehnička Škola Županja",
+      "mjesto": "Županja"
+    }
+  ],
+  "meta": {
+    "title": "Srednje škole u Hrvatskoj - Besplatno preuzimanje",
+    "description": "Popis svih srednjih škola u Hrvatskoj — gimnazije, strukovne, umjetničke i druge srednje škole. 443 zapisa, svaki sadrži naziv škole (izvorni veliki tisak), normalizirani naziv (Title Case) i grad/mjesto. Izvor: ddobren/CroHS, web-crawled snapshot iz siječnja 2024 (oko 28 mjeseci star). Dataset is a thin name+city flat list of all 443 Croatian secondary schools, useful as a baseline directory for per-school search queries; schema does not include county (županija), school type, address, founding year, or enrollment. Sadrži 443 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Srednje škole u Hrvatskoj | ListBase",
+    "seo_description": "Preuzmi Srednje škole u Hrvatskoj — 443 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 443 zapisa / 5 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

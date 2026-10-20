@@ -1,0 +1,536 @@
+{
+  "id": "hr-poljoprivredne-trgovine",
+  "name": "Poljoprivredne trgovine",
+  "title": "Poljoprivredne trgovine",
+  "description": "Poljoprivredne trgovine u Hrvatskoj (99 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=agrarian), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agrarec",
+      "latitude": 45.844921,
+      "longitude": 15.68789
+    },
+    {
+      "name": "Agro Petar",
+      "latitude": 45.56648,
+      "longitude": 16.632346
+    },
+    {
+      "name": "Agro Simpa doo",
+      "latitude": 45.417381,
+      "longitude": 16.394143
+    },
+    {
+      "name": "AGRO-GRAD d.o.o.",
+      "latitude": 46.50222,
+      "longitude": 16.368402
+    },
+    {
+      "name": "AgroBos",
+      "latitude": 45.89233,
+      "longitude": 16.827157
+    },
+    {
+      "name": "Agrocentar Nada",
+      "latitude": 45.806866,
+      "longitude": 15.734529
+    },
+    {
+      "name": "AgroMartin",
+      "latitude": 46.524299,
+      "longitude": 16.36655
+    },
+    {
+      "name": "Agromehanika Bjelovar",
+      "latitude": 45.893907,
+      "longitude": 16.829545
+    },
+    {
+      "name": "Agromlinar",
+      "latitude": 45.813268,
+      "longitude": 15.997754
+    },
+    {
+      "name": "Agronom",
+      "latitude": 46.022852,
+      "longitude": 16.751837
+    },
+    {
+      "name": "Agronom",
+      "latitude": 46.198226,
+      "longitude": 17.057932
+    },
+    {
+      "name": "Agronom - Poljoprivredna ljekarna",
+      "latitude": 45.704187,
+      "longitude": 17.16426
+    },
+    {
+      "name": "Agronom d.o.o",
+      "latitude": 45.35972,
+      "longitude": 17.764113
+    },
+    {
+      "name": "Agronom d.o.o.",
+      "latitude": 45.342036,
+      "longitude": 17.710548
+    },
+    {
+      "name": "Agronom d.o.o.",
+      "latitude": 45.657633,
+      "longitude": 17.011492
+    },
+    {
+      "name": "Agronom d.o.o.",
+      "latitude": 45.673307,
+      "longitude": 17.251179
+    },
+    {
+      "name": "Agronom d.o.o.",
+      "latitude": 45.753775,
+      "longitude": 17.049204
+    },
+    {
+      "name": "Agronom d.o.o.",
+      "latitude": 45.784593,
+      "longitude": 16.649839
+    },
+    {
+      "name": "Agronom d.o.o.",
+      "latitude": 45.834465,
+      "longitude": 16.958969
+    },
+    {
+      "name": "Agronom d.o.o.",
+      "latitude": 45.888162,
+      "longitude": 16.750821
+    },
+    {
+      "name": "Agronom d.o.o.",
+      "latitude": 45.93564,
+      "longitude": 16.778142
+    },
+    {
+      "name": "Agronom d.o.o.",
+      "latitude": 46.027491,
+      "longitude": 17.066005
+    },
+    {
+      "name": "Agronom d.o.o.",
+      "latitude": 46.113817,
+      "longitude": 16.891153
+    },
+    {
+      "name": "Agrotinčica doo",
+      "latitude": 45.838707,
+      "longitude": 15.927805
+    },
+    {
+      "name": "AS Agro",
+      "latitude": 45.810327,
+      "longitude": 16.949582
+    },
+    {
+      "name": "AS-Agro",
+      "latitude": 45.901874,
+      "longitude": 16.843062
+    },
+    {
+      "name": "Auto akcija",
+      "latitude": 46.388863,
+      "longitude": 16.442825
+    },
+    {
+      "name": "BLM GRUPA d.o.o.",
+      "latitude": 45.756929,
+      "longitude": 17.050363
+    },
+    {
+      "name": "Cibo Centar Bjelovar",
+      "latitude": 45.932396,
+      "longitude": 16.886156
+    },
+    {
+      "name": "Cipro agrocentar",
+      "latitude": 46.339796,
+      "longitude": 16.249452
+    },
+    {
+      "name": "Cortina",
+      "latitude": 45.344934,
+      "longitude": 14.49734
+    },
+    {
+      "name": "Cortina Rijeka",
+      "latitude": 45.32387,
+      "longitude": 14.443506
+    },
+    {
+      "name": "Drezga d.o.o.",
+      "latitude": 45.810343,
+      "longitude": 15.824944
+    },
+    {
+      "name": "Elta",
+      "latitude": 46.374622,
+      "longitude": 16.458973
+    },
+    {
+      "name": "Feletar",
+      "latitude": 45.894634,
+      "longitude": 16.831436
+    },
+    {
+      "name": "Feletar",
+      "latitude": 45.90148,
+      "longitude": 16.836147
+    },
+    {
+      "name": "Fito promet",
+      "latitude": 45.52445,
+      "longitude": 15.556346
+    },
+    {
+      "name": "Flora",
+      "latitude": 45.340516,
+      "longitude": 16.973896
+    },
+    {
+      "name": "Generav Linija",
+      "latitude": 45.67962,
+      "longitude": 17.123399
+    },
+    {
+      "name": "Grota",
+      "latitude": 45.023947,
+      "longitude": 14.567699
+    },
+    {
+      "name": "Inberg",
+      "latitude": 45.799947,
+      "longitude": 17.04281
+    },
+    {
+      "name": "Jakopic",
+      "latitude": 45.857593,
+      "longitude": 16.325131
+    },
+    {
+      "name": "Kmetijska zadruga",
+      "latitude": 46.225,
+      "longitude": 15.697736
+    },
+    {
+      "name": "Kocen-Agro",
+      "latitude": 46.501188,
+      "longitude": 16.285266
+    },
+    {
+      "name": "KOVING d.o.o.",
+      "latitude": 45.756242,
+      "longitude": 17.050807
+    },
+    {
+      "name": "KTC",
+      "latitude": 46.260042,
+      "longitude": 16.47851
+    },
+    {
+      "name": "KTC Poljoljekarna",
+      "latitude": 45.889531,
+      "longitude": 16.851307
+    },
+    {
+      "name": "Lagro",
+      "latitude": 46.37901,
+      "longitude": 16.397298
+    },
+    {
+      "name": "MiP poljoprivredna apoteka",
+      "latitude": 45.415104,
+      "longitude": 16.569877
+    },
+    {
+      "name": "New Holland",
+      "latitude": 46.389035,
+      "longitude": 16.415494
+    },
+    {
+      "name": "Novocommerce International d.o.o Bjelovar",
+      "latitude": 45.905699,
+      "longitude": 16.860903
+    },
+    {
+      "name": "PKS-poljoprivredni centar",
+      "latitude": 46.511892,
+      "longitude": 16.445846
+    },
+    {
+      "name": "Poljo Apoteka",
+      "latitude": 45.675286,
+      "longitude": 17.110446
+    },
+    {
+      "name": "Poljocentar Bjelovar",
+      "latitude": 45.902932,
+      "longitude": 16.858324
+    },
+    {
+      "name": "Poljocentar Sveti Ivan Žabno",
+      "latitude": 45.948055,
+      "longitude": 16.606435
+    },
+    {
+      "name": "Poljodar Daruvar",
+      "latitude": 45.592406,
+      "longitude": 17.214111
+    },
+    {
+      "name": "Poljoljekarna",
+      "latitude": 46.325189,
+      "longitude": 16.614431
+    },
+    {
+      "name": "Poljoljekarna",
+      "latitude": 46.389254,
+      "longitude": 16.418087
+    },
+    {
+      "name": "Poljoljekarna",
+      "latitude": 46.507275,
+      "longitude": 16.428117
+    },
+    {
+      "name": "Poljoljekarna KTC",
+      "latitude": 45.801972,
+      "longitude": 17.066979
+    },
+    {
+      "name": "Poljoopskrba",
+      "latitude": 45.816668,
+      "longitude": 16.004426
+    },
+    {
+      "name": "Poljopriverdna Ljekarna Prvča",
+      "latitude": 45.654136,
+      "longitude": 17.007597
+    },
+    {
+      "name": "Poljopriveredna Ljekarna",
+      "latitude": 46.076209,
+      "longitude": 16.950304
+    },
+    {
+      "name": "Poljoprivredna apoteka",
+      "latitude": 45.691021,
+      "longitude": 15.738115
+    },
+    {
+      "name": "Poljoprivredna apoteka",
+      "latitude": 45.69155,
+      "longitude": 15.742323
+    },
+    {
+      "name": "Poljoprivredna apoteka Cetingrad",
+      "latitude": 45.160192,
+      "longitude": 15.740374
+    },
+    {
+      "name": "Poljoprivredna apoteka MIP",
+      "latitude": 45.478278,
+      "longitude": 16.789118
+    },
+    {
+      "name": "Poljoprivredna ljekarna",
+      "latitude": 45.750539,
+      "longitude": 17.049752
+    },
+    {
+      "name": "Poljoprivredna ljekarna",
+      "latitude": 45.798765,
+      "longitude": 15.722646
+    },
+    {
+      "name": "Poljoprivredna ljekarna",
+      "latitude": 45.937467,
+      "longitude": 16.778918
+    },
+    {
+      "name": "Poljoprivredna ljekarna Dragica",
+      "latitude": 45.787379,
+      "longitude": 15.722778
+    },
+    {
+      "name": "Poljoprivredna ljekarna Prvča",
+      "latitude": 45.639004,
+      "longitude": 17.167065
+    },
+    {
+      "name": "Poljoprivredna Ljekarna Prvča",
+      "latitude": 45.70489,
+      "longitude": 17.165009
+    },
+    {
+      "name": "Poljoprivredna Ljekarna Prvča",
+      "latitude": 46.026501,
+      "longitude": 16.992372
+    },
+    {
+      "name": "Poljoprivredna trgovina",
+      "latitude": 45.441024,
+      "longitude": 16.297091
+    },
+    {
+      "name": "Poljoprivredna zadruga Prvča",
+      "latitude": 45.569364,
+      "longitude": 17.085647
+    },
+    {
+      "name": "Poljoprivredna zadruga Trnovitica",
+      "latitude": 45.685495,
+      "longitude": 16.952545
+    },
+    {
+      "name": "Poljovet",
+      "latitude": 46.043442,
+      "longitude": 17.06618
+    },
+    {
+      "name": "Poljovrt",
+      "latitude": 45.776775,
+      "longitude": 15.995821
+    },
+    {
+      "name": "Poljovrt",
+      "latitude": 45.798424,
+      "longitude": 15.954129
+    },
+    {
+      "name": "Profi Agro d.o.o.",
+      "latitude": 45.817663,
+      "longitude": 16.978849
+    },
+    {
+      "name": "Protehna",
+      "latitude": 45.816777,
+      "longitude": 16.005522
+    },
+    {
+      "name": "PSC Ferenčak",
+      "latitude": 45.23236,
+      "longitude": 13.922403
+    },
+    {
+      "name": "PZ Grohote - poljotrgovina",
+      "latitude": 43.393309,
+      "longitude": 16.280648
+    },
+    {
+      "name": "PZ Čakovec",
+      "latitude": 46.386145,
+      "longitude": 16.44305
+    },
+    {
+      "name": "Rasadnik Strk",
+      "latitude": 45.932652,
+      "longitude": 16.721937
+    },
+    {
+      "name": "Sano",
+      "latitude": 45.934748,
+      "longitude": 16.657583
+    },
+    {
+      "name": "Sedlić",
+      "latitude": 45.903206,
+      "longitude": 16.843163
+    },
+    {
+      "name": "Sjemenarna Ri",
+      "latitude": 45.324658,
+      "longitude": 14.442065
+    },
+    {
+      "name": "Stočna Hrana",
+      "latitude": 45.985105,
+      "longitude": 17.157964
+    },
+    {
+      "name": "Trgocentar",
+      "latitude": 46.090561,
+      "longitude": 15.838205
+    },
+    {
+      "name": "Trgocentar Agrocentar",
+      "latitude": 46.02207,
+      "longitude": 15.897064
+    },
+    {
+      "name": "Ultra",
+      "latitude": 46.091704,
+      "longitude": 15.836249
+    },
+    {
+      "name": "VRT d.o.o.",
+      "latitude": 45.941698,
+      "longitude": 16.740854
+    },
+    {
+      "name": "Vrtni centar - Gorica",
+      "latitude": 45.706445,
+      "longitude": 16.082076
+    },
+    {
+      "name": "Čulić",
+      "latitude": 43.381723,
+      "longitude": 16.569263
+    },
+    {
+      "name": "Đerek",
+      "latitude": 45.147177,
+      "longitude": 18.704061
+    },
+    {
+      "name": "Šnajder",
+      "latitude": 45.988703,
+      "longitude": 16.851297
+    },
+    {
+      "name": "Žica-Žalac d.o.o.",
+      "latitude": 45.900594,
+      "longitude": 16.841265
+    }
+  ],
+  "meta": {
+    "title": "Poljoprivredne trgovine - Besplatno preuzimanje",
+    "description": "Poljoprivredne trgovine u Hrvatskoj (99 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=agrarian), izrez EU-POIS/HR. Sadrži 99 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Poljoprivredne trgovine | ListBase",
+    "seo_description": "Preuzmi Poljoprivredne trgovine — 99 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 99 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

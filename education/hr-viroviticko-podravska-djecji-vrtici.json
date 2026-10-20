@@ -1,0 +1,302 @@
+{
+  "id": "hr-viroviticko-podravska-djecji-vrtici",
+  "name": "Dječji vrtići — Virovitičko-Podravska županija",
+  "title": "Dječji vrtići — Virovitičko-Podravska županija",
+  "description": "Kindergartens (MO = matični objekt / main site, PO = područni objekt / branch site) in Virovitičko-Podravska, Croatia — the Virovitičko-Podravska subset of hr-djecji-vrtici. Source: Ministarstvo znanosti i obrazovanja via codeforcroatia/open-data.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "Naziv objekta",
+      "label": "Naziv Objekta",
+      "type": "string"
+    },
+    {
+      "key": "Tip objekta",
+      "label": "Tip Objekta",
+      "type": "string"
+    },
+    {
+      "key": "Matični vrtić",
+      "label": "MatičNi Vrtić",
+      "type": "string"
+    },
+    {
+      "key": "Županija",
+      "label": "ŽUpanija",
+      "type": "string"
+    },
+    {
+      "key": "Naselje",
+      "label": "Naselje",
+      "type": "string"
+    },
+    {
+      "key": "Ulica i broj",
+      "label": "Ulica I Broj",
+      "type": "string"
+    },
+    {
+      "key": "Telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "Faks",
+      "label": "Faks",
+      "type": "string"
+    },
+    {
+      "key": "E-mail",
+      "label": "E Mail",
+      "type": "string"
+    },
+    {
+      "key": "Odgovorna osoba",
+      "label": "Odgovorna Osoba",
+      "type": "string"
+    },
+    {
+      "key": "Naziv osnivača",
+      "label": "Naziv OsnivačA",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "Naziv objekta": "DV \"Suncokret\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Slatina",
+      "Ulica i broj": "Ribnjak 16",
+      "Telefon": "033/401-414",
+      "Faks": "",
+      "E-mail": "djecji.vrtic.suncokret@vt.t-com.hr",
+      "Odgovorna osoba": "Snježana Dupan-Lovrić",
+      "Naziv osnivača": "Snježana Dupan-Lovrić i Ivica Lovrić"
+    },
+    {
+      "Naziv objekta": "Predškolski odgoj pri OŠ Mikleuš",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Mikleuš",
+      "Ulica i broj": "Školska 13",
+      "Telefon": "033/563-066",
+      "Faks": "033/563-111",
+      "E-mail": "opcina-mikleus@vt.htnet.hr",
+      "Odgovorna osoba": "Dragan Kraljik",
+      "Naziv osnivača": "Općina Mikleuš"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Cvrčak\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Virovitica",
+      "Ulica i broj": "Pejačevićeva 1",
+      "Telefon": "033/801-545",
+      "Faks": "033/729-000",
+      "E-mail": "djecji-vrtic-cvrcak@vt.t-com.hr",
+      "Odgovorna osoba": "Anka Tomac",
+      "Naziv osnivača": "grad Virovitica"
+    },
+    {
+      "Naziv objekta": "PO Starčević",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Cvrčak\"",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Virovitica",
+      "Ulica i broj": "Trg dr. A. Starčevića 3",
+      "Telefon": "033/801-545",
+      "Faks": "033/729-000",
+      "E-mail": "djecji-vrtic-cvrcak@vt.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Potočnica\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Pitomača",
+      "Ulica i broj": "Trg kralja Tomislava",
+      "Telefon": "033/782 287",
+      "Faks": "033/782 287",
+      "E-mail": "vrticpotocnica@net.hr",
+      "Odgovorna osoba": "Marija Jakelić",
+      "Naziv osnivača": "općina Pitomača"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Suhopolje\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Suhopolje",
+      "Ulica i broj": "Kralja Tomislava 28",
+      "Telefon": "033/771-454",
+      "Faks": "033/771-546",
+      "E-mail": "vrtic.suhopolje@vt.t-com.hr",
+      "Odgovorna osoba": "Ivanka Škala",
+      "Naziv osnivača": "Općina Suhopolje"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Zeko\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Slatina",
+      "Ulica i broj": "Trg Zbora narodne ga",
+      "Telefon": "033/551-284",
+      "Faks": "033/551-284",
+      "E-mail": "djecji.vrtic.zeko@gmail.com",
+      "Odgovorna osoba": "Mirjana Banjedvorac",
+      "Naziv osnivača": "Grad Slatina"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Jelenko\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Voćin",
+      "Ulica i broj": "Trg Gospe  Voćinske",
+      "Telefon": "033565189",
+      "Faks": "033565189",
+      "E-mail": "djecji.vrtic.jelenko@vt.t-com.hr",
+      "Odgovorna osoba": "Verica Nešković",
+      "Naziv osnivača": "Općina Voćin"
+    },
+    {
+      "Naziv objekta": "DV \"Palčić\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Orahovica",
+      "Ulica i broj": "Franje Gavrančića 18",
+      "Telefon": "033/400-307   -   033/673-222",
+      "Faks": "033/400-307",
+      "E-mail": "vrticpalcic@net.hr",
+      "Odgovorna osoba": "Borislava Kordoš",
+      "Naziv osnivača": "grad Orahovica"
+    },
+    {
+      "Naziv objekta": "Predškolski odgoj pri OŠ A. G. Matoša",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Čačinci",
+      "Ulica i broj": "Trg kardinala Franje Kuharića 3",
+      "Telefon": "033/684-006  ; 033/684-519",
+      "Faks": "033/684-166",
+      "E-mail": "ured@os-agmatosa-cacinci.skole",
+      "Odgovorna osoba": "Mirjana Sabolić",
+      "Naziv osnivača": "Općina Čačinci"
+    },
+    {
+      "Naziv objekta": "Predškolski odgoj pri OŠ I. G. Kovačića",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Zdenci",
+      "Ulica i broj": "Školska ul. 2",
+      "Telefon": "033/646-009",
+      "Faks": "033/646-613",
+      "E-mail": "dvzdenci@net.hr",
+      "Odgovorna osoba": "Mirjana  Buneta-Knežević",
+      "Naziv osnivača": "Općina Zdenci"
+    },
+    {
+      "Naziv objekta": "Predškolski odgoj pri OŠ Vladimira Nazora",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Nova Bukovica",
+      "Ulica i broj": "ZAGREBAČKA 28",
+      "Telefon": "033/400-396",
+      "Faks": "033/564-018",
+      "E-mail": "skola@os-vnazora-novabukovica.skole.hr",
+      "Odgovorna osoba": "Tatjana Grabić",
+      "Naziv osnivača": "VIROVITIČKO-PODRAVSKA ŽUPANIJA"
+    },
+    {
+      "Naziv objekta": "Kraći program predškolskog odgoja pri Osnovnoj glazbenoj školi Slatina",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Slatina",
+      "Ulica i broj": "Braće Radića 4",
+      "Telefon": "033/550-854",
+      "Faks": "033/550-854",
+      "E-mail": "os.glazbena.slatina@vt.t-com.hr",
+      "Odgovorna osoba": "Antonio Brzica",
+      "Naziv osnivača": "grad Slatina"
+    },
+    {
+      "Naziv objekta": "Kraći program predškolskog odgoja pri Osnovnoj glazbenoj školi Jan Vlašimsky Virovitica",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Virovitica",
+      "Ulica i broj": "A. Mihanovića 21",
+      "Telefon": "033 721 805",
+      "Faks": "033 721 910",
+      "E-mail": "glazbena@vlasimsky.hr",
+      "Odgovorna osoba": "Karolina Petrović",
+      "Naziv osnivača": "Grad Virovitica"
+    },
+    {
+      "Naziv objekta": "Gradska knjižnica i čitaonica Virovitica",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Virovitica",
+      "Ulica i broj": "Trg bana Josipa Jelačića 5",
+      "Telefon": "098 988 5503",
+      "Faks": "033 722 815",
+      "E-mail": "racunovodstvo@knjiznicavirovitica.hr",
+      "Odgovorna osoba": "Višnja Romaj",
+      "Naziv osnivača": "Grad Virovitica"
+    },
+    {
+      "Naziv objekta": "Osnovna škola Gradina",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Gradina",
+      "Ulica i broj": "Trg kralja Zvonimira",
+      "Telefon": "033/784 150, 784 159",
+      "Faks": "033/784 150",
+      "E-mail": "os-gradina@vt.t-com.hr; ured@os-gradina.skole.hr",
+      "Odgovorna osoba": "SLAVKO TUK",
+      "Naziv osnivača": "Općina Gradina"
+    },
+    {
+      "Naziv objekta": "Osnovna škola Davorin Trstenjak",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Virovitičko-podravska županija",
+      "Naselje": "Čađavica",
+      "Ulica i broj": "Kolodvorska 1",
+      "Telefon": "033/ 544200",
+      "Faks": "033/544225",
+      "E-mail": "ured@os-davorin-trstenjak-cadjavica.skole.hr",
+      "Odgovorna osoba": "Ksenija Žunec",
+      "Naziv osnivača": "Općina Čađavica"
+    }
+  ],
+  "meta": {
+    "title": "Dječji vrtići — Virovitičko-Podravska županija - Besplatno preuzimanje",
+    "description": "Kindergartens (MO = matični objekt / main site, PO = područni objekt / branch site) in Virovitičko-Podravska, Croatia — the Virovitičko-Podravska subset of hr-djecji-vrtici. Source: Ministarstvo znanosti i obrazovanja via codeforcroatia/open-data. Sadrži 17 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Dječji vrtići — Virovitičko-Podravska županija | ListBase",
+    "seo_description": "Preuzmi Dječji vrtići — Virovitičko-Podravska županija — 17 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 17 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

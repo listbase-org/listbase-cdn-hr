@@ -1,0 +1,106 @@
+{
+  "id": "hr-mjerne-jedinice-temperature",
+  "name": "Mjerne jedinice — kategorija 'temperature' (5)",
+  "title": "Mjerne jedinice — kategorija 'temperature' (5)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'temperature' s hrvatskim nazivima.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "temperature-celsius",
+      "kategorija": "temperature",
+      "naziv": "Celzijevi stupnjevi",
+      "kratica": "°C",
+      "naziv_uski": "°C",
+      "obrazac": "{0} Celzijevih stupnjeva"
+    },
+    {
+      "id": 2,
+      "unit_code": "temperature-fahrenheit",
+      "kategorija": "temperature",
+      "naziv": "Fahrenheitovi stupnjevi",
+      "kratica": "°F",
+      "naziv_uski": "°F",
+      "obrazac": "{0} Fahrenheitovih stupnjeva"
+    },
+    {
+      "id": 3,
+      "unit_code": "temperature-generic",
+      "kategorija": "temperature",
+      "naziv": "stupnjevi",
+      "kratica": "°",
+      "naziv_uski": "°",
+      "obrazac": "{0}°"
+    },
+    {
+      "id": 4,
+      "unit_code": "temperature-kelvin",
+      "kategorija": "temperature",
+      "naziv": "kelvini",
+      "kratica": "K",
+      "naziv_uski": "K",
+      "obrazac": "{0} kelvina"
+    },
+    {
+      "id": 5,
+      "unit_code": "temperature-rankine",
+      "kategorija": "temperature",
+      "naziv": "°R",
+      "kratica": "°R",
+      "naziv_uski": "°R",
+      "obrazac": "{0} °R"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'temperature' (5) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'temperature' s hrvatskim nazivima. Sadrži 5 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'temperature' (5) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'temperature' (5) — 5 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 5 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

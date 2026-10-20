@@ -1,0 +1,133 @@
+{
+  "id": "hr-nogometni-klubovi",
+  "name": "Hrvatski nogometni klubovi",
+  "title": "Hrvatski nogometni klubovi",
+  "description": "Football clubs in HR with founding year, stadium, city",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "GNK Dinamo Zagreb",
+      "founded": 1911,
+      "stadium": "Maksimir",
+      "city": "Zagreb",
+      "aliases": "GNK Dinamo | Dinamo Zagreb, NK Dinamo Zagreb, Građanski nogometni klub Dinamo Zagreb"
+    },
+    {
+      "name": "NK Zagreb",
+      "founded": 1908,
+      "aliases": "Nogometni klub Zagreb, ZAG, Zagreb"
+    },
+    {
+      "name": "NK Lokomotiva Zagreb",
+      "founded": 1914,
+      "stadium": "Kranjčevićeva",
+      "city": "Zagreb",
+      "aliases": "Lokomotiva | Lok Zagreb | Lokomotiva Zagreb, Nogometni klub Lokomotiva Zagreb"
+    },
+    {
+      "name": "NK Trešnjevka Zagreb",
+      "founded": 1926,
+      "aliases": "NK Trešnjevka"
+    },
+    {
+      "name": "NK Lučko Zagreb",
+      "founded": 1931,
+      "aliases": "Lučko | NK Lučko"
+    },
+    {
+      "name": "NK Hrvatski Dragovoljac",
+      "founded": 1975,
+      "aliases": "Hrvatski Dragovoljac"
+    },
+    {
+      "name": "NK Rudeš",
+      "founded": 1957,
+      "stadium": "Kranjčevićeva",
+      "city": "Zagreb (Rudeš)",
+      "aliases": "Nogometni klub Rudeš, Croatia Sesvete"
+    },
+    {
+      "name": "HNK Hajduk Split",
+      "founded": 1911,
+      "stadium": "Poljud",
+      "city": "Split",
+      "aliases": "Hajduk Split, Hrvatski nogometni klub Hajduk Split, Split"
+    },
+    {
+      "name": "NK Slaven Belupo",
+      "founded": 1907,
+      "stadium": "Gradski Stadion",
+      "city": "Koprivnica",
+      "aliases": "Slaven | Slaven Belupo, Slaven Koprivnica | NK Slaven Koprivnica, NK Slaven | Nogometni Klub Slaven, Nogometni klub Slaven Belupo"
+    },
+    {
+      "name": "NK Varaždin",
+      "founded": 2012,
+      "aliases": "Varaždin, Varteks Varaždin, NK Varaždin ŠN, Nogometni klub Varaždin"
+    },
+    {
+      "name": "HNK Rijeka",
+      "founded": 1906,
+      "stadium": "HNK Rijeka",
+      "city": "Rijeka",
+      "aliases": "Rijeka | NK Rijeka, Hrvatski nogometni klub Rijeka, Hrvatski nogometni klub Orijent, HNK Orijent 1919"
+    },
+    {
+      "name": "NK Osijek",
+      "founded": 1947,
+      "aliases": "Osijek, Nogometni Klub Osijek, Cibalia"
+    },
+    {
+      "name": "HNK Šibenik",
+      "founded": 1932,
+      "aliases": "Šibenik, Hrvatski nogometni klub Šibenik"
+    },
+    {
+      "name": "HNK Gorica",
+      "founded": 2009,
+      "aliases": "Hrvatski nogometni klub Gorica, Gorica, Istra 1961, Nogometni klub Istra 1961, Zaprešić | Inter Zaprešić, Karlovac, Međimurje | NK Međimurje, Kamen Ingrad, Hrvatski nogometni klub Vukovar 1991, NK Vukovar 1991, Vukovar 1991"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatski nogometni klubovi - Besplatno preuzimanje",
+    "description": "Football clubs in HR with founding year, stadium, city Sadrži 14 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Hrvatski nogometni klubovi | ListBase",
+    "seo_description": "Preuzmi Hrvatski nogometni klubovi — 14 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 14 zapisa / 5 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

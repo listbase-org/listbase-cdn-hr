@@ -1,0 +1,391 @@
+{
+  "id": "hr-televizijski-kanali-opci",
+  "name": "Hrvatski TV kanali — opći program",
+  "title": "Hrvatski TV kanali — opći program",
+  "description": "Hrvatski televizijski kanali kategorije 'general' (opći program) iz otvorenog registra iptv-org/database. Sadrži naziv kanala, alternativne nazive, mrežu, vlasnike, kategorije, datum pokretanja i web stranicu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AuroraTV.hr",
+      "name": "Aurora TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tvaurora.tv/en/"
+    },
+    {
+      "id": 2,
+      "channel_id": "DiadoraTV.hr",
+      "name": "Diadora TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2018-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://diadora.tv/"
+    },
+    {
+      "id": 3,
+      "channel_id": "DUTV.hr",
+      "name": "DUTV",
+      "alt_names": "Dubrovačka Televizija",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://dutv.hr/"
+    },
+    {
+      "id": 4,
+      "channel_id": "HRT1.hr",
+      "name": "HRT 1",
+      "alt_names": "",
+      "network": "",
+      "owners": "Hrvatska Radiotelevizija",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "1956-05-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.hrt.hr/"
+    },
+    {
+      "id": 5,
+      "channel_id": "HRT2.hr",
+      "name": "HRT 2",
+      "alt_names": "",
+      "network": "",
+      "owners": "Hrvatska Radiotelevizija",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "1972-08-27",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.hrt.hr/"
+    },
+    {
+      "id": 6,
+      "channel_id": "HRTInternational.hr",
+      "name": "HRT International",
+      "alt_names": "HRT Int., HRT5",
+      "network": "",
+      "owners": "Hrvatska Radiotelevizija",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.hrt.hr/"
+    },
+    {
+      "id": 7,
+      "channel_id": "KanalRi.hr",
+      "name": "Kanal Ri",
+      "alt_names": "",
+      "network": "",
+      "owners": "Kanal Ri d o o",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "1999-12-03",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://kanal-ri.hr/"
+    },
+    {
+      "id": 8,
+      "channel_id": "LibertasTV.hr",
+      "name": "Libertas TV",
+      "alt_names": "Libertas Televiziji, LTV",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://libertas.tv/"
+    },
+    {
+      "id": 9,
+      "channel_id": "MrezaTV.hr",
+      "name": "Mreza TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Nezavisna televizjia d o o",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "1997-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.mreza.tv/"
+    },
+    {
+      "id": 10,
+      "channel_id": "NovaTV.hr",
+      "name": "Nova TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "United Group",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2000-05-28",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.novatv.hr/"
+    },
+    {
+      "id": 11,
+      "channel_id": "NovaWorld.hr",
+      "name": "Nova World",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://novatv.dnevnik.hr/novaworld/"
+    },
+    {
+      "id": 12,
+      "channel_id": "Osjecketelevizije.hr",
+      "name": "Osjecke televizije",
+      "alt_names": "Osječke televizije, OSTV",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://osjecka.com/"
+    },
+    {
+      "id": 13,
+      "channel_id": "SBTV.hr",
+      "name": "SBTV",
+      "alt_names": "Slavonskobrodska televizija",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sbtv.hr/"
+    },
+    {
+      "id": 14,
+      "channel_id": "STV.hr",
+      "name": "STV",
+      "alt_names": "Televizija Slavonije i Baranje",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://stv.hr/"
+    },
+    {
+      "id": 15,
+      "channel_id": "TelevizijaDalmacija.hr",
+      "name": "Televizija Dalmacija",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2001-05-28",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://dalmacija.tv/"
+    },
+    {
+      "id": 16,
+      "channel_id": "TelevizijaZelina.hr",
+      "name": "Televizija Zelina",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://prigorskatv.hr/"
+    },
+    {
+      "id": 17,
+      "channel_id": "TrendTV.hr",
+      "name": "Trend TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://trend.com.hr/"
+    },
+    {
+      "id": 18,
+      "channel_id": "TVNasice.hr",
+      "name": "TV Nasice",
+      "alt_names": "TV Našice",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 19,
+      "channel_id": "TVZapad.hr",
+      "name": "TV Zapad",
+      "alt_names": "Televizija Zapad, TVZ",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://zapad.tv/"
+    },
+    {
+      "id": 20,
+      "channel_id": "VTVTelevizija.hr",
+      "name": "VTV Televizija",
+      "alt_names": "Varaždinska televizija",
+      "network": "",
+      "owners": "",
+      "country": "HR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.vtv.hr"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatski TV kanali — opći program - Besplatno preuzimanje",
+    "description": "Hrvatski televizijski kanali kategorije 'general' (opći program) iz otvorenog registra iptv-org/database. Sadrži naziv kanala, alternativne nazive, mrežu, vlasnike, kategorije, datum pokretanja i web stranicu. Sadrži 20 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Hrvatski TV kanali — opći program | ListBase",
+    "seo_description": "Preuzmi Hrvatski TV kanali — opći program — 20 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 20 zapisa / 13 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

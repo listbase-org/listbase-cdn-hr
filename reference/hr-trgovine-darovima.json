@@ -1,0 +1,1301 @@
+{
+  "id": "hr-trgovine-darovima",
+  "name": "Trgovine darovima",
+  "title": "Trgovine darovima",
+  "description": "Trgovine darovima u Hrvatskoj (252 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=gift), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 252,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Accessoires",
+      "latitude": 42.651416,
+      "longitude": 18.092467
+    },
+    {
+      "name": "Aelia",
+      "latitude": 45.741083,
+      "longitude": 16.078601
+    },
+    {
+      "name": "aelia",
+      "latitude": 45.741601,
+      "longitude": 16.079865
+    },
+    {
+      "name": "Al Kaprone",
+      "latitude": 45.026254,
+      "longitude": 14.575201
+    },
+    {
+      "name": "Al Vecio Forno",
+      "latitude": 45.409487,
+      "longitude": 13.656994
+    },
+    {
+      "name": "ALE-HOP",
+      "latitude": 45.813155,
+      "longitude": 15.974679
+    },
+    {
+      "name": "Amfora",
+      "latitude": 43.443823,
+      "longitude": 16.6937
+    },
+    {
+      "name": "Amfora",
+      "latitude": 45.040536,
+      "longitude": 13.783857
+    },
+    {
+      "name": "Angelo",
+      "latitude": 45.127497,
+      "longitude": 14.790724
+    },
+    {
+      "name": "Aqua",
+      "latitude": 43.821975,
+      "longitude": 15.591775
+    },
+    {
+      "name": "Aquarius Nin",
+      "latitude": 44.242222,
+      "longitude": 15.183126
+    },
+    {
+      "name": "Arca Noa",
+      "latitude": 45.025486,
+      "longitude": 14.574891
+    },
+    {
+      "name": "Arj Ajelier Kužina",
+      "latitude": 43.183521,
+      "longitude": 16.598105
+    },
+    {
+      "name": "Ars Natura",
+      "latitude": 44.116314,
+      "longitude": 15.224589
+    },
+    {
+      "name": "Art",
+      "latitude": 45.486184,
+      "longitude": 16.373855
+    },
+    {
+      "name": "Artis",
+      "latitude": 44.112979,
+      "longitude": 15.227592
+    },
+    {
+      "name": "Asela",
+      "latitude": 44.242252,
+      "longitude": 15.183014
+    },
+    {
+      "name": "Atelje Augusta",
+      "latitude": 44.86968,
+      "longitude": 13.841839
+    },
+    {
+      "name": "Atlas Suvenir",
+      "latitude": 42.960701,
+      "longitude": 17.134887
+    },
+    {
+      "name": "Aura",
+      "latitude": 45.348301,
+      "longitude": 14.05081
+    },
+    {
+      "name": "AurA",
+      "latitude": 45.405406,
+      "longitude": 13.968426
+    },
+    {
+      "name": "Bacchus Istrian Gift Shop",
+      "latitude": 45.228089,
+      "longitude": 13.594461
+    },
+    {
+      "name": "Bagolar",
+      "latitude": 45.040412,
+      "longitude": 13.783457
+    },
+    {
+      "name": "Baloni za sve",
+      "latitude": 43.516339,
+      "longitude": 16.456001
+    },
+    {
+      "name": "Bata",
+      "latitude": 44.113776,
+      "longitude": 15.226411
+    },
+    {
+      "name": "Bačan",
+      "latitude": 42.641589,
+      "longitude": 18.110066
+    },
+    {
+      "name": "Behar Art Gallery",
+      "latitude": 45.082445,
+      "longitude": 13.633088
+    },
+    {
+      "name": "Belina",
+      "latitude": 43.369607,
+      "longitude": 16.352594
+    },
+    {
+      "name": "Bembo Olio D'Oliva",
+      "latitude": 45.040434,
+      "longitude": 13.785993
+    },
+    {
+      "name": "Benemir",
+      "latitude": 44.754797,
+      "longitude": 14.761018
+    },
+    {
+      "name": "BLACK FALCON",
+      "latitude": 44.096661,
+      "longitude": 15.352998
+    },
+    {
+      "name": "Blažeković-medičar i voskar",
+      "latitude": 45.554678,
+      "longitude": 18.670965
+    },
+    {
+      "name": "Blu",
+      "latitude": 42.838023,
+      "longitude": 17.695997
+    },
+    {
+      "name": "Bolero",
+      "latitude": 43.259663,
+      "longitude": 16.64318
+    },
+    {
+      "name": "Boom",
+      "latitude": 43.505773,
+      "longitude": 16.453226
+    },
+    {
+      "name": "Boutique Present",
+      "latitude": 45.335435,
+      "longitude": 17.678429
+    },
+    {
+      "name": "Bracera",
+      "latitude": 43.058652,
+      "longitude": 16.188937
+    },
+    {
+      "name": "Brač fini sapuni",
+      "latitude": 43.37698,
+      "longitude": 16.628745
+    },
+    {
+      "name": "Break Time",
+      "latitude": 43.508806,
+      "longitude": 16.438245
+    },
+    {
+      "name": "Break Time Outlet&Atelier",
+      "latitude": 43.509584,
+      "longitude": 16.437703
+    },
+    {
+      "name": "Buza",
+      "latitude": 43.194096,
+      "longitude": 17.139923
+    },
+    {
+      "name": "Cactus",
+      "latitude": 43.585552,
+      "longitude": 15.922022
+    },
+    {
+      "name": "Candy Bar",
+      "latitude": 43.734853,
+      "longitude": 15.892227
+    },
+    {
+      "name": "Casa Croatica",
+      "latitude": 44.113889,
+      "longitude": 15.226252
+    },
+    {
+      "name": "Casa Croatica Souvenir Shop",
+      "latitude": 44.113428,
+      "longitude": 15.226834
+    },
+    {
+      "name": "Christmas Shop Poreč",
+      "latitude": 45.227799,
+      "longitude": 13.594211
+    },
+    {
+      "name": "Cicibon",
+      "latitude": 45.326835,
+      "longitude": 14.441731
+    },
+    {
+      "name": "Cik Cak",
+      "latitude": 45.348064,
+      "longitude": 14.050861
+    },
+    {
+      "name": "Colmo Shop",
+      "latitude": 45.348223,
+      "longitude": 14.051109
+    },
+    {
+      "name": "Coral Shop",
+      "latitude": 45.172897,
+      "longitude": 14.692719
+    },
+    {
+      "name": "Cristal Art",
+      "latitude": 45.082956,
+      "longitude": 13.631702
+    },
+    {
+      "name": "Croatian Handmade Souvenirs",
+      "latitude": 45.026639,
+      "longitude": 14.576527
+    },
+    {
+      "name": "Dalmatiner",
+      "latitude": 43.585884,
+      "longitude": 15.921561
+    },
+    {
+      "name": "Dalí Shop",
+      "latitude": 42.641591,
+      "longitude": 18.106981
+    },
+    {
+      "name": "Dam",
+      "latitude": 44.970043,
+      "longitude": 14.758449
+    },
+    {
+      "name": "Discover Croatia",
+      "latitude": 43.508822,
+      "longitude": 16.43873
+    },
+    {
+      "name": "Discover croatia",
+      "latitude": 43.735303,
+      "longitude": 15.89011
+    },
+    {
+      "name": "Dubrovnik Cats",
+      "latitude": 42.641441,
+      "longitude": 18.110512
+    },
+    {
+      "name": "Duck Shop Split",
+      "latitude": 43.509347,
+      "longitude": 16.439493
+    },
+    {
+      "name": "Duty Free",
+      "latitude": 43.535889,
+      "longitude": 16.297974
+    },
+    {
+      "name": "Duty Free Travel Value",
+      "latitude": 42.560588,
+      "longitude": 18.261802
+    },
+    {
+      "name": "Elle",
+      "latitude": 45.236789,
+      "longitude": 14.254293
+    },
+    {
+      "name": "Estilo",
+      "latitude": 45.813578,
+      "longitude": 15.979601
+    },
+    {
+      "name": "Ethno House Biser",
+      "latitude": 45.186144,
+      "longitude": 14.610389
+    },
+    {
+      "name": "Etnogalerija Eleonora i Gorana Grgac",
+      "latitude": 45.041333,
+      "longitude": 13.786675
+    },
+    {
+      "name": "Fjokić",
+      "latitude": 43.058682,
+      "longitude": 16.190232
+    },
+    {
+      "name": "Frequency Store",
+      "latitude": 42.56059,
+      "longitude": 18.261936
+    },
+    {
+      "name": "Galerija \"Petra\"",
+      "latitude": 45.765943,
+      "longitude": 15.989398
+    },
+    {
+      "name": "Galerija Marija-Peti Božić",
+      "latitude": 45.041315,
+      "longitude": 13.786745
+    },
+    {
+      "name": "Galerija Sabol",
+      "latitude": 46.389928,
+      "longitude": 16.439371
+    },
+    {
+      "name": "Galleria Kate",
+      "latitude": 43.328728,
+      "longitude": 16.44808
+    },
+    {
+      "name": "Game of Thrones",
+      "latitude": 42.641494,
+      "longitude": 18.108385
+    },
+    {
+      "name": "Gift Corner",
+      "latitude": 45.026935,
+      "longitude": 14.57686
+    },
+    {
+      "name": "Gift Shop",
+      "latitude": 42.785738,
+      "longitude": 17.378028
+    },
+    {
+      "name": "Gift Shop IDEA - Poklon galerija",
+      "latitude": 45.026265,
+      "longitude": 14.575308
+    },
+    {
+      "name": "Glass Shop Bribir",
+      "latitude": 45.161875,
+      "longitude": 14.761567
+    },
+    {
+      "name": "Grisgnana",
+      "latitude": 45.378462,
+      "longitude": 13.722752
+    },
+    {
+      "name": "Handmade Souvenirs",
+      "latitude": 44.98934,
+      "longitude": 14.901226
+    },
+    {
+      "name": "Hani",
+      "latitude": 44.241945,
+      "longitude": 15.182797
+    },
+    {
+      "name": "Hard Rock Shop",
+      "latitude": 42.641413,
+      "longitude": 18.107174
+    },
+    {
+      "name": "Hoću to",
+      "latitude": 45.812523,
+      "longitude": 15.971934
+    },
+    {
+      "name": "Hugo art",
+      "latitude": 45.486177,
+      "longitude": 16.372603
+    },
+    {
+      "name": "Hvar Store",
+      "latitude": 43.184377,
+      "longitude": 16.598035
+    },
+    {
+      "name": "Hvor Store",
+      "latitude": 43.184344,
+      "longitude": 16.598053
+    },
+    {
+      "name": "i ❤ Split",
+      "latitude": 43.508259,
+      "longitude": 16.439058
+    },
+    {
+      "name": "Ignacio",
+      "latitude": 43.443716,
+      "longitude": 16.692763
+    },
+    {
+      "name": "Info Centar Crkvine",
+      "latitude": 43.933186,
+      "longitude": 15.511747
+    },
+    {
+      "name": "Ivana Suveniri",
+      "latitude": 42.78708,
+      "longitude": 17.34375
+    },
+    {
+      "name": "J J Event & Design",
+      "latitude": 46.021875,
+      "longitude": 16.545726
+    },
+    {
+      "name": "Joker",
+      "latitude": 44.989691,
+      "longitude": 14.90092
+    },
+    {
+      "name": "Jozef",
+      "latitude": 45.127471,
+      "longitude": 14.790321
+    },
+    {
+      "name": "Kamena.Oluga",
+      "latitude": 43.516162,
+      "longitude": 16.249258
+    },
+    {
+      "name": "Kamenčić",
+      "latitude": 43.499317,
+      "longitude": 16.259917
+    },
+    {
+      "name": "Kim",
+      "latitude": 43.443715,
+      "longitude": 16.693859
+    },
+    {
+      "name": "Kim",
+      "latitude": 43.444884,
+      "longitude": 16.692208
+    },
+    {
+      "name": "Kllara's treasures",
+      "latitude": 45.335478,
+      "longitude": 14.307455
+    },
+    {
+      "name": "Knijžara",
+      "latitude": 43.507791,
+      "longitude": 16.441226
+    },
+    {
+      "name": "Kolet",
+      "latitude": 43.184461,
+      "longitude": 16.597534
+    },
+    {
+      "name": "Korzo",
+      "latitude": 44.989047,
+      "longitude": 14.901683
+    },
+    {
+      "name": "Kradenca Zagreb",
+      "latitude": 45.81444,
+      "longitude": 15.975648
+    },
+    {
+      "name": "Kreativni laboratorij",
+      "latitude": 45.715992,
+      "longitude": 16.075043
+    },
+    {
+      "name": "Kredenca",
+      "latitude": 45.331972,
+      "longitude": 14.30215
+    },
+    {
+      "name": "Kula",
+      "latitude": 45.284974,
+      "longitude": 14.201967
+    },
+    {
+      "name": "KuSshh",
+      "latitude": 45.026395,
+      "longitude": 14.575152
+    },
+    {
+      "name": "LA MARiE",
+      "latitude": 44.114554,
+      "longitude": 15.228352
+    },
+    {
+      "name": "Lapidarium shop",
+      "latitude": 45.316194,
+      "longitude": 13.559065
+    },
+    {
+      "name": "Lavanda",
+      "latitude": 43.057408,
+      "longitude": 16.196197
+    },
+    {
+      "name": "Lavanda",
+      "latitude": 43.260166,
+      "longitude": 16.653483
+    },
+    {
+      "name": "Lavanda",
+      "latitude": 43.383804,
+      "longitude": 16.55343
+    },
+    {
+      "name": "LD Leon Dori",
+      "latitude": 45.026891,
+      "longitude": 14.5768
+    },
+    {
+      "name": "Le' Noa",
+      "latitude": 43.735112,
+      "longitude": 15.890593
+    },
+    {
+      "name": "Leut",
+      "latitude": 45.128267,
+      "longitude": 14.789129
+    },
+    {
+      "name": "LikArt",
+      "latitude": 44.113139,
+      "longitude": 15.226164
+    },
+    {
+      "name": "Lopud Art Shop",
+      "latitude": 42.688417,
+      "longitude": 17.941653
+    },
+    {
+      "name": "Loredana",
+      "latitude": 45.406506,
+      "longitude": 13.965711
+    },
+    {
+      "name": "Lucija",
+      "latitude": 44.969552,
+      "longitude": 14.752721
+    },
+    {
+      "name": "Luka obrt",
+      "latitude": 43.443175,
+      "longitude": 16.694313
+    },
+    {
+      "name": "Lukas",
+      "latitude": 42.915664,
+      "longitude": 17.398579
+    },
+    {
+      "name": "Mala galerija",
+      "latitude": 43.723926,
+      "longitude": 15.800366
+    },
+    {
+      "name": "Mala galerija",
+      "latitude": 43.734552,
+      "longitude": 15.787153
+    },
+    {
+      "name": "Malta Darovni Dućan",
+      "latitude": 44.113217,
+      "longitude": 15.227118
+    },
+    {
+      "name": "Maraska",
+      "latitude": 44.11643,
+      "longitude": 15.224436
+    },
+    {
+      "name": "Marcella Art Studio",
+      "latitude": 43.516078,
+      "longitude": 16.249292
+    },
+    {
+      "name": "Marco Polo",
+      "latitude": 42.960139,
+      "longitude": 17.135355
+    },
+    {
+      "name": "Mare art",
+      "latitude": 45.327284,
+      "longitude": 14.444103
+    },
+    {
+      "name": "Mare Maris",
+      "latitude": 43.587465,
+      "longitude": 15.923788
+    },
+    {
+      "name": "Maria 2",
+      "latitude": 45.02637,
+      "longitude": 14.575438
+    },
+    {
+      "name": "Marine d'Amour",
+      "latitude": 42.641232,
+      "longitude": 18.107415
+    },
+    {
+      "name": "Mario",
+      "latitude": 43.444903,
+      "longitude": 16.692124
+    },
+    {
+      "name": "Marko Polo Suvenir",
+      "latitude": 42.962077,
+      "longitude": 17.136867
+    },
+    {
+      "name": "Marta",
+      "latitude": 45.816727,
+      "longitude": 15.976526
+    },
+    {
+      "name": "Matejčić",
+      "latitude": 45.175011,
+      "longitude": 14.687262
+    },
+    {
+      "name": "Maur Olive Oil",
+      "latitude": 45.039788,
+      "longitude": 13.785438
+    },
+    {
+      "name": "Mavija",
+      "latitude": 43.184024,
+      "longitude": 16.596434
+    },
+    {
+      "name": "Medičarna Špičko",
+      "latitude": 46.161203,
+      "longitude": 16.831926
+    },
+    {
+      "name": "Medusa",
+      "latitude": 42.641763,
+      "longitude": 18.109171
+    },
+    {
+      "name": "Mima",
+      "latitude": 46.390219,
+      "longitude": 16.437169
+    },
+    {
+      "name": "More",
+      "latitude": 43.194451,
+      "longitude": 17.139579
+    },
+    {
+      "name": "Murex",
+      "latitude": 43.515811,
+      "longitude": 16.250792
+    },
+    {
+      "name": "My Princess Boutique",
+      "latitude": 43.515922,
+      "longitude": 16.250811
+    },
+    {
+      "name": "Natura Liburna",
+      "latitude": 45.337817,
+      "longitude": 14.308447
+    },
+    {
+      "name": "Nonna",
+      "latitude": 44.756032,
+      "longitude": 14.760023
+    },
+    {
+      "name": "Note Bene",
+      "latitude": 42.64027,
+      "longitude": 18.107501
+    },
+    {
+      "name": "Oliva",
+      "latitude": 44.532652,
+      "longitude": 14.466302
+    },
+    {
+      "name": "Olive",
+      "latitude": 43.585848,
+      "longitude": 15.921327
+    },
+    {
+      "name": "Olivia",
+      "latitude": 44.821263,
+      "longitude": 13.937241
+    },
+    {
+      "name": "Omnia",
+      "latitude": 43.29519,
+      "longitude": 17.020015
+    },
+    {
+      "name": "Opatijske dame",
+      "latitude": 45.335643,
+      "longitude": 14.307524
+    },
+    {
+      "name": "OPG suveniri",
+      "latitude": 45.303931,
+      "longitude": 16.822579
+    },
+    {
+      "name": "Orsa",
+      "latitude": 45.150762,
+      "longitude": 13.606217
+    },
+    {
+      "name": "Pace Souvenir & Gift Shop",
+      "latitude": 42.678926,
+      "longitude": 18.006129
+    },
+    {
+      "name": "Palma",
+      "latitude": 43.503278,
+      "longitude": 16.520578
+    },
+    {
+      "name": "Papirnica i gift shop \"Bajka\"",
+      "latitude": 45.501813,
+      "longitude": 18.745097
+    },
+    {
+      "name": "Pavle gallery",
+      "latitude": 43.724525,
+      "longitude": 15.798739
+    },
+    {
+      "name": "Pia",
+      "latitude": 43.444456,
+      "longitude": 16.692822
+    },
+    {
+      "name": "Pinella",
+      "latitude": 43.960663,
+      "longitude": 15.425232
+    },
+    {
+      "name": "Pino galerija",
+      "latitude": 45.813618,
+      "longitude": 15.986678
+    },
+    {
+      "name": "Plaza",
+      "latitude": 43.196,
+      "longitude": 17.142261
+    },
+    {
+      "name": "Poklon Shop Čarolija Souvenirs",
+      "latitude": 43.295117,
+      "longitude": 17.019849
+    },
+    {
+      "name": "Poklon studio",
+      "latitude": 45.812958,
+      "longitude": 15.974759
+    },
+    {
+      "name": "Purgerica",
+      "latitude": 45.69136,
+      "longitude": 15.735356
+    },
+    {
+      "name": "Pčelarstvo Daruvar",
+      "latitude": 45.590578,
+      "longitude": 17.20508
+    },
+    {
+      "name": "Raku Ceramics",
+      "latitude": 45.082819,
+      "longitude": 13.632068
+    },
+    {
+      "name": "Rego",
+      "latitude": 42.639933,
+      "longitude": 18.111926
+    },
+    {
+      "name": "Restaurant Dubravka 1836 Souvenirs and Exchange",
+      "latitude": 42.641753,
+      "longitude": 18.106269
+    },
+    {
+      "name": "Riva",
+      "latitude": 43.376758,
+      "longitude": 16.628591
+    },
+    {
+      "name": "Rote Zora",
+      "latitude": 44.98913,
+      "longitude": 14.901716
+    },
+    {
+      "name": "Rote Zora",
+      "latitude": 44.989948,
+      "longitude": 14.902148
+    },
+    {
+      "name": "rovinj ház",
+      "latitude": 45.08529,
+      "longitude": 13.646506
+    },
+    {
+      "name": "Salon Poklona Čočić",
+      "latitude": 45.556032,
+      "longitude": 18.682244
+    },
+    {
+      "name": "Seba Design Suvenir",
+      "latitude": 42.961925,
+      "longitude": 17.136764
+    },
+    {
+      "name": "Sedlo Velebita",
+      "latitude": 44.978766,
+      "longitude": 14.985022
+    },
+    {
+      "name": "Shark Attack",
+      "latitude": 43.586011,
+      "longitude": 15.922643
+    },
+    {
+      "name": "Shop & Souvenirs",
+      "latitude": 43.295328,
+      "longitude": 17.020284
+    },
+    {
+      "name": "Simpatico Souvenirs",
+      "latitude": 45.227507,
+      "longitude": 13.593135
+    },
+    {
+      "name": "Skatula",
+      "latitude": 43.81608,
+      "longitude": 15.668707
+    },
+    {
+      "name": "Soho",
+      "latitude": 43.184237,
+      "longitude": 16.598714
+    },
+    {
+      "name": "SOHO",
+      "latitude": 43.293572,
+      "longitude": 17.019933
+    },
+    {
+      "name": "SOHO",
+      "latitude": 45.433132,
+      "longitude": 13.520754
+    },
+    {
+      "name": "SOHO",
+      "latitude": 45.822313,
+      "longitude": 16.011911
+    },
+    {
+      "name": "Souvenir & Beach Shop",
+      "latitude": 44.823708,
+      "longitude": 13.851218
+    },
+    {
+      "name": "Souvenir & candy shop",
+      "latitude": 45.815582,
+      "longitude": 15.976578
+    },
+    {
+      "name": "souvenir & gastro shop \"City\"",
+      "latitude": 44.113899,
+      "longitude": 15.226164
+    },
+    {
+      "name": "Souvenir Accessories",
+      "latitude": 45.026302,
+      "longitude": 14.57541
+    },
+    {
+      "name": "Souvenir and Accessories",
+      "latitude": 45.026183,
+      "longitude": 14.574806
+    },
+    {
+      "name": "Souvenir and Gift Shop",
+      "latitude": 43.181421,
+      "longitude": 16.670196
+    },
+    {
+      "name": "souvenir Gondola",
+      "latitude": 44.29989,
+      "longitude": 15.086721
+    },
+    {
+      "name": "Souvenir shop",
+      "latitude": 44.443679,
+      "longitude": 15.054257
+    },
+    {
+      "name": "Souvenir Shop",
+      "latitude": 44.869777,
+      "longitude": 13.848045
+    },
+    {
+      "name": "Souvenir Shop",
+      "latitude": 44.904656,
+      "longitude": 15.611782
+    },
+    {
+      "name": "Souvenir shop Drachenstein",
+      "latitude": 46.25799,
+      "longitude": 15.947385
+    },
+    {
+      "name": "Souvenir shop Toplice",
+      "latitude": 46.091177,
+      "longitude": 15.835893
+    },
+    {
+      "name": "Souvenirnica",
+      "latitude": 44.046139,
+      "longitude": 15.311412
+    },
+    {
+      "name": "Souvenirnica Kozjačka Draga",
+      "latitude": 44.894074,
+      "longitude": 15.603773
+    },
+    {
+      "name": "Souvenirs",
+      "latitude": 44.137457,
+      "longitude": 14.907603
+    },
+    {
+      "name": "Souvenirs",
+      "latitude": 44.928548,
+      "longitude": 14.919018
+    },
+    {
+      "name": "Souvenirs",
+      "latitude": 45.813715,
+      "longitude": 15.97867
+    },
+    {
+      "name": "Souvenirs / Exchange",
+      "latitude": 43.195121,
+      "longitude": 17.139934
+    },
+    {
+      "name": "Souvenirs Bagul",
+      "latitude": 44.37446,
+      "longitude": 14.697211
+    },
+    {
+      "name": "Souvenirs handmade & unique",
+      "latitude": 45.813785,
+      "longitude": 15.978853
+    },
+    {
+      "name": "Souvenirs Natura Maris",
+      "latitude": 43.293802,
+      "longitude": 17.020304
+    },
+    {
+      "name": "Souvenirs Perla",
+      "latitude": 42.961364,
+      "longitude": 17.136041
+    },
+    {
+      "name": "Souvenirshops",
+      "latitude": 43.259839,
+      "longitude": 16.652293
+    },
+    {
+      "name": "Srčeko",
+      "latitude": 45.801513,
+      "longitude": 15.710368
+    },
+    {
+      "name": "Stari Pag",
+      "latitude": 44.444498,
+      "longitude": 15.053639
+    },
+    {
+      "name": "Stina",
+      "latitude": 45.026281,
+      "longitude": 14.574268
+    },
+    {
+      "name": "Stiva",
+      "latitude": 43.443969,
+      "longitude": 16.693378
+    },
+    {
+      "name": "Studio 56",
+      "latitude": 45.812185,
+      "longitude": 15.987816
+    },
+    {
+      "name": "Studio Limun",
+      "latitude": 45.811644,
+      "longitude": 15.977328
+    },
+    {
+      "name": "STUP TRI",
+      "latitude": 45.809628,
+      "longitude": 15.956781
+    },
+    {
+      "name": "Sunshine",
+      "latitude": 43.183462,
+      "longitude": 16.598028
+    },
+    {
+      "name": "Super Maja",
+      "latitude": 43.734899,
+      "longitude": 15.891744
+    },
+    {
+      "name": "Suveniri",
+      "latitude": 42.786121,
+      "longitude": 17.377326
+    },
+    {
+      "name": "Suveniri Amadeus",
+      "latitude": 43.735288,
+      "longitude": 15.890332
+    },
+    {
+      "name": "Suveniri Croatia",
+      "latitude": 45.812615,
+      "longitude": 15.97886
+    },
+    {
+      "name": "Suveniri Kiki",
+      "latitude": 44.969986,
+      "longitude": 14.757734
+    },
+    {
+      "name": "Suveniri Užance",
+      "latitude": 44.374141,
+      "longitude": 14.696808
+    },
+    {
+      "name": "Suveniri Vito Širok",
+      "latitude": 45.813635,
+      "longitude": 15.978456
+    },
+    {
+      "name": "Suvenirica Natura Dalmatia",
+      "latitude": 42.838029,
+      "longitude": 17.696251
+    },
+    {
+      "name": "Suvenirni Srećko",
+      "latitude": 43.24155,
+      "longitude": 17.076246
+    },
+    {
+      "name": "Suvenirnica",
+      "latitude": 43.532027,
+      "longitude": 15.961112
+    },
+    {
+      "name": "Suvenirnica",
+      "latitude": 44.260982,
+      "longitude": 15.214685
+    },
+    {
+      "name": "Suvenirnica",
+      "latitude": 45.821406,
+      "longitude": 16.020014
+    },
+    {
+      "name": "Suvenirnica \"Zvonimir\"",
+      "latitude": 43.535977,
+      "longitude": 16.489283
+    },
+    {
+      "name": "Suvenirnica Beti",
+      "latitude": 43.797105,
+      "longitude": 15.642987
+    },
+    {
+      "name": "Suvenirnica Split",
+      "latitude": 43.508236,
+      "longitude": 16.440831
+    },
+    {
+      "name": "Suvenirnica Sv. Jakov",
+      "latitude": 43.735839,
+      "longitude": 15.889217
+    },
+    {
+      "name": "Suvenirs",
+      "latitude": 44.821504,
+      "longitude": 13.866014
+    },
+    {
+      "name": "Suvernica Np Mljet",
+      "latitude": 42.775239,
+      "longitude": 17.364156
+    },
+    {
+      "name": "T.O. Ivana",
+      "latitude": 43.443854,
+      "longitude": 16.692243
+    },
+    {
+      "name": "T.O. Josip",
+      "latitude": 44.081579,
+      "longitude": 15.188001
+    },
+    {
+      "name": "Tantum Natural Workshop",
+      "latitude": 43.183564,
+      "longitude": 16.597932
+    },
+    {
+      "name": "Taste Istria",
+      "latitude": 45.240041,
+      "longitude": 13.931536
+    },
+    {
+      "name": "Terra Croatica",
+      "latitude": 42.640874,
+      "longitude": 18.108238
+    },
+    {
+      "name": "The Art",
+      "latitude": 45.021953,
+      "longitude": 14.628605
+    },
+    {
+      "name": "The herb",
+      "latitude": 45.813828,
+      "longitude": 15.977916
+    },
+    {
+      "name": "Tobacco Souvenir Exchange",
+      "latitude": 43.758514,
+      "longitude": 15.781943
+    },
+    {
+      "name": "Travel Value Shop Eleganza",
+      "latitude": 42.560326,
+      "longitude": 18.262457
+    },
+    {
+      "name": "Trgovina suvenira",
+      "latitude": 43.49867,
+      "longitude": 16.536043
+    },
+    {
+      "name": "Truffle Shop",
+      "latitude": 45.38877,
+      "longitude": 15.614011
+    },
+    {
+      "name": "Tudor Store",
+      "latitude": 43.333991,
+      "longitude": 16.836773
+    },
+    {
+      "name": "vedrana",
+      "latitude": 43.758509,
+      "longitude": 15.775612
+    },
+    {
+      "name": "Vilhart Handmade Ceramics",
+      "latitude": 44.113355,
+      "longitude": 15.226572
+    },
+    {
+      "name": "Visitor Center - Forest Ranger House",
+      "latitude": 42.625545,
+      "longitude": 18.122561
+    },
+    {
+      "name": "Vito",
+      "latitude": 45.817329,
+      "longitude": 15.872675
+    },
+    {
+      "name": "Vlaho",
+      "latitude": 45.026121,
+      "longitude": 14.574492
+    },
+    {
+      "name": "Zum zum",
+      "latitude": 43.443623,
+      "longitude": 16.693385
+    },
+    {
+      "name": "Zvonimir",
+      "latitude": 43.505163,
+      "longitude": 16.455228
+    },
+    {
+      "name": "Čarobnjakov šešir",
+      "latitude": 44.999948,
+      "longitude": 15.131194
+    },
+    {
+      "name": "Š'mek",
+      "latitude": 45.120328,
+      "longitude": 15.587092
+    },
+    {
+      "name": "Šarena duga",
+      "latitude": 45.801636,
+      "longitude": 15.708634
+    },
+    {
+      "name": "Škrinjica",
+      "latitude": 45.026223,
+      "longitude": 14.574728
+    }
+  ],
+  "meta": {
+    "title": "Trgovine darovima - Besplatno preuzimanje",
+    "description": "Trgovine darovima u Hrvatskoj (252 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=gift), izrez EU-POIS/HR. Sadrži 252 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovine darovima | ListBase",
+    "seo_description": "Preuzmi Trgovine darovima — 252 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 252 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

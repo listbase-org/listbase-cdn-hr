@@ -1,0 +1,1066 @@
+{
+  "id": "hr-socijalne-ustanove",
+  "name": "Socijalne ustanove",
+  "title": "Socijalne ustanove",
+  "description": "Socijalne ustanove u Hrvatskoj (205 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=social_facility), izrez EU-POIS/HR.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 205,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ambulanta Turopolje",
+      "latitude": 45.648897,
+      "longitude": 16.135072
+    },
+    {
+      "name": "braniteljska zadruga PATRIOT",
+      "latitude": 43.829946,
+      "longitude": 16.552073
+    },
+    {
+      "name": "Caritas",
+      "latitude": 43.516778,
+      "longitude": 16.434747
+    },
+    {
+      "name": "Caritas",
+      "latitude": 45.667665,
+      "longitude": 17.430661
+    },
+    {
+      "name": "Caritas",
+      "latitude": 45.910719,
+      "longitude": 16.851232
+    },
+    {
+      "name": "Caritas - Kuća Sv. Franje",
+      "latitude": 45.82296,
+      "longitude": 16.169425
+    },
+    {
+      "name": "Caritas Požeške biskupije",
+      "latitude": 45.334006,
+      "longitude": 17.680302
+    },
+    {
+      "name": "Caritasov dom za djecu bez odgovarajuće roditeljske skrbi",
+      "latitude": 45.725979,
+      "longitude": 15.909188
+    },
+    {
+      "name": "Caritasov dom za starije i nemoćne osobe “Sv. Ivan Krstitelj”",
+      "latitude": 46.22234,
+      "longitude": 16.125588
+    },
+    {
+      "name": "Centar Dugave",
+      "latitude": 45.760717,
+      "longitude": 15.997129
+    },
+    {
+      "name": "Centar Juraj Bonaći, podružnica Sinj",
+      "latitude": 43.698531,
+      "longitude": 16.640575
+    },
+    {
+      "name": "Centar za autizam",
+      "latitude": 45.33435,
+      "longitude": 14.431189
+    },
+    {
+      "name": "Centar za autizam",
+      "latitude": 45.819553,
+      "longitude": 15.980983
+    },
+    {
+      "name": "Centar za autizam Osijek",
+      "latitude": 45.553625,
+      "longitude": 18.676645
+    },
+    {
+      "name": "Centar za edukaciju Gradskog društva Crvenog križa Osijek",
+      "latitude": 45.531363,
+      "longitude": 17.890658
+    },
+    {
+      "name": "Centar za inkluziju",
+      "latitude": 45.408017,
+      "longitude": 13.656977
+    },
+    {
+      "name": "Centar za rehabilitaciju Zagreb",
+      "latitude": 45.815287,
+      "longitude": 16.180776
+    },
+    {
+      "name": "Centar za rehabilitaciju Zagreb",
+      "latitude": 45.837435,
+      "longitude": 15.97521
+    },
+    {
+      "name": "Centar za rehabilitaciju Zagreb, podružnica Paunovac",
+      "latitude": 45.825747,
+      "longitude": 15.97274
+    },
+    {
+      "name": "Centar za rehabilitaciju Zagreb, podružnica Sloboština",
+      "latitude": 45.767,
+      "longitude": 15.984283
+    },
+    {
+      "name": "Centar za rehabilitaciju Zagreb, podružnica Sloboština II",
+      "latitude": 45.766928,
+      "longitude": 15.983358
+    },
+    {
+      "name": "Centar za socijalnu skrb",
+      "latitude": 44.04087,
+      "longitude": 16.19595
+    },
+    {
+      "name": "Centar za socijalnu skrb",
+      "latitude": 44.869578,
+      "longitude": 13.84255
+    },
+    {
+      "name": "Centar za socijalnu skrb",
+      "latitude": 45.330805,
+      "longitude": 14.440763
+    },
+    {
+      "name": "Centar za socijalnu skrb",
+      "latitude": 45.496672,
+      "longitude": 18.10241
+    },
+    {
+      "name": "Centar za socijalnu skrb",
+      "latitude": 46.225114,
+      "longitude": 16.12596
+    },
+    {
+      "name": "Centar za socijalnu skrb Dugo Selo",
+      "latitude": 45.80605,
+      "longitude": 16.233479
+    },
+    {
+      "name": "Centar za socijalnu skrb Novska",
+      "latitude": 45.338183,
+      "longitude": 16.97266
+    },
+    {
+      "name": "Centar za socijalnu skrb Trešnjevka",
+      "latitude": 45.797835,
+      "longitude": 15.939829
+    },
+    {
+      "name": "Centar za socijalnu skrb Varaždin",
+      "latitude": 46.311572,
+      "longitude": 16.334301
+    },
+    {
+      "name": "Centar za socijalnu skrb Vrapče",
+      "latitude": 45.813107,
+      "longitude": 15.896168
+    },
+    {
+      "name": "Centar za socijalnu skrb Vukovar",
+      "latitude": 45.355995,
+      "longitude": 18.997786
+    },
+    {
+      "name": "Centar za socijalnu skrb Zagreb",
+      "latitude": 45.80599,
+      "longitude": 15.974256
+    },
+    {
+      "name": "Centar za socijalnu skrb Zaprešić",
+      "latitude": 45.855738,
+      "longitude": 15.806413
+    },
+    {
+      "name": "Centar za socijalnu skrb Čazma",
+      "latitude": 45.748734,
+      "longitude": 16.612022
+    },
+    {
+      "name": "Centar za volontere i mlade",
+      "latitude": 45.790065,
+      "longitude": 15.931964
+    },
+    {
+      "name": "Crveni križ",
+      "latitude": 46.225236,
+      "longitude": 16.125702
+    },
+    {
+      "name": "Dado",
+      "latitude": 45.948643,
+      "longitude": 16.737109
+    },
+    {
+      "name": "Dječji dom \"Ivana Brlić Mažuranić\" Lovran",
+      "latitude": 45.297667,
+      "longitude": 14.274453
+    },
+    {
+      "name": "Dječji dom Antun Gustav Matoš",
+      "latitude": 45.796219,
+      "longitude": 15.942975
+    },
+    {
+      "name": "Dječji dom Maestral",
+      "latitude": 43.509,
+      "longitude": 16.458224
+    },
+    {
+      "name": "Dnevni boravak i pomoć u kući starijim osobama",
+      "latitude": 45.115724,
+      "longitude": 15.585987
+    },
+    {
+      "name": "Dom Buzin",
+      "latitude": 45.747251,
+      "longitude": 15.995544
+    },
+    {
+      "name": "Dom Dolenčić",
+      "latitude": 45.911137,
+      "longitude": 16.865635
+    },
+    {
+      "name": "Dom Eufemija",
+      "latitude": 44.140528,
+      "longitude": 15.214672
+    },
+    {
+      "name": "Dom Jalžabet",
+      "latitude": 46.259389,
+      "longitude": 16.475849
+    },
+    {
+      "name": "Dom Marija",
+      "latitude": 46.13412,
+      "longitude": 16.86122
+    },
+    {
+      "name": "Dom Mihela",
+      "latitude": 45.820251,
+      "longitude": 16.168807
+    },
+    {
+      "name": "Dom Novinščak",
+      "latitude": 46.394885,
+      "longitude": 16.446146
+    },
+    {
+      "name": "Dom Papillon",
+      "latitude": 45.888958,
+      "longitude": 16.874686
+    },
+    {
+      "name": "Dom Perić",
+      "latitude": 45.8599,
+      "longitude": 15.800469
+    },
+    {
+      "name": "Dom Ptiček",
+      "latitude": 45.798845,
+      "longitude": 15.932908
+    },
+    {
+      "name": "Dom Senior Garden",
+      "latitude": 45.801479,
+      "longitude": 16.068297
+    },
+    {
+      "name": "Dom starejših občanov Rogatec",
+      "latitude": 46.224849,
+      "longitude": 15.70918
+    },
+    {
+      "name": "Dom starih i nemočnik Korčula",
+      "latitude": 42.948177,
+      "longitude": 17.135612
+    },
+    {
+      "name": "Dom Trag Plus",
+      "latitude": 45.807773,
+      "longitude": 16.018922
+    },
+    {
+      "name": "Dom Umirovljenika",
+      "latitude": 45.484577,
+      "longitude": 16.7763
+    },
+    {
+      "name": "Dom umirovljenika",
+      "latitude": 46.161005,
+      "longitude": 16.839944
+    },
+    {
+      "name": "Dom umirovljenika Majke Marije Petković",
+      "latitude": 42.938351,
+      "longitude": 16.791224
+    },
+    {
+      "name": "Dom Vukovar",
+      "latitude": 45.341012,
+      "longitude": 19.019972
+    },
+    {
+      "name": "Dom za nezbrinutu djecu",
+      "latitude": 45.817809,
+      "longitude": 15.965941
+    },
+    {
+      "name": "Dom za odgoj djece i mladeži",
+      "latitude": 45.543594,
+      "longitude": 18.678241
+    },
+    {
+      "name": "Dom za odrasle osobe Bidružica",
+      "latitude": 46.130591,
+      "longitude": 15.662583
+    },
+    {
+      "name": "Dom za odrasle osobe i rehabilitaciju",
+      "latitude": 43.052255,
+      "longitude": 17.644045
+    },
+    {
+      "name": "Dom za odrasle osobe Ljeskovica",
+      "latitude": 45.380957,
+      "longitude": 18.019774
+    },
+    {
+      "name": "Dom za odrasle osobe Lobor-grad",
+      "latitude": 46.120154,
+      "longitude": 16.066687
+    },
+    {
+      "name": "Dom za odrasle osobe Nuštar",
+      "latitude": 45.324861,
+      "longitude": 18.833898
+    },
+    {
+      "name": "Dom za odrasle osobe Orehovica",
+      "latitude": 46.32865,
+      "longitude": 16.513647
+    },
+    {
+      "name": "Dom za odrasle osobe Petrinja",
+      "latitude": 45.428396,
+      "longitude": 16.277648
+    },
+    {
+      "name": "Dom za odrasle osobe Sv. Frane",
+      "latitude": 44.116663,
+      "longitude": 15.222376
+    },
+    {
+      "name": "Dom za odrasle osobe Zagreb",
+      "latitude": 45.821229,
+      "longitude": 15.943777
+    },
+    {
+      "name": "Dom za stare i nemoćne \"Naš Dom\"",
+      "latitude": 45.879313,
+      "longitude": 16.871166
+    },
+    {
+      "name": "Dom za stare i nemoćne \"Sveta Ana\"",
+      "latitude": 45.772001,
+      "longitude": 15.989373
+    },
+    {
+      "name": "Dom za stare i nemoćne Ilok",
+      "latitude": 45.225132,
+      "longitude": 19.357077
+    },
+    {
+      "name": "Dom za stare i nemoćne osobe Dubrovnik",
+      "latitude": 42.643639,
+      "longitude": 18.101394
+    },
+    {
+      "name": "Dom za stare i nemoćne Đakovačka Breznica",
+      "latitude": 45.327974,
+      "longitude": 18.163024
+    },
+    {
+      "name": "Dom za starije \"Magdalena\"",
+      "latitude": 45.99126,
+      "longitude": 16.850188
+    },
+    {
+      "name": "Dom za starije \"Zobec\"",
+      "latitude": 45.917362,
+      "longitude": 16.874268
+    },
+    {
+      "name": "Dom za starije i nemoćne",
+      "latitude": 45.763553,
+      "longitude": 18.615951
+    },
+    {
+      "name": "Dom za starije i nemoćne \"Noni\"",
+      "latitude": 45.864146,
+      "longitude": 15.994981
+    },
+    {
+      "name": "Dom za starije i nemoćne \"Omea\"",
+      "latitude": 45.789744,
+      "longitude": 15.938176
+    },
+    {
+      "name": "Dom za starije i nemoćne \"Vianey\"",
+      "latitude": 45.59282,
+      "longitude": 17.216255
+    },
+    {
+      "name": "Dom za starije i nemoćne Kantrida",
+      "latitude": 45.344298,
+      "longitude": 14.364542
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe",
+      "latitude": 44.53377,
+      "longitude": 15.765447
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe",
+      "latitude": 45.15544,
+      "longitude": 18.023034
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe \"Dubrava\"",
+      "latitude": 45.836775,
+      "longitude": 16.063179
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe \"Sv. Andrija\"",
+      "latitude": 45.933536,
+      "longitude": 16.850047
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Knin",
+      "latitude": 44.037867,
+      "longitude": 16.194784
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Kunić",
+      "latitude": 45.850427,
+      "longitude": 15.833784
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Mali kartec",
+      "latitude": 45.020352,
+      "longitude": 14.563627
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Peščenica",
+      "latitude": 45.804262,
+      "longitude": 16.016089
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Požega",
+      "latitude": 45.333818,
+      "longitude": 17.675388
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Senior Care",
+      "latitude": 46.020828,
+      "longitude": 16.544515
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Stari Grad",
+      "latitude": 43.186045,
+      "longitude": 16.594978
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Sveta Ana",
+      "latitude": 46.182413,
+      "longitude": 16.78064
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe sveti Josip",
+      "latitude": 45.819218,
+      "longitude": 15.941391
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Tolić",
+      "latitude": 45.910544,
+      "longitude": 15.890972
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Trešnjevka",
+      "latitude": 45.797148,
+      "longitude": 15.957432
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Trešnjevka",
+      "latitude": 45.798823,
+      "longitude": 15.942125
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Velika",
+      "latitude": 45.46683,
+      "longitude": 17.651538
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Zadar",
+      "latitude": 44.12388,
+      "longitude": 15.224538
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe Šandrovac",
+      "latitude": 45.904795,
+      "longitude": 17.027495
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe “Split”",
+      "latitude": 43.501705,
+      "longitude": 16.45882
+    },
+    {
+      "name": "Dom za starije i nemoćne osobe „Cvjetni dom” Šibenik",
+      "latitude": 43.724015,
+      "longitude": 15.908226
+    },
+    {
+      "name": "Dom za starije i nemoćne SeneCura \"Vita Nova\"",
+      "latitude": 45.913399,
+      "longitude": 16.797822
+    },
+    {
+      "name": "Dom za starije i nemoćne Sv. Jakov",
+      "latitude": 45.913378,
+      "longitude": 16.852812
+    },
+    {
+      "name": "Dom za starije i nemočne osobe Villa Brezovica",
+      "latitude": 45.721762,
+      "longitude": 15.901275
+    },
+    {
+      "name": "Dom za starije Mihela",
+      "latitude": 45.818,
+      "longitude": 16.181043
+    },
+    {
+      "name": "Dom za starije osobe \"Centar\"",
+      "latitude": 45.809526,
+      "longitude": 15.965757
+    },
+    {
+      "name": "Dom za starije osobe \"Duga\"",
+      "latitude": 45.787087,
+      "longitude": 15.951346
+    },
+    {
+      "name": "Dom za starije osobe \"Duga\"",
+      "latitude": 45.811118,
+      "longitude": 15.946583
+    },
+    {
+      "name": "Dom za starije osobe \"Viktorovski\"",
+      "latitude": 45.674073,
+      "longitude": 15.393166
+    },
+    {
+      "name": "Dom za starije osobe Bjelovar",
+      "latitude": 45.904745,
+      "longitude": 16.851777
+    },
+    {
+      "name": "Dom za starije osobe Bratski Dolac",
+      "latitude": 43.586688,
+      "longitude": 16.012971
+    },
+    {
+      "name": "Dom za starije osobe Maksimir",
+      "latitude": 45.820996,
+      "longitude": 16.027996
+    },
+    {
+      "name": "Dom za starije osobe Maksimir - depadansa",
+      "latitude": 45.818557,
+      "longitude": 16.023517
+    },
+    {
+      "name": "Dom za starije osobe Markuševac",
+      "latitude": 45.875009,
+      "longitude": 16.015745
+    },
+    {
+      "name": "Dom za starije osobe Medisal",
+      "latitude": 45.827719,
+      "longitude": 16.062836
+    },
+    {
+      "name": "Dom za starije osobe Park",
+      "latitude": 45.804505,
+      "longitude": 16.019536
+    },
+    {
+      "name": "Dom za starije osobe Park",
+      "latitude": 45.828499,
+      "longitude": 15.996951
+    },
+    {
+      "name": "Dom za starije osobe Trnje",
+      "latitude": 45.798166,
+      "longitude": 15.964341
+    },
+    {
+      "name": "Dom za starije Sveta Helena",
+      "latitude": 45.812565,
+      "longitude": 15.707703
+    },
+    {
+      "name": "Dom za strarije i nemoćne Čakovec",
+      "latitude": 46.389528,
+      "longitude": 16.436539
+    },
+    {
+      "name": "Dom za strarije i nemoćne Čakovec",
+      "latitude": 46.39099,
+      "longitude": 16.441347
+    },
+    {
+      "name": "Dom zaklade Lavoslava Schwarza",
+      "latitude": 45.824519,
+      "longitude": 16.010511
+    },
+    {
+      "name": "Domus Christi",
+      "latitude": 42.641,
+      "longitude": 18.10675
+    },
+    {
+      "name": "društveni dom Polje",
+      "latitude": 45.135353,
+      "longitude": 14.644517
+    },
+    {
+      "name": "Gratian d.o.o.",
+      "latitude": 45.911241,
+      "longitude": 16.865582
+    },
+    {
+      "name": "Hospicij Marija K. Kozulić",
+      "latitude": 45.334109,
+      "longitude": 14.436243
+    },
+    {
+      "name": "Hrvatski Crveni Križ",
+      "latitude": 44.759043,
+      "longitude": 14.7638
+    },
+    {
+      "name": "Hrvatski Crveni križ",
+      "latitude": 45.656474,
+      "longitude": 18.414949
+    },
+    {
+      "name": "Hrvatski Crveni Križ GDCK Makarska",
+      "latitude": 43.293774,
+      "longitude": 17.02022
+    },
+    {
+      "name": "Hrvatski zavod za socijalni rad Križevci",
+      "latitude": 46.024872,
+      "longitude": 16.548147
+    },
+    {
+      "name": "HZMO",
+      "latitude": 44.041615,
+      "longitude": 16.196278
+    },
+    {
+      "name": "Izbjeglički kamp Opatovac",
+      "latitude": 45.259318,
+      "longitude": 19.180581
+    },
+    {
+      "name": "Japa",
+      "latitude": 46.500666,
+      "longitude": 16.287354
+    },
+    {
+      "name": "Japa",
+      "latitude": 46.512156,
+      "longitude": 16.441101
+    },
+    {
+      "name": "Karitas",
+      "latitude": 45.492548,
+      "longitude": 15.55532
+    },
+    {
+      "name": "Klub veterana A Satnije",
+      "latitude": 45.895854,
+      "longitude": 16.845693
+    },
+    {
+      "name": "Konavle - dom za starije",
+      "latitude": 42.51657,
+      "longitude": 18.376366
+    },
+    {
+      "name": "Ksaver",
+      "latitude": 45.842203,
+      "longitude": 15.972306
+    },
+    {
+      "name": "Kuća svetog Franje",
+      "latitude": 45.728582,
+      "longitude": 15.993454
+    },
+    {
+      "name": "Kuća za mlade \"Da život imaju\"",
+      "latitude": 45.797058,
+      "longitude": 15.943684
+    },
+    {
+      "name": "Kuća za starije i nemoćne osobe \"Sveti Kamilo de Lellis“",
+      "latitude": 45.875326,
+      "longitude": 16.416083
+    },
+    {
+      "name": "Magnolija",
+      "latitude": 45.339005,
+      "longitude": 19.028168
+    },
+    {
+      "name": "Mali dom",
+      "latitude": 45.801048,
+      "longitude": 15.942125
+    },
+    {
+      "name": "Mali zmaj",
+      "latitude": 45.790005,
+      "longitude": 15.93151
+    },
+    {
+      "name": "Marijin dom",
+      "latitude": 45.819081,
+      "longitude": 15.94733
+    },
+    {
+      "name": "Maslačak",
+      "latitude": 46.017816,
+      "longitude": 16.549571
+    },
+    {
+      "name": "Moj dom Majdenić",
+      "latitude": 45.763818,
+      "longitude": 18.175748
+    },
+    {
+      "name": "More",
+      "latitude": 43.942094,
+      "longitude": 15.448507
+    },
+    {
+      "name": "Obiteljski dom \"Malinovec\"",
+      "latitude": 45.748886,
+      "longitude": 16.416425
+    },
+    {
+      "name": "Obiteljski dom \"PRANJIĆ\"",
+      "latitude": 45.919231,
+      "longitude": 16.825366
+    },
+    {
+      "name": "Obiteljski dom \"Vila Korana\"",
+      "latitude": 45.37906,
+      "longitude": 15.545203
+    },
+    {
+      "name": "Obiteljski dom Lipovac",
+      "latitude": 45.807281,
+      "longitude": 16.214033
+    },
+    {
+      "name": "Obiteljski dom Makar",
+      "latitude": 45.881382,
+      "longitude": 16.78582
+    },
+    {
+      "name": "Obiteljski dom Mihovil",
+      "latitude": 44.065049,
+      "longitude": 16.219136
+    },
+    {
+      "name": "Obiteljski dom New Life",
+      "latitude": 45.917061,
+      "longitude": 16.860065
+    },
+    {
+      "name": "Obiteljski dom Sarkotić",
+      "latitude": 45.517636,
+      "longitude": 16.396732
+    },
+    {
+      "name": "Obiteljski dom Sveti Vid",
+      "latitude": 45.938042,
+      "longitude": 16.779644
+    },
+    {
+      "name": "Obiteljski dom za starije i nemoćne osobe Hrgić",
+      "latitude": 45.803174,
+      "longitude": 15.733781
+    },
+    {
+      "name": "Obiteljski dom za starije i nemoćne osobe Prpić",
+      "latitude": 45.933906,
+      "longitude": 16.591861
+    },
+    {
+      "name": "Obiteljski dom za starije Matić",
+      "latitude": 45.814576,
+      "longitude": 16.184715
+    },
+    {
+      "name": "Obiteljski dom za starije osobe Petković",
+      "latitude": 46.155752,
+      "longitude": 16.824942
+    },
+    {
+      "name": "Obiteljski dom za starije Sveti Ilija",
+      "latitude": 45.766528,
+      "longitude": 15.96811
+    },
+    {
+      "name": "Obiteljski dom za starije Ćorluka",
+      "latitude": 45.819022,
+      "longitude": 16.171361
+    },
+    {
+      "name": "Obiteljski dom Zamuda",
+      "latitude": 46.469827,
+      "longitude": 16.353622
+    },
+    {
+      "name": "Obiteljski dom Čović",
+      "latitude": 45.906186,
+      "longitude": 16.772255
+    },
+    {
+      "name": "Odgojni dom Ivanec",
+      "latitude": 46.214317,
+      "longitude": 16.12218
+    },
+    {
+      "name": "Ozana",
+      "latitude": 45.801386,
+      "longitude": 15.989575
+    },
+    {
+      "name": "Ozana",
+      "latitude": 45.801463,
+      "longitude": 15.992904
+    },
+    {
+      "name": "Papillon",
+      "latitude": 45.799041,
+      "longitude": 15.991925
+    },
+    {
+      "name": "Poludnevni boravak Udruge invalida Sveti Bartolomej",
+      "latitude": 44.05329,
+      "longitude": 16.214455
+    },
+    {
+      "name": "Popravni dom Folnegovićevo naselje",
+      "latitude": 45.795284,
+      "longitude": 16.002979
+    },
+    {
+      "name": "Posavsko Srce",
+      "latitude": 45.465565,
+      "longitude": 16.420921
+    },
+    {
+      "name": "Prihvatilište za beskućnike",
+      "latitude": 45.76618,
+      "longitude": 16.079265
+    },
+    {
+      "name": "Prihvatilište za strance Ježevo",
+      "latitude": 45.751854,
+      "longitude": 16.299965
+    },
+    {
+      "name": "Prihvatilište za tražitelje azila Kutina",
+      "latitude": 45.463859,
+      "longitude": 16.767601
+    },
+    {
+      "name": "Prihvatilište za tražitelje azila Zagreb (Porin)",
+      "latitude": 45.758253,
+      "longitude": 16.006946
+    },
+    {
+      "name": "Pučka blagovaonica \"Alfirevićeva\"",
+      "latitude": 45.810022,
+      "longitude": 16.019404
+    },
+    {
+      "name": "Pučka blagovaonica \"Branimirova\"",
+      "latitude": 45.805757,
+      "longitude": 15.986163
+    },
+    {
+      "name": "Pučka blagovaonica \"Cerska\"",
+      "latitude": 45.823995,
+      "longitude": 16.04176
+    },
+    {
+      "name": "Pučka kuhinja",
+      "latitude": 45.15291,
+      "longitude": 18.015299
+    },
+    {
+      "name": "Runović",
+      "latitude": 43.382516,
+      "longitude": 17.245749
+    },
+    {
+      "name": "Ruža",
+      "latitude": 46.120207,
+      "longitude": 16.88047
+    },
+    {
+      "name": "Ruže svetog Franje",
+      "latitude": 45.333002,
+      "longitude": 14.443999
+    },
+    {
+      "name": "S.O.S. Dječje selo Ladimirevci",
+      "latitude": 45.621427,
+      "longitude": 18.443722
+    },
+    {
+      "name": "Savjetovalište Luka Ritz",
+      "latitude": 45.79011,
+      "longitude": 15.931503
+    },
+    {
+      "name": "SeneCura Trešnjevka",
+      "latitude": 45.79894,
+      "longitude": 15.927249
+    },
+    {
+      "name": "SOS Dječje selo Lekenik",
+      "latitude": 45.591389,
+      "longitude": 16.204346
+    },
+    {
+      "name": "Specijalna bolnica za psihijatriju i palijativnu skrb Sveti Rafael Strmac",
+      "latitude": 45.361632,
+      "longitude": 17.375856
+    },
+    {
+      "name": "Starački dom \"Oaza\"",
+      "latitude": 45.619859,
+      "longitude": 16.038848
+    },
+    {
+      "name": "Starački dom Zlatna jesen",
+      "latitude": 45.479724,
+      "longitude": 15.547444
+    },
+    {
+      "name": "Stranački dom",
+      "latitude": 45.329711,
+      "longitude": 14.436156
+    },
+    {
+      "name": "sv.Katarina",
+      "latitude": 45.758564,
+      "longitude": 16.211443
+    },
+    {
+      "name": "Udruga HVIDR-a Bjelovar",
+      "latitude": 45.895792,
+      "longitude": 16.845607
+    },
+    {
+      "name": "Udruga invalida \"Sveti Bartolomej\"",
+      "latitude": 44.041985,
+      "longitude": 16.199489
+    },
+    {
+      "name": "Udruga za sindrom Down Zagreb",
+      "latitude": 45.786336,
+      "longitude": 15.929367
+    },
+    {
+      "name": "URIHO",
+      "latitude": 45.804932,
+      "longitude": 15.994052
+    },
+    {
+      "name": "Veteranski centar Sinj",
+      "latitude": 43.704327,
+      "longitude": 16.644038
+    },
+    {
+      "name": "Villa Maria",
+      "latitude": 43.019206,
+      "longitude": 17.556
+    },
+    {
+      "name": "Zaklada Čujem, vjerujem, vidim",
+      "latitude": 45.811447,
+      "longitude": 15.966732
+    },
+    {
+      "name": "Zavod za zapošljavanje",
+      "latitude": 44.034453,
+      "longitude": 16.196742
+    },
+    {
+      "name": "Zimski tranzitni centar u Slavonskom Brodu",
+      "latitude": 45.147586,
+      "longitude": 18.056946
+    },
+    {
+      "name": "Zlatne godine",
+      "latitude": 43.522097,
+      "longitude": 16.56192
+    }
+  ],
+  "meta": {
+    "title": "Socijalne ustanove - Besplatno preuzimanje",
+    "description": "Socijalne ustanove u Hrvatskoj (205 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=social_facility), izrez EU-POIS/HR. Sadrži 205 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Socijalne ustanove | ListBase",
+    "seo_description": "Preuzmi Socijalne ustanove — 205 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 205 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

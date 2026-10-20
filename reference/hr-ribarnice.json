@@ -1,0 +1,466 @@
+{
+  "id": "hr-ribarnice",
+  "name": "Ribarnice",
+  "title": "Ribarnice",
+  "description": "Ribarnice u Hrvatskoj (85 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=seafood), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "100 Amerika",
+      "latitude": 44.960184,
+      "longitude": 14.391944
+    },
+    {
+      "name": "Ancora",
+      "latitude": 43.060119,
+      "longitude": 16.176248
+    },
+    {
+      "name": "Brancin",
+      "latitude": 43.907642,
+      "longitude": 15.504852
+    },
+    {
+      "name": "Cromaris",
+      "latitude": 44.299893,
+      "longitude": 15.090263
+    },
+    {
+      "name": "Di Maris Ribarnica",
+      "latitude": 44.120817,
+      "longitude": 15.228094
+    },
+    {
+      "name": "Dišpet",
+      "latitude": 43.507662,
+      "longitude": 16.464434
+    },
+    {
+      "name": "FERAL",
+      "latitude": 44.132787,
+      "longitude": 15.212751
+    },
+    {
+      "name": "Fish",
+      "latitude": 43.785996,
+      "longitude": 15.643969
+    },
+    {
+      "name": "Fish and Chips",
+      "latitude": 43.754527,
+      "longitude": 15.78514
+    },
+    {
+      "name": "Fish market",
+      "latitude": 44.047038,
+      "longitude": 15.314485
+    },
+    {
+      "name": "Fish market",
+      "latitude": 44.761333,
+      "longitude": 14.760618
+    },
+    {
+      "name": "Fish Market",
+      "latitude": 45.02318,
+      "longitude": 14.628195
+    },
+    {
+      "name": "Fish Market",
+      "latitude": 45.297823,
+      "longitude": 13.592882
+    },
+    {
+      "name": "fish market Srdelica",
+      "latitude": 43.282861,
+      "longitude": 17.034255
+    },
+    {
+      "name": "Fisheria",
+      "latitude": 45.801381,
+      "longitude": 15.953383
+    },
+    {
+      "name": "Fisherija",
+      "latitude": 45.77287,
+      "longitude": 15.945177
+    },
+    {
+      "name": "Fisherija",
+      "latitude": 45.779794,
+      "longitude": 15.985248
+    },
+    {
+      "name": "Fisherija",
+      "latitude": 45.789495,
+      "longitude": 15.928891
+    },
+    {
+      "name": "Fisherija",
+      "latitude": 45.801064,
+      "longitude": 15.938532
+    },
+    {
+      "name": "Fisherija",
+      "latitude": 45.812167,
+      "longitude": 15.989702
+    },
+    {
+      "name": "Fisherija",
+      "latitude": 45.812739,
+      "longitude": 15.964558
+    },
+    {
+      "name": "Fisherija",
+      "latitude": 45.822531,
+      "longitude": 16.01196
+    },
+    {
+      "name": "Hobotnica",
+      "latitude": 45.491988,
+      "longitude": 15.549504
+    },
+    {
+      "name": "Interfish Centar Ribe Fish-Market",
+      "latitude": 44.833472,
+      "longitude": 13.924128
+    },
+    {
+      "name": "IVA ribarnica",
+      "latitude": 45.806772,
+      "longitude": 15.808516
+    },
+    {
+      "name": "Lux Mare Seafood",
+      "latitude": 45.795613,
+      "longitude": 15.966016
+    },
+    {
+      "name": "Marfish",
+      "latitude": 45.813548,
+      "longitude": 15.996322
+    },
+    {
+      "name": "Milan",
+      "latitude": 45.77329,
+      "longitude": 15.948913
+    },
+    {
+      "name": "Mr Miyagi",
+      "latitude": 45.812854,
+      "longitude": 15.984952
+    },
+    {
+      "name": "Novska",
+      "latitude": 45.339344,
+      "longitude": 16.975517
+    },
+    {
+      "name": "Pescheria",
+      "latitude": 45.2257,
+      "longitude": 13.596093
+    },
+    {
+      "name": "Peškarija - Fish Market",
+      "latitude": 43.261945,
+      "longitude": 16.657344
+    },
+    {
+      "name": "Peškarija Kalambera",
+      "latitude": 43.060301,
+      "longitude": 16.184855
+    },
+    {
+      "name": "Peškarija Sibe",
+      "latitude": 43.505153,
+      "longitude": 16.454482
+    },
+    {
+      "name": "Peškarija Sibe",
+      "latitude": 43.519416,
+      "longitude": 16.447098
+    },
+    {
+      "name": "Plankton",
+      "latitude": 42.924461,
+      "longitude": 17.431008
+    },
+    {
+      "name": "Prodaja školjaka",
+      "latitude": 43.515065,
+      "longitude": 16.157247
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 42.656007,
+      "longitude": 18.087878
+    },
+    {
+      "name": "ribarnica",
+      "latitude": 43.017493,
+      "longitude": 17.56259
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.059121,
+      "longitude": 16.187486
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.161576,
+      "longitude": 16.69205
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.162327,
+      "longitude": 16.689964
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.294949,
+      "longitude": 17.021155
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.375179,
+      "longitude": 16.628186
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.444481,
+      "longitude": 16.691968
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.445193,
+      "longitude": 16.640815
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.512804,
+      "longitude": 16.44552
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.513929,
+      "longitude": 16.454873
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.537566,
+      "longitude": 16.490823
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.797063,
+      "longitude": 15.643076
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.823055,
+      "longitude": 15.590978
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 44.269424,
+      "longitude": 15.129081
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 44.302121,
+      "longitude": 15.081707
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 44.970437,
+      "longitude": 14.759418
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 45.157106,
+      "longitude": 14.720113
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 45.29275,
+      "longitude": 14.276011
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 45.432604,
+      "longitude": 13.52131
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 45.432945,
+      "longitude": 13.521882
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 45.776692,
+      "longitude": 15.99585
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 45.813155,
+      "longitude": 15.996699
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 45.814539,
+      "longitude": 15.976859
+    },
+    {
+      "name": "Ribarnica \"LIMBORA\"",
+      "latitude": 43.927728,
+      "longitude": 15.408993
+    },
+    {
+      "name": "Ribarnica \"Šaran\"",
+      "latitude": 45.080332,
+      "longitude": 18.697239
+    },
+    {
+      "name": "Ribarnica - Fish Market",
+      "latitude": 45.14703,
+      "longitude": 13.60591
+    },
+    {
+      "name": "Ribarnica Ancora",
+      "latitude": 45.231636,
+      "longitude": 13.600573
+    },
+    {
+      "name": "ribarnica CIPAL",
+      "latitude": 43.385145,
+      "longitude": 16.479486
+    },
+    {
+      "name": "Ribarnica Dajna",
+      "latitude": 43.821098,
+      "longitude": 15.59365
+    },
+    {
+      "name": "Ribarnica Dolac",
+      "latitude": 45.814539,
+      "longitude": 15.977194
+    },
+    {
+      "name": "Ribarnica Grad Rovinj",
+      "latitude": 45.083016,
+      "longitude": 13.633667
+    },
+    {
+      "name": "Ribarnica Luka",
+      "latitude": 44.304389,
+      "longitude": 15.078539
+    },
+    {
+      "name": "Ribarnica Modrulj",
+      "latitude": 45.362843,
+      "longitude": 14.39222
+    },
+    {
+      "name": "Ribarnica Orka",
+      "latitude": 46.388539,
+      "longitude": 16.437945
+    },
+    {
+      "name": "Ribarnica Perla",
+      "latitude": 45.123183,
+      "longitude": 14.529413
+    },
+    {
+      "name": "Ribarnica Sipak",
+      "latitude": 45.174616,
+      "longitude": 14.692703
+    },
+    {
+      "name": "Ribarnica Čavle",
+      "latitude": 45.357213,
+      "longitude": 14.487874
+    },
+    {
+      "name": "Ribarska tržnica",
+      "latitude": 44.867178,
+      "longitude": 13.849193
+    },
+    {
+      "name": "Ribarski obrt Plat",
+      "latitude": 45.799159,
+      "longitude": 15.954011
+    },
+    {
+      "name": "Ribernica Nerezina",
+      "latitude": 44.659079,
+      "longitude": 14.397274
+    },
+    {
+      "name": "Ribnjak Gacka",
+      "latitude": 44.810093,
+      "longitude": 15.349447
+    },
+    {
+      "name": "Ribnjak Sišćani",
+      "latitude": 45.817678,
+      "longitude": 16.660589
+    },
+    {
+      "name": "RZ Adria",
+      "latitude": 43.755516,
+      "longitude": 15.744538
+    },
+    {
+      "name": "Som",
+      "latitude": 45.329881,
+      "longitude": 17.674574
+    },
+    {
+      "name": "TrgoRiba",
+      "latitude": 45.805131,
+      "longitude": 16.240553
+    },
+    {
+      "name": "Tržnica i ribarnica",
+      "latitude": 45.226969,
+      "longitude": 13.599188
+    },
+    {
+      "name": "Zezalo",
+      "latitude": 42.937719,
+      "longitude": 16.792768
+    }
+  ],
+  "meta": {
+    "title": "Ribarnice - Besplatno preuzimanje",
+    "description": "Ribarnice u Hrvatskoj (85 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=seafood), izrez EU-POIS/HR. Sadrži 85 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Ribarnice | ListBase",
+    "seo_description": "Preuzmi Ribarnice — 85 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 85 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

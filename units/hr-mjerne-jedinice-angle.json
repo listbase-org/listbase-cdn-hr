@@ -1,0 +1,115 @@
+{
+  "id": "hr-mjerne-jedinice-angle",
+  "name": "Mjerne jedinice — kategorija 'angle' (6)",
+  "title": "Mjerne jedinice — kategorija 'angle' (6)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'angle' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "angle-arc-minute",
+      "kategorija": "angle",
+      "naziv": "kutne minute",
+      "kratica": "min",
+      "naziv_uski": "kutna minuta",
+      "obrazac": "{0} kutnih minuta"
+    },
+    {
+      "id": 2,
+      "unit_code": "angle-arc-second",
+      "kategorija": "angle",
+      "naziv": "kutne sekunde",
+      "kratica": "s",
+      "naziv_uski": "s",
+      "obrazac": "{0} kutnih sekundi"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-degree",
+      "kategorija": "angle",
+      "naziv": "stupnjevi",
+      "kratica": "°",
+      "naziv_uski": "°",
+      "obrazac": "{0} stupnjeva"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-radian",
+      "kategorija": "angle",
+      "naziv": "radijani",
+      "kratica": "rad",
+      "naziv_uski": "rad",
+      "obrazac": "{0} radijana"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-revolution",
+      "kategorija": "angle",
+      "naziv": "okretaj",
+      "kratica": "okr.",
+      "naziv_uski": "okr.",
+      "obrazac": "{0} okretaja"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-steradian",
+      "kategorija": "angle",
+      "naziv": "steradijani",
+      "kratica": "sr",
+      "naziv_uski": "sr",
+      "obrazac": "{0} steradijana"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'angle' (6) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'angle' s hrvatskim nazivima. Sadrži 6 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'angle' (6) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'angle' (6) — 6 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 6 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

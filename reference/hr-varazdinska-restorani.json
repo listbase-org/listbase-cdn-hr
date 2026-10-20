@@ -1,0 +1,346 @@
+{
+  "id": "hr-varazdinska-restorani",
+  "name": "Restorani — Varaždinska županija",
+  "title": "Restorani — Varaždinska županija",
+  "description": "61 restorani u županiji Varaždinska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Angelus",
+      "latitude": 46.306888,
+      "longitude": 16.340048
+    },
+    {
+      "name": "Aquacity",
+      "latitude": 46.307393,
+      "longitude": 16.393137
+    },
+    {
+      "name": "Arabella",
+      "latitude": 46.236738,
+      "longitude": 16.641746
+    },
+    {
+      "name": "Barococo Restoran",
+      "latitude": 46.308151,
+      "longitude": 16.343267
+    },
+    {
+      "name": "Bedem",
+      "latitude": 46.31117,
+      "longitude": 16.333919
+    },
+    {
+      "name": "Bednja",
+      "latitude": 46.200957,
+      "longitude": 16.344713
+    },
+    {
+      "name": "Bernarda Pizzeria",
+      "latitude": 46.208302,
+      "longitude": 16.422042
+    },
+    {
+      "name": "Bistro Jasminka",
+      "latitude": 46.290022,
+      "longitude": 16.339356
+    },
+    {
+      "name": "bistro Kula",
+      "latitude": 46.310339,
+      "longitude": 16.337226
+    },
+    {
+      "name": "Bistro Paradiso",
+      "latitude": 46.244071,
+      "longitude": 16.628522
+    },
+    {
+      "name": "Bistro Quatro",
+      "latitude": 46.298764,
+      "longitude": 16.403907
+    },
+    {
+      "name": "Bistro Trakošćan",
+      "latitude": 46.257933,
+      "longitude": 15.94723
+    },
+    {
+      "name": "Bolid",
+      "latitude": 46.301675,
+      "longitude": 16.32134
+    },
+    {
+      "name": "Cimplet",
+      "latitude": 46.301645,
+      "longitude": 16.320143
+    },
+    {
+      "name": "Domenico",
+      "latitude": 46.306367,
+      "longitude": 16.337307
+    },
+    {
+      "name": "Dravski motiv & ŠRK Varaždin",
+      "latitude": 46.321484,
+      "longitude": 16.355687
+    },
+    {
+      "name": "EL",
+      "latitude": 46.289227,
+      "longitude": 16.336111
+    },
+    {
+      "name": "Etno-eko selo Sv. Franje Asiškog - Marinka Požgaj",
+      "latitude": 46.279447,
+      "longitude": 16.710045
+    },
+    {
+      "name": "Fast Food Flamingo",
+      "latitude": 46.155757,
+      "longitude": 16.33346
+    },
+    {
+      "name": "Gossip Bar",
+      "latitude": 46.309783,
+      "longitude": 16.328069
+    },
+    {
+      "name": "Grofovska Klet",
+      "latitude": 46.243172,
+      "longitude": 16.424048
+    },
+    {
+      "name": "Jelenice - pri Paču",
+      "latitude": 46.214414,
+      "longitude": 16.09402
+    },
+    {
+      "name": "Joško",
+      "latitude": 46.183663,
+      "longitude": 16.328273
+    },
+    {
+      "name": "Ključice",
+      "latitude": 46.164641,
+      "longitude": 16.334466
+    },
+    {
+      "name": "Kneginečka Hiža",
+      "latitude": 46.253166,
+      "longitude": 16.375025
+    },
+    {
+      "name": "KTC Restoran",
+      "latitude": 46.290165,
+      "longitude": 16.340344
+    },
+    {
+      "name": "Kuća",
+      "latitude": 46.17792,
+      "longitude": 16.340404
+    },
+    {
+      "name": "Lipa",
+      "latitude": 46.28896,
+      "longitude": 16.358231
+    },
+    {
+      "name": "Lipi",
+      "latitude": 46.223704,
+      "longitude": 16.122508
+    },
+    {
+      "name": "Lovački dom Ravna Gora",
+      "latitude": 46.266598,
+      "longitude": 16.027391
+    },
+    {
+      "name": "Masni Brk",
+      "latitude": 46.309535,
+      "longitude": 16.337657
+    },
+    {
+      "name": "Medonja Grill",
+      "latitude": 46.263838,
+      "longitude": 16.375104
+    },
+    {
+      "name": "Oaza",
+      "latitude": 46.224069,
+      "longitude": 16.123083
+    },
+    {
+      "name": "OPG Držaić",
+      "latitude": 46.241259,
+      "longitude": 16.048858
+    },
+    {
+      "name": "P'alapassion",
+      "latitude": 46.309316,
+      "longitude": 16.33768
+    },
+    {
+      "name": "Park",
+      "latitude": 46.306966,
+      "longitude": 16.33869
+    },
+    {
+      "name": "Pivnica Mejaši",
+      "latitude": 46.24919,
+      "longitude": 16.617629
+    },
+    {
+      "name": "Pizzeria \"Shark\"",
+      "latitude": 46.249044,
+      "longitude": 16.622566
+    },
+    {
+      "name": "Pizzeria Chibo",
+      "latitude": 46.226519,
+      "longitude": 16.127859
+    },
+    {
+      "name": "Pizzeria Špan",
+      "latitude": 46.24699,
+      "longitude": 16.386373
+    },
+    {
+      "name": "Raj",
+      "latitude": 46.314006,
+      "longitude": 16.32794
+    },
+    {
+      "name": "Restoran \"Ivančica\"",
+      "latitude": 46.208928,
+      "longitude": 16.038608
+    },
+    {
+      "name": "Restoran \"JAK\"",
+      "latitude": 46.241281,
+      "longitude": 16.048342
+    },
+    {
+      "name": "Restoran Lav",
+      "latitude": 46.315213,
+      "longitude": 16.333737
+    },
+    {
+      "name": "Santa Maria",
+      "latitude": 46.320845,
+      "longitude": 16.313045
+    },
+    {
+      "name": "Strauss",
+      "latitude": 46.309239,
+      "longitude": 16.33604
+    },
+    {
+      "name": "Streljana Varaždin",
+      "latitude": 46.314162,
+      "longitude": 16.352168
+    },
+    {
+      "name": "Studentski restoran",
+      "latitude": 46.308414,
+      "longitude": 16.347822
+    },
+    {
+      "name": "The Family",
+      "latitude": 46.306371,
+      "longitude": 16.333635
+    },
+    {
+      "name": "Verglec",
+      "latitude": 46.309002,
+      "longitude": 16.336742
+    },
+    {
+      "name": "Vila Toplissa",
+      "latitude": 46.213211,
+      "longitude": 16.416643
+    },
+    {
+      "name": "Vita",
+      "latitude": 46.230772,
+      "longitude": 16.128847
+    },
+    {
+      "name": "Vitezove gorice",
+      "latitude": 46.225941,
+      "longitude": 16.435464
+    },
+    {
+      "name": "Vrbi",
+      "latitude": 46.323761,
+      "longitude": 16.373842
+    },
+    {
+      "name": "Zalogajnica Šanjek",
+      "latitude": 46.304538,
+      "longitude": 16.326925
+    },
+    {
+      "name": "Zlatne gorice",
+      "latitude": 46.236821,
+      "longitude": 16.402238
+    },
+    {
+      "name": "Zvonimir",
+      "latitude": 46.297582,
+      "longitude": 16.313727
+    },
+    {
+      "name": "Ćevap",
+      "latitude": 46.303635,
+      "longitude": 16.334718
+    },
+    {
+      "name": "Črn-Bel",
+      "latitude": 46.24188,
+      "longitude": 16.612123
+    },
+    {
+      "name": "Šumska vila",
+      "latitude": 46.207244,
+      "longitude": 16.093084
+    },
+    {
+      "name": "Žuja Bar",
+      "latitude": 46.296081,
+      "longitude": 16.343051
+    }
+  ],
+  "meta": {
+    "title": "Restorani — Varaždinska županija - Besplatno preuzimanje",
+    "description": "61 restorani u županiji Varaždinska županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 61 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Restorani — Varaždinska županija | ListBase",
+    "seo_description": "Preuzmi Restorani — Varaždinska županija — 61 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 61 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

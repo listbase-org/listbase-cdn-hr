@@ -1,0 +1,280 @@
+{
+  "id": "hr-grad-zagreb-zeljeznicke-postaje",
+  "name": "Željezničke postaje — Grad Zagreb",
+  "title": "Željezničke postaje — Grad Zagreb",
+  "description": "Željezničke postaje i stajališta u Grad Zagreb (šifra 21) iz trainline-eu/stations. 7 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "number"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_slug",
+      "label": "Zupanija Slug",
+      "type": "string"
+    },
+    {
+      "key": "zupanija_code",
+      "label": "Zupanija Code",
+      "type": "number"
+    },
+    {
+      "key": "najblize_mjesto",
+      "label": "Najblize Mjesto",
+      "type": "string"
+    },
+    {
+      "key": "udaljenost_km",
+      "label": "Udaljenost Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 17496,
+      "name": "Zagreb",
+      "slug": "zagreb",
+      "uic": "7872480",
+      "latitude": 45.804453,
+      "longitude": 15.978478,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Grad Zagreb",
+      "zupanija_slug": "grad-zagreb",
+      "zupanija_code": "21",
+      "najblize_mjesto": "Zagreb-Črnomerec",
+      "udaljenost_km": 2.594,
+      "country": "HR"
+    },
+    {
+      "id": 2,
+      "station_id": 22625,
+      "name": "Zagreb Autobusni Kolodvor",
+      "slug": "zagreb-autobusni-kolodvor",
+      "uic": "",
+      "latitude": 45.803778,
+      "longitude": 15.993229,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": 17496,
+      "info_en": "",
+      "zupanija": "Grad Zagreb",
+      "zupanija_slug": "grad-zagreb",
+      "zupanija_code": "21",
+      "najblize_mjesto": "Zagreb-Maksimir",
+      "udaljenost_km": 2.274,
+      "country": "HR"
+    },
+    {
+      "id": 3,
+      "station_id": 34127,
+      "name": "Sesvete",
+      "slug": "sesvete",
+      "uic": "",
+      "latitude": 45.830354,
+      "longitude": 16.109878,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Grad Zagreb",
+      "zupanija_slug": "grad-zagreb",
+      "zupanija_code": "21",
+      "najblize_mjesto": "Sesvete",
+      "udaljenost_km": 0.512,
+      "country": "HR"
+    },
+    {
+      "id": 4,
+      "station_id": 34128,
+      "name": "Soblinec",
+      "slug": "soblinec",
+      "uic": "",
+      "latitude": 45.865987,
+      "longitude": 16.154266,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Grad Zagreb",
+      "zupanija_slug": "grad-zagreb",
+      "zupanija_code": "21",
+      "najblize_mjesto": "Žerjavinec",
+      "udaljenost_km": 0.966,
+      "country": "HR"
+    },
+    {
+      "id": 5,
+      "station_id": 34204,
+      "name": "Belovar",
+      "slug": "belovar",
+      "uic": "",
+      "latitude": 45.881902,
+      "longitude": 16.171957,
+      "time_zone": "Europe/Zagreb",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Grad Zagreb",
+      "zupanija_slug": "grad-zagreb",
+      "zupanija_code": "21",
+      "najblize_mjesto": "Belovar",
+      "udaljenost_km": 0.321,
+      "country": "HR"
+    },
+    {
+      "id": 6,
+      "station_id": 38994,
+      "name": "Hrvatski Leskovac",
+      "slug": "hrvatski-leskovac",
+      "uic": "",
+      "latitude": 45.744432,
+      "longitude": 15.891966,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_en": "",
+      "zupanija": "Grad Zagreb",
+      "zupanija_slug": "grad-zagreb",
+      "zupanija_code": "21",
+      "najblize_mjesto": "Hrvatski Leskovac",
+      "udaljenost_km": 0.216,
+      "country": "HR"
+    },
+    {
+      "id": 7,
+      "station_id": 67316,
+      "name": "Zagreb Glavni kolodvor",
+      "slug": "zagreb-glavni-kolodvor",
+      "uic": "",
+      "latitude": 45.804438,
+      "longitude": 15.978705,
+      "time_zone": "Europe/Zagreb",
+      "is_city": false,
+      "is_main_station": true,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": 17496,
+      "info_en": "",
+      "zupanija": "Grad Zagreb",
+      "zupanija_slug": "grad-zagreb",
+      "zupanija_code": "21",
+      "najblize_mjesto": "Zagreb-Črnomerec",
+      "udaljenost_km": 2.609,
+      "country": "HR"
+    }
+  ],
+  "meta": {
+    "title": "Željezničke postaje — Grad Zagreb - Besplatno preuzimanje",
+    "description": "Željezničke postaje i stajališta u Grad Zagreb (šifra 21) iz trainline-eu/stations. 7 zapisa s UIC kodovima, WGS84 koordinatama, vremenskom zonom Europe/Zagreb te oznakama city / airport / suggestable. Županija je izvedena po najbližem poštanskom mjestu iz već kuriranog skupa hr-postanski-brojevi. Sadrži 7 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Željezničke postaje — Grad Zagreb | ListBase",
+    "seo_description": "Preuzmi Željezničke postaje — Grad Zagreb — 7 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 7 zapisa / 20 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

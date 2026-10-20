@@ -1,0 +1,516 @@
+{
+  "id": "hr-delikatese",
+  "name": "Delikatese",
+  "title": "Delikatese",
+  "description": "Delikatese u Hrvatskoj (95 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=deli), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Antica kolači",
+      "latitude": 45.239864,
+      "longitude": 13.934903
+    },
+    {
+      "name": "Asian Spice",
+      "latitude": 43.510939,
+      "longitude": 16.43992
+    },
+    {
+      "name": "B. BUTIGA food heritage",
+      "latitude": 45.124323,
+      "longitude": 14.527087
+    },
+    {
+      "name": "Beef Shop",
+      "latitude": 44.113794,
+      "longitude": 15.226584
+    },
+    {
+      "name": "Bencic Truffles",
+      "latitude": 45.337289,
+      "longitude": 13.828997
+    },
+    {
+      "name": "Benčić Tartufi",
+      "latitude": 45.33764,
+      "longitude": 13.830018
+    },
+    {
+      "name": "Bijela Tartufata",
+      "latitude": 45.33729,
+      "longitude": 13.828962
+    },
+    {
+      "name": "Blato Butik delicija",
+      "latitude": 45.806524,
+      "longitude": 15.942758
+    },
+    {
+      "name": "Bonkulović",
+      "latitude": 45.820404,
+      "longitude": 15.977404
+    },
+    {
+      "name": "Bura i Sol",
+      "latitude": 45.801407,
+      "longitude": 15.951577
+    },
+    {
+      "name": "Chiavalon (Olive Oil)",
+      "latitude": 44.958092,
+      "longitude": 13.853049
+    },
+    {
+      "name": "Crni češnjak",
+      "latitude": 46.452734,
+      "longitude": 16.565553
+    },
+    {
+      "name": "Crotaste",
+      "latitude": 45.81337,
+      "longitude": 15.979437
+    },
+    {
+      "name": "Dark blue stores",
+      "latitude": 45.816645,
+      "longitude": 15.976544
+    },
+    {
+      "name": "Delicatesse o la la",
+      "latitude": 45.810322,
+      "longitude": 15.971634
+    },
+    {
+      "name": "Deliiicija",
+      "latitude": 43.734912,
+      "longitude": 15.891937
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 43.507625,
+      "longitude": 16.46676
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 43.508425,
+      "longitude": 16.436985
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.325797,
+      "longitude": 14.444631
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.78971,
+      "longitude": 15.929443
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.795617,
+      "longitude": 15.965067
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.799978,
+      "longitude": 15.953544
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.804217,
+      "longitude": 15.977563
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.808198,
+      "longitude": 15.984023
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.811241,
+      "longitude": 15.97563
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.811308,
+      "longitude": 15.883343
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.812376,
+      "longitude": 15.96964
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.812525,
+      "longitude": 15.97957
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.813251,
+      "longitude": 15.942572
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.813587,
+      "longitude": 15.985607
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.813738,
+      "longitude": 15.990577
+    },
+    {
+      "name": "Deliiicije",
+      "latitude": 45.813806,
+      "longitude": 15.997758
+    },
+    {
+      "name": "Delikatesa Alka",
+      "latitude": 45.491097,
+      "longitude": 15.539418
+    },
+    {
+      "name": "Domaća priča",
+      "latitude": 45.808347,
+      "longitude": 15.892263
+    },
+    {
+      "name": "Drniška tradicija",
+      "latitude": 45.789511,
+      "longitude": 15.929411
+    },
+    {
+      "name": "Drniška tradicija",
+      "latitude": 45.81027,
+      "longitude": 15.980135
+    },
+    {
+      "name": "Drniška tradicija",
+      "latitude": 45.812118,
+      "longitude": 15.977395
+    },
+    {
+      "name": "Dućkas",
+      "latitude": 45.772116,
+      "longitude": 15.994498
+    },
+    {
+      "name": "Energy station",
+      "latitude": 45.813456,
+      "longitude": 15.983725
+    },
+    {
+      "name": "Fakin",
+      "latitude": 45.336855,
+      "longitude": 13.828209
+    },
+    {
+      "name": "Gastro Branimir",
+      "latitude": 45.77453,
+      "longitude": 15.996288
+    },
+    {
+      "name": "Gastronomica",
+      "latitude": 45.811863,
+      "longitude": 15.995945
+    },
+    {
+      "name": "Gligora",
+      "latitude": 44.11516,
+      "longitude": 15.227283
+    },
+    {
+      "name": "Holy Burek",
+      "latitude": 42.641131,
+      "longitude": 18.107669
+    },
+    {
+      "name": "House of Delicatessen",
+      "latitude": 43.294165,
+      "longitude": 17.020506
+    },
+    {
+      "name": "Istra Shop",
+      "latitude": 45.27597,
+      "longitude": 13.719404
+    },
+    {
+      "name": "Kat's Kitchen",
+      "latitude": 43.505984,
+      "longitude": 16.422446
+    },
+    {
+      "name": "Keti",
+      "latitude": 45.326452,
+      "longitude": 14.299661
+    },
+    {
+      "name": "Krcki Pršut Zuzic",
+      "latitude": 45.047879,
+      "longitude": 14.529338
+    },
+    {
+      "name": "Kredenca - Made in Croatia",
+      "latitude": 45.175708,
+      "longitude": 14.686609
+    },
+    {
+      "name": "Kuca Rabske Torte",
+      "latitude": 44.755642,
+      "longitude": 14.761078
+    },
+    {
+      "name": "Kulen Damjanović",
+      "latitude": 45.799117,
+      "longitude": 15.956261
+    },
+    {
+      "name": "Kulin Galović",
+      "latitude": 45.813251,
+      "longitude": 15.957143
+    },
+    {
+      "name": "Maderic",
+      "latitude": 43.953491,
+      "longitude": 15.388154
+    },
+    {
+      "name": "Mali bećar",
+      "latitude": 45.800728,
+      "longitude": 15.953544
+    },
+    {
+      "name": "Mangia",
+      "latitude": 45.812091,
+      "longitude": 15.987606
+    },
+    {
+      "name": "Mataš",
+      "latitude": 45.797564,
+      "longitude": 15.973914
+    },
+    {
+      "name": "Meat the king",
+      "latitude": 45.812366,
+      "longitude": 15.986662
+    },
+    {
+      "name": "Miro tartufi",
+      "latitude": 45.330657,
+      "longitude": 13.825642
+    },
+    {
+      "name": "Natura Rab",
+      "latitude": 44.728013,
+      "longitude": 14.815255
+    },
+    {
+      "name": "Natura Tartufi",
+      "latitude": 45.405311,
+      "longitude": 13.94915
+    },
+    {
+      "name": "Nature Croatia",
+      "latitude": 44.926997,
+      "longitude": 13.803043
+    },
+    {
+      "name": "Olea bb",
+      "latitude": 45.80203,
+      "longitude": 15.942415
+    },
+    {
+      "name": "Oliveri",
+      "latitude": 45.291787,
+      "longitude": 13.68948
+    },
+    {
+      "name": "OPG Natura škoj",
+      "latitude": 43.738987,
+      "longitude": 15.780792
+    },
+    {
+      "name": "opg Đurić (med)",
+      "latitude": 45.263141,
+      "longitude": 16.948593
+    },
+    {
+      "name": "Panonis",
+      "latitude": 45.795554,
+      "longitude": 15.900523
+    },
+    {
+      "name": "Pekinška patka",
+      "latitude": 45.813913,
+      "longitude": 15.988191
+    },
+    {
+      "name": "Perutnina Ptuj",
+      "latitude": 46.388646,
+      "longitude": 16.437957
+    },
+    {
+      "name": "Piko delicija",
+      "latitude": 45.173741,
+      "longitude": 14.692219
+    },
+    {
+      "name": "Pisinium",
+      "latitude": 45.227207,
+      "longitude": 13.599491
+    },
+    {
+      "name": "Pivac",
+      "latitude": 45.26599,
+      "longitude": 15.224176
+    },
+    {
+      "name": "Prodan Tartufi",
+      "latitude": 45.400933,
+      "longitude": 13.984522
+    },
+    {
+      "name": "Pršutana Bel-Cro",
+      "latitude": 43.872775,
+      "longitude": 16.007983
+    },
+    {
+      "name": "Rajska ptica",
+      "latitude": 44.970236,
+      "longitude": 14.758139
+    },
+    {
+      "name": "Refužo",
+      "latitude": 43.505513,
+      "longitude": 16.448802
+    },
+    {
+      "name": "Regina del formaggio",
+      "latitude": 43.509951,
+      "longitude": 16.436415
+    },
+    {
+      "name": "Ruske delicije",
+      "latitude": 45.813584,
+      "longitude": 15.980586
+    },
+    {
+      "name": "San Servolo",
+      "latitude": 45.423212,
+      "longitude": 13.676244
+    },
+    {
+      "name": "Shop Istra",
+      "latitude": 45.378604,
+      "longitude": 13.722487
+    },
+    {
+      "name": "Siroteka Cheesshop",
+      "latitude": 44.443358,
+      "longitude": 15.053788
+    },
+    {
+      "name": "Tartufi Istra",
+      "latitude": 45.336813,
+      "longitude": 13.828579
+    },
+    {
+      "name": "Trgovina Zigante tartufi - Grožnnan",
+      "latitude": 45.379254,
+      "longitude": 13.722887
+    },
+    {
+      "name": "Tvornica zdrave hrane",
+      "latitude": 45.801042,
+      "longitude": 15.972179
+    },
+    {
+      "name": "UJE",
+      "latitude": 44.242777,
+      "longitude": 15.183553
+    },
+    {
+      "name": "Veronika delikatese",
+      "latitude": 45.173708,
+      "longitude": 14.693388
+    },
+    {
+      "name": "Vindija",
+      "latitude": 46.388459,
+      "longitude": 16.437934
+    },
+    {
+      "name": "Viola",
+      "latitude": 43.514037,
+      "longitude": 16.440435
+    },
+    {
+      "name": "Vivoda",
+      "latitude": 45.337501,
+      "longitude": 13.829471
+    },
+    {
+      "name": "Za Pod Zub",
+      "latitude": 43.183741,
+      "longitude": 16.597121
+    },
+    {
+      "name": "Zdrava hrana - halal hrana",
+      "latitude": 45.791621,
+      "longitude": 16.007901
+    },
+    {
+      "name": "Zigante tartufi",
+      "latitude": 45.355072,
+      "longitude": 13.829339
+    },
+    {
+      "name": "Zigante Tartufi",
+      "latitude": 45.409093,
+      "longitude": 13.658024
+    },
+    {
+      "name": "Zlatni čvarak",
+      "latitude": 45.81692,
+      "longitude": 15.872721
+    },
+    {
+      "name": "Špeceraj",
+      "latitude": 45.807349,
+      "longitude": 15.975168
+    }
+  ],
+  "meta": {
+    "title": "Delikatese - Besplatno preuzimanje",
+    "description": "Delikatese u Hrvatskoj (95 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=deli), izrez EU-POIS/HR. Sadrži 95 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Delikatese | ListBase",
+    "seo_description": "Preuzmi Delikatese — 95 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 95 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

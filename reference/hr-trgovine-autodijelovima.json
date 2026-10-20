@@ -1,0 +1,1046 @@
+{
+  "id": "hr-trgovine-autodijelovima",
+  "name": "Trgovine autodijelovima",
+  "title": "Trgovine autodijelovima",
+  "description": "Trgovine autodijelovima u Hrvatskoj (201 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=car_parts), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 201,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A.C.D.",
+      "latitude": 45.901261,
+      "longitude": 16.838686
+    },
+    {
+      "name": "Abarth auto",
+      "latitude": 45.152623,
+      "longitude": 18.019787
+    },
+    {
+      "name": "ADT",
+      "latitude": 45.860845,
+      "longitude": 15.797357
+    },
+    {
+      "name": "Aga - Impex",
+      "latitude": 45.797567,
+      "longitude": 15.766381
+    },
+    {
+      "name": "AgroBilo",
+      "latitude": 45.910783,
+      "longitude": 16.852589
+    },
+    {
+      "name": "Alfa Car",
+      "latitude": 46.376092,
+      "longitude": 16.455098
+    },
+    {
+      "name": "ANET",
+      "latitude": 45.495602,
+      "longitude": 16.373925
+    },
+    {
+      "name": "ANET d.o.o.",
+      "latitude": 45.80759,
+      "longitude": 15.855331
+    },
+    {
+      "name": "ATD d.o.o.",
+      "latitude": 42.659013,
+      "longitude": 18.086724
+    },
+    {
+      "name": "Auto Bauba",
+      "latitude": 43.58124,
+      "longitude": 16.607198
+    },
+    {
+      "name": "auto dijelovi Ciak Auto",
+      "latitude": 45.80461,
+      "longitude": 16.247694
+    },
+    {
+      "name": "Auto gorica",
+      "latitude": 45.585321,
+      "longitude": 15.860182
+    },
+    {
+      "name": "Auto Grobnik",
+      "latitude": 45.356085,
+      "longitude": 14.487973
+    },
+    {
+      "name": "Auto Krešo",
+      "latitude": 42.672919,
+      "longitude": 18.124427
+    },
+    {
+      "name": "Auto Krešo",
+      "latitude": 45.306754,
+      "longitude": 18.41726
+    },
+    {
+      "name": "Auto Krešo",
+      "latitude": 45.807432,
+      "longitude": 15.929926
+    },
+    {
+      "name": "Auto Krešo",
+      "latitude": 46.314087,
+      "longitude": 16.32656
+    },
+    {
+      "name": "Auto kuća Pavlinić-Sopić",
+      "latitude": 45.796627,
+      "longitude": 15.95967
+    },
+    {
+      "name": "Auto kuća Slukić",
+      "latitude": 46.376093,
+      "longitude": 16.388055
+    },
+    {
+      "name": "Auto Plavljanin",
+      "latitude": 45.795474,
+      "longitude": 15.976297
+    },
+    {
+      "name": "Auto Pneumatika",
+      "latitude": 45.767715,
+      "longitude": 16.005103
+    },
+    {
+      "name": "Auto poljostroj",
+      "latitude": 45.491075,
+      "longitude": 16.373715
+    },
+    {
+      "name": "Auto sirena",
+      "latitude": 45.795724,
+      "longitude": 15.965882
+    },
+    {
+      "name": "Auto taubi",
+      "latitude": 46.482828,
+      "longitude": 16.308221
+    },
+    {
+      "name": "Auto Tim",
+      "latitude": 43.720392,
+      "longitude": 15.908725
+    },
+    {
+      "name": "Auto-stop",
+      "latitude": 45.166348,
+      "longitude": 17.999315
+    },
+    {
+      "name": "Autocentar",
+      "latitude": 45.153477,
+      "longitude": 18.021568
+    },
+    {
+      "name": "Autodijelovi",
+      "latitude": 43.44443,
+      "longitude": 17.22166
+    },
+    {
+      "name": "Autodijelovi \"VOX-garage\"",
+      "latitude": 45.772677,
+      "longitude": 18.608744
+    },
+    {
+      "name": "Autodijelovi Galić",
+      "latitude": 43.44314,
+      "longitude": 17.22937
+    },
+    {
+      "name": "Autofista",
+      "latitude": 45.795803,
+      "longitude": 15.90055
+    },
+    {
+      "name": "AuToMAS",
+      "latitude": 45.153805,
+      "longitude": 18.016938
+    },
+    {
+      "name": "automoto oprema",
+      "latitude": 45.338396,
+      "longitude": 16.092354
+    },
+    {
+      "name": "Autoteka",
+      "latitude": 45.337987,
+      "longitude": 14.431102
+    },
+    {
+      "name": "Barać auto",
+      "latitude": 43.697839,
+      "longitude": 16.63914
+    },
+    {
+      "name": "BEREN",
+      "latitude": 44.875811,
+      "longitude": 13.866322
+    },
+    {
+      "name": "Beren akumulatori",
+      "latitude": 45.797471,
+      "longitude": 15.910179
+    },
+    {
+      "name": "Beren Akumulatori",
+      "latitude": 45.900848,
+      "longitude": 16.837037
+    },
+    {
+      "name": "Biolab",
+      "latitude": 45.812908,
+      "longitude": 15.922959
+    },
+    {
+      "name": "Blatobran d.o.o",
+      "latitude": 45.360749,
+      "longitude": 14.394095
+    },
+    {
+      "name": "Bremse",
+      "latitude": 45.548545,
+      "longitude": 18.678166
+    },
+    {
+      "name": "Bremse",
+      "latitude": 45.656339,
+      "longitude": 18.422605
+    },
+    {
+      "name": "centar pneumatike \"Kramar\"",
+      "latitude": 45.807616,
+      "longitude": 15.847858
+    },
+    {
+      "name": "CIAK Auto",
+      "latitude": 43.525396,
+      "longitude": 16.482658
+    },
+    {
+      "name": "CIAK Auto",
+      "latitude": 45.334815,
+      "longitude": 17.683318
+    },
+    {
+      "name": "Ciak Auto",
+      "latitude": 45.347794,
+      "longitude": 18.990668
+    },
+    {
+      "name": "CIAK Auto",
+      "latitude": 45.551807,
+      "longitude": 18.714211
+    },
+    {
+      "name": "CIAK Auto",
+      "latitude": 45.748067,
+      "longitude": 16.613673
+    },
+    {
+      "name": "CIAK Auto",
+      "latitude": 45.756175,
+      "longitude": 15.831963
+    },
+    {
+      "name": "Ciak Auto",
+      "latitude": 45.779537,
+      "longitude": 15.98455
+    },
+    {
+      "name": "CIAK Auto",
+      "latitude": 45.799324,
+      "longitude": 15.726907
+    },
+    {
+      "name": "CIAK auto",
+      "latitude": 46.390987,
+      "longitude": 16.40777
+    },
+    {
+      "name": "CIAK Auto d.o.o",
+      "latitude": 45.347681,
+      "longitude": 14.493995
+    },
+    {
+      "name": "CIAK Auto d.o.o.",
+      "latitude": 45.37126,
+      "longitude": 14.391173
+    },
+    {
+      "name": "Codex",
+      "latitude": 45.805146,
+      "longitude": 16.014274
+    },
+    {
+      "name": "Debeljak",
+      "latitude": 45.340644,
+      "longitude": 16.974159
+    },
+    {
+      "name": "Delta auto",
+      "latitude": 45.166595,
+      "longitude": 18.003026
+    },
+    {
+      "name": "Djelovi za traktore",
+      "latitude": 45.471386,
+      "longitude": 16.795949
+    },
+    {
+      "name": "elkoplast trgovina",
+      "latitude": 45.806173,
+      "longitude": 15.718106
+    },
+    {
+      "name": "Euroton Zagreb",
+      "latitude": 45.807186,
+      "longitude": 15.855932
+    },
+    {
+      "name": "Forum partneri d.o.o.",
+      "latitude": 45.803002,
+      "longitude": 15.973174
+    },
+    {
+      "name": "Frenum Bjelovar",
+      "latitude": 45.8973,
+      "longitude": 16.837951
+    },
+    {
+      "name": "Friš",
+      "latitude": 46.021617,
+      "longitude": 16.555707
+    },
+    {
+      "name": "Gale",
+      "latitude": 43.505901,
+      "longitude": 16.459162
+    },
+    {
+      "name": "Galmar",
+      "latitude": 45.489995,
+      "longitude": 16.372931
+    },
+    {
+      "name": "GAS",
+      "latitude": 45.318108,
+      "longitude": 18.415523
+    },
+    {
+      "name": "Gas",
+      "latitude": 45.662888,
+      "longitude": 18.412822
+    },
+    {
+      "name": "GMT",
+      "latitude": 46.225937,
+      "longitude": 15.693651
+    },
+    {
+      "name": "GROM d.o.o.",
+      "latitude": 45.674335,
+      "longitude": 16.069254
+    },
+    {
+      "name": "Hansa Flex",
+      "latitude": 44.12326,
+      "longitude": 15.27935
+    },
+    {
+      "name": "HEDA uto dijelovi",
+      "latitude": 45.691751,
+      "longitude": 15.737365
+    },
+    {
+      "name": "Hofer",
+      "latitude": 45.794422,
+      "longitude": 15.94434
+    },
+    {
+      "name": "Inej",
+      "latitude": 43.938476,
+      "longitude": 15.446404
+    },
+    {
+      "name": "Inteks baterije",
+      "latitude": 45.798601,
+      "longitude": 15.947456
+    },
+    {
+      "name": "Inter Cars",
+      "latitude": 45.891565,
+      "longitude": 16.838934
+    },
+    {
+      "name": "Inter Cars",
+      "latitude": 46.143354,
+      "longitude": 16.836821
+    },
+    {
+      "name": "Inter Cars",
+      "latitude": 46.39103,
+      "longitude": 16.406925
+    },
+    {
+      "name": "Istravetura",
+      "latitude": 44.881476,
+      "longitude": 13.865236
+    },
+    {
+      "name": "Jura commerce",
+      "latitude": 43.446584,
+      "longitude": 17.22315
+    },
+    {
+      "name": "Kristina d.o.o.",
+      "latitude": 45.331359,
+      "longitude": 17.667953
+    },
+    {
+      "name": "Lager",
+      "latitude": 42.661964,
+      "longitude": 18.08513
+    },
+    {
+      "name": "Magdić",
+      "latitude": 45.803644,
+      "longitude": 16.016875
+    },
+    {
+      "name": "Magdić autodjelovi",
+      "latitude": 45.802483,
+      "longitude": 16.015924
+    },
+    {
+      "name": "Manima promet",
+      "latitude": 45.708144,
+      "longitude": 16.066496
+    },
+    {
+      "name": "MASIVA d.o.o",
+      "latitude": 45.755139,
+      "longitude": 17.049371
+    },
+    {
+      "name": "Masiva d.o.o. Bjelovar",
+      "latitude": 45.906702,
+      "longitude": 16.860959
+    },
+    {
+      "name": "Max autodijelovi",
+      "latitude": 45.70716,
+      "longitude": 16.069015
+    },
+    {
+      "name": "MB Autoshop",
+      "latitude": 43.444696,
+      "longitude": 17.217092
+    },
+    {
+      "name": "Mehanizacija Miler d.o.o.",
+      "latitude": 46.013925,
+      "longitude": 17.100199
+    },
+    {
+      "name": "Metal proizvod",
+      "latitude": 45.675203,
+      "longitude": 16.137312
+    },
+    {
+      "name": "Metalia Auto",
+      "latitude": 43.515427,
+      "longitude": 16.49256
+    },
+    {
+      "name": "Metalia auto",
+      "latitude": 43.517749,
+      "longitude": 16.450009
+    },
+    {
+      "name": "Metalia auto",
+      "latitude": 43.762181,
+      "longitude": 15.780074
+    },
+    {
+      "name": "METALIA AUTO",
+      "latitude": 43.858412,
+      "longitude": 16.157019
+    },
+    {
+      "name": "MM Automobili",
+      "latitude": 45.97874,
+      "longitude": 17.168866
+    },
+    {
+      "name": "Mustafić",
+      "latitude": 45.800477,
+      "longitude": 15.71761
+    },
+    {
+      "name": "NIL",
+      "latitude": 45.8957,
+      "longitude": 16.837194
+    },
+    {
+      "name": "offroad center",
+      "latitude": 45.812841,
+      "longitude": 15.922658
+    },
+    {
+      "name": "Omegauto",
+      "latitude": 42.517577,
+      "longitude": 18.375299
+    },
+    {
+      "name": "Opel shop",
+      "latitude": 45.808002,
+      "longitude": 15.942076
+    },
+    {
+      "name": "Opruge Omega",
+      "latitude": 45.79669,
+      "longitude": 15.959716
+    },
+    {
+      "name": "Pavković",
+      "latitude": 43.513896,
+      "longitude": 16.192998
+    },
+    {
+      "name": "Pocad comerce",
+      "latitude": 43.444646,
+      "longitude": 16.685792
+    },
+    {
+      "name": "Purić",
+      "latitude": 45.813517,
+      "longitude": 15.711092
+    },
+    {
+      "name": "Rivalitas",
+      "latitude": 43.517607,
+      "longitude": 16.446898
+    },
+    {
+      "name": "Se-Kra d.o.o.",
+      "latitude": 45.333229,
+      "longitude": 16.0917
+    },
+    {
+      "name": "SENZAL d.o.o.",
+      "latitude": 44.873716,
+      "longitude": 13.858016
+    },
+    {
+      "name": "shell mobil",
+      "latitude": 45.8149,
+      "longitude": 15.926917
+    },
+    {
+      "name": "Sisak Auto",
+      "latitude": 45.491136,
+      "longitude": 16.372484
+    },
+    {
+      "name": "Skuba",
+      "latitude": 45.439037,
+      "longitude": 16.266015
+    },
+    {
+      "name": "Sluga",
+      "latitude": 45.61019,
+      "longitude": 16.585783
+    },
+    {
+      "name": "Technoauto",
+      "latitude": 45.372975,
+      "longitude": 14.313288
+    },
+    {
+      "name": "Tokic",
+      "latitude": 42.675444,
+      "longitude": 18.094449
+    },
+    {
+      "name": "Tokic",
+      "latitude": 43.184866,
+      "longitude": 16.601188
+    },
+    {
+      "name": "Tokić",
+      "latitude": 42.648696,
+      "longitude": 18.096565
+    },
+    {
+      "name": "Tokić",
+      "latitude": 43.443178,
+      "longitude": 16.683109
+    },
+    {
+      "name": "Tokić",
+      "latitude": 43.523681,
+      "longitude": 16.266228
+    },
+    {
+      "name": "Tokić",
+      "latitude": 43.938381,
+      "longitude": 15.446556
+    },
+    {
+      "name": "Tokić",
+      "latitude": 44.031494,
+      "longitude": 15.613514
+    },
+    {
+      "name": "Tokić",
+      "latitude": 44.553366,
+      "longitude": 15.379221
+    },
+    {
+      "name": "Tokić",
+      "latitude": 44.872223,
+      "longitude": 15.229427
+    },
+    {
+      "name": "Tokić",
+      "latitude": 44.879244,
+      "longitude": 13.869007
+    },
+    {
+      "name": "Tokić",
+      "latitude": 44.991818,
+      "longitude": 14.903689
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.07015,
+      "longitude": 18.702751
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.116192,
+      "longitude": 15.585971
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.153454,
+      "longitude": 18.021549
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.153799,
+      "longitude": 18.031913
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.17526,
+      "longitude": 14.693225
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.180814,
+      "longitude": 18.029301
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.248514,
+      "longitude": 15.241295
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.261046,
+      "longitude": 17.376426
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.281318,
+      "longitude": 18.803998
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.316505,
+      "longitude": 18.406423
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.319099,
+      "longitude": 13.56632
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.334287,
+      "longitude": 16.973141
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.334513,
+      "longitude": 14.512311
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.336564,
+      "longitude": 16.094145
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.344333,
+      "longitude": 19.009116
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.372152,
+      "longitude": 18.95468
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.394406,
+      "longitude": 14.803526
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.440871,
+      "longitude": 16.279985
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.484417,
+      "longitude": 16.768758
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.485968,
+      "longitude": 15.552998
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.492369,
+      "longitude": 16.381803
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.494586,
+      "longitude": 18.099326
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.495447,
+      "longitude": 16.373915
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.530452,
+      "longitude": 17.88401
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.564722,
+      "longitude": 18.640318
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.570012,
+      "longitude": 16.625651
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.579692,
+      "longitude": 16.940185
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.590556,
+      "longitude": 17.222642
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.652729,
+      "longitude": 18.432408
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.661255,
+      "longitude": 15.641536
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.70022,
+      "longitude": 17.700096
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.700911,
+      "longitude": 17.172681
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.702962,
+      "longitude": 17.69653
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.712211,
+      "longitude": 16.054571
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.730653,
+      "longitude": 16.41013
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.766,
+      "longitude": 18.608219
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.772669,
+      "longitude": 15.968147
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.797286,
+      "longitude": 16.013419
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.803429,
+      "longitude": 15.961167
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.804424,
+      "longitude": 16.247332
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.804828,
+      "longitude": 15.714094
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.805477,
+      "longitude": 15.923076
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.813638,
+      "longitude": 16.103426
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.817096,
+      "longitude": 16.006219
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.830141,
+      "longitude": 16.058773
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.849381,
+      "longitude": 15.811143
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.885932,
+      "longitude": 16.413865
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.90184,
+      "longitude": 16.835269
+    },
+    {
+      "name": "Tokić",
+      "latitude": 45.968662,
+      "longitude": 16.249591
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.018973,
+      "longitude": 16.53785
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.022044,
+      "longitude": 16.534623
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.05259,
+      "longitude": 16.087525
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.099164,
+      "longitude": 15.901132
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.160335,
+      "longitude": 16.815702
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.161315,
+      "longitude": 15.749605
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.161577,
+      "longitude": 16.811868
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.163022,
+      "longitude": 15.874078
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.177588,
+      "longitude": 16.339301
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.229279,
+      "longitude": 16.136448
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.319483,
+      "longitude": 16.308605
+    },
+    {
+      "name": "Tokić",
+      "latitude": 46.388914,
+      "longitude": 16.411541
+    },
+    {
+      "name": "Tokić Bjelovar",
+      "latitude": 45.885441,
+      "longitude": 16.845448
+    },
+    {
+      "name": "Tokič",
+      "latitude": 43.290242,
+      "longitude": 17.029969
+    },
+    {
+      "name": "Top Start",
+      "latitude": 43.505062,
+      "longitude": 16.450219
+    },
+    {
+      "name": "Top Start",
+      "latitude": 45.798978,
+      "longitude": 15.725022
+    },
+    {
+      "name": "Top Start",
+      "latitude": 45.806924,
+      "longitude": 15.924718
+    },
+    {
+      "name": "Top Start d.o.o.",
+      "latitude": 46.211388,
+      "longitude": 16.428181
+    },
+    {
+      "name": "Top-Start CIAK - Akumulatori i baterije",
+      "latitude": 45.805125,
+      "longitude": 16.240958
+    },
+    {
+      "name": "topstart",
+      "latitude": 45.811833,
+      "longitude": 15.891775
+    },
+    {
+      "name": "Total autodijelovi G.M.Golub",
+      "latitude": 45.813854,
+      "longitude": 15.929785
+    },
+    {
+      "name": "TrgoAuto",
+      "latitude": 45.334333,
+      "longitude": 17.674994
+    },
+    {
+      "name": "Trgometal",
+      "latitude": 45.903703,
+      "longitude": 16.856359
+    },
+    {
+      "name": "Trgometal d.o.o.",
+      "latitude": 45.543833,
+      "longitude": 18.676363
+    },
+    {
+      "name": "Ultra",
+      "latitude": 45.166564,
+      "longitude": 18.002277
+    },
+    {
+      "name": "Velepromet",
+      "latitude": 46.336915,
+      "longitude": 16.361937
+    },
+    {
+      "name": "VG Auto",
+      "latitude": 45.709332,
+      "longitude": 16.067418
+    },
+    {
+      "name": "Zibel",
+      "latitude": 45.474871,
+      "longitude": 16.362589
+    },
+    {
+      "name": "ZMR Autodijelovi",
+      "latitude": 45.174304,
+      "longitude": 14.692458
+    }
+  ],
+  "meta": {
+    "title": "Trgovine autodijelovima - Besplatno preuzimanje",
+    "description": "Trgovine autodijelovima u Hrvatskoj (201 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=car_parts), izrez EU-POIS/HR. Sadrži 201 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Trgovine autodijelovima | ListBase",
+    "seo_description": "Preuzmi Trgovine autodijelovima — 201 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 201 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

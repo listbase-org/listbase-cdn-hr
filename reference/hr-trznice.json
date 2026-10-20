@@ -1,0 +1,891 @@
+{
+  "id": "hr-trznice",
+  "name": "Tržnice",
+  "title": "Tržnice",
+  "description": "Tržnice u Hrvatskoj (170 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=marketplace), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 170,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agropark",
+      "latitude": 45.657522,
+      "longitude": 18.420971
+    },
+    {
+      "name": "Autopija",
+      "latitude": 45.545128,
+      "longitude": 18.659232
+    },
+    {
+      "name": "Benkovački sajam",
+      "latitude": 44.045257,
+      "longitude": 15.615215
+    },
+    {
+      "name": "Bjelovarski Buvljak",
+      "latitude": 45.898525,
+      "longitude": 16.853015
+    },
+    {
+      "name": "Bjelovarski sajam Gudovac",
+      "latitude": 45.876539,
+      "longitude": 16.793943
+    },
+    {
+      "name": "Centar Peškera",
+      "latitude": 43.295244,
+      "longitude": 17.013965
+    },
+    {
+      "name": "City Farmer's Market Pula",
+      "latitude": 44.8668,
+      "longitude": 13.84958
+    },
+    {
+      "name": "Donjogradska tržnica",
+      "latitude": 45.555771,
+      "longitude": 18.7196
+    },
+    {
+      "name": "ERS Comerce",
+      "latitude": 43.014315,
+      "longitude": 17.552495
+    },
+    {
+      "name": "Feđika",
+      "latitude": 45.55193,
+      "longitude": 18.705008
+    },
+    {
+      "name": "Food Market",
+      "latitude": 43.375311,
+      "longitude": 16.628319
+    },
+    {
+      "name": "Fruit-Market-Boat",
+      "latitude": 43.894502,
+      "longitude": 15.156696
+    },
+    {
+      "name": "Gastro Ribarnica \"Brač\"",
+      "latitude": 43.519839,
+      "longitude": 16.428401
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 43.7012,
+      "longitude": 16.635945
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 43.732582,
+      "longitude": 15.895833
+    },
+    {
+      "name": "Gradska Tržnica",
+      "latitude": 45.092676,
+      "longitude": 14.120805
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 45.154407,
+      "longitude": 18.022304
+    },
+    {
+      "name": "Gradska Tržnica",
+      "latitude": 45.239703,
+      "longitude": 13.936268
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 45.316227,
+      "longitude": 13.563509
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 45.434508,
+      "longitude": 17.192414
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 45.5426,
+      "longitude": 18.048766
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 45.591747,
+      "longitude": 17.226114
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 45.705507,
+      "longitude": 17.700284
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 45.835497,
+      "longitude": 17.38668
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 46.02531,
+      "longitude": 16.542717
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 46.043332,
+      "longitude": 17.066528
+    },
+    {
+      "name": "Gradska tržnica",
+      "latitude": 46.162252,
+      "longitude": 16.833033
+    },
+    {
+      "name": "Gradska tržnica Bjelovar",
+      "latitude": 45.901871,
+      "longitude": 16.842447
+    },
+    {
+      "name": "Gradska Tržnica Duga Resa",
+      "latitude": 45.450629,
+      "longitude": 15.498747
+    },
+    {
+      "name": "Gradska tržnica Garešnica",
+      "latitude": 45.578033,
+      "longitude": 16.944229
+    },
+    {
+      "name": "Gradska tržnica Kontroba",
+      "latitude": 45.486336,
+      "longitude": 16.378914
+    },
+    {
+      "name": "Gradska tržnica Krapina",
+      "latitude": 46.165609,
+      "longitude": 15.868592
+    },
+    {
+      "name": "Gradska Tržnica Ludbreg",
+      "latitude": 46.247794,
+      "longitude": 16.621485
+    },
+    {
+      "name": "Gradska tržnica Varaždin",
+      "latitude": 46.309983,
+      "longitude": 16.3393
+    },
+    {
+      "name": "Gradska tržnica Vinkovci",
+      "latitude": 45.292733,
+      "longitude": 18.809805
+    },
+    {
+      "name": "Gradska tržnica Čazma",
+      "latitude": 45.7482,
+      "longitude": 16.613962
+    },
+    {
+      "name": "indoor market hall",
+      "latitude": 45.127762,
+      "longitude": 14.791021
+    },
+    {
+      "name": "Kitro",
+      "latitude": 46.16231,
+      "longitude": 16.32976
+    },
+    {
+      "name": "Lux",
+      "latitude": 45.341996,
+      "longitude": 17.683325
+    },
+    {
+      "name": "Makarska pijaca",
+      "latitude": 43.294137,
+      "longitude": 17.020795
+    },
+    {
+      "name": "Market Nord",
+      "latitude": 43.506448,
+      "longitude": 16.459741
+    },
+    {
+      "name": "market of domestic products",
+      "latitude": 43.028122,
+      "longitude": 17.551571
+    },
+    {
+      "name": "Market Ošo",
+      "latitude": 45.410817,
+      "longitude": 13.9706
+    },
+    {
+      "name": "Markey Iris",
+      "latitude": 43.156449,
+      "longitude": 17.24691
+    },
+    {
+      "name": "Marofski plac",
+      "latitude": 46.165131,
+      "longitude": 16.333854
+    },
+    {
+      "name": "Nova tržnica",
+      "latitude": 44.04341,
+      "longitude": 16.198329
+    },
+    {
+      "name": "Nova tržnica Vojnić",
+      "latitude": 45.324174,
+      "longitude": 15.694845
+    },
+    {
+      "name": "Omiška pijaca",
+      "latitude": 43.444398,
+      "longitude": 16.691987
+    },
+    {
+      "name": "Osječka tržnica",
+      "latitude": 45.558981,
+      "longitude": 18.683583
+    },
+    {
+      "name": "Pazar",
+      "latitude": 43.184644,
+      "longitude": 16.599491
+    },
+    {
+      "name": "Pazar",
+      "latitude": 43.507494,
+      "longitude": 16.441652
+    },
+    {
+      "name": "Pazar Plokite",
+      "latitude": 43.514086,
+      "longitude": 16.454896
+    },
+    {
+      "name": "PC Pujanke",
+      "latitude": 43.516411,
+      "longitude": 16.473544
+    },
+    {
+      "name": "Piazza",
+      "latitude": 45.174576,
+      "longitude": 13.595562
+    },
+    {
+      "name": "Piazza",
+      "latitude": 45.297738,
+      "longitude": 13.593511
+    },
+    {
+      "name": "pijaca",
+      "latitude": 43.859462,
+      "longitude": 16.155231
+    },
+    {
+      "name": "Pijaca",
+      "latitude": 43.907255,
+      "longitude": 15.506458
+    },
+    {
+      "name": "PIJACA",
+      "latitude": 44.531823,
+      "longitude": 15.766432
+    },
+    {
+      "name": "Pjaca",
+      "latitude": 43.550407,
+      "longitude": 16.344597
+    },
+    {
+      "name": "Plac",
+      "latitude": 45.705663,
+      "longitude": 16.080043
+    },
+    {
+      "name": "Plac",
+      "latitude": 46.226862,
+      "longitude": 16.127944
+    },
+    {
+      "name": "Placa Gruž",
+      "latitude": 42.656154,
+      "longitude": 18.087843
+    },
+    {
+      "name": "Plus Market",
+      "latitude": 43.506478,
+      "longitude": 16.459937
+    },
+    {
+      "name": "Poljopromet",
+      "latitude": 43.023731,
+      "longitude": 17.551998
+    },
+    {
+      "name": "Radnik Opatija",
+      "latitude": 45.362201,
+      "longitude": 13.641606
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.50913,
+      "longitude": 16.437394
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 43.550152,
+      "longitude": 16.344806
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 44.115639,
+      "longitude": 15.228315
+    },
+    {
+      "name": "Ribarnica",
+      "latitude": 45.323994,
+      "longitude": 14.442616
+    },
+    {
+      "name": "Rotonda pijaca",
+      "latitude": 42.960493,
+      "longitude": 17.13589
+    },
+    {
+      "name": "Sajam Patkovac",
+      "latitude": 45.852428,
+      "longitude": 16.930642
+    },
+    {
+      "name": "Sajmište",
+      "latitude": 45.802991,
+      "longitude": 16.24837
+    },
+    {
+      "name": "Sajmište",
+      "latitude": 45.805394,
+      "longitude": 15.732009
+    },
+    {
+      "name": "Sajmište",
+      "latitude": 45.9442,
+      "longitude": 16.602443
+    },
+    {
+      "name": "Sajmište Čakovec",
+      "latitude": 46.386341,
+      "longitude": 16.462872
+    },
+    {
+      "name": "Souvenir-Markt",
+      "latitude": 44.928528,
+      "longitude": 13.802174
+    },
+    {
+      "name": "Stara tržnica Jastrebarsko",
+      "latitude": 45.679883,
+      "longitude": 15.660641
+    },
+    {
+      "name": "Stara tržnica Knin",
+      "latitude": 44.032073,
+      "longitude": 16.193899
+    },
+    {
+      "name": "Staro sajmište",
+      "latitude": 46.389139,
+      "longitude": 16.444537
+    },
+    {
+      "name": "Stočni sajam",
+      "latitude": 45.564587,
+      "longitude": 16.618601
+    },
+    {
+      "name": "Tommy",
+      "latitude": 44.061445,
+      "longitude": 15.203409
+    },
+    {
+      "name": "Trg Ivana Mazuranica",
+      "latitude": 45.128266,
+      "longitude": 14.790451
+    },
+    {
+      "name": "Tržni centar Belišće",
+      "latitude": 45.685352,
+      "longitude": 18.405314
+    },
+    {
+      "name": "Tržni centar Vukovar",
+      "latitude": 45.352555,
+      "longitude": 19.000417
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 43.445211,
+      "longitude": 16.64111
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 44.441167,
+      "longitude": 15.051327
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 45.083322,
+      "longitude": 13.633515
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 45.173598,
+      "longitude": 14.693543
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 45.307009,
+      "longitude": 18.41445
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 45.375577,
+      "longitude": 18.953677
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 45.432755,
+      "longitude": 13.521442
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 46.091076,
+      "longitude": 15.835746
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 46.513369,
+      "longitude": 16.438588
+    },
+    {
+      "name": "Tržnica (seasonal)",
+      "latitude": 43.493595,
+      "longitude": 16.264252
+    },
+    {
+      "name": "Tržnica 1",
+      "latitude": 45.324899,
+      "longitude": 14.443271
+    },
+    {
+      "name": "Tržnica 2",
+      "latitude": 45.324526,
+      "longitude": 14.44298
+    },
+    {
+      "name": "Tržnica Baldekin",
+      "latitude": 43.728627,
+      "longitude": 15.903809
+    },
+    {
+      "name": "Tržnica Biograd na moru",
+      "latitude": 43.938288,
+      "longitude": 15.444188
+    },
+    {
+      "name": "Tržnica Botinec",
+      "latitude": 45.755447,
+      "longitude": 15.937699
+    },
+    {
+      "name": "Tržnica Brajda",
+      "latitude": 45.330579,
+      "longitude": 14.433522
+    },
+    {
+      "name": "Tržnica Branimirova",
+      "latitude": 45.806774,
+      "longitude": 15.991378
+    },
+    {
+      "name": "Tržnica Brckovljani",
+      "latitude": 45.822295,
+      "longitude": 16.287323
+    },
+    {
+      "name": "Tržnica Bregana",
+      "latitude": 45.838096,
+      "longitude": 15.687699
+    },
+    {
+      "name": "Tržnica Britanski trg",
+      "latitude": 45.813144,
+      "longitude": 15.964713
+    },
+    {
+      "name": "Tržnica Caprag",
+      "latitude": 45.456623,
+      "longitude": 16.379678
+    },
+    {
+      "name": "Tržnica City Galleria",
+      "latitude": 44.110988,
+      "longitude": 15.237698
+    },
+    {
+      "name": "Tržnica Davor",
+      "latitude": 45.111179,
+      "longitude": 17.512605
+    },
+    {
+      "name": "Tržnica Dolac",
+      "latitude": 45.814245,
+      "longitude": 15.977152
+    },
+    {
+      "name": "Tržnica Dubec",
+      "latitude": 45.828544,
+      "longitude": 16.07776
+    },
+    {
+      "name": "Tržnica Dubrava",
+      "latitude": 45.824393,
+      "longitude": 16.042275
+    },
+    {
+      "name": "Tržnica Dubrava",
+      "latitude": 45.831437,
+      "longitude": 16.057797
+    },
+    {
+      "name": "Tržnica Farkaševac",
+      "latitude": 45.881129,
+      "longitude": 16.635828
+    },
+    {
+      "name": "Tržnica Gajnice",
+      "latitude": 45.816897,
+      "longitude": 15.872989
+    },
+    {
+      "name": "Tržnica Gospić",
+      "latitude": 44.548304,
+      "longitude": 15.368525
+    },
+    {
+      "name": "Tržnica Jarun",
+      "latitude": 45.789732,
+      "longitude": 15.928951
+    },
+    {
+      "name": "Tržnica Kažotićev trg",
+      "latitude": 45.816561,
+      "longitude": 16.021489
+    },
+    {
+      "name": "Tržnica Kustošija",
+      "latitude": 45.814122,
+      "longitude": 15.928816
+    },
+    {
+      "name": "Tržnica Kvaternikov trg",
+      "latitude": 45.813183,
+      "longitude": 15.996056
+    },
+    {
+      "name": "Tržnica Lipik",
+      "latitude": 45.412488,
+      "longitude": 17.163505
+    },
+    {
+      "name": "Tržnica Lokve",
+      "latitude": 43.511003,
+      "longitude": 16.458279
+    },
+    {
+      "name": "Tržnica Lovran",
+      "latitude": 45.292637,
+      "longitude": 14.276018
+    },
+    {
+      "name": "Tržnica Market",
+      "latitude": 45.227116,
+      "longitude": 13.59919
+    },
+    {
+      "name": "Tržnica Mitnica",
+      "latitude": 45.33963,
+      "longitude": 19.016946
+    },
+    {
+      "name": "Tržnica Murter",
+      "latitude": 43.821777,
+      "longitude": 15.592366
+    },
+    {
+      "name": "Tržnica na malo",
+      "latitude": 45.336055,
+      "longitude": 16.090521
+    },
+    {
+      "name": "Tržnica Novska",
+      "latitude": 45.341002,
+      "longitude": 16.973907
+    },
+    {
+      "name": "Tržnica Opatija",
+      "latitude": 45.338623,
+      "longitude": 14.30866
+    },
+    {
+      "name": "Tržnica Otočac",
+      "latitude": 44.869771,
+      "longitude": 15.236048
+    },
+    {
+      "name": "Tržnica Petrinja",
+      "latitude": 45.442976,
+      "longitude": 16.277029
+    },
+    {
+      "name": "Tržnica Poluotok",
+      "latitude": 44.115405,
+      "longitude": 15.227838
+    },
+    {
+      "name": "Tržnica Prečko",
+      "latitude": 45.792428,
+      "longitude": 15.901907
+    },
+    {
+      "name": "Tržnica Pula",
+      "latitude": 44.867099,
+      "longitude": 13.849046
+    },
+    {
+      "name": "Tržnica Pula - otvoreni dio",
+      "latitude": 44.866718,
+      "longitude": 13.849408
+    },
+    {
+      "name": "Tržnica Put Petrića",
+      "latitude": 44.128822,
+      "longitude": 15.230332
+    },
+    {
+      "name": "Tržnica Retfala",
+      "latitude": 45.563505,
+      "longitude": 18.654065
+    },
+    {
+      "name": "Tržnica Rovišće",
+      "latitude": 45.946763,
+      "longitude": 16.731189
+    },
+    {
+      "name": "Tržnica Sajmište Sesvete",
+      "latitude": 45.82172,
+      "longitude": 16.113899
+    },
+    {
+      "name": "Tržnica Samobor 1",
+      "latitude": 45.802628,
+      "longitude": 15.71064
+    },
+    {
+      "name": "Tržnica Samobor 2",
+      "latitude": 45.802462,
+      "longitude": 15.710294
+    },
+    {
+      "name": "Tržnica Savica",
+      "latitude": 45.793965,
+      "longitude": 15.996738
+    },
+    {
+      "name": "Tržnica Savski Gaj",
+      "latitude": 45.774768,
+      "longitude": 15.955323
+    },
+    {
+      "name": "Tržnica Sesvete",
+      "latitude": 45.827154,
+      "longitude": 16.111982
+    },
+    {
+      "name": "Tržnica Split 3",
+      "latitude": 43.507526,
+      "longitude": 16.464626
+    },
+    {
+      "name": "Tržnica Sućidar",
+      "latitude": 43.513775,
+      "longitude": 16.454879
+    },
+    {
+      "name": "Tržnica Sv. Filip i Jakov",
+      "latitude": 43.961472,
+      "longitude": 15.425998
+    },
+    {
+      "name": "Tržnica Sveta Marija",
+      "latitude": 46.332152,
+      "longitude": 16.746475
+    },
+    {
+      "name": "Tržnica Trešnjevka",
+      "latitude": 45.798671,
+      "longitude": 15.953858
+    },
+    {
+      "name": "Tržnica Trnsko",
+      "latitude": 45.772147,
+      "longitude": 15.964332
+    },
+    {
+      "name": "Tržnica u Belom Manastiru",
+      "latitude": 45.770718,
+      "longitude": 18.603469
+    },
+    {
+      "name": "Tržnica Utrina",
+      "latitude": 45.776779,
+      "longitude": 15.996206
+    },
+    {
+      "name": "Tržnica Velika Gorica",
+      "latitude": 45.71144,
+      "longitude": 16.076391
+    },
+    {
+      "name": "Tržnica Veruda",
+      "latitude": 44.856793,
+      "longitude": 13.838397
+    },
+    {
+      "name": "Tržnica Virje",
+      "latitude": 46.06704,
+      "longitude": 16.990703
+    },
+    {
+      "name": "Tržnica Volovčica",
+      "latitude": 45.810234,
+      "longitude": 16.016401
+    },
+    {
+      "name": "Tržnica Vrapče",
+      "latitude": 45.813608,
+      "longitude": 15.905527
+    },
+    {
+      "name": "Tržnica Vrbovec",
+      "latitude": 45.884274,
+      "longitude": 16.419643
+    },
+    {
+      "name": "Tržnica Zabočka",
+      "latitude": 46.024208,
+      "longitude": 15.901315
+    },
+    {
+      "name": "Tržnica Zadar",
+      "latitude": 44.115701,
+      "longitude": 15.22798
+    },
+    {
+      "name": "Tržnica Zaprešić",
+      "latitude": 45.856342,
+      "longitude": 15.803671
+    },
+    {
+      "name": "Tržnica Čakovec",
+      "latitude": 46.388532,
+      "longitude": 16.437493
+    },
+    {
+      "name": "Tržnica četvrtkom",
+      "latitude": 45.116027,
+      "longitude": 15.587065
+    },
+    {
+      "name": "Tržnica Šegota",
+      "latitude": 45.323799,
+      "longitude": 14.467046
+    },
+    {
+      "name": "Tržnica Špansko",
+      "latitude": 45.802347,
+      "longitude": 15.898774
+    },
+    {
+      "name": "Ultra Ribola",
+      "latitude": 43.3588,
+      "longitude": 16.948124
+    },
+    {
+      "name": "Velepromet",
+      "latitude": 45.339565,
+      "longitude": 19.017478
+    },
+    {
+      "name": "Zelena tržnica",
+      "latitude": 45.543513,
+      "longitude": 18.658848
+    },
+    {
+      "name": "Zelena tržnica",
+      "latitude": 45.800065,
+      "longitude": 16.052102
+    },
+    {
+      "name": "Štandovi",
+      "latitude": 45.802476,
+      "longitude": 15.710738
+    },
+    {
+      "name": "Пијаца Бачки Моноштор",
+      "latitude": 45.793655,
+      "longitude": 18.933114
+    },
+    {
+      "name": "Пијаца недељом",
+      "latitude": 45.29374,
+      "longitude": 19.140888
+    }
+  ],
+  "meta": {
+    "title": "Tržnice - Besplatno preuzimanje",
+    "description": "Tržnice u Hrvatskoj (170 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=marketplace), izrez EU-POIS/HR. Sadrži 170 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Tržnice | ListBase",
+    "seo_description": "Preuzmi Tržnice — 170 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 170 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

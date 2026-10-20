@@ -1,0 +1,831 @@
+{
+  "id": "hr-diplomatska-predstavnistva",
+  "name": "Diplomatska predstavništva",
+  "title": "Diplomatska predstavništva",
+  "description": "Diplomatska predstavništva u Hrvatskoj (158 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=diplomatic), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 158,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Apostolska nuncijatura u Republici Hrvatskoj",
+      "latitude": 45.837599,
+      "longitude": 15.979016
+    },
+    {
+      "name": "Generalni konzulat Kraljevine Danske",
+      "latitude": 45.84862,
+      "longitude": 15.950345
+    },
+    {
+      "name": "Generalni Konzulat Kraljevine Tajland",
+      "latitude": 45.810721,
+      "longitude": 15.971949
+    },
+    {
+      "name": "Generalni konzulat Mađarske",
+      "latitude": 45.560797,
+      "longitude": 18.686882
+    },
+    {
+      "name": "Generalni konzulat Republike Austrije",
+      "latitude": 43.510107,
+      "longitude": 16.438525
+    },
+    {
+      "name": "Generalni Konzulat Republike Cipar",
+      "latitude": 45.813307,
+      "longitude": 15.977957
+    },
+    {
+      "name": "Generalni konzulat Republike Filipini",
+      "latitude": 45.811641,
+      "longitude": 15.987671
+    },
+    {
+      "name": "Generalni konzulat Republike Kosovo",
+      "latitude": 44.116525,
+      "longitude": 15.230825
+    },
+    {
+      "name": "Generalni konzulat Republike Slovenije",
+      "latitude": 43.511499,
+      "longitude": 16.443761
+    },
+    {
+      "name": "Generalni konzulat Republike Srbije",
+      "latitude": 45.328899,
+      "longitude": 14.439449
+    },
+    {
+      "name": "Generalni konzulat Republike Srbije",
+      "latitude": 45.357273,
+      "longitude": 18.992205
+    },
+    {
+      "name": "Generalni konzulat Talijanske Republike",
+      "latitude": 45.327267,
+      "longitude": 14.438603
+    },
+    {
+      "name": "Konzulat Burkine Faso",
+      "latitude": 45.824801,
+      "longitude": 15.980806
+    },
+    {
+      "name": "Konzulat Demokratske Republike Kongo",
+      "latitude": 45.813113,
+      "longitude": 15.969542
+    },
+    {
+      "name": "Konzulat Demokratske Socijalističke Republike Šri Lanke",
+      "latitude": 45.807692,
+      "longitude": 16.004086
+    },
+    {
+      "name": "Konzulat Francuske Republike",
+      "latitude": 42.653146,
+      "longitude": 18.0856
+    },
+    {
+      "name": "Konzulat Francuske Republike",
+      "latitude": 43.50804,
+      "longitude": 16.438121
+    },
+    {
+      "name": "Konzulat Hašemitske Kraljevine Jordan",
+      "latitude": 45.855544,
+      "longitude": 15.974695
+    },
+    {
+      "name": "Konzulat Islanda",
+      "latitude": 45.806183,
+      "longitude": 15.976368
+    },
+    {
+      "name": "Konzulat Kneževine Monako",
+      "latitude": 45.806449,
+      "longitude": 15.990921
+    },
+    {
+      "name": "Konzulat Kneževine Monako",
+      "latitude": 45.820314,
+      "longitude": 15.977782
+    },
+    {
+      "name": "Konzulat Kraljevine Belgije",
+      "latitude": 42.651912,
+      "longitude": 18.076507
+    },
+    {
+      "name": "Konzulat Kraljevine Belgije",
+      "latitude": 43.513979,
+      "longitude": 16.438186
+    },
+    {
+      "name": "Konzulat Kraljevine Belgije",
+      "latitude": 45.303908,
+      "longitude": 14.280191
+    },
+    {
+      "name": "Konzulat Kraljevine Danske",
+      "latitude": 42.648368,
+      "longitude": 18.092879
+    },
+    {
+      "name": "Konzulat Kraljevine Danske",
+      "latitude": 43.511354,
+      "longitude": 16.465333
+    },
+    {
+      "name": "Konzulat Kraljevine Danske",
+      "latitude": 45.336963,
+      "longitude": 14.433239
+    },
+    {
+      "name": "Konzulat Kraljevine Maroko",
+      "latitude": 45.326799,
+      "longitude": 14.443867
+    },
+    {
+      "name": "Konzulat Kraljevine Nizozemske",
+      "latitude": 42.652247,
+      "longitude": 18.089174
+    },
+    {
+      "name": "Konzulat Kraljevine Nizozemske",
+      "latitude": 43.509392,
+      "longitude": 16.474755
+    },
+    {
+      "name": "Konzulat Kraljevine Nizozemske",
+      "latitude": 45.339233,
+      "longitude": 14.30676
+    },
+    {
+      "name": "Konzulat Kraljevine Norveške",
+      "latitude": 42.655861,
+      "longitude": 18.082105
+    },
+    {
+      "name": "Konzulat Kraljevine Norveške",
+      "latitude": 43.514051,
+      "longitude": 16.442895
+    },
+    {
+      "name": "Konzulat Kraljevine Norveške",
+      "latitude": 45.327227,
+      "longitude": 14.447349
+    },
+    {
+      "name": "Konzulat Kraljevine Španjolske",
+      "latitude": 42.651933,
+      "longitude": 18.089276
+    },
+    {
+      "name": "Konzulat Kraljevine Španjolske",
+      "latitude": 43.505597,
+      "longitude": 16.460504
+    },
+    {
+      "name": "Konzulat Kraljevine Švedske",
+      "latitude": 42.655863,
+      "longitude": 18.082221
+    },
+    {
+      "name": "Konzulat Kraljevine Švedske",
+      "latitude": 43.503828,
+      "longitude": 16.428295
+    },
+    {
+      "name": "Konzulat Kraljevine Švedske",
+      "latitude": 45.325933,
+      "longitude": 14.442014
+    },
+    {
+      "name": "Konzulat Kraljevine Švedske",
+      "latitude": 45.326708,
+      "longitude": 14.439988
+    },
+    {
+      "name": "Konzulat Mađarske",
+      "latitude": 42.652048,
+      "longitude": 18.089243
+    },
+    {
+      "name": "Konzulat Mađarske",
+      "latitude": 43.513833,
+      "longitude": 16.439088
+    },
+    {
+      "name": "Konzulat Mongolije",
+      "latitude": 45.799607,
+      "longitude": 15.957809
+    },
+    {
+      "name": "Konzulat Novog Zelanda",
+      "latitude": 45.813579,
+      "longitude": 15.98459
+    },
+    {
+      "name": "Konzulat Republike Albanije",
+      "latitude": 42.647272,
+      "longitude": 18.093178
+    },
+    {
+      "name": "Konzulat Republike Albanije",
+      "latitude": 45.554192,
+      "longitude": 18.683252
+    },
+    {
+      "name": "Konzulat Republike Austrije",
+      "latitude": 45.326395,
+      "longitude": 14.444045
+    },
+    {
+      "name": "Konzulat Republike Bjelarus",
+      "latitude": 45.354257,
+      "longitude": 14.365578
+    },
+    {
+      "name": "Konzulat Republike Bjelorusije",
+      "latitude": 43.491771,
+      "longitude": 16.538128
+    },
+    {
+      "name": "Konzulat Republike Bocvane",
+      "latitude": 45.808865,
+      "longitude": 15.991622
+    },
+    {
+      "name": "Konzulat Republike Bugarske",
+      "latitude": 43.523792,
+      "longitude": 16.449514
+    },
+    {
+      "name": "Konzulat Republike Côte d'Ivoire",
+      "latitude": 45.799392,
+      "longitude": 15.89631
+    },
+    {
+      "name": "Konzulat Republike Ekvador",
+      "latitude": 45.802644,
+      "longitude": 15.953635
+    },
+    {
+      "name": "Konzulat Republike Estonije",
+      "latitude": 45.813325,
+      "longitude": 15.979455
+    },
+    {
+      "name": "Konzulat Republike Finske",
+      "latitude": 42.65161,
+      "longitude": 18.092166
+    },
+    {
+      "name": "Konzulat Republike Finske",
+      "latitude": 43.512501,
+      "longitude": 16.44177
+    },
+    {
+      "name": "Konzulat Republike Finske",
+      "latitude": 45.322978,
+      "longitude": 14.460341
+    },
+    {
+      "name": "Konzulat Republike Finske",
+      "latitude": 45.556501,
+      "longitude": 18.671774
+    },
+    {
+      "name": "Konzulat Republike Finske",
+      "latitude": 45.811289,
+      "longitude": 15.976871
+    },
+    {
+      "name": "Konzulat Republike Jemen",
+      "latitude": 45.81208,
+      "longitude": 15.992351
+    },
+    {
+      "name": "Konzulat Republike Južne Afrike",
+      "latitude": 45.819199,
+      "longitude": 15.981178
+    },
+    {
+      "name": "Konzulat Republike Kazahstan",
+      "latitude": 42.669487,
+      "longitude": 18.128094
+    },
+    {
+      "name": "Konzulat Republike Kazahstan",
+      "latitude": 43.508357,
+      "longitude": 16.437436
+    },
+    {
+      "name": "Konzulat Republike Kazahstan",
+      "latitude": 45.441286,
+      "longitude": 13.517337
+    },
+    {
+      "name": "Konzulat Republike Latvije",
+      "latitude": 45.819136,
+      "longitude": 16.033898
+    },
+    {
+      "name": "Konzulat Republike Litve",
+      "latitude": 44.286368,
+      "longitude": 15.448055
+    },
+    {
+      "name": "Konzulat Republike Moldove",
+      "latitude": 45.812676,
+      "longitude": 15.985544
+    },
+    {
+      "name": "Konzulat Republike Moldove",
+      "latitude": 46.307583,
+      "longitude": 16.341071
+    },
+    {
+      "name": "Konzulat Republike Namibije",
+      "latitude": 45.856184,
+      "longitude": 15.973437
+    },
+    {
+      "name": "Konzulat Republike Poljske",
+      "latitude": 43.512228,
+      "longitude": 16.441326
+    },
+    {
+      "name": "Konzulat Republike Sjeverne Makedonije",
+      "latitude": 44.113081,
+      "longitude": 15.228547
+    },
+    {
+      "name": "Konzulat Republike Sjeverne Makedonije",
+      "latitude": 45.323627,
+      "longitude": 14.44369
+    },
+    {
+      "name": "Konzulat Republike Sudan",
+      "latitude": 45.817725,
+      "longitude": 15.982042
+    },
+    {
+      "name": "Konzulat Republike Tunis",
+      "latitude": 45.802232,
+      "longitude": 15.976036
+    },
+    {
+      "name": "Konzulat Republike Čile",
+      "latitude": 43.519949,
+      "longitude": 16.469247
+    },
+    {
+      "name": "Konzulat Rumunjske",
+      "latitude": 43.509441,
+      "longitude": 16.444852
+    },
+    {
+      "name": "Konzulat Rumunjske",
+      "latitude": 45.326336,
+      "longitude": 14.443407
+    },
+    {
+      "name": "Konzulat Ruske Federacije",
+      "latitude": 42.651941,
+      "longitude": 18.093032
+    },
+    {
+      "name": "Konzulat Ruske Federacije",
+      "latitude": 43.516869,
+      "longitude": 16.440568
+    },
+    {
+      "name": "Konzulat Ruske Federacije",
+      "latitude": 44.871492,
+      "longitude": 13.845845
+    },
+    {
+      "name": "Konzulat San Marina",
+      "latitude": 45.828374,
+      "longitude": 15.976292
+    },
+    {
+      "name": "Konzulat Savezne Republike Brazil",
+      "latitude": 43.504955,
+      "longitude": 16.428116
+    },
+    {
+      "name": "Konzulat Savezne Republike Njemačke",
+      "latitude": 45.540759,
+      "longitude": 18.648863
+    },
+    {
+      "name": "Konzulat Sirijske Arapske Republike",
+      "latitude": 45.817845,
+      "longitude": 15.978117
+    },
+    {
+      "name": "Konzulat Sjedinjenih Meksičkih Država",
+      "latitude": 43.504496,
+      "longitude": 16.412121
+    },
+    {
+      "name": "Konzulat Sjedinjenih Meksičkih Država",
+      "latitude": 45.834549,
+      "longitude": 15.972549
+    },
+    {
+      "name": "Konzulat Slovačke Republike",
+      "latitude": 43.514452,
+      "longitude": 16.444143
+    },
+    {
+      "name": "Konzulat Slovačke Republike",
+      "latitude": 45.557001,
+      "longitude": 18.681453
+    },
+    {
+      "name": "Konzulat Sultanata Oman",
+      "latitude": 45.809365,
+      "longitude": 15.988526
+    },
+    {
+      "name": "Konzulat Talijanske Republike",
+      "latitude": 42.645157,
+      "longitude": 18.090833
+    },
+    {
+      "name": "Konzulat Talijanske Republike",
+      "latitude": 43.508027,
+      "longitude": 16.438163
+    },
+    {
+      "name": "Konzulat Talijanske Republike",
+      "latitude": 44.865032,
+      "longitude": 13.846984
+    },
+    {
+      "name": "Konzulat Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske",
+      "latitude": 43.508052,
+      "longitude": 16.438081
+    },
+    {
+      "name": "Konzulat Ukrajine",
+      "latitude": 43.508378,
+      "longitude": 16.43732
+    },
+    {
+      "name": "Konzulat Ukrajine",
+      "latitude": 45.217879,
+      "longitude": 14.563998
+    },
+    {
+      "name": "Konzulat Švicarske Konfederacije",
+      "latitude": 43.49818,
+      "longitude": 16.535733
+    },
+    {
+      "name": "Konzulat Švicarske Konfederacije",
+      "latitude": 45.09111,
+      "longitude": 13.845367
+    },
+    {
+      "name": "Počasni konzulat Irske",
+      "latitude": 43.507055,
+      "longitude": 16.48494
+    },
+    {
+      "name": "Počasni konzulat Republike Peru",
+      "latitude": 45.802387,
+      "longitude": 15.966778
+    },
+    {
+      "name": "Počasni konzulat Češke Republike",
+      "latitude": 45.327454,
+      "longitude": 14.441079
+    },
+    {
+      "name": "Republica de Colombia consulado",
+      "latitude": 45.805385,
+      "longitude": 15.953564
+    },
+    {
+      "name": "Veleposlanstvo Alžirske Narodne Demokratske Republike",
+      "latitude": 45.822253,
+      "longitude": 15.989321
+    },
+    {
+      "name": "Veleposlanstvo Arapske Republike Egipat",
+      "latitude": 45.819238,
+      "longitude": 15.989748
+    },
+    {
+      "name": "Veleposlanstvo Australije",
+      "latitude": 45.804546,
+      "longitude": 15.995593
+    },
+    {
+      "name": "Veleposlanstvo Bosne i Hercegovine",
+      "latitude": 45.829933,
+      "longitude": 15.962029
+    },
+    {
+      "name": "Veleposlanstvo Crne Gore",
+      "latitude": 45.815212,
+      "longitude": 15.961705
+    },
+    {
+      "name": "Veleposlanstvo Države Izrael",
+      "latitude": 45.802889,
+      "longitude": 16.009097
+    },
+    {
+      "name": "Veleposlanstvo Države Katar",
+      "latitude": 45.823648,
+      "longitude": 15.988365
+    },
+    {
+      "name": "Veleposlanstvo Francuske Republike",
+      "latitude": 45.809477,
+      "longitude": 15.97759
+    },
+    {
+      "name": "Veleposlanstvo Helenske Republike",
+      "latitude": 45.817379,
+      "longitude": 15.974938
+    },
+    {
+      "name": "Veleposlanstvo Irske",
+      "latitude": 45.802081,
+      "longitude": 15.974745
+    },
+    {
+      "name": "Veleposlanstvo Islamske Republike Iran",
+      "latitude": 45.81649,
+      "longitude": 15.967816
+    },
+    {
+      "name": "Veleposlanstvo Japana",
+      "latitude": 45.809301,
+      "longitude": 15.979521
+    },
+    {
+      "name": "Veleposlanstvo Kanade",
+      "latitude": 45.81045,
+      "longitude": 15.968281
+    },
+    {
+      "name": "Veleposlanstvo Kraljevine Belgije",
+      "latitude": 45.827207,
+      "longitude": 15.96099
+    },
+    {
+      "name": "Veleposlanstvo Kraljevine Danske",
+      "latitude": 45.80967,
+      "longitude": 15.979491
+    },
+    {
+      "name": "Veleposlanstvo Kraljevine Maroko",
+      "latitude": 45.84119,
+      "longitude": 15.958488
+    },
+    {
+      "name": "Veleposlanstvo Kraljevine Nizozemske",
+      "latitude": 45.813075,
+      "longitude": 15.979504
+    },
+    {
+      "name": "Veleposlanstvo Kraljevine Norveške",
+      "latitude": 45.804394,
+      "longitude": 15.995541
+    },
+    {
+      "name": "Veleposlanstvo Kraljevine Španjolske",
+      "latitude": 45.826639,
+      "longitude": 15.971266
+    },
+    {
+      "name": "Veleposlanstvo Kraljevine Švedske",
+      "latitude": 45.803657,
+      "longitude": 15.989478
+    },
+    {
+      "name": "Veleposlanstvo Libije",
+      "latitude": 45.843381,
+      "longitude": 15.966853
+    },
+    {
+      "name": "Veleposlanstvo Malezije",
+      "latitude": 45.826531,
+      "longitude": 15.97251
+    },
+    {
+      "name": "Veleposlanstvo Mađarske",
+      "latitude": 45.821901,
+      "longitude": 15.970547
+    },
+    {
+      "name": "Veleposlanstvo Narodne Republike Kine",
+      "latitude": 45.851252,
+      "longitude": 15.959633
+    },
+    {
+      "name": "Veleposlanstvo Portugalske Republike",
+      "latitude": 45.808564,
+      "longitude": 15.975418
+    },
+    {
+      "name": "Veleposlanstvo Republike Albanije",
+      "latitude": 45.803653,
+      "longitude": 15.989338
+    },
+    {
+      "name": "Veleposlanstvo Republike Austrije",
+      "latitude": 45.800873,
+      "longitude": 16.007222
+    },
+    {
+      "name": "Veleposlanstvo Republike Azerbajdžan",
+      "latitude": 45.825894,
+      "longitude": 15.992761
+    },
+    {
+      "name": "Veleposlanstvo Republike Bugarske",
+      "latitude": 45.816188,
+      "longitude": 15.965561
+    },
+    {
+      "name": "Veleposlanstvo Republike Finske",
+      "latitude": 45.802141,
+      "longitude": 15.974732
+    },
+    {
+      "name": "Veleposlanstvo Republike Indije",
+      "latitude": 45.845378,
+      "longitude": 15.937878
+    },
+    {
+      "name": "Veleposlanstvo Republike Indonezije",
+      "latitude": 45.824897,
+      "longitude": 15.980787
+    },
+    {
+      "name": "Veleposlanstvo Republike Irak",
+      "latitude": 45.82227,
+      "longitude": 15.970272
+    },
+    {
+      "name": "Veleposlanstvo Republike Kazahstan",
+      "latitude": 45.815735,
+      "longitude": 15.958935
+    },
+    {
+      "name": "Veleposlanstvo Republike Koreje",
+      "latitude": 45.83993,
+      "longitude": 15.975043
+    },
+    {
+      "name": "Veleposlanstvo Republike Kosovo",
+      "latitude": 45.814743,
+      "longitude": 15.998853
+    },
+    {
+      "name": "Veleposlanstvo Republike Litve",
+      "latitude": 45.798438,
+      "longitude": 15.970033
+    },
+    {
+      "name": "Veleposlanstvo Republike Poljske",
+      "latitude": 45.802216,
+      "longitude": 15.974716
+    },
+    {
+      "name": "Veleposlanstvo Republike Sjeverne Makedonije",
+      "latitude": 45.809852,
+      "longitude": 15.98905
+    },
+    {
+      "name": "Veleposlanstvo Republike Slovenije",
+      "latitude": 45.826852,
+      "longitude": 15.983598
+    },
+    {
+      "name": "Veleposlanstvo Republike Srbije",
+      "latitude": 45.826918,
+      "longitude": 15.972691
+    },
+    {
+      "name": "Veleposlanstvo Republike Turske",
+      "latitude": 45.80919,
+      "longitude": 15.97301
+    },
+    {
+      "name": "Veleposlanstvo Republike Čile",
+      "latitude": 45.802332,
+      "longitude": 16.002875
+    },
+    {
+      "name": "Veleposlanstvo Rumunjske",
+      "latitude": 45.827854,
+      "longitude": 15.977454
+    },
+    {
+      "name": "Veleposlanstvo Ruske Federacije",
+      "latitude": 45.818083,
+      "longitude": 15.958981
+    },
+    {
+      "name": "Veleposlanstvo Savezne Republike Brazil",
+      "latitude": 45.812947,
+      "longitude": 15.985018
+    },
+    {
+      "name": "Veleposlanstvo Savezne Republike Njemačke",
+      "latitude": 45.799166,
+      "longitude": 15.969344
+    },
+    {
+      "name": "Veleposlanstvo Sjedinjenih Američkih Država",
+      "latitude": 45.744259,
+      "longitude": 16.003543
+    },
+    {
+      "name": "Veleposlanstvo Slovačke Republike",
+      "latitude": 45.810473,
+      "longitude": 15.967736
+    },
+    {
+      "name": "Veleposlanstvo Suverenog malteškog reda",
+      "latitude": 45.807971,
+      "longitude": 15.977743
+    },
+    {
+      "name": "Veleposlanstvo Talijanske Republike",
+      "latitude": 45.810864,
+      "longitude": 15.966715
+    },
+    {
+      "name": "Veleposlanstvo Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske",
+      "latitude": 45.79777,
+      "longitude": 15.970028
+    },
+    {
+      "name": "Veleposlanstvo Ukrajine",
+      "latitude": 45.817526,
+      "longitude": 15.990348
+    },
+    {
+      "name": "Veleposlanstvo Češke Republike",
+      "latitude": 45.802367,
+      "longitude": 16.005686
+    },
+    {
+      "name": "Veleposlanstvo Švicarske Konfederacije",
+      "latitude": 45.81299,
+      "longitude": 15.980183
+    },
+    {
+      "name": "Veľvyslanectvo Slovenskej republiky v Chorvátskej republike - Vysunutý konzulárny úrad Zadar",
+      "latitude": 44.11387,
+      "longitude": 15.228352
+    },
+    {
+      "name": "Vicekonzulat Talijanske Republike",
+      "latitude": 45.408799,
+      "longitude": 13.657887
+    }
+  ],
+  "meta": {
+    "title": "Diplomatska predstavništva - Besplatno preuzimanje",
+    "description": "Diplomatska predstavništva u Hrvatskoj (158 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=diplomatic), izrez EU-POIS/HR. Sadrži 158 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Diplomatska predstavništva | ListBase",
+    "seo_description": "Preuzmi Diplomatska predstavništva — 158 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 158 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

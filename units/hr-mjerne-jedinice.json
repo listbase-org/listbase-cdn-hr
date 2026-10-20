@@ -1,0 +1,2140 @@
+{
+  "id": "hr-mjerne-jedinice",
+  "name": "Mjerne jedinice — hrvatski nazivi (CLDR)",
+  "title": "Mjerne jedinice — hrvatski nazivi (CLDR)",
+  "description": "Popis mjernih jedinica iz CLDR hr lokala s dugim nazivom (naziv), kraticom (kratica) i uskim oblikom (naziv_uski) te obrascem prikaza.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 231,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategorija": "acceleration",
+      "naziv": "G",
+      "kratica": "G",
+      "naziv_uski": "G",
+      "obrazac": "{0} G"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategorija": "acceleration",
+      "naziv": "metri u sekundi na kvadrat",
+      "kratica": "m/s²",
+      "naziv_uski": "m/s²",
+      "obrazac": "{0} metara u sekundi na kvadrat"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-arc-minute",
+      "kategorija": "angle",
+      "naziv": "kutne minute",
+      "kratica": "min",
+      "naziv_uski": "kutna minuta",
+      "obrazac": "{0} kutnih minuta"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-arc-second",
+      "kategorija": "angle",
+      "naziv": "kutne sekunde",
+      "kratica": "s",
+      "naziv_uski": "s",
+      "obrazac": "{0} kutnih sekundi"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-degree",
+      "kategorija": "angle",
+      "naziv": "stupnjevi",
+      "kratica": "°",
+      "naziv_uski": "°",
+      "obrazac": "{0} stupnjeva"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-radian",
+      "kategorija": "angle",
+      "naziv": "radijani",
+      "kratica": "rad",
+      "naziv_uski": "rad",
+      "obrazac": "{0} radijana"
+    },
+    {
+      "id": 7,
+      "unit_code": "angle-revolution",
+      "kategorija": "angle",
+      "naziv": "okretaj",
+      "kratica": "okr.",
+      "naziv_uski": "okr.",
+      "obrazac": "{0} okretaja"
+    },
+    {
+      "id": 8,
+      "unit_code": "angle-steradian",
+      "kategorija": "angle",
+      "naziv": "steradijani",
+      "kratica": "sr",
+      "naziv_uski": "sr",
+      "obrazac": "{0} steradijana"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-acre",
+      "kategorija": "area",
+      "naziv": "katastarska jutra",
+      "kratica": "kj",
+      "naziv_uski": "kj",
+      "obrazac": "{0} katastarskih jutara"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-bu-jp",
+      "kategorija": "area",
+      "naziv": "bu [JP]",
+      "kratica": "bu [JP]",
+      "naziv_uski": "bu [JP]",
+      "obrazac": "{0} bu [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-cho",
+      "kategorija": "area",
+      "naziv": "cho [JP]",
+      "kratica": "cho [JP]",
+      "naziv_uski": "cho [JP]",
+      "obrazac": "{0} cho [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-dunam",
+      "kategorija": "area",
+      "naziv": "dunami",
+      "kratica": "dunami",
+      "naziv_uski": "dunam",
+      "obrazac": "{0} dunama"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-hectare",
+      "kategorija": "area",
+      "naziv": "hektari",
+      "kratica": "ha",
+      "naziv_uski": "ha",
+      "obrazac": "{0} hektara"
+    },
+    {
+      "id": 14,
+      "unit_code": "area-se-jp",
+      "kategorija": "area",
+      "naziv": "se [JP]",
+      "kratica": "se [JP]",
+      "naziv_uski": "se [JP]",
+      "obrazac": "{0} se [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "area-square-centimeter",
+      "kategorija": "area",
+      "naziv": "kvadratni centimetri",
+      "kratica": "cm²",
+      "naziv_uski": "cm²",
+      "obrazac": "{0} kvadratnih centimetara"
+    },
+    {
+      "id": 16,
+      "unit_code": "area-square-foot",
+      "kategorija": "area",
+      "naziv": "kvadratne stope",
+      "kratica": "ft²",
+      "naziv_uski": "ft²",
+      "obrazac": "{0} kvadratnih stopa"
+    },
+    {
+      "id": 17,
+      "unit_code": "area-square-inch",
+      "kategorija": "area",
+      "naziv": "kvadratni inči",
+      "kratica": "in²",
+      "naziv_uski": "in²",
+      "obrazac": "{0} kvadratnih inča"
+    },
+    {
+      "id": 18,
+      "unit_code": "area-square-kilometer",
+      "kategorija": "area",
+      "naziv": "kvadratni kilometri",
+      "kratica": "km²",
+      "naziv_uski": "km²",
+      "obrazac": "{0} kvadratnih kilometara"
+    },
+    {
+      "id": 19,
+      "unit_code": "area-square-meter",
+      "kategorija": "area",
+      "naziv": "kvadratni metri",
+      "kratica": "m²",
+      "naziv_uski": "m²",
+      "obrazac": "{0} kvadratnih metara"
+    },
+    {
+      "id": 20,
+      "unit_code": "area-square-mile",
+      "kategorija": "area",
+      "naziv": "kvadratne milje",
+      "kratica": "mi²",
+      "naziv_uski": "mi²",
+      "obrazac": "{0} kvadratnih milja"
+    },
+    {
+      "id": 21,
+      "unit_code": "area-square-yard",
+      "kategorija": "area",
+      "naziv": "kvadratni jardi",
+      "kratica": "yd²",
+      "naziv_uski": "yd²",
+      "obrazac": "{0} kvadratnih jardi"
+    },
+    {
+      "id": 22,
+      "unit_code": "concentr-item",
+      "kategorija": "concentr",
+      "naziv": "stavke",
+      "kratica": "stavka",
+      "naziv_uski": "stavka",
+      "obrazac": "{0} stavki"
+    },
+    {
+      "id": 23,
+      "unit_code": "concentr-karat",
+      "kategorija": "concentr",
+      "naziv": "karati",
+      "kratica": "kt",
+      "naziv_uski": "kt",
+      "obrazac": "{0} karata"
+    },
+    {
+      "id": 24,
+      "unit_code": "concentr-katal",
+      "kategorija": "concentr",
+      "naziv": "katali",
+      "kratica": "kat",
+      "naziv_uski": "kat",
+      "obrazac": "{0} katala"
+    },
+    {
+      "id": 25,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategorija": "concentr",
+      "naziv": "miligrami po decilitru",
+      "kratica": "mg/dl",
+      "naziv_uski": "mg/dl",
+      "obrazac": "{0} miligrama po decilitru"
+    },
+    {
+      "id": 26,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategorija": "concentr",
+      "naziv": "milimoli po litri",
+      "kratica": "mmol/l",
+      "naziv_uski": "mmol/l",
+      "obrazac": "{0} milimola po litri"
+    },
+    {
+      "id": 27,
+      "unit_code": "concentr-mole",
+      "kategorija": "concentr",
+      "naziv": "moli",
+      "kratica": "mol",
+      "naziv_uski": "mol",
+      "obrazac": "{0} mola"
+    },
+    {
+      "id": 28,
+      "unit_code": "concentr-ofglucose",
+      "kategorija": "concentr",
+      "naziv": "glukoze",
+      "kratica": "Glc",
+      "naziv_uski": "Glc",
+      "obrazac": "{0} glukoze"
+    },
+    {
+      "id": 29,
+      "unit_code": "concentr-part",
+      "kategorija": "concentr",
+      "naziv": "dijelovi",
+      "kratica": "dio",
+      "naziv_uski": "dio",
+      "obrazac": "{0} dijelova"
+    },
+    {
+      "id": 30,
+      "unit_code": "concentr-part-per-1e6",
+      "kategorija": "concentr",
+      "naziv": "dijelovi na milijun",
+      "kratica": "ppm",
+      "naziv_uski": "ppm",
+      "obrazac": "{0} dijelova na milijun"
+    },
+    {
+      "id": 31,
+      "unit_code": "concentr-part-per-1e9",
+      "kategorija": "concentr",
+      "naziv": "dijelovi na milijardu",
+      "kratica": "dijelovi/milijarda",
+      "naziv_uski": "dijelovi/milijarda",
+      "obrazac": "{0} dijelova na milijardu"
+    },
+    {
+      "id": 32,
+      "unit_code": "concentr-percent",
+      "kategorija": "concentr",
+      "naziv": "postotak",
+      "kratica": "%",
+      "naziv_uski": "%",
+      "obrazac": "{0} posto"
+    },
+    {
+      "id": 33,
+      "unit_code": "concentr-permille",
+      "kategorija": "concentr",
+      "naziv": "promil",
+      "kratica": "‰",
+      "naziv_uski": "‰",
+      "obrazac": "{0} promila"
+    },
+    {
+      "id": 34,
+      "unit_code": "concentr-permyriad",
+      "kategorija": "concentr",
+      "naziv": "permyriad",
+      "kratica": "‱",
+      "naziv_uski": "‱",
+      "obrazac": "{0} permyriada"
+    },
+    {
+      "id": 35,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategorija": "consumption",
+      "naziv": "litre na 100 kilometara",
+      "kratica": "l/100 km",
+      "naziv_uski": "l/100 km",
+      "obrazac": "{0} litara na 100 kilometara"
+    },
+    {
+      "id": 36,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategorija": "consumption",
+      "naziv": "litre po kilometru",
+      "kratica": "l/km",
+      "naziv_uski": "l/km",
+      "obrazac": "{0} litara po kilometru"
+    },
+    {
+      "id": 37,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategorija": "consumption",
+      "naziv": "milje po galonu",
+      "kratica": "mpg",
+      "naziv_uski": "mpg",
+      "obrazac": "{0} milja po galonu"
+    },
+    {
+      "id": 38,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategorija": "consumption",
+      "naziv": "milje po imp. galonu",
+      "kratica": "milje/imp. gal.",
+      "naziv_uski": "milje/imp. gal.",
+      "obrazac": "{0} milja po imp. galonu"
+    },
+    {
+      "id": 39,
+      "unit_code": "digital-bit",
+      "kategorija": "digital",
+      "naziv": "bitovi",
+      "kratica": "bit",
+      "naziv_uski": "bit",
+      "obrazac": "{0} bitova"
+    },
+    {
+      "id": 40,
+      "unit_code": "digital-byte",
+      "kategorija": "digital",
+      "naziv": "bajtovi",
+      "kratica": "bajt",
+      "naziv_uski": "bajt",
+      "obrazac": "{0} bajtova"
+    },
+    {
+      "id": 41,
+      "unit_code": "digital-gigabit",
+      "kategorija": "digital",
+      "naziv": "gigabiti",
+      "kratica": "Gb",
+      "naziv_uski": "Gb",
+      "obrazac": "{0} gigabita"
+    },
+    {
+      "id": 42,
+      "unit_code": "digital-gigabyte",
+      "kategorija": "digital",
+      "naziv": "gigabajti",
+      "kratica": "GB",
+      "naziv_uski": "GB",
+      "obrazac": "{0} gigabajta"
+    },
+    {
+      "id": 43,
+      "unit_code": "digital-kilobit",
+      "kategorija": "digital",
+      "naziv": "kilobiti",
+      "kratica": "kb",
+      "naziv_uski": "kb",
+      "obrazac": "{0} kilobita"
+    },
+    {
+      "id": 44,
+      "unit_code": "digital-kilobyte",
+      "kategorija": "digital",
+      "naziv": "kilobajti",
+      "kratica": "kB",
+      "naziv_uski": "kB",
+      "obrazac": "{0} kilobajta"
+    },
+    {
+      "id": 45,
+      "unit_code": "digital-megabit",
+      "kategorija": "digital",
+      "naziv": "megabiti",
+      "kratica": "Mb",
+      "naziv_uski": "Mb",
+      "obrazac": "{0} megabita"
+    },
+    {
+      "id": 46,
+      "unit_code": "digital-megabyte",
+      "kategorija": "digital",
+      "naziv": "megabajti",
+      "kratica": "MB",
+      "naziv_uski": "MB",
+      "obrazac": "{0} megabajta"
+    },
+    {
+      "id": 47,
+      "unit_code": "digital-petabyte",
+      "kategorija": "digital",
+      "naziv": "petabajti",
+      "kratica": "PB",
+      "naziv_uski": "PB",
+      "obrazac": "{0} petabajta"
+    },
+    {
+      "id": 48,
+      "unit_code": "digital-terabit",
+      "kategorija": "digital",
+      "naziv": "terabiti",
+      "kratica": "Tb",
+      "naziv_uski": "Tb",
+      "obrazac": "{0} terabita"
+    },
+    {
+      "id": 49,
+      "unit_code": "digital-terabyte",
+      "kategorija": "digital",
+      "naziv": "terabajti",
+      "kratica": "TB",
+      "naziv_uski": "TB",
+      "obrazac": "{0} terabajta"
+    },
+    {
+      "id": 50,
+      "unit_code": "duration-century",
+      "kategorija": "duration",
+      "naziv": "stoljeća",
+      "kratica": "st.",
+      "naziv_uski": "st.",
+      "obrazac": "{0} stoljeća"
+    },
+    {
+      "id": 51,
+      "unit_code": "duration-day",
+      "kategorija": "duration",
+      "naziv": "dani",
+      "kratica": "dani",
+      "naziv_uski": "d.",
+      "obrazac": "{0} dana"
+    },
+    {
+      "id": 52,
+      "unit_code": "duration-decade",
+      "kategorija": "duration",
+      "naziv": "desetljeća",
+      "kratica": "des.",
+      "naziv_uski": "des.",
+      "obrazac": "{0} desetljeća"
+    },
+    {
+      "id": 53,
+      "unit_code": "duration-fortnight",
+      "kategorija": "duration",
+      "naziv": "fortnight",
+      "kratica": "fortnight",
+      "naziv_uski": "fortnight",
+      "obrazac": "{0} fw"
+    },
+    {
+      "id": 54,
+      "unit_code": "duration-hour",
+      "kategorija": "duration",
+      "naziv": "sati",
+      "kratica": "h",
+      "naziv_uski": "h",
+      "obrazac": "{0} sati"
+    },
+    {
+      "id": 55,
+      "unit_code": "duration-microsecond",
+      "kategorija": "duration",
+      "naziv": "mikrosekunde",
+      "kratica": "μs",
+      "naziv_uski": "μs",
+      "obrazac": "{0} mikrosekundi"
+    },
+    {
+      "id": 56,
+      "unit_code": "duration-millisecond",
+      "kategorija": "duration",
+      "naziv": "milisekunde",
+      "kratica": "ms",
+      "naziv_uski": "ms",
+      "obrazac": "{0} milisekundi"
+    },
+    {
+      "id": 57,
+      "unit_code": "duration-minute",
+      "kategorija": "duration",
+      "naziv": "minute",
+      "kratica": "min",
+      "naziv_uski": "min",
+      "obrazac": "{0} minuta"
+    },
+    {
+      "id": 58,
+      "unit_code": "duration-month",
+      "kategorija": "duration",
+      "naziv": "mjeseci",
+      "kratica": "mj.",
+      "naziv_uski": "mj.",
+      "obrazac": "{0} mjeseci"
+    },
+    {
+      "id": 59,
+      "unit_code": "duration-nanosecond",
+      "kategorija": "duration",
+      "naziv": "nanosekunde",
+      "kratica": "ns",
+      "naziv_uski": "ns",
+      "obrazac": "{0} nanosekundi"
+    },
+    {
+      "id": 60,
+      "unit_code": "duration-night",
+      "kategorija": "duration",
+      "naziv": "noći",
+      "kratica": "noć",
+      "naziv_uski": "noć",
+      "obrazac": "{0} noći"
+    },
+    {
+      "id": 61,
+      "unit_code": "duration-quarter",
+      "kategorija": "duration",
+      "naziv": "četvrtine",
+      "kratica": "čet.",
+      "naziv_uski": "čet.",
+      "obrazac": "{0} četvrtina"
+    },
+    {
+      "id": 62,
+      "unit_code": "duration-second",
+      "kategorija": "duration",
+      "naziv": "sekunde",
+      "kratica": "s",
+      "naziv_uski": "s",
+      "obrazac": "{0} sekundi"
+    },
+    {
+      "id": 63,
+      "unit_code": "duration-week",
+      "kategorija": "duration",
+      "naziv": "tjedni",
+      "kratica": "tj.",
+      "naziv_uski": "tj.",
+      "obrazac": "{0} tjedana"
+    },
+    {
+      "id": 64,
+      "unit_code": "duration-year",
+      "kategorija": "duration",
+      "naziv": "godine",
+      "kratica": "g.",
+      "naziv_uski": "g.",
+      "obrazac": "{0} godina"
+    },
+    {
+      "id": 65,
+      "unit_code": "electric-ampere",
+      "kategorija": "electric",
+      "naziv": "amperi",
+      "kratica": "A",
+      "naziv_uski": "A",
+      "obrazac": "{0} ampera"
+    },
+    {
+      "id": 66,
+      "unit_code": "electric-coulomb",
+      "kategorija": "electric",
+      "naziv": "kuloni",
+      "kratica": "C",
+      "naziv_uski": "C",
+      "obrazac": "{0} kulona"
+    },
+    {
+      "id": 67,
+      "unit_code": "electric-farad",
+      "kategorija": "electric",
+      "naziv": "faradi",
+      "kratica": "F",
+      "naziv_uski": "F",
+      "obrazac": "{0} farada"
+    },
+    {
+      "id": 68,
+      "unit_code": "electric-henry",
+      "kategorija": "electric",
+      "naziv": "henriji",
+      "kratica": "H",
+      "naziv_uski": "H",
+      "obrazac": "{0} henrija"
+    },
+    {
+      "id": 69,
+      "unit_code": "electric-milliampere",
+      "kategorija": "electric",
+      "naziv": "miliamperi",
+      "kratica": "mA",
+      "naziv_uski": "mA",
+      "obrazac": "{0} miliampera"
+    },
+    {
+      "id": 70,
+      "unit_code": "electric-ohm",
+      "kategorija": "electric",
+      "naziv": "omi",
+      "kratica": "Ω",
+      "naziv_uski": "Ω",
+      "obrazac": "{0} oma"
+    },
+    {
+      "id": 71,
+      "unit_code": "electric-siemens",
+      "kategorija": "electric",
+      "naziv": "simensi",
+      "kratica": "S",
+      "naziv_uski": "S",
+      "obrazac": "{0} S"
+    },
+    {
+      "id": 72,
+      "unit_code": "electric-volt",
+      "kategorija": "electric",
+      "naziv": "volti",
+      "kratica": "V",
+      "naziv_uski": "V",
+      "obrazac": "{0} volti"
+    },
+    {
+      "id": 73,
+      "unit_code": "energy-becquerel",
+      "kategorija": "energy",
+      "naziv": "bekereli",
+      "kratica": "Bq",
+      "naziv_uski": "Bq",
+      "obrazac": "{0} bekerela"
+    },
+    {
+      "id": 74,
+      "unit_code": "energy-british-thermal-unit",
+      "kategorija": "energy",
+      "naziv": "britanske termalne jedinice",
+      "kratica": "BTU",
+      "naziv_uski": "BTU",
+      "obrazac": "{0} britanskih termalnih jedinica"
+    },
+    {
+      "id": 75,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategorija": "energy",
+      "naziv": "BTU-IT",
+      "kratica": "BTU-IT",
+      "naziv_uski": "BTU-IT",
+      "obrazac": "{0} BTU-IT"
+    },
+    {
+      "id": 76,
+      "unit_code": "energy-calorie",
+      "kategorija": "energy",
+      "naziv": "kalorije",
+      "kratica": "cal",
+      "naziv_uski": "cal",
+      "obrazac": "{0} kalorija"
+    },
+    {
+      "id": 77,
+      "unit_code": "energy-calorie-it",
+      "kategorija": "energy",
+      "naziv": "kalorije [IT]",
+      "kratica": "cal [IT]",
+      "naziv_uski": "cal [IT]",
+      "obrazac": "{0} kalorija [IT]"
+    },
+    {
+      "id": 78,
+      "unit_code": "energy-electronvolt",
+      "kategorija": "energy",
+      "naziv": "elektronvolti",
+      "kratica": "eV",
+      "naziv_uski": "eV",
+      "obrazac": "{0} elektronvolta"
+    },
+    {
+      "id": 79,
+      "unit_code": "energy-foodcalorie",
+      "kategorija": "energy",
+      "naziv": "kilokalorije",
+      "kratica": "",
+      "naziv_uski": "",
+      "obrazac": "{0} kilokalorija"
+    },
+    {
+      "id": 80,
+      "unit_code": "energy-gray",
+      "kategorija": "energy",
+      "naziv": "greji",
+      "kratica": "Gy",
+      "naziv_uski": "Gy",
+      "obrazac": "{0} grejeva"
+    },
+    {
+      "id": 81,
+      "unit_code": "energy-joule",
+      "kategorija": "energy",
+      "naziv": "džuli",
+      "kratica": "J",
+      "naziv_uski": "J",
+      "obrazac": "{0} džula"
+    },
+    {
+      "id": 82,
+      "unit_code": "energy-kilocalorie",
+      "kategorija": "energy",
+      "naziv": "kilokalorije",
+      "kratica": "kcal",
+      "naziv_uski": "kcal",
+      "obrazac": "{0} kilokalorija"
+    },
+    {
+      "id": 83,
+      "unit_code": "energy-kilojoule",
+      "kategorija": "energy",
+      "naziv": "kilodžuli",
+      "kratica": "kJ",
+      "naziv_uski": "kJ",
+      "obrazac": "{0} kilodžula"
+    },
+    {
+      "id": 84,
+      "unit_code": "energy-kilowatt-hour",
+      "kategorija": "energy",
+      "naziv": "kilovatsati",
+      "kratica": "kWh",
+      "naziv_uski": "kWh",
+      "obrazac": "{0} kilovatsati"
+    },
+    {
+      "id": 85,
+      "unit_code": "energy-sievert",
+      "kategorija": "energy",
+      "naziv": "siverti",
+      "kratica": "Sv",
+      "naziv_uski": "Sv",
+      "obrazac": "{0} siverta"
+    },
+    {
+      "id": 86,
+      "unit_code": "energy-therm-us",
+      "kategorija": "energy",
+      "naziv": "SAD therm",
+      "kratica": "SAD therm",
+      "naziv_uski": "SAD therm",
+      "obrazac": "{0} SAD therma"
+    },
+    {
+      "id": 87,
+      "unit_code": "force-kilogram-force",
+      "kategorija": "force",
+      "naziv": "kilogram-sila",
+      "kratica": "kgf",
+      "naziv_uski": "kgf",
+      "obrazac": "{0} kilogram-sila"
+    },
+    {
+      "id": 88,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategorija": "force",
+      "naziv": "kilovatsat na 100 kilometara",
+      "kratica": "kWh/100 km",
+      "naziv_uski": "kWh/100km",
+      "obrazac": "{0} kilovatsati na 100 kilometara"
+    },
+    {
+      "id": 89,
+      "unit_code": "force-newton",
+      "kategorija": "force",
+      "naziv": "njutni",
+      "kratica": "N",
+      "naziv_uski": "N",
+      "obrazac": "{0} njutna"
+    },
+    {
+      "id": 90,
+      "unit_code": "force-pound-force",
+      "kategorija": "force",
+      "naziv": "funte sile",
+      "kratica": "lbf",
+      "naziv_uski": "lbf",
+      "obrazac": "{0} funti sile"
+    },
+    {
+      "id": 91,
+      "unit_code": "frequency-gigahertz",
+      "kategorija": "frequency",
+      "naziv": "gigaherci",
+      "kratica": "GHz",
+      "naziv_uski": "GHz",
+      "obrazac": "{0} gigaherca"
+    },
+    {
+      "id": 92,
+      "unit_code": "frequency-hertz",
+      "kategorija": "frequency",
+      "naziv": "herci",
+      "kratica": "Hz",
+      "naziv_uski": "Hz",
+      "obrazac": "{0} herca"
+    },
+    {
+      "id": 93,
+      "unit_code": "frequency-kilohertz",
+      "kategorija": "frequency",
+      "naziv": "kiloherci",
+      "kratica": "kHz",
+      "naziv_uski": "kHz",
+      "obrazac": "{0} kiloherca"
+    },
+    {
+      "id": 94,
+      "unit_code": "frequency-megahertz",
+      "kategorija": "frequency",
+      "naziv": "megaherci",
+      "kratica": "MHz",
+      "naziv_uski": "MHz",
+      "obrazac": "{0} megaherca"
+    },
+    {
+      "id": 95,
+      "unit_code": "graphics-dot",
+      "kategorija": "graphics",
+      "naziv": "točke",
+      "kratica": "pikseli",
+      "naziv_uski": "piksel",
+      "obrazac": "{0} točaka"
+    },
+    {
+      "id": 96,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategorija": "graphics",
+      "naziv": "točke po centimetru",
+      "kratica": "dpcm",
+      "naziv_uski": "dpcm",
+      "obrazac": "{0} točaka po centimetru"
+    },
+    {
+      "id": 97,
+      "unit_code": "graphics-dot-per-inch",
+      "kategorija": "graphics",
+      "naziv": "točke po inču",
+      "kratica": "dpi",
+      "naziv_uski": "dpi",
+      "obrazac": "{0} točaka po inču"
+    },
+    {
+      "id": 98,
+      "unit_code": "graphics-em",
+      "kategorija": "graphics",
+      "naziv": "tipografski em",
+      "kratica": "em",
+      "naziv_uski": "em",
+      "obrazac": "{0} tipografskih ema"
+    },
+    {
+      "id": 99,
+      "unit_code": "graphics-megapixel",
+      "kategorija": "graphics",
+      "naziv": "megapikseli",
+      "kratica": "MP",
+      "naziv_uski": "MP",
+      "obrazac": "{0} megapiksela"
+    },
+    {
+      "id": 100,
+      "unit_code": "graphics-pixel",
+      "kategorija": "graphics",
+      "naziv": "pikseli",
+      "kratica": "px",
+      "naziv_uski": "px",
+      "obrazac": "{0} piksela"
+    },
+    {
+      "id": 101,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategorija": "graphics",
+      "naziv": "pikseli po centimetru",
+      "kratica": "ppcm",
+      "naziv_uski": "ppcm",
+      "obrazac": "{0} piksela po centimetru"
+    },
+    {
+      "id": 102,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategorija": "graphics",
+      "naziv": "pikseli po inču",
+      "kratica": "ppi",
+      "naziv_uski": "ppi",
+      "obrazac": "{0} piksela po inču"
+    },
+    {
+      "id": 103,
+      "unit_code": "length-astronomical-unit",
+      "kategorija": "length",
+      "naziv": "astronomske jedinice",
+      "kratica": "au",
+      "naziv_uski": "au",
+      "obrazac": "{0} astronomskih jedinica"
+    },
+    {
+      "id": 104,
+      "unit_code": "length-centimeter",
+      "kategorija": "length",
+      "naziv": "centimetri",
+      "kratica": "cm",
+      "naziv_uski": "cm",
+      "obrazac": "{0} centimetara"
+    },
+    {
+      "id": 105,
+      "unit_code": "length-chain",
+      "kategorija": "length",
+      "naziv": "chain",
+      "kratica": "chain",
+      "naziv_uski": "chain",
+      "obrazac": "{0} chain"
+    },
+    {
+      "id": 106,
+      "unit_code": "length-decimeter",
+      "kategorija": "length",
+      "naziv": "decimetri",
+      "kratica": "dm",
+      "naziv_uski": "dm",
+      "obrazac": "{0} decimetara"
+    },
+    {
+      "id": 107,
+      "unit_code": "length-earth-radius",
+      "kategorija": "length",
+      "naziv": "srednji polumjer Zemlje",
+      "kratica": "R⊕",
+      "naziv_uski": "R⊕",
+      "obrazac": "{0} srednjih polumjera Zemlje"
+    },
+    {
+      "id": 108,
+      "unit_code": "length-fathom",
+      "kategorija": "length",
+      "naziv": "hvati",
+      "kratica": "hv",
+      "naziv_uski": "hv",
+      "obrazac": "{0} hvati"
+    },
+    {
+      "id": 109,
+      "unit_code": "length-foot",
+      "kategorija": "length",
+      "naziv": "stope",
+      "kratica": "stope",
+      "naziv_uski": "ft",
+      "obrazac": "{0} stopa"
+    },
+    {
+      "id": 110,
+      "unit_code": "length-furlong",
+      "kategorija": "length",
+      "naziv": "furlonzi",
+      "kratica": "furlonzi",
+      "naziv_uski": "fur",
+      "obrazac": "{0} furlonga"
+    },
+    {
+      "id": 111,
+      "unit_code": "length-inch",
+      "kategorija": "length",
+      "naziv": "inči",
+      "kratica": "inči",
+      "naziv_uski": "in",
+      "obrazac": "{0} inča"
+    },
+    {
+      "id": 112,
+      "unit_code": "length-jo-jp",
+      "kategorija": "length",
+      "naziv": "jo [JP]",
+      "kratica": "jo [JP]",
+      "naziv_uski": "jo [JP]",
+      "obrazac": "{0} jo [JP]"
+    },
+    {
+      "id": 113,
+      "unit_code": "length-ken",
+      "kategorija": "length",
+      "naziv": "ken [JP]",
+      "kratica": "ken [JP]",
+      "naziv_uski": "ken [JP]",
+      "obrazac": "{0} ken [JP]"
+    },
+    {
+      "id": 114,
+      "unit_code": "length-kilometer",
+      "kategorija": "length",
+      "naziv": "kilometri",
+      "kratica": "km",
+      "naziv_uski": "km",
+      "obrazac": "{0} kilometara"
+    },
+    {
+      "id": 115,
+      "unit_code": "length-light-year",
+      "kategorija": "length",
+      "naziv": "svjetlosne godine",
+      "kratica": "svjetlosne g.",
+      "naziv_uski": "ly",
+      "obrazac": "{0} svjetlosnih godina"
+    },
+    {
+      "id": 116,
+      "unit_code": "length-meter",
+      "kategorija": "length",
+      "naziv": "metri",
+      "kratica": "m",
+      "naziv_uski": "m",
+      "obrazac": "{0} metara"
+    },
+    {
+      "id": 117,
+      "unit_code": "length-micrometer",
+      "kategorija": "length",
+      "naziv": "mikrometri",
+      "kratica": "μm",
+      "naziv_uski": "μm",
+      "obrazac": "{0} mikrometara"
+    },
+    {
+      "id": 118,
+      "unit_code": "length-mile",
+      "kategorija": "length",
+      "naziv": "milje",
+      "kratica": "mi",
+      "naziv_uski": "mi",
+      "obrazac": "{0} milja"
+    },
+    {
+      "id": 119,
+      "unit_code": "length-mile-scandinavian",
+      "kategorija": "length",
+      "naziv": "skandinavska milja",
+      "kratica": "smi",
+      "naziv_uski": "smi",
+      "obrazac": "{0} skandinavskih milja"
+    },
+    {
+      "id": 120,
+      "unit_code": "length-millimeter",
+      "kategorija": "length",
+      "naziv": "milimetri",
+      "kratica": "mm",
+      "naziv_uski": "mm",
+      "obrazac": "{0} milimetara"
+    },
+    {
+      "id": 121,
+      "unit_code": "length-nanometer",
+      "kategorija": "length",
+      "naziv": "nanometri",
+      "kratica": "nm",
+      "naziv_uski": "nm",
+      "obrazac": "{0} nanometara"
+    },
+    {
+      "id": 122,
+      "unit_code": "length-nautical-mile",
+      "kategorija": "length",
+      "naziv": "nautičke milje",
+      "kratica": "nmi",
+      "naziv_uski": "nmi",
+      "obrazac": "{0} nautičkih milja"
+    },
+    {
+      "id": 123,
+      "unit_code": "length-parsec",
+      "kategorija": "length",
+      "naziv": "parseci",
+      "kratica": "pc",
+      "naziv_uski": "pc",
+      "obrazac": "{0} parseka"
+    },
+    {
+      "id": 124,
+      "unit_code": "length-picometer",
+      "kategorija": "length",
+      "naziv": "pikometri",
+      "kratica": "pm",
+      "naziv_uski": "pm",
+      "obrazac": "{0} pikometara"
+    },
+    {
+      "id": 125,
+      "unit_code": "length-point",
+      "kategorija": "length",
+      "naziv": "tipografske točke",
+      "kratica": "tipografske točke",
+      "naziv_uski": "pt",
+      "obrazac": "{0} tipografskih točaka"
+    },
+    {
+      "id": 126,
+      "unit_code": "length-ri-jp",
+      "kategorija": "length",
+      "naziv": "ri [JP]",
+      "kratica": "ri [JP]",
+      "naziv_uski": "ri [JP]",
+      "obrazac": "{0} ri [JP]"
+    },
+    {
+      "id": 127,
+      "unit_code": "length-rin",
+      "kategorija": "length",
+      "naziv": "rin [JP]",
+      "kratica": "rin [JP]",
+      "naziv_uski": "rin [JP]",
+      "obrazac": "{0} rin [JP]"
+    },
+    {
+      "id": 128,
+      "unit_code": "length-rod",
+      "kategorija": "length",
+      "naziv": "rod",
+      "kratica": "rod",
+      "naziv_uski": "rod",
+      "obrazac": "{0} rod"
+    },
+    {
+      "id": 129,
+      "unit_code": "length-shaku-cloth",
+      "kategorija": "length",
+      "naziv": "shaku [cloth, JP]",
+      "kratica": "shaku [cloth, JP]",
+      "naziv_uski": "shaku [cloth, JP]",
+      "obrazac": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 130,
+      "unit_code": "length-shaku-length",
+      "kategorija": "length",
+      "naziv": "shaku [JP]",
+      "kratica": "shaku [JP]",
+      "naziv_uski": "shaku [JP]",
+      "obrazac": "{0} shaku [JP]"
+    },
+    {
+      "id": 131,
+      "unit_code": "length-solar-radius",
+      "kategorija": "length",
+      "naziv": "Sunčevi polumjeri",
+      "kratica": "R☉",
+      "naziv_uski": "R☉",
+      "obrazac": "{0} Sunčevih polumjera"
+    },
+    {
+      "id": 132,
+      "unit_code": "length-sun",
+      "kategorija": "length",
+      "naziv": "sun [JP]",
+      "kratica": "sun [JP]",
+      "naziv_uski": "sun [JP]",
+      "obrazac": "{0} sun [JP]"
+    },
+    {
+      "id": 133,
+      "unit_code": "length-yard",
+      "kategorija": "length",
+      "naziv": "jardi",
+      "kratica": "jardi",
+      "naziv_uski": "yd",
+      "obrazac": "{0} jardi"
+    },
+    {
+      "id": 134,
+      "unit_code": "light-candela",
+      "kategorija": "light",
+      "naziv": "kandela",
+      "kratica": "cd",
+      "naziv_uski": "cd",
+      "obrazac": "{0} kandela"
+    },
+    {
+      "id": 135,
+      "unit_code": "light-lumen",
+      "kategorija": "light",
+      "naziv": "lumen",
+      "kratica": "lm",
+      "naziv_uski": "lm",
+      "obrazac": "{0} lumena"
+    },
+    {
+      "id": 136,
+      "unit_code": "light-lux",
+      "kategorija": "light",
+      "naziv": "luksi",
+      "kratica": "lx",
+      "naziv_uski": "lx",
+      "obrazac": "{0} luksa"
+    },
+    {
+      "id": 137,
+      "unit_code": "light-solar-luminosity",
+      "kategorija": "light",
+      "naziv": "sjaj Sunca",
+      "kratica": "L☉",
+      "naziv_uski": "L☉",
+      "obrazac": "{0} sjaja Sunca"
+    },
+    {
+      "id": 138,
+      "unit_code": "magnetic-tesla",
+      "kategorija": "magnetic",
+      "naziv": "tesle",
+      "kratica": "T",
+      "naziv_uski": "T",
+      "obrazac": "{0} tesla"
+    },
+    {
+      "id": 139,
+      "unit_code": "magnetic-weber",
+      "kategorija": "magnetic",
+      "naziv": "veberi",
+      "kratica": "Wb",
+      "naziv_uski": "Wb",
+      "obrazac": "{0} vebera"
+    },
+    {
+      "id": 140,
+      "unit_code": "mass-carat",
+      "kategorija": "mass",
+      "naziv": "karati",
+      "kratica": "ct",
+      "naziv_uski": "ct",
+      "obrazac": "{0} karata"
+    },
+    {
+      "id": 141,
+      "unit_code": "mass-dalton",
+      "kategorija": "mass",
+      "naziv": "daltoni",
+      "kratica": "daltoni",
+      "naziv_uski": "Da",
+      "obrazac": "{0} daltona"
+    },
+    {
+      "id": 142,
+      "unit_code": "mass-earth-mass",
+      "kategorija": "mass",
+      "naziv": "Zemljine mase",
+      "kratica": "M⊕",
+      "naziv_uski": "M⊕",
+      "obrazac": "{0} Zemljinih masa"
+    },
+    {
+      "id": 143,
+      "unit_code": "mass-fun",
+      "kategorija": "mass",
+      "naziv": "fun [JP]",
+      "kratica": "fun [JP]",
+      "naziv_uski": "fun [JP]",
+      "obrazac": "{0} fun [JP]"
+    },
+    {
+      "id": 144,
+      "unit_code": "mass-grain",
+      "kategorija": "mass",
+      "naziv": "grainovi",
+      "kratica": "gr",
+      "naziv_uski": "gr",
+      "obrazac": "{0} graina"
+    },
+    {
+      "id": 145,
+      "unit_code": "mass-gram",
+      "kategorija": "mass",
+      "naziv": "grami",
+      "kratica": "g",
+      "naziv_uski": "g",
+      "obrazac": "{0} grama"
+    },
+    {
+      "id": 146,
+      "unit_code": "mass-kilogram",
+      "kategorija": "mass",
+      "naziv": "kilogrami",
+      "kratica": "kg",
+      "naziv_uski": "kg",
+      "obrazac": "{0} kilograma"
+    },
+    {
+      "id": 147,
+      "unit_code": "mass-microgram",
+      "kategorija": "mass",
+      "naziv": "mikrogrami",
+      "kratica": "μg",
+      "naziv_uski": "μg",
+      "obrazac": "{0} mikrograma"
+    },
+    {
+      "id": 148,
+      "unit_code": "mass-milligram",
+      "kategorija": "mass",
+      "naziv": "miligrami",
+      "kratica": "mg",
+      "naziv_uski": "mg",
+      "obrazac": "{0} miligrama"
+    },
+    {
+      "id": 149,
+      "unit_code": "mass-ounce",
+      "kategorija": "mass",
+      "naziv": "unce",
+      "kratica": "oz",
+      "naziv_uski": "oz",
+      "obrazac": "{0} unci"
+    },
+    {
+      "id": 150,
+      "unit_code": "mass-ounce-troy",
+      "kategorija": "mass",
+      "naziv": "troy unce",
+      "kratica": "oz t",
+      "naziv_uski": "oz t",
+      "obrazac": "{0} troy unci"
+    },
+    {
+      "id": 151,
+      "unit_code": "mass-pound",
+      "kategorija": "mass",
+      "naziv": "funte",
+      "kratica": "lb",
+      "naziv_uski": "lb",
+      "obrazac": "{0} funti"
+    },
+    {
+      "id": 152,
+      "unit_code": "mass-slug",
+      "kategorija": "mass",
+      "naziv": "slug",
+      "kratica": "slug",
+      "naziv_uski": "slug",
+      "obrazac": "{0} slug"
+    },
+    {
+      "id": 153,
+      "unit_code": "mass-solar-mass",
+      "kategorija": "mass",
+      "naziv": "Sunčeve mase",
+      "kratica": "M☉",
+      "naziv_uski": "M☉",
+      "obrazac": "{0} Sunčevih masa"
+    },
+    {
+      "id": 154,
+      "unit_code": "mass-stone",
+      "kategorija": "mass",
+      "naziv": "kameni",
+      "kratica": "st",
+      "naziv_uski": "st",
+      "obrazac": "{0} kamena"
+    },
+    {
+      "id": 155,
+      "unit_code": "mass-ton",
+      "kategorija": "mass",
+      "naziv": "kratke tone",
+      "kratica": "tn",
+      "naziv_uski": "tn",
+      "obrazac": "{0} kratkih tona"
+    },
+    {
+      "id": 156,
+      "unit_code": "mass-tonne",
+      "kategorija": "mass",
+      "naziv": "tone",
+      "kratica": "t",
+      "naziv_uski": "t",
+      "obrazac": "{0} tona"
+    },
+    {
+      "id": 157,
+      "unit_code": "power-gigawatt",
+      "kategorija": "power",
+      "naziv": "gigavati",
+      "kratica": "GW",
+      "naziv_uski": "GW",
+      "obrazac": "{0} gigavata"
+    },
+    {
+      "id": 158,
+      "unit_code": "power-horsepower",
+      "kategorija": "power",
+      "naziv": "konjske snage",
+      "kratica": "KS",
+      "naziv_uski": "KS",
+      "obrazac": "{0} konjskih snaga"
+    },
+    {
+      "id": 159,
+      "unit_code": "power-kilowatt",
+      "kategorija": "power",
+      "naziv": "kilovati",
+      "kratica": "kW",
+      "naziv_uski": "kW",
+      "obrazac": "{0} kilovata"
+    },
+    {
+      "id": 160,
+      "unit_code": "power-megawatt",
+      "kategorija": "power",
+      "naziv": "megavati",
+      "kratica": "MW",
+      "naziv_uski": "MW",
+      "obrazac": "{0} megavata"
+    },
+    {
+      "id": 161,
+      "unit_code": "power-milliwatt",
+      "kategorija": "power",
+      "naziv": "milivati",
+      "kratica": "mW",
+      "naziv_uski": "mW",
+      "obrazac": "{0} milivata"
+    },
+    {
+      "id": 162,
+      "unit_code": "power-watt",
+      "kategorija": "power",
+      "naziv": "vati",
+      "kratica": "W",
+      "naziv_uski": "W",
+      "obrazac": "{0} vati"
+    },
+    {
+      "id": 163,
+      "unit_code": "pressure-atmosphere",
+      "kategorija": "pressure",
+      "naziv": "atmosfere",
+      "kratica": "atm",
+      "naziv_uski": "atm",
+      "obrazac": "{0} atmosfera"
+    },
+    {
+      "id": 164,
+      "unit_code": "pressure-bar",
+      "kategorija": "pressure",
+      "naziv": "bari",
+      "kratica": "bar",
+      "naziv_uski": "bar",
+      "obrazac": "{0} bara"
+    },
+    {
+      "id": 165,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategorija": "pressure",
+      "naziv": "gas E",
+      "kratica": "gas E",
+      "naziv_uski": "gas E",
+      "obrazac": "{0} gas E"
+    },
+    {
+      "id": 166,
+      "unit_code": "pressure-hectopascal",
+      "kategorija": "pressure",
+      "naziv": "hektopaskali",
+      "kratica": "hPa",
+      "naziv_uski": "hPa",
+      "obrazac": "{0} hektopaskala"
+    },
+    {
+      "id": 167,
+      "unit_code": "pressure-inch-ofhg",
+      "kategorija": "pressure",
+      "naziv": "inči žive",
+      "kratica": "inHg",
+      "naziv_uski": "inHg",
+      "obrazac": "{0} inča žive"
+    },
+    {
+      "id": 168,
+      "unit_code": "pressure-kilopascal",
+      "kategorija": "pressure",
+      "naziv": "kilopaskali",
+      "kratica": "kPa",
+      "naziv_uski": "kPa",
+      "obrazac": "{0} kilopaskala"
+    },
+    {
+      "id": 169,
+      "unit_code": "pressure-megapascal",
+      "kategorija": "pressure",
+      "naziv": "megapaskali",
+      "kratica": "MPa",
+      "naziv_uski": "MPa",
+      "obrazac": "{0} megapaskala"
+    },
+    {
+      "id": 170,
+      "unit_code": "pressure-millibar",
+      "kategorija": "pressure",
+      "naziv": "milibari",
+      "kratica": "mbar",
+      "naziv_uski": "mbar",
+      "obrazac": "{0} milibara"
+    },
+    {
+      "id": 171,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategorija": "pressure",
+      "naziv": "milimetri živina stupca",
+      "kratica": "mm Hg",
+      "naziv_uski": "mm Hg",
+      "obrazac": "{0} milimetara živina stupca"
+    },
+    {
+      "id": 172,
+      "unit_code": "pressure-ofhg",
+      "kategorija": "pressure",
+      "naziv": "žive",
+      "kratica": "Hg",
+      "naziv_uski": "Hg",
+      "obrazac": "{0} žive"
+    },
+    {
+      "id": 173,
+      "unit_code": "pressure-pascal",
+      "kategorija": "pressure",
+      "naziv": "paskali",
+      "kratica": "Pa",
+      "naziv_uski": "Pa",
+      "obrazac": "{0} paskala"
+    },
+    {
+      "id": 174,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategorija": "pressure",
+      "naziv": "funte po kvadratnom inču",
+      "kratica": "psi",
+      "naziv_uski": "psi",
+      "obrazac": "{0} funti po kvadratnom inču"
+    },
+    {
+      "id": 175,
+      "unit_code": "speed-beaufort",
+      "kategorija": "speed",
+      "naziv": "Beaufortova ljestvica",
+      "kratica": "Bft",
+      "naziv_uski": "Bft",
+      "obrazac": "B {0}"
+    },
+    {
+      "id": 176,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategorija": "speed",
+      "naziv": "kilometri na sat",
+      "kratica": "km/h",
+      "naziv_uski": "km/h",
+      "obrazac": "{0} kilometara na sat"
+    },
+    {
+      "id": 177,
+      "unit_code": "speed-knot",
+      "kategorija": "speed",
+      "naziv": "čvor",
+      "kratica": "čv",
+      "naziv_uski": "čv",
+      "obrazac": "{0} čvorova"
+    },
+    {
+      "id": 178,
+      "unit_code": "speed-light-speed",
+      "kategorija": "speed",
+      "naziv": "svjetlo",
+      "kratica": "svjetlo",
+      "naziv_uski": "svjetlo",
+      "obrazac": "{0} svjetala"
+    },
+    {
+      "id": 179,
+      "unit_code": "speed-meter-per-second",
+      "kategorija": "speed",
+      "naziv": "metri u sekundi",
+      "kratica": "m/s",
+      "naziv_uski": "m/s",
+      "obrazac": "{0} metara u sekundi"
+    },
+    {
+      "id": 180,
+      "unit_code": "speed-mile-per-hour",
+      "kategorija": "speed",
+      "naziv": "milje na sat",
+      "kratica": "mi/h",
+      "naziv_uski": "mi/h",
+      "obrazac": "{0} milja na sat"
+    },
+    {
+      "id": 181,
+      "unit_code": "temperature-celsius",
+      "kategorija": "temperature",
+      "naziv": "Celzijevi stupnjevi",
+      "kratica": "°C",
+      "naziv_uski": "°C",
+      "obrazac": "{0} Celzijevih stupnjeva"
+    },
+    {
+      "id": 182,
+      "unit_code": "temperature-fahrenheit",
+      "kategorija": "temperature",
+      "naziv": "Fahrenheitovi stupnjevi",
+      "kratica": "°F",
+      "naziv_uski": "°F",
+      "obrazac": "{0} Fahrenheitovih stupnjeva"
+    },
+    {
+      "id": 183,
+      "unit_code": "temperature-generic",
+      "kategorija": "temperature",
+      "naziv": "stupnjevi",
+      "kratica": "°",
+      "naziv_uski": "°",
+      "obrazac": "{0}°"
+    },
+    {
+      "id": 184,
+      "unit_code": "temperature-kelvin",
+      "kategorija": "temperature",
+      "naziv": "kelvini",
+      "kratica": "K",
+      "naziv_uski": "K",
+      "obrazac": "{0} kelvina"
+    },
+    {
+      "id": 185,
+      "unit_code": "temperature-rankine",
+      "kategorija": "temperature",
+      "naziv": "°R",
+      "kratica": "°R",
+      "naziv_uski": "°R",
+      "obrazac": "{0} °R"
+    },
+    {
+      "id": 186,
+      "unit_code": "torque-newton-meter",
+      "kategorija": "torque",
+      "naziv": "njutnmetri",
+      "kratica": "Nm",
+      "naziv_uski": "Nm",
+      "obrazac": "{0} njutnmetara"
+    },
+    {
+      "id": 187,
+      "unit_code": "torque-pound-force-foot",
+      "kategorija": "torque",
+      "naziv": "funte sile po stopi",
+      "kratica": "lbf⋅ft",
+      "naziv_uski": "lbf⋅ft",
+      "obrazac": "{0} funti sile po stopi"
+    },
+    {
+      "id": 188,
+      "unit_code": "volume-acre-foot",
+      "kategorija": "volume",
+      "naziv": "aker-stope",
+      "kratica": "ac ft",
+      "naziv_uski": "ac ft",
+      "obrazac": "{0} aker-stopi"
+    },
+    {
+      "id": 189,
+      "unit_code": "volume-barrel",
+      "kategorija": "volume",
+      "naziv": "bareli",
+      "kratica": "bbl",
+      "naziv_uski": "bbl",
+      "obrazac": "{0} barela"
+    },
+    {
+      "id": 190,
+      "unit_code": "volume-bushel",
+      "kategorija": "volume",
+      "naziv": "bušeli",
+      "kratica": "bu",
+      "naziv_uski": "bu",
+      "obrazac": "{0} bušela"
+    },
+    {
+      "id": 191,
+      "unit_code": "volume-centiliter",
+      "kategorija": "volume",
+      "naziv": "centilitri",
+      "kratica": "cl",
+      "naziv_uski": "cl",
+      "obrazac": "{0} centilitara"
+    },
+    {
+      "id": 192,
+      "unit_code": "volume-cubic-centimeter",
+      "kategorija": "volume",
+      "naziv": "kubni centimetri",
+      "kratica": "cm³",
+      "naziv_uski": "cm³",
+      "obrazac": "{0} kubnih centimetara"
+    },
+    {
+      "id": 193,
+      "unit_code": "volume-cubic-foot",
+      "kategorija": "volume",
+      "naziv": "kubne stope",
+      "kratica": "ft³",
+      "naziv_uski": "ft³",
+      "obrazac": "{0} kubnih stopa"
+    },
+    {
+      "id": 194,
+      "unit_code": "volume-cubic-inch",
+      "kategorija": "volume",
+      "naziv": "kubni inči",
+      "kratica": "in³",
+      "naziv_uski": "in³",
+      "obrazac": "{0} kubnih inča"
+    },
+    {
+      "id": 195,
+      "unit_code": "volume-cubic-kilometer",
+      "kategorija": "volume",
+      "naziv": "kubni kilometri",
+      "kratica": "km³",
+      "naziv_uski": "km³",
+      "obrazac": "{0} kubnih kilometara"
+    },
+    {
+      "id": 196,
+      "unit_code": "volume-cubic-meter",
+      "kategorija": "volume",
+      "naziv": "kubni metri",
+      "kratica": "m³",
+      "naziv_uski": "m³",
+      "obrazac": "{0} kubnih metara"
+    },
+    {
+      "id": 197,
+      "unit_code": "volume-cubic-mile",
+      "kategorija": "volume",
+      "naziv": "kubne milje",
+      "kratica": "mi³",
+      "naziv_uski": "mi³",
+      "obrazac": "{0} kubnih milja"
+    },
+    {
+      "id": 198,
+      "unit_code": "volume-cubic-yard",
+      "kategorija": "volume",
+      "naziv": "kubni jardi",
+      "kratica": "yd³",
+      "naziv_uski": "yd³",
+      "obrazac": "{0} kubnih jardi"
+    },
+    {
+      "id": 199,
+      "unit_code": "volume-cup",
+      "kategorija": "volume",
+      "naziv": "šalice",
+      "kratica": "šalice",
+      "naziv_uski": "šalica",
+      "obrazac": "{0} šalica"
+    },
+    {
+      "id": 200,
+      "unit_code": "volume-cup-imperial",
+      "kategorija": "volume",
+      "naziv": "cup Imp.",
+      "kratica": "cup Imp.",
+      "naziv_uski": "cup Imp.",
+      "obrazac": "{0} cup Imp."
+    },
+    {
+      "id": 201,
+      "unit_code": "volume-cup-jp",
+      "kategorija": "volume",
+      "naziv": "cup [JP]",
+      "kratica": "cup [JP]",
+      "naziv_uski": "cup [JP]",
+      "obrazac": "{0} cup [JP]"
+    },
+    {
+      "id": 202,
+      "unit_code": "volume-cup-metric",
+      "kategorija": "volume",
+      "naziv": "metričke šalice",
+      "kratica": "m. šalica",
+      "naziv_uski": "m. šalica",
+      "obrazac": "{0} metričkih šalica"
+    },
+    {
+      "id": 203,
+      "unit_code": "volume-deciliter",
+      "kategorija": "volume",
+      "naziv": "decilitri",
+      "kratica": "dl",
+      "naziv_uski": "dl",
+      "obrazac": "{0} decilitara"
+    },
+    {
+      "id": 204,
+      "unit_code": "volume-dessert-spoon",
+      "kategorija": "volume",
+      "naziv": "desertna žličica",
+      "kratica": "des. žličica",
+      "naziv_uski": "žličica",
+      "obrazac": "{0} desertnih žličica"
+    },
+    {
+      "id": 205,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategorija": "volume",
+      "naziv": "imperijalna desertna žličica",
+      "kratica": "imp. žličica",
+      "naziv_uski": "imp. žličica",
+      "obrazac": "{0} imperijalnih desertnih žličica"
+    },
+    {
+      "id": 206,
+      "unit_code": "volume-dram",
+      "kategorija": "volume",
+      "naziv": "dram tekućine",
+      "kratica": "fl dr",
+      "naziv_uski": "fl dr",
+      "obrazac": "{0} drama tekućine"
+    },
+    {
+      "id": 207,
+      "unit_code": "volume-drop",
+      "kategorija": "volume",
+      "naziv": "kap",
+      "kratica": "kap",
+      "naziv_uski": "kap",
+      "obrazac": "{0} kapi"
+    },
+    {
+      "id": 208,
+      "unit_code": "volume-fluid-ounce",
+      "kategorija": "volume",
+      "naziv": "tekuće unce",
+      "kratica": "fl oz",
+      "naziv_uski": "fl oz",
+      "obrazac": "{0} tekućih unci"
+    },
+    {
+      "id": 209,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategorija": "volume",
+      "naziv": "imp. tekuće unce",
+      "kratica": "imp. fl oz",
+      "naziv_uski": "imp. fl oz",
+      "obrazac": "{0} imp. tekućih unci"
+    },
+    {
+      "id": 210,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategorija": "volume",
+      "naziv": "tekuće unce",
+      "kratica": "fl oz m.",
+      "naziv_uski": "fl oz m.",
+      "obrazac": "{0} tekućih unci"
+    },
+    {
+      "id": 211,
+      "unit_code": "volume-gallon",
+      "kategorija": "volume",
+      "naziv": "galoni",
+      "kratica": "gal",
+      "naziv_uski": "gal",
+      "obrazac": "{0} galona"
+    },
+    {
+      "id": 212,
+      "unit_code": "volume-gallon-imperial",
+      "kategorija": "volume",
+      "naziv": "imp. galoni",
+      "kratica": "imp. gal.",
+      "naziv_uski": "imp. gal.",
+      "obrazac": "{0} imp. galona"
+    },
+    {
+      "id": 213,
+      "unit_code": "volume-hectoliter",
+      "kategorija": "volume",
+      "naziv": "hektolitri",
+      "kratica": "hl",
+      "naziv_uski": "hl",
+      "obrazac": "{0} hektolitara"
+    },
+    {
+      "id": 214,
+      "unit_code": "volume-jigger",
+      "kategorija": "volume",
+      "naziv": "jiggeri",
+      "kratica": "jigger",
+      "naziv_uski": "jigger",
+      "obrazac": "{0} jiggera"
+    },
+    {
+      "id": 215,
+      "unit_code": "volume-koku",
+      "kategorija": "volume",
+      "naziv": "koku [JP]",
+      "kratica": "koku [JP]",
+      "naziv_uski": "koku [JP]",
+      "obrazac": "{0} koku [JP]"
+    },
+    {
+      "id": 216,
+      "unit_code": "volume-kosaji",
+      "kategorija": "volume",
+      "naziv": "kosaji [JP]",
+      "kratica": "kosaji [JP]",
+      "naziv_uski": "kosaji [JP]",
+      "obrazac": "{0} kosaji [JP]"
+    },
+    {
+      "id": 217,
+      "unit_code": "volume-liter",
+      "kategorija": "volume",
+      "naziv": "litre",
+      "kratica": "l",
+      "naziv_uski": "l",
+      "obrazac": "{0} litara"
+    },
+    {
+      "id": 218,
+      "unit_code": "volume-megaliter",
+      "kategorija": "volume",
+      "naziv": "megalitri",
+      "kratica": "Ml",
+      "naziv_uski": "Ml",
+      "obrazac": "{0} megalitara"
+    },
+    {
+      "id": 219,
+      "unit_code": "volume-milliliter",
+      "kategorija": "volume",
+      "naziv": "mililitri",
+      "kratica": "ml",
+      "naziv_uski": "ml",
+      "obrazac": "{0} mililitara"
+    },
+    {
+      "id": 220,
+      "unit_code": "volume-osaji",
+      "kategorija": "volume",
+      "naziv": "osaji [JP]",
+      "kratica": "osaji [JP]",
+      "naziv_uski": "osaji [JP]",
+      "obrazac": "{0} osaji [JP]"
+    },
+    {
+      "id": 221,
+      "unit_code": "volume-pinch",
+      "kategorija": "volume",
+      "naziv": "prstohvat",
+      "kratica": "prstohvat",
+      "naziv_uski": "prstohvat",
+      "obrazac": "{0} prstohvata"
+    },
+    {
+      "id": 222,
+      "unit_code": "volume-pint",
+      "kategorija": "volume",
+      "naziv": "pinte",
+      "kratica": "pt",
+      "naziv_uski": "pt",
+      "obrazac": "{0} pinti"
+    },
+    {
+      "id": 223,
+      "unit_code": "volume-pint-imperial",
+      "kategorija": "volume",
+      "naziv": "pint Imp.",
+      "kratica": "pint Imp.",
+      "naziv_uski": "pint Imp.",
+      "obrazac": "{0} pt Imp."
+    },
+    {
+      "id": 224,
+      "unit_code": "volume-pint-metric",
+      "kategorija": "volume",
+      "naziv": "metričke pinte",
+      "kratica": "mpt",
+      "naziv_uski": "mpt",
+      "obrazac": "{0} metričkih pinti"
+    },
+    {
+      "id": 225,
+      "unit_code": "volume-quart",
+      "kategorija": "volume",
+      "naziv": "četvrtine",
+      "kratica": "qt",
+      "naziv_uski": "qt",
+      "obrazac": "{0} četvrtina"
+    },
+    {
+      "id": 226,
+      "unit_code": "volume-quart-imperial",
+      "kategorija": "volume",
+      "naziv": "imperijalna četvrtina",
+      "kratica": "qt Imp",
+      "naziv_uski": "qt Imp",
+      "obrazac": "{0} imperijalne četvrtine"
+    },
+    {
+      "id": 227,
+      "unit_code": "volume-sai",
+      "kategorija": "volume",
+      "naziv": "sai [JP]",
+      "kratica": "sai [JP]",
+      "naziv_uski": "sai [JP]",
+      "obrazac": "{0} sai [JP]"
+    },
+    {
+      "id": 228,
+      "unit_code": "volume-shaku",
+      "kategorija": "volume",
+      "naziv": "shaku [vol, JP]",
+      "kratica": "shaku [vol, JP]",
+      "naziv_uski": "shaku [vol, JP]",
+      "obrazac": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 229,
+      "unit_code": "volume-tablespoon",
+      "kategorija": "volume",
+      "naziv": "žlice",
+      "kratica": "tbsp",
+      "naziv_uski": "tbsp",
+      "obrazac": "{0} žlica"
+    },
+    {
+      "id": 230,
+      "unit_code": "volume-teaspoon",
+      "kategorija": "volume",
+      "naziv": "žličice",
+      "kratica": "tsp",
+      "naziv_uski": "tsp",
+      "obrazac": "{0} žličica"
+    },
+    {
+      "id": 231,
+      "unit_code": "volume-to-jp",
+      "kategorija": "volume",
+      "naziv": "to [JP]",
+      "kratica": "to [JP]",
+      "naziv_uski": "to [JP]",
+      "obrazac": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — hrvatski nazivi (CLDR) - Besplatno preuzimanje",
+    "description": "Popis mjernih jedinica iz CLDR hr lokala s dugim nazivom (naziv), kraticom (kratica) i uskim oblikom (naziv_uski) te obrascem prikaza. Sadrži 231 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — hrvatski nazivi (CLDR) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — hrvatski nazivi (CLDR) — 231 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 231 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

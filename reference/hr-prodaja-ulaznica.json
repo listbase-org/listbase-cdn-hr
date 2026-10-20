@@ -1,0 +1,651 @@
+{
+  "id": "hr-prodaja-ulaznica",
+  "name": "Prodaja ulaznica",
+  "title": "Prodaja ulaznica",
+  "description": "Prodaja ulaznica u Hrvatskoj (122 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=ticket), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 122,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adrenalinski Park \"Sky Fox\"",
+      "latitude": 45.278587,
+      "longitude": 13.623155
+    },
+    {
+      "name": "Aquacolors",
+      "latitude": 45.199057,
+      "longitude": 13.606091
+    },
+    {
+      "name": "Aquarium karte",
+      "latitude": 45.485279,
+      "longitude": 15.562121
+    },
+    {
+      "name": "Arena Pula",
+      "latitude": 44.87301,
+      "longitude": 13.849483
+    },
+    {
+      "name": "Arriva",
+      "latitude": 45.803858,
+      "longitude": 15.99348
+    },
+    {
+      "name": "Arriva bus",
+      "latitude": 44.958353,
+      "longitude": 14.410749
+    },
+    {
+      "name": "Autobusni kolodvor Delnice",
+      "latitude": 45.39289,
+      "longitude": 14.795398
+    },
+    {
+      "name": "Autobusni kolodvor Zadar",
+      "latitude": 44.106458,
+      "longitude": 15.241165
+    },
+    {
+      "name": "Autotrolej - prodaja karata",
+      "latitude": 45.325418,
+      "longitude": 14.44537
+    },
+    {
+      "name": "Autoturist",
+      "latitude": 45.785582,
+      "longitude": 15.952557
+    },
+    {
+      "name": "Blagajna Kerempuha",
+      "latitude": 45.812749,
+      "longitude": 15.971151
+    },
+    {
+      "name": "Blagajna Velesajma",
+      "latitude": 45.777758,
+      "longitude": 15.969869
+    },
+    {
+      "name": "Blagajna za naplatu terena (tenis/nogomet)",
+      "latitude": 45.798262,
+      "longitude": 15.993314
+    },
+    {
+      "name": "boat excursions Kornati/Krka by boat sv.Jakov",
+      "latitude": 43.7328,
+      "longitude": 15.891918
+    },
+    {
+      "name": "Brioni Pula",
+      "latitude": 44.876604,
+      "longitude": 13.854348
+    },
+    {
+      "name": "Bus tickets",
+      "latitude": 43.733105,
+      "longitude": 15.895432
+    },
+    {
+      "name": "Cerovačke špilje",
+      "latitude": 44.275017,
+      "longitude": 15.888369
+    },
+    {
+      "name": "Croatia bus Zagreb",
+      "latitude": 45.803116,
+      "longitude": 15.991916
+    },
+    {
+      "name": "ECA tickets -European Coastal Eirlines Ltd- hydroplane",
+      "latitude": 42.957896,
+      "longitude": 16.711008
+    },
+    {
+      "name": "ENC",
+      "latitude": 45.750362,
+      "longitude": 15.883608
+    },
+    {
+      "name": "Entrance No. 5",
+      "latitude": 44.489009,
+      "longitude": 16.142243
+    },
+    {
+      "name": "Eufrazijeva bazilika",
+      "latitude": 45.228304,
+      "longitude": 13.593303
+    },
+    {
+      "name": "Excursions Mikela",
+      "latitude": 45.148529,
+      "longitude": 13.602844
+    },
+    {
+      "name": "Excursions Mikela (Dolphin Watching Tour)",
+      "latitude": 45.148294,
+      "longitude": 13.602789
+    },
+    {
+      "name": "ferry",
+      "latitude": 43.676114,
+      "longitude": 15.920588
+    },
+    {
+      "name": "Ferry ticket office",
+      "latitude": 44.981378,
+      "longitude": 14.449416
+    },
+    {
+      "name": "ferry ticket sale",
+      "latitude": 43.698984,
+      "longitude": 15.834558
+    },
+    {
+      "name": "ferry ticket sale",
+      "latitude": 43.723956,
+      "longitude": 15.800558
+    },
+    {
+      "name": "ferry ticket seller",
+      "latitude": 44.51297,
+      "longitude": 14.309695
+    },
+    {
+      "name": "Ferry Tickets",
+      "latitude": 45.029018,
+      "longitude": 14.497576
+    },
+    {
+      "name": "Gradske Zidine",
+      "latitude": 42.640032,
+      "longitude": 18.11209
+    },
+    {
+      "name": "Gradske zidine",
+      "latitude": 42.641719,
+      "longitude": 18.107286
+    },
+    {
+      "name": "Gradske zidine",
+      "latitude": 42.641729,
+      "longitude": 18.111624
+    },
+    {
+      "name": "HŽ PUTNIČKI PRIJEVOZ",
+      "latitude": 45.8093,
+      "longitude": 15.954211
+    },
+    {
+      "name": "HŽPP",
+      "latitude": 45.815461,
+      "longitude": 15.835761
+    },
+    {
+      "name": "HŽPP",
+      "latitude": 45.863686,
+      "longitude": 15.766548
+    },
+    {
+      "name": "Info-centar Alan",
+      "latitude": 44.721348,
+      "longitude": 14.969249
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 42.658168,
+      "longitude": 18.086827
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 42.739497,
+      "longitude": 17.620697
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 42.745427,
+      "longitude": 16.825036
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 42.973923,
+      "longitude": 17.176679
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.009642,
+      "longitude": 17.268531
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.051335,
+      "longitude": 17.434391
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.124763,
+      "longitude": 17.188312
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.155529,
+      "longitude": 17.248479
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.16151,
+      "longitude": 16.695543
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.170384,
+      "longitude": 16.44143
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.180335,
+      "longitude": 16.577127
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.28542,
+      "longitude": 16.870341
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.295091,
+      "longitude": 17.017031
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.384861,
+      "longitude": 16.556791
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.448766,
+      "longitude": 16.145664
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.502921,
+      "longitude": 16.441734
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.505091,
+      "longitude": 16.441928
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.731589,
+      "longitude": 15.893606
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.734029,
+      "longitude": 15.891089
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 43.939561,
+      "longitude": 15.439877
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 44.07557,
+      "longitude": 15.194559
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 44.118595,
+      "longitude": 15.222673
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 44.603274,
+      "longitude": 14.968034
+    },
+    {
+      "name": "Jadrolinija",
+      "latitude": 44.636597,
+      "longitude": 14.247406
+    },
+    {
+      "name": "Jadrolinija - tickets",
+      "latitude": 44.57923,
+      "longitude": 14.947731
+    },
+    {
+      "name": "Jadrolinija Ferry Ticket Seller",
+      "latitude": 43.062008,
+      "longitude": 16.18372
+    },
+    {
+      "name": "Jadronlinia",
+      "latitude": 45.131479,
+      "longitude": 14.285765
+    },
+    {
+      "name": "Kanjon Kamačnik",
+      "latitude": 45.365747,
+      "longitude": 15.071336
+    },
+    {
+      "name": "Kapetan Luka",
+      "latitude": 43.50511,
+      "longitude": 16.442
+    },
+    {
+      "name": "Kapetan Luka / Krilo",
+      "latitude": 43.505074,
+      "longitude": 16.441859
+    },
+    {
+      "name": "Kapetan Luka Ferry Tickets",
+      "latitude": 42.960924,
+      "longitude": 17.135083
+    },
+    {
+      "name": "Kapetan Luka Hvar",
+      "latitude": 43.170841,
+      "longitude": 16.438615
+    },
+    {
+      "name": "Karte za brod",
+      "latitude": 44.374207,
+      "longitude": 14.692077
+    },
+    {
+      "name": "Karte za trajekt",
+      "latitude": 44.720568,
+      "longitude": 14.891405
+    },
+    {
+      "name": "KD Autotrolej - prodajno mjesto Delta",
+      "latitude": 45.324958,
+      "longitude": 14.447975
+    },
+    {
+      "name": "Kornati Tours",
+      "latitude": 44.116198,
+      "longitude": 15.230489
+    },
+    {
+      "name": "Krka National Park",
+      "latitude": 43.796055,
+      "longitude": 15.968369
+    },
+    {
+      "name": "Marco Polo Excursions",
+      "latitude": 45.226904,
+      "longitude": 13.592296
+    },
+    {
+      "name": "Miatours",
+      "latitude": 44.116677,
+      "longitude": 15.226606
+    },
+    {
+      "name": "Mljet National Park - tickets",
+      "latitude": 42.786861,
+      "longitude": 17.344325
+    },
+    {
+      "name": "Montraker watersport & jetski center (rent!)",
+      "latitude": 45.153391,
+      "longitude": 13.599192
+    },
+    {
+      "name": "Monvi (Romantic panorama with Sunset)",
+      "latitude": 45.226814,
+      "longitude": 13.592703
+    },
+    {
+      "name": "Nacionalni Park Risnjak",
+      "latitude": 45.408877,
+      "longitude": 14.618451
+    },
+    {
+      "name": "Nacionalni park Risnjak",
+      "latitude": 45.418334,
+      "longitude": 14.685263
+    },
+    {
+      "name": "Nogometno igralište HNK Orient",
+      "latitude": 45.323605,
+      "longitude": 14.467387
+    },
+    {
+      "name": "NP Krka - Burnum",
+      "latitude": 44.017172,
+      "longitude": 16.015422
+    },
+    {
+      "name": "NP Krka - Manojlovački slap",
+      "latitude": 44.017609,
+      "longitude": 16.021861
+    },
+    {
+      "name": "Platanus Airport Shuttle Bus",
+      "latitude": 42.643291,
+      "longitude": 18.111821
+    },
+    {
+      "name": "Prodaja autobusnih karata",
+      "latitude": 45.803614,
+      "longitude": 15.991909
+    },
+    {
+      "name": "Prodaja autobusnih karata",
+      "latitude": 46.023921,
+      "longitude": 15.904399
+    },
+    {
+      "name": "Prodaja karata",
+      "latitude": 43.732022,
+      "longitude": 15.893076
+    },
+    {
+      "name": "Prodaja karata",
+      "latitude": 45.804422,
+      "longitude": 15.992866
+    },
+    {
+      "name": "Prodaja karata G&V Line",
+      "latitude": 44.028498,
+      "longitude": 15.138766
+    },
+    {
+      "name": "Prodaja ulaznica",
+      "latitude": 44.882415,
+      "longitude": 15.618482
+    },
+    {
+      "name": "Prodavaonica karata",
+      "latitude": 45.797127,
+      "longitude": 15.937941
+    },
+    {
+      "name": "Prometni ured Čazmatrans",
+      "latitude": 45.803171,
+      "longitude": 15.991905
+    },
+    {
+      "name": "Rapska plovidba d.d.",
+      "latitude": 44.70556,
+      "longitude": 14.85956
+    },
+    {
+      "name": "RSRTC Platak",
+      "latitude": 45.425906,
+      "longitude": 14.565659
+    },
+    {
+      "name": "Rt Kamenjak",
+      "latitude": 44.795864,
+      "longitude": 13.908061
+    },
+    {
+      "name": "Rt Kamenjak (samo kartice)",
+      "latitude": 44.796802,
+      "longitude": 13.910643
+    },
+    {
+      "name": "Samoborček",
+      "latitude": 43.732397,
+      "longitude": 15.893869
+    },
+    {
+      "name": "Samoborček",
+      "latitude": 45.803296,
+      "longitude": 15.993669
+    },
+    {
+      "name": "Sljemenska žičara",
+      "latitude": 45.898802,
+      "longitude": 15.947436
+    },
+    {
+      "name": "Spilja Lokvarka",
+      "latitude": 45.358366,
+      "longitude": 14.761141
+    },
+    {
+      "name": "Tickets shop Jadronilija",
+      "latitude": 42.811848,
+      "longitude": 17.67881
+    },
+    {
+      "name": "TP Line",
+      "latitude": 42.658037,
+      "longitude": 18.086676
+    },
+    {
+      "name": "TP Line",
+      "latitude": 43.505055,
+      "longitude": 16.441804
+    },
+    {
+      "name": "Ulaz 1",
+      "latitude": 44.905032,
+      "longitude": 15.611327
+    },
+    {
+      "name": "Ulaz 1 Velika Paklenica",
+      "latitude": 44.294084,
+      "longitude": 15.457554
+    },
+    {
+      "name": "Ulaz 2 Mala Paklenica",
+      "latitude": 44.28308,
+      "longitude": 15.492834
+    },
+    {
+      "name": "Ulaz A",
+      "latitude": 42.838334,
+      "longitude": 17.694079
+    },
+    {
+      "name": "Ulaz B",
+      "latitude": 42.845413,
+      "longitude": 17.703797
+    },
+    {
+      "name": "Ulaz Babić Siča",
+      "latitude": 44.839684,
+      "longitude": 14.966168
+    },
+    {
+      "name": "Ulaz C",
+      "latitude": 42.838796,
+      "longitude": 17.69693
+    },
+    {
+      "name": "Ulaz D",
+      "latitude": 42.837098,
+      "longitude": 17.696834
+    },
+    {
+      "name": "Vrtovi lunskih maslina",
+      "latitude": 44.682708,
+      "longitude": 14.754305
+    },
+    {
+      "name": "ZET",
+      "latitude": 45.803759,
+      "longitude": 15.977755
+    },
+    {
+      "name": "Zet",
+      "latitude": 45.812322,
+      "longitude": 15.975342
+    },
+    {
+      "name": "ZET - Ljubljanica",
+      "latitude": 45.797042,
+      "longitude": 15.937895
+    },
+    {
+      "name": "ZET - Savski most",
+      "latitude": 45.785929,
+      "longitude": 15.953241
+    },
+    {
+      "name": "ZET karte",
+      "latitude": 45.860858,
+      "longitude": 15.799455
+    },
+    {
+      "name": "Zipline Edison",
+      "latitude": 45.027576,
+      "longitude": 14.677126
+    },
+    {
+      "name": "Čazmatrans",
+      "latitude": 45.804265,
+      "longitude": 15.993066
+    },
+    {
+      "name": "Šangulin",
+      "latitude": 43.936552,
+      "longitude": 15.442083
+    },
+    {
+      "name": "Žabica",
+      "latitude": 45.327723,
+      "longitude": 14.437245
+    }
+  ],
+  "meta": {
+    "title": "Prodaja ulaznica - Besplatno preuzimanje",
+    "description": "Prodaja ulaznica u Hrvatskoj (122 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=ticket), izrez EU-POIS/HR. Sadrži 122 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Prodaja ulaznica | ListBase",
+    "seo_description": "Preuzmi Prodaja ulaznica — 122 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 122 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

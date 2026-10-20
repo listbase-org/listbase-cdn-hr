@@ -1,0 +1,516 @@
+{
+  "id": "hr-karlovacka-restorani",
+  "name": "Restorani — Karlovačka županija",
+  "title": "Restorani — Karlovačka županija",
+  "description": "95 restorani u županiji Karlovačka županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bistro \"Centar\"",
+      "latitude": 45.115286,
+      "longitude": 15.585758
+    },
+    {
+      "name": "bistro Cane",
+      "latitude": 45.267763,
+      "longitude": 15.208704
+    },
+    {
+      "name": "Bistro Kastel",
+      "latitude": 45.495054,
+      "longitude": 15.527984
+    },
+    {
+      "name": "Bistro King",
+      "latitude": 45.485243,
+      "longitude": 15.556469
+    },
+    {
+      "name": "Bistro KUM",
+      "latitude": 45.12104,
+      "longitude": 15.587707
+    },
+    {
+      "name": "bistro Mliječni",
+      "latitude": 45.26496,
+      "longitude": 15.226362
+    },
+    {
+      "name": "Bistro Vagabundo",
+      "latitude": 45.461342,
+      "longitude": 15.560791
+    },
+    {
+      "name": "Dalmatinac",
+      "latitude": 45.268339,
+      "longitude": 15.225226
+    },
+    {
+      "name": "Dinamo",
+      "latitude": 45.573986,
+      "longitude": 15.494387
+    },
+    {
+      "name": "fastfood pizza grill",
+      "latitude": 45.507247,
+      "longitude": 15.546405
+    },
+    {
+      "name": "Feniks",
+      "latitude": 45.100891,
+      "longitude": 15.589618
+    },
+    {
+      "name": "Fresh Corner Restaurant",
+      "latitude": 45.455733,
+      "longitude": 15.377629
+    },
+    {
+      "name": "Galerija Gaudeamus",
+      "latitude": 45.430575,
+      "longitude": 15.501246
+    },
+    {
+      "name": "Gradina",
+      "latitude": 45.183371,
+      "longitude": 15.287014
+    },
+    {
+      "name": "Grand",
+      "latitude": 45.242402,
+      "longitude": 15.550454
+    },
+    {
+      "name": "Grill",
+      "latitude": 45.045683,
+      "longitude": 15.630781
+    },
+    {
+      "name": "gurman bistro",
+      "latitude": 44.942734,
+      "longitude": 15.631667
+    },
+    {
+      "name": "Hotel Frankopan",
+      "latitude": 45.267127,
+      "longitude": 15.224939
+    },
+    {
+      "name": "Hotel Mirjana & Rastoke",
+      "latitude": 45.152311,
+      "longitude": 15.559045
+    },
+    {
+      "name": "IVE",
+      "latitude": 45.233392,
+      "longitude": 15.231175
+    },
+    {
+      "name": "Jadran",
+      "latitude": 45.381797,
+      "longitude": 15.611911
+    },
+    {
+      "name": "Joker",
+      "latitude": 45.324364,
+      "longitude": 15.695481
+    },
+    {
+      "name": "Karan",
+      "latitude": 45.412515,
+      "longitude": 15.609808
+    },
+    {
+      "name": "Kintsugi",
+      "latitude": 45.486692,
+      "longitude": 15.549494
+    },
+    {
+      "name": "Klek",
+      "latitude": 45.245137,
+      "longitude": 15.249523
+    },
+    {
+      "name": "Koci",
+      "latitude": 45.178974,
+      "longitude": 15.034311
+    },
+    {
+      "name": "Konoba \"Pod Rastočkim krovom\"",
+      "latitude": 45.120154,
+      "longitude": 15.585463
+    },
+    {
+      "name": "Konoba Kostanjac",
+      "latitude": 45.495688,
+      "longitude": 15.55452
+    },
+    {
+      "name": "Konoba Zec",
+      "latitude": 45.501126,
+      "longitude": 15.550333
+    },
+    {
+      "name": "Korana",
+      "latitude": 45.488855,
+      "longitude": 15.561628
+    },
+    {
+      "name": "Košare",
+      "latitude": 45.220524,
+      "longitude": 15.329897
+    },
+    {
+      "name": "KTC restoran Karlovac",
+      "latitude": 45.477023,
+      "longitude": 15.544184
+    },
+    {
+      "name": "Kvaka",
+      "latitude": 45.495223,
+      "longitude": 15.536142
+    },
+    {
+      "name": "La Mirage",
+      "latitude": 45.460501,
+      "longitude": 15.524887
+    },
+    {
+      "name": "Lana Korana restoran",
+      "latitude": 45.487319,
+      "longitude": 15.559881
+    },
+    {
+      "name": "LAV",
+      "latitude": 45.622975,
+      "longitude": 15.487076
+    },
+    {
+      "name": "Lex bar&pizzeria",
+      "latitude": 44.956614,
+      "longitude": 15.640009
+    },
+    {
+      "name": "Li Jing Wan",
+      "latitude": 45.126927,
+      "longitude": 15.566861
+    },
+    {
+      "name": "Lovački dom Muljava",
+      "latitude": 45.318152,
+      "longitude": 15.778016
+    },
+    {
+      "name": "Mamma Mia",
+      "latitude": 45.480054,
+      "longitude": 15.549139
+    },
+    {
+      "name": "Marché Dobra istok",
+      "latitude": 45.308931,
+      "longitude": 15.280948
+    },
+    {
+      "name": "Marché Dobra zapad",
+      "latitude": 45.308833,
+      "longitude": 15.278571
+    },
+    {
+      "name": "McMatić",
+      "latitude": 45.159938,
+      "longitude": 15.740576
+    },
+    {
+      "name": "Motel Dobra",
+      "latitude": 45.45674,
+      "longitude": 15.41348
+    },
+    {
+      "name": "Mrežnička kuća",
+      "latitude": 45.405446,
+      "longitude": 15.450515
+    },
+    {
+      "name": "Mrežnički Brig",
+      "latitude": 45.419838,
+      "longitude": 15.481874
+    },
+    {
+      "name": "NK Ogulin",
+      "latitude": 45.261599,
+      "longitude": 15.229094
+    },
+    {
+      "name": "Palma",
+      "latitude": 45.501108,
+      "longitude": 15.548359
+    },
+    {
+      "name": "Papalina",
+      "latitude": 45.551276,
+      "longitude": 15.471388
+    },
+    {
+      "name": "Petrić Restoran Lovački Rog",
+      "latitude": 45.494627,
+      "longitude": 15.550937
+    },
+    {
+      "name": "Petro",
+      "latitude": 45.119988,
+      "longitude": 15.58424
+    },
+    {
+      "name": "Pećenjarnica \"Jure\"",
+      "latitude": 45.116394,
+      "longitude": 15.586701
+    },
+    {
+      "name": "Pino",
+      "latitude": 45.144512,
+      "longitude": 15.558213
+    },
+    {
+      "name": "Pizzeria Antica",
+      "latitude": 45.2677,
+      "longitude": 15.22609
+    },
+    {
+      "name": "Pizzeria Bonino",
+      "latitude": 45.262542,
+      "longitude": 15.231775
+    },
+    {
+      "name": "Pizzeria Orca",
+      "latitude": 45.482138,
+      "longitude": 15.550003
+    },
+    {
+      "name": "Plitvice Holiday Resort",
+      "latitude": 44.973226,
+      "longitude": 15.647597
+    },
+    {
+      "name": "Plitvicka vila",
+      "latitude": 44.965182,
+      "longitude": 15.644348
+    },
+    {
+      "name": "Plitvička vrela",
+      "latitude": 44.964569,
+      "longitude": 15.643475
+    },
+    {
+      "name": "Plitvički dvori",
+      "latitude": 44.972399,
+      "longitude": 15.647458
+    },
+    {
+      "name": "Plum Bistro & Caffe",
+      "latitude": 44.945405,
+      "longitude": 15.634866
+    },
+    {
+      "name": "Pod starimi krovovi",
+      "latitude": 45.492736,
+      "longitude": 15.554302
+    },
+    {
+      "name": "Pod Švarčom",
+      "latitude": 45.47939,
+      "longitude": 15.546396
+    },
+    {
+      "name": "Prestige",
+      "latitude": 45.337549,
+      "longitude": 15.610079
+    },
+    {
+      "name": "Prva postaja",
+      "latitude": 45.449508,
+      "longitude": 15.50757
+    },
+    {
+      "name": "Restaurant Ambar",
+      "latitude": 45.119892,
+      "longitude": 15.588735
+    },
+    {
+      "name": "Restaurant Savić",
+      "latitude": 45.310801,
+      "longitude": 15.615412
+    },
+    {
+      "name": "Restoran Amarilis",
+      "latitude": 45.482126,
+      "longitude": 15.446682
+    },
+    {
+      "name": "Restoran Bosiljevo",
+      "latitude": 45.442637,
+      "longitude": 15.262289
+    },
+    {
+      "name": "Restoran Degenija",
+      "latitude": 44.945615,
+      "longitude": 15.635549
+    },
+    {
+      "name": "Restoran Doris",
+      "latitude": 45.632414,
+      "longitude": 15.323743
+    },
+    {
+      "name": "Restoran DP",
+      "latitude": 45.406634,
+      "longitude": 15.447577
+    },
+    {
+      "name": "Restoran Gea",
+      "latitude": 45.344622,
+      "longitude": 15.375514
+    },
+    {
+      "name": "Restoran kod Bakija",
+      "latitude": 45.444976,
+      "longitude": 15.583188
+    },
+    {
+      "name": "Restoran Lovački Rog",
+      "latitude": 45.539168,
+      "longitude": 15.573264
+    },
+    {
+      "name": "Restoran M-90",
+      "latitude": 45.522258,
+      "longitude": 15.547924
+    },
+    {
+      "name": "Restoran Mandić",
+      "latitude": 45.486962,
+      "longitude": 15.536793
+    },
+    {
+      "name": "Restoran Panorama",
+      "latitude": 45.488931,
+      "longitude": 15.547538
+    },
+    {
+      "name": "Restoran Valentić",
+      "latitude": 45.157112,
+      "longitude": 15.740853
+    },
+    {
+      "name": "Restoran Zeleni kut",
+      "latitude": 45.380561,
+      "longitude": 15.423356
+    },
+    {
+      "name": "Restoran Žganjer",
+      "latitude": 45.564393,
+      "longitude": 15.482029
+    },
+    {
+      "name": "Riva",
+      "latitude": 45.451481,
+      "longitude": 15.508329
+    },
+    {
+      "name": "Rustique",
+      "latitude": 45.499929,
+      "longitude": 15.534674
+    },
+    {
+      "name": "Sedra",
+      "latitude": 44.962639,
+      "longitude": 15.655631
+    },
+    {
+      "name": "Slapić",
+      "latitude": 45.420225,
+      "longitude": 15.483303
+    },
+    {
+      "name": "TC Marko",
+      "latitude": 45.02254,
+      "longitude": 15.649006
+    },
+    {
+      "name": "Tiffany",
+      "latitude": 45.492485,
+      "longitude": 15.548913
+    },
+    {
+      "name": "Trefer",
+      "latitude": 45.53796,
+      "longitude": 15.539186
+    },
+    {
+      "name": "Vami",
+      "latitude": 45.47994,
+      "longitude": 15.543237
+    },
+    {
+      "name": "Victoria",
+      "latitude": 45.246429,
+      "longitude": 15.239417
+    },
+    {
+      "name": "Viki Grill",
+      "latitude": 45.624537,
+      "longitude": 15.458654
+    },
+    {
+      "name": "White Deer Ranch",
+      "latitude": 44.984964,
+      "longitude": 15.642482
+    },
+    {
+      "name": "Zelen bor",
+      "latitude": 45.155388,
+      "longitude": 15.558419
+    },
+    {
+      "name": "Šangaj",
+      "latitude": 45.457097,
+      "longitude": 15.490442
+    },
+    {
+      "name": "Špajza",
+      "latitude": 45.493434,
+      "longitude": 15.554604
+    }
+  ],
+  "meta": {
+    "title": "Restorani — Karlovačka županija - Besplatno preuzimanje",
+    "description": "95 restorani u županiji Karlovačka županija. Restorani (amenity=restaurant) iz OpenStreetMap POI izvoza (EU-POIS/HR, quadkey zoom-12 pločice). Samo imenovani objekti. Županija je IZVEDENA točnim point-in-polygon testom nad službenim granicama županija (zoka123/croatia-geo). © OpenStreetMap contributors. Sadrži 95 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Restorani — Karlovačka županija | ListBase",
+    "seo_description": "Preuzmi Restorani — Karlovačka županija — 95 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 95 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,2841 @@
+{
+  "id": "hr-vatrogasne-postaje",
+  "name": "Vatrogasne postaje",
+  "title": "Vatrogasne postaje",
+  "description": "Vatrogasne postaje u Hrvatskoj (560 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=fire_station), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 560,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Buje",
+      "latitude": 45.413531,
+      "longitude": 13.662555
+    },
+    {
+      "name": "D.V.D. Nova Kapela",
+      "latitude": 45.884775,
+      "longitude": 16.573393
+    },
+    {
+      "name": "DGD",
+      "latitude": 46.377907,
+      "longitude": 16.348033
+    },
+    {
+      "name": "Dobrovljno vatrogasno društvo Bukovac",
+      "latitude": 45.84353,
+      "longitude": 16.006889
+    },
+    {
+      "name": "Dobrovoljno društvo Kamenica",
+      "latitude": 46.245367,
+      "longitude": 16.035605
+    },
+    {
+      "name": "Dobrovoljno Vatrogasno Drustvo",
+      "latitude": 44.927935,
+      "longitude": 14.918914
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Adamovec",
+      "latitude": 45.903885,
+      "longitude": 16.163479
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Bedekovčina",
+      "latitude": 46.040889,
+      "longitude": 15.985373
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Belec",
+      "latitude": 46.131357,
+      "longitude": 16.120316
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Belovar",
+      "latitude": 45.882229,
+      "longitude": 16.175454
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Bijenik",
+      "latitude": 45.84692,
+      "longitude": 15.938914
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Bistra",
+      "latitude": 45.903924,
+      "longitude": 15.854353
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Blaguša",
+      "latitude": 45.928944,
+      "longitude": 16.130043
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Blato-Zagreb",
+      "latitude": 45.75927,
+      "longitude": 15.912108
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Botinec",
+      "latitude": 45.752911,
+      "longitude": 15.937608
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Branovec",
+      "latitude": 45.85709,
+      "longitude": 16.074493
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Brestovac",
+      "latitude": 45.3309,
+      "longitude": 17.593739
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Buzin",
+      "latitude": 45.751517,
+      "longitude": 15.994258
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Cetingrad",
+      "latitude": 45.158704,
+      "longitude": 15.742375
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Desinić",
+      "latitude": 46.149578,
+      "longitude": 15.666185
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Donja Batina",
+      "latitude": 46.102848,
+      "longitude": 16.124425
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Donji Pustakovec",
+      "latitude": 46.375593,
+      "longitude": 16.593184
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Druškovec",
+      "latitude": 46.19373,
+      "longitude": 15.691965
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Dugo Selo",
+      "latitude": 45.80657,
+      "longitude": 16.233401
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Garčin",
+      "latitude": 45.182306,
+      "longitude": 18.182368
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Goršćaki",
+      "latitude": 45.572646,
+      "longitude": 15.547321
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Grubišno Polje",
+      "latitude": 45.702278,
+      "longitude": 17.170438
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Gubaševo",
+      "latitude": 46.020954,
+      "longitude": 15.860072
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Hrelić",
+      "latitude": 45.763982,
+      "longitude": 16.001118
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Ivanec",
+      "latitude": 45.849794,
+      "longitude": 15.833704
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Ivanec",
+      "latitude": 46.225088,
+      "longitude": 16.124961
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Jakšić",
+      "latitude": 45.358407,
+      "longitude": 17.767368
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Jastrebarsko",
+      "latitude": 45.67474,
+      "longitude": 15.65291
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Josipdol",
+      "latitude": 45.189326,
+      "longitude": 15.284088
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Klenovec",
+      "latitude": 46.209055,
+      "longitude": 15.727096
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Kobiljak",
+      "latitude": 45.822164,
+      "longitude": 16.16133
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Kostanjevac",
+      "latitude": 45.69904,
+      "longitude": 15.472508
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Krapina",
+      "latitude": 46.160684,
+      "longitude": 15.874179
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Križevci",
+      "latitude": 46.029438,
+      "longitude": 16.545217
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Kumrovec",
+      "latitude": 46.076216,
+      "longitude": 15.680314
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Laduč",
+      "latitude": 45.884159,
+      "longitude": 15.724313
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Lepoglava",
+      "latitude": 46.207189,
+      "longitude": 16.043876
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Lipik",
+      "latitude": 45.411541,
+      "longitude": 17.164021
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Lipnica",
+      "latitude": 45.630721,
+      "longitude": 15.921774
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Mahićno",
+      "latitude": 45.556371,
+      "longitude": 15.531254
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Moravče",
+      "latitude": 45.936036,
+      "longitude": 16.167753
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Novo Brestje",
+      "latitude": 45.828987,
+      "longitude": 16.091295
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Odranski Obrež",
+      "latitude": 45.716027,
+      "longitude": 15.942642
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Orahovica",
+      "latitude": 45.531056,
+      "longitude": 17.883754
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Pavučnjak",
+      "latitude": 45.699547,
+      "longitude": 15.767086
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Pleternica",
+      "latitude": 45.283858,
+      "longitude": 17.800945
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Posavski Bregi",
+      "latitude": 45.685634,
+      "longitude": 16.353459
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Pregrada",
+      "latitude": 46.163262,
+      "longitude": 15.748923
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Prečko",
+      "latitude": 45.791841,
+      "longitude": 15.89786
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Prišlin-Hum",
+      "latitude": 46.213577,
+      "longitude": 15.674879
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Radoboj",
+      "latitude": 46.162308,
+      "longitude": 15.91795
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Resnik - Zagreb",
+      "latitude": 45.802907,
+      "longitude": 16.081288
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Sesvetski Kraljevec",
+      "latitude": 45.814315,
+      "longitude": 16.174063
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Sošice",
+      "latitude": 45.750698,
+      "longitude": 15.381474
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Supetar",
+      "latitude": 43.377502,
+      "longitude": 16.559206
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Sveti Ivan Zelina",
+      "latitude": 45.961553,
+      "longitude": 16.240803
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Sveti Križ Začretje",
+      "latitude": 46.080641,
+      "longitude": 15.909267
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Tovarnik",
+      "latitude": 45.165371,
+      "longitude": 19.151902
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Trešnjevka",
+      "latitude": 45.797836,
+      "longitude": 15.942975
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Trnje",
+      "latitude": 45.802268,
+      "longitude": 16.000719
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Tuhelj",
+      "latitude": 46.075333,
+      "longitude": 15.749982
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Varaždinske Toplice",
+      "latitude": 46.207897,
+      "longitude": 16.427423
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Vrapče",
+      "latitude": 45.812557,
+      "longitude": 15.905719
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Vrbovec",
+      "latitude": 45.887911,
+      "longitude": 16.41845
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Zabok",
+      "latitude": 46.027857,
+      "longitude": 15.908788
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Zapad (Vrapče jug)",
+      "latitude": 45.807737,
+      "longitude": 15.910827
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Zlatar Bistrica",
+      "latitude": 46.051498,
+      "longitude": 16.084529
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Đurmanec",
+      "latitude": 46.196325,
+      "longitude": 15.839749
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Žažina",
+      "latitude": 45.505193,
+      "longitude": 16.24224
+    },
+    {
+      "name": "Dobrovoljno vatrogasno društvo Županja",
+      "latitude": 45.071835,
+      "longitude": 18.699902
+    },
+    {
+      "name": "Drage",
+      "latitude": 43.885142,
+      "longitude": 15.543646
+    },
+    {
+      "name": "DVD",
+      "latitude": 44.440615,
+      "longitude": 15.06428
+    },
+    {
+      "name": "DVD  Vrbovsko",
+      "latitude": 45.37345,
+      "longitude": 15.077598
+    },
+    {
+      "name": "DVD \"Bol\"",
+      "latitude": 43.262014,
+      "longitude": 16.647478
+    },
+    {
+      "name": "DVD \"Ilača\"",
+      "latitude": 45.182929,
+      "longitude": 19.094832
+    },
+    {
+      "name": "DVD \"Klis\"",
+      "latitude": 43.561586,
+      "longitude": 16.522174
+    },
+    {
+      "name": "DVD 1878 Pakrac",
+      "latitude": 45.442763,
+      "longitude": 17.194329
+    },
+    {
+      "name": "DVD Babotok",
+      "latitude": 46.015572,
+      "longitude": 16.88894
+    },
+    {
+      "name": "DVD Bale - CVVF Valle",
+      "latitude": 45.041719,
+      "longitude": 13.783127
+    },
+    {
+      "name": "DVD Baška Voda",
+      "latitude": 43.362971,
+      "longitude": 16.942806
+    },
+    {
+      "name": "DVD Beketinci",
+      "latitude": 45.457448,
+      "longitude": 18.482583
+    },
+    {
+      "name": "DVD Belica",
+      "latitude": 46.406011,
+      "longitude": 16.520508
+    },
+    {
+      "name": "DVD Belišće",
+      "latitude": 45.683898,
+      "longitude": 18.414196
+    },
+    {
+      "name": "DVD Berek",
+      "latitude": 45.740967,
+      "longitude": 16.829496
+    },
+    {
+      "name": "DVD Bilice",
+      "latitude": 43.76771,
+      "longitude": 15.903813
+    },
+    {
+      "name": "DVD Bilje",
+      "latitude": 45.604786,
+      "longitude": 18.741457
+    },
+    {
+      "name": "DVD Bizovac",
+      "latitude": 45.589713,
+      "longitude": 18.45101
+    },
+    {
+      "name": "DVD Blatnica",
+      "latitude": 45.830305,
+      "longitude": 16.739502
+    },
+    {
+      "name": "DVD Blaževdol",
+      "latitude": 45.931776,
+      "longitude": 16.230944
+    },
+    {
+      "name": "DVD Bocanjevci",
+      "latitude": 45.640144,
+      "longitude": 18.336121
+    },
+    {
+      "name": "DVD Bolč",
+      "latitude": 45.893059,
+      "longitude": 16.677285
+    },
+    {
+      "name": "DVD Borovo",
+      "latitude": 45.40477,
+      "longitude": 18.971266
+    },
+    {
+      "name": "DVD Bosiljevo",
+      "latitude": 45.411355,
+      "longitude": 15.289277
+    },
+    {
+      "name": "DVD Botinac",
+      "latitude": 45.99677,
+      "longitude": 16.862703
+    },
+    {
+      "name": "DVD Bošnjaci",
+      "latitude": 45.050011,
+      "longitude": 18.755284
+    },
+    {
+      "name": "DVD Branjina",
+      "latitude": 45.822479,
+      "longitude": 18.689207
+    },
+    {
+      "name": "DVD Bratina",
+      "latitude": 45.626425,
+      "longitude": 15.820407
+    },
+    {
+      "name": "DVD Brela",
+      "latitude": 43.376151,
+      "longitude": 16.925544
+    },
+    {
+      "name": "DVD Breza",
+      "latitude": 45.871298,
+      "longitude": 16.71747
+    },
+    {
+      "name": "DVD Brezovac",
+      "latitude": 45.870162,
+      "longitude": 16.836927
+    },
+    {
+      "name": "DVD Brezovica",
+      "latitude": 45.724504,
+      "longitude": 15.907227
+    },
+    {
+      "name": "DVD Brinje",
+      "latitude": 45.000584,
+      "longitude": 15.134199
+    },
+    {
+      "name": "DVD Brođanci",
+      "latitude": 45.542154,
+      "longitude": 18.449707
+    },
+    {
+      "name": "DVD Brođani",
+      "latitude": 45.478719,
+      "longitude": 15.662544
+    },
+    {
+      "name": "DVD Budrovci",
+      "latitude": 45.27035,
+      "longitude": 18.44162
+    },
+    {
+      "name": "DVD Bukevje",
+      "latitude": 45.722329,
+      "longitude": 16.206923
+    },
+    {
+      "name": "DVD Bukovje",
+      "latitude": 45.994826,
+      "longitude": 16.565398
+    },
+    {
+      "name": "DVD Bulinac",
+      "latitude": 45.817098,
+      "longitude": 16.979145
+    },
+    {
+      "name": "DVD Buševec",
+      "latitude": 45.637175,
+      "longitude": 16.113905
+    },
+    {
+      "name": "DVD Carevdar",
+      "latitude": 46.071869,
+      "longitude": 16.644476
+    },
+    {
+      "name": "DVD Cerina",
+      "latitude": 45.773283,
+      "longitude": 16.573071
+    },
+    {
+      "name": "DVD Cerje",
+      "latitude": 45.772453,
+      "longitude": 15.691525
+    },
+    {
+      "name": "DVD Cerje",
+      "latitude": 45.83009,
+      "longitude": 16.18927
+    },
+    {
+      "name": "DVD Ciglena",
+      "latitude": 45.866951,
+      "longitude": 16.93665
+    },
+    {
+      "name": "DVD Cirkvena",
+      "latitude": 45.933897,
+      "longitude": 16.655333
+    },
+    {
+      "name": "DVD Cvetković",
+      "latitude": 45.648794,
+      "longitude": 15.647722
+    },
+    {
+      "name": "DVD Daruvarski Brestovac",
+      "latitude": 45.620886,
+      "longitude": 17.127401
+    },
+    {
+      "name": "DVD Delekovec",
+      "latitude": 46.249518,
+      "longitude": 16.860988
+    },
+    {
+      "name": "DVD Desno Trebarjevo",
+      "latitude": 45.592824,
+      "longitude": 16.346241
+    },
+    {
+      "name": "DVD Dežanovac",
+      "latitude": 45.56466,
+      "longitude": 17.082773
+    },
+    {
+      "name": "DVD Dicmo",
+      "latitude": 43.640588,
+      "longitude": 16.567314
+    },
+    {
+      "name": "DVD Dišnik",
+      "latitude": 45.611719,
+      "longitude": 16.896762
+    },
+    {
+      "name": "DVD Dolnji Kraljevac",
+      "latitude": 46.365346,
+      "longitude": 16.645753
+    },
+    {
+      "name": "DVD Donja Dubrava",
+      "latitude": 46.315754,
+      "longitude": 16.809395
+    },
+    {
+      "name": "DVD Donja Kovačica",
+      "latitude": 45.753917,
+      "longitude": 16.997801
+    },
+    {
+      "name": "DVD Donja Vlahinička",
+      "latitude": 45.583839,
+      "longitude": 16.595199
+    },
+    {
+      "name": "DVD Donje Izimje",
+      "latitude": 45.633361,
+      "longitude": 15.608591
+    },
+    {
+      "name": "DVD Donji Andrijevci",
+      "latitude": 45.183655,
+      "longitude": 18.303751
+    },
+    {
+      "name": "DVD Donji Daruvar",
+      "latitude": 45.607618,
+      "longitude": 17.224186
+    },
+    {
+      "name": "DVD Donji Sređani",
+      "latitude": 45.535458,
+      "longitude": 17.147702
+    },
+    {
+      "name": "DVD Donji Trpuci",
+      "latitude": 45.667471,
+      "longitude": 15.928972
+    },
+    {
+      "name": "DVD Dragonožec",
+      "latitude": 45.66426,
+      "longitude": 15.944723
+    },
+    {
+      "name": "DVD Draše",
+      "latitude": 46.005523,
+      "longitude": 15.712404
+    },
+    {
+      "name": "DVD Drenova",
+      "latitude": 45.353632,
+      "longitude": 14.431944
+    },
+    {
+      "name": "DVD Drenovec",
+      "latitude": 46.183454,
+      "longitude": 16.475356
+    },
+    {
+      "name": "DVD Drniš",
+      "latitude": 43.860018,
+      "longitude": 16.157658
+    },
+    {
+      "name": "DVD Dubrava",
+      "latitude": 45.828263,
+      "longitude": 16.053008
+    },
+    {
+      "name": "DVD Dugi Rat",
+      "latitude": 43.443596,
+      "longitude": 16.641329
+    },
+    {
+      "name": "DVD Dugopolje",
+      "latitude": 43.585479,
+      "longitude": 16.598837
+    },
+    {
+      "name": "DVD Dužica",
+      "latitude": 45.539721,
+      "longitude": 16.235131
+    },
+    {
+      "name": "DVD Ernestinovo",
+      "latitude": 45.45211,
+      "longitude": 18.657759
+    },
+    {
+      "name": "DVD Farkaševac",
+      "latitude": 45.881649,
+      "longitude": 16.639811
+    },
+    {
+      "name": "DVD Galgovo",
+      "latitude": 45.743437,
+      "longitude": 15.749458
+    },
+    {
+      "name": "DVD Galovac",
+      "latitude": 45.844041,
+      "longitude": 16.851829
+    },
+    {
+      "name": "DVD Garčin",
+      "latitude": 45.182259,
+      "longitude": 18.179597
+    },
+    {
+      "name": "DVD Gata",
+      "latitude": 43.463915,
+      "longitude": 16.711801
+    },
+    {
+      "name": "DVD Glavničica",
+      "latitude": 45.847416,
+      "longitude": 16.212041
+    },
+    {
+      "name": "DVD Glina",
+      "latitude": 45.336247,
+      "longitude": 16.091458
+    },
+    {
+      "name": "DVD Glogovnica",
+      "latitude": 46.101378,
+      "longitude": 16.55862
+    },
+    {
+      "name": "DVD Golinci",
+      "latitude": 45.689861,
+      "longitude": 18.165332
+    },
+    {
+      "name": "DVD Goričan",
+      "latitude": 46.391388,
+      "longitude": 16.678818
+    },
+    {
+      "name": "DVD Gorjani",
+      "latitude": 45.398845,
+      "longitude": 18.373995
+    },
+    {
+      "name": "DVD Gornja Letina",
+      "latitude": 45.408011,
+      "longitude": 16.567153
+    },
+    {
+      "name": "DVD Gornja Reka",
+      "latitude": 45.706076,
+      "longitude": 15.638432
+    },
+    {
+      "name": "DVD Gornja Šuma",
+      "latitude": 46.132023,
+      "longitude": 17.044491
+    },
+    {
+      "name": "DVD Gornje Bazje",
+      "latitude": 45.906093,
+      "longitude": 17.44081
+    },
+    {
+      "name": "DVD Gornje Plavnice",
+      "latitude": 45.93861,
+      "longitude": 16.854064
+    },
+    {
+      "name": "DVD Gornji Daruvar",
+      "latitude": 45.594846,
+      "longitude": 17.18485
+    },
+    {
+      "name": "DVD Gornji Draganec",
+      "latitude": 45.784471,
+      "longitude": 16.646568
+    },
+    {
+      "name": "DVD Gornji Kneginec",
+      "latitude": 46.251808,
+      "longitude": 16.378539
+    },
+    {
+      "name": "DVD Gornji Kućan",
+      "latitude": 46.277301,
+      "longitude": 16.38385
+    },
+    {
+      "name": "DVD Gornji Vidovec",
+      "latitude": 46.370961,
+      "longitude": 16.465273
+    },
+    {
+      "name": "DVD Grad Makarska",
+      "latitude": 43.29305,
+      "longitude": 17.022172
+    },
+    {
+      "name": "DVD GRADA Mursko Središče",
+      "latitude": 46.512539,
+      "longitude": 16.440324
+    },
+    {
+      "name": "DVD Gradac",
+      "latitude": 43.105813,
+      "longitude": 17.342571
+    },
+    {
+      "name": "DVD Gradec",
+      "latitude": 45.913115,
+      "longitude": 16.476919
+    },
+    {
+      "name": "DVD Gradec",
+      "latitude": 45.913796,
+      "longitude": 16.477696
+    },
+    {
+      "name": "DVD Gradec Pokupski",
+      "latitude": 45.547511,
+      "longitude": 15.868637
+    },
+    {
+      "name": "DVD Gradečki Pavlovec",
+      "latitude": 45.907961,
+      "longitude": 16.476137
+    },
+    {
+      "name": "DVD Granešina",
+      "latitude": 45.848758,
+      "longitude": 16.054243
+    },
+    {
+      "name": "DVD Granešinski Novaki",
+      "latitude": 45.851044,
+      "longitude": 16.035121
+    },
+    {
+      "name": "DVD Gračani",
+      "latitude": 45.853679,
+      "longitude": 15.973842
+    },
+    {
+      "name": "DVD Grbavac",
+      "latitude": 45.70695,
+      "longitude": 17.114462
+    },
+    {
+      "name": "DVD Grešćevina",
+      "latitude": 46.226476,
+      "longitude": 16.474726
+    },
+    {
+      "name": "DVD Grom Kaštelir-Labinci",
+      "latitude": 45.301029,
+      "longitude": 13.690519
+    },
+    {
+      "name": "DVD Gudovac",
+      "latitude": 45.880316,
+      "longitude": 16.785246
+    },
+    {
+      "name": "DVD Gušće",
+      "latitude": 45.414824,
+      "longitude": 16.57026
+    },
+    {
+      "name": "DVD Gvozd",
+      "latitude": 45.356814,
+      "longitude": 15.864953
+    },
+    {
+      "name": "DVD Habjanovci",
+      "latitude": 45.542519,
+      "longitude": 18.429393
+    },
+    {
+      "name": "DVD Haganj",
+      "latitude": 45.917457,
+      "longitude": 16.581066
+    },
+    {
+      "name": "DVD Halubjan",
+      "latitude": 45.390636,
+      "longitude": 14.379951
+    },
+    {
+      "name": "DVD Hampovica",
+      "latitude": 46.016037,
+      "longitude": 16.954246
+    },
+    {
+      "name": "DVD Hercegovac",
+      "latitude": 45.654013,
+      "longitude": 17.00831
+    },
+    {
+      "name": "DVD Hlebine",
+      "latitude": 46.153087,
+      "longitude": 16.968514
+    },
+    {
+      "name": "DVD Horvati",
+      "latitude": 45.712697,
+      "longitude": 15.818317
+    },
+    {
+      "name": "DVD Hrnetić - Novaki",
+      "latitude": 45.5244,
+      "longitude": 15.53222
+    },
+    {
+      "name": "DVD Hvar",
+      "latitude": 43.17072,
+      "longitude": 16.4487
+    },
+    {
+      "name": "DVD Ivanja Reka",
+      "latitude": 45.798126,
+      "longitude": 16.118896
+    },
+    {
+      "name": "DVD Ivankovo",
+      "latitude": 45.28941,
+      "longitude": 18.686479
+    },
+    {
+      "name": "DVD Ivanovci",
+      "latitude": 45.621614,
+      "longitude": 18.384729
+    },
+    {
+      "name": "DVD Ivanovo Selo",
+      "latitude": 45.673658,
+      "longitude": 17.251631
+    },
+    {
+      "name": "DVD Ivanska",
+      "latitude": 45.782727,
+      "longitude": 16.804865
+    },
+    {
+      "name": "DVD Jankovci",
+      "latitude": 45.254831,
+      "longitude": 18.911424
+    },
+    {
+      "name": "DVD Jarun",
+      "latitude": 45.791611,
+      "longitude": 15.930948
+    },
+    {
+      "name": "DVD Jasenovac",
+      "latitude": 45.268009,
+      "longitude": 16.909716
+    },
+    {
+      "name": "DVD Jazavica – Roždanik",
+      "latitude": 45.318361,
+      "longitude": 17.062703
+    },
+    {
+      "name": "DVD Jurovo",
+      "latitude": 45.624844,
+      "longitude": 15.312196
+    },
+    {
+      "name": "DVD Jurovski Brod",
+      "latitude": 45.629952,
+      "longitude": 15.320416
+    },
+    {
+      "name": "DVD Kalnik",
+      "latitude": 46.12651,
+      "longitude": 16.464586
+    },
+    {
+      "name": "DVD Kaniška Iva",
+      "latitude": 45.529375,
+      "longitude": 16.922934
+    },
+    {
+      "name": "DVD Kaniža",
+      "latitude": 45.110976,
+      "longitude": 17.886623
+    },
+    {
+      "name": "DVD Kapela",
+      "latitude": 45.985922,
+      "longitude": 16.851601
+    },
+    {
+      "name": "DVD Karlovec Ludbreški",
+      "latitude": 46.28739,
+      "longitude": 16.629529
+    },
+    {
+      "name": "DVD Kastav",
+      "latitude": 45.371929,
+      "longitude": 14.350584
+    },
+    {
+      "name": "DVD Kašina",
+      "latitude": 45.905815,
+      "longitude": 16.125679
+    },
+    {
+      "name": "DVD Kaštela",
+      "latitude": 43.552122,
+      "longitude": 16.342785
+    },
+    {
+      "name": "DVD Kerestinec",
+      "latitude": 45.768239,
+      "longitude": 15.803307
+    },
+    {
+      "name": "DVD Kešinci",
+      "latitude": 45.353548,
+      "longitude": 18.555997
+    },
+    {
+      "name": "DVD Klokočevec",
+      "latitude": 45.831144,
+      "longitude": 15.701141
+    },
+    {
+      "name": "DVD Kloštar Podravski",
+      "latitude": 45.983416,
+      "longitude": 17.156606
+    },
+    {
+      "name": "DVD Kobasičari",
+      "latitude": 45.961428,
+      "longitude": 16.812993
+    },
+    {
+      "name": "DVD Koločep",
+      "latitude": 42.674996,
+      "longitude": 18.009398
+    },
+    {
+      "name": "DVD Komletinci",
+      "latitude": 45.150921,
+      "longitude": 18.956695
+    },
+    {
+      "name": "DVD Konjščina",
+      "latitude": 46.056921,
+      "longitude": 16.169261
+    },
+    {
+      "name": "DVD Končanica",
+      "latitude": 45.638836,
+      "longitude": 17.164073
+    },
+    {
+      "name": "DVD Kopačevo",
+      "latitude": 45.599072,
+      "longitude": 18.78678
+    },
+    {
+      "name": "DVD Korčula",
+      "latitude": 42.949614,
+      "longitude": 17.13715
+    },
+    {
+      "name": "DVD Kosnica",
+      "latitude": 45.756209,
+      "longitude": 16.087966
+    },
+    {
+      "name": "DVD Kotoriba",
+      "latitude": 46.352718,
+      "longitude": 16.812427
+    },
+    {
+      "name": "DVD Kozarevac",
+      "latitude": 45.934416,
+      "longitude": 17.122083
+    },
+    {
+      "name": "DVD Kozarice",
+      "latitude": 45.388029,
+      "longitude": 16.966206
+    },
+    {
+      "name": "DVD Košutarica",
+      "latitude": 45.26104,
+      "longitude": 16.951421
+    },
+    {
+      "name": "DVD Kraljevac",
+      "latitude": 45.974108,
+      "longitude": 16.736988
+    },
+    {
+      "name": "DVD Krapinske toplice",
+      "latitude": 46.080441,
+      "longitude": 15.846498
+    },
+    {
+      "name": "DVD Krapinske Toplice",
+      "latitude": 46.09563,
+      "longitude": 15.837753
+    },
+    {
+      "name": "DVD Krapje",
+      "latitude": 45.294211,
+      "longitude": 16.826806
+    },
+    {
+      "name": "DVD Krapje",
+      "latitude": 45.301758,
+      "longitude": 16.827739
+    },
+    {
+      "name": "DVD Kratečko",
+      "latitude": 45.394174,
+      "longitude": 16.635503
+    },
+    {
+      "name": "DVD Krašić",
+      "latitude": 45.651419,
+      "longitude": 15.517973
+    },
+    {
+      "name": "DVD Križci",
+      "latitude": 45.766706,
+      "longitude": 16.434509
+    },
+    {
+      "name": "DVD Križic",
+      "latitude": 45.77617,
+      "longitude": 16.783587
+    },
+    {
+      "name": "DVD Križovljan Cestica",
+      "latitude": 46.369096,
+      "longitude": 16.127121
+    },
+    {
+      "name": "DVD Kupinečki Kraljevec",
+      "latitude": 45.688134,
+      "longitude": 15.836299
+    },
+    {
+      "name": "DVD Kučilovina",
+      "latitude": 45.912557,
+      "longitude": 16.091742
+    },
+    {
+      "name": "DVD Ladimirevci",
+      "latitude": 45.625266,
+      "longitude": 18.443798
+    },
+    {
+      "name": "DVD Lapšina",
+      "latitude": 46.521155,
+      "longitude": 16.336559
+    },
+    {
+      "name": "DVD Lasinja",
+      "latitude": 45.527907,
+      "longitude": 15.857435
+    },
+    {
+      "name": "DVD Lasovac",
+      "latitude": 45.851411,
+      "longitude": 17.030016
+    },
+    {
+      "name": "DVD lijeva martinska ves",
+      "latitude": 45.587362,
+      "longitude": 16.37104
+    },
+    {
+      "name": "DVD Lijevo Sredičko",
+      "latitude": 45.533659,
+      "longitude": 15.881651
+    },
+    {
+      "name": "DVD Lipovljani",
+      "latitude": 45.399924,
+      "longitude": 16.893055
+    },
+    {
+      "name": "DVD Lopar",
+      "latitude": 44.830147,
+      "longitude": 14.732281
+    },
+    {
+      "name": "DVD Lopatinec",
+      "latitude": 46.439118,
+      "longitude": 16.380113
+    },
+    {
+      "name": "DVD Lopud",
+      "latitude": 42.685207,
+      "longitude": 17.943644
+    },
+    {
+      "name": "DVD Lovran",
+      "latitude": 45.290555,
+      "longitude": 14.275628
+    },
+    {
+      "name": "DVD Lovreć",
+      "latitude": 43.489115,
+      "longitude": 16.983944
+    },
+    {
+      "name": "DVD Ludbreg",
+      "latitude": 46.245582,
+      "longitude": 16.623219
+    },
+    {
+      "name": "DVD Lukovec Klanječki",
+      "latitude": 46.000867,
+      "longitude": 15.72402
+    },
+    {
+      "name": "DVD Lužan Biškupečki",
+      "latitude": 46.223809,
+      "longitude": 16.351919
+    },
+    {
+      "name": "DVD Mali Mihaljevec",
+      "latitude": 46.434115,
+      "longitude": 16.400021
+    },
+    {
+      "name": "DVD Manja Vas",
+      "latitude": 45.757196,
+      "longitude": 15.674629
+    },
+    {
+      "name": "DVD Marija Gorica",
+      "latitude": 45.913012,
+      "longitude": 15.728404
+    },
+    {
+      "name": "DVD Markuševec Turopoljski",
+      "latitude": 45.659577,
+      "longitude": 15.966067
+    },
+    {
+      "name": "DVD Martijanec",
+      "latitude": 46.264318,
+      "longitude": 16.53971
+    },
+    {
+      "name": "DVD Martinuševec",
+      "latitude": 46.453553,
+      "longitude": 16.282356
+    },
+    {
+      "name": "DVD Miholjac",
+      "latitude": 45.761088,
+      "longitude": 18.164313
+    },
+    {
+      "name": "DVD Miholjanec",
+      "latitude": 46.041855,
+      "longitude": 16.949109
+    },
+    {
+      "name": "DVD Mladost",
+      "latitude": 43.550652,
+      "longitude": 16.429162
+    },
+    {
+      "name": "DVD Montokuc",
+      "latitude": 42.788149,
+      "longitude": 17.347377
+    },
+    {
+      "name": "DVD Mraclin",
+      "latitude": 45.665469,
+      "longitude": 16.096361
+    },
+    {
+      "name": "DVD Narta",
+      "latitude": 45.833357,
+      "longitude": 16.787892
+    },
+    {
+      "name": "DVD Nedelišće",
+      "latitude": 46.375754,
+      "longitude": 16.386453
+    },
+    {
+      "name": "DVD Nova Rača",
+      "latitude": 45.799343,
+      "longitude": 16.950538
+    },
+    {
+      "name": "DVD Novaki",
+      "latitude": 45.643801,
+      "longitude": 15.62296
+    },
+    {
+      "name": "DVD Novakovec",
+      "latitude": 46.267095,
+      "longitude": 16.496383
+    },
+    {
+      "name": "DVD Novakovec",
+      "latitude": 46.453628,
+      "longitude": 16.56649
+    },
+    {
+      "name": "DVD Nove Plavnice-Križevačka Cesta",
+      "latitude": 45.905287,
+      "longitude": 16.810786
+    },
+    {
+      "name": "DVD Novigrad Podravski",
+      "latitude": 46.075804,
+      "longitude": 16.948128
+    },
+    {
+      "name": "DVD Novigrad-Cittanova",
+      "latitude": 45.319449,
+      "longitude": 13.569893
+    },
+    {
+      "name": "DVD Novo Čiče",
+      "latitude": 45.704728,
+      "longitude": 16.119084
+    },
+    {
+      "name": "DVD Novoseljani",
+      "latitude": 45.893465,
+      "longitude": 16.869541
+    },
+    {
+      "name": "DVD Obedišće",
+      "latitude": 45.632916,
+      "longitude": 16.549726
+    },
+    {
+      "name": "DVD Obedišće",
+      "latitude": 45.757265,
+      "longitude": 16.294487
+    },
+    {
+      "name": "DVD Odra",
+      "latitude": 45.730298,
+      "longitude": 15.994472
+    },
+    {
+      "name": "DVD Okruk",
+      "latitude": 43.493463,
+      "longitude": 16.26439
+    },
+    {
+      "name": "DVD Okuje",
+      "latitude": 45.675041,
+      "longitude": 16.068664
+    },
+    {
+      "name": "DVD Omiš",
+      "latitude": 43.442685,
+      "longitude": 16.694655
+    },
+    {
+      "name": "DVD Orehovica",
+      "latitude": 46.327534,
+      "longitude": 16.506962
+    },
+    {
+      "name": "DVD Orlovac",
+      "latitude": 45.743631,
+      "longitude": 16.953055
+    },
+    {
+      "name": "DVD Orubica",
+      "latitude": 45.146786,
+      "longitude": 17.457566
+    },
+    {
+      "name": "DVD Osijek Gornji grad",
+      "latitude": 45.563164,
+      "longitude": 18.670343
+    },
+    {
+      "name": "DVD Osijek-Tenja",
+      "latitude": 45.500836,
+      "longitude": 18.748239
+    },
+    {
+      "name": "DVD Otrovanec",
+      "latitude": 45.927175,
+      "longitude": 17.208744
+    },
+    {
+      "name": "DVD Palinovec",
+      "latitude": 46.395283,
+      "longitude": 16.596424
+    },
+    {
+      "name": "DVD Palovec",
+      "latitude": 46.386688,
+      "longitude": 16.547368
+    },
+    {
+      "name": "DVD Pavlovec",
+      "latitude": 46.016988,
+      "longitude": 15.883332
+    },
+    {
+      "name": "DVD Perušić",
+      "latitude": 44.650416,
+      "longitude": 15.383793
+    },
+    {
+      "name": "DVD Petlovac",
+      "latitude": 45.757829,
+      "longitude": 18.531582
+    },
+    {
+      "name": "DVD Pešćenica",
+      "latitude": 45.600808,
+      "longitude": 16.172016
+    },
+    {
+      "name": "DVD Piljenice",
+      "latitude": 45.435495,
+      "longitude": 16.854382
+    },
+    {
+      "name": "DVD Piškorevci",
+      "latitude": 45.253228,
+      "longitude": 18.398924
+    },
+    {
+      "name": "DVD Planina Donja",
+      "latitude": 45.926524,
+      "longitude": 16.090917
+    },
+    {
+      "name": "DVD Planina Gornja",
+      "latitude": 45.937299,
+      "longitude": 16.079442
+    },
+    {
+      "name": "DVD Plesmo",
+      "latitude": 45.312709,
+      "longitude": 16.834628
+    },
+    {
+      "name": "DVD Plešivica",
+      "latitude": 45.724266,
+      "longitude": 15.647105
+    },
+    {
+      "name": "DVD Podgajci Podravski",
+      "latitude": 45.73164,
+      "longitude": 18.265611
+    },
+    {
+      "name": "DVD Podturen",
+      "latitude": 46.465803,
+      "longitude": 16.546499
+    },
+    {
+      "name": "DVD Popovac",
+      "latitude": 45.805344,
+      "longitude": 18.661841
+    },
+    {
+      "name": "DVD Popovača",
+      "latitude": 45.570459,
+      "longitude": 16.627321
+    },
+    {
+      "name": "DVD Potok",
+      "latitude": 45.55174,
+      "longitude": 16.585719
+    },
+    {
+      "name": "DVD Povelić",
+      "latitude": 46.015556,
+      "longitude": 16.71101
+    },
+    {
+      "name": "DVD Predavac",
+      "latitude": 45.937217,
+      "longitude": 16.776714
+    },
+    {
+      "name": "DVD Preloščica",
+      "latitude": 45.437074,
+      "longitude": 16.486034
+    },
+    {
+      "name": "DVD Prspa",
+      "latitude": 45.863975,
+      "longitude": 16.919099
+    },
+    {
+      "name": "DVD Prugovac",
+      "latitude": 45.969681,
+      "longitude": 17.120611
+    },
+    {
+      "name": "DVD Pula",
+      "latitude": 44.877369,
+      "longitude": 13.856966
+    },
+    {
+      "name": "DVD Punitovci",
+      "latitude": 45.434187,
+      "longitude": 18.412144
+    },
+    {
+      "name": "DVD Puska",
+      "latitude": 45.321005,
+      "longitude": 16.791705
+    },
+    {
+      "name": "DVD Pučišća",
+      "latitude": 43.347309,
+      "longitude": 16.743574
+    },
+    {
+      "name": "DVD Pušćine",
+      "latitude": 46.346562,
+      "longitude": 16.361049
+    },
+    {
+      "name": "DVD Rab",
+      "latitude": 44.761707,
+      "longitude": 14.762243
+    },
+    {
+      "name": "DVD Radakovo",
+      "latitude": 45.991437,
+      "longitude": 15.766062
+    },
+    {
+      "name": "DVD Rakitje",
+      "latitude": 45.792228,
+      "longitude": 15.820658
+    },
+    {
+      "name": "DVD Rakovec",
+      "latitude": 46.05252,
+      "longitude": 15.770984
+    },
+    {
+      "name": "DVD Rakovica",
+      "latitude": 44.993135,
+      "longitude": 15.652155
+    },
+    {
+      "name": "DVD Rasinja",
+      "latitude": 46.188121,
+      "longitude": 16.709186
+    },
+    {
+      "name": "DVD Reka",
+      "latitude": 46.128641,
+      "longitude": 16.768974
+    },
+    {
+      "name": "DVD Retfala",
+      "latitude": 45.564987,
+      "longitude": 18.652783
+    },
+    {
+      "name": "DVD Ribnica",
+      "latitude": 45.715933,
+      "longitude": 16.150091
+    },
+    {
+      "name": "DVD Ribnik",
+      "latitude": 45.576115,
+      "longitude": 15.350202
+    },
+    {
+      "name": "DVD Robadje",
+      "latitude": 46.483684,
+      "longitude": 16.256919
+    },
+    {
+      "name": "DVD Rogoznica",
+      "latitude": 43.523495,
+      "longitude": 15.968293
+    },
+    {
+      "name": "DVD Ruševo",
+      "latitude": 45.309545,
+      "longitude": 17.994518
+    },
+    {
+      "name": "DVD Saborsko",
+      "latitude": 44.977147,
+      "longitude": 15.492052
+    },
+    {
+      "name": "DVD Sali",
+      "latitude": 43.934194,
+      "longitude": 15.15865
+    },
+    {
+      "name": "DVD Samarica",
+      "latitude": 45.699147,
+      "longitude": 16.763768
+    },
+    {
+      "name": "DVD Samobor",
+      "latitude": 45.8027,
+      "longitude": 15.70707
+    },
+    {
+      "name": "DVD Sesvetska Selnica",
+      "latitude": 45.816662,
+      "longitude": 16.134107
+    },
+    {
+      "name": "DVD Severin",
+      "latitude": 45.840316,
+      "longitude": 16.968351
+    },
+    {
+      "name": "DVD Sinj",
+      "latitude": 43.698115,
+      "longitude": 16.640205
+    },
+    {
+      "name": "DVD Sirela",
+      "latitude": 45.890443,
+      "longitude": 16.829417
+    },
+    {
+      "name": "DVD Sirova Katalena",
+      "latitude": 45.957186,
+      "longitude": 17.059878
+    },
+    {
+      "name": "DVD Skradin",
+      "latitude": 43.821065,
+      "longitude": 15.922498
+    },
+    {
+      "name": "DVD Slakovci",
+      "latitude": 45.223922,
+      "longitude": 18.949835
+    },
+    {
+      "name": "DVD Slanje",
+      "latitude": 46.231934,
+      "longitude": 16.546685
+    },
+    {
+      "name": "DVD Slatine",
+      "latitude": 43.499712,
+      "longitude": 16.333117
+    },
+    {
+      "name": "DVD Slavonski Šamac-Kruševica",
+      "latitude": 45.06599,
+      "longitude": 18.485879
+    },
+    {
+      "name": "DVD Slovinska Kovačica",
+      "latitude": 45.758463,
+      "longitude": 16.981604
+    },
+    {
+      "name": "DVD Srednji Mosti",
+      "latitude": 46.060056,
+      "longitude": 16.855792
+    },
+    {
+      "name": "DVD Srijedska",
+      "latitude": 45.77276,
+      "longitude": 16.841312
+    },
+    {
+      "name": "DVD Stanetinec",
+      "latitude": 46.451476,
+      "longitude": 16.271293
+    },
+    {
+      "name": "DVD Stančići",
+      "latitude": 45.903605,
+      "longitude": 16.756028
+    },
+    {
+      "name": "DVD Stara Rača",
+      "latitude": 45.810423,
+      "longitude": 16.949475
+    },
+    {
+      "name": "DVD Stara Sela",
+      "latitude": 45.461861,
+      "longitude": 15.479396
+    },
+    {
+      "name": "DVD Stari Gradac",
+      "latitude": 45.925221,
+      "longitude": 17.290032
+    },
+    {
+      "name": "DVD Starigrad Paklenica",
+      "latitude": 44.295589,
+      "longitude": 15.438517
+    },
+    {
+      "name": "DVD Stipanovci",
+      "latitude": 45.473813,
+      "longitude": 18.181529
+    },
+    {
+      "name": "DVD Straža",
+      "latitude": 46.22184,
+      "longitude": 15.720187
+    },
+    {
+      "name": "DVD Strmec",
+      "latitude": 45.81267,
+      "longitude": 15.789466
+    },
+    {
+      "name": "DVD Strmec Bukevski",
+      "latitude": 45.745143,
+      "longitude": 16.163072
+    },
+    {
+      "name": "DVD Strmec Podravski",
+      "latitude": 46.361691,
+      "longitude": 16.185513
+    },
+    {
+      "name": "DVD Strošinci",
+      "latitude": 44.916133,
+      "longitude": 19.062823
+    },
+    {
+      "name": "DVD Struga",
+      "latitude": 46.295723,
+      "longitude": 16.651751
+    },
+    {
+      "name": "DVD Stružec",
+      "latitude": 45.527304,
+      "longitude": 16.549975
+    },
+    {
+      "name": "DVD Stupnik",
+      "latitude": 45.756263,
+      "longitude": 15.852218
+    },
+    {
+      "name": "DVD Suha Katalena",
+      "latitude": 45.944146,
+      "longitude": 17.08492
+    },
+    {
+      "name": "DVD Supetar",
+      "latitude": 43.384697,
+      "longitude": 16.542838
+    },
+    {
+      "name": "DVD Sutlanska Poljana",
+      "latitude": 46.146596,
+      "longitude": 15.614351
+    },
+    {
+      "name": "DVD Suša",
+      "latitude": 45.629864,
+      "longitude": 16.287993
+    },
+    {
+      "name": "DVD Sveta Klara",
+      "latitude": 45.756733,
+      "longitude": 15.970742
+    },
+    {
+      "name": "DVD Sveta Marija",
+      "latitude": 46.331995,
+      "longitude": 16.744463
+    },
+    {
+      "name": "DVD Sveta Nedelja",
+      "latitude": 45.79719,
+      "longitude": 15.778887
+    },
+    {
+      "name": "DVD Sveti Ivan Žabno",
+      "latitude": 45.945143,
+      "longitude": 16.605671
+    },
+    {
+      "name": "DVD Sveti Juraj u Trnju",
+      "latitude": 46.377524,
+      "longitude": 16.608563
+    },
+    {
+      "name": "DVD Sveti Križ",
+      "latitude": 46.339446,
+      "longitude": 16.539537
+    },
+    {
+      "name": "DVD Sveti Martin na Muri",
+      "latitude": 46.524497,
+      "longitude": 16.366369
+    },
+    {
+      "name": "DVD Sveti Petar Čvrstec",
+      "latitude": 46.004044,
+      "longitude": 16.664566
+    },
+    {
+      "name": "DVD Sveti Đurađ",
+      "latitude": 45.740809,
+      "longitude": 18.241812
+    },
+    {
+      "name": "DVD Svinjarevci",
+      "latitude": 45.252093,
+      "longitude": 18.964067
+    },
+    {
+      "name": "DVD Tiborjanci",
+      "latitude": 45.683027,
+      "longitude": 18.336007
+    },
+    {
+      "name": "DVD Tisno",
+      "latitude": 43.799829,
+      "longitude": 15.64782
+    },
+    {
+      "name": "DVD Tkon",
+      "latitude": 43.923168,
+      "longitude": 15.411252
+    },
+    {
+      "name": "DVD Tomaš",
+      "latitude": 45.88983,
+      "longitude": 16.918843
+    },
+    {
+      "name": "DVD Topolovac 1909",
+      "latitude": 45.456368,
+      "longitude": 16.433031
+    },
+    {
+      "name": "DVD Toranj",
+      "latitude": 45.410493,
+      "longitude": 17.594195
+    },
+    {
+      "name": "DVD Torčec",
+      "latitude": 46.221004,
+      "longitude": 16.885534
+    },
+    {
+      "name": "DVD Trilj",
+      "latitude": 43.615372,
+      "longitude": 16.7262
+    },
+    {
+      "name": "DVD Trnovitički Popovac",
+      "latitude": 45.645887,
+      "longitude": 16.870539
+    },
+    {
+      "name": "DVD Trstenik",
+      "latitude": 45.897224,
+      "longitude": 15.750147
+    },
+    {
+      "name": "DVD Turkovići",
+      "latitude": 45.274788,
+      "longitude": 15.173772
+    },
+    {
+      "name": "DVD Turopolje",
+      "latitude": 45.647535,
+      "longitude": 16.13689
+    },
+    {
+      "name": "DVD Turčišće",
+      "latitude": 46.41752,
+      "longitude": 16.594288
+    },
+    {
+      "name": "DVD Tužno",
+      "latitude": 46.253741,
+      "longitude": 16.237512
+    },
+    {
+      "name": "DVD UDBINA",
+      "latitude": 44.531434,
+      "longitude": 15.768082
+    },
+    {
+      "name": "DVD Uljanik",
+      "latitude": 45.534574,
+      "longitude": 17.023242
+    },
+    {
+      "name": "DVD Učka",
+      "latitude": 45.304052,
+      "longitude": 14.193354
+    },
+    {
+      "name": "DVD Vagovina",
+      "latitude": 45.781075,
+      "longitude": 16.674274
+    },
+    {
+      "name": "DVD Valpovo",
+      "latitude": 45.662432,
+      "longitude": 18.413729
+    },
+    {
+      "name": "DVD Varaždinbreg",
+      "latitude": 46.228342,
+      "longitude": 16.385133
+    },
+    {
+      "name": "DVD Vardarac",
+      "latitude": 45.624703,
+      "longitude": 18.770409
+    },
+    {
+      "name": "DVD Velika",
+      "latitude": 45.454056,
+      "longitude": 17.663445
+    },
+    {
+      "name": "DVD Velika Barna",
+      "latitude": 45.734442,
+      "longitude": 17.139407
+    },
+    {
+      "name": "DVD Velika Buna",
+      "latitude": 45.626735,
+      "longitude": 16.070221
+    },
+    {
+      "name": "DVD Velika Ludina",
+      "latitude": 45.609468,
+      "longitude": 16.586845
+    },
+    {
+      "name": "DVD Velika Mlaka",
+      "latitude": 45.736212,
+      "longitude": 16.030226
+    },
+    {
+      "name": "DVD Velika Pisanica",
+      "latitude": 45.80071,
+      "longitude": 17.06616
+    },
+    {
+      "name": "DVD Velika Pisanica",
+      "latitude": 45.802326,
+      "longitude": 17.065755
+    },
+    {
+      "name": "DVD Velika Črešnjevica",
+      "latitude": 45.907225,
+      "longitude": 17.179842
+    },
+    {
+      "name": "DVD Veliki Bukovec",
+      "latitude": 46.288229,
+      "longitude": 16.70921
+    },
+    {
+      "name": "DVD Veliki Grđevac",
+      "latitude": 45.758153,
+      "longitude": 17.048443
+    },
+    {
+      "name": "DVD Veliki Pašijan",
+      "latitude": 45.631522,
+      "longitude": 16.928812
+    },
+    {
+      "name": "DVD Veliki Zdenci",
+      "latitude": 45.663238,
+      "longitude": 17.089792
+    },
+    {
+      "name": "DVD Veliko Trojstvo",
+      "latitude": 45.931007,
+      "longitude": 16.928882
+    },
+    {
+      "name": "DVD Veliko Vukovje",
+      "latitude": 45.508369,
+      "longitude": 16.892623
+    },
+    {
+      "name": "DVD Viljevo",
+      "latitude": 45.751555,
+      "longitude": 18.063046
+    },
+    {
+      "name": "DVD Vinica",
+      "latitude": 46.336156,
+      "longitude": 16.152103
+    },
+    {
+      "name": "DVD Virje",
+      "latitude": 46.067049,
+      "longitude": 16.991158
+    },
+    {
+      "name": "DVD Vratišinec",
+      "latitude": 46.476784,
+      "longitude": 16.456452
+    },
+    {
+      "name": "DVD Vrbica",
+      "latitude": 45.305943,
+      "longitude": 18.559231
+    },
+    {
+      "name": "DVD Vrgorac",
+      "latitude": 43.20433,
+      "longitude": 17.372199
+    },
+    {
+      "name": "DVD Vujići",
+      "latitude": 46.077426,
+      "longitude": 16.604202
+    },
+    {
+      "name": "DVD Vuka",
+      "latitude": 45.437477,
+      "longitude": 18.505788
+    },
+    {
+      "name": "DVD Vukovina",
+      "latitude": 45.682943,
+      "longitude": 16.110415
+    },
+    {
+      "name": "DVD Vučetinec",
+      "latitude": 46.435411,
+      "longitude": 16.369735
+    },
+    {
+      "name": "DVD Zaprešić",
+      "latitude": 45.856824,
+      "longitude": 15.808176
+    },
+    {
+      "name": "DVD Zasadbreg",
+      "latitude": 46.446365,
+      "longitude": 16.411812
+    },
+    {
+      "name": "DVD Zaton",
+      "latitude": 43.7889,
+      "longitude": 15.822021
+    },
+    {
+      "name": "DVD Zdenčac",
+      "latitude": 45.625746,
+      "longitude": 16.95642
+    },
+    {
+      "name": "DVD Zelčin",
+      "latitude": 45.614435,
+      "longitude": 18.365395
+    },
+    {
+      "name": "DVD Zmajevac",
+      "latitude": 45.800344,
+      "longitude": 18.80642
+    },
+    {
+      "name": "DVD Zrinski Topolovac",
+      "latitude": 46.022197,
+      "longitude": 16.751451
+    },
+    {
+      "name": "DVD Zvekovac",
+      "latitude": 45.820115,
+      "longitude": 16.506302
+    },
+    {
+      "name": "DVD Ćelije",
+      "latitude": 45.438916,
+      "longitude": 18.804613
+    },
+    {
+      "name": "DVD Čemernica Lonjska",
+      "latitude": 45.766107,
+      "longitude": 16.416994
+    },
+    {
+      "name": "DVD Čepin",
+      "latitude": 45.523061,
+      "longitude": 18.563273
+    },
+    {
+      "name": "DVD Čret",
+      "latitude": 46.113103,
+      "longitude": 15.814124
+    },
+    {
+      "name": "DVD Črečan",
+      "latitude": 46.39285,
+      "longitude": 16.342713
+    },
+    {
+      "name": "DVD Črnkovci",
+      "latitude": 45.707563,
+      "longitude": 18.295653
+    },
+    {
+      "name": "DVD Đakovo",
+      "latitude": 45.307654,
+      "longitude": 18.415862
+    },
+    {
+      "name": "DVD Đulovac",
+      "latitude": 45.662422,
+      "longitude": 17.429741
+    },
+    {
+      "name": "DVD Đurđic",
+      "latitude": 46.002829,
+      "longitude": 16.585241
+    },
+    {
+      "name": "DVD Šandrovac",
+      "latitude": 45.905268,
+      "longitude": 17.025653
+    },
+    {
+      "name": "DVD Šašinovec",
+      "latitude": 45.850025,
+      "longitude": 16.165374
+    },
+    {
+      "name": "DVD Šibovac",
+      "latitude": 45.568061,
+      "longitude": 17.198053
+    },
+    {
+      "name": "DVD Šiljakovina",
+      "latitude": 45.633597,
+      "longitude": 16.021765
+    },
+    {
+      "name": "DVD Široko Polje",
+      "latitude": 45.40511,
+      "longitude": 18.466556
+    },
+    {
+      "name": "DVD Škrljevo",
+      "latitude": 45.32093,
+      "longitude": 14.525711
+    },
+    {
+      "name": "DVD Štefanje",
+      "latitude": 45.806002,
+      "longitude": 16.718535
+    },
+    {
+      "name": "DVD Štitar",
+      "latitude": 45.094229,
+      "longitude": 18.639556
+    },
+    {
+      "name": "DVD Štrigova",
+      "latitude": 46.500844,
+      "longitude": 16.288569
+    },
+    {
+      "name": "DVD Žabjak",
+      "latitude": 45.932714,
+      "longitude": 16.73849
+    },
+    {
+      "name": "DVD Ždralovi",
+      "latitude": 45.878671,
+      "longitude": 16.880893
+    },
+    {
+      "name": "DVD Železna Gora",
+      "latitude": 46.481374,
+      "longitude": 16.309815
+    },
+    {
+      "name": "DVD Željezničar",
+      "latitude": 45.423259,
+      "longitude": 15.016834
+    },
+    {
+      "name": "DVD Žrnovnica",
+      "latitude": 43.518537,
+      "longitude": 16.557256
+    },
+    {
+      "name": "Gasilski dom",
+      "latitude": 45.922762,
+      "longitude": 15.702549
+    },
+    {
+      "name": "Javna vatrogasna postaja Zabok",
+      "latitude": 46.014908,
+      "longitude": 15.887636
+    },
+    {
+      "name": "Javna vatrogasna postrojba Beli Manastir",
+      "latitude": 45.771753,
+      "longitude": 18.601872
+    },
+    {
+      "name": "Javna vatrogasna postrojba Benkovac",
+      "latitude": 44.029763,
+      "longitude": 15.608563
+    },
+    {
+      "name": "Javna vatrogasna postrojba Garešnica",
+      "latitude": 45.590966,
+      "longitude": 16.939072
+    },
+    {
+      "name": "Javna vatrogasna postrojba Grada Križevaca",
+      "latitude": 46.029153,
+      "longitude": 16.544913
+    },
+    {
+      "name": "Javna vatrogasna postrojba Grada Rijeke",
+      "latitude": 45.331303,
+      "longitude": 14.429492
+    },
+    {
+      "name": "Javna vatrogasna postrojba Grada Samobora",
+      "latitude": 45.793568,
+      "longitude": 15.723995
+    },
+    {
+      "name": "Javna vatrogasna postrojba Grada Splita",
+      "latitude": 43.520864,
+      "longitude": 16.458343
+    },
+    {
+      "name": "Javna vatrogasna postrojba Grada Čazme",
+      "latitude": 45.748761,
+      "longitude": 16.596312
+    },
+    {
+      "name": "Javna vatrogasna postrojba Metković",
+      "latitude": 43.055586,
+      "longitude": 17.657999
+    },
+    {
+      "name": "Javna vatrogasna postrojba Požega",
+      "latitude": 45.337478,
+      "longitude": 17.705423
+    },
+    {
+      "name": "Javna vatrogasna postrojba Rovinj",
+      "latitude": 45.080206,
+      "longitude": 13.641992
+    },
+    {
+      "name": "Javna vatrogasna postrojba Sisak",
+      "latitude": 45.480594,
+      "longitude": 16.379864
+    },
+    {
+      "name": "JPVP Osijek",
+      "latitude": 45.553502,
+      "longitude": 18.703562
+    },
+    {
+      "name": "JVP \"Dubrovački vatrogasci\"",
+      "latitude": 42.642904,
+      "longitude": 18.110485
+    },
+    {
+      "name": "JVP Petrinja",
+      "latitude": 45.435296,
+      "longitude": 16.290433
+    },
+    {
+      "name": "JVP Poreč",
+      "latitude": 45.228467,
+      "longitude": 13.602666
+    },
+    {
+      "name": "JVP Trogir",
+      "latitude": 43.519007,
+      "longitude": 16.243476
+    },
+    {
+      "name": "JVP Vinkovci",
+      "latitude": 45.287413,
+      "longitude": 18.804312
+    },
+    {
+      "name": "JVP Zadar",
+      "latitude": 44.110152,
+      "longitude": 15.245748
+    },
+    {
+      "name": "JVP Čakovec",
+      "latitude": 46.389093,
+      "longitude": 16.441538
+    },
+    {
+      "name": "JVP Šenkovec",
+      "latitude": 45.888905,
+      "longitude": 15.694077
+    },
+    {
+      "name": "Opatija",
+      "latitude": 45.337587,
+      "longitude": 14.30751
+    },
+    {
+      "name": "Ostrna",
+      "latitude": 45.78722,
+      "longitude": 16.283085
+    },
+    {
+      "name": "PGD Globoka",
+      "latitude": 46.50335,
+      "longitude": 16.252877
+    },
+    {
+      "name": "PGD Hotiza",
+      "latitude": 46.55065,
+      "longitude": 16.357846
+    },
+    {
+      "name": "Prostovoljno gasilsko društvo Rogatec",
+      "latitude": 46.225316,
+      "longitude": 15.69995
+    },
+    {
+      "name": "Servis vatrogasnih aparata",
+      "latitude": 46.029115,
+      "longitude": 16.545364
+    },
+    {
+      "name": "Vadrogasci",
+      "latitude": 45.107225,
+      "longitude": 13.71478
+    },
+    {
+      "name": "Vastrogasni dom Lastovo",
+      "latitude": 42.744144,
+      "longitude": 16.8246
+    },
+    {
+      "name": "Vastrogasni novi dom Lastovo",
+      "latitude": 42.745314,
+      "longitude": 16.832503
+    },
+    {
+      "name": "Vatogasni dom Biškupci",
+      "latitude": 45.43889,
+      "longitude": 17.609017
+    },
+    {
+      "name": "Vatrogasci",
+      "latitude": 44.031867,
+      "longitude": 16.19418
+    },
+    {
+      "name": "Vatrogasci",
+      "latitude": 45.402568,
+      "longitude": 13.977579
+    },
+    {
+      "name": "Vatrogasci Bakar",
+      "latitude": 45.305241,
+      "longitude": 14.536735
+    },
+    {
+      "name": "Vatrogasci Marina",
+      "latitude": 43.513369,
+      "longitude": 16.109037
+    },
+    {
+      "name": "Vatrogasci Orebić",
+      "latitude": 42.977509,
+      "longitude": 17.176616
+    },
+    {
+      "name": "Vatrogasci Paklenica",
+      "latitude": 46.496794,
+      "longitude": 16.474648
+    },
+    {
+      "name": "Vatrogasci Stari Grad",
+      "latitude": 43.186039,
+      "longitude": 16.59811
+    },
+    {
+      "name": "Vatrogasci Zlarin",
+      "latitude": 43.697461,
+      "longitude": 15.835081
+    },
+    {
+      "name": "Vatrogasna postaja",
+      "latitude": 45.477297,
+      "longitude": 16.779902
+    },
+    {
+      "name": "Vatrogasna postaja Centar",
+      "latitude": 45.806454,
+      "longitude": 15.968237
+    },
+    {
+      "name": "Vatrogasna postaja Imotski",
+      "latitude": 43.446109,
+      "longitude": 17.218986
+    },
+    {
+      "name": "Vatrogasna postaja Ivanić-Grad",
+      "latitude": 45.70478,
+      "longitude": 16.391238
+    },
+    {
+      "name": "Vatrogasna postaja Novi Zagreb",
+      "latitude": 45.779592,
+      "longitude": 15.965188
+    },
+    {
+      "name": "Vatrogasna postaja Prečec",
+      "latitude": 45.761679,
+      "longitude": 16.352432
+    },
+    {
+      "name": "Vatrogasna postaja Ravna Gora",
+      "latitude": 45.381471,
+      "longitude": 14.9355
+    },
+    {
+      "name": "Vatrogasna postaja tunel Učka (portal Istra)",
+      "latitude": 45.318571,
+      "longitude": 14.172196
+    },
+    {
+      "name": "vatrogasna postaja Vežica",
+      "latitude": 45.318096,
+      "longitude": 14.473043
+    },
+    {
+      "name": "Vatrogasna postaja Zagreb (Dubrava)",
+      "latitude": 45.831503,
+      "longitude": 16.062964
+    },
+    {
+      "name": "Vatrogasna postaja Zagreb (Jankomir)",
+      "latitude": 45.810873,
+      "longitude": 15.878481
+    },
+    {
+      "name": "Vatrogasna postaja Zagreb (Žitnjak)",
+      "latitude": 45.794759,
+      "longitude": 16.015287
+    },
+    {
+      "name": "Vatrogasna Postrojba",
+      "latitude": 43.9379,
+      "longitude": 15.454891
+    },
+    {
+      "name": "Vatrogasna postrojba tunel Tuhobić",
+      "latitude": 45.322314,
+      "longitude": 14.624988
+    },
+    {
+      "name": "Vatrogasna postrojba Vrbovsko",
+      "latitude": 45.362807,
+      "longitude": 15.087648
+    },
+    {
+      "name": "Vatrogasna stanica",
+      "latitude": 45.224963,
+      "longitude": 19.381028
+    },
+    {
+      "name": "Vatrogasna stanica Daruvar",
+      "latitude": 45.588307,
+      "longitude": 17.218101
+    },
+    {
+      "name": "Vatrogasna zajednica grada Slatine",
+      "latitude": 45.701297,
+      "longitude": 17.700239
+    },
+    {
+      "name": "Vatrogasni centar Karlovac",
+      "latitude": 45.496223,
+      "longitude": 15.558461
+    },
+    {
+      "name": "Vatrogasni centar Rovišće",
+      "latitude": 45.945074,
+      "longitude": 16.727132
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 42.961542,
+      "longitude": 16.723215
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 43.398068,
+      "longitude": 17.053375
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.051229,
+      "longitude": 16.377329
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.113629,
+      "longitude": 15.585976
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.115696,
+      "longitude": 18.535069
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.152625,
+      "longitude": 18.01698
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.156496,
+      "longitude": 18.395671
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.262134,
+      "longitude": 15.230159
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.345239,
+      "longitude": 19.003402
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.523566,
+      "longitude": 17.979201
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.620014,
+      "longitude": 17.548942
+    },
+    {
+      "name": "Vatrogasni Dom",
+      "latitude": 45.652395,
+      "longitude": 16.265017
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.663297,
+      "longitude": 18.484226
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.674937,
+      "longitude": 15.400779
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.679833,
+      "longitude": 16.25453
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.756,
+      "longitude": 18.727688
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.893748,
+      "longitude": 16.05851
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 45.944611,
+      "longitude": 15.913314
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 46.107645,
+      "longitude": 16.218378
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 46.132743,
+      "longitude": 16.900617
+    },
+    {
+      "name": "Vatrogasni dom",
+      "latitude": 46.169345,
+      "longitude": 17.14108
+    },
+    {
+      "name": "Vatrogasni dom Bjelovar",
+      "latitude": 45.895908,
+      "longitude": 16.829954
+    },
+    {
+      "name": "Vatrogasni dom DVD",
+      "latitude": 45.628274,
+      "longitude": 15.498796
+    },
+    {
+      "name": "Vatrogasni dom DVD",
+      "latitude": 45.640813,
+      "longitude": 15.481648
+    },
+    {
+      "name": "Vatrogasni dom DVD Biskupec Zelinski",
+      "latitude": 45.960878,
+      "longitude": 16.233353
+    },
+    {
+      "name": "Vatrogasni dom DVD Kurilovec",
+      "latitude": 45.70327,
+      "longitude": 16.07235
+    },
+    {
+      "name": "Vatrogasni dom DVD-a Donji Kneginec",
+      "latitude": 46.258332,
+      "longitude": 16.385381
+    },
+    {
+      "name": "Vatrogasni dom Gola",
+      "latitude": 46.199405,
+      "longitude": 17.059411
+    },
+    {
+      "name": "Vatrogasni dom Golo Brdo",
+      "latitude": 45.439603,
+      "longitude": 17.700776
+    },
+    {
+      "name": "Vatrogasni dom Hodošan",
+      "latitude": 46.395657,
+      "longitude": 16.643238
+    },
+    {
+      "name": "Vatrogasni dom Jelsa",
+      "latitude": 43.15939,
+      "longitude": 16.68269
+    },
+    {
+      "name": "Vatrogasni dom Komin",
+      "latitude": 46.004159,
+      "longitude": 16.285451
+    },
+    {
+      "name": "Vatrogasni dom Kutjevo",
+      "latitude": 45.425411,
+      "longitude": 17.883598
+    },
+    {
+      "name": "Vatrogasni dom Malo Trojstvo",
+      "latitude": 45.970814,
+      "longitude": 16.949254
+    },
+    {
+      "name": "Vatrogasni dom Novska",
+      "latitude": 45.337884,
+      "longitude": 16.979834
+    },
+    {
+      "name": "Vatrogasni dom Pavao Štoos Dubravica",
+      "latitude": 45.952692,
+      "longitude": 15.732286
+    },
+    {
+      "name": "Vatrogasni Dom Prelog",
+      "latitude": 46.336616,
+      "longitude": 16.614334
+    },
+    {
+      "name": "Vatrogasni dom Sesvete",
+      "latitude": 45.830349,
+      "longitude": 16.116447
+    },
+    {
+      "name": "Vatrogasni dom Sirač",
+      "latitude": 45.527047,
+      "longitude": 17.258498
+    },
+    {
+      "name": "Vatrogasni dom Stari Mikanovci",
+      "latitude": 45.286242,
+      "longitude": 18.55962
+    },
+    {
+      "name": "Vatrogasni dom u Gornjoj Vasi",
+      "latitude": 45.772651,
+      "longitude": 15.469099
+    },
+    {
+      "name": "Vatrogasni dom Varaždin",
+      "latitude": 46.312033,
+      "longitude": 16.337973
+    },
+    {
+      "name": "Vatrogasni dom Šandrovac",
+      "latitude": 45.905348,
+      "longitude": 17.025727
+    },
+    {
+      "name": "Vatrogasni dom Šestine",
+      "latitude": 45.852118,
+      "longitude": 15.949929
+    },
+    {
+      "name": "Vatrogasni dom Šibenik",
+      "latitude": 43.738308,
+      "longitude": 15.89029
+    },
+    {
+      "name": "VFD Trnovec",
+      "latitude": 46.294891,
+      "longitude": 16.404206
+    },
+    {
+      "name": "Vrlika",
+      "latitude": 43.911017,
+      "longitude": 16.397551
+    },
+    {
+      "name": "VZO Viljevo",
+      "latitude": 45.751711,
+      "longitude": 18.062557
+    },
+    {
+      "name": "ДВД Бачки Моноштор",
+      "latitude": 45.795008,
+      "longitude": 18.934187
+    }
+  ],
+  "meta": {
+    "title": "Vatrogasne postaje - Besplatno preuzimanje",
+    "description": "Vatrogasne postaje u Hrvatskoj (560 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=fire_station), izrez EU-POIS/HR. Sadrži 560 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vatrogasne postaje | ListBase",
+    "seo_description": "Preuzmi Vatrogasne postaje — 560 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 560 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "id": "hr-mjerne-jedinice-area",
+  "name": "Mjerne jedinice — kategorija 'area' (13)",
+  "title": "Mjerne jedinice — kategorija 'area' (13)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'area' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "area-acre",
+      "kategorija": "area",
+      "naziv": "katastarska jutra",
+      "kratica": "kj",
+      "naziv_uski": "kj",
+      "obrazac": "{0} katastarskih jutara"
+    },
+    {
+      "id": 2,
+      "unit_code": "area-bu-jp",
+      "kategorija": "area",
+      "naziv": "bu [JP]",
+      "kratica": "bu [JP]",
+      "naziv_uski": "bu [JP]",
+      "obrazac": "{0} bu [JP]"
+    },
+    {
+      "id": 3,
+      "unit_code": "area-cho",
+      "kategorija": "area",
+      "naziv": "cho [JP]",
+      "kratica": "cho [JP]",
+      "naziv_uski": "cho [JP]",
+      "obrazac": "{0} cho [JP]"
+    },
+    {
+      "id": 4,
+      "unit_code": "area-dunam",
+      "kategorija": "area",
+      "naziv": "dunami",
+      "kratica": "dunami",
+      "naziv_uski": "dunam",
+      "obrazac": "{0} dunama"
+    },
+    {
+      "id": 5,
+      "unit_code": "area-hectare",
+      "kategorija": "area",
+      "naziv": "hektari",
+      "kratica": "ha",
+      "naziv_uski": "ha",
+      "obrazac": "{0} hektara"
+    },
+    {
+      "id": 6,
+      "unit_code": "area-se-jp",
+      "kategorija": "area",
+      "naziv": "se [JP]",
+      "kratica": "se [JP]",
+      "naziv_uski": "se [JP]",
+      "obrazac": "{0} se [JP]"
+    },
+    {
+      "id": 7,
+      "unit_code": "area-square-centimeter",
+      "kategorija": "area",
+      "naziv": "kvadratni centimetri",
+      "kratica": "cm²",
+      "naziv_uski": "cm²",
+      "obrazac": "{0} kvadratnih centimetara"
+    },
+    {
+      "id": 8,
+      "unit_code": "area-square-foot",
+      "kategorija": "area",
+      "naziv": "kvadratne stope",
+      "kratica": "ft²",
+      "naziv_uski": "ft²",
+      "obrazac": "{0} kvadratnih stopa"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-square-inch",
+      "kategorija": "area",
+      "naziv": "kvadratni inči",
+      "kratica": "in²",
+      "naziv_uski": "in²",
+      "obrazac": "{0} kvadratnih inča"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-square-kilometer",
+      "kategorija": "area",
+      "naziv": "kvadratni kilometri",
+      "kratica": "km²",
+      "naziv_uski": "km²",
+      "obrazac": "{0} kvadratnih kilometara"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-square-meter",
+      "kategorija": "area",
+      "naziv": "kvadratni metri",
+      "kratica": "m²",
+      "naziv_uski": "m²",
+      "obrazac": "{0} kvadratnih metara"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-square-mile",
+      "kategorija": "area",
+      "naziv": "kvadratne milje",
+      "kratica": "mi²",
+      "naziv_uski": "mi²",
+      "obrazac": "{0} kvadratnih milja"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-square-yard",
+      "kategorija": "area",
+      "naziv": "kvadratni jardi",
+      "kratica": "yd²",
+      "naziv_uski": "yd²",
+      "obrazac": "{0} kvadratnih jardi"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'area' (13) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'area' s hrvatskim nazivima. Sadrži 13 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'area' (13) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'area' (13) — 13 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 13 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

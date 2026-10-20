@@ -1,0 +1,1164 @@
+{
+  "id": "hr-vremenske-zone-metazone",
+  "name": "Metazone (nadregionalne vremenske zone) — hrvatski nazivi",
+  "title": "Metazone (nadregionalne vremenske zone) — hrvatski nazivi",
+  "description": "Nadregionalne vremenske zone (metazone) CLDR hr lokala s općim, standardnim i ljetnim nazivom.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 159,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "opce_ime",
+      "label": "Opce Ime",
+      "type": "string"
+    },
+    {
+      "key": "standardno_ime",
+      "label": "Standardno Ime",
+      "type": "string"
+    },
+    {
+      "key": "ljetno_ime",
+      "label": "Ljetno Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Acre",
+      "opce_ime": "Acre vrijeme",
+      "standardno_ime": "Acre standardno vrijeme",
+      "ljetno_ime": "Acre ljetno vrijeme"
+    },
+    {
+      "id": 2,
+      "code": "Afghanistan",
+      "opce_ime": "",
+      "standardno_ime": "afganistansko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 3,
+      "code": "Africa_Central",
+      "opce_ime": "",
+      "standardno_ime": "srednjoafričko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 4,
+      "code": "Africa_Eastern",
+      "opce_ime": "",
+      "standardno_ime": "istočnoafričko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 5,
+      "code": "Africa_Southern",
+      "opce_ime": "",
+      "standardno_ime": "južnoafričko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 6,
+      "code": "Africa_Western",
+      "opce_ime": "",
+      "standardno_ime": "zapadnoafričko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 7,
+      "code": "Alaska",
+      "opce_ime": "aljaško vrijeme",
+      "standardno_ime": "aljaško standardno vrijeme",
+      "ljetno_ime": "aljaško ljetno vrijeme"
+    },
+    {
+      "id": 8,
+      "code": "Almaty",
+      "opce_ime": "altmajsko vrijeme",
+      "standardno_ime": "altmajsko standardno vrijeme",
+      "ljetno_ime": "altmajsko ljetno vrijeme"
+    },
+    {
+      "id": 9,
+      "code": "Amazon",
+      "opce_ime": "amazonsko vrijeme",
+      "standardno_ime": "amazonsko standardno vrijeme",
+      "ljetno_ime": "amazonsko ljetno vrijeme"
+    },
+    {
+      "id": 10,
+      "code": "America_Central",
+      "opce_ime": "središnje vrijeme",
+      "standardno_ime": "središnje standardno vrijeme",
+      "ljetno_ime": "središnje ljetno vrijeme"
+    },
+    {
+      "id": 11,
+      "code": "America_Eastern",
+      "opce_ime": "istočno vrijeme",
+      "standardno_ime": "istočno standardno vrijeme",
+      "ljetno_ime": "istočno ljetno vrijeme"
+    },
+    {
+      "id": 12,
+      "code": "America_Mountain",
+      "opce_ime": "planinsko vrijeme",
+      "standardno_ime": "planinsko standardno vrijeme",
+      "ljetno_ime": "planinsko ljetno vrijeme"
+    },
+    {
+      "id": 13,
+      "code": "America_Pacific",
+      "opce_ime": "pacifičko vrijeme",
+      "standardno_ime": "pacifičko standardno vrijeme",
+      "ljetno_ime": "pacifičko ljetno vrijeme"
+    },
+    {
+      "id": 14,
+      "code": "Anadyr",
+      "opce_ime": "anadirsko vrijeme",
+      "standardno_ime": "anadirsko standardno vrijeme",
+      "ljetno_ime": "anadirsko ljetno vrijeme"
+    },
+    {
+      "id": 15,
+      "code": "Apia",
+      "opce_ime": "vrijeme Apije",
+      "standardno_ime": "standardno vrijeme Apije",
+      "ljetno_ime": "ljetno vrijeme Apije"
+    },
+    {
+      "id": 16,
+      "code": "Aqtau",
+      "opce_ime": "vrijeme grada Aktau",
+      "standardno_ime": "standardno vrijeme grada Aktau",
+      "ljetno_ime": "ljetno vrijeme grada Aktau"
+    },
+    {
+      "id": 17,
+      "code": "Aqtobe",
+      "opce_ime": "vrijeme grada Aktobe",
+      "standardno_ime": "standardno vrijeme grada Aktobe",
+      "ljetno_ime": "ljetno vrijeme grada Aktobe"
+    },
+    {
+      "id": 18,
+      "code": "Arabian",
+      "opce_ime": "arapsko vrijeme",
+      "standardno_ime": "arapsko standardno vrijeme",
+      "ljetno_ime": "arapsko ljetno vrijeme"
+    },
+    {
+      "id": 19,
+      "code": "Argentina",
+      "opce_ime": "argentinsko vrijeme",
+      "standardno_ime": "argentinsko standardno vrijeme",
+      "ljetno_ime": "argentinsko ljetno vrijeme"
+    },
+    {
+      "id": 20,
+      "code": "Argentina_Western",
+      "opce_ime": "zapadnoargentinsko vrijeme",
+      "standardno_ime": "zapadnoargentinsko standardno vrijeme",
+      "ljetno_ime": "zapadnoargentinsko ljetno vrijeme"
+    },
+    {
+      "id": 21,
+      "code": "Armenia",
+      "opce_ime": "armensko vrijeme",
+      "standardno_ime": "armensko standardno vrijeme",
+      "ljetno_ime": "armensko ljetno vrijeme"
+    },
+    {
+      "id": 22,
+      "code": "Atlantic",
+      "opce_ime": "atlantsko vrijeme",
+      "standardno_ime": "atlantsko standardno vrijeme",
+      "ljetno_ime": "atlantsko ljetno vrijeme"
+    },
+    {
+      "id": 23,
+      "code": "Australia_Central",
+      "opce_ime": "srednjoaustralsko vrijeme",
+      "standardno_ime": "srednjoaustralsko standardno vrijeme",
+      "ljetno_ime": "srednjoaustralsko ljetno vrijeme"
+    },
+    {
+      "id": 24,
+      "code": "Australia_CentralWestern",
+      "opce_ime": "australsko središnje zapadno vrijeme",
+      "standardno_ime": "australsko središnje zapadno standardno vrijeme",
+      "ljetno_ime": "australsko središnje zapadno ljetno vrijeme"
+    },
+    {
+      "id": 25,
+      "code": "Australia_Eastern",
+      "opce_ime": "istočnoaustralsko vrijeme",
+      "standardno_ime": "istočnoaustralsko standardno vrijeme",
+      "ljetno_ime": "istočnoaustralsko ljetno vrijeme"
+    },
+    {
+      "id": 26,
+      "code": "Australia_Western",
+      "opce_ime": "zapadnoaustralsko vrijeme",
+      "standardno_ime": "zapadnoaustralsko standardno vrijeme",
+      "ljetno_ime": "zapadnoaustralsko ljetno vrijeme"
+    },
+    {
+      "id": 27,
+      "code": "Azerbaijan",
+      "opce_ime": "azerbajdžansko vrijeme",
+      "standardno_ime": "azerbajdžansko standardno vrijeme",
+      "ljetno_ime": "azerbajdžansko ljetno vrijeme"
+    },
+    {
+      "id": 28,
+      "code": "Azores",
+      "opce_ime": "azorsko vrijeme",
+      "standardno_ime": "azorsko standardno vrijeme",
+      "ljetno_ime": "azorsko ljetno vrijeme"
+    },
+    {
+      "id": 29,
+      "code": "Bangladesh",
+      "opce_ime": "bangladeško vrijeme",
+      "standardno_ime": "bangladeško standardno vrijeme",
+      "ljetno_ime": "bangladeško ljetno vrijeme"
+    },
+    {
+      "id": 30,
+      "code": "Bhutan",
+      "opce_ime": "",
+      "standardno_ime": "butansko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 31,
+      "code": "Bolivia",
+      "opce_ime": "",
+      "standardno_ime": "bolivijsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 32,
+      "code": "Brasilia",
+      "opce_ime": "brazilsko vrijeme",
+      "standardno_ime": "brazilsko standardno vrijeme",
+      "ljetno_ime": "brazilsko ljetno vrijeme"
+    },
+    {
+      "id": 33,
+      "code": "Brunei",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme za Brunej Darussalam",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 34,
+      "code": "Cape_Verde",
+      "opce_ime": "vrijeme Zelenortskog otočja",
+      "standardno_ime": "standardno vrijeme Zelenortskog otočja",
+      "ljetno_ime": "ljetno vrijeme Zelenortskog otočja"
+    },
+    {
+      "id": 35,
+      "code": "Casey",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Caseyja",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 36,
+      "code": "Chamorro",
+      "opce_ime": "",
+      "standardno_ime": "standardno vrijeme Chamorra",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 37,
+      "code": "Chatham",
+      "opce_ime": "vrijeme Chathama",
+      "standardno_ime": "standardno vrijeme Chathama",
+      "ljetno_ime": "ljetno vrijeme Chathama"
+    },
+    {
+      "id": 38,
+      "code": "Chile",
+      "opce_ime": "čileansko vrijeme",
+      "standardno_ime": "čileansko standardno vrijeme",
+      "ljetno_ime": "čileansko ljetno vrijeme"
+    },
+    {
+      "id": 39,
+      "code": "China",
+      "opce_ime": "kinesko vrijeme",
+      "standardno_ime": "kinesko standardno vrijeme",
+      "ljetno_ime": "kinesko ljetno vrijeme"
+    },
+    {
+      "id": 40,
+      "code": "Christmas",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Božićnog Otoka",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 41,
+      "code": "Cocos",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Kokosovih Otoka",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 42,
+      "code": "Colombia",
+      "opce_ime": "kolumbijsko vrijeme",
+      "standardno_ime": "kolumbijsko standardno vrijeme",
+      "ljetno_ime": "kolumbijsko ljetno vrijeme"
+    },
+    {
+      "id": 43,
+      "code": "Cook",
+      "opce_ime": "vrijeme Cookovih Otoka",
+      "standardno_ime": "standardno vrijeme Cookovih Otoka",
+      "ljetno_ime": "Cookovi Otoci, polusatni pomak, ljetno vrijeme"
+    },
+    {
+      "id": 44,
+      "code": "Cuba",
+      "opce_ime": "kubansko vrijeme",
+      "standardno_ime": "kubansko standardno vrijeme",
+      "ljetno_ime": "kubansko ljetno vrijeme"
+    },
+    {
+      "id": 45,
+      "code": "Davis",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Davisa",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 46,
+      "code": "DumontDUrville",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Dumont-d’Urvillea",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 47,
+      "code": "East_Timor",
+      "opce_ime": "",
+      "standardno_ime": "istočnotimorsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 48,
+      "code": "Easter",
+      "opce_ime": "vrijeme Uskršnjeg otoka",
+      "standardno_ime": "standardno vrijeme Uskršnjeg otoka",
+      "ljetno_ime": "ljetno vrijeme Uskršnjeg otoka"
+    },
+    {
+      "id": 49,
+      "code": "Ecuador",
+      "opce_ime": "",
+      "standardno_ime": "ekvadorsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 50,
+      "code": "Europe_Central",
+      "opce_ime": "srednjoeuropsko vrijeme",
+      "standardno_ime": "srednjoeuropsko standardno vrijeme",
+      "ljetno_ime": "srednjoeuropsko ljetno vrijeme"
+    },
+    {
+      "id": 51,
+      "code": "Europe_Eastern",
+      "opce_ime": "istočnoeuropsko vrijeme",
+      "standardno_ime": "istočnoeuropsko standardno vrijeme",
+      "ljetno_ime": "istočnoeuropsko ljetno vrijeme"
+    },
+    {
+      "id": 52,
+      "code": "Europe_Further_Eastern",
+      "opce_ime": "",
+      "standardno_ime": "dalekoistočno europsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 53,
+      "code": "Europe_Western",
+      "opce_ime": "zapadnoeuropsko vrijeme",
+      "standardno_ime": "zapadnoeuropsko standardno vrijeme",
+      "ljetno_ime": "zapadnoeuropsko ljetno vrijeme"
+    },
+    {
+      "id": 54,
+      "code": "Falkland",
+      "opce_ime": "falklandsko vrijeme",
+      "standardno_ime": "falklandsko standardno vrijeme",
+      "ljetno_ime": "falklandsko ljetno vrijeme"
+    },
+    {
+      "id": 55,
+      "code": "Fiji",
+      "opce_ime": "vrijeme Fidžija",
+      "standardno_ime": "standardno vrijeme Fidžija",
+      "ljetno_ime": "ljetno vrijeme Fidžija"
+    },
+    {
+      "id": 56,
+      "code": "French_Guiana",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Francuske Gijane",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 57,
+      "code": "French_Southern",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Francuskih Južnih Teritorija",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 58,
+      "code": "GMT",
+      "opce_ime": "",
+      "standardno_ime": "univerzalno vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 59,
+      "code": "Galapagos",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Galapagosa",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 60,
+      "code": "Gambier",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Gambiera",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 61,
+      "code": "Georgia",
+      "opce_ime": "gruzijsko vrijeme",
+      "standardno_ime": "gruzijsko standardno vrijeme",
+      "ljetno_ime": "gruzijsko ljetno vrijeme"
+    },
+    {
+      "id": 62,
+      "code": "Gilbert_Islands",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Gilbertovih otoka",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 63,
+      "code": "Greenland_Eastern",
+      "opce_ime": "istočnogrenlandsko vrijeme",
+      "standardno_ime": "istočnogrenlandsko standardno vrijeme",
+      "ljetno_ime": "istočnogrenlandsko ljetno vrijeme"
+    },
+    {
+      "id": 64,
+      "code": "Greenland_Western",
+      "opce_ime": "zapadnogrenlandsko vrijeme",
+      "standardno_ime": "zapadnogrenlandsko standardno vrijeme",
+      "ljetno_ime": "zapadnogrenlandsko ljetno vrijeme"
+    },
+    {
+      "id": 65,
+      "code": "Guam",
+      "opce_ime": "",
+      "standardno_ime": "guamsko standardno vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 66,
+      "code": "Gulf",
+      "opce_ime": "",
+      "standardno_ime": "zaljevsko standardno vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 67,
+      "code": "Guyana",
+      "opce_ime": "",
+      "standardno_ime": "gvajansko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 68,
+      "code": "Hawaii",
+      "opce_ime": "",
+      "standardno_ime": "havajsko-aleutsko standardno vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 69,
+      "code": "Hawaii_Aleutian",
+      "opce_ime": "havajsko-aleutsko vrijeme",
+      "standardno_ime": "havajsko-aleutsko standardno vrijeme",
+      "ljetno_ime": "havajsko-aleutsko ljetno vrijeme"
+    },
+    {
+      "id": 70,
+      "code": "Hong_Kong",
+      "opce_ime": "hongkonško vrijeme",
+      "standardno_ime": "hongkonško standardno vrijeme",
+      "ljetno_ime": "hongkonško ljetno vrijeme"
+    },
+    {
+      "id": 71,
+      "code": "Hovd",
+      "opce_ime": "hovdsko vrijeme",
+      "standardno_ime": "hovdsko standardno vrijeme",
+      "ljetno_ime": "hovdsko ljetno vrijeme"
+    },
+    {
+      "id": 72,
+      "code": "India",
+      "opce_ime": "",
+      "standardno_ime": "indijsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 73,
+      "code": "Indian_Ocean",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Indijskog oceana",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 74,
+      "code": "Indochina",
+      "opce_ime": "",
+      "standardno_ime": "indokinesko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 75,
+      "code": "Indonesia_Central",
+      "opce_ime": "",
+      "standardno_ime": "srednjoindonezijsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 76,
+      "code": "Indonesia_Eastern",
+      "opce_ime": "",
+      "standardno_ime": "istočnoindonezijsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 77,
+      "code": "Indonesia_Western",
+      "opce_ime": "",
+      "standardno_ime": "zapadnoindonezijsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 78,
+      "code": "Iran",
+      "opce_ime": "iransko vrijeme",
+      "standardno_ime": "iransko standardno vrijeme",
+      "ljetno_ime": "iransko ljetno vrijeme"
+    },
+    {
+      "id": 79,
+      "code": "Irkutsk",
+      "opce_ime": "irkutsko vrijeme",
+      "standardno_ime": "irkutsko standardno vrijeme",
+      "ljetno_ime": "irkutsko ljetno vrijeme"
+    },
+    {
+      "id": 80,
+      "code": "Israel",
+      "opce_ime": "izraelsko vrijeme",
+      "standardno_ime": "izraelsko standardno vrijeme",
+      "ljetno_ime": "izraelsko ljetno vrijeme"
+    },
+    {
+      "id": 81,
+      "code": "Japan",
+      "opce_ime": "japansko vrijeme",
+      "standardno_ime": "japansko standardno vrijeme",
+      "ljetno_ime": "japansko ljetno vrijeme"
+    },
+    {
+      "id": 82,
+      "code": "Kamchatka",
+      "opce_ime": "Petropavlovsk-kamčatsko vrijeme",
+      "standardno_ime": "Petropavlovsk-kamčatsko standardno vrijeme",
+      "ljetno_ime": "Petropavlovsk-kamčatsko ljetno vrijeme"
+    },
+    {
+      "id": 83,
+      "code": "Kazakhstan",
+      "opce_ime": "",
+      "standardno_ime": "kazahstansko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 84,
+      "code": "Kazakhstan_Eastern",
+      "opce_ime": "",
+      "standardno_ime": "istočnokazahstansko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 85,
+      "code": "Kazakhstan_Western",
+      "opce_ime": "",
+      "standardno_ime": "zapadnokazahstansko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 86,
+      "code": "Korea",
+      "opce_ime": "korejsko vrijeme",
+      "standardno_ime": "korejsko standardno vrijeme",
+      "ljetno_ime": "korejsko ljetno vrijeme"
+    },
+    {
+      "id": 87,
+      "code": "Kosrae",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Kosrae",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 88,
+      "code": "Krasnoyarsk",
+      "opce_ime": "krasnojarsko vrijeme",
+      "standardno_ime": "krasnojarsko standardno vrijeme",
+      "ljetno_ime": "krasnojarsko ljetno vrijeme"
+    },
+    {
+      "id": 89,
+      "code": "Kyrgystan",
+      "opce_ime": "",
+      "standardno_ime": "kirgistansko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 90,
+      "code": "Lanka",
+      "opce_ime": "",
+      "standardno_ime": "lankansko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 91,
+      "code": "Line_Islands",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Ekvatorskih otoka",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 92,
+      "code": "Lord_Howe",
+      "opce_ime": "vrijeme otoka Lord Howe",
+      "standardno_ime": "standardno vrijeme otoka Lord Howe",
+      "ljetno_ime": "ljetno vrijeme otoka Lord Howe"
+    },
+    {
+      "id": 93,
+      "code": "Macau",
+      "opce_ime": "makaosko vrijeme",
+      "standardno_ime": "standardno makaosko vrijeme",
+      "ljetno_ime": "ljetno makaosko vrijeme"
+    },
+    {
+      "id": 94,
+      "code": "Magadan",
+      "opce_ime": "magadansko vrijeme",
+      "standardno_ime": "magadansko standardno vrijeme",
+      "ljetno_ime": "magadansko ljetno vrijeme"
+    },
+    {
+      "id": 95,
+      "code": "Malaysia",
+      "opce_ime": "",
+      "standardno_ime": "malezijsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 96,
+      "code": "Maldives",
+      "opce_ime": "",
+      "standardno_ime": "maldivsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 97,
+      "code": "Marquesas",
+      "opce_ime": "",
+      "standardno_ime": "markižansko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 98,
+      "code": "Marshall_Islands",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Maršalovih Otoka",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 99,
+      "code": "Mauritius",
+      "opce_ime": "vrijeme Mauricijusa",
+      "standardno_ime": "standardno vrijeme Mauricijusa",
+      "ljetno_ime": "ljetno vrijeme Mauricijusa"
+    },
+    {
+      "id": 100,
+      "code": "Mawson",
+      "opce_ime": "",
+      "standardno_ime": "mawsonsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 101,
+      "code": "Mexico_Pacific",
+      "opce_ime": "meksičko pacifičko vrijeme",
+      "standardno_ime": "meksičko pacifičko standardno vrijeme",
+      "ljetno_ime": "meksičko pacifičko ljetno vrijeme"
+    },
+    {
+      "id": 102,
+      "code": "Mongolia",
+      "opce_ime": "ulanbatorsko vrijeme",
+      "standardno_ime": "ulanbatorsko standardno vrijeme",
+      "ljetno_ime": "ulanbatorsko ljetno vrijeme"
+    },
+    {
+      "id": 103,
+      "code": "Moscow",
+      "opce_ime": "moskovsko vrijeme",
+      "standardno_ime": "moskovsko standardno vrijeme",
+      "ljetno_ime": "moskovsko ljetno vrijeme"
+    },
+    {
+      "id": 104,
+      "code": "Myanmar",
+      "opce_ime": "",
+      "standardno_ime": "mjanmarsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 105,
+      "code": "Nauru",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Naurua",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 106,
+      "code": "Nepal",
+      "opce_ime": "",
+      "standardno_ime": "nepalsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 107,
+      "code": "New_Caledonia",
+      "opce_ime": "vrijeme Nove Kaledonije",
+      "standardno_ime": "standardno vrijeme Nove Kaledonije",
+      "ljetno_ime": "ljetno vrijeme Nove Kaledonije"
+    },
+    {
+      "id": 108,
+      "code": "New_Zealand",
+      "opce_ime": "novozelandsko vrijeme",
+      "standardno_ime": "novozelandsko standardno vrijeme",
+      "ljetno_ime": "novozelandsko ljetno vrijeme"
+    },
+    {
+      "id": 109,
+      "code": "Newfoundland",
+      "opce_ime": "newfoundlandsko vrijeme",
+      "standardno_ime": "newfoundlandsko standardno vrijeme",
+      "ljetno_ime": "newfoundlandsko ljetno vrijeme"
+    },
+    {
+      "id": 110,
+      "code": "Niue",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Niuea",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 111,
+      "code": "Norfolk",
+      "opce_ime": "vrijeme Otoka Norfolk",
+      "standardno_ime": "standardno vrijeme Otoka Norfolk",
+      "ljetno_ime": "ljetno vrijeme Otoka Norfolk"
+    },
+    {
+      "id": 112,
+      "code": "Noronha",
+      "opce_ime": "vrijeme grada Fernando de Noronha",
+      "standardno_ime": "standardno vrijeme grada Fernando de Noronha",
+      "ljetno_ime": "ljetno vrijeme grada Fernando de Noronha"
+    },
+    {
+      "id": 113,
+      "code": "North_Mariana",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Sjevernomarijanskih Otoka",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 114,
+      "code": "Novosibirsk",
+      "opce_ime": "novosibirsko vrijeme",
+      "standardno_ime": "novosibirsko standardno vrijeme",
+      "ljetno_ime": "novosibirsko ljetno vrijeme"
+    },
+    {
+      "id": 115,
+      "code": "Omsk",
+      "opce_ime": "omsko vrijeme",
+      "standardno_ime": "omsko standardno vrijeme",
+      "ljetno_ime": "omsko ljetno vrijeme"
+    },
+    {
+      "id": 116,
+      "code": "Pakistan",
+      "opce_ime": "pakistansko vrijeme",
+      "standardno_ime": "pakistansko standardno vrijeme",
+      "ljetno_ime": "pakistansko ljetno vrijeme"
+    },
+    {
+      "id": 117,
+      "code": "Palau",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Palaua",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 118,
+      "code": "Papua_New_Guinea",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Papue Nove Gvineje",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 119,
+      "code": "Paraguay",
+      "opce_ime": "paragvajsko vrijeme",
+      "standardno_ime": "paragvajsko standardno vrijeme",
+      "ljetno_ime": "paragvajsko ljetno vrijeme"
+    },
+    {
+      "id": 120,
+      "code": "Peru",
+      "opce_ime": "peruansko vrijeme",
+      "standardno_ime": "peruansko standardno vrijeme",
+      "ljetno_ime": "peruansko ljetno vrijeme"
+    },
+    {
+      "id": 121,
+      "code": "Philippines",
+      "opce_ime": "filipinsko vrijeme",
+      "standardno_ime": "filipinsko standardno vrijeme",
+      "ljetno_ime": "filipinsko ljetno vrijeme"
+    },
+    {
+      "id": 122,
+      "code": "Phoenix_Islands",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Otoka Phoenix",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 123,
+      "code": "Pierre_Miquelon",
+      "opce_ime": "vrijeme za Sveti Petar i Mikelon",
+      "standardno_ime": "standardno vrijeme za Sveti Petar i Mikelon",
+      "ljetno_ime": "ljetno vrijeme za Sveti Petar i Mikelon"
+    },
+    {
+      "id": 124,
+      "code": "Pitcairn",
+      "opce_ime": "",
+      "standardno_ime": "pitcairnsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 125,
+      "code": "Ponape",
+      "opce_ime": "",
+      "standardno_ime": "ponapejsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 126,
+      "code": "Pyongyang",
+      "opce_ime": "",
+      "standardno_ime": "pjongjanško vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 127,
+      "code": "Qyzylorda",
+      "opce_ime": "vrijeme grada Kizilorde",
+      "standardno_ime": "standardno vrijeme grada Kizilorde",
+      "ljetno_ime": "ljetno vrijeme grada Kizilorde"
+    },
+    {
+      "id": 128,
+      "code": "Reunion",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Reuniona",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 129,
+      "code": "Rothera",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Rothere",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 130,
+      "code": "Sakhalin",
+      "opce_ime": "sahalinsko vrijeme",
+      "standardno_ime": "sahalinsko standardno vrijeme",
+      "ljetno_ime": "sahalinsko ljetno vrijeme"
+    },
+    {
+      "id": 131,
+      "code": "Samara",
+      "opce_ime": "samarsko vrijeme",
+      "standardno_ime": "samarsko standardno vrijeme",
+      "ljetno_ime": "samarsko ljetno vrijeme"
+    },
+    {
+      "id": 132,
+      "code": "Samoa",
+      "opce_ime": "samoansko vrijeme",
+      "standardno_ime": "samoansko standardno vrijeme",
+      "ljetno_ime": "samoansko ljetno vrijeme"
+    },
+    {
+      "id": 133,
+      "code": "Seychelles",
+      "opce_ime": "",
+      "standardno_ime": "sejšelsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 134,
+      "code": "Singapore",
+      "opce_ime": "",
+      "standardno_ime": "singapursko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 135,
+      "code": "Solomon",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Salomonovih Otoka",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 136,
+      "code": "South_Georgia",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Južne Georgije",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 137,
+      "code": "Suriname",
+      "opce_ime": "",
+      "standardno_ime": "surinamsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 138,
+      "code": "Syowa",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Syowe",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 139,
+      "code": "Tahiti",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Tahitija",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 140,
+      "code": "Taipei",
+      "opce_ime": "tajpeško vrijeme",
+      "standardno_ime": "tajpeško standardno vrijeme",
+      "ljetno_ime": "tajpeško ljetno vrijeme"
+    },
+    {
+      "id": 141,
+      "code": "Tajikistan",
+      "opce_ime": "",
+      "standardno_ime": "tadžikistansko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 142,
+      "code": "Tokelau",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Tokelaua",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 143,
+      "code": "Tonga",
+      "opce_ime": "vrijeme Tonge",
+      "standardno_ime": "standardno vrijeme Tonge",
+      "ljetno_ime": "ljetno vrijeme Tonge"
+    },
+    {
+      "id": 144,
+      "code": "Truk",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Chuuka",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 145,
+      "code": "Turkey",
+      "opce_ime": "tursko vrijeme",
+      "standardno_ime": "tursko standardno vrijeme",
+      "ljetno_ime": "tursko ljetno vrijeme"
+    },
+    {
+      "id": 146,
+      "code": "Turkmenistan",
+      "opce_ime": "turkmenistansko vrijeme",
+      "standardno_ime": "turkmenistansko standardno vrijeme",
+      "ljetno_ime": "turkmenistansko ljetno vrijeme"
+    },
+    {
+      "id": 147,
+      "code": "Tuvalu",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Tuvalua",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 148,
+      "code": "Uruguay",
+      "opce_ime": "urugvajsko vrijeme",
+      "standardno_ime": "urugvajsko standardno vrijeme",
+      "ljetno_ime": "urugvajsko ljetno vrijeme"
+    },
+    {
+      "id": 149,
+      "code": "Uzbekistan",
+      "opce_ime": "uzbekistansko vrijeme",
+      "standardno_ime": "uzbekistansko standardno vrijeme",
+      "ljetno_ime": "uzbekistansko ljetno vrijeme"
+    },
+    {
+      "id": 150,
+      "code": "Vanuatu",
+      "opce_ime": "vrijeme Vanuatua",
+      "standardno_ime": "standardno vrijeme Vanuatua",
+      "ljetno_ime": "ljetno vrijeme Vanuatua"
+    },
+    {
+      "id": 151,
+      "code": "Venezuela",
+      "opce_ime": "",
+      "standardno_ime": "venezuelsko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 152,
+      "code": "Vladivostok",
+      "opce_ime": "vladivostočko vrijeme",
+      "standardno_ime": "vladivostočko standardno vrijeme",
+      "ljetno_ime": "vladivostočko ljetno vrijeme"
+    },
+    {
+      "id": 153,
+      "code": "Volgograd",
+      "opce_ime": "volgogradsko vrijeme",
+      "standardno_ime": "volgogradsko standardno vrijeme",
+      "ljetno_ime": "volgogradsko ljetno vrijeme"
+    },
+    {
+      "id": 154,
+      "code": "Vostok",
+      "opce_ime": "",
+      "standardno_ime": "vostočko vrijeme",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 155,
+      "code": "Wake",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Otoka Wake",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 156,
+      "code": "Wallis",
+      "opce_ime": "",
+      "standardno_ime": "vrijeme Otoka Wallis i Futuna",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 157,
+      "code": "Yakutsk",
+      "opce_ime": "jakutsko vrijeme",
+      "standardno_ime": "jakutsko standardno vrijeme",
+      "ljetno_ime": "jakutsko ljetno vrijeme"
+    },
+    {
+      "id": 158,
+      "code": "Yekaterinburg",
+      "opce_ime": "jekaterinburško vrijeme",
+      "standardno_ime": "jekaterinburško standardno vrijeme",
+      "ljetno_ime": "jekaterinburško ljetno vrijeme"
+    },
+    {
+      "id": 159,
+      "code": "Yukon",
+      "opce_ime": "",
+      "standardno_ime": "jukonško vrijeme",
+      "ljetno_ime": ""
+    }
+  ],
+  "meta": {
+    "title": "Metazone (nadregionalne vremenske zone) — hrvatski nazivi - Besplatno preuzimanje",
+    "description": "Nadregionalne vremenske zone (metazone) CLDR hr lokala s općim, standardnim i ljetnim nazivom. Sadrži 159 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Metazone (nadregionalne vremenske zone) — hrvatski nazivi | ListBase",
+    "seo_description": "Preuzmi Metazone (nadregionalne vremenske zone) — hrvatski nazivi — 159 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 159 zapisa / 5 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

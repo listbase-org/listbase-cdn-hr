@@ -1,0 +1,973 @@
+{
+  "id": "hr-hrvatska-nogometna-reprezentacija-bilanca-protiv-protivnika",
+  "name": "Hrvatska nogometna reprezentacija — bilanca protiv svakog protivnika (82)",
+  "title": "Hrvatska nogometna reprezentacija — bilanca protiv svakog protivnika (82)",
+  "description": "Hrvatska nogometna reprezentacija: Ukupna bilanca protiv svakog protivnika, izračunata iz svih utakmica u results.csv: utakmice, pobjede, neriješeni, porazi, dani i primljeni golovi, prva i zadnja utakmica. Ishod prema konačnom rezultatu (bez jedanaesteraca). Poredano po broju utakmica.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "protivnik",
+      "label": "Protivnik",
+      "type": "string"
+    },
+    {
+      "key": "utakmice",
+      "label": "Utakmice",
+      "type": "number"
+    },
+    {
+      "key": "pobjede",
+      "label": "Pobjede",
+      "type": "number"
+    },
+    {
+      "key": "nerijeseno",
+      "label": "Nerijeseno",
+      "type": "number"
+    },
+    {
+      "key": "porazi",
+      "label": "Porazi",
+      "type": "number"
+    },
+    {
+      "key": "golovi_dani",
+      "label": "Golovi Dani",
+      "type": "number"
+    },
+    {
+      "key": "golovi_primljeni",
+      "label": "Golovi Primljeni",
+      "type": "number"
+    },
+    {
+      "key": "prva_utakmica",
+      "label": "Prva Utakmica",
+      "type": "date"
+    },
+    {
+      "key": "zadnja_utakmica",
+      "label": "Zadnja Utakmica",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "protivnik": "Slovakia",
+      "utakmice": 14,
+      "pobjede": 10,
+      "nerijeseno": 3,
+      "porazi": 1,
+      "golovi_dani": 38,
+      "golovi_primljeni": 16,
+      "prva_utakmica": "1941-09-28",
+      "zadnja_utakmica": "2021-10-11"
+    },
+    {
+      "protivnik": "Slovenia",
+      "utakmice": 13,
+      "pobjede": 8,
+      "nerijeseno": 4,
+      "porazi": 1,
+      "golovi_dani": 22,
+      "golovi_primljeni": 11,
+      "prva_utakmica": "1991-06-19",
+      "zadnja_utakmica": "2026-06-07"
+    },
+    {
+      "protivnik": "England",
+      "utakmice": 12,
+      "pobjede": 3,
+      "nerijeseno": 2,
+      "porazi": 7,
+      "golovi_dani": 15,
+      "golovi_primljeni": 26,
+      "prva_utakmica": "1996-04-24",
+      "zadnja_utakmica": "2026-06-17"
+    },
+    {
+      "protivnik": "France",
+      "utakmice": 12,
+      "pobjede": 2,
+      "nerijeseno": 3,
+      "porazi": 7,
+      "golovi_dani": 12,
+      "golovi_primljeni": 22,
+      "prva_utakmica": "1998-07-08",
+      "zadnja_utakmica": "2025-03-23"
+    },
+    {
+      "protivnik": "Hungary",
+      "utakmice": 12,
+      "pobjede": 4,
+      "nerijeseno": 6,
+      "porazi": 2,
+      "golovi_dani": 19,
+      "golovi_primljeni": 10,
+      "prva_utakmica": "1940-05-02",
+      "zadnja_utakmica": "2019-10-10"
+    },
+    {
+      "protivnik": "Turkey",
+      "utakmice": 12,
+      "pobjede": 4,
+      "nerijeseno": 6,
+      "porazi": 2,
+      "golovi_dani": 15,
+      "golovi_primljeni": 10,
+      "prva_utakmica": "1996-06-11",
+      "zadnja_utakmica": "2023-10-12"
+    },
+    {
+      "protivnik": "Portugal",
+      "utakmice": 11,
+      "pobjede": 1,
+      "nerijeseno": 2,
+      "porazi": 8,
+      "golovi_dani": 9,
+      "golovi_primljeni": 21,
+      "prva_utakmica": "1996-06-19",
+      "zadnja_utakmica": "2026-07-02"
+    },
+    {
+      "protivnik": "Spain",
+      "utakmice": 11,
+      "pobjede": 3,
+      "nerijeseno": 2,
+      "porazi": 6,
+      "golovi_dani": 12,
+      "golovi_primljeni": 23,
+      "prva_utakmica": "1994-03-23",
+      "zadnja_utakmica": "2024-06-15"
+    },
+    {
+      "protivnik": "Belgium",
+      "utakmice": 10,
+      "pobjede": 3,
+      "nerijeseno": 3,
+      "porazi": 4,
+      "golovi_dani": 9,
+      "golovi_primljeni": 8,
+      "prva_utakmica": "2000-09-02",
+      "zadnja_utakmica": "2026-06-02"
+    },
+    {
+      "protivnik": "Italy",
+      "utakmice": 10,
+      "pobjede": 3,
+      "nerijeseno": 6,
+      "porazi": 1,
+      "golovi_dani": 11,
+      "golovi_primljeni": 11,
+      "prva_utakmica": "1942-04-05",
+      "zadnja_utakmica": "2024-06-24"
+    },
+    {
+      "protivnik": "Malta",
+      "utakmice": 10,
+      "pobjede": 9,
+      "nerijeseno": 1,
+      "porazi": 0,
+      "golovi_dani": 29,
+      "golovi_primljeni": 5,
+      "prva_utakmica": "1998-10-10",
+      "zadnja_utakmica": "2021-11-11"
+    },
+    {
+      "protivnik": "Estonia",
+      "utakmice": 9,
+      "pobjede": 6,
+      "nerijeseno": 2,
+      "porazi": 1,
+      "golovi_dani": 16,
+      "golovi_primljeni": 5,
+      "prva_utakmica": "1994-09-04",
+      "zadnja_utakmica": "2017-03-28"
+    },
+    {
+      "protivnik": "Israel",
+      "utakmice": 9,
+      "pobjede": 8,
+      "nerijeseno": 1,
+      "porazi": 0,
+      "golovi_dani": 22,
+      "golovi_primljeni": 8,
+      "prva_utakmica": "1994-08-17",
+      "zadnja_utakmica": "2016-03-23"
+    },
+    {
+      "protivnik": "North Macedonia",
+      "utakmice": 9,
+      "pobjede": 6,
+      "nerijeseno": 2,
+      "porazi": 1,
+      "golovi_dani": 15,
+      "golovi_primljeni": 9,
+      "prva_utakmica": "1998-10-14",
+      "zadnja_utakmica": "2024-06-03"
+    },
+    {
+      "protivnik": "Ukraine",
+      "utakmice": 9,
+      "pobjede": 5,
+      "nerijeseno": 3,
+      "porazi": 1,
+      "golovi_dani": 15,
+      "golovi_primljeni": 5,
+      "prva_utakmica": "1993-06-25",
+      "zadnja_utakmica": "2017-10-09"
+    },
+    {
+      "protivnik": "Bulgaria",
+      "utakmice": 8,
+      "pobjede": 5,
+      "nerijeseno": 2,
+      "porazi": 1,
+      "golovi_dani": 12,
+      "golovi_primljeni": 6,
+      "prva_utakmica": "2002-02-13",
+      "zadnja_utakmica": "2022-03-29"
+    },
+    {
+      "protivnik": "Denmark",
+      "utakmice": 8,
+      "pobjede": 4,
+      "nerijeseno": 2,
+      "porazi": 2,
+      "golovi_dani": 11,
+      "golovi_primljeni": 8,
+      "prva_utakmica": "1996-06-16",
+      "zadnja_utakmica": "2022-09-22"
+    },
+    {
+      "protivnik": "Germany",
+      "utakmice": 8,
+      "pobjede": 2,
+      "nerijeseno": 1,
+      "porazi": 5,
+      "golovi_dani": 10,
+      "golovi_primljeni": 18,
+      "prva_utakmica": "1941-06-15",
+      "zadnja_utakmica": "2008-06-12"
+    },
+    {
+      "protivnik": "Greece",
+      "utakmice": 8,
+      "pobjede": 2,
+      "nerijeseno": 4,
+      "porazi": 2,
+      "golovi_dani": 10,
+      "golovi_primljeni": 9,
+      "prva_utakmica": "1996-11-10",
+      "zadnja_utakmica": "2017-11-12"
+    },
+    {
+      "protivnik": "Scotland",
+      "utakmice": 8,
+      "pobjede": 2,
+      "nerijeseno": 3,
+      "porazi": 3,
+      "golovi_dani": 7,
+      "golovi_primljeni": 8,
+      "prva_utakmica": "2000-10-11",
+      "zadnja_utakmica": "2024-11-15"
+    },
+    {
+      "protivnik": "Wales",
+      "utakmice": 8,
+      "pobjede": 4,
+      "nerijeseno": 3,
+      "porazi": 1,
+      "golovi_dani": 12,
+      "golovi_primljeni": 7,
+      "prva_utakmica": "2002-08-21",
+      "zadnja_utakmica": "2023-10-15"
+    },
+    {
+      "protivnik": "Austria",
+      "utakmice": 7,
+      "pobjede": 6,
+      "nerijeseno": 0,
+      "porazi": 1,
+      "golovi_dani": 12,
+      "golovi_primljeni": 6,
+      "prva_utakmica": "2000-04-26",
+      "zadnja_utakmica": "2022-09-25"
+    },
+    {
+      "protivnik": "Iceland",
+      "utakmice": 7,
+      "pobjede": 5,
+      "nerijeseno": 1,
+      "porazi": 1,
+      "golovi_dani": 13,
+      "golovi_primljeni": 3,
+      "prva_utakmica": "2005-03-26",
+      "zadnja_utakmica": "2018-06-26"
+    },
+    {
+      "protivnik": "Poland",
+      "utakmice": 7,
+      "pobjede": 4,
+      "nerijeseno": 2,
+      "porazi": 1,
+      "golovi_dani": 11,
+      "golovi_primljeni": 6,
+      "prva_utakmica": "1996-02-28",
+      "zadnja_utakmica": "2024-10-15"
+    },
+    {
+      "protivnik": "Republic of Ireland",
+      "utakmice": 7,
+      "pobjede": 2,
+      "nerijeseno": 3,
+      "porazi": 2,
+      "golovi_dani": 8,
+      "golovi_primljeni": 8,
+      "prva_utakmica": "1996-06-02",
+      "zadnja_utakmica": "2012-06-10"
+    },
+    {
+      "protivnik": "South Korea",
+      "utakmice": 7,
+      "pobjede": 3,
+      "nerijeseno": 2,
+      "porazi": 2,
+      "golovi_dani": 11,
+      "golovi_primljeni": 7,
+      "prva_utakmica": "1996-03-13",
+      "zadnja_utakmica": "2013-09-10"
+    },
+    {
+      "protivnik": "Switzerland",
+      "utakmice": 7,
+      "pobjede": 3,
+      "nerijeseno": 2,
+      "porazi": 2,
+      "golovi_dani": 11,
+      "golovi_primljeni": 8,
+      "prva_utakmica": "1940-04-02",
+      "zadnja_utakmica": "2020-10-07"
+    },
+    {
+      "protivnik": "Andorra",
+      "utakmice": 6,
+      "pobjede": 6,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 24,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2003-04-02",
+      "zadnja_utakmica": "2009-04-01"
+    },
+    {
+      "protivnik": "Argentina",
+      "utakmice": 6,
+      "pobjede": 2,
+      "nerijeseno": 1,
+      "porazi": 3,
+      "golovi_dani": 7,
+      "golovi_primljeni": 8,
+      "prva_utakmica": "1994-06-04",
+      "zadnja_utakmica": "2022-12-13"
+    },
+    {
+      "protivnik": "Australia",
+      "utakmice": 6,
+      "pobjede": 2,
+      "nerijeseno": 2,
+      "porazi": 2,
+      "golovi_dani": 11,
+      "golovi_primljeni": 6,
+      "prva_utakmica": "1992-07-05",
+      "zadnja_utakmica": "2014-06-06"
+    },
+    {
+      "protivnik": "Brazil",
+      "utakmice": 6,
+      "pobjede": 0,
+      "nerijeseno": 2,
+      "porazi": 4,
+      "golovi_dani": 4,
+      "golovi_primljeni": 11,
+      "prva_utakmica": "2005-08-17",
+      "zadnja_utakmica": "2026-03-31"
+    },
+    {
+      "protivnik": "Czech Republic",
+      "utakmice": 6,
+      "pobjede": 2,
+      "nerijeseno": 4,
+      "porazi": 0,
+      "golovi_dani": 13,
+      "golovi_primljeni": 7,
+      "prva_utakmica": "1996-12-12",
+      "zadnja_utakmica": "2025-10-09"
+    },
+    {
+      "protivnik": "Latvia",
+      "utakmice": 6,
+      "pobjede": 6,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 17,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2001-03-24",
+      "zadnja_utakmica": "2023-11-18"
+    },
+    {
+      "protivnik": "Mexico",
+      "utakmice": 6,
+      "pobjede": 4,
+      "nerijeseno": 0,
+      "porazi": 2,
+      "golovi_dani": 9,
+      "golovi_primljeni": 6,
+      "prva_utakmica": "1992-10-22",
+      "zadnja_utakmica": "2018-03-27"
+    },
+    {
+      "protivnik": "Russia",
+      "utakmice": 6,
+      "pobjede": 2,
+      "nerijeseno": 4,
+      "porazi": 0,
+      "golovi_dani": 6,
+      "golovi_primljeni": 3,
+      "prva_utakmica": "2006-09-06",
+      "zadnja_utakmica": "2021-11-14"
+    },
+    {
+      "protivnik": "Sweden",
+      "utakmice": 6,
+      "pobjede": 4,
+      "nerijeseno": 0,
+      "porazi": 2,
+      "golovi_dani": 8,
+      "golovi_primljeni": 7,
+      "prva_utakmica": "2003-04-30",
+      "zadnja_utakmica": "2020-11-14"
+    },
+    {
+      "protivnik": "Norway",
+      "utakmice": 5,
+      "pobjede": 3,
+      "nerijeseno": 1,
+      "porazi": 1,
+      "golovi_dani": 10,
+      "golovi_primljeni": 6,
+      "prva_utakmica": "2007-02-07",
+      "zadnja_utakmica": "2015-09-06"
+    },
+    {
+      "protivnik": "Romania",
+      "utakmice": 5,
+      "pobjede": 4,
+      "nerijeseno": 1,
+      "porazi": 0,
+      "golovi_dani": 8,
+      "golovi_primljeni": 3,
+      "prva_utakmica": "1942-10-11",
+      "zadnja_utakmica": "2009-02-11"
+    },
+    {
+      "protivnik": "Serbia",
+      "utakmice": 5,
+      "pobjede": 2,
+      "nerijeseno": 3,
+      "porazi": 0,
+      "golovi_dani": 9,
+      "golovi_primljeni": 4,
+      "prva_utakmica": "1950-02-26",
+      "zadnja_utakmica": "2013-09-06"
+    },
+    {
+      "protivnik": "Azerbaijan",
+      "utakmice": 4,
+      "pobjede": 2,
+      "nerijeseno": 2,
+      "porazi": 0,
+      "golovi_dani": 9,
+      "golovi_primljeni": 2,
+      "prva_utakmica": "2014-10-13",
+      "zadnja_utakmica": "2019-09-09"
+    },
+    {
+      "protivnik": "Bosnia and Herzegovina",
+      "utakmice": 4,
+      "pobjede": 4,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 14,
+      "golovi_primljeni": 6,
+      "prva_utakmica": "1996-10-08",
+      "zadnja_utakmica": "2007-08-22"
+    },
+    {
+      "protivnik": "Japan",
+      "utakmice": 4,
+      "pobjede": 1,
+      "nerijeseno": 2,
+      "porazi": 1,
+      "golovi_dani": 5,
+      "golovi_primljeni": 5,
+      "prva_utakmica": "1997-06-08",
+      "zadnja_utakmica": "2022-12-05"
+    },
+    {
+      "protivnik": "Armenia",
+      "utakmice": 3,
+      "pobjede": 2,
+      "nerijeseno": 1,
+      "porazi": 0,
+      "golovi_dani": 3,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2021-06-01",
+      "zadnja_utakmica": "2023-11-21"
+    },
+    {
+      "protivnik": "Cyprus",
+      "utakmice": 3,
+      "pobjede": 3,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 6,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2014-09-04",
+      "zadnja_utakmica": "2021-10-08"
+    },
+    {
+      "protivnik": "Georgia",
+      "utakmice": 3,
+      "pobjede": 2,
+      "nerijeseno": 0,
+      "porazi": 1,
+      "golovi_dani": 4,
+      "golovi_primljeni": 3,
+      "prva_utakmica": "2011-03-26",
+      "zadnja_utakmica": "2019-11-19"
+    },
+    {
+      "protivnik": "Gibraltar",
+      "utakmice": 3,
+      "pobjede": 3,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 14,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2015-06-07",
+      "zadnja_utakmica": "2025-10-12"
+    },
+    {
+      "protivnik": "Morocco",
+      "utakmice": 3,
+      "pobjede": 1,
+      "nerijeseno": 2,
+      "porazi": 0,
+      "golovi_dani": 4,
+      "golovi_primljeni": 3,
+      "prva_utakmica": "1996-12-11",
+      "zadnja_utakmica": "2022-12-17"
+    },
+    {
+      "protivnik": "Netherlands",
+      "utakmice": 3,
+      "pobjede": 2,
+      "nerijeseno": 0,
+      "porazi": 1,
+      "golovi_dani": 6,
+      "golovi_primljeni": 6,
+      "prva_utakmica": "1998-07-11",
+      "zadnja_utakmica": "2023-06-14"
+    },
+    {
+      "protivnik": "San Marino",
+      "utakmice": 3,
+      "pobjede": 3,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 18,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2001-06-02",
+      "zadnja_utakmica": "2016-06-04"
+    },
+    {
+      "protivnik": "Belarus",
+      "utakmice": 2,
+      "pobjede": 2,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 4,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2009-08-12",
+      "zadnja_utakmica": "2009-09-05"
+    },
+    {
+      "protivnik": "Egypt",
+      "utakmice": 2,
+      "pobjede": 1,
+      "nerijeseno": 1,
+      "porazi": 0,
+      "golovi_dani": 6,
+      "golovi_primljeni": 4,
+      "prva_utakmica": "1999-06-13",
+      "zadnja_utakmica": "2024-03-26"
+    },
+    {
+      "protivnik": "Faroe Islands",
+      "utakmice": 2,
+      "pobjede": 2,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 4,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2025-09-05",
+      "zadnja_utakmica": "2025-11-14"
+    },
+    {
+      "protivnik": "Finland",
+      "utakmice": 2,
+      "pobjede": 1,
+      "nerijeseno": 1,
+      "porazi": 0,
+      "golovi_dani": 2,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2016-10-09",
+      "zadnja_utakmica": "2017-10-06"
+    },
+    {
+      "protivnik": "Iran",
+      "utakmice": 2,
+      "pobjede": 1,
+      "nerijeseno": 1,
+      "porazi": 0,
+      "golovi_dani": 4,
+      "golovi_primljeni": 2,
+      "prva_utakmica": "1998-06-03",
+      "zadnja_utakmica": "2006-05-28"
+    },
+    {
+      "protivnik": "Kazakhstan",
+      "utakmice": 2,
+      "pobjede": 2,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 5,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2008-09-06",
+      "zadnja_utakmica": "2009-10-14"
+    },
+    {
+      "protivnik": "Kosovo",
+      "utakmice": 2,
+      "pobjede": 2,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 7,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2016-10-06",
+      "zadnja_utakmica": "2017-09-02"
+    },
+    {
+      "protivnik": "Liechtenstein",
+      "utakmice": 2,
+      "pobjede": 2,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 8,
+      "golovi_primljeni": 2,
+      "prva_utakmica": "2009-11-14",
+      "zadnja_utakmica": "2013-08-14"
+    },
+    {
+      "protivnik": "Lithuania",
+      "utakmice": 2,
+      "pobjede": 1,
+      "nerijeseno": 1,
+      "porazi": 0,
+      "golovi_dani": 2,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "1994-10-09",
+      "zadnja_utakmica": "1995-03-29"
+    },
+    {
+      "protivnik": "Moldova",
+      "utakmice": 2,
+      "pobjede": 2,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 2,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2008-05-24",
+      "zadnja_utakmica": "2016-05-27"
+    },
+    {
+      "protivnik": "Montenegro",
+      "utakmice": 2,
+      "pobjede": 2,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 7,
+      "golovi_primljeni": 2,
+      "prva_utakmica": "2025-09-08",
+      "zadnja_utakmica": "2025-11-17"
+    },
+    {
+      "protivnik": "Tunisia",
+      "utakmice": 2,
+      "pobjede": 0,
+      "nerijeseno": 1,
+      "porazi": 1,
+      "golovi_dani": 1,
+      "golovi_primljeni": 2,
+      "prva_utakmica": "2019-06-11",
+      "zadnja_utakmica": "2024-03-23"
+    },
+    {
+      "protivnik": "Albania",
+      "utakmice": 1,
+      "pobjede": 0,
+      "nerijeseno": 1,
+      "porazi": 0,
+      "golovi_dani": 2,
+      "golovi_primljeni": 2,
+      "prva_utakmica": "2024-06-19",
+      "zadnja_utakmica": "2024-06-19"
+    },
+    {
+      "protivnik": "Cameroon",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 4,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2014-06-18",
+      "zadnja_utakmica": "2014-06-18"
+    },
+    {
+      "protivnik": "Canada",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 4,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2022-11-27",
+      "zadnja_utakmica": "2022-11-27"
+    },
+    {
+      "protivnik": "Chile",
+      "utakmice": 1,
+      "pobjede": 0,
+      "nerijeseno": 1,
+      "porazi": 0,
+      "golovi_dani": 1,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2017-01-11",
+      "zadnja_utakmica": "2017-01-11"
+    },
+    {
+      "protivnik": "China",
+      "utakmice": 1,
+      "pobjede": 0,
+      "nerijeseno": 1,
+      "porazi": 0,
+      "golovi_dani": 1,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2017-01-14",
+      "zadnja_utakmica": "2017-01-14"
+    },
+    {
+      "protivnik": "Colombia",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 2,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2026-03-26",
+      "zadnja_utakmica": "2026-03-26"
+    },
+    {
+      "protivnik": "Ecuador",
+      "utakmice": 1,
+      "pobjede": 0,
+      "nerijeseno": 0,
+      "porazi": 1,
+      "golovi_dani": 0,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2002-06-13",
+      "zadnja_utakmica": "2002-06-13"
+    },
+    {
+      "protivnik": "Ghana",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 2,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2026-06-27",
+      "zadnja_utakmica": "2026-06-27"
+    },
+    {
+      "protivnik": "Hong Kong",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 4,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2006-02-01",
+      "zadnja_utakmica": "2006-02-01"
+    },
+    {
+      "protivnik": "Indonesia",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 5,
+      "golovi_primljeni": 2,
+      "prva_utakmica": "1956-09-12",
+      "zadnja_utakmica": "1956-09-12"
+    },
+    {
+      "protivnik": "Jamaica",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 3,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "1998-06-14",
+      "zadnja_utakmica": "1998-06-14"
+    },
+    {
+      "protivnik": "Jordan",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 2,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2018-10-15",
+      "zadnja_utakmica": "2018-10-15"
+    },
+    {
+      "protivnik": "Mali",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 2,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2014-05-31",
+      "zadnja_utakmica": "2014-05-31"
+    },
+    {
+      "protivnik": "Nigeria",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 2,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2018-06-16",
+      "zadnja_utakmica": "2018-06-16"
+    },
+    {
+      "protivnik": "Northern Ireland",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 3,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2016-11-15",
+      "zadnja_utakmica": "2016-11-15"
+    },
+    {
+      "protivnik": "Panama",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 1,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2026-06-23",
+      "zadnja_utakmica": "2026-06-23"
+    },
+    {
+      "protivnik": "Peru",
+      "utakmice": 1,
+      "pobjede": 0,
+      "nerijeseno": 0,
+      "porazi": 1,
+      "golovi_dani": 0,
+      "golovi_primljeni": 2,
+      "prva_utakmica": "2018-03-23",
+      "zadnja_utakmica": "2018-03-23"
+    },
+    {
+      "protivnik": "Qatar",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 3,
+      "golovi_primljeni": 2,
+      "prva_utakmica": "2009-10-08",
+      "zadnja_utakmica": "2009-10-08"
+    },
+    {
+      "protivnik": "Saudi Arabia",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 1,
+      "golovi_primljeni": 0,
+      "prva_utakmica": "2022-11-16",
+      "zadnja_utakmica": "2022-11-16"
+    },
+    {
+      "protivnik": "Senegal",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 2,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "2018-06-08",
+      "zadnja_utakmica": "2018-06-08"
+    },
+    {
+      "protivnik": "United States",
+      "utakmice": 1,
+      "pobjede": 1,
+      "nerijeseno": 0,
+      "porazi": 0,
+      "golovi_dani": 2,
+      "golovi_primljeni": 1,
+      "prva_utakmica": "1990-10-17",
+      "zadnja_utakmica": "1990-10-17"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatska nogometna reprezentacija — bilanca protiv svakog protivnika (82) - Besplatno preuzimanje",
+    "description": "Hrvatska nogometna reprezentacija: Ukupna bilanca protiv svakog protivnika, izračunata iz svih utakmica u results.csv: utakmice, pobjede, neriješeni, porazi, dani i primljeni golovi, prva i zadnja utakmica. Ishod prema konačnom rezultatu (bez jedanaesteraca). Poredano po broju utakmica. Sadrži 82 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Hrvatska nogometna reprezentacija — bilanca protiv svakog protivnika (82) | ListBase",
+    "seo_description": "Preuzmi Hrvatska nogometna reprezentacija — bilanca protiv svakog protivnika (82) — 82 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 82 zapisa / 9 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

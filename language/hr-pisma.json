@@ -1,0 +1,876 @@
+{
+  "id": "hr-pisma",
+  "name": "Svjetska pisma (ISO 15924 / CLDR hrvatski)",
+  "title": "Svjetska pisma (ISO 15924 / CLDR hrvatski)",
+  "description": "ISO 15924 kodovi pisama i njihovi hrvatski nazivi iz CLDR hr lokala.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 167,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Adlm",
+      "naziv": "adlam pismo"
+    },
+    {
+      "id": 2,
+      "code": "Afak",
+      "naziv": "afaka pismo"
+    },
+    {
+      "id": 3,
+      "code": "Arab",
+      "naziv": "arapsko pismo"
+    },
+    {
+      "id": 4,
+      "code": "Arab-alt-variant",
+      "naziv": "perzijsko-arapsko pismo"
+    },
+    {
+      "id": 5,
+      "code": "Aran",
+      "naziv": "nastaliq pismo"
+    },
+    {
+      "id": 6,
+      "code": "Armi",
+      "naziv": "aramejsko pismo"
+    },
+    {
+      "id": 7,
+      "code": "Armn",
+      "naziv": "armensko pismo"
+    },
+    {
+      "id": 8,
+      "code": "Avst",
+      "naziv": "avestansko pismo"
+    },
+    {
+      "id": 9,
+      "code": "Bali",
+      "naziv": "balijsko pismo"
+    },
+    {
+      "id": 10,
+      "code": "Bamu",
+      "naziv": "bamum pismo"
+    },
+    {
+      "id": 11,
+      "code": "Bass",
+      "naziv": "bassa vah pismo"
+    },
+    {
+      "id": 12,
+      "code": "Batk",
+      "naziv": "batak pismo"
+    },
+    {
+      "id": 13,
+      "code": "Beng",
+      "naziv": "bengalsko pismo"
+    },
+    {
+      "id": 14,
+      "code": "Blis",
+      "naziv": "blissymbols"
+    },
+    {
+      "id": 15,
+      "code": "Bopo",
+      "naziv": "bopomofo pismo"
+    },
+    {
+      "id": 16,
+      "code": "Brah",
+      "naziv": "brahmi pismo"
+    },
+    {
+      "id": 17,
+      "code": "Brai",
+      "naziv": "brajica"
+    },
+    {
+      "id": 18,
+      "code": "Bugi",
+      "naziv": "buginsko pismo"
+    },
+    {
+      "id": 19,
+      "code": "Buhd",
+      "naziv": "buhid pismo"
+    },
+    {
+      "id": 20,
+      "code": "Cakm",
+      "naziv": "čakmansko pismo"
+    },
+    {
+      "id": 21,
+      "code": "Cans",
+      "naziv": "unificirani kanadski aboriđinski slogovi"
+    },
+    {
+      "id": 22,
+      "code": "Cari",
+      "naziv": "karijsko pismo"
+    },
+    {
+      "id": 23,
+      "code": "Cham",
+      "naziv": "čamsko pismo"
+    },
+    {
+      "id": 24,
+      "code": "Cher",
+      "naziv": "čeroki pismo"
+    },
+    {
+      "id": 25,
+      "code": "Cirt",
+      "naziv": "cirth pismo"
+    },
+    {
+      "id": 26,
+      "code": "Copt",
+      "naziv": "koptsko pismo"
+    },
+    {
+      "id": 27,
+      "code": "Cprt",
+      "naziv": "cypriot pismo"
+    },
+    {
+      "id": 28,
+      "code": "Cyrl",
+      "naziv": "ćirilica"
+    },
+    {
+      "id": 29,
+      "code": "Cyrs",
+      "naziv": "staroslavenska crkvena čirilica"
+    },
+    {
+      "id": 30,
+      "code": "Deva",
+      "naziv": "devangari pismo"
+    },
+    {
+      "id": 31,
+      "code": "Dsrt",
+      "naziv": "deseret pismo"
+    },
+    {
+      "id": 32,
+      "code": "Egyd",
+      "naziv": "egipatsko narodno pismo"
+    },
+    {
+      "id": 33,
+      "code": "Egyh",
+      "naziv": "egipatsko hijeratsko pismo"
+    },
+    {
+      "id": 34,
+      "code": "Egyp",
+      "naziv": "egipatski hijeroglifi"
+    },
+    {
+      "id": 35,
+      "code": "Ethi",
+      "naziv": "etiopsko pismo"
+    },
+    {
+      "id": 36,
+      "code": "Geok",
+      "naziv": "gruzijsko khutsuri pismo"
+    },
+    {
+      "id": 37,
+      "code": "Geor",
+      "naziv": "gruzijsko pismo"
+    },
+    {
+      "id": 38,
+      "code": "Glag",
+      "naziv": "glagoljica"
+    },
+    {
+      "id": 39,
+      "code": "Goth",
+      "naziv": "gotičko pismo"
+    },
+    {
+      "id": 40,
+      "code": "Gran",
+      "naziv": "grantha pismo"
+    },
+    {
+      "id": 41,
+      "code": "Grek",
+      "naziv": "grčko pismo"
+    },
+    {
+      "id": 42,
+      "code": "Gujr",
+      "naziv": "gudžaratsko pismo"
+    },
+    {
+      "id": 43,
+      "code": "Guru",
+      "naziv": "gurmukhi pismo"
+    },
+    {
+      "id": 44,
+      "code": "Hanb",
+      "naziv": "hanb pismo"
+    },
+    {
+      "id": 45,
+      "code": "Hang",
+      "naziv": "hangul pismo"
+    },
+    {
+      "id": 46,
+      "code": "Hani",
+      "naziv": "hansko pismo"
+    },
+    {
+      "id": 47,
+      "code": "Hano",
+      "naziv": "hanunoo pismo"
+    },
+    {
+      "id": 48,
+      "code": "Hans",
+      "naziv": "pojednostavljeno pismo"
+    },
+    {
+      "id": 49,
+      "code": "Hans-alt-stand-alone",
+      "naziv": "pojednostavljeno hansko pismo"
+    },
+    {
+      "id": 50,
+      "code": "Hant",
+      "naziv": "tradicionalno pismo"
+    },
+    {
+      "id": 51,
+      "code": "Hant-alt-stand-alone",
+      "naziv": "tradicionalno hansko pismo"
+    },
+    {
+      "id": 52,
+      "code": "Hebr",
+      "naziv": "hebrejsko pismo"
+    },
+    {
+      "id": 53,
+      "code": "Hira",
+      "naziv": "hiragana pismo"
+    },
+    {
+      "id": 54,
+      "code": "Hluw",
+      "naziv": "anatolijski hijeroglifi"
+    },
+    {
+      "id": 55,
+      "code": "Hmng",
+      "naziv": "pahawh hmong pismo"
+    },
+    {
+      "id": 56,
+      "code": "Hrkt",
+      "naziv": "japansko slogovno pismo"
+    },
+    {
+      "id": 57,
+      "code": "Hung",
+      "naziv": "staro mađarsko pismo"
+    },
+    {
+      "id": 58,
+      "code": "Inds",
+      "naziv": "indijsko pismo"
+    },
+    {
+      "id": 59,
+      "code": "Ital",
+      "naziv": "staro talijansko pismo"
+    },
+    {
+      "id": 60,
+      "code": "Jamo",
+      "naziv": "jamo pismo"
+    },
+    {
+      "id": 61,
+      "code": "Java",
+      "naziv": "javansko pismo"
+    },
+    {
+      "id": 62,
+      "code": "Jpan",
+      "naziv": "japansko pismo"
+    },
+    {
+      "id": 63,
+      "code": "Jurc",
+      "naziv": "jurchen pismo"
+    },
+    {
+      "id": 64,
+      "code": "Kali",
+      "naziv": "kayah li pismo"
+    },
+    {
+      "id": 65,
+      "code": "Kana",
+      "naziv": "katakana pismo"
+    },
+    {
+      "id": 66,
+      "code": "Khar",
+      "naziv": "kharoshthi pismo"
+    },
+    {
+      "id": 67,
+      "code": "Khmr",
+      "naziv": "kmersko pismo"
+    },
+    {
+      "id": 68,
+      "code": "Khoj",
+      "naziv": "khojki pismo"
+    },
+    {
+      "id": 69,
+      "code": "Knda",
+      "naziv": "kannada pismo"
+    },
+    {
+      "id": 70,
+      "code": "Kore",
+      "naziv": "korejsko pismo"
+    },
+    {
+      "id": 71,
+      "code": "Kpel",
+      "naziv": "kpelle pismo"
+    },
+    {
+      "id": 72,
+      "code": "Kthi",
+      "naziv": "kaithi pismo"
+    },
+    {
+      "id": 73,
+      "code": "Lana",
+      "naziv": "lanna pismo"
+    },
+    {
+      "id": 74,
+      "code": "Laoo",
+      "naziv": "laosko pismo"
+    },
+    {
+      "id": 75,
+      "code": "Latf",
+      "naziv": "fraktur latinica"
+    },
+    {
+      "id": 76,
+      "code": "Latg",
+      "naziv": "keltska latinica"
+    },
+    {
+      "id": 77,
+      "code": "Latn",
+      "naziv": "latinica"
+    },
+    {
+      "id": 78,
+      "code": "Lepc",
+      "naziv": "lepcha pismo"
+    },
+    {
+      "id": 79,
+      "code": "Limb",
+      "naziv": "limbu pismo"
+    },
+    {
+      "id": 80,
+      "code": "Lina",
+      "naziv": "linear A pismo"
+    },
+    {
+      "id": 81,
+      "code": "Linb",
+      "naziv": "linear B pismo"
+    },
+    {
+      "id": 82,
+      "code": "Lisu",
+      "naziv": "fraser pismo"
+    },
+    {
+      "id": 83,
+      "code": "Loma",
+      "naziv": "loma pismo"
+    },
+    {
+      "id": 84,
+      "code": "Lyci",
+      "naziv": "likijsko pismo"
+    },
+    {
+      "id": 85,
+      "code": "Lydi",
+      "naziv": "lidijsko pismo"
+    },
+    {
+      "id": 86,
+      "code": "Mand",
+      "naziv": "mandai pismo"
+    },
+    {
+      "id": 87,
+      "code": "Mani",
+      "naziv": "manihejsko pismo"
+    },
+    {
+      "id": 88,
+      "code": "Maya",
+      "naziv": "majanski hijeroglifi"
+    },
+    {
+      "id": 89,
+      "code": "Mend",
+      "naziv": "mende pismo"
+    },
+    {
+      "id": 90,
+      "code": "Merc",
+      "naziv": "meroitski kurziv"
+    },
+    {
+      "id": 91,
+      "code": "Mero",
+      "naziv": "meroitic pismo"
+    },
+    {
+      "id": 92,
+      "code": "Mlym",
+      "naziv": "malajalamsko pismo"
+    },
+    {
+      "id": 93,
+      "code": "Mong",
+      "naziv": "mongolsko pismo"
+    },
+    {
+      "id": 94,
+      "code": "Moon",
+      "naziv": "moon pismo"
+    },
+    {
+      "id": 95,
+      "code": "Mroo",
+      "naziv": "mro pismo"
+    },
+    {
+      "id": 96,
+      "code": "Mtei",
+      "naziv": "meitei mayek pismo"
+    },
+    {
+      "id": 97,
+      "code": "Mymr",
+      "naziv": "mjanmarsko pismo"
+    },
+    {
+      "id": 98,
+      "code": "Narb",
+      "naziv": "staro sjevernoarapsko pismo"
+    },
+    {
+      "id": 99,
+      "code": "Nbat",
+      "naziv": "nabatejsko pismo"
+    },
+    {
+      "id": 100,
+      "code": "Nkgb",
+      "naziv": "naxi geba pismo"
+    },
+    {
+      "id": 101,
+      "code": "Nkoo",
+      "naziv": "n’ko pismo"
+    },
+    {
+      "id": 102,
+      "code": "Nshu",
+      "naziv": "nushu pismo"
+    },
+    {
+      "id": 103,
+      "code": "Ogam",
+      "naziv": "ogham pismo"
+    },
+    {
+      "id": 104,
+      "code": "Olck",
+      "naziv": "ol chiki pismo"
+    },
+    {
+      "id": 105,
+      "code": "Orkh",
+      "naziv": "orkhon pismo"
+    },
+    {
+      "id": 106,
+      "code": "Orya",
+      "naziv": "orijsko pismo"
+    },
+    {
+      "id": 107,
+      "code": "Osma",
+      "naziv": "osmanya pismo"
+    },
+    {
+      "id": 108,
+      "code": "Palm",
+      "naziv": "palmyrene pismo"
+    },
+    {
+      "id": 109,
+      "code": "Perm",
+      "naziv": "staro permic pismo"
+    },
+    {
+      "id": 110,
+      "code": "Phag",
+      "naziv": "phags-pa pismo"
+    },
+    {
+      "id": 111,
+      "code": "Phli",
+      "naziv": "pisani pahlavi"
+    },
+    {
+      "id": 112,
+      "code": "Phlp",
+      "naziv": "psalter pahlavi"
+    },
+    {
+      "id": 113,
+      "code": "Phlv",
+      "naziv": "pahlavi pismo"
+    },
+    {
+      "id": 114,
+      "code": "Phnx",
+      "naziv": "feničko pismo"
+    },
+    {
+      "id": 115,
+      "code": "Plrd",
+      "naziv": "pollard fonetsko pismo"
+    },
+    {
+      "id": 116,
+      "code": "Prti",
+      "naziv": "pisani parthian"
+    },
+    {
+      "id": 117,
+      "code": "Qaag",
+      "naziv": "zawgyi"
+    },
+    {
+      "id": 118,
+      "code": "Rjng",
+      "naziv": "rejang pismo"
+    },
+    {
+      "id": 119,
+      "code": "Rohg",
+      "naziv": "hanifi pismo"
+    },
+    {
+      "id": 120,
+      "code": "Roro",
+      "naziv": "rongorongo pismo"
+    },
+    {
+      "id": 121,
+      "code": "Runr",
+      "naziv": "runsko pismo"
+    },
+    {
+      "id": 122,
+      "code": "Samr",
+      "naziv": "samaritansko pismo"
+    },
+    {
+      "id": 123,
+      "code": "Sara",
+      "naziv": "sarati pismo"
+    },
+    {
+      "id": 124,
+      "code": "Sarb",
+      "naziv": "staro južnoarapsko pismo"
+    },
+    {
+      "id": 125,
+      "code": "Saur",
+      "naziv": "saurashtra pismo"
+    },
+    {
+      "id": 126,
+      "code": "Sgnw",
+      "naziv": "znakovno pismo"
+    },
+    {
+      "id": 127,
+      "code": "Shaw",
+      "naziv": "shavian pismo"
+    },
+    {
+      "id": 128,
+      "code": "Shrd",
+      "naziv": "sharada pismo"
+    },
+    {
+      "id": 129,
+      "code": "Sind",
+      "naziv": "khudawadi pismo"
+    },
+    {
+      "id": 130,
+      "code": "Sinh",
+      "naziv": "sinhaleško pismo"
+    },
+    {
+      "id": 131,
+      "code": "Sora",
+      "naziv": "sora sompeng pismo"
+    },
+    {
+      "id": 132,
+      "code": "Sund",
+      "naziv": "sundansko pismo"
+    },
+    {
+      "id": 133,
+      "code": "Sylo",
+      "naziv": "syloti nagri pismo"
+    },
+    {
+      "id": 134,
+      "code": "Syrc",
+      "naziv": "sirijsko pismo"
+    },
+    {
+      "id": 135,
+      "code": "Syre",
+      "naziv": "sirijsko estrangelo pismo"
+    },
+    {
+      "id": 136,
+      "code": "Syrj",
+      "naziv": "pismo zapadne Sirije"
+    },
+    {
+      "id": 137,
+      "code": "Syrn",
+      "naziv": "pismo istočne Sirije"
+    },
+    {
+      "id": 138,
+      "code": "Tagb",
+      "naziv": "tagbanwa pismo"
+    },
+    {
+      "id": 139,
+      "code": "Takr",
+      "naziv": "takri pismo"
+    },
+    {
+      "id": 140,
+      "code": "Tale",
+      "naziv": "tai le pismo"
+    },
+    {
+      "id": 141,
+      "code": "Talu",
+      "naziv": "novo tai lue pismo"
+    },
+    {
+      "id": 142,
+      "code": "Taml",
+      "naziv": "tamilsko pismo"
+    },
+    {
+      "id": 143,
+      "code": "Tang",
+      "naziv": "tangut pismo"
+    },
+    {
+      "id": 144,
+      "code": "Tavt",
+      "naziv": "tai viet pismo"
+    },
+    {
+      "id": 145,
+      "code": "Telu",
+      "naziv": "teluško pismo"
+    },
+    {
+      "id": 146,
+      "code": "Teng",
+      "naziv": "tengwar pismo"
+    },
+    {
+      "id": 147,
+      "code": "Tfng",
+      "naziv": "tifinagh pismo"
+    },
+    {
+      "id": 148,
+      "code": "Tglg",
+      "naziv": "tagalog pismo"
+    },
+    {
+      "id": 149,
+      "code": "Thaa",
+      "naziv": "thaana pismo"
+    },
+    {
+      "id": 150,
+      "code": "Thai",
+      "naziv": "tajsko pismo"
+    },
+    {
+      "id": 151,
+      "code": "Tibt",
+      "naziv": "tibetansko pismo"
+    },
+    {
+      "id": 152,
+      "code": "Tirh",
+      "naziv": "tirhuta pismo"
+    },
+    {
+      "id": 153,
+      "code": "Ugar",
+      "naziv": "ugaritsko pismo"
+    },
+    {
+      "id": 154,
+      "code": "Vaii",
+      "naziv": "vai pismo"
+    },
+    {
+      "id": 155,
+      "code": "Visp",
+      "naziv": "Visible Speech"
+    },
+    {
+      "id": 156,
+      "code": "Wara",
+      "naziv": "varang kshiti pismo"
+    },
+    {
+      "id": 157,
+      "code": "Wole",
+      "naziv": "woleai pismo"
+    },
+    {
+      "id": 158,
+      "code": "Xpeo",
+      "naziv": "staro perzijsko pismo"
+    },
+    {
+      "id": 159,
+      "code": "Xsux",
+      "naziv": "sumersko-akadsko cuneiform pismo"
+    },
+    {
+      "id": 160,
+      "code": "Yiii",
+      "naziv": "yi pismo"
+    },
+    {
+      "id": 161,
+      "code": "Zinh",
+      "naziv": "nasljedno pismo"
+    },
+    {
+      "id": 162,
+      "code": "Zmth",
+      "naziv": "matematičko znakovlje"
+    },
+    {
+      "id": 163,
+      "code": "Zsye",
+      "naziv": "emotikoni"
+    },
+    {
+      "id": 164,
+      "code": "Zsym",
+      "naziv": "simboli"
+    },
+    {
+      "id": 165,
+      "code": "Zxxx",
+      "naziv": "jezik bez pismenosti"
+    },
+    {
+      "id": 166,
+      "code": "Zyyy",
+      "naziv": "zajedničko pismo"
+    },
+    {
+      "id": 167,
+      "code": "Zzzz",
+      "naziv": "nepoznato pismo"
+    }
+  ],
+  "meta": {
+    "title": "Svjetska pisma (ISO 15924 / CLDR hrvatski) - Besplatno preuzimanje",
+    "description": "ISO 15924 kodovi pisama i njihovi hrvatski nazivi iz CLDR hr lokala. Sadrži 167 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Svjetska pisma (ISO 15924 / CLDR hrvatski) | ListBase",
+    "seo_description": "Preuzmi Svjetska pisma (ISO 15924 / CLDR hrvatski) — 167 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 167 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

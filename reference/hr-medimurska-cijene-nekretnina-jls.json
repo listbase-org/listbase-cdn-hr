@@ -1,0 +1,406 @@
+{
+  "id": "hr-medimurska-cijene-nekretnina-jls",
+  "name": "Medijalne cijene nekretnina po m² (JLS) — Međimurska",
+  "title": "Medijalne cijene nekretnina po m² (JLS) — Međimurska",
+  "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Međimurska: 25 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "2012",
+      "label": "2012",
+      "type": "string"
+    },
+    {
+      "key": "2013",
+      "label": "2013",
+      "type": "string"
+    },
+    {
+      "key": "2014",
+      "label": "2014",
+      "type": "string"
+    },
+    {
+      "key": "2015",
+      "label": "2015",
+      "type": "string"
+    },
+    {
+      "key": "2016",
+      "label": "2016",
+      "type": "string"
+    },
+    {
+      "key": "2017",
+      "label": "2017",
+      "type": "string"
+    },
+    {
+      "key": "2018",
+      "label": "2018",
+      "type": "string"
+    },
+    {
+      "key": "2019",
+      "label": "2019",
+      "type": "string"
+    },
+    {
+      "key": "Šifra",
+      "label": "ŠIfra",
+      "type": "number"
+    },
+    {
+      "key": "Naziv županije",
+      "label": "Naziv žUpanije",
+      "type": "string"
+    },
+    {
+      "key": "Naziv JLS-a",
+      "label": "Naziv JLS A",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 159,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "BELICA"
+    },
+    {
+      "2012": 7812.18,
+      "2013": 6498.1,
+      "2014": 7876.03,
+      "2015": 6128.41,
+      "2016": 6517.28,
+      "2017": 6836.3,
+      "2018": 6592.7,
+      "2019": 6100.14,
+      "Šifra": 604,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "ČAKOVEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 6033,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "DEKANOVEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 752,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "DOMAŠINEC"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 787,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "DONJA DUBRAVA"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "z",
+      "2018": "z",
+      "2019": 6715.96,
+      "Šifra": 825,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "DONJI KRALJEVEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 892,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "DONJI VIDOVEC"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1236,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "GORIČAN"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 6041,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "GORNJI MIHALJEVEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 2062,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "KOTORIBA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 2500,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "MALA SUBOTICA"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "-",
+      "2018": 3592,
+      "2019": 5505.48,
+      "Šifra": 2763,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "MURSKO SREDIŠĆE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 2798,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "NEDELIŠĆE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 6050,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "OREHOVICA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 3425,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "PODTUREN"
+    },
+    {
+      "2012": 5202.28,
+      "2013": "z",
+      "2014": 4278.09,
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 3557,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "PRELOG"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 6203,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "PRIBISLAVEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 3859,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "SELNICA"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 6084,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "ŠENKOVEC"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": 1734.6,
+      "Šifra": 6068,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "STRAHONINEC"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4529,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "ŠTRIGOVA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 6076,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "SVETA MARIJA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 4405,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "SVETI JURAJ NA BREGU"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": "z",
+      "2019": 5664.76,
+      "Šifra": 4413,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "SVETI MARTIN NA MURI"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 5045,
+      "Naziv županije": "Međimurska",
+      "Naziv JLS-a": "VRATIŠINEC"
+    }
+  ],
+  "meta": {
+    "title": "Medijalne cijene nekretnina po m² (JLS) — Međimurska - Besplatno preuzimanje",
+    "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Međimurska: 25 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data. Sadrži 25 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Medijalne cijene nekretnina po m² (JLS) — Međimurska | ListBase",
+    "seo_description": "Preuzmi Medijalne cijene nekretnina po m² (JLS) — Međimurska — 25 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 25 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "hr-mjerne-jedinice-pressure",
+  "name": "Mjerne jedinice — kategorija 'pressure' (12)",
+  "title": "Mjerne jedinice — kategorija 'pressure' (12)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'pressure' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "pressure-atmosphere",
+      "kategorija": "pressure",
+      "naziv": "atmosfere",
+      "kratica": "atm",
+      "naziv_uski": "atm",
+      "obrazac": "{0} atmosfera"
+    },
+    {
+      "id": 2,
+      "unit_code": "pressure-bar",
+      "kategorija": "pressure",
+      "naziv": "bari",
+      "kratica": "bar",
+      "naziv_uski": "bar",
+      "obrazac": "{0} bara"
+    },
+    {
+      "id": 3,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategorija": "pressure",
+      "naziv": "gas E",
+      "kratica": "gas E",
+      "naziv_uski": "gas E",
+      "obrazac": "{0} gas E"
+    },
+    {
+      "id": 4,
+      "unit_code": "pressure-hectopascal",
+      "kategorija": "pressure",
+      "naziv": "hektopaskali",
+      "kratica": "hPa",
+      "naziv_uski": "hPa",
+      "obrazac": "{0} hektopaskala"
+    },
+    {
+      "id": 5,
+      "unit_code": "pressure-inch-ofhg",
+      "kategorija": "pressure",
+      "naziv": "inči žive",
+      "kratica": "inHg",
+      "naziv_uski": "inHg",
+      "obrazac": "{0} inča žive"
+    },
+    {
+      "id": 6,
+      "unit_code": "pressure-kilopascal",
+      "kategorija": "pressure",
+      "naziv": "kilopaskali",
+      "kratica": "kPa",
+      "naziv_uski": "kPa",
+      "obrazac": "{0} kilopaskala"
+    },
+    {
+      "id": 7,
+      "unit_code": "pressure-megapascal",
+      "kategorija": "pressure",
+      "naziv": "megapaskali",
+      "kratica": "MPa",
+      "naziv_uski": "MPa",
+      "obrazac": "{0} megapaskala"
+    },
+    {
+      "id": 8,
+      "unit_code": "pressure-millibar",
+      "kategorija": "pressure",
+      "naziv": "milibari",
+      "kratica": "mbar",
+      "naziv_uski": "mbar",
+      "obrazac": "{0} milibara"
+    },
+    {
+      "id": 9,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategorija": "pressure",
+      "naziv": "milimetri živina stupca",
+      "kratica": "mm Hg",
+      "naziv_uski": "mm Hg",
+      "obrazac": "{0} milimetara živina stupca"
+    },
+    {
+      "id": 10,
+      "unit_code": "pressure-ofhg",
+      "kategorija": "pressure",
+      "naziv": "žive",
+      "kratica": "Hg",
+      "naziv_uski": "Hg",
+      "obrazac": "{0} žive"
+    },
+    {
+      "id": 11,
+      "unit_code": "pressure-pascal",
+      "kategorija": "pressure",
+      "naziv": "paskali",
+      "kratica": "Pa",
+      "naziv_uski": "Pa",
+      "obrazac": "{0} paskala"
+    },
+    {
+      "id": 12,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategorija": "pressure",
+      "naziv": "funte po kvadratnom inču",
+      "kratica": "psi",
+      "naziv_uski": "psi",
+      "obrazac": "{0} funti po kvadratnom inču"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'pressure' (12) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'pressure' s hrvatskim nazivima. Sadrži 12 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'pressure' (12) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'pressure' (12) — 12 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 12 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

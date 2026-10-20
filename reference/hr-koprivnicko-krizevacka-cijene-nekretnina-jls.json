@@ -1,0 +1,406 @@
+{
+  "id": "hr-koprivnicko-krizevacka-cijene-nekretnina-jls",
+  "name": "Medijalne cijene nekretnina po m² (JLS) — Koprivničko-križevačka",
+  "title": "Medijalne cijene nekretnina po m² (JLS) — Koprivničko-križevačka",
+  "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Koprivničko-križevačka: 25 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "2012",
+      "label": "2012",
+      "type": "string"
+    },
+    {
+      "key": "2013",
+      "label": "2013",
+      "type": "string"
+    },
+    {
+      "key": "2014",
+      "label": "2014",
+      "type": "string"
+    },
+    {
+      "key": "2015",
+      "label": "2015",
+      "type": "string"
+    },
+    {
+      "key": "2016",
+      "label": "2016",
+      "type": "string"
+    },
+    {
+      "key": "2017",
+      "label": "2017",
+      "type": "string"
+    },
+    {
+      "key": "2018",
+      "label": "2018",
+      "type": "string"
+    },
+    {
+      "key": "2019",
+      "label": "2019",
+      "type": "string"
+    },
+    {
+      "key": "Šifra",
+      "label": "ŠIfra",
+      "type": "number"
+    },
+    {
+      "key": "Naziv županije",
+      "label": "Naziv žUpanije",
+      "type": "string"
+    },
+    {
+      "key": "Naziv JLS-a",
+      "label": "Naziv JLS A",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1040,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "ĐELEKOVEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 965,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "DRNJE"
+    },
+    {
+      "2012": "z",
+      "2013": 5765.84,
+      "2014": "z",
+      "2015": 4171.45,
+      "2016": "z",
+      "2017": 3874,
+      "2018": 3501,
+      "2019": 231.75,
+      "Šifra": 1074,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "ĐURĐEVAC"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": ".",
+      "Šifra": 1155,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "FERDINANDOVAC"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1228,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "GOLA"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 6181,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "GORNJA RIJEKA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 1457,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "HLEBINE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 5592,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "KALINOVAC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 5606,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "KALNIK"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": 7.61,
+      "Šifra": 1945,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "KLOŠTAR PODRAVSKI"
+    },
+    {
+      "2012": 6051.22,
+      "2013": 5578.54,
+      "2014": 6182.75,
+      "2015": 5984.63,
+      "2016": 5213.14,
+      "2017": 6434.6,
+      "2018": 5646.8,
+      "2019": 5863.13,
+      "Šifra": 2011,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "KOPRIVNICA"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 2020,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "KOPRIVNIČKI BREGI"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 2038,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "KOPRIVNIČKI IVANEC"
+    },
+    {
+      "2012": 5904.11,
+      "2013": 5460.61,
+      "2014": 6708.54,
+      "2015": 5853.07,
+      "2016": 5527.57,
+      "2017": 5539.7,
+      "2018": 5622.8,
+      "2019": 5925.76,
+      "Šifra": 2143,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "KRIŽEVCI"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 2275,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "LEGRAD"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 2704,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "MOLVE"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "z",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 2925,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "NOVIGRAD PODRAVSKI"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 5614,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "NOVO VIRJE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 3247,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "PETERANEC"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 6165,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "PODRAVSKE SESVETE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": 13.59,
+      "Šifra": 3662,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "RASINJA"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 4057,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "SOKOLOVAC"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 4391,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "SVETI IVAN ŽABNO"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 4421,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "SVETI PETAR OREHOVEC"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "z",
+      "2018": 42.6,
+      "2019": 9.52,
+      "Šifra": 4901,
+      "Naziv županije": "Koprivničko-križevačka",
+      "Naziv JLS-a": "VIRJE"
+    }
+  ],
+  "meta": {
+    "title": "Medijalne cijene nekretnina po m² (JLS) — Koprivničko-križevačka - Besplatno preuzimanje",
+    "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Koprivničko-križevačka: 25 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data. Sadrži 25 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Medijalne cijene nekretnina po m² (JLS) — Koprivničko-križevačka | ListBase",
+    "seo_description": "Preuzmi Medijalne cijene nekretnina po m² (JLS) — Koprivničko-križevačka — 25 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 25 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

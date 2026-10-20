@@ -1,0 +1,341 @@
+{
+  "id": "hr-sibensko-kninska-cijene-nekretnina-jls",
+  "name": "Medijalne cijene nekretnina po m² (JLS) — Šibensko-kninska",
+  "title": "Medijalne cijene nekretnina po m² (JLS) — Šibensko-kninska",
+  "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Šibensko-kninska: 20 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "2012",
+      "label": "2012",
+      "type": "string"
+    },
+    {
+      "key": "2013",
+      "label": "2013",
+      "type": "string"
+    },
+    {
+      "key": "2014",
+      "label": "2014",
+      "type": "string"
+    },
+    {
+      "key": "2015",
+      "label": "2015",
+      "type": "string"
+    },
+    {
+      "key": "2016",
+      "label": "2016",
+      "type": "string"
+    },
+    {
+      "key": "2017",
+      "label": "2017",
+      "type": "string"
+    },
+    {
+      "key": "2018",
+      "label": "2018",
+      "type": "string"
+    },
+    {
+      "key": "2019",
+      "label": "2019",
+      "type": "string"
+    },
+    {
+      "key": "Šifra",
+      "label": "ŠIfra",
+      "type": "number"
+    },
+    {
+      "key": "Naziv županije",
+      "label": "Naziv žUpanije",
+      "type": "string"
+    },
+    {
+      "key": "Naziv JLS-a",
+      "label": "Naziv JLS A",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "z",
+      "2018": "-",
+      "2019": "z",
+      "Šifra": 6211,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "BILICE"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 3107,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "BISKUPIJA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 515,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "CIVLJANE"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "z",
+      "2018": 5270.2,
+      "2019": 4973.49,
+      "Šifra": 957,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "DRNIŠ"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 1139,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "ERVENIK"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 1830,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "KIJEVO"
+    },
+    {
+      "2012": "z",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "z",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 1848,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "KISTANJE"
+    },
+    {
+      "2012": 2363,
+      "2013": 4483.63,
+      "2014": 3462.21,
+      "2015": 3954.36,
+      "2016": 4140.96,
+      "2017": 4573.1,
+      "2018": 3679.2,
+      "2019": 4912.93,
+      "Šifra": 1961,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "KNIN"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": 5782.98,
+      "2017": 9247.8,
+      "2018": 9847.3,
+      "2019": 8710.14,
+      "Šifra": 6173,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "MURTER - KORNATI"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": 7192.6,
+      "2018": 7805.9,
+      "2019": 7390.89,
+      "Šifra": 5819,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "PIROVAC"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": 11753.14,
+      "2017": 10642.6,
+      "2018": 10663.3,
+      "2019": 10759.71,
+      "Šifra": 3573,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "PRIMOŠTEN"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "z",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 2984,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "PROMINA"
+    },
+    {
+      "2012": 9590.47,
+      "2013": 9118.52,
+      "2014": 10696.07,
+      "2015": 9827.22,
+      "2016": 8673.17,
+      "2017": 8388.3,
+      "2018": 10124,
+      "2019": 8807.34,
+      "Šifra": 5827,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "ROGOZNICA"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 3778,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "RUŽIĆ"
+    },
+    {
+      "2012": 8081.25,
+      "2013": 8048.62,
+      "2014": 7747.15,
+      "2015": 7396.01,
+      "2016": 7840.47,
+      "2017": 7494.4,
+      "2018": 7688.7,
+      "2019": 8380.27,
+      "Šifra": 4448,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "ŠIBENIK"
+    },
+    {
+      "2012": "-",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": "-",
+      "2018": "z",
+      "2019": "z",
+      "Šifra": 3948,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "SKRADIN"
+    },
+    {
+      "2012": "z",
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": 9655.02,
+      "2017": 11266.7,
+      "2018": 9521.9,
+      "2019": 6985.2,
+      "Šifra": 4545,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "TISNO"
+    },
+    {
+      "2012": 8105.79,
+      "2013": "z",
+      "2014": "z",
+      "2015": "z",
+      "2016": "z",
+      "2017": 8689.4,
+      "2018": 7987.7,
+      "2019": 8595.36,
+      "Šifra": 6262,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "TRIBUNJ"
+    },
+    {
+      "2012": "-",
+      "2013": "-",
+      "2014": "-",
+      "2015": "-",
+      "2016": "-",
+      "2017": "-",
+      "2018": "-",
+      "2019": ".",
+      "Šifra": 4693,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "UNEŠIĆ"
+    },
+    {
+      "2012": 9338.48,
+      "2013": 9458.89,
+      "2014": 8275.41,
+      "2015": 8395.51,
+      "2016": 8583.58,
+      "2017": 8657.2,
+      "2018": 8634.4,
+      "2019": 8825.6,
+      "Šifra": 5002,
+      "Naziv županije": "Šibensko-kninska",
+      "Naziv JLS-a": "VODICE"
+    }
+  ],
+  "meta": {
+    "title": "Medijalne cijene nekretnina po m² (JLS) — Šibensko-kninska - Besplatno preuzimanje",
+    "description": "Medijalne cijene nekretnina po m² po jedinicama lokalne samouprave (JLS) 2012.–2019. za županiju Šibensko-kninska: 20 JLS-ova. Verbatim subset of hr-cijene-nekretnina-jls. Izvor: Porezna uprava via codeforcroatia/open-data. Sadrži 20 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Medijalne cijene nekretnina po m² (JLS) — Šibensko-kninska | ListBase",
+    "seo_description": "Preuzmi Medijalne cijene nekretnina po m² (JLS) — Šibensko-kninska — 20 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 20 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

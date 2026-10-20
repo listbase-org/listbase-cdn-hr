@@ -1,0 +1,751 @@
+{
+  "id": "hr-vinoteke",
+  "name": "Vinoteke",
+  "title": "Vinoteke",
+  "description": "Vinoteke u Hrvatskoj (142 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=wine), izrez EU-POIS/HR.",
+  "category": "food",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 142,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Andelini",
+      "latitude": 45.227236,
+      "longitude": 13.943744
+    },
+    {
+      "name": "Antunović Winery",
+      "latitude": 42.981664,
+      "longitude": 17.303686
+    },
+    {
+      "name": "Arman Wine Bar",
+      "latitude": 45.226102,
+      "longitude": 13.596689
+    },
+    {
+      "name": "Atrox",
+      "latitude": 44.1186,
+      "longitude": 15.231698
+    },
+    {
+      "name": "Bermet Fabek",
+      "latitude": 45.801946,
+      "longitude": 15.728429
+    },
+    {
+      "name": "Bibich",
+      "latitude": 43.822079,
+      "longitude": 15.591313
+    },
+    {
+      "name": "BIBICh",
+      "latitude": 44.114021,
+      "longitude": 15.226166
+    },
+    {
+      "name": "Bilo Idro",
+      "latitude": 43.133968,
+      "longitude": 16.585963
+    },
+    {
+      "name": "Bura",
+      "latitude": 42.939256,
+      "longitude": 17.337593
+    },
+    {
+      "name": "Cattunar",
+      "latitude": 45.368263,
+      "longitude": 13.644004
+    },
+    {
+      "name": "Chiavalon Extra Virgin Olive Oil",
+      "latitude": 44.975438,
+      "longitude": 13.842185
+    },
+    {
+      "name": "Coccolo",
+      "latitude": 45.2976,
+      "longitude": 13.62469
+    },
+    {
+      "name": "CUJ",
+      "latitude": 45.44139,
+      "longitude": 13.594064
+    },
+    {
+      "name": "Dalmacijavino",
+      "latitude": 43.162166,
+      "longitude": 16.68998
+    },
+    {
+      "name": "Dalmatian dog",
+      "latitude": 42.920974,
+      "longitude": 16.878198
+    },
+    {
+      "name": "Damjanić",
+      "latitude": 45.181168,
+      "longitude": 13.64
+    },
+    {
+      "name": "Degarra Winery",
+      "latitude": 44.155463,
+      "longitude": 15.255706
+    },
+    {
+      "name": "Dingač",
+      "latitude": 42.939,
+      "longitude": 17.338215
+    },
+    {
+      "name": "Dvorac Belaj",
+      "latitude": 45.27113,
+      "longitude": 14.110383
+    },
+    {
+      "name": "Dvorska vina Šoškić",
+      "latitude": 45.78966,
+      "longitude": 15.92835
+    },
+    {
+      "name": "Enoteca Dubrovnik",
+      "latitude": 42.641847,
+      "longitude": 18.108606
+    },
+    {
+      "name": "Fino Vino",
+      "latitude": 45.326556,
+      "longitude": 14.444267
+    },
+    {
+      "name": "Gospoja",
+      "latitude": 45.070627,
+      "longitude": 14.666896
+    },
+    {
+      "name": "Gospoja",
+      "latitude": 45.17357,
+      "longitude": 14.691178
+    },
+    {
+      "name": "Grabovac",
+      "latitude": 43.293517,
+      "longitude": 17.020921
+    },
+    {
+      "name": "Hvar Hills",
+      "latitude": 43.503684,
+      "longitude": 16.429154
+    },
+    {
+      "name": "Iločki podrum",
+      "latitude": 43.821521,
+      "longitude": 15.592151
+    },
+    {
+      "name": "Iločki Podrumi",
+      "latitude": 43.294345,
+      "longitude": 17.020169
+    },
+    {
+      "name": "Iločki podrumi",
+      "latitude": 43.938104,
+      "longitude": 15.444092
+    },
+    {
+      "name": "Iločki podrumi",
+      "latitude": 45.224596,
+      "longitude": 19.363725
+    },
+    {
+      "name": "Iločki podrumi",
+      "latitude": 45.289654,
+      "longitude": 18.806593
+    },
+    {
+      "name": "Iločki podrumi",
+      "latitude": 45.789558,
+      "longitude": 15.929082
+    },
+    {
+      "name": "Iločki podrumi",
+      "latitude": 45.792832,
+      "longitude": 15.969528
+    },
+    {
+      "name": "Iločki podrumi",
+      "latitude": 45.803517,
+      "longitude": 15.711144
+    },
+    {
+      "name": "Iločki podrumi",
+      "latitude": 45.815029,
+      "longitude": 15.905904
+    },
+    {
+      "name": "Ivan Katunar winery & wine shop",
+      "latitude": 45.073902,
+      "longitude": 14.670606
+    },
+    {
+      "name": "JELA PLUS CAMINO WINE",
+      "latitude": 42.661841,
+      "longitude": 18.13562
+    },
+    {
+      "name": "Kabola",
+      "latitude": 45.4308,
+      "longitude": 13.700612
+    },
+    {
+      "name": "Katunar Vinarija",
+      "latitude": 45.070303,
+      "longitude": 14.665561
+    },
+    {
+      "name": "Klet Tiho",
+      "latitude": 45.971998,
+      "longitude": 16.239005
+    },
+    {
+      "name": "Longo",
+      "latitude": 45.076873,
+      "longitude": 14.676702
+    },
+    {
+      "name": "Maraska",
+      "latitude": 44.116866,
+      "longitude": 15.224632
+    },
+    {
+      "name": "Markus Tasting Room",
+      "latitude": 43.507285,
+      "longitude": 16.432136
+    },
+    {
+      "name": "Matković Wines",
+      "latitude": 42.939811,
+      "longitude": 17.343194
+    },
+    {
+      "name": "Matošević Winery",
+      "latitude": 45.147557,
+      "longitude": 13.735529
+    },
+    {
+      "name": "Matuško Wines",
+      "latitude": 42.939924,
+      "longitude": 17.338731
+    },
+    {
+      "name": "Milicic Winery",
+      "latitude": 42.941101,
+      "longitude": 17.341235
+    },
+    {
+      "name": "Miva",
+      "latitude": 45.811248,
+      "longitude": 15.975256
+    },
+    {
+      "name": "Modrić wine and olive oil house",
+      "latitude": 43.516096,
+      "longitude": 16.026695
+    },
+    {
+      "name": "N'ardin Wine And Cheese Bar",
+      "latitude": 43.585667,
+      "longitude": 15.921853
+    },
+    {
+      "name": "Nada",
+      "latitude": 45.078016,
+      "longitude": 14.674828
+    },
+    {
+      "name": "Natural Food and Wine Shop",
+      "latitude": 43.938258,
+      "longitude": 15.443318
+    },
+    {
+      "name": "Naša mala klinika",
+      "latitude": 43.960684,
+      "longitude": 15.425914
+    },
+    {
+      "name": "Odmorište Raba – Rizman Rest Stop",
+      "latitude": 42.965645,
+      "longitude": 17.517836
+    },
+    {
+      "name": "Old Grand'Pa",
+      "latitude": 45.076081,
+      "longitude": 14.672344
+    },
+    {
+      "name": "OPG Boris M. Violić",
+      "latitude": 42.939345,
+      "longitude": 17.338064
+    },
+    {
+      "name": "OPG Pavao Žitko",
+      "latitude": 43.057791,
+      "longitude": 16.193943
+    },
+    {
+      "name": "OPG Tudor",
+      "latitude": 45.328812,
+      "longitude": 14.446077
+    },
+    {
+      "name": "OPG Vladušić",
+      "latitude": 43.06052,
+      "longitude": 16.181423
+    },
+    {
+      "name": "OPG Volarić",
+      "latitude": 45.076409,
+      "longitude": 14.674402
+    },
+    {
+      "name": "OPG Šuran Petar Rino",
+      "latitude": 45.041188,
+      "longitude": 13.701581
+    },
+    {
+      "name": "Peninsula",
+      "latitude": 42.96979,
+      "longitude": 17.299449
+    },
+    {
+      "name": "Pežo",
+      "latitude": 43.512056,
+      "longitude": 16.441875
+    },
+    {
+      "name": "Philipecz",
+      "latitude": 45.802031,
+      "longitude": 15.708306
+    },
+    {
+      "name": "Podrum Vujnović",
+      "latitude": 43.125679,
+      "longitude": 17.188299
+    },
+    {
+      "name": "Podrumi Šimunović",
+      "latitude": 43.449836,
+      "longitude": 17.18496
+    },
+    {
+      "name": "Poljak vina",
+      "latitude": 44.147665,
+      "longitude": 15.209217
+    },
+    {
+      "name": "Posestvo Brič",
+      "latitude": 45.462783,
+      "longitude": 13.751445
+    },
+    {
+      "name": "Postir",
+      "latitude": 42.940449,
+      "longitude": 17.338217
+    },
+    {
+      "name": "Prodaja Vina",
+      "latitude": 45.077434,
+      "longitude": 14.672643
+    },
+    {
+      "name": "Putalj Winery",
+      "latitude": 43.548701,
+      "longitude": 16.427479
+    },
+    {
+      "name": "PZ Svirće",
+      "latitude": 43.161503,
+      "longitude": 16.6929
+    },
+    {
+      "name": "Radno Vrijeme",
+      "latitude": 43.734938,
+      "longitude": 15.891554
+    },
+    {
+      "name": "Roxanich",
+      "latitude": 45.242228,
+      "longitude": 13.656746
+    },
+    {
+      "name": "Roxanich Winery",
+      "latitude": 45.243098,
+      "longitude": 13.6601
+    },
+    {
+      "name": "Senjanović vina",
+      "latitude": 43.04963,
+      "longitude": 16.23162
+    },
+    {
+      "name": "Senjkovic Winery",
+      "latitude": 43.335187,
+      "longitude": 16.53122
+    },
+    {
+      "name": "Sladič Wine",
+      "latitude": 43.880554,
+      "longitude": 15.924297
+    },
+    {
+      "name": "Sosich Wines",
+      "latitude": 45.15126,
+      "longitude": 13.617963
+    },
+    {
+      "name": "Split & sip",
+      "latitude": 43.510993,
+      "longitude": 16.438079
+    },
+    {
+      "name": "Terra",
+      "latitude": 45.085501,
+      "longitude": 14.12215
+    },
+    {
+      "name": "Terzolo",
+      "latitude": 45.264591,
+      "longitude": 13.665712
+    },
+    {
+      "name": "Toreta",
+      "latitude": 42.928643,
+      "longitude": 16.892706
+    },
+    {
+      "name": "Trapan Winery",
+      "latitude": 44.855689,
+      "longitude": 13.940512
+    },
+    {
+      "name": "Trošt",
+      "latitude": 45.094441,
+      "longitude": 13.74476
+    },
+    {
+      "name": "Vidović Family Winery",
+      "latitude": 43.032658,
+      "longitude": 16.156055
+    },
+    {
+      "name": "Vina Antičević",
+      "latitude": 42.940694,
+      "longitude": 17.335992
+    },
+    {
+      "name": "Vina Brčic",
+      "latitude": 45.226889,
+      "longitude": 13.598925
+    },
+    {
+      "name": "Vina Deklić",
+      "latitude": 45.312462,
+      "longitude": 13.751088
+    },
+    {
+      "name": "Vina Duboković",
+      "latitude": 43.160806,
+      "longitude": 16.685789
+    },
+    {
+      "name": "Vina Ferenac",
+      "latitude": 45.315963,
+      "longitude": 13.75084
+    },
+    {
+      "name": "Vina Fiore",
+      "latitude": 45.453661,
+      "longitude": 13.56459
+    },
+    {
+      "name": "Vina Kiridžija",
+      "latitude": 42.940976,
+      "longitude": 17.334827
+    },
+    {
+      "name": "Vina Lunika™",
+      "latitude": 45.111669,
+      "longitude": 13.765216
+    },
+    {
+      "name": "Vina Siljan",
+      "latitude": 44.93717,
+      "longitude": 14.000411
+    },
+    {
+      "name": "Vina Terra Madre",
+      "latitude": 42.957686,
+      "longitude": 17.513939
+    },
+    {
+      "name": "Vina Tomić",
+      "latitude": 43.160053,
+      "longitude": 16.692746
+    },
+    {
+      "name": "Vina Tomić",
+      "latitude": 43.161529,
+      "longitude": 16.700892
+    },
+    {
+      "name": "vina Violić",
+      "latitude": 42.966681,
+      "longitude": 17.345987
+    },
+    {
+      "name": "Vinarija Braća Plančić",
+      "latitude": 43.168538,
+      "longitude": 16.644041
+    },
+    {
+      "name": "Vinarija Gregorić",
+      "latitude": 45.803853,
+      "longitude": 15.727361
+    },
+    {
+      "name": "Vinarija i apartmani Mili",
+      "latitude": 42.821175,
+      "longitude": 17.677878
+    },
+    {
+      "name": "Vinarija i uljara Bubrig",
+      "latitude": 43.009084,
+      "longitude": 17.269127
+    },
+    {
+      "name": "Vinarija Kozlović",
+      "latitude": 45.44337,
+      "longitude": 13.709823
+    },
+    {
+      "name": "Vinarija Madirazza",
+      "latitude": 42.942495,
+      "longitude": 17.339039
+    },
+    {
+      "name": "Vinarija Rizman",
+      "latitude": 42.957417,
+      "longitude": 17.531866
+    },
+    {
+      "name": "Vinarija Rossi",
+      "latitude": 45.336411,
+      "longitude": 13.735037
+    },
+    {
+      "name": "Vinarija Segota",
+      "latitude": 44.98715,
+      "longitude": 14.05318
+    },
+    {
+      "name": "Vinarija Skaramuča",
+      "latitude": 42.941115,
+      "longitude": 17.365534
+    },
+    {
+      "name": "Vinarija Sušić",
+      "latitude": 43.451751,
+      "longitude": 17.177323
+    },
+    {
+      "name": "Vinarija Vina Dean",
+      "latitude": 45.230869,
+      "longitude": 13.605697
+    },
+    {
+      "name": "Vinarija Šundrica",
+      "latitude": 42.981948,
+      "longitude": 17.305855
+    },
+    {
+      "name": "Vine Shop Andričević",
+      "latitude": 42.942239,
+      "longitude": 17.3331
+    },
+    {
+      "name": "Vine Shop Jurica",
+      "latitude": 42.942203,
+      "longitude": 17.333548
+    },
+    {
+      "name": "Vineagold",
+      "latitude": 45.81117,
+      "longitude": 15.972233
+    },
+    {
+      "name": "Vini Franc Arman",
+      "latitude": 45.339995,
+      "longitude": 13.734721
+    },
+    {
+      "name": "Vino",
+      "latitude": 42.968159,
+      "longitude": 17.306875
+    },
+    {
+      "name": "Vino maslinovo ulje",
+      "latitude": 42.975031,
+      "longitude": 17.13849
+    },
+    {
+      "name": "Vino Žužul",
+      "latitude": 42.941849,
+      "longitude": 17.334238
+    },
+    {
+      "name": "Vinoteka",
+      "latitude": 44.970714,
+      "longitude": 14.749277
+    },
+    {
+      "name": "Vinoteka",
+      "latitude": 45.801968,
+      "longitude": 15.972234
+    },
+    {
+      "name": "Vinoteka Albert",
+      "latitude": 45.082806,
+      "longitude": 13.634285
+    },
+    {
+      "name": "Vinoteka Bornstein",
+      "latitude": 45.817882,
+      "longitude": 15.978157
+    },
+    {
+      "name": "Vinoteka by Pervino",
+      "latitude": 45.330208,
+      "longitude": 14.438728
+    },
+    {
+      "name": "Vinoteka Grozaj",
+      "latitude": 46.091384,
+      "longitude": 15.881698
+    },
+    {
+      "name": "Vinoteka Kapljica",
+      "latitude": 46.079503,
+      "longitude": 15.907611
+    },
+    {
+      "name": "Vinoteka Ormož",
+      "latitude": 46.404864,
+      "longitude": 16.153809
+    },
+    {
+      "name": "Vinoteka Terra",
+      "latitude": 43.503125,
+      "longitude": 16.445844
+    },
+    {
+      "name": "Vinoteka Veralda",
+      "latitude": 45.433326,
+      "longitude": 13.518758
+    },
+    {
+      "name": "Vinoteka Vintesa",
+      "latitude": 45.814074,
+      "longitude": 15.985007
+    },
+    {
+      "name": "Vinoteka Vivat Fina Vina",
+      "latitude": 45.802369,
+      "longitude": 16.015095
+    },
+    {
+      "name": "Vinoteka Wine&co",
+      "latitude": 45.324334,
+      "longitude": 14.447204
+    },
+    {
+      "name": "Vinotéka Barolo",
+      "latitude": 45.339615,
+      "longitude": 14.30904
+    },
+    {
+      "name": "Vinski podrum Lipanović",
+      "latitude": 43.060757,
+      "longitude": 16.174485
+    },
+    {
+      "name": "Wine Project",
+      "latitude": 45.421587,
+      "longitude": 13.528782
+    },
+    {
+      "name": "Wine shop Trobok",
+      "latitude": 42.941395,
+      "longitude": 17.334864
+    },
+    {
+      "name": "Wine Taste",
+      "latitude": 43.16513,
+      "longitude": 16.365766
+    },
+    {
+      "name": "Winery",
+      "latitude": 42.925151,
+      "longitude": 17.431496
+    },
+    {
+      "name": "Witrina bar",
+      "latitude": 45.813601,
+      "longitude": 15.979543
+    },
+    {
+      "name": "Zigante-Vero",
+      "latitude": 45.378729,
+      "longitude": 13.722148
+    },
+    {
+      "name": "Zlatan otok d.o.o.",
+      "latitude": 43.134775,
+      "longitude": 16.585072
+    },
+    {
+      "name": "Žiković Valter",
+      "latitude": 45.251889,
+      "longitude": 13.715455
+    }
+  ],
+  "meta": {
+    "title": "Vinoteke - Besplatno preuzimanje",
+    "description": "Vinoteke u Hrvatskoj (142 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=wine), izrez EU-POIS/HR. Sadrži 142 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vinoteke | ListBase",
+    "seo_description": "Preuzmi Vinoteke — 142 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 142 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "hr-medimurska-zracne-luke",
+  "name": "Zračne luke — Međimurska županija",
+  "title": "Zračne luke — Međimurska županija",
+  "description": "Zračne luke i aerodromi u Međimurska županija (Hrvatska / HR) — ICAO/IATA kodovi, grad, koordinate (WGS84), nadmorska visina i vremenska zona. Slice nacionalnog flagship dataseta `hr-zracne-luke` filtriran na Medimurska. (Airports in Međimurska županija county — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LDVC",
+      "iata": "",
+      "name": "Cakovec Pribisla Airport",
+      "city": "Cakovec",
+      "subdivision": "Medimurska",
+      "subdivision_native": "Međimurska županija",
+      "country": "HR",
+      "elevation_ft": 512,
+      "latitude": 46.3919,
+      "longitude": 16.5003,
+      "timezone": "Europe/Zagreb",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Zračne luke — Međimurska županija - Besplatno preuzimanje",
+    "description": "Zračne luke i aerodromi u Međimurska županija (Hrvatska / HR) — ICAO/IATA kodovi, grad, koordinate (WGS84), nadmorska visina i vremenska zona. Slice nacionalnog flagship dataseta `hr-zracne-luke` filtriran na Medimurska. (Airports in Međimurska županija county — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.) Sadrži 1 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Zračne luke — Međimurska županija | ListBase",
+    "seo_description": "Preuzmi Zračne luke — Međimurska županija — 1 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 1 zapisa / 12 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

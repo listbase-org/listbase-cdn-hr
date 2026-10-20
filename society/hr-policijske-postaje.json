@@ -1,0 +1,1401 @@
+{
+  "id": "hr-policijske-postaje",
+  "name": "Policijske postaje",
+  "title": "Policijske postaje",
+  "description": "Policijske postaje u Hrvatskoj (272 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=police), izrez EU-POIS/HR.",
+  "category": "society",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 272,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Barcs határátkelőhely",
+      "latitude": 45.947786,
+      "longitude": 17.462514
+    },
+    {
+      "name": "Beremend határátkelőhely",
+      "latitude": 45.768308,
+      "longitude": 18.453522
+    },
+    {
+      "name": "Berzence határátkelőhely",
+      "latitude": 46.1958,
+      "longitude": 17.070399
+    },
+    {
+      "name": "Cres police station",
+      "latitude": 44.959284,
+      "longitude": 14.411476
+    },
+    {
+      "name": "Granična policija",
+      "latitude": 43.503075,
+      "longitude": 16.442397
+    },
+    {
+      "name": "Granična policija Dalj",
+      "latitude": 45.483495,
+      "longitude": 18.985014
+    },
+    {
+      "name": "Granični prelaz Debeli Brijeg",
+      "latitude": 42.481086,
+      "longitude": 18.455791
+    },
+    {
+      "name": "Granični prelaz Gradina - Jasenovac",
+      "latitude": 45.265552,
+      "longitude": 16.918602
+    },
+    {
+      "name": "Granični prelaz Konfin",
+      "latitude": 42.427287,
+      "longitude": 18.522683
+    },
+    {
+      "name": "Granični prelaz Sitnica",
+      "latitude": 42.56161,
+      "longitude": 18.444134
+    },
+    {
+      "name": "Granični prijelaz Aržano",
+      "latitude": 43.597708,
+      "longitude": 16.984607
+    },
+    {
+      "name": "Granični prijelaz Aržano-Pazar",
+      "latitude": 43.580764,
+      "longitude": 17.003602
+    },
+    {
+      "name": "Granični prijelaz Banfi",
+      "latitude": 46.514664,
+      "longitude": 16.274536
+    },
+    {
+      "name": "Granični prijelaz Bijača",
+      "latitude": 43.122869,
+      "longitude": 17.575112
+    },
+    {
+      "name": "Granični prijelaz Bregana",
+      "latitude": 45.841723,
+      "longitude": 15.699098
+    },
+    {
+      "name": "Granični prijelaz Bukovje",
+      "latitude": 46.52006,
+      "longitude": 16.313406
+    },
+    {
+      "name": "Granični prijelaz Cera",
+      "latitude": 43.528702,
+      "longitude": 17.10315
+    },
+    {
+      "name": "Granični prijelaz Donji Miholjac",
+      "latitude": 45.779167,
+      "longitude": 18.197378
+    },
+    {
+      "name": "Granični prijelaz Duboševica",
+      "latitude": 45.894602,
+      "longitude": 18.660688
+    },
+    {
+      "name": "Granični prijelaz Dvor",
+      "latitude": 45.050169,
+      "longitude": 16.37193
+    },
+    {
+      "name": "Granični prijelaz Erdut",
+      "latitude": 45.514506,
+      "longitude": 19.077934
+    },
+    {
+      "name": "Granični prijelaz Gorica",
+      "latitude": 43.421942,
+      "longitude": 17.275513
+    },
+    {
+      "name": "Granični prijelaz Gornji Varoš",
+      "latitude": 45.163094,
+      "longitude": 17.205432
+    },
+    {
+      "name": "Granični prijelaz Hrvatska Dubica",
+      "latitude": 45.186452,
+      "longitude": 16.809131
+    },
+    {
+      "name": "Granični prijelaz Hum na Sutli",
+      "latitude": 46.222707,
+      "longitude": 15.700026
+    },
+    {
+      "name": "Granični prijelaz Ilok",
+      "latitude": 45.22495,
+      "longitude": 19.400637
+    },
+    {
+      "name": "Granični prijelaz Ilok II",
+      "latitude": 45.216432,
+      "longitude": 19.421854
+    },
+    {
+      "name": "Granični prijelaz Karasovići",
+      "latitude": 42.490617,
+      "longitude": 18.434121
+    },
+    {
+      "name": "Granični prijelaz Kašt-Radovica",
+      "latitude": 45.698537,
+      "longitude": 15.360761
+    },
+    {
+      "name": "Granični prijelaz Klek-Neum l",
+      "latitude": 42.940108,
+      "longitude": 17.57926
+    },
+    {
+      "name": "Granični prijelaz Lička Kaldrma",
+      "latitude": 44.328393,
+      "longitude": 16.195039
+    },
+    {
+      "name": "Granični prijelaz Mali Tabor",
+      "latitude": 46.213208,
+      "longitude": 15.646118
+    },
+    {
+      "name": "Granični prijelaz Neum 2",
+      "latitude": 42.889424,
+      "longitude": 17.651622
+    },
+    {
+      "name": "Granični prijelaz Neum l",
+      "latitude": 42.939177,
+      "longitude": 17.580685
+    },
+    {
+      "name": "Granični prijelaz Nova Sela",
+      "latitude": 43.123833,
+      "longitude": 17.560496
+    },
+    {
+      "name": "Granični prijelaz Osoje",
+      "latitude": 43.460236,
+      "longitude": 17.285953
+    },
+    {
+      "name": "Granični prijelaz Otok Virje",
+      "latitude": 46.401605,
+      "longitude": 16.153184
+    },
+    {
+      "name": "Granični prijelaz Preseka",
+      "latitude": 46.414882,
+      "longitude": 16.277595
+    },
+    {
+      "name": "Granični prijelaz Principovac",
+      "latitude": 45.17406,
+      "longitude": 19.349247
+    },
+    {
+      "name": "Granični prijelaz Principovac II",
+      "latitude": 45.174338,
+      "longitude": 19.364947
+    },
+    {
+      "name": "Granični prijelaz Prud",
+      "latitude": 43.104299,
+      "longitude": 17.6072
+    },
+    {
+      "name": "Granični prijelaz Ripač",
+      "latitude": 44.713908,
+      "longitude": 15.927984
+    },
+    {
+      "name": "Granični prijelaz Slavonski Brod",
+      "latitude": 45.156784,
+      "longitude": 18.001859
+    },
+    {
+      "name": "Granični prijelaz Slavonski Šamac",
+      "latitude": 45.06625,
+      "longitude": 18.496266
+    },
+    {
+      "name": "Granični prijelaz Stara Gradiška",
+      "latitude": 45.151341,
+      "longitude": 17.246399
+    },
+    {
+      "name": "Granični prijelaz Svilaj",
+      "latitude": 45.114852,
+      "longitude": 18.322272
+    },
+    {
+      "name": "Granični prijelaz Tovarnik",
+      "latitude": 45.156665,
+      "longitude": 19.171767
+    },
+    {
+      "name": "Granični prijelaz Užljebić",
+      "latitude": 44.705978,
+      "longitude": 15.931353
+    },
+    {
+      "name": "Granični prijelaz Vinjani Donji",
+      "latitude": 43.422528,
+      "longitude": 17.274383
+    },
+    {
+      "name": "Granični prijelaz Vinjani Gornji",
+      "latitude": 43.460319,
+      "longitude": 17.284502
+    },
+    {
+      "name": "Granični prijelaz Vitaljina",
+      "latitude": 42.423353,
+      "longitude": 18.513706
+    },
+    {
+      "name": "Granični prijelaz Zamost",
+      "latitude": 45.532397,
+      "longitude": 14.685868
+    },
+    {
+      "name": "Granični prijelaz Zaton Doli",
+      "latitude": 42.888268,
+      "longitude": 17.652518
+    },
+    {
+      "name": "Granični prijelaz Čabar",
+      "latitude": 45.592463,
+      "longitude": 14.650887
+    },
+    {
+      "name": "Granični prijlaz Kordunski Ljeskovac",
+      "latitude": 44.975648,
+      "longitude": 15.782596
+    },
+    {
+      "name": "I. policijska postaja Osijek",
+      "latitude": 45.553646,
+      "longitude": 18.684037
+    },
+    {
+      "name": "I. policijska postaja Rijeka",
+      "latitude": 45.327235,
+      "longitude": 14.44494
+    },
+    {
+      "name": "I. policijska postaja Split",
+      "latitude": 43.519504,
+      "longitude": 16.446019
+    },
+    {
+      "name": "I. policijska postaja Zadar",
+      "latitude": 44.114171,
+      "longitude": 15.225361
+    },
+    {
+      "name": "I. policijska postaja Zagreb (Centar)",
+      "latitude": 45.80489,
+      "longitude": 15.981088
+    },
+    {
+      "name": "I. postaja prometne policije Zagreb (Heinzelova)",
+      "latitude": 45.797663,
+      "longitude": 16.015033
+    },
+    {
+      "name": "II. policijska postaja Osijek",
+      "latitude": 45.55407,
+      "longitude": 18.718953
+    },
+    {
+      "name": "II. policijska postaja Rijeka",
+      "latitude": 45.325186,
+      "longitude": 14.454406
+    },
+    {
+      "name": "II. Policijska postaja Split",
+      "latitude": 43.505471,
+      "longitude": 16.445965
+    },
+    {
+      "name": "II. policijska postaja Zadar",
+      "latitude": 44.116385,
+      "longitude": 15.240732
+    },
+    {
+      "name": "II. policijska postaja Zagreb (Črnomerec - Susedgrad)",
+      "latitude": 45.814413,
+      "longitude": 15.934354
+    },
+    {
+      "name": "II. postaja prometne policije Lučko",
+      "latitude": 45.749478,
+      "longitude": 15.882591
+    },
+    {
+      "name": "III. policijska postaja Zagreb (Dubrava)",
+      "latitude": 45.830005,
+      "longitude": 16.054988
+    },
+    {
+      "name": "Interventna jedinica policije",
+      "latitude": 45.333734,
+      "longitude": 14.428802
+    },
+    {
+      "name": "Interventna policija Mravince",
+      "latitude": 43.5342,
+      "longitude": 16.520823
+    },
+    {
+      "name": "IV. policijska postaja Zagreb (Maksimir)",
+      "latitude": 45.82116,
+      "longitude": 16.008638
+    },
+    {
+      "name": "IX. policijska postaja Zagreb (Sesvete)",
+      "latitude": 45.828223,
+      "longitude": 16.110832
+    },
+    {
+      "name": "Kontejner Mup",
+      "latitude": 43.893223,
+      "longitude": 16.637327
+    },
+    {
+      "name": "Medulin FM",
+      "latitude": 44.822069,
+      "longitude": 13.936621
+    },
+    {
+      "name": "Mejni prehod Brezovica",
+      "latitude": 45.692897,
+      "longitude": 15.300137
+    },
+    {
+      "name": "Mejni prehod Gibina",
+      "latitude": 46.520503,
+      "longitude": 16.309441
+    },
+    {
+      "name": "Mejni prehod Ormož",
+      "latitude": 46.403314,
+      "longitude": 16.155154
+    },
+    {
+      "name": "Mejni prehod Razkrižje",
+      "latitude": 46.517462,
+      "longitude": 16.274647
+    },
+    {
+      "name": "Mejni prehod Središče ob Dravi I",
+      "latitude": 46.414525,
+      "longitude": 16.277695
+    },
+    {
+      "name": "MUP – Administrativni poslovi",
+      "latitude": 45.327602,
+      "longitude": 14.445247
+    },
+    {
+      "name": "Područni ured Silba",
+      "latitude": 44.376083,
+      "longitude": 14.694328
+    },
+    {
+      "name": "Policija",
+      "latitude": 44.080103,
+      "longitude": 15.189505
+    },
+    {
+      "name": "Policija RH MUP Zadar",
+      "latitude": 44.109597,
+      "longitude": 15.24046
+    },
+    {
+      "name": "Policijska postaja Beli Manastir",
+      "latitude": 45.771071,
+      "longitude": 18.602692
+    },
+    {
+      "name": "Policijska postaja Belišće",
+      "latitude": 45.687335,
+      "longitude": 18.407674
+    },
+    {
+      "name": "Policijska postaja Benkovac",
+      "latitude": 44.035147,
+      "longitude": 15.612512
+    },
+    {
+      "name": "Policijska postaja Biograd na Moru",
+      "latitude": 43.937141,
+      "longitude": 15.444106
+    },
+    {
+      "name": "Policijska postaja Bjelovar",
+      "latitude": 45.903941,
+      "longitude": 16.850573
+    },
+    {
+      "name": "Policijska postaja Brač",
+      "latitude": 43.381817,
+      "longitude": 16.556947
+    },
+    {
+      "name": "Policijska postaja Buje",
+      "latitude": 45.408607,
+      "longitude": 13.657438
+    },
+    {
+      "name": "Policijska postaja Buzet",
+      "latitude": 45.410614,
+      "longitude": 13.965762
+    },
+    {
+      "name": "Policijska postaja Crikvenica",
+      "latitude": 45.178224,
+      "longitude": 14.686242
+    },
+    {
+      "name": "Policijska postaja Daruvar",
+      "latitude": 45.59019,
+      "longitude": 17.223988
+    },
+    {
+      "name": "Policijska postaja Delnice",
+      "latitude": 45.397919,
+      "longitude": 14.799643
+    },
+    {
+      "name": "Policijska postaja Donja Stubica",
+      "latitude": 45.980455,
+      "longitude": 15.972552
+    },
+    {
+      "name": "Policijska postaja Donji Lapac",
+      "latitude": 44.551219,
+      "longitude": 15.960931
+    },
+    {
+      "name": "Policijska postaja Donji Miholjac",
+      "latitude": 45.760305,
+      "longitude": 18.159363
+    },
+    {
+      "name": "Policijska postaja Donji Srb",
+      "latitude": 44.364423,
+      "longitude": 16.123594
+    },
+    {
+      "name": "Policijska postaja Drniš",
+      "latitude": 43.858636,
+      "longitude": 16.157121
+    },
+    {
+      "name": "Policijska postaja Dubrovnik",
+      "latitude": 42.649213,
+      "longitude": 18.09259
+    },
+    {
+      "name": "Policijska postaja Duga Resa",
+      "latitude": 45.447687,
+      "longitude": 15.501812
+    },
+    {
+      "name": "Policijska postaja Dugo Selo",
+      "latitude": 45.806578,
+      "longitude": 16.235511
+    },
+    {
+      "name": "Policijska postaja Dvor",
+      "latitude": 45.071519,
+      "longitude": 16.376642
+    },
+    {
+      "name": "Policijska postaja Garešnica",
+      "latitude": 45.572615,
+      "longitude": 16.94072
+    },
+    {
+      "name": "Policijska postaja Glina",
+      "latitude": 45.341444,
+      "longitude": 16.086534
+    },
+    {
+      "name": "Policijska postaja Gospić",
+      "latitude": 44.544698,
+      "longitude": 15.376967
+    },
+    {
+      "name": "Policijska postaja Gračac",
+      "latitude": 44.29612,
+      "longitude": 15.844289
+    },
+    {
+      "name": "Policijska postaja Grubišno Polje",
+      "latitude": 45.701307,
+      "longitude": 17.173229
+    },
+    {
+      "name": "Policijska postaja Gruda",
+      "latitude": 42.517649,
+      "longitude": 18.368146
+    },
+    {
+      "name": "Policijska postaja Gvozd",
+      "latitude": 45.356196,
+      "longitude": 15.863489
+    },
+    {
+      "name": "Policijska postaja Hrvatska Kostajnica",
+      "latitude": 45.229374,
+      "longitude": 16.535178
+    },
+    {
+      "name": "Policijska postaja Hvar",
+      "latitude": 43.172679,
+      "longitude": 16.445424
+    },
+    {
+      "name": "Policijska postaja Ilok",
+      "latitude": 45.22389,
+      "longitude": 19.363478
+    },
+    {
+      "name": "Policijska postaja Ivanec",
+      "latitude": 46.226117,
+      "longitude": 16.128366
+    },
+    {
+      "name": "Policijska postaja Ivanić Grad",
+      "latitude": 45.706103,
+      "longitude": 16.394764
+    },
+    {
+      "name": "Policijska postaja Jastrebarsko",
+      "latitude": 45.667943,
+      "longitude": 15.64601
+    },
+    {
+      "name": "Policijska postaja Karlobag",
+      "latitude": 44.526877,
+      "longitude": 15.071612
+    },
+    {
+      "name": "Policijska postaja Karlovac",
+      "latitude": 45.491096,
+      "longitude": 15.546212
+    },
+    {
+      "name": "Policijska postaja Kaštela",
+      "latitude": 43.548382,
+      "longitude": 16.432879
+    },
+    {
+      "name": "Policijska postaja Klanjec",
+      "latitude": 46.048722,
+      "longitude": 15.739352
+    },
+    {
+      "name": "Policijska postaja Knin",
+      "latitude": 44.0451,
+      "longitude": 16.200181
+    },
+    {
+      "name": "Policijska postaja Koprivnica",
+      "latitude": 46.160401,
+      "longitude": 16.838943
+    },
+    {
+      "name": "Policijska postaja Korenica",
+      "latitude": 44.743171,
+      "longitude": 15.706212
+    },
+    {
+      "name": "Policijska postaja Korčula",
+      "latitude": 42.948692,
+      "longitude": 17.136891
+    },
+    {
+      "name": "Policijska postaja Krapina",
+      "latitude": 46.154984,
+      "longitude": 15.876132
+    },
+    {
+      "name": "Policijska postaja Križevci",
+      "latitude": 46.02509,
+      "longitude": 16.542875
+    },
+    {
+      "name": "Policijska postaja Krk",
+      "latitude": 45.026738,
+      "longitude": 14.571293
+    },
+    {
+      "name": "Policijska postaja Kutina",
+      "latitude": 45.480043,
+      "longitude": 16.771776
+    },
+    {
+      "name": "Policijska postaja Kutjevo",
+      "latitude": 45.423085,
+      "longitude": 17.881334
+    },
+    {
+      "name": "Policijska postaja Labin",
+      "latitude": 45.095656,
+      "longitude": 14.120803
+    },
+    {
+      "name": "Policijska postaja Lastovo",
+      "latitude": 42.766354,
+      "longitude": 16.892806
+    },
+    {
+      "name": "Policijska postaja Ludbreg",
+      "latitude": 46.246112,
+      "longitude": 16.622791
+    },
+    {
+      "name": "Policijska postaja Makarska",
+      "latitude": 43.296249,
+      "longitude": 17.018288
+    },
+    {
+      "name": "Policijska postaja Mali Lošinj",
+      "latitude": 44.529445,
+      "longitude": 14.475538
+    },
+    {
+      "name": "Policijska postaja Metković",
+      "latitude": 43.065497,
+      "longitude": 17.643337
+    },
+    {
+      "name": "Policijska postaja Mursko Središće",
+      "latitude": 46.512625,
+      "longitude": 16.440615
+    },
+    {
+      "name": "Policijska postaja Našice",
+      "latitude": 45.491125,
+      "longitude": 18.094045
+    },
+    {
+      "name": "Policijska postaja Nova Gradiška",
+      "latitude": 45.258105,
+      "longitude": 17.381262
+    },
+    {
+      "name": "Policijska postaja Novalja",
+      "latitude": 44.559173,
+      "longitude": 14.88057
+    },
+    {
+      "name": "Policijska postaja Novi Marof",
+      "latitude": 46.163817,
+      "longitude": 16.33526
+    },
+    {
+      "name": "Policijska postaja Novska",
+      "latitude": 45.342248,
+      "longitude": 16.977999
+    },
+    {
+      "name": "Policijska postaja Obrovac",
+      "latitude": 44.2022,
+      "longitude": 15.684753
+    },
+    {
+      "name": "Policijska postaja Ogulin",
+      "latitude": 45.264156,
+      "longitude": 15.229053
+    },
+    {
+      "name": "Policijska postaja Okučani",
+      "latitude": 45.2614,
+      "longitude": 17.199941
+    },
+    {
+      "name": "Policijska postaja Omiš",
+      "latitude": 43.445604,
+      "longitude": 16.687389
+    },
+    {
+      "name": "Policijska postaja Opatija",
+      "latitude": 45.325281,
+      "longitude": 14.299519
+    },
+    {
+      "name": "Policijska postaja Orahovica",
+      "latitude": 45.532073,
+      "longitude": 17.880197
+    },
+    {
+      "name": "Policijska postaja Otok",
+      "latitude": 45.146672,
+      "longitude": 18.885378
+    },
+    {
+      "name": "Policijska postaja Otočac",
+      "latitude": 44.869841,
+      "longitude": 15.234156
+    },
+    {
+      "name": "Policijska postaja Ozalj",
+      "latitude": 45.612562,
+      "longitude": 15.478453
+    },
+    {
+      "name": "Policijska postaja Pag",
+      "latitude": 44.447688,
+      "longitude": 15.056852
+    },
+    {
+      "name": "Policijska postaja Pakrac",
+      "latitude": 45.43508,
+      "longitude": 17.193052
+    },
+    {
+      "name": "Policijska postaja Pazin",
+      "latitude": 45.241166,
+      "longitude": 13.935878
+    },
+    {
+      "name": "Policijska postaja Petrinja",
+      "latitude": 45.441299,
+      "longitude": 16.285724
+    },
+    {
+      "name": "Policijska postaja Pitomača",
+      "latitude": 45.946025,
+      "longitude": 17.232209
+    },
+    {
+      "name": "Policijska postaja Pleternica",
+      "latitude": 45.286261,
+      "longitude": 17.800189
+    },
+    {
+      "name": "Policijska postaja Ploče",
+      "latitude": 43.049467,
+      "longitude": 17.434899
+    },
+    {
+      "name": "Policijska postaja Poreč",
+      "latitude": 45.229341,
+      "longitude": 13.60027
+    },
+    {
+      "name": "Policijska postaja Požega",
+      "latitude": 45.351624,
+      "longitude": 17.682853
+    },
+    {
+      "name": "Policijska postaja Pregrada",
+      "latitude": 46.159298,
+      "longitude": 15.755705
+    },
+    {
+      "name": "Policijska postaja Prelog",
+      "latitude": 46.330602,
+      "longitude": 16.614593
+    },
+    {
+      "name": "Policijska postaja Primošten",
+      "latitude": 43.587934,
+      "longitude": 15.924897
+    },
+    {
+      "name": "Policijska postaja Pula",
+      "latitude": 44.865442,
+      "longitude": 13.850355
+    },
+    {
+      "name": "Policijska postaja Rab",
+      "latitude": 44.762702,
+      "longitude": 14.757975
+    },
+    {
+      "name": "Policijska postaja Rovinj",
+      "latitude": 45.080307,
+      "longitude": 13.642369
+    },
+    {
+      "name": "Policijska postaja Samobor",
+      "latitude": 45.795814,
+      "longitude": 15.722126
+    },
+    {
+      "name": "Policijska postaja Senj",
+      "latitude": 44.990077,
+      "longitude": 14.904699
+    },
+    {
+      "name": "Policijska postaja Sinj",
+      "latitude": 43.706295,
+      "longitude": 16.638658
+    },
+    {
+      "name": "Policijska postaja Sisak",
+      "latitude": 45.482342,
+      "longitude": 16.376624
+    },
+    {
+      "name": "Policijska postaja Slatina",
+      "latitude": 45.702914,
+      "longitude": 17.69815
+    },
+    {
+      "name": "Policijska postaja Slavonski Brod",
+      "latitude": 45.157886,
+      "longitude": 18.0137
+    },
+    {
+      "name": "Policijska postaja Slunj",
+      "latitude": 45.115017,
+      "longitude": 15.584359
+    },
+    {
+      "name": "Policijska postaja Solin",
+      "latitude": 43.540945,
+      "longitude": 16.491915
+    },
+    {
+      "name": "Policijska postaja Ston",
+      "latitude": 42.837801,
+      "longitude": 17.698656
+    },
+    {
+      "name": "Policijska postaja Sunja",
+      "latitude": 45.372796,
+      "longitude": 16.568558
+    },
+    {
+      "name": "Policijska postaja Sveti Ivan Zelina",
+      "latitude": 45.957306,
+      "longitude": 16.239838
+    },
+    {
+      "name": "Policijska postaja Tovarnik",
+      "latitude": 45.16434,
+      "longitude": 19.154809
+    },
+    {
+      "name": "Policijska postaja Trogir",
+      "latitude": 43.520415,
+      "longitude": 16.250674
+    },
+    {
+      "name": "Policijska postaja Umag",
+      "latitude": 45.438642,
+      "longitude": 13.525225
+    },
+    {
+      "name": "Policijska postaja Varaždin",
+      "latitude": 46.305895,
+      "longitude": 16.340914
+    },
+    {
+      "name": "Policijska postaja Velika Gorica",
+      "latitude": 45.713753,
+      "longitude": 16.069639
+    },
+    {
+      "name": "Policijska postaja Vinkovci",
+      "latitude": 45.288159,
+      "longitude": 18.807083
+    },
+    {
+      "name": "Policijska postaja Virovitica",
+      "latitude": 45.825263,
+      "longitude": 17.399407
+    },
+    {
+      "name": "Policijska postaja Vis",
+      "latitude": 43.057163,
+      "longitude": 16.195514
+    },
+    {
+      "name": "Policijska postaja Vodice",
+      "latitude": 43.758744,
+      "longitude": 15.788947
+    },
+    {
+      "name": "Policijska postaja Vojnić",
+      "latitude": 45.324237,
+      "longitude": 15.696374
+    },
+    {
+      "name": "Policijska postaja Vrbanja",
+      "latitude": 44.982835,
+      "longitude": 18.928457
+    },
+    {
+      "name": "Policijska postaja Vrbovec",
+      "latitude": 45.888246,
+      "longitude": 16.418762
+    },
+    {
+      "name": "Policijska postaja Vrbovsko",
+      "latitude": 45.372233,
+      "longitude": 15.077192
+    },
+    {
+      "name": "Policijska postaja Vrgorac",
+      "latitude": 43.206291,
+      "longitude": 17.372038
+    },
+    {
+      "name": "Policijska postaja Vrpolje",
+      "latitude": 45.219483,
+      "longitude": 18.409211
+    },
+    {
+      "name": "Policijska postaja Vukovar",
+      "latitude": 45.345181,
+      "longitude": 19.007605
+    },
+    {
+      "name": "Policijska postaja Zabok",
+      "latitude": 46.025756,
+      "longitude": 15.90406
+    },
+    {
+      "name": "Policijska postaja Zaprešić",
+      "latitude": 45.858886,
+      "longitude": 15.803711
+    },
+    {
+      "name": "Policijska postaja Zlatar Bistrica",
+      "latitude": 46.045187,
+      "longitude": 16.083378
+    },
+    {
+      "name": "Policijska postaja Čabar",
+      "latitude": 45.593285,
+      "longitude": 14.648113
+    },
+    {
+      "name": "Policijska postaja Čakovec",
+      "latitude": 46.392682,
+      "longitude": 16.43066
+    },
+    {
+      "name": "Policijska postaja Čazma",
+      "latitude": 45.749361,
+      "longitude": 16.6142
+    },
+    {
+      "name": "Policijska postaja Čepin",
+      "latitude": 45.523977,
+      "longitude": 18.573968
+    },
+    {
+      "name": "Policijska postaja Đakovo",
+      "latitude": 45.305962,
+      "longitude": 18.412055
+    },
+    {
+      "name": "Policijska postaja Đurđevac",
+      "latitude": 46.040657,
+      "longitude": 17.068013
+    },
+    {
+      "name": "Policijska postaja Šibenik",
+      "latitude": 43.733358,
+      "longitude": 15.897247
+    },
+    {
+      "name": "Policijska postaja Štrigova",
+      "latitude": 46.50092,
+      "longitude": 16.287875
+    },
+    {
+      "name": "Policijska postaja Županja",
+      "latitude": 45.074768,
+      "longitude": 18.6965
+    },
+    {
+      "name": "Policijska uprava Bjelovarsko-Bilogorska",
+      "latitude": 45.904003,
+      "longitude": 16.85083
+    },
+    {
+      "name": "Policijska uprava Brodsko-posavska",
+      "latitude": 45.157843,
+      "longitude": 18.014042
+    },
+    {
+      "name": "Policijska uprava Dubrovačko-neretvanska",
+      "latitude": 42.649067,
+      "longitude": 18.092754
+    },
+    {
+      "name": "Policijska uprava Istarska",
+      "latitude": 44.865215,
+      "longitude": 13.85064
+    },
+    {
+      "name": "Policijska uprava Karlovačka",
+      "latitude": 45.489736,
+      "longitude": 15.540326
+    },
+    {
+      "name": "Policijska uprava Koprivničko-križevačka",
+      "latitude": 46.16082,
+      "longitude": 16.838433
+    },
+    {
+      "name": "Policijska uprava Krapinsko-zagorska",
+      "latitude": 46.025797,
+      "longitude": 15.904329
+    },
+    {
+      "name": "Policijska uprava Ličko-senjska",
+      "latitude": 44.547042,
+      "longitude": 15.375154
+    },
+    {
+      "name": "Policijska uprava Međimurska",
+      "latitude": 46.392824,
+      "longitude": 16.43048
+    },
+    {
+      "name": "Policijska uprava Osječko-baranjska",
+      "latitude": 45.553701,
+      "longitude": 18.684472
+    },
+    {
+      "name": "Policijska uprava Požeško-slavonska",
+      "latitude": 45.334188,
+      "longitude": 17.671879
+    },
+    {
+      "name": "Policijska uprava Primorsko-goranska",
+      "latitude": 45.32778,
+      "longitude": 14.445202
+    },
+    {
+      "name": "Policijska uprava Sisačko-moslavačka",
+      "latitude": 45.464583,
+      "longitude": 16.382882
+    },
+    {
+      "name": "Policijska uprava Splitsko-dalmatinska",
+      "latitude": 43.51558,
+      "longitude": 16.441397
+    },
+    {
+      "name": "Policijska uprava Varaždinska",
+      "latitude": 46.304332,
+      "longitude": 16.342736
+    },
+    {
+      "name": "Policijska uprava Virovitičko-podravska",
+      "latitude": 45.832392,
+      "longitude": 17.383545
+    },
+    {
+      "name": "Policijska uprava Vukovarsko-srijemska",
+      "latitude": 45.290755,
+      "longitude": 18.801035
+    },
+    {
+      "name": "Policijska uprava Zadarska",
+      "latitude": 44.116429,
+      "longitude": 15.24133
+    },
+    {
+      "name": "Policijska uprava zagrebačka",
+      "latitude": 45.804992,
+      "longitude": 15.98108
+    },
+    {
+      "name": "Policijska uprava zagrebačka - upravni poslovi",
+      "latitude": 45.778133,
+      "longitude": 15.973011
+    },
+    {
+      "name": "Policijska uprava Zagrebačka, odjel za putovnice, prebivališta i osobne iskaznice u redovnom, ubrzanom i žurnom postupku, aktiviranje O.I. certifikata",
+      "latitude": 45.799392,
+      "longitude": 15.972498
+    },
+    {
+      "name": "Policijska uprava zagrebačka, sektor za granicu",
+      "latitude": 45.838085,
+      "longitude": 15.688252
+    },
+    {
+      "name": "Policijska uprava Šibensko-kninska",
+      "latitude": 43.717932,
+      "longitude": 15.906564
+    },
+    {
+      "name": "Policijski dom",
+      "latitude": 45.329947,
+      "longitude": 14.443533
+    },
+    {
+      "name": "Pomorska policija",
+      "latitude": 42.961367,
+      "longitude": 17.134964
+    },
+    {
+      "name": "Porezna uprava",
+      "latitude": 43.059004,
+      "longitude": 16.186997
+    },
+    {
+      "name": "Postaja aerodromske policije Pleso",
+      "latitude": 45.734361,
+      "longitude": 16.063212
+    },
+    {
+      "name": "Postaja granične policije Bajakovo",
+      "latitude": 45.049489,
+      "longitude": 19.101156
+    },
+    {
+      "name": "Postaja granične policije Cetingrad",
+      "latitude": 45.158408,
+      "longitude": 15.740295
+    },
+    {
+      "name": "Postaja granične policije Imotski",
+      "latitude": 43.446679,
+      "longitude": 17.224017
+    },
+    {
+      "name": "Postaja granične policije Macelj",
+      "latitude": 46.154857,
+      "longitude": 15.875427
+    },
+    {
+      "name": "Postaja granične policije Metković",
+      "latitude": 43.053767,
+      "longitude": 17.640509
+    },
+    {
+      "name": "Postaja granične policije Rupa",
+      "latitude": 45.488216,
+      "longitude": 14.27899
+    },
+    {
+      "name": "Postaja granične policije Slavonski Brod",
+      "latitude": 45.162598,
+      "longitude": 17.993359
+    },
+    {
+      "name": "Postaja granične policije Stara Gradiška",
+      "latitude": 45.149503,
+      "longitude": 17.244426
+    },
+    {
+      "name": "Postaja granične policije Trilj",
+      "latitude": 43.613005,
+      "longitude": 16.726743
+    },
+    {
+      "name": "Postaja granične policije Varaždin",
+      "latitude": 46.226171,
+      "longitude": 16.128609
+    },
+    {
+      "name": "Postaja mejne policije Jelšane",
+      "latitude": 45.490586,
+      "longitude": 14.277483
+    },
+    {
+      "name": "Postaja Mejne Policije Zavrč",
+      "latitude": 46.389135,
+      "longitude": 16.052036
+    },
+    {
+      "name": "Postaja pomorske policije Zadar",
+      "latitude": 44.118648,
+      "longitude": 15.222419
+    },
+    {
+      "name": "Postaja prometne policije Dubrovnik",
+      "latitude": 42.65915,
+      "longitude": 18.088054
+    },
+    {
+      "name": "Postaja prometne policije Karlovac",
+      "latitude": 45.491094,
+      "longitude": 15.545801
+    },
+    {
+      "name": "Postaja prometne policije Koprivnica",
+      "latitude": 46.160452,
+      "longitude": 16.838059
+    },
+    {
+      "name": "Postaja prometne policije Krapina",
+      "latitude": 46.154865,
+      "longitude": 15.875736
+    },
+    {
+      "name": "Postaja prometne policije Osijek",
+      "latitude": 45.55371,
+      "longitude": 18.684936
+    },
+    {
+      "name": "Postaja prometne policije Pula",
+      "latitude": 44.881545,
+      "longitude": 13.849703
+    },
+    {
+      "name": "Postaja prometne policije Sisak",
+      "latitude": 45.459457,
+      "longitude": 16.386601
+    },
+    {
+      "name": "Postaja prometne policije Slavonski Brod",
+      "latitude": 45.169672,
+      "longitude": 17.947076
+    },
+    {
+      "name": "Postaja prometne policije Split",
+      "latitude": 43.516944,
+      "longitude": 16.450353
+    },
+    {
+      "name": "Postaja prometne policije Varaždin",
+      "latitude": 46.305928,
+      "longitude": 16.341283
+    },
+    {
+      "name": "Postaja prometne policije Vinkovci",
+      "latitude": 45.28822,
+      "longitude": 18.806941
+    },
+    {
+      "name": "Postaja prometne policije Virovitica",
+      "latitude": 45.825187,
+      "longitude": 17.399506
+    },
+    {
+      "name": "Postaja prometne policije Čakovec",
+      "latitude": 46.392574,
+      "longitude": 16.430814
+    },
+    {
+      "name": "Prometna policija",
+      "latitude": 45.329898,
+      "longitude": 14.43593
+    },
+    {
+      "name": "Rendőrkapitányság Siklós Drávaszabolcs Közúti Átkelő",
+      "latitude": 45.784943,
+      "longitude": 18.201578
+    },
+    {
+      "name": "Riječna policija",
+      "latitude": 45.830898,
+      "longitude": 18.852121
+    },
+    {
+      "name": "Smještajno-obučni centar „Spačva“",
+      "latitude": 45.046052,
+      "longitude": 18.996433
+    },
+    {
+      "name": "Udvar határátkelőhely",
+      "latitude": 45.896054,
+      "longitude": 18.660733
+    },
+    {
+      "name": "V. policijska postaja Zagreb (Medveščak)",
+      "latitude": 45.813703,
+      "longitude": 15.989747
+    },
+    {
+      "name": "VI. policijska postaja Zagreb (Novi Zagreb)",
+      "latitude": 45.768077,
+      "longitude": 15.946949
+    },
+    {
+      "name": "VII. policijska postaja Zagreb (Trešnjevka)",
+      "latitude": 45.796633,
+      "longitude": 15.949022
+    },
+    {
+      "name": "VIII. policijska postaja Zagreb (Trnje)",
+      "latitude": 45.79681,
+      "longitude": 15.989231
+    },
+    {
+      "name": "Гранични прелаз Бездан",
+      "latitude": 45.844568,
+      "longitude": 18.866636
+    },
+    {
+      "name": "Гранични прелаз Богојево",
+      "latitude": 45.529145,
+      "longitude": 19.087842
+    },
+    {
+      "name": "Гранични прелаз Нештин",
+      "latitude": 45.216706,
+      "longitude": 19.432939
+    },
+    {
+      "name": "Гранични прелаз Сот",
+      "latitude": 45.171549,
+      "longitude": 19.346709
+    },
+    {
+      "name": "Гранични прелаз Шид",
+      "latitude": 45.154734,
+      "longitude": 19.17504
+    },
+    {
+      "name": "Царина",
+      "latitude": 45.676693,
+      "longitude": 18.968808
+    }
+  ],
+  "meta": {
+    "title": "Policijske postaje - Besplatno preuzimanje",
+    "description": "Policijske postaje u Hrvatskoj (272 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=police), izrez EU-POIS/HR. Sadrži 272 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Policijske postaje | ListBase",
+    "seo_description": "Preuzmi Policijske postaje — 272 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 272 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

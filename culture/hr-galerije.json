@@ -1,0 +1,486 @@
+{
+  "id": "hr-galerije",
+  "name": "Galerije",
+  "title": "Galerije",
+  "description": "Galerije u Hrvatskoj (89 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=gallery), izrez EU-POIS/HR.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "@telier",
+      "latitude": 45.812906,
+      "longitude": 15.985137
+    },
+    {
+      "name": "Antonija.M",
+      "latitude": 45.811434,
+      "longitude": 15.989462
+    },
+    {
+      "name": "Art square gallery",
+      "latitude": 45.81279,
+      "longitude": 15.978529
+    },
+    {
+      "name": "artour",
+      "latitude": 44.664542,
+      "longitude": 14.398182
+    },
+    {
+      "name": "Atelier Dr",
+      "latitude": 45.08102,
+      "longitude": 13.637355
+    },
+    {
+      "name": "Atelier Katarina",
+      "latitude": 45.813004,
+      "longitude": 15.985064
+    },
+    {
+      "name": "Atelier Ostrman",
+      "latitude": 45.811222,
+      "longitude": 15.988096
+    },
+    {
+      "name": "Atelje Antolčić",
+      "latitude": 45.748986,
+      "longitude": 16.612946
+    },
+    {
+      "name": "Atelje Vasko Lipovac",
+      "latitude": 43.511807,
+      "longitude": 16.444085
+    },
+    {
+      "name": "Bavul Art",
+      "latitude": 43.05867,
+      "longitude": 16.18992
+    },
+    {
+      "name": "Bibliofil",
+      "latitude": 45.812533,
+      "longitude": 15.989681
+    },
+    {
+      "name": "Bruketa",
+      "latitude": 45.326749,
+      "longitude": 14.444099
+    },
+    {
+      "name": "Butiga",
+      "latitude": 43.18385,
+      "longitude": 16.598787
+    },
+    {
+      "name": "Canvas galerija",
+      "latitude": 45.811462,
+      "longitude": 15.987338
+    },
+    {
+      "name": "Dalmacijaland",
+      "latitude": 43.161219,
+      "longitude": 16.694234
+    },
+    {
+      "name": "Decumanus",
+      "latitude": 45.026167,
+      "longitude": 14.57431
+    },
+    {
+      "name": "DOGMA 23",
+      "latitude": 45.81294,
+      "longitude": 15.968158
+    },
+    {
+      "name": "Dom hrvatskih likovnih umjetnika",
+      "latitude": 45.809937,
+      "longitude": 15.987184
+    },
+    {
+      "name": "Foto galerija Lang",
+      "latitude": 45.80096,
+      "longitude": 15.711737
+    },
+    {
+      "name": "Froggyland",
+      "latitude": 43.510092,
+      "longitude": 16.43803
+    },
+    {
+      "name": "Galerija",
+      "latitude": 45.287752,
+      "longitude": 18.803283
+    },
+    {
+      "name": "Galerija \"Josip Račić\"",
+      "latitude": 45.812633,
+      "longitude": 15.974517
+    },
+    {
+      "name": "Galerija \"Šoto\"",
+      "latitude": 45.448777,
+      "longitude": 15.501251
+    },
+    {
+      "name": "Galerija 2B",
+      "latitude": 45.082562,
+      "longitude": 13.632557
+    },
+    {
+      "name": "Galerija AMZ",
+      "latitude": 45.807499,
+      "longitude": 15.98002
+    },
+    {
+      "name": "Galerija Branimir",
+      "latitude": 45.813606,
+      "longitude": 15.978448
+    },
+    {
+      "name": "Galerija Bratska Kuća",
+      "latitude": 43.391788,
+      "longitude": 16.285626
+    },
+    {
+      "name": "Galerija C8",
+      "latitude": 44.870828,
+      "longitude": 13.848089
+    },
+    {
+      "name": "Galerija Filodrammatica",
+      "latitude": 45.327478,
+      "longitude": 14.440657
+    },
+    {
+      "name": "Galerija Forum",
+      "latitude": 45.811359,
+      "longitude": 15.974673
+    },
+    {
+      "name": "Galerija instituta za suvremenu umjetnost",
+      "latitude": 45.807209,
+      "longitude": 15.977744
+    },
+    {
+      "name": "Galerija Ivan Večenaj Tišlarov",
+      "latitude": 46.192886,
+      "longitude": 17.057444
+    },
+    {
+      "name": "Galerija Josip Generalić",
+      "latitude": 46.148243,
+      "longitude": 16.967763
+    },
+    {
+      "name": "Galerija Kazamat",
+      "latitude": 45.560132,
+      "longitude": 18.69818
+    },
+    {
+      "name": "Galerija Knifer",
+      "latitude": 45.555705,
+      "longitude": 18.693744
+    },
+    {
+      "name": "Galerija Koprivnica",
+      "latitude": 46.163492,
+      "longitude": 16.830682
+    },
+    {
+      "name": "Galerija Kunkera Novalja",
+      "latitude": 44.556758,
+      "longitude": 14.884678
+    },
+    {
+      "name": "Galerija Maksimilijana Vanke",
+      "latitude": 42.962894,
+      "longitude": 17.130101
+    },
+    {
+      "name": "Galerija Mala",
+      "latitude": 45.81339,
+      "longitude": 15.977307
+    },
+    {
+      "name": "Galerija Marije Ujević Galetović",
+      "latitude": 44.374065,
+      "longitude": 14.697575
+    },
+    {
+      "name": "Galerija Matice hrvatske",
+      "latitude": 45.808407,
+      "longitude": 15.979595
+    },
+    {
+      "name": "Galerija Mijo Kovačić",
+      "latitude": 45.817764,
+      "longitude": 15.974231
+    },
+    {
+      "name": "Galerija Miroslav Kraljević",
+      "latitude": 45.812401,
+      "longitude": 15.994722
+    },
+    {
+      "name": "Galerija Muzeja Moslavine",
+      "latitude": 45.483001,
+      "longitude": 16.775192
+    },
+    {
+      "name": "Galerija naivne umjetnosti, Hlebine",
+      "latitude": 46.153074,
+      "longitude": 16.967632
+    },
+    {
+      "name": "Galerija Nevia",
+      "latitude": 44.556913,
+      "longitude": 14.886327
+    },
+    {
+      "name": "Galerija Nova",
+      "latitude": 45.811095,
+      "longitude": 15.976214
+    },
+    {
+      "name": "Galerija Prica",
+      "latitude": 45.80274,
+      "longitude": 15.712843
+    },
+    {
+      "name": "Galerija Ružić",
+      "latitude": 45.156439,
+      "longitude": 18.006233
+    },
+    {
+      "name": "Galerija SC",
+      "latitude": 45.803664,
+      "longitude": 15.968312
+    },
+    {
+      "name": "Galerija Stara Škola",
+      "latitude": 46.198049,
+      "longitude": 17.060341
+    },
+    {
+      "name": "Galerija Testen",
+      "latitude": 44.768728,
+      "longitude": 14.739952
+    },
+    {
+      "name": "Galerija ULUPUH",
+      "latitude": 45.812965,
+      "longitude": 15.973307
+    },
+    {
+      "name": "Galerija umjetnina Branislav Dešković",
+      "latitude": 43.262122,
+      "longitude": 16.658212
+    },
+    {
+      "name": "Galerija Vjekoslav Karas",
+      "latitude": 45.487298,
+      "longitude": 15.543415
+    },
+    {
+      "name": "Galerija Vugrinec",
+      "latitude": 45.813988,
+      "longitude": 15.975804
+    },
+    {
+      "name": "Galerija Šira",
+      "latitude": 45.810677,
+      "longitude": 15.974439
+    },
+    {
+      "name": "Gallery 'Dom kulture'",
+      "latitude": 43.26157,
+      "longitude": 16.655922
+    },
+    {
+      "name": "Gradska Galerija Turnac",
+      "latitude": 45.12852,
+      "longitude": 14.78918
+    },
+    {
+      "name": "Gradska Gallerija Crikvenica",
+      "latitude": 45.174863,
+      "longitude": 14.687375
+    },
+    {
+      "name": "Inkluzivna galerija Art & CeRZe",
+      "latitude": 45.808968,
+      "longitude": 15.985488
+    },
+    {
+      "name": "Izložba paške čipke",
+      "latitude": 44.443583,
+      "longitude": 15.054551
+    },
+    {
+      "name": "Kolekcionart.hr",
+      "latitude": 45.810211,
+      "longitude": 15.989342
+    },
+    {
+      "name": "Kuća karikature",
+      "latitude": 45.816542,
+      "longitude": 15.975904
+    },
+    {
+      "name": "Lauba House",
+      "latitude": 45.811657,
+      "longitude": 15.940411
+    },
+    {
+      "name": "Laudato",
+      "latitude": 45.813336,
+      "longitude": 15.984884
+    },
+    {
+      "name": "Maxim atelier & galerie",
+      "latitude": 45.808023,
+      "longitude": 15.983706
+    },
+    {
+      "name": "Medijateka Francuskog instituta",
+      "latitude": 45.811354,
+      "longitude": 15.974405
+    },
+    {
+      "name": "Memorijalna zbirka Joze Kljakovića",
+      "latitude": 45.815233,
+      "longitude": 15.967383
+    },
+    {
+      "name": "Memorijalni atelje Zvonka Cara",
+      "latitude": 45.179222,
+      "longitude": 14.684232
+    },
+    {
+      "name": "MOLO - fine art studio and gallery",
+      "latitude": 43.183669,
+      "longitude": 16.597752
+    },
+    {
+      "name": "Murali",
+      "latitude": 45.173495,
+      "longitude": 14.689966
+    },
+    {
+      "name": "Natalia Borcic",
+      "latitude": 43.057425,
+      "longitude": 16.194574
+    },
+    {
+      "name": "Oris",
+      "latitude": 45.81005,
+      "longitude": 15.985886
+    },
+    {
+      "name": "Palatino art galerija",
+      "latitude": 45.813861,
+      "longitude": 15.978015
+    },
+    {
+      "name": "Photo Gallery",
+      "latitude": 45.148609,
+      "longitude": 13.606663
+    },
+    {
+      "name": "POU Dom na Žalu",
+      "latitude": 44.083898,
+      "longitude": 15.186486
+    },
+    {
+      "name": "Salon Galić",
+      "latitude": 43.509864,
+      "longitude": 16.437223
+    },
+    {
+      "name": "Salvador Dalí",
+      "latitude": 42.641622,
+      "longitude": 18.106996
+    },
+    {
+      "name": "Skale do Sunca",
+      "latitude": 44.592134,
+      "longitude": 14.877752
+    },
+    {
+      "name": "Sobota",
+      "latitude": 45.811732,
+      "longitude": 15.952132
+    },
+    {
+      "name": "Speleogalerija",
+      "latitude": 45.373764,
+      "longitude": 14.347837
+    },
+    {
+      "name": "Spirit of Art",
+      "latitude": 45.813694,
+      "longitude": 15.978013
+    },
+    {
+      "name": "Stalla",
+      "latitude": 45.378843,
+      "longitude": 13.72246
+    },
+    {
+      "name": "Studio Porton",
+      "latitude": 45.378545,
+      "longitude": 13.721929
+    },
+    {
+      "name": "Udruga Čazmanskih umjetnika \"čARTer\"",
+      "latitude": 45.749041,
+      "longitude": 16.613192
+    },
+    {
+      "name": "Umjetnički paviljon Juraj Šporer",
+      "latitude": 45.33389,
+      "longitude": 14.306924
+    },
+    {
+      "name": "Zbirka skulptura akademskog kipara Zlatka Zlatića",
+      "latitude": 45.822004,
+      "longitude": 16.023254
+    },
+    {
+      "name": "Švicarska kuća",
+      "latitude": 45.336198,
+      "longitude": 14.308797
+    }
+  ],
+  "meta": {
+    "title": "Galerije - Besplatno preuzimanje",
+    "description": "Galerije u Hrvatskoj (89 zapisa) — točke interesa iz OpenStreetMapa (oznaka tourism=gallery), izrez EU-POIS/HR. Sadrži 89 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Galerije | ListBase",
+    "seo_description": "Preuzmi Galerije — 89 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 89 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "hr-vremenske-zone-europe",
+  "name": "Vremenske zone — Europe (31)",
+  "title": "Vremenske zone — Europe (31)",
+  "description": "Vremenske zone čiji IANA identifikator počinje s 'Europe/', s hrvatskim nazivima.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "regija",
+      "label": "Regija",
+      "type": "string"
+    },
+    {
+      "key": "grad",
+      "label": "Grad",
+      "type": "string"
+    },
+    {
+      "key": "standardno_ime",
+      "label": "Standardno Ime",
+      "type": "string"
+    },
+    {
+      "key": "ljetno_ime",
+      "label": "Ljetno Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Europe/Andorra",
+      "regija": "Europe",
+      "grad": "Andora",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Europe/Astrakhan",
+      "regija": "Europe",
+      "grad": "Astrahan",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Europe/Athens",
+      "regija": "Europe",
+      "grad": "Atena",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Europe/Belgrade",
+      "regija": "Europe",
+      "grad": "Beograd",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Europe/Brussels",
+      "regija": "Europe",
+      "grad": "Bruxelles",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Europe/Bucharest",
+      "regija": "Europe",
+      "grad": "Bukurešt",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Europe/Budapest",
+      "regija": "Europe",
+      "grad": "Budimpešta",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Europe/Busingen",
+      "regija": "Europe",
+      "grad": "Büsingen",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Europe/Chisinau",
+      "regija": "Europe",
+      "grad": "Kišinjev",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Europe/Copenhagen",
+      "regija": "Europe",
+      "grad": "Kopenhagen",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Europe/Dublin",
+      "regija": "Europe",
+      "grad": "",
+      "standardno_ime": "",
+      "ljetno_ime": "irsko standardno vrijeme"
+    },
+    {
+      "id": 12,
+      "tz_id": "Europe/Isle_of_Man",
+      "regija": "Europe",
+      "grad": "Otok Man",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Europe/Kaliningrad",
+      "regija": "Europe",
+      "grad": "Kalinjingrad",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Europe/Kiev",
+      "regija": "Europe",
+      "grad": "Kijev",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Europe/Lisbon",
+      "regija": "Europe",
+      "grad": "Lisabon",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Europe/London",
+      "regija": "Europe",
+      "grad": "",
+      "standardno_ime": "",
+      "ljetno_ime": "britansko ljetno vrijeme"
+    },
+    {
+      "id": 17,
+      "tz_id": "Europe/Luxembourg",
+      "regija": "Europe",
+      "grad": "Luksemburg",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Europe/Monaco",
+      "regija": "Europe",
+      "grad": "Monako",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Europe/Moscow",
+      "regija": "Europe",
+      "grad": "Moskva",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Europe/Paris",
+      "regija": "Europe",
+      "grad": "Pariz",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Europe/Prague",
+      "regija": "Europe",
+      "grad": "Prag",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Europe/Rome",
+      "regija": "Europe",
+      "grad": "Rim",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Europe/Simferopol",
+      "regija": "Europe",
+      "grad": "Simferopolj",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Europe/Skopje",
+      "regija": "Europe",
+      "grad": "Skoplje",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Europe/Sofia",
+      "regija": "Europe",
+      "grad": "Sofija",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Europe/Tirane",
+      "regija": "Europe",
+      "grad": "Tirana",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Europe/Ulyanovsk",
+      "regija": "Europe",
+      "grad": "Uljanovsk",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Europe/Vatican",
+      "regija": "Europe",
+      "grad": "Vatikan",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Europe/Vienna",
+      "regija": "Europe",
+      "grad": "Beč",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Europe/Warsaw",
+      "regija": "Europe",
+      "grad": "Varšava",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Europe/Zurich",
+      "regija": "Europe",
+      "grad": "Zürich",
+      "standardno_ime": "",
+      "ljetno_ime": ""
+    }
+  ],
+  "meta": {
+    "title": "Vremenske zone — Europe (31) - Besplatno preuzimanje",
+    "description": "Vremenske zone čiji IANA identifikator počinje s 'Europe/', s hrvatskim nazivima. Sadrži 31 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vremenske zone — Europe (31) | ListBase",
+    "seo_description": "Preuzmi Vremenske zone — Europe (31) — 31 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 31 zapisa / 6 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "id": "hr-it-tvrtke",
+  "name": "IT tvrtke",
+  "title": "IT tvrtke",
+  "description": "IT tvrtke u Hrvatskoj (60 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=it), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "05vizija.net",
+      "latitude": 44.872009,
+      "longitude": 13.845806
+    },
+    {
+      "name": "ACT Printlab d.o.o.",
+      "latitude": 46.384671,
+      "longitude": 16.430513
+    },
+    {
+      "name": "Adnet",
+      "latitude": 45.802451,
+      "longitude": 15.933578
+    },
+    {
+      "name": "ALFA kompjuter usluge d.o.o.",
+      "latitude": 45.800691,
+      "longitude": 16.001649
+    },
+    {
+      "name": "Athena",
+      "latitude": 46.391365,
+      "longitude": 16.44873
+    },
+    {
+      "name": "Axiom",
+      "latitude": 46.391445,
+      "longitude": 16.449093
+    },
+    {
+      "name": "b.t.c.",
+      "latitude": 46.359678,
+      "longitude": 16.370829
+    },
+    {
+      "name": "Benkomat",
+      "latitude": 46.014562,
+      "longitude": 16.539717
+    },
+    {
+      "name": "Boltano informatika",
+      "latitude": 43.505617,
+      "longitude": 16.462119
+    },
+    {
+      "name": "Cetitec",
+      "latitude": 46.391687,
+      "longitude": 16.449739
+    },
+    {
+      "name": "Cimerman Software",
+      "latitude": 46.375448,
+      "longitude": 16.38653
+    },
+    {
+      "name": "CloudSense",
+      "latitude": 43.504084,
+      "longitude": 16.455319
+    },
+    {
+      "name": "Comping d.o.o.",
+      "latitude": 45.804586,
+      "longitude": 16.007369
+    },
+    {
+      "name": "Comsysto Reply d.o.o.",
+      "latitude": 45.791947,
+      "longitude": 15.933805
+    },
+    {
+      "name": "Consultis",
+      "latitude": 46.095342,
+      "longitude": 15.906031
+    },
+    {
+      "name": "Curious Cat Ltd.",
+      "latitude": 45.49132,
+      "longitude": 16.382528
+    },
+    {
+      "name": "Curious Cat Ltd.",
+      "latitude": 45.499505,
+      "longitude": 16.369593
+    },
+    {
+      "name": "DEF-MEDIA d.o.o.",
+      "latitude": 45.899754,
+      "longitude": 15.87273
+    },
+    {
+      "name": "DENO d.o.o.",
+      "latitude": 45.802032,
+      "longitude": 15.953741
+    },
+    {
+      "name": "Enter d.o.o.",
+      "latitude": 46.376652,
+      "longitude": 16.58942
+    },
+    {
+      "name": "ESBE j.d.o.o.",
+      "latitude": 45.177711,
+      "longitude": 17.994657
+    },
+    {
+      "name": "fiskal1",
+      "latitude": 45.807743,
+      "longitude": 16.004185
+    },
+    {
+      "name": "Five Grid d.o.o.",
+      "latitude": 45.802536,
+      "longitude": 15.728651
+    },
+    {
+      "name": "Flipkod d. o. o.",
+      "latitude": 43.518557,
+      "longitude": 16.449471
+    },
+    {
+      "name": "Framos",
+      "latitude": 46.388361,
+      "longitude": 16.445348
+    },
+    {
+      "name": "Franz-net",
+      "latitude": 46.391504,
+      "longitude": 16.449162
+    },
+    {
+      "name": "Hive SqS",
+      "latitude": 46.391731,
+      "longitude": 16.449902
+    },
+    {
+      "name": "Hotel's Touch",
+      "latitude": 43.508452,
+      "longitude": 16.466921
+    },
+    {
+      "name": "Infenso",
+      "latitude": 46.391791,
+      "longitude": 16.450101
+    },
+    {
+      "name": "KG media",
+      "latitude": 46.39185,
+      "longitude": 16.450235
+    },
+    {
+      "name": "Kod22",
+      "latitude": 43.50412,
+      "longitude": 16.455984
+    },
+    {
+      "name": "Kokek, obrt za informatiku",
+      "latitude": 45.268034,
+      "longitude": 15.206567
+    },
+    {
+      "name": "Končar - Elektronika i Informatika",
+      "latitude": 45.80176,
+      "longitude": 15.932024
+    },
+    {
+      "name": "Končar - Elektronika i Informatika - Nabava",
+      "latitude": 45.802034,
+      "longitude": 15.932017
+    },
+    {
+      "name": "Končar - Elektronika i Informatika - Prodaja",
+      "latitude": 45.802083,
+      "longitude": 15.932011
+    },
+    {
+      "name": "Locastic",
+      "latitude": 43.512825,
+      "longitude": 16.4851
+    },
+    {
+      "name": "Lodi media d.o.o.",
+      "latitude": 45.795299,
+      "longitude": 15.965872
+    },
+    {
+      "name": "Međimurje IPC d.d.",
+      "latitude": 46.39775,
+      "longitude": 16.449553
+    },
+    {
+      "name": "NetCode d.o.o.",
+      "latitude": 45.802582,
+      "longitude": 15.728687
+    },
+    {
+      "name": "Obrt Nephilim- servis i prodaja računala",
+      "latitude": 43.162181,
+      "longitude": 16.689288
+    },
+    {
+      "name": "Papion",
+      "latitude": 45.913856,
+      "longitude": 16.853019
+    },
+    {
+      "name": "PC KLINIKA · Računalne usluge",
+      "latitude": 45.808312,
+      "longitude": 15.902264
+    },
+    {
+      "name": "PICS@FESB",
+      "latitude": 43.511921,
+      "longitude": 16.469144
+    },
+    {
+      "name": "Pine Studio",
+      "latitude": 45.796311,
+      "longitude": 15.729156
+    },
+    {
+      "name": "Secus computers",
+      "latitude": 45.797526,
+      "longitude": 15.974197
+    },
+    {
+      "name": "SeekandHit",
+      "latitude": 43.520402,
+      "longitude": 16.447034
+    },
+    {
+      "name": "Servis računala",
+      "latitude": 45.78723,
+      "longitude": 15.950376
+    },
+    {
+      "name": "Signon",
+      "latitude": 45.808354,
+      "longitude": 15.930236
+    },
+    {
+      "name": "SPAN d.o.o.",
+      "latitude": 45.802824,
+      "longitude": 15.969066
+    },
+    {
+      "name": "Studion Croatia d.o.o.",
+      "latitude": 43.508837,
+      "longitude": 16.473676
+    },
+    {
+      "name": "Tehno park Garešnica",
+      "latitude": 45.571156,
+      "longitude": 16.904293
+    },
+    {
+      "name": "Tomsoft",
+      "latitude": 45.795853,
+      "longitude": 15.96923
+    },
+    {
+      "name": "Topomatika",
+      "latitude": 45.803372,
+      "longitude": 15.801289
+    },
+    {
+      "name": "Trilix",
+      "latitude": 45.80179,
+      "longitude": 16.002528
+    },
+    {
+      "name": "ULTRA Studio Split",
+      "latitude": 43.513288,
+      "longitude": 16.436149
+    },
+    {
+      "name": "Webkod Art",
+      "latitude": 45.477735,
+      "longitude": 16.409022
+    },
+    {
+      "name": "Xenon forte",
+      "latitude": 45.793285,
+      "longitude": 16.034483
+    },
+    {
+      "name": "ZabokBit",
+      "latitude": 46.025499,
+      "longitude": 15.903549
+    },
+    {
+      "name": "ZGI d.o.o.",
+      "latitude": 45.830193,
+      "longitude": 16.115664
+    },
+    {
+      "name": "Županijski Tehnološki Hub Digitalna Dalmacija",
+      "latitude": 43.509371,
+      "longitude": 16.46736
+    }
+  ],
+  "meta": {
+    "title": "IT tvrtke - Besplatno preuzimanje",
+    "description": "IT tvrtke u Hrvatskoj (60 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=it), izrez EU-POIS/HR. Sadrži 60 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "IT tvrtke | ListBase",
+    "seo_description": "Preuzmi IT tvrtke — 60 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 60 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

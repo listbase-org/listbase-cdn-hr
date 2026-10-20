@@ -1,0 +1,971 @@
+{
+  "id": "hr-kapelice-uz-put",
+  "name": "Kapelice uz put",
+  "title": "Kapelice uz put",
+  "description": "Kapelice uz put u Hrvatskoj (186 zapisa) — točke interesa iz OpenStreetMapa (oznaka historic=wayside_shrine), izrez EU-POIS/HR.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 186,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1. i 2. postaja križnog puta",
+      "latitude": 44.372635,
+      "longitude": 14.697276
+    },
+    {
+      "name": "11. i 12. postaja križnog puta",
+      "latitude": 44.368918,
+      "longitude": 14.697239
+    },
+    {
+      "name": "13. i 14. postaja križnog puta",
+      "latitude": 44.368342,
+      "longitude": 14.696799
+    },
+    {
+      "name": "3. i 4. postaja križnog puta",
+      "latitude": 44.371931,
+      "longitude": 14.697354
+    },
+    {
+      "name": "5. i 6. postaja križnog puta",
+      "latitude": 44.371171,
+      "longitude": 14.697543
+    },
+    {
+      "name": "7. i 8. postaja križnog puta",
+      "latitude": 44.370497,
+      "longitude": 14.697614
+    },
+    {
+      "name": "9. i 10. postaja križnog puta",
+      "latitude": 44.369731,
+      "longitude": 14.697539
+    },
+    {
+      "name": "Antonia Calcina",
+      "latitude": 45.383021,
+      "longitude": 13.712564
+    },
+    {
+      "name": "Briška",
+      "latitude": 46.230277,
+      "longitude": 16.287806
+    },
+    {
+      "name": "Gospa Luzarica",
+      "latitude": 44.032196,
+      "longitude": 15.394909
+    },
+    {
+      "name": "Gospa od Utjehe",
+      "latitude": 45.323797,
+      "longitude": 15.275371
+    },
+    {
+      "name": "Gospa od Zdravlja",
+      "latitude": 45.13349,
+      "longitude": 14.03883
+    },
+    {
+      "name": "Gospe Lurdska",
+      "latitude": 43.368322,
+      "longitude": 16.555085
+    },
+    {
+      "name": "Gospe od Puta",
+      "latitude": 44.19936,
+      "longitude": 15.352456
+    },
+    {
+      "name": "I.",
+      "latitude": 44.976194,
+      "longitude": 14.724667
+    },
+    {
+      "name": "I.postaja Križnog puta",
+      "latitude": 43.168437,
+      "longitude": 16.442781
+    },
+    {
+      "name": "II.",
+      "latitude": 44.976386,
+      "longitude": 14.724695
+    },
+    {
+      "name": "II.postaja Križnog puta",
+      "latitude": 43.168495,
+      "longitude": 16.443118
+    },
+    {
+      "name": "III.",
+      "latitude": 44.976551,
+      "longitude": 14.724719
+    },
+    {
+      "name": "III.postaja Križnog puta",
+      "latitude": 43.16857,
+      "longitude": 16.443327
+    },
+    {
+      "name": "IV.",
+      "latitude": 44.976695,
+      "longitude": 14.724735
+    },
+    {
+      "name": "IV.postaja Križnog puta",
+      "latitude": 43.16866,
+      "longitude": 16.443403
+    },
+    {
+      "name": "IX.",
+      "latitude": 44.977295,
+      "longitude": 14.724021
+    },
+    {
+      "name": "IX.postaja Križnog puta",
+      "latitude": 43.169441,
+      "longitude": 16.44274
+    },
+    {
+      "name": "Kapela Majke Božje od sedam žalosti",
+      "latitude": 45.180099,
+      "longitude": 14.707628
+    },
+    {
+      "name": "kapela Majke Božje Žalosne",
+      "latitude": 45.811915,
+      "longitude": 15.885837
+    },
+    {
+      "name": "Kapela Marije Pomočnice",
+      "latitude": 45.647326,
+      "longitude": 15.369895
+    },
+    {
+      "name": "kapela sv. Ante",
+      "latitude": 43.507938,
+      "longitude": 15.951757
+    },
+    {
+      "name": "Kapela sv. Antuna",
+      "latitude": 43.182164,
+      "longitude": 16.561657
+    },
+    {
+      "name": "Kapela sv. Antuna",
+      "latitude": 46.197045,
+      "longitude": 17.066217
+    },
+    {
+      "name": "Kapela sv. trojstvo",
+      "latitude": 43.197464,
+      "longitude": 17.139173
+    },
+    {
+      "name": "kapela svetog Antuna",
+      "latitude": 45.72476,
+      "longitude": 15.646663
+    },
+    {
+      "name": "Kapela Svetog Duha",
+      "latitude": 45.381311,
+      "longitude": 13.723452
+    },
+    {
+      "name": "Kapelica",
+      "latitude": 44.217103,
+      "longitude": 15.675982
+    },
+    {
+      "name": "Kapelica 1892",
+      "latitude": 43.162033,
+      "longitude": 16.688458
+    },
+    {
+      "name": "Kapelica Crkovec",
+      "latitude": 46.236242,
+      "longitude": 16.017507
+    },
+    {
+      "name": "Kapelica Duževićevih",
+      "latitude": 43.167407,
+      "longitude": 16.596822
+    },
+    {
+      "name": "Kapelica Gospa Fatimske",
+      "latitude": 45.32021,
+      "longitude": 17.026395
+    },
+    {
+      "name": "kapelica Gospa od Pompeja",
+      "latitude": 43.718525,
+      "longitude": 15.797266
+    },
+    {
+      "name": "kapelica gospe pomoćnice kršćana",
+      "latitude": 43.199091,
+      "longitude": 17.137832
+    },
+    {
+      "name": "Kapelica Gospi Sinjskoj",
+      "latitude": 43.676836,
+      "longitude": 16.65301
+    },
+    {
+      "name": "Kapelica Kraljica Mira",
+      "latitude": 45.65069,
+      "longitude": 15.535757
+    },
+    {
+      "name": "kapelica Križica",
+      "latitude": 43.19479,
+      "longitude": 17.1782
+    },
+    {
+      "name": "Kapelica Majka Božja",
+      "latitude": 45.763431,
+      "longitude": 15.744107
+    },
+    {
+      "name": "Kapelica Majka Božja Lurdska",
+      "latitude": 45.743851,
+      "longitude": 15.727294
+    },
+    {
+      "name": "Kapelica Majke Božje Bistričke",
+      "latitude": 46.010011,
+      "longitude": 15.723155
+    },
+    {
+      "name": "Kapelica Majke Božje Kraljice",
+      "latitude": 46.105596,
+      "longitude": 15.628626
+    },
+    {
+      "name": "Kapelica Majke Božje Lurdske",
+      "latitude": 45.470934,
+      "longitude": 14.969013
+    },
+    {
+      "name": "kapelica Majke Božje Lurdske",
+      "latitude": 45.587826,
+      "longitude": 16.206802
+    },
+    {
+      "name": "Kapelica Majke Božje Lurdske",
+      "latitude": 45.825122,
+      "longitude": 15.870017
+    },
+    {
+      "name": "Kapelica Majke Božje od Zdravlja",
+      "latitude": 45.378136,
+      "longitude": 13.882233
+    },
+    {
+      "name": "kapelica Majke Božje Poljaničke",
+      "latitude": 45.735847,
+      "longitude": 15.655213
+    },
+    {
+      "name": "Kapelica Majke lijepe ljubavi",
+      "latitude": 46.168017,
+      "longitude": 15.730073
+    },
+    {
+      "name": "Kapelica Miroslav Bulešić",
+      "latitude": 45.413362,
+      "longitude": 14.127029
+    },
+    {
+      "name": "Kapelica Presveto Srce Isusovo",
+      "latitude": 45.480972,
+      "longitude": 15.624868
+    },
+    {
+      "name": "kapelica Presveto Srce Isusovo",
+      "latitude": 45.682186,
+      "longitude": 16.35143
+    },
+    {
+      "name": "Kapelica Presveto Srce Isusovo",
+      "latitude": 46.04035,
+      "longitude": 15.905259
+    },
+    {
+      "name": "Kapelica Presvetog Srca Isusova",
+      "latitude": 45.510894,
+      "longitude": 15.560565
+    },
+    {
+      "name": "kapelica Presvetog Trojstva",
+      "latitude": 45.862681,
+      "longitude": 15.987377
+    },
+    {
+      "name": "kapelica Srca Marijina",
+      "latitude": 45.867863,
+      "longitude": 15.997735
+    },
+    {
+      "name": "Kapelica Sv Josip",
+      "latitude": 46.189367,
+      "longitude": 15.724824
+    },
+    {
+      "name": "Kapelica sv. Ante",
+      "latitude": 43.12907,
+      "longitude": 16.727747
+    },
+    {
+      "name": "Kapelica Sv. Florijana",
+      "latitude": 45.759115,
+      "longitude": 16.353951
+    },
+    {
+      "name": "Kapelica sv. Ivana Nepomuka",
+      "latitude": 45.2339,
+      "longitude": 19.281441
+    },
+    {
+      "name": "Kapelica Sv. Mikule",
+      "latitude": 43.701257,
+      "longitude": 15.820023
+    },
+    {
+      "name": "Kapelica sv. Nikola",
+      "latitude": 43.214092,
+      "longitude": 16.545259
+    },
+    {
+      "name": "Kapelica sv. Nikolaja",
+      "latitude": 45.447874,
+      "longitude": 15.235685
+    },
+    {
+      "name": "Kapelica Sv. Roka",
+      "latitude": 43.377268,
+      "longitude": 16.925435
+    },
+    {
+      "name": "Kapelica svete Ane",
+      "latitude": 45.709253,
+      "longitude": 16.349105
+    },
+    {
+      "name": "kapelica svete Barbare",
+      "latitude": 45.826473,
+      "longitude": 15.907201
+    },
+    {
+      "name": "Kapelica svetog Alozija Stepinca",
+      "latitude": 43.744543,
+      "longitude": 15.813557
+    },
+    {
+      "name": "kapelica svetog Ante",
+      "latitude": 43.721884,
+      "longitude": 15.805228
+    },
+    {
+      "name": "kapelica svetog Franje Asiškog",
+      "latitude": 45.809404,
+      "longitude": 16.118275
+    },
+    {
+      "name": "Kapelica svetog Ivana Nepomuka",
+      "latitude": 45.066274,
+      "longitude": 18.493352
+    },
+    {
+      "name": "kapelica svetog Ivana Nepomuka",
+      "latitude": 45.701823,
+      "longitude": 15.541587
+    },
+    {
+      "name": "kapelica svetog Ivana Nepomuka",
+      "latitude": 45.81485,
+      "longitude": 15.981523
+    },
+    {
+      "name": "Kapelica svetog Josipa",
+      "latitude": 45.692638,
+      "longitude": 16.348166
+    },
+    {
+      "name": "kapelica svetog Nikole",
+      "latitude": 44.264557,
+      "longitude": 15.113486
+    },
+    {
+      "name": "kapelica svetog Nikole",
+      "latitude": 45.788336,
+      "longitude": 15.693132
+    },
+    {
+      "name": "Kapelica Trpećeg Spasitelja",
+      "latitude": 46.068991,
+      "longitude": 15.880579
+    },
+    {
+      "name": "kapelica Uzvišenja Svetog Križa",
+      "latitude": 45.928738,
+      "longitude": 16.029728
+    },
+    {
+      "name": "Kapelica Čugovec",
+      "latitude": 45.858008,
+      "longitude": 16.052929
+    },
+    {
+      "name": "Kapelica Žalostne Matere božje",
+      "latitude": 45.442658,
+      "longitude": 15.231029
+    },
+    {
+      "name": "Kapitel",
+      "latitude": 45.371185,
+      "longitude": 13.726524
+    },
+    {
+      "name": "Kapitel Martinčići",
+      "latitude": 45.393018,
+      "longitude": 13.726372
+    },
+    {
+      "name": "Kapitel Triban",
+      "latitude": 45.406897,
+      "longitude": 13.686803
+    },
+    {
+      "name": "Kaplica Sveti Florian",
+      "latitude": 45.642603,
+      "longitude": 16.285412
+    },
+    {
+      "name": "Kip Gospe Fatimske",
+      "latitude": 45.847052,
+      "longitude": 15.990006
+    },
+    {
+      "name": "Kip svetog Ivana Nepomuka",
+      "latitude": 46.513649,
+      "longitude": 16.43925
+    },
+    {
+      "name": "Macukoni - XVII St.",
+      "latitude": 45.021497,
+      "longitude": 14.133458
+    },
+    {
+      "name": "Majka Božja Hruškovska",
+      "latitude": 46.145877,
+      "longitude": 16.439118
+    },
+    {
+      "name": "Majka Božja od Puta",
+      "latitude": 45.877366,
+      "longitude": 15.975805
+    },
+    {
+      "name": "Majka Božja Poljička",
+      "latitude": 45.079829,
+      "longitude": 14.495537
+    },
+    {
+      "name": "Mala spilja",
+      "latitude": 45.929961,
+      "longitude": 16.067151
+    },
+    {
+      "name": "Marija Pomočnica",
+      "latitude": 45.902689,
+      "longitude": 15.69117
+    },
+    {
+      "name": "Milka",
+      "latitude": 45.835193,
+      "longitude": 15.986589
+    },
+    {
+      "name": "Mordejeva kapelica",
+      "latitude": 46.209539,
+      "longitude": 15.759895
+    },
+    {
+      "name": "Pećina Gospe Lurdske",
+      "latitude": 45.339376,
+      "longitude": 18.899808
+    },
+    {
+      "name": "Pil Bogorodice",
+      "latitude": 46.331829,
+      "longitude": 16.73845
+    },
+    {
+      "name": "Pil Majke Božje",
+      "latitude": 46.332024,
+      "longitude": 16.739081
+    },
+    {
+      "name": "Pil Presvetog Trojstva",
+      "latitude": 46.329854,
+      "longitude": 16.783239
+    },
+    {
+      "name": "Pil Srca Isusovog",
+      "latitude": 46.502047,
+      "longitude": 16.261659
+    },
+    {
+      "name": "Pil svetog Antuna Padovanskog",
+      "latitude": 46.476233,
+      "longitude": 16.314898
+    },
+    {
+      "name": "Pil svetog Florijana",
+      "latitude": 46.500543,
+      "longitude": 16.284012
+    },
+    {
+      "name": "Pil svetog Ivana Nepomuka",
+      "latitude": 46.474445,
+      "longitude": 16.292483
+    },
+    {
+      "name": "Pil svetog Josipa",
+      "latitude": 46.50943,
+      "longitude": 16.29049
+    },
+    {
+      "name": "Pil svetog Roka",
+      "latitude": 46.496142,
+      "longitude": 16.294001
+    },
+    {
+      "name": "Pil Svetog Trojstva",
+      "latitude": 46.249753,
+      "longitude": 16.618168
+    },
+    {
+      "name": "Pil Tužnog Krista",
+      "latitude": 46.296057,
+      "longitude": 16.652552
+    },
+    {
+      "name": "Pil u Dragoslavcu",
+      "latitude": 46.444966,
+      "longitude": 16.34219
+    },
+    {
+      "name": "Poklonac Majke Božje",
+      "latitude": 46.492765,
+      "longitude": 16.355041
+    },
+    {
+      "name": "Poklonac Pieta",
+      "latitude": 46.33159,
+      "longitude": 16.510077
+    },
+    {
+      "name": "Poklonac Pomoćnici kršćana.",
+      "latitude": 46.197019,
+      "longitude": 15.661754
+    },
+    {
+      "name": "Poklonac svete Marije",
+      "latitude": 46.405008,
+      "longitude": 16.420483
+    },
+    {
+      "name": "Poklonac Svetog Križa",
+      "latitude": 46.329804,
+      "longitude": 16.751635
+    },
+    {
+      "name": "Poklonac Svetog Križa",
+      "latitude": 46.331172,
+      "longitude": 16.505929
+    },
+    {
+      "name": "Poklonac svetog Križa",
+      "latitude": 46.507518,
+      "longitude": 16.281795
+    },
+    {
+      "name": "Poklonac svetog Mihovila",
+      "latitude": 46.355238,
+      "longitude": 16.671053
+    },
+    {
+      "name": "Poklonac Svetog Trojstva",
+      "latitude": 46.302802,
+      "longitude": 16.472204
+    },
+    {
+      "name": "Presveto Trojstvo",
+      "latitude": 45.514001,
+      "longitude": 15.709201
+    },
+    {
+      "name": "Prostor za molitvu hodočasnicima i gostima Zagreba",
+      "latitude": 45.80461,
+      "longitude": 15.978977
+    },
+    {
+      "name": "Raspelo",
+      "latitude": 45.634809,
+      "longitude": 16.211247
+    },
+    {
+      "name": "Rojsova kapelica",
+      "latitude": 46.221171,
+      "longitude": 15.752415
+    },
+    {
+      "name": "Sancta Maria",
+      "latitude": 45.085347,
+      "longitude": 14.141201
+    },
+    {
+      "name": "Sankt Hubertus",
+      "latitude": 43.449993,
+      "longitude": 16.739878
+    },
+    {
+      "name": "Sant'Antonio",
+      "latitude": 45.293541,
+      "longitude": 13.6112
+    },
+    {
+      "name": "Shrine",
+      "latitude": 44.069954,
+      "longitude": 15.482205
+    },
+    {
+      "name": "Spomen-stup sv. Eufemije",
+      "latitude": 45.081905,
+      "longitude": 13.630976
+    },
+    {
+      "name": "St. Nicholas",
+      "latitude": 44.375915,
+      "longitude": 15.266756
+    },
+    {
+      "name": "Stijena spasa",
+      "latitude": 44.343052,
+      "longitude": 15.478817
+    },
+    {
+      "name": "Sv. Alojzije Gonzaga",
+      "latitude": 44.919207,
+      "longitude": 19.058008
+    },
+    {
+      "name": "Sv. Anton",
+      "latitude": 44.813035,
+      "longitude": 13.956096
+    },
+    {
+      "name": "Sv. Anton",
+      "latitude": 45.398585,
+      "longitude": 14.17699
+    },
+    {
+      "name": "Sv. Antun",
+      "latitude": 44.90647,
+      "longitude": 19.076078
+    },
+    {
+      "name": "Sv. Antun",
+      "latitude": 45.519518,
+      "longitude": 15.739095
+    },
+    {
+      "name": "Sv. Antun",
+      "latitude": 45.945701,
+      "longitude": 15.750004
+    },
+    {
+      "name": "Sv. Antun Padovanski",
+      "latitude": 45.550487,
+      "longitude": 15.496034
+    },
+    {
+      "name": "Sv. Antun Padovanski",
+      "latitude": 46.02422,
+      "longitude": 15.845925
+    },
+    {
+      "name": "Sv. Florijan",
+      "latitude": 45.535409,
+      "longitude": 15.860927
+    },
+    {
+      "name": "Sv. Frane",
+      "latitude": 43.72823,
+      "longitude": 15.787819
+    },
+    {
+      "name": "Sv. Grgur",
+      "latitude": 45.761646,
+      "longitude": 15.831731
+    },
+    {
+      "name": "Sv. Ivan Krstitelj",
+      "latitude": 45.634174,
+      "longitude": 15.884869
+    },
+    {
+      "name": "Sv. Jelena",
+      "latitude": 45.408947,
+      "longitude": 15.48748
+    },
+    {
+      "name": "Sv. Josip",
+      "latitude": 44.919016,
+      "longitude": 19.049432
+    },
+    {
+      "name": "Sv. Josip",
+      "latitude": 45.533268,
+      "longitude": 15.850022
+    },
+    {
+      "name": "Sv. Josip",
+      "latitude": 46.182637,
+      "longitude": 15.771911
+    },
+    {
+      "name": "Sv. Marija",
+      "latitude": 45.421976,
+      "longitude": 14.012645
+    },
+    {
+      "name": "Sv. Martin",
+      "latitude": 45.121913,
+      "longitude": 14.469215
+    },
+    {
+      "name": "Sv. Nikola",
+      "latitude": 46.083112,
+      "longitude": 15.85511
+    },
+    {
+      "name": "Sv. Pavao",
+      "latitude": 46.210855,
+      "longitude": 15.647213
+    },
+    {
+      "name": "Sv. Sebastijan",
+      "latitude": 45.408241,
+      "longitude": 13.647994
+    },
+    {
+      "name": "Sv.Ante",
+      "latitude": 43.161064,
+      "longitude": 16.694212
+    },
+    {
+      "name": "Sv.Ante",
+      "latitude": 43.165411,
+      "longitude": 16.683783
+    },
+    {
+      "name": "Sveta Jelena",
+      "latitude": 46.403553,
+      "longitude": 16.419286
+    },
+    {
+      "name": "Sveta Marija",
+      "latitude": 45.33794,
+      "longitude": 18.929741
+    },
+    {
+      "name": "Sveta Petka",
+      "latitude": 45.20347,
+      "longitude": 17.992374
+    },
+    {
+      "name": "Svete Obitelji",
+      "latitude": 45.208242,
+      "longitude": 14.559254
+    },
+    {
+      "name": "Sveti Ante",
+      "latitude": 43.455926,
+      "longitude": 16.74089
+    },
+    {
+      "name": "Sveti Ante",
+      "latitude": 43.733885,
+      "longitude": 15.459193
+    },
+    {
+      "name": "Sveti Florijan",
+      "latitude": 45.562154,
+      "longitude": 16.207366
+    },
+    {
+      "name": "Sveti Križ",
+      "latitude": 45.746813,
+      "longitude": 15.546723
+    },
+    {
+      "name": "Sveti Petar",
+      "latitude": 45.108206,
+      "longitude": 18.369157
+    },
+    {
+      "name": "V.",
+      "latitude": 44.976799,
+      "longitude": 14.724632
+    },
+    {
+      "name": "V.postaja Križnog puta",
+      "latitude": 43.168864,
+      "longitude": 16.443453
+    },
+    {
+      "name": "Velika Gospa",
+      "latitude": 44.915519,
+      "longitude": 19.06525
+    },
+    {
+      "name": "VI.",
+      "latitude": 44.976902,
+      "longitude": 14.724351
+    },
+    {
+      "name": "VI.postaja Križnog puta",
+      "latitude": 43.168923,
+      "longitude": 16.443365
+    },
+    {
+      "name": "Via Crucis statio I",
+      "latitude": 44.530145,
+      "longitude": 14.46937
+    },
+    {
+      "name": "VII.",
+      "latitude": 44.977045,
+      "longitude": 14.724307
+    },
+    {
+      "name": "VII.postaja Križnog puta",
+      "latitude": 43.16904,
+      "longitude": 16.443115
+    },
+    {
+      "name": "VIII.",
+      "latitude": 44.97718,
+      "longitude": 14.724172
+    },
+    {
+      "name": "VIII.postaja Križnog puta",
+      "latitude": 43.169364,
+      "longitude": 16.443115
+    },
+    {
+      "name": "Virgin Mary",
+      "latitude": 44.310309,
+      "longitude": 15.479686
+    },
+    {
+      "name": "X.",
+      "latitude": 44.977423,
+      "longitude": 14.723874
+    },
+    {
+      "name": "X.postaja Križnog puta",
+      "latitude": 43.169532,
+      "longitude": 16.442408
+    },
+    {
+      "name": "XI.",
+      "latitude": 44.977526,
+      "longitude": 14.723768
+    },
+    {
+      "name": "XI.postaja Križnog puta",
+      "latitude": 43.169619,
+      "longitude": 16.442185
+    },
+    {
+      "name": "XII.",
+      "latitude": 44.977631,
+      "longitude": 14.723656
+    },
+    {
+      "name": "XII.postaja Križnog puta",
+      "latitude": 43.169714,
+      "longitude": 16.441991
+    },
+    {
+      "name": "XIII.",
+      "latitude": 44.977741,
+      "longitude": 14.723549
+    },
+    {
+      "name": "XIII.postaja Križnog puta",
+      "latitude": 43.169907,
+      "longitude": 16.44177
+    },
+    {
+      "name": "XIV.",
+      "latitude": 44.977687,
+      "longitude": 14.723448
+    },
+    {
+      "name": "XIV.postaja Križnog puta",
+      "latitude": 43.170092,
+      "longitude": 16.441724
+    },
+    {
+      "name": "Zvonik svete Barbare",
+      "latitude": 46.51632,
+      "longitude": 16.434507
+    },
+    {
+      "name": "Šipčeva kapelica",
+      "latitude": 46.217544,
+      "longitude": 15.755193
+    },
+    {
+      "name": "Žumberački pil",
+      "latitude": 45.749336,
+      "longitude": 15.441161
+    }
+  ],
+  "meta": {
+    "title": "Kapelice uz put - Besplatno preuzimanje",
+    "description": "Kapelice uz put u Hrvatskoj (186 zapisa) — točke interesa iz OpenStreetMapa (oznaka historic=wayside_shrine), izrez EU-POIS/HR. Sadrži 186 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kapelice uz put | ListBase",
+    "seo_description": "Preuzmi Kapelice uz put — 186 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 186 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

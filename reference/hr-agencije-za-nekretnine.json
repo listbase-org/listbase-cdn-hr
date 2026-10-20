@@ -1,0 +1,431 @@
+{
+  "id": "hr-agencije-za-nekretnine",
+  "name": "Agencije za nekretnine",
+  "title": "Agencije za nekretnine",
+  "description": "Agencije za nekretnine u Hrvatskoj (78 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=estate_agent), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"SHUMA\"",
+      "latitude": 43.821339,
+      "longitude": 15.592311
+    },
+    {
+      "name": "Adria mare",
+      "latitude": 44.153697,
+      "longitude": 15.202583
+    },
+    {
+      "name": "Adriakey",
+      "latitude": 45.808029,
+      "longitude": 15.980077
+    },
+    {
+      "name": "Albedo Nekretnine",
+      "latitude": 43.29614,
+      "longitude": 17.020079
+    },
+    {
+      "name": "ALPHA LUXE GROUP REAL ESTATE",
+      "latitude": 45.230967,
+      "longitude": 13.603713
+    },
+    {
+      "name": "Andreis Nekretnine Korčula d.o.o.",
+      "latitude": 42.960862,
+      "longitude": 17.134923
+    },
+    {
+      "name": "Best Lokal Nekretnine",
+      "latitude": 45.799545,
+      "longitude": 15.95076
+    },
+    {
+      "name": "Biliškov nekretnine",
+      "latitude": 43.553627,
+      "longitude": 16.35104
+    },
+    {
+      "name": "Biliškov nekretnine",
+      "latitude": 45.813826,
+      "longitude": 15.985458
+    },
+    {
+      "name": "Bonus nekretnine",
+      "latitude": 45.809737,
+      "longitude": 15.979921
+    },
+    {
+      "name": "Broker",
+      "latitude": 43.506495,
+      "longitude": 16.432127
+    },
+    {
+      "name": "Capital Invest Nekretnine",
+      "latitude": 44.868055,
+      "longitude": 13.851797
+    },
+    {
+      "name": "Cityland nekretnine",
+      "latitude": 45.788501,
+      "longitude": 15.94747
+    },
+    {
+      "name": "Condura Nekretnine",
+      "latitude": 44.299078,
+      "longitude": 15.100632
+    },
+    {
+      "name": "Cromax nekretnine",
+      "latitude": 46.307779,
+      "longitude": 16.337756
+    },
+    {
+      "name": "Duos",
+      "latitude": 43.818254,
+      "longitude": 15.593463
+    },
+    {
+      "name": "Etna",
+      "latitude": 43.444592,
+      "longitude": 16.685689
+    },
+    {
+      "name": "Euro estate",
+      "latitude": 46.389451,
+      "longitude": 16.43565
+    },
+    {
+      "name": "Euro Merkur",
+      "latitude": 43.444899,
+      "longitude": 16.685571
+    },
+    {
+      "name": "Eurovilla",
+      "latitude": 43.505935,
+      "longitude": 16.462264
+    },
+    {
+      "name": "Eurovilla",
+      "latitude": 43.518684,
+      "longitude": 16.447012
+    },
+    {
+      "name": "Focis real estate agency",
+      "latitude": 44.44438,
+      "longitude": 15.056153
+    },
+    {
+      "name": "Geocomerce",
+      "latitude": 43.44135,
+      "longitude": 16.696489
+    },
+    {
+      "name": "GET Nekretnine",
+      "latitude": 45.82074,
+      "longitude": 16.102653
+    },
+    {
+      "name": "Immo Dalmatia",
+      "latitude": 43.815582,
+      "longitude": 15.591787
+    },
+    {
+      "name": "In medias res",
+      "latitude": 43.505489,
+      "longitude": 16.420354
+    },
+    {
+      "name": "ING Z d.o.o.",
+      "latitude": 45.80168,
+      "longitude": 15.712626
+    },
+    {
+      "name": "Istradom",
+      "latitude": 44.87121,
+      "longitude": 13.868124
+    },
+    {
+      "name": "Ivamon",
+      "latitude": 45.227089,
+      "longitude": 13.596825
+    },
+    {
+      "name": "Korak",
+      "latitude": 45.798974,
+      "longitude": 15.956901
+    },
+    {
+      "name": "Lamia nekretnine",
+      "latitude": 45.78741,
+      "longitude": 15.949571
+    },
+    {
+      "name": "Libertas homes",
+      "latitude": 45.800711,
+      "longitude": 15.956676
+    },
+    {
+      "name": "Lika nekretnine",
+      "latitude": 45.806245,
+      "longitude": 15.982005
+    },
+    {
+      "name": "Limina",
+      "latitude": 45.814003,
+      "longitude": 15.982774
+    },
+    {
+      "name": "Luxury Croatia",
+      "latitude": 43.504658,
+      "longitude": 16.481186
+    },
+    {
+      "name": "Malupe",
+      "latitude": 44.872541,
+      "longitude": 13.850677
+    },
+    {
+      "name": "Metropola",
+      "latitude": 45.809998,
+      "longitude": 15.974314
+    },
+    {
+      "name": "Modular Living",
+      "latitude": 45.798994,
+      "longitude": 15.724692
+    },
+    {
+      "name": "MT-nekretnine",
+      "latitude": 45.908674,
+      "longitude": 16.856194
+    },
+    {
+      "name": "Nekretnine Mirakul",
+      "latitude": 43.801886,
+      "longitude": 15.651647
+    },
+    {
+      "name": "Nekretnine Novi Dom",
+      "latitude": 43.295309,
+      "longitude": 17.016808
+    },
+    {
+      "name": "Nina Dom Nekretnine",
+      "latitude": 44.294643,
+      "longitude": 15.117446
+    },
+    {
+      "name": "OIKOS-KORČULA",
+      "latitude": 42.959237,
+      "longitude": 17.134465
+    },
+    {
+      "name": "Ora-Mont d.o.o.",
+      "latitude": 43.516491,
+      "longitude": 16.444237
+    },
+    {
+      "name": "Palace",
+      "latitude": 45.795501,
+      "longitude": 15.967417
+    },
+    {
+      "name": "PeKa DOM Invest d.o.o.",
+      "latitude": 44.138582,
+      "longitude": 15.222978
+    },
+    {
+      "name": "Pent-a-Split nekretnine",
+      "latitude": 43.501741,
+      "longitude": 16.424501
+    },
+    {
+      "name": "PEX nekretnine",
+      "latitude": 45.798003,
+      "longitude": 15.944262
+    },
+    {
+      "name": "Pin & Pin",
+      "latitude": 43.503751,
+      "longitude": 16.456157
+    },
+    {
+      "name": "Poreč Immobilien",
+      "latitude": 45.225802,
+      "longitude": 13.59641
+    },
+    {
+      "name": "Possesso",
+      "latitude": 44.871728,
+      "longitude": 13.849382
+    },
+    {
+      "name": "Premium",
+      "latitude": 45.330886,
+      "longitude": 14.302043
+    },
+    {
+      "name": "Pro Paradise",
+      "latitude": 43.447009,
+      "longitude": 17.21741
+    },
+    {
+      "name": "Queen nekretnine",
+      "latitude": 44.293363,
+      "longitude": 15.118597
+    },
+    {
+      "name": "RE/MAX",
+      "latitude": 45.330799,
+      "longitude": 14.301953
+    },
+    {
+      "name": "RE/MAX",
+      "latitude": 45.805945,
+      "longitude": 15.717736
+    },
+    {
+      "name": "RE/MAX",
+      "latitude": 45.80816,
+      "longitude": 15.899553
+    },
+    {
+      "name": "Re/max solutions",
+      "latitude": 45.813379,
+      "longitude": 15.925168
+    },
+    {
+      "name": "Rebecca",
+      "latitude": 44.872446,
+      "longitude": 13.850795
+    },
+    {
+      "name": "REGENT - Agencija za nekretine",
+      "latitude": 43.505992,
+      "longitude": 16.462497
+    },
+    {
+      "name": "REGENT - Real Estate Agency",
+      "latitude": 45.819853,
+      "longitude": 15.976757
+    },
+    {
+      "name": "Retrum",
+      "latitude": 43.812866,
+      "longitude": 15.592888
+    },
+    {
+      "name": "Riva Apartments",
+      "latitude": 43.507686,
+      "longitude": 16.439707
+    },
+    {
+      "name": "Rivalitas nekretnine",
+      "latitude": 45.810704,
+      "longitude": 15.950552
+    },
+    {
+      "name": "RM NEKRETNINE",
+      "latitude": 45.128174,
+      "longitude": 14.789761
+    },
+    {
+      "name": "sa.nek Samobor nekretnine d.o.o.",
+      "latitude": 45.803048,
+      "longitude": 15.71017
+    },
+    {
+      "name": "Sea homes",
+      "latitude": 43.298576,
+      "longitude": 17.016617
+    },
+    {
+      "name": "Siniša nekretnine",
+      "latitude": 43.295266,
+      "longitude": 17.015411
+    },
+    {
+      "name": "Stator nekretnine",
+      "latitude": 45.812461,
+      "longitude": 15.975678
+    },
+    {
+      "name": "Stil-Feliks trgovina nekretninama",
+      "latitude": 45.791473,
+      "longitude": 15.946574
+    },
+    {
+      "name": "Templarjevo Posestvo, d.o.o.",
+      "latitude": 46.460818,
+      "longitude": 16.258156
+    },
+    {
+      "name": "Velvet",
+      "latitude": 45.091645,
+      "longitude": 14.123307
+    },
+    {
+      "name": "Venera nekretnine",
+      "latitude": 45.788276,
+      "longitude": 15.948777
+    },
+    {
+      "name": "ZANE",
+      "latitude": 43.513992,
+      "longitude": 16.439225
+    },
+    {
+      "name": "ZANE",
+      "latitude": 45.325966,
+      "longitude": 14.444345
+    },
+    {
+      "name": "ZANE",
+      "latitude": 45.559205,
+      "longitude": 18.678109
+    },
+    {
+      "name": "ZANE",
+      "latitude": 45.811685,
+      "longitude": 15.864283
+    },
+    {
+      "name": "ZANE",
+      "latitude": 46.304741,
+      "longitude": 16.335038
+    }
+  ],
+  "meta": {
+    "title": "Agencije za nekretnine - Besplatno preuzimanje",
+    "description": "Agencije za nekretnine u Hrvatskoj (78 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=estate_agent), izrez EU-POIS/HR. Sadrži 78 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Agencije za nekretnine | ListBase",
+    "seo_description": "Preuzmi Agencije za nekretnine — 78 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 78 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

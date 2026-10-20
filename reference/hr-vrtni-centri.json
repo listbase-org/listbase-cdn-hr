@@ -1,0 +1,381 @@
+{
+  "id": "hr-vrtni-centri",
+  "name": "Vrtni centri",
+  "title": "Vrtni centri",
+  "description": "Vrtni centri u Hrvatskoj (68 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=garden_centre), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agraria",
+      "latitude": 45.41386,
+      "longitude": 13.66345
+    },
+    {
+      "name": "Agrarija Tinal",
+      "latitude": 45.239601,
+      "longitude": 13.943462
+    },
+    {
+      "name": "Agro centar Mibiko",
+      "latitude": 45.648082,
+      "longitude": 16.339733
+    },
+    {
+      "name": "Agro Sim",
+      "latitude": 45.702219,
+      "longitude": 16.391805
+    },
+    {
+      "name": "Agrocentar",
+      "latitude": 45.140184,
+      "longitude": 19.034703
+    },
+    {
+      "name": "Agromlinar sjemenarna",
+      "latitude": 45.813225,
+      "longitude": 15.901305
+    },
+    {
+      "name": "agropotok",
+      "latitude": 45.740217,
+      "longitude": 15.795598
+    },
+    {
+      "name": "Agrosimpa",
+      "latitude": 45.29159,
+      "longitude": 15.967583
+    },
+    {
+      "name": "Agrosimpa",
+      "latitude": 45.324529,
+      "longitude": 15.69396
+    },
+    {
+      "name": "Agrosimpa",
+      "latitude": 45.684638,
+      "longitude": 16.1159
+    },
+    {
+      "name": "Agrotorre",
+      "latitude": 45.30193,
+      "longitude": 13.626596
+    },
+    {
+      "name": "agrotrg",
+      "latitude": 45.406466,
+      "longitude": 16.906164
+    },
+    {
+      "name": "AS agro",
+      "latitude": 45.399062,
+      "longitude": 16.890605
+    },
+    {
+      "name": "Colić trade",
+      "latitude": 43.992409,
+      "longitude": 15.490323
+    },
+    {
+      "name": "Cvjećarnica \"Mimoza\"",
+      "latitude": 45.357503,
+      "longitude": 17.762754
+    },
+    {
+      "name": "Eurovrt",
+      "latitude": 45.801051,
+      "longitude": 16.03219
+    },
+    {
+      "name": "Gumex Eko",
+      "latitude": 45.708559,
+      "longitude": 16.397633
+    },
+    {
+      "name": "Habitus",
+      "latitude": 43.046094,
+      "longitude": 17.625093
+    },
+    {
+      "name": "Hipodrom",
+      "latitude": 43.69711,
+      "longitude": 16.654753
+    },
+    {
+      "name": "Istrasjeme",
+      "latitude": 44.863264,
+      "longitude": 13.854745
+    },
+    {
+      "name": "Jadro d.d.",
+      "latitude": 43.514197,
+      "longitude": 16.499493
+    },
+    {
+      "name": "Jematva Zorni",
+      "latitude": 43.528222,
+      "longitude": 16.477159
+    },
+    {
+      "name": "Jukić žito",
+      "latitude": 45.740249,
+      "longitude": 15.932826
+    },
+    {
+      "name": "Karlić d.o.o.",
+      "latitude": 45.332982,
+      "longitude": 18.419746
+    },
+    {
+      "name": "klapom",
+      "latitude": 46.047921,
+      "longitude": 15.733732
+    },
+    {
+      "name": "Napredak",
+      "latitude": 44.916488,
+      "longitude": 19.062002
+    },
+    {
+      "name": "Nerium vrtni centar",
+      "latitude": 45.351753,
+      "longitude": 14.409561
+    },
+    {
+      "name": "OPG Ciprijanović",
+      "latitude": 45.333819,
+      "longitude": 16.982531
+    },
+    {
+      "name": "P&B Horticultura",
+      "latitude": 45.147798,
+      "longitude": 14.547035
+    },
+    {
+      "name": "Plan Terra Garden Centar Poreč",
+      "latitude": 45.230575,
+      "longitude": 13.599829
+    },
+    {
+      "name": "Poljoapoteka",
+      "latitude": 45.813721,
+      "longitude": 15.978098
+    },
+    {
+      "name": "Poljoapoteka",
+      "latitude": 46.166017,
+      "longitude": 16.334702
+    },
+    {
+      "name": "Poljoapoteka Amarilis",
+      "latitude": 45.13932,
+      "longitude": 19.036859
+    },
+    {
+      "name": "Poljoapoteka Jamatva",
+      "latitude": 43.518669,
+      "longitude": 16.233537
+    },
+    {
+      "name": "Poljocentar",
+      "latitude": 46.020076,
+      "longitude": 16.536845
+    },
+    {
+      "name": "Poljocentar Jamatva",
+      "latitude": 44.123156,
+      "longitude": 15.278808
+    },
+    {
+      "name": "Poljodom",
+      "latitude": 46.223156,
+      "longitude": 16.12424
+    },
+    {
+      "name": "Poljodom",
+      "latitude": 46.229772,
+      "longitude": 16.134496
+    },
+    {
+      "name": "Poljoprivredna apoteka",
+      "latitude": 42.939288,
+      "longitude": 16.793901
+    },
+    {
+      "name": "poljoprivredna apoteka",
+      "latitude": 43.860251,
+      "longitude": 16.154442
+    },
+    {
+      "name": "Poljoprivredna ljekarna - Graditelj VS",
+      "latitude": 45.805194,
+      "longitude": 16.247226
+    },
+    {
+      "name": "poljoprivredno poduzeće Ivanec",
+      "latitude": 46.230038,
+      "longitude": 15.98318
+    },
+    {
+      "name": "Poljopromet",
+      "latitude": 43.051927,
+      "longitude": 17.633374
+    },
+    {
+      "name": "Rasadnik maslina Babić",
+      "latitude": 44.123283,
+      "longitude": 15.258271
+    },
+    {
+      "name": "Samoborski vrt",
+      "latitude": 45.808112,
+      "longitude": 15.725385
+    },
+    {
+      "name": "Sjeme",
+      "latitude": 43.523831,
+      "longitude": 16.455815
+    },
+    {
+      "name": "Thorprodukt",
+      "latitude": 45.507345,
+      "longitude": 16.308452
+    },
+    {
+      "name": "Trgovina Fatur",
+      "latitude": 45.314039,
+      "longitude": 14.260973
+    },
+    {
+      "name": "Valpovka",
+      "latitude": 45.661998,
+      "longitude": 18.414366
+    },
+    {
+      "name": "Valpovka d.o.o.",
+      "latitude": 45.993595,
+      "longitude": 15.916999
+    },
+    {
+      "name": "Vetfarm",
+      "latitude": 45.661484,
+      "longitude": 18.414663
+    },
+    {
+      "name": "Vrt",
+      "latitude": 43.444208,
+      "longitude": 16.684887
+    },
+    {
+      "name": "Vrtlarija Čuček",
+      "latitude": 46.019597,
+      "longitude": 15.922253
+    },
+    {
+      "name": "Vrtna Oaza",
+      "latitude": 46.291291,
+      "longitude": 16.353436
+    },
+    {
+      "name": "Vrtni centar",
+      "latitude": 45.353058,
+      "longitude": 14.41562
+    },
+    {
+      "name": "vrtni centar",
+      "latitude": 45.792769,
+      "longitude": 16.272522
+    },
+    {
+      "name": "Vrtni centar \"Parkovi\"",
+      "latitude": 46.310907,
+      "longitude": 16.326626
+    },
+    {
+      "name": "Vrtni centar Dubrava",
+      "latitude": 43.73567,
+      "longitude": 15.946639
+    },
+    {
+      "name": "Vrtni centar Flora",
+      "latitude": 45.799699,
+      "longitude": 16.079271
+    },
+    {
+      "name": "Vrtni centar Fuderer",
+      "latitude": 45.568746,
+      "longitude": 18.710299
+    },
+    {
+      "name": "Vrtni centar i poljoljekarna",
+      "latitude": 46.021256,
+      "longitude": 16.53829
+    },
+    {
+      "name": "Vrtni centar Meteor",
+      "latitude": 45.116543,
+      "longitude": 15.583834
+    },
+    {
+      "name": "Vrtni centar Podsused",
+      "latitude": 45.816305,
+      "longitude": 15.837065
+    },
+    {
+      "name": "Vrtni centar Prud",
+      "latitude": 43.068126,
+      "longitude": 17.64228
+    },
+    {
+      "name": "Vrtni centar URES, Umag",
+      "latitude": 45.425912,
+      "longitude": 13.550132
+    },
+    {
+      "name": "Vrtni centar Viškovo",
+      "latitude": 45.384683,
+      "longitude": 14.385351
+    },
+    {
+      "name": "Vrtni centar Šestine",
+      "latitude": 45.852225,
+      "longitude": 15.950438
+    },
+    {
+      "name": "ZD/DC",
+      "latitude": 43.820645,
+      "longitude": 15.592828
+    }
+  ],
+  "meta": {
+    "title": "Vrtni centri - Besplatno preuzimanje",
+    "description": "Vrtni centri u Hrvatskoj (68 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=garden_centre), izrez EU-POIS/HR. Sadrži 68 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Vrtni centri | ListBase",
+    "seo_description": "Preuzmi Vrtni centri — 68 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 68 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

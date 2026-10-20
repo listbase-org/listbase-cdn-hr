@@ -1,0 +1,115 @@
+{
+  "id": "hr-mjerne-jedinice-speed",
+  "name": "Mjerne jedinice — kategorija 'speed' (6)",
+  "title": "Mjerne jedinice — kategorija 'speed' (6)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'speed' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "speed-beaufort",
+      "kategorija": "speed",
+      "naziv": "Beaufortova ljestvica",
+      "kratica": "Bft",
+      "naziv_uski": "Bft",
+      "obrazac": "B {0}"
+    },
+    {
+      "id": 2,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategorija": "speed",
+      "naziv": "kilometri na sat",
+      "kratica": "km/h",
+      "naziv_uski": "km/h",
+      "obrazac": "{0} kilometara na sat"
+    },
+    {
+      "id": 3,
+      "unit_code": "speed-knot",
+      "kategorija": "speed",
+      "naziv": "čvor",
+      "kratica": "čv",
+      "naziv_uski": "čv",
+      "obrazac": "{0} čvorova"
+    },
+    {
+      "id": 4,
+      "unit_code": "speed-light-speed",
+      "kategorija": "speed",
+      "naziv": "svjetlo",
+      "kratica": "svjetlo",
+      "naziv_uski": "svjetlo",
+      "obrazac": "{0} svjetala"
+    },
+    {
+      "id": 5,
+      "unit_code": "speed-meter-per-second",
+      "kategorija": "speed",
+      "naziv": "metri u sekundi",
+      "kratica": "m/s",
+      "naziv_uski": "m/s",
+      "obrazac": "{0} metara u sekundi"
+    },
+    {
+      "id": 6,
+      "unit_code": "speed-mile-per-hour",
+      "kategorija": "speed",
+      "naziv": "milje na sat",
+      "kratica": "mi/h",
+      "naziv_uski": "mi/h",
+      "obrazac": "{0} milja na sat"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'speed' (6) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'speed' s hrvatskim nazivima. Sadrži 6 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'speed' (6) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'speed' (6) — 6 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 6 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

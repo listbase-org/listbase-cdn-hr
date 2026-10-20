@@ -1,0 +1,436 @@
+{
+  "id": "hr-kina",
+  "name": "Kina",
+  "title": "Kina",
+  "description": "Kina u Hrvatskoj (79 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=cinema), izrez EU-POIS/HR.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Art-kino",
+      "latitude": 45.328709,
+      "longitude": 14.436246
+    },
+    {
+      "name": "Cinema",
+      "latitude": 44.548689,
+      "longitude": 14.887075
+    },
+    {
+      "name": "Cinema Antonio Gusino",
+      "latitude": 45.083373,
+      "longitude": 13.633788
+    },
+    {
+      "name": "Cinema Podgora",
+      "latitude": 43.241087,
+      "longitude": 17.076787
+    },
+    {
+      "name": "Cineplexx",
+      "latitude": 43.513178,
+      "longitude": 16.504
+    },
+    {
+      "name": "Cineplexx",
+      "latitude": 45.801766,
+      "longitude": 16.050877
+    },
+    {
+      "name": "Cinestar",
+      "latitude": 43.519969,
+      "longitude": 16.446367
+    },
+    {
+      "name": "CineStar",
+      "latitude": 44.110287,
+      "longitude": 15.238604
+    },
+    {
+      "name": "CineStar",
+      "latitude": 45.318053,
+      "longitude": 14.468539
+    },
+    {
+      "name": "CineStar",
+      "latitude": 46.264316,
+      "longitude": 16.375315
+    },
+    {
+      "name": "CineStar Dubrovnik",
+      "latitude": 42.654158,
+      "longitude": 18.072212
+    },
+    {
+      "name": "CineStar Osijek",
+      "latitude": 45.554629,
+      "longitude": 18.636472
+    },
+    {
+      "name": "CineStar Slavonski Brod",
+      "latitude": 45.159202,
+      "longitude": 17.998993
+    },
+    {
+      "name": "CineStar Zagreb - Arena centar IMAX",
+      "latitude": 45.770293,
+      "longitude": 15.939924
+    },
+    {
+      "name": "CineStar Zagreb - Avenue Mall",
+      "latitude": 45.776373,
+      "longitude": 15.97845
+    },
+    {
+      "name": "CineStar Zagreb - Branimir Mingle Mall",
+      "latitude": 45.806328,
+      "longitude": 15.984917
+    },
+    {
+      "name": "CineStar Zagreb - Zapad",
+      "latitude": 45.798382,
+      "longitude": 15.890202
+    },
+    {
+      "name": "Cinestar Šibenik",
+      "latitude": 43.713086,
+      "longitude": 15.913436
+    },
+    {
+      "name": "CMIK",
+      "latitude": 45.315066,
+      "longitude": 13.562435
+    },
+    {
+      "name": "Dječja kuća",
+      "latitude": 45.331312,
+      "longitude": 14.432144
+    },
+    {
+      "name": "Dom HV",
+      "latitude": 44.035537,
+      "longitude": 16.197211
+    },
+    {
+      "name": "Dom Kulture",
+      "latitude": 45.310474,
+      "longitude": 18.412031
+    },
+    {
+      "name": "Edison",
+      "latitude": 45.491826,
+      "longitude": 15.551441
+    },
+    {
+      "name": "Gradsko kino",
+      "latitude": 45.770455,
+      "longitude": 18.599719
+    },
+    {
+      "name": "Gradsko kino Lepoglava",
+      "latitude": 46.209097,
+      "longitude": 16.041674
+    },
+    {
+      "name": "Jadran",
+      "latitude": 42.640853,
+      "longitude": 18.107307
+    },
+    {
+      "name": "Kic art kino",
+      "latitude": 45.811489,
+      "longitude": 15.974512
+    },
+    {
+      "name": "Kino",
+      "latitude": 45.37736,
+      "longitude": 18.962843
+    },
+    {
+      "name": "Kino \"30. svibnja\"",
+      "latitude": 45.593219,
+      "longitude": 17.224253
+    },
+    {
+      "name": "Kino dvorana Imotski",
+      "latitude": 43.447634,
+      "longitude": 17.216444
+    },
+    {
+      "name": "Kino Europa",
+      "latitude": 45.811756,
+      "longitude": 15.973324
+    },
+    {
+      "name": "Kino Forum",
+      "latitude": 45.785259,
+      "longitude": 15.947323
+    },
+    {
+      "name": "Kino Gaj",
+      "latitude": 46.308723,
+      "longitude": 16.337585
+    },
+    {
+      "name": "Kino Gorica",
+      "latitude": 45.71571,
+      "longitude": 16.069403
+    },
+    {
+      "name": "Kino Ivanec",
+      "latitude": 46.22444,
+      "longitude": 16.124122
+    },
+    {
+      "name": "Kino Karaman",
+      "latitude": 43.50875,
+      "longitude": 16.436993
+    },
+    {
+      "name": "Kino Krapina",
+      "latitude": 46.162372,
+      "longitude": 15.871325
+    },
+    {
+      "name": "Kino Labin",
+      "latitude": 45.088038,
+      "longitude": 14.12482
+    },
+    {
+      "name": "Kino Moslavina",
+      "latitude": 45.483235,
+      "longitude": 16.773415
+    },
+    {
+      "name": "Kino Našice",
+      "latitude": 45.490862,
+      "longitude": 18.091533
+    },
+    {
+      "name": "Kino Osvit",
+      "latitude": 45.761802,
+      "longitude": 18.164935
+    },
+    {
+      "name": "Kino Pobjeda",
+      "latitude": 43.053707,
+      "longitude": 17.652242
+    },
+    {
+      "name": "Kino Samobor",
+      "latitude": 45.802698,
+      "longitude": 15.712925
+    },
+    {
+      "name": "Kino Sinj",
+      "latitude": 43.702951,
+      "longitude": 16.638309
+    },
+    {
+      "name": "Kino Sloboda",
+      "latitude": 45.292437,
+      "longitude": 14.275123
+    },
+    {
+      "name": "Kino Sveti Filip i Jakov",
+      "latitude": 43.961663,
+      "longitude": 15.42488
+    },
+    {
+      "name": "Kino Urania",
+      "latitude": 45.561489,
+      "longitude": 18.68268
+    },
+    {
+      "name": "Kino Valli",
+      "latitude": 44.869186,
+      "longitude": 13.847984
+    },
+    {
+      "name": "Kino Vodice",
+      "latitude": 43.756051,
+      "longitude": 15.771416
+    },
+    {
+      "name": "Kino Vrbovec",
+      "latitude": 45.883761,
+      "longitude": 16.416482
+    },
+    {
+      "name": "Kinoteka",
+      "latitude": 45.811267,
+      "longitude": 15.960219
+    },
+    {
+      "name": "Kulturni i multimedijski centar Bjelovar",
+      "latitude": 45.900048,
+      "longitude": 16.842853
+    },
+    {
+      "name": "Lanterna Theater",
+      "latitude": 45.303158,
+      "longitude": 13.590298
+    },
+    {
+      "name": "Ljetna pozornica Tuškanac",
+      "latitude": 45.819382,
+      "longitude": 15.971794
+    },
+    {
+      "name": "Ljetno kino",
+      "latitude": 42.960963,
+      "longitude": 17.135303
+    },
+    {
+      "name": "Ljetno kino",
+      "latitude": 43.385153,
+      "longitude": 16.479623
+    },
+    {
+      "name": "Ljetno kino",
+      "latitude": 44.756971,
+      "longitude": 14.758964
+    },
+    {
+      "name": "Ljetno kino",
+      "latitude": 44.972908,
+      "longitude": 15.64541
+    },
+    {
+      "name": "Ljetno kino",
+      "latitude": 45.086362,
+      "longitude": 14.124261
+    },
+    {
+      "name": "Ljetno Kino \"Hrid\"",
+      "latitude": 43.058844,
+      "longitude": 16.189563
+    },
+    {
+      "name": "Ljetno kino 'Cimbyland'",
+      "latitude": 43.822043,
+      "longitude": 15.592683
+    },
+    {
+      "name": "Ljetno kino Bačvice",
+      "latitude": 43.500999,
+      "longitude": 16.450165
+    },
+    {
+      "name": "Ljetno kino Biograd",
+      "latitude": 43.935779,
+      "longitude": 15.448228
+    },
+    {
+      "name": "Ljetno kino Bol",
+      "latitude": 43.260789,
+      "longitude": 16.654391
+    },
+    {
+      "name": "Ljetno kino Makarska",
+      "latitude": 43.295118,
+      "longitude": 17.018832
+    },
+    {
+      "name": "Ljetno kino Stari Grad",
+      "latitude": 43.183691,
+      "longitude": 16.593247
+    },
+    {
+      "name": "Metropolis",
+      "latitude": 45.778802,
+      "longitude": 15.981525
+    },
+    {
+      "name": "Movieplex",
+      "latitude": 45.820019,
+      "longitude": 15.976848
+    },
+    {
+      "name": "Open Air Cinema",
+      "latitude": 44.915047,
+      "longitude": 13.766231
+    },
+    {
+      "name": "POP UP Kino",
+      "latitude": 45.808783,
+      "longitude": 15.716938
+    },
+    {
+      "name": "Poreč",
+      "latitude": 45.226768,
+      "longitude": 13.594592
+    },
+    {
+      "name": "POU - Buje",
+      "latitude": 45.408587,
+      "longitude": 13.658691
+    },
+    {
+      "name": "POU - Kino",
+      "latitude": 45.701921,
+      "longitude": 17.703626
+    },
+    {
+      "name": "Sloboda",
+      "latitude": 42.640897,
+      "longitude": 18.110937
+    },
+    {
+      "name": "Studentski centar",
+      "latitude": 45.803567,
+      "longitude": 15.966918
+    },
+    {
+      "name": "Trilj",
+      "latitude": 43.61668,
+      "longitude": 16.727213
+    },
+    {
+      "name": "Tuškanac",
+      "latitude": 45.815322,
+      "longitude": 15.969245
+    },
+    {
+      "name": "VR kino KEK",
+      "latitude": 45.808779,
+      "longitude": 15.980242
+    },
+    {
+      "name": "Zimsko kino Rab",
+      "latitude": 44.757238,
+      "longitude": 14.759673
+    }
+  ],
+  "meta": {
+    "title": "Kina - Besplatno preuzimanje",
+    "description": "Kina u Hrvatskoj (79 zapisa) — točke interesa iz OpenStreetMapa (oznaka amenity=cinema), izrez EU-POIS/HR. Sadrži 79 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kina | ListBase",
+    "seo_description": "Preuzmi Kina — 79 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 79 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

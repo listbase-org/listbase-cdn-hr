@@ -1,0 +1,97 @@
+{
+  "id": "hr-mjerne-jedinice-light",
+  "name": "Mjerne jedinice — kategorija 'light' (4)",
+  "title": "Mjerne jedinice — kategorija 'light' (4)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'light' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "light-candela",
+      "kategorija": "light",
+      "naziv": "kandela",
+      "kratica": "cd",
+      "naziv_uski": "cd",
+      "obrazac": "{0} kandela"
+    },
+    {
+      "id": 2,
+      "unit_code": "light-lumen",
+      "kategorija": "light",
+      "naziv": "lumen",
+      "kratica": "lm",
+      "naziv_uski": "lm",
+      "obrazac": "{0} lumena"
+    },
+    {
+      "id": 3,
+      "unit_code": "light-lux",
+      "kategorija": "light",
+      "naziv": "luksi",
+      "kratica": "lx",
+      "naziv_uski": "lx",
+      "obrazac": "{0} luksa"
+    },
+    {
+      "id": 4,
+      "unit_code": "light-solar-luminosity",
+      "kategorija": "light",
+      "naziv": "sjaj Sunca",
+      "kratica": "L☉",
+      "naziv_uski": "L☉",
+      "obrazac": "{0} sjaja Sunca"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'light' (4) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'light' s hrvatskim nazivima. Sadrži 4 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'light' (4) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'light' (4) — 4 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 4 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

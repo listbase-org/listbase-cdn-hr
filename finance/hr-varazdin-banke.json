@@ -1,0 +1,79 @@
+{
+  "id": "hr-varazdin-banke",
+  "name": "Banke u Varaždin — SWIFT/BIC kodovi (Varaždin bank SWIFT/BIC codes)",
+  "title": "Banke u Varaždin — SWIFT/BIC kodovi (Varaždin bank SWIFT/BIC codes)",
+  "description": "Popis: 4 bankovnih institucija u Varaždin sa SWIFT/BIC kodovima — naziv banke, grad, podružnica i SWIFT kod. Razdvojeno po gradovima iz nacionalnog skupa hr-banke (78 zapisa) PeterNotenboom/SwiftCodes. Per-city split of the Croatian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 7,
+      "bank": "BANKA KOVANICA D.D.",
+      "city": "VARAZDIN",
+      "branch": "",
+      "swift_code": "SKOVHR22"
+    },
+    {
+      "id": 14,
+      "bank": "FIMA SECURITIES LTD",
+      "city": "VARAZDIN",
+      "branch": "",
+      "swift_code": "FMVZHR21"
+    },
+    {
+      "id": 28,
+      "bank": "J AND T BANKA D.D.",
+      "city": "VARAZDIN",
+      "branch": "",
+      "swift_code": "VBVZHR22"
+    },
+    {
+      "id": 49,
+      "bank": "RAST D.O.O.",
+      "city": "VARAZDIN",
+      "branch": "",
+      "swift_code": "RSDOHR21"
+    }
+  ],
+  "meta": {
+    "title": "Banke u Varaždin — SWIFT/BIC kodovi (Varaždin bank SWIFT/BIC codes) - Besplatno preuzimanje",
+    "description": "Popis: 4 bankovnih institucija u Varaždin sa SWIFT/BIC kodovima — naziv banke, grad, podružnica i SWIFT kod. Razdvojeno po gradovima iz nacionalnog skupa hr-banke (78 zapisa) PeterNotenboom/SwiftCodes. Per-city split of the Croatian SWIFT/BIC list. Sadrži 4 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Banke u Varaždin — SWIFT/BIC kodovi (Varaždin bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Preuzmi Banke u Varaždin — SWIFT/BIC kodovi (Varaždin bank SWIFT/BIC codes) — 4 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 4 zapisa / 5 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

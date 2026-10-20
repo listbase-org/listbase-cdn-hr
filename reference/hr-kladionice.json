@@ -1,0 +1,531 @@
+{
+  "id": "hr-kladionice",
+  "name": "Kladionice",
+  "title": "Kladionice",
+  "description": "Kladionice u Hrvatskoj (98 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=bookmaker), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "CroXBet",
+      "latitude": 43.293279,
+      "longitude": 17.020256
+    },
+    {
+      "name": "CroXBet",
+      "latitude": 45.808716,
+      "longitude": 15.942058
+    },
+    {
+      "name": "Favbet",
+      "latitude": 43.733828,
+      "longitude": 15.89627
+    },
+    {
+      "name": "Favbet",
+      "latitude": 45.80194,
+      "longitude": 15.918045
+    },
+    {
+      "name": "Favbet",
+      "latitude": 45.80326,
+      "longitude": 15.710294
+    },
+    {
+      "name": "FAVBET",
+      "latitude": 46.388544,
+      "longitude": 16.439777
+    },
+    {
+      "name": "Favorit",
+      "latitude": 45.164441,
+      "longitude": 19.151304
+    },
+    {
+      "name": "Germania",
+      "latitude": 43.292972,
+      "longitude": 17.020832
+    },
+    {
+      "name": "Germania",
+      "latitude": 43.702152,
+      "longitude": 16.636818
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.290089,
+      "longitude": 18.806383
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.341853,
+      "longitude": 17.683317
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.342727,
+      "longitude": 16.974562
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.414837,
+      "longitude": 17.161853
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.482065,
+      "longitude": 16.368138
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.485374,
+      "longitude": 16.374168
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.791087,
+      "longitude": 15.950138
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.792499,
+      "longitude": 15.914526
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.796896,
+      "longitude": 15.776176
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.801481,
+      "longitude": 15.721164
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.805254,
+      "longitude": 15.977645
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.807789,
+      "longitude": 15.939821
+    },
+    {
+      "name": "Germania",
+      "latitude": 45.812929,
+      "longitude": 16.054588
+    },
+    {
+      "name": "Germania",
+      "latitude": 46.223675,
+      "longitude": 16.124255
+    },
+    {
+      "name": "Germania",
+      "latitude": 46.376893,
+      "longitude": 16.381748
+    },
+    {
+      "name": "Germania",
+      "latitude": 46.388903,
+      "longitude": 16.440072
+    },
+    {
+      "name": "Hrvatska Lutrija",
+      "latitude": 45.761249,
+      "longitude": 15.986443
+    },
+    {
+      "name": "Hrvatska lutrija",
+      "latitude": 45.792628,
+      "longitude": 15.901776
+    },
+    {
+      "name": "Hrvatska lutrija",
+      "latitude": 45.800326,
+      "longitude": 15.954515
+    },
+    {
+      "name": "Hrvatska Lutrija",
+      "latitude": 45.803498,
+      "longitude": 15.877328
+    },
+    {
+      "name": "Hrvatska Lutrija",
+      "latitude": 45.80507,
+      "longitude": 15.920821
+    },
+    {
+      "name": "Hrvatska Lutrija",
+      "latitude": 45.872344,
+      "longitude": 15.826537
+    },
+    {
+      "name": "Hrvatska lutrija",
+      "latitude": 46.223204,
+      "longitude": 16.124237
+    },
+    {
+      "name": "Kladionica hrvatske lutrije",
+      "latitude": 45.792217,
+      "longitude": 15.914134
+    },
+    {
+      "name": "Knjigovodstveni servis Jamuljak",
+      "latitude": 45.490518,
+      "longitude": 18.095284
+    },
+    {
+      "name": "Lutrija CroXBet",
+      "latitude": 45.813002,
+      "longitude": 15.957073
+    },
+    {
+      "name": "Pek-Snack",
+      "latitude": 42.651617,
+      "longitude": 18.091893
+    },
+    {
+      "name": "Prva sportska kladionica",
+      "latitude": 45.328982,
+      "longitude": 14.460359
+    },
+    {
+      "name": "Prva sportska kladionica",
+      "latitude": 45.339479,
+      "longitude": 16.979154
+    },
+    {
+      "name": "Prva sportska kladionica",
+      "latitude": 45.3427,
+      "longitude": 16.974647
+    },
+    {
+      "name": "Prva Sportska Kladionica",
+      "latitude": 45.4349,
+      "longitude": 17.665263
+    },
+    {
+      "name": "Prva Sportska Kladionica",
+      "latitude": 45.793312,
+      "longitude": 15.915976
+    },
+    {
+      "name": "Prva sportska kladionica",
+      "latitude": 45.815087,
+      "longitude": 15.875652
+    },
+    {
+      "name": "Prva sportska kladionica",
+      "latitude": 46.388549,
+      "longitude": 16.439671
+    },
+    {
+      "name": "PSK",
+      "latitude": 43.294066,
+      "longitude": 17.02006
+    },
+    {
+      "name": "PSK",
+      "latitude": 43.507284,
+      "longitude": 16.465801
+    },
+    {
+      "name": "PSK",
+      "latitude": 43.517398,
+      "longitude": 16.450253
+    },
+    {
+      "name": "PSK",
+      "latitude": 45.5925,
+      "longitude": 18.459978
+    },
+    {
+      "name": "PSK",
+      "latitude": 45.775276,
+      "longitude": 16.058691
+    },
+    {
+      "name": "PSK",
+      "latitude": 45.788484,
+      "longitude": 16.006441
+    },
+    {
+      "name": "PSK",
+      "latitude": 45.794291,
+      "longitude": 15.997117
+    },
+    {
+      "name": "PSK",
+      "latitude": 45.795856,
+      "longitude": 15.900546
+    },
+    {
+      "name": "PSK",
+      "latitude": 45.798589,
+      "longitude": 15.947394
+    },
+    {
+      "name": "PSK",
+      "latitude": 45.81111,
+      "longitude": 15.951441
+    },
+    {
+      "name": "PSK",
+      "latitude": 45.814391,
+      "longitude": 16.019409
+    },
+    {
+      "name": "PSK Betbox",
+      "latitude": 43.592399,
+      "longitude": 16.188459
+    },
+    {
+      "name": "PSK Betbox",
+      "latitude": 46.151645,
+      "longitude": 15.960394
+    },
+    {
+      "name": "Stanleybet",
+      "latitude": 45.801997,
+      "longitude": 15.711027
+    },
+    {
+      "name": "Stanleybet",
+      "latitude": 45.812557,
+      "longitude": 15.952204
+    },
+    {
+      "name": "Stanleybet kladionica",
+      "latitude": 46.305116,
+      "longitude": 16.33001
+    },
+    {
+      "name": "Super sport",
+      "latitude": 45.815101,
+      "longitude": 15.875539
+    },
+    {
+      "name": "Super sport",
+      "latitude": 46.305128,
+      "longitude": 16.330104
+    },
+    {
+      "name": "Supersport",
+      "latitude": 42.675541,
+      "longitude": 18.095187
+    },
+    {
+      "name": "Supersport",
+      "latitude": 43.501547,
+      "longitude": 16.523676
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.076688,
+      "longitude": 13.652531
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.156585,
+      "longitude": 18.013547
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.267126,
+      "longitude": 15.22532
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.337806,
+      "longitude": 17.665541
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.45796,
+      "longitude": 16.386048
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.473975,
+      "longitude": 16.367518
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.486959,
+      "longitude": 16.374414
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.748328,
+      "longitude": 16.614346
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.763519,
+      "longitude": 15.961866
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.771784,
+      "longitude": 15.965735
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.776163,
+      "longitude": 15.977129
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.776776,
+      "longitude": 15.996567
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.786765,
+      "longitude": 15.950106
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.787961,
+      "longitude": 15.939626
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.78956,
+      "longitude": 15.929126
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.790382,
+      "longitude": 15.949516
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.791584,
+      "longitude": 15.942095
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.791801,
+      "longitude": 15.960484
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.793084,
+      "longitude": 15.915453
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.795912,
+      "longitude": 15.990483
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.796908,
+      "longitude": 15.935259
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.797751,
+      "longitude": 16.119841
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.802959,
+      "longitude": 15.963465
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.803181,
+      "longitude": 15.709868
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.812362,
+      "longitude": 15.951424
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.813839,
+      "longitude": 15.976067
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.814382,
+      "longitude": 15.994787
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.814457,
+      "longitude": 16.019401
+    },
+    {
+      "name": "Supersport",
+      "latitude": 45.816374,
+      "longitude": 15.83551
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 45.885246,
+      "longitude": 16.419064
+    },
+    {
+      "name": "SuperSport",
+      "latitude": 46.2238,
+      "longitude": 16.121931
+    },
+    {
+      "name": "Supersport - Vidikovac",
+      "latitude": 44.136497,
+      "longitude": 15.239406
+    },
+    {
+      "name": "Supersport kladionica",
+      "latitude": 45.761576,
+      "longitude": 16.20256
+    },
+    {
+      "name": "SuperSport kladionica",
+      "latitude": 45.795372,
+      "longitude": 15.96619
+    },
+    {
+      "name": "SuperSport kladionica",
+      "latitude": 45.79789,
+      "longitude": 15.974518
+    }
+  ],
+  "meta": {
+    "title": "Kladionice - Besplatno preuzimanje",
+    "description": "Kladionice u Hrvatskoj (98 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=bookmaker), izrez EU-POIS/HR. Sadrži 98 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Kladionice | ListBase",
+    "seo_description": "Preuzmi Kladionice — 98 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 98 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

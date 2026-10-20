@@ -1,0 +1,361 @@
+{
+  "id": "hr-nevladine-organizacije",
+  "name": "Nevladine organizacije",
+  "title": "Nevladine organizacije",
+  "description": "Nevladine organizacije u Hrvatskoj (64 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=ngo), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ABC informatika",
+      "latitude": 43.523935,
+      "longitude": 16.458423
+    },
+    {
+      "name": "ACT Grupa",
+      "latitude": 46.391542,
+      "longitude": 16.449294
+    },
+    {
+      "name": "ACT Grupa - ured Zagreb",
+      "latitude": 45.79177,
+      "longitude": 15.990022
+    },
+    {
+      "name": "Astronomsko društvo Perzeidi",
+      "latitude": 46.021402,
+      "longitude": 16.544567
+    },
+    {
+      "name": "BEST Zagreb",
+      "latitude": 45.800646,
+      "longitude": 15.9713
+    },
+    {
+      "name": "Crveni Križ",
+      "latitude": 45.338103,
+      "longitude": 16.091084
+    },
+    {
+      "name": "Crveni križ",
+      "latitude": 46.02943,
+      "longitude": 16.545165
+    },
+    {
+      "name": "Dinaridi – društvo za istraživanja i snimanja krških fenomena",
+      "latitude": 45.810296,
+      "longitude": 16.018681
+    },
+    {
+      "name": "Documenta",
+      "latitude": 45.798272,
+      "longitude": 15.942227
+    },
+    {
+      "name": "Društvo za istraživanje krša – Freatik",
+      "latitude": 45.853344,
+      "longitude": 16.033413
+    },
+    {
+      "name": "Ekološka udruga Krka-Knin",
+      "latitude": 44.044181,
+      "longitude": 16.199815
+    },
+    {
+      "name": "Ekološko društvo Ježinac",
+      "latitude": 43.503862,
+      "longitude": 16.418432
+    },
+    {
+      "name": "Gornjogradsko dobrotvorno i kulturno društvo \"Lipa\" Križevci",
+      "latitude": 46.035286,
+      "longitude": 16.541118
+    },
+    {
+      "name": "Gradsko društvo Crvenog križa Beli Manastir",
+      "latitude": 45.768864,
+      "longitude": 18.604951
+    },
+    {
+      "name": "Gradsko društvo Crvenog križa Split",
+      "latitude": 43.509505,
+      "longitude": 16.467993
+    },
+    {
+      "name": "HGSS Stanica Samobor",
+      "latitude": 45.794925,
+      "longitude": 15.724908
+    },
+    {
+      "name": "Hrvatski autoklub",
+      "latitude": 45.167381,
+      "longitude": 17.999992
+    },
+    {
+      "name": "Hrvatski Crveni križ",
+      "latitude": 45.153577,
+      "longitude": 18.013419
+    },
+    {
+      "name": "Hrvatski Crveni Križ",
+      "latitude": 45.805916,
+      "longitude": 15.710877
+    },
+    {
+      "name": "Hrvatski Crveni križ",
+      "latitude": 46.390063,
+      "longitude": 16.440863
+    },
+    {
+      "name": "Hrvatski speleološki savez",
+      "latitude": 45.807101,
+      "longitude": 15.969774
+    },
+    {
+      "name": "Hrvatsko geografsko društvo",
+      "latitude": 45.807143,
+      "longitude": 15.969665
+    },
+    {
+      "name": "Hrvatsko geomorfološko društvo",
+      "latitude": 45.807023,
+      "longitude": 15.969813
+    },
+    {
+      "name": "HVIDR-a Samobor i Sv. Nedelja",
+      "latitude": 45.795347,
+      "longitude": 15.719841
+    },
+    {
+      "name": "Kamelon",
+      "latitude": 45.796599,
+      "longitude": 15.775552
+    },
+    {
+      "name": "Klub \"Agata\" Križevci",
+      "latitude": 46.029405,
+      "longitude": 16.545234
+    },
+    {
+      "name": "Klub Pomoraca",
+      "latitude": 43.506481,
+      "longitude": 16.431654
+    },
+    {
+      "name": "Matica hrvatska",
+      "latitude": 45.808156,
+      "longitude": 15.979457
+    },
+    {
+      "name": "Nova Akropola",
+      "latitude": 45.559891,
+      "longitude": 18.683969
+    },
+    {
+      "name": "Pisak",
+      "latitude": 45.451476,
+      "longitude": 16.3854
+    },
+    {
+      "name": "Porezna uprava RH",
+      "latitude": 45.421898,
+      "longitude": 13.528688
+    },
+    {
+      "name": "Prijatelji životinja",
+      "latitude": 45.812316,
+      "longitude": 15.983062
+    },
+    {
+      "name": "REDEA",
+      "latitude": 46.391655,
+      "longitude": 16.446995
+    },
+    {
+      "name": "Savez gluhoj i nagluhih grada Zagreba",
+      "latitude": 45.808568,
+      "longitude": 15.98491
+    },
+    {
+      "name": "Senior centar Donji grad",
+      "latitude": 45.810289,
+      "longitude": 15.991066
+    },
+    {
+      "name": "Sindikat biciklista",
+      "latitude": 45.818288,
+      "longitude": 15.979836
+    },
+    {
+      "name": "Speleološka udruga Estavela",
+      "latitude": 45.373741,
+      "longitude": 14.347832
+    },
+    {
+      "name": "Speleološka udruga Pula",
+      "latitude": 44.85038,
+      "longitude": 13.851902
+    },
+    {
+      "name": "Speleološka udruga Spelunka",
+      "latitude": 45.305634,
+      "longitude": 14.278163
+    },
+    {
+      "name": "Speleološki klub Had",
+      "latitude": 45.151133,
+      "longitude": 13.614177
+    },
+    {
+      "name": "Speleološki klub Samobor",
+      "latitude": 45.804906,
+      "longitude": 15.715465
+    },
+    {
+      "name": "Speleološki klub Ursus spelaeus",
+      "latitude": 45.475783,
+      "longitude": 15.550464
+    },
+    {
+      "name": "Speleološko društvo Buje",
+      "latitude": 45.408027,
+      "longitude": 13.657132
+    },
+    {
+      "name": "Speleološko društvo Istra",
+      "latitude": 45.239812,
+      "longitude": 13.930865
+    },
+    {
+      "name": "Speleološko društvo Karlovac",
+      "latitude": 45.494053,
+      "longitude": 15.554939
+    },
+    {
+      "name": "Speleološko društvo Proteus",
+      "latitude": 45.22783,
+      "longitude": 13.596978
+    },
+    {
+      "name": "Speleološko društvo Veles",
+      "latitude": 44.993171,
+      "longitude": 15.651905
+    },
+    {
+      "name": "Speleološko društvo Ćićarija",
+      "latitude": 45.394607,
+      "longitude": 14.045257
+    },
+    {
+      "name": "Speleološko društvo Špiljar",
+      "latitude": 43.519205,
+      "longitude": 16.45116
+    },
+    {
+      "name": "This is a Domino project",
+      "latitude": 45.807274,
+      "longitude": 15.980113
+    },
+    {
+      "name": "Udruga Breganja",
+      "latitude": 45.837167,
+      "longitude": 15.687713
+    },
+    {
+      "name": "udruga Djela Ljubavi",
+      "latitude": 45.794825,
+      "longitude": 15.894272
+    },
+    {
+      "name": "Udruga Fokus",
+      "latitude": 45.790794,
+      "longitude": 15.916061
+    },
+    {
+      "name": "Udruga Kamensko",
+      "latitude": 45.79118,
+      "longitude": 15.947048
+    },
+    {
+      "name": "Udruga nismo same",
+      "latitude": 45.809756,
+      "longitude": 15.981179
+    },
+    {
+      "name": "udruga Otok",
+      "latitude": 43.724935,
+      "longitude": 15.798232
+    },
+    {
+      "name": "Udruga policije sveti Mihovil",
+      "latitude": 45.813888,
+      "longitude": 15.987839
+    },
+    {
+      "name": "Udruga Roda",
+      "latitude": 45.811279,
+      "longitude": 15.953458
+    },
+    {
+      "name": "Udruga SOK",
+      "latitude": 43.505425,
+      "longitude": 16.428731
+    },
+    {
+      "name": "Udruga tradicijske kuhinje",
+      "latitude": 45.806937,
+      "longitude": 16.003823
+    },
+    {
+      "name": "Udruga veterana DR",
+      "latitude": 43.506526,
+      "longitude": 16.460103
+    },
+    {
+      "name": "udruga za promicanje inkluzije",
+      "latitude": 45.810308,
+      "longitude": 15.951534
+    },
+    {
+      "name": "Zagrebački institut za kulturu zdravlja",
+      "latitude": 45.814305,
+      "longitude": 15.997641
+    },
+    {
+      "name": "Županijska liga protiv raka",
+      "latitude": 43.503472,
+      "longitude": 16.460364
+    }
+  ],
+  "meta": {
+    "title": "Nevladine organizacije - Besplatno preuzimanje",
+    "description": "Nevladine organizacije u Hrvatskoj (64 zapisa) — točke interesa iz OpenStreetMapa (oznaka office=ngo), izrez EU-POIS/HR. Sadrži 64 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Nevladine organizacije | ListBase",
+    "seo_description": "Preuzmi Nevladine organizacije — 64 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 64 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

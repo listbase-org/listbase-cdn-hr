@@ -1,0 +1,393 @@
+{
+  "id": "hr-brodsko-posavska-djecji-vrtici",
+  "name": "Dječji vrtići — Brodsko-Posavska županija",
+  "title": "Dječji vrtići — Brodsko-Posavska županija",
+  "description": "Kindergartens (MO = matični objekt / main site, PO = područni objekt / branch site) in Brodsko-Posavska, Croatia — the Brodsko-Posavska subset of hr-djecji-vrtici. Source: Ministarstvo znanosti i obrazovanja via codeforcroatia/open-data.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "Naziv objekta",
+      "label": "Naziv Objekta",
+      "type": "string"
+    },
+    {
+      "key": "Tip objekta",
+      "label": "Tip Objekta",
+      "type": "string"
+    },
+    {
+      "key": "Matični vrtić",
+      "label": "MatičNi Vrtić",
+      "type": "string"
+    },
+    {
+      "key": "Županija",
+      "label": "ŽUpanija",
+      "type": "string"
+    },
+    {
+      "key": "Naselje",
+      "label": "Naselje",
+      "type": "string"
+    },
+    {
+      "key": "Ulica i broj",
+      "label": "Ulica I Broj",
+      "type": "string"
+    },
+    {
+      "key": "Telefon",
+      "label": "Telefon",
+      "type": "string"
+    },
+    {
+      "key": "Faks",
+      "label": "Faks",
+      "type": "string"
+    },
+    {
+      "key": "E-mail",
+      "label": "E Mail",
+      "type": "string"
+    },
+    {
+      "key": "Odgovorna osoba",
+      "label": "Odgovorna Osoba",
+      "type": "string"
+    },
+    {
+      "key": "Naziv osnivača",
+      "label": "Naziv OsnivačA",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "Naziv objekta": "DV \"Cekin\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Slavonski Brod",
+      "Ulica i broj": "Vinogorska bb",
+      "Telefon": "035/465-408",
+      "Faks": "035/465-409",
+      "E-mail": "zlatni-cekin@sb.htnet.hr",
+      "Odgovorna osoba": "fra Ilija Jerković",
+      "Naziv osnivača": "Franjevački samostan Slavonski Brod"
+    },
+    {
+      "Naziv objekta": "Kraći program pri Narodnoj knjižnici Brodski Stupnik",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Brodski Stupnik",
+      "Ulica i broj": "Stjepana Radića 117",
+      "Telefon": "035 427-137",
+      "Faks": "035 427-137",
+      "E-mail": "opcina-brodski.stupnik@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": "općina Brodski Stupnik"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Ivana Brlić Mažuranić\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Slavonski Brod",
+      "Ulica i broj": "Naselje Andrija Hebr",
+      "Telefon": "035/446-014",
+      "Faks": "035/408-166",
+      "E-mail": "dv-slav.brod@sb.t-com.hr",
+      "Odgovorna osoba": "Zorana Butorac",
+      "Naziv osnivača": "grad Slavonski Brod i općina Oriovac"
+    },
+    {
+      "Naziv objekta": "PO Pčelica",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Ivana Brlić Mažuranić\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Slavonski Brod",
+      "Ulica i broj": "Borovska 5",
+      "Telefon": "035 446505",
+      "Faks": "035 408166",
+      "E-mail": "dv-slav.brod@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Kosjenka",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Ivana Brlić Mažuranić\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Slavonski Brod",
+      "Ulica i broj": "Aleja Miroslava Krle",
+      "Telefon": "035 255-406",
+      "Faks": "035 408166",
+      "E-mail": "dv-slav.brod@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Maslačak",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Ivana Brlić Mažuranić\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Podvinje",
+      "Ulica i broj": "Trg sv. Antuna bb",
+      "Telefon": "035 461-172",
+      "Faks": "235 408166",
+      "E-mail": "dv-slav.brod@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Radost",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Ivana Brlić Mažuranić\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Slavonski Brod",
+      "Ulica i broj": "Mikrorajon bb",
+      "Telefon": "035 265-780",
+      "Faks": "035 408166",
+      "E-mail": "dv-slav.brod@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Seka i braco",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Ivana Brlić Mažuranić\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Slavonski Brod",
+      "Ulica i broj": "Tomislavov trg bb",
+      "Telefon": "035/446-405",
+      "Faks": "035 408166",
+      "E-mail": "dv-slav.brod@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Stribor",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Ivana Brlić Mažuranić\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Slavonski Brod",
+      "Ulica i broj": "Mile Budaka bb",
+      "Telefon": "035/445-973",
+      "Faks": "035 408166",
+      "E-mail": "dv-slav.brod@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Trnoružica",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Ivana Brlić Mažuranić\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Slavonski Brod",
+      "Ulica i broj": "Gundulićeva bb",
+      "Telefon": "035 447-160",
+      "Faks": "035 408166",
+      "E-mail": "dv-slav.brod@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Ivančica",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Ivana Brlić Mažuranić\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Oriovac",
+      "Ulica i broj": "Luke Ilića bb",
+      "Telefon": "035/431-138",
+      "Faks": "035 408166",
+      "E-mail": "dv-slav.brod@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Hlapić",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Ivana Brlić Mažuranić\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Slavonski Brod",
+      "Ulica i broj": "Naselje Andrija Hebr",
+      "Telefon": "035 446-014",
+      "Faks": "035 408166",
+      "E-mail": "dv-slav.brod@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "Dječji vrtić Nova Gradiška",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Nova Gradiška",
+      "Ulica i broj": "Trg dr. Franje Tuđma",
+      "Telefon": "035/361-773",
+      "Faks": "035/361-190",
+      "E-mail": "cpo.ng@sb.t-com.hr",
+      "Odgovorna osoba": "Zdenka Zečević",
+      "Naziv osnivača": "grad Nova Gradiška"
+    },
+    {
+      "Naziv objekta": "PO Bljesak",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić Nova Gradiška",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Okučani",
+      "Ulica i broj": "Grigora Viteza 17",
+      "Telefon": "035/371-090",
+      "Faks": "035/361190",
+      "E-mail": "cpo.ng@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Matija Gubec",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić Nova Gradiška",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Cernik",
+      "Ulica i broj": "Školska 12",
+      "Telefon": "035/369-485",
+      "Faks": "035/361190",
+      "E-mail": "cpo.ng@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Vjeverica",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić Nova Gradiška",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Staro Petrovo Selo",
+      "Ulica i broj": "Trg kralja Tomislava bb",
+      "Telefon": "035/387-093",
+      "Faks": "035/361190",
+      "E-mail": "cpo.ng@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Zvončić",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić Nova Gradiška",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Nova Kapela",
+      "Ulica i broj": "Trg kralja Tomislava bb",
+      "Telefon": "035/384-225",
+      "Faks": "035/361190",
+      "E-mail": "cpo.ng@sb.t-com.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Radost",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić Nova Gradiška",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Nova Gradiška",
+      "Ulica i broj": "Alojzija Stepinca 2",
+      "Telefon": "",
+      "Faks": "",
+      "E-mail": "",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "Udruga \"LEPTIR\", igraonica \"Mrav\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Donji Andrijevci",
+      "Ulica i broj": "Grobljanska 20",
+      "Telefon": "091 2853 553",
+      "Faks": "",
+      "E-mail": "leptir@udruga-leptir.hr; irena@udruga-leptir.hr; ivana@udruga-leptir.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": "Udruga Leptir"
+    },
+    {
+      "Naziv objekta": "PO Igraonica “Bubamara”",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Udruga \"LEPTIR\", igraonica \"Mrav\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Velika Kopanica",
+      "Ulica i broj": "Gorjanci 68",
+      "Telefon": "091/5311-337",
+      "Faks": "035/477-485",
+      "E-mail": "ivana@udruga-leptir.hr",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "PO Igraonica Pčelica",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Udruga \"LEPTIR\", igraonica \"Mrav\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Oprisavci",
+      "Ulica i broj": "Trg Svetog Križa 16",
+      "Telefon": "",
+      "Faks": "",
+      "E-mail": "",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    },
+    {
+      "Naziv objekta": "Dječji vrtić \"Lira\"",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Slavonski Brod",
+      "Ulica i broj": "Josipa Kozarca 31",
+      "Telefon": "035 448 159",
+      "Faks": "035 448 159",
+      "E-mail": "glazbeno@globalnet.hr",
+      "Odgovorna osoba": "Ljiljana Bošnjak",
+      "Naziv osnivača": "Ljiljana Bošnjak"
+    },
+    {
+      "Naziv objekta": "Dječji vrtić Čarobni svijet u Rešetarima",
+      "Tip objekta": "MO",
+      "Matični vrtić": "",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Rešetari",
+      "Ulica i broj": "Ulica Matije Gupca 2",
+      "Telefon": "035 367 231",
+      "Faks": "/",
+      "E-mail": "vrtic@resetari.hr",
+      "Odgovorna osoba": "Jasminka Kolić",
+      "Naziv osnivača": "Općina Rešetari"
+    },
+    {
+      "Naziv objekta": "PO Vrpolje",
+      "Tip objekta": "PO",
+      "Matični vrtić": "Dječji vrtić \"Zvrk\"",
+      "Županija": "Brodsko-posavska županija",
+      "Naselje": "Vrpolje",
+      "Ulica i broj": "Hrvatskih branitelja",
+      "Telefon": "",
+      "Faks": "",
+      "E-mail": "",
+      "Odgovorna osoba": "",
+      "Naziv osnivača": ""
+    }
+  ],
+  "meta": {
+    "title": "Dječji vrtići — Brodsko-Posavska županija - Besplatno preuzimanje",
+    "description": "Kindergartens (MO = matični objekt / main site, PO = područni objekt / branch site) in Brodsko-Posavska, Croatia — the Brodsko-Posavska subset of hr-djecji-vrtici. Source: Ministarstvo znanosti i obrazovanja via codeforcroatia/open-data. Sadrži 24 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Dječji vrtići — Brodsko-Posavska županija | ListBase",
+    "seo_description": "Preuzmi Dječji vrtići — Brodsko-Posavska županija — 24 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 24 zapisa / 11 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

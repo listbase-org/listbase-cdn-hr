@@ -1,0 +1,133 @@
+{
+  "id": "hr-mjerne-jedinice-electric",
+  "name": "Mjerne jedinice — kategorija 'electric' (8)",
+  "title": "Mjerne jedinice — kategorija 'electric' (8)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'electric' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "electric-ampere",
+      "kategorija": "electric",
+      "naziv": "amperi",
+      "kratica": "A",
+      "naziv_uski": "A",
+      "obrazac": "{0} ampera"
+    },
+    {
+      "id": 2,
+      "unit_code": "electric-coulomb",
+      "kategorija": "electric",
+      "naziv": "kuloni",
+      "kratica": "C",
+      "naziv_uski": "C",
+      "obrazac": "{0} kulona"
+    },
+    {
+      "id": 3,
+      "unit_code": "electric-farad",
+      "kategorija": "electric",
+      "naziv": "faradi",
+      "kratica": "F",
+      "naziv_uski": "F",
+      "obrazac": "{0} farada"
+    },
+    {
+      "id": 4,
+      "unit_code": "electric-henry",
+      "kategorija": "electric",
+      "naziv": "henriji",
+      "kratica": "H",
+      "naziv_uski": "H",
+      "obrazac": "{0} henrija"
+    },
+    {
+      "id": 5,
+      "unit_code": "electric-milliampere",
+      "kategorija": "electric",
+      "naziv": "miliamperi",
+      "kratica": "mA",
+      "naziv_uski": "mA",
+      "obrazac": "{0} miliampera"
+    },
+    {
+      "id": 6,
+      "unit_code": "electric-ohm",
+      "kategorija": "electric",
+      "naziv": "omi",
+      "kratica": "Ω",
+      "naziv_uski": "Ω",
+      "obrazac": "{0} oma"
+    },
+    {
+      "id": 7,
+      "unit_code": "electric-siemens",
+      "kategorija": "electric",
+      "naziv": "simensi",
+      "kratica": "S",
+      "naziv_uski": "S",
+      "obrazac": "{0} S"
+    },
+    {
+      "id": 8,
+      "unit_code": "electric-volt",
+      "kategorija": "electric",
+      "naziv": "volti",
+      "kratica": "V",
+      "naziv_uski": "V",
+      "obrazac": "{0} volti"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'electric' (8) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'electric' s hrvatskim nazivima. Sadrži 8 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'electric' (8) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'electric' (8) — 8 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 8 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

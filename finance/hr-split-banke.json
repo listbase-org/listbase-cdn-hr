@@ -1,0 +1,86 @@
+{
+  "id": "hr-split-banke",
+  "name": "Banke u Split — SWIFT/BIC kodovi (Split bank SWIFT/BIC codes)",
+  "title": "Banke u Split — SWIFT/BIC kodovi (Split bank SWIFT/BIC codes)",
+  "description": "Popis: 5 bankovnih institucija u Split sa SWIFT/BIC kodovima — naziv banke, grad, podružnica i SWIFT kod. Razdvojeno po gradovima iz nacionalnog skupa hr-banke (78 zapisa) PeterNotenboom/SwiftCodes. Per-city split of the Croatian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 23,
+      "bank": "IMEX BANKA LTD.",
+      "city": "SPLIT",
+      "branch": "",
+      "swift_code": "IMXXHR22"
+    },
+    {
+      "id": 39,
+      "bank": "OTP BANKA HRVATSKA D.D.",
+      "city": "SPLIT",
+      "branch": "",
+      "swift_code": "OTPVHR2XSPL"
+    },
+    {
+      "id": 54,
+      "bank": "SPLITSKA BANKA DD",
+      "city": "SPLIT",
+      "branch": "(MINIMUM RESERVE REQUIREMENT WITH CNB)",
+      "swift_code": "SOGEHR22MMR"
+    },
+    {
+      "id": 55,
+      "bank": "SPLITSKA BANKA DD",
+      "city": "SPLIT",
+      "branch": "",
+      "swift_code": "SOGEHR22"
+    },
+    {
+      "id": 73,
+      "bank": "ZAGREBACKA BANKA DD",
+      "city": "SPLIT",
+      "branch": "(SPLIT BRANCH)",
+      "swift_code": "ZABAHR2XSPL"
+    }
+  ],
+  "meta": {
+    "title": "Banke u Split — SWIFT/BIC kodovi (Split bank SWIFT/BIC codes) - Besplatno preuzimanje",
+    "description": "Popis: 5 bankovnih institucija u Split sa SWIFT/BIC kodovima — naziv banke, grad, podružnica i SWIFT kod. Razdvojeno po gradovima iz nacionalnog skupa hr-banke (78 zapisa) PeterNotenboom/SwiftCodes. Per-city split of the Croatian SWIFT/BIC list. Sadrži 5 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Banke u Split — SWIFT/BIC kodovi (Split bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Preuzmi Banke u Split — SWIFT/BIC kodovi (Split bank SWIFT/BIC codes) — 5 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 5 zapisa / 5 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

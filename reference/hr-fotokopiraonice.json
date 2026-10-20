@@ -1,0 +1,626 @@
+{
+  "id": "hr-fotokopiraonice",
+  "name": "Fotokopiraonice",
+  "title": "Fotokopiraonice",
+  "description": "Fotokopiraonice u Hrvatskoj (117 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=copyshop), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 117,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "abprint",
+      "latitude": 43.50855,
+      "longitude": 16.443164
+    },
+    {
+      "name": "Arena",
+      "latitude": 43.444969,
+      "longitude": 17.222155
+    },
+    {
+      "name": "B1 plakati",
+      "latitude": 45.822153,
+      "longitude": 16.007102
+    },
+    {
+      "name": "BARBAROSA d.o.o.",
+      "latitude": 45.808357,
+      "longitude": 15.929086
+    },
+    {
+      "name": "Best Copy",
+      "latitude": 45.786941,
+      "longitude": 15.949655
+    },
+    {
+      "name": "Biromat",
+      "latitude": 45.828051,
+      "longitude": 16.071582
+    },
+    {
+      "name": "Birotechnica",
+      "latitude": 46.000462,
+      "longitude": 15.926189
+    },
+    {
+      "name": "Cibo",
+      "latitude": 45.787365,
+      "longitude": 15.952314
+    },
+    {
+      "name": "color90",
+      "latitude": 45.48155,
+      "longitude": 16.778054
+    },
+    {
+      "name": "Control C",
+      "latitude": 44.041505,
+      "longitude": 16.194952
+    },
+    {
+      "name": "Copy Centar",
+      "latitude": 45.824481,
+      "longitude": 15.997577
+    },
+    {
+      "name": "Copy centar Marko",
+      "latitude": 45.159744,
+      "longitude": 18.012064
+    },
+    {
+      "name": "Copy DODO",
+      "latitude": 45.492025,
+      "longitude": 15.549044
+    },
+    {
+      "name": "Copy plus",
+      "latitude": 45.812543,
+      "longitude": 15.97193
+    },
+    {
+      "name": "Copy Print",
+      "latitude": 45.795749,
+      "longitude": 15.969544
+    },
+    {
+      "name": "Copy print",
+      "latitude": 45.810449,
+      "longitude": 15.968055
+    },
+    {
+      "name": "Copy Reklam",
+      "latitude": 45.799259,
+      "longitude": 15.949449
+    },
+    {
+      "name": "Copy Studio",
+      "latitude": 45.814059,
+      "longitude": 15.985269
+    },
+    {
+      "name": "Copy Zoma",
+      "latitude": 45.786338,
+      "longitude": 15.952323
+    },
+    {
+      "name": "Copymax",
+      "latitude": 45.816728,
+      "longitude": 16.003404
+    },
+    {
+      "name": "Croatiagraf d.o.o.",
+      "latitude": 45.947152,
+      "longitude": 16.607181
+    },
+    {
+      "name": "Croativno",
+      "latitude": 43.510914,
+      "longitude": 16.472965
+    },
+    {
+      "name": "Cvrčak",
+      "latitude": 45.55141,
+      "longitude": 18.695573
+    },
+    {
+      "name": "Daba Copy",
+      "latitude": 45.796316,
+      "longitude": 15.96048
+    },
+    {
+      "name": "Digitalni tisak",
+      "latitude": 45.482087,
+      "longitude": 15.541428
+    },
+    {
+      "name": "Dino tisk",
+      "latitude": 45.790202,
+      "longitude": 15.924742
+    },
+    {
+      "name": "Dinocopy",
+      "latitude": 45.155975,
+      "longitude": 18.014703
+    },
+    {
+      "name": "Dinocopy",
+      "latitude": 45.166199,
+      "longitude": 18.018361
+    },
+    {
+      "name": "Dot-studio",
+      "latitude": 46.389414,
+      "longitude": 16.428506
+    },
+    {
+      "name": "ETIC digitalna tiskara",
+      "latitude": 46.384252,
+      "longitude": 16.441582
+    },
+    {
+      "name": "Etitrade",
+      "latitude": 45.258122,
+      "longitude": 13.866449
+    },
+    {
+      "name": "Eurotisak",
+      "latitude": 45.798285,
+      "longitude": 15.913858
+    },
+    {
+      "name": "express foto",
+      "latitude": 45.814792,
+      "longitude": 15.935389
+    },
+    {
+      "name": "fingerprint",
+      "latitude": 45.807538,
+      "longitude": 15.961773
+    },
+    {
+      "name": "Foto & graphics studio Time",
+      "latitude": 45.800279,
+      "longitude": 15.953123
+    },
+    {
+      "name": "foto Duga",
+      "latitude": 45.799469,
+      "longitude": 15.951818
+    },
+    {
+      "name": "foto Ivona",
+      "latitude": 43.050854,
+      "longitude": 17.434246
+    },
+    {
+      "name": "Foto Ivona",
+      "latitude": 43.053104,
+      "longitude": 17.437145
+    },
+    {
+      "name": "Foto studio M",
+      "latitude": 45.802137,
+      "longitude": 15.976969
+    },
+    {
+      "name": "Fotocopy Sunčica",
+      "latitude": 45.33473,
+      "longitude": 17.680934
+    },
+    {
+      "name": "fotokopiraona Pravi smjer",
+      "latitude": 45.787482,
+      "longitude": 15.950378
+    },
+    {
+      "name": "Fotokopiraona Vrbik",
+      "latitude": 45.798802,
+      "longitude": 15.96775
+    },
+    {
+      "name": "Fotokopirnica Antonela",
+      "latitude": 43.50975,
+      "longitude": 16.438696
+    },
+    {
+      "name": "Fotokopirnica Classic",
+      "latitude": 45.32803,
+      "longitude": 14.464184
+    },
+    {
+      "name": "Fravero",
+      "latitude": 45.790217,
+      "longitude": 15.924198
+    },
+    {
+      "name": "Frontline",
+      "latitude": 43.513145,
+      "longitude": 16.447072
+    },
+    {
+      "name": "grafika-grafoprint",
+      "latitude": 45.802744,
+      "longitude": 15.974815
+    },
+    {
+      "name": "Grafodrom",
+      "latitude": 44.112421,
+      "longitude": 15.22732
+    },
+    {
+      "name": "Grafotext",
+      "latitude": 43.516593,
+      "longitude": 16.452895
+    },
+    {
+      "name": "Grafoton",
+      "latitude": 45.803236,
+      "longitude": 15.92574
+    },
+    {
+      "name": "GuTel",
+      "latitude": 45.808264,
+      "longitude": 15.892492
+    },
+    {
+      "name": "K.M.K.-Papir d.o.o.",
+      "latitude": 45.792324,
+      "longitude": 15.937418
+    },
+    {
+      "name": "KB color d.o.o.",
+      "latitude": 45.901628,
+      "longitude": 16.835103
+    },
+    {
+      "name": "Klamerica dizajn",
+      "latitude": 45.79825,
+      "longitude": 15.945776
+    },
+    {
+      "name": "knjižara i papirnica Vrbani",
+      "latitude": 45.792588,
+      "longitude": 15.914654
+    },
+    {
+      "name": "kopi centar Dado",
+      "latitude": 45.799388,
+      "longitude": 15.979919
+    },
+    {
+      "name": "Kopija promet",
+      "latitude": 45.808248,
+      "longitude": 15.992791
+    },
+    {
+      "name": "Kopiraona Copy Studio",
+      "latitude": 45.786982,
+      "longitude": 15.949564
+    },
+    {
+      "name": "Kopiring",
+      "latitude": 43.518017,
+      "longitude": 16.441985
+    },
+    {
+      "name": "krex",
+      "latitude": 45.480447,
+      "longitude": 16.777164
+    },
+    {
+      "name": "Kupi media",
+      "latitude": 45.792155,
+      "longitude": 15.960473
+    },
+    {
+      "name": "Lemon Bee Fotocopy",
+      "latitude": 45.815719,
+      "longitude": 16.009548
+    },
+    {
+      "name": "Lido",
+      "latitude": 43.73515,
+      "longitude": 15.892735
+    },
+    {
+      "name": "Luka obrt",
+      "latitude": 43.446249,
+      "longitude": 16.688805
+    },
+    {
+      "name": "Mail Boxes Etc",
+      "latitude": 44.871798,
+      "longitude": 13.849473
+    },
+    {
+      "name": "Mail Boxes Etc.",
+      "latitude": 45.804321,
+      "longitude": 15.996742
+    },
+    {
+      "name": "Mail Boxes Etc.",
+      "latitude": 46.024843,
+      "longitude": 16.546604
+    },
+    {
+      "name": "Manuela",
+      "latitude": 46.307764,
+      "longitude": 16.337626
+    },
+    {
+      "name": "Martini dizajn",
+      "latitude": 45.802228,
+      "longitude": 16.002476
+    },
+    {
+      "name": "masterprint",
+      "latitude": 45.804134,
+      "longitude": 15.953796
+    },
+    {
+      "name": "Matrix",
+      "latitude": 43.294481,
+      "longitude": 17.020094
+    },
+    {
+      "name": "Maximus",
+      "latitude": 44.11236,
+      "longitude": 15.227381
+    },
+    {
+      "name": "Melior",
+      "latitude": 45.363458,
+      "longitude": 14.324795
+    },
+    {
+      "name": "Moj kod spektar",
+      "latitude": 43.513802,
+      "longitude": 16.44272
+    },
+    {
+      "name": "Moj Otisak",
+      "latitude": 45.851677,
+      "longitude": 15.812964
+    },
+    {
+      "name": "Nika",
+      "latitude": 45.489194,
+      "longitude": 15.541023
+    },
+    {
+      "name": "offset tisak Trebotić",
+      "latitude": 45.793321,
+      "longitude": 15.918575
+    },
+    {
+      "name": "Offset.hr",
+      "latitude": 45.808016,
+      "longitude": 15.846096
+    },
+    {
+      "name": "Oneumgraf doo",
+      "latitude": 43.443009,
+      "longitude": 16.684559
+    },
+    {
+      "name": "Orion",
+      "latitude": 43.516913,
+      "longitude": 16.472927
+    },
+    {
+      "name": "Orion reklame",
+      "latitude": 45.81042,
+      "longitude": 15.896077
+    },
+    {
+      "name": "Pečat",
+      "latitude": 43.445535,
+      "longitude": 16.686129
+    },
+    {
+      "name": "Print Studio Pula",
+      "latitude": 44.867105,
+      "longitude": 13.851073
+    },
+    {
+      "name": "Print Studio TVORNICA SNOVA",
+      "latitude": 44.044585,
+      "longitude": 16.216374
+    },
+    {
+      "name": "Printaonica",
+      "latitude": 45.816115,
+      "longitude": 16.000762
+    },
+    {
+      "name": "Printeraj",
+      "latitude": 45.812077,
+      "longitude": 15.950468
+    },
+    {
+      "name": "Printim d.o.o.",
+      "latitude": 44.867001,
+      "longitude": 13.851081
+    },
+    {
+      "name": "Printshop",
+      "latitude": 44.151587,
+      "longitude": 15.238392
+    },
+    {
+      "name": "Printstudio",
+      "latitude": 45.809655,
+      "longitude": 15.979908
+    },
+    {
+      "name": "proming HCH",
+      "latitude": 45.788817,
+      "longitude": 15.910849
+    },
+    {
+      "name": "Proming HCH",
+      "latitude": 45.795646,
+      "longitude": 15.935447
+    },
+    {
+      "name": "Prosvjeta",
+      "latitude": 45.802476,
+      "longitude": 15.929689
+    },
+    {
+      "name": "Rebić",
+      "latitude": 43.448247,
+      "longitude": 17.212429
+    },
+    {
+      "name": "ScripTa Rijeka",
+      "latitude": 45.328162,
+      "longitude": 14.440282
+    },
+    {
+      "name": "sitotis",
+      "latitude": 45.798103,
+      "longitude": 15.769174
+    },
+    {
+      "name": "Sitotisak VD",
+      "latitude": 45.804498,
+      "longitude": 15.91596
+    },
+    {
+      "name": "Skripta",
+      "latitude": 45.556704,
+      "longitude": 18.688761
+    },
+    {
+      "name": "Sold Out",
+      "latitude": 44.122196,
+      "longitude": 15.227872
+    },
+    {
+      "name": "Spektar copy",
+      "latitude": 45.812444,
+      "longitude": 15.985602
+    },
+    {
+      "name": "Spektar solutions",
+      "latitude": 45.814011,
+      "longitude": 15.982815
+    },
+    {
+      "name": "Tehničar copyservis",
+      "latitude": 45.803593,
+      "longitude": 15.9591
+    },
+    {
+      "name": "Tehničar copyservis",
+      "latitude": 46.306667,
+      "longitude": 16.346083
+    },
+    {
+      "name": "Tehničar kopirni centar",
+      "latitude": 43.512961,
+      "longitude": 16.444041
+    },
+    {
+      "name": "Tiskara Dvornik",
+      "latitude": 43.507456,
+      "longitude": 16.475648
+    },
+    {
+      "name": "Tiskara Kolarić",
+      "latitude": 45.810401,
+      "longitude": 15.922915
+    },
+    {
+      "name": "Tiskara Zagreb d.o.o.",
+      "latitude": 45.783689,
+      "longitude": 16.034898
+    },
+    {
+      "name": "Tiskara Žalac",
+      "latitude": 45.479745,
+      "longitude": 15.547862
+    },
+    {
+      "name": "Turbo copy",
+      "latitude": 45.155991,
+      "longitude": 18.014978
+    },
+    {
+      "name": "Ve-ron",
+      "latitude": 45.793424,
+      "longitude": 15.9413
+    },
+    {
+      "name": "Veseli Dućan",
+      "latitude": 45.797159,
+      "longitude": 15.935629
+    },
+    {
+      "name": "Zadar Tehnika d.o.o.",
+      "latitude": 44.112885,
+      "longitude": 15.23899
+    },
+    {
+      "name": "ZAG Imotski",
+      "latitude": 43.444896,
+      "longitude": 17.220009
+    },
+    {
+      "name": "Zebra",
+      "latitude": 45.792346,
+      "longitude": 15.960499
+    },
+    {
+      "name": "zona tri",
+      "latitude": 45.819053,
+      "longitude": 16.034101
+    },
+    {
+      "name": "Čvor",
+      "latitude": 45.897622,
+      "longitude": 16.83785
+    },
+    {
+      "name": "Šime",
+      "latitude": 43.508001,
+      "longitude": 16.467099
+    },
+    {
+      "name": "Žuta kopiraona",
+      "latitude": 45.81071,
+      "longitude": 15.971378
+    }
+  ],
+  "meta": {
+    "title": "Fotokopiraonice - Besplatno preuzimanje",
+    "description": "Fotokopiraonice u Hrvatskoj (117 zapisa) — točke interesa iz OpenStreetMapa (oznaka shop=copyshop), izrez EU-POIS/HR. Sadrži 117 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Fotokopiraonice | ListBase",
+    "seo_description": "Preuzmi Fotokopiraonice — 117 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 117 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

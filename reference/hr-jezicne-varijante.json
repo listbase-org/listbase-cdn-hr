@@ -1,0 +1,236 @@
+{
+  "id": "hr-jezicne-varijante",
+  "name": "Jezične varijante — hrvatski nazivi (CLDR)",
+  "title": "Jezične varijante — hrvatski nazivi (CLDR)",
+  "description": "BCP 47 kodovi jezičnih varijanti i njihovi hrvatski nazivi iz CLDR hr lokala.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "1901",
+      "naziv": "tradicionalan njemački pravopis"
+    },
+    {
+      "id": 2,
+      "code": "1994",
+      "naziv": "standardizirani resian pravopis"
+    },
+    {
+      "id": 3,
+      "code": "1996",
+      "naziv": "njemačka ortografija iz 1996."
+    },
+    {
+      "id": 4,
+      "code": "1606NICT",
+      "naziv": "kasni srednjofrancuski do 1606."
+    },
+    {
+      "id": 5,
+      "code": "1694ACAD",
+      "naziv": "rani moderni francuski"
+    },
+    {
+      "id": 6,
+      "code": "1959ACAD",
+      "naziv": "akademski"
+    },
+    {
+      "id": 7,
+      "code": "ALUKU",
+      "naziv": "aluku dijalekt"
+    },
+    {
+      "id": 8,
+      "code": "AREVELA",
+      "naziv": "istočno-armenijski"
+    },
+    {
+      "id": 9,
+      "code": "AREVMDA",
+      "naziv": "zapadno-armenijski"
+    },
+    {
+      "id": 10,
+      "code": "BAKU1926",
+      "naziv": "unificirana turska abeceda"
+    },
+    {
+      "id": 11,
+      "code": "BISKE",
+      "naziv": "san giorgio/bila dijalekt"
+    },
+    {
+      "id": 12,
+      "code": "BOONT",
+      "naziv": "boontling"
+    },
+    {
+      "id": 13,
+      "code": "EMODENG",
+      "naziv": "rani moderni engleski"
+    },
+    {
+      "id": 14,
+      "code": "FONIPA",
+      "naziv": "IPA fonetika"
+    },
+    {
+      "id": 15,
+      "code": "FONUPA",
+      "naziv": "UPA fonetika"
+    },
+    {
+      "id": 16,
+      "code": "KKCOR",
+      "naziv": "Uobičajeni pravopis"
+    },
+    {
+      "id": 17,
+      "code": "KSCOR",
+      "naziv": "standardna ortografija"
+    },
+    {
+      "id": 18,
+      "code": "LIPAW",
+      "naziv": "lipovački dijalekt resian jezika"
+    },
+    {
+      "id": 19,
+      "code": "METELKO",
+      "naziv": "metelčica"
+    },
+    {
+      "id": 20,
+      "code": "MONOTON",
+      "naziv": "monotono"
+    },
+    {
+      "id": 21,
+      "code": "NEDIS",
+      "naziv": "natisone dijalekt"
+    },
+    {
+      "id": 22,
+      "code": "NJIVA",
+      "naziv": "Gniva/Njiva dijalekt"
+    },
+    {
+      "id": 23,
+      "code": "NULIK",
+      "naziv": "moderni volapuk"
+    },
+    {
+      "id": 24,
+      "code": "OSOJS",
+      "naziv": "oseacco/osojane dijalekt"
+    },
+    {
+      "id": 25,
+      "code": "PAMAKA",
+      "naziv": "pamaka dijalekt"
+    },
+    {
+      "id": 26,
+      "code": "PINYIN",
+      "naziv": "Pinyin romanizacija"
+    },
+    {
+      "id": 27,
+      "code": "POLYTON",
+      "naziv": "politono"
+    },
+    {
+      "id": 28,
+      "code": "POSIX",
+      "naziv": "Računalo"
+    },
+    {
+      "id": 29,
+      "code": "REVISED",
+      "naziv": "izmijenjen pravopis"
+    },
+    {
+      "id": 30,
+      "code": "ROZAJ",
+      "naziv": "resian"
+    },
+    {
+      "id": 31,
+      "code": "SAAHO",
+      "naziv": "saho"
+    },
+    {
+      "id": 32,
+      "code": "SCOTLAND",
+      "naziv": "škotski standardni engleski"
+    },
+    {
+      "id": 33,
+      "code": "SCOUSE",
+      "naziv": "scouse"
+    },
+    {
+      "id": 34,
+      "code": "SOLBA",
+      "naziv": "stolvizza/solbica dijalekt"
+    },
+    {
+      "id": 35,
+      "code": "TARASK",
+      "naziv": "taraskievica pravopis"
+    },
+    {
+      "id": 36,
+      "code": "UCCOR",
+      "naziv": "ujednačena ortografija"
+    },
+    {
+      "id": 37,
+      "code": "UCRCOR",
+      "naziv": "ujednačena revidirana ortografija"
+    },
+    {
+      "id": 38,
+      "code": "VALENCIA",
+      "naziv": "valencijski"
+    },
+    {
+      "id": 39,
+      "code": "WADEGILE",
+      "naziv": "Wade-Giles romanizacija"
+    }
+  ],
+  "meta": {
+    "title": "Jezične varijante — hrvatski nazivi (CLDR) - Besplatno preuzimanje",
+    "description": "BCP 47 kodovi jezičnih varijanti i njihovi hrvatski nazivi iz CLDR hr lokala. Sadrži 39 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Jezične varijante — hrvatski nazivi (CLDR) | ListBase",
+    "seo_description": "Preuzmi Jezične varijante — hrvatski nazivi (CLDR) — 39 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 39 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

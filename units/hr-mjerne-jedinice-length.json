@@ -1,0 +1,340 @@
+{
+  "id": "hr-mjerne-jedinice-length",
+  "name": "Mjerne jedinice — kategorija 'length' (31)",
+  "title": "Mjerne jedinice — kategorija 'length' (31)",
+  "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'length' s hrvatskim nazivima.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "naziv_uski",
+      "label": "Naziv Uski",
+      "type": "string"
+    },
+    {
+      "key": "obrazac",
+      "label": "Obrazac",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "length-astronomical-unit",
+      "kategorija": "length",
+      "naziv": "astronomske jedinice",
+      "kratica": "au",
+      "naziv_uski": "au",
+      "obrazac": "{0} astronomskih jedinica"
+    },
+    {
+      "id": 2,
+      "unit_code": "length-centimeter",
+      "kategorija": "length",
+      "naziv": "centimetri",
+      "kratica": "cm",
+      "naziv_uski": "cm",
+      "obrazac": "{0} centimetara"
+    },
+    {
+      "id": 3,
+      "unit_code": "length-chain",
+      "kategorija": "length",
+      "naziv": "chain",
+      "kratica": "chain",
+      "naziv_uski": "chain",
+      "obrazac": "{0} chain"
+    },
+    {
+      "id": 4,
+      "unit_code": "length-decimeter",
+      "kategorija": "length",
+      "naziv": "decimetri",
+      "kratica": "dm",
+      "naziv_uski": "dm",
+      "obrazac": "{0} decimetara"
+    },
+    {
+      "id": 5,
+      "unit_code": "length-earth-radius",
+      "kategorija": "length",
+      "naziv": "srednji polumjer Zemlje",
+      "kratica": "R⊕",
+      "naziv_uski": "R⊕",
+      "obrazac": "{0} srednjih polumjera Zemlje"
+    },
+    {
+      "id": 6,
+      "unit_code": "length-fathom",
+      "kategorija": "length",
+      "naziv": "hvati",
+      "kratica": "hv",
+      "naziv_uski": "hv",
+      "obrazac": "{0} hvati"
+    },
+    {
+      "id": 7,
+      "unit_code": "length-foot",
+      "kategorija": "length",
+      "naziv": "stope",
+      "kratica": "stope",
+      "naziv_uski": "ft",
+      "obrazac": "{0} stopa"
+    },
+    {
+      "id": 8,
+      "unit_code": "length-furlong",
+      "kategorija": "length",
+      "naziv": "furlonzi",
+      "kratica": "furlonzi",
+      "naziv_uski": "fur",
+      "obrazac": "{0} furlonga"
+    },
+    {
+      "id": 9,
+      "unit_code": "length-inch",
+      "kategorija": "length",
+      "naziv": "inči",
+      "kratica": "inči",
+      "naziv_uski": "in",
+      "obrazac": "{0} inča"
+    },
+    {
+      "id": 10,
+      "unit_code": "length-jo-jp",
+      "kategorija": "length",
+      "naziv": "jo [JP]",
+      "kratica": "jo [JP]",
+      "naziv_uski": "jo [JP]",
+      "obrazac": "{0} jo [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "length-ken",
+      "kategorija": "length",
+      "naziv": "ken [JP]",
+      "kratica": "ken [JP]",
+      "naziv_uski": "ken [JP]",
+      "obrazac": "{0} ken [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "length-kilometer",
+      "kategorija": "length",
+      "naziv": "kilometri",
+      "kratica": "km",
+      "naziv_uski": "km",
+      "obrazac": "{0} kilometara"
+    },
+    {
+      "id": 13,
+      "unit_code": "length-light-year",
+      "kategorija": "length",
+      "naziv": "svjetlosne godine",
+      "kratica": "svjetlosne g.",
+      "naziv_uski": "ly",
+      "obrazac": "{0} svjetlosnih godina"
+    },
+    {
+      "id": 14,
+      "unit_code": "length-meter",
+      "kategorija": "length",
+      "naziv": "metri",
+      "kratica": "m",
+      "naziv_uski": "m",
+      "obrazac": "{0} metara"
+    },
+    {
+      "id": 15,
+      "unit_code": "length-micrometer",
+      "kategorija": "length",
+      "naziv": "mikrometri",
+      "kratica": "μm",
+      "naziv_uski": "μm",
+      "obrazac": "{0} mikrometara"
+    },
+    {
+      "id": 16,
+      "unit_code": "length-mile",
+      "kategorija": "length",
+      "naziv": "milje",
+      "kratica": "mi",
+      "naziv_uski": "mi",
+      "obrazac": "{0} milja"
+    },
+    {
+      "id": 17,
+      "unit_code": "length-mile-scandinavian",
+      "kategorija": "length",
+      "naziv": "skandinavska milja",
+      "kratica": "smi",
+      "naziv_uski": "smi",
+      "obrazac": "{0} skandinavskih milja"
+    },
+    {
+      "id": 18,
+      "unit_code": "length-millimeter",
+      "kategorija": "length",
+      "naziv": "milimetri",
+      "kratica": "mm",
+      "naziv_uski": "mm",
+      "obrazac": "{0} milimetara"
+    },
+    {
+      "id": 19,
+      "unit_code": "length-nanometer",
+      "kategorija": "length",
+      "naziv": "nanometri",
+      "kratica": "nm",
+      "naziv_uski": "nm",
+      "obrazac": "{0} nanometara"
+    },
+    {
+      "id": 20,
+      "unit_code": "length-nautical-mile",
+      "kategorija": "length",
+      "naziv": "nautičke milje",
+      "kratica": "nmi",
+      "naziv_uski": "nmi",
+      "obrazac": "{0} nautičkih milja"
+    },
+    {
+      "id": 21,
+      "unit_code": "length-parsec",
+      "kategorija": "length",
+      "naziv": "parseci",
+      "kratica": "pc",
+      "naziv_uski": "pc",
+      "obrazac": "{0} parseka"
+    },
+    {
+      "id": 22,
+      "unit_code": "length-picometer",
+      "kategorija": "length",
+      "naziv": "pikometri",
+      "kratica": "pm",
+      "naziv_uski": "pm",
+      "obrazac": "{0} pikometara"
+    },
+    {
+      "id": 23,
+      "unit_code": "length-point",
+      "kategorija": "length",
+      "naziv": "tipografske točke",
+      "kratica": "tipografske točke",
+      "naziv_uski": "pt",
+      "obrazac": "{0} tipografskih točaka"
+    },
+    {
+      "id": 24,
+      "unit_code": "length-ri-jp",
+      "kategorija": "length",
+      "naziv": "ri [JP]",
+      "kratica": "ri [JP]",
+      "naziv_uski": "ri [JP]",
+      "obrazac": "{0} ri [JP]"
+    },
+    {
+      "id": 25,
+      "unit_code": "length-rin",
+      "kategorija": "length",
+      "naziv": "rin [JP]",
+      "kratica": "rin [JP]",
+      "naziv_uski": "rin [JP]",
+      "obrazac": "{0} rin [JP]"
+    },
+    {
+      "id": 26,
+      "unit_code": "length-rod",
+      "kategorija": "length",
+      "naziv": "rod",
+      "kratica": "rod",
+      "naziv_uski": "rod",
+      "obrazac": "{0} rod"
+    },
+    {
+      "id": 27,
+      "unit_code": "length-shaku-cloth",
+      "kategorija": "length",
+      "naziv": "shaku [cloth, JP]",
+      "kratica": "shaku [cloth, JP]",
+      "naziv_uski": "shaku [cloth, JP]",
+      "obrazac": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 28,
+      "unit_code": "length-shaku-length",
+      "kategorija": "length",
+      "naziv": "shaku [JP]",
+      "kratica": "shaku [JP]",
+      "naziv_uski": "shaku [JP]",
+      "obrazac": "{0} shaku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "length-solar-radius",
+      "kategorija": "length",
+      "naziv": "Sunčevi polumjeri",
+      "kratica": "R☉",
+      "naziv_uski": "R☉",
+      "obrazac": "{0} Sunčevih polumjera"
+    },
+    {
+      "id": 30,
+      "unit_code": "length-sun",
+      "kategorija": "length",
+      "naziv": "sun [JP]",
+      "kratica": "sun [JP]",
+      "naziv_uski": "sun [JP]",
+      "obrazac": "{0} sun [JP]"
+    },
+    {
+      "id": 31,
+      "unit_code": "length-yard",
+      "kategorija": "length",
+      "naziv": "jardi",
+      "kratica": "jardi",
+      "naziv_uski": "yd",
+      "obrazac": "{0} jardi"
+    }
+  ],
+  "meta": {
+    "title": "Mjerne jedinice — kategorija 'length' (31) - Besplatno preuzimanje",
+    "description": "Mjerne jedinice CLDR hr lokala iz kategorije 'length' s hrvatskim nazivima. Sadrži 31 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Mjerne jedinice — kategorija 'length' (31) | ListBase",
+    "seo_description": "Preuzmi Mjerne jedinice — kategorija 'length' (31) — 31 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 31 zapisa / 7 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}

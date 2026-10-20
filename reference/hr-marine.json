@@ -1,0 +1,1161 @@
+{
+  "id": "hr-marine",
+  "name": "Marine",
+  "title": "Marine",
+  "description": "Marine u Hrvatskoj (224 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=marina), izrez EU-POIS/HR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 224,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ACI - Marina Mali Losinj",
+      "latitude": 44.543642,
+      "longitude": 14.460455
+    },
+    {
+      "name": "ACI Marina",
+      "latitude": 42.958813,
+      "longitude": 17.135429
+    },
+    {
+      "name": "ACI Marina  Žut (Recepcija)",
+      "latitude": 43.882875,
+      "longitude": 15.2848
+    },
+    {
+      "name": "ACI Marina Cres",
+      "latitude": 44.947832,
+      "longitude": 14.415674
+    },
+    {
+      "name": "ACI Marina Dubrovnik",
+      "latitude": 42.670182,
+      "longitude": 18.125361
+    },
+    {
+      "name": "ACI Marina Jezera",
+      "latitude": 43.783529,
+      "longitude": 15.645089
+    },
+    {
+      "name": "ACI Marina Korčula",
+      "latitude": 42.958099,
+      "longitude": 17.136935
+    },
+    {
+      "name": "ACI Marina Milna",
+      "latitude": 43.326078,
+      "longitude": 16.448057
+    },
+    {
+      "name": "ACI Marina Opatija",
+      "latitude": 45.314994,
+      "longitude": 14.289358
+    },
+    {
+      "name": "ACI marina Palmižana",
+      "latitude": 43.16252,
+      "longitude": 16.393783
+    },
+    {
+      "name": "ACI Marina Piškera",
+      "latitude": 43.759026,
+      "longitude": 15.345633
+    },
+    {
+      "name": "ACI marina Pomer",
+      "latitude": 44.821175,
+      "longitude": 13.902652
+    },
+    {
+      "name": "ACI Marina Pula",
+      "latitude": 44.873012,
+      "longitude": 13.844539
+    },
+    {
+      "name": "ACI Marina Rab",
+      "latitude": 44.757095,
+      "longitude": 14.763112
+    },
+    {
+      "name": "ACI Marina Rovinj",
+      "latitude": 45.075553,
+      "longitude": 13.635649
+    },
+    {
+      "name": "ACI Marina Skradin",
+      "latitude": 43.816602,
+      "longitude": 15.920614
+    },
+    {
+      "name": "ACI Marina Split",
+      "latitude": 43.501974,
+      "longitude": 16.430937
+    },
+    {
+      "name": "ACI Marina Supetarska Draga",
+      "latitude": 44.803555,
+      "longitude": 14.725444
+    },
+    {
+      "name": "ACI Marina Trogir",
+      "latitude": 43.513578,
+      "longitude": 16.24836
+    },
+    {
+      "name": "ACI Marina Umag",
+      "latitude": 45.439424,
+      "longitude": 13.514067
+    },
+    {
+      "name": "ACI marina Vodice",
+      "latitude": 43.757817,
+      "longitude": 15.778335
+    },
+    {
+      "name": "ACI Marina Vrboska",
+      "latitude": 43.179068,
+      "longitude": 16.675567
+    },
+    {
+      "name": "ACI Marina Šimuni",
+      "latitude": 44.470792,
+      "longitude": 14.954316
+    },
+    {
+      "name": "ACI Marina Žut",
+      "latitude": 43.88253,
+      "longitude": 15.285498
+    },
+    {
+      "name": "ACI Marina „Veljko Barbieri“ Slano",
+      "latitude": 42.782953,
+      "longitude": 17.889272
+    },
+    {
+      "name": "Admiral",
+      "latitude": 45.327564,
+      "longitude": 14.300732
+    },
+    {
+      "name": "Agana",
+      "latitude": 43.513321,
+      "longitude": 16.112074
+    },
+    {
+      "name": "Ankerplatz Ilovik",
+      "latitude": 44.463086,
+      "longitude": 14.551253
+    },
+    {
+      "name": "Barcsi hajókikötő",
+      "latitude": 45.951055,
+      "longitude": 17.446373
+    },
+    {
+      "name": "Batalaža",
+      "latitude": 44.061491,
+      "longitude": 15.210813
+    },
+    {
+      "name": "Bobovišća",
+      "latitude": 43.35066,
+      "longitude": 16.462021
+    },
+    {
+      "name": "Bojenfeld Badija",
+      "latitude": 42.950542,
+      "longitude": 17.163152
+    },
+    {
+      "name": "Božava",
+      "latitude": 44.139406,
+      "longitude": 14.907044
+    },
+    {
+      "name": "Brbinj",
+      "latitude": 44.084397,
+      "longitude": 14.996198
+    },
+    {
+      "name": "Bucht Soline 1, Insel Pašman",
+      "latitude": 43.931357,
+      "longitude": 15.351368
+    },
+    {
+      "name": "Bucht Soline 2, Insel Pašman",
+      "latitude": 43.925654,
+      "longitude": 15.35964
+    },
+    {
+      "name": "Bucht Sv. Nikola, Insel Olib",
+      "latitude": 44.353569,
+      "longitude": 14.774209
+    },
+    {
+      "name": "Bucht Triluke",
+      "latitude": 43.890931,
+      "longitude": 15.44166
+    },
+    {
+      "name": "Camp Slatina",
+      "latitude": 44.816133,
+      "longitude": 14.341163
+    },
+    {
+      "name": "Core Lounge",
+      "latitude": 43.81141,
+      "longitude": 15.300354
+    },
+    {
+      "name": "D-Marin Borik",
+      "latitude": 44.129993,
+      "longitude": 15.210376
+    },
+    {
+      "name": "D-Marin Dalmacija",
+      "latitude": 44.054113,
+      "longitude": 15.299977
+    },
+    {
+      "name": "D-Marin Mandalina",
+      "latitude": 43.719791,
+      "longitude": 15.898761
+    },
+    {
+      "name": "Diklo",
+      "latitude": 44.146604,
+      "longitude": 15.208895
+    },
+    {
+      "name": "Drage",
+      "latitude": 43.889068,
+      "longitude": 15.534531
+    },
+    {
+      "name": "Drage",
+      "latitude": 43.891007,
+      "longitude": 15.531833
+    },
+    {
+      "name": "Draženica",
+      "latitude": 44.127029,
+      "longitude": 15.219968
+    },
+    {
+      "name": "Drvenik Veliki",
+      "latitude": 43.45173,
+      "longitude": 16.142909
+    },
+    {
+      "name": "Fažana",
+      "latitude": 44.927905,
+      "longitude": 13.801612
+    },
+    {
+      "name": "Goli otok",
+      "latitude": 44.840712,
+      "longitude": 14.804265
+    },
+    {
+      "name": "Hotelska marina",
+      "latitude": 43.935457,
+      "longitude": 15.44282
+    },
+    {
+      "name": "Igrane",
+      "latitude": 43.194349,
+      "longitude": 17.139852
+    },
+    {
+      "name": "Igrane",
+      "latitude": 43.195781,
+      "longitude": 17.143946
+    },
+    {
+      "name": "Ilovik",
+      "latitude": 44.461788,
+      "longitude": 14.548647
+    },
+    {
+      "name": "Insel Vrgada A u. B (Westteil)",
+      "latitude": 43.862195,
+      "longitude": 15.501626
+    },
+    {
+      "name": "Jadranovo",
+      "latitude": 45.227033,
+      "longitude": 14.612951
+    },
+    {
+      "name": "Jazine",
+      "latitude": 44.111705,
+      "longitude": 15.233719
+    },
+    {
+      "name": "Jedriličarski klub Labud",
+      "latitude": 43.501608,
+      "longitude": 16.428893
+    },
+    {
+      "name": "Jedriličarski klub Mornar",
+      "latitude": 43.502117,
+      "longitude": 16.427826
+    },
+    {
+      "name": "Kikötőhely",
+      "latitude": 45.772687,
+      "longitude": 18.059179
+    },
+    {
+      "name": "Komunalna Lučica Luka Korčula (PORTO UŠ)",
+      "latitude": 42.953575,
+      "longitude": 17.140023
+    },
+    {
+      "name": "Konoba Levrnaka",
+      "latitude": 43.820935,
+      "longitude": 15.255271
+    },
+    {
+      "name": "Konoba Opat",
+      "latitude": 43.73931,
+      "longitude": 15.452813
+    },
+    {
+      "name": "Konoba Piccolo",
+      "latitude": 43.726718,
+      "longitude": 15.476605
+    },
+    {
+      "name": "Konoba Pipo",
+      "latitude": 43.339228,
+      "longitude": 16.79541
+    },
+    {
+      "name": "Konoba Sandra",
+      "latitude": 43.880244,
+      "longitude": 15.286464
+    },
+    {
+      "name": "Konoba Smokvica",
+      "latitude": 43.725913,
+      "longitude": 15.476752
+    },
+    {
+      "name": "Krilo Jesenice",
+      "latitude": 43.460036,
+      "longitude": 16.598838
+    },
+    {
+      "name": "Luka",
+      "latitude": 43.979003,
+      "longitude": 15.09754
+    },
+    {
+      "name": "Luka",
+      "latitude": 45.306029,
+      "longitude": 14.5358
+    },
+    {
+      "name": "Luka Bakarac",
+      "latitude": 45.280502,
+      "longitude": 14.580992
+    },
+    {
+      "name": "Luka Cres",
+      "latitude": 44.95889,
+      "longitude": 14.408251
+    },
+    {
+      "name": "Luka Crikvenica",
+      "latitude": 45.17289,
+      "longitude": 14.688227
+    },
+    {
+      "name": "Luka Fortica",
+      "latitude": 44.322792,
+      "longitude": 15.254406
+    },
+    {
+      "name": "Luka Jelsa",
+      "latitude": 43.162527,
+      "longitude": 16.694332
+    },
+    {
+      "name": "Luka Karbuni",
+      "latitude": 42.91491,
+      "longitude": 16.730698
+    },
+    {
+      "name": "Luka Koromačna",
+      "latitude": 44.78592,
+      "longitude": 14.447961
+    },
+    {
+      "name": "Luka Kraljevica",
+      "latitude": 45.275021,
+      "longitude": 14.565256
+    },
+    {
+      "name": "Luka Krapanj",
+      "latitude": 43.672198,
+      "longitude": 15.919048
+    },
+    {
+      "name": "Luka Mandre",
+      "latitude": 44.477778,
+      "longitude": 14.919105
+    },
+    {
+      "name": "Luka Novi Vinodolski",
+      "latitude": 45.128415,
+      "longitude": 14.785216
+    },
+    {
+      "name": "Luka Omorika",
+      "latitude": 45.187925,
+      "longitude": 14.673105
+    },
+    {
+      "name": "Luka Pag",
+      "latitude": 44.442361,
+      "longitude": 15.053494
+    },
+    {
+      "name": "Luka Pazdehova",
+      "latitude": 45.192896,
+      "longitude": 14.665551
+    },
+    {
+      "name": "Luka Podvorska",
+      "latitude": 45.170439,
+      "longitude": 14.696352
+    },
+    {
+      "name": "Luka Rogoznica",
+      "latitude": 43.526222,
+      "longitude": 15.968917
+    },
+    {
+      "name": "Luka Sali",
+      "latitude": 43.936588,
+      "longitude": 15.166874
+    },
+    {
+      "name": "Luka Selce",
+      "latitude": 45.157255,
+      "longitude": 14.718322
+    },
+    {
+      "name": "Luka Slana",
+      "latitude": 45.15149,
+      "longitude": 14.722268
+    },
+    {
+      "name": "Luka Susak",
+      "latitude": 44.512799,
+      "longitude": 14.310278
+    },
+    {
+      "name": "Luka Tkon",
+      "latitude": 43.922722,
+      "longitude": 15.418052
+    },
+    {
+      "name": "Luka Ufratar",
+      "latitude": 44.664662,
+      "longitude": 14.398495
+    },
+    {
+      "name": "Luka Vir",
+      "latitude": 44.296788,
+      "longitude": 15.084782
+    },
+    {
+      "name": "Luka Volosko",
+      "latitude": 45.34801,
+      "longitude": 14.320916
+    },
+    {
+      "name": "Luka Volosko – privezište Preluk",
+      "latitude": 45.355689,
+      "longitude": 14.331928
+    },
+    {
+      "name": "Luka Vrh Lima",
+      "latitude": 45.13138,
+      "longitude": 13.733824
+    },
+    {
+      "name": "Luka Zablaće",
+      "latitude": 43.706178,
+      "longitude": 15.867026
+    },
+    {
+      "name": "Luka Zapuntel",
+      "latitude": 44.261187,
+      "longitude": 14.798369
+    },
+    {
+      "name": "Luka Črni mul",
+      "latitude": 45.182136,
+      "longitude": 14.679766
+    },
+    {
+      "name": "Luka Šibenik",
+      "latitude": 43.733589,
+      "longitude": 15.890752
+    },
+    {
+      "name": "Lučica Ičići",
+      "latitude": 45.310438,
+      "longitude": 14.286257
+    },
+    {
+      "name": "Lučica Jadran",
+      "latitude": 43.502221,
+      "longitude": 16.423584
+    },
+    {
+      "name": "Lučica Porat",
+      "latitude": 45.121724,
+      "longitude": 14.494996
+    },
+    {
+      "name": "Lučica Slatine",
+      "latitude": 43.499361,
+      "longitude": 16.339542
+    },
+    {
+      "name": "Lučica Spinut",
+      "latitude": 43.515677,
+      "longitude": 16.418021
+    },
+    {
+      "name": "Lučica Split",
+      "latitude": 43.515387,
+      "longitude": 16.421277
+    },
+    {
+      "name": "Lučica Strožanac",
+      "latitude": 43.501608,
+      "longitude": 16.532993
+    },
+    {
+      "name": "Lučica Vantačići",
+      "latitude": 45.11615,
+      "longitude": 14.504819
+    },
+    {
+      "name": "M-Marin Matešić",
+      "latitude": 44.156238,
+      "longitude": 15.195848
+    },
+    {
+      "name": "Malinska",
+      "latitude": 45.125261,
+      "longitude": 14.526168
+    },
+    {
+      "name": "Marijanov mul",
+      "latitude": 44.317981,
+      "longitude": 15.056872
+    },
+    {
+      "name": "Marina",
+      "latitude": 44.376834,
+      "longitude": 15.266551
+    },
+    {
+      "name": "Marina Baotić",
+      "latitude": 43.516485,
+      "longitude": 16.233501
+    },
+    {
+      "name": "Marina Betina",
+      "latitude": 43.827563,
+      "longitude": 15.60087
+    },
+    {
+      "name": "Marina Bunarina - Pula",
+      "latitude": 44.839596,
+      "longitude": 13.838112
+    },
+    {
+      "name": "Marina Dalmatia",
+      "latitude": 44.052605,
+      "longitude": 15.30048
+    },
+    {
+      "name": "Marina Frapa Dubrovnik",
+      "latitude": 42.658427,
+      "longitude": 18.081821
+    },
+    {
+      "name": "Marina Funtana",
+      "latitude": 45.177936,
+      "longitude": 13.597195
+    },
+    {
+      "name": "Marina Hramina",
+      "latitude": 43.826842,
+      "longitude": 15.591752
+    },
+    {
+      "name": "Marina Ist",
+      "latitude": 44.271341,
+      "longitude": 14.766901
+    },
+    {
+      "name": "Marina Kaštela",
+      "latitude": 43.54553,
+      "longitude": 16.403787
+    },
+    {
+      "name": "Marina Korkyra",
+      "latitude": 42.960522,
+      "longitude": 16.712247
+    },
+    {
+      "name": "Marina Kornati",
+      "latitude": 43.941718,
+      "longitude": 15.442956
+    },
+    {
+      "name": "Marina Kremik",
+      "latitude": 43.569688,
+      "longitude": 15.941463
+    },
+    {
+      "name": "Marina LAV",
+      "latitude": 43.491534,
+      "longitude": 16.537571
+    },
+    {
+      "name": "Marina Mali Lošinj",
+      "latitude": 44.533243,
+      "longitude": 14.466532
+    },
+    {
+      "name": "Marina Medulin",
+      "latitude": 44.817561,
+      "longitude": 13.933251
+    },
+    {
+      "name": "Marina Nautica",
+      "latitude": 45.320657,
+      "longitude": 13.563239
+    },
+    {
+      "name": "Marina Novi",
+      "latitude": 45.126472,
+      "longitude": 14.786825
+    },
+    {
+      "name": "Marina Novigrad",
+      "latitude": 45.316891,
+      "longitude": 13.561527
+    },
+    {
+      "name": "Marina Olib",
+      "latitude": 44.380358,
+      "longitude": 14.775996
+    },
+    {
+      "name": "Marina Orašac",
+      "latitude": 42.69431,
+      "longitude": 18.017835
+    },
+    {
+      "name": "Marina Orebic",
+      "latitude": 42.973838,
+      "longitude": 17.175043
+    },
+    {
+      "name": "Marina Parentium",
+      "latitude": 45.20403,
+      "longitude": 13.589525
+    },
+    {
+      "name": "Marina Pirovac",
+      "latitude": 43.816375,
+      "longitude": 15.66434
+    },
+    {
+      "name": "Marina Polesana Pula",
+      "latitude": 44.87811,
+      "longitude": 13.822603
+    },
+    {
+      "name": "Marina Poreč",
+      "latitude": 45.224458,
+      "longitude": 13.595272
+    },
+    {
+      "name": "Marina Prelog",
+      "latitude": 46.323749,
+      "longitude": 16.605692
+    },
+    {
+      "name": "Marina Punat",
+      "latitude": 45.029482,
+      "longitude": 14.628591
+    },
+    {
+      "name": "Marina Ramova",
+      "latitude": 43.323979,
+      "longitude": 16.982327
+    },
+    {
+      "name": "Marina Rogač",
+      "latitude": 42.783033,
+      "longitude": 17.877273
+    },
+    {
+      "name": "Marina Tribunj",
+      "latitude": 43.754084,
+      "longitude": 15.747357
+    },
+    {
+      "name": "Marina Trogir SCT",
+      "latitude": 43.512722,
+      "longitude": 16.242154
+    },
+    {
+      "name": "Marina Tučepi",
+      "latitude": 43.263309,
+      "longitude": 17.058033
+    },
+    {
+      "name": "Marina Valalta",
+      "latitude": 45.127235,
+      "longitude": 13.623764
+    },
+    {
+      "name": "Marina Veli Iž (Recepcija)",
+      "latitude": 44.050178,
+      "longitude": 15.110332
+    },
+    {
+      "name": "Marina Veruda - Pula",
+      "latitude": 44.84,
+      "longitude": 13.841667
+    },
+    {
+      "name": "Marina Vlaška",
+      "latitude": 43.329453,
+      "longitude": 16.439658
+    },
+    {
+      "name": "Marina Vrsar",
+      "latitude": 45.150369,
+      "longitude": 13.600026
+    },
+    {
+      "name": "Marina Vukovar",
+      "latitude": 45.34447,
+      "longitude": 19.016577
+    },
+    {
+      "name": "Marina Yachting Club",
+      "latitude": 44.543634,
+      "longitude": 14.460805
+    },
+    {
+      "name": "Marina Zadar",
+      "latitude": 44.119528,
+      "longitude": 15.227947
+    },
+    {
+      "name": "Marina Zaton",
+      "latitude": 43.778606,
+      "longitude": 15.830679
+    },
+    {
+      "name": "Marina Červar",
+      "latitude": 45.275789,
+      "longitude": 13.597691
+    },
+    {
+      "name": "Marina Šangulin",
+      "latitude": 43.940061,
+      "longitude": 15.443762
+    },
+    {
+      "name": "Marina-Brioni",
+      "latitude": 44.917075,
+      "longitude": 13.768166
+    },
+    {
+      "name": "Maslinica",
+      "latitude": 43.397883,
+      "longitude": 16.205126
+    },
+    {
+      "name": "Medveja",
+      "latitude": 45.271097,
+      "longitude": 14.271081
+    },
+    {
+      "name": "Mitan Marina",
+      "latitude": 45.120964,
+      "longitude": 14.806414
+    },
+    {
+      "name": "Mljake, in Durchfahrt Zapuntel, Insel Ist",
+      "latitude": 44.266886,
+      "longitude": 14.791762
+    },
+    {
+      "name": "Mol",
+      "latitude": 44.309469,
+      "longitude": 15.08886
+    },
+    {
+      "name": "Molo Terraferma",
+      "latitude": 44.11156,
+      "longitude": 15.228063
+    },
+    {
+      "name": "Molum Marine club",
+      "latitude": 43.959849,
+      "longitude": 15.424138
+    },
+    {
+      "name": "Muna",
+      "latitude": 43.661934,
+      "longitude": 15.657143
+    },
+    {
+      "name": "Nautika centar Nava",
+      "latitude": 43.502653,
+      "longitude": 16.428223
+    },
+    {
+      "name": "Nehaj",
+      "latitude": 45.641525,
+      "longitude": 18.512951
+    },
+    {
+      "name": "Neue Steganlage - Marina",
+      "latitude": 44.544376,
+      "longitude": 14.457709
+    },
+    {
+      "name": "Njivice",
+      "latitude": 45.165413,
+      "longitude": 14.542545
+    },
+    {
+      "name": "Nova luka",
+      "latitude": 43.584743,
+      "longitude": 15.930152
+    },
+    {
+      "name": "Novalja",
+      "latitude": 44.556137,
+      "longitude": 14.881662
+    },
+    {
+      "name": "Okrug Gornji",
+      "latitude": 43.495948,
+      "longitude": 16.26025
+    },
+    {
+      "name": "Olive Island Marina",
+      "latitude": 44.095618,
+      "longitude": 15.169868
+    },
+    {
+      "name": "Osiječki mul",
+      "latitude": 44.31837,
+      "longitude": 15.055873
+    },
+    {
+      "name": "Otok Olib",
+      "latitude": 44.381633,
+      "longitude": 14.775786
+    },
+    {
+      "name": "Pakoštane I",
+      "latitude": 43.905615,
+      "longitude": 15.501428
+    },
+    {
+      "name": "Pakoštane II",
+      "latitude": 43.903241,
+      "longitude": 15.515831
+    },
+    {
+      "name": "Pliša",
+      "latitude": 44.216016,
+      "longitude": 15.165992
+    },
+    {
+      "name": "Pomorsko športska udruga \"Banj\"",
+      "latitude": 43.515658,
+      "longitude": 16.255005
+    },
+    {
+      "name": "Port Bol",
+      "latitude": 43.261536,
+      "longitude": 16.657635
+    },
+    {
+      "name": "Port of Kuciste",
+      "latitude": 42.980027,
+      "longitude": 17.115688
+    },
+    {
+      "name": "Povlja",
+      "latitude": 43.33375,
+      "longitude": 16.836028
+    },
+    {
+      "name": "PRIVATE",
+      "latitude": 42.951271,
+      "longitude": 17.269521
+    },
+    {
+      "name": "Privezište Ika",
+      "latitude": 45.304723,
+      "longitude": 14.281897
+    },
+    {
+      "name": "Prístav Arbanija",
+      "latitude": 43.513872,
+      "longitude": 16.300359
+    },
+    {
+      "name": "Ravni Žakan",
+      "latitude": 43.72605,
+      "longitude": 15.4329
+    },
+    {
+      "name": "Restaurant Festa",
+      "latitude": 43.880376,
+      "longitude": 15.288418
+    },
+    {
+      "name": "Riva",
+      "latitude": 45.182339,
+      "longitude": 14.242729
+    },
+    {
+      "name": "Rovenska",
+      "latitude": 44.521156,
+      "longitude": 14.507201
+    },
+    {
+      "name": "Rovinj - Južna luka",
+      "latitude": 45.081105,
+      "longitude": 13.634106
+    },
+    {
+      "name": "San Pelagio",
+      "latitude": 45.097511,
+      "longitude": 13.636377
+    },
+    {
+      "name": "Santa Maria",
+      "latitude": 45.282367,
+      "longitude": 13.596958
+    },
+    {
+      "name": "Sidrište Luka Hvar",
+      "latitude": 43.171458,
+      "longitude": 16.440092
+    },
+    {
+      "name": "Skrivena Luka",
+      "latitude": 42.733821,
+      "longitude": 16.886278
+    },
+    {
+      "name": "Slano",
+      "latitude": 42.786197,
+      "longitude": 17.88851
+    },
+    {
+      "name": "Solaris Yacht Marina",
+      "latitude": 43.700322,
+      "longitude": 15.877071
+    },
+    {
+      "name": "Sovlja",
+      "latitude": 43.762413,
+      "longitude": 15.730394
+    },
+    {
+      "name": "Sportboothafen Apatin",
+      "latitude": 45.677574,
+      "longitude": 18.967992
+    },
+    {
+      "name": "Sportska lučica Marjan",
+      "latitude": 43.517221,
+      "longitude": 16.426054
+    },
+    {
+      "name": "Sportska lučica Mornar",
+      "latitude": 43.518489,
+      "longitude": 16.427397
+    },
+    {
+      "name": "Sportska lučica Poljud",
+      "latitude": 43.520462,
+      "longitude": 16.426449
+    },
+    {
+      "name": "Sportska lučica Zenta",
+      "latitude": 43.500287,
+      "longitude": 16.45838
+    },
+    {
+      "name": "Sportsko-turistička luka Baška Voda",
+      "latitude": 43.357722,
+      "longitude": 16.947228
+    },
+    {
+      "name": "Stara luka",
+      "latitude": 43.585545,
+      "longitude": 15.923163
+    },
+    {
+      "name": "Stari Grad",
+      "latitude": 43.184797,
+      "longitude": 16.594931
+    },
+    {
+      "name": "Strižnja",
+      "latitude": 43.819516,
+      "longitude": 15.285075
+    },
+    {
+      "name": "Stržna, Dugi Otok",
+      "latitude": 44.069012,
+      "longitude": 15.004858
+    },
+    {
+      "name": "Sućuraj",
+      "latitude": 43.125491,
+      "longitude": 17.187406
+    },
+    {
+      "name": "Sv. Mikula",
+      "latitude": 44.933543,
+      "longitude": 13.738759
+    },
+    {
+      "name": "Sveta Marina",
+      "latitude": 45.031978,
+      "longitude": 14.157432
+    },
+    {
+      "name": "Uvala Luka",
+      "latitude": 43.983177,
+      "longitude": 15.098106
+    },
+    {
+      "name": "Veli Rat",
+      "latitude": 44.143256,
+      "longitude": 14.847569
+    },
+    {
+      "name": "Velika Stupica, Insel Žirje",
+      "latitude": 43.635926,
+      "longitude": 15.681856
+    },
+    {
+      "name": "Vinici",
+      "latitude": 43.825951,
+      "longitude": 15.582916
+    },
+    {
+      "name": "Vodice",
+      "latitude": 43.755553,
+      "longitude": 15.775419
+    },
+    {
+      "name": "Volme",
+      "latitude": 44.819122,
+      "longitude": 13.871112
+    },
+    {
+      "name": "Vrulje",
+      "latitude": 43.81019,
+      "longitude": 15.304756
+    },
+    {
+      "name": "Windsurf Station",
+      "latitude": 44.785124,
+      "longitude": 13.917124
+    },
+    {
+      "name": "YC Orsan",
+      "latitude": 42.660076,
+      "longitude": 18.079807
+    },
+    {
+      "name": "Zapadna obala",
+      "latitude": 43.503814,
+      "longitude": 16.429562
+    },
+    {
+      "name": "Zdrelašćica, Ugljan",
+      "latitude": 44.019931,
+      "longitude": 15.254423
+    },
+    {
+      "name": "Zimska luka",
+      "latitude": 45.562954,
+      "longitude": 18.680228
+    },
+    {
+      "name": "Školjić",
+      "latitude": 44.2579,
+      "longitude": 15.213034
+    },
+    {
+      "name": "Žman",
+      "latitude": 43.970027,
+      "longitude": 15.115671
+    },
+    {
+      "name": "Међународна марина Апатин",
+      "latitude": 45.677454,
+      "longitude": 18.967322
+    }
+  ],
+  "meta": {
+    "title": "Marine - Besplatno preuzimanje",
+    "description": "Marine u Hrvatskoj (224 zapisa) — točke interesa iz OpenStreetMapa (oznaka leisure=marina), izrez EU-POIS/HR. Sadrži 224 zapisa. Preuzmi u Excel, CSV, PDF formatima.",
+    "seo_title": "Marine | ListBase",
+    "seo_description": "Preuzmi Marine — 224 zapisa. Dostupno u Excel, CSV, PDF formatima.",
+    "key_takeaways": [
+      "Sadrži 224 zapisa / 3 polja",
+      "Besplatno preuzimanje u Excel, CSV i PDF formatima",
+      "Izvor podataka: open data"
+    ]
+  }
+}
