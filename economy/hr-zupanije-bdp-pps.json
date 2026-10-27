@@ -1,0 +1,172 @@
+{
+  "id": "hr-zupanije-bdp-pps",
+  "name": "Hrvatske županije po BDP-u (PPS) po stanovniku",
+  "title": "Hrvatske županije po BDP-u (PPS) po stanovniku",
+  "description": "Županije Hrvatske po BDP-u po stanovniku prema standardu kupovne moći (EUR, Eurostat) i postotku prosjeka EU.",
+  "category": "economy",
+  "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_županija_po_BDP-u_(SKM)_per_capita",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_županija_po_BDP-u_(SKM)_per_capita",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "bdp_pps_eur",
+      "label": "Bdp Pps Eur",
+      "type": "number"
+    },
+    {
+      "key": "postotak_prosjeka_eu",
+      "label": "Postotak Prosjeka Eu",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "zupanija": "Grad Zagreb",
+      "bdp_pps_eur": 40500,
+      "postotak_prosjeka_eu": 129
+    },
+    {
+      "rang": 2,
+      "zupanija": "Istarska županija",
+      "bdp_pps_eur": 25600,
+      "postotak_prosjeka_eu": 82
+    },
+    {
+      "rang": 3,
+      "zupanija": "Primorsko-goranska županija",
+      "bdp_pps_eur": 25400,
+      "postotak_prosjeka_eu": 81
+    },
+    {
+      "rang": 4,
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "bdp_pps_eur": 20900,
+      "postotak_prosjeka_eu": 67
+    },
+    {
+      "rang": 5,
+      "zupanija": "Varaždinska županija",
+      "bdp_pps_eur": 20800,
+      "postotak_prosjeka_eu": 67
+    },
+    {
+      "rang": 6,
+      "zupanija": "Zadarska županija",
+      "bdp_pps_eur": 19800,
+      "postotak_prosjeka_eu": 63
+    },
+    {
+      "rang": 7,
+      "zupanija": "Međimurska županija",
+      "bdp_pps_eur": 19700,
+      "postotak_prosjeka_eu": 63
+    },
+    {
+      "rang": 8,
+      "zupanija": "Šibensko-kninska županija",
+      "bdp_pps_eur": 19100,
+      "postotak_prosjeka_eu": 61
+    },
+    {
+      "rang": 9,
+      "zupanija": "Ličko-senjska županija",
+      "bdp_pps_eur": 18900,
+      "postotak_prosjeka_eu": 60
+    },
+    {
+      "rang": 10,
+      "zupanija": "Zagrebačka županija",
+      "bdp_pps_eur": 18500,
+      "postotak_prosjeka_eu": 59
+    },
+    {
+      "rang": 11,
+      "zupanija": "Osječko-baranjska županija",
+      "bdp_pps_eur": 18200,
+      "postotak_prosjeka_eu": 58
+    },
+    {
+      "rang": 12,
+      "zupanija": "Splitsko-dalmatinska županija",
+      "bdp_pps_eur": 17600,
+      "postotak_prosjeka_eu": 56
+    },
+    {
+      "rang": 13,
+      "zupanija": "Koprivničko-križevačka županija",
+      "bdp_pps_eur": 17400,
+      "postotak_prosjeka_eu": 56
+    },
+    {
+      "rang": 14,
+      "zupanija": "Karlovačka županija",
+      "bdp_pps_eur": 16600,
+      "postotak_prosjeka_eu": 53
+    },
+    {
+      "rang": 15,
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "bdp_pps_eur": 15900,
+      "postotak_prosjeka_eu": 51
+    },
+    {
+      "rang": 16,
+      "zupanija": "Sisačko-moslavačka županija",
+      "bdp_pps_eur": 15600,
+      "postotak_prosjeka_eu": 50
+    },
+    {
+      "rang": 17,
+      "zupanija": "Vukovarsko-srijemska županija",
+      "bdp_pps_eur": 15200,
+      "postotak_prosjeka_eu": 49
+    },
+    {
+      "rang": 18,
+      "zupanija": "Krapinsko-zagorska županija",
+      "bdp_pps_eur": 14700,
+      "postotak_prosjeka_eu": 47
+    },
+    {
+      "rang": 19,
+      "zupanija": "Brodsko-posavska županija",
+      "bdp_pps_eur": 14100,
+      "postotak_prosjeka_eu": 45
+    },
+    {
+      "rang": 20,
+      "zupanija": "Požeško-slavonska županija",
+      "bdp_pps_eur": 13600,
+      "postotak_prosjeka_eu": 43
+    },
+    {
+      "rang": 21,
+      "zupanija": "Virovitičko-podravska županija",
+      "bdp_pps_eur": 13500,
+      "postotak_prosjeka_eu": 43
+    }
+  ],
+  "meta": {
+    "title": "Hrvatske županije po BDP-u (PPS) po stanovniku - Free Download",
+    "description": "Županije Hrvatske po BDP-u po stanovniku prema standardu kupovne moći (EUR, Eurostat) i postotku prosjeka EU. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatske županije po BDP-u (PPS) po stanovniku | ListBase",
+    "seo_description": "Download Hrvatske županije po BDP-u (PPS) po stanovniku — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_hrvatskih_županija_po_BDP-u_(SKM)_per_capita"
+    ]
+  }
+}
