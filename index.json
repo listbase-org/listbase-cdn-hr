@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:31.588Z",
-  "total_datasets": 421,
-  "total_records": 822465,
+  "generated": "2026-10-27T02:28:34.031Z",
+  "total_datasets": 422,
+  "total_records": 822580,
   "categories": [
     {
       "id": "culture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -2701,6 +2701,28 @@
         "xlsx": {
           "name": "hr-jezici_HR.xlsx",
           "size": 23535
+        }
+      }
+    },
+    {
+      "id": "hr-jezikoslovci",
+      "name": "Hrvatski jezikoslovci",
+      "category": "language",
+      "record_count": 115,
+      "columns": [
+        "ime"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_jezikoslovaca",
+      "updated": "2026-10",
+      "size": 6241,
+      "files": {
+        "csv": {
+          "name": "hr-jezikoslovci_HR.csv",
+          "size": 2121
+        },
+        "xlsx": {
+          "name": "hr-jezikoslovci_HR.xlsx",
+          "size": 8650
         }
       }
     },

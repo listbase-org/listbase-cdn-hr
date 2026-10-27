@@ -1,0 +1,376 @@
+{
+  "id": "hr-jezikoslovci",
+  "name": "Hrvatski jezikoslovci",
+  "title": "Hrvatski jezikoslovci",
+  "description": "Popis hrvatskih jezikoslovaca (lingvista, kroatista, leksikografa).",
+  "category": "language",
+  "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_jezikoslovaca",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_jezikoslovaca",
+  "updated": "2026-10",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ime": "Ilija Abjanić"
+    },
+    {
+      "ime": "Goranka Antunović"
+    },
+    {
+      "ime": "Franjo Marija Appendini"
+    },
+    {
+      "ime": "Stjepan Babić"
+    },
+    {
+      "ime": "Vjekoslav Babukić"
+    },
+    {
+      "ime": "Lada Badurina"
+    },
+    {
+      "ime": "Nataša Bašić"
+    },
+    {
+      "ime": "Ivan Belostenec"
+    },
+    {
+      "ime": "Julije Benešić"
+    },
+    {
+      "ime": "Vjekoslav Boban"
+    },
+    {
+      "ime": "Ivan Brabec"
+    },
+    {
+      "ime": "Vladimir Brodnjak"
+    },
+    {
+      "ime": "Ivan Broz"
+    },
+    {
+      "ime": "Dalibor Brozović"
+    },
+    {
+      "ime": "Dunja Brozović-Rončević"
+    },
+    {
+      "ime": "Željko Bujas"
+    },
+    {
+      "ime": "Franjo Cipra"
+    },
+    {
+      "ime": "Stjepan Damjanović"
+    },
+    {
+      "ime": "Mirko Deanović"
+    },
+    {
+      "ime": "Helena Delaš"
+    },
+    {
+      "ime": "Mirko Divković"
+    },
+    {
+      "ime": "Rudolf Filipović"
+    },
+    {
+      "ime": "Božidar Finka"
+    },
+    {
+      "ime": "Franjo Francev"
+    },
+    {
+      "ime": "Vilim Frančić"
+    },
+    {
+      "ime": "Branko Franolić"
+    },
+    {
+      "ime": "Ljudevit Gaj"
+    },
+    {
+      "ime": "Mario Grčević"
+    },
+    {
+      "ime": "Vinko Grubišić"
+    },
+    {
+      "ime": "Petar Guberina"
+    },
+    {
+      "ime": "Sanda Ham"
+    },
+    {
+      "ime": "Josip Hamm"
+    },
+    {
+      "ime": "Marijana Horvat"
+    },
+    {
+      "ime": "Marijan Horvat-Mileković"
+    },
+    {
+      "ime": "Mate Hraste"
+    },
+    {
+      "ime": "Lana Hudeček"
+    },
+    {
+      "ime": "Vladimir Ivir"
+    },
+    {
+      "ime": "Stjepan Ivšić"
+    },
+    {
+      "ime": "Vatroslav Jagić"
+    },
+    {
+      "ime": "Andrija Jambrešić"
+    },
+    {
+      "ime": "Marko Japundžić"
+    },
+    {
+      "ime": "Zrinka Jelaska"
+    },
+    {
+      "ime": "Josip Jernej"
+    },
+    {
+      "ime": "Ljudevit Jonke"
+    },
+    {
+      "ime": "Željko Jozić"
+    },
+    {
+      "ime": "Blaž Jurišić"
+    },
+    {
+      "ime": "Dunja Jutronić"
+    },
+    {
+      "ime": "Miro Kačić"
+    },
+    {
+      "ime": "Ante Kadić"
+    },
+    {
+      "ime": "Damir Kalogjera"
+    },
+    {
+      "ime": "Bartol Kašić"
+    },
+    {
+      "ime": "Radoslav Katičić"
+    },
+    {
+      "ime": "Adolf Bratoljub Klaić"
+    },
+    {
+      "ime": "Antun Knežević"
+    },
+    {
+      "ime": "Ljiljana Kolenić"
+    },
+    {
+      "ime": "Snježana Kordić"
+    },
+    {
+      "ime": "Juraj Križanić"
+    },
+    {
+      "ime": "Kruno Krstić"
+    },
+    {
+      "ime": "Dubravko Kučanda"
+    },
+    {
+      "ime": "Bulcsú László"
+    },
+    {
+      "ime": "Josip Lisac"
+    },
+    {
+      "ime": "Doroteja Maček"
+    },
+    {
+      "ime": "Mia Mader Skender"
+    },
+    {
+      "ime": "Mile Mamić"
+    },
+    {
+      "ime": "Tomislav Maretić"
+    },
+    {
+      "ime": "Ranko Matasović"
+    },
+    {
+      "ime": "Antun Mažuranić"
+    },
+    {
+      "ime": "Ivan Mažuranić"
+    },
+    {
+      "ime": "Jasna Melvinger"
+    },
+    {
+      "ime": "Bogdan Mesinger"
+    },
+    {
+      "ime": "Krešimir Mićanović"
+    },
+    {
+      "ime": "Milan Mihaljević"
+    },
+    {
+      "ime": "Milica Mihaljević"
+    },
+    {
+      "ime": "Jakov Mikalja"
+    },
+    {
+      "ime": "Milan Moguš"
+    },
+    {
+      "ime": "August Musić"
+    },
+    {
+      "ime": "Iva Nazalević Čučević"
+    },
+    {
+      "ime": "Dragutin Antun Parčić"
+    },
+    {
+      "ime": "Mirko Peti"
+    },
+    {
+      "ime": "Ivo Pranjković"
+    },
+    {
+      "ime": "Matija Antun Relković"
+    },
+    {
+      "ime": "Pavao Ritter Vitezović"
+    },
+    {
+      "ime": "Vlasta Rišner"
+    },
+    {
+      "ime": "Nikola Rončević"
+    },
+    {
+      "ime": "Vatroslav Rožić"
+    },
+    {
+      "ime": "Ilija Rukavina Ljubački"
+    },
+    {
+      "ime": "Marko Samardžija"
+    },
+    {
+      "ime": "Stjepan Sekereš"
+    },
+    {
+      "ime": "Dubravka Sesar"
+    },
+    {
+      "ime": "Josip Silić"
+    },
+    {
+      "ime": "Petar Skok"
+    },
+    {
+      "ime": "Krsto Spalatin"
+    },
+    {
+      "ime": "Marijan Stojković"
+    },
+    {
+      "ime": "Diana Stolac"
+    },
+    {
+      "ime": "Rudolf Strohal"
+    },
+    {
+      "ime": "Joakim Stulli"
+    },
+    {
+      "ime": "Franjo Sušnik"
+    },
+    {
+      "ime": "Petar Šimunović"
+    },
+    {
+      "ime": "Ivo Škarić"
+    },
+    {
+      "ime": "Dubravko Škiljan"
+    },
+    {
+      "ime": "Bogoslav Šulek"
+    },
+    {
+      "ime": "Marijan Šunjić"
+    },
+    {
+      "ime": "Vanja Švačko"
+    },
+    {
+      "ime": "Marko Tadić"
+    },
+    {
+      "ime": "Stjepko Težak"
+    },
+    {
+      "ime": "Pero Tutavac Bilić"
+    },
+    {
+      "ime": "Mirna Velčić"
+    },
+    {
+      "ime": "Aleksandar Vignjević"
+    },
+    {
+      "ime": "Zlatko Vince"
+    },
+    {
+      "ime": "Vojmir Vinja"
+    },
+    {
+      "ime": "Faust Vrančić"
+    },
+    {
+      "ime": "Luka Vukojević"
+    },
+    {
+      "ime": "Stjepan Vukušić"
+    },
+    {
+      "ime": "Sanja Vulić"
+    },
+    {
+      "ime": "Ivan Zoričić"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatski jezikoslovci - Free Download",
+    "description": "Popis hrvatskih jezikoslovaca (lingvista, kroatista, leksikografa). Contains 115 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatski jezikoslovci | ListBase",
+    "seo_description": "Download Hrvatski jezikoslovci — 115 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 115 records / 1 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_hrvatskih_jezikoslovaca"
+    ]
+  }
+}
