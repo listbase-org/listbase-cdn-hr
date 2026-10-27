@@ -1,0 +1,214 @@
+{
+  "id": "hr-predsjednici-vlade",
+  "name": "Predsjednici Vlade Republike Hrvatske",
+  "title": "Predsjednici Vlade Republike Hrvatske",
+  "description": "Popis predsjednika Vlade Republike Hrvatske od 1990. s mandatom, sastavom Vlade, sazivom Sabora i strankom.",
+  "category": "politics",
+  "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_predsjednika_Vlade",
+  "source_url": "https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_predsjednika_Vlade",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "redni_broj",
+      "label": "Redni Broj",
+      "type": "number"
+    },
+    {
+      "key": "predsjednik_vlade",
+      "label": "Predsjednik Vlade",
+      "type": "string"
+    },
+    {
+      "key": "mandat",
+      "label": "Mandat",
+      "type": "string"
+    },
+    {
+      "key": "sastav_vlade",
+      "label": "Sastav Vlade",
+      "type": "string"
+    },
+    {
+      "key": "saziv_sabora",
+      "label": "Saziv Sabora",
+      "type": "string"
+    },
+    {
+      "key": "stranka",
+      "label": "Stranka",
+      "type": "string"
+    },
+    {
+      "key": "napomene",
+      "label": "Napomene",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "redni_broj": "1",
+      "predsjednik_vlade": "Stjepan Mesić",
+      "mandat": "30. svibnja 1990. – 25. srpnja 1990. predsjednik Izvršnog vijeća Sabora Socijalističke Republike Hrvatske",
+      "sastav_vlade": "1.",
+      "saziv_sabora": "1.",
+      "stranka": "HDZ",
+      "napomene": "Hrvatska još uvijek republika u sastavu SFRJ. Mesić odlazi na funkciju člana Predsjedništva Socijalističke Federativne Republike Jugoslavije iz Republike Hrvatske."
+    },
+    {
+      "redni_broj": "1",
+      "predsjednik_vlade": "Stjepan Mesić",
+      "mandat": "25. srpnja 1990. – 24. kolovoza 1990. predsjednik Vlade Republike Hrvatske",
+      "sastav_vlade": "1.",
+      "saziv_sabora": "1.",
+      "stranka": "HDZ",
+      "napomene": "Hrvatska još uvijek republika u sastavu SFRJ. Mesić odlazi na funkciju člana Predsjedništva Socijalističke Federativne Republike Jugoslavije iz Republike Hrvatske."
+    },
+    {
+      "redni_broj": "2",
+      "predsjednik_vlade": "Josip Manolić",
+      "mandat": "24. kolovoza 1990. – 17. srpnja 1991.",
+      "sastav_vlade": "2.",
+      "saziv_sabora": "1.",
+      "stranka": "HDZ",
+      "napomene": "Početak osamostaljenja od SFRJ (25. lipnja 1991.)."
+    },
+    {
+      "redni_broj": "3",
+      "predsjednik_vlade": "Franjo Gregurić",
+      "mandat": "17. srpnja 1991. – 12. kolovoza 1992.",
+      "sastav_vlade": "3.",
+      "saziv_sabora": "1.",
+      "stranka": "HDZ",
+      "napomene": "Po isteku moratorija 8. listopada 1991. Hrvatska prekinula sve državnopravne sveze sa SFRJ. Bitke za Vukovar (25. kolovoza - 18. studenog 1991.). Sporazum o prekidu vatre (3. siječnja 1992.). Međunarodno priznanje Hrvatske (15. siječnja 1992.). Premijer u vrijeme najvećih ratnih napora."
+    },
+    {
+      "redni_broj": "4",
+      "predsjednik_vlade": "Hrvoje Šarinić",
+      "mandat": "12. kolovoza 1992. – 3. travnja 1993.",
+      "sastav_vlade": "4.",
+      "saziv_sabora": "2.",
+      "stranka": "HDZ",
+      "napomene": "Operacija Maslenica (6. siječnja - 27. siječnja 1993.). Premijer u vrijeme najvećih ratnih napora."
+    },
+    {
+      "redni_broj": "5",
+      "predsjednik_vlade": "Nikica Valentić",
+      "mandat": "3. travnja 1993. – 7. studenog 1995.",
+      "sastav_vlade": "5.",
+      "saziv_sabora": "2.",
+      "stranka": "HDZ",
+      "napomene": "Uvođenje kune, zaustavljanje hiperinflacije, konvertibilnost kune, oslobađanje svih okupiranih područja (osim Podunavlja) u Operaciji Bljesak (1. svibnja - 2. svibnja 1995.) i Operaciji Oluja (4. kolovoza - 7. kolovoza 1995.)."
+    },
+    {
+      "redni_broj": "6",
+      "predsjednik_vlade": "Zlatko Mateša",
+      "mandat": "7. studenog 1995. – 27. siječnja 2000.",
+      "sastav_vlade": "6.",
+      "saziv_sabora": "3.",
+      "stranka": "HDZ",
+      "napomene": "Reintegracija Podunavlja u upravni sustav RH."
+    },
+    {
+      "redni_broj": "7",
+      "predsjednik_vlade": "Ivica Račan",
+      "mandat": "27. siječnja 2000. – 30. srpnja 2002.",
+      "sastav_vlade": "7.",
+      "saziv_sabora": "4.",
+      "stranka": "SDP",
+      "napomene": "Koalicijska Vlada SDP - HSLS - HNS - HSS - IDS - LS. Vlada podnosi ostavku 5. srpnja 2002. te iz nje izlazi HSLS (prije toga i IDS). Početak izgradnje Autoceste Zagreb - Split. Zahtjev za članstvo u EU."
+    },
+    {
+      "redni_broj": "7",
+      "predsjednik_vlade": "Ivica Račan",
+      "mandat": "30. srpnja 2002. – 23. prosinca 2003.",
+      "sastav_vlade": "8.",
+      "saziv_sabora": "4.",
+      "stranka": "SDP",
+      "napomene": "Koalicijska Vlada SDP - HSLS - HNS - HSS - IDS - LS. Vlada podnosi ostavku 5. srpnja 2002. te iz nje izlazi HSLS (prije toga i IDS). Početak izgradnje Autoceste Zagreb - Split. Zahtjev za članstvo u EU."
+    },
+    {
+      "redni_broj": "8",
+      "predsjednik_vlade": "Ivo Sanader",
+      "mandat": "23. prosinca 2003. – 12. siječnja 2008.",
+      "sastav_vlade": "9.",
+      "saziv_sabora": "5.",
+      "stranka": "HDZ",
+      "napomene": "Početak pregovora za članstvo u EU. Od 2008. koalicijska Vlada HDZ - HSS - HSLS - SDSS - HSU i manjine. Hrvatska postaje nestalna članica Vijeća sigurnosti. Članstvo RH u NATO-u. Iznenada podnio ostavku.+ Po redu jubilarna 10. Vlada RH."
+    },
+    {
+      "redni_broj": "8",
+      "predsjednik_vlade": "Ivo Sanader",
+      "mandat": "12. siječnja 2008. – 6. srpnja 2009.",
+      "sastav_vlade": "10.",
+      "saziv_sabora": "6.",
+      "stranka": "HDZ",
+      "napomene": "Početak pregovora za članstvo u EU. Od 2008. koalicijska Vlada HDZ - HSS - HSLS - SDSS - HSU i manjine. Hrvatska postaje nestalna članica Vijeća sigurnosti. Članstvo RH u NATO-u. Iznenada podnio ostavku.+ Po redu jubilarna 10. Vlada RH."
+    },
+    {
+      "redni_broj": "9",
+      "predsjednik_vlade": "Jadranka Kosor",
+      "mandat": "6. srpnja 2009. – 23. prosinca 2011.",
+      "sastav_vlade": "11.",
+      "saziv_sabora": "6.",
+      "stranka": "HDZ",
+      "napomene": "Deblokada i okončanje pristupnih pregovora s Europskom unijom, potpisivanje Ugovora o pristupanju RH EU. Potpisivanje Arbitraže sa Slovenijom. Jedina premijerka u povijesti RH."
+    },
+    {
+      "redni_broj": "10",
+      "predsjednik_vlade": "Zoran Milanović",
+      "mandat": "23. prosinca 2011. – 22. siječnja 2016.",
+      "sastav_vlade": "12.",
+      "saziv_sabora": "7.",
+      "stranka": "SDP",
+      "napomene": "Pobjedu na izborima ostvario je s koalicijom po imenu \" Kukuriku koalicija \". Po redu jubilarni 10. premijer Hrvatske. Hrvatska postaje članica Europske unije."
+    },
+    {
+      "redni_broj": "11",
+      "predsjednik_vlade": "Tihomir Orešković",
+      "mandat": "22. siječnja 2016. – 19. listopada 2016.",
+      "sastav_vlade": "13.",
+      "saziv_sabora": "8.",
+      "stranka": "Nezavisan",
+      "napomene": "Prvi nestranački predsjednik Vlade. Ujedno i prvi kojemu je izglasano nepovjerenje u Hrvatskom Saboru. Prva koalicija HDZ -a s Mostom. Jedini hrvatski premijer koji je smanjio javni dug, i to čak za 3 milijarde kuna, te prvi koji se aktivno počeo baviti pitanjem nestalih."
+    },
+    {
+      "redni_broj": "12",
+      "predsjednik_vlade": "Andrej Plenković",
+      "mandat": "19. listopada 2016. – 23. srpnja 2020.",
+      "sastav_vlade": "14.",
+      "saziv_sabora": "9.",
+      "stranka": "HDZ",
+      "napomene": "Za vrijeme njegova mandata dogodio se veliki pad dionica tvrtke Agrokor te je donesen Lex Agrokor, dovršena je izgradnja Pelješkog mosta, uveden euro kao novčana valuta u Hrvatskoj, Hrvatska postaje članicom Schengenskog prostora. Prvi premijer u povijesti koji je dobio povjerenje u tri uzastopna mandata."
+    },
+    {
+      "redni_broj": "12",
+      "predsjednik_vlade": "Andrej Plenković",
+      "mandat": "23. srpnja 2020. – 17. svibnja 2024.",
+      "sastav_vlade": "15.",
+      "saziv_sabora": "10.",
+      "stranka": "HDZ",
+      "napomene": "Za vrijeme njegova mandata dogodio se veliki pad dionica tvrtke Agrokor te je donesen Lex Agrokor, dovršena je izgradnja Pelješkog mosta, uveden euro kao novčana valuta u Hrvatskoj, Hrvatska postaje članicom Schengenskog prostora. Prvi premijer u povijesti koji je dobio povjerenje u tri uzastopna mandata."
+    },
+    {
+      "redni_broj": "12",
+      "predsjednik_vlade": "Andrej Plenković",
+      "mandat": "17. svibnja 2024. – danas",
+      "sastav_vlade": "16.",
+      "saziv_sabora": "11.",
+      "stranka": "HDZ",
+      "napomene": "Za vrijeme njegova mandata dogodio se veliki pad dionica tvrtke Agrokor te je donesen Lex Agrokor, dovršena je izgradnja Pelješkog mosta, uveden euro kao novčana valuta u Hrvatskoj, Hrvatska postaje članicom Schengenskog prostora. Prvi premijer u povijesti koji je dobio povjerenje u tri uzastopna mandata."
+    }
+  ],
+  "meta": {
+    "title": "Predsjednici Vlade Republike Hrvatske - Free Download",
+    "description": "Popis predsjednika Vlade Republike Hrvatske od 1990. s mandatom, sastavom Vlade, sazivom Sabora i strankom. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Predsjednici Vlade Republike Hrvatske | ListBase",
+    "seo_description": "Download Predsjednici Vlade Republike Hrvatske — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_predsjednika_Vlade"
+    ]
+  }
+}

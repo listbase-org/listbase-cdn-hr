@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:48.349Z",
-  "total_datasets": 428,
-  "total_records": 823403,
+  "generated": "2026-10-27T02:28:50.998Z",
+  "total_datasets": 429,
+  "total_records": 823420,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -2989,6 +2989,34 @@
         "xlsx": {
           "name": "hr-politicke-stranke-funkcije_HR.xlsx",
           "size": 206373
+        }
+      }
+    },
+    {
+      "id": "hr-predsjednici-vlade",
+      "name": "Predsjednici Vlade Republike Hrvatske",
+      "category": "politics",
+      "record_count": 17,
+      "columns": [
+        "redni_broj",
+        "predsjednik_vlade",
+        "mandat",
+        "sastav_vlade",
+        "saziv_sabora",
+        "stranka",
+        "napomene"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_predsjednika_Vlade",
+      "updated": "2026-10",
+      "size": 9668,
+      "files": {
+        "csv": {
+          "name": "hr-predsjednici-vlade_HR.csv",
+          "size": 5117
+        },
+        "xlsx": {
+          "name": "hr-predsjednici-vlade_HR.xlsx",
+          "size": 8921
         }
       }
     },
