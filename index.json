@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:34.031Z",
-  "total_datasets": 422,
-  "total_records": 822580,
+  "generated": "2026-10-27T02:28:36.513Z",
+  "total_datasets": 423,
+  "total_records": 822629,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -2677,6 +2677,31 @@
         "xlsx": {
           "name": "hr-banovi_HR.xlsx",
           "size": 13450
+        }
+      }
+    },
+    {
+      "id": "hr-kraljevi",
+      "name": "Hrvatski i hrvatsko-ugarski kraljevi",
+      "category": "history",
+      "record_count": 49,
+      "columns": [
+        "kralj",
+        "vladavina",
+        "napomena",
+        "dinastija"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_i_hrvatsko-ugarskih_kraljeva",
+      "updated": "2026-10",
+      "size": 10354,
+      "files": {
+        "csv": {
+          "name": "hr-kraljevi_HR.csv",
+          "size": 4563
+        },
+        "xlsx": {
+          "name": "hr-kraljevi_HR.xlsx",
+          "size": 8974
         }
       }
     },
