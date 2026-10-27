@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:38.933Z",
-  "total_datasets": 424,
-  "total_records": 822775,
+  "generated": "2026-10-27T02:28:41.159Z",
+  "total_datasets": 425,
+  "total_records": 822825,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -2728,6 +2728,30 @@
         "xlsx": {
           "name": "hr-kraljevi_HR.xlsx",
           "size": 8974
+        }
+      }
+    },
+    {
+      "id": "hr-operacije-domovinski-rat",
+      "name": "Hrvatske vojne operacije u Domovinskom ratu",
+      "category": "history",
+      "record_count": 50,
+      "columns": [
+        "operacija",
+        "datum",
+        "popriste"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_operacija_u_Domovinskom_ratu",
+      "updated": "2026-10",
+      "size": 8416,
+      "files": {
+        "csv": {
+          "name": "hr-operacije-domovinski-rat_HR.csv",
+          "size": 3571
+        },
+        "xlsx": {
+          "name": "hr-operacije-domovinski-rat_HR.xlsx",
+          "size": 8879
         }
       }
     },
