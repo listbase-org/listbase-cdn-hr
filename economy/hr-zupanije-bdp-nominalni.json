@@ -1,0 +1,146 @@
+{
+  "id": "hr-zupanije-bdp-nominalni",
+  "name": "Hrvatske županije prema nominalnom BDP-u po stanovniku",
+  "title": "Hrvatske županije prema nominalnom BDP-u po stanovniku",
+  "description": "Županije Hrvatske prema nominalnom BDP-u po stanovniku (USD).",
+  "category": "economy",
+  "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_županija_prema_nominalnom_BDP-u_po_stanovniku",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_županija_prema_nominalnom_BDP-u_po_stanovniku",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "bdp_po_stanovniku_usd",
+      "label": "Bdp Po Stanovniku Usd",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "zupanija": "Grad Zagreb",
+      "bdp_po_stanovniku_usd": 27055
+    },
+    {
+      "rang": 2,
+      "zupanija": "Istarska županija",
+      "bdp_po_stanovniku_usd": 18561
+    },
+    {
+      "rang": 3,
+      "zupanija": "Primorsko-goranska županija",
+      "bdp_po_stanovniku_usd": 17640
+    },
+    {
+      "rang": 4,
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "bdp_po_stanovniku_usd": 15828
+    },
+    {
+      "rang": 5,
+      "zupanija": "Varaždinska županija",
+      "bdp_po_stanovniku_usd": 12993
+    },
+    {
+      "rang": 6,
+      "zupanija": "Zadarska županija",
+      "bdp_po_stanovniku_usd": 12879
+    },
+    {
+      "rang": 7,
+      "zupanija": "Međimurska županija",
+      "bdp_po_stanovniku_usd": 12281
+    },
+    {
+      "rang": 8,
+      "zupanija": "Šibensko-kninska županija",
+      "bdp_po_stanovniku_usd": 11579
+    },
+    {
+      "rang": 9,
+      "zupanija": "Zagrebačka županija",
+      "bdp_po_stanovniku_usd": 11576
+    },
+    {
+      "rang": 10,
+      "zupanija": "Splitsko-dalmatinska županija",
+      "bdp_po_stanovniku_usd": 11487
+    },
+    {
+      "rang": 11,
+      "zupanija": "Ličko-senjska županija",
+      "bdp_po_stanovniku_usd": 10584
+    },
+    {
+      "rang": 12,
+      "zupanija": "Koprivničko-križevačka županija",
+      "bdp_po_stanovniku_usd": 10385
+    },
+    {
+      "rang": 13,
+      "zupanija": "Osječko-baranjska županija",
+      "bdp_po_stanovniku_usd": 10352
+    },
+    {
+      "rang": 14,
+      "zupanija": "Karlovačka županija",
+      "bdp_po_stanovniku_usd": 9896
+    },
+    {
+      "rang": 15,
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "bdp_po_stanovniku_usd": 9520
+    },
+    {
+      "rang": 16,
+      "zupanija": "Krapinsko-zagorska županija",
+      "bdp_po_stanovniku_usd": 9440
+    },
+    {
+      "rang": 17,
+      "zupanija": "Sisačko-moslavačka županija",
+      "bdp_po_stanovniku_usd": 9380
+    },
+    {
+      "rang": 18,
+      "zupanija": "Vukovarsko-srijemska županija",
+      "bdp_po_stanovniku_usd": 8023
+    },
+    {
+      "rang": 19,
+      "zupanija": "Požeško-slavonska županija",
+      "bdp_po_stanovniku_usd": 7892
+    },
+    {
+      "rang": 20,
+      "zupanija": "Brodsko-posavska županija",
+      "bdp_po_stanovniku_usd": 7876
+    },
+    {
+      "rang": 21,
+      "zupanija": "Virovitičko-podravska županija",
+      "bdp_po_stanovniku_usd": 7779
+    }
+  ],
+  "meta": {
+    "title": "Hrvatske županije prema nominalnom BDP-u po stanovniku - Free Download",
+    "description": "Županije Hrvatske prema nominalnom BDP-u po stanovniku (USD). Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatske županije prema nominalnom BDP-u po stanovniku | ListBase",
+    "seo_description": "Download Hrvatske županije prema nominalnom BDP-u po stanovniku — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_hrvatskih_županija_prema_nominalnom_BDP-u_po_stanovniku"
+    ]
+  }
+}

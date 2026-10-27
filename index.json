@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:29:05.480Z",
-  "total_datasets": 435,
-  "total_records": 823742,
+  "generated": "2026-10-27T02:29:07.760Z",
+  "total_datasets": 436,
+  "total_records": 823763,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -672,6 +672,30 @@
         "xlsx": {
           "name": "hr-ekonomisti_HR.xlsx",
           "size": 6966
+        }
+      }
+    },
+    {
+      "id": "hr-zupanije-bdp-nominalni",
+      "name": "Hrvatske županije prema nominalnom BDP-u po stanovniku",
+      "category": "economy",
+      "record_count": 21,
+      "columns": [
+        "rang",
+        "zupanija",
+        "bdp_po_stanovniku_usd"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_županija_prema_nominalnom_BDP-u_po_stanovniku",
+      "updated": "2026-10",
+      "size": 4023,
+      "files": {
+        "csv": {
+          "name": "hr-zupanije-bdp-nominalni_HR.csv",
+          "size": 907
+        },
+        "xlsx": {
+          "name": "hr-zupanije-bdp-nominalni_HR.xlsx",
+          "size": 7339
         }
       }
     },
