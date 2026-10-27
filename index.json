@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:58.105Z",
-  "total_datasets": 432,
-  "total_records": 823592,
+  "generated": "2026-10-27T02:29:00.580Z",
+  "total_datasets": 433,
+  "total_records": 823625,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -2907,6 +2907,29 @@
         "xlsx": {
           "name": "hr-javni-biljeznici_HR.xlsx",
           "size": 42030
+        }
+      }
+    },
+    {
+      "id": "hr-srednjovjekovni-statuti",
+      "name": "Srednjovjekovni statuti hrvatskih gradova",
+      "category": "law",
+      "record_count": 33,
+      "columns": [
+        "statut",
+        "godina"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_srednjovjekovnih_statuta_hrvatskih_gradova",
+      "updated": "2026-10",
+      "size": 3877,
+      "files": {
+        "csv": {
+          "name": "hr-srednjovjekovni-statuti_HR.csv",
+          "size": 906
+        },
+        "xlsx": {
+          "name": "hr-srednjovjekovni-statuti_HR.xlsx",
+          "size": 7464
         }
       }
     },
