@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:53.290Z",
-  "total_datasets": 430,
-  "total_records": 823496,
+  "generated": "2026-10-27T02:28:55.635Z",
+  "total_datasets": 431,
+  "total_records": 823556,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -1603,6 +1603,31 @@
         "xlsx": {
           "name": "hr-mjerne-jedinice-temperature_HR.xlsx",
           "size": 7049
+        }
+      }
+    },
+    {
+      "id": "hr-sisavci",
+      "name": "Sisavci u Hrvatskoj",
+      "category": "environment",
+      "record_count": 60,
+      "columns": [
+        "red",
+        "vrsta_latinski",
+        "vrsta_hrvatski",
+        "endem"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_sisavaca_u_Hrvatskoj",
+      "updated": "2026-10",
+      "size": 10269,
+      "files": {
+        "csv": {
+          "name": "hr-sisavci_HR.csv",
+          "size": 3348
+        },
+        "xlsx": {
+          "name": "hr-sisavci_HR.xlsx",
+          "size": 8909
         }
       }
     },

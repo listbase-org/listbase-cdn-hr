@@ -1,0 +1,406 @@
+{
+  "id": "hr-sisavci",
+  "name": "Sisavci u Hrvatskoj",
+  "title": "Sisavci u Hrvatskoj",
+  "description": "Popis divljih sisavaca Hrvatske s redom, latinskim i hrvatskim nazivom vrste te oznakom endema.",
+  "category": "environment",
+  "source": "https://hr.wikipedia.org/wiki/Popis_sisavaca_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_sisavaca_u_Hrvatskoj",
+  "updated": "2026-10",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "red",
+      "label": "Red",
+      "type": "string"
+    },
+    {
+      "key": "vrsta_latinski",
+      "label": "Vrsta Latinski",
+      "type": "string"
+    },
+    {
+      "key": "vrsta_hrvatski",
+      "label": "Vrsta Hrvatski",
+      "type": "string"
+    },
+    {
+      "key": "endem",
+      "label": "Endem",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "red": "Carnivora",
+      "vrsta_latinski": "Canis lupus",
+      "vrsta_hrvatski": "vuk",
+      "endem": ""
+    },
+    {
+      "red": "Carnivora",
+      "vrsta_latinski": "Felis silvestris",
+      "vrsta_hrvatski": "divlja mačka",
+      "endem": ""
+    },
+    {
+      "red": "Carnivora",
+      "vrsta_latinski": "Lynx lynx",
+      "vrsta_hrvatski": "ris",
+      "endem": ""
+    },
+    {
+      "red": "Carnivora",
+      "vrsta_latinski": "Lutra lutra",
+      "vrsta_hrvatski": "vidra",
+      "endem": ""
+    },
+    {
+      "red": "Carnivora",
+      "vrsta_latinski": "Mustela lutreola",
+      "vrsta_hrvatski": "europska vidrica",
+      "endem": ""
+    },
+    {
+      "red": "Carnivora",
+      "vrsta_latinski": "Monachus monachus",
+      "vrsta_hrvatski": "sredozemna medvjedica",
+      "endem": ""
+    },
+    {
+      "red": "Carnivora",
+      "vrsta_latinski": "Ursus arctos",
+      "vrsta_hrvatski": "smeđi medvjed",
+      "endem": ""
+    },
+    {
+      "red": "Cetartiodactyla",
+      "vrsta_latinski": "Balaenoptera physalus",
+      "vrsta_hrvatski": "kit perajar",
+      "endem": ""
+    },
+    {
+      "red": "Artiodactyla",
+      "vrsta_latinski": "Rupicapra rupicapra balcanica",
+      "vrsta_hrvatski": "balkanska divokoza",
+      "endem": ""
+    },
+    {
+      "red": "Cetacea",
+      "vrsta_latinski": "Delphinus delphis",
+      "vrsta_hrvatski": "obični dupin",
+      "endem": ""
+    },
+    {
+      "red": "Cetacea",
+      "vrsta_latinski": "Globicephala melas",
+      "vrsta_hrvatski": "bjelogrli dupin",
+      "endem": ""
+    },
+    {
+      "red": "Cetacea",
+      "vrsta_latinski": "Grampus griseus",
+      "vrsta_hrvatski": "glavati dupin",
+      "endem": ""
+    },
+    {
+      "red": "Cetacea",
+      "vrsta_latinski": "Pseudorca crassidens",
+      "vrsta_hrvatski": "crni dupin",
+      "endem": ""
+    },
+    {
+      "red": "Cetacea",
+      "vrsta_latinski": "Stenella coeruleoalba",
+      "vrsta_hrvatski": "prugasti dupin",
+      "endem": ""
+    },
+    {
+      "red": "Cetacea",
+      "vrsta_latinski": "Tursiops truncatus",
+      "vrsta_hrvatski": "dobri dupin",
+      "endem": ""
+    },
+    {
+      "red": "Cetacea",
+      "vrsta_latinski": "Physeter macrocephalus",
+      "vrsta_hrvatski": "ulješura",
+      "endem": ""
+    },
+    {
+      "red": "Cetacea",
+      "vrsta_latinski": "Ziphius cavirostris",
+      "vrsta_hrvatski": "krupnozubi dupin",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Tadarida teniotis",
+      "vrsta_hrvatski": "sredozemni slobodnorepac",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Rhinolophus blasii",
+      "vrsta_hrvatski": "Blazijev potkovnjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Rhinolophus euryale",
+      "vrsta_hrvatski": "južni potkovnjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Rhinolophus ferrumequinum",
+      "vrsta_hrvatski": "veliki potkovnjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Rhinolophus hipposideros",
+      "vrsta_hrvatski": "mali potkovnjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Rhinolophus mehelyi",
+      "vrsta_hrvatski": "Meheljev potkovnjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Barbastella barbastellus",
+      "vrsta_hrvatski": "širokouhi mračnjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Eptesicus nilssonii",
+      "vrsta_hrvatski": "sjeverni noćnjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Eptesicus serotinus",
+      "vrsta_hrvatski": "kasni noćnjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Hypsugo savii",
+      "vrsta_hrvatski": "primorski šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Miniopterus schreibersii",
+      "vrsta_hrvatski": "dugokrili pršnjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis alcathoe",
+      "vrsta_hrvatski": "mali brkati šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis aurascens",
+      "vrsta_hrvatski": "primorski brkati šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis bechsteinii",
+      "vrsta_hrvatski": "velikouhi šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis blythii",
+      "vrsta_hrvatski": "oštrouhi šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis brandtii",
+      "vrsta_hrvatski": "Brandtov šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis capaccinii",
+      "vrsta_hrvatski": "dugonogi šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis dasycneme",
+      "vrsta_hrvatski": "močvarni šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis daubentonii",
+      "vrsta_hrvatski": "riječni šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis emarginatus",
+      "vrsta_hrvatski": "riđi šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis myotis",
+      "vrsta_hrvatski": "veliki šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis mystacinus",
+      "vrsta_hrvatski": "brkati šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Myotis nattereri",
+      "vrsta_hrvatski": "resati šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Nyctalus lasiopterus",
+      "vrsta_hrvatski": "veliki večernjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Nyctalus leisleri",
+      "vrsta_hrvatski": "mali večernjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Nyctalus noctula",
+      "vrsta_hrvatski": "rani večernjak",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Pipistrellus kuhlii",
+      "vrsta_hrvatski": "bjelorubi šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Pipistrellus nathusii",
+      "vrsta_hrvatski": "mali šumski šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Pipistrellus pipistrellus",
+      "vrsta_hrvatski": "patuljasti šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Pipistrellus pygmaeus",
+      "vrsta_hrvatski": "patuljasti močvarni šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Plecotus austriacus",
+      "vrsta_hrvatski": "sivi dugoušan",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Plecotus auritus",
+      "vrsta_hrvatski": "smeđi dugoušan",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Plecotus kolombatovici",
+      "vrsta_hrvatski": "Kolombatovićev dugoušan",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Plecotus macrobullaris",
+      "vrsta_hrvatski": "gorski dugoušan",
+      "endem": ""
+    },
+    {
+      "red": "Chiroptera",
+      "vrsta_latinski": "Vespertilio murinus",
+      "vrsta_hrvatski": "dvobojni šišmiš",
+      "endem": ""
+    },
+    {
+      "red": "Eulipotyphla",
+      "vrsta_latinski": "Talpa europaea",
+      "vrsta_hrvatski": "krtica",
+      "endem": ""
+    },
+    {
+      "red": "Rodentia",
+      "vrsta_latinski": "Castor fiber",
+      "vrsta_hrvatski": "europski dabar",
+      "endem": ""
+    },
+    {
+      "red": "Rodentia",
+      "vrsta_latinski": "Cricetus cricetus",
+      "vrsta_hrvatski": "hrčak",
+      "endem": ""
+    },
+    {
+      "red": "Rodentia",
+      "vrsta_latinski": "Dinaromys bogdanovi",
+      "vrsta_hrvatski": "dinarski voluhar",
+      "endem": "da"
+    },
+    {
+      "red": "Rodentia",
+      "vrsta_latinski": "Dryomys nitedula",
+      "vrsta_hrvatski": "gorski puh",
+      "endem": ""
+    },
+    {
+      "red": "Rodentia",
+      "vrsta_latinski": "Muscardinus avellanarius",
+      "vrsta_hrvatski": "puh orašar",
+      "endem": ""
+    },
+    {
+      "red": "Rodentia",
+      "vrsta_latinski": "Spalax leucodon",
+      "vrsta_hrvatski": "sljepaš",
+      "endem": ""
+    },
+    {
+      "red": "Rodentia",
+      "vrsta_latinski": "Spermophilus citellus",
+      "vrsta_hrvatski": "tekunica",
+      "endem": ""
+    }
+  ],
+  "meta": {
+    "title": "Sisavci u Hrvatskoj - Free Download",
+    "description": "Popis divljih sisavaca Hrvatske s redom, latinskim i hrvatskim nazivom vrste te oznakom endema. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sisavci u Hrvatskoj | ListBase",
+    "seo_description": "Download Sisavci u Hrvatskoj — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_sisavaca_u_Hrvatskoj"
+    ]
+  }
+}
