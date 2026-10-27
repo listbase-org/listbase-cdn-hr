@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-20T04:14:53.270Z",
-  "total_datasets": 416,
-  "total_records": 822019,
+  "generated": "2026-10-27T02:28:21.840Z",
+  "total_datasets": 417,
+  "total_records": 822252,
   "categories": [
     {
       "id": "culture",
@@ -35,6 +35,10 @@
     {
       "id": "health",
       "dataset_count": 7
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "language",
@@ -2615,6 +2619,30 @@
         "xlsx": {
           "name": "hr-veterinarske-ambulante_HR.xlsx",
           "size": 11963
+        }
+      }
+    },
+    {
+      "id": "hr-banovi",
+      "name": "Hrvatski banovi",
+      "category": "history",
+      "record_count": 233,
+      "columns": [
+        "ban",
+        "razdoblje",
+        "banovina"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_banova",
+      "updated": "2026-10",
+      "size": 32833,
+      "files": {
+        "csv": {
+          "name": "hr-banovi_HR.csv",
+          "size": 16439
+        },
+        "xlsx": {
+          "name": "hr-banovi_HR.xlsx",
+          "size": 13450
         }
       }
     },
