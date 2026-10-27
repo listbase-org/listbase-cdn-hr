@@ -1,12 +1,16 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:24.255Z",
-  "total_datasets": 418,
-  "total_records": 822286,
+  "generated": "2026-10-27T02:28:26.584Z",
+  "total_datasets": 419,
+  "total_records": 822303,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 14
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -593,6 +597,28 @@
         "xlsx": {
           "name": "hr-vjerski-uredi_HR.xlsx",
           "size": 10549
+        }
+      }
+    },
+    {
+      "id": "hr-ekonomisti",
+      "name": "Hrvatski ekonomisti",
+      "category": "economy",
+      "record_count": 17,
+      "columns": [
+        "ime"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_ekonomista",
+      "updated": "2026-10",
+      "size": 1791,
+      "files": {
+        "csv": {
+          "name": "hr-ekonomisti_HR.csv",
+          "size": 307
+        },
+        "xlsx": {
+          "name": "hr-ekonomisti_HR.xlsx",
+          "size": 6966
         }
       }
     },

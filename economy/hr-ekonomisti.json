@@ -1,0 +1,82 @@
+{
+  "id": "hr-ekonomisti",
+  "name": "Hrvatski ekonomisti",
+  "title": "Hrvatski ekonomisti",
+  "description": "Popis poznatih hrvatskih ekonomista.",
+  "category": "economy",
+  "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_ekonomista",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_ekonomista",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ime": "Mate Babić"
+    },
+    {
+      "ime": "Ivan Bartolović"
+    },
+    {
+      "ime": "Rudolf Bićanić"
+    },
+    {
+      "ime": "Ivo Bićanić"
+    },
+    {
+      "ime": "Adolf Dragičević"
+    },
+    {
+      "ime": "Branko Horvat"
+    },
+    {
+      "ime": "Marijan Korošić"
+    },
+    {
+      "ime": "Lauc Ante"
+    },
+    {
+      "ime": "Đuro Njavro"
+    },
+    {
+      "ime": "Saša Petar"
+    },
+    {
+      "ime": "Ivo Perišin"
+    },
+    {
+      "ime": "Vladimir Pertot"
+    },
+    {
+      "ime": "Jakov Sirotković"
+    },
+    {
+      "ime": "Velimir Šonje"
+    },
+    {
+      "ime": "Ivo Vinski"
+    },
+    {
+      "ime": "Alica Wertheimer-Baletić"
+    },
+    {
+      "ime": "Vladimir Žerjavić"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatski ekonomisti - Free Download",
+    "description": "Popis poznatih hrvatskih ekonomista. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatski ekonomisti | ListBase",
+    "seo_description": "Download Hrvatski ekonomisti — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 1 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_hrvatskih_ekonomista"
+    ]
+  }
+}
