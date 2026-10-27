@@ -1,0 +1,826 @@
+{
+  "id": "hr-prirodno-kretanje-stanovnistva",
+  "name": "Prirodno kretanje stanovništva Hrvatske",
+  "title": "Prirodno kretanje stanovništva Hrvatske",
+  "description": "Godišnji podaci o stanovništvu Hrvatske od 1950.: prosječno stanovništvo, živorođeni, umrli, prirodni prirast i stope na 1000 stanovnika.",
+  "category": "society",
+  "source": "https://hr.wikipedia.org/wiki/Stanovništvo_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Stanovništvo_Hrvatske",
+  "updated": "2026-10",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "prosjecno_stanovnistvo",
+      "label": "Prosjecno Stanovnistvo",
+      "type": "number"
+    },
+    {
+      "key": "zivorodeni",
+      "label": "Zivorodeni",
+      "type": "number"
+    },
+    {
+      "key": "umrli",
+      "label": "Umrli",
+      "type": "number"
+    },
+    {
+      "key": "prirodni_prirast",
+      "label": "Prirodni Prirast",
+      "type": "number"
+    },
+    {
+      "key": "stopa_nataliteta",
+      "label": "Stopa Nataliteta",
+      "type": "number"
+    },
+    {
+      "key": "stopa_mortaliteta",
+      "label": "Stopa Mortaliteta",
+      "type": "number"
+    },
+    {
+      "key": "stopa_prirodnog_prirasta",
+      "label": "Stopa Prirodnog Prirasta",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "godina": "1950",
+      "prosjecno_stanovnistvo": 3850991,
+      "zivorodeni": 95174,
+      "umrli": 47292,
+      "prirodni_prirast": 47882,
+      "stopa_nataliteta": 24.7,
+      "stopa_mortaliteta": 12.3,
+      "stopa_prirodnog_prirasta": 12.4
+    },
+    {
+      "godina": "1951",
+      "prosjecno_stanovnistvo": 3881986,
+      "zivorodeni": 87181,
+      "umrli": 49804,
+      "prirodni_prirast": 37377,
+      "stopa_nataliteta": 22.5,
+      "stopa_mortaliteta": 12.8,
+      "stopa_prirodnog_prirasta": 9.6
+    },
+    {
+      "godina": "1952",
+      "prosjecno_stanovnistvo": 3912983,
+      "zivorodeni": 91225,
+      "umrli": 43512,
+      "prirodni_prirast": 47713,
+      "stopa_nataliteta": 23.3,
+      "stopa_mortaliteta": 11.1,
+      "stopa_prirodnog_prirasta": 12.2
+    },
+    {
+      "godina": "1953",
+      "prosjecno_stanovnistvo": 3945997,
+      "zivorodeni": 90200,
+      "umrli": 46662,
+      "prirodni_prirast": 43538,
+      "stopa_nataliteta": 22.9,
+      "stopa_mortaliteta": 11.8,
+      "stopa_prirodnog_prirasta": 11
+    },
+    {
+      "godina": "1954",
+      "prosjecno_stanovnistvo": 3978125,
+      "zivorodeni": 89309,
+      "umrli": 41071,
+      "prirodni_prirast": 48238,
+      "stopa_nataliteta": 22.5,
+      "stopa_mortaliteta": 10.3,
+      "stopa_prirodnog_prirasta": 12.1
+    },
+    {
+      "godina": "1955",
+      "prosjecno_stanovnistvo": 4013015,
+      "zivorodeni": 88657,
+      "umrli": 42035,
+      "prirodni_prirast": 46622,
+      "stopa_nataliteta": 22.1,
+      "stopa_mortaliteta": 10.5,
+      "stopa_prirodnog_prirasta": 11.6
+    },
+    {
+      "godina": "1956",
+      "prosjecno_stanovnistvo": 4039992,
+      "zivorodeni": 86171,
+      "umrli": 43772,
+      "prirodni_prirast": 42399,
+      "stopa_nataliteta": 21.3,
+      "stopa_mortaliteta": 10.8,
+      "stopa_prirodnog_prirasta": 10.5
+    },
+    {
+      "godina": "1957",
+      "prosjecno_stanovnistvo": 4067005,
+      "zivorodeni": 81414,
+      "umrli": 40261,
+      "prirodni_prirast": 41153,
+      "stopa_nataliteta": 20,
+      "stopa_mortaliteta": 9.9,
+      "stopa_prirodnog_prirasta": 10.1
+    },
+    {
+      "godina": "1958",
+      "prosjecno_stanovnistvo": 4088987,
+      "zivorodeni": 77771,
+      "umrli": 37980,
+      "prirodni_prirast": 39791,
+      "stopa_nataliteta": 19,
+      "stopa_mortaliteta": 9.3,
+      "stopa_prirodnog_prirasta": 9.7
+    },
+    {
+      "godina": "1959",
+      "prosjecno_stanovnistvo": 4114979,
+      "zivorodeni": 78233,
+      "umrli": 40688,
+      "prirodni_prirast": 37545,
+      "stopa_nataliteta": 19,
+      "stopa_mortaliteta": 9.9,
+      "stopa_prirodnog_prirasta": 9.1
+    },
+    {
+      "godina": "1960",
+      "prosjecno_stanovnistvo": 4140181,
+      "zivorodeni": 76156,
+      "umrli": 41361,
+      "prirodni_prirast": 34795,
+      "stopa_nataliteta": 18.4,
+      "stopa_mortaliteta": 10,
+      "stopa_prirodnog_prirasta": 8.4
+    },
+    {
+      "godina": "1961",
+      "prosjecno_stanovnistvo": 4167292,
+      "zivorodeni": 74190,
+      "umrli": 37796,
+      "prirodni_prirast": 36394,
+      "stopa_nataliteta": 17.8,
+      "stopa_mortaliteta": 9.1,
+      "stopa_prirodnog_prirasta": 8.7
+    },
+    {
+      "godina": "1962",
+      "prosjecno_stanovnistvo": 4196712,
+      "zivorodeni": 72267,
+      "umrli": 42134,
+      "prirodni_prirast": 30133,
+      "stopa_nataliteta": 17.2,
+      "stopa_mortaliteta": 10,
+      "stopa_prirodnog_prirasta": 7.2
+    },
+    {
+      "godina": "1963",
+      "prosjecno_stanovnistvo": 4225675,
+      "zivorodeni": 69878,
+      "umrli": 38597,
+      "prirodni_prirast": 31281,
+      "stopa_nataliteta": 16.5,
+      "stopa_mortaliteta": 9.1,
+      "stopa_prirodnog_prirasta": 7.4
+    },
+    {
+      "godina": "1964",
+      "prosjecno_stanovnistvo": 4252876,
+      "zivorodeni": 68873,
+      "umrli": 43013,
+      "prirodni_prirast": 25860,
+      "stopa_nataliteta": 16.2,
+      "stopa_mortaliteta": 10.1,
+      "stopa_prirodnog_prirasta": 6.1
+    },
+    {
+      "godina": "1965",
+      "prosjecno_stanovnistvo": 4280923,
+      "zivorodeni": 71186,
+      "umrli": 39936,
+      "prirodni_prirast": 31250,
+      "stopa_nataliteta": 16.6,
+      "stopa_mortaliteta": 9.3,
+      "stopa_prirodnog_prirasta": 7.3
+    },
+    {
+      "godina": "1966",
+      "prosjecno_stanovnistvo": 4310701,
+      "zivorodeni": 71325,
+      "umrli": 37941,
+      "prirodni_prirast": 33384,
+      "stopa_nataliteta": 16.5,
+      "stopa_mortaliteta": 8.8,
+      "stopa_prirodnog_prirasta": 7.7
+    },
+    {
+      "godina": "1967",
+      "prosjecno_stanovnistvo": 4338683,
+      "zivorodeni": 67103,
+      "umrli": 41381,
+      "prirodni_prirast": 25722,
+      "stopa_nataliteta": 15.5,
+      "stopa_mortaliteta": 9.5,
+      "stopa_prirodnog_prirasta": 6
+    },
+    {
+      "godina": "1968",
+      "prosjecno_stanovnistvo": 4365628,
+      "zivorodeni": 65431,
+      "umrli": 43720,
+      "prirodni_prirast": 21711,
+      "stopa_nataliteta": 15,
+      "stopa_mortaliteta": 10,
+      "stopa_prirodnog_prirasta": 5
+    },
+    {
+      "godina": "1969",
+      "prosjecno_stanovnistvo": 4391490,
+      "zivorodeni": 63635,
+      "umrli": 46844,
+      "prirodni_prirast": 16791,
+      "stopa_nataliteta": 14.5,
+      "stopa_mortaliteta": 10.7,
+      "stopa_prirodnog_prirasta": 3.8
+    },
+    {
+      "godina": "1970",
+      "prosjecno_stanovnistvo": 4412252,
+      "zivorodeni": 61103,
+      "umrli": 44148,
+      "prirodni_prirast": 16955,
+      "stopa_nataliteta": 13.8,
+      "stopa_mortaliteta": 10,
+      "stopa_prirodnog_prirasta": 3.8
+    },
+    {
+      "godina": "1971",
+      "prosjecno_stanovnistvo": 4431275,
+      "zivorodeni": 64890,
+      "umrli": 44878,
+      "prirodni_prirast": 20012,
+      "stopa_nataliteta": 14.6,
+      "stopa_mortaliteta": 10.1,
+      "stopa_prirodnog_prirasta": 4.5
+    },
+    {
+      "godina": "1972",
+      "prosjecno_stanovnistvo": 4450564,
+      "zivorodeni": 66035,
+      "umrli": 47881,
+      "prirodni_prirast": 18154,
+      "stopa_nataliteta": 14.8,
+      "stopa_mortaliteta": 10.8,
+      "stopa_prirodnog_prirasta": 4.1
+    },
+    {
+      "godina": "1973",
+      "prosjecno_stanovnistvo": 4470161,
+      "zivorodeni": 67389,
+      "umrli": 45680,
+      "prirodni_prirast": 21709,
+      "stopa_nataliteta": 15.1,
+      "stopa_mortaliteta": 10.2,
+      "stopa_prirodnog_prirasta": 4.9
+    },
+    {
+      "godina": "1974",
+      "prosjecno_stanovnistvo": 4490660,
+      "zivorodeni": 67251,
+      "umrli": 44950,
+      "prirodni_prirast": 22301,
+      "stopa_nataliteta": 15,
+      "stopa_mortaliteta": 10,
+      "stopa_prirodnog_prirasta": 5
+    },
+    {
+      "godina": "1975",
+      "prosjecno_stanovnistvo": 4512082,
+      "zivorodeni": 67016,
+      "umrli": 45640,
+      "prirodni_prirast": 21376,
+      "stopa_nataliteta": 14.9,
+      "stopa_mortaliteta": 10.1,
+      "stopa_prirodnog_prirasta": 4.7
+    },
+    {
+      "godina": "1976",
+      "prosjecno_stanovnistvo": 4535934,
+      "zivorodeni": 67054,
+      "umrli": 45074,
+      "prirodni_prirast": 21980,
+      "stopa_nataliteta": 14.8,
+      "stopa_mortaliteta": 9.9,
+      "stopa_prirodnog_prirasta": 4.8
+    },
+    {
+      "godina": "1977",
+      "prosjecno_stanovnistvo": 4559571,
+      "zivorodeni": 68035,
+      "umrli": 45156,
+      "prirodni_prirast": 22879,
+      "stopa_nataliteta": 14.9,
+      "stopa_mortaliteta": 9.9,
+      "stopa_prirodnog_prirasta": 5
+    },
+    {
+      "godina": "1978",
+      "prosjecno_stanovnistvo": 4581085,
+      "zivorodeni": 68704,
+      "umrli": 48715,
+      "prirodni_prirast": 19989,
+      "stopa_nataliteta": 15,
+      "stopa_mortaliteta": 10.6,
+      "stopa_prirodnog_prirasta": 4.4
+    },
+    {
+      "godina": "1979",
+      "prosjecno_stanovnistvo": 4594778,
+      "zivorodeni": 69229,
+      "umrli": 48426,
+      "prirodni_prirast": 20803,
+      "stopa_nataliteta": 15.1,
+      "stopa_mortaliteta": 10.5,
+      "stopa_prirodnog_prirasta": 4.5
+    },
+    {
+      "godina": "1980",
+      "prosjecno_stanovnistvo": 4599782,
+      "zivorodeni": 68220,
+      "umrli": 50100,
+      "prirodni_prirast": 18120,
+      "stopa_nataliteta": 14.8,
+      "stopa_mortaliteta": 10.9,
+      "stopa_prirodnog_prirasta": 3.9
+    },
+    {
+      "godina": "1981",
+      "prosjecno_stanovnistvo": 4611509,
+      "zivorodeni": 67455,
+      "umrli": 51420,
+      "prirodni_prirast": 16035,
+      "stopa_nataliteta": 14.6,
+      "stopa_mortaliteta": 11.2,
+      "stopa_prirodnog_prirasta": 3.5
+    },
+    {
+      "godina": "1982",
+      "prosjecno_stanovnistvo": 4634234,
+      "zivorodeni": 66737,
+      "umrli": 50770,
+      "prirodni_prirast": 15967,
+      "stopa_nataliteta": 14.4,
+      "stopa_mortaliteta": 11,
+      "stopa_prirodnog_prirasta": 3.4
+    },
+    {
+      "godina": "1983",
+      "prosjecno_stanovnistvo": 4658254,
+      "zivorodeni": 65599,
+      "umrli": 55147,
+      "prirodni_prirast": 10452,
+      "stopa_nataliteta": 14.1,
+      "stopa_mortaliteta": 11.8,
+      "stopa_prirodnog_prirasta": 2.2
+    },
+    {
+      "godina": "1984",
+      "prosjecno_stanovnistvo": 4680285,
+      "zivorodeni": 64888,
+      "umrli": 54169,
+      "prirodni_prirast": 10719,
+      "stopa_nataliteta": 13.9,
+      "stopa_mortaliteta": 11.6,
+      "stopa_prirodnog_prirasta": 2.3
+    },
+    {
+      "godina": "1985",
+      "prosjecno_stanovnistvo": 4701417,
+      "zivorodeni": 62665,
+      "umrli": 52067,
+      "prirodni_prirast": 10598,
+      "stopa_nataliteta": 13.3,
+      "stopa_mortaliteta": 11.1,
+      "stopa_prirodnog_prirasta": 2.3
+    },
+    {
+      "godina": "1986",
+      "prosjecno_stanovnistvo": 4721446,
+      "zivorodeni": 60226,
+      "umrli": 51740,
+      "prirodni_prirast": 8486,
+      "stopa_nataliteta": 12.8,
+      "stopa_mortaliteta": 11,
+      "stopa_prirodnog_prirasta": 1.8
+    },
+    {
+      "godina": "1987",
+      "prosjecno_stanovnistvo": 4739745,
+      "zivorodeni": 59209,
+      "umrli": 53080,
+      "prirodni_prirast": 6129,
+      "stopa_nataliteta": 12.5,
+      "stopa_mortaliteta": 11.2,
+      "stopa_prirodnog_prirasta": 1.3
+    },
+    {
+      "godina": "1988",
+      "prosjecno_stanovnistvo": 4755207,
+      "zivorodeni": 58525,
+      "umrli": 52686,
+      "prirodni_prirast": 5839,
+      "stopa_nataliteta": 12.3,
+      "stopa_mortaliteta": 11.1,
+      "stopa_prirodnog_prirasta": 1.2
+    },
+    {
+      "godina": "1989",
+      "prosjecno_stanovnistvo": 4767260,
+      "zivorodeni": 55651,
+      "umrli": 52569,
+      "prirodni_prirast": 3082,
+      "stopa_nataliteta": 11.7,
+      "stopa_mortaliteta": 11,
+      "stopa_prirodnog_prirasta": 0.6
+    },
+    {
+      "godina": "1990",
+      "prosjecno_stanovnistvo": 4777368,
+      "zivorodeni": 55409,
+      "umrli": 52192,
+      "prirodni_prirast": 3217,
+      "stopa_nataliteta": 11.6,
+      "stopa_mortaliteta": 10.9,
+      "stopa_prirodnog_prirasta": 0.7
+    },
+    {
+      "godina": "1991",
+      "prosjecno_stanovnistvo": 4733938,
+      "zivorodeni": 51829,
+      "umrli": 54832,
+      "prirodni_prirast": -3003,
+      "stopa_nataliteta": 10.9,
+      "stopa_mortaliteta": 11.6,
+      "stopa_prirodnog_prirasta": -0.6
+    },
+    {
+      "godina": "1992",
+      "prosjecno_stanovnistvo": 4690509,
+      "zivorodeni": 46970,
+      "umrli": 51800,
+      "prirodni_prirast": -4830,
+      "stopa_nataliteta": 10,
+      "stopa_mortaliteta": 11,
+      "stopa_prirodnog_prirasta": -1
+    },
+    {
+      "godina": "1993",
+      "prosjecno_stanovnistvo": 4647079,
+      "zivorodeni": 48535,
+      "umrli": 50846,
+      "prirodni_prirast": -2311,
+      "stopa_nataliteta": 10.4,
+      "stopa_mortaliteta": 10.9,
+      "stopa_prirodnog_prirasta": -0.5
+    },
+    {
+      "godina": "1994",
+      "prosjecno_stanovnistvo": 4603649,
+      "zivorodeni": 48584,
+      "umrli": 49482,
+      "prirodni_prirast": -898,
+      "stopa_nataliteta": 10.6,
+      "stopa_mortaliteta": 10.7,
+      "stopa_prirodnog_prirasta": -0.2
+    },
+    {
+      "godina": "1995",
+      "prosjecno_stanovnistvo": 4560220,
+      "zivorodeni": 50182,
+      "umrli": 50536,
+      "prirodni_prirast": -354,
+      "stopa_nataliteta": 11,
+      "stopa_mortaliteta": 11.1,
+      "stopa_prirodnog_prirasta": -0.1
+    },
+    {
+      "godina": "1996",
+      "prosjecno_stanovnistvo": 4516790,
+      "zivorodeni": 53811,
+      "umrli": 50636,
+      "prirodni_prirast": 3175,
+      "stopa_nataliteta": 11.9,
+      "stopa_mortaliteta": 11.2,
+      "stopa_prirodnog_prirasta": 0.7
+    },
+    {
+      "godina": "1997",
+      "prosjecno_stanovnistvo": 4473361,
+      "zivorodeni": 55501,
+      "umrli": 51964,
+      "prirodni_prirast": 3537,
+      "stopa_nataliteta": 12.4,
+      "stopa_mortaliteta": 11.6,
+      "stopa_prirodnog_prirasta": 0.8
+    },
+    {
+      "godina": "1998",
+      "prosjecno_stanovnistvo": 4429931,
+      "zivorodeni": 47068,
+      "umrli": 52311,
+      "prirodni_prirast": -5243,
+      "stopa_nataliteta": 10.6,
+      "stopa_mortaliteta": 11.8,
+      "stopa_prirodnog_prirasta": -1.2
+    },
+    {
+      "godina": "1999",
+      "prosjecno_stanovnistvo": 4386501,
+      "zivorodeni": 45179,
+      "umrli": 51953,
+      "prirodni_prirast": -6774,
+      "stopa_nataliteta": 10.3,
+      "stopa_mortaliteta": 11.8,
+      "stopa_prirodnog_prirasta": -1.5
+    },
+    {
+      "godina": "2000",
+      "prosjecno_stanovnistvo": 4343072,
+      "zivorodeni": 43746,
+      "umrli": 50246,
+      "prirodni_prirast": -6500,
+      "stopa_nataliteta": 10.1,
+      "stopa_mortaliteta": 11.6,
+      "stopa_prirodnog_prirasta": -1.5
+    },
+    {
+      "godina": "2001",
+      "prosjecno_stanovnistvo": 4299642,
+      "zivorodeni": 40993,
+      "umrli": 49552,
+      "prirodni_prirast": -8559,
+      "stopa_nataliteta": 9.5,
+      "stopa_mortaliteta": 11.5,
+      "stopa_prirodnog_prirasta": -2
+    },
+    {
+      "godina": "2002",
+      "prosjecno_stanovnistvo": 4302174,
+      "zivorodeni": 40094,
+      "umrli": 50569,
+      "prirodni_prirast": -10475,
+      "stopa_nataliteta": 9.3,
+      "stopa_mortaliteta": 11.8,
+      "stopa_prirodnog_prirasta": -2.4
+    },
+    {
+      "godina": "2003",
+      "prosjecno_stanovnistvo": 4303399,
+      "zivorodeni": 39668,
+      "umrli": 52575,
+      "prirodni_prirast": -12907,
+      "stopa_nataliteta": 9.2,
+      "stopa_mortaliteta": 12.2,
+      "stopa_prirodnog_prirasta": -3
+    },
+    {
+      "godina": "2004",
+      "prosjecno_stanovnistvo": 4304600,
+      "zivorodeni": 40307,
+      "umrli": 49756,
+      "prirodni_prirast": -9449,
+      "stopa_nataliteta": 9.4,
+      "stopa_mortaliteta": 11.6,
+      "stopa_prirodnog_prirasta": -2.2
+    },
+    {
+      "godina": "2005",
+      "prosjecno_stanovnistvo": 4310145,
+      "zivorodeni": 42492,
+      "umrli": 51790,
+      "prirodni_prirast": -9298,
+      "stopa_nataliteta": 9.9,
+      "stopa_mortaliteta": 12,
+      "stopa_prirodnog_prirasta": -2.2
+    },
+    {
+      "godina": "2006",
+      "prosjecno_stanovnistvo": 4311159,
+      "zivorodeni": 41446,
+      "umrli": 50378,
+      "prirodni_prirast": -8932,
+      "stopa_nataliteta": 9.6,
+      "stopa_mortaliteta": 11.7,
+      "stopa_prirodnog_prirasta": -2.1
+    },
+    {
+      "godina": "2007",
+      "prosjecno_stanovnistvo": 4310217,
+      "zivorodeni": 41910,
+      "umrli": 52367,
+      "prirodni_prirast": -10457,
+      "stopa_nataliteta": 9.7,
+      "stopa_mortaliteta": 12.1,
+      "stopa_prirodnog_prirasta": -2.4
+    },
+    {
+      "godina": "2008",
+      "prosjecno_stanovnistvo": 4309705,
+      "zivorodeni": 43753,
+      "umrli": 52151,
+      "prirodni_prirast": -8398,
+      "stopa_nataliteta": 10.2,
+      "stopa_mortaliteta": 12.1,
+      "stopa_prirodnog_prirasta": -1.9
+    },
+    {
+      "godina": "2009",
+      "prosjecno_stanovnistvo": 4305181,
+      "zivorodeni": 44577,
+      "umrli": 52414,
+      "prirodni_prirast": -7837,
+      "stopa_nataliteta": 10.4,
+      "stopa_mortaliteta": 12.2,
+      "stopa_prirodnog_prirasta": -1.8
+    },
+    {
+      "godina": "2010",
+      "prosjecno_stanovnistvo": 4295427,
+      "zivorodeni": 43361,
+      "umrli": 52096,
+      "prirodni_prirast": -8735,
+      "stopa_nataliteta": 10.1,
+      "stopa_mortaliteta": 12.1,
+      "stopa_prirodnog_prirasta": -2
+    },
+    {
+      "godina": "2011",
+      "prosjecno_stanovnistvo": 4280622,
+      "zivorodeni": 41197,
+      "umrli": 51019,
+      "prirodni_prirast": -9822,
+      "stopa_nataliteta": 9.6,
+      "stopa_mortaliteta": 11.9,
+      "stopa_prirodnog_prirasta": -2.3
+    },
+    {
+      "godina": "2012",
+      "prosjecno_stanovnistvo": 4260368,
+      "zivorodeni": 41771,
+      "umrli": 51710,
+      "prirodni_prirast": -9939,
+      "stopa_nataliteta": 9.8,
+      "stopa_mortaliteta": 12.1,
+      "stopa_prirodnog_prirasta": -2.3
+    },
+    {
+      "godina": "2013",
+      "prosjecno_stanovnistvo": 4233922,
+      "zivorodeni": 39939,
+      "umrli": 50386,
+      "prirodni_prirast": -10447,
+      "stopa_nataliteta": 9.4,
+      "stopa_mortaliteta": 11.9,
+      "stopa_prirodnog_prirasta": -2.5
+    },
+    {
+      "godina": "2014",
+      "prosjecno_stanovnistvo": 4201598,
+      "zivorodeni": 39566,
+      "umrli": 50839,
+      "prirodni_prirast": -11273,
+      "stopa_nataliteta": 9.4,
+      "stopa_mortaliteta": 12.1,
+      "stopa_prirodnog_prirasta": -2.7
+    },
+    {
+      "godina": "2015",
+      "prosjecno_stanovnistvo": 4151725,
+      "zivorodeni": 37503,
+      "umrli": 54205,
+      "prirodni_prirast": -16702,
+      "stopa_nataliteta": 9,
+      "stopa_mortaliteta": 13.1,
+      "stopa_prirodnog_prirasta": -4
+    },
+    {
+      "godina": "2016",
+      "prosjecno_stanovnistvo": 4106867,
+      "zivorodeni": 37537,
+      "umrli": 51542,
+      "prirodni_prirast": -14005,
+      "stopa_nataliteta": 9.1,
+      "stopa_mortaliteta": 12.6,
+      "stopa_prirodnog_prirasta": -3.4
+    },
+    {
+      "godina": "2017",
+      "prosjecno_stanovnistvo": 4041407,
+      "zivorodeni": 36556,
+      "umrli": 53477,
+      "prirodni_prirast": -16921,
+      "stopa_nataliteta": 9,
+      "stopa_mortaliteta": 13.2,
+      "stopa_prirodnog_prirasta": -4.2
+    },
+    {
+      "godina": "2018",
+      "prosjecno_stanovnistvo": 3988775,
+      "zivorodeni": 36945,
+      "umrli": 52706,
+      "prirodni_prirast": -15761,
+      "stopa_nataliteta": 9.3,
+      "stopa_mortaliteta": 13.2,
+      "stopa_prirodnog_prirasta": -4
+    },
+    {
+      "godina": "2019",
+      "prosjecno_stanovnistvo": 3949390,
+      "zivorodeni": 36135,
+      "umrli": 51794,
+      "prirodni_prirast": -15659,
+      "stopa_nataliteta": 9.1,
+      "stopa_mortaliteta": 13.1,
+      "stopa_prirodnog_prirasta": -4
+    },
+    {
+      "godina": "2020",
+      "prosjecno_stanovnistvo": 3914206,
+      "zivorodeni": 35845,
+      "umrli": 57023,
+      "prirodni_prirast": -21178,
+      "stopa_nataliteta": 9.2,
+      "stopa_mortaliteta": 14.6,
+      "stopa_prirodnog_prirasta": -5.4
+    },
+    {
+      "godina": "2021",
+      "prosjecno_stanovnistvo": 3878981,
+      "zivorodeni": 36508,
+      "umrli": 62712,
+      "prirodni_prirast": -26204,
+      "stopa_nataliteta": 9.4,
+      "stopa_mortaliteta": 16.2,
+      "stopa_prirodnog_prirasta": -6.8
+    },
+    {
+      "godina": "2022",
+      "prosjecno_stanovnistvo": 3855641,
+      "zivorodeni": 33883,
+      "umrli": 56979,
+      "prirodni_prirast": -23096,
+      "stopa_nataliteta": 8.8,
+      "stopa_mortaliteta": 14.8,
+      "stopa_prirodnog_prirasta": -6
+    },
+    {
+      "godina": "2023",
+      "prosjecno_stanovnistvo": 3859686,
+      "zivorodeni": 32170,
+      "umrli": 51275,
+      "prirodni_prirast": -19105,
+      "stopa_nataliteta": 8.3,
+      "stopa_mortaliteta": 13.3,
+      "stopa_prirodnog_prirasta": -5
+    },
+    {
+      "godina": "2024",
+      "prosjecno_stanovnistvo": 3866233,
+      "zivorodeni": 32069,
+      "umrli": 51080,
+      "prirodni_prirast": -19011,
+      "stopa_nataliteta": 8.3,
+      "stopa_mortaliteta": 13.2,
+      "stopa_prirodnog_prirasta": -4.9
+    },
+    {
+      "godina": "2025",
+      "prosjecno_stanovnistvo": 3874993,
+      "zivorodeni": 32479,
+      "umrli": 50007,
+      "prirodni_prirast": -17528,
+      "stopa_nataliteta": 8.4,
+      "stopa_mortaliteta": 12.9,
+      "stopa_prirodnog_prirasta": -4.5
+    }
+  ],
+  "meta": {
+    "title": "Prirodno kretanje stanovništva Hrvatske - Free Download",
+    "description": "Godišnji podaci o stanovništvu Hrvatske od 1950.: prosječno stanovništvo, živorođeni, umrli, prirodni prirast i stope na 1000 stanovnika. Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prirodno kretanje stanovništva Hrvatske | ListBase",
+    "seo_description": "Download Prirodno kretanje stanovništva Hrvatske — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Stanovništvo_Hrvatske"
+    ]
+  }
+}
