@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:41.159Z",
-  "total_datasets": 425,
-  "total_records": 822825,
+  "generated": "2026-10-27T02:28:43.370Z",
+  "total_datasets": 426,
+  "total_records": 822899,
   "categories": [
     {
       "id": "culture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -2884,6 +2884,28 @@
         "xlsx": {
           "name": "hr-eurovizija_HR.xlsx",
           "size": 8920
+        }
+      }
+    },
+    {
+      "id": "hr-operni-pjevaci",
+      "name": "Hrvatski operni pjevači",
+      "category": "music",
+      "record_count": 74,
+      "columns": [
+        "ime"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_opernih_pjevača",
+      "updated": "2026-10",
+      "size": 4509,
+      "files": {
+        "csv": {
+          "name": "hr-operni-pjevaci_HR.csv",
+          "size": 1478
+        },
+        "xlsx": {
+          "name": "hr-operni-pjevaci_HR.xlsx",
+          "size": 8058
         }
       }
     },
