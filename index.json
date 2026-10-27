@@ -1,12 +1,12 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:29:03.090Z",
-  "total_datasets": 434,
-  "total_records": 823706,
+  "generated": "2026-10-27T02:29:05.480Z",
+  "total_datasets": 435,
+  "total_records": 823742,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -122,6 +122,28 @@
         "xlsx": {
           "name": "hr-pasmine-domacih-zivotinja_HR.xlsx",
           "size": 8309
+        }
+      }
+    },
+    {
+      "id": "hr-zasticeni-proizvodi-eu",
+      "name": "Hrvatski proizvodi zaštićenog naziva u EU",
+      "category": "agriculture",
+      "record_count": 36,
+      "columns": [
+        "proizvod"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_proizvoda_zaštićenog_naziva_u_Europskoj_uniji",
+      "updated": "2026-10",
+      "size": 3509,
+      "files": {
+        "csv": {
+          "name": "hr-zasticeni-proizvodi-eu_HR.csv",
+          "size": 913
+        },
+        "xlsx": {
+          "name": "hr-zasticeni-proizvodi-eu_HR.xlsx",
+          "size": 7354
         }
       }
     },
