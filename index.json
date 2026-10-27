@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:29.082Z",
-  "total_datasets": 420,
-  "total_records": 822335,
+  "generated": "2026-10-27T02:28:31.588Z",
+  "total_datasets": 421,
+  "total_records": 822465,
   "categories": [
     {
       "id": "culture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -9780,6 +9780,28 @@
         "xlsx": {
           "name": "hr-biolozi_HR.xlsx",
           "size": 7330
+        }
+      }
+    },
+    {
+      "id": "hr-filozofi",
+      "name": "Hrvatski filozofi",
+      "category": "science",
+      "record_count": 130,
+      "columns": [
+        "ime"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_filozofa",
+      "updated": "2026-10",
+      "size": 7077,
+      "files": {
+        "csv": {
+          "name": "hr-filozofi_HR.csv",
+          "size": 2691
+        },
+        "xlsx": {
+          "name": "hr-filozofi_HR.xlsx",
+          "size": 9053
         }
       }
     },
