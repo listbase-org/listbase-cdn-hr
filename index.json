@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:45.937Z",
-  "total_datasets": 427,
-  "total_records": 822972,
+  "generated": "2026-10-27T02:28:48.349Z",
+  "total_datasets": 428,
+  "total_records": 823403,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -2933,6 +2933,35 @@
         "xlsx": {
           "name": "hr-operni-pjevaci_HR.xlsx",
           "size": 8058
+        }
+      }
+    },
+    {
+      "id": "hr-politicke-stranke",
+      "name": "Političke stranke u Hrvatskoj",
+      "category": "politics",
+      "record_count": 431,
+      "columns": [
+        "registarski_broj",
+        "stranka",
+        "kratica",
+        "prijasnji_nazivi",
+        "profil",
+        "poseban_fokus",
+        "osnovana",
+        "ugasena"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_političkih_stranaka_u_Hrvatskoj",
+      "updated": "2026-10",
+      "size": 114090,
+      "files": {
+        "csv": {
+          "name": "hr-politicke-stranke_HR.csv",
+          "size": 34645
+        },
+        "xlsx": {
+          "name": "hr-politicke-stranke_HR.xlsx",
+          "size": 29423
         }
       }
     },

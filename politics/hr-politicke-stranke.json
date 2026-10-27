@@ -1,0 +1,4376 @@
+{
+  "id": "hr-politicke-stranke",
+  "name": "Političke stranke u Hrvatskoj",
+  "title": "Političke stranke u Hrvatskoj",
+  "description": "Popis registriranih političkih stranaka u Hrvatskoj s kraticom, prijašnjim nazivima, godinom osnivanja i gašenja.",
+  "category": "politics",
+  "source": "https://hr.wikipedia.org/wiki/Popis_političkih_stranaka_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_političkih_stranaka_u_Hrvatskoj",
+  "updated": "2026-10",
+  "record_count": 431,
+  "columns": [
+    {
+      "key": "registarski_broj",
+      "label": "Registarski Broj",
+      "type": "number"
+    },
+    {
+      "key": "stranka",
+      "label": "Stranka",
+      "type": "string"
+    },
+    {
+      "key": "kratica",
+      "label": "Kratica",
+      "type": "string"
+    },
+    {
+      "key": "prijasnji_nazivi",
+      "label": "Prijasnji Nazivi",
+      "type": "string"
+    },
+    {
+      "key": "profil",
+      "label": "Profil",
+      "type": "string"
+    },
+    {
+      "key": "poseban_fokus",
+      "label": "Poseban Fokus",
+      "type": "string"
+    },
+    {
+      "key": "osnovana",
+      "label": "Osnovana",
+      "type": "string"
+    },
+    {
+      "key": "ugasena",
+      "label": "Ugasena",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "registarski_broj": "99",
+      "stranka": "Abeceda demokracije",
+      "kratica": "ABECEDA",
+      "prijasnji_nazivi": "Hrvatska građansko seljačka stranka (HGSS; 1995.-2004.) Abeceda demokracije - Hrvatska građansko seljačka stranka (2004.-2007.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1995.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "139",
+      "stranka": "AG Zagrebačka stranka",
+      "kratica": "ZGS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2001.",
+      "ugasena": "2007."
+    },
+    {
+      "registarski_broj": "223",
+      "stranka": "Agenda mladih demokrata",
+      "kratica": "AMD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "mladi",
+      "osnovana": "2011.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "369",
+      "stranka": "Agrameri – nezavisna lista",
+      "kratica": "",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2020.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "402",
+      "stranka": "Agrarna stranka – pokret za hrvatsku poljoprivredu",
+      "kratica": "AS – PHP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "poljoprivreda",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "256",
+      "stranka": "Akcija bjelovarsko – bilogorska",
+      "kratica": "ABB",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "2022."
+    },
+    {
+      "registarski_broj": "185",
+      "stranka": "Akcija Hrvatske republikanske seljačke stranke",
+      "kratica": "Akcija HRSS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "2005.",
+      "ugasena": "2014."
+    },
+    {
+      "registarski_broj": "176",
+      "stranka": "Akcija mladih",
+      "kratica": "AM",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "mladi",
+      "osnovana": "2005.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "243",
+      "stranka": "Akcija slavonsko baranjskih umirovljenika",
+      "kratica": "ASBU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2012.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "96",
+      "stranka": "Akcija socijaldemokrata Hrvatske",
+      "kratica": "ASH",
+      "prijasnji_nazivi": "Socijalistička stranka Hrvatske (1990.-1994.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "247",
+      "stranka": "Akcija umirovljenici zajedno",
+      "kratica": "AUZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2012./2013.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "224",
+      "stranka": "Akcija za bolju Hrvatsku",
+      "kratica": "ABH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2011.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "292",
+      "stranka": "Aktivni branitelji i umirovljenici Hrvatske",
+      "kratica": "ABU Hrvatske",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici, branitelji",
+      "osnovana": "2015.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "312",
+      "stranka": "Aktivni nezavisni umirovljenici",
+      "kratica": "ANU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "52",
+      "stranka": "Albanska demokršćanska stranka Hrvatske",
+      "kratica": "ADMSH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Albanci), kršćani",
+      "osnovana": "1990.",
+      "ugasena": "2003."
+    },
+    {
+      "registarski_broj": "69",
+      "stranka": "Albanska islamska demokratska unija",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Albanci), muslimani",
+      "osnovana": "1991.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "162",
+      "stranka": "Alijansa za pravnu državu",
+      "kratica": "ALIJANSA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2003.",
+      "ugasena": "2011."
+    },
+    {
+      "registarski_broj": "155",
+      "stranka": "Alijansa za treću Hrvatsku",
+      "kratica": "ATH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2003.",
+      "ugasena": "2007."
+    },
+    {
+      "registarski_broj": "182",
+      "stranka": "Alternativa 101",
+      "kratica": "ALTERNATIVA",
+      "prijasnji_nazivi": "Mladi Hrvatske (2005.-2009.) Zeleni Istre (2009.-2017.) Alternativa (2017.-2020.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "428",
+      "stranka": "Alternativa nezavisni – Jasenko Krovinović",
+      "kratica": "ALTERNATIVA NEZAVISNI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "434",
+      "stranka": "Alternativa za Hrvatsku",
+      "kratica": "AZH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "412",
+      "stranka": "Ante Vičević – Lista za Kostrenu",
+      "kratica": "A.V. – Lista za Kostrenu",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "71",
+      "stranka": "Antiprohibicionistička slobodarska stranka",
+      "kratica": "ASS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1992.",
+      "ugasena": "2000."
+    },
+    {
+      "registarski_broj": "333",
+      "stranka": "Autohtona – Hrvatska seljačka stranka",
+      "kratica": "A – HSS",
+      "prijasnji_nazivi": "Autohtona - hrvatska seljačka stranka 1904 (A ‒ HSS 1904; 2017.-2019.)",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "2017.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "154",
+      "stranka": "Autohtona – Hrvatska stranka prava – Dražen Keleminec",
+      "kratica": "A – HSP – Dražen Keleminec",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2005.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "229",
+      "stranka": "Autohtona slavonsko posavska stranka",
+      "kratica": "ASPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2011.",
+      "ugasena": "2014."
+    },
+    {
+      "registarski_broj": "153",
+      "stranka": "Autonomna regionalna stranka Hrvatskog primorja, Gorskog kotara, otoka i Rijeke",
+      "kratica": "ARS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2003.",
+      "ugasena": "2019."
+    },
+    {
+      "registarski_broj": "22",
+      "stranka": "Autonomni demokratski savez Hrvatske",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "283",
+      "stranka": "Bandić Milan 365 – Stranka rada i solidarnosti",
+      "kratica": "365 STRANKA RADA I SOLIDARNOSTI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2015.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "210",
+      "stranka": "Banijska demokratska stranka",
+      "kratica": "BDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2009.",
+      "ugasena": "2017.ili2018."
+    },
+    {
+      "registarski_broj": "427",
+      "stranka": "Bernardić Davor – Nezavisna lista Servus Zagreb / Gradska platforma Servus Zagreb",
+      "kratica": "SERVUS ZAGREB",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "331",
+      "stranka": "Biraj bolje",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "193",
+      "stranka": "Blok poljoprivrednika Hrvatske",
+      "kratica": "BPH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "poljoprivreda",
+      "osnovana": "2007.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "217",
+      "stranka": "Blok umirovljenici zajedno",
+      "kratica": "BUZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2010.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "361",
+      "stranka": "Blok za Hrvatsku",
+      "kratica": "BLOK",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "307",
+      "stranka": "Blokirani – Deblokirajmo Hrvatsku",
+      "kratica": "BLOKIRANI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "stečajnici",
+      "osnovana": "2016.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "411",
+      "stranka": "BM365 Idemo delat!",
+      "kratica": "BM365",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2024.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "424",
+      "stranka": "Bolje sutra – nezavisna lista",
+      "kratica": "BSNL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "364",
+      "stranka": "Bolji Solin",
+      "kratica": "BS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2020.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "31",
+      "stranka": "Bosanska demokratska stranka",
+      "kratica": "BDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Bosanci)",
+      "osnovana": "1990.",
+      "ugasena": "2000."
+    },
+    {
+      "registarski_broj": "201",
+      "stranka": "Bošnjačka demokratska stranka Hrvatske",
+      "kratica": "BDSH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Bošnjaci)",
+      "osnovana": "2008.",
+      "ugasena": "2020."
+    },
+    {
+      "registarski_broj": "273",
+      "stranka": "Braniteljsko domoljubna stranka Hrvatske",
+      "kratica": "BDSH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "branitelji",
+      "osnovana": "2014.",
+      "ugasena": "2023."
+    },
+    {
+      "registarski_broj": "272",
+      "stranka": "Budnica Hrvatska – Zajednica bosanskih Hrvata",
+      "kratica": "BH – ZBH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Bosanci)",
+      "osnovana": "2014.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "340",
+      "stranka": "Bura",
+      "kratica": "-",
+      "prijasnji_nazivi": "Nezavisna lista Bura (2017.-2021.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "2022."
+    },
+    {
+      "registarski_broj": "290",
+      "stranka": "Centar",
+      "kratica": "-",
+      "prijasnji_nazivi": "Pametno (2015.-2021.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2015.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "258",
+      "stranka": "Čabarski pokret mladih",
+      "kratica": "ČPM",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "347",
+      "stranka": "\"Dalija Orešković i ljudi s imenom i prezimenom\"",
+      "kratica": "\"DO i SIP\" / SIP",
+      "prijasnji_nazivi": "Stranka borbe protiv korupcije, razvoja i transparentnosti (START; 2018.-2020.) Stranka s imenom i prezimenom (IP / SIP / STRIP / SsIP; 2020.)",
+      "profil": "",
+      "poseban_fokus": "antikorupcija",
+      "osnovana": "2018./2023.",
+      "ugasena": "2020./ ne"
+    },
+    {
+      "registarski_broj": "54",
+      "stranka": "Dalmatinska akcija",
+      "kratica": "DA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "2003."
+    },
+    {
+      "registarski_broj": "391",
+      "stranka": "Dalmatinska akcija",
+      "kratica": "DA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021./2022.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "183",
+      "stranka": "Dalmatinska liberalna stranka",
+      "kratica": "DLS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2005.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "240",
+      "stranka": "Dalmatinski demokrati",
+      "kratica": "DD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2012.",
+      "ugasena": "2019."
+    },
+    {
+      "registarski_broj": "330",
+      "stranka": "Damir Bajs nezavisna lista",
+      "kratica": "DAMIR BAJS NL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "413",
+      "stranka": "Dario Zurovec – Nezavisna lista",
+      "kratica": "DARIO ZUROVEC – NL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "346",
+      "stranka": "Demokrati",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2018.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "149",
+      "stranka": "Demokratska kneginečka stranka",
+      "kratica": "DKS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2002.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "32",
+      "stranka": "Demokratska kršćanska stranka",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "322",
+      "stranka": "Demokratska lokalna stranka",
+      "kratica": "DLS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "207",
+      "stranka": "Demokratska partija Srba",
+      "kratica": "DPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Srbi)",
+      "osnovana": "2009.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "125",
+      "stranka": "Demokratska prigorsko-zagrebačka stranka",
+      "kratica": "DPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1999.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "161",
+      "stranka": "Demokratska socijalna unija – Snaga naroda",
+      "kratica": "DSU – SN",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2003.",
+      "ugasena": "2010."
+    },
+    {
+      "registarski_broj": "341",
+      "stranka": "Demokratska stranka lipa",
+      "kratica": "DSL",
+      "prijasnji_nazivi": "Zagorska stranka za Zagreb (ZSZ; 2018.-2023.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2018.",
+      "ugasena": "2023."
+    },
+    {
+      "registarski_broj": "120",
+      "stranka": "Demokratska stranka slavonske ravnice",
+      "kratica": "SLAVONSKA RAVNICA",
+      "prijasnji_nazivi": "Stranka hrvatske ravnice (1998.-2004.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1998.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "135",
+      "stranka": "Demokratska stranka umirovljenika",
+      "kratica": "DSU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2001.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "171",
+      "stranka": "Demokratska stranka žena",
+      "kratica": "DSŽ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "žene",
+      "osnovana": "2004.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "49",
+      "stranka": "Demokratska zajednica muslimana Hrvatske",
+      "kratica": "DZMH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "muslimani",
+      "osnovana": "1990.",
+      "ugasena": "2000."
+    },
+    {
+      "registarski_broj": "129",
+      "stranka": "Demokratski centar",
+      "kratica": "DC",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2000.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "378",
+      "stranka": "Demokratski HSS",
+      "kratica": "DHSS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "26",
+      "stranka": "Demokratski savez Albanaca Hrvatske",
+      "kratica": "DSAH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Albanci)",
+      "osnovana": "1990.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "251",
+      "stranka": "Demokratski savez nacionalne obnove",
+      "kratica": "DESNO",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.ili2014.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "306",
+      "stranka": "Demokratski savez Srba",
+      "kratica": "DSS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Srbi)",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "317",
+      "stranka": "Demokratsko socijalna stranka Hrvatske",
+      "kratica": "DSSH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "407",
+      "stranka": "Demokršćani",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "416",
+      "stranka": "Dina Dogan – nezavisna lista",
+      "kratica": "Dina Dogan – NL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "375",
+      "stranka": "Direkt",
+      "kratica": "-",
+      "prijasnji_nazivi": "Pametno za Split i Dalmaciju (-)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "409",
+      "stranka": "Dom i nacionalno okupljanje",
+      "kratica": "DOMINO",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "267",
+      "stranka": "Domovina",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2014.",
+      "ugasena": "2019."
+    },
+    {
+      "registarski_broj": "77",
+      "stranka": "Domovinska građanska stranka",
+      "kratica": "DGS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1992.",
+      "ugasena": "2011."
+    },
+    {
+      "registarski_broj": "362",
+      "stranka": "Domovinski pokret",
+      "kratica": "DP",
+      "prijasnji_nazivi": "Domovinski pokret Miroslava Škore (2020.-2021.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2020.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "415",
+      "stranka": "Dr. Nenad Panian – nezavisna lista",
+      "kratica": "DR. NENAD PANIAN – NL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "334",
+      "stranka": "Dubrovačka bošnjačka stranka",
+      "kratica": "DBS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Bošnjaci)",
+      "osnovana": "2017.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "287",
+      "stranka": "Dubrovačka stranka",
+      "kratica": "DUSTRA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2015.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "244",
+      "stranka": "Dubrovački demokratski sabor",
+      "kratica": "DDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2012.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "310",
+      "stranka": "Duspara Mirko – nezavisna lista",
+      "kratica": "DUSPARA MIRKO – NL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "28",
+      "stranka": "Ekološki pokret \"Zelena Akcija\" Šibenik",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "365",
+      "stranka": "Fokus",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2020.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "328",
+      "stranka": "Generacija obnove",
+      "kratica": "GO",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "225",
+      "stranka": "Glas razuma",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2011.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "254",
+      "stranka": "Glas Zaprešića – nezavisna lista",
+      "kratica": "GZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "2019."
+    },
+    {
+      "registarski_broj": "187",
+      "stranka": "Gospodarska stranka",
+      "kratica": "GS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2006.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "253",
+      "stranka": "Građanska akcija Lumbarda",
+      "kratica": "G.A.L.",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "349",
+      "stranka": "Građanska inicijativa – MOŽEMO!",
+      "kratica": "MOŽEMO!",
+      "prijasnji_nazivi": "Građanska inicijativa za Osijek – Možemo! ???",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "2020."
+    },
+    {
+      "registarski_broj": "274",
+      "stranka": "Građanska opcija grada Osijeka",
+      "kratica": "GOGO",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2014.",
+      "ugasena": "2023."
+    },
+    {
+      "registarski_broj": "29",
+      "stranka": "Građanska stranka",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "111",
+      "stranka": "Građanska stranka Sisak",
+      "kratica": "GSS",
+      "prijasnji_nazivi": "Sisačka građanska stranka (1997.-2004.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1997.",
+      "ugasena": "2020."
+    },
+    {
+      "registarski_broj": "339",
+      "stranka": "Građansko-liberalni savez",
+      "kratica": "GLAS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "390",
+      "stranka": "Grobnička stranka",
+      "kratica": "GS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "392",
+      "stranka": "Hoćemo pravedno",
+      "kratica": "HOĆEMO",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici??",
+      "osnovana": "2022.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "246",
+      "stranka": "Hrast – Pokret za uspješnu Hrvatsku",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2012.ili2013.",
+      "ugasena": "2024."
+    },
+    {
+      "registarski_broj": "228",
+      "stranka": "Hrvatska 21. stoljeća",
+      "kratica": "HRVATSKA 21.",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "antikorupcija",
+      "osnovana": "2011.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "304",
+      "stranka": "Hrvatska braniteljska pučka stranka",
+      "kratica": "HBPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "branitelji",
+      "osnovana": "2016.",
+      "ugasena": "2022."
+    },
+    {
+      "registarski_broj": "314",
+      "stranka": "Hrvatska bunjevačka stranka",
+      "kratica": "HBS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "bunjevci",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "83",
+      "stranka": "Hrvatska čista stranka prava",
+      "kratica": "HČSP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1992.ili1993.",
+      "ugasena": "2024."
+    },
+    {
+      "registarski_broj": "233",
+      "stranka": "Hrvatska demokratska regionalna stranka",
+      "kratica": "HDRS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2012.",
+      "ugasena": "2022."
+    },
+    {
+      "registarski_broj": "132",
+      "stranka": "Hrvatska demokratska republikanska stranka",
+      "kratica": "HDRS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2000.",
+      "ugasena": "2006."
+    },
+    {
+      "registarski_broj": "95",
+      "stranka": "Hrvatska demokratska seljačka stranka",
+      "kratica": "HDSS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "1994.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "7",
+      "stranka": "Hrvatska demokratska stranka",
+      "kratica": "HDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1989.",
+      "ugasena": "2005."
+    },
+    {
+      "registarski_broj": "294",
+      "stranka": "Hrvatska demokratska stranka",
+      "kratica": "HDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2015.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "236",
+      "stranka": "Hrvatska demokratska stranka Dalmacije",
+      "kratica": "HDSD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2012.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "8",
+      "stranka": "Hrvatska demokratska zajednica",
+      "kratica": "HDZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1989.ili1990.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "6",
+      "stranka": "Hrvatska demokršćanska stranka",
+      "kratica": "HDS",
+      "prijasnji_nazivi": "Hrvatska kršćanska demokratska stranka (1990.-2009.)",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": "1990.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "",
+      "stranka": "Hrvatska demokršćanska stranka",
+      "kratica": "HDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "79",
+      "stranka": "Hrvatska domovinska stranka",
+      "kratica": "HDMS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "160",
+      "stranka": "Hrvatska europska stranka",
+      "kratica": "HES",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2003.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "295",
+      "stranka": "Hrvatska inicijativa za dijalog",
+      "kratica": "HRID",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2015.",
+      "ugasena": "2019."
+    },
+    {
+      "registarski_broj": "98",
+      "stranka": "Hrvatska konzervativna stranka",
+      "kratica": "HKS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1995.",
+      "ugasena": "1999."
+    },
+    {
+      "registarski_broj": "277",
+      "stranka": "Hrvatska konzervativna stranka",
+      "kratica": "HKS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2014.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "",
+      "stranka": "Hrvatska kršćanska demokratska stranka",
+      "kratica": "HKDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": "1990.",
+      "ugasena": "1992./2009."
+    },
+    {
+      "registarski_broj": "85",
+      "stranka": "Hrvatska kršćanska demokratska unija",
+      "kratica": "HKDU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": "1992.ili1993.",
+      "ugasena": "2007."
+    },
+    {
+      "registarski_broj": "196",
+      "stranka": "Hrvatska kršćanska demokratska unija",
+      "kratica": "HKDU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": "2007.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "213",
+      "stranka": "Hrvatska kršćanska demokratska unija",
+      "kratica": "HKDU",
+      "prijasnji_nazivi": "Nacionalni demokrati (ND; 2009.-2016.) Hrvatska kršćanska demokratska unija - Dr. Marko Veselica (2016.-2017.)",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": "2009.",
+      "ugasena": "2019."
+    },
+    {
+      "registarski_broj": "366",
+      "stranka": "Hrvatska liberalna demokratska stranka",
+      "kratica": "HLDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2020.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "47",
+      "stranka": "Hrvatska muslimanska demokratska stranka",
+      "kratica": "HMDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "muslimani",
+      "osnovana": "1990.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "87",
+      "stranka": "Hrvatska nacional-demokratska liga",
+      "kratica": "HNDL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1993.",
+      "ugasena": "2006."
+    },
+    {
+      "registarski_broj": "357",
+      "stranka": "Hrvatska narodna lista",
+      "kratica": "HNL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "2025."
+    },
+    {
+      "registarski_broj": "45",
+      "stranka": "Hrvatska narodna stranka – liberalni demokrati",
+      "kratica": "HNS",
+      "prijasnji_nazivi": "Hrvatska narodna stranka (1990.-2005.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "",
+      "stranka": "Hrvatska neutralna stranka za općinu Rogoznica – HNSOR",
+      "kratica": "HNSOR",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2018.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "281",
+      "stranka": "Hrvatska obrtnička stranka",
+      "kratica": "HOS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "obrtnici",
+      "osnovana": "2015.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "89",
+      "stranka": "Hrvatska poduzetnička stranka",
+      "kratica": "HPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "poduzetnici",
+      "osnovana": "1993.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "104",
+      "stranka": "Hrvatska proljeća",
+      "kratica": "HP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1996.",
+      "ugasena": "2000."
+    },
+    {
+      "registarski_broj": "36",
+      "stranka": "Hrvatska pučka seljačka stranka",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "1990.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "410",
+      "stranka": "Hrvatska pučka seljačka stranka",
+      "kratica": "HPSS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "163",
+      "stranka": "Hrvatska pučka seljačka stranka – 1904",
+      "kratica": "HPSS – 1904",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "2003.",
+      "ugasena": "2012."
+    },
+    {
+      "registarski_broj": "113",
+      "stranka": "Hrvatska pučka stranka",
+      "kratica": "HPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1997.ili1998.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "389",
+      "stranka": "Hrvatska radićevska stranka",
+      "kratica": "HRS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "159",
+      "stranka": "Hrvatska radnička stranka",
+      "kratica": "HRS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1999.ili2003.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "25",
+      "stranka": "Hrvatska republikanska seljačka stranka",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "30",
+      "stranka": "Hrvatska republikanska stranka",
+      "kratica": "HRS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "2007."
+    },
+    {
+      "registarski_broj": "64",
+      "stranka": "Hrvatska republikanska zajednica",
+      "kratica": "HRZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1991.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "191",
+      "stranka": "Hrvatska romska demokratska stranka",
+      "kratica": "HRDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Romi)",
+      "osnovana": "2006.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "80",
+      "stranka": "Hrvatska seljačka narodna stranka",
+      "kratica": "HSNS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "1992.ili1999.",
+      "ugasena": "2000."
+    },
+    {
+      "registarski_broj": "9",
+      "stranka": "Hrvatska seljačka stranka",
+      "kratica": "HSS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "1989.ili1990.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "303",
+      "stranka": "Hrvatska seljačka stranka – Stjepan Radić",
+      "kratica": "HSS – SR",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "51",
+      "stranka": "Hrvatska seljačka stranka braće Radić",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "192",
+      "stranka": "Hrvatska seljačka stranka braće Radić",
+      "kratica": "HSS BRAĆE RADIĆ",
+      "prijasnji_nazivi": "Autohtona - hrvatska seljačka stranka (2007.-2016.)",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "2007.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "108",
+      "stranka": "Hrvatska seljačko radnička stranka (Stranka istine i pravde)",
+      "kratica": "HSRS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "1997.",
+      "ugasena": "2003."
+    },
+    {
+      "registarski_broj": "3",
+      "stranka": "Hrvatska socijalno-liberalna stranka",
+      "kratica": "HSLS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1989.ili1990.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "12",
+      "stranka": "Hrvatska stranka",
+      "kratica": "HS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "315",
+      "stranka": "Hrvatska stranka branitelja i domoljuba",
+      "kratica": "HSBID",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "branitelji",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "348",
+      "stranka": "Hrvatska stranka budućnosti",
+      "kratica": "HSB",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "300",
+      "stranka": "Hrvatska stranka demokrata",
+      "kratica": "HSD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "342",
+      "stranka": "Hrvatska stranka građanskog otpora",
+      "kratica": "HSGO",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "167",
+      "stranka": "Hrvatska stranka mladih",
+      "kratica": "HSM",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "mladi",
+      "osnovana": "2004.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "76",
+      "stranka": "Hrvatska stranka naravnog zakona",
+      "kratica": "HSNZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1992.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "158",
+      "stranka": "Hrvatska stranka nezaposlenih",
+      "kratica": "HSN",
+      "prijasnji_nazivi": "Demokratska akcija naroda Hrvatske (2003.-2006.)",
+      "profil": "",
+      "poseban_fokus": "nezaposleni",
+      "osnovana": "2003.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "279",
+      "stranka": "Hrvatska stranka ovršenika",
+      "kratica": "HSO",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ovršenici",
+      "osnovana": "2015.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "19",
+      "stranka": "Hrvatska stranka prava",
+      "kratica": "HSP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "97",
+      "stranka": "Hrvatska stranka prava – 1861",
+      "kratica": "HSP – 1861",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1995.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "75",
+      "stranka": "Hrvatska demokratska stranka prava",
+      "kratica": "HDSP",
+      "prijasnji_nazivi": "Hrvatska stranka prava dr. Ante Starčević (1992.) Hrvatski pravaški pokret - Slobodna Hrvatska (HPP-SH;) Hrvatski pravaški pokret () Hrvatski pravaši – Hrvatski pravaški pokret / Hrvatski nacionalni blok (HP-HPP; 2005.-2007.ili2009.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1992.",
+      "ugasena": "1999."
+    },
+    {
+      "registarski_broj": "211",
+      "stranka": "Hrvatska stranka prava dr. Ante Starčević",
+      "kratica": "HSP AS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2009.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "269",
+      "stranka": "Hrvatska stranka pravaškog bratstva",
+      "kratica": "HSPB",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2014.",
+      "ugasena": "2024."
+    },
+    {
+      "registarski_broj": "194",
+      "stranka": "Hrvatska stranka pravne države",
+      "kratica": "HSPD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2007.",
+      "ugasena": "2019."
+    },
+    {
+      "registarski_broj": "363",
+      "stranka": "Hrvatska stranka pravne države",
+      "kratica": "HSPD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2020.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "202",
+      "stranka": "Hrvatska stranka rada",
+      "kratica": "HSR",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2008.",
+      "ugasena": "2013."
+    },
+    {
+      "registarski_broj": "262",
+      "stranka": "Hrvatska stranka reda",
+      "kratica": "HSR",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "301",
+      "stranka": "Hrvatska stranka svih čakavaca kajkavaca i štokavaca",
+      "kratica": "HSSČKŠ",
+      "prijasnji_nazivi": "Hrvatska stranka svih kajkavaca (HSSK; 2016.-2017.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "101",
+      "stranka": "Hrvatska stranka umirovljenika",
+      "kratica": "HSU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "1996.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "105",
+      "stranka": "Hrvatska stranka zelenih – Eko savez",
+      "kratica": "ZELENI",
+      "prijasnji_nazivi": "Hrvatska stranka zelenih (HSZ; 1996.-2001.) Hrvatski ekološki savez (2001.-2002.)",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "1996.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "222",
+      "stranka": "\"Hrvatska straža\" Nacionalna stranka",
+      "kratica": "HS NS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2011.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "260",
+      "stranka": "Hrvatska zora stranka naroda",
+      "kratica": "HZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "151",
+      "stranka": "Hrvatski blok – pokret za modernu Hrvatsku",
+      "kratica": "HB / HRVATSKI BLOK",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2002.",
+      "ugasena": "2009."
+    },
+    {
+      "registarski_broj": "102",
+      "stranka": "Hrvatski dalmatinski dom",
+      "kratica": "HDD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1996.",
+      "ugasena": "2007."
+    },
+    {
+      "registarski_broj": "123",
+      "stranka": "Hrvatski demokratski centar",
+      "kratica": "HDC",
+      "prijasnji_nazivi": "Primorski demokratski centar (PDC; 1999.-2000.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1999.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "189",
+      "stranka": "Hrvatski demokratski savez Slavonije i Baranje",
+      "kratica": "HDSSB",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2006.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "238",
+      "stranka": "Hrvatski demokratski slobodarski savez Dalmacije",
+      "kratica": "HDSSD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2012.",
+      "ugasena": "2017.ili2018."
+    },
+    {
+      "registarski_broj": "133",
+      "stranka": "Hrvatski demokršćani",
+      "kratica": "DEMOKRŠĆANI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": "2000.",
+      "ugasena": "2009."
+    },
+    {
+      "registarski_broj": "66",
+      "stranka": "Hrvatski državotvorni pokret",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "148",
+      "stranka": "Hrvatski istinski preporod",
+      "kratica": "HIP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2002.",
+      "ugasena": "2011."
+    },
+    {
+      "registarski_broj": "215",
+      "stranka": "Hrvatski laburisti – Stranka rada",
+      "kratica": "LABURISTI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2010.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "50",
+      "stranka": "Hrvatski liberalni pokret",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "10",
+      "stranka": "Hrvatski mirotvorni pokret",
+      "kratica": "HMP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "",
+      "stranka": "Hrvatski narodni pokret – Slobodna Hrvatska",
+      "kratica": "HNP-SH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1994.",
+      "ugasena": "1999."
+    },
+    {
+      "registarski_broj": "399",
+      "stranka": "Hrvatski narodni zastupnici",
+      "kratica": "HNZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "169",
+      "stranka": "Hrvatski narodnjaci",
+      "kratica": "HN",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2004.",
+      "ugasena": "2013."
+    },
+    {
+      "registarski_broj": "92",
+      "stranka": "Hrvatski nezavisni demokrati",
+      "kratica": "HND",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1994.",
+      "ugasena": "2011."
+    },
+    {
+      "registarski_broj": "73",
+      "stranka": "Hrvatski obranbeni red",
+      "kratica": "HOR",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1992.",
+      "ugasena": "2007."
+    },
+    {
+      "registarski_broj": "68",
+      "stranka": "Hrvatski oslobodilački pokret",
+      "kratica": "HOP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1991.ili1992.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "",
+      "stranka": "Hrvatski pravaši",
+      "kratica": "",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2003.",
+      "ugasena": "2005."
+    },
+    {
+      "registarski_broj": "90",
+      "stranka": "Hrvatski pravaški pokret",
+      "kratica": "HPP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2000.",
+      "ugasena": "2005."
+    },
+    {
+      "registarski_broj": "150",
+      "stranka": "Hrvatski proljećari",
+      "kratica": "HP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2002.",
+      "ugasena": "2009."
+    },
+    {
+      "registarski_broj": "218",
+      "stranka": "Hrvatski rast",
+      "kratica": "HRAST",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2011.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "121",
+      "stranka": "Hrvatski republikanci",
+      "kratica": "HR",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1998.",
+      "ugasena": "2007."
+    },
+    {
+      "registarski_broj": "172",
+      "stranka": "Hrvatski socijaldemokrati",
+      "kratica": "HSD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2004.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "359",
+      "stranka": "Hrvatski suverenisti",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "370",
+      "stranka": "Hrvatski umirovljenici zajedno",
+      "kratica": "HUZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2020.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "197",
+      "stranka": "Hrvatski zbor",
+      "kratica": "ZBOR",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2007.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "170",
+      "stranka": "Hrvatsko pravaško bratstvo",
+      "kratica": "HPBratstvo",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2004.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "173",
+      "stranka": "Hrvatsko zvono",
+      "kratica": "-",
+      "prijasnji_nazivi": "Samostalnost i napredak (SIN; 2004.-2006.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2004.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "86",
+      "stranka": "Istarska pučka stranka",
+      "kratica": "IPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "44",
+      "stranka": "Istarska socijaldemokratska nezavisna stranka",
+      "kratica": "ISDNS",
+      "prijasnji_nazivi": "Istarska nezavisna stranka (INS; 1990.-2004.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "2013."
+    },
+    {
+      "registarski_broj": "91",
+      "stranka": "Istarska stranka",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1992.",
+      "ugasena": "2003."
+    },
+    {
+      "registarski_broj": "235",
+      "stranka": "Istarska stranka umirovljenika – Partito Istriano Dei Pensionati",
+      "kratica": "ISU – PIP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2012.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "270",
+      "stranka": "Istarski demokrati – Democratici istriani",
+      "kratica": "ID – DI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2014.",
+      "ugasena": "2022."
+    },
+    {
+      "registarski_broj": "430",
+      "stranka": "Istarski demokrati – Democratici istriani – ID – DI",
+      "kratica": "ID – DI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "14",
+      "stranka": "Istarski demokratski sabor - Dieta democratica istriana",
+      "kratica": "IDS / IDS-DDI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "296",
+      "stranka": "Istarski laburisti - Laburisti istriani",
+      "kratica": "IL - LI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2015.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "106",
+      "stranka": "Istarski socijaldemokratski forum – Foro social democratico istriano",
+      "kratica": "ISDF-FSDI",
+      "prijasnji_nazivi": "Istarski demokratski forum - Foro democratico Istriano (1996.-2006.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1996.",
+      "ugasena": "2014."
+    },
+    {
+      "registarski_broj": "373",
+      "stranka": "Ivan Penava nezavisna lista",
+      "kratica": "IP – NL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "130",
+      "stranka": "Izvorna hrvatska seljačka stranka",
+      "kratica": "IHSS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "2000.",
+      "ugasena": "2005."
+    },
+    {
+      "registarski_broj": "140",
+      "stranka": "Jadranska socijaldemokratska stranka Hrvatske",
+      "kratica": "Jadranski socijaldemokrati (JSD)",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2001.",
+      "ugasena": "2023."
+    },
+    {
+      "registarski_broj": "165",
+      "stranka": "Jadranski sabor",
+      "kratica": "JS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2003.",
+      "ugasena": "2007."
+    },
+    {
+      "registarski_broj": "400",
+      "stranka": "Javno dobro",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "316",
+      "stranka": "Jedina opcija",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.",
+      "ugasena": "2020.ili2021."
+    },
+    {
+      "registarski_broj": "195",
+      "stranka": "Jedino Hrvatska – Pokret za Hrvatsku",
+      "kratica": "JEDINO HRVATSKA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2007.",
+      "ugasena": "2019."
+    },
+    {
+      "registarski_broj": "17",
+      "stranka": "Jugoslavenska samostalna demokratska stranka",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "143",
+      "stranka": "Južnohrvatska stranka",
+      "kratica": "JHS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2001.",
+      "ugasena": "2010."
+    },
+    {
+      "registarski_broj": "180",
+      "stranka": "Karlovačka stranka",
+      "kratica": "KS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2005.",
+      "ugasena": "2011."
+    },
+    {
+      "registarski_broj": "226",
+      "stranka": "Ključ Hrvatske",
+      "kratica": "KLJUČ",
+      "prijasnji_nazivi": "Savez za promjene (SP; 2011.-2014.) Živi zid (2014.-2022.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2011.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "261",
+      "stranka": "Komunistička partija Hrvatske",
+      "kratica": "KPH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "komunisti",
+      "osnovana": ".",
+      "ugasena": "2023."
+    },
+    {
+      "registarski_broj": "309",
+      "stranka": "Krila slobode hrvatska nacionalistička stranka",
+      "kratica": "KRILA SLOBODE",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.ili2016.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "67",
+      "stranka": "Kršćanska narodna stranka",
+      "kratica": "KNS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": "1991.",
+      "ugasena": "1996."
+    },
+    {
+      "registarski_broj": "124",
+      "stranka": "Kršćanska socijalna unija",
+      "kratica": "KSU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": "1999.",
+      "ugasena": "2011."
+    },
+    {
+      "registarski_broj": "84",
+      "stranka": "Kršćanski demokrati Međimurja",
+      "kratica": "KDM",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "kršćani",
+      "osnovana": "1992.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "181",
+      "stranka": "Krug 21",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2005.",
+      "ugasena": "2010."
+    },
+    {
+      "registarski_broj": "371",
+      "stranka": "Kvarnerska inicijativa – regionalna platforma",
+      "kratica": "KVARNERSKA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2020.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "220",
+      "stranka": "Ladonja",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2011.",
+      "ugasena": "2013."
+    },
+    {
+      "registarski_broj": "114",
+      "stranka": "Liberalna stranka",
+      "kratica": "LS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1998.",
+      "ugasena": "2006."
+    },
+    {
+      "registarski_broj": "152",
+      "stranka": "LIBRA – Stranka liberalnih demokrata",
+      "kratica": "LIBRA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2002.",
+      "ugasena": "2005."
+    },
+    {
+      "registarski_broj": "237",
+      "stranka": "Liburnijska stranka",
+      "kratica": "LIST",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2012.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "38",
+      "stranka": "Liga socijalnih demokrata",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "206",
+      "stranka": "Liga za Brod – stranka za poticanje svekolikog razvoja grada Slavonskog Broda",
+      "kratica": "LIGA ZA BROD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2009.",
+      "ugasena": "2013."
+    },
+    {
+      "registarski_broj": "374",
+      "stranka": "LiPO",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "81",
+      "stranka": "Lista Savonije i Baranje",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "1995."
+    },
+    {
+      "registarski_broj": "",
+      "stranka": "Lista Velog Mista",
+      "kratica": "LVM",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2005.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "431",
+      "stranka": "Lista za dobro mista",
+      "kratica": "LZDM",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "190",
+      "stranka": "Lista za Rijeku",
+      "kratica": "RI / LISTA - RI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2006.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "248",
+      "stranka": "Loza nezavisna lista",
+      "kratica": "LOZA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "2023."
+    },
+    {
+      "registarski_broj": "145",
+      "stranka": "Ljevica Hrvatske",
+      "kratica": "LJEVICA",
+      "prijasnji_nazivi": "Bebić Vladimir - Treći hrvatski blok (2001.-2007.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2001.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "40",
+      "stranka": "Mađarska narodna stranka Hrvatske",
+      "kratica": "MNSH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Mađari)",
+      "osnovana": "1990.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "255",
+      "stranka": "Maksimirska građanska inicijativa – Zajedno",
+      "kratica": "MGI – ZAJEDNO",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "2023."
+    },
+    {
+      "registarski_broj": "426",
+      "stranka": "Drito",
+      "kratica": "",
+      "prijasnji_nazivi": "Marija Selak Raspudić – nezavisna lista (MARIJA SELAK RASPUDIĆ – NL; 2025.-2026.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2025.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "429",
+      "stranka": "Marko Magdić – nezavisna lista",
+      "kratica": "MARKO MAGDIĆ NL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "156",
+      "stranka": "Maslina – Dalmatinska autonomaška stranka",
+      "kratica": "MASLINA",
+      "prijasnji_nazivi": "Neovisna lista Maslina (2003.-2004.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2003.",
+      "ugasena": "2007.ili2011."
+    },
+    {
+      "registarski_broj": "414",
+      "stranka": "Matija Teur – nezavisna lista",
+      "kratica": "Matija TEUR NL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "134",
+      "stranka": "Međimurska stranka",
+      "kratica": "MS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2001.",
+      "ugasena": "2025."
+    },
+    {
+      "registarski_broj": "179",
+      "stranka": "Međimurski demokratski savez",
+      "kratica": "MDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2005.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "380",
+      "stranka": "Mladi za Brezovicu",
+      "kratica": "MZB",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "mladi",
+      "osnovana": "2021.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "368",
+      "stranka": "Mladi za Đakovo",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "mladi",
+      "osnovana": "2020.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "288",
+      "stranka": "Modeli altruizma u politici",
+      "kratica": "MAP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2015.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "311",
+      "stranka": "Moderna demokratska snaga",
+      "kratica": "MODES",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "345",
+      "stranka": "Moja voljena Hrvatska",
+      "kratica": "MVH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2018.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "198",
+      "stranka": "Moje malo Međimurje",
+      "kratica": "3 M",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2007.",
+      "ugasena": "2014."
+    },
+    {
+      "registarski_broj": "245",
+      "stranka": "MOST",
+      "kratica": "-",
+      "prijasnji_nazivi": "Most nezavisnih lista (2012.ili2013.-2020.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2012.ili2013.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "350",
+      "stranka": "Možemo! – politička platforma",
+      "kratica": "Možemo!",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "326",
+      "stranka": "Mreža nezavisnih lista",
+      "kratica": "MREŽA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "117",
+      "stranka": "Nacionalna demokratska stranka",
+      "kratica": "NDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1998.",
+      "ugasena": "2000."
+    },
+    {
+      "registarski_broj": "265",
+      "stranka": "Nacionalni forum",
+      "kratica": "NF",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2014.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "323",
+      "stranka": "NADA",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "286",
+      "stranka": "Naprijed Hrvatska! – Progresivni savez",
+      "kratica": "NAPRIJED HRVATSKA!",
+      "prijasnji_nazivi": "Naprijed Hrvatska! - Progresivni savez Ive Josipovića (2015.-2016.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2015.",
+      "ugasena": "2020."
+    },
+    {
+      "registarski_broj": "275",
+      "stranka": "Narodna stranka – reformisti",
+      "kratica": "REFORMISTI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2014.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "219",
+      "stranka": "Naša stranka",
+      "kratica": "NS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Bosanci ili?? Srbi)",
+      "osnovana": "2011.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "337",
+      "stranka": "Neovisni za Hrvatsku",
+      "kratica": "NHR",
+      "prijasnji_nazivi": "Bruna Esih - Zlatko Hasanbegović: Neovisni za Hrvatsku (2017.-2019.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "2024."
+    },
+    {
+      "registarski_broj": "422",
+      "stranka": "Nezavisna lista – mi je!",
+      "kratica": "VRIME JE!",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "385",
+      "stranka": "Nezavisna lista Ante Đapića",
+      "kratica": "NL ANTE ĐAPIĆA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "2014.??"
+    },
+    {
+      "registarski_broj": "332",
+      "stranka": "Nezavisna lista boljih",
+      "kratica": "NLB",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "2023."
+    },
+    {
+      "registarski_broj": "398",
+      "stranka": "Nezavisna lista Gorana Aladića",
+      "kratica": "NL GORANA ALADIĆA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "417",
+      "stranka": "Nezavisna lista Ivanić-Grad",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "257",
+      "stranka": "Nezavisna lista Milana Bitunjca",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "2018."
+    },
+    {
+      "registarski_broj": "298",
+      "stranka": "Nezavisna lista mladih",
+      "kratica": "NLM",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "mladi",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "335",
+      "stranka": "Nezavisna lista mladih za Imotski i Imotsku krajinu – Mi za Im",
+      "kratica": "MI ZA IM",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "mladi",
+      "osnovana": "2017.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "376",
+      "stranka": "Nezavisna lista Osejava",
+      "kratica": "NLO",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2021.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "386",
+      "stranka": "Nezavisna lista Podbablje sutra",
+      "kratica": "PODBABLJE SUTRA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "249",
+      "stranka": "Nezavisna lista Stipe Petrina",
+      "kratica": "NLSP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "388",
+      "stranka": "Nezavisna lista Tomislav Stojak",
+      "kratica": "NLTS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "2022."
+    },
+    {
+      "registarski_broj": "425",
+      "stranka": "Nezavisna lista Tomislava Jonjića – Jedino Hrvatska!",
+      "kratica": "NEZAVISNA LISTA TOMISLAVA JONJIĆA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "421",
+      "stranka": "Nezavisna lista Tomislava Mišetića",
+      "kratica": "NL TOMISLAVA MIŠETIĆA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "318",
+      "stranka": "Nezavisna lista Višnjan",
+      "kratica": "NLV",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "329",
+      "stranka": "Nezavisna lista Zagreb",
+      "kratica": "NLZG",
+      "prijasnji_nazivi": "Nezavisna lista Sandre Švaljek (NLSŠ; 2017.-2018.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "377",
+      "stranka": "Nezavisna platforma sjevera",
+      "kratica": "NPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "93",
+      "stranka": "Nezavisna stranka prava",
+      "kratica": "NSP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1994.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "418",
+      "stranka": "Nezavisna stranka samo tim",
+      "kratica": "SAMOTIM",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "338",
+      "stranka": "Nezavisni",
+      "kratica": "-",
+      "prijasnji_nazivi": "Željko Lacković - Nezavisne liste (2017.-2021.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "178",
+      "stranka": "Nezavisni seljaci Hrvatske",
+      "kratica": "NSH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "2005.",
+      "ugasena": "2007."
+    },
+    {
+      "registarski_broj": "242",
+      "stranka": "Nezavisni seljaci Hrvatske",
+      "kratica": "NSH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "seljaci",
+      "osnovana": "2012.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "351",
+      "stranka": "Nezavisni za Zaprešić",
+      "kratica": "NZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "128",
+      "stranka": "Nova Hrvatska",
+      "kratica": "NH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1999.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "321",
+      "stranka": "Nova ljevica",
+      "kratica": "NL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "2025."
+    },
+    {
+      "registarski_broj": "353",
+      "stranka": "Nova politika",
+      "kratica": "NP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "204",
+      "stranka": "Nova srpska stranka",
+      "kratica": "NSS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Srbi)",
+      "osnovana": "2009.",
+      "ugasena": "2020.ili2021."
+    },
+    {
+      "registarski_broj": "43",
+      "stranka": "Nova stranka",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "268",
+      "stranka": "Novi val – Stranka razvoja",
+      "kratica": "NOVI VAL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2014.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "209",
+      "stranka": "Obiteljska stranka",
+      "kratica": "OS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "obitelj",
+      "osnovana": "2009.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "395",
+      "stranka": "Odlučnost i pravednost",
+      "kratica": "OIP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "263",
+      "stranka": "Održivi razvoj Hrvatske",
+      "kratica": "ORaH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "2020."
+    },
+    {
+      "registarski_broj": "",
+      "stranka": "Otočki demokratski forum",
+      "kratica": "",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "118",
+      "stranka": "Otočna demokratska stranka",
+      "kratica": "ODS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1998.",
+      "ugasena": "2003."
+    },
+    {
+      "registarski_broj": "46",
+      "stranka": "Partija demokratskog prosperiteta – Ogranak za Hrvatsku",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "115",
+      "stranka": "Partija podunavskih Srba",
+      "kratica": "PPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Srbi)",
+      "osnovana": "1998.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "208",
+      "stranka": "Paška stranka – Pag",
+      "kratica": "PSP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2009.",
+      "ugasena": "2018."
+    },
+    {
+      "registarski_broj": "381",
+      "stranka": "\"Pavao Grom – nezavisna lista\"",
+      "kratica": "\"PGnl\"",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "423",
+      "stranka": "Pavle Kalinić – nezavisna lista",
+      "kratica": "PAVLE KALINIĆ – NL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "230",
+      "stranka": "Piratska stranka",
+      "kratica": "PS",
+      "prijasnji_nazivi": "Mladi Hrvatske (2011.-2012.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2011.",
+      "ugasena": "2018."
+    },
+    {
+      "registarski_broj": "355",
+      "stranka": "Plavo zelena stranka",
+      "kratica": "PZS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2019.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "234",
+      "stranka": "Pločanska stranka",
+      "kratica": "PLS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2012.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "122",
+      "stranka": "Podravska stranka",
+      "kratica": "PS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1998.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "126",
+      "stranka": "Pokret za ljudska prava – stranka ekološki svjesnih građana",
+      "kratica": "POL",
+      "prijasnji_nazivi": "Pokret oštećenika – stranka ekološki svjesnih građana (POL; 1999.-?)",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "1999.",
+      "ugasena": "2006."
+    },
+    {
+      "registarski_broj": "232",
+      "stranka": "Pokret za modernu Hrvatsku",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2011.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "403",
+      "stranka": "Pokret za životinje",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "životinje",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "276",
+      "stranka": "Pokret zajedno",
+      "kratica": "PZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2014.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "408",
+      "stranka": "Politička stranka – plavi grad",
+      "kratica": "PLAVI GRAD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "203",
+      "stranka": "Popravi grad",
+      "kratica": "PG",
+      "prijasnji_nazivi": "Nova generacija (2009.-2017.) Popravi grad - nova generacija (PG - NG; 2017.-2021.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2009.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "177",
+      "stranka": "Posavsko slavonska stranka",
+      "kratica": "PSS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2005.",
+      "ugasena": "2018."
+    },
+    {
+      "registarski_broj": "393",
+      "stranka": "Pravedna Hrvatska",
+      "kratica": "PH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "432",
+      "stranka": "Pravi socijaldemokratski pokret",
+      "kratica": "Pravi SDP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2025.",
+      "ugasena": "2025."
+    },
+    {
+      "registarski_broj": "404",
+      "stranka": "Pravo i pravda",
+      "kratica": "PiP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "116",
+      "stranka": "Primorsko goranska stranka umirovljenika",
+      "kratica": "PGSU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "1998.",
+      "ugasena": "2014."
+    },
+    {
+      "registarski_broj": "18",
+      "stranka": "Primorsko goranski savez",
+      "kratica": "PGS",
+      "prijasnji_nazivi": "Riječki demokratski savez - Alleanza democratica fiumana (1990.-1996.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "387",
+      "stranka": "Probudi",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "2024."
+    },
+    {
+      "registarski_broj": "291",
+      "stranka": "Projekt domovina",
+      "kratica": "-",
+      "prijasnji_nazivi": "U ime obitelji - projekt domovina (2015.-2016.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2015.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "305",
+      "stranka": "Promijenimo Hrvatsku",
+      "kratica": "PH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.",
+      "ugasena": "2024."
+    },
+    {
+      "registarski_broj": "5",
+      "stranka": "Radikalno udruženje za Sjedinjene Europske Države",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "280",
+      "stranka": "Radnička fronta",
+      "kratica": "RF",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2015.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "107",
+      "stranka": "Rapski pučki sabor",
+      "kratica": "RPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1996.ili1997.",
+      "ugasena": "2018.ili2019."
+    },
+    {
+      "registarski_broj": "358",
+      "stranka": "Rapski pučki sabor",
+      "kratica": "RPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "433",
+      "stranka": "Renato Petek – nova snaga",
+      "kratica": "RENATO PETEK – NS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "401",
+      "stranka": "Republika",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "405",
+      "stranka": "Ričard nezavisni",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "221",
+      "stranka": "Sabor hrvatskih Roma",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Romi)",
+      "osnovana": "2011.",
+      "ugasena": "2020."
+    },
+    {
+      "registarski_broj": "100",
+      "stranka": "Samostalna demokratska srpska stranka",
+      "kratica": "SDSS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Srbi)",
+      "osnovana": "1995.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "308",
+      "stranka": "Sasvim mala stranka",
+      "kratica": "SMS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "184",
+      "stranka": "Savez Hrvatskih umirovljenika i seniora",
+      "kratica": "SHUS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2005.",
+      "ugasena": "2015."
+    },
+    {
+      "registarski_broj": "282",
+      "stranka": "Savez komunista Hrvatske",
+      "kratica": "SKH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "komunisti",
+      "osnovana": "2015.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "60",
+      "stranka": "Savez reformskih snaga Jugoslavije Primorsko goranske regije",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "58",
+      "stranka": "Savez reformskih snaga Jugoslavije za Hrvatsku – Općinska organizacija Split",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "57",
+      "stranka": "Savez reformskih snaga Jugoslavije za Istru",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "56",
+      "stranka": "Savez reformskih snaga Jugoslavije – Zagreb",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "82",
+      "stranka": "Slavonsko-baranjska hrvatska stranka",
+      "kratica": "S-BHS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1992.",
+      "ugasena": "2008."
+    },
+    {
+      "registarski_broj": "147",
+      "stranka": "Slobodarska stranka Hrvatske",
+      "kratica": "SSH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2001.",
+      "ugasena": "2010."
+    },
+    {
+      "registarski_broj": "343",
+      "stranka": "Slobodarska stranka Hrvatske",
+      "kratica": "SSH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2018.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "299",
+      "stranka": "Slobodna Hrvatska",
+      "kratica": "SH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.",
+      "ugasena": "2023."
+    },
+    {
+      "registarski_broj": "313",
+      "stranka": "Snaga – Stranka narodnog i građanskog aktivizma",
+      "kratica": "SNAGA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "259",
+      "stranka": "Snaga Roma Hrvatske",
+      "kratica": "SRH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Romi)",
+      "osnovana": "2013.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "356",
+      "stranka": "Snaga Slavonije i Baranje",
+      "kratica": "Snaga SiB",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "394",
+      "stranka": "Socijaldemokrati",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021./2022.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "88",
+      "stranka": "Socijaldemokratska partija Hrvatske",
+      "kratica": "SDP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "4",
+      "stranka": "Socijaldemokratska stranka Hrvatske / Socijaldemokrati Hrvatske",
+      "kratica": "SDSH / SDH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1989.ili1990.",
+      "ugasena": "1995."
+    },
+    {
+      "registarski_broj": "174",
+      "stranka": "Socijalistička partija Hrvatske",
+      "kratica": "SPH",
+      "prijasnji_nazivi": "Socijalistička partija Hrvatske – lijeva alternativa (2004.-2007.ili2008.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2004.",
+      "ugasena": "2018."
+    },
+    {
+      "registarski_broj": "41",
+      "stranka": "Socijalistička partija Hrvatske – Partija jugoslavenske orijentacije",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "112",
+      "stranka": "Socijalistička radnička partija Hrvatske",
+      "kratica": "SRP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1997.ili1998.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "",
+      "stranka": "Socijalistička stranka Hrvatske / Socijalistički savez Hrvatske - Savez socijalista Hrvatske",
+      "kratica": "SSH / SS-SSH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "74",
+      "stranka": "Socijalno-demokratska unija Hrvatske / Socijaldemokratska unija",
+      "kratica": "SDU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1992.",
+      "ugasena": "2007."
+    },
+    {
+      "registarski_broj": "435",
+      "stranka": "Split je naš!",
+      "kratica": "SJN",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2026.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "",
+      "stranka": "SPIS-Stranka Pravednosti I Sigurnosti Republike Hrvatske",
+      "kratica": "",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2018.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "324",
+      "stranka": "Splitska stranka",
+      "kratica": "STS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "2022."
+    },
+    {
+      "registarski_broj": "200",
+      "stranka": "Splitska stranka umirovljenika",
+      "kratica": "SSU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2008.",
+      "ugasena": "2023."
+    },
+    {
+      "registarski_broj": "372",
+      "stranka": "Srđ je Grad",
+      "kratica": "SJG",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2020.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "78",
+      "stranka": "Srednjoeuropska akcija – Pokret za Srednju Europu",
+      "kratica": "SEA – PZS",
+      "prijasnji_nazivi": "Demokratska akcija Hrvatske (DAH; 1990.-1992.) Srednjoeuropska akcija (SEA; 1992.-2006.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "119",
+      "stranka": "Srpska demokratska baranjska stranka",
+      "kratica": "SDBS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Srbi)",
+      "osnovana": "1998.",
+      "ugasena": "2007."
+    },
+    {
+      "registarski_broj": "21",
+      "stranka": "Srpska demokratska stranka",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Srbi)",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "62",
+      "stranka": "Srpska narodna stranka",
+      "kratica": "SNS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Srbi)",
+      "osnovana": "1991.",
+      "ugasena": "2022."
+    },
+    {
+      "registarski_broj": "271",
+      "stranka": "Srpska pravedna stranka",
+      "kratica": "SPS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Srbi)",
+      "osnovana": "2014.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "344",
+      "stranka": "Stjepan Kožić – nezavisna lista",
+      "kratica": "SKNL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2018.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "284",
+      "stranka": "Stranka Bošnjaka Hrvatske",
+      "kratica": "SBH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Bošnjaci)",
+      "osnovana": "2015.",
+      "ugasena": "2024."
+    },
+    {
+      "registarski_broj": "42",
+      "stranka": "Stranka demokratske akcije Hrvatske",
+      "kratica": "SDA HRVATSKE / SDAH",
+      "prijasnji_nazivi": "Stranka demokratske akcije Hrvatske – ogranak za Hrvatsku (1990.-1992.)",
+      "profil": "",
+      "poseban_fokus": "manjine (Bošnjaci)",
+      "osnovana": "1990.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "94",
+      "stranka": "Stranka društvenog razvoja",
+      "kratica": "SDR",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1994.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "250",
+      "stranka": "Stranka Dubrovnik regija",
+      "kratica": "SDR",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "2018.ili2019."
+    },
+    {
+      "registarski_broj": "297",
+      "stranka": "Stranka hrvatski vidik",
+      "kratica": "SHV",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "",
+      "stranka": "Stranka hrvatskih branitelja",
+      "kratica": "SHB",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "branitelji",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "289",
+      "stranka": "Stranka hrvatskih umirovljenika – umirovljenici",
+      "kratica": "UMIROVLJENICI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2015.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "63",
+      "stranka": "Stranka hrvatskog državnog prava",
+      "kratica": "SHDP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1991.",
+      "ugasena": "2003."
+    },
+    {
+      "registarski_broj": "127",
+      "stranka": "Stranka hrvatskog preporoda",
+      "kratica": "SHP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1999.",
+      "ugasena": "2005."
+    },
+    {
+      "registarski_broj": "214",
+      "stranka": "Stranka hrvatskog zajedništva",
+      "kratica": "SHZ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2009.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "354",
+      "stranka": "Stranka Ivana Pernara",
+      "kratica": "SIP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "2025."
+    },
+    {
+      "registarski_broj": "20",
+      "stranka": "Stranka jugoslavena",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "320",
+      "stranka": "Stranka međugeneracijske solidarnosti Hrvatske",
+      "kratica": "SMSH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "??",
+      "osnovana": "2016.ili2017.",
+      "ugasena": "2018."
+    },
+    {
+      "registarski_broj": "11",
+      "stranka": "Stranka nezavisne demokracije",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1990.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "241",
+      "stranka": "Stranka običnih ljudi",
+      "kratica": "SOLJ",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2012.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "231",
+      "stranka": "Stranka penzionera",
+      "kratica": "SP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2011.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "138",
+      "stranka": "Stranka pravične demokracije",
+      "kratica": "SPD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2001.",
+      "ugasena": "2010."
+    },
+    {
+      "registarski_broj": "285",
+      "stranka": "Stranka razvoja i napretka",
+      "kratica": "SRNA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2015.",
+      "ugasena": "2023."
+    },
+    {
+      "registarski_broj": "39",
+      "stranka": "Stranka Roma Hrvatske",
+      "kratica": "SRH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Romi)",
+      "osnovana": "1991.",
+      "ugasena": "2012."
+    },
+    {
+      "registarski_broj": "131",
+      "stranka": "Stranka umirovljenika",
+      "kratica": "SU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2000.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "216",
+      "stranka": "Stranka umirovljenika Hrvatske – Blok umirovljenici zajedno",
+      "kratica": "SUH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2010.",
+      "ugasena": "2020."
+    },
+    {
+      "registarski_broj": "420",
+      "stranka": "Stranka umirovljenika Sjever",
+      "kratica": "SUS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "352",
+      "stranka": "Stranka za narod",
+      "kratica": "SZN",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "384",
+      "stranka": "Stranka za Zadar!",
+      "kratica": "ZZ!",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "142",
+      "stranka": "Stranka zajedno",
+      "kratica": "ZAJEDNO",
+      "prijasnji_nazivi": "Stranka hrvatskih branitelja (SHB; 2001.-2013.)",
+      "profil": "",
+      "poseban_fokus": "branitelji??",
+      "osnovana": "2001.",
+      "ugasena": "2014."
+    },
+    {
+      "registarski_broj": "419",
+      "stranka": "Sve se može",
+      "kratica": "SSM",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "109",
+      "stranka": "Talijanska demokratska zajednica – Unione democratica Italiana",
+      "kratica": "TDZ-UDI",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "manjine (Talijani)",
+      "osnovana": "1997.",
+      "ugasena": "2003."
+    },
+    {
+      "registarski_broj": "59",
+      "stranka": "Transnacionalna radikalna stranka",
+      "kratica": "TRS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1991.",
+      "ugasena": "2001."
+    },
+    {
+      "registarski_broj": "144",
+      "stranka": "Turopoljska demokratska stranka",
+      "kratica": "TDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2001.",
+      "ugasena": "2005."
+    },
+    {
+      "registarski_broj": "186",
+      "stranka": "Turopoljska demokratska stranka",
+      "kratica": "TDS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2006.",
+      "ugasena": "2007.ili2010."
+    },
+    {
+      "registarski_broj": "266",
+      "stranka": "Ujedinjena stranka prava",
+      "kratica": "USP",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2014.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "319",
+      "stranka": "Ujedinjeni hrvatski domoljubi",
+      "kratica": "UHD",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2016.ili2017.",
+      "ugasena": "2023.ili2024."
+    },
+    {
+      "registarski_broj": "302",
+      "stranka": "Umirovljenici Slavonije i Baranje",
+      "kratica": "USIB",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2016.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "396",
+      "stranka": "Umirovljenici zajedno – politička platforma",
+      "kratica": "UMIROVLJENICI ZAJEDNO",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "264",
+      "stranka": "Umirovljenička demokratska unija",
+      "kratica": "UDU",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2013.ili2014.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "336",
+      "stranka": "Unija Kvarnera",
+      "kratica": "UNIJA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "379",
+      "stranka": "Vesna Škare Ožbolt – nezavisna lista",
+      "kratica": "VESNAŠKARE OŽBOLT-NL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "2024."
+    },
+    {
+      "registarski_broj": "199",
+      "stranka": "Volim Hrvatsku",
+      "kratica": "VH",
+      "prijasnji_nazivi": "Hrvatska pravaška zajednica (HPZ; 2007.-2011.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2007.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "252",
+      "stranka": "Za grad",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2013.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "110",
+      "stranka": "Zagorska demokratska stranka",
+      "kratica": "ZDS",
+      "prijasnji_nazivi": "Hrvatska kajkavska stranka (2016.-2017.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "1997.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "166",
+      "stranka": "Zagorska stranka",
+      "kratica": "ZS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2004.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "325",
+      "stranka": "Zagreb je naš!",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2017.",
+      "ugasena": "2025."
+    },
+    {
+      "registarski_broj": "188",
+      "stranka": "Zagrebačka nezavisna lista",
+      "kratica": "ZNL",
+      "prijasnji_nazivi": "Sjedinjene nezavisne liste (2006.-2011.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2006.",
+      "ugasena": "2014."
+    },
+    {
+      "registarski_broj": "205",
+      "stranka": "Zagrebačka stranka umirovljenika",
+      "kratica": "ZSU",
+      "prijasnji_nazivi": "Akcija hrvatskih umirovljenika (2009.-2015.)",
+      "profil": "",
+      "poseban_fokus": "umirovljenici",
+      "osnovana": "2009.",
+      "ugasena": "2018."
+    },
+    {
+      "registarski_broj": "61",
+      "stranka": "Zajednica radnika progresista jugoslavije – Ogranak Republike Hrvatske",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "406",
+      "stranka": "Zajedno Hrvatska",
+      "kratica": "ZH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "367",
+      "stranka": "Zajedno za Murter",
+      "kratica": "ZM",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2020.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "397",
+      "stranka": "Zajedno za Trogir",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "383",
+      "stranka": "Zaokret – nezavisna lista",
+      "kratica": "Zaokret",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2021.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "239",
+      "stranka": "Zavjet za Hrvatsku",
+      "kratica": "ZZH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2012.",
+      "ugasena": "2016."
+    },
+    {
+      "registarski_broj": "16",
+      "stranka": "Zelena akcija Split",
+      "kratica": "ZAS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "1990.",
+      "ugasena": "1995."
+    },
+    {
+      "registarski_broj": "15",
+      "stranka": "Zelena akcija Zagreb",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "382",
+      "stranka": "Zelena alternativa – Održivi razvoj Hrvatske",
+      "kratica": "Zelena alternativa – ORaH",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2021.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "168",
+      "stranka": "Zelena alternativa – Stranka potrošača",
+      "kratica": "ZA – SPOT",
+      "prijasnji_nazivi": "Stranka potrošača (SPOT; 2004.-2007.)",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2004.",
+      "ugasena": "2014."
+    },
+    {
+      "registarski_broj": "175",
+      "stranka": "Zelena lista",
+      "kratica": "-",
+      "prijasnji_nazivi": "Zeleni za Zagreb (2004ili2005.-2007.)",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2004.ili2005.",
+      "ugasena": "2014."
+    },
+    {
+      "registarski_broj": "327",
+      "stranka": "Zelena lista",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2017.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "146",
+      "stranka": "Zelena ljevica Hrvatske",
+      "kratica": "ZEL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2001.",
+      "ugasena": "2006."
+    },
+    {
+      "registarski_broj": "103",
+      "stranka": "Zelena stranka",
+      "kratica": "ZS",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "1996.",
+      "ugasena": "2005."
+    },
+    {
+      "registarski_broj": "137",
+      "stranka": "Zelena stranka",
+      "kratica": "ZS",
+      "prijasnji_nazivi": "Stranka nove alternative - pokret zelenih (SNA Pokret zelenih; 2001.-2007.)",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2001.",
+      "ugasena": "2021."
+    },
+    {
+      "registarski_broj": "33",
+      "stranka": "Zelena stranka Rijeka",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "1990.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "164",
+      "stranka": "Zeleni demokrati",
+      "kratica": "ZD",
+      "prijasnji_nazivi": "Zeleni 2003 ili?? Zeleni (2003.-2004.)",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2003.",
+      "ugasena": "2010."
+    },
+    {
+      "registarski_broj": "293",
+      "stranka": "Zeleni forum",
+      "kratica": "ZF",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2015.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "136",
+      "stranka": "Zeleni Hrvatske",
+      "kratica": "ZELENI HR",
+      "prijasnji_nazivi": "Zeleni pokret Hrvatske (2001.-2002.)",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2001.",
+      "ugasena": "2017."
+    },
+    {
+      "registarski_broj": "157",
+      "stranka": "Zeleni savez",
+      "kratica": "ZELENI",
+      "prijasnji_nazivi": "Demokratski savez zelenih (2003.-2007.) Zelena stranka - Zelena alternativa (2007.-2012.)",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2003.",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "227",
+      "stranka": "Zeleni zajedno",
+      "kratica": "-",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2011.",
+      "ugasena": "2014."
+    },
+    {
+      "registarski_broj": "141",
+      "stranka": "Zeleni – Stranka novog doba",
+      "kratica": "ZELENI-SND",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "ekologija",
+      "osnovana": "2001.",
+      "ugasena": "2005."
+    },
+    {
+      "registarski_broj": "278",
+      "stranka": "Zelinski laburisti – stranka Prigorja",
+      "kratica": "ZL",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2014.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "212",
+      "stranka": "Željko Kerum – Hrvatska građanska stranka",
+      "kratica": "HGS",
+      "prijasnji_nazivi": "Hrvatska građanska stranka (2009.-2015.)",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2009.",
+      "ugasena": "ne"
+    },
+    {
+      "registarski_broj": "",
+      "stranka": "Ženska lista Medveščak",
+      "kratica": "",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": ".",
+      "ugasena": "da"
+    },
+    {
+      "registarski_broj": "360",
+      "stranka": "Župska stranka",
+      "kratica": "ŽUPKA",
+      "prijasnji_nazivi": "",
+      "profil": "",
+      "poseban_fokus": "",
+      "osnovana": "2019.",
+      "ugasena": "ne"
+    }
+  ],
+  "meta": {
+    "title": "Političke stranke u Hrvatskoj - Free Download",
+    "description": "Popis registriranih političkih stranaka u Hrvatskoj s kraticom, prijašnjim nazivima, godinom osnivanja i gašenja. Contains 431 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Političke stranke u Hrvatskoj | ListBase",
+    "seo_description": "Download Političke stranke u Hrvatskoj — 431 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 431 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_političkih_stranaka_u_Hrvatskoj"
+    ]
+  }
+}
