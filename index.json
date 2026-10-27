@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:21.840Z",
-  "total_datasets": 417,
-  "total_records": 822252,
+  "generated": "2026-10-27T02:28:24.255Z",
+  "total_datasets": 418,
+  "total_records": 822286,
   "categories": [
     {
       "id": "culture",
@@ -55,6 +55,10 @@
     {
       "id": "reference",
       "dataset_count": 235
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "society",
@@ -9695,6 +9699,28 @@
         "xlsx": {
           "name": "hr-zupanije_HR.xlsx",
           "size": 7867
+        }
+      }
+    },
+    {
+      "id": "hr-biolozi",
+      "name": "Hrvatski biolozi",
+      "category": "science",
+      "record_count": 34,
+      "columns": [
+        "ime"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_biologa",
+      "updated": "2026-10",
+      "size": 2587,
+      "files": {
+        "csv": {
+          "name": "hr-biolozi_HR.csv",
+          "size": 660
+        },
+        "xlsx": {
+          "name": "hr-biolozi_HR.xlsx",
+          "size": 7330
         }
       }
     },
