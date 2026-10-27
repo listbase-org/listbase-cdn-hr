@@ -1,0 +1,328 @@
+{
+  "id": "hr-pasmine-domacih-zivotinja",
+  "name": "Hrvatske izvorne pasmine domaćih životinja",
+  "title": "Hrvatske izvorne pasmine domaćih životinja",
+  "description": "Popis hrvatskih izvornih i zaštićenih pasmina domaćih životinja (goveda, konji, ovce, koze, svinje, perad, psi i dr.).",
+  "category": "agriculture",
+  "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_pasmina_domaćih_životinja",
+  "source_url": "https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_pasmina_domaćih_životinja",
+  "updated": "2026-10",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "pasmina",
+      "label": "Pasmina",
+      "type": "string"
+    },
+    {
+      "key": "vrsta",
+      "label": "Vrsta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pasmina": "istarsko govedo (boškarin)",
+      "vrsta": "Goveda"
+    },
+    {
+      "pasmina": "slavonsko podolsko govedo",
+      "vrsta": "Goveda"
+    },
+    {
+      "pasmina": "krčko govedo (izumrlo)",
+      "vrsta": "Goveda"
+    },
+    {
+      "pasmina": "sivo dalmatinsko govedo",
+      "vrsta": "Goveda"
+    },
+    {
+      "pasmina": "posavska gulja (izumrlo)",
+      "vrsta": "Goveda"
+    },
+    {
+      "pasmina": "buša",
+      "vrsta": "Goveda"
+    },
+    {
+      "pasmina": "hrvatski posavac",
+      "vrsta": "Konji"
+    },
+    {
+      "pasmina": "međimurski konj",
+      "vrsta": "Konji"
+    },
+    {
+      "pasmina": "hrvatski hladnokrvnjak",
+      "vrsta": "Konji"
+    },
+    {
+      "pasmina": "krčki poni",
+      "vrsta": "Konji"
+    },
+    {
+      "pasmina": "hrvatski toplokrvnjak",
+      "vrsta": "Konji"
+    },
+    {
+      "pasmina": "hrvatski kasač",
+      "vrsta": "Konji"
+    },
+    {
+      "pasmina": "lipicanac",
+      "vrsta": "Konji"
+    },
+    {
+      "pasmina": "gidran",
+      "vrsta": "Konji"
+    },
+    {
+      "pasmina": "primorsko-dinarski tip",
+      "vrsta": "Magarci"
+    },
+    {
+      "pasmina": "sjeverno-jadranski tip",
+      "vrsta": "Magarci"
+    },
+    {
+      "pasmina": "istarski tip",
+      "vrsta": "Magarci"
+    },
+    {
+      "pasmina": "lička pramenka",
+      "vrsta": "Ovce"
+    },
+    {
+      "pasmina": "paška ovca",
+      "vrsta": "Ovce"
+    },
+    {
+      "pasmina": "istarska ovca",
+      "vrsta": "Ovce"
+    },
+    {
+      "pasmina": "dubrovačka ruda",
+      "vrsta": "Ovce"
+    },
+    {
+      "pasmina": "krčka ovca",
+      "vrsta": "Ovce"
+    },
+    {
+      "pasmina": "creska ovca",
+      "vrsta": "Ovce"
+    },
+    {
+      "pasmina": "rapska ovca",
+      "vrsta": "Ovce"
+    },
+    {
+      "pasmina": "dalmatinska pramenka",
+      "vrsta": "Ovce"
+    },
+    {
+      "pasmina": "cigaja",
+      "vrsta": "Ovce"
+    },
+    {
+      "pasmina": "dinarska šarena koza",
+      "vrsta": "Koze"
+    },
+    {
+      "pasmina": "hrvatska bijela koza",
+      "vrsta": "Koze"
+    },
+    {
+      "pasmina": "istarska koza",
+      "vrsta": "Koze"
+    },
+    {
+      "pasmina": "turopoljska svinja",
+      "vrsta": "Svinje"
+    },
+    {
+      "pasmina": "crna slavonska svinja (pfeferica)",
+      "vrsta": "Svinje"
+    },
+    {
+      "pasmina": "banijska šara",
+      "vrsta": "Svinje"
+    },
+    {
+      "pasmina": "dravska guska",
+      "vrsta": "Guske"
+    },
+    {
+      "pasmina": "kokoš Hrvatica (dudica)",
+      "vrsta": "Kokoši"
+    },
+    {
+      "pasmina": "križevačka kukmica",
+      "vrsta": "Kokoši"
+    },
+    {
+      "pasmina": "posavska kukmica",
+      "vrsta": "Kokoši"
+    },
+    {
+      "pasmina": "patuljasta posavska kukmasta kokoš",
+      "vrsta": "Kokoši"
+    },
+    {
+      "pasmina": "dalmatinska kokoš (pogrmuša)",
+      "vrsta": "Kokoši"
+    },
+    {
+      "pasmina": "zagorski puran",
+      "vrsta": "Purani"
+    },
+    {
+      "pasmina": "dalmatinski pas",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "istarski kratkodlaki gonič",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "istarski oštrodlaki gonič",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "posavski gonič",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "hrvatski ovčar",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "hrvatski tornjak",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "starohrvatski hrt",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "mali međimurski pas – međi",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "istarski hrtoliki gonič ili istarski hrt",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "žuti istarski oštrodlaki gonič zvan \"barbino\"",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "žuti istarski jednobojni kratkodlaki gonič",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "mali istarski kratkodlaki gonič",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "istarski ovčar",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "kvarnerski pastirski pas",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "mljetski pas (mljetski psić)",
+      "vrsta": "Psi"
+    },
+    {
+      "pasmina": "međimurska lastavica",
+      "vrsta": "Golubi"
+    },
+    {
+      "pasmina": "brodski prevrtač",
+      "vrsta": "Golubi"
+    },
+    {
+      "pasmina": "zagrebački prevrtač (purcler)",
+      "vrsta": "Golubi"
+    },
+    {
+      "pasmina": "sisački prevrtač",
+      "vrsta": "Golubi"
+    },
+    {
+      "pasmina": "slavonski prevrtač",
+      "vrsta": "Golubi"
+    },
+    {
+      "pasmina": "zadarski prevrtač",
+      "vrsta": "Golubi"
+    },
+    {
+      "pasmina": "dalmatinska zimovka",
+      "vrsta": "Golubi"
+    },
+    {
+      "pasmina": "slavonski gaćan",
+      "vrsta": "Golubi"
+    },
+    {
+      "pasmina": "vukovarska golubica",
+      "vrsta": "Golubi"
+    },
+    {
+      "pasmina": "vukovarski kokošasti golub",
+      "vrsta": "Golubi"
+    },
+    {
+      "pasmina": "baranjski golub",
+      "vrsta": "Golubi"
+    },
+    {
+      "pasmina": "veliki bijeloopaljeni kunić",
+      "vrsta": "Kunići"
+    },
+    {
+      "pasmina": "siva pčela",
+      "vrsta": "Pčele"
+    },
+    {
+      "pasmina": "posavska gulja (govedo)",
+      "vrsta": "Izumrle"
+    },
+    {
+      "pasmina": "bagun (svinja)",
+      "vrsta": "Izumrle"
+    },
+    {
+      "pasmina": "šiška (svinja)",
+      "vrsta": "Izumrle"
+    },
+    {
+      "pasmina": "lasasta mangulica (svinja)",
+      "vrsta": "Izumrle"
+    },
+    {
+      "pasmina": "istarska koza",
+      "vrsta": "Izumrle"
+    },
+    {
+      "pasmina": "starohrvatski hrt (pas)",
+      "vrsta": "Izumrle"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatske izvorne pasmine domaćih životinja - Free Download",
+    "description": "Popis hrvatskih izvornih i zaštićenih pasmina domaćih životinja (goveda, konji, ovce, koze, svinje, perad, psi i dr.). Contains 73 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatske izvorne pasmine domaćih životinja | ListBase",
+    "seo_description": "Download Hrvatske izvorne pasmine domaćih životinja — 73 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 73 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_pasmina_domaćih_životinja"
+    ]
+  }
+}

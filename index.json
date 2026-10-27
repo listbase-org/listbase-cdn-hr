@@ -1,9 +1,13 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:43.370Z",
-  "total_datasets": 426,
-  "total_records": 822899,
+  "generated": "2026-10-27T02:28:45.937Z",
+  "total_datasets": 427,
+  "total_records": 822972,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 14
@@ -98,6 +102,29 @@
     }
   ],
   "datasets": [
+    {
+      "id": "hr-pasmine-domacih-zivotinja",
+      "name": "Hrvatske izvorne pasmine domaćih životinja",
+      "category": "agriculture",
+      "record_count": 73,
+      "columns": [
+        "pasmina",
+        "vrsta"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_pasmina_domaćih_životinja",
+      "updated": "2026-10",
+      "size": 7157,
+      "files": {
+        "csv": {
+          "name": "hr-pasmine-domacih-zivotinja_HR.csv",
+          "size": 2288
+        },
+        "xlsx": {
+          "name": "hr-pasmine-domacih-zivotinja_HR.xlsx",
+          "size": 8309
+        }
+      }
+    },
     {
       "id": "hr-galerije",
       "name": "Galerije",
