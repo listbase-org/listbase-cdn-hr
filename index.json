@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:36.513Z",
-  "total_datasets": 423,
-  "total_records": 822629,
+  "generated": "2026-10-27T02:28:38.933Z",
+  "total_datasets": 424,
+  "total_records": 822775,
   "categories": [
     {
       "id": "culture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "environment",
@@ -1454,6 +1454,32 @@
         "xlsx": {
           "name": "hr-knjizare_HR.xlsx",
           "size": 10940
+        }
+      }
+    },
+    {
+      "id": "hr-najgledaniji-filmovi",
+      "name": "Najgledaniji hrvatski filmovi",
+      "category": "entertainment",
+      "record_count": 146,
+      "columns": [
+        "rang",
+        "film",
+        "godina",
+        "gledanost",
+        "gledanost_broj"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_najgledanijih_hrvatskih_filmova",
+      "updated": "2026-10",
+      "size": 23482,
+      "files": {
+        "csv": {
+          "name": "hr-najgledaniji-filmovi_HR.csv",
+          "size": 7083
+        },
+        "xlsx": {
+          "name": "hr-najgledaniji-filmovi_HR.xlsx",
+          "size": 13568
         }
       }
     },

@@ -1,0 +1,1073 @@
+{
+  "id": "hr-najgledaniji-filmovi",
+  "name": "Najgledaniji hrvatski filmovi",
+  "title": "Najgledaniji hrvatski filmovi",
+  "description": "Najgledaniji hrvatski filmovi u kinima prema broju gledatelja.",
+  "category": "entertainment",
+  "source": "https://hr.wikipedia.org/wiki/Popis_najgledanijih_hrvatskih_filmova",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_najgledanijih_hrvatskih_filmova",
+  "updated": "2026-10",
+  "record_count": 146,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "string"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "string"
+    },
+    {
+      "key": "gledanost",
+      "label": "Gledanost",
+      "type": "string"
+    },
+    {
+      "key": "gledanost_broj",
+      "label": "Gledanost Broj",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rang": "",
+      "film": "Svadba",
+      "godina": "2026.",
+      "gledanost": "426.474 (4. veljače 2026.)",
+      "gledanost_broj": 426474
+    },
+    {
+      "rang": "1.",
+      "film": "Kako je počeo rat na mom otoku",
+      "godina": "1996.",
+      "gledanost": "338.000",
+      "gledanost_broj": 338000
+    },
+    {
+      "rang": "2.",
+      "film": "Čudnovate zgode Šegrta Hlapića",
+      "godina": "1997.",
+      "gledanost": "227.891",
+      "gledanost_broj": 227891
+    },
+    {
+      "rang": "3.",
+      "film": "Svećenikova djeca",
+      "godina": "2013.",
+      "gledanost": "158.131",
+      "gledanost_broj": 158131
+    },
+    {
+      "rang": "4.",
+      "film": "Što je muškarac bez brkova",
+      "godina": "2006.",
+      "gledanost": "152.379",
+      "gledanost_broj": 152379
+    },
+    {
+      "rang": "5.",
+      "film": "Šegrt Hlapić",
+      "godina": "2013.",
+      "gledanost": "142.797",
+      "gledanost_broj": 142797
+    },
+    {
+      "rang": "6.",
+      "film": "Maršal",
+      "godina": "1999.",
+      "gledanost": "100.908",
+      "gledanost_broj": 100908
+    },
+    {
+      "rang": "7.",
+      "film": "Sonja i bik",
+      "godina": "2012.",
+      "gledanost": "97.927",
+      "gledanost_broj": 97927
+    },
+    {
+      "rang": "8.",
+      "film": "Dnevnik Pauline P.",
+      "godina": "2023.",
+      "gledanost": "93.915",
+      "gledanost_broj": 93915
+    },
+    {
+      "rang": "9.",
+      "film": "Dražen",
+      "godina": "2024.",
+      "gledanost": "86.528",
+      "gledanost_broj": 86528
+    },
+    {
+      "rang": "10.",
+      "film": "Koko i duhovi",
+      "godina": "2011.",
+      "gledanost": "85.145",
+      "gledanost_broj": 85145
+    },
+    {
+      "rang": "11.",
+      "film": "Cvrčak i mravica",
+      "godina": "2023.",
+      "gledanost": "80.765",
+      "gledanost_broj": 80765
+    },
+    {
+      "rang": "12.",
+      "film": "Larin izbor: Izgubljeni princ",
+      "godina": "2012.",
+      "gledanost": "76.694",
+      "gledanost_broj": 76694
+    },
+    {
+      "rang": "13.",
+      "film": "General",
+      "godina": "2019.",
+      "gledanost": "74.585",
+      "gledanost_broj": 74585
+    },
+    {
+      "rang": "14.",
+      "film": "Drugi dnevnik Pauline P. (2025.)",
+      "godina": "2025.",
+      "gledanost": "74.250",
+      "gledanost_broj": 74250
+    },
+    {
+      "rang": "15.",
+      "film": "Gospa",
+      "godina": "1995.",
+      "gledanost": "70.000",
+      "gledanost_broj": 70000
+    },
+    {
+      "rang": "16.",
+      "film": "Zagonetni dječak",
+      "godina": "2013.",
+      "gledanost": "69.274",
+      "gledanost_broj": 69274
+    },
+    {
+      "rang": "17.",
+      "film": "ZG80",
+      "godina": "2016.",
+      "gledanost": "65.775",
+      "gledanost_broj": 65775
+    },
+    {
+      "rang": "18.",
+      "film": "260 dana",
+      "godina": "2025.",
+      "gledanost": "63.814",
+      "gledanost_broj": 63814
+    },
+    {
+      "rang": "19.",
+      "film": "Uzbuna na Zelenom Vrhu",
+      "godina": "2017.",
+      "gledanost": "63.583",
+      "gledanost_broj": 63583
+    },
+    {
+      "rang": "20.",
+      "film": "Duh u močvari",
+      "godina": "2006.",
+      "gledanost": "62.745",
+      "gledanost_broj": 62745
+    },
+    {
+      "rang": "21.",
+      "film": "Koja je ovo država",
+      "godina": "2019.",
+      "gledanost": "58.265",
+      "gledanost_broj": 58265
+    },
+    {
+      "rang": "22.",
+      "film": "Vrijeme za...",
+      "godina": "1993.",
+      "gledanost": "56.150",
+      "gledanost_broj": 56150
+    },
+    {
+      "rang": "23.",
+      "film": "Marginalci",
+      "godina": "2022.",
+      "gledanost": "54.814",
+      "gledanost_broj": 54814
+    },
+    {
+      "rang": "24.",
+      "film": "Narodni heroj Ljiljan Vidić",
+      "godina": "2015.",
+      "gledanost": "54.661",
+      "gledanost_broj": 54661
+    },
+    {
+      "rang": "25.",
+      "film": "Blagajnica hoće ići na more",
+      "godina": "2000.",
+      "gledanost": "48.849",
+      "gledanost_broj": 48849
+    },
+    {
+      "rang": "26.",
+      "film": "Ljubav ili smrt",
+      "godina": "2014.",
+      "gledanost": "44.571",
+      "gledanost_broj": 44571
+    },
+    {
+      "rang": "27.",
+      "film": "Zvizdan",
+      "godina": "2015.",
+      "gledanost": "43.122",
+      "gledanost_broj": 43122
+    },
+    {
+      "rang": "28.",
+      "film": "Karaula",
+      "godina": "2006.",
+      "gledanost": "43.009",
+      "gledanost_broj": 43009
+    },
+    {
+      "rang": "29.",
+      "film": "Kontesa Dora",
+      "godina": "1993.",
+      "gledanost": "40.000",
+      "gledanost_broj": 40000
+    },
+    {
+      "rang": "30.",
+      "film": "Fiume o morte!",
+      "godina": "2025.",
+      "gledanost": "38.948",
+      "gledanost_broj": 38948
+    },
+    {
+      "rang": "31.",
+      "film": "Bumbarovo ljeto",
+      "godina": "2025.",
+      "gledanost": "37.740",
+      "gledanost_broj": 37740
+    },
+    {
+      "rang": "32.",
+      "film": "Kauboji",
+      "godina": "2013.",
+      "gledanost": "33.702",
+      "gledanost_broj": 33702
+    },
+    {
+      "rang": "33.",
+      "film": "Šesti autobus",
+      "godina": "2022.",
+      "gledanost": "32.959",
+      "gledanost_broj": 32959
+    },
+    {
+      "rang": "34.",
+      "film": "Vukovar se vraća kući",
+      "godina": "1994.",
+      "gledanost": "32.752",
+      "gledanost_broj": 32752
+    },
+    {
+      "rang": "35.",
+      "film": "Tri muškarca Melite Žganjer",
+      "godina": "1998.",
+      "gledanost": "32.694",
+      "gledanost_broj": 32694
+    },
+    {
+      "rang": "36.",
+      "film": "Ustav Republike Hrvatske",
+      "godina": "2016.",
+      "gledanost": "32.434",
+      "gledanost_broj": 32434
+    },
+    {
+      "rang": "37.",
+      "film": "Osmi povjerenik",
+      "godina": "2018.",
+      "gledanost": "31.318",
+      "gledanost_broj": 31318
+    },
+    {
+      "rang": "38.",
+      "film": "Dnevnik Diane Budisavljević",
+      "godina": "2019.",
+      "gledanost": "30.496",
+      "gledanost_broj": 30496
+    },
+    {
+      "rang": "39.",
+      "film": "Anka",
+      "godina": "2017.",
+      "gledanost": "30.291",
+      "gledanost_broj": 30291
+    },
+    {
+      "rang": "40.",
+      "film": "Priča iz Hrvatske",
+      "godina": "1991.",
+      "gledanost": "30.000",
+      "gledanost_broj": 30000
+    },
+    {
+      "rang": "41.",
+      "film": "Posljednja volja",
+      "godina": "2001.",
+      "gledanost": "29.696",
+      "gledanost_broj": 29696
+    },
+    {
+      "rang": "42.",
+      "film": "Duga mračna noć",
+      "godina": "2004.",
+      "gledanost": "29.365",
+      "gledanost_broj": 29365
+    },
+    {
+      "rang": "43.",
+      "film": "Moj dida je pao s Marsa",
+      "godina": "2019.",
+      "gledanost": "29.025",
+      "gledanost_broj": 29025
+    },
+    {
+      "rang": "44.",
+      "film": "Posljednji Srbin u Hrvatskoj",
+      "godina": "2019.",
+      "gledanost": "28.072",
+      "gledanost_broj": 28072
+    },
+    {
+      "rang": "45.",
+      "film": "Metastaze",
+      "godina": "2009.",
+      "gledanost": "27.022",
+      "gledanost_broj": 27022
+    },
+    {
+      "rang": "46.",
+      "film": "Novo, novo vrijeme",
+      "godina": "2001.",
+      "gledanost": "26.678",
+      "gledanost_broj": 26678
+    },
+    {
+      "rang": "47.",
+      "film": "Sretno dijete",
+      "godina": "2003.",
+      "gledanost": "25.924",
+      "gledanost_broj": 25924
+    },
+    {
+      "rang": "48.",
+      "film": "Kraljica noći",
+      "godina": "2001.",
+      "gledanost": "23.722",
+      "gledanost_broj": 23722
+    },
+    {
+      "rang": "49.",
+      "film": "Majstori",
+      "godina": "2013.",
+      "gledanost": "23.378",
+      "gledanost_broj": 23378
+    },
+    {
+      "rang": "50.",
+      "film": "Kad mrtvi zapjevaju",
+      "godina": "1998.",
+      "gledanost": "22.224",
+      "gledanost_broj": 22224
+    },
+    {
+      "rang": "51.",
+      "film": "Sokol - Nezaustavljiv kao sudbina",
+      "godina": "2025.",
+      "gledanost": "22.504",
+      "gledanost_broj": 22504
+    },
+    {
+      "rang": "52.",
+      "film": "Da mi je biti morski pas",
+      "godina": "1999.",
+      "gledanost": "21.332",
+      "gledanost_broj": 21332
+    },
+    {
+      "rang": "53.",
+      "film": "Nosila je rubac črleni",
+      "godina": "2022.",
+      "gledanost": "19.161",
+      "gledanost_broj": 19161
+    },
+    {
+      "rang": "54.",
+      "film": "Crvena prašina",
+      "godina": "1999.",
+      "gledanost": "19.036",
+      "gledanost_broj": 19036
+    },
+    {
+      "rang": "50.",
+      "film": "Bogorodica",
+      "godina": "1999.",
+      "gledanost": "18.742",
+      "gledanost_broj": 18742
+    },
+    {
+      "rang": "51.",
+      "film": "Kino Lika",
+      "godina": "2008.",
+      "gledanost": "18.211",
+      "gledanost_broj": 18211
+    },
+    {
+      "rang": "52.",
+      "film": "Pjevajte nešto ljubavno",
+      "godina": "2007.",
+      "gledanost": "18.123",
+      "gledanost_broj": 18123
+    },
+    {
+      "rang": "53.",
+      "film": "Neka ostane među nama",
+      "godina": "2010.",
+      "gledanost": "17.723",
+      "gledanost_broj": 17723
+    },
+    {
+      "rang": "54.",
+      "film": "Ufuraj se i pukni",
+      "godina": "2019.",
+      "gledanost": "17.533",
+      "gledanost_broj": 17533
+    },
+    {
+      "rang": "55.",
+      "film": "Južina",
+      "godina": "2025.",
+      "gledanost": "17.417",
+      "gledanost_broj": 17417
+    },
+    {
+      "rang": "56.",
+      "film": "Ljubav oko svijeta",
+      "godina": "2021.",
+      "gledanost": "17.081",
+      "gledanost_broj": 17081
+    },
+    {
+      "rang": "57.",
+      "film": "Broj 55",
+      "godina": "2014.",
+      "gledanost": "15.549",
+      "gledanost_broj": 15549
+    },
+    {
+      "rang": "58.",
+      "film": "Fine mrtve djevojke",
+      "godina": "2002.",
+      "gledanost": "14.346",
+      "gledanost_broj": 14346
+    },
+    {
+      "rang": "59.",
+      "film": "Ta divna splitska noć",
+      "godina": "2004.",
+      "gledanost": "14.205",
+      "gledanost_broj": 14205
+    },
+    {
+      "rang": "60.",
+      "film": "Život je truba",
+      "godina": "2015.",
+      "gledanost": "13.911",
+      "gledanost_broj": 13911
+    },
+    {
+      "rang": "61.",
+      "film": "Comic Sans",
+      "godina": "2018.",
+      "gledanost": "13.551",
+      "gledanost_broj": 13551
+    },
+    {
+      "rang": "62.",
+      "film": "Konjanik",
+      "godina": "2003.",
+      "gledanost": "13.415",
+      "gledanost_broj": 13415
+    },
+    {
+      "rang": "63.",
+      "film": "Ljudožder vegetarijanac",
+      "godina": "2012.",
+      "gledanost": "13.285",
+      "gledanost_broj": 13285
+    },
+    {
+      "rang": "64.",
+      "film": "Gazda",
+      "godina": "2016.",
+      "gledanost": "12.382",
+      "gledanost_broj": 12382
+    },
+    {
+      "rang": "65.",
+      "film": "Murina",
+      "godina": "2021.",
+      "gledanost": "11.209",
+      "gledanost_broj": 11209
+    },
+    {
+      "rang": "66.",
+      "film": "Svemu dođe kraj",
+      "godina": "2024.",
+      "gledanost": "11.145",
+      "gledanost_broj": 11145
+    },
+    {
+      "rang": "67.",
+      "film": "Libertas",
+      "godina": "2006.",
+      "gledanost": "11.131",
+      "gledanost_broj": 11131
+    },
+    {
+      "rang": "68.",
+      "film": "Sigurno mjesto",
+      "godina": "2022.",
+      "gledanost": "11.052",
+      "gledanost_broj": 11052
+    },
+    {
+      "rang": "69.",
+      "film": "Ne dao bog većeg zla",
+      "godina": "2002.",
+      "gledanost": "10.959",
+      "gledanost_broj": 10959
+    },
+    {
+      "rang": "70.",
+      "film": "Kenjac",
+      "godina": "2009.",
+      "gledanost": "10.439",
+      "gledanost_broj": 10439
+    },
+    {
+      "rang": "71.",
+      "film": "Vjerujem u anđele",
+      "godina": "2009.",
+      "gledanost": "10.435",
+      "gledanost_broj": 10435
+    },
+    {
+      "rang": "72.",
+      "film": "Svjedoci",
+      "godina": "2003.",
+      "gledanost": "9.945",
+      "gledanost_broj": 9945
+    },
+    {
+      "rang": "73.",
+      "film": "Lea i Darija",
+      "godina": "2011.",
+      "gledanost": "9.847",
+      "gledanost_broj": 9847
+    },
+    {
+      "rang": "74.",
+      "film": "Armin",
+      "godina": "2007.",
+      "gledanost": "9.564",
+      "gledanost_broj": 9564
+    },
+    {
+      "rang": "75.",
+      "film": "Samo kad se smijem",
+      "godina": "2023.",
+      "gledanost": "9.335",
+      "gledanost_broj": 9335
+    },
+    {
+      "rang": "76.",
+      "film": "72 dana",
+      "godina": "2010.",
+      "gledanost": "9.143",
+      "gledanost_broj": 9143
+    },
+    {
+      "rang": "77.",
+      "film": "Tu",
+      "godina": "2003.",
+      "gledanost": "9.107",
+      "gledanost_broj": 9107
+    },
+    {
+      "rang": "78.",
+      "film": "Ti mene nosiš",
+      "godina": "2015.",
+      "gledanost": "8.849",
+      "gledanost_broj": 8849
+    },
+    {
+      "rang": "79.",
+      "film": "Božji gnjev",
+      "godina": "2025.",
+      "gledanost": "8.809",
+      "gledanost_broj": 8809
+    },
+    {
+      "rang": "80.",
+      "film": "Halimin put",
+      "godina": "2012.",
+      "gledanost": "8.731",
+      "gledanost_broj": 8731
+    },
+    {
+      "rang": "81.",
+      "film": "Gangster te voli",
+      "godina": "2013.",
+      "gledanost": "8.728",
+      "gledanost_broj": 8728
+    },
+    {
+      "rang": "82.",
+      "film": "Kralj",
+      "godina": "2012.",
+      "gledanost": "8.701",
+      "gledanost_broj": 8701
+    },
+    {
+      "rang": "83.",
+      "film": "Ideš? Idem!",
+      "godina": "2019.",
+      "gledanost": "8.681",
+      "gledanost_broj": 8681
+    },
+    {
+      "rang": "84.",
+      "film": "Sedmo nebo",
+      "godina": "2023.",
+      "gledanost": "8.647",
+      "gledanost_broj": 8647
+    },
+    {
+      "rang": "85.",
+      "film": "Smrt djevojčice sa žigicama",
+      "godina": "2023.",
+      "gledanost": "8.564",
+      "gledanost_broj": 8564
+    },
+    {
+      "rang": "86.",
+      "film": "Božji gnjev",
+      "godina": "2024.",
+      "gledanost": "8.041",
+      "gledanost_broj": 8041
+    },
+    {
+      "rang": "87.",
+      "film": "Zbornica",
+      "godina": "2021.",
+      "gledanost": "8.066",
+      "gledanost_broj": 8066
+    },
+    {
+      "rang": "88.",
+      "film": "Stric",
+      "godina": "2022.",
+      "gledanost": "8.046",
+      "gledanost_broj": 8046
+    },
+    {
+      "rang": "89.",
+      "film": "Baci se na pod",
+      "godina": "2022.",
+      "gledanost": "7.942",
+      "gledanost_broj": 7942
+    },
+    {
+      "rang": "90.",
+      "film": "Srce nije u modi",
+      "godina": "2000.",
+      "gledanost": "7.921",
+      "gledanost_broj": 7921
+    },
+    {
+      "rang": "91.",
+      "film": "Sve najbolje",
+      "godina": "2016.",
+      "gledanost": "7.722",
+      "gledanost_broj": 7722
+    },
+    {
+      "rang": "92.",
+      "film": "Je li jasno, prijatelju?",
+      "godina": "2000.",
+      "gledanost": "7.717",
+      "gledanost_broj": 7717
+    },
+    {
+      "rang": "93.",
+      "film": "Nije kraj",
+      "godina": "2008.",
+      "gledanost": "7.487",
+      "gledanost_broj": 7487
+    },
+    {
+      "rang": "94.",
+      "film": "Escort",
+      "godina": "2023.",
+      "gledanost": "7.411",
+      "gledanost_broj": 7411
+    },
+    {
+      "rang": "95.",
+      "film": "Ministarstvo ljubavi",
+      "godina": "2016.",
+      "gledanost": "7.342",
+      "gledanost_broj": 7342
+    },
+    {
+      "rang": "96.",
+      "film": "Nakon ljeta",
+      "godina": "2024.",
+      "gledanost": "7.334",
+      "gledanost_broj": 7334
+    },
+    {
+      "rang": "97.",
+      "film": "Sveta obitelj",
+      "godina": "2023.",
+      "gledanost": "7.105",
+      "gledanost_broj": 7105
+    },
+    {
+      "rang": "98.",
+      "film": "Put lubenica",
+      "godina": "2006.",
+      "gledanost": "6.721",
+      "gledanost_broj": 6721
+    },
+    {
+      "rang": "99.",
+      "film": "Slatka Simona",
+      "godina": "2024.",
+      "gledanost": "6.493",
+      "gledanost_broj": 6493
+    },
+    {
+      "rang": "100.",
+      "film": "Dopunska nastava",
+      "godina": "2019.",
+      "gledanost": "5.861",
+      "gledanost_broj": 5861
+    },
+    {
+      "rang": "101.",
+      "film": "El Shatt – nacrt za utopiju",
+      "godina": "2023.",
+      "gledanost": "5.788",
+      "gledanost_broj": 5788
+    },
+    {
+      "rang": "102.",
+      "film": "Što je Iva snimila 21. listopada 2003.",
+      "godina": "2005.",
+      "gledanost": "5.687",
+      "gledanost_broj": 5687
+    },
+    {
+      "rang": "103.",
+      "film": "Noćni brodovi",
+      "godina": "2012.",
+      "gledanost": "5.623",
+      "gledanost_broj": 5623
+    },
+    {
+      "rang": "104.",
+      "film": "Frka (2024.)",
+      "godina": "2024.",
+      "gledanost": "5.682",
+      "gledanost_broj": 5682
+    },
+    {
+      "rang": "105.",
+      "film": "Mirotvorac",
+      "godina": "2025.",
+      "gledanost": "5.669",
+      "gledanost_broj": 5669
+    },
+    {
+      "rang": "106.",
+      "film": "7 Sex 7",
+      "godina": "2011.",
+      "gledanost": "5.551",
+      "gledanost_broj": 5551
+    },
+    {
+      "rang": "107.",
+      "film": "Mali",
+      "godina": "2018.",
+      "gledanost": "5.535",
+      "gledanost_broj": 5535
+    },
+    {
+      "rang": "108.",
+      "film": "Ne gledaj mi u pijat",
+      "godina": "2016.",
+      "gledanost": "5.391",
+      "gledanost_broj": 5391
+    },
+    {
+      "rang": "109.",
+      "film": "Divljaci",
+      "godina": "2022.",
+      "gledanost": "5.347",
+      "gledanost_broj": 5347
+    },
+    {
+      "rang": "110.",
+      "film": "Illyricvm",
+      "godina": "2022.",
+      "gledanost": "5.330",
+      "gledanost_broj": 5330
+    },
+    {
+      "rang": "111.",
+      "film": "Bosanski lonac",
+      "godina": "2023.",
+      "gledanost": "5.299",
+      "gledanost_broj": 5299
+    },
+    {
+      "rang": "112.",
+      "film": "Hotel Pula",
+      "godina": "2023.",
+      "gledanost": "5.270",
+      "gledanost_broj": 5270
+    },
+    {
+      "rang": "113.",
+      "film": "Proslava",
+      "godina": "2024.",
+      "gledanost": "5.252",
+      "gledanost_broj": 5252
+    },
+    {
+      "rang": "114.",
+      "film": "Treći svijet",
+      "godina": "2025.",
+      "gledanost": "5.127",
+      "gledanost_broj": 5127
+    },
+    {
+      "rang": "115.",
+      "film": "Nakon ljeta",
+      "godina": "2024.",
+      "gledanost": "5.123",
+      "gledanost_broj": 5123
+    },
+    {
+      "rang": "116.",
+      "film": "Oprosti za Kung Fu",
+      "godina": "2004.",
+      "gledanost": "5.115",
+      "gledanost_broj": 5115
+    },
+    {
+      "rang": "117.",
+      "film": "Šalša",
+      "godina": "2024.",
+      "gledanost": "5.016",
+      "gledanost_broj": 5016
+    },
+    {
+      "rang": "118.",
+      "film": "A bili smo vam dobri",
+      "godina": "2021.",
+      "gledanost": "4.986",
+      "gledanost_broj": 4986
+    },
+    {
+      "rang": "119.",
+      "film": "Sve džaba",
+      "godina": "2006.",
+      "gledanost": "4.866",
+      "gledanost_broj": 4866
+    },
+    {
+      "rang": "120.",
+      "film": "F20",
+      "godina": "2018.",
+      "gledanost": "4.791",
+      "gledanost_broj": 4791
+    },
+    {
+      "rang": "121.",
+      "film": "Plavi cvijet",
+      "godina": "2021.",
+      "gledanost": "4.678",
+      "gledanost_broj": 4678
+    },
+    {
+      "rang": "122.",
+      "film": "Garbura",
+      "godina": "2022.",
+      "gledanost": "4.623",
+      "gledanost_broj": 4623
+    },
+    {
+      "rang": "123.",
+      "film": "Zagrebački ekvinocij",
+      "godina": "2019.",
+      "gledanost": "4.545",
+      "gledanost_broj": 4545
+    },
+    {
+      "rang": "124.",
+      "film": "Oblak",
+      "godina": "2011.",
+      "gledanost": "4.523",
+      "gledanost_broj": 4523
+    },
+    {
+      "rang": "125.",
+      "film": "The Show Must Go On",
+      "godina": "2010.",
+      "gledanost": "4.447",
+      "gledanost_broj": 4447
+    },
+    {
+      "rang": "126.",
+      "film": "Tusta",
+      "godina": "2019.",
+      "gledanost": "4.304",
+      "gledanost_broj": 4304
+    },
+    {
+      "rang": "127.",
+      "film": "Mater",
+      "godina": "2019.",
+      "gledanost": "4.286",
+      "gledanost_broj": 4286
+    },
+    {
+      "rang": "128.",
+      "film": "Duh babe Ilonke",
+      "godina": "2011.",
+      "gledanost": "4.233",
+      "gledanost_broj": 4233
+    },
+    {
+      "rang": "129.",
+      "film": "Izgubljeni Dream Team",
+      "godina": "2025.",
+      "gledanost": "3.575",
+      "gledanost_broj": 3575
+    },
+    {
+      "rang": "130.",
+      "film": "Šlager",
+      "godina": "2024.",
+      "gledanost": "3.127",
+      "gledanost_broj": 3127
+    },
+    {
+      "rang": "131.",
+      "film": "Zečji nasip",
+      "godina": "2025.",
+      "gledanost": "3.068",
+      "gledanost_broj": 3068
+    },
+    {
+      "rang": "132.",
+      "film": "Žene, luđaci i malo dobrih pedera",
+      "godina": "2025.",
+      "gledanost": "2.609",
+      "gledanost_broj": 2609
+    },
+    {
+      "rang": "133.",
+      "film": "Funk YU",
+      "godina": "2024.",
+      "gledanost": "2.152",
+      "gledanost_broj": 2152
+    },
+    {
+      "rang": "134.",
+      "film": "Bog neće pomoći",
+      "godina": "2025.",
+      "gledanost": "2.102",
+      "gledanost_broj": 2102
+    },
+    {
+      "rang": "135.",
+      "film": "Pamtim samo sretne dane",
+      "godina": "2024.",
+      "gledanost": "2.022",
+      "gledanost_broj": 2022
+    },
+    {
+      "rang": "136.",
+      "film": "Taxi ljubav",
+      "godina": "2025.",
+      "gledanost": "1.693",
+      "gledanost_broj": 1693
+    },
+    {
+      "rang": "137.",
+      "film": "Dobra djeca",
+      "godina": "2024.",
+      "gledanost": "1.338",
+      "gledanost_broj": 1338
+    },
+    {
+      "rang": "138.",
+      "film": "Vude, ti si pobijedio",
+      "godina": "2025.",
+      "gledanost": "858",
+      "gledanost_broj": 858
+    },
+    {
+      "rang": "139.",
+      "film": "Lekcije mog tate",
+      "godina": "2025.",
+      "gledanost": "650",
+      "gledanost_broj": 650
+    },
+    {
+      "rang": "140.",
+      "film": "Zaustavi me ako možeš",
+      "godina": "2025.",
+      "gledanost": "646",
+      "gledanost_broj": 646
+    }
+  ],
+  "meta": {
+    "title": "Najgledaniji hrvatski filmovi - Free Download",
+    "description": "Najgledaniji hrvatski filmovi u kinima prema broju gledatelja. Contains 146 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najgledaniji hrvatski filmovi | ListBase",
+    "seo_description": "Download Najgledaniji hrvatski filmovi — 146 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 146 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_najgledanijih_hrvatskih_filmova"
+    ]
+  }
+}
