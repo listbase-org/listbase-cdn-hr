@@ -1,0 +1,386 @@
+{
+  "id": "hr-eurovizija",
+  "name": "Hrvatska na Pjesmi Eurovizije",
+  "title": "Hrvatska na Pjesmi Eurovizije",
+  "description": "Svi hrvatski predstavnici na Pjesmi Eurovizije od 1993.: izvođač, pjesma, jezik, plasman i bodovi.",
+  "category": "music",
+  "source": "https://hr.wikipedia.org/wiki/Hrvatska_na_Pjesmi_Eurovizije",
+  "source_url": "https://hr.wikipedia.org/wiki/Hrvatska_na_Pjesmi_Eurovizije",
+  "updated": "2026-10",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "string"
+    },
+    {
+      "key": "izvodjac",
+      "label": "Izvodjac",
+      "type": "string"
+    },
+    {
+      "key": "pjesma",
+      "label": "Pjesma",
+      "type": "string"
+    },
+    {
+      "key": "jezik",
+      "label": "Jezik",
+      "type": "string"
+    },
+    {
+      "key": "plasman_finale",
+      "label": "Plasman Finale",
+      "type": "number"
+    },
+    {
+      "key": "bodovi_finale",
+      "label": "Bodovi Finale",
+      "type": "number"
+    },
+    {
+      "key": "plasman_polufinale",
+      "label": "Plasman Polufinale",
+      "type": "number"
+    },
+    {
+      "key": "bodovi_polufinale",
+      "label": "Bodovi Polufinale",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "godina": "1993.",
+      "izvodjac": "Put",
+      "pjesma": "Don't Ever Cry",
+      "jezik": "hrvatski, engleski",
+      "plasman_finale": "15",
+      "bodovi_finale": "31",
+      "plasman_polufinale": "3",
+      "bodovi_polufinale": "51"
+    },
+    {
+      "godina": "1994.",
+      "izvodjac": "Tony Cetinski",
+      "pjesma": "Nek' ti bude ljubav sva",
+      "jezik": "hrvatski",
+      "plasman_finale": "16",
+      "bodovi_finale": "27",
+      "plasman_polufinale": "nema polufinala",
+      "bodovi_polufinale": "nema polufinala"
+    },
+    {
+      "godina": "1995.",
+      "izvodjac": "Magazin i Lidija",
+      "pjesma": "Nostalgija",
+      "jezik": "hrvatski",
+      "plasman_finale": "6",
+      "bodovi_finale": "91",
+      "plasman_polufinale": "nema polufinala",
+      "bodovi_polufinale": "nema polufinala"
+    },
+    {
+      "godina": "1996.",
+      "izvodjac": "Maja Blagdan",
+      "pjesma": "Sveta ljubav",
+      "jezik": "hrvatski",
+      "plasman_finale": "4",
+      "bodovi_finale": "98",
+      "plasman_polufinale": "19",
+      "bodovi_polufinale": "30"
+    },
+    {
+      "godina": "1997.",
+      "izvodjac": "E.N.I.",
+      "pjesma": "Probudi me",
+      "jezik": "hrvatski",
+      "plasman_finale": "17",
+      "bodovi_finale": "24",
+      "plasman_polufinale": "nema polufinala",
+      "bodovi_polufinale": "nema polufinala"
+    },
+    {
+      "godina": "1998.",
+      "izvodjac": "Danijela Martinović",
+      "pjesma": "Neka mi ne svane",
+      "jezik": "hrvatski",
+      "plasman_finale": "5",
+      "bodovi_finale": "131",
+      "plasman_polufinale": "nema polufinala",
+      "bodovi_polufinale": "nema polufinala"
+    },
+    {
+      "godina": "1999.",
+      "izvodjac": "Doris Dragović",
+      "pjesma": "Marija Magdalena",
+      "jezik": "hrvatski",
+      "plasman_finale": "4",
+      "bodovi_finale": "118",
+      "plasman_polufinale": "nema polufinala",
+      "bodovi_polufinale": "nema polufinala"
+    },
+    {
+      "godina": "2000.",
+      "izvodjac": "Goran Karan",
+      "pjesma": "Ostani",
+      "jezik": "hrvatski",
+      "plasman_finale": "9",
+      "bodovi_finale": "70",
+      "plasman_polufinale": "nema polufinala",
+      "bodovi_polufinale": "nema polufinala"
+    },
+    {
+      "godina": "2001.",
+      "izvodjac": "Vanna",
+      "pjesma": "Strings of my Heart",
+      "jezik": "engleski",
+      "plasman_finale": "10",
+      "bodovi_finale": "42",
+      "plasman_polufinale": "nema polufinala",
+      "bodovi_polufinale": "nema polufinala"
+    },
+    {
+      "godina": "2002.",
+      "izvodjac": "Vesna Pisarović",
+      "pjesma": "Everything I Want",
+      "jezik": "engleski",
+      "plasman_finale": "11",
+      "bodovi_finale": "44",
+      "plasman_polufinale": "nema polufinala",
+      "bodovi_polufinale": "nema polufinala"
+    },
+    {
+      "godina": "2003.",
+      "izvodjac": "Claudia Beni",
+      "pjesma": "Više nisam tvoja",
+      "jezik": "hrvatski",
+      "plasman_finale": "15",
+      "bodovi_finale": "29",
+      "plasman_polufinale": "nema polufinala",
+      "bodovi_polufinale": "nema polufinala"
+    },
+    {
+      "godina": "2004.",
+      "izvodjac": "Ivan Mikulić",
+      "pjesma": "You Are The Only One",
+      "jezik": "engleski",
+      "plasman_finale": "12",
+      "bodovi_finale": "50",
+      "plasman_polufinale": "9",
+      "bodovi_polufinale": "72"
+    },
+    {
+      "godina": "2005.",
+      "izvodjac": "Boris Novković i Lado",
+      "pjesma": "Vukovi umiru sami",
+      "jezik": "hrvatski",
+      "plasman_finale": "11",
+      "bodovi_finale": "115",
+      "plasman_polufinale": "4",
+      "bodovi_polufinale": "169"
+    },
+    {
+      "godina": "2006.",
+      "izvodjac": "Severina",
+      "pjesma": "Moja štikla",
+      "jezik": "hrvatski",
+      "plasman_finale": "12",
+      "bodovi_finale": "56",
+      "plasman_polufinale": "nema polufinala",
+      "bodovi_polufinale": "nema polufinala"
+    },
+    {
+      "godina": "2007.",
+      "izvodjac": "Dragonfly i Dado Topić",
+      "pjesma": "Vjerujem u ljubav",
+      "jezik": "hrvatski, engleski",
+      "plasman_finale": "nije se kvalificirala",
+      "bodovi_finale": "nije se kvalificirala",
+      "plasman_polufinale": "16",
+      "bodovi_polufinale": "54"
+    },
+    {
+      "godina": "2008.",
+      "izvodjac": "Kraljevi ulice i 75 Cents",
+      "pjesma": "Romanca",
+      "jezik": "hrvatski",
+      "plasman_finale": "21",
+      "bodovi_finale": "44",
+      "plasman_polufinale": "4",
+      "bodovi_polufinale": "112"
+    },
+    {
+      "godina": "2009.",
+      "izvodjac": "Igor Cukrov i Andrea Šušnjara",
+      "pjesma": "Lijepa Tena",
+      "jezik": "hrvatski",
+      "plasman_finale": "18",
+      "bodovi_finale": "45",
+      "plasman_polufinale": "13",
+      "bodovi_polufinale": "33"
+    },
+    {
+      "godina": "2010.",
+      "izvodjac": "Feminnem",
+      "pjesma": "Lako je sve",
+      "jezik": "hrvatski",
+      "plasman_finale": "nije se kvalificirala",
+      "bodovi_finale": "nije se kvalificirala",
+      "plasman_polufinale": "13",
+      "bodovi_polufinale": "33"
+    },
+    {
+      "godina": "2011.",
+      "izvodjac": "Daria Kinzer",
+      "pjesma": "Celebrate",
+      "jezik": "engleski",
+      "plasman_finale": "nije se kvalificirala",
+      "bodovi_finale": "nije se kvalificirala",
+      "plasman_polufinale": "15",
+      "bodovi_polufinale": "41"
+    },
+    {
+      "godina": "2012.",
+      "izvodjac": "Nina Badrić",
+      "pjesma": "Nebo",
+      "jezik": "hrvatski",
+      "plasman_finale": "nije se kvalificirala",
+      "bodovi_finale": "nije se kvalificirala",
+      "plasman_polufinale": "12",
+      "bodovi_polufinale": "42"
+    },
+    {
+      "godina": "2013.",
+      "izvodjac": "Klapa s Mora",
+      "pjesma": "Mižerija",
+      "jezik": "hrvatski",
+      "plasman_finale": "nije se kvalificirala",
+      "bodovi_finale": "nije se kvalificirala",
+      "plasman_polufinale": "13",
+      "bodovi_polufinale": "38"
+    },
+    {
+      "godina": "2016.",
+      "izvodjac": "Nina Kraljić",
+      "pjesma": "Lighthouse",
+      "jezik": "engleski",
+      "plasman_finale": "23",
+      "bodovi_finale": "73",
+      "plasman_polufinale": "10",
+      "bodovi_polufinale": "133"
+    },
+    {
+      "godina": "2017.",
+      "izvodjac": "Jacques Houdek",
+      "pjesma": "My Friend",
+      "jezik": "engleski, talijanski",
+      "plasman_finale": "13",
+      "bodovi_finale": "128",
+      "plasman_polufinale": "8",
+      "bodovi_polufinale": "141"
+    },
+    {
+      "godina": "2018.",
+      "izvodjac": "Franka Batelić",
+      "pjesma": "Crazy",
+      "jezik": "engleski",
+      "plasman_finale": "nije se kvalificirala",
+      "bodovi_finale": "nije se kvalificirala",
+      "plasman_polufinale": "17",
+      "bodovi_polufinale": "63"
+    },
+    {
+      "godina": "2019.",
+      "izvodjac": "Roko Blažević",
+      "pjesma": "The Dream",
+      "jezik": "engleski",
+      "plasman_finale": "nije se kvalificirala",
+      "bodovi_finale": "nije se kvalificirala",
+      "plasman_polufinale": "14",
+      "bodovi_polufinale": "64"
+    },
+    {
+      "godina": "2020.",
+      "izvodjac": "Damir Kedžo",
+      "pjesma": "Divlji vjetre",
+      "jezik": "hrvatski",
+      "plasman_finale": "natjecanje otkazano",
+      "bodovi_finale": "natjecanje otkazano",
+      "plasman_polufinale": "natjecanje otkazano",
+      "bodovi_polufinale": "natjecanje otkazano"
+    },
+    {
+      "godina": "2021.",
+      "izvodjac": "Albina",
+      "pjesma": "Tick-Tock",
+      "jezik": "engleski, hrvatski",
+      "plasman_finale": "nije se kvalificirala",
+      "bodovi_finale": "nije se kvalificirala",
+      "plasman_polufinale": "11",
+      "bodovi_polufinale": "110"
+    },
+    {
+      "godina": "2022.",
+      "izvodjac": "Mia Dimšić",
+      "pjesma": "Guilty Pleasure",
+      "jezik": "engleski, hrvatski",
+      "plasman_finale": "nije se kvalificirala",
+      "bodovi_finale": "nije se kvalificirala",
+      "plasman_polufinale": "11",
+      "bodovi_polufinale": "75"
+    },
+    {
+      "godina": "2023.",
+      "izvodjac": "Let 3",
+      "pjesma": "Mama ŠČ",
+      "jezik": "hrvatski",
+      "plasman_finale": "13",
+      "bodovi_finale": "123",
+      "plasman_polufinale": "8",
+      "bodovi_polufinale": "76"
+    },
+    {
+      "godina": "2024.",
+      "izvodjac": "Baby Lasagna",
+      "pjesma": "Rim Tim Tagi Dim",
+      "jezik": "engleski",
+      "plasman_finale": "2",
+      "bodovi_finale": "547",
+      "plasman_polufinale": "1",
+      "bodovi_polufinale": "177"
+    },
+    {
+      "godina": "2025.",
+      "izvodjac": "Marko Bošnjak",
+      "pjesma": "Poison Cake",
+      "jezik": "engleski",
+      "plasman_finale": "nije se kvalificirala",
+      "bodovi_finale": "nije se kvalificirala",
+      "plasman_polufinale": "12",
+      "bodovi_polufinale": "28"
+    },
+    {
+      "godina": "2026.",
+      "izvodjac": "Lelek",
+      "pjesma": "Andromeda",
+      "jezik": "hrvatski",
+      "plasman_finale": "15",
+      "bodovi_finale": "124",
+      "plasman_polufinale": "6",
+      "bodovi_polufinale": "175"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatska na Pjesmi Eurovizije - Free Download",
+    "description": "Svi hrvatski predstavnici na Pjesmi Eurovizije od 1993.: izvođač, pjesma, jezik, plasman i bodovi. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatska na Pjesmi Eurovizije | ListBase",
+    "seo_description": "Download Hrvatska na Pjesmi Eurovizije — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Hrvatska_na_Pjesmi_Eurovizije"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:26.584Z",
-  "total_datasets": 419,
-  "total_records": 822303,
+  "generated": "2026-10-27T02:28:29.082Z",
+  "total_datasets": 420,
+  "total_records": 822335,
   "categories": [
     {
       "id": "culture",
@@ -50,6 +50,10 @@
     },
     {
       "id": "law",
+      "dataset_count": 1
+    },
+    {
+      "id": "music",
       "dataset_count": 1
     },
     {
@@ -2754,6 +2758,35 @@
         "xlsx": {
           "name": "hr-javni-biljeznici_HR.xlsx",
           "size": 42030
+        }
+      }
+    },
+    {
+      "id": "hr-eurovizija",
+      "name": "Hrvatska na Pjesmi Eurovizije",
+      "category": "music",
+      "record_count": 32,
+      "columns": [
+        "godina",
+        "izvodjac",
+        "pjesma",
+        "jezik",
+        "plasman_finale",
+        "bodovi_finale",
+        "plasman_polufinale",
+        "bodovi_polufinale"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Hrvatska_na_Pjesmi_Eurovizije",
+      "updated": "2026-10",
+      "size": 10901,
+      "files": {
+        "csv": {
+          "name": "hr-eurovizija_HR.csv",
+          "size": 3123
+        },
+        "xlsx": {
+          "name": "hr-eurovizija_HR.xlsx",
+          "size": 8920
         }
       }
     },
