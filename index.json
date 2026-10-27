@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:28:55.635Z",
-  "total_datasets": 431,
-  "total_records": 823556,
+  "generated": "2026-10-27T02:28:58.105Z",
+  "total_datasets": 432,
+  "total_records": 823592,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -2958,6 +2958,28 @@
         "xlsx": {
           "name": "hr-operni-pjevaci_HR.xlsx",
           "size": 8058
+        }
+      }
+    },
+    {
+      "id": "hr-skladatelji",
+      "name": "Hrvatski skladatelji klasične i folklorne glazbe",
+      "category": "music",
+      "record_count": 36,
+      "columns": [
+        "ime"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_skladatelja_klasične_i_folklorne_glazbe",
+      "updated": "2026-10",
+      "size": 2931,
+      "files": {
+        "csv": {
+          "name": "hr-skladatelji_HR.csv",
+          "size": 672
+        },
+        "xlsx": {
+          "name": "hr-skladatelji_HR.xlsx",
+          "size": 7349
         }
       }
     },
