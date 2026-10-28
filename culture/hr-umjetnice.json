@@ -1,0 +1,486 @@
+{
+  "id": "hr-umjetnice",
+  "name": "Hrvatske umjetnice",
+  "title": "Hrvatske umjetnice",
+  "description": "Popis hrvatskih likovnih umjetnica (slikarica, kiparica i dr.) s godinama života i strukom.",
+  "category": "culture",
+  "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_umjetnica",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_umjetnica",
+  "updated": "2026-10",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "years",
+      "label": "Years",
+      "type": "string"
+    },
+    {
+      "key": "profession",
+      "label": "Profession",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Dorotea Bagarić",
+      "years": "",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Jolanda Ballarin",
+      "years": "1908. – 1977.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Koraljka Beker",
+      "years": "rođena 1965.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Nataša Beuk",
+      "years": "",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Neda Miranda Blažević-Krietzman",
+      "years": "",
+      "profession": "slikarica i kiparica"
+    },
+    {
+      "name": "Zoe Borelli Vranski",
+      "years": "1888. – 1980.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Ana Marija Botteri",
+      "years": "rođena 1971.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Truda Braun-Šaban",
+      "years": "1909. – 1948.",
+      "profession": ""
+    },
+    {
+      "name": "Sonja Briski Uzelac",
+      "years": "rođena 1946.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Helena Bulaja",
+      "years": "rođena 1971.",
+      "profession": ""
+    },
+    {
+      "name": "Vera Dajht-Kralj",
+      "years": "1928. – 2014.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Ljubica Dragojević Buble",
+      "years": "rođena 1960.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Alma Dujmović",
+      "years": "rođena 1958.",
+      "profession": ""
+    },
+    {
+      "name": "Cata Dujšin-Ribar",
+      "years": "1897. – 1994.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Marta Ehrlich",
+      "years": "1910. – 1980.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Jadranka Fatur",
+      "years": "rođena 1949.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Eva Fischer",
+      "years": "1920. – 2015.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Vera Fischer",
+      "years": "1925. – 2009.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Kristina Fontana Dujmić",
+      "years": "rođena 1968.",
+      "profession": "slikarica i kiparica"
+    },
+    {
+      "name": "Branka Frangeš Hegedušić",
+      "years": "1906. – 1985.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Ingeborg Fülepp",
+      "years": "rođena 1952.",
+      "profession": ""
+    },
+    {
+      "name": "Karin Grenc",
+      "years": "rođena 1971.",
+      "profession": "grafička dizajnerica i slikarica"
+    },
+    {
+      "name": "Ana Horvat",
+      "years": "rođena 1989.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Đurđica Horvat",
+      "years": "rođena 1961.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Sanja Iveković",
+      "years": "rođena 1949.",
+      "profession": ""
+    },
+    {
+      "name": "Ljubica Josipović",
+      "years": "rođena 1956.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Ivona Jurić",
+      "years": "",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Alana Kajfež",
+      "years": "rođena 1990.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Ksenija Kantoci",
+      "years": "1909. – 1995.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Nives Kavurić-Kurtović",
+      "years": "1938. – 2016.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Ljiljana Llilli Koci",
+      "years": "rođena 1967.",
+      "profession": "slikarica i kiparica"
+    },
+    {
+      "name": "Oja Kodar",
+      "years": "rođena 1941.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Enca Kovačević",
+      "years": "rođena 1953.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Živa Kraus",
+      "years": "rođena 1945.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Anka Krizmanić",
+      "years": "1896. – 1987.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Josipa Križanović",
+      "years": "rođena 1963.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Andreja Kulunčić",
+      "years": "rođena 1968.",
+      "profession": ""
+    },
+    {
+      "name": "Jacinta Kunić",
+      "years": "",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Lidija Laforest",
+      "years": "1926. – 2016.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Rada Marković",
+      "years": "rođena 1960.",
+      "profession": ""
+    },
+    {
+      "name": "Jagoda Marović Sinti",
+      "years": "rođena 1937.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Božena Martinčević",
+      "years": "1939. – 2020.",
+      "profession": ""
+    },
+    {
+      "name": "Zvjezdana Mihalke",
+      "years": "rođena 1968.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Lajla Mišur Volarević",
+      "years": "rođena 1950.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Tina Morpurgo",
+      "years": "1907. – 1944.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Sofija Naletilić Penavuša",
+      "years": "1913. – 1994.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Sandra Nejašmić",
+      "years": "rođena 1970.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Nevenka Nekić",
+      "years": "rođena 1942.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Vera Nikolić Podrinska",
+      "years": "1886. – 1972.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Dragana Nuić Vučković",
+      "years": "rođena 1965.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Ljerka Njerš",
+      "years": "rođena 1937.",
+      "profession": "slikarica i kiparica"
+    },
+    {
+      "name": "Ankica Oprešnik",
+      "years": "1919. – 2005.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Alma Orlić",
+      "years": "rođena 1937.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Danijela Pal Bučan",
+      "years": "rođena 1970.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Jelena Petric",
+      "years": "rođena 1988.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Marijana Petrović Mikulić",
+      "years": "rođena 1976.",
+      "profession": "slikarica i pjesnikinja"
+    },
+    {
+      "name": "Zdenka Pexidr-Srića",
+      "years": "1886. – 1972.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Irena Podvorac",
+      "years": "rođena 1977.",
+      "profession": ""
+    },
+    {
+      "name": "Tatjana Politeo",
+      "years": "rođena 1976.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Zdenka Pozaić",
+      "years": "rođena 1940.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Zora Preradović",
+      "years": "1867. – 1927.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Ksenija Puškarić",
+      "years": "rođena 1979.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Tatjana Radovanović",
+      "years": "rođena 1933.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Slava Raškaj",
+      "years": "1877. – 1906.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Katja Restović",
+      "years": "rođena 1964.",
+      "profession": ""
+    },
+    {
+      "name": "Nasta Rojc",
+      "years": "1883. – 1964.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Zdenka Sertić",
+      "years": "1899. – 1986.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Zorka Sever",
+      "years": "1894. – 1973.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Stella Skopal",
+      "years": "1904. – 1992.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Karina Sladović",
+      "years": "rođena 1965.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Julija Stapić-Katić",
+      "years": "",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Vesna Šantak",
+      "years": "rođena 1969.",
+      "profession": "slikarica i kiparica"
+    },
+    {
+      "name": "Mara Šarić",
+      "years": "1861. – 1917.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Nena Šešić-Fišer",
+      "years": "",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Petra Lidia Ševeljević",
+      "years": "rođena 1976.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Melita Šojat-Bošnjak",
+      "years": "1917. – 2009.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Shosha Talik",
+      "years": "rođena 1938.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Ivana Tomljenović-Meller",
+      "years": "1906. – 1988.",
+      "profession": ""
+    },
+    {
+      "name": "Ruža Tumbas",
+      "years": "rođena 1929.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Vanja Tumpić",
+      "years": "rođena 1972.",
+      "profession": ""
+    },
+    {
+      "name": "Helena Uhlik-Horvat",
+      "years": "1920. – 2007.",
+      "profession": ""
+    },
+    {
+      "name": "Marija Ujević-Galetović",
+      "years": "rođena 1933.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Roberta Vilić",
+      "years": "rođena 1971.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Vera Vladen",
+      "years": "1921. – 2006.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Anica Vranković",
+      "years": "1939. – 1982.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Mila Wod",
+      "years": "1888. – 1968.",
+      "profession": "kiparica"
+    },
+    {
+      "name": "Đurđena Zaluški-Haramija",
+      "years": "19289. – 2008.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Nada Zec Ivanović",
+      "years": "rođena 1965.",
+      "profession": "slikarica"
+    },
+    {
+      "name": "Blaženka Zvonković",
+      "years": "rođena 1970.",
+      "profession": "slikarica"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatske umjetnice - Free Download",
+    "description": "Popis hrvatskih likovnih umjetnica (slikarica, kiparica i dr.) s godinama života i strukom. Contains 89 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatske umjetnice | ListBase",
+    "seo_description": "Download Hrvatske umjetnice — 89 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 89 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_hrvatskih_umjetnica"
+    ]
+  }
+}

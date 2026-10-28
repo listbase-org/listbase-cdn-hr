@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-28T02:24:15.085Z",
-  "total_datasets": 441,
-  "total_records": 823962,
+  "generated": "2026-10-28T02:24:17.394Z",
+  "total_datasets": 442,
+  "total_records": 824051,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "economy",
@@ -649,6 +649,30 @@
         "xlsx": {
           "name": "hr-svjetska-bastina-unesco_HR.xlsx",
           "size": 10359
+        }
+      }
+    },
+    {
+      "id": "hr-umjetnice",
+      "name": "Hrvatske umjetnice",
+      "category": "culture",
+      "record_count": 89,
+      "columns": [
+        "name",
+        "years",
+        "profession"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_umjetnica",
+      "updated": "2026-10",
+      "size": 11217,
+      "files": {
+        "csv": {
+          "name": "hr-umjetnice_HR.csv",
+          "size": 4222
+        },
+        "xlsx": {
+          "name": "hr-umjetnice_HR.xlsx",
+          "size": 9551
         }
       }
     },
