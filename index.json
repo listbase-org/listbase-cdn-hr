@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-28T02:24:17.394Z",
-  "total_datasets": 442,
-  "total_records": 824051,
+  "generated": "2026-10-28T02:24:19.707Z",
+  "total_datasets": 443,
+  "total_records": 824277,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -3071,6 +3071,30 @@
         "xlsx": {
           "name": "hr-srednjovjekovni-statuti_HR.xlsx",
           "size": 7464
+        }
+      }
+    },
+    {
+      "id": "hr-zakoni-11-saziv-sabora",
+      "name": "Zakoni 11. saziva Hrvatskog sabora",
+      "category": "law",
+      "record_count": 226,
+      "columns": [
+        "official_gazette",
+        "date_passed",
+        "title"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_zakona_11._saziva_Hrvatskog_sabora",
+      "updated": "2026-10",
+      "size": 41332,
+      "files": {
+        "csv": {
+          "name": "hr-zakoni-11-saziv-sabora_HR.csv",
+          "size": 22444
+        },
+        "xlsx": {
+          "name": "hr-zakoni-11-saziv-sabora_HR.xlsx",
+          "size": 14654
         }
       }
     },
