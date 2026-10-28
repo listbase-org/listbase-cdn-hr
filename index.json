@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-28T02:24:08.061Z",
-  "total_datasets": 438,
-  "total_records": 823804,
+  "generated": "2026-10-28T02:24:10.385Z",
+  "total_datasets": 439,
+  "total_records": 823844,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -2968,6 +2968,29 @@
         "xlsx": {
           "name": "hr-pisma_HR.xlsx",
           "size": 11410
+        }
+      }
+    },
+    {
+      "id": "hr-pravopisi",
+      "name": "Hrvatski pravopisi",
+      "category": "language",
+      "record_count": 40,
+      "columns": [
+        "work",
+        "period"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_pravopisa",
+      "updated": "2026-10",
+      "size": 10958,
+      "files": {
+        "csv": {
+          "name": "hr-pravopisi_HR.csv",
+          "size": 7940
+        },
+        "xlsx": {
+          "name": "hr-pravopisi_HR.xlsx",
+          "size": 9674
         }
       }
     },
