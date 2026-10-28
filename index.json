@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-28T02:24:10.385Z",
-  "total_datasets": 439,
-  "total_records": 823844,
+  "generated": "2026-10-28T02:24:12.513Z",
+  "total_datasets": 440,
+  "total_records": 823916,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -10245,6 +10245,29 @@
         "xlsx": {
           "name": "hr-prirodno-kretanje-stanovnistva_HR.xlsx",
           "size": 10822
+        }
+      }
+    },
+    {
+      "id": "hr-prvakinje-hrvatske-rukomet-zene",
+      "name": "Prvakinje Hrvatske u rukometu za žene",
+      "category": "sports",
+      "record_count": 72,
+      "columns": [
+        "season",
+        "champion"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_prvaka_Hrvatske_u_rukometu_za_žene",
+      "updated": "2026-10",
+      "size": 7347,
+      "files": {
+        "csv": {
+          "name": "hr-prvakinje-hrvatske-rukomet-zene_HR.csv",
+          "size": 2477
+        },
+        "xlsx": {
+          "name": "hr-prvakinje-hrvatske-rukomet-zene_HR.xlsx",
+          "size": 8263
         }
       }
     },
