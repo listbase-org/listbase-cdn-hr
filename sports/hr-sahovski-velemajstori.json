@@ -1,0 +1,424 @@
+{
+  "id": "hr-sahovski-velemajstori",
+  "name": "Hrvatski šahovski velemajstori",
+  "title": "Hrvatski šahovski velemajstori",
+  "description": "Popis hrvatskih šahovskih velemajstora s godinom rođenja, smrti i stjecanja naslova.",
+  "category": "sports",
+  "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_šahovskih_velemajstora",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_šahovskih_velemajstora",
+  "updated": "2026-10",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "player",
+      "label": "Player",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "string"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "string"
+    },
+    {
+      "key": "grandmaster_since",
+      "label": "Grandmaster Since",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "title_type",
+      "label": "Title Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "player": "Anić, Darko",
+      "born": "1957.",
+      "died": "",
+      "grandmaster_since": "2001.",
+      "notes": "Igrao i za Francusku.",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Bosiočić, Marin",
+      "born": "1988.",
+      "died": "",
+      "grandmaster_since": "2008.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Brkić, Ante",
+      "born": "1988.",
+      "died": "",
+      "grandmaster_since": "2007.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Cebalo, Mišo",
+      "born": "1945.",
+      "died": "2022.",
+      "grandmaster_since": "1985.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Cvitan, Ognjen",
+      "born": "1961.",
+      "died": "",
+      "grandmaster_since": "1987",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Damjanović, Mato",
+      "born": "1927.",
+      "died": "2011.",
+      "grandmaster_since": "1964.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Dizdar, Goran",
+      "born": "1958.",
+      "died": "",
+      "grandmaster_since": "1991.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Dizdarević, Emir",
+      "born": "1958.",
+      "died": "",
+      "grandmaster_since": "1988.",
+      "notes": "I za Bosnu i Hercegovinu.",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Ferčec, Nenad",
+      "born": "1961.",
+      "died": "",
+      "grandmaster_since": "2007.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Fuderer, Andrija",
+      "born": "1931.",
+      "died": "2011.",
+      "grandmaster_since": "1990.",
+      "notes": "I za Belgiju. Počasni naslov.",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Hulak, Krunoslav",
+      "born": "1951.",
+      "died": "2015.",
+      "grandmaster_since": "1976.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Janković, Alojzije",
+      "born": "1983.",
+      "died": "",
+      "grandmaster_since": "2006.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Jovanić, Ognjen",
+      "born": "1978.",
+      "died": "",
+      "grandmaster_since": "2007.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Jovanović, Zoran",
+      "born": "1979.",
+      "died": "",
+      "grandmaster_since": "2006.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Klarić, Zlatko",
+      "born": "1956.",
+      "died": "",
+      "grandmaster_since": "1983.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Komljenović, Davorin",
+      "born": "1944.",
+      "died": "",
+      "grandmaster_since": "1991.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Kovačević, Vlatko",
+      "born": "1942.",
+      "died": "",
+      "grandmaster_since": "1976.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Kožul, Zdenko",
+      "born": "1966.",
+      "died": "",
+      "grandmaster_since": "1989.",
+      "notes": "I Bosna i Hercegovina.",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Kuljašević, Davorin",
+      "born": "1986.",
+      "died": "",
+      "grandmaster_since": "2010.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Kurajica, Bojan",
+      "born": "1947.",
+      "died": "",
+      "grandmaster_since": "1974.",
+      "notes": "I Bosna i Hercegovina.",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Lalić, Bogdan",
+      "born": "1964.",
+      "died": "",
+      "grandmaster_since": "1988.",
+      "notes": "I Engleska.",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Leventić, Ivan",
+      "born": "1970.",
+      "died": "",
+      "grandmaster_since": "2005.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Livaić, Leon",
+      "born": "2000.",
+      "died": "",
+      "grandmaster_since": "2022.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Marović, Dražen",
+      "born": "1938.",
+      "died": "",
+      "grandmaster_since": "1975.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Martinović, Saša",
+      "born": "1991.",
+      "died": "",
+      "grandmaster_since": "2011.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Minić, Dragoljub",
+      "born": "1937.",
+      "died": "2005.",
+      "grandmaster_since": "1991.",
+      "notes": "Počasni naslov.",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Muše, Mladen",
+      "born": "1963.",
+      "died": "",
+      "grandmaster_since": "2001.",
+      "notes": "I za Njemačku.",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Nemet, Ivan",
+      "born": "1943.",
+      "died": "2007.",
+      "grandmaster_since": "1978.",
+      "notes": "I za Švicarsku.",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Nikolac, Juraj",
+      "born": "1932.",
+      "died": "",
+      "grandmaster_since": "1979.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Palac, Mladen",
+      "born": "1971.",
+      "died": "",
+      "grandmaster_since": "1993.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Pavasović, Duško",
+      "born": "1976.",
+      "died": "",
+      "grandmaster_since": "1999.",
+      "notes": "I za Sloveniju.",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Rogić, Davor",
+      "born": "1971.",
+      "died": "",
+      "grandmaster_since": "2006.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Šarić, Ante",
+      "born": "1984.",
+      "died": "",
+      "grandmaster_since": "2007.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Šarić, Ivan",
+      "born": "1990.",
+      "died": "",
+      "grandmaster_since": "2008.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Sermek, Dražen",
+      "born": "1969.",
+      "died": "",
+      "grandmaster_since": "1994.",
+      "notes": "I za Sloveniju.",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Stević, Hrvoje",
+      "born": "1980.",
+      "died": "",
+      "grandmaster_since": "2002.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Šulava, Nenad",
+      "born": "1962.",
+      "died": "2019.",
+      "grandmaster_since": "2000.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Udovčić, Mijo",
+      "born": "1920.",
+      "died": "1984.",
+      "grandmaster_since": "1962.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Žaja, Ivan",
+      "born": "1965.",
+      "died": "",
+      "grandmaster_since": "2001.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Zelčić, Robert",
+      "born": "1965.",
+      "died": "",
+      "grandmaster_since": "1997.",
+      "notes": "",
+      "title_type": "Klasični šah"
+    },
+    {
+      "player": "Keglević, Pavao",
+      "born": "1940.",
+      "died": "",
+      "grandmaster_since": "1978.",
+      "notes": "+ majstor FIDE",
+      "title_type": "Dopisni šah"
+    },
+    {
+      "player": "Krivić, Davor",
+      "born": "1943.",
+      "died": "",
+      "grandmaster_since": "2008.",
+      "notes": "",
+      "title_type": "Dopisni šah"
+    },
+    {
+      "player": "Ljubičić, Leonardo",
+      "born": "1966.",
+      "died": "",
+      "grandmaster_since": "2011.",
+      "notes": "",
+      "title_type": "Dopisni šah"
+    },
+    {
+      "player": "Bartolović, Hrvoje",
+      "born": "1932.",
+      "died": "2005.",
+      "grandmaster_since": "1980.",
+      "notes": "",
+      "title_type": "Problemski šah"
+    },
+    {
+      "player": "Petrović, Nenad",
+      "born": "1907.",
+      "died": "1989.",
+      "grandmaster_since": "1976.",
+      "notes": "",
+      "title_type": "Problemski šah"
+    },
+    {
+      "player": "Filipović, Marko",
+      "born": "1982.",
+      "died": "",
+      "grandmaster_since": "2017.",
+      "notes": "",
+      "title_type": "Problemski šah"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatski šahovski velemajstori - Free Download",
+    "description": "Popis hrvatskih šahovskih velemajstora s godinom rođenja, smrti i stjecanja naslova. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatski šahovski velemajstori | ListBase",
+    "seo_description": "Download Hrvatski šahovski velemajstori — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_hrvatskih_šahovskih_velemajstora"
+    ]
+  }
+}

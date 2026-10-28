@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-28T02:24:12.513Z",
-  "total_datasets": 440,
-  "total_records": 823916,
+  "generated": "2026-10-28T02:24:15.085Z",
+  "total_datasets": 441,
+  "total_records": 823962,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -10268,6 +10268,33 @@
         "xlsx": {
           "name": "hr-prvakinje-hrvatske-rukomet-zene_HR.xlsx",
           "size": 8263
+        }
+      }
+    },
+    {
+      "id": "hr-sahovski-velemajstori",
+      "name": "Hrvatski šahovski velemajstori",
+      "category": "sports",
+      "record_count": 46,
+      "columns": [
+        "player",
+        "born",
+        "died",
+        "grandmaster_since",
+        "notes",
+        "title_type"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_šahovskih_velemajstora",
+      "updated": "2026-10",
+      "size": 10317,
+      "files": {
+        "csv": {
+          "name": "hr-sahovski-velemajstori_HR.csv",
+          "size": 2974
+        },
+        "xlsx": {
+          "name": "hr-sahovski-velemajstori_HR.xlsx",
+          "size": 8805
         }
       }
     },
