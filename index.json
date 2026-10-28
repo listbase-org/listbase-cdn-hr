@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-27T02:29:09.989Z",
-  "total_datasets": 437,
-  "total_records": 823784,
+  "generated": "2026-10-28T02:24:08.061Z",
+  "total_datasets": 438,
+  "total_records": 823804,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "economy",
@@ -496,6 +496,29 @@
         "xlsx": {
           "name": "hr-muzeji_HR.xlsx",
           "size": 15500
+        }
+      }
+    },
+    {
+      "id": "hr-nematerijalna-bastina-unesco",
+      "name": "Hrvatska nematerijalna kulturna baština na UNESCO-ovim popisima",
+      "category": "culture",
+      "record_count": 20,
+      "columns": [
+        "year",
+        "element"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_nematerijalne_svjetske_baštine_u_Europi",
+      "updated": "2026-10",
+      "size": 3328,
+      "files": {
+        "csv": {
+          "name": "hr-nematerijalna-bastina-unesco_HR.csv",
+          "size": 926
+        },
+        "xlsx": {
+          "name": "hr-nematerijalna-bastina-unesco_HR.xlsx",
+          "size": 7382
         }
       }
     },
