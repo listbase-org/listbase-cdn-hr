@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-29T02:15:35.365Z",
-  "total_datasets": 447,
-  "total_records": 824342,
+  "generated": "2026-10-29T02:15:37.822Z",
+  "total_datasets": 448,
+  "total_records": 824461,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -1625,6 +1625,31 @@
         "xlsx": {
           "name": "hr-najgledaniji-filmovi_HR.xlsx",
           "size": 13568
+        }
+      }
+    },
+    {
+      "id": "hr-velika-zlatna-arena",
+      "name": "Dobitnici Velike zlatne arene za najbolji film",
+      "category": "entertainment",
+      "record_count": 119,
+      "columns": [
+        "year",
+        "rank",
+        "title",
+        "director"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Velika_zlatna_arena_za_najbolji_film",
+      "updated": "2026-10",
+      "size": 16453,
+      "files": {
+        "csv": {
+          "name": "hr-velika-zlatna-arena_HR.csv",
+          "size": 5595
+        },
+        "xlsx": {
+          "name": "hr-velika-zlatna-arena_HR.xlsx",
+          "size": 11144
         }
       }
     },
