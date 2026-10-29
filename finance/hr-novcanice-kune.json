@@ -1,0 +1,146 @@
+{
+  "id": "hr-novcanice-kune",
+  "name": "Novčanice hrvatske kune",
+  "title": "Novčanice hrvatske kune",
+  "description": "Novčanice hrvatske kune (1994.–2022.): vrijednost, preračun u eure, dimenzije, boja, motivi te datumi tiskanja i izdavanja.",
+  "category": "finance",
+  "source": "https://hr.wikipedia.org/wiki/Hrvatska_kuna",
+  "source_url": "https://hr.wikipedia.org/wiki/Hrvatska_kuna",
+  "updated": "2026-10",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "value",
+      "label": "Value",
+      "type": "string"
+    },
+    {
+      "key": "value_eur",
+      "label": "Value Eur",
+      "type": "string"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions",
+      "type": "string"
+    },
+    {
+      "key": "color",
+      "label": "Color",
+      "type": "string"
+    },
+    {
+      "key": "obverse",
+      "label": "Obverse",
+      "type": "string"
+    },
+    {
+      "key": "reverse",
+      "label": "Reverse",
+      "type": "string"
+    },
+    {
+      "key": "printed",
+      "label": "Printed",
+      "type": "string"
+    },
+    {
+      "key": "issued",
+      "label": "Issued",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "value": "5 kuna",
+      "value_eur": "0,66 €",
+      "dimensions": "122 × 61 mm",
+      "color": "zelena",
+      "obverse": "Fran Krsto Frankapan i Petar Zrinski",
+      "reverse": "Tvrđava i tlocrt Staroga grada u Varaždinu .",
+      "printed": "7. ožujka 2001.",
+      "issued": "9. srpnja 2001."
+    },
+    {
+      "value": "10 kuna",
+      "value_eur": "1,33 €",
+      "dimensions": "126 × 63 mm",
+      "color": "siva",
+      "obverse": "biskup Juraj Dobrila",
+      "reverse": "Pulska arena i tlocrt grada Motovuna .",
+      "printed": "7. ožujka 2001. 9. srpnja 2012.",
+      "issued": "18. lipnja 2001. 18. ožujka 2013."
+    },
+    {
+      "value": "20 kuna",
+      "value_eur": "2,65 €",
+      "dimensions": "130 × 65 mm",
+      "color": "crvena",
+      "obverse": "ban Josip Jelačić",
+      "reverse": "Dvorac Eltz u Vukovaru i Vučedolska golubica .",
+      "printed": "7. ožujka 2001. 9. srpnja 2012.",
+      "issued": "16. kolovoza 2001. 18. ožujka 2013."
+    },
+    {
+      "value": "50 kuna",
+      "value_eur": "6,64 €",
+      "dimensions": "134 × 67 mm",
+      "color": "plava",
+      "obverse": "Ivan Gundulić",
+      "reverse": "Starogradska jezgra Dubrovnika i pročelje Kneževa dvora .",
+      "printed": "7. ožujka 2002. 9. srpnja 2012.",
+      "issued": "25. studenoga 2002. 25. rujna 2017."
+    },
+    {
+      "value": "100 kuna",
+      "value_eur": "13,27 €",
+      "dimensions": "138 × 69 mm",
+      "color": "crvenkastosmeđa",
+      "obverse": "ban Ivan Mažuranić i fragment Bašćanske ploče",
+      "reverse": "Slika i trocrt katedrale sv. Vida u Rijeci .",
+      "printed": "7. ožujka 2002. 9. srpnja 2012.",
+      "issued": "3. lipnja 2002. 1. srpnja 2013."
+    },
+    {
+      "value": "200 kuna",
+      "value_eur": "26,54 €",
+      "dimensions": "142 × 71 mm",
+      "color": "smeđa",
+      "obverse": "Stjepan Radić",
+      "reverse": "Zgrada glavnog zapovjedništva i tlocrt stare tvrđe u Osijeku.",
+      "printed": "7. ožujka 2002. 9. srpnja 2012.",
+      "issued": "12. kolovoza 2002. 1. srpnja 2013."
+    },
+    {
+      "value": "500 kuna",
+      "value_eur": "66,36 €",
+      "dimensions": "146 × 73 mm",
+      "color": "maslinastozelena",
+      "obverse": "Marko Marulić",
+      "reverse": "Dioklecijanova palača u Splitu i lik hrvatskog vladara iz 11. stoljeća .",
+      "printed": "31. listopada 1993.",
+      "issued": "30. svibnja 1994."
+    },
+    {
+      "value": "1000 kuna",
+      "value_eur": "132,72 €",
+      "dimensions": "150 × 75 mm",
+      "color": "plavkastosiva",
+      "obverse": "Ante Starčević",
+      "reverse": "Spomenik kralju Tomislavu i pročelje Zagrebačke katedrale .",
+      "printed": "31. listopada 1993.",
+      "issued": "30. svibnja 1994."
+    }
+  ],
+  "meta": {
+    "title": "Novčanice hrvatske kune - Free Download",
+    "description": "Novčanice hrvatske kune (1994.–2022.): vrijednost, preračun u eure, dimenzije, boja, motivi te datumi tiskanja i izdavanja. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Novčanice hrvatske kune | ListBase",
+    "seo_description": "Download Novčanice hrvatske kune — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Hrvatska_kuna"
+    ]
+  }
+}

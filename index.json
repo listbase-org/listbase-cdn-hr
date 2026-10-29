@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-29T02:15:28.199Z",
-  "total_datasets": 444,
-  "total_records": 824302,
+  "generated": "2026-10-29T02:15:30.807Z",
+  "total_datasets": 445,
+  "total_records": 824310,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "food",
@@ -1802,6 +1802,35 @@
         "xlsx": {
           "name": "hr-mjenjacnice_HR.xlsx",
           "size": 10170
+        }
+      }
+    },
+    {
+      "id": "hr-novcanice-kune",
+      "name": "Novčanice hrvatske kune",
+      "category": "finance",
+      "record_count": 8,
+      "columns": [
+        "value",
+        "value_eur",
+        "dimensions",
+        "color",
+        "obverse",
+        "reverse",
+        "printed",
+        "issued"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Hrvatska_kuna",
+      "updated": "2026-10",
+      "size": 4613,
+      "files": {
+        "csv": {
+          "name": "hr-novcanice-kune_HR.csv",
+          "size": 1619
+        },
+        "xlsx": {
+          "name": "hr-novcanice-kune_HR.xlsx",
+          "size": 7779
         }
       }
     },
