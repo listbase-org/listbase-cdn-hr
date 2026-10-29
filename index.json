@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-29T02:15:30.807Z",
-  "total_datasets": 445,
-  "total_records": 824310,
+  "generated": "2026-10-29T02:15:33.182Z",
+  "total_datasets": 446,
+  "total_records": 824322,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -3197,6 +3197,37 @@
         "xlsx": {
           "name": "hr-skladatelji_HR.xlsx",
           "size": 7349
+        }
+      }
+    },
+    {
+      "id": "hr-parlamentarni-izbori-2024-jedinice",
+      "name": "Parlamentarni izbori 2024. – rezultati po izbornim jedinicama",
+      "category": "politics",
+      "record_count": 12,
+      "columns": [
+        "unit",
+        "votes",
+        "seats_total",
+        "result_HDZ",
+        "result_RP",
+        "result_DP",
+        "result_Most",
+        "result_Možemo",
+        "result_NŠ",
+        "result_F_R"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Hrvatski_parlamentarni_izbori_2024.",
+      "updated": "2026-10",
+      "size": 6244,
+      "files": {
+        "csv": {
+          "name": "hr-parlamentarni-izbori-2024-jedinice_HR.csv",
+          "size": 1506
+        },
+        "xlsx": {
+          "name": "hr-parlamentarni-izbori-2024-jedinice_HR.xlsx",
+          "size": 7885
         }
       }
     },

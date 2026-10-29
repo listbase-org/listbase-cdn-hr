@@ -1,0 +1,220 @@
+{
+  "id": "hr-parlamentarni-izbori-2024-jedinice",
+  "name": "Parlamentarni izbori 2024. – rezultati po izbornim jedinicama",
+  "title": "Parlamentarni izbori 2024. – rezultati po izbornim jedinicama",
+  "description": "Rezultati izbora za Hrvatski sabor 2024. po izbornim jedinicama: broj glasova, zastupnika te postotak i mandati glavnih lista.",
+  "category": "politics",
+  "source": "https://hr.wikipedia.org/wiki/Hrvatski_parlamentarni_izbori_2024.",
+  "source_url": "https://hr.wikipedia.org/wiki/Hrvatski_parlamentarni_izbori_2024.",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    },
+    {
+      "key": "seats_total",
+      "label": "Seats Total",
+      "type": "number"
+    },
+    {
+      "key": "result_HDZ",
+      "label": "Result HDZ",
+      "type": "string"
+    },
+    {
+      "key": "result_RP",
+      "label": "Result RP",
+      "type": "string"
+    },
+    {
+      "key": "result_DP",
+      "label": "Result DP",
+      "type": "string"
+    },
+    {
+      "key": "result_Most",
+      "label": "Result Most",
+      "type": "string"
+    },
+    {
+      "key": "result_Možemo",
+      "label": "Result MožEmo",
+      "type": "string"
+    },
+    {
+      "key": "result_NŠ",
+      "label": "Result NŠ",
+      "type": "string"
+    },
+    {
+      "key": "result_F_R",
+      "label": "Result F R",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "I.",
+      "votes": 230550,
+      "seats_total": 14,
+      "result_HDZ": "27,65 % (5)",
+      "result_RP": "24,37 % (4)",
+      "result_DP": "9,29 % (1)",
+      "result_Most": "7,43 % (1)",
+      "result_Možemo": "19,87 % (3)",
+      "result_NŠ": "0,91 % (0)",
+      "result_F_R": "3,44 % (0)"
+    },
+    {
+      "unit": "II.",
+      "votes": 202854,
+      "seats_total": 14,
+      "result_HDZ": "35,34 % (6)",
+      "result_RP": "24,83 % (4)",
+      "result_DP": "11,13 % (2)",
+      "result_Most": "9,07 % (1)",
+      "result_Možemo": "8,57 % (1)",
+      "result_NŠ": "1,16 % (0)",
+      "result_F_R": "2,75 % (0)"
+    },
+    {
+      "unit": "III.",
+      "votes": 211710,
+      "seats_total": 14,
+      "result_HDZ": "27,56 % (5)",
+      "result_RP": "36,75 % (6)",
+      "result_DP": "5,06 % (0)",
+      "result_Most": "3,83 % (0)",
+      "result_Možemo": "6,24 % (1)",
+      "result_NŠ": "12,20 % (2)",
+      "result_F_R": "0,85 % (0)"
+    },
+    {
+      "unit": "IV.",
+      "votes": 202567,
+      "seats_total": 14,
+      "result_HDZ": "41,81 % (7)",
+      "result_RP": "25,20 % (4)",
+      "result_DP": "13,07 % (2)",
+      "result_Most": "6,04 % (1)",
+      "result_Možemo": "5,49 % (0)",
+      "result_NŠ": "1,00 % (0)",
+      "result_F_R": "0,96 %% (0)"
+    },
+    {
+      "unit": "V.",
+      "votes": 177190,
+      "seats_total": 14,
+      "result_HDZ": "42,78 % (7)",
+      "result_RP": "19,57 % (3)",
+      "result_DP": "19,30 % (3)",
+      "result_Most": "8,48 % (1)",
+      "result_Možemo": "3,60 % (0)",
+      "result_NŠ": "0,42 % (0)",
+      "result_F_R": "0,98 % (0)"
+    },
+    {
+      "unit": "VI.",
+      "votes": 236121,
+      "seats_total": 14,
+      "result_HDZ": "24,84 % (4)",
+      "result_RP": "23,81 % (4)",
+      "result_DP": "8,70 % (1)",
+      "result_Most": "9,50 % (1)",
+      "result_Možemo": "18,14 % (3)",
+      "result_NŠ": "0,60 % (0)",
+      "result_F_R": "7,75 % (1)"
+    },
+    {
+      "unit": "VII.",
+      "votes": 194831,
+      "seats_total": 14,
+      "result_HDZ": "41,31 % (7)",
+      "result_RP": "25,35 % (4)",
+      "result_DP": "8,64 % (1)",
+      "result_Most": "6,61 % (1)",
+      "result_Možemo": "6,93 % (1)",
+      "result_NŠ": "0,69 % (0)",
+      "result_F_R": "1,64 % (0)"
+    },
+    {
+      "unit": "VIII.",
+      "votes": 205518,
+      "seats_total": 14,
+      "result_HDZ": "21,28 % (4)",
+      "result_RP": "33,36 % (6)",
+      "result_DP": "4,02 % (0)",
+      "result_Most": "5,71 % (1)",
+      "result_Možemo": "10,24 % (1)",
+      "result_NŠ": "15,92 % (2)",
+      "result_F_R": "1,88 % (0)"
+    },
+    {
+      "unit": "IX.",
+      "votes": 202706,
+      "seats_total": 14,
+      "result_HDZ": "39,74 % (7)",
+      "result_RP": "19,38 % (3)",
+      "result_DP": "10,64 % (2)",
+      "result_Most": "12,08 % (2)",
+      "result_Možemo": "4,44 % (0)",
+      "result_NŠ": "0,89 % (0)",
+      "result_F_R": "0,99 % (0)"
+    },
+    {
+      "unit": "X.",
+      "votes": 216320,
+      "seats_total": 14,
+      "result_HDZ": "37,00 % (6)",
+      "result_RP": "25,46 % (4)",
+      "result_DP": "10,83 % (2)",
+      "result_Most": "11,46 % (2)",
+      "result_Možemo": "5,27 % (0)",
+      "result_NŠ": "0,53 % (0)",
+      "result_F_R": "0,49 % (0)"
+    },
+    {
+      "unit": "Hrvatsko iseljeništvo (XI.)",
+      "votes": 40412,
+      "seats_total": 3,
+      "result_HDZ": "79,45 % (3)",
+      "result_RP": "—",
+      "result_DP": "—",
+      "result_Most": "6,64 % (0)",
+      "result_Možemo": "3,07 % (0)",
+      "result_NŠ": "—",
+      "result_F_R": "0,49 % (0)"
+    },
+    {
+      "unit": "Ukupno",
+      "votes": 2120779,
+      "seats_total": 151,
+      "result_HDZ": "34,32 % (61)",
+      "result_RP": "25,40 % (42)",
+      "result_DP": "9,56 % (14)",
+      "result_Most": "8,02 % (11)",
+      "result_Možemo": "9,10 % (10)",
+      "result_NŠ": "1,63 % (4)",
+      "result_F_R": "2,25 % (1)"
+    }
+  ],
+  "meta": {
+    "title": "Parlamentarni izbori 2024. – rezultati po izbornim jedinicama - Free Download",
+    "description": "Rezultati izbora za Hrvatski sabor 2024. po izbornim jedinicama: broj glasova, zastupnika te postotak i mandati glavnih lista. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parlamentarni izbori 2024. – rezultati po izbornim jedinicama | ListBase",
+    "seo_description": "Download Parlamentarni izbori 2024. – rezultati po izbornim jedinicama — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Hrvatski_parlamentarni_izbori_2024."
+    ]
+  }
+}
