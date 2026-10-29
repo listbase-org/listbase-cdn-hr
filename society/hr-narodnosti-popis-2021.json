@@ -1,0 +1,196 @@
+{
+  "id": "hr-narodnosti-popis-2021",
+  "name": "Stanovništvo Hrvatske prema narodnosti (popis 2021.)",
+  "title": "Stanovništvo Hrvatske prema narodnosti (popis 2021.)",
+  "description": "Broj i udio stanovnika Hrvatske prema narodnoj pripadnosti po popisu stanovništva 2021.",
+  "category": "society",
+  "source": "https://hr.wikipedia.org/wiki/Stanovništvo_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Stanovništvo_Hrvatske",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "ethnicity",
+      "label": "Ethnicity",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "share_pct",
+      "label": "Share Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ethnicity": "Hrvati",
+      "group": "",
+      "population": 3874321,
+      "share_pct": 90.42
+    },
+    {
+      "ethnicity": "Albanci",
+      "group": "Nacionalne manjine",
+      "population": 17513,
+      "share_pct": 0.41
+    },
+    {
+      "ethnicity": "Austrijanci",
+      "group": "Nacionalne manjine",
+      "population": 297,
+      "share_pct": 0.01
+    },
+    {
+      "ethnicity": "Bošnjaci",
+      "group": "Nacionalne manjine",
+      "population": 31479,
+      "share_pct": 0.73
+    },
+    {
+      "ethnicity": "Bugari",
+      "group": "Nacionalne manjine",
+      "population": 350,
+      "share_pct": 0.01
+    },
+    {
+      "ethnicity": "Crnogorci",
+      "group": "Nacionalne manjine",
+      "population": 4517,
+      "share_pct": 0.11
+    },
+    {
+      "ethnicity": "Česi",
+      "group": "Nacionalne manjine",
+      "population": 9641,
+      "share_pct": 0.22
+    },
+    {
+      "ethnicity": "Mađari",
+      "group": "Nacionalne manjine",
+      "population": 14048,
+      "share_pct": 0.33
+    },
+    {
+      "ethnicity": "Makedonci",
+      "group": "Nacionalne manjine",
+      "population": 4138,
+      "share_pct": 0.1
+    },
+    {
+      "ethnicity": "Nijemci",
+      "group": "Nacionalne manjine",
+      "population": 2965,
+      "share_pct": 0.07
+    },
+    {
+      "ethnicity": "Poljaci",
+      "group": "Nacionalne manjine",
+      "population": 672,
+      "share_pct": 0.02
+    },
+    {
+      "ethnicity": "Romi",
+      "group": "Nacionalne manjine",
+      "population": 16975,
+      "share_pct": 0.4
+    },
+    {
+      "ethnicity": "Rumunji",
+      "group": "Nacionalne manjine",
+      "population": 435,
+      "share_pct": 0.01
+    },
+    {
+      "ethnicity": "Rusi",
+      "group": "Nacionalne manjine",
+      "population": 1279,
+      "share_pct": 0.03
+    },
+    {
+      "ethnicity": "Rusini",
+      "group": "Nacionalne manjine",
+      "population": 1936,
+      "share_pct": 0.05
+    },
+    {
+      "ethnicity": "Slovaci",
+      "group": "Nacionalne manjine",
+      "population": 4753,
+      "share_pct": 0.11
+    },
+    {
+      "ethnicity": "Slovenci",
+      "group": "Nacionalne manjine",
+      "population": 10517,
+      "share_pct": 0.25
+    },
+    {
+      "ethnicity": "Srbi",
+      "group": "Nacionalne manjine",
+      "population": 186633,
+      "share_pct": 4.36
+    },
+    {
+      "ethnicity": "Talijani",
+      "group": "Nacionalne manjine",
+      "population": 17807,
+      "share_pct": 0.42
+    },
+    {
+      "ethnicity": "Turci",
+      "group": "Nacionalne manjine",
+      "population": 367,
+      "share_pct": 0.01
+    },
+    {
+      "ethnicity": "Ukrajinci",
+      "group": "Nacionalne manjine",
+      "population": 1878,
+      "share_pct": 0.04
+    },
+    {
+      "ethnicity": "Vlasi",
+      "group": "Nacionalne manjine",
+      "population": 29,
+      "share_pct": 0
+    },
+    {
+      "ethnicity": "Židovi",
+      "group": "Nacionalne manjine",
+      "population": 509,
+      "share_pct": 0.01
+    },
+    {
+      "ethnicity": "Ostali",
+      "group": "",
+      "population": 18965,
+      "share_pct": 0.44
+    },
+    {
+      "ethnicity": "Nepoznato",
+      "group": "",
+      "population": 8877,
+      "share_pct": 0.21
+    }
+  ],
+  "meta": {
+    "title": "Stanovništvo Hrvatske prema narodnosti (popis 2021.) - Free Download",
+    "description": "Broj i udio stanovnika Hrvatske prema narodnoj pripadnosti po popisu stanovništva 2021. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stanovništvo Hrvatske prema narodnosti (popis 2021.) | ListBase",
+    "seo_description": "Download Stanovništvo Hrvatske prema narodnosti (popis 2021.) — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Stanovništvo_Hrvatske"
+    ]
+  }
+}

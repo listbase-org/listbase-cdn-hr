@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-28T02:24:19.707Z",
-  "total_datasets": 443,
-  "total_records": 824277,
+  "generated": "2026-10-29T02:15:28.199Z",
+  "total_datasets": 444,
+  "total_records": 824302,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -10240,6 +10240,31 @@
         "xlsx": {
           "name": "hr-filozofi_HR.xlsx",
           "size": 9053
+        }
+      }
+    },
+    {
+      "id": "hr-narodnosti-popis-2021",
+      "name": "Stanovništvo Hrvatske prema narodnosti (popis 2021.)",
+      "category": "society",
+      "record_count": 25,
+      "columns": [
+        "ethnicity",
+        "group",
+        "population",
+        "share_pct"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Stanovništvo_Hrvatske",
+      "updated": "2026-10",
+      "size": 4792,
+      "files": {
+        "csv": {
+          "name": "hr-narodnosti-popis-2021_HR.csv",
+          "size": 1115
+        },
+        "xlsx": {
+          "name": "hr-narodnosti-popis-2021_HR.xlsx",
+          "size": 7480
         }
       }
     },
