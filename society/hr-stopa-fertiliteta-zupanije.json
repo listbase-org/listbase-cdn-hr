@@ -1,0 +1,116 @@
+{
+  "id": "hr-stopa-fertiliteta-zupanije",
+  "name": "Stopa ukupnog fertiliteta po županijama Hrvatske",
+  "title": "Stopa ukupnog fertiliteta po županijama Hrvatske",
+  "description": "Stopa ukupnog fertiliteta (prosječan broj djece po ženi) u hrvatskim županijama.",
+  "category": "society",
+  "source": "https://hr.wikipedia.org/wiki/Stanovništvo_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Stanovništvo_Hrvatske",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "fertility_rate",
+      "label": "Fertility Rate",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "county": "Bjelovarsko-bilogorska",
+      "fertility_rate": 1.87
+    },
+    {
+      "county": "Međimurska",
+      "fertility_rate": 1.84
+    },
+    {
+      "county": "Požeško-slavonska",
+      "fertility_rate": 1.71
+    },
+    {
+      "county": "Šibensko-kninska",
+      "fertility_rate": 1.71
+    },
+    {
+      "county": "Brodsko-posavska",
+      "fertility_rate": 1.68
+    },
+    {
+      "county": "Vukovarsko-srijemska",
+      "fertility_rate": 1.64
+    },
+    {
+      "county": "Zadarska",
+      "fertility_rate": 1.64
+    },
+    {
+      "county": "Koprivničko-križevačka",
+      "fertility_rate": 1.64
+    },
+    {
+      "county": "Ličko-senjska",
+      "fertility_rate": 1.61
+    },
+    {
+      "county": "Sisačko-moslavačka",
+      "fertility_rate": 1.6
+    },
+    {
+      "county": "Dubrovačko-neretvanska",
+      "fertility_rate": 1.57
+    },
+    {
+      "county": "Krapinsko-zagorska",
+      "fertility_rate": 1.54
+    },
+    {
+      "county": "Osječko-baranjska",
+      "fertility_rate": 1.51
+    },
+    {
+      "county": "Splitsko-dalmatinska",
+      "fertility_rate": 1.5
+    },
+    {
+      "county": "Virovitičko-podravska",
+      "fertility_rate": 1.47
+    },
+    {
+      "county": "Varaždinska",
+      "fertility_rate": 1.44
+    },
+    {
+      "county": "Zagrebačka",
+      "fertility_rate": 1.43
+    },
+    {
+      "county": "Karlovačka",
+      "fertility_rate": 1.41
+    },
+    {
+      "county": "Istarska",
+      "fertility_rate": 1.4
+    },
+    {
+      "county": "Primorsko-goranska",
+      "fertility_rate": 1.31
+    }
+  ],
+  "meta": {
+    "title": "Stopa ukupnog fertiliteta po županijama Hrvatske - Free Download",
+    "description": "Stopa ukupnog fertiliteta (prosječan broj djece po ženi) u hrvatskim županijama. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stopa ukupnog fertiliteta po županijama Hrvatske | ListBase",
+    "seo_description": "Download Stopa ukupnog fertiliteta po županijama Hrvatske — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Stanovništvo_Hrvatske"
+    ]
+  }
+}

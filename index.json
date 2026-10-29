@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-29T02:15:33.182Z",
-  "total_datasets": 446,
-  "total_records": 824322,
+  "generated": "2026-10-29T02:15:35.365Z",
+  "total_datasets": 447,
+  "total_records": 824342,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -10378,6 +10378,29 @@
         "xlsx": {
           "name": "hr-prirodno-kretanje-stanovnistva_HR.xlsx",
           "size": 10822
+        }
+      }
+    },
+    {
+      "id": "hr-stopa-fertiliteta-zupanije",
+      "name": "Stopa ukupnog fertiliteta po županijama Hrvatske",
+      "category": "society",
+      "record_count": 20,
+      "columns": [
+        "county",
+        "fertility_rate"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Stanovništvo_Hrvatske",
+      "updated": "2026-10",
+      "size": 2974,
+      "files": {
+        "csv": {
+          "name": "hr-stopa-fertiliteta-zupanije_HR.csv",
+          "size": 558
+        },
+        "xlsx": {
+          "name": "hr-stopa-fertiliteta-zupanije_HR.xlsx",
+          "size": 7169
         }
       }
     },
