@@ -1,0 +1,61 @@
+{
+  "id": "hr-botanicki-vrtovi",
+  "name": "Botanički vrtovi u Hrvatskoj",
+  "title": "Botanički vrtovi u Hrvatskoj",
+  "description": "Popis botaničkih vrtova u Hrvatskoj s ustanovom kojoj pripadaju.",
+  "category": "environment",
+  "source": "https://hr.wikipedia.org/wiki/Popis_botaničkih_vrtova_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_botaničkih_vrtova_u_Hrvatskoj",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "botanicki_vrt",
+      "label": "Botanicki Vrt",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "botanicki_vrt": "Botanički vrt Prirodoslovno-matematičkog fakulteta Sveučilišta u Zagrebu"
+    },
+    {
+      "botanicki_vrt": "Botanički vrt ljekovitoga bilja \"Fran Kušan\" Farmaceutsko-biokemijskog fakulteta u Zagrebu"
+    },
+    {
+      "botanicki_vrt": "Botanički vrt u Modrić-docu podno Zavižana u Nacionalnom parku Sjeverni Velebit"
+    },
+    {
+      "botanicki_vrt": "Biokovski botanički vrt Kotišina JU „Park prirode Biokovo“"
+    },
+    {
+      "botanicki_vrt": "Botanički vrt na Marjanu Prirodoslovno-matematičkog fakulteta u Splitu"
+    },
+    {
+      "botanicki_vrt": "Botanički vrt na Lokrumu Instituta za more i priobalje Sveučilišta u Dubrovniku"
+    },
+    {
+      "botanicki_vrt": "Botanički vrt Katovnica na otoku Hvaru, Starigradsko polje"
+    },
+    {
+      "botanicki_vrt": "Primorski botanički vrt - stalni postav Prirodoslovnog muzeja Rijeka"
+    },
+    {
+      "botanicki_vrt": "Školski botanički vrt OŠ „Ostrog“, Kaštel Lukšić"
+    },
+    {
+      "botanicki_vrt": "Planinski botanički vrt na Sljemenu (zapušten)"
+    }
+  ],
+  "meta": {
+    "title": "Botanički vrtovi u Hrvatskoj - Free Download",
+    "description": "Popis botaničkih vrtova u Hrvatskoj s ustanovom kojoj pripadaju. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Botanički vrtovi u Hrvatskoj | ListBase",
+    "seo_description": "Download Botanički vrtovi u Hrvatskoj — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 1 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_botaničkih_vrtova_u_Hrvatskoj"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-29T02:15:37.822Z",
-  "total_datasets": 448,
-  "total_records": 824461,
+  "generated": "2026-10-30T02:21:45.425Z",
+  "total_datasets": 449,
+  "total_records": 824471,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -1650,6 +1650,28 @@
         "xlsx": {
           "name": "hr-velika-zlatna-arena_HR.xlsx",
           "size": 11144
+        }
+      }
+    },
+    {
+      "id": "hr-botanicki-vrtovi",
+      "name": "Botanički vrtovi u Hrvatskoj",
+      "category": "environment",
+      "record_count": 10,
+      "columns": [
+        "botanicki_vrt"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_botaničkih_vrtova_u_Hrvatskoj",
+      "updated": "2026-10",
+      "size": 2312,
+      "files": {
+        "csv": {
+          "name": "hr-botanicki-vrtovi_HR.csv",
+          "size": 752
+        },
+        "xlsx": {
+          "name": "hr-botanicki-vrtovi_HR.xlsx",
+          "size": 7090
         }
       }
     },
