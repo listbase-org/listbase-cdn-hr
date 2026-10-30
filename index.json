@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-30T02:22:17.056Z",
-  "total_datasets": 453,
-  "total_records": 825029,
+  "generated": "2026-10-30T02:22:23.471Z",
+  "total_datasets": 454,
+  "total_records": 825053,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -3242,6 +3242,33 @@
         "xlsx": {
           "name": "hr-zakoni-11-saziv-sabora_HR.xlsx",
           "size": 14654
+        }
+      }
+    },
+    {
+      "id": "hr-zatvori-i-kaznionice",
+      "name": "Zatvori i kaznionice u Hrvatskoj",
+      "category": "law",
+      "record_count": 24,
+      "columns": [
+        "naziv",
+        "mjesto",
+        "otvoreno",
+        "vrsta",
+        "stupanj_sigurnosti",
+        "spolovi"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_zatvora_u_Hrvatskoj",
+      "updated": "2026-10",
+      "size": 6291,
+      "files": {
+        "csv": {
+          "name": "hr-zatvori-i-kaznionice_HR.csv",
+          "size": 1638
+        },
+        "xlsx": {
+          "name": "hr-zatvori-i-kaznionice_HR.xlsx",
+          "size": 7790
         }
       }
     },

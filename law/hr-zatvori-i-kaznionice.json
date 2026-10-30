@@ -1,0 +1,248 @@
+{
+  "id": "hr-zatvori-i-kaznionice",
+  "name": "Zatvori i kaznionice u Hrvatskoj",
+  "title": "Zatvori i kaznionice u Hrvatskoj",
+  "description": "Popis kaznionica, zatvora, odgojnih zavoda i centara za dijagnostiku u Hrvatskoj s mjestom i godinom otvaranja.",
+  "category": "law",
+  "source": "https://hr.wikipedia.org/wiki/Popis_zatvora_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_zatvora_u_Hrvatskoj",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "mjesto",
+      "label": "Mjesto",
+      "type": "string"
+    },
+    {
+      "key": "otvoreno",
+      "label": "Otvoreno",
+      "type": "number"
+    },
+    {
+      "key": "vrsta",
+      "label": "Vrsta",
+      "type": "string"
+    },
+    {
+      "key": "stupanj_sigurnosti",
+      "label": "Stupanj Sigurnosti",
+      "type": "string"
+    },
+    {
+      "key": "spolovi",
+      "label": "Spolovi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naziv": "Kaznionica u Glini",
+      "mjesto": "Glina",
+      "otvoreno": 1902,
+      "vrsta": "Kaznionica",
+      "stupanj_sigurnosti": "Zatvoreno/Poluotvoreno",
+      "spolovi": "Muškarci"
+    },
+    {
+      "naziv": "Kaznionica u Lepoglavi",
+      "mjesto": "Lepoglava",
+      "otvoreno": 1854,
+      "vrsta": "Kaznionica",
+      "stupanj_sigurnosti": "Zatvoreno/Poluotvoreno/Otvoreno",
+      "spolovi": "Muškarci"
+    },
+    {
+      "naziv": "Kaznionica u Lipovici-Popovači",
+      "mjesto": "Popovača",
+      "otvoreno": 1956,
+      "vrsta": "Kaznionica",
+      "stupanj_sigurnosti": "Poluotvoreno/Otvoreno",
+      "spolovi": "Muškarci"
+    },
+    {
+      "naziv": "Kaznionica u Požegi",
+      "mjesto": "Požega",
+      "otvoreno": 1941,
+      "vrsta": "Kaznionica",
+      "stupanj_sigurnosti": "Zatvoreno/Poluotvoreno/Otvoreno",
+      "spolovi": "Žene/Muškarci"
+    },
+    {
+      "naziv": "Kaznionica u Turopolju",
+      "mjesto": "Velika Gorica",
+      "otvoreno": 1959,
+      "vrsta": "Kaznionica",
+      "stupanj_sigurnosti": "Poluotvoreno",
+      "spolovi": "Muškarci"
+    },
+    {
+      "naziv": "Kaznionica u Valturi",
+      "mjesto": "Pula",
+      "otvoreno": 1956,
+      "vrsta": "Kaznionica",
+      "stupanj_sigurnosti": "Otvoreno",
+      "spolovi": "Muškarci"
+    },
+    {
+      "naziv": "Zatvorska bolnica u Zagrebu",
+      "mjesto": "Zagreb",
+      "otvoreno": 1946,
+      "vrsta": "Kaznionica",
+      "stupanj_sigurnosti": "Zatvoreno",
+      "spolovi": "Muškarci"
+    },
+    {
+      "naziv": "Zatvor u Bjelovaru",
+      "mjesto": "Bjelovar",
+      "otvoreno": 1828,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Dubrovniku",
+      "mjesto": "Dubrovnik",
+      "otvoreno": 1983,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Gospiću",
+      "mjesto": "Gospić",
+      "otvoreno": 1877,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Karlovcu",
+      "mjesto": "Karlovac",
+      "otvoreno": 1840,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Osijeku",
+      "mjesto": "Osijek",
+      "otvoreno": 1897,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Požegi",
+      "mjesto": "Požega",
+      "otvoreno": 1974,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Puli",
+      "mjesto": "Pula",
+      "otvoreno": 1862,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Rijeci",
+      "mjesto": "Rijeka",
+      "otvoreno": 1905,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Sisku",
+      "mjesto": "Zagreb",
+      "otvoreno": "",
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Splitu",
+      "mjesto": "Split",
+      "otvoreno": 1986,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Šibeniku",
+      "mjesto": "Šibenik",
+      "otvoreno": 1905,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Varaždinu",
+      "mjesto": "Varaždin",
+      "otvoreno": 1963,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Zadru",
+      "mjesto": "Zadar",
+      "otvoreno": 1904,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Zatvor u Zagrebu",
+      "mjesto": "Zagreb",
+      "otvoreno": 1987,
+      "vrsta": "Zatvor",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Odgojni zavod u Turopolju",
+      "mjesto": "Velika Gorica",
+      "otvoreno": 1902,
+      "vrsta": "Odgojni zavod",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Odgojni zavod u Požegi",
+      "mjesto": "Požega",
+      "otvoreno": 1915,
+      "vrsta": "Odgojni zavod",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    },
+    {
+      "naziv": "Centar za dijagnostiku u Zagrebu",
+      "mjesto": "Zagreb",
+      "otvoreno": 1987,
+      "vrsta": "Centar za dijagnostiku",
+      "stupanj_sigurnosti": "",
+      "spolovi": ""
+    }
+  ],
+  "meta": {
+    "title": "Zatvori i kaznionice u Hrvatskoj - Free Download",
+    "description": "Popis kaznionica, zatvora, odgojnih zavoda i centara za dijagnostiku u Hrvatskoj s mjestom i godinom otvaranja. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Zatvori i kaznionice u Hrvatskoj | ListBase",
+    "seo_description": "Download Zatvori i kaznionice u Hrvatskoj — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_zatvora_u_Hrvatskoj"
+    ]
+  }
+}
