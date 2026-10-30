@@ -1,0 +1,100 @@
+{
+  "id": "hr-kreditne-unije",
+  "name": "Kreditne unije u Hrvatskoj",
+  "title": "Kreditne unije u Hrvatskoj",
+  "description": "Popis kreditnih unija koje posluju u Hrvatskoj sa sjedištem.",
+  "category": "economy",
+  "source": "https://hr.wikipedia.org/wiki/Popis_kreditnih_unija_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_kreditnih_unija_u_Hrvatskoj",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "kreditna_unija",
+      "label": "Kreditna Unija",
+      "type": "string"
+    },
+    {
+      "key": "sjediste",
+      "label": "Sjediste",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kreditna_unija": "ABC - KREDITNA UNIJA",
+      "sjediste": "Sisak"
+    },
+    {
+      "kreditna_unija": "Kredtina unija Apoen",
+      "sjediste": "Valpovo"
+    },
+    {
+      "kreditna_unija": "Kreditna unija Dukat",
+      "sjediste": "Rijeka"
+    },
+    {
+      "kreditna_unija": "Kreditna unija Euro",
+      "sjediste": "Nova Gradiška"
+    },
+    {
+      "kreditna_unija": "Kreditna unija Fedelta",
+      "sjediste": "Split"
+    },
+    {
+      "kreditna_unija": "Kreditna unija Gama",
+      "sjediste": "Zagreb"
+    },
+    {
+      "kreditna_unija": "Kreditna unija Jamstvo",
+      "sjediste": "Županja"
+    },
+    {
+      "kreditna_unija": "Kreditna unija Libertina",
+      "sjediste": "Čakovec"
+    },
+    {
+      "kreditna_unija": "Kreditna unija Marjan",
+      "sjediste": "Split"
+    },
+    {
+      "kreditna_unija": "Kreditna unija Noa",
+      "sjediste": "Osijek"
+    },
+    {
+      "kreditna_unija": "Kreditna unija Sjenica",
+      "sjediste": "Čakovec"
+    },
+    {
+      "kreditna_unija": "Kreditna unija Zagreb",
+      "sjediste": "Zagreb"
+    },
+    {
+      "kreditna_unija": "Štednokred, kreditna unija",
+      "sjediste": "Zagreb"
+    },
+    {
+      "kreditna_unija": "VRBOVEČKA KREDITNA UNIJA VRBOVEC",
+      "sjediste": "Vrbovec"
+    },
+    {
+      "kreditna_unija": "Zagorska kreditna unija",
+      "sjediste": "Zabok"
+    },
+    {
+      "kreditna_unija": "Zanatska kreditna unija Križevci",
+      "sjediste": "Križevci"
+    }
+  ],
+  "meta": {
+    "title": "Kreditne unije u Hrvatskoj - Free Download",
+    "description": "Popis kreditnih unija koje posluju u Hrvatskoj sa sjedištem. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kreditne unije u Hrvatskoj | ListBase",
+    "seo_description": "Download Kreditne unije u Hrvatskoj — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_kreditnih_unija_u_Hrvatskoj"
+    ]
+  }
+}

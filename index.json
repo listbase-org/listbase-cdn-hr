@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-30T02:21:45.425Z",
-  "total_datasets": 449,
-  "total_records": 824471,
+  "generated": "2026-10-30T02:21:53.151Z",
+  "total_datasets": 450,
+  "total_records": 824487,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -719,6 +719,29 @@
         "xlsx": {
           "name": "hr-ekonomisti_HR.xlsx",
           "size": 6966
+        }
+      }
+    },
+    {
+      "id": "hr-kreditne-unije",
+      "name": "Kreditne unije u Hrvatskoj",
+      "category": "economy",
+      "record_count": 16,
+      "columns": [
+        "kreditna_unija",
+        "sjediste"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_kreditnih_unija_u_Hrvatskoj",
+      "updated": "2026-10",
+      "size": 2737,
+      "files": {
+        "csv": {
+          "name": "hr-kreditne-unije_HR.csv",
+          "size": 601
+        },
+        "xlsx": {
+          "name": "hr-kreditne-unije_HR.xlsx",
+          "size": 7121
         }
       }
     },
