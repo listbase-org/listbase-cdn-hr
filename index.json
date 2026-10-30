@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-30T02:21:53.151Z",
-  "total_datasets": 450,
-  "total_records": 824487,
+  "generated": "2026-10-30T02:22:00.539Z",
+  "total_datasets": 451,
+  "total_records": 824511,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -2997,6 +2997,30 @@
         "xlsx": {
           "name": "hr-kraljevi_HR.xlsx",
           "size": 8974
+        }
+      }
+    },
+    {
+      "id": "hr-najsmrtonosnije-katastrofe",
+      "name": "Najsmrtonosnije katastrofe u Hrvatskoj",
+      "category": "history",
+      "record_count": 24,
+      "columns": [
+        "broj_zrtava",
+        "katastrofa",
+        "datum"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_najsmrtonosnijih_katastrofa_u_Hrvatskoj",
+      "updated": "2026-10",
+      "size": 4773,
+      "files": {
+        "csv": {
+          "name": "hr-najsmrtonosnije-katastrofe_HR.csv",
+          "size": 1502
+        },
+        "xlsx": {
+          "name": "hr-najsmrtonosnije-katastrofe_HR.xlsx",
+          "size": 7725
         }
       }
     },
