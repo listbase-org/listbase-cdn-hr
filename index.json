@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-30T02:22:00.539Z",
-  "total_datasets": 451,
-  "total_records": 824511,
+  "generated": "2026-10-30T02:22:08.566Z",
+  "total_datasets": 452,
+  "total_records": 824647,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -10394,6 +10394,32 @@
         "xlsx": {
           "name": "hr-filozofi_HR.xlsx",
           "size": 9053
+        }
+      }
+    },
+    {
+      "id": "hr-paleontoloska-nalazista",
+      "name": "Paleontološka nalazišta u Hrvatskoj",
+      "category": "science",
+      "record_count": 136,
+      "columns": [
+        "nalaziste",
+        "zupanija",
+        "starost_od_mil_god",
+        "starost_do_mil_god",
+        "pronadeni_fosili"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_paleontoloških_nalazišta_i_pronađenih_organizama_u_Hrvatskoj",
+      "updated": "2026-10",
+      "size": 58918,
+      "files": {
+        "csv": {
+          "name": "hr-paleontoloska-nalazista_HR.csv",
+          "size": 39162
+        },
+        "xlsx": {
+          "name": "hr-paleontoloska-nalazista_HR.xlsx",
+          "size": 21505
         }
       }
     },

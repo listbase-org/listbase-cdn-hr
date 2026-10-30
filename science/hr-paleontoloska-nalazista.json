@@ -1,0 +1,1003 @@
+{
+  "id": "hr-paleontoloska-nalazista",
+  "name": "Paleontološka nalazišta u Hrvatskoj",
+  "title": "Paleontološka nalazišta u Hrvatskoj",
+  "description": "Popis paleontoloških nalazišta u Hrvatskoj sa županijom, starošću (u milijunima godina) i pronađenim fosilnim organizmima.",
+  "category": "science",
+  "source": "https://hr.wikipedia.org/wiki/Popis_paleontoloških_nalazišta_i_pronađenih_organizama_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_paleontoloških_nalazišta_i_pronađenih_organizama_u_Hrvatskoj",
+  "updated": "2026-10",
+  "record_count": 136,
+  "columns": [
+    {
+      "key": "nalaziste",
+      "label": "Nalaziste",
+      "type": "string"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "starost_od_mil_god",
+      "label": "Starost Od Mil God",
+      "type": "number"
+    },
+    {
+      "key": "starost_do_mil_god",
+      "label": "Starost Do Mil God",
+      "type": "number"
+    },
+    {
+      "key": "pronadeni_fosili",
+      "label": "Pronadeni Fosili",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nalaziste": "Medvednica",
+      "zupanija": "Zagrebačka županija",
+      "starost_od_mil_god": 85.8,
+      "starost_do_mil_god": 70.6,
+      "pronadeni_fosili": "Hippuritella sulcatissimus, Hippurites canalicatus, Hippurites carezi, Hippurites carinthiacus, Hippurites crassicostata, Hippurites heberti, Hippurites matheroni, Hippurites nabresinensis, Hippurites praesulcatissima, Hippurites socialis, Hippurites sulcatoides, Hippurites toucasi, Hippurites variabilis, Plagioptychus aguilloni, Radiolites mammillaris, Sauvagesia meneghiniana, Vaccinites archiaci, Vaccinites atheniensis, Vaccinites braciensis, Vaccinites carinthiacus, Vaccinites cornuvaccinum, Vaccinites giganteus, Vaccinites inaequicostatus, Vaccinites oppeli, Vaccinites sulcatus, Vaccinites vredenburgi"
+    },
+    {
+      "nalaziste": "Donje Orešje, Medvednica",
+      "zupanija": "Zagrebačka županija",
+      "starost_od_mil_god": 85.8,
+      "starost_do_mil_god": 70.6,
+      "pronadeni_fosili": "Actinacis martiniana, Actinastrea octolamellosa, Actinastrea ramosa, Astraraea media, Calamophylliopsis simonyi, Cladocora gracilis, Columactinastraea formosa, Columactinastraea pygmaea, Columastrea striata, Dermosmiliopsis orbignyi, Dermosmiliopsis tenuicosta, Elasmophyllia deformis, Meandrastrea antiqua, Montastrea pediculata, Neocoenia lepida, Nerinea (Simploptyxis) ampla, Nerinea (Simploptyxis) buchi, Nerinea (Simploptyxis) nobilis, Parachaetetes avapatii, Pleurocora haueri, Polystrata alba, Synastrea procera, Thamnoseris hoernesi, Trochosmilia (Ellipsosmilia)"
+    },
+    {
+      "nalaziste": "Alan, Kapela",
+      "zupanija": "Primorsko-goranska županija",
+      "starost_od_mil_god": 161.2,
+      "starost_do_mil_god": 150.8,
+      "pronadeni_fosili": "Cladocoropsis mirabilis, Kurnubia palastiniensis, Kurnubia wellingsi, Macroporella sellii, Miolidae indet., Pseudocyclammina lituus, Pseudocyclammina virguliana, Thaumatoporella parvovesiculifera, Verneulinidae indet., Vidalina sp."
+    },
+    {
+      "nalaziste": "Vodena Draga, Bosiljevo",
+      "zupanija": "Karlovačka županija",
+      "starost_od_mil_god": 155.7,
+      "starost_do_mil_god": 145.5,
+      "pronadeni_fosili": "Actinostromarianina dehornae, Campbelliela milesi, Clypeina jurassica, Ellipsactinia aff. portisi, Ellipsactinia ellipsoidea, Ellipsactinia micropora, Faveloides liliiformis, Miliolidae indet., Salpingoporella annulata, Verneuilinidae indet."
+    },
+    {
+      "nalaziste": "Murva, Sibinji",
+      "zupanija": "Ličko-senjska županija",
+      "starost_od_mil_god": 155.7,
+      "starost_do_mil_god": 145.5,
+      "pronadeni_fosili": "Actinostromarianina lecomptei, Actinostromina grossa, Actinostromina oppidana, Astrostylopsis grabensis, Astrostylopsis slovenica, Ellipsactinia caprense, Ellipsactinia macropora, Ellipsactinia micropora, Ellipsactinia tyrrhenica, Ellipsactinia velebitica, Sphaeractinia dinarica, Tubuliella illyrica, Tubuliella rotunda"
+    },
+    {
+      "nalaziste": "Omar, Kapela",
+      "zupanija": "Primorsko-goranska županija",
+      "starost_od_mil_god": 155.7,
+      "starost_do_mil_god": 145.5,
+      "pronadeni_fosili": "Astrostylopsis slovenica, Sphaeractinia cylindrica, Sphaeractinia diceratina, Sphaeractinia dichotoma, Sphaeractinia steinmanni"
+    },
+    {
+      "nalaziste": "Draga Kozica, Senj",
+      "zupanija": "Ličko-senjska županija",
+      "starost_od_mil_god": 155.7,
+      "starost_do_mil_god": 145.5,
+      "pronadeni_fosili": "Actinostromaria sp., Adriatella poljaki, Astrostylopsis circoporea, Coenostella thomasi, Ellipsactinia ellipsoidea, Millepora fasciculata, Tubuliella fluegeli"
+    },
+    {
+      "nalaziste": "Kita-Lipnik, Velebit",
+      "zupanija": "Ličko-senjska županija",
+      "starost_od_mil_god": 155.7,
+      "starost_do_mil_god": 145.5,
+      "pronadeni_fosili": "Ellipsactinia polypora"
+    },
+    {
+      "nalaziste": "Borova draga, Velebit",
+      "zupanija": "Ličko-senjska županija",
+      "starost_od_mil_god": 155.7,
+      "starost_do_mil_god": 150.8,
+      "pronadeni_fosili": "Chaetetes angustitubulosus, Cladocoropsis velebitica, Crinoidea indet., Diceras sp., Monotrypa multitabulata, Spongiomorphidae indet."
+    },
+    {
+      "nalaziste": "Fenoliga",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 84.9,
+      "pronadeni_fosili": "Aeolisaccus kotori, Bacinella sp., Cayeuxia sp., Cuneolina sp., Durania sp., Hippurites sp., Moncharmontia appeninica, Nezzazatinella picardi, Nezzazata simplex, Nummoloculina sp., Praeradiolites sp., Pseudocyclammina sphaeroidea, Radiolites sp., Scandonea samnitica, Thaumatoporella parvovesiculifera"
+    },
+    {
+      "nalaziste": "Fenoliga 2",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 84.9,
+      "pronadeni_fosili": "Aeolisaccus kotori, Cuneolina sp., Gorjanovicia sp., Moncharmontia appeninica, Pseudocyclammina sphaeroidea, Thaumatoporella parvovesiculifera, Vaccinites sp."
+    },
+    {
+      "nalaziste": "Bale",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 136.4,
+      "starost_do_mil_god": 125.5,
+      "pronadeni_fosili": "Camarasauridae indet., Campanellula capuensis, Dinosauria indet., Histriasaurus boscarollii, Somphospondyli indet., Theropoda indet., Titanosauriformes indet."
+    },
+    {
+      "nalaziste": "Fenoliga (staza)",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 99.7,
+      "starost_do_mil_god": 94.3,
+      "pronadeni_fosili": "Biconcava bentori, Biplanata peneropliformes, Broeckina (Pastrikella) cf. balcanica, Chlorophyta indet., Chrysalidina gradata, Cuneolina sp., Miliolidae indet., Nezzazata sp., Pseudorhapydionina dubia, Radiolitidae indet., Sauropoda indet., Theropoda indet., Verneuilina sp., Vidalina cf. hispanica"
+    },
+    {
+      "nalaziste": "Šandalja, Pula",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 2.6,
+      "starost_do_mil_god": 0.8,
+      "pronadeni_fosili": "Allocricetus bursae, Allohippus stenonis, Anoglochis ramosus, Bufo bufo, Bufo viridis, Canis etruscus, Cervus acoronatus, Cervus philisi, Chasmaporthetes lunensis, Columba sp., Crocuta perrieri, Dama nestii, Discoglossus sp., Elaphe sp., Elaphe longissima, Elaphe cf. quatuorlineata, Emys orbicularis, Eucladoceros senezensis, Francolinus sp., Hyla sp., Hypolagus brachygnathus, Lacerta agilis, Lacerta viridis, Leptobos stenometopon, Macaca florentina, Mimomys sp., Natrix sp., Natrix nalrix, Natrix tesselata, Ophisaurus sp., Oryctolagus cf. lacosti, Pelobates sp., Rana dalmatina, Rana graeca, Rana temporaria, Stephanorhinus etruscus, Sus strozzii, Testudo graeca, Turdus sp., Ursus etruscus, Ursus thibetanus"
+    },
+    {
+      "nalaziste": "Strmica, Knin",
+      "zupanija": "Šibensko-kninska županija",
+      "starost_od_mil_god": 2.6,
+      "starost_do_mil_god": 0,
+      "pronadeni_fosili": "Anoglochis ramosus, Cervus philisi, Eucladoceros dicranios, Eucladoceros senezensis, Mammuthus meridionalis, Panthera cf. gombaszoegensis, Stephanorhinus etruscus, Ursus etruscus"
+    },
+    {
+      "nalaziste": "Radoboj",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Delphinopsis freyeri, Quercus lonchitis"
+    },
+    {
+      "nalaziste": "Fantazija, Rovinj",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 145.5,
+      "starost_do_mil_god": 140.2,
+      "pronadeni_fosili": "Sauropoda indet."
+    },
+    {
+      "nalaziste": "Belski dol, Ivanščica",
+      "zupanija": "Varaždinska županija",
+      "starost_od_mil_god": 247.2,
+      "starost_do_mil_god": 242,
+      "pronadeni_fosili": "Diplopora cf. proba, Macroporella alpina, Meandrospira dinarica, Oligoporella cornuta, Oligoporella pilosa, Oligoporella varicans, Physoporella pauciforata, Scinderella scopuliformis, Teutloporella peniculiformis"
+    },
+    {
+      "nalaziste": "Rt Ploče, Veliki Brijun",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 130,
+      "starost_do_mil_god": 99.7,
+      "pronadeni_fosili": "Foraminifera indet., Gastropoda indet., Megalosauropus brionensis, Ostracoda indet., Sauropoda indet."
+    },
+    {
+      "nalaziste": "Solaris (I. razina), Červari, Kanfanar",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 105.3,
+      "starost_do_mil_god": 99.7,
+      "pronadeni_fosili": "Foraminifera indet., Ornithopoda indet., Ostracoda indet., Theropoda indet., Titanosaurimanus nana"
+    },
+    {
+      "nalaziste": "Solaris (II. razina), Červari, Kanfanar",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 105.3,
+      "starost_do_mil_god": 99.7,
+      "pronadeni_fosili": "Foraminifera indet., Ostracoda indet., Sauropoda indet., Theropoda indet."
+    },
+    {
+      "nalaziste": "Lanterna, Ušće Mirne",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 105.3,
+      "starost_do_mil_god": 99.7,
+      "pronadeni_fosili": "Carnosauria indet., Coelurosauria indet., Foraminifera indet., Iguanodontidae indet."
+    },
+    {
+      "nalaziste": "Crne grede, Velebit",
+      "zupanija": "Ličko-senjska županija",
+      "starost_od_mil_god": 272.5,
+      "starost_do_mil_god": 268,
+      "pronadeni_fosili": "Beecheria angusta, Dielasma cf. plica, Enteletes microplocus, Enteletes salopeki, Keyserlingina filicis, Krotovia wallaciana, Lamnimargus himalayensis, Leptodus nobilis, Linoproductus sp., Linoproductus lineatus, Marginifera magniplicata, Martinia velebitica, Martiniopsis ex gr. orientalis, Megatschernyschewia sp., Megatschernyschewia kochanskae, Megatschernyschewia longiseptata, Orthotichia derbyi, Phricodothyris sp., Ramovsina likana, Rostranteris mediterraneum, Sphenosteges sp., Spirigerella sp., Spyridiophora cf. compacta, Spyridiophora reticulata, Texarina parallela, Tschernyschewia cf. typica, Tyloplecta sp., Waagenoconcha sp., Waagenoconcha cf. gangetica"
+    },
+    {
+      "nalaziste": "Milašnovac, Velebit",
+      "zupanija": "Ličko-senjska županija",
+      "starost_od_mil_god": 272.5,
+      "starost_do_mil_god": 268,
+      "pronadeni_fosili": "Aviculopecten cf. sedgwicki, Bellerophon impressus, Bryozoa indet., Derbyia sp., Dunbarula nana, Edmondia permiana, Enteletes microplocus, Enteletes salopeki, Globivalvulina sp., Glomospira sp., Hemigordius sp., Liosotella sp., Marginifera magniplicata, Martinia cf. orbicularis, Martinia velebitica, Nankinella sp., Neoschwagerina craticulifera, Neoschwagerina occidentalis, Orthotichia derbyi, Orthotichia magnifica, Ozawainella sp., Pachyphloia sp., Permocalculus sp., Permocalculus tenellus, Peronidella sp., Pseudofusulina sp., Reichelina sp., Saikraconcha ogulineci, Shamovella obscura, Soleniscus avellanoides, Sphenosteges sp., Stolleyella yabei, Streblochondria sericea, Velebitella triplicata, Vermiporella longipora, Vermiporella serbica"
+    },
+    {
+      "nalaziste": "Baške Oštarije, Velebit",
+      "zupanija": "Ličko-senjska županija",
+      "starost_od_mil_god": 272.5,
+      "starost_do_mil_god": 268,
+      "pronadeni_fosili": "Enteletes salopeki, Leptodus nobilis, Martinia velebitica, Phricodothyris dispar, Saikraconcha ogulineci"
+    },
+    {
+      "nalaziste": "Uz cestu, Velebit",
+      "zupanija": "Ličko-senjska županija",
+      "starost_od_mil_god": 272.5,
+      "starost_do_mil_god": 268,
+      "pronadeni_fosili": "Leptodus nobilis, Martinia velebitica"
+    },
+    {
+      "nalaziste": "Kanfanar",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 125.5,
+      "starost_do_mil_god": 122.5,
+      "pronadeni_fosili": "Archaealveolina sp., Bacinella irregularis, Debarina hahounerensis, Mayncina bulgarica, Novalesia distorta, Palorbitolina lenticularis, Praechrysalidina infracretacea, Praeorbitolina cormyi, Pseudolituonella conica, Pseudonummoloculina aurigerica, Requienia zlatarskii, Sabaudia briacensis, Sabaudia minuta, Salpingoporella dinarica, Toucasia sp., Vercorsella laurentii, Vercorsella scarsellai, Voloshinoides murgensis"
+    },
+    {
+      "nalaziste": "Tounj",
+      "zupanija": "Karlovačka županija",
+      "starost_od_mil_god": 125.5,
+      "starost_do_mil_god": 122.5,
+      "pronadeni_fosili": "Agriopleura sp., Bacinella sp., Derventina filipescui, Glossomyophorus costatus, Hedbergella sp., Himeraelites sp., Neotrocholina aptiensis, Neotrocholina friburgensis, Offneria sp., Orbitolina (Mesorbitolina) lotzei, Palorbitolina lenticularis, Praeorbitolina cormyi, Praeorbitolina wienandsi, Sabaudia briacensis, Saccocoma sp., Salpingoporella dinarica"
+    },
+    {
+      "nalaziste": "Uvala Žukova, Hvar",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 85.8,
+      "pronadeni_fosili": "Aeolisaccus kotori, Moncharmontia compressa, Nezazzata cf. simplex, Pseudocyclammina sphaeroidea, Pseudonummoloculina cf. heimi, Scandonea samnitica, Thaumatoporella parvovesiculifera, Titanosauria indet."
+    },
+    {
+      "nalaziste": "Rt Guštinja, Rovinj",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 136.4,
+      "starost_do_mil_god": 130,
+      "pronadeni_fosili": "Sauropoda indet., Theropoda indet."
+    },
+    {
+      "nalaziste": "Karigador, Brtonigla",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 99.7,
+      "starost_do_mil_god": 94.3,
+      "pronadeni_fosili": "Biconcava bentori, Broeckina balcanica, Chrysalidina gradata, Sauropoda indet., Vidalina cf. hispanica, Vidalina radioicicae"
+    },
+    {
+      "nalaziste": "Rt Grakalovac, Premantura, Medulin",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 99.7,
+      "starost_do_mil_god": 94.3,
+      "pronadeni_fosili": "Broeckina balcanica, Chrysalidina gradata, Merlingina cretacea, Pseudolituonella sp., Sauropoda indet., Theropoda indet., Vidalina sp., Pseudorhipidionina cf. casertana, Pseudorhapydionina cf. dubia"
+    },
+    {
+      "nalaziste": "Lovrečica, Umag",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 99.7,
+      "starost_do_mil_god": 94.3,
+      "pronadeni_fosili": "Biconcava bentori, Broeckina balcanica, Chrysalidina gradata, Theropoda indet., Vidalina cf. hispanica, Vidalina cf. radioicicae"
+    },
+    {
+      "nalaziste": "Krnica, Marčana",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 85.8,
+      "pronadeni_fosili": "Theropoda indet."
+    },
+    {
+      "nalaziste": "Mali Levan kraj Medulina",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 85.8,
+      "starost_do_mil_god": 84.9,
+      "pronadeni_fosili": "Dinosauria indet."
+    },
+    {
+      "nalaziste": "Unije",
+      "zupanija": "Primorsko-goranska županija",
+      "starost_od_mil_god": 99.7,
+      "starost_do_mil_god": 94.3,
+      "pronadeni_fosili": "Dinosauria indet."
+    },
+    {
+      "nalaziste": "Rt Verudela, Pula",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 112.6,
+      "starost_do_mil_god": 99.7,
+      "pronadeni_fosili": "Dinosauria indet."
+    },
+    {
+      "nalaziste": "Rt Marlera, Ližnjan",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 85.8,
+      "starost_do_mil_god": 84.9,
+      "pronadeni_fosili": "Dinosauria indet."
+    },
+    {
+      "nalaziste": "Vanga, Brijuni",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 130,
+      "starost_do_mil_god": 125.5,
+      "pronadeni_fosili": "Theropoda indet."
+    },
+    {
+      "nalaziste": "Puntižela, Fažana",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 112.6,
+      "starost_do_mil_god": 99.7,
+      "pronadeni_fosili": "Theropoda indet."
+    },
+    {
+      "nalaziste": "Zlate stijene, Pula",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 112.6,
+      "starost_do_mil_god": 99.7,
+      "pronadeni_fosili": "Dinosauria indet."
+    },
+    {
+      "nalaziste": "Kostanjek-1 Litofacijes A, Biofacijes 1, Podsused, Zagreb",
+      "zupanija": "Grad Zagreb",
+      "starost_od_mil_god": 16,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Aurila kollmanni, Aurila notata, Callistocythere egregia, Cerastoderma sp., Ervilia dissita, Gibbula sp., Hydrobia sp., Leptocythere tenuis, Loxoconcha fragilis, Mactra vitaliana, Modiolus incrassatus, Musculus sarmaticus, Valvata sp., Xestoleberis glaberescense"
+    },
+    {
+      "nalaziste": "Kostanjek-1 Litofacijes AB, Biofacijes 2, Podsused, Zagreb",
+      "zupanija": "Grad Zagreb",
+      "starost_od_mil_god": 11.6,
+      "starost_do_mil_god": 5.3,
+      "pronadeni_fosili": "Amplocypris abscisa, Amplocypris major, Amplocypris recta, Candona milinkae, Candona postsarmatica, Caspia (Caspia) cf. latior, Cryptocandona nocens, Cypria reniformis, Cyprideis heterostigma, Darwinula stevensoni, Hungarocypris auriculata, Hydrobia (Hydrobia) frauenfeldi, Leptocythere paralella, Loxoconcha hodonica, Loxoconcha rhombovalis, Lymnocardium sp., Pseudamnicola (Pseudamnicola) minima, Valvata (Cinncina) cf. obtusaeformis"
+    },
+    {
+      "nalaziste": "Kostanjek-1 Litofacijes B, Biofacijes 2, Podsused, Zagreb",
+      "zupanija": "Grad Zagreb",
+      "starost_od_mil_god": 11.6,
+      "starost_do_mil_god": 5.3,
+      "pronadeni_fosili": "Amplocypris abscisa, Amplocypris major, Candona (Typhlocypris) fossulata, Candona (Lineocypris) hodonensis, Candona milinkae, Candona postsarmatica, Candona (Lineocypris) pupini, Candona (Pontoniella) sagittosa, Caspia (Caspia) cf. latior, Cerastoderma protracta, Congeria? sp., Cryptocandona nocens, Cypria pannonica, Cypria reniformis, Cyprideis heterostigma, Darwinula stevensoni, Gyraulus (Gyraulus) dubius, Gyraulus (Gyraulus) praeponticus, Hemicytheria brunnensis, Hungarocypris auriculata, Hungarocypris hierogliphica, Hydrobia (Baglivia) cf. ambiqua, Hydrobia (Hydrobia) frauenfeldi, Leptocythere paralella, Loxoconcha hodonica, Loxoconcha muelleri, Loxoconcha rhombovalis, Lymnocardium sp., Micromelania striata, Pisidium sp., Radix (Radix) croatica, Radix (Radix) extensa"
+    },
+    {
+      "nalaziste": "Kostanjek-1 Litofacijes C, Biofacijes 3, Podsused, Zagreb",
+      "zupanija": "Grad Zagreb",
+      "starost_od_mil_god": 11.6,
+      "starost_do_mil_god": 5.3,
+      "pronadeni_fosili": "Amplocypris abscisa, Congeria martonfii, Congeria ornithopsis, Congeria partschi, Cyprideis heterostigma, Darwinula stevensoni, Hungarocypris hierogliphica, Melanopsis bouei, Melanopsis fossilis, Melanopsis impresa"
+    },
+    {
+      "nalaziste": "Kostanjek-1 Litofacijes D, Biofacijes 3, Podsused, Zagreb",
+      "zupanija": "Grad Zagreb",
+      "starost_od_mil_god": 11.6,
+      "starost_do_mil_god": 5.3,
+      "pronadeni_fosili": "Amplocypris abscisa, Amplocypris dorsobrevis, Caladacna ornata, Candona (Typhlocyprella) annae, Candona (Lineocypris) caudalis, Candona (Typhlocypris) fossulata, Candona (Sinegubiella) illyrica, Candona (Typhlocyprella) lineocypriformis, Candona (Caspiolla) ossoinae, Candona (Lineocypris) pupini, Candona (Turkmenella) robusta, Candona (Pontoniella) sagittosa, Candona (Thaminocypris) simetrica, Candona (Pontoniella) truncata,? Cerastoderma margaritacea,? Cerastoderma protracta, Congeria banatica, Congeria aff. banatica, Congeria czjzeki, Congeria martonfii, Congeria zahalkai, Cypria dorsoconcava, Cyprideis heterostigma, Cyprideis macrostigma, Darwinula stevensoni, Didacna deserta, Gyraulus (Gyraulus) tenuistriatus, Hemicytheria brunnensis, Hemicytheria croatica, Hemicytheria major, Hungarocypris hierogliphica, Loxoconcha granifera, Loxoconcha muelleri, Lymnocardium sp., Melanopsis fossilis, Micromelania striata, Neodelminiella venusta, Paradacna syrmiense, Paralimnocythere tenera, Pisidium sp., Undulotheca halavatsi, Velutinopsis cf. pancici"
+    },
+    {
+      "nalaziste": "Kirmenjak I, Poreč",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 150.8,
+      "starost_do_mil_god": 145.5,
+      "pronadeni_fosili": "cf. Parabrontopodus sp."
+    },
+    {
+      "nalaziste": "Žaganj dolac kraj Sumartina, Brač",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 84.9,
+      "starost_do_mil_god": 70.6,
+      "pronadeni_fosili": "Favus antei"
+    },
+    {
+      "nalaziste": "Velebit, cesta (Gospić – Karlovac)",
+      "zupanija": "Ličko-senjska županija",
+      "starost_od_mil_god": 272.5,
+      "starost_do_mil_god": 268,
+      "pronadeni_fosili": "Agathammina sp., Bellerophon sp., Bryozoa indet., Chusenella velebitica, Climacammina sp., Colaniella parva, Colospongia, Colospongia cf. dubia, Connexia sp., Cribrogenerina sp., Cystothalamia sp., Diplopora pusilla, Dunbarinella velebitica, Dunbarula nana, Echinodermata indet., Eoverbeekina sp., Eoverbeekina cf. paklenicensis, Eoverbeekina cf. salopeki, Globivalvulina sp., Glomospira sp., Goniolinopsi sp., Guadalupia sp., Gymnocodium sp., Gyroporella bellerophontis, Hemigordius sp., Imilce lata, Imilce newelli, Kahlerina pachytheca, Lemonea cylindrica, Leptodus nobilis,? Likanella sp., Martinia velebitica, Mizzia sp., Mizzia cornuta, Mizzia cf. cornuta, Mizzia velebitana, Nankinella sp., Neoschwagerina craticulifera, Neoschwagerina occidentalis, Neoschwagerina rotunda, Ozawainella sp., Pachyphloia sp., Palaeonubecularia sp., Palaeospiroplectammina sp., Paraglobivalvulina septulifera, Permocalculus sp., Permocalculus fragilis, Permocalculus plumosus, Permocalculus cf. plumosus, Permocalculus tenellus, Permodiscus padangensis,? Peronidella sp.,? Polycystocoelia sp.,? Pseudoreichelina sp., Reichelina sp., Saikraconcha ogulineci, Salopekiella sp., Salopekiella velebitana, Schubertella sp., Shamovella obscura, Sinocoelia sp., Sinocoelia lepida, Sphaerulina croatica, Staffella sp., Staffella cf. elegantula, Stellispongia sp., Stolleyella yabei, Tetrataxis sp.,? Uvanella sp., Uvanella irregularis, Velebitella sp., Velebitella triplicata, Vermiporella sp., Vermiporella longipora, Vermiporella nipponica, Waagenophyllum sp., Yabeina syrtalis"
+    },
+    {
+      "nalaziste": "Hvar (ostatci vrste Harpactocarcinus dalmatius)",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 84.9,
+      "starost_do_mil_god": 70.6,
+      "pronadeni_fosili": "Harpactocarcinus dalmatius"
+    },
+    {
+      "nalaziste": "Rt Polivalo, Vis",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 89.3,
+      "pronadeni_fosili": "Aeolisaccus sp., Biradiolites angulosus, Hippurites resectus, Miliolidae indet., Thaumatoporella sp."
+    },
+    {
+      "nalaziste": "Podsused, Zagreb",
+      "zupanija": "Grad Zagreb",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Champsodelphis sp., Heterodelphis croatica, Mesocetus agrami"
+    },
+    {
+      "nalaziste": "Željeznička stanica Zlobin, Bakar",
+      "zupanija": "Primorsko-goranska županija",
+      "starost_od_mil_god": 155.7,
+      "starost_do_mil_god": 145.5,
+      "pronadeni_fosili": "Aplosmilia coalescens, Axosmilia corallina, Calamophylliopsis flabellum, Dermoseris nodosa, Dermosmilia etalloni, Dermosmilia labeata, Diplaraea croatica, Goniocora socialis, Heliocoenia (Decaheliocoenia) variabilis, Kobyastraea lomontiana, Latiphyllia suevica, Montlivaltia champlittensis, Montlivaltia compressa, Placophyllia rugosa, Proaplophyllia sexradiata, Stylina thiessingi, Stylosmilia corallina, Stylosmilia suevica, Thecosmilia magna"
+    },
+    {
+      "nalaziste": "Petrinja",
+      "zupanija": "Sisačko-moslavačka županija",
+      "starost_od_mil_god": 66,
+      "starost_do_mil_god": 55.8,
+      "pronadeni_fosili": "Acervulinidae indet., Acicularia sp., Actinacis sp., Annelida indet., Anomalinidae indet., Archaeolithothamnium sp., Bivalvia indet., Brachiopoda indet.,? Broeckella sp., Bryozoa indet.,? Corallina sp., Corallinaceae indet., Crinoidea indet., Cymopolia sp., Dasycladaceae indet., Dorothia sp., Echinoidea indet., Elianella elegans, Eponididae indet., Gastropoda indet., Gaudryina sp., Girvanella sp., Globorotalia cf. trinidadensis,? Gyroidina sp., Haddonia sp., Holothuroidea indet., Hydrozoa indet.,? Idalina sp., Jania sp., Lithophyllum sp., Lithothamnion sp., Miliolidae indet., cf. Neomeris cretacea, Nodosariidae indet., Ophthalmidium sp., Ostracoda indet., Peyssonnelia antiqua, Placopsilina sp., Planorbulina cretae, Polystrata alba, Porifera indet., Pycnoporidium levantinum,? Reophax sp., Rotalia sp., Solenoporaceae indet., Textularia sp.,? Trinocladus sp., Tubiphytes sp."
+    },
+    {
+      "nalaziste": "Drniš (u okolici)",
+      "zupanija": "Šibensko-kninska županija",
+      "starost_od_mil_god": 37.2,
+      "starost_do_mil_god": 33.9,
+      "pronadeni_fosili": "Acrosmilia dubravitzensis,? Bosnopsammia cf. katzeri, Calamophylliopsis sp., Circophyllia dachiardii,? Desmocladia septifera, Hydnophyllia collinaria, Pachyseris sp., Placosmilia bilobata, Stylophora annulata, Stylophora distans, Trochosmilia multilobata, Trochosmilia multisinuosa"
+    },
+    {
+      "nalaziste": "Vrabečka gora, Medvednica",
+      "zupanija": "Grad Zagreb",
+      "starost_od_mil_god": 85.8,
+      "starost_do_mil_god": 70.6,
+      "pronadeni_fosili": "Cunnolites (Cunnolites) profundus, Cunnolites (Plesiocunnolitopsis) longifossata, Cunnolites (Plesiocunnolites) nummulus, Diploctenium ferrumequinum, Phyllosmilia sp., Rennensismilia complanata, Rennensismilia subinduta"
+    },
+    {
+      "nalaziste": "Rusovski brijeg, Medvednica",
+      "zupanija": "Grad Zagreb",
+      "starost_od_mil_god": 85.8,
+      "starost_do_mil_god": 70.6,
+      "pronadeni_fosili": "Cunnolites (Cunnolites) profundus, Cunnolites (Plesiocunnolites) nummulus, Cunnolites (Plesiocunnolites) orbignyi, Rennensismilia inflexa, Rennensismilia subinduta"
+    },
+    {
+      "nalaziste": "Novaki, Medvednica",
+      "zupanija": "Grad Zagreb",
+      "starost_od_mil_god": 85.8,
+      "starost_do_mil_god": 70.6,
+      "pronadeni_fosili": "Cunnolites (Cunnolites) profundus, Cunnolites (Plesiocunnolitopsis) longifossata"
+    },
+    {
+      "nalaziste": "Krapina",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 0.1,
+      "starost_do_mil_god": 0,
+      "pronadeni_fosili": "Emys orbicularis,? Hippopotamus sp."
+    },
+    {
+      "nalaziste": "Čepićko polje, Učka",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 2.6,
+      "starost_do_mil_god": 0,
+      "pronadeni_fosili": "Hippopotamus sp."
+    },
+    {
+      "nalaziste": "Kestenik KE-8, Kalnik",
+      "zupanija": "Varaždinska županija",
+      "starost_od_mil_god": 235,
+      "starost_do_mil_god": 221.5,
+      "pronadeni_fosili": "? Betraccium sp., Capnuchosphaera cf. crassa, Capnuchosphaera triassica, Spongostylus carnicus, Xipha sp."
+    },
+    {
+      "nalaziste": "Kestenik KE-12, Kalnik",
+      "zupanija": "Varaždinska županija",
+      "starost_od_mil_god": 232,
+      "starost_do_mil_god": 221.5,
+      "pronadeni_fosili": "Capnodoce sp., Capnuchosphaera cf. lea, Spongostylus carnicus, Xipha sp., Xiphotheca sp."
+    },
+    {
+      "nalaziste": "Jazvina JA-3, Kalnik",
+      "zupanija": "Varaždinska županija",
+      "starost_od_mil_god": 232,
+      "starost_do_mil_god": 205.6,
+      "pronadeni_fosili": "Capnodoce sp., Capnodoce anapetes,? Capnuchosphaera sp., Capnuchosphaera cf. constricta, Capnuchosphaera theloides, Nassellaria indet., Sarla sp., Whalenella cf. regia, Whalenella sp., Xiphotheca sp., Xiphothecaella karpenissionensis"
+    },
+    {
+      "nalaziste": "Jazvina JA-5, Kalnik",
+      "zupanija": "Varaždinska županija",
+      "starost_od_mil_god": 232,
+      "starost_do_mil_god": 205.6,
+      "pronadeni_fosili": "Capnodoce anapetes, Capnuchosphaera theloides, Capnuchosphaera triassica, Whalenella sp., Xiphotheca sp."
+    },
+    {
+      "nalaziste": "Poljanica PC-58, Medvednica",
+      "zupanija": "Zagrebačka županija",
+      "starost_od_mil_god": 232,
+      "starost_do_mil_god": 221.5,
+      "pronadeni_fosili": "Capnodoce sp., Capnuchosphaera crassa, Capnuchosphaera cf. lea, Capnuchosphaera tricornis, Capnuchosphaera triassica, Spongostylus carnicus"
+    },
+    {
+      "nalaziste": "Poljanica PC-3, Medvednica",
+      "zupanija": "Zagrebačka županija",
+      "starost_od_mil_god": 232,
+      "starost_do_mil_god": 221.5,
+      "pronadeni_fosili": "Karnospongella bispinosa, Muelleritortis cochleata, Pseudostylosphaera goestlingensis, Spongoserrula rarauana, Triassocampe sp."
+    },
+    {
+      "nalaziste": "Poljanica PC-15, Medvednica",
+      "zupanija": "Zagrebačka županija",
+      "starost_od_mil_god": 242,
+      "starost_do_mil_god": 235,
+      "pronadeni_fosili": "? Muelleritortis sp., Muelleritortis cf. cochleata, Pseudostylosphaera goestlingensi, Triassocampe sp."
+    },
+    {
+      "nalaziste": "Poljanica PC-59, Medvednica",
+      "zupanija": "Zagrebačka županija",
+      "starost_od_mil_god": 242,
+      "starost_do_mil_god": 235,
+      "pronadeni_fosili": "Hungarosaturnalis sp., Karnospongella bispinosa, Muelleritortis cochleata, Muelleritortis firma, Oertlispongus inaequispinosus, Pseudostylosphaera goestlingensis, Spongoserrula cristagalli, Triassocampe sp., Wuranella cf. carnica, Zhamojdasphaera sp."
+    },
+    {
+      "nalaziste": "Slapnica, Žumberak",
+      "zupanija": "Zagrebačka županija",
+      "starost_od_mil_god": 212,
+      "starost_do_mil_god": 201.6,
+      "pronadeni_fosili": "Asterocalculus heraki, Auloconus permodiscoides, Aulotortus friedli, Aulotortus sinuosus, Aulotortus tenuis, Gastropoda indet., Griphoporella curvata, Triasina hantkeni"
+    },
+    {
+      "nalaziste": "Križna luka, Hvar",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 84.9,
+      "starost_do_mil_god": 70.6,
+      "pronadeni_fosili": "Hippuritidae indet., Inoceramidae indet., Mitrocaprina sp., Orbitoides douvillei, Orbitoides tissoti, Praesiderolites sp., Pseudopolyconites sp., Pseudosabinia klinghardti, Pseudosiderolites vidali, Radiolitidae indet., Vaccinites sp."
+    },
+    {
+      "nalaziste": "Radoboj (Zbirka Mađarskog nacionalnog muzeja u Budimpešti)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Aphrophora ungeri, Bibio lividus, Bibio marmoratus,? Bryodema sp., Bryodema croatica, Cydnopsis haidingeri, Gomphocerus femoralis, Lasius ophthalmicus, Macrotermes pristinus, Oedipoda oeningensis, Pardalophora hungarica, Penthetria anthracina, Psychidae indet."
+    },
+    {
+      "nalaziste": "Radoboj (Zbirka Geologische Bundesanstalta u Beču)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Camponotus induratus, Emplastus antiquus, Emplastus haueri, Eodecticus maculatus, Formica fragilis, Formica obvoluta, Formica parexsecta, Formica ungeri, Lasius anthracinus, Lasius globularis, Lasius longaevus, Lasius longipennis, Lasius occultatus, Lasius ophthalmicus, Liometopum imhoffii, Mastotermes haidingeri, Mastotermes minor, Oecophylla obesa, Oedipoda haidingeri, Oedipoda longipennis, Oedipoda nigrofasciolata, Oedipoda partschi, Oedipoda pulchra, Ophion longaevus, Paraphaenogaster tertiaria, Platycheirus infumatus, Platycleis pongraczi, Ponerites oblongiceps, Protopaltothemis hageni, Scyllina imperialis"
+    },
+    {
+      "nalaziste": "Radoboj (Ungerova zbirka)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Macrelcana ungeri"
+    },
+    {
+      "nalaziste": "Radoboj (Zbirka u Grazu)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Acanthoderes phrixi, Acanthosoma livida, Acanthosoma morloti, Acocephalus curtulus, Anthomyia morio, Aphrophora ungeri, Aradus antediluvianus, Attopsis longipennis, Attopsis longipes, Bibio enterodelus, Bibio firmus, Bibio giganteus, Bibio gracilis, Bibio lignarius, Bibio maculatus, Bibio murchisonis, Camponotus induratus, Casaleia longiventris, Cercopis charpentieri, Cercopis fasciata, Cercopis longicollis, Chetostoma antiqua, Cicada bifasciata, Colymbetes ungeri, Coreites crassus, Coreites oblongus, Croatocordulia platyptera, Cydnopsis haidingeri, Dolichoderus heeri, Emplastus dubius, Emplastus miocenicus, Emplastus ocellus, Formica fragilis, Formica obscura, Formica obtecta, Formica obvoluta, Formica oculata, Formica ungeri, Gesomyrmex bremii, Greenidea morloti, Greenidea pallescens, Gryllacris brevipennis, Heterogaster radobojanus, Hydrobius longicollis, Lachnus pectorosus, Lasius anthracinus, Lasius globularis, Lasius longaevus, Lasius longipennis, Lasius occultatus, Lasius ophthalmicus, Leptogaster hellii, Liometopum imhoffii, Locrites haidingeri, Lonchomyrmex freyeri, Macrotermes pristinus, Mastotermes croaticus, Miotermes procerus, Myrmecites pusillus, Myrmeleon reticulatum, Nabis livida, Nabis maculata, Neurocoris elongatus, Nitidula radobojana, Nymphalites atavus, Oecophylla obesa, Oedipoda melanosticta, Omalium protogaeae, Palaeocoris spectabilis, Paleopsalta ungeri, Paraphaenogaster jurinei, Paraphaenogaster tertiaria, Pentatoma lividum, Penthetria longa, Phenacolestes coloratus, Plecia lygaeoides, Ponerites atavinus, Ponerites gracilior, Ponerites nitidus, Ponerites tenuis, Rhipidia extincta, Silpha obsoleta, Spartocerus maculatus, Tingis obscura, Tipula maculipennis, Tipula maior"
+    },
+    {
+      "nalaziste": "Radoboj (Zbirka Prirodoslovnog muzeja u Beču)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Acrididae indet.,? Bibio sp., Bibio maculatus, Bibio obsoletus, Bibio partschii, Bibiopsis murchisonii,? Camponotus sp., Camponotus induratus, Cercopis charpentieri, Cydnopsis haidingeri, Cydnus brevicollis, Emplastus miocenicus, Formica fragilis, Formica ungeri, Greenidea pallescens, Gryllacris kittli, Gryllus fuchsi, Heeridris croaticus, Lasius anthracinus, Lasius globularis, Lasius longaevus, Lasius longipennis, Lasius occultatus, Lasius ophthalmicus, Liometopum imhoffii, Lygaeus deucalionis, Mastotermes haidingeri, Mylothrites pluto, Myrmecites latus, Myrmecites pusillus, Noctuites radobojana, Oecophylla obesa, Oedipoda radobojana, Pachymerus bisignatus,? Palloptera aff. umbellatarum, Paraphaenogaster jurinei, Ponera croatica, Ponerites elongatus, Ponerites tenuis, Tipula varia,"
+    },
+    {
+      "nalaziste": "Radoboj (Zbirka nepoznatog sakupljača ili Oswalda Heera)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Acoenitus lividus, Allodia nigritella, Amphotis bella, Anchomenus orphanus, Anthophorites longaeva, Anthophorites thoracica, Bembidium absolutum, Bibio radobojanus, Bittacus reticulatus, Bombus grandaevus, Bracon pallidus, Camponotus heracleus, Camponotus lignitus, Cantharis (Cantharis) attavina, Cercopis gigantea, Curculionites redtenbacheri, Cydnopsis coleopteroides, Cydnus tertiarius, Formica lavateri, Harpalus tabidus, Hemiteles fasciata, Ichneumonites fusiformis, Limonia formosa, Lygaeites lividus, Lygaeus atavinus, Lygaeus ventralis, Meloe podalirii, Mycetophila antiqua, Mycetophila latipennis, Mycetophila pumilio, Myrmica venusta, Ophion longaevus, Oplonaeschna metis, Penthetria cimicoides, Penthetria latipennis, Pimpla (Rhyssa) antiqua, Poneropsis brunascens, Poneropsis pallida, Rhagonycha (Rhagonycha) tertiaria, Saperda absyrti, Sciara hirtella, Syrphus infumatus, Termes (Eutermes) croaticus, Termes (Eutermes) obscurus, Urocerites spectabilis, Tipula aemula, Vespa crabroniformis"
+    },
+    {
+      "nalaziste": "Radoboj (Montanistička zbirka)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Acocephalus crassiusculus, Agromyza protogaea, Anthomyia atavina, Anthomyia latipennis, Asilus bicolor, Bibio gracilis, Bibio linearis, Bibio lividus, Bibio pinguis, Bibiopsis murchisonii, Cercopis fasciata, Cicadellites nigriventris, Cicadellites pallidus, Cordylura vetusta, Dipterites obsoleta, Gnophomyia debilis, Gnoriste meigeniana, Greenidea macrostyla, Greenidea morloti, Heterogaster troglodytes, Limonia cingulata, Limonia tenuis, Limonia vetusta, Locrites haidingeri, Mycetophila amoena, Mycetophila nana, Mycetophila pulchella, Nabis livida, Nabis vagabunda, Noctuites effosa, Noctuites haidingeri, Penthetria anthracina, Penthetria brevicollis, Penthetria longa, Phalaenites crenatus, Phalaenites obsoleta, Platycheirus freyeri, Platycheirus geminatus, Plecia bucklandi, Plecia morio, Psilites bella, Ptyelus spumiferus, Rhipidia extincta, Rhipidia picta, Rhipidia propinqua, Pontia freyeri, Sciara acuminata, Sciara minutula, Sylvicola lugubris, Sylvicola maculata, Syrphus haidingeri, Tettigonia morio, Tipula heeriana, Tipula maculipennis, Tipula obtecta, Tipula varia, Typhlocyba bremii"
+    },
+    {
+      "nalaziste": "Brušane, Gospić",
+      "zupanija": "Ličko-senjska županija",
+      "starost_od_mil_god": 272.5,
+      "starost_do_mil_god": 268,
+      "pronadeni_fosili": "Leptodus nobilis"
+    },
+    {
+      "nalaziste": "Radoboj, (Zbirka Heinricha Freyera)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Bythoscopus melanoneurus, Cercopis lanceolata, Cercopis pallida, Cydnopsis scutellaris, Neurocoris rotundatus, Oedipoda melanosticta, Phloeocoris monstrosus, Spartocerus insignis, Tettigonia antiqua"
+    },
+    {
+      "nalaziste": "Radoboj, (Zbirka Adolphea von Morlota)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Acanthosoma maculata, Acanthosoma morloti, Cercopis rectelinea, Cydnus brevicollis, Dictyophorites tingitinus, Harpactor gracilis, Heterogaster redivivus, Lasius occultatus, Lygaeites pusillus, Nabis maculata, Neurocoris rotundatus, Pentatoma morloti, Tettigometra debilis"
+    },
+    {
+      "nalaziste": "Radoboj, (Zbirka Sigmunda Aichhorna)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Camuracicada aichhorni"
+    },
+    {
+      "nalaziste": "Između Starog Grada i Vrboske, (ostatci vrste Aigialosaurus bucchichi)",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 99.7,
+      "starost_do_mil_god": 94.3,
+      "pronadeni_fosili": "Aigialosaurus bucchichi"
+    },
+    {
+      "nalaziste": "Između Starog Grada i Vrboske, (ostatci vrste Aigialosaurus dalmaticus)",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 99.7,
+      "starost_do_mil_god": 94.3,
+      "pronadeni_fosili": "Aigialosaurus dalmaticus"
+    },
+    {
+      "nalaziste": "Hvar (ostatci vrste Pontosaurus lesinensis)",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 99.7,
+      "starost_do_mil_god": 94.3,
+      "pronadeni_fosili": "cf. Dolichosauridae indet., Pontosaurus lesinensis"
+    },
+    {
+      "nalaziste": "Radoboj (Zbirka Prirodoslovnog muzeja u Berlinu)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Platycleis pongraczi"
+    },
+    {
+      "nalaziste": "Radoboj (Zbirka Sveučilišta u Wrocławu)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Platycleis pongraczi"
+    },
+    {
+      "nalaziste": "Čuljina, Promina",
+      "zupanija": "Šibensko-kninska županija",
+      "starost_od_mil_god": 40.4,
+      "starost_do_mil_god": 37.2,
+      "pronadeni_fosili": "Ampullaria sigaretina, Ampullina hybrida, Amusium fortisi, Astreopora cf. compressa, Astreopora minima, Campanile aff. giganteum, Cardium (Orthocardium) gratum, Cardium gigas, Cardium polyptycum, Cassis (Morionella) verrucosa, Cerithium cvijici, Chama granulosa, Cladangia cocchi, Cladocora prolifera, Cladocora tenuis, Glycymeris jacquoti, Haustator imbricataria, Lentipecten corneus, Meretrix incrassata, Meretrix striatissima, Natica cepacaea, Nerita namnetica, Nicaeotrochus cyclolitoides, Oostrombus auricularius, Parapolytremacis bellardii, Pattalophyllia dalmatina, Pattalophyllia subinflata, Phacoides dinarii, Rimella fissurella, Scaphander fortisi, Strombus naticiformis, Stylocoenia reussi, Stylocoenia taurinensis, Stylophora distans, Subemarginula destefanii, Tectus lucasianus, Tellina granconensis, Terebellum cf. olivaceum, Thracia prominensis, Trochoseris semiplana, Trochosmilia alpina, Trochosmilia cocchii"
+    },
+    {
+      "nalaziste": "Džapo, Promina",
+      "zupanija": "Šibensko-kninska županija",
+      "starost_od_mil_god": 40.4,
+      "starost_do_mil_god": 37.2,
+      "pronadeni_fosili": "Astreopora minima, Cardium dalmatinum, Cardium hercegowinense, Cardium meriani, Cardium rouyanum, Cerithium dalmatinum, Cernina (Deshayesia), Chlamys (Chlamys) parisiensis, Cladangia cocchi, Cladocora prolifera, Cladocora tenuis, Clavilithes aff. noae, Clavilithes palareensis, Crassatella dainellii, Dendracis gervillii, Diastoma costellatum, Fimbria subpectunculus, Lambis goniophora, Lucina dalmatina, Meretrix hilarionis, Meretrix striatissima, Natica cepacaea, Nicaeotrochus cyclolitoides, Parapolytremacis bellardii,? Pattalophyllia gnatae, Phacoides dinarii, Placosmilia polygonata, Rhinoclavis, Scalaria anconai, Stylocoenia reussi, Stylophora cf. conferta, Stylophora distans, Tellina granconensis, Terebellum cf. olivaceum, Velates schmidelianus"
+    },
+    {
+      "nalaziste": "Čveljo, Promina",
+      "zupanija": "Šibensko-kninska županija",
+      "starost_od_mil_god": 40.4,
+      "starost_do_mil_god": 37.2,
+      "pronadeni_fosili": "Ampullina cf. merciniensis, Astreopora cf. annulata, Astreopora minima, Cardium dalmatinum, Cardium rouyanum, Cerithium dalmatinum, Cernina (Deshayesia), Chlamys (Chlamys) parisiensis, Clavilithes palareensis, Cypraedia elegans, Lima aff. papillifera, Meretrix hilarionis, Montastrea irradians, Natica cepacaea, Nucula (Nucula) fragilis, Pattalophyllia costata, Pattalophyllia dalmatina, Pattalophyllia grumi, Phacoides dinarii, Placosmilia polygonata, Plejona musicalis, Rhinoclavis, Scalaria anconai, Stylocoenia reussi, Stylophora distans, Stylophora eocaenica, Stylophora hercegowinensis, Tellina granconensis, Trochosmilia alpina"
+    },
+    {
+      "nalaziste": "Gluvača I, Promina",
+      "zupanija": "Šibensko-kninska županija",
+      "starost_od_mil_god": 40.4,
+      "starost_do_mil_god": 37.2,
+      "pronadeni_fosili": "Arca brongniarti, Arca dalmatina, Astreopora mostarensis, Campanile aff. giganteum, Cardium dalmatinum, Cardium (Orthocardium) gratum, Cardium rouyanum, Crassatella pugetensis, Crassatella schaurothi, Cypraedia elegans, Dendracis gervillii, Fimbria subpectunculus, Meretrix hilarionis, Montastrea irradians, Natica cepacaea, Rhinoclavis, Stylocoenia reussi, Stylophora distans, Stylophora eocaenica, Velates schmidelianus"
+    },
+    {
+      "nalaziste": "Gluvača II, Promina",
+      "zupanija": "Šibensko-kninska županija",
+      "starost_od_mil_god": 40.4,
+      "starost_do_mil_god": 37.2,
+      "pronadeni_fosili": "Astreopora decaphylla, Astrocoenia dachiardii, Astrocoenia parvistellata, Bayania stygis, Cardium rouyanum, Crassatella schaurothi, Goniopora octopartita, Pattalophyllia sinuosa, Stylophora distans, Trochoseris semiplana, Velates schmidelianus"
+    },
+    {
+      "nalaziste": "Radoboj (Zbirka Staatliches Museum für Naturkunde Karlsruhea)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Anthophorites thoracica"
+    },
+    {
+      "nalaziste": "Hvar (ostatci vrste Mesoleptos cf. zendrinii)",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 99.7,
+      "starost_do_mil_god": 94.3,
+      "pronadeni_fosili": "Mesoleptos cf. zendrinii"
+    },
+    {
+      "nalaziste": "Debelo brdo kraj Knina",
+      "zupanija": "Šibensko-kninska županija",
+      "starost_od_mil_god": 247.2,
+      "starost_do_mil_god": 242,
+      "pronadeni_fosili": "Balatonospira lipoldi, Dinarispira dinarica, Mentzelia mentzeli, Tetractinella trigonella, Volirhynchia vivida"
+    },
+    {
+      "nalaziste": "Gornje Ogorje, Muć",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 247.2,
+      "starost_do_mil_god": 242,
+      "pronadeni_fosili": "Anisactinella venetiana, Sinucosta pectinata, Tetractinella trigonella, Volirhynchia vivida"
+    },
+    {
+      "nalaziste": "Radoboj (Zbirka Sveučilišta u Liègeu)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Lithemis lejeunecarpentieri, Oligocaemia imperfecta"
+    },
+    {
+      "nalaziste": "Gornje Vrapče, Zagreb, Medvednica",
+      "zupanija": "Grad Zagreb",
+      "starost_od_mil_god": 13.7,
+      "starost_do_mil_god": 12.7,
+      "pronadeni_fosili": "Lithothamnion valens, Mesophyllum roveretoi, Phymatolithon calcareum"
+    },
+    {
+      "nalaziste": "Svilaja",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 242,
+      "starost_do_mil_god": 235,
+      "pronadeni_fosili": "Albasphe albertimagni, Alkaites dinaricus, Argolites trinodosus, Cassianospira humboldtii, Detoniceras svilajanus, Flabellocyrtia flabellulum, Proarcestes sp.,? Terebratulidina indet., Thecocyrtella dagysii"
+    },
+    {
+      "nalaziste": "Radoboj (Zbirka Geološkog muzeja u Budimpešti)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Bibio gracilis, Lasius longaevus, Lasius ophthalmicus, Macrotermes pristinus, Mastotermes croaticus, Penthetria latipennis"
+    },
+    {
+      "nalaziste": "Radoboj (Zbirka Prirodoslovnog muzeja u Londonu)",
+      "zupanija": "Krapinsko-zagorska županija",
+      "starost_od_mil_god": 12.7,
+      "starost_do_mil_god": 11.6,
+      "pronadeni_fosili": "Bibio batheri, Bibio brevis, Bibio maculatus, Bibio moestus, Lasius occultatus, Mycetophila pulchella, Platycheirus haidingeri"
+    },
+    {
+      "nalaziste": "Brač",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 85.8,
+      "starost_do_mil_god": 84.9,
+      "pronadeni_fosili": "Cyclothyris? globata"
+    },
+    {
+      "nalaziste": "Tičji rat, Brač",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 84.9,
+      "starost_do_mil_god": 70.6,
+      "pronadeni_fosili": "Accordiella conica, Bournonia excavata, Dicyclina schlumbergeri, Distefanella radoicicae, Kuehnia sp., Pseudopolyconites sp., Scandonea mediterranea"
+    },
+    {
+      "nalaziste": "Brašljevica, Ozalj",
+      "zupanija": "Karlovačka županija",
+      "starost_od_mil_god": 84.9,
+      "starost_do_mil_god": 70.6,
+      "pronadeni_fosili": "Cretarhabdus angustiforatus, Cribrosphaerella ehrenbergi, Moncharmontia appeninica, Qadrum gartneri, Qadrum gothicum, Qadrum sissinghii, Qadrum trifudum, Scandonea samnitica, Vaccinites cornuvaccinum, Vaccinites inaequicostatus, Vaccinites oppeli, Watznaneria barnesae"
+    },
+    {
+      "nalaziste": "Rt Kamnik/Plješivac, Veliki Brijun",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 105.3,
+      "starost_do_mil_god": 99.7,
+      "pronadeni_fosili": "Foraminifera indet., Ornithopoda indet., Ostracoda indet., Theropoda indet."
+    },
+    {
+      "nalaziste": "Rt Pogledalo, Veliki Brijun",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 130,
+      "starost_do_mil_god": 125.5,
+      "pronadeni_fosili": "Carnosauria indet."
+    },
+    {
+      "nalaziste": "Vranić, Brestovac",
+      "zupanija": "Požeško-slavonska županija",
+      "starost_od_mil_god": 23,
+      "starost_do_mil_god": 5.3,
+      "pronadeni_fosili": "Kentriodontidae indet."
+    },
+    {
+      "nalaziste": "Sveti Martin",
+      "zupanija": "Koprivničko-križevačka županija",
+      "starost_od_mil_god": 84.9,
+      "starost_do_mil_god": 70.6,
+      "pronadeni_fosili": "Batolites organisans, Plagioptychus aguilloni, Vaccinites cornuvaccinum"
+    },
+    {
+      "nalaziste": "Jug Istre, sekcija 1, facijes A",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 89.3,
+      "pronadeni_fosili": "Calcisphaerula sp."
+    },
+    {
+      "nalaziste": "Jug Istre, sekcija 1, facijes B",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 89.3,
+      "pronadeni_fosili": "Durania sp., Moncharmontia apenninica, Praeradiolites sp., Pseudocyclammina sphaeroidea, Scandonea samnitica"
+    },
+    {
+      "nalaziste": "Jug Istre, sekcija 2, facijes B",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 89.3,
+      "pronadeni_fosili": "Gorjanovicia sp., Hippurites sp., Moncharmontia apenninica, Pseudocyclammina sphaeroidea, Radiolites sp., Scandonea samnitica, Vaccinites sp."
+    },
+    {
+      "nalaziste": "Jug Istre, sekcija 2, facijes B",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 85.8,
+      "starost_do_mil_god": 84.9,
+      "pronadeni_fosili": "Calcisphaerula sp., Gorjanovicia sp., Moncharmontia apenninica, Pseudocyclammina sphaeroidea, Scandonea samnitica, Vaccinites sp."
+    },
+    {
+      "nalaziste": "Olib, sekcija 1",
+      "zupanija": "Zadarska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 84.9,
+      "pronadeni_fosili": "Calcisphaerula sp., Cuneolina sp., Moncharmontia apenninica, Nezzazatidae indet., Pseudocyclammina sphaeroidea, Radiolites sp., Scandonea samnitica, Valvulammina picardi"
+    },
+    {
+      "nalaziste": "Olib, sekcija 2",
+      "zupanija": "Zadarska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 84.9,
+      "pronadeni_fosili": "Calcisphaerula sp., Cuneolina sp., Hippurites sp., Moncharmontia apenninica, Nezzazatidae indet., Pseudocyclammina sphaeroidea, Radiolites sp., Scandonea samnitica, Valvulammina picardi"
+    },
+    {
+      "nalaziste": "Olib, sekcija 3",
+      "zupanija": "Zadarska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 84.9,
+      "pronadeni_fosili": "Moncharmontia apenninica, Pseudocyclammina sphaeroidea, Radiolites sp., Scandonea samnitica, Valvulammina picardi"
+    },
+    {
+      "nalaziste": "Brač, sekcija 1",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 89.3,
+      "pronadeni_fosili": "Calcisphaerula sp."
+    },
+    {
+      "nalaziste": "Brač, sekcija 2",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 66,
+      "pronadeni_fosili": "Hippurites sp., Moncharmontia apenninica, Murgella lata, Pseudocyclammina sphaeroidea, Radiolites sp., Scandonea samnitica"
+    },
+    {
+      "nalaziste": "Brač, sekcija 3",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 66,
+      "pronadeni_fosili": "Calcisphaerula sp."
+    },
+    {
+      "nalaziste": "Brač, sekcija 4/5",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 66,
+      "pronadeni_fosili": "Orbitoides tissoti, Praesiderolites vidali"
+    },
+    {
+      "nalaziste": "Brač, sekcija 6",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 66,
+      "pronadeni_fosili": "Biradiolites sp., Durania sp., Gorjanovicia sp., Hippurites sp., Keramosphaerina tergestina, Moncharmontia apenninica, Pseudocyclammina sphaeroidea, Radiolites sp., Vaccinites sp."
+    },
+    {
+      "nalaziste": "Brač, sekcija 7",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 66,
+      "pronadeni_fosili": "Gorjanovicia sp., Radiolites sp., Scandonea samnitica"
+    },
+    {
+      "nalaziste": "Brač, sekcija 8",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 94.3,
+      "starost_do_mil_god": 66,
+      "pronadeni_fosili": "Accordiella conica, Gorjanovicia sp., Moncharmontia apenninica, Murciella cuvillieri, Radiolites sp., Scandonea samnitica"
+    },
+    {
+      "nalaziste": "Rt Peneda, Veliki Brijun",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 109,
+      "starost_do_mil_god": 105.3,
+      "pronadeni_fosili": "Dinosauria indet."
+    },
+    {
+      "nalaziste": "Grdoselo, Pazin",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 48.6,
+      "starost_do_mil_god": 40.4,
+      "pronadeni_fosili": "Aturia cf. ziczac, Conoclypus conoideus, Eutrephoceras (Simplicioceras) centrale"
+    },
+    {
+      "nalaziste": "Svilaja (svijetli vapnenac)",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 242,
+      "starost_do_mil_god": 235,
+      "pronadeni_fosili": "Bellidispongia dinarica"
+    },
+    {
+      "nalaziste": "Svilaja (dolomitni vapnenac)",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "starost_od_mil_god": 242,
+      "starost_do_mil_god": 235,
+      "pronadeni_fosili": "Arcticidae indet., \"Barbatia\" sp., Flabellocyrtia flabellulum,? Myalina sp., Neritaria calcitica, Netschajewia svilajiensis, Protopis, Remismilia granadensis, Rinaldoella muensteri, Unionites sp."
+    },
+    {
+      "nalaziste": "Sekcija Sveti Damjan, Cres, Facijes C",
+      "zupanija": "Primorsko-goranska županija",
+      "starost_od_mil_god": 99.7,
+      "starost_do_mil_god": 94.3,
+      "pronadeni_fosili": "Caprina baylei, Ichthyosarcolites tricarinatus, Neocaprina sp., Orthoptychus striatus, Sauvagesia sp., Schiosia carinatoformis"
+    },
+    {
+      "nalaziste": "Dubravica",
+      "zupanija": "Zagrebačka županija",
+      "starost_od_mil_god": 13.7,
+      "starost_do_mil_god": 12.7,
+      "pronadeni_fosili": "Acanthuridae indet."
+    },
+    {
+      "nalaziste": "Kra-I / Kravarsko-I, jezero Slavonija, Kravarsko, Vukomeričke gorice",
+      "zupanija": "Zagrebačka županija",
+      "starost_od_mil_god": 5.3,
+      "starost_do_mil_god": 2.6,
+      "pronadeni_fosili": "Bithynia vukotinovici, Lithoglyphus decipiens, Microcolpia friedeli, Theodoxus semiplicatus, Valvata subcarinata, Viviparus kochanskyae"
+    },
+    {
+      "nalaziste": "VGK-39, jezero Slavonija, Kravarsko, Vukomeričke gorice",
+      "zupanija": "Zagrebačka županija",
+      "starost_od_mil_god": 5.3,
+      "starost_do_mil_god": 2.6,
+      "pronadeni_fosili": "Bithynia vukotinovici, Lithoglyphus decipiens, Microcolpia friedeli, Pisidium solitarium, Potomida seljani,? Prososthenia slavonica, Theodoxus semiplicatus, Valvata subcarinata, Viviparus aulacophorus, Viviparus kochanskyae"
+    },
+    {
+      "nalaziste": "VGK-38, jezero Slavonija, Cerje Letovanićko, Lekenik, Vukomeričke gorice",
+      "zupanija": "Sisačko-moslavačka županija",
+      "starost_od_mil_god": 5.3,
+      "starost_do_mil_god": 2.6,
+      "pronadeni_fosili": "Viviparus dezmanianus"
+    },
+    {
+      "nalaziste": "VGK-35, jezero Slavonija, Novo Brdo, Kravarsko, Vukomeričke gorice",
+      "zupanija": "Zagrebačka županija",
+      "starost_od_mil_god": 5.3,
+      "starost_do_mil_god": 2.6,
+      "pronadeni_fosili": "Melanopsis clavigera, Viviparus hoernesi"
+    },
+    {
+      "nalaziste": "Promina",
+      "zupanija": "Šibensko-kninska županija",
+      "starost_od_mil_god": 37.2,
+      "starost_do_mil_god": 33.9,
+      "pronadeni_fosili": "Prominatherium dalmatinum, Trionyx austriacus"
+    },
+    {
+      "nalaziste": "Dugi otok",
+      "zupanija": "Zadarska županija",
+      "starost_od_mil_god": 99.7,
+      "starost_do_mil_god": 89.3,
+      "pronadeni_fosili": "Portunatasaurus krambergeri"
+    },
+    {
+      "nalaziste": "Orlovica, istočno od Plavna, Knin",
+      "zupanija": "Šibensko-kninska županija",
+      "starost_od_mil_god": 252.3,
+      "starost_do_mil_god": 201.6,
+      "pronadeni_fosili": "Daonella lamellosa"
+    },
+    {
+      "nalaziste": "Sjeveroistočno od Zečeva Rogozničkog, Rogoznica",
+      "zupanija": "Šibensko-kninska županija",
+      "starost_od_mil_god": 221.5,
+      "starost_do_mil_god": 205.6,
+      "pronadeni_fosili": "Halobia bukowskii"
+    },
+    {
+      "nalaziste": "Kirmenjak II, Poreč",
+      "zupanija": "Istarska županija",
+      "starost_od_mil_god": 150.8,
+      "starost_do_mil_god": 145.5,
+      "pronadeni_fosili": "Parabrontopodus sp."
+    }
+  ],
+  "meta": {
+    "title": "Paleontološka nalazišta u Hrvatskoj - Free Download",
+    "description": "Popis paleontoloških nalazišta u Hrvatskoj sa županijom, starošću (u milijunima godina) i pronađenim fosilnim organizmima. Contains 136 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Paleontološka nalazišta u Hrvatskoj | ListBase",
+    "seo_description": "Download Paleontološka nalazišta u Hrvatskoj — 136 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 136 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_paleontoloških_nalazišta_i_pronađenih_organizama_u_Hrvatskoj"
+    ]
+  }
+}
