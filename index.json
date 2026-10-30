@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-30T02:22:08.566Z",
-  "total_datasets": 452,
-  "total_records": 824647,
+  "generated": "2026-10-30T02:22:17.056Z",
+  "total_datasets": 453,
+  "total_records": 825029,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -3138,6 +3138,30 @@
         "xlsx": {
           "name": "hr-pravopisi_HR.xlsx",
           "size": 9674
+        }
+      }
+    },
+    {
+      "id": "hr-rusizmi",
+      "name": "Rusizmi u hrvatskom jeziku",
+      "category": "language",
+      "record_count": 382,
+      "columns": [
+        "rijec",
+        "ruski_izvornik",
+        "znacenje"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_rusizama_u_hrvatskom_jeziku",
+      "updated": "2026-10",
+      "size": 56129,
+      "files": {
+        "csv": {
+          "name": "hr-rusizmi_HR.csv",
+          "size": 27207
+        },
+        "xlsx": {
+          "name": "hr-rusizmi_HR.xlsx",
+          "size": 25699
         }
       }
     },
