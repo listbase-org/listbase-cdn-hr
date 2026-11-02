@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-02T02:22:06.153Z",
-  "total_datasets": 455,
-  "total_records": 825081,
+  "generated": "2026-11-02T02:22:14.200Z",
+  "total_datasets": 456,
+  "total_records": 825093,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -742,6 +742,30 @@
         "xlsx": {
           "name": "hr-kreditne-unije_HR.xlsx",
           "size": 7121
+        }
+      }
+    },
+    {
+      "id": "hr-ministri-financija",
+      "name": "Ministri financija Republike Hrvatske",
+      "category": "economy",
+      "record_count": 12,
+      "columns": [
+        "ministar",
+        "pocetak_mandata",
+        "kraj_mandata"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Ministarstvo_financija_Republike_Hrvatske",
+      "updated": "2026-11",
+      "size": 3124,
+      "files": {
+        "csv": {
+          "name": "hr-ministri-financija_HR.csv",
+          "size": 715
+        },
+        "xlsx": {
+          "name": "hr-ministri-financija_HR.xlsx",
+          "size": 7167
         }
       }
     },

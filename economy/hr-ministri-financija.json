@@ -1,0 +1,101 @@
+{
+  "id": "hr-ministri-financija",
+  "name": "Ministri financija Republike Hrvatske",
+  "title": "Ministri financija Republike Hrvatske",
+  "description": "Popis ministara financija Republike Hrvatske od 1990. s početkom i krajem mandata.",
+  "category": "economy",
+  "source": "https://hr.wikipedia.org/wiki/Ministarstvo_financija_Republike_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Ministarstvo_financija_Republike_Hrvatske",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "ministar",
+      "label": "Ministar",
+      "type": "string"
+    },
+    {
+      "key": "pocetak_mandata",
+      "label": "Pocetak Mandata",
+      "type": "string"
+    },
+    {
+      "key": "kraj_mandata",
+      "label": "Kraj Mandata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ministar": "Marijan Hanžeković",
+      "pocetak_mandata": "25. srpnja 1990.",
+      "kraj_mandata": "17. srpnja 1991."
+    },
+    {
+      "ministar": "Jozo Martinović",
+      "pocetak_mandata": "31. srpnja 1991.",
+      "kraj_mandata": "12. kolovoza 1992."
+    },
+    {
+      "ministar": "Zoran Jašić",
+      "pocetak_mandata": "12. kolovoza 1992.",
+      "kraj_mandata": "7. srpnja 1994."
+    },
+    {
+      "ministar": "Božo Prka",
+      "pocetak_mandata": "7. srpnja 1994.",
+      "kraj_mandata": "11. rujna 1997."
+    },
+    {
+      "ministar": "Borislav Škegro",
+      "pocetak_mandata": "11. rujna 1997.",
+      "kraj_mandata": "27. siječnja 2000."
+    },
+    {
+      "ministar": "Mato Crkvenac",
+      "pocetak_mandata": "27. siječnja 2000.",
+      "kraj_mandata": "23. prosinca 2003."
+    },
+    {
+      "ministar": "Ivan Šuker",
+      "pocetak_mandata": "23. prosinca 2003.",
+      "kraj_mandata": "29. prosinca 2010."
+    },
+    {
+      "ministar": "Martina Dalić",
+      "pocetak_mandata": "29. prosinca 2010.",
+      "kraj_mandata": "23. prosinca 2011."
+    },
+    {
+      "ministar": "Slavko Linić",
+      "pocetak_mandata": "23. prosinca 2011.",
+      "kraj_mandata": "14. svibnja 2014."
+    },
+    {
+      "ministar": "Boris Lalovac",
+      "pocetak_mandata": "14. svibnja 2014.",
+      "kraj_mandata": "22. siječnja 2016."
+    },
+    {
+      "ministar": "Zdravko Marić",
+      "pocetak_mandata": "22. siječnja 2016.",
+      "kraj_mandata": "15. srpnja 2022."
+    },
+    {
+      "ministar": "Marko Primorac",
+      "pocetak_mandata": "15. srpnja 2022.",
+      "kraj_mandata": ""
+    }
+  ],
+  "meta": {
+    "title": "Ministri financija Republike Hrvatske - Free Download",
+    "description": "Popis ministara financija Republike Hrvatske od 1990. s početkom i krajem mandata. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri financija Republike Hrvatske | ListBase",
+    "seo_description": "Download Ministri financija Republike Hrvatske — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Ministarstvo_financija_Republike_Hrvatske"
+    ]
+  }
+}
