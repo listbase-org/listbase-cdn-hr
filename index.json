@@ -1,12 +1,12 @@
 {
   "lang": "hr",
-  "generated": "2026-11-02T02:22:14.200Z",
-  "total_datasets": 456,
-  "total_records": 825093,
+  "generated": "2026-11-02T02:22:21.685Z",
+  "total_datasets": 457,
+  "total_records": 825110,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -102,6 +102,31 @@
     }
   ],
   "datasets": [
+    {
+      "id": "hr-ministri-poljoprivrede",
+      "name": "Ministri poljoprivrede Republike Hrvatske",
+      "category": "agriculture",
+      "record_count": 17,
+      "columns": [
+        "ministar",
+        "pocetak_mandata",
+        "kraj_mandata",
+        "naziv_ministarstva"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Ministarstvo_poljoprivrede,_šumarstva_i_ribarstva_Republike_Hrvatske",
+      "updated": "2026-11",
+      "size": 5378,
+      "files": {
+        "csv": {
+          "name": "hr-ministri-poljoprivrede_HR.csv",
+          "size": 1763
+        },
+        "xlsx": {
+          "name": "hr-ministri-poljoprivrede_HR.xlsx",
+          "size": 7498
+        }
+      }
+    },
     {
       "id": "hr-pasmine-domacih-zivotinja",
       "name": "Hrvatske izvorne pasmine domaćih životinja",
