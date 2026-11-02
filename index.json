@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-02T02:22:36.779Z",
-  "total_datasets": 459,
-  "total_records": 825162,
+  "generated": "2026-11-02T02:22:44.182Z",
+  "total_datasets": 460,
+  "total_records": 825271,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -10749,6 +10749,32 @@
         "xlsx": {
           "name": "hr-sahovski-velemajstori_HR.xlsx",
           "size": 8805
+        }
+      }
+    },
+    {
+      "id": "hr-sportasi-godine-sportskih-novosti",
+      "name": "Sportaši godine po izboru Sportskih novosti",
+      "category": "sports",
+      "record_count": 109,
+      "columns": [
+        "godina",
+        "sportas",
+        "sport_sportasa",
+        "sportasica",
+        "sport_sportasice"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Sportaši_godine_Sportskih_novosti",
+      "updated": "2026-11",
+      "size": 22090,
+      "files": {
+        "csv": {
+          "name": "hr-sportasi-godine-sportskih-novosti_HR.csv",
+          "size": 7257
+        },
+        "xlsx": {
+          "name": "hr-sportasi-godine-sportskih-novosti_HR.xlsx",
+          "size": 10787
         }
       }
     },

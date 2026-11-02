@@ -1,0 +1,814 @@
+{
+  "id": "hr-sportasi-godine-sportskih-novosti",
+  "name": "Sportaši godine po izboru Sportskih novosti",
+  "title": "Sportaši godine po izboru Sportskih novosti",
+  "description": "Dobitnici nagrade za najboljeg sportaša i sportašicu godine u izboru dnevnika Sportske novosti od 1950. do danas, sa sportom kojim se bave.",
+  "category": "sports",
+  "source": "https://hr.wikipedia.org/wiki/Sportaši_godine_Sportskih_novosti",
+  "source_url": "https://hr.wikipedia.org/wiki/Sportaši_godine_Sportskih_novosti",
+  "updated": "2026-11",
+  "record_count": 109,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "string"
+    },
+    {
+      "key": "sportas",
+      "label": "Sportas",
+      "type": "string"
+    },
+    {
+      "key": "sport_sportasa",
+      "label": "Sport Sportasa",
+      "type": "string"
+    },
+    {
+      "key": "sportasica",
+      "label": "Sportasica",
+      "type": "string"
+    },
+    {
+      "key": "sport_sportasice",
+      "label": "Sport Sportasice",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "godina": "1950.",
+      "sportas": "Petar Šegedin",
+      "sport_sportasa": "atletika",
+      "sportasica": "Branka Loparić",
+      "sport_sportasice": "plivanje"
+    },
+    {
+      "godina": "1951.",
+      "sportas": "Andrija Otenheimer",
+      "sport_sportasa": "atletika",
+      "sportasica": "Milica Šumak",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1952.",
+      "sportas": "četverac HVK Gusar Split: Duje Bonačić, Petar Šegvić, Mate Trojanović i Velimir Valenta",
+      "sport_sportasa": "veslanje",
+      "sportasica": "Milka Babović",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1952.",
+      "sportas": "Franjo Mihalić",
+      "sport_sportasa": "atletika",
+      "sportasica": "Marija Radosavljavić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1953.",
+      "sportas": "Perica Vlašić",
+      "sport_sportasa": "veslanje",
+      "sportasica": "Milka Babović",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1954.",
+      "sportas": "Žarko Dolinar",
+      "sport_sportasa": "stolni tenis",
+      "sportasica": "Eša Ligorio",
+      "sport_sportasice": "plivanje"
+    },
+    {
+      "godina": "1955.",
+      "sportas": "Bernard Vukas",
+      "sport_sportasa": "nogomet",
+      "sportasica": "Milka Babović",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1956.",
+      "sportas": "Krešo Račić",
+      "sport_sportasa": "atletika",
+      "sportasica": "Vinka Jeričević",
+      "sport_sportasice": "plivanje"
+    },
+    {
+      "godina": "1956.",
+      "sportas": "Franjo Mihalić",
+      "sport_sportasa": "atletika",
+      "sportasica": "Vinka Jeričević",
+      "sport_sportasice": "plivanje"
+    },
+    {
+      "godina": "1957.",
+      "sportas": "Hrvoje Kačić",
+      "sport_sportasa": "vaterpolo",
+      "sportasica": "Nada Vučković",
+      "sport_sportasice": "rukomet"
+    },
+    {
+      "godina": "1957.",
+      "sportas": "Franjo Mihalić",
+      "sport_sportasa": "atletika",
+      "sportasica": "Nada Vučković",
+      "sport_sportasice": "rukomet"
+    },
+    {
+      "godina": "1958.",
+      "sportas": "Joško Murat",
+      "sport_sportasa": "atletika",
+      "sportasica": "Hilda Zeier",
+      "sport_sportasice": "plivanje"
+    },
+    {
+      "godina": "1958.",
+      "sportas": "Stanko Lorger",
+      "sport_sportasa": "atletika",
+      "sportasica": "Slava Zupančič",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "1959.",
+      "sportas": "Dujam Smoljanović",
+      "sport_sportasa": "kuglanje",
+      "sportasica": "Tanja Zoković",
+      "sport_sportasice": "košarka"
+    },
+    {
+      "godina": "1959.",
+      "sportas": "Stanko Lorger",
+      "sport_sportasa": "atletika",
+      "sportasica": "Draga Stamejčić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1960.",
+      "sportas": "Željko Perušić",
+      "sport_sportasa": "nogomet",
+      "sportasica": "Tanja Kokeza",
+      "sport_sportasice": "tenis"
+    },
+    {
+      "godina": "1960.",
+      "sportas": "Radivoj Korač",
+      "sport_sportasa": "košarka",
+      "sportasica": "Olga Gere",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1961.",
+      "sportas": "Boro Jovanović",
+      "sport_sportasa": "tenis",
+      "sportasica": "Hilda Zeier",
+      "sport_sportasice": "plivanje"
+    },
+    {
+      "godina": "1961.",
+      "sportas": "Miroslav Cerar",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Hilda Zeier",
+      "sport_sportasice": "plivanje"
+    },
+    {
+      "godina": "1962.",
+      "sportas": "Nikola Pilić i Boro Jovanović",
+      "sport_sportasa": "tenis",
+      "sportasica": "Olga Šikovec",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1962.",
+      "sportas": "Miroslav Cerar",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Olga Gere",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1963.",
+      "sportas": "Josip Đerđa",
+      "sport_sportasa": "košarka",
+      "sportasica": "Olga Šikovec",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1963.",
+      "sportas": "Miroslav Cerar",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Natalija Stefanović",
+      "sport_sportasice": "padobranstvo"
+    },
+    {
+      "godina": "1964.",
+      "sportas": "Nikola Pilić",
+      "sport_sportasa": "tenis",
+      "sportasica": "Nada Vučković",
+      "sport_sportasice": "rukomet"
+    },
+    {
+      "godina": "1964.",
+      "sportas": "Miroslav Cerar",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Draga Stamejčić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1965.",
+      "sportas": "Andro Depolo",
+      "sport_sportasa": "plivanje",
+      "sportasica": "Ljiljana Petnjarić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1965.",
+      "sportas": "Branislav Lončar",
+      "sport_sportasa": "streljaštvo",
+      "sportasica": "Ružica Miladinović",
+      "sport_sportasice": "rukomet"
+    },
+    {
+      "godina": "1966.",
+      "sportas": "Cvjetko Bilić",
+      "sport_sportasa": "biciklizam",
+      "sportasica": "Ljiljana Petnjarić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1966.",
+      "sportas": "Miroslav Cerar",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Vera Nikolić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1967.",
+      "sportas": "Nikola Pilić",
+      "sport_sportasa": "tenis",
+      "sportasica": "Mirjana Resler",
+      "sport_sportasice": "stolni tenis"
+    },
+    {
+      "godina": "1967.",
+      "sportas": "Ivo Daneu",
+      "sport_sportasa": "košarka",
+      "sportasica": "Vera Nikolić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1968.",
+      "sportas": "Dragutin Šurbek",
+      "sport_sportasa": "stolni tenis",
+      "sportasica": "Đurđica Bjedov",
+      "sport_sportasice": "plivanje"
+    },
+    {
+      "godina": "1968.",
+      "sportas": "Miroslav Cerar",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Đurđica Bjedov",
+      "sport_sportasice": "plivanje"
+    },
+    {
+      "godina": "1969.",
+      "sportas": "Dragutin Šurbek",
+      "sport_sportasa": "stolni tenis",
+      "sportasica": "Ana Boban",
+      "sport_sportasice": "plivanje"
+    },
+    {
+      "godina": "1969.",
+      "sportas": "Miroslav Cerar",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Ana Boban",
+      "sport_sportasice": "plivanje"
+    },
+    {
+      "godina": "1970.",
+      "sportas": "Petar Skansi",
+      "sport_sportasa": "košarka",
+      "sportasica": "Ružica Meglaj",
+      "sport_sportasice": "košarka"
+    },
+    {
+      "godina": "1970.",
+      "sportas": "Miroslav Cerar",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Desanka Perović",
+      "sport_sportasice": "streljaštvo"
+    },
+    {
+      "godina": "1971.",
+      "sportas": "Mate Parlov",
+      "sport_sportasa": "boks",
+      "sportasica": "Vera Nikolić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1972.",
+      "sportas": "Mate Parlov",
+      "sport_sportasa": "boks",
+      "sportasica": "Vera Nikolić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1973.",
+      "sportas": "Mate Parlov",
+      "sport_sportasa": "boks",
+      "sportasica": "Mara Torti",
+      "sport_sportasice": "rukomet"
+    },
+    {
+      "godina": "1973.",
+      "sportas": "Marijan Beneš",
+      "sport_sportasa": "boks",
+      "sportasica": "Jelica Pavličić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1974.",
+      "sportas": "Luciano Sušanj",
+      "sport_sportasa": "atletika",
+      "sportasica": "Jelica Pavličić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1974.",
+      "sportas": "Mate Parlov",
+      "sport_sportasa": "boks",
+      "sportasica": "Nataša Urbančić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1975.",
+      "sportas": "Antun Stipančić",
+      "sport_sportasa": "stolni tenis",
+      "sportasica": "Branka Batinić",
+      "sport_sportasice": "stolni tenis"
+    },
+    {
+      "godina": "1975.",
+      "sportas": "Nenad Stekić",
+      "sport_sportasa": "atletika",
+      "sportasica": "Branka Batinić",
+      "sport_sportasice": "stolni tenis"
+    },
+    {
+      "godina": "1976.",
+      "sportas": "Matija Ljubek",
+      "sport_sportasa": "kanu",
+      "sportasica": "Štefica Krištof",
+      "sport_sportasice": "kuglanje"
+    },
+    {
+      "godina": "1976.",
+      "sportas": "Matija Ljubek",
+      "sport_sportasa": "kanu",
+      "sportasica": "Mima Jaušovec",
+      "sport_sportasice": "tenis"
+    },
+    {
+      "godina": "1977.",
+      "sportas": "Joško Alebić",
+      "sport_sportasa": "atletika",
+      "sportasica": "Jelica Pavličić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1977.",
+      "sportas": "Šaban Sejdi",
+      "sport_sportasa": "hrvanje",
+      "sportasica": "Mima Jaušovec",
+      "sport_sportasice": "tenis"
+    },
+    {
+      "godina": "1978.",
+      "sportas": "Milan Janić",
+      "sport_sportasa": "kanu",
+      "sportasica": "Pavica Galošević",
+      "sport_sportasice": "kuglanje"
+    },
+    {
+      "godina": "1978.",
+      "sportas": "Dražen Dalipagić",
+      "sport_sportasa": "košarka",
+      "sportasica": "Bojana Šumonja",
+      "sport_sportasice": "karate"
+    },
+    {
+      "godina": "1979.",
+      "sportas": "Dragutin Šurbek",
+      "sport_sportasa": "stolni tenis",
+      "sportasica": "Sanda Dubravčić",
+      "sport_sportasice": "umjetničko klizanje"
+    },
+    {
+      "godina": "1979.",
+      "sportas": "Bojan Križaj",
+      "sport_sportasa": "skijanje",
+      "sportasica": "Gordana Perkučin",
+      "sport_sportasice": "stolni tenis"
+    },
+    {
+      "godina": "1980.",
+      "sportas": "Krešimir Ćosić",
+      "sport_sportasa": "košarka",
+      "sportasica": "Štefica Krištof",
+      "sport_sportasice": "kuglanje"
+    },
+    {
+      "godina": "1980.",
+      "sportas": "Slobodan Kačar",
+      "sport_sportasa": "boks",
+      "sportasica": "Štefica Krištof",
+      "sport_sportasice": "kuglanje"
+    },
+    {
+      "godina": "1981.",
+      "sportas": "Dragutin Šurbek",
+      "sport_sportasa": "stolni tenis",
+      "sportasica": "Sanda Dubravčić",
+      "sport_sportasice": "umjetničko klizanje"
+    },
+    {
+      "godina": "1981.",
+      "sportas": "Borut Petrič",
+      "sport_sportasa": "plivanje",
+      "sportasica": "Sanda Dubravčić",
+      "sport_sportasice": "umjetničko klizanje"
+    },
+    {
+      "godina": "1982.",
+      "sportas": "Matija Ljubek",
+      "sport_sportasa": "kanu",
+      "sportasica": "Biserka Perman",
+      "sport_sportasice": "kuglanje"
+    },
+    {
+      "godina": "1982.",
+      "sportas": "Bojan Križaj",
+      "sport_sportasa": "skijanje",
+      "sportasica": "Biserka Perman",
+      "sport_sportasice": "kuglanje"
+    },
+    {
+      "godina": "1983.",
+      "sportas": "Dragutin Šurbek",
+      "sport_sportasa": "stolni tenis",
+      "sportasica": "Renata Šašak",
+      "sport_sportasice": "tenis"
+    },
+    {
+      "godina": "1983.",
+      "sportas": "Dragutin Šurbek",
+      "sport_sportasa": "stolni tenis",
+      "sportasica": "Mirjana Jovanović",
+      "sport_sportasice": "streljaštvo"
+    },
+    {
+      "godina": "1984.",
+      "sportas": "Vlado Lisjak",
+      "sport_sportasa": "hrvanje",
+      "sportasica": "Branka Batinić",
+      "sport_sportasice": "stolni tenis"
+    },
+    {
+      "godina": "1984.",
+      "sportas": "Jure Franko",
+      "sport_sportasa": "skijanje",
+      "sportasica": "Svetlana Kitić",
+      "sport_sportasice": "rukomet"
+    },
+    {
+      "godina": "1985.",
+      "sportas": "Dražen Petrović",
+      "sport_sportasa": "košarka",
+      "sportasica": "Biserka Perman",
+      "sport_sportasice": "kuglanje"
+    },
+    {
+      "godina": "1985.",
+      "sportas": "Dražen Petrović",
+      "sport_sportasa": "košarka",
+      "sportasica": "Monika Seleš",
+      "sport_sportasice": "tenis"
+    },
+    {
+      "godina": "1986.",
+      "sportas": "Dražen Petrović",
+      "sport_sportasa": "košarka",
+      "sportasica": "Jasna Šekarić",
+      "sport_sportasice": "streljaštvo"
+    },
+    {
+      "godina": "1986.",
+      "sportas": "Rok Petrovič",
+      "sport_sportasa": "skijanje",
+      "sportasica": "Mateja Svet",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "1987.",
+      "sportas": "Ivan Šabjan",
+      "sport_sportasa": "kanu",
+      "sportasica": "Jasna Šekarić",
+      "sport_sportasice": "streljaštvo"
+    },
+    {
+      "godina": "1987.",
+      "sportas": "Bojan Križaj",
+      "sport_sportasa": "skijanje",
+      "sportasica": "Mateja Svet",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "1988.",
+      "sportas": "Zoran Primorac",
+      "sport_sportasa": "stolni tenis",
+      "sportasica": "Jasna Šekarić",
+      "sport_sportasice": "streljaštvo"
+    },
+    {
+      "godina": "1988.",
+      "sportas": "Goran Maksimović",
+      "sport_sportasa": "streljaštvo",
+      "sportasica": "Jasna Šekarić",
+      "sport_sportasice": "streljaštvo"
+    },
+    {
+      "godina": "1989.",
+      "sportas": "Toni Kukoč",
+      "sport_sportasa": "košarka",
+      "sportasica": "Jasna Šekarić",
+      "sport_sportasice": "streljaštvo"
+    },
+    {
+      "godina": "1989.",
+      "sportas": "Dragomir Bečanović",
+      "sport_sportasa": "judo",
+      "sportasica": "Mateja Svet",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "1990.",
+      "sportas": "Toni Kukoč",
+      "sport_sportasa": "košarka",
+      "sportasica": "Biljana Petrović",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "1990.",
+      "sportas": "Toni Kukoč",
+      "sport_sportasa": "košarka",
+      "sportasica": "Monika Seleš",
+      "sport_sportasice": "tenis"
+    },
+    {
+      "godina": "1991.",
+      "sportas": "Toni Kukoč",
+      "sport_sportasa": "košarka",
+      "sportasica": "Danira Nakić",
+      "sport_sportasice": "košarka"
+    },
+    {
+      "godina": "1992.",
+      "sportas": "Goran Ivanišević",
+      "sport_sportasa": "tenis",
+      "sportasica": "Biserka Perman",
+      "sport_sportasice": "kuglanje"
+    },
+    {
+      "godina": "1993.",
+      "sportas": "Goran Ivanišević",
+      "sport_sportasa": "tenis",
+      "sportasica": "Suzana Skoko",
+      "sport_sportasice": "streljaštvo"
+    },
+    {
+      "godina": "1994.",
+      "sportas": "Goran Ivanišević",
+      "sport_sportasa": "tenis",
+      "sportasica": "Iva Majoli",
+      "sport_sportasice": "tenis"
+    },
+    {
+      "godina": "1995.",
+      "sportas": "Željko Mavrović",
+      "sport_sportasa": "boks",
+      "sportasica": "Iva Majoli",
+      "sport_sportasice": "tenis"
+    },
+    {
+      "godina": "1996.",
+      "sportas": "Goran Ivanišević",
+      "sport_sportasa": "tenis",
+      "sportasica": "Iva Majoli",
+      "sport_sportasice": "tenis"
+    },
+    {
+      "godina": "1997.",
+      "sportas": "Željko Mavrović",
+      "sport_sportasa": "boks",
+      "sportasica": "Iva Majoli",
+      "sport_sportasice": "tenis"
+    },
+    {
+      "godina": "1998.",
+      "sportas": "Davor Šuker",
+      "sport_sportasa": "nogomet",
+      "sportasica": "Janica Kostelić",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "1999.",
+      "sportas": "Gordan Kožulj",
+      "sport_sportasa": "plivanje",
+      "sportasica": "Janica Kostelić",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "2000.",
+      "sportas": "Nikolaj Pešalov",
+      "sport_sportasa": "dizanje utega",
+      "sportasica": "Janica Kostelić",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "2001.",
+      "sportas": "Goran Ivanišević",
+      "sport_sportasa": "tenis",
+      "sportasica": "Janica Kostelić",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "2002.",
+      "sportas": "Ivica Kostelić",
+      "sport_sportasa": "skijanje",
+      "sportasica": "Janica Kostelić",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "2003.",
+      "sportas": "Ivica Kostelić",
+      "sport_sportasa": "skijanje",
+      "sportasica": "Janica Kostelić",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "2004.",
+      "sportas": "Duje Draganja",
+      "sport_sportasa": "plivanje",
+      "sportasica": "Blanka Vlašić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2005.",
+      "sportas": "Ivan Ljubičić",
+      "sport_sportasa": "tenis",
+      "sportasica": "Janica Kostelić",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "2006.",
+      "sportas": "Ivan Ljubičić",
+      "sport_sportasa": "tenis",
+      "sportasica": "Janica Kostelić",
+      "sport_sportasice": "skijanje"
+    },
+    {
+      "godina": "2007.",
+      "sportas": "Ivano Balić",
+      "sport_sportasa": "rukomet",
+      "sportasica": "Blanka Vlašić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2008.",
+      "sportas": "Filip Ude",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Blanka Vlašić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2009.",
+      "sportas": "Ivica Kostelić",
+      "sport_sportasa": "skijanje",
+      "sportasica": "Blanka Vlašić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2010.",
+      "sportas": "Ivica Kostelić",
+      "sport_sportasa": "skijanje",
+      "sportasica": "Blanka Vlašić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2011.",
+      "sportas": "Ivica Kostelić",
+      "sport_sportasa": "skijanje",
+      "sportasica": "Blanka Vlašić",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2012.",
+      "sportas": "Giovanni Cernogoraz",
+      "sport_sportasa": "streljaštvo",
+      "sportasica": "Sandra Perković",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2013.",
+      "sportas": "Mario Mandžukić",
+      "sport_sportasa": "nogomet",
+      "sportasica": "Sandra Perković",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2014.",
+      "sportas": "Marin Čilić",
+      "sport_sportasa": "tenis",
+      "sportasica": "Sandra Perković",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2015.",
+      "sportas": "Ivan Rakitić",
+      "sport_sportasa": "nogomet",
+      "sportasica": "Sandra Perković",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2016.",
+      "sportas": "Damir Martin",
+      "sport_sportasa": "veslanje",
+      "sportasica": "Sandra Perković",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2017.",
+      "sportas": "Tin Srbić",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Sandra Perković",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2018.",
+      "sportas": "Luka Modrić",
+      "sport_sportasa": "nogomet",
+      "sportasica": "Sandra Perković",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2019.",
+      "sportas": "Tin Srbić",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Sandra Perković",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2020.",
+      "sportas": "Domagoj Duvnjak",
+      "sport_sportasa": "rukomet",
+      "sportasica": "Barbara Matić",
+      "sport_sportasice": "judo"
+    },
+    {
+      "godina": "2021.",
+      "sportas": "Tin Srbić",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Matea Jelić",
+      "sport_sportasice": "taekwondo"
+    },
+    {
+      "godina": "2022.",
+      "sportas": "Luka Modrić",
+      "sport_sportasa": "nogomet",
+      "sportasica": "Sandra Perković",
+      "sport_sportasice": "atletika"
+    },
+    {
+      "godina": "2023.",
+      "sportas": "Tin Srbić",
+      "sport_sportasa": "gimnastika",
+      "sportasica": "Lena Stojković",
+      "sport_sportasice": "taekwondo"
+    },
+    {
+      "godina": "2024.",
+      "sportas": "Miran Maričić",
+      "sport_sportasa": "streljaštvo",
+      "sportasica": "Barbara Matić",
+      "sport_sportasice": "judo"
+    }
+  ],
+  "meta": {
+    "title": "Sportaši godine po izboru Sportskih novosti - Free Download",
+    "description": "Dobitnici nagrade za najboljeg sportaša i sportašicu godine u izboru dnevnika Sportske novosti od 1950. do danas, sa sportom kojim se bave. Contains 109 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sportaši godine po izboru Sportskih novosti | ListBase",
+    "seo_description": "Download Sportaši godine po izboru Sportskih novosti — 109 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 109 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Sportaši_godine_Sportskih_novosti"
+    ]
+  }
+}
