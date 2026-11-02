@@ -1,0 +1,121 @@
+{
+  "id": "hr-ministri-pravosudja",
+  "name": "Ministri pravosuđa Republike Hrvatske",
+  "title": "Ministri pravosuđa Republike Hrvatske",
+  "description": "Popis ministara pravosuđa Republike Hrvatske od 1990. s početkom i krajem mandata.",
+  "category": "law",
+  "source": "https://hr.wikipedia.org/wiki/Ministarstvo_pravosuđa,_uprave_i_digitalne_transformacije_Republike_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Ministarstvo_pravosuđa,_uprave_i_digitalne_transformacije_Republike_Hrvatske",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "ministar",
+      "label": "Ministar",
+      "type": "string"
+    },
+    {
+      "key": "pocetak_mandata",
+      "label": "Pocetak Mandata",
+      "type": "string"
+    },
+    {
+      "key": "kraj_mandata",
+      "label": "Kraj Mandata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ministar": "Branko Babac",
+      "pocetak_mandata": "28. lipnja 1990.",
+      "kraj_mandata": "17. srpnja 1991."
+    },
+    {
+      "ministar": "Bosiljko Mišetić",
+      "pocetak_mandata": "2. kolovoza 1991.",
+      "kraj_mandata": "14. svibnja 1992."
+    },
+    {
+      "ministar": "Ivan Milas",
+      "pocetak_mandata": "6. lipnja 1992.",
+      "kraj_mandata": "12. kolovoza 1992."
+    },
+    {
+      "ministar": "Ivica Crnić",
+      "pocetak_mandata": "12. kolovoza 1992.",
+      "kraj_mandata": "18. svibnja 1995."
+    },
+    {
+      "ministar": "Miroslav Šeparović",
+      "pocetak_mandata": "18. svibnja 1995.",
+      "kraj_mandata": "20. travnja 1998."
+    },
+    {
+      "ministar": "Milan Ramljak",
+      "pocetak_mandata": "14. svibnja 1998.",
+      "kraj_mandata": "13. travnja 1999."
+    },
+    {
+      "ministar": "Zvonimir Šeparović",
+      "pocetak_mandata": "15. travnja 1999.",
+      "kraj_mandata": "27. siječnja 2000."
+    },
+    {
+      "ministar": "Stjepan Ivanišević",
+      "pocetak_mandata": "27. siječnja 2000.",
+      "kraj_mandata": "27. rujna 2001."
+    },
+    {
+      "ministar": "Ingrid Antičević-Marinović",
+      "pocetak_mandata": "28. rujna 2001.",
+      "kraj_mandata": "23. prosinca 2003."
+    },
+    {
+      "ministar": "Vesna Škare Ožbolt",
+      "pocetak_mandata": "23. prosinca 2003.",
+      "kraj_mandata": "9. veljače 2006."
+    },
+    {
+      "ministar": "Ana Lovrin",
+      "pocetak_mandata": "10. veljače 2006.",
+      "kraj_mandata": "10. listopada 2008."
+    },
+    {
+      "ministar": "Ivan Šimonović",
+      "pocetak_mandata": "10. listopada 2008.",
+      "kraj_mandata": "7. srpnja 2010."
+    },
+    {
+      "ministar": "Dražen Bošnjaković",
+      "pocetak_mandata": "7. srpnja 2010.",
+      "kraj_mandata": "23. prosinca 2011."
+    },
+    {
+      "ministar": "Orsat Miljenić",
+      "pocetak_mandata": "23. prosinca 2011.",
+      "kraj_mandata": "22. siječnja 2016."
+    },
+    {
+      "ministar": "Ante Šprlje",
+      "pocetak_mandata": "22. siječnja 2016.",
+      "kraj_mandata": "27. travnja 2017."
+    },
+    {
+      "ministar": "Dražen Bošnjaković",
+      "pocetak_mandata": "9. lipnja 2017.",
+      "kraj_mandata": "23. srpnja 2020."
+    }
+  ],
+  "meta": {
+    "title": "Ministri pravosuđa Republike Hrvatske - Free Download",
+    "description": "Popis ministara pravosuđa Republike Hrvatske od 1990. s početkom i krajem mandata. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri pravosuđa Republike Hrvatske | ListBase",
+    "seo_description": "Download Ministri pravosuđa Republike Hrvatske — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Ministarstvo_pravosuđa,_uprave_i_digitalne_transformacije_Republike_Hrvatske"
+    ]
+  }
+}
