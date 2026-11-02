@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-10-30T02:22:23.471Z",
-  "total_datasets": 454,
-  "total_records": 825053,
+  "generated": "2026-11-02T02:22:06.153Z",
+  "total_datasets": 455,
+  "total_records": 825081,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -3269,6 +3269,34 @@
         "xlsx": {
           "name": "hr-zatvori-i-kaznionice_HR.xlsx",
           "size": 7790
+        }
+      }
+    },
+    {
+      "id": "hr-dora-pobjednici",
+      "name": "Pobjednici Dore – hrvatskog izbora za Pjesmu Eurovizije",
+      "category": "music",
+      "record_count": 28,
+      "columns": [
+        "izdanje",
+        "broj_emisija",
+        "broj_sudionika",
+        "nadnevak",
+        "mjesto_odrzavanja",
+        "pobjednik",
+        "pjesma"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Dora_(natjecanje)",
+      "updated": "2026-11",
+      "size": 9264,
+      "files": {
+        "csv": {
+          "name": "hr-dora-pobjednici_HR.csv",
+          "size": 2906
+        },
+        "xlsx": {
+          "name": "hr-dora-pobjednici_HR.xlsx",
+          "size": 8683
         }
       }
     },

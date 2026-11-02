@@ -1,0 +1,313 @@
+{
+  "id": "hr-dora-pobjednici",
+  "name": "Pobjednici Dore – hrvatskog izbora za Pjesmu Eurovizije",
+  "title": "Pobjednici Dore – hrvatskog izbora za Pjesmu Eurovizije",
+  "description": "Popis izdanja Dore, hrvatskog nacionalnog izbora za Pjesmu Eurovizije, s datumom, mjestom održavanja, brojem sudionika, pobjednikom i pobjedničkom pjesmom.",
+  "category": "music",
+  "source": "https://hr.wikipedia.org/wiki/Dora_(natjecanje)",
+  "source_url": "https://hr.wikipedia.org/wiki/Dora_(natjecanje)",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "izdanje",
+      "label": "Izdanje",
+      "type": "string"
+    },
+    {
+      "key": "broj_emisija",
+      "label": "Broj Emisija",
+      "type": "number"
+    },
+    {
+      "key": "broj_sudionika",
+      "label": "Broj Sudionika",
+      "type": "number"
+    },
+    {
+      "key": "nadnevak",
+      "label": "Nadnevak",
+      "type": "string"
+    },
+    {
+      "key": "mjesto_odrzavanja",
+      "label": "Mjesto Odrzavanja",
+      "type": "string"
+    },
+    {
+      "key": "pobjednik",
+      "label": "Pobjednik",
+      "type": "string"
+    },
+    {
+      "key": "pjesma",
+      "label": "Pjesma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "izdanje": "1992.",
+      "broj_emisija": 1,
+      "broj_sudionika": 16,
+      "nadnevak": "22. veljače 1992.",
+      "mjesto_odrzavanja": "Studio 7 HRT-a, Zagreb",
+      "pobjednik": "Magazin",
+      "pjesma": "Aleluja"
+    },
+    {
+      "izdanje": "1993.",
+      "broj_emisija": 1,
+      "broj_sudionika": 15,
+      "nadnevak": "28. veljače 1993.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Put",
+      "pjesma": "Don't Ever Cry"
+    },
+    {
+      "izdanje": "1994.",
+      "broj_emisija": 1,
+      "broj_sudionika": 21,
+      "nadnevak": "20. ožujka 1994.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Tony Cetinski",
+      "pjesma": "Nek' ti bude ljubav sva"
+    },
+    {
+      "izdanje": "1995.",
+      "broj_emisija": 1,
+      "broj_sudionika": 20,
+      "nadnevak": "12. ožujka 1995.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Magazin i Lidija",
+      "pjesma": "Nostalgija"
+    },
+    {
+      "izdanje": "1996.",
+      "broj_emisija": 1,
+      "broj_sudionika": 20,
+      "nadnevak": "3. ožujka 1996.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Maja Blagdan",
+      "pjesma": "Sveta ljubav"
+    },
+    {
+      "izdanje": "1997.",
+      "broj_emisija": 1,
+      "broj_sudionika": 20,
+      "nadnevak": "9. ožujka 1997.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "E.N.I.",
+      "pjesma": "Probudi me"
+    },
+    {
+      "izdanje": "1998.",
+      "broj_emisija": 1,
+      "broj_sudionika": 20,
+      "nadnevak": "6. ožujka 1998.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Danijela Martinović",
+      "pjesma": "Neka mi ne svane"
+    },
+    {
+      "izdanje": "1999.",
+      "broj_emisija": 1,
+      "broj_sudionika": 24,
+      "nadnevak": "7. ožujka 1999.",
+      "mjesto_odrzavanja": "Studio 7 Jadran Filma, Zagreb",
+      "pobjednik": "Doris Dragović",
+      "pjesma": "Marija Magdalena"
+    },
+    {
+      "izdanje": "2000.",
+      "broj_emisija": 1,
+      "broj_sudionika": 26,
+      "nadnevak": "19. veljače 2000.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Goran Karan",
+      "pjesma": "Ostani"
+    },
+    {
+      "izdanje": "2001.",
+      "broj_emisija": 1,
+      "broj_sudionika": 20,
+      "nadnevak": "4. ožujka 2001.",
+      "mjesto_odrzavanja": "Studio 11 HRT -a, Zagreb",
+      "pobjednik": "Vanna",
+      "pjesma": "Strings of My Heart"
+    },
+    {
+      "izdanje": "2002.",
+      "broj_emisija": 1,
+      "broj_sudionika": 20,
+      "nadnevak": "10. ožujka 2002.",
+      "mjesto_odrzavanja": "Zagrebački velesajam, Zagreb",
+      "pobjednik": "Vesna Pisarović",
+      "pjesma": "Everything I Want"
+    },
+    {
+      "izdanje": "2003.",
+      "broj_emisija": 3,
+      "broj_sudionika": 24,
+      "nadnevak": "7. – 9. ožujka 2003.",
+      "mjesto_odrzavanja": "Ljetna pozornica, Opatija",
+      "pobjednik": "Claudia Beni",
+      "pjesma": "Više nisam tvoja"
+    },
+    {
+      "izdanje": "2004.",
+      "broj_emisija": 3,
+      "broj_sudionika": 24,
+      "nadnevak": "12. – 14. ožujka 2004.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Ivan Mikulić",
+      "pjesma": "You Are The Only One"
+    },
+    {
+      "izdanje": "2005.",
+      "broj_emisija": 3,
+      "broj_sudionika": 18,
+      "nadnevak": "3. – 5. ožujka 2005.",
+      "mjesto_odrzavanja": "Studio 10 HRT -a, Zagreb",
+      "pobjednik": "Boris Novković",
+      "pjesma": "Vukovi umiru sami"
+    },
+    {
+      "izdanje": "2006.",
+      "broj_emisija": 3,
+      "broj_sudionika": 34,
+      "nadnevak": "2. – 4. ožujka 2006.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Severina",
+      "pjesma": "Moja štikla"
+    },
+    {
+      "izdanje": "2007.",
+      "broj_emisija": 3,
+      "broj_sudionika": 34,
+      "nadnevak": "1. – 3. ožujka 2007.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Dragonfly i Dado Topić",
+      "pjesma": "Vjerujem u ljubav"
+    },
+    {
+      "izdanje": "2008.",
+      "broj_emisija": 2,
+      "broj_sudionika": 14,
+      "nadnevak": "22. – 23. veljače 2008.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Kraljevi ulice i 75 Cents",
+      "pjesma": "Romanca"
+    },
+    {
+      "izdanje": "2009.",
+      "broj_emisija": 2,
+      "broj_sudionika": 16,
+      "nadnevak": "27. – 28. veljače 2009.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Igor Cukrov",
+      "pjesma": "Lijepa Tena"
+    },
+    {
+      "izdanje": "2010.",
+      "broj_emisija": 2,
+      "broj_sudionika": 16,
+      "nadnevak": "5. – 6. ožujka 2010.",
+      "mjesto_odrzavanja": "Hotel Kvarner, Opatija",
+      "pobjednik": "Feminem",
+      "pjesma": "Lako je sve"
+    },
+    {
+      "izdanje": "2011.",
+      "broj_emisija": 6,
+      "broj_sudionika": 24,
+      "nadnevak": "22. siječnja – 5. ožujka 2011.",
+      "mjesto_odrzavanja": "Studio 10 HRT-a, Zagreb",
+      "pobjednik": "Daria Kinzer",
+      "pjesma": "Celebrate"
+    },
+    {
+      "izdanje": "2019.",
+      "broj_emisija": 1,
+      "broj_sudionika": 16,
+      "nadnevak": "26. veljače 2019.",
+      "mjesto_odrzavanja": "Dvorana Marino Cvetković, Opatija",
+      "pobjednik": "Roko Blažević",
+      "pjesma": "The Dream"
+    },
+    {
+      "izdanje": "2020.",
+      "broj_emisija": 1,
+      "broj_sudionika": 16,
+      "nadnevak": "29. veljače 2020.",
+      "mjesto_odrzavanja": "Dvorana Marino Cvetković, Opatija",
+      "pobjednik": "Damir Kedžo",
+      "pjesma": "Divlji vjetre"
+    },
+    {
+      "izdanje": "2021.",
+      "broj_emisija": 1,
+      "broj_sudionika": 14,
+      "nadnevak": "13. veljače 2021.",
+      "mjesto_odrzavanja": "Dvorana Marino Cvetković, Opatija",
+      "pobjednik": "Albina",
+      "pjesma": "Tick-Tock"
+    },
+    {
+      "izdanje": "2022.",
+      "broj_emisija": 1,
+      "broj_sudionika": 14,
+      "nadnevak": "19. veljače 2022.",
+      "mjesto_odrzavanja": "Dvorana Marino Cvetković, Opatija",
+      "pobjednik": "Mia Dimšić",
+      "pjesma": "Guilty Pleasure"
+    },
+    {
+      "izdanje": "2023.",
+      "broj_emisija": 1,
+      "broj_sudionika": 18,
+      "nadnevak": "11. veljače 2023.",
+      "mjesto_odrzavanja": "Dvorana Marino Cvetković, Opatija",
+      "pobjednik": "Let 3",
+      "pjesma": "Mama ŠČ!"
+    },
+    {
+      "izdanje": "2024.",
+      "broj_emisija": 3,
+      "broj_sudionika": 24,
+      "nadnevak": "22. – 25. veljače 2024.",
+      "mjesto_odrzavanja": "HRT studio Anton Marti, Zagreb",
+      "pobjednik": "Baby Lasagna",
+      "pjesma": "Rim Tim Tagi Dim"
+    },
+    {
+      "izdanje": "2025.",
+      "broj_emisija": 3,
+      "broj_sudionika": 24,
+      "nadnevak": "27. veljače — 2. ožujka 2025.",
+      "mjesto_odrzavanja": "Dvorana Marino Cvetković, Opatija",
+      "pobjednik": "Marko Bošnjak",
+      "pjesma": "Poison Cake"
+    },
+    {
+      "izdanje": "2026.",
+      "broj_emisija": 3,
+      "broj_sudionika": 24,
+      "nadnevak": "15. veljače 2026.",
+      "mjesto_odrzavanja": "HRT studio Anton Marti, Zagreb",
+      "pobjednik": "LELEK",
+      "pjesma": "Andromeda"
+    }
+  ],
+  "meta": {
+    "title": "Pobjednici Dore – hrvatskog izbora za Pjesmu Eurovizije - Free Download",
+    "description": "Popis izdanja Dore, hrvatskog nacionalnog izbora za Pjesmu Eurovizije, s datumom, mjestom održavanja, brojem sudionika, pobjednikom i pobjedničkom pjesmom. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pobjednici Dore – hrvatskog izbora za Pjesmu Eurovizije | ListBase",
+    "seo_description": "Download Pobjednici Dore – hrvatskog izbora za Pjesmu Eurovizije — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Dora_(natjecanje)"
+    ]
+  }
+}
