@@ -1,0 +1,303 @@
+{
+  "id": "hr-nogometni-kup-finala",
+  "name": "Finala Hrvatskog nogometnog kupa",
+  "title": "Finala Hrvatskog nogometnog kupa",
+  "description": "Popis finala Hrvatskog nogometnog kupa po sezonama s mjestom odigravanja, pobjednikom, rezultatom i finalistom.",
+  "category": "sports",
+  "source": "https://hr.wikipedia.org/wiki/Hrvatski_nogometni_kup",
+  "source_url": "https://hr.wikipedia.org/wiki/Hrvatski_nogometni_kup",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "sezona",
+      "label": "Sezona",
+      "type": "string"
+    },
+    {
+      "key": "mjesto_odigravanja",
+      "label": "Mjesto Odigravanja",
+      "type": "string"
+    },
+    {
+      "key": "pobjednik",
+      "label": "Pobjednik",
+      "type": "string"
+    },
+    {
+      "key": "rezultat_finala",
+      "label": "Rezultat Finala",
+      "type": "string"
+    },
+    {
+      "key": "finalist",
+      "label": "Finalist",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sezona": "1941.",
+      "mjesto_odigravanja": "Zagreb",
+      "pobjednik": "Građanski Zagreb",
+      "rezultat_finala": "2:2, 6:2",
+      "finalist": "Concordia Zagreb"
+    },
+    {
+      "sezona": "1992.",
+      "mjesto_odigravanja": "Zaprešić Zagreb",
+      "pobjednik": "INKER Zaprešić",
+      "rezultat_finala": "1:1, 1:0",
+      "finalist": "HAŠK Građanski Zagreb"
+    },
+    {
+      "sezona": "1992./93.",
+      "mjesto_odigravanja": "Split Zagreb",
+      "pobjednik": "Hajduk Split",
+      "rezultat_finala": "4:1, 1:2",
+      "finalist": "Croatia Zagreb"
+    },
+    {
+      "sezona": "1993./94.",
+      "mjesto_odigravanja": "Zagreb Rijeka",
+      "pobjednik": "Croatia Zagreb",
+      "rezultat_finala": "2:0, 0:1",
+      "finalist": "Rijeka"
+    },
+    {
+      "sezona": "1994./95.",
+      "mjesto_odigravanja": "Split Zagreb",
+      "pobjednik": "Hajduk Split",
+      "rezultat_finala": "3:2, 1:0",
+      "finalist": "Croatia Zagreb"
+    },
+    {
+      "sezona": "1995./96.",
+      "mjesto_odigravanja": "Varaždin Zagreb",
+      "pobjednik": "Croatia Zagreb",
+      "rezultat_finala": "2:0, 1:0",
+      "finalist": "Varteks Varaždin"
+    },
+    {
+      "sezona": "1996./97.",
+      "mjesto_odigravanja": "Zagreb",
+      "pobjednik": "Croatia Zagreb",
+      "rezultat_finala": "2:1",
+      "finalist": "Zagreb"
+    },
+    {
+      "sezona": "1997./98.",
+      "mjesto_odigravanja": "Varaždin Zagreb",
+      "pobjednik": "Croatia Zagreb",
+      "rezultat_finala": "1:0, 2:1",
+      "finalist": "Varteks Varaždin"
+    },
+    {
+      "sezona": "1998./99.",
+      "mjesto_odigravanja": "Zagreb",
+      "pobjednik": "Osijek",
+      "rezultat_finala": "2:1",
+      "finalist": "Cibalia Vinkovci"
+    },
+    {
+      "sezona": "1999./00.",
+      "mjesto_odigravanja": "Split Zagreb",
+      "pobjednik": "Hajduk Split",
+      "rezultat_finala": "2:0, 0:1",
+      "finalist": "Dinamo Zagreb"
+    },
+    {
+      "sezona": "2000./01.",
+      "mjesto_odigravanja": "Split Zagreb",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "2:0, 1:0",
+      "finalist": "Hajduk Split"
+    },
+    {
+      "sezona": "2001./02.",
+      "mjesto_odigravanja": "Zagreb Varaždin",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "1:1, 1:0",
+      "finalist": "Varteks Varaždin"
+    },
+    {
+      "sezona": "2002./03.",
+      "mjesto_odigravanja": "Pula Split",
+      "pobjednik": "Hajduk Split",
+      "rezultat_finala": "1:0, 4:0",
+      "finalist": "Uljanik Pula"
+    },
+    {
+      "sezona": "2003./04.",
+      "mjesto_odigravanja": "Varaždin Zagreb",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "1:1, 0:0 (gg)",
+      "finalist": "Varteks Varaždin"
+    },
+    {
+      "sezona": "2004./05.",
+      "mjesto_odigravanja": "Rijeka Split",
+      "pobjednik": "Rijeka",
+      "rezultat_finala": "2:1, 1:0",
+      "finalist": "Hajduk Split"
+    },
+    {
+      "sezona": "2005./06.",
+      "mjesto_odigravanja": "Rijeka Varaždin",
+      "pobjednik": "Rijeka",
+      "rezultat_finala": "4:0, 1:5 (gg)",
+      "finalist": "Varteks Varaždin"
+    },
+    {
+      "sezona": "2006./07.",
+      "mjesto_odigravanja": "Zagreb Koprivnica",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "1:0, 1:1",
+      "finalist": "Slaven Belupo Koprivnica"
+    },
+    {
+      "sezona": "2007./08.",
+      "mjesto_odigravanja": "Zagreb Split",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "3:0, 0:0",
+      "finalist": "Hajduk Split"
+    },
+    {
+      "sezona": "2008./09.",
+      "mjesto_odigravanja": "Zagreb Split",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "3:0, 0:3; (5:4, 11 m)",
+      "finalist": "Hajduk Split"
+    },
+    {
+      "sezona": "2009./10.",
+      "mjesto_odigravanja": "Split Šibenik",
+      "pobjednik": "Hajduk Split",
+      "rezultat_finala": "2:1, 2:0",
+      "finalist": "Šibenik"
+    },
+    {
+      "sezona": "2010./11.",
+      "mjesto_odigravanja": "Zagreb Varaždin",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "5:1, 3:1",
+      "finalist": "Varaždin"
+    },
+    {
+      "sezona": "2011./12.",
+      "mjesto_odigravanja": "Osijek Zagreb",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "0:0, 3:1",
+      "finalist": "Osijek"
+    },
+    {
+      "sezona": "2012./13.",
+      "mjesto_odigravanja": "Split Zagreb",
+      "pobjednik": "Hajduk Split",
+      "rezultat_finala": "2:1, 3:3",
+      "finalist": "Lokomotiva Zagreb"
+    },
+    {
+      "sezona": "2013./14.",
+      "mjesto_odigravanja": "Zagreb Rijeka",
+      "pobjednik": "Rijeka",
+      "rezultat_finala": "1:0, 2:0",
+      "finalist": "Dinamo Zagreb"
+    },
+    {
+      "sezona": "2014./15.",
+      "mjesto_odigravanja": "Zagreb",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "0:0; (4:2, 11 m)",
+      "finalist": "Split"
+    },
+    {
+      "sezona": "2015./16.",
+      "mjesto_odigravanja": "Osijek",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "2:1",
+      "finalist": "Slaven Belupo Koprivnica"
+    },
+    {
+      "sezona": "2016./17.",
+      "mjesto_odigravanja": "Varaždin",
+      "pobjednik": "Rijeka",
+      "rezultat_finala": "3:1",
+      "finalist": "Dinamo Zagreb"
+    },
+    {
+      "sezona": "2017./18.",
+      "mjesto_odigravanja": "Vinkovci",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "1:0",
+      "finalist": "Hajduk Split"
+    },
+    {
+      "sezona": "2018./19.",
+      "mjesto_odigravanja": "Pula",
+      "pobjednik": "Rijeka",
+      "rezultat_finala": "3:1",
+      "finalist": "Dinamo Zagreb"
+    },
+    {
+      "sezona": "2019./20.",
+      "mjesto_odigravanja": "Šibenik",
+      "pobjednik": "Rijeka",
+      "rezultat_finala": "1:0",
+      "finalist": "Lokomotiva Zagreb"
+    },
+    {
+      "sezona": "2020./21.",
+      "mjesto_odigravanja": "Velika Gorica",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "6:3",
+      "finalist": "Istra 1961 Pula"
+    },
+    {
+      "sezona": "2021./22.",
+      "mjesto_odigravanja": "Split",
+      "pobjednik": "Hajduk Split",
+      "rezultat_finala": "3:1",
+      "finalist": "Rijeka"
+    },
+    {
+      "sezona": "2022./23.",
+      "mjesto_odigravanja": "Rijeka",
+      "pobjednik": "Hajduk Split",
+      "rezultat_finala": "2:0",
+      "finalist": "Šibenik"
+    },
+    {
+      "sezona": "2023./24.",
+      "mjesto_odigravanja": "Rijeka Zagreb",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "0:0, 3:1",
+      "finalist": "Rijeka"
+    },
+    {
+      "sezona": "2024./25.",
+      "mjesto_odigravanja": "Koprivnica Rijeka",
+      "pobjednik": "Rijeka",
+      "rezultat_finala": "1:1, 1:0",
+      "finalist": "Slaven Belupo Koprivnica"
+    },
+    {
+      "sezona": "2025./26.",
+      "mjesto_odigravanja": "Osijek",
+      "pobjednik": "Dinamo Zagreb",
+      "rezultat_finala": "2:0",
+      "finalist": "Rijeka"
+    }
+  ],
+  "meta": {
+    "title": "Finala Hrvatskog nogometnog kupa - Free Download",
+    "description": "Popis finala Hrvatskog nogometnog kupa po sezonama s mjestom odigravanja, pobjednikom, rezultatom i finalistom. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Finala Hrvatskog nogometnog kupa | ListBase",
+    "seo_description": "Download Finala Hrvatskog nogometnog kupa — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Hrvatski_nogometni_kup"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-02T02:22:29.807Z",
-  "total_datasets": 458,
-  "total_records": 825126,
+  "generated": "2026-11-02T02:22:36.779Z",
+  "total_datasets": 459,
+  "total_records": 825162,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -10673,6 +10673,32 @@
         "xlsx": {
           "name": "hr-stopa-fertiliteta-zupanije_HR.xlsx",
           "size": 7169
+        }
+      }
+    },
+    {
+      "id": "hr-nogometni-kup-finala",
+      "name": "Finala Hrvatskog nogometnog kupa",
+      "category": "sports",
+      "record_count": 36,
+      "columns": [
+        "sezona",
+        "mjesto_odigravanja",
+        "pobjednik",
+        "rezultat_finala",
+        "finalist"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Hrvatski_nogometni_kup",
+      "updated": "2026-11",
+      "size": 8506,
+      "files": {
+        "csv": {
+          "name": "hr-nogometni-kup-finala_HR.csv",
+          "size": 2495
+        },
+        "xlsx": {
+          "name": "hr-nogometni-kup-finala_HR.xlsx",
+          "size": 8249
         }
       }
     },
