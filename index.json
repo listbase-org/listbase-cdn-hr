@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-02T02:22:44.182Z",
-  "total_datasets": 460,
-  "total_records": 825271,
+  "generated": "2026-11-03T02:21:14.923Z",
+  "total_datasets": 461,
+  "total_records": 825318,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -10673,6 +10673,38 @@
         "xlsx": {
           "name": "hr-stopa-fertiliteta-zupanije_HR.xlsx",
           "size": 7169
+        }
+      }
+    },
+    {
+      "id": "hr-auto-moto-staze",
+      "name": "Auto i moto staze u Hrvatskoj",
+      "category": "sports",
+      "record_count": 47,
+      "columns": [
+        "lokacija",
+        "naziv",
+        "tip",
+        "podloga",
+        "duljina_m",
+        "min_sirina_m",
+        "broj_zavoja",
+        "kapacitet_gledalista",
+        "otvorena",
+        "zatvorena",
+        "biljeske"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_auto_i_moto_staza_u_Hrvatskoj",
+      "updated": "2026-11",
+      "size": 18523,
+      "files": {
+        "csv": {
+          "name": "hr-auto-moto-staze_HR.csv",
+          "size": 5463
+        },
+        "xlsx": {
+          "name": "hr-auto-moto-staze_HR.xlsx",
+          "size": 10674
         }
       }
     },
