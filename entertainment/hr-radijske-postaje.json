@@ -1,0 +1,862 @@
+{
+  "id": "hr-radijske-postaje",
+  "name": "Radijske postaje u Hrvatskoj",
+  "title": "Radijske postaje u Hrvatskoj",
+  "description": "Popis hrvatskih radijskih postaja po županijama s frekvencijom (MHz) i područjem koncesije.",
+  "category": "entertainment",
+  "source": "https://hr.wikipedia.org/wiki/Hrvatske_radijske_postaje",
+  "source_url": "https://hr.wikipedia.org/wiki/Hrvatske_radijske_postaje",
+  "updated": "2026-11",
+  "record_count": 136,
+  "columns": [
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "frekvencija_mhz",
+      "label": "Frekvencija Mhz",
+      "type": "string"
+    },
+    {
+      "key": "podrucje_koncesije",
+      "label": "Podrucje Koncesije",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zupanija": "Grad Zagreb",
+      "naziv": "Antena Zagreb",
+      "frekvencija_mhz": "89,7",
+      "podrucje_koncesije": "Grad Zagreb, Zagrebačka županija"
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "naziv": "Top Radio",
+      "frekvencija_mhz": "101,0",
+      "podrucje_koncesije": "Grad Zagreb, Zagrebačka županija"
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "naziv": "Laganini FM",
+      "frekvencija_mhz": "89,1 98,0",
+      "podrucje_koncesije": "Grad Zagreb"
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "naziv": "Extra FM",
+      "frekvencija_mhz": "93,6 104,5",
+      "podrucje_koncesije": "Grad Zagreb"
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "naziv": "Radio Marija",
+      "frekvencija_mhz": "96,4 106,8",
+      "podrucje_koncesije": "Grad Zagreb"
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "naziv": "Yammat FM",
+      "frekvencija_mhz": "102,5",
+      "podrucje_koncesije": "Grad Zagreb"
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "naziv": "Enter Zagreb",
+      "frekvencija_mhz": "97,0 99,0",
+      "podrucje_koncesije": "Istočni dio grada Zagreba"
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "naziv": "Radio Student",
+      "frekvencija_mhz": "100,5",
+      "podrucje_koncesije": "dio grada Zagreba"
+    },
+    {
+      "zupanija": "Zagrebačka županija",
+      "naziv": "Obiteljski radio Ivanić",
+      "frekvencija_mhz": "99,4",
+      "podrucje_koncesije": "Grad Ivanić-Grad"
+    },
+    {
+      "zupanija": "Zagrebačka županija",
+      "naziv": "Zabavni Radio",
+      "frekvencija_mhz": "90,3 101,8",
+      "podrucje_koncesije": "Gradovi Zagreb i Dugo Selo te općine Brckovljani i Rugvica"
+    },
+    {
+      "zupanija": "Zagrebačka županija",
+      "naziv": "Radio Jaska",
+      "frekvencija_mhz": "93,8",
+      "podrucje_koncesije": "Grad Jastrebarsko"
+    },
+    {
+      "zupanija": "Zagrebačka županija",
+      "naziv": "Radio Samobor",
+      "frekvencija_mhz": "93,0",
+      "podrucje_koncesije": "Grad Samobor"
+    },
+    {
+      "zupanija": "Zagrebačka županija",
+      "naziv": "Radio Sveta Nedelja",
+      "frekvencija_mhz": "97,7",
+      "podrucje_koncesije": "Grad Sveta Nedelja"
+    },
+    {
+      "zupanija": "Zagrebačka županija",
+      "naziv": "Radio Zelina",
+      "frekvencija_mhz": "92,9",
+      "podrucje_koncesije": "Grad Sveti Ivan Zelina"
+    },
+    {
+      "zupanija": "Zagrebačka županija",
+      "naziv": "Happy FM",
+      "frekvencija_mhz": "94,9",
+      "podrucje_koncesije": "Šire područje grada Velika Gorica"
+    },
+    {
+      "zupanija": "Zagrebačka županija",
+      "naziv": "Radio Vrbovec",
+      "frekvencija_mhz": "94,5",
+      "podrucje_koncesije": "Grad Vrbovec"
+    },
+    {
+      "zupanija": "Zagrebačka županija",
+      "naziv": "Z fm",
+      "frekvencija_mhz": "99,5 96,0",
+      "podrucje_koncesije": "Šire područje grada Zaprešića"
+    },
+    {
+      "zupanija": "Zagrebačka županija",
+      "naziv": "Radio Velika Gorica",
+      "frekvencija_mhz": "88,6",
+      "podrucje_koncesije": "Grad Velika Gorica, općina Kravarsko i općina Lekenik"
+    },
+    {
+      "zupanija": "Krapinsko-zagorska županija",
+      "naziv": "Radio Hrvatsko zagorje – Krapina",
+      "frekvencija_mhz": "91,5 97,9 99,2 102,2 104,9",
+      "podrucje_koncesije": "Šire područje grada Krapina"
+    },
+    {
+      "zupanija": "Krapinsko-zagorska županija",
+      "naziv": "Radio Marija Bistrica",
+      "frekvencija_mhz": "100,4",
+      "podrucje_koncesije": "Općina Marija Bistrica"
+    },
+    {
+      "zupanija": "Krapinsko-zagorska županija",
+      "naziv": "Radio Stubica",
+      "frekvencija_mhz": "95,6 106,9",
+      "podrucje_koncesije": "Šire područje grada Donja Stubica"
+    },
+    {
+      "zupanija": "Krapinsko-zagorska županija",
+      "naziv": "Zagorski radio",
+      "frekvencija_mhz": "87,8 89,0 101,6 105,5 107,9",
+      "podrucje_koncesije": "Krapinsko-zagorska županija"
+    },
+    {
+      "zupanija": "Krapinsko-zagorska županija",
+      "naziv": "Radio Zlatar",
+      "frekvencija_mhz": "97,9",
+      "podrucje_koncesije": "Grad Zlatar"
+    },
+    {
+      "zupanija": "Sisačko-moslavačka županija",
+      "naziv": "Radio Moslavina",
+      "frekvencija_mhz": "101,4",
+      "podrucje_koncesije": "Šire područje grada Kutina"
+    },
+    {
+      "zupanija": "Sisačko-moslavačka županija",
+      "naziv": "Petrinjski radio",
+      "frekvencija_mhz": "106,9",
+      "podrucje_koncesije": "Grad Petrinja"
+    },
+    {
+      "zupanija": "Sisačko-moslavačka županija",
+      "naziv": "Radio Banovina",
+      "frekvencija_mhz": "93,2 96,8 99,1",
+      "podrucje_koncesije": "Sisačko-moslavačka županija"
+    },
+    {
+      "zupanija": "Sisačko-moslavačka županija",
+      "naziv": "Radio Novska",
+      "frekvencija_mhz": "88,3",
+      "podrucje_koncesije": "Grad Novska"
+    },
+    {
+      "zupanija": "Sisačko-moslavačka županija",
+      "naziv": "Radio Sisak",
+      "frekvencija_mhz": "89,4 93,1",
+      "podrucje_koncesije": "Grad Sisak"
+    },
+    {
+      "zupanija": "Sisačko-moslavačka županija",
+      "naziv": "Radio Sisačko Moslavački - RSM",
+      "frekvencija_mhz": "91,7 97,6",
+      "podrucje_koncesije": "Sisačko-moslavačka županija"
+    },
+    {
+      "zupanija": "Karlovačka županija",
+      "naziv": "Prvi Karlovački",
+      "frekvencija_mhz": "90,1",
+      "podrucje_koncesije": "Gradovi Karlovac i Duga Resa te općine Barilović i Draganić"
+    },
+    {
+      "zupanija": "Karlovačka županija",
+      "naziv": "Trend Radio",
+      "frekvencija_mhz": "102,1 106,9",
+      "podrucje_koncesije": "Šire područje grada Karlovca"
+    },
+    {
+      "zupanija": "Karlovačka županija",
+      "naziv": "Radio Mrežnica",
+      "frekvencija_mhz": "95,4",
+      "podrucje_koncesije": "Šire područje grada Duge Rese"
+    },
+    {
+      "zupanija": "Karlovačka županija",
+      "naziv": "Radio Ogulin",
+      "frekvencija_mhz": "96,6",
+      "podrucje_koncesije": "Šire područje grada Ogulina"
+    },
+    {
+      "zupanija": "Karlovačka županija",
+      "naziv": "Radio Slunj",
+      "frekvencija_mhz": "95,2",
+      "podrucje_koncesije": "Grad Slunj"
+    },
+    {
+      "zupanija": "Varaždinska županija",
+      "naziv": "Radio Megaton",
+      "frekvencija_mhz": "104,9",
+      "podrucje_koncesije": "Općine Vidovec i Beretinec te dio grada Varaždina i dio općine Maruševec"
+    },
+    {
+      "zupanija": "Varaždinska županija",
+      "naziv": "Sjeverni FM",
+      "frekvencija_mhz": "92,8",
+      "podrucje_koncesije": "Grad Ivanec"
+    },
+    {
+      "zupanija": "Varaždinska županija",
+      "naziv": "Radio Ludbreg",
+      "frekvencija_mhz": "93,4",
+      "podrucje_koncesije": "Grad Ludbreg"
+    },
+    {
+      "zupanija": "Varaždinska županija",
+      "naziv": "Radio Max",
+      "frekvencija_mhz": "99,3",
+      "podrucje_koncesije": "Općina Maruševec"
+    },
+    {
+      "zupanija": "Varaždinska županija",
+      "naziv": "Radio Novi Marof",
+      "frekvencija_mhz": "97,5",
+      "podrucje_koncesije": "Grad Novi Marof"
+    },
+    {
+      "zupanija": "Varaždinska županija",
+      "naziv": "Radio Sjeverozapad",
+      "frekvencija_mhz": "95,2",
+      "podrucje_koncesije": "Grad Varaždin"
+    },
+    {
+      "zupanija": "Međimurska županija",
+      "naziv": "Hrvatski radio Čakovec-HRČAK",
+      "frekvencija_mhz": "98,0 99,8",
+      "podrucje_koncesije": "Međimurska županija"
+    },
+    {
+      "zupanija": "Međimurska županija",
+      "naziv": "Radio 105",
+      "frekvencija_mhz": "104,0",
+      "podrucje_koncesije": "Šire područje grada Mursko Središće"
+    },
+    {
+      "zupanija": "Međimurska županija",
+      "naziv": "Radio 1",
+      "frekvencija_mhz": "105,6",
+      "podrucje_koncesije": "Šire područje grada Čakovca"
+    },
+    {
+      "zupanija": "Međimurska županija",
+      "naziv": "Studio M",
+      "frekvencija_mhz": "98,8",
+      "podrucje_koncesije": "Grad Prelog te općine Donji Kraljevec, Goričan, Sveta Marija, Domašinec, Dekanovec, Podturen, Veliki Bukovec, Donji Vidovec i Donja Dubrava"
+    },
+    {
+      "zupanija": "Koprivničko-križevačka županija",
+      "naziv": "Radio Koprivnica-RKC",
+      "frekvencija_mhz": "88,7 91,7 95,5 101,5",
+      "podrucje_koncesije": "Koprivničko-križevačka županija"
+    },
+    {
+      "zupanija": "Koprivničko-križevačka županija",
+      "naziv": "Radio Drava",
+      "frekvencija_mhz": "92,5",
+      "podrucje_koncesije": "Grad Koprivnica"
+    },
+    {
+      "zupanija": "Koprivničko-križevačka županija",
+      "naziv": "Radio Križevci",
+      "frekvencija_mhz": "96,6",
+      "podrucje_koncesije": "Grad Križevci"
+    },
+    {
+      "zupanija": "Koprivničko-križevačka županija",
+      "naziv": "Podravski radio",
+      "frekvencija_mhz": "87,6",
+      "podrucje_koncesije": "Grad Đurđevac"
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "naziv": "Alfa Radio",
+      "frekvencija_mhz": "100,1",
+      "podrucje_koncesije": "Bjelovarsko-bilogorska županija"
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "naziv": "Super radio",
+      "frekvencija_mhz": "89,0 105,4",
+      "podrucje_koncesije": "Grad Čazma"
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "naziv": "Krugoval 93,1 MHz",
+      "frekvencija_mhz": "93,1",
+      "podrucje_koncesije": "Grad Garešnica"
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "naziv": "Radio Daruvar",
+      "frekvencija_mhz": "91,5",
+      "podrucje_koncesije": "Grad Daruvar"
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "naziv": "Radio Grubišno Polje",
+      "frekvencija_mhz": "95,1",
+      "podrucje_koncesije": "Grad Grubišno Polje"
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "naziv": "Radio Terezija",
+      "frekvencija_mhz": "93,9 99,2",
+      "podrucje_koncesije": "Grad Bjelovar"
+    },
+    {
+      "zupanija": "Primorsko-goranska županija",
+      "naziv": "Radio Jadranka Mali Lošinj",
+      "frekvencija_mhz": "92,8",
+      "podrucje_koncesije": "Grad Mali Lošinj"
+    },
+    {
+      "zupanija": "Primorsko-goranska županija",
+      "naziv": "Pomorski Radio Bakar",
+      "frekvencija_mhz": "95,8",
+      "podrucje_koncesije": "Grad Bakar"
+    },
+    {
+      "zupanija": "Primorsko-goranska županija",
+      "naziv": "Radio Gorski kotar",
+      "frekvencija_mhz": "89,6 92,4 95,0 107,1",
+      "podrucje_koncesije": "Gradovi Čabar, Delnice i Vrbovsko i Općine Brod Moravice, Fužine, Lokve, Mrkopalj, Ravna Gora i Skrad"
+    },
+    {
+      "zupanija": "Primorsko-goranska županija",
+      "naziv": "Radio otok Krk",
+      "frekvencija_mhz": "89,2 96,0 96,3",
+      "podrucje_koncesije": "otok Krk"
+    },
+    {
+      "zupanija": "Primorsko-goranska županija",
+      "naziv": "Radio Rab",
+      "frekvencija_mhz": "92,6",
+      "podrucje_koncesije": "Grad Rab i Općina Lopar"
+    },
+    {
+      "zupanija": "Primorsko-goranska županija",
+      "naziv": "Laganini FM Rijeka",
+      "frekvencija_mhz": "87,6 91,0 100,1",
+      "podrucje_koncesije": "Primorsko-goranska županija"
+    },
+    {
+      "zupanija": "Primorsko-goranska županija",
+      "naziv": "Radio Korzo",
+      "frekvencija_mhz": "98,4",
+      "podrucje_koncesije": "Grad Rijeka"
+    },
+    {
+      "zupanija": "Primorsko-goranska županija",
+      "naziv": "Radio Marija",
+      "frekvencija_mhz": "88,8",
+      "podrucje_koncesije": "Grad Rijeka"
+    },
+    {
+      "zupanija": "Primorsko-goranska županija",
+      "naziv": "Radio Kastav",
+      "frekvencija_mhz": "90,3",
+      "podrucje_koncesije": "Gradovi Kastav i Rijeka"
+    },
+    {
+      "zupanija": "Virovitičko-podravska županija",
+      "naziv": "ICV Radio",
+      "frekvencija_mhz": "91,8 92,9 93,7 96,3",
+      "podrucje_koncesije": "Virovitičko-podravska županija"
+    },
+    {
+      "zupanija": "Virovitičko-podravska županija",
+      "naziv": "Radio Orahovica",
+      "frekvencija_mhz": "95,7",
+      "podrucje_koncesije": "Grad Orahovica"
+    },
+    {
+      "zupanija": "Virovitičko-podravska županija",
+      "naziv": "Pitomi Radio",
+      "frekvencija_mhz": "93,5",
+      "podrucje_koncesije": "Općine Pitomača, Špišić Bukovica, Kloštar Podravski i Podravske Sesvete"
+    },
+    {
+      "zupanija": "Virovitičko-podravska županija",
+      "naziv": "The Room FM",
+      "frekvencija_mhz": "97,0",
+      "podrucje_koncesije": "Grad Virovitica"
+    },
+    {
+      "zupanija": "Virovitičko-podravska županija",
+      "naziv": "Radio Marija",
+      "frekvencija_mhz": "88,3",
+      "podrucje_koncesije": "Šire područje grada Virovitice"
+    },
+    {
+      "zupanija": "Virovitičko-podravska županija",
+      "naziv": "Radio Slatina",
+      "frekvencija_mhz": "107,4",
+      "podrucje_koncesije": "Grad Slatina"
+    },
+    {
+      "zupanija": "Požeško-slavonska županija",
+      "naziv": "Laganini FM Požega",
+      "frekvencija_mhz": "92,4 99,0",
+      "podrucje_koncesije": "Požeško-slavonska županija"
+    },
+    {
+      "zupanija": "Požeško-slavonska županija",
+      "naziv": "Radio Vallis Aurea-RVA",
+      "frekvencija_mhz": "90,2 96,7",
+      "podrucje_koncesije": "Gradovi Požega i Pleternica te općine Velika, Kaptol, Jakšić i Kutjevo"
+    },
+    {
+      "zupanija": "Brodsko-posavska županija",
+      "naziv": "Radio Slavonija",
+      "frekvencija_mhz": "88,6 89,1 96,0 96,2",
+      "podrucje_koncesije": "Brodsko-posavska županija"
+    },
+    {
+      "zupanija": "Brodsko-posavska županija",
+      "naziv": "Radio Brod",
+      "frekvencija_mhz": "101,3",
+      "podrucje_koncesije": "Grad Slavonski Brod"
+    },
+    {
+      "zupanija": "Brodsko-posavska županija",
+      "naziv": "Radio 92 FM",
+      "frekvencija_mhz": "92,0",
+      "podrucje_koncesije": "Grad Slavonski Brod"
+    },
+    {
+      "zupanija": "Brodsko-posavska županija",
+      "naziv": "Radio Nova Gradiška",
+      "frekvencija_mhz": "98,1",
+      "podrucje_koncesije": "Grad Nova Gradiška"
+    },
+    {
+      "zupanija": "Brodsko-posavska županija",
+      "naziv": "Radio Prkos",
+      "frekvencija_mhz": "91,0",
+      "podrucje_koncesije": "Grad Nova Gradiška"
+    },
+    {
+      "zupanija": "Brodsko-posavska županija",
+      "naziv": "Radio Bljesak",
+      "frekvencija_mhz": "105,5",
+      "podrucje_koncesije": "Općina Okučani"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Slavonski radio",
+      "frekvencija_mhz": "89,7 91,0 100,6 106,2",
+      "podrucje_koncesije": "Osječko-baranjska županija"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Braniteljski radio Nepokoreni grad",
+      "frekvencija_mhz": "107,8",
+      "podrucje_koncesije": "Dio grada Osijeka"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Laganini FM Osijek",
+      "frekvencija_mhz": "99,1",
+      "podrucje_koncesije": "Grad Osijek"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Studentski radio UNIOS",
+      "frekvencija_mhz": "107,8",
+      "podrucje_koncesije": "Grad Osijek"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Bijelo-plavi radio",
+      "frekvencija_mhz": "92,7",
+      "podrucje_koncesije": "Grad Osijek"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Hrvatski Radio Valpovština-HRV",
+      "frekvencija_mhz": "89,0",
+      "podrucje_koncesije": "Grad Valpovo"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Novi Radio",
+      "frekvencija_mhz": "99,5",
+      "podrucje_koncesije": "Grad Đakovo"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Radio Banska Kosa",
+      "frekvencija_mhz": "96,9",
+      "podrucje_koncesije": "Grad Beli Manastir"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Radio Baranja",
+      "frekvencija_mhz": "88,0",
+      "podrucje_koncesije": "Grad Beli Manastir"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Radio Donji Miholjac-RDM",
+      "frekvencija_mhz": "92,3",
+      "podrucje_koncesije": "Grad Donji Miholjac"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Radio Našice",
+      "frekvencija_mhz": "88,7 94,0",
+      "podrucje_koncesije": "Grad Našice"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Radio Đakovo",
+      "frekvencija_mhz": "87,6 100,2",
+      "podrucje_koncesije": "Šire područje grada Đakova"
+    },
+    {
+      "zupanija": "Osječko-baranjska županija",
+      "naziv": "Gradski radio Belišće-GRB",
+      "frekvencija_mhz": "101,3",
+      "podrucje_koncesije": "Grad Belišće"
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska županija",
+      "naziv": "Radio Dunav",
+      "frekvencija_mhz": "101,5",
+      "podrucje_koncesije": "Grad Vukovar"
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska županija",
+      "naziv": "Hrvatski radio Vukovar HRV",
+      "frekvencija_mhz": "95,4 104,1 107,2",
+      "podrucje_koncesije": "Vukovarsko-srijemska županija"
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska županija",
+      "naziv": "Radio Županja",
+      "frekvencija_mhz": "97,5",
+      "podrucje_koncesije": "Šire područje grada Županje"
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska županija",
+      "naziv": "Radio Ilok",
+      "frekvencija_mhz": "101,3",
+      "podrucje_koncesije": "Grad Ilok"
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska županija",
+      "naziv": "Radio Vinkovci",
+      "frekvencija_mhz": "90,2",
+      "podrucje_koncesije": "Grad Vinkovci"
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska županija",
+      "naziv": "Radio Borovo",
+      "frekvencija_mhz": "100,7",
+      "podrucje_koncesije": "Općina Borovo"
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska županija",
+      "naziv": "Radio Marija",
+      "frekvencija_mhz": "91,6",
+      "podrucje_koncesije": "Šire područje grada Vukovara"
+    },
+    {
+      "zupanija": "Istarska županija",
+      "naziv": "Radio Istra",
+      "frekvencija_mhz": "88,0 88,7 92,1 96,9 97,9 98,0 98,5 107,3",
+      "podrucje_koncesije": "Istarska županija"
+    },
+    {
+      "zupanija": "Istarska županija",
+      "naziv": "Radio Maestral",
+      "frekvencija_mhz": "95,4",
+      "podrucje_koncesije": "Grad Pula"
+    },
+    {
+      "zupanija": "Istarska županija",
+      "naziv": "Radio Centar-Studio Poreč",
+      "frekvencija_mhz": "89,6 93,6",
+      "podrucje_koncesije": "Šire područje grada Poreč a"
+    },
+    {
+      "zupanija": "Istarska županija",
+      "naziv": "Radio Labin",
+      "frekvencija_mhz": "91,0 93,2 95,0 99,7",
+      "podrucje_koncesije": "Grad Labin"
+    },
+    {
+      "zupanija": "Istarska županija",
+      "naziv": "Radio Eurostar",
+      "frekvencija_mhz": "101,7",
+      "podrucje_koncesije": "Gradovi Buje i Umag"
+    },
+    {
+      "zupanija": "Istarska županija",
+      "naziv": "Rovinj FM",
+      "frekvencija_mhz": "88,5 90,7 94,8",
+      "podrucje_koncesije": "Grad Rovinj"
+    },
+    {
+      "zupanija": "Istarska županija",
+      "naziv": "Medulin FM",
+      "frekvencija_mhz": "95,0",
+      "podrucje_koncesije": "Grad Pula i Općina Medulin"
+    },
+    {
+      "zupanija": "Istarska županija",
+      "naziv": "Radio Rojc",
+      "frekvencija_mhz": "89,7",
+      "podrucje_koncesije": "Grad Pula"
+    },
+    {
+      "zupanija": "Ličko-senjska županija",
+      "naziv": "Radio Gospić",
+      "frekvencija_mhz": "97,1 105,7",
+      "podrucje_koncesije": "Ličko-senjska županija"
+    },
+    {
+      "zupanija": "Ličko-senjska županija",
+      "naziv": "Hrvatski radio Otočac-HRO",
+      "frekvencija_mhz": "90,1 93,0 107,6",
+      "podrucje_koncesije": "Šire područje grada Otočca"
+    },
+    {
+      "zupanija": "Ličko-senjska županija",
+      "naziv": "Radio Senj",
+      "frekvencija_mhz": "90,8 99,8",
+      "podrucje_koncesije": "Grad Senj"
+    },
+    {
+      "zupanija": "Zadarska županija",
+      "naziv": "Radio Biograd na Moru-BNM",
+      "frekvencija_mhz": "94,0 100,5",
+      "podrucje_koncesije": "Šire područje grada Biograda na Moru"
+    },
+    {
+      "zupanija": "Zadarska županija",
+      "naziv": "Novi Radio",
+      "frekvencija_mhz": "89,3 91,6 102,6 103,8",
+      "podrucje_koncesije": "Zadarska županija"
+    },
+    {
+      "zupanija": "Zadarska županija",
+      "naziv": "Radio Benkovac",
+      "frekvencija_mhz": "93,0",
+      "podrucje_koncesije": "Šire područje grada Benkovca"
+    },
+    {
+      "zupanija": "Zadarska županija",
+      "naziv": "Radio 057",
+      "frekvencija_mhz": "91,0 97,2",
+      "podrucje_koncesije": "Grad Zadar"
+    },
+    {
+      "zupanija": "Zadarska županija",
+      "naziv": "Radio Pag",
+      "frekvencija_mhz": "94,8",
+      "podrucje_koncesije": "Otok Pag"
+    },
+    {
+      "zupanija": "Šibensko-kninska županija",
+      "naziv": "Radio Drniš",
+      "frekvencija_mhz": "89,0",
+      "podrucje_koncesije": "Grad Drniš"
+    },
+    {
+      "zupanija": "Šibensko-kninska županija",
+      "naziv": "Radio Ritam",
+      "frekvencija_mhz": "93,2 97,3 106,4",
+      "podrucje_koncesije": "Grad Šibenik"
+    },
+    {
+      "zupanija": "Šibensko-kninska županija",
+      "naziv": "Županijski Radio Šibenik",
+      "frekvencija_mhz": "88,6 100,7 104,9 92,8",
+      "podrucje_koncesije": "Šibensko-kninska županija"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Radio Imotski",
+      "frekvencija_mhz": "107,4",
+      "podrucje_koncesije": "Grad Imotski"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Hit Radio",
+      "frekvencija_mhz": "92,2 104,9",
+      "podrucje_koncesije": "Šire područje grada Sinja"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Radio Nautic",
+      "frekvencija_mhz": "90,5",
+      "podrucje_koncesije": "Otok Vis"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Radio Marija",
+      "frekvencija_mhz": "97,2",
+      "podrucje_koncesije": "Grad Split"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Megamix Radio Hvar",
+      "frekvencija_mhz": "94,7 95,4",
+      "podrucje_koncesije": "Šire područje grada Hvara"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Ultra FM Split",
+      "frekvencija_mhz": "93,6 96,8 99,3",
+      "podrucje_koncesije": "Splitsko-dalmatinska županija"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Radio Biokovo",
+      "frekvencija_mhz": "105,0",
+      "podrucje_koncesije": "Grad Vrgorac"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Radio Makarska Rivijera",
+      "frekvencija_mhz": "97,6 98,4",
+      "podrucje_koncesije": "Grad Makarska"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Radio Brač",
+      "frekvencija_mhz": "91,8 102,7 106,0",
+      "podrucje_koncesije": "Otok Brač"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Gradski radio Trogir",
+      "frekvencija_mhz": "95,6",
+      "podrucje_koncesije": "Grad Trogir"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Radio Sunce",
+      "frekvencija_mhz": "90,9 92,9",
+      "podrucje_koncesije": "Šire područje grada Splita"
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska županija",
+      "naziv": "Radio Kampus",
+      "frekvencija_mhz": "104,1",
+      "podrucje_koncesije": "Grad Split"
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "naziv": "Radio Blato",
+      "frekvencija_mhz": "92,0",
+      "podrucje_koncesije": "Općina Blato"
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "naziv": "Radio Delta",
+      "frekvencija_mhz": "97,0",
+      "podrucje_koncesije": "Grad Metković"
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "naziv": "Radio Korčula",
+      "frekvencija_mhz": "87,5 107,5",
+      "podrucje_koncesije": "Grad Korčula"
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "naziv": "Radio-M",
+      "frekvencija_mhz": "90,1",
+      "podrucje_koncesije": "Općina Vela Luka"
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "naziv": "Radio Ploče",
+      "frekvencija_mhz": "94,5",
+      "podrucje_koncesije": "Grad Ploče"
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "naziv": "Soundset Ragusa",
+      "frekvencija_mhz": "96,3 99,6 107,0",
+      "podrucje_koncesije": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "naziv": "UNIDU radio",
+      "frekvencija_mhz": "97,5",
+      "podrucje_koncesije": "Dio grada Dubrovnika"
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "naziv": "Radio Val",
+      "frekvencija_mhz": "96,5",
+      "podrucje_koncesije": "Općina Vela Luka"
+    }
+  ],
+  "meta": {
+    "title": "Radijske postaje u Hrvatskoj - Free Download",
+    "description": "Popis hrvatskih radijskih postaja po županijama s frekvencijom (MHz) i područjem koncesije. Contains 136 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Radijske postaje u Hrvatskoj | ListBase",
+    "seo_description": "Download Radijske postaje u Hrvatskoj — 136 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 136 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Hrvatske_radijske_postaje"
+    ]
+  }
+}
