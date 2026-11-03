@@ -1,0 +1,988 @@
+{
+  "id": "hr-masovni-zlocini-nad-hrvatima-domovinski-rat",
+  "name": "Masovni zločini nad Hrvatima u Domovinskom ratu",
+  "title": "Masovni zločini nad Hrvatima u Domovinskom ratu",
+  "description": "Popis masovnih zločina počinjenih nad Hrvatima tijekom Domovinskog rata (1991.–1995.) s datumom, brojem žrtava, počiniteljima, osuđenima i opisom.",
+  "category": "history",
+  "source": "https://hr.wikipedia.org/wiki/Popis_masovnih_zločina_nad_Hrvatima_u_Domovinskom_ratu",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_masovnih_zločina_nad_Hrvatima_u_Domovinskom_ratu",
+  "updated": "2026-11",
+  "record_count": 103,
+  "columns": [
+    {
+      "key": "zlocin",
+      "label": "Zlocin",
+      "type": "string"
+    },
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "datum",
+      "label": "Datum",
+      "type": "string"
+    },
+    {
+      "key": "zrtve",
+      "label": "Zrtve",
+      "type": "string"
+    },
+    {
+      "key": "pocinitelj",
+      "label": "Pocinitelj",
+      "type": "string"
+    },
+    {
+      "key": "osudeni",
+      "label": "Osudeni",
+      "type": "string"
+    },
+    {
+      "key": "opis",
+      "label": "Opis",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "zlocin": "pokolj u Borovu Selu",
+      "godina": 1991,
+      "datum": "2. svibnja 1991.",
+      "zrtve": "12 Hrvata, 3 Srbina",
+      "pocinitelj": "",
+      "osudeni": "Na Vojnom sudu u Osijeku 1993. godine osuđeno 10 pripadnika srpskih paravojnih postrojbi; amnestirani 1996. godine temeljem Zakona o općem oprostu.",
+      "opis": "Napad na policijsku ophodnju. Masakrirano 12 hrvatskih policajaca."
+    },
+    {
+      "zlocin": "pokolj u Kuljanima",
+      "godina": 1991,
+      "datum": "26. srpnja 1991.",
+      "zrtve": "",
+      "pocinitelj": "Pobunjeni Srbi.",
+      "osudeni": "",
+      "opis": "Kod Dvora na Uni. Masakr zarobljenih civila."
+    },
+    {
+      "zlocin": "pokolj u Zamlači",
+      "godina": 1991,
+      "datum": "26. srpnja 1991.",
+      "zrtve": "",
+      "pocinitelj": "Četnici.",
+      "osudeni": "",
+      "opis": "Masakr hrvatskih policajaca."
+    },
+    {
+      "zlocin": "pokolj u Strugi",
+      "godina": 1991,
+      "datum": "27. srpnja 1991.",
+      "zrtve": "12 osoba.",
+      "pocinitelj": "Četnici iz Dvora na Uni.",
+      "osudeni": "",
+      "opis": "Hrv. civili iz Zamlaća kao živi zid. Masakrirano 5 hrv. policajaca. Istog dana su ubijene još 3 osobe u Dvoru."
+    },
+    {
+      "zlocin": "pokolj u Kozibrodu",
+      "godina": 1991,
+      "datum": "26. srpnja 1991.",
+      "zrtve": "10 osoba.",
+      "pocinitelj": "Srp. vojska.",
+      "osudeni": "",
+      "opis": "Pokolj pripadnika hrvatskog MUP-a."
+    },
+    {
+      "zlocin": "pokolj kod Pastuše",
+      "godina": 1991,
+      "datum": "potkraj srpnja 1991.",
+      "zrtve": "7 osoba.",
+      "pocinitelj": "Srp. vojska.",
+      "osudeni": "",
+      "opis": "7 zatočenika: 4 civila, 1 pripadnik civilne zaštite i 2 hrv. branitelja."
+    },
+    {
+      "zlocin": "pokolj u Dalju",
+      "godina": 1991,
+      "datum": "1. kolovoza do prosinca 1991.",
+      "zrtve": "39",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Pokolj pripadnika hrvatskog MUP-a i ZNG-a. Pokolj 25 civila. 20 policajaca Policijske postaje Dalj, Policijske uprave osječko-baranjske, 15 pripadnika ZNG-a i četiri pripadnika Civilne zaštite. Optuženici su optuženi ukupno za ubojstvo 112 do 135 ljudi."
+    },
+    {
+      "zlocin": "pokolj u Budačkoj Rijeci",
+      "godina": 1991,
+      "datum": "4. kolovoza 1991.",
+      "zrtve": "3 hrv. policajca ubijena, 1 ranjen.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Pokolj pripadnika hrvatskog MUP-a."
+    },
+    {
+      "zlocin": "pokolj u Lovincu",
+      "godina": 1991,
+      "datum": "8. kolovoza 1991.",
+      "zrtve": "5 osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Radnici na željeznici, ubili ih kolege s posla, iz susjednog sela."
+    },
+    {
+      "zlocin": "teroristički napad u Belom Manastiru",
+      "godina": 1991,
+      "datum": "13. kolovoza 1991.",
+      "zrtve": "3 osobe.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "2 ubijena i 1 ranjeni prometni policajac, ubijen 1 i ranjena 2 specijalca."
+    },
+    {
+      "zlocin": "pokolj u Kraljevčanima",
+      "godina": 1991,
+      "datum": "14. kolovoza 1991.",
+      "zrtve": "5 osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "5 staraca."
+    },
+    {
+      "zlocin": "pokolj u Bjelovcu",
+      "godina": 1991,
+      "datum": "14. kolovoza 1991.",
+      "zrtve": "",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Kod Petrinje."
+    },
+    {
+      "zlocin": "pokolj u Lovincu",
+      "godina": 1991,
+      "datum": "14. kolovoza 1991.",
+      "zrtve": "",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Kod Gospića."
+    },
+    {
+      "zlocin": "pokolj u Peckima",
+      "godina": 1991,
+      "datum": "16. kolovoza 1991.",
+      "zrtve": "4 osobe.",
+      "pocinitelj": "Srp. vojska.",
+      "osudeni": "",
+      "opis": "4 starije osobe."
+    },
+    {
+      "zlocin": "Čuntić i Dragotinac.",
+      "godina": 1991,
+      "datum": "16. kolovoza 1991.",
+      "zrtve": "",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "Pokolj policajaca u Žutoj Lokvi",
+      "godina": 1991,
+      "datum": "24. kolovoza 1991.",
+      "zrtve": "4 osobe.",
+      "pocinitelj": "Srp. vojska.",
+      "osudeni": "",
+      "opis": "Pokolj pripadnika hrvatskog MUP-a."
+    },
+    {
+      "zlocin": "pokolj u Skeli kod Gline",
+      "godina": 1991,
+      "datum": "29. kolovoza 1991.",
+      "zrtve": "10 osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Berku",
+      "godina": 1991,
+      "datum": "2. rujna 1991.",
+      "zrtve": "5 Hrvata.",
+      "pocinitelj": "Srp.-cg. vojska.",
+      "osudeni": "",
+      "opis": "Mnogi su odvedeni u logore i pobijeni poslije."
+    },
+    {
+      "zlocin": "pokolj u Graboštanima, Stublju i Majuru.",
+      "godina": 1991,
+      "datum": "3. rujna 1991.",
+      "zrtve": "20 Hrvata.",
+      "pocinitelj": "Srp. vojska.",
+      "osudeni": "",
+      "opis": "Kod Hrv.Kostajnice."
+    },
+    {
+      "zlocin": "pokolj u Četekovcu, Balincima i Čojlugu.",
+      "godina": 1991,
+      "datum": "3. rujna 1991.",
+      "zrtve": "24 Hrvata.",
+      "pocinitelj": "Srp. vojska.",
+      "osudeni": "",
+      "opis": "Kod Slatine."
+    },
+    {
+      "zlocin": "pokolj u Kusonjama",
+      "godina": 1991,
+      "datum": "8. rujna 1991.",
+      "zrtve": "20 hrv. vojaka.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "20 masakriranih gardista. Tijela su otkrivena potkraj siječnja 1992."
+    },
+    {
+      "zlocin": "Petrinja, položaj oko nove bolnice.",
+      "godina": 1991,
+      "datum": "18. rujna 1991.",
+      "zrtve": "17 osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "17 masakriranih pripadnika ZNG."
+    },
+    {
+      "zlocin": "Ivanovo Selo",
+      "godina": 1991,
+      "datum": "21. rujna 1991.",
+      "zrtve": "7 osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "7 ubijenih, 12 ranjenih, 1 nestala osoba. Sve žrtve su Česi."
+    },
+    {
+      "zlocin": "Tovarnik",
+      "godina": 1991,
+      "datum": "22. rujna 1991.",
+      "zrtve": "68 osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "Babića Most",
+      "godina": 1991,
+      "datum": "24. rujna 1991.",
+      "zrtve": "3 civila.",
+      "pocinitelj": "Četnici.",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "Brloška Dubrava",
+      "godina": 1991,
+      "datum": "24. rujna 1991.",
+      "zrtve": "7 civila.",
+      "pocinitelj": "Četnici.",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "autokamp Grabovac, Plitvička Jezera",
+      "godina": 1991,
+      "datum": "25. rujna 1991.",
+      "zrtve": "3 malodobne osobe.",
+      "pocinitelj": "Srp. vojska. (JNA)",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Gornjem Viduševcu kod Gline",
+      "godina": 1991,
+      "datum": "1. listopada 1991.",
+      "zrtve": "",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Novom Selu Glinskom",
+      "godina": 1991,
+      "datum": "3. listopada 1991.",
+      "zrtve": "11 osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Čorcima",
+      "godina": 1991,
+      "datum": "4. listopada 1991.",
+      "zrtve": "5 civila",
+      "pocinitelj": "milicija SAO Krajine; paravojne postrojbe",
+      "osudeni": "Nenad Pejnović, osuđen na 6 godina",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Vagancu",
+      "godina": 1991,
+      "datum": "9. listopada 1991.",
+      "zrtve": "9 starijih civila.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pogrom u Lovasu",
+      "godina": 1991,
+      "datum": "10. listopada 1991.",
+      "zrtve": "",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Širokoj Kuli kod Gospića",
+      "godina": 1991,
+      "datum": "13. listopada 1991.",
+      "zrtve": "34 osobe",
+      "pocinitelj": "",
+      "osudeni": "Za zločin nitko nije odgovarao. Preciznije, oni koji su bili osuđeni u odsutnosti naknadno su oslobođeni svake odgovornosti.",
+      "opis": "Maskirani su lokalni Srbi 13. listopada 1991. u selu napravili prvi pokolj ubivši osam Hrvata. U narednim danima ubli su još 32 ljudi, među kojima je bila jedna cijela petočlana obitelj, kao i jedna djevojčica od 13 i dječak od 17 godina. Žrtve su prije pokolja mučili, vukli ih konjima po mjesnim puteljcima, brojne su ljude spalili, kao i sve hrvatske kuće."
+    },
+    {
+      "zlocin": "pokolj u Bukovcu",
+      "godina": 1991,
+      "datum": "16. listopada 1991.",
+      "zrtve": "",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "U općini Perušić."
+    },
+    {
+      "zlocin": "pokolj u Novom Selu Glinskom",
+      "godina": 1991,
+      "datum": "16. listopada 1991.",
+      "zrtve": "22 osobe.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Kod Gline."
+    },
+    {
+      "zlocin": "pokolj u Karancu",
+      "godina": 1991,
+      "datum": "17. listopada 1991.",
+      "zrtve": "4 hrv. civila",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Mučeni u policijskoj postaji Beli Manastir i smaknuti na farmi."
+    },
+    {
+      "zlocin": "pokolj u selima Skakavcu i Brešanima.",
+      "godina": 1991,
+      "datum": "sredina listopada",
+      "zrtve": "9 civila.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod sela Volinja",
+      "godina": 1991,
+      "datum": "sredina listopada 1991.",
+      "zrtve": "5 pričuvnih policajaca i 2 civila.",
+      "pocinitelj": "2 pripadnika specijalne jedinice milicije pobunjenih Srba",
+      "osudeni": "",
+      "opis": "Zarobljeni policajci i civile iz Kostajnice."
+    },
+    {
+      "zlocin": "pokolj kod Baćina",
+      "godina": 1991,
+      "datum": "20. listopada 1991.",
+      "zrtve": "56 osoba",
+      "pocinitelj": "Milicija SAO Krajine",
+      "osudeni": "Veljko Radunović (20 godina), Stevo Radunović (20), Momčilo Kovačević (20), Milinko Janjetović (20), Slobodan Borojević (15), Branko Dmitrović (15). Optuženicima je suđeno u odsutnosti.",
+      "opis": "Zarobljavanje i masovno ubojstvo civilnog stanovništva."
+    },
+    {
+      "zlocin": "pokolj u Lipovači",
+      "godina": 1991,
+      "datum": "28. listopada 1991.",
+      "zrtve": "7 osoba.",
+      "pocinitelj": "TO pobunjenih hrvatskih Srba.",
+      "osudeni": "",
+      "opis": "Lipovača/Drežnik."
+    },
+    {
+      "zlocin": "pokolj u Lušcu",
+      "godina": 1991,
+      "datum": "2. studenoga 1991.",
+      "zrtve": "59 osoba.",
+      "pocinitelj": "JNA i arkanovci.",
+      "osudeni": "",
+      "opis": "Vukovarsko prigradsko naselje."
+    },
+    {
+      "zlocin": "pokolj kod Petrinje",
+      "godina": 1991,
+      "datum": "? 1991.",
+      "zrtve": "? osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Petrinji",
+      "godina": 1991,
+      "datum": "4. studenoga 1991.",
+      "zrtve": "76 osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Petrinji",
+      "godina": 1991,
+      "datum": "5. studenoga 1991.",
+      "zrtve": "4 osobe.",
+      "pocinitelj": "2 pripadnika spec. jedinice milicije SAO Krajine",
+      "osudeni": "",
+      "opis": "4 civila."
+    },
+    {
+      "zlocin": "pokolj u Poljanku",
+      "godina": 1991,
+      "datum": "7. studenoga 1991.",
+      "zrtve": "10 civila.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "U općini Korenica. 8 u Vukovićima, 2 u Poljanku."
+    },
+    {
+      "zlocin": "raketiranje Bizovca",
+      "godina": 1991,
+      "datum": "7. studenoga 1991.",
+      "zrtve": "9 osoba.",
+      "pocinitelj": "JRZ",
+      "osudeni": "",
+      "opis": "Zrakoplovstvo JNA raketiralo civile."
+    },
+    {
+      "zlocin": "pokolj u Erdutu",
+      "godina": 1991,
+      "datum": "9. studenoga 1991.",
+      "zrtve": "15 osoba.",
+      "pocinitelj": "TO SAO SBZS i arkanovci.",
+      "osudeni": "",
+      "opis": "Žrtve su Hrvati i Mađari. Arhivirana inačica izvorne stranice od 2. lipnja 2008. (Wayback Machine)"
+    },
+    {
+      "zlocin": "pokolj u Erdutu",
+      "godina": 1991,
+      "datum": "11. studenoga 1991.",
+      "zrtve": "5 civila.",
+      "pocinitelj": "TO SAO SBZS i arkanovci.",
+      "osudeni": "",
+      "opis": "Žrtve su Hrvati i Mađari. Arhivirana inačica izvorne stranice od 2. lipnja 2008. (Wayback Machine)"
+    },
+    {
+      "zlocin": "pokolj u Saborskom",
+      "godina": 1991,
+      "datum": "12. studenoga 1991.",
+      "zrtve": "29 osoba.",
+      "pocinitelj": "JNA i pobunjeni Srbi iz Plaškog.",
+      "osudeni": "Nikola Medaković (20 godina, u odsutnosti); Đoko Jakšić (15 godina, u odsutnosti)",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Kostrićima",
+      "godina": 1991,
+      "datum": "15. studenoga 1991.",
+      "zrtve": "16 hrv. civila (2 djece od 2 i 4 godine.)",
+      "pocinitelj": "Srp. odmetnici.",
+      "osudeni": "",
+      "opis": "Kod Hrv. Kostajnice."
+    },
+    {
+      "zlocin": "Ovčara",
+      "godina": 1991,
+      "datum": "18. studenoga 1991.",
+      "zrtve": "255-264 osobe",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Nadinu",
+      "godina": 1991,
+      "datum": "19. studenoga 1991.",
+      "zrtve": "14 osoba.",
+      "pocinitelj": "JNA",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u selu Klancu",
+      "godina": 1991,
+      "datum": "sredina studenoga 1991.",
+      "zrtve": "20 hrv. civila.",
+      "pocinitelj": "Četnici.",
+      "osudeni": "",
+      "opis": "Kod Slunja."
+    },
+    {
+      "zlocin": "pokolj u Dabru",
+      "godina": 1991,
+      "datum": "21. listopada 1991.",
+      "zrtve": "7 osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Kod Vrhovina. Ekshumirani su 4. travnja 1992."
+    },
+    {
+      "zlocin": "pokolj u Vrhovinama",
+      "godina": 1991,
+      "datum": "22. i 23. studenoga 1991.",
+      "zrtve": "8 hrv. civila.",
+      "pocinitelj": "Četnici.",
+      "osudeni": "",
+      "opis": "Vrhovine i Dabar."
+    },
+    {
+      "zlocin": "pokolj u Smoljancu",
+      "godina": 1991,
+      "datum": "4. prosinca 1991.",
+      "zrtve": "7 osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Plitvički kraj."
+    },
+    {
+      "zlocin": "pokolj u Kukuruzarima",
+      "godina": 1991,
+      "datum": "4. prosinca 1991.",
+      "zrtve": "3 hrv. civila.",
+      "pocinitelj": "Srp. teroristi.",
+      "osudeni": "",
+      "opis": "Banija."
+    },
+    {
+      "zlocin": "pokolj u Čanku",
+      "godina": 1991,
+      "datum": "10. prosinca 1991.",
+      "zrtve": "Uk. 6 civila.; 7. civil ubijen je 30. travnja 1994.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "U općini Korenica."
+    },
+    {
+      "zlocin": "pokolj u Gornjim Jamama",
+      "godina": 1991,
+      "datum": "11. prosinca 1991.",
+      "zrtve": "15 hrv. civila (3 malodobne djece)",
+      "pocinitelj": "Pripadnici postrojbe t.zv. RSK t.zv. \"šiltovi\".",
+      "osudeni": "",
+      "opis": "Gornje Jame, Glina."
+    },
+    {
+      "zlocin": "pokolj u Voćinu i Humu kod Slatine",
+      "godina": 1991,
+      "datum": "12. – 14. prosinca 1991.",
+      "zrtve": "47 hrv. civila.",
+      "pocinitelj": "pripadnici Teritorijalne obrane te lokalnih i srbijanskih paravojnih postrojbi (Beli orlovi, dobrovoljci SRS-a)",
+      "osudeni": "Trojica pripadnika lokalnih srpskih postrojbi (12. slavonska brigada, Papučki odred) osuđena na 20, 20 i 4 godine zatvora.",
+      "opis": "Voćin i Hum kod Slatine."
+    },
+    {
+      "zlocin": "pokolj u Joševici",
+      "godina": 1991,
+      "datum": "16. prosinca 1991.",
+      "zrtve": "21 hrvatski civil (4 djece).",
+      "pocinitelj": "IDG Jose Kovačevića i \"Šiltovi\".",
+      "osudeni": "",
+      "opis": "Joševica na Banovini, kod Gline.,"
+    },
+    {
+      "zlocin": "pokolj u Bruškoj",
+      "godina": 1991,
+      "datum": "26. prosinca 1991.",
+      "zrtve": "10 osoba",
+      "pocinitelj": "3 pripadnika Milicije Krajine.",
+      "osudeni": "",
+      "opis": "Zaseok Gornji Marinovići. Ubijeno 9 Hrvata i 1 Srbin."
+    },
+    {
+      "zlocin": "pokolj u Erdutu",
+      "godina": 1991,
+      "datum": "26. prosinca 1991.",
+      "zrtve": "7 osoba.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Žrtve su Hrvati i Mađari."
+    },
+    {
+      "zlocin": "pokolj u Jasenicama",
+      "godina": 1991,
+      "datum": "30. prosinca 1991.",
+      "zrtve": "5 hrv. civila (5 staraca).",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "U zadarskom zaleđu."
+    },
+    {
+      "zlocin": "pokolj u Lipovači",
+      "godina": 1991,
+      "datum": "1. siječnja 1992.",
+      "zrtve": "5 osoba.",
+      "pocinitelj": "Četnici",
+      "osudeni": "",
+      "opis": "Lipovača"
+    },
+    {
+      "zlocin": "pokolj kod Maje",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "JI od Gline."
+    },
+    {
+      "zlocin": "pokolj kod Topuskog",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod Staze",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Južno od Sunje."
+    },
+    {
+      "zlocin": "pokolj kod Đulovca",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Između Grubišnog Polja i Slatine."
+    },
+    {
+      "zlocin": "pokolj kod V. Peratovice",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Sjeverno od Grubišnog Polja."
+    },
+    {
+      "zlocin": "pokolj kod Lađevca",
+      "godina": 1991,
+      "datum": "2. siječnja",
+      "zrtve": "9 ubijenih civila.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "SZ od Okučana."
+    },
+    {
+      "zlocin": "pokolj u Furjanu",
+      "godina": 1991,
+      "datum": "2. siječnja",
+      "zrtve": "7 ubijenih civila.",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod Vukmanića",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "JI od Karlovca."
+    },
+    {
+      "zlocin": "pokolj kod Barilovića",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "JI od Duge Rese, južno od Karlovca."
+    },
+    {
+      "zlocin": "pokolj kod Slunja",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Selo Klanac u gornjem tekstu?."
+    },
+    {
+      "zlocin": "pokolj kod Sv. Roka",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod Kruševa",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod Ervenika",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod Miljevaca",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod Darde",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Karanac iz gornjeg teksta?"
+    },
+    {
+      "zlocin": "pokolj kod Erduta",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod Dalja",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod Ćelija",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Tordincima",
+      "godina": 1991,
+      "datum": "25. – 26. listopada 1991.",
+      "zrtve": "208",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod Bogdanovaca",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod Berka",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "Između Berka i Đeletovaca."
+    },
+    {
+      "zlocin": "pokolj kod Lovasa",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj kod Tovarnika",
+      "godina": 1991,
+      "datum": "nepoznat nadnevak",
+      "zrtve": "n/p o broju žrtava",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Polju i Lađevačkom selištu.",
+      "godina": 1992,
+      "datum": "16. – 21. siječnja 1992.",
+      "zrtve": "10 osoba.",
+      "pocinitelj": "Četnici.",
+      "osudeni": "",
+      "opis": "10 hrv. civila. Kod Slunja."
+    },
+    {
+      "zlocin": "pokolj u zaseoku Šašićima kod Ervenika (Knin).",
+      "godina": 1992,
+      "datum": "18. siječnja 1992.",
+      "zrtve": "4 osobe (2 malodobne djece.)",
+      "pocinitelj": "Četnici.",
+      "osudeni": "",
+      "opis": ""
+    },
+    {
+      "zlocin": "pokolj u Vukovaru",
+      "godina": 1992,
+      "datum": "9. travnja 1992.",
+      "zrtve": "4 osobe.",
+      "pocinitelj": "Pripadnici TO t.zv. RSK.",
+      "osudeni": "Nikola Dukić zvani Gidža i Slavko Petrović.",
+      "opis": "4 civila."
+    },
+    {
+      "zlocin": "granatiranje Slavonskog Broda",
+      "godina": 1992,
+      "datum": "3. svibnja 1992.",
+      "zrtve": "6 osoba.",
+      "pocinitelj": "Velikosrpske snage.",
+      "osudeni": "",
+      "opis": "6 djece."
+    },
+    {
+      "zlocin": "pokolj u Rodaljicama",
+      "godina": 1992,
+      "datum": "14. lipnja 1992.",
+      "zrtve": "4 osobe.",
+      "pocinitelj": "Pobunjeni Srbi.",
+      "osudeni": "",
+      "opis": "Kod Benkovca. Unatoč nazočnosti UNPROFOR-a."
+    },
+    {
+      "zlocin": "pokolj u Šopotu kod Benkovca",
+      "godina": 1992,
+      "datum": "4. prosinca 1992.",
+      "zrtve": "4 osobe.",
+      "pocinitelj": "četnici",
+      "osudeni": "",
+      "opis": "4 hrv. civila."
+    },
+    {
+      "zlocin": "pokolj u Zatonu Obrovačkom",
+      "godina": 1993,
+      "datum": "26. siječnja 1993.",
+      "zrtve": "7 osoba",
+      "pocinitelj": "3 pripadnika milicije pobunjenih Srba.",
+      "osudeni": "",
+      "opis": "7 civila."
+    },
+    {
+      "zlocin": "pokolj u Medviđi",
+      "godina": 1993,
+      "datum": "9. veljače 1993.",
+      "zrtve": "10 osoba",
+      "pocinitelj": "pobunjeni Srbi",
+      "osudeni": "",
+      "opis": "10 civila."
+    },
+    {
+      "zlocin": "pokolj u Dragišićima",
+      "godina": 1993,
+      "datum": "24. veljače 1993.",
+      "zrtve": "4 osobe",
+      "pocinitelj": "pobunjeni Srbi: paravojne postrojbe i milicija t.zv. RSK",
+      "osudeni": "",
+      "opis": "zarobljeni hrv. branitelji"
+    },
+    {
+      "zlocin": "zločin na plaži Soline",
+      "godina": 1993,
+      "datum": "14. lipnja 1993.",
+      "zrtve": "5 osoba",
+      "pocinitelj": "pobunjeni Srbi",
+      "osudeni": "",
+      "opis": "5 ubijenih i 7 teško ranjenih civila."
+    },
+    {
+      "zlocin": "pokolj između Donjih Grahovljana i Dragovića",
+      "godina": 1993,
+      "datum": "5. kolovoza 1993.",
+      "zrtve": "4 osobe",
+      "pocinitelj": "pobunjeni Srbi",
+      "osudeni": "",
+      "opis": "4 ubijena i 4 ranjena hrv. policajca."
+    },
+    {
+      "zlocin": "pokolj u Kusonjama",
+      "godina": 1993,
+      "datum": "8. rujna 1993.",
+      "zrtve": "3 osobe",
+      "pocinitelj": "četnici",
+      "osudeni": "",
+      "opis": "3 civila, 11 ranjenih. Od mine, prigodom počasti."
+    },
+    {
+      "zlocin": "pokolj u Vukovju",
+      "godina": 1994,
+      "datum": "9. veljače 1993.",
+      "zrtve": "",
+      "pocinitelj": "",
+      "osudeni": "",
+      "opis": "4 civila. Iz Vukovja odvedeni u Batinjsku Rijeku."
+    },
+    {
+      "zlocin": "raketiranje Zagreba",
+      "godina": 1995,
+      "datum": "2. svibnja 1995.",
+      "zrtve": "7 mrtvih.",
+      "pocinitelj": "Pobunjeni Srbi.",
+      "osudeni": "Mile Martić (kao nalodogadavac) Izvršitelji nisu osuđeni.",
+      "opis": "7 ubijenih civila, 194 ranjenih."
+    },
+    {
+      "zlocin": "bombardiranje Gospića",
+      "godina": 1995,
+      "datum": "4. kolovoza 1995.",
+      "zrtve": "3 mrtvih, 6 ranjenih.",
+      "pocinitelj": "Pobunjeni Srbi i bos.Srbi.",
+      "osudeni": "2 osumnjičenih nalogodavaca.",
+      "opis": "Bombardiranje civilnog dijela Gospića. 3 ubijenih (14, 18, 32 g.), 6 ranjenih civila."
+    }
+  ],
+  "meta": {
+    "title": "Masovni zločini nad Hrvatima u Domovinskom ratu - Free Download",
+    "description": "Popis masovnih zločina počinjenih nad Hrvatima tijekom Domovinskog rata (1991.–1995.) s datumom, brojem žrtava, počiniteljima, osuđenima i opisom. Contains 103 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Masovni zločini nad Hrvatima u Domovinskom ratu | ListBase",
+    "seo_description": "Download Masovni zločini nad Hrvatima u Domovinskom ratu — 103 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 103 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_masovnih_zločina_nad_Hrvatima_u_Domovinskom_ratu"
+    ]
+  }
+}

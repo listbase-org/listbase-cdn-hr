@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-03T02:21:14.923Z",
-  "total_datasets": 461,
-  "total_records": 825318,
+  "generated": "2026-11-03T02:21:23.283Z",
+  "total_datasets": 462,
+  "total_records": 825421,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -3046,6 +3046,34 @@
         "xlsx": {
           "name": "hr-kraljevi_HR.xlsx",
           "size": 8974
+        }
+      }
+    },
+    {
+      "id": "hr-masovni-zlocini-nad-hrvatima-domovinski-rat",
+      "name": "Masovni zločini nad Hrvatima u Domovinskom ratu",
+      "category": "history",
+      "record_count": 103,
+      "columns": [
+        "zlocin",
+        "godina",
+        "datum",
+        "zrtve",
+        "pocinitelj",
+        "osudeni",
+        "opis"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_masovnih_zločina_nad_Hrvatima_u_Domovinskom_ratu",
+      "updated": "2026-11",
+      "size": 28206,
+      "files": {
+        "csv": {
+          "name": "hr-masovni-zlocini-nad-hrvatima-domovinski-rat_HR.csv",
+          "size": 12817
+        },
+        "xlsx": {
+          "name": "hr-masovni-zlocini-nad-hrvatima-domovinski-rat_HR.xlsx",
+          "size": 13708
         }
       }
     },
