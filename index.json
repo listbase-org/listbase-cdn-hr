@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-03T02:21:39.271Z",
-  "total_datasets": 464,
-  "total_records": 825612,
+  "generated": "2026-11-03T02:21:47.102Z",
+  "total_datasets": 465,
+  "total_records": 825712,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -10909,6 +10909,39 @@
         "xlsx": {
           "name": "hr-sportske-trgovine_HR.xlsx",
           "size": 11146
+        }
+      }
+    },
+    {
+      "id": "hr-teniski-centri",
+      "name": "Teniski centri u Hrvatskoj",
+      "category": "sports",
+      "record_count": 100,
+      "columns": [
+        "lokacija",
+        "naziv",
+        "tereni_otvoreni",
+        "tereni_zatvoreni",
+        "tereni_ukupno",
+        "zemljani",
+        "tvrdi",
+        "travnati",
+        "kapacitet_centralnog_terena",
+        "otvoren",
+        "zatvoren",
+        "biljeske"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_teniskih_centara_u_Hrvatskoj",
+      "updated": "2026-11",
+      "size": 36740,
+      "files": {
+        "csv": {
+          "name": "hr-teniski-centri_HR.csv",
+          "size": 7869
+        },
+        "xlsx": {
+          "name": "hr-teniski-centri_HR.xlsx",
+          "size": 12724
         }
       }
     },
