@@ -1,0 +1,376 @@
+{
+  "id": "hr-melodije-hrvatskog-jadrana-skladbe",
+  "name": "Najznačajnije skladbe festivala Melodije hrvatskog Jadrana (1993.–2002.)",
+  "title": "Najznačajnije skladbe festivala Melodije hrvatskog Jadrana (1993.–2002.)",
+  "description": "Popis najznačajnijih pjesama i izvođača splitskog glazbenog festivala Melodije hrvatskog Jadrana po godinama, s oznakom sveukupnih pobjednika festivala.",
+  "category": "music",
+  "source": "https://hr.wikipedia.org/wiki/Melodije_hrvatskog_Jadrana",
+  "source_url": "https://hr.wikipedia.org/wiki/Melodije_hrvatskog_Jadrana",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "izvodac",
+      "label": "Izvodac",
+      "type": "string"
+    },
+    {
+      "key": "pjesma",
+      "label": "Pjesma",
+      "type": "string"
+    },
+    {
+      "key": "pobjednik_festivala",
+      "label": "Pobjednik Festivala",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "godina": 1993,
+      "izvodac": "Meri Cetinić",
+      "pjesma": "Zemlja dide mog",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1993,
+      "izvodac": "Magazin",
+      "pjesma": "Neću se vratiti",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1993,
+      "izvodac": "Gibonni",
+      "pjesma": "Dobri judi",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1993,
+      "izvodac": "Oliver Dragojević",
+      "pjesma": "Cesarica",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1993,
+      "izvodac": "Dražen Zečić",
+      "pjesma": "Govore mi mnogi ljudi",
+      "pobjednik_festivala": "da"
+    },
+    {
+      "godina": 1994,
+      "izvodac": "Daleka Obala",
+      "pjesma": "Morska vila",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1994,
+      "izvodac": "Doris Dragović",
+      "pjesma": "Ovo je naša krv",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1994,
+      "izvodac": "Gibonni",
+      "pjesma": "Lipa moja",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1994,
+      "izvodac": "Hari Rončević",
+      "pjesma": "Getanin",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1994,
+      "izvodac": "Magazin i Mare",
+      "pjesma": "Simpatija",
+      "pobjednik_festivala": "da"
+    },
+    {
+      "godina": 1994,
+      "izvodac": "Mladen Grdović",
+      "pjesma": "Tu je moj dom",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1995,
+      "izvodac": "Doris Dragović",
+      "pjesma": "Jedini",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1995,
+      "izvodac": "Tri tenora",
+      "pjesma": "Splitski tango",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1995,
+      "izvodac": "Alen Vitasović",
+      "pjesma": "Bura",
+      "pobjednik_festivala": "da"
+    },
+    {
+      "godina": 1995,
+      "izvodac": "Bruno Vučković & klapa \"Dalmati\"",
+      "pjesma": "Pisma Splitu",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1995,
+      "izvodac": "Oliver Dragojević",
+      "pjesma": "Dvaput san umra",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1996,
+      "izvodac": "Daleka Obala",
+      "pjesma": "Sa' mi je ža'",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1996,
+      "izvodac": "Gibonni",
+      "pjesma": "Ako me nosiš na duši",
+      "pobjednik_festivala": "da"
+    },
+    {
+      "godina": 1996,
+      "izvodac": "Petar Grašo",
+      "pjesma": "Prosjak ljubavi",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1996,
+      "izvodac": "Mladen Grdović & Bepo Matošić",
+      "pjesma": "Samo ti, Dalmacijo",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1996,
+      "izvodac": "Magazin",
+      "pjesma": "Suze biserne",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1997,
+      "izvodac": "Danijela Martinović",
+      "pjesma": "Da je slađe zaspati",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1997,
+      "izvodac": "Petar Grašo",
+      "pjesma": "Ne boli me",
+      "pobjednik_festivala": "da"
+    },
+    {
+      "godina": 1997,
+      "izvodac": "Giuliano",
+      "pjesma": "Zovem prijatelje moje",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1997,
+      "izvodac": "Neno Belan",
+      "pjesma": "Ponoćna zvona",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1997,
+      "izvodac": "Matko Jelavić & Zrinka",
+      "pjesma": "Ti, samo ti",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1997,
+      "izvodac": "Tedi Spalato",
+      "pjesma": "Dalmatinska pismo moja",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1997,
+      "izvodac": "Dino Dvornik",
+      "pjesma": "Điha, điha",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1998,
+      "izvodac": "Daleka Obala",
+      "pjesma": "80e",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1998,
+      "izvodac": "Dražen Zečić & Anđela",
+      "pjesma": "Ima li nade za nas",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1998,
+      "izvodac": "Danijela Martinović",
+      "pjesma": "Čekala sam kao žena",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1998,
+      "izvodac": "Goran Karan",
+      "pjesma": "Od jubavi sam duša ranjena",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1998,
+      "izvodac": "Magazin",
+      "pjesma": "Idi i ne budi ljude",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1998,
+      "izvodac": "Giuliano i Marijan Ban",
+      "pjesma": "Jugo",
+      "pobjednik_festivala": "da"
+    },
+    {
+      "godina": 1998,
+      "izvodac": "Minea",
+      "pjesma": "Rano",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1998,
+      "izvodac": "Đavoli",
+      "pjesma": "Jagode i čokolada",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1999,
+      "izvodac": "Giuliano",
+      "pjesma": "Kasno je sad",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1999,
+      "izvodac": "Tereza Kesovija",
+      "pjesma": "I ni´ me stra´",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1999,
+      "izvodac": "Goran Karan",
+      "pjesma": "Prozor kraj đardina",
+      "pobjednik_festivala": "da"
+    },
+    {
+      "godina": 1999,
+      "izvodac": "Magazin",
+      "pjesma": "Ako poludim",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1999,
+      "izvodac": "Petar Grašo",
+      "pjesma": "Lakše mi je s njom",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1999,
+      "izvodac": "Severina",
+      "pjesma": "Da si moj",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1999,
+      "izvodac": "Dino Dvornik",
+      "pjesma": "Dan bezbrižan",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1999,
+      "izvodac": "Jole",
+      "pjesma": "Nosi mi se bijela boja",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 1999,
+      "izvodac": "Alka Vuica",
+      "pjesma": "Varalica",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 2000,
+      "izvodac": "Petar Grašo",
+      "pjesma": "Sve nas manje ima",
+      "pobjednik_festivala": "da"
+    },
+    {
+      "godina": 2000,
+      "izvodac": "Goran Karan",
+      "pjesma": "Ja sam samo vagabundo",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 2000,
+      "izvodac": "Daleka obala",
+      "pjesma": "Ruzinavi brod",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 2000,
+      "izvodac": "Vanna",
+      "pjesma": "Ako je vrijedilo išta",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 2000,
+      "izvodac": "Vesna Pisarović",
+      "pjesma": "Jutro donosi kraj",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 2001,
+      "izvodac": "Severina",
+      "pjesma": "Virujen u te",
+      "pobjednik_festivala": "da"
+    },
+    {
+      "godina": 2001,
+      "izvodac": "Tedi Spalato",
+      "pjesma": "Moje izgubljeno blago",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 2002,
+      "izvodac": "Miroslav Škoro i Thompson",
+      "pjesma": "Reci brate moj",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 2002,
+      "izvodac": "Doris Dragović",
+      "pjesma": "Malo mi za sriću triba",
+      "pobjednik_festivala": "ne"
+    },
+    {
+      "godina": 2002,
+      "izvodac": "Goran Karan i Žan Jakopač",
+      "pjesma": "Ahoj! - lipi galebe moj",
+      "pobjednik_festivala": "da"
+    }
+  ],
+  "meta": {
+    "title": "Najznačajnije skladbe festivala Melodije hrvatskog Jadrana (1993.–2002.) - Free Download",
+    "description": "Popis najznačajnijih pjesama i izvođača splitskog glazbenog festivala Melodije hrvatskog Jadrana po godinama, s oznakom sveukupnih pobjednika festivala. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najznačajnije skladbe festivala Melodije hrvatskog Jadrana (1993.–2002.) | ListBase",
+    "seo_description": "Download Najznačajnije skladbe festivala Melodije hrvatskog Jadrana (1993.–2002.) — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Melodije_hrvatskog_Jadrana"
+    ]
+  }
+}

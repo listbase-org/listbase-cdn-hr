@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-03T02:21:23.283Z",
-  "total_datasets": 462,
-  "total_records": 825421,
+  "generated": "2026-11-03T02:21:31.486Z",
+  "total_datasets": 463,
+  "total_records": 825476,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -3427,6 +3427,31 @@
         "xlsx": {
           "name": "hr-eurovizija_HR.xlsx",
           "size": 8920
+        }
+      }
+    },
+    {
+      "id": "hr-melodije-hrvatskog-jadrana-skladbe",
+      "name": "Najznačajnije skladbe festivala Melodije hrvatskog Jadrana (1993.–2002.)",
+      "category": "music",
+      "record_count": 55,
+      "columns": [
+        "godina",
+        "izvodac",
+        "pjesma",
+        "pobjednik_festivala"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Melodije_hrvatskog_Jadrana",
+      "updated": "2026-11",
+      "size": 9470,
+      "files": {
+        "csv": {
+          "name": "hr-melodije-hrvatskog-jadrana-skladbe_HR.csv",
+          "size": 2586
+        },
+        "xlsx": {
+          "name": "hr-melodije-hrvatskog-jadrana-skladbe_HR.xlsx",
+          "size": 8728
         }
       }
     },
