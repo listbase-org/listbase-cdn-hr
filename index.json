@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-04T02:22:00.697Z",
-  "total_datasets": 467,
-  "total_records": 825757,
+  "generated": "2026-11-04T02:22:08.195Z",
+  "total_datasets": 468,
+  "total_records": 825826,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -10696,6 +10696,30 @@
         "xlsx": {
           "name": "hr-paleontoloska-nalazista_HR.xlsx",
           "size": 21505
+        }
+      }
+    },
+    {
+      "id": "hr-hrvatski-misionari",
+      "name": "Hrvatski misionari",
+      "category": "society",
+      "record_count": 69,
+      "columns": [
+        "ime",
+        "zajednica_ili_opis",
+        "zemlja_djelovanja"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_misionara",
+      "updated": "2026-11",
+      "size": 12453,
+      "files": {
+        "csv": {
+          "name": "hr-hrvatski-misionari_HR.csv",
+          "size": 5349
+        },
+        "xlsx": {
+          "name": "hr-hrvatski-misionari_HR.xlsx",
+          "size": 9412
         }
       }
     },

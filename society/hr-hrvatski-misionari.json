@@ -1,0 +1,386 @@
+{
+  "id": "hr-hrvatski-misionari",
+  "name": "Hrvatski misionari",
+  "title": "Hrvatski misionari",
+  "description": "Popis hrvatskih katoličkih misionara i misionarki s redovničkom zajednicom ili biskupijom te područjem djelovanja.",
+  "category": "society",
+  "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_misionara",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_misionara",
+  "updated": "2026-11",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "zajednica_ili_opis",
+      "label": "Zajednica Ili Opis",
+      "type": "string"
+    },
+    {
+      "key": "zemlja_djelovanja",
+      "label": "Zemlja Djelovanja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ime": "s. Mirjam Glavina",
+      "zajednica_ili_opis": "Red bosonogih karmelićanki",
+      "zemlja_djelovanja": "Albanija"
+    },
+    {
+      "ime": "s. Mihaela Grbeš",
+      "zajednica_ili_opis": "Red bosonogih karmelićanki",
+      "zemlja_djelovanja": "Albanija"
+    },
+    {
+      "ime": "s. Ana Milković",
+      "zajednica_ili_opis": "Red bosonogih karmelićanki",
+      "zemlja_djelovanja": "Albanija"
+    },
+    {
+      "ime": "s. Ancila Lulgjuraj",
+      "zajednica_ili_opis": "Red bosonogih karmelićanki",
+      "zemlja_djelovanja": "Albanija"
+    },
+    {
+      "ime": "fra Ilija kovačević",
+      "zajednica_ili_opis": "svećenik Franjevačke provincije Bosne Srebrene",
+      "zemlja_djelovanja": "Albanija"
+    },
+    {
+      "ime": "s. Nives Kozarić",
+      "zajednica_ili_opis": "Družba sestara milosrdnica sv. Vinka Paulskog",
+      "zemlja_djelovanja": "Argentina"
+    },
+    {
+      "ime": "s. Edita Lukić",
+      "zajednica_ili_opis": "Družba sestara milosrdnica sv. Vinka Paulskog",
+      "zemlja_djelovanja": "Argentina"
+    },
+    {
+      "ime": "s. Vicenta Marić",
+      "zajednica_ili_opis": "Družba sestara milosrdnica sv. Vinka Paulskog",
+      "zemlja_djelovanja": "Argentina"
+    },
+    {
+      "ime": "s. Stanislava Saćer",
+      "zajednica_ili_opis": "Družba sestara milosrdnica sv. Vinka Paulskog",
+      "zemlja_djelovanja": "Argentina"
+    },
+    {
+      "ime": "s. Marija Samuela Vilenica",
+      "zajednica_ili_opis": "Družba sestara milosrdnica sv. Vinka Paulskog",
+      "zemlja_djelovanja": "Argentina"
+    },
+    {
+      "ime": "s. Doroteja Dundjer",
+      "zajednica_ili_opis": "Družba Marijinih sestara čudotvorne medaljice",
+      "zemlja_djelovanja": "Benin"
+    },
+    {
+      "ime": "s. Ivančica Fulir",
+      "zajednica_ili_opis": "Družba Marijinih sestara čudotvorne medaljice",
+      "zemlja_djelovanja": "Benin"
+    },
+    {
+      "ime": "o. Milan Knezović",
+      "zajednica_ili_opis": "Družba Božje Riječi",
+      "zemlja_djelovanja": "Brazil"
+    },
+    {
+      "ime": "s. Vendelina Kvesić",
+      "zajednica_ili_opis": "Družba karmelićanki Božanskog Srca Isusova",
+      "zemlja_djelovanja": "Brazil"
+    },
+    {
+      "ime": "s. Beatrica Krstačić",
+      "zajednica_ili_opis": "Družba milosrdnih sestara sv. Križa",
+      "zemlja_djelovanja": "Brazil"
+    },
+    {
+      "ime": "don Rafael Gašpar",
+      "zajednica_ili_opis": "svećenik Hrvatske salezijanske provincije",
+      "zemlja_djelovanja": "Brazil"
+    },
+    {
+      "ime": "fra Ivica Vrbić",
+      "zajednica_ili_opis": "svećenik Hrvatske kapucinske provincije sv. Leopolda Mandića",
+      "zemlja_djelovanja": "Bolivija"
+    },
+    {
+      "ime": "o. Karlo Ćavar",
+      "zajednica_ili_opis": "svećenik Hrvatske dominikanske provincije",
+      "zemlja_djelovanja": "Bolivija"
+    },
+    {
+      "ime": "s. Adelina Franov",
+      "zajednica_ili_opis": "Družba Kćeri Milosrđa",
+      "zemlja_djelovanja": "Čile"
+    },
+    {
+      "ime": "don Marijan Zovak",
+      "zajednica_ili_opis": "svećenik Hrvatske salezijanske provincije",
+      "zemlja_djelovanja": "Dominikanska Republika"
+    },
+    {
+      "ime": "fra Ilija Barišić",
+      "zajednica_ili_opis": "svećenik Franjevačke provincije Zadar",
+      "zemlja_djelovanja": "DR Kongo"
+    },
+    {
+      "ime": "fra Pero Čuić",
+      "zajednica_ili_opis": "svećenik Hercegovačke franjevačke provincije",
+      "zemlja_djelovanja": "DR Kongo"
+    },
+    {
+      "ime": "s. Blaženka Barun",
+      "zajednica_ili_opis": "Družba školskih sestara franjevki (Splitska provincija)",
+      "zemlja_djelovanja": "DR Kongo"
+    },
+    {
+      "ime": "s. Erika Dadić",
+      "zajednica_ili_opis": "Družba školskih sestara franjevki (Splitska provincija)",
+      "zemlja_djelovanja": "DR Kongo"
+    },
+    {
+      "ime": "s. Mirabilis Višić",
+      "zajednica_ili_opis": "Družba školskih sestara franjevki (Splitska provincija)",
+      "zemlja_djelovanja": "DR Kongo"
+    },
+    {
+      "ime": "s. Mirjam Penić",
+      "zajednica_ili_opis": "Družba školskih sestara franjevki (Splitska provincija)",
+      "zemlja_djelovanja": "DR Kongo"
+    },
+    {
+      "ime": "s. Mislava Prkić",
+      "zajednica_ili_opis": "Družba školskih sestara franjevki (Splitska provincija)",
+      "zemlja_djelovanja": "DR Kongo"
+    },
+    {
+      "ime": "s. Romana Baković",
+      "zajednica_ili_opis": "Družba školskih sestara franjevki (Splitska provincija)",
+      "zemlja_djelovanja": "DR Kongo"
+    },
+    {
+      "ime": "s. Samuela Šimunović",
+      "zajednica_ili_opis": "Družba školskih sestara franjevki (Splitska provincija)",
+      "zemlja_djelovanja": "DR Kongo"
+    },
+    {
+      "ime": "don Luka Pranjić",
+      "zajednica_ili_opis": "svećenik Porečke i Pulske biskupije",
+      "zemlja_djelovanja": "Ekvador"
+    },
+    {
+      "ime": "s. Klementina Banožić",
+      "zajednica_ili_opis": "Družba Službenica milosrđa",
+      "zemlja_djelovanja": "Ekvador"
+    },
+    {
+      "ime": "s. Iva Jelić",
+      "zajednica_ili_opis": "Družba Službenica milosrđa",
+      "zemlja_djelovanja": "Ekvador"
+    },
+    {
+      "ime": "s. Lenka Čović",
+      "zajednica_ili_opis": "Zajednica Krista misionara molitelja",
+      "zemlja_djelovanja": "Ekvador"
+    },
+    {
+      "ime": "s. Magdalena Juretić",
+      "zajednica_ili_opis": "Zajednica Krista misionara molitelja",
+      "zemlja_djelovanja": "Ekvador"
+    },
+    {
+      "ime": "don Josip Ivan Soldo",
+      "zajednica_ili_opis": "salezijanac",
+      "zemlja_djelovanja": "Etiopija"
+    },
+    {
+      "ime": "s. Liberija Filipović",
+      "zajednica_ili_opis": "Služavke Malog Isusa",
+      "zemlja_djelovanja": "Haiti"
+    },
+    {
+      "ime": "s. Mirjam Filipović",
+      "zajednica_ili_opis": "",
+      "zemlja_djelovanja": "Haiti"
+    },
+    {
+      "ime": "s. Ana Uložnik",
+      "zajednica_ili_opis": "Služavke Malog Isusa",
+      "zemlja_djelovanja": "Haiti"
+    },
+    {
+      "ime": "s. Marija Celestina Gavrić",
+      "zajednica_ili_opis": "Družba karmelićanki Božanskog Srca Isusova, od 2001.",
+      "zemlja_djelovanja": "Island"
+    },
+    {
+      "ime": "včl. Karlo Prpić",
+      "zajednica_ili_opis": "svećenik Požeške biskupije",
+      "zemlja_djelovanja": "Kamerun"
+    },
+    {
+      "ime": "s. Miroljuba Anđelić",
+      "zajednica_ili_opis": "Družba kćeri Božje ljubavi",
+      "zemlja_djelovanja": "Kosovo"
+    },
+    {
+      "ime": "fra Lovro Gavran",
+      "zajednica_ili_opis": "svećenik Franjevačke provincije Bosna Srebrena",
+      "zemlja_djelovanja": "Kosovo"
+    },
+    {
+      "ime": "s. Marica Jelić",
+      "zajednica_ili_opis": "Družba sestara Kćeri Marije Pomoćnice",
+      "zemlja_djelovanja": "Madagaskar"
+    },
+    {
+      "ime": "vlč. Marko Dropuljić",
+      "zajednica_ili_opis": "svećenik Hrvatske salezijanske provincije",
+      "zemlja_djelovanja": "Mongolija"
+    },
+    {
+      "ime": "s. Ana Marija Maleš",
+      "zajednica_ili_opis": "Družba karmelićanki Božanskog Srca Isusova",
+      "zemlja_djelovanja": "Nigerija"
+    },
+    {
+      "ime": "s. Lucija Vincek",
+      "zajednica_ili_opis": "Družba karmelićanki Božanskog Srca Isusova",
+      "zemlja_djelovanja": "Nigerija"
+    },
+    {
+      "ime": "vlč. Krešo Maria Gabričević",
+      "zajednica_ili_opis": "svećenik Hrvatske salezijanske provincije",
+      "zemlja_djelovanja": "Papua Nova Gvineja"
+    },
+    {
+      "ime": "s. Julijana Beretić",
+      "zajednica_ili_opis": "Družba Kćeri Milosrđa",
+      "zemlja_djelovanja": "Peru"
+    },
+    {
+      "ime": "vlč. Marko Jukić",
+      "zajednica_ili_opis": "svećenik Vrhbosanske nadbiskupije",
+      "zemlja_djelovanja": "Peru"
+    },
+    {
+      "ime": "don Danko Litrić (Žeravica",
+      "zajednica_ili_opis": "1942.), svećenik Hrvatske salezijanske provincije, zaređen 29. lipnja 1968. u Zagrebu, u Ruandi od 1981.",
+      "zemlja_djelovanja": "Ruanda"
+    },
+    {
+      "ime": "s. Slavka Bogdan",
+      "zajednica_ili_opis": "Družba sestara milosrdnica sv. Vinka Paulskog",
+      "zemlja_djelovanja": "Salomonski otoci"
+    },
+    {
+      "ime": "s. Augustina Nikolić",
+      "zajednica_ili_opis": "Družba sestara milosrdnica sv. Vinka Paulskog",
+      "zemlja_djelovanja": "Salomonski otoci"
+    },
+    {
+      "ime": "s. Ruža Raič",
+      "zajednica_ili_opis": "Družba sestara milosrdnica sv. Vinka Paulskog",
+      "zemlja_djelovanja": "Salomonski otoci"
+    },
+    {
+      "ime": "s. Magdalena Marić",
+      "zajednica_ili_opis": "Družba sestara milosrdnica sv. Vinka Paulskog",
+      "zemlja_djelovanja": "Salomonski otoci"
+    },
+    {
+      "ime": "s. Veronika Ćibarić",
+      "zajednica_ili_opis": "Družba sestara milosrdnica sv. Vinka Paulskog",
+      "zemlja_djelovanja": "Salomonski otoci"
+    },
+    {
+      "ime": "don Ante Batarelo",
+      "zajednica_ili_opis": "svećenik Splitsko-makarske nadbiskupije, od 1974.",
+      "zemlja_djelovanja": "Tanzanija"
+    },
+    {
+      "ime": "don Nikola Sarić",
+      "zajednica_ili_opis": "svećenik Splitsko-makarske nadbiskupije",
+      "zemlja_djelovanja": "Tanzanija"
+    },
+    {
+      "ime": "don Dražan Klapež",
+      "zajednica_ili_opis": "svećenik Splitsko-makarske nadbiskupije",
+      "zemlja_djelovanja": "Tanzanija"
+    },
+    {
+      "ime": "don Velimir Tomić",
+      "zajednica_ili_opis": "svećenik Mostarsko-duvanjske biskupije",
+      "zemlja_djelovanja": "Tanzanija"
+    },
+    {
+      "ime": "don Jakoslav Banić",
+      "zajednica_ili_opis": "misija Nawanatau",
+      "zemlja_djelovanja": "Uganda"
+    },
+    {
+      "ime": "s. Ivka Lučić",
+      "zajednica_ili_opis": "",
+      "zemlja_djelovanja": "Uganda"
+    },
+    {
+      "ime": "s. Marija Vedrana Ljubić",
+      "zajednica_ili_opis": "FDC",
+      "zemlja_djelovanja": "Uganda"
+    },
+    {
+      "ime": "don Gabrijel Jukić",
+      "zajednica_ili_opis": "misija Adea",
+      "zemlja_djelovanja": "Uganda"
+    },
+    {
+      "ime": "Tomislav Puškarić",
+      "zajednica_ili_opis": "salezijanski bogoslov",
+      "zemlja_djelovanja": "Venezuela"
+    },
+    {
+      "ime": "don Boris Dabo",
+      "zajednica_ili_opis": "svećenik Krčke biskupije",
+      "zemlja_djelovanja": "Zambija"
+    },
+    {
+      "ime": "fra Ivica Perić",
+      "zajednica_ili_opis": "svećenik Franjevačke provincije Bosna Srebrena, misija Mwakapandula",
+      "zemlja_djelovanja": "Zambija"
+    },
+    {
+      "ime": "Sluga Božji don Ante Gabrić (1915. – 1988.)",
+      "zajednica_ili_opis": "isusovac, misionar u Bengalu",
+      "zemlja_djelovanja": "Indija"
+    },
+    {
+      "ime": "msgr. Drago Balvanović (1936. – 2026.)",
+      "zajednica_ili_opis": "svećenik Banjolučke biskupije, misionar u Limi (Peru) od 1987. do 2026., kanonik Stolnoga kaptola Limske nadbiskupije",
+      "zemlja_djelovanja": "Peru"
+    },
+    {
+      "ime": "fra Vjeko Ćurić (1957. – 1998.)",
+      "zajednica_ili_opis": "ubijen u genocidu u Ruandi",
+      "zemlja_djelovanja": "Ruanda"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatski misionari - Free Download",
+    "description": "Popis hrvatskih katoličkih misionara i misionarki s redovničkom zajednicom ili biskupijom te područjem djelovanja. Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatski misionari | ListBase",
+    "seo_description": "Download Hrvatski misionari — 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_hrvatskih_misionara"
+    ]
+  }
+}
