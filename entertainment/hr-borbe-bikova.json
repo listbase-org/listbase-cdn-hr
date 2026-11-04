@@ -1,0 +1,92 @@
+{
+  "id": "hr-borbe-bikova",
+  "name": "Borbe bikova (bikijade) u Hrvatskoj",
+  "title": "Borbe bikova (bikijade) u Hrvatskoj",
+  "description": "Popis mjesta i livada u Hrvatskoj na kojima se održavaju tradicionalne borbe bikova (bikijade).",
+  "category": "entertainment",
+  "source": "https://hr.wikipedia.org/wiki/Popis_borba_bikova_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_borba_bikova_u_Hrvatskoj",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "mjesto",
+      "label": "Mjesto",
+      "type": "string"
+    },
+    {
+      "key": "lokacija_i_napomena",
+      "label": "Lokacija I Napomena",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mjesto": "Dicmo (poslovna zona Dicmo)",
+      "lokacija_i_napomena": "zaselak Sičane"
+    },
+    {
+      "mjesto": "Glavina Donja",
+      "lokacija_i_napomena": "na Jagulovoj despotovini"
+    },
+    {
+      "mjesto": "Kladnjice (Lećevica) (od 2008.)",
+      "lokacija_i_napomena": ""
+    },
+    {
+      "mjesto": "Kreševo - Katuni",
+      "lokacija_i_napomena": "Vilića ledina, od 2002."
+    },
+    {
+      "mjesto": "Lokvičići",
+      "lokacija_i_napomena": "Lokvičko-Prološko polje"
+    },
+    {
+      "mjesto": "Nevest (Unešić)",
+      "lokacija_i_napomena": ""
+    },
+    {
+      "mjesto": "Ogorje",
+      "lokacija_i_napomena": ""
+    },
+    {
+      "mjesto": "Prgomet",
+      "lokacija_i_napomena": "Papića brig"
+    },
+    {
+      "mjesto": "Radošić",
+      "lokacija_i_napomena": "zaseljak Škopljanci (Lećevica) (organizirano od 1985.)"
+    },
+    {
+      "mjesto": "Runovići?",
+      "lokacija_i_napomena": ""
+    },
+    {
+      "mjesto": "Sinj",
+      "lokacija_i_napomena": "Čačijin dolac"
+    },
+    {
+      "mjesto": "Šestanovac",
+      "lokacija_i_napomena": ""
+    },
+    {
+      "mjesto": "Gornja Žeževica",
+      "lokacija_i_napomena": "zaselak Bekavci"
+    },
+    {
+      "mjesto": "Vrbovec",
+      "lokacija_i_napomena": "Gostović"
+    }
+  ],
+  "meta": {
+    "title": "Borbe bikova (bikijade) u Hrvatskoj - Free Download",
+    "description": "Popis mjesta i livada u Hrvatskoj na kojima se održavaju tradicionalne borbe bikova (bikijade). Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Borbe bikova (bikijade) u Hrvatskoj | ListBase",
+    "seo_description": "Download Borbe bikova (bikijade) u Hrvatskoj — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_borba_bikova_u_Hrvatskoj"
+    ]
+  }
+}
