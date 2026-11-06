@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-06T02:23:02.892Z",
-  "total_datasets": 471,
-  "total_records": 826042,
+  "generated": "2026-11-06T02:23:09.690Z",
+  "total_datasets": 472,
+  "total_records": 826060,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -3655,6 +3655,33 @@
         "xlsx": {
           "name": "hr-politicke-stranke-funkcije_HR.xlsx",
           "size": 206373
+        }
+      }
+    },
+    {
+      "id": "hr-predsjednici-sabora",
+      "name": "Predsjednici Hrvatskog sabora",
+      "category": "politics",
+      "record_count": 18,
+      "columns": [
+        "redni_broj",
+        "stranka",
+        "predsjednik",
+        "mandat",
+        "saziv",
+        "titula"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_predsjednika_Hrvatskog_sabora",
+      "updated": "2026-11",
+      "size": 6113,
+      "files": {
+        "csv": {
+          "name": "hr-predsjednici-sabora_HR.csv",
+          "size": 2303
+        },
+        "xlsx": {
+          "name": "hr-predsjednici-sabora_HR.xlsx",
+          "size": 7771
         }
       }
     },

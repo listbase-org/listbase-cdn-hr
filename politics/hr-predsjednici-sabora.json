@@ -1,0 +1,200 @@
+{
+  "id": "hr-predsjednici-sabora",
+  "name": "Predsjednici Hrvatskog sabora",
+  "title": "Predsjednici Hrvatskog sabora",
+  "description": "Popis predsjednika Hrvatskog sabora od 1990. s partijom, mandatom i sazivom.",
+  "category": "politics",
+  "source": "https://hr.wikipedia.org/wiki/Popis_predsjednika_Hrvatskog_sabora",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_predsjednika_Hrvatskog_sabora",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "redni_broj",
+      "label": "Redni Broj",
+      "type": "number"
+    },
+    {
+      "key": "stranka",
+      "label": "Stranka",
+      "type": "string"
+    },
+    {
+      "key": "predsjednik",
+      "label": "Predsjednik",
+      "type": "string"
+    },
+    {
+      "key": "mandat",
+      "label": "Mandat",
+      "type": "string"
+    },
+    {
+      "key": "saziv",
+      "label": "Saziv",
+      "type": "number"
+    },
+    {
+      "key": "titula",
+      "label": "Titula",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "redni_broj": "1",
+      "stranka": "HDZ",
+      "predsjednik": "Žarko Domljan",
+      "mandat": "30. svibnja 1990. – 7. rujna 1992.",
+      "saziv": "1",
+      "titula": "predsjednik Sabora Socijalističke Republike Hrvatske (30. svibnja 1990. – 25. srpnja 1990.)"
+    },
+    {
+      "redni_broj": "1",
+      "stranka": "HDZ",
+      "predsjednik": "Žarko Domljan",
+      "mandat": "30. svibnja 1990. – 7. rujna 1992.",
+      "saziv": "1",
+      "titula": "predsjednik Sabora Republike Hrvatske (25. srpnja 1990. – 7. rujna 1992.)"
+    },
+    {
+      "redni_broj": "2",
+      "stranka": "HDZ",
+      "predsjednik": "Stjepan Mesić",
+      "mandat": "7. rujna 1992. – 24. svibnja 1994.",
+      "saziv": "2",
+      "titula": "predsjednik Sabora Republike Hrvatske"
+    },
+    {
+      "redni_broj": "3",
+      "stranka": "HDZ",
+      "predsjednik": "Nedjeljko Mihanović",
+      "mandat": "24. svibnja 1994. – 28. studenog 1995.",
+      "saziv": "2",
+      "titula": "predsjednik Sabora Republike Hrvatske"
+    },
+    {
+      "redni_broj": "4",
+      "stranka": "HDZ",
+      "predsjednik": "Vlatko Pavletić",
+      "mandat": "28. studenog 1995. – 2. veljače 2000.",
+      "saziv": "3",
+      "titula": "predsjednik Sabora Republike Hrvatske (28. studenoga 1995. – 12. prosinca 1997.)"
+    },
+    {
+      "redni_broj": "4",
+      "stranka": "HDZ",
+      "predsjednik": "Vlatko Pavletić",
+      "mandat": "28. studenog 1995. – 2. veljače 2000.",
+      "saziv": "3",
+      "titula": "predsjednik Hrvatskog državnog sabora (12. prosinca 1997. – 2. veljače 2000.)"
+    },
+    {
+      "redni_broj": "5",
+      "stranka": "HSS",
+      "predsjednik": "Zlatko Tomčić",
+      "mandat": "2. veljače 2000. – 22. prosinca 2003.",
+      "saziv": "4",
+      "titula": "predsjednik Hrvatskog državnog sabora (2. veljače 2000. – 9. studenog 2000.)"
+    },
+    {
+      "redni_broj": "5",
+      "stranka": "HSS",
+      "predsjednik": "Zlatko Tomčić",
+      "mandat": "2. veljače 2000. – 22. prosinca 2003.",
+      "saziv": "4",
+      "titula": "predsjednik Hrvatskog sabora (9. studenog 2000. – 22. prosinca 2003.)"
+    },
+    {
+      "redni_broj": "6",
+      "stranka": "HDZ",
+      "predsjednik": "Vladimir Šeks",
+      "mandat": "22. prosinca 2003. – 11. siječnja 2008.",
+      "saziv": "5",
+      "titula": "predsjednik Hrvatskog sabora"
+    },
+    {
+      "redni_broj": "7",
+      "stranka": "HDZ",
+      "predsjednik": "Luka Bebić",
+      "mandat": "11. siječnja 2008. – 22. prosinca 2011.",
+      "saziv": "6",
+      "titula": "predsjednik Hrvatskog sabora"
+    },
+    {
+      "redni_broj": "8",
+      "stranka": "SDP",
+      "predsjednik": "Boris Šprem",
+      "mandat": "22. prosinca 2011. – 30. rujna 2012.",
+      "saziv": "7",
+      "titula": "predsjednik Hrvatskog sabora"
+    },
+    {
+      "redni_broj": "9",
+      "stranka": "SDP",
+      "predsjednik": "Josip Leko",
+      "mandat": "30. rujna 2012. – 10. listopada 2012. vršitelj dužnosti",
+      "saziv": "7",
+      "titula": "predsjednik Hrvatskog sabora"
+    },
+    {
+      "redni_broj": "9",
+      "stranka": "SDP",
+      "predsjednik": "Josip Leko",
+      "mandat": "10. listopada 2012. – 28. prosinca 2015.",
+      "saziv": "7",
+      "titula": "predsjednik Hrvatskog sabora"
+    },
+    {
+      "redni_broj": "10",
+      "stranka": "HDZ",
+      "predsjednik": "Željko Reiner",
+      "mandat": "28. prosinca 2015. – 14. listopada 2016.",
+      "saziv": "8",
+      "titula": "predsjednik Hrvatskog sabora"
+    },
+    {
+      "redni_broj": "11",
+      "stranka": "Most",
+      "predsjednik": "Božo Petrov",
+      "mandat": "14. listopada 2016. – 5. svibnja 2017.",
+      "saziv": "9",
+      "titula": "predsjednik Hrvatskog sabora"
+    },
+    {
+      "redni_broj": "12",
+      "stranka": "HDZ",
+      "predsjednik": "Gordan Jandroković",
+      "mandat": "5. svibnja 2017. – 21. srpnja 2020.",
+      "saziv": "9",
+      "titula": "predsjednik Hrvatskog sabora"
+    },
+    {
+      "redni_broj": "12",
+      "stranka": "HDZ",
+      "predsjednik": "Gordan Jandroković",
+      "mandat": "22. srpnja 2020. – 16. svibnja 2024.",
+      "saziv": "10",
+      "titula": "predsjednik Hrvatskog sabora"
+    },
+    {
+      "redni_broj": "12",
+      "stranka": "HDZ",
+      "predsjednik": "Gordan Jandroković",
+      "mandat": "16. svibnja 2024. – danas",
+      "saziv": "11",
+      "titula": "predsjednik Hrvatskog sabora"
+    }
+  ],
+  "meta": {
+    "title": "Predsjednici Hrvatskog sabora - Free Download",
+    "description": "Popis predsjednika Hrvatskog sabora od 1990. s partijom, mandatom i sazivom. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Predsjednici Hrvatskog sabora | ListBase",
+    "seo_description": "Download Predsjednici Hrvatskog sabora — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_predsjednika_Hrvatskog_sabora"
+    ]
+  }
+}
