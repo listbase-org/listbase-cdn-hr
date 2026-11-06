@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-06T02:22:48.756Z",
-  "total_datasets": 469,
-  "total_records": 825837,
+  "generated": "2026-11-06T02:22:55.580Z",
+  "total_datasets": 470,
+  "total_records": 825972,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -10853,6 +10853,31 @@
         "xlsx": {
           "name": "hr-auto-moto-staze_HR.xlsx",
           "size": 10674
+        }
+      }
+    },
+    {
+      "id": "hr-bocarsi-klubovi",
+      "name": "Boćarski klubovi u Hrvatskoj",
+      "category": "sports",
+      "record_count": 135,
+      "columns": [
+        "naziv",
+        "sjediste",
+        "adresa",
+        "uspjesi"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_boćarskih_klubova_u_Hrvatskoj",
+      "updated": "2026-11",
+      "size": 20552,
+      "files": {
+        "csv": {
+          "name": "hr-bocarsi-klubovi_HR.csv",
+          "size": 8032
+        },
+        "xlsx": {
+          "name": "hr-bocarsi-klubovi_HR.xlsx",
+          "size": 12027
         }
       }
     },

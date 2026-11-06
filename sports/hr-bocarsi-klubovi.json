@@ -1,0 +1,856 @@
+{
+  "id": "hr-bocarsi-klubovi",
+  "name": "Boćarski klubovi u Hrvatskoj",
+  "title": "Boćarski klubovi u Hrvatskoj",
+  "description": "Popis boćarskih klubova u Hrvatskoj sa sjedištem, adresom i klupskim uspjesima.",
+  "category": "sports",
+  "source": "https://hr.wikipedia.org/wiki/Popis_boćarskih_klubova_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_boćarskih_klubova_u_Hrvatskoj",
+  "updated": "2026-11",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "sjediste",
+      "label": "Sjediste",
+      "type": "string"
+    },
+    {
+      "key": "adresa",
+      "label": "Adresa",
+      "type": "string"
+    },
+    {
+      "key": "uspjesi",
+      "label": "Uspjesi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naziv": "Boćarski klub Albatros",
+      "sjediste": "Rab",
+      "adresa": "Barbat 78",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub dr Ante Starčević (Zagreb)",
+      "sjediste": "Zagreb",
+      "adresa": "Plješivička 46",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Asfalt Ploče",
+      "sjediste": "Ploče",
+      "adresa": "Rogotinska 16",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Barat",
+      "sjediste": "Rovinj",
+      "adresa": "Trg na Križu 5",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Baćina",
+      "sjediste": "Baćina, Ploče",
+      "adresa": "Put Sladinca 14",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Belišće",
+      "sjediste": "Belišće",
+      "adresa": "Vladimira Nazora 15",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Benčić DSK",
+      "sjediste": "Rijeka",
+      "adresa": "Becićeva 6",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Berinovac",
+      "sjediste": "Krivodol",
+      "adresa": "Berinovac 89",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Bili brig",
+      "sjediste": "Zadar",
+      "adresa": "Viktora Vide 64",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Bistrina",
+      "sjediste": "Topolo",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Brajda",
+      "sjediste": "Rijeka",
+      "adresa": "Z. Petrovića 1",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Brezik",
+      "sjediste": "Našice",
+      "adresa": "Strossmayerova 28",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Brgat",
+      "sjediste": "Gornji Brgat kod Mlina",
+      "adresa": "Put hrvatskih branitelja",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Brodarica",
+      "sjediste": "Zadar",
+      "adresa": "Put Dikla 20a",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Bulin - Imotski",
+      "sjediste": "Imotski",
+      "adresa": "Glavina Donja bb",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarsku klub Bulin - Zemunik Donji",
+      "sjediste": "Zemunik Donji",
+      "adresa": "Zemunik Donji",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Croatia (Šibenik)",
+      "sjediste": "Šibenik",
+      "adresa": "Stjepana Radića 9",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Drenova",
+      "sjediste": "Rijeka",
+      "adresa": "Drenovski put 176",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Dubank",
+      "sjediste": "Dubrovnik",
+      "adresa": "Put Republike 9",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Dubec",
+      "sjediste": "Zagreb",
+      "adresa": "Prominska 36",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Dubrava",
+      "sjediste": "Zagreb",
+      "adresa": "V. Poljarice 3",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Elektrodalmacija",
+      "sjediste": "Split",
+      "adresa": "Vinkovačka 39",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub FEŠK-Feravino",
+      "sjediste": "Feričanci",
+      "adresa": "Vinogradska 60",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub FINA",
+      "sjediste": "Split",
+      "adresa": "Dubrovačka 57",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Flora",
+      "sjediste": "Zagreb",
+      "adresa": "J. Martinovića 15",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Frankopan",
+      "sjediste": "Čavle",
+      "adresa": "Grobnik 40",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Funtana",
+      "sjediste": "Funtana",
+      "adresa": "Ribarska 16",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Gorčina",
+      "sjediste": "Omiš",
+      "adresa": "Četvrt Ž. Dražojevića 15",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Gromača",
+      "sjediste": "Dubrovnik",
+      "adresa": "Iva Vojnovića 71",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub HEP",
+      "sjediste": "Zagreb",
+      "adresa": "Braće Domany 6",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub HVIDRA",
+      "sjediste": "Makarska",
+      "adresa": "Zrinski Frankopana 3c",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub HVIDR-a Trešnjevka",
+      "sjediste": "Zagreb",
+      "adresa": "Ozaljska 16",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Bas (Povljana)",
+      "sjediste": "Povljana",
+      "adresa": "Vlašići b.b.",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Hajduk (Pridraga)",
+      "sjediste": "Pridraga",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Hidroelektrana Dubrovnik",
+      "sjediste": "Mlini",
+      "adresa": "Put Kupara 53",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Hoteli Makarska",
+      "sjediste": "Makarska",
+      "adresa": "Molizanskih Hrvata, Uglovnica 2",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Hrvatski dragovoljac",
+      "sjediste": "Zagreb",
+      "adresa": "fra Filipa Grabovca 20",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Imotski",
+      "sjediste": "Imotski",
+      "adresa": "Ante Starčevića 23",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Iskra",
+      "sjediste": "Labin",
+      "adresa": "Vinež",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Istra aluminij",
+      "sjediste": "Roč",
+      "adresa": "Ročko polje 54/1",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Istra Poreč",
+      "sjediste": "Poreč",
+      "adresa": "Alekse Šantića 5",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Jedinstvo",
+      "sjediste": "Nedešćina",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Jurazini",
+      "sjediste": "Jurazini",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Kamen",
+      "sjediste": "Pazin",
+      "adresa": "Rijevac 3",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Kastav",
+      "sjediste": "Kastav",
+      "adresa": "Kastav 100",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Kaštelir",
+      "sjediste": "Kaštelir",
+      "adresa": "Kaštelir 120",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Kijevo (Zagreb)",
+      "sjediste": "Zagreb",
+      "adresa": "Sitnice 13",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Komiža",
+      "sjediste": "Komiža",
+      "adresa": "Biševska b.b.",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Komolac",
+      "sjediste": "Mokošica",
+      "adresa": "Komolac 52",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Kostrena",
+      "sjediste": "Kostrena",
+      "adresa": "Žuknica 7",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Krnjesavac",
+      "sjediste": "Metković",
+      "adresa": "Andrije Kačića Miošića 40",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Kruševo",
+      "sjediste": "Kruševo kod Obrovca",
+      "adresa": "Obala kralja Petra Krešimira IV. 6/4",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Krvavac",
+      "sjediste": "Metković",
+      "adresa": "Krvavac 2, Neretvanska 79",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Labin",
+      "sjediste": "Labin",
+      "adresa": "Šćiri 3b",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Lapovci-Dilj",
+      "sjediste": "Vinkovci",
+      "adresa": "Sl. Jankovića 14",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Lovran",
+      "sjediste": "Lovran",
+      "adresa": "9. rujna 5",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Lošinj '90",
+      "sjediste": "Mali Lošinj",
+      "adresa": "Nikole Tesle 8",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Marinići",
+      "sjediste": "Marinići kod Rijeke",
+      "adresa": "Marinići 21b",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Mario Gennari - JGL",
+      "sjediste": "Rijeka",
+      "adresa": "Ludvetov breg 18",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Marjan",
+      "sjediste": "Split",
+      "adresa": "Visoka 29",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Marčelji",
+      "sjediste": "Viškovo",
+      "adresa": "Marčelji 29",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Metković",
+      "sjediste": "Metković",
+      "adresa": "Kneza Trpimira 21",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Mlada Retfala Slavonijainspekt",
+      "sjediste": "Osijek",
+      "adresa": "Kneza Borne 1",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Mladost - Cestorad",
+      "sjediste": "Vinkovci",
+      "adresa": "Hrvatskih kraljeva 17",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Muntrilj",
+      "sjediste": "Tinjan",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Muzgavac",
+      "sjediste": "Jelsa",
+      "adresa": "Vitarnja b.b.",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Nada",
+      "sjediste": "Split",
+      "adresa": "Jurja Dobrile 16",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Naklice",
+      "sjediste": "Naklice",
+      "adresa": "Naklice bb, 21252 Tugare",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Novi list",
+      "sjediste": "Rijeka",
+      "adresa": "Zvonimirova 20a",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Novi Retkovec",
+      "sjediste": "Zagreb",
+      "adresa": "Sitnice 13",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Olimpija (Osijek)",
+      "sjediste": "Osijek",
+      "adresa": "Mostarska 173",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Olimpija (Pula)",
+      "sjediste": "Pula",
+      "adresa": "Ivančićeva 23",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Ombla",
+      "sjediste": "Gornje Obuljeno kod Mokošice",
+      "adresa": "Gornje Obuljeno",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Otok",
+      "sjediste": "Otok kod Sinja",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Otok",
+      "sjediste": "Otok kod Preloga",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Paklenica (Čačinci)",
+      "sjediste": "Čačinci",
+      "adresa": "Bukvik 27",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Pampas",
+      "sjediste": "Tenja kod Osijeka",
+      "adresa": "Svete Ane 2",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Ploče",
+      "sjediste": "Ploče",
+      "adresa": "Tina Ujevića 14",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Podhum KWSO Grobnik",
+      "sjediste": "Podhum kod Dražica",
+      "adresa": "Podhum 163",
+      "uspjesi": "hrvatski boćarski prvoligaš, 7. mjesto osvojeno u sezoni 2004."
+    },
+    {
+      "naziv": "Boćarski klub Polet",
+      "sjediste": "Snašići",
+      "adresa": "Snašići",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Poljane",
+      "sjediste": "Poljane (Opatija)",
+      "adresa": "Poljane 21",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Postranje",
+      "sjediste": "Postranje",
+      "adresa": "Martinovići 7",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Povljana",
+      "sjediste": "Povljana",
+      "adresa": "Dinjiška b.b.",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Predolac",
+      "sjediste": "Metković",
+      "adresa": "Ante Starčevića 9",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Prečko",
+      "sjediste": "Zagreb",
+      "adresa": "Štefanićeva 6",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Prud",
+      "sjediste": "Prud (Metković)",
+      "adresa": "Prud bb",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Raša",
+      "sjediste": "Raša",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Reginex",
+      "sjediste": "Pazin",
+      "adresa": "Grubiši 13",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Rijeka (Mlini)",
+      "sjediste": "Mlini",
+      "adresa": "Put dragovoljaca Domovinskog rata 105",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Rogotin",
+      "sjediste": "Rogotin",
+      "adresa": "Antuna Gustava Matoša 19",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Rudar",
+      "sjediste": "Labin",
+      "adresa": "Šćiri 3b",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Santa Domenica",
+      "sjediste": "Kaštelir",
+      "adresa": "Labinci 31",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Siget Osvit",
+      "sjediste": "Zagreb",
+      "adresa": "Rapska 4",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Signalizacija",
+      "sjediste": "Dubrovnik",
+      "adresa": "Kneza Domagoja 15",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Sjenjak",
+      "sjediste": "Osijek",
+      "adresa": "I.G. Kovačića 2a",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Slaven",
+      "sjediste": "Gruda",
+      "adresa": "Gruda 98",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Slivno",
+      "sjediste": "Slivno kod Blaca",
+      "adresa": "Trn b.b.",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Sokol (Dubravka)",
+      "sjediste": "Dubravka",
+      "adresa": "Pičete",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Sokol (Dugopolje)",
+      "sjediste": "Dugopolje",
+      "adresa": "Ante Starčevića 8a",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Solaris",
+      "sjediste": "Zablaće",
+      "adresa": "Put igrališta 25",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Sonković",
+      "sjediste": "selo Sonković kraj Skradina",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Srdoči",
+      "sjediste": "Rijeka",
+      "adresa": "Marković b.b.",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Staševica",
+      "sjediste": "Staševica",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Stivan",
+      "sjediste": "Sutivan",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Strijelac",
+      "sjediste": "Dubrovnik",
+      "adresa": "Liechtensteinov put 36",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Sv. Petar u Šumi Petar",
+      "sjediste": "Sveti Petar u Šumi",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Sveti Rok",
+      "sjediste": "Klana",
+      "adresa": "Klana 231",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Šarić Struga",
+      "sjediste": "Šarić Struga kod Rogotina",
+      "adresa": "Šarić Struga 15a",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Šibenik",
+      "sjediste": "Šibenik",
+      "adresa": "Ive Ninića Ivasa 19",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Boćarski klub \"Štandar\" Muntrilj",
+      "sjediste": "Tinjan",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Telekom",
+      "sjediste": "Zagreb",
+      "adresa": "Trg Ivana Kukuljevića 8",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Toni-Benz",
+      "sjediste": "Proložac Donji",
+      "adresa": "Proložac Donji bb",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Trilj",
+      "sjediste": "Trilj",
+      "adresa": "Kralja Tomislava 6",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Trio Buzet",
+      "sjediste": "Štrpeda kod Buzeta",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Trsat",
+      "sjediste": "Rijeka",
+      "adresa": "Vrlije 3",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Trstena",
+      "sjediste": "Njivice",
+      "adresa": "Placa 2",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Tupljak",
+      "sjediste": "Tupljak",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Uljanik",
+      "sjediste": "Pula",
+      "adresa": "Viška 22",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Umag",
+      "sjediste": "Umag",
+      "adresa": "Velanija b.b.",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Umčani",
+      "sjediste": "Umčani",
+      "adresa": "Umčani b.b.",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Usluga",
+      "sjediste": "Pazin",
+      "adresa": "Žbelini 94b",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Velebit",
+      "sjediste": "Benkovac",
+      "adresa": "Poljana Zrinski Frankopana 4/2",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Vetva",
+      "sjediste": "Županići",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Vežica",
+      "sjediste": "Rijeka",
+      "adresa": "Dr. Z. Kučića 27",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Vid",
+      "sjediste": "Beli Manastir",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Vis",
+      "sjediste": "Vis",
+      "adresa": "Vukovarska 8",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Višnjevac",
+      "sjediste": "Višnjevac",
+      "adresa": "Kralja Tomislava 84b",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Vodice",
+      "sjediste": "Vodice",
+      "adresa": "Trg kralja Branimira 32",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Wels",
+      "sjediste": "Velimirovac",
+      "adresa": "Sl. Jankovića 14",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Zagreb",
+      "sjediste": "Zagreb",
+      "adresa": "Tomislavova 7",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Zaprešić",
+      "sjediste": "Zaprešić",
+      "adresa": "A. Mihanovića 38",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Zlatan Otok",
+      "sjediste": "Sveta Nedjelja",
+      "adresa": "Križna luka b.b",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Zrinski",
+      "sjediste": "Knin",
+      "adresa": "",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Zrinjevac",
+      "sjediste": "Zagreb",
+      "adresa": "Prisavlje 2",
+      "uspjesi": ""
+    },
+    {
+      "naziv": "Boćarski klub Župa dubrovačka",
+      "sjediste": "Mlini u Župi dubrovačkoj",
+      "adresa": "Put dragovoljaca Domovinskog rata 134",
+      "uspjesi": ""
+    }
+  ],
+  "meta": {
+    "title": "Boćarski klubovi u Hrvatskoj - Free Download",
+    "description": "Popis boćarskih klubova u Hrvatskoj sa sjedištem, adresom i klupskim uspjesima. Contains 135 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Boćarski klubovi u Hrvatskoj | ListBase",
+    "seo_description": "Download Boćarski klubovi u Hrvatskoj — 135 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 135 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_boćarskih_klubova_u_Hrvatskoj"
+    ]
+  }
+}
