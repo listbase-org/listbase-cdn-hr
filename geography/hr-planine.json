@@ -1,0 +1,391 @@
+{
+  "id": "hr-planine",
+  "name": "Planine Hrvatske",
+  "title": "Planine Hrvatske",
+  "description": "Popis planina u Hrvatskoj s najvišim vrhom i nadmorskom visinom u metrima.",
+  "category": "geography",
+  "source": "https://hr.wikipedia.org/wiki/Planine_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Planine_Hrvatske",
+  "updated": "2026-11",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "planina",
+      "label": "Planina",
+      "type": "string"
+    },
+    {
+      "key": "vrh",
+      "label": "Vrh",
+      "type": "string"
+    },
+    {
+      "key": "visina_m",
+      "label": "Visina M",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "planina": "Dinara",
+      "vrh": "Dinara / Sinjal",
+      "visina_m": 1831
+    },
+    {
+      "planina": "Kamešnica",
+      "vrh": "Kamešnica (pripada BiH)",
+      "visina_m": 1809
+    },
+    {
+      "planina": "Biokovo",
+      "vrh": "Sveti Jure",
+      "visina_m": 1762
+    },
+    {
+      "planina": "Velebit",
+      "vrh": "Vaganski vrh",
+      "visina_m": 1757
+    },
+    {
+      "planina": "Plješevica",
+      "vrh": "Ozeblin",
+      "visina_m": 1657
+    },
+    {
+      "planina": "Velika Kapela",
+      "vrh": "Bjelolasica",
+      "visina_m": 1534
+    },
+    {
+      "planina": "Risnjak",
+      "vrh": "Risnjak",
+      "visina_m": 1528
+    },
+    {
+      "planina": "Svilaja",
+      "vrh": "Svilaja",
+      "visina_m": 1508
+    },
+    {
+      "planina": "Snježnik",
+      "vrh": "Snježnik",
+      "visina_m": 1506
+    },
+    {
+      "planina": "Viševica",
+      "vrh": "Viševica",
+      "visina_m": 1428
+    },
+    {
+      "planina": "Učka",
+      "vrh": "Vojak",
+      "visina_m": 1396
+    },
+    {
+      "planina": "Bitoraj",
+      "vrh": "Bitoraj",
+      "visina_m": 1386
+    },
+    {
+      "planina": "Mosor",
+      "vrh": "Mosor",
+      "visina_m": 1339
+    },
+    {
+      "planina": "Vrgorsko gorje",
+      "vrh": "Veliki Šibenik",
+      "visina_m": 1314
+    },
+    {
+      "planina": "Mala Kapela",
+      "vrh": "Seliški vrh",
+      "visina_m": 1279
+    },
+    {
+      "planina": "Ćićarija",
+      "vrh": "Veliki plamik",
+      "visina_m": 1272
+    },
+    {
+      "planina": "Sniježnica",
+      "vrh": "Sniježnica",
+      "visina_m": 1234
+    },
+    {
+      "planina": "Veliki Kozjak",
+      "vrh": "Bat",
+      "visina_m": 1207
+    },
+    {
+      "planina": "Klek",
+      "vrh": "Klek",
+      "visina_m": 1182
+    },
+    {
+      "planina": "Žumberačka gora",
+      "vrh": "Sveta Gera",
+      "visina_m": 1181
+    },
+    {
+      "planina": "Promina",
+      "vrh": "Čavnovka",
+      "visina_m": 1148
+    },
+    {
+      "planina": "Tuhobić",
+      "vrh": "Tuhobić",
+      "visina_m": 1106
+    },
+    {
+      "planina": "Ivanščica",
+      "vrh": "Ivanščica",
+      "visina_m": 1059
+    },
+    {
+      "planina": "Medvednica",
+      "vrh": "Sljeme",
+      "visina_m": 1035
+    },
+    {
+      "planina": "Psunj",
+      "vrh": "Brezovo polje",
+      "visina_m": 984
+    },
+    {
+      "planina": "Zmijino brdo",
+      "vrh": "Sveti Ilija",
+      "visina_m": 961
+    },
+    {
+      "planina": "Papuk",
+      "vrh": "Papuk",
+      "visina_m": 953
+    },
+    {
+      "planina": "Rilić",
+      "vrh": "Šapašnik",
+      "visina_m": 920
+    },
+    {
+      "planina": "Samoborska gora",
+      "vrh": "Japetić",
+      "visina_m": 879
+    },
+    {
+      "planina": "Zir",
+      "vrh": "Zir",
+      "visina_m": 850
+    },
+    {
+      "planina": "Strahinjčica",
+      "vrh": "Strahinjčica",
+      "visina_m": 846
+    },
+    {
+      "planina": "Moseć",
+      "vrh": "Movran",
+      "visina_m": 838
+    },
+    {
+      "planina": "Krndija",
+      "vrh": "Kapovac",
+      "visina_m": 792
+    },
+    {
+      "planina": "Vidova gora",
+      "vrh": "Sutvid",
+      "visina_m": 780
+    },
+    {
+      "planina": "Kozjak",
+      "vrh": "Sveti Luka",
+      "visina_m": 779
+    },
+    {
+      "planina": "Plešivica",
+      "vrh": "Plešivica",
+      "visina_m": 777
+    },
+    {
+      "planina": "Boraja",
+      "vrh": "Crni vrh",
+      "visina_m": 739
+    },
+    {
+      "planina": "Ravna gora",
+      "vrh": "Ravna gora",
+      "visina_m": 686
+    },
+    {
+      "planina": "Jurašinka",
+      "vrh": "Jurašinka",
+      "visina_m": 674
+    },
+    {
+      "planina": "Opor",
+      "vrh": "Crni krug",
+      "visina_m": 650
+    },
+    {
+      "planina": "Kalnik",
+      "vrh": "Vranilac",
+      "visina_m": 642
+    },
+    {
+      "planina": "Sveti Nikola",
+      "vrh": "Sveti Nikola",
+      "visina_m": 627
+    },
+    {
+      "planina": "Požeška gora",
+      "vrh": "Kapavac",
+      "visina_m": 618
+    },
+    {
+      "planina": "Zrinska gora",
+      "vrh": "Piramida",
+      "visina_m": 616
+    },
+    {
+      "planina": "Osoršćica",
+      "vrh": "Osoršćica",
+      "visina_m": 589
+    },
+    {
+      "planina": "Klupca",
+      "vrh": "Klupca",
+      "visina_m": 569
+    },
+    {
+      "planina": "Obzova",
+      "vrh": "Obzova",
+      "visina_m": 568
+    },
+    {
+      "planina": "Vodenica",
+      "vrh": "Vodenica",
+      "visina_m": 537
+    },
+    {
+      "planina": "Petrova gora",
+      "vrh": "Veliki Petrovac",
+      "visina_m": 512
+    },
+    {
+      "planina": "1.",
+      "vrh": "Šibensko-kninska",
+      "visina_m": "Sinjal"
+    },
+    {
+      "planina": "2.",
+      "vrh": "Splitsko-dalmatinska",
+      "visina_m": "Sveti Jure"
+    },
+    {
+      "planina": "3.",
+      "vrh": "Ličko-senjska",
+      "visina_m": "Vaganski vrh"
+    },
+    {
+      "planina": "4.",
+      "vrh": "Zadarska županija",
+      "visina_m": "Vaganski vrh"
+    },
+    {
+      "planina": "5.",
+      "vrh": "Primorsko-goranska",
+      "visina_m": "Kula"
+    },
+    {
+      "planina": "6.",
+      "vrh": "Karlovačka",
+      "visina_m": "Kula"
+    },
+    {
+      "planina": "7.",
+      "vrh": "Istarska",
+      "visina_m": "Veliki Planik"
+    },
+    {
+      "planina": "8.",
+      "vrh": "Dubrovačko-neretvanska",
+      "visina_m": "Sveti Ilija"
+    },
+    {
+      "planina": "9.",
+      "vrh": "Krapinsko-zagorska",
+      "visina_m": "Ivanščica"
+    },
+    {
+      "planina": "10.",
+      "vrh": "Grad Zagreb",
+      "visina_m": "Sljeme"
+    },
+    {
+      "planina": "11.",
+      "vrh": "Zagrebačka",
+      "visina_m": "bezimeni vrh"
+    },
+    {
+      "planina": "12.",
+      "vrh": "Požeško-slavonska",
+      "visina_m": "Brezovo polje"
+    },
+    {
+      "planina": "13.",
+      "vrh": "Virovitičko-podravska",
+      "visina_m": "Papuk"
+    },
+    {
+      "planina": "14.",
+      "vrh": "Bjelovarsko-bilogorska",
+      "visina_m": "Crni vrh"
+    },
+    {
+      "planina": "15.",
+      "vrh": "Osječko-baranjska",
+      "visina_m": "Petrov vrh"
+    },
+    {
+      "planina": "16.",
+      "vrh": "Varaždinska",
+      "visina_m": "Ivanščica"
+    },
+    {
+      "planina": "17.",
+      "vrh": "Koprivničko-križevačka",
+      "visina_m": "Vranilac"
+    },
+    {
+      "planina": "18.",
+      "vrh": "Brodsko-posavska",
+      "visina_m": "Kapovac"
+    },
+    {
+      "planina": "19.",
+      "vrh": "Sisačko-moslavačka",
+      "visina_m": "Piramida"
+    },
+    {
+      "planina": "20.",
+      "vrh": "Međimurska",
+      "visina_m": "Mohokos"
+    },
+    {
+      "planina": "21.",
+      "vrh": "Vukovarsko-srijemska",
+      "visina_m": "Liska"
+    }
+  ],
+  "meta": {
+    "title": "Planine Hrvatske - Free Download",
+    "description": "Popis planina u Hrvatskoj s najvišim vrhom i nadmorskom visinom u metrima. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Planine Hrvatske | ListBase",
+    "seo_description": "Download Planine Hrvatske — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Planine_Hrvatske"
+    ]
+  }
+}

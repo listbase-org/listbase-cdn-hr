@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-06T02:22:55.580Z",
-  "total_datasets": 470,
-  "total_records": 825972,
+  "generated": "2026-11-06T02:23:02.892Z",
+  "total_datasets": 471,
+  "total_records": 826042,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "health",
@@ -2678,6 +2678,30 @@
         "xlsx": {
           "name": "hr-osobna-imena_HR.xlsx",
           "size": 7446
+        }
+      }
+    },
+    {
+      "id": "hr-planine",
+      "name": "Planine Hrvatske",
+      "category": "geography",
+      "record_count": 70,
+      "columns": [
+        "planina",
+        "vrh",
+        "visina_m"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Planine_Hrvatske",
+      "updated": "2026-11",
+      "size": 7845,
+      "files": {
+        "csv": {
+          "name": "hr-planine_HR.csv",
+          "size": 2306
+        },
+        "xlsx": {
+          "name": "hr-planine_HR.xlsx",
+          "size": 8769
         }
       }
     },
