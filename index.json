@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-06T02:23:09.690Z",
-  "total_datasets": 472,
-  "total_records": 826060,
+  "generated": "2026-11-06T02:23:16.139Z",
+  "total_datasets": 473,
+  "total_records": 826090,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -2154,6 +2154,32 @@
         "xlsx": {
           "name": "hr-zagreb-banke_HR.xlsx",
           "size": 8230
+        }
+      }
+    },
+    {
+      "id": "hr-medimurska-jela",
+      "name": "Jela međimurske kuhinje",
+      "category": "food",
+      "record_count": 30,
+      "columns": [
+        "naziv",
+        "vrsta",
+        "sastojci",
+        "napomene",
+        "kategorija"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_jela_međimurske_kuhinje",
+      "updated": "2026-11",
+      "size": 12227,
+      "files": {
+        "csv": {
+          "name": "hr-medimurska-jela_HR.csv",
+          "size": 7601
+        },
+        "xlsx": {
+          "name": "hr-medimurska-jela_HR.xlsx",
+          "size": 10175
         }
       }
     },

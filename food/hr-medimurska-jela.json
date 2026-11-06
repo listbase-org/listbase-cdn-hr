@@ -1,0 +1,261 @@
+{
+  "id": "hr-medimurska-jela",
+  "name": "Jela međimurske kuhinje",
+  "title": "Jela međimurske kuhinje",
+  "description": "Popis tradicionalnih jela međimurske kuhinje po kategorijama, s vrstom, sastojcima i napomenama.",
+  "category": "food",
+  "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_jela_međimurske_kuhinje",
+  "source_url": "https://hr.wikipedia.org/wiki/Dodatak:Popis_jela_međimurske_kuhinje",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "vrsta",
+      "label": "Vrsta",
+      "type": "string"
+    },
+    {
+      "key": "sastojci",
+      "label": "Sastojci",
+      "type": "string"
+    },
+    {
+      "key": "napomene",
+      "label": "Napomene",
+      "type": "string"
+    },
+    {
+      "key": "kategorija",
+      "label": "Kategorija",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naziv": "Meso z tiblice",
+      "vrsta": "hladno predjelo",
+      "sastojci": "svinjsko meso (but, kare, plećka i sl.), \"slan í ne\" (kosana svinjska mast), začini",
+      "napomene": "meso najprije uronjeno u rasol (salamuru), zatim toplinski obrađeno te ohlađeno, na kraju se stavlja u tiblicu, posudu sa \"slan í nama\" (kosanom masti)",
+      "kategorija": "Predjela"
+    },
+    {
+      "naziv": "Turoš",
+      "vrsta": "hladno predjelo",
+      "sastojci": "svježi kravlji sir, kuhinjska sol, crvena paprika, kumin",
+      "napomene": "nakon miješanja sastojaka, izrađuju se komadi u obliku stošca i zatim suše na zraku",
+      "kategorija": "Predjela"
+    },
+    {
+      "naziv": "Sir z vrhnjom",
+      "vrsta": "hladno predjelo",
+      "sastojci": "svježi kravlji sir, vrhnje, kuhinjska sol, crvena paprika",
+      "napomene": "sir se nareže na ploške, prelije vrhnjem i poslužuje sa špekom (slaninom), mladim lukom i sl.",
+      "kategorija": "Predjela"
+    },
+    {
+      "naziv": "Prezvuršt",
+      "vrsta": "hladno predjelo",
+      "sastojci": "svinjsko meso niže kategorije (glava, kožice i sl.), svinjski želudac, začini",
+      "napomene": "mesni sastojci se skuhaju, narežu na male komade, promiješaju sa začinima, napuni se prethodno skuhani svinjski želudac, zaveže i stavi pod teži teret da se stisne (tlačenica)",
+      "kategorija": "Predjela"
+    },
+    {
+      "naziv": "Gašprec",
+      "vrsta": "toplo predjelo",
+      "sastojci": "ploške kukuruznog kruha, razmućena jaja, \"slan í ne\" (kosana mast), kuhinjska sol",
+      "napomene": "ploške se naglo proprže s obje strane na slaninama, preliju jajima i još malo proprže, može se dodati češnjak",
+      "kategorija": "Predjela"
+    },
+    {
+      "naziv": "Međimurska hladnetina",
+      "vrsta": "hladno predjelo",
+      "sastojci": "dimljene svinjske nožice, dimljene svinjske kožice, začini",
+      "napomene": "sastojci se kuhaju dugo i polagano, a kad je sve kuhano ulije se u zdjele ili tanjure da se stegne; poslužuje se s lukom, bućinim uljem, octom i sl.",
+      "kategorija": "Predjela"
+    },
+    {
+      "naziv": "Cvrtjé",
+      "vrsta": "toplo predjelo",
+      "sastojci": "jaja, brašno, kuhinjska sol",
+      "napomene": "jaja se umute s brašnom, dodaju sol i voda, smjesa (gušća nego za palačinke) se peče dok ne zarumeni",
+      "kategorija": "Predjela"
+    },
+    {
+      "naziv": "Pretepena juha",
+      "vrsta": "gusta juha",
+      "sastojci": "suho meso ili kobasice, jaja, tikva, brašno, kiselo vrhnje, začini",
+      "napomene": "sastojci se narežu i skuhaju, umjesto tikve može se staviti vrganje ili hajdinsku (heljdinu) kašu.",
+      "kategorija": "Juhe"
+    },
+    {
+      "naziv": "Pretepeni grah",
+      "vrsta": "gusta juha",
+      "sastojci": "grah u zrnu, brašno, kiselo mlijeko, kiselo vrhnje, začini",
+      "napomene": "grah se skuha, doda pretep (smjesa brašna, kiselog vrhnja i mlijeka) i začini, mogu se dodati ocat, ulje, češnjak, listovi lovora i sl.",
+      "kategorija": "Juhe"
+    },
+    {
+      "naziv": "Prežgana juha z jajcima",
+      "vrsta": "gusta juha",
+      "sastojci": "brašno, mast, luk, češnjak, jaja, začini",
+      "napomene": "od brašna i masti napravi se zafrig (zaprška), dodaju luk, češnjak, začini i voda, na kraju se ukuhaju razmućena jaja; poslužuje se s kruhom-pržencem",
+      "kategorija": "Juhe"
+    },
+    {
+      "naziv": "Čičkova juha",
+      "vrsta": "bistra juha",
+      "sastojci": "leća u zrnu, narezana mrkva, kocka za juhu, peršin, lovor, začini",
+      "napomene": "sastojci se skuhaju, mogu se dodati dimljeni špek ili carsko meso, kocke krumpira ili tjestenina (krpice i sl.)",
+      "kategorija": "Juhe"
+    },
+    {
+      "naziv": "Kisela juha",
+      "vrsta": "gusta juha",
+      "sastojci": "svinjsko meso, kukuruzno brašno, luk, feferon, lovor, ocat, začini",
+      "napomene": "umjesto svinjskog mesa, mogu se staviti komadići divljači (od zeca, srne i sl.)",
+      "kategorija": "Juhe"
+    },
+    {
+      "naziv": "Juha od vrganja z hajdinskom kašom",
+      "vrsta": "gusta juha",
+      "sastojci": "svježi vrganji, heljdina kaša, mast, brašno, luk, začini",
+      "napomene": "svježi vrganji mogu se zamijeniti suhima, prethodno namočenima u toploj vodi",
+      "kategorija": "Juhe"
+    },
+    {
+      "naziv": "Hajdinske črne čurke",
+      "vrsta": "mesna prerađevina",
+      "sastojci": "hajdinska kaša, usitnjeno svinjsko masno tkivo i iznutrice, tanko crijevo, svježa svinjska krv, mast, brašno, začini",
+      "napomene": "najčešće se poslužuje s krumpirom i dinstanim kiselim zeljem",
+      "kategorija": "Glavna jela"
+    },
+    {
+      "naziv": "Prosene bele čurke (na slici lijevo dolje)",
+      "vrsta": "mesna prerađevina",
+      "sastojci": "prosena kaša, usitnjeno svinjsko masno tkivo i iznutrice, tanko svinjsko crijevo, mast, brašno, začini",
+      "napomene": "najčešće se poslužuje s krumpirom i dinstanim kiselim zeljem",
+      "kategorija": "Glavna jela"
+    },
+    {
+      "naziv": "Pečenje v rečici",
+      "vrsta": "mesno jelo",
+      "sastojci": "svinjski file, mast, senf, češnjak, limun, sol, biber, rečica (mrežica)",
+      "napomene": "poslužuje se s kalapajsanim kalamperom ili reštanim kalamperom (krumpirom)",
+      "kategorija": "Glavna jela"
+    },
+    {
+      "naziv": "Temfanje",
+      "vrsta": "mesno jelo u saftu",
+      "sastojci": "piletina (ili druge vrste mesa), mast, brašno, kiselo vrhnje, luk, začini",
+      "napomene": "priprema se pirjanjem uz vrlo malo vode, na kraju se dodaje pretep (smjesa brašna, kiselog vrhnja i mlijeka), poslužuje se uz široke rezance i salatu",
+      "kategorija": "Glavna jela"
+    },
+    {
+      "naziv": "Pura z mlinci",
+      "vrsta": "jelo od peradi",
+      "sastojci": "puretina, svinjska mast, luk, mrkva, brašno, jaja, začini",
+      "napomene": "poslužuje se svježe pečeno uz mlince (netom prelijane vrelom vodom) i sezonsku salatu",
+      "kategorija": "Glavna jela"
+    },
+    {
+      "naziv": "Pečena raca z domačimi rezanci",
+      "vrsta": "jelo od peradi",
+      "sastojci": "raca (patka), mast ili ulje, bijelo vino, brašno, jaja, maslac, začini",
+      "napomene": "raca se nakon jednoga dana držanja u pacu (rasolu) ispeće u tepsiji, te poslužuje topla uz domaće rezance i salatu",
+      "kategorija": "Glavna jela"
+    },
+    {
+      "naziv": "Šaran na međimurski",
+      "vrsta": "pohana riba",
+      "sastojci": "šaran - očišćen i narezan, kukuruzno brašno, mljevena crvena paprika, kuhinjska sol",
+      "napomene": "komadi šarana se uvaljaju u smjesu kukuruznog brašna i crvene paprike te isprže; poslužuje se s krumpirovom salatom",
+      "kategorija": "Glavna jela"
+    },
+    {
+      "naziv": "Zajec na međimurski",
+      "vrsta": "jelo od divljači",
+      "sastojci": "zajec (zec) - očišćen i narezan, \"slan í ne\" (kosana mast), mrkva, peršun, celer, luk, brašno, senf, kiselo vrhnje, bijelo vino, začini",
+      "napomene": "zeca odstajalog u pacu (rasolu) izreže se na komade, doda začine i ispeče na \"slan í nama\", zatim pirja usitnjeno povrće, brašno, senf i ostalo, na kraju tim saftom prelije zeca; poslužuje se s okruglicama od kruha",
+      "kategorija": "Glavna jela"
+    },
+    {
+      "naziv": "Kisela repa z grahom",
+      "vrsta": "varivo",
+      "sastojci": "rezanci kisele repe, grah u zrnu, sušeno svinjsko meso (buncek, rebra i sl.), brašno, luk, mast ili ulje, začini",
+      "napomene": "sastojci se najprije kuhaju odvojeno, zatim zajedno, uz dodatak zaprške; začini se po želji",
+      "kategorija": "Čušpajzi (variva)"
+    },
+    {
+      "naziv": "Zelje z paradajzom",
+      "vrsta": "varivo",
+      "sastojci": "svježe zeleno zelje, pire od paradajza (pasirana rajčica), brašno, šećer, ulje, ocat, luk, začini",
+      "napomene": "u sastojke se može staviti juneće meso ili sl.",
+      "kategorija": "Čušpajzi (variva)"
+    },
+    {
+      "naziv": "Temfana šparga",
+      "vrsta": "varivo",
+      "sastojci": "svježa šparga (mahune), brašno, vrhnje, luk, češnjak, kocke krumpira, začini",
+      "napomene": "može se poslužiti s kuhanim hrenovkama ili pečenim faširancima",
+      "kategorija": "Čušpajzi (variva)"
+    },
+    {
+      "naziv": "Čušpajz od poriluka",
+      "vrsta": "varivo",
+      "sastojci": "kolutići poriluka, mrkve i kobasice, ploške krumpira, brašno, vrhnje, margarin, ulje, luk, češnjak, začini",
+      "napomene": "u nekim receptima umjesto kobasice nalazi se špek (slanina) narezan na kockice",
+      "kategorija": "Čušpajzi (variva)"
+    },
+    {
+      "naziv": "Čušpajz od tikve",
+      "vrsta": "varivo",
+      "sastojci": "narezana tikva, luk, brašno, vrhnje, mast, pelati rajčice, začini",
+      "napomene": "u nekim receptima nalazi se narezana junetina; može se poslužiti s pireom od krumpira",
+      "kategorija": "Čušpajzi (variva)"
+    },
+    {
+      "naziv": "Međimurska gibanica",
+      "vrsta": "kolač",
+      "sastojci": "lisnato tijesto, svježi kravlji sir, naribana jabuka, mljeveni orasi, mljeveni mak, jaja, grožđice, maslac, vrhnje, mlijeko, pržene pšenične klice, cimet, šećer, sol",
+      "napomene": "sastoji se od lisnatog tijesta i četveroslojnog nadjeva od svježeg sira, jabuka, oraha i maka",
+      "kategorija": "Melšpajzi (slatka jela, kolači)"
+    },
+    {
+      "naziv": "Šiškrli",
+      "vrsta": "toplo slatko jelo",
+      "sastojci": "krumpir, brašno, jaje, maslac, prezl (krušne mrvice), šećer u prahu, začini",
+      "napomene": "izrađuju se od krumpirovog tijesta, skuhaju u vodi i umiješaju u prezl (krušne mrvice) popečen na maslacu",
+      "kategorija": "Melšpajzi (slatka jela, kolači)"
+    },
+    {
+      "naziv": "Štrukli z repom i orehima",
+      "vrsta": "toplo slatko jelo",
+      "sastojci": "brašno, repa, orasi, mast, jaja, kiselo vrhnje, sol, topla voda, ulje, šećer",
+      "napomene": "tijesto se zamijesi i razvuče, doda nadjev, savije i peče u tepsiji; poslužuje se toplo",
+      "kategorija": "Melšpajzi (slatka jela, kolači)"
+    },
+    {
+      "naziv": "Kuruzna zlevanjka",
+      "vrsta": "kolač",
+      "sastojci": "kukuruzno brašno, jaja, maslac, mast, kiselo mlijeko, kiseli kravlji sir, kiselo vrhnje, slatko vrhnje, šećer",
+      "napomene": "sastojci (osim vrhnja) se pomiješaju i uliju u tepsiju, na to stavi smjesa kiselog i slatkog vrhnja te stavi u pećnicu; postoje recepti kod kojih se dodaje nadjev od maka, sira ili oraha",
+      "kategorija": "Melšpajzi (slatka jela, kolači)"
+    }
+  ],
+  "meta": {
+    "title": "Jela međimurske kuhinje - Free Download",
+    "description": "Popis tradicionalnih jela međimurske kuhinje po kategorijama, s vrstom, sastojcima i napomenama. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Jela međimurske kuhinje | ListBase",
+    "seo_description": "Download Jela međimurske kuhinje — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Dodatak:Popis_jela_međimurske_kuhinje"
+    ]
+  }
+}
