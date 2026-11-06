@@ -1,0 +1,352 @@
+{
+  "id": "hr-knjizevne-manifestacije",
+  "name": "Hrvatske književne manifestacije",
+  "title": "Hrvatske književne manifestacije",
+  "description": "Popis književnih manifestacija, festivala i nagrada u Hrvatskoj.",
+  "category": "culture",
+  "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_književnih_manifestacija",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_književnih_manifestacija",
+  "updated": "2026-11",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "napomena",
+      "label": "Napomena",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ime": "Boja zavičajnosti",
+      "napomena": ""
+    },
+    {
+      "ime": "Croatia rediviva",
+      "napomena": ""
+    },
+    {
+      "ime": "Čakavski sabor",
+      "napomena": ""
+    },
+    {
+      "ime": "Čitajmo u Booksi",
+      "napomena": ""
+    },
+    {
+      "ime": "Dan hrvatske knjige",
+      "napomena": ""
+    },
+    {
+      "ime": "Dani Ante Kovačića",
+      "napomena": ""
+    },
+    {
+      "ime": "Dani Dobriše Cesarića",
+      "napomena": "u Požegi"
+    },
+    {
+      "ime": "Dani Frane Petrića",
+      "napomena": ""
+    },
+    {
+      "ime": "Dani Josipa i Ivana Kozarca",
+      "napomena": ""
+    },
+    {
+      "ime": "Dani Julija Benešića",
+      "napomena": ""
+    },
+    {
+      "ime": "Dani kajkavske riječi Zlatar",
+      "napomena": ""
+    },
+    {
+      "ime": "Dani kršćanske kulture",
+      "napomena": ""
+    },
+    {
+      "ime": "Dani Ksavera Šandora Gjalskog",
+      "napomena": ""
+    },
+    {
+      "ime": "Dani Matice hrvatske",
+      "napomena": ""
+    },
+    {
+      "ime": "Dani Ranka Marinkovića",
+      "napomena": ""
+    },
+    {
+      "ime": "Dani Tina Ujevića",
+      "napomena": ""
+    },
+    {
+      "ime": "Desničini susreti",
+      "napomena": ""
+    },
+    {
+      "ime": "Deželićevi književni dani",
+      "napomena": ""
+    },
+    {
+      "ime": "Dobrojutro, more",
+      "napomena": ""
+    },
+    {
+      "ime": "Đakovački susreti hrvatskih književnih kritičara",
+      "napomena": ""
+    },
+    {
+      "ime": "Festival dječje knjige",
+      "napomena": ""
+    },
+    {
+      "ime": "Festival europske kratke priče",
+      "napomena": ""
+    },
+    {
+      "ime": "Festival fantastične književnosti",
+      "napomena": ""
+    },
+    {
+      "ime": "Festival hrvatske drame za djecu Mali Marulić",
+      "napomena": "Split"
+    },
+    {
+      "ime": "Ful - festival urbane književnosti",
+      "napomena": ""
+    },
+    {
+      "ime": "Galovićeva jesen",
+      "napomena": ""
+    },
+    {
+      "ime": "Goranovo proljeće",
+      "napomena": ""
+    },
+    {
+      "ime": "Haiku dan - Dubravko Ivančan",
+      "napomena": ""
+    },
+    {
+      "ime": "Imotska sila",
+      "napomena": ""
+    },
+    {
+      "ime": "Istarska konvencija znanstvene fantastike i fantastike ISTRAKON",
+      "napomena": ""
+    },
+    {
+      "ime": "Jadranski književni susreti",
+      "napomena": ""
+    },
+    {
+      "ime": "Jezičnica kajkaviana",
+      "napomena": ""
+    },
+    {
+      "ime": "Kijevski književni susreti",
+      "napomena": ""
+    },
+    {
+      "ime": "Knjiga Mediterana",
+      "napomena": ""
+    },
+    {
+      "ime": "Književni festival u Booksi",
+      "napomena": ""
+    },
+    {
+      "ime": "Književnost u Močvari",
+      "napomena": ""
+    },
+    {
+      "ime": "Kukuljevićevi dani",
+      "napomena": ""
+    },
+    {
+      "ime": "Kvirinovi poetski susreti",
+      "napomena": ""
+    },
+    {
+      "ime": "Lovrakovi dani kulture",
+      "napomena": ""
+    },
+    {
+      "ime": "Miholjanski dani",
+      "napomena": ""
+    },
+    {
+      "ime": "Mjesec materinskog češkog jezika",
+      "napomena": "Daruvar"
+    },
+    {
+      "ime": "Napretkove književne večeri",
+      "napomena": ""
+    },
+    {
+      "ime": "Nazorovi dani",
+      "napomena": ""
+    },
+    {
+      "ime": "Neretvanski književni i kulturni susret",
+      "napomena": ""
+    },
+    {
+      "ime": "Noć velikog čitanja",
+      "napomena": "Rijeka"
+    },
+    {
+      "ime": "Osječko ljeto kulture",
+      "napomena": ""
+    },
+    {
+      "ime": "Pasionska baština",
+      "napomena": ""
+    },
+    {
+      "ime": "Pjesnički susreti u Drenovcima",
+      "napomena": ""
+    },
+    {
+      "ime": "Pontes",
+      "napomena": ""
+    },
+    {
+      "ime": "Pulski dani eseja",
+      "napomena": ""
+    },
+    {
+      "ime": "Raosovi dani",
+      "napomena": ""
+    },
+    {
+      "ime": "Recital suvremenog kajkavskog pjesništva \"Dragutin Domjanić\"",
+      "napomena": ""
+    },
+    {
+      "ime": "Rešetarački susret pjesnika",
+      "napomena": ""
+    },
+    {
+      "ime": "Recital kajkavske poezije \"Božo Hlastec\"",
+      "napomena": ""
+    },
+    {
+      "ime": "S Tinom u Vrgorcu",
+      "napomena": ""
+    },
+    {
+      "ime": "Sabor čakavskog pjesništva",
+      "napomena": ""
+    },
+    {
+      "ime": "Slamnigovi dani",
+      "napomena": ""
+    },
+    {
+      "ime": "Slavonsko-baranjsko-srijemski hrvatski književni dani",
+      "napomena": ""
+    },
+    {
+      "ime": "Slovo u gostima",
+      "napomena": ""
+    },
+    {
+      "ime": "Smotra dječjeg kajkavskog pjesništva \"Dragutin Domjanić\"",
+      "napomena": ""
+    },
+    {
+      "ime": "Susret esperantskih pisaca Srednje Europe",
+      "napomena": ""
+    },
+    {
+      "ime": "Susret hrvatskih pisaca amatera",
+      "napomena": ""
+    },
+    {
+      "ime": "Susret mladih pjesnika RH u Đurđenovcu",
+      "napomena": ""
+    },
+    {
+      "ime": "Susret pisaca regije Alpe-Jadran (esperanto)",
+      "napomena": ""
+    },
+    {
+      "ime": "Susret riječi Bedekovčina",
+      "napomena": ""
+    },
+    {
+      "ime": "Susret hrvatskoga duhovnoga književnoga stvaralaštva Stjepan Kranjčić",
+      "napomena": ""
+    },
+    {
+      "ime": "Susreti književnika hrvatskih manjina u susjednim zemljama s književnicima u RH",
+      "napomena": ""
+    },
+    {
+      "ime": "Šoljanovi dani",
+      "napomena": ""
+    },
+    {
+      "ime": "Tjedan kajkavske kulture Krapina",
+      "napomena": ""
+    },
+    {
+      "ime": "Tomizza i mi - susreti uz granicu",
+      "napomena": ""
+    },
+    {
+      "ime": "U svijetu bajki Ivane Brlić-Mažuranić",
+      "napomena": ""
+    },
+    {
+      "ime": "Večer hrvatske ljubavne poezije \"Vrazova Ljubica\"",
+      "napomena": ""
+    },
+    {
+      "ime": "Večeri na Brižićevin dvorima",
+      "napomena": ""
+    },
+    {
+      "ime": "Večer Slavka Kolara",
+      "napomena": ""
+    },
+    {
+      "ime": "Verši na šterni",
+      "napomena": ""
+    },
+    {
+      "ime": "Zagreb Book Festival",
+      "napomena": ""
+    },
+    {
+      "ime": "Zagrebački književni razgovori",
+      "napomena": ""
+    },
+    {
+      "ime": "Zagrebački prevodilački susreti",
+      "napomena": ""
+    },
+    {
+      "ime": "Zagriz u Ogrizoviću",
+      "napomena": ""
+    }
+  ],
+  "meta": {
+    "title": "Hrvatske književne manifestacije - Free Download",
+    "description": "Popis književnih manifestacija, festivala i nagrada u Hrvatskoj. Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatske književne manifestacije | ListBase",
+    "seo_description": "Download Hrvatske književne manifestacije — 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_hrvatskih_književnih_manifestacija"
+    ]
+  }
+}

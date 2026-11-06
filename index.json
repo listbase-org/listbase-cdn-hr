@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-06T02:23:23.428Z",
-  "total_datasets": 474,
-  "total_records": 826113,
+  "generated": "2026-11-06T02:23:31.402Z",
+  "total_datasets": 475,
+  "total_records": 826192,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "economy",
@@ -469,6 +469,29 @@
         "xlsx": {
           "name": "hr-kina_HR.xlsx",
           "size": 9285
+        }
+      }
+    },
+    {
+      "id": "hr-knjizevne-manifestacije",
+      "name": "Hrvatske književne manifestacije",
+      "category": "culture",
+      "record_count": 79,
+      "columns": [
+        "ime",
+        "napomena"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_književnih_manifestacija",
+      "updated": "2026-11",
+      "size": 7620,
+      "files": {
+        "csv": {
+          "name": "hr-knjizevne-manifestacije_HR.csv",
+          "size": 2760
+        },
+        "xlsx": {
+          "name": "hr-knjizevne-manifestacije_HR.xlsx",
+          "size": 8803
         }
       }
     },
