@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-04T02:22:08.195Z",
-  "total_datasets": 468,
-  "total_records": 825826,
+  "generated": "2026-11-06T02:22:48.756Z",
+  "total_datasets": 469,
+  "total_records": 825837,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 41
+      "dataset_count": 42
     },
     {
       "id": "units",
@@ -11817,6 +11817,31 @@
         "xlsx": {
           "name": "hr-vidikovci_HR.xlsx",
           "size": 16136
+        }
+      }
+    },
+    {
+      "id": "hr-autoceste",
+      "name": "Hrvatske autoceste",
+      "category": "transport",
+      "record_count": 11,
+      "columns": [
+        "oznaka",
+        "naziv",
+        "dionica",
+        "duljina_km"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Hrvatske_autoceste",
+      "updated": "2026-11",
+      "size": 4215,
+      "files": {
+        "csv": {
+          "name": "hr-autoceste_HR.csv",
+          "size": 1931
+        },
+        "xlsx": {
+          "name": "hr-autoceste_HR.xlsx",
+          "size": 7698
         }
       }
     },

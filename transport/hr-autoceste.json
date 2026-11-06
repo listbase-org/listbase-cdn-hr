@@ -1,0 +1,112 @@
+{
+  "id": "hr-autoceste",
+  "name": "Hrvatske autoceste",
+  "title": "Hrvatske autoceste",
+  "description": "Popis autocesta u Republici Hrvatskoj s oznakom, neformalnim nazivom, dionicom i duljinom u kilometrima.",
+  "category": "transport",
+  "source": "https://hr.wikipedia.org/wiki/Hrvatske_autoceste",
+  "source_url": "https://hr.wikipedia.org/wiki/Hrvatske_autoceste",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "oznaka",
+      "label": "Oznaka",
+      "type": "string"
+    },
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "dionica",
+      "label": "Dionica",
+      "type": "string"
+    },
+    {
+      "key": "duljina_km",
+      "label": "Duljina Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "oznaka": "A1",
+      "naziv": "Autocesta kralja Tomislava Dalmatina",
+      "dionica": "Zagreb (čvorište Lučko, A3) – Karlovac – čvorište Bosiljevo 2 (A6) – čvorište Žuta Lokva (A7) – Split – Ploče – Opuzen – Zavala (granica RH / BiH) – Imotica (granica RH / BiH) – Dubrovnik – Osojnik (granica RH / BiH)",
+      "duljina_km": 558.11
+    },
+    {
+      "oznaka": "A2",
+      "naziv": "Zagorska autocesta",
+      "dionica": "Gornji Macelj (granica RH / Slovenija) – Krapina – Zagreb (čvorište Zagreb zapad, A3)",
+      "duljina_km": 61.54
+    },
+    {
+      "oznaka": "A3",
+      "naziv": "Posavska autocesta",
+      "dionica": "Bregana (granica RH / Slovenija) – čvorište Zagreb zapad (A2) – čvorište Lučko (A1) – Zagreb – čvorište Jakuševec (A11) – čvorište Zagreb istok (A4) – Slavonski Brod – čvorište Sredanci (A5) – Lipovac (GP Bajakovo (granica RH / Srbija))",
+      "duljina_km": 306.47
+    },
+    {
+      "oznaka": "A4",
+      "naziv": "Varaždinska autocesta",
+      "dionica": "Goričan (granica RH / Mađarska) – Varaždin – Zagreb (čvorište Zagreb istok, A3)",
+      "duljina_km": 97.61
+    },
+    {
+      "oznaka": "A5",
+      "naziv": "Slavonska autocesta Slavonika",
+      "dionica": "Branjin Vrh (granica RH / Mađarska) – Beli Manastir – Osijek – Đakovo – čvorište Sredanci (A3) – Svilaj (GP Svilaj (granica RH / BiH))",
+      "duljina_km": 88.67
+    },
+    {
+      "oznaka": "A6",
+      "naziv": "Primorsko-goranska autocesta Goranka",
+      "dionica": "Bosiljevo (čvorište Bosiljevo 2, A1) – Delnice – Rijeka (čvorište Orehovica, A7)",
+      "duljina_km": 81.48
+    },
+    {
+      "oznaka": "A7",
+      "naziv": "Kvarnerska autocesta Primorka",
+      "dionica": "Rupa (granica RH / Slovenija) – čvorište Učka (A8) – čvorište Orehovica (A6) – Šmrika (DC8) – Žuta Lokva (čvorište Žuta Lokva, A1)",
+      "duljina_km": 101.3
+    },
+    {
+      "oznaka": "A8",
+      "naziv": "Istarski ipsilon",
+      "dionica": "Kanfanar (čvorište Rovinj, A9) – Pazin – Lupoglav – Matulji (čvorište Učka, A7)",
+      "duljina_km": 65.98
+    },
+    {
+      "oznaka": "A9",
+      "naziv": "Istarski ipsilon",
+      "dionica": "Plovanija (čvorište Umag, DC75 / DC510) – čvorište Rovinj (A8) – Pula (čvorište Pula, DC66)",
+      "duljina_km": 77.23
+    },
+    {
+      "oznaka": "A10",
+      "naziv": "Neretvanska autocesta",
+      "dionica": "Nova Sela (GP Nova Sela (granica RH / BiH)) – čvorište Metković – Mali Prolog (čvorište Ploče, A1)",
+      "duljina_km": 8.8
+    },
+    {
+      "oznaka": "A11",
+      "naziv": "Sisačka autocesta",
+      "dionica": "Zagreb (Jakuševec, A3) – Velika Gorica – Sisak",
+      "duljina_km": 41
+    }
+  ],
+  "meta": {
+    "title": "Hrvatske autoceste - Free Download",
+    "description": "Popis autocesta u Republici Hrvatskoj s oznakom, neformalnim nazivom, dionicom i duljinom u kilometrima. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatske autoceste | ListBase",
+    "seo_description": "Download Hrvatske autoceste — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Hrvatske_autoceste"
+    ]
+  }
+}
