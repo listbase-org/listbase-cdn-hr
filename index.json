@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-06T02:23:16.139Z",
-  "total_datasets": 473,
-  "total_records": 826090,
+  "generated": "2026-11-06T02:23:23.428Z",
+  "total_datasets": 474,
+  "total_records": 826113,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -722,6 +722,29 @@
         "xlsx": {
           "name": "hr-vjerski-uredi_HR.xlsx",
           "size": 10549
+        }
+      }
+    },
+    {
+      "id": "hr-brodogradilista",
+      "name": "Brodogradilišta u Hrvatskoj",
+      "category": "economy",
+      "record_count": 23,
+      "columns": [
+        "naziv",
+        "mjesto"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_brodogradilišta_u_Hrvatskoj",
+      "updated": "2026-11",
+      "size": 2896,
+      "files": {
+        "csv": {
+          "name": "hr-brodogradilista_HR.csv",
+          "size": 622
+        },
+        "xlsx": {
+          "name": "hr-brodogradilista_HR.xlsx",
+          "size": 7237
         }
       }
     },

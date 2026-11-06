@@ -1,0 +1,128 @@
+{
+  "id": "hr-brodogradilista",
+  "name": "Brodogradilišta u Hrvatskoj",
+  "title": "Brodogradilišta u Hrvatskoj",
+  "description": "Popis brodogradilišta u Hrvatskoj s lokacijom.",
+  "category": "economy",
+  "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_brodogradilišta_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Dodatak:Popis_brodogradilišta_u_Hrvatskoj",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "naziv",
+      "label": "Naziv",
+      "type": "string"
+    },
+    {
+      "key": "mjesto",
+      "label": "Mjesto",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naziv": "Cres",
+      "mjesto": ""
+    },
+    {
+      "naziv": "Betina",
+      "mjesto": ""
+    },
+    {
+      "naziv": "Greben",
+      "mjesto": "Vela Luka"
+    },
+    {
+      "naziv": "brodogradilište Kantrida",
+      "mjesto": "Rijeka"
+    },
+    {
+      "naziv": "Kraljevica",
+      "mjesto": ""
+    },
+    {
+      "naziv": "Krk",
+      "mjesto": ""
+    },
+    {
+      "naziv": "Punat",
+      "mjesto": ""
+    },
+    {
+      "naziv": "Uljanik",
+      "mjesto": "Pula"
+    },
+    {
+      "naziv": "brodogradilište 3. maj",
+      "mjesto": "Rijeka"
+    },
+    {
+      "naziv": "Lošinjska plovidba-brodogradilište",
+      "mjesto": "Mali Lošinj"
+    },
+    {
+      "naziv": "brodogradilište \" NCP-remontno brodogradilište \" Šibenik",
+      "mjesto": ""
+    },
+    {
+      "naziv": "Viktor Lenac",
+      "mjesto": "Rijeka/Kostrena"
+    },
+    {
+      "naziv": "Inkobrod",
+      "mjesto": "Korčula"
+    },
+    {
+      "naziv": "Brodosplit",
+      "mjesto": "Split"
+    },
+    {
+      "naziv": "Braća Matijević",
+      "mjesto": "Split"
+    },
+    {
+      "naziv": "Ivanko",
+      "mjesto": "Split"
+    },
+    {
+      "naziv": "Košćina",
+      "mjesto": "Split"
+    },
+    {
+      "naziv": "Pakmor",
+      "mjesto": "Split"
+    },
+    {
+      "naziv": "Petra Jeričevića",
+      "mjesto": "Split"
+    },
+    {
+      "naziv": "Vatroslava Bulimbašića",
+      "mjesto": "Split"
+    },
+    {
+      "naziv": "Splitsko brodogradilište Jug",
+      "mjesto": "Split"
+    },
+    {
+      "naziv": "Brodotrogir",
+      "mjesto": "Trogir"
+    },
+    {
+      "naziv": "Radež",
+      "mjesto": "Blato na Korčuli"
+    }
+  ],
+  "meta": {
+    "title": "Brodogradilišta u Hrvatskoj - Free Download",
+    "description": "Popis brodogradilišta u Hrvatskoj s lokacijom. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Brodogradilišta u Hrvatskoj | ListBase",
+    "seo_description": "Download Brodogradilišta u Hrvatskoj — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Dodatak:Popis_brodogradilišta_u_Hrvatskoj"
+    ]
+  }
+}
