@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-06T02:23:31.402Z",
-  "total_datasets": 475,
-  "total_records": 826192,
+  "generated": "2026-11-09T02:23:54.863Z",
+  "total_datasets": 476,
+  "total_records": 826209,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -3640,6 +3640,31 @@
         "xlsx": {
           "name": "hr-skladatelji_HR.xlsx",
           "size": 7349
+        }
+      }
+    },
+    {
+      "id": "hr-ministri-obrane",
+      "name": "Ministri obrane Republike Hrvatske",
+      "category": "politics",
+      "record_count": 17,
+      "columns": [
+        "ministar",
+        "stranka",
+        "pocetak",
+        "zavrsetak"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Ministarstvo_obrane_Republike_Hrvatske",
+      "updated": "2026-11",
+      "size": 4174,
+      "files": {
+        "csv": {
+          "name": "hr-ministri-obrane_HR.csv",
+          "size": 1149
+        },
+        "xlsx": {
+          "name": "hr-ministri-obrane_HR.xlsx",
+          "size": 7463
         }
       }
     },
