@@ -1,0 +1,336 @@
+{
+  "id": "hr-veleposlanstva-rh",
+  "name": "Veleposlanstva Republike Hrvatske",
+  "title": "Veleposlanstva Republike Hrvatske",
+  "description": "Popis veleposlanstava i stalnih misija Republike Hrvatske u inozemstvu s državama koje pokrivaju i veleposlanicima.",
+  "category": "politics",
+  "source": "https://hr.wikipedia.org/wiki/Ministarstvo_vanjskih_i_europskih_poslova_Republike_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Ministarstvo_vanjskih_i_europskih_poslova_Republike_Hrvatske",
+  "updated": "2026-11",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "veleposlanstvo",
+      "label": "Veleposlanstvo",
+      "type": "string"
+    },
+    {
+      "key": "pokriva_drzave",
+      "label": "Pokriva Drzave",
+      "type": "string"
+    },
+    {
+      "key": "veleposlanik",
+      "label": "Veleposlanik",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "veleposlanstvo": "Albanija",
+      "pokriva_drzave": "Albanija",
+      "veleposlanik": "Sanja Bujas Juraga"
+    },
+    {
+      "veleposlanstvo": "Alžir",
+      "pokriva_drzave": "Alžir",
+      "veleposlanik": "Ilija Želalić"
+    },
+    {
+      "veleposlanstvo": "Argentina",
+      "pokriva_drzave": "Argentina, Paragvaj, Urugvaj",
+      "veleposlanik": "Duška Paravić"
+    },
+    {
+      "veleposlanstvo": "Australija",
+      "pokriva_drzave": "Australija, Novi Zeland, Kiribati, Papuu Novu Gvineju, Nezavisnu Državu Samou, Salamunove Otoke, Kraljevinu Tonga, Tuvalu, i Rep. Fidži, Nauru, Vanuatu",
+      "veleposlanik": "Betty Bernardica Pavelich Sirois"
+    },
+    {
+      "veleposlanstvo": "Austrija",
+      "pokriva_drzave": "Austrija",
+      "veleposlanik": "Daniel Glunčić"
+    },
+    {
+      "veleposlanstvo": "Belgija",
+      "pokriva_drzave": "Belgija, Luksemburg",
+      "veleposlanik": "Josip Paro"
+    },
+    {
+      "veleposlanstvo": "Bosna i Hercegovina",
+      "pokriva_drzave": "Bosna i Hercegovina",
+      "veleposlanik": "Ivan Sabolić"
+    },
+    {
+      "veleposlanstvo": "Brazil",
+      "pokriva_drzave": "Brazil, Kolumbija, Venezuela",
+      "veleposlanik": "Željko Vukosav"
+    },
+    {
+      "veleposlanstvo": "Bugarska",
+      "pokriva_drzave": "Bugarska",
+      "veleposlanik": "Ljerka Alajbeg"
+    },
+    {
+      "veleposlanstvo": "Crna Gora",
+      "pokriva_drzave": "Crna Gora",
+      "veleposlanik": "Veselko Grubišić"
+    },
+    {
+      "veleposlanstvo": "Češka",
+      "pokriva_drzave": "Češka",
+      "veleposlanik": "Ljiljana Pancirov"
+    },
+    {
+      "veleposlanstvo": "Čile",
+      "pokriva_drzave": "Čile, Bolivija, Peru",
+      "veleposlanik": "Mira Martinec"
+    },
+    {
+      "veleposlanstvo": "Danska",
+      "pokriva_drzave": "Danska, Island",
+      "veleposlanik": "Tina Krce"
+    },
+    {
+      "veleposlanstvo": "Egipat",
+      "pokriva_drzave": "Egipat, Bahrein, Etiopija, Jemen, Jordan, Katar, Kuvajt, Libanon, Saudijska Arabija, Sirija, Sudan, UAE, Džibuti, Eritreja, Irak",
+      "veleposlanik": "Tomislav Bošnjak"
+    },
+    {
+      "veleposlanstvo": "EU",
+      "pokriva_drzave": "EU",
+      "veleposlanik": "Irena Andrassy"
+    },
+    {
+      "veleposlanstvo": "Finska",
+      "pokriva_drzave": "Finska, Estonija",
+      "veleposlanik": "Josip Buljević"
+    },
+    {
+      "veleposlanstvo": "Francuska",
+      "pokriva_drzave": "Francuska, Benin, Gvineja, Kongo, Čad, Niger, Gabon, DR Kongo, Togo, Srednjoafrička Republika",
+      "veleposlanik": "Filip Vučak"
+    },
+    {
+      "veleposlanstvo": "Grčka",
+      "pokriva_drzave": "Grčka, Armenija, Gruzija",
+      "veleposlanik": "Aleksandar Sunko"
+    },
+    {
+      "veleposlanstvo": "Indija",
+      "pokriva_drzave": "Indija, Bangladeš, Butan, Maldivi, Nepal, Šri Lanka",
+      "veleposlanik": "Petar Ljubičić"
+    },
+    {
+      "veleposlanstvo": "Indonezija",
+      "pokriva_drzave": "Indonezija, Filipini, Singapur, Tajland",
+      "veleposlanik": "Nebojša Koharović"
+    },
+    {
+      "veleposlanstvo": "Irak",
+      "pokriva_drzave": "Irak",
+      "veleposlanik": "Ivan Jurić"
+    },
+    {
+      "veleposlanstvo": "Iran",
+      "pokriva_drzave": "Iran, Pakistan",
+      "veleposlanik": "Drago Štambuk"
+    },
+    {
+      "veleposlanstvo": "Irska",
+      "pokriva_drzave": "Irska",
+      "veleposlanik": "Davor Vidiš"
+    },
+    {
+      "veleposlanstvo": "Italija",
+      "pokriva_drzave": "Italija, Malta, Cipar, San Marino",
+      "veleposlanik": "Jasen Mesić"
+    },
+    {
+      "veleposlanstvo": "Izrael",
+      "pokriva_drzave": "Izrael, Palestinska samouprava",
+      "veleposlanik": "Vesela Mrđen Korać"
+    },
+    {
+      "veleposlanstvo": "Japan",
+      "pokriva_drzave": "Japan, Južna Koreja",
+      "veleposlanik": "Dražen Hrastić"
+    },
+    {
+      "veleposlanstvo": "Južna Afrika",
+      "pokriva_drzave": "Južna Afrika, Kenija, Mauricijus, Mozambik, Namibija, Zambija, Bocvana, Burundi, Komore, Lesoto, Madagaskar, Malavi, Ruanda, Sejšeli, Esvatini, Tanzanija, Uganda, Zimbabve",
+      "veleposlanik": "dr. Nenad Prelog"
+    },
+    {
+      "veleposlanstvo": "Kanada (Veleposlanstvo Hrvatske u Ottawi)",
+      "pokriva_drzave": "Kanada",
+      "veleposlanik": "Marica Matković"
+    },
+    {
+      "veleposlanstvo": "Katar",
+      "pokriva_drzave": "Katar, Oman",
+      "veleposlanik": "Drago Lovrić"
+    },
+    {
+      "veleposlanstvo": "Kina",
+      "pokriva_drzave": "Kina, Mongolija, Sjeverna Koreja",
+      "veleposlanik": "Dario Mihelin"
+    },
+    {
+      "veleposlanstvo": "Kosovo",
+      "pokriva_drzave": "Kosovo",
+      "veleposlanik": "Danijela Barišić"
+    },
+    {
+      "veleposlanstvo": "Kuvajt",
+      "pokriva_drzave": "Kuvajt",
+      "veleposlanik": "Amir Muharemi"
+    },
+    {
+      "veleposlanstvo": "Libija",
+      "pokriva_drzave": "Libija",
+      "veleposlanik": "-"
+    },
+    {
+      "veleposlanstvo": "Mađarska",
+      "pokriva_drzave": "Mađarska",
+      "veleposlanik": "Mladen Andrlić"
+    },
+    {
+      "veleposlanstvo": "Sjeverna Makedonija",
+      "pokriva_drzave": "Sjeverna Makedonija",
+      "veleposlanik": "Nives Tiganj"
+    },
+    {
+      "veleposlanstvo": "Malezija",
+      "pokriva_drzave": "Malezija, Vijetnam, Laos, Mjanmar, Brunej, Kambodža",
+      "veleposlanik": "Ivan Velimir Starčević"
+    },
+    {
+      "veleposlanstvo": "Maroko",
+      "pokriva_drzave": "Maroko, Tunis, Senegal, Burkina Faso, Gabon, Kamerun, Mali, Mauritanija, Bjelokosna Obala",
+      "veleposlanik": "Jasna Mileta"
+    },
+    {
+      "veleposlanstvo": "NATO",
+      "pokriva_drzave": "NATO",
+      "veleposlanik": "Mario Nobilo"
+    },
+    {
+      "veleposlanstvo": "Nizozemska",
+      "pokriva_drzave": "Nizozemska",
+      "veleposlanik": "Andrea Gustović-Ercegovac"
+    },
+    {
+      "veleposlanstvo": "Norveška",
+      "pokriva_drzave": "Norveška",
+      "veleposlanik": "Hrvoje Marušić"
+    },
+    {
+      "veleposlanstvo": "Njemačka",
+      "pokriva_drzave": "Njemačka",
+      "veleposlanik": "Gordan Bakota"
+    },
+    {
+      "veleposlanstvo": "OESS, UN i međunarodne organizacije u Beču",
+      "pokriva_drzave": "međunarodne organizacije u Beču",
+      "veleposlanik": "Dubravka Plejić-Marković"
+    },
+    {
+      "veleposlanstvo": "Poljska",
+      "pokriva_drzave": "Poljska",
+      "veleposlanik": "Tomislav Vidošević"
+    },
+    {
+      "veleposlanstvo": "Portugal",
+      "pokriva_drzave": "Portugal, Angola, Ekvatorska Gvineja, Gvineja Bisau, Kabo Verde, Sveti Toma i Prinsipe",
+      "veleposlanik": "Ivica Maričić"
+    },
+    {
+      "veleposlanstvo": "Rumunjska",
+      "pokriva_drzave": "Rumunjska, Moldova",
+      "veleposlanik": "Marija Kapitanović"
+    },
+    {
+      "veleposlanstvo": "Rusija",
+      "pokriva_drzave": "Rusija, Bjelorusija, Kazakstan",
+      "veleposlanik": "Tomislav Car"
+    },
+    {
+      "veleposlanstvo": "SAD",
+      "pokriva_drzave": "SAD, Meksiko, Mikronezija, Maršalovi Otoci, Palau i Panama",
+      "veleposlanik": "Pjer Šimunović"
+    },
+    {
+      "veleposlanstvo": "Slovačka",
+      "pokriva_drzave": "Slovačka",
+      "veleposlanik": "Aleksandar Heina"
+    },
+    {
+      "veleposlanstvo": "Slovenija",
+      "pokriva_drzave": "Slovenija",
+      "veleposlanik": "Boris Grigić"
+    },
+    {
+      "veleposlanstvo": "Srbija",
+      "pokriva_drzave": "Srbija",
+      "veleposlanik": ""
+    },
+    {
+      "veleposlanstvo": "Španjolska",
+      "pokriva_drzave": "Španjolska, Kuba, Andora",
+      "veleposlanik": "Nives Malenica"
+    },
+    {
+      "veleposlanstvo": "Švedska",
+      "pokriva_drzave": "Švedska, Litva, Latvija",
+      "veleposlanik": "Siniša Grigić"
+    },
+    {
+      "veleposlanstvo": "Švicarska",
+      "pokriva_drzave": "Švicarska, Lihtenštajn",
+      "veleposlanik": "Andrea Bekić"
+    },
+    {
+      "veleposlanstvo": "Turska",
+      "pokriva_drzave": "Turska, Afganistan, Azerbajdžan, Tadžikistan, Uzbekistan, Kirgistan, Turkmenistan",
+      "veleposlanik": "Hrvoje Cvitanović"
+    },
+    {
+      "veleposlanstvo": "Ukrajina",
+      "pokriva_drzave": "Ukrajina",
+      "veleposlanik": "Anica Djamić"
+    },
+    {
+      "veleposlanstvo": "UN",
+      "pokriva_drzave": "UN, Antigva i Barbuda, Bahami, Barbados, Belize, Dominika, Dominikanska Republika, Ekvador, El Salvador, Grenada, Gvajana, Gvatemala, Haiti, Honduras, Jamajka, Kostarika, Nikaragva, Surinam, Sveti Kristofor i Nevis, Sveta Lucija, Sveti Vincent i Grenadini",
+      "veleposlanik": "Ivan Šimonović"
+    },
+    {
+      "veleposlanstvo": "Sveta Stolica (Vatikan)",
+      "pokriva_drzave": "Sveta Stolica",
+      "veleposlanik": "Neven Pelicarić"
+    },
+    {
+      "veleposlanstvo": "Vijeće Europe",
+      "pokriva_drzave": "Vijeće Europe",
+      "veleposlanik": "Toma Galli"
+    },
+    {
+      "veleposlanstvo": "Velika Britanija i sjeverna Irska (Veleposlanstvo Hrvatske u Londonu)",
+      "pokriva_drzave": "Velika Britanija, Ganu, Gambiju, Liberiju, Sijera Leone, Ugandu i Nigeriju",
+      "veleposlanik": "Igor Pokaz"
+    }
+  ],
+  "meta": {
+    "title": "Veleposlanstva Republike Hrvatske - Free Download",
+    "description": "Popis veleposlanstava i stalnih misija Republike Hrvatske u inozemstvu s državama koje pokrivaju i veleposlanicima. Contains 59 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Veleposlanstva Republike Hrvatske | ListBase",
+    "seo_description": "Download Veleposlanstva Republike Hrvatske — 59 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 59 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Ministarstvo_vanjskih_i_europskih_poslova_Republike_Hrvatske"
+    ]
+  }
+}

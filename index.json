@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-09T02:24:15.559Z",
-  "total_datasets": 479,
-  "total_records": 826790,
+  "generated": "2026-11-09T02:24:23.207Z",
+  "total_datasets": 480,
+  "total_records": 826849,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "reference",
@@ -3894,6 +3894,30 @@
         "xlsx": {
           "name": "hr-tijela-javne-vlasti_HR.xlsx",
           "size": 823846
+        }
+      }
+    },
+    {
+      "id": "hr-veleposlanstva-rh",
+      "name": "Veleposlanstva Republike Hrvatske",
+      "category": "politics",
+      "record_count": 59,
+      "columns": [
+        "veleposlanstvo",
+        "pokriva_drzave",
+        "veleposlanik"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Ministarstvo_vanjskih_i_europskih_poslova_Republike_Hrvatske",
+      "updated": "2026-11",
+      "size": 10637,
+      "files": {
+        "csv": {
+          "name": "hr-veleposlanstva-rh_HR.csv",
+          "size": 4065
+        },
+        "xlsx": {
+          "name": "hr-veleposlanstva-rh_HR.xlsx",
+          "size": 9637
         }
       }
     },
