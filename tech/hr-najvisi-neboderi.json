@@ -1,0 +1,502 @@
+{
+  "id": "hr-najvisi-neboderi",
+  "name": "Najviši neboderi u Hrvatskoj",
+  "title": "Najviši neboderi u Hrvatskoj",
+  "description": "Popis najviših nebodera u Hrvatskoj s mjestom, visinom, brojem katova i godinom izgradnje.",
+  "category": "tech",
+  "source": "https://hr.wikipedia.org/wiki/Popis_najviših_nebodera_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_najviših_nebodera_u_Hrvatskoj",
+  "updated": "2026-11",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "mjesto",
+      "label": "Mjesto",
+      "type": "string"
+    },
+    {
+      "key": "visina_m",
+      "label": "Visina M",
+      "type": "number"
+    },
+    {
+      "key": "katovi",
+      "label": "Katovi",
+      "type": "number"
+    },
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "biljeske",
+      "label": "Biljeske",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "ime": "Dalmatia Tower",
+      "mjesto": "Split",
+      "visina_m": 115,
+      "katovi": "29",
+      "godina": 2022,
+      "biljeske": "Najviši neboder u Hrvatskoj, visine 115 m."
+    },
+    {
+      "rang": 2,
+      "ime": "Poslovni centar Strojarska",
+      "mjesto": "Zagreb",
+      "visina_m": 96.15,
+      "katovi": "25",
+      "godina": 2015,
+      "biljeske": "drugi najviši neboder u Hrvatskoj"
+    },
+    {
+      "rang": 3,
+      "ime": "F. Čandeka 23a i 23b",
+      "mjesto": "Rijeka",
+      "visina_m": 96,
+      "katovi": "28+2",
+      "godina": 1975,
+      "biljeske": "najviši stambeni neboderi u Hrvatskoj"
+    },
+    {
+      "rang": 4,
+      "ime": "Euro Tower I",
+      "mjesto": "Zagreb",
+      "visina_m": 96,
+      "katovi": "26",
+      "godina": 2006,
+      "biljeske": "Sjedište je Zagreb Stock Exchange i četvrti najviši neboder u Hrvatskoj."
+    },
+    {
+      "rang": 5,
+      "ime": "Zagrepčanka",
+      "mjesto": "Zagreb",
+      "visina_m": 95,
+      "katovi": "27",
+      "godina": 1976,
+      "biljeske": ""
+    },
+    {
+      "rang": 6,
+      "ime": "Cibonin toranj",
+      "mjesto": "Zagreb",
+      "visina_m": 92,
+      "katovi": "25",
+      "godina": 1987,
+      "biljeske": "sjedište Agrokora"
+    },
+    {
+      "rang": 7,
+      "ime": "Zagrebtower",
+      "mjesto": "Zagreb",
+      "visina_m": 82,
+      "katovi": "22",
+      "godina": 2006,
+      "biljeske": ""
+    },
+    {
+      "rang": 8,
+      "ime": "Sky Office Tower",
+      "mjesto": "Zagreb",
+      "visina_m": 81,
+      "katovi": "22",
+      "godina": 2012,
+      "biljeske": ""
+    },
+    {
+      "rang": 9,
+      "ime": "Rastočine Š1 – Š5",
+      "mjesto": "Rijeka",
+      "visina_m": 80,
+      "katovi": "P+25/26",
+      "godina": 1973,
+      "biljeske": "pet stambenih nebodera blizanaca"
+    },
+    {
+      "rang": 10,
+      "ime": "Karamanova 4",
+      "mjesto": "Split",
+      "visina_m": 78,
+      "katovi": "21",
+      "godina": 1979,
+      "biljeske": ""
+    },
+    {
+      "rang": 11,
+      "ime": "Prisavlje 6-12",
+      "mjesto": "Zagreb",
+      "visina_m": 73,
+      "katovi": "25",
+      "godina": 1974,
+      "biljeske": ""
+    },
+    {
+      "rang": 12,
+      "ime": "Trešnjevačka ljepotica",
+      "mjesto": "Zagreb",
+      "visina_m": 73,
+      "katovi": "24",
+      "godina": 1969,
+      "biljeske": ""
+    },
+    {
+      "rang": 13,
+      "ime": "Braće Domany 2-8",
+      "mjesto": "Zagreb",
+      "visina_m": 73,
+      "katovi": "21",
+      "godina": 1975,
+      "biljeske": ""
+    },
+    {
+      "rang": 14,
+      "ime": "Neboder Jugolinije",
+      "mjesto": "Rijeka",
+      "visina_m": 71,
+      "katovi": "P+5+16",
+      "godina": 1975,
+      "biljeske": "Stambeno-poslovni neboder"
+    },
+    {
+      "rang": 15,
+      "ime": "Richterovi neboderi",
+      "mjesto": "Zagreb",
+      "visina_m": 70,
+      "katovi": "20",
+      "godina": 1968,
+      "biljeske": "Zvane Rakete."
+    },
+    {
+      "rang": 16,
+      "ime": "Panorama Hotel Zagreb",
+      "mjesto": "Zagreb",
+      "visina_m": 70,
+      "katovi": "20",
+      "godina": 1971,
+      "biljeske": ""
+    },
+    {
+      "rang": 17,
+      "ime": "Kozala 1-3",
+      "mjesto": "Rijeka",
+      "visina_m": 69,
+      "katovi": "P+21",
+      "godina": 1969,
+      "biljeske": "Tri stambena blizanca zvana \"Alle Stelle\""
+    },
+    {
+      "rang": 18,
+      "ime": "Toranj Vulkan",
+      "mjesto": "Rijeka",
+      "visina_m": 68,
+      "katovi": "P+21",
+      "godina": 1972,
+      "biljeske": "Stambeni neboder Tvornice Vulkan na Pećinama"
+    },
+    {
+      "rang": 19,
+      "ime": "HOTO Tower",
+      "mjesto": "Zagreb",
+      "visina_m": 68,
+      "katovi": "16",
+      "godina": 2004,
+      "biljeske": "Sjedište je HT."
+    },
+    {
+      "rang": 20,
+      "ime": "ORA Trstenik 5",
+      "mjesto": "Split",
+      "visina_m": 67,
+      "katovi": "18",
+      "godina": 2018,
+      "biljeske": "Stambeni neboder u sklopu poslovno-stambenog kompleksa ORA."
+    },
+    {
+      "rang": 21,
+      "ime": "Vjesnikov neboder",
+      "mjesto": "Zagreb",
+      "visina_m": 67,
+      "katovi": "16",
+      "godina": 1972,
+      "biljeske": "Drugi novinarski neboder u Hrvatskoj, nakon Novog Lista u Rijeci."
+    },
+    {
+      "rang": 22,
+      "ime": "Neboder - Ilica 1",
+      "mjesto": "Zagreb",
+      "visina_m": 67,
+      "katovi": "18",
+      "godina": 1958,
+      "biljeske": ""
+    },
+    {
+      "rang": 23,
+      "ime": "Westin Hotel Zagreb",
+      "mjesto": "Zagreb",
+      "visina_m": 65,
+      "katovi": "17",
+      "godina": 2009,
+      "biljeske": ""
+    },
+    {
+      "rang": 24,
+      "ime": "Eurodom",
+      "mjesto": "Osijek",
+      "visina_m": 65,
+      "katovi": "14",
+      "godina": 2009,
+      "biljeske": "poslovno-kulturni centar"
+    },
+    {
+      "rang": 25,
+      "ime": "Green Gold Tower",
+      "mjesto": "Zagreb",
+      "visina_m": 64,
+      "katovi": "17",
+      "godina": 2011,
+      "biljeske": ""
+    },
+    {
+      "rang": 26,
+      "ime": "Tower Centar Rijeka",
+      "mjesto": "Rijeka",
+      "visina_m": 63,
+      "katovi": "17",
+      "godina": 2007,
+      "biljeske": ""
+    },
+    {
+      "rang": 27,
+      "ime": "Hotel Osijek",
+      "mjesto": "Osijek",
+      "visina_m": 62,
+      "katovi": "16",
+      "godina": 1977,
+      "biljeske": ""
+    },
+    {
+      "rang": 28,
+      "ime": "POS-Kila Arhivirana inačica izvorne stranice od 16. veljače 2019. (Wayback Machine) (7 zgrada)",
+      "mjesto": "Split",
+      "visina_m": 60,
+      "katovi": "14",
+      "godina": 2017,
+      "biljeske": "stambeni kompleks društveno poticane samogradnje"
+    },
+    {
+      "rang": 29,
+      "ime": "Četverolist",
+      "mjesto": "Osijek",
+      "visina_m": 60,
+      "katovi": "18",
+      "godina": 1973,
+      "biljeske": "stambena zgrada"
+    },
+    {
+      "rang": 30,
+      "ime": "Mamutica",
+      "mjesto": "Zagreb",
+      "visina_m": 60,
+      "katovi": "19",
+      "godina": 1974,
+      "biljeske": ""
+    },
+    {
+      "rang": 31,
+      "ime": "Zgrada RTV Zg (HRT)",
+      "mjesto": "Zagreb",
+      "visina_m": 60,
+      "katovi": "6",
+      "godina": 1975,
+      "biljeske": ""
+    },
+    {
+      "rang": 32,
+      "ime": "Chromos Tower",
+      "mjesto": "Zagreb",
+      "visina_m": 59,
+      "katovi": "15",
+      "godina": 1989,
+      "biljeske": ""
+    },
+    {
+      "rang": 33,
+      "ime": "Industrogradnja",
+      "mjesto": "Zagreb",
+      "visina_m": 56,
+      "katovi": "15",
+      "godina": "",
+      "biljeske": ""
+    },
+    {
+      "rang": 34,
+      "ime": "Westgate tower A",
+      "mjesto": "Split",
+      "visina_m": 55,
+      "katovi": "12",
+      "godina": 2016,
+      "biljeske": "OTP banka d.d. Split"
+    },
+    {
+      "rang": 35,
+      "ime": "Stambeni toranj - Spinut",
+      "mjesto": "Split",
+      "visina_m": 55,
+      "katovi": "18",
+      "godina": 1977,
+      "biljeske": ""
+    },
+    {
+      "rang": 36,
+      "ime": "Super Andrija",
+      "mjesto": "Zagreb",
+      "visina_m": 53,
+      "katovi": "14",
+      "godina": 1973,
+      "biljeske": "Stambena zgrada u Sigetu."
+    },
+    {
+      "rang": 37,
+      "ime": "Iblerov neboder",
+      "mjesto": "Zagreb",
+      "visina_m": 51,
+      "katovi": "14",
+      "godina": 1958,
+      "biljeske": ""
+    },
+    {
+      "rang": 38,
+      "ime": "Avenue Mall",
+      "mjesto": "Zagreb",
+      "visina_m": 51,
+      "katovi": "14",
+      "godina": 2005,
+      "biljeske": ""
+    },
+    {
+      "rang": 39,
+      "ime": "Neboder u Zadarskoj ul.",
+      "mjesto": "Zagreb",
+      "visina_m": 51,
+      "katovi": "14",
+      "godina": "",
+      "biljeske": ""
+    },
+    {
+      "rang": 40,
+      "ime": "Koteksov neboder",
+      "mjesto": "Split",
+      "visina_m": 50,
+      "katovi": "13",
+      "godina": 1964,
+      "biljeske": ""
+    },
+    {
+      "rang": 41,
+      "ime": "FER-ov neboder",
+      "mjesto": "Zagreb",
+      "visina_m": 50,
+      "katovi": "12",
+      "godina": 1963,
+      "biljeske": ""
+    },
+    {
+      "rang": 42,
+      "ime": "Neboder Euroherca",
+      "mjesto": "Zagreb",
+      "visina_m": 50,
+      "katovi": "14",
+      "godina": 1998,
+      "biljeske": ""
+    },
+    {
+      "rang": 43,
+      "ime": "Eurotower II",
+      "mjesto": "Zagreb",
+      "visina_m": 50,
+      "katovi": "14",
+      "godina": 2008,
+      "biljeske": ""
+    },
+    {
+      "rang": 44,
+      "ime": "Končarov neboder",
+      "mjesto": "Zagreb",
+      "visina_m": 50,
+      "katovi": "12",
+      "godina": "",
+      "biljeske": ""
+    },
+    {
+      "rang": 45,
+      "ime": "Neboder FSB-a",
+      "mjesto": "Zagreb",
+      "visina_m": 50,
+      "katovi": "12",
+      "godina": "",
+      "biljeske": ""
+    },
+    {
+      "rang": 46,
+      "ime": "Neboder Plinare",
+      "mjesto": "Zagreb",
+      "visina_m": 50,
+      "katovi": "11",
+      "godina": "",
+      "biljeske": ""
+    },
+    {
+      "rang": 47,
+      "ime": "TEŽ-ov neboder",
+      "mjesto": "Zagreb",
+      "visina_m": 50,
+      "katovi": "10",
+      "godina": 1936,
+      "biljeske": ""
+    },
+    {
+      "rang": 48,
+      "ime": "Aleja Pomoraca",
+      "mjesto": "Zagreb",
+      "visina_m": 50,
+      "katovi": "17",
+      "godina": 1968,
+      "biljeske": ""
+    },
+    {
+      "rang": 49,
+      "ime": "Sedamnaestokatnica",
+      "mjesto": "Šibenik",
+      "visina_m": 50,
+      "katovi": "17",
+      "godina": 1974,
+      "biljeske": "Često zvana neboder u Bosanskoj ulici."
+    }
+  ],
+  "meta": {
+    "title": "Najviši neboderi u Hrvatskoj - Free Download",
+    "description": "Popis najviših nebodera u Hrvatskoj s mjestom, visinom, brojem katova i godinom izgradnje. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najviši neboderi u Hrvatskoj | ListBase",
+    "seo_description": "Download Najviši neboderi u Hrvatskoj — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_najviših_nebodera_u_Hrvatskoj"
+    ]
+  }
+}

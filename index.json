@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-09T02:24:02.023Z",
-  "total_datasets": 477,
-  "total_records": 826224,
+  "generated": "2026-11-09T02:24:08.693Z",
+  "total_datasets": 478,
+  "total_records": 826273,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "time",
@@ -11257,6 +11257,34 @@
         "xlsx": {
           "name": "hr-emoji-nazivi_HR.xlsx",
           "size": 95482
+        }
+      }
+    },
+    {
+      "id": "hr-najvisi-neboderi",
+      "name": "Najviši neboderi u Hrvatskoj",
+      "category": "tech",
+      "record_count": 49,
+      "columns": [
+        "rang",
+        "ime",
+        "mjesto",
+        "visina_m",
+        "katovi",
+        "godina",
+        "biljeske"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_najviših_nebodera_u_Hrvatskoj",
+      "updated": "2026-11",
+      "size": 11155,
+      "files": {
+        "csv": {
+          "name": "hr-najvisi-neboderi_HR.csv",
+          "size": 3382
+        },
+        "xlsx": {
+          "name": "hr-najvisi-neboderi_HR.xlsx",
+          "size": 9477
         }
       }
     },
