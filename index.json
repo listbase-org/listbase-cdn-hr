@@ -1,12 +1,12 @@
 {
   "lang": "hr",
-  "generated": "2026-11-09T02:24:23.207Z",
-  "total_datasets": 480,
-  "total_records": 826849,
+  "generated": "2026-11-09T02:24:30.808Z",
+  "total_datasets": 481,
+  "total_records": 826910,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -172,6 +172,31 @@
         "xlsx": {
           "name": "hr-preporuceni-kultivari-vinove-loze_HR.xlsx",
           "size": 16766
+        }
+      }
+    },
+    {
+      "id": "hr-vinogorja",
+      "name": "Vinogorja Republike Hrvatske",
+      "category": "agriculture",
+      "record_count": 61,
+      "columns": [
+        "vinogorje",
+        "podregija",
+        "regija",
+        "zona"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Vinogradarska_područja_Republike_Hrvatske",
+      "updated": "2026-11",
+      "size": 10950,
+      "files": {
+        "csv": {
+          "name": "hr-vinogorja_HR.csv",
+          "size": 4210
+        },
+        "xlsx": {
+          "name": "hr-vinogorja_HR.xlsx",
+          "size": 8462
         }
       }
     },

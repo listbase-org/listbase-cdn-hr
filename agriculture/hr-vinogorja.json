@@ -1,0 +1,412 @@
+{
+  "id": "hr-vinogorja",
+  "name": "Vinogorja Republike Hrvatske",
+  "title": "Vinogorja Republike Hrvatske",
+  "description": "Popis vinogorja Republike Hrvatske po vinogradarskim podregijama, regijama i zonama proizvodnje prema Pravilniku o zemljopisnim područjima uzgoja vinove loze.",
+  "category": "agriculture",
+  "source": "https://hr.wikipedia.org/wiki/Vinogradarska_područja_Republike_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Vinogradarska_područja_Republike_Hrvatske",
+  "updated": "2026-11",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "vinogorje",
+      "label": "Vinogorje",
+      "type": "string"
+    },
+    {
+      "key": "podregija",
+      "label": "Podregija",
+      "type": "string"
+    },
+    {
+      "key": "regija",
+      "label": "Regija",
+      "type": "string"
+    },
+    {
+      "key": "zona",
+      "label": "Zona",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "vinogorje": "Srijem",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Erdut",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Baranja",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Đakovo",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Slavonski Brod",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Nova Gradiška",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Požega – Pleternica",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Kutjevo",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Daruvar",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Pakrac",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Feričanci",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Orahovica – Slatina",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Virovitica",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "vinogorje": "Voloder – Ivanić-Grad",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Čazma",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Dugo Selo – Vrbovec",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Kalnik",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Koprivnica – Đurđevac",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Bilogora",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Zelina",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Zagreb",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Samobor",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Plešivica – Okić",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Sveta Jana",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Krašić",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Ozalj – Vivodina",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Međimurje",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Varaždin",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Ludbreg",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Krapina",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Zlatar",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Zabok",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Klanjec",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Stubica",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Pregrada",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Zaprešić",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "vinogorje": "Zapadna Istra",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Centralna Istra",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Istočna Istra",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Opatija – Rijeka – Vinodol",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Krk",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Rab",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Cres – Lošinj",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Pag",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Zadar – Biograd",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "vinogorje": "Šibenik",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "vinogorje": "Primošten",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "vinogorje": "Benkovac – Stankovci",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Skradin",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Knin",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Promina",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Drniš",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Sinj–Vrlika (Sinj, Hrvace, Vrlika, Otok, Trilj, Dicmo, Muć, Dugopolje)",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Kaštelanska zagora",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Imotski",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Vrgorac",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "vinogorje": "Kaštela – Trogir",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "vinogorje": "Split – Omiš – Makarska",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "vinogorje": "Neretva",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "vinogorje": "Konavle",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "vinogorje": "Mljet",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    }
+  ],
+  "meta": {
+    "title": "Vinogorja Republike Hrvatske - Free Download",
+    "description": "Popis vinogorja Republike Hrvatske po vinogradarskim podregijama, regijama i zonama proizvodnje prema Pravilniku o zemljopisnim područjima uzgoja vinove loze. Contains 61 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vinogorja Republike Hrvatske | ListBase",
+    "seo_description": "Download Vinogorja Republike Hrvatske — 61 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 61 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Vinogradarska_područja_Republike_Hrvatske"
+    ]
+  }
+}
