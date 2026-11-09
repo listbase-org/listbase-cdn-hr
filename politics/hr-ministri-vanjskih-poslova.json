@@ -1,0 +1,136 @@
+{
+  "id": "hr-ministri-vanjskih-poslova",
+  "name": "Ministri vanjskih poslova Republike Hrvatske",
+  "title": "Ministri vanjskih poslova Republike Hrvatske",
+  "description": "Popis ministara vanjskih (i europskih) poslova Republike Hrvatske od 1990. godine s datumima obnašanja dužnosti.",
+  "category": "politics",
+  "source": "https://hr.wikipedia.org/wiki/Ministarstvo_vanjskih_i_europskih_poslova_Republike_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Ministarstvo_vanjskih_i_europskih_poslova_Republike_Hrvatske",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "ministar",
+      "label": "Ministar",
+      "type": "string"
+    },
+    {
+      "key": "stranka",
+      "label": "Stranka",
+      "type": "string"
+    },
+    {
+      "key": "pocetak",
+      "label": "Pocetak",
+      "type": "string"
+    },
+    {
+      "key": "zavrsetak",
+      "label": "Zavrsetak",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ministar": "Zdravko Mršić",
+      "stranka": "",
+      "pocetak": "31. svibnja 1990.",
+      "zavrsetak": "8. studenoga 1990."
+    },
+    {
+      "ministar": "Frane Vinko Golem",
+      "stranka": "",
+      "pocetak": "8. studenoga 1990.",
+      "zavrsetak": "3. svibnja 1991."
+    },
+    {
+      "ministar": "Davorin Rudolf",
+      "stranka": "",
+      "pocetak": "3. svibnja 1991.",
+      "zavrsetak": "31. srpnja 1991."
+    },
+    {
+      "ministar": "Zvonimir Šeparović",
+      "stranka": "",
+      "pocetak": "31. srpnja 1991.",
+      "zavrsetak": "27. svibnja 1992."
+    },
+    {
+      "ministar": "Zdenko Škrabalo",
+      "stranka": "",
+      "pocetak": "9. lipnja 1992.",
+      "zavrsetak": "28. svibnja 1993."
+    },
+    {
+      "ministar": "Mate Granić",
+      "stranka": "",
+      "pocetak": "28. svibnja 1993.",
+      "zavrsetak": "27. siječnja 2000."
+    },
+    {
+      "ministar": "Tonino Picula",
+      "stranka": "",
+      "pocetak": "27. siječnja 2000.",
+      "zavrsetak": "22. prosinca 2003."
+    },
+    {
+      "ministar": "Miomir Žužul",
+      "stranka": "",
+      "pocetak": "23. prosinca 2003.",
+      "zavrsetak": "17. veljače 2005."
+    },
+    {
+      "ministar": "Kolinda Grabar-Kitarović",
+      "stranka": "",
+      "pocetak": "17. veljače 2005.",
+      "zavrsetak": "12. siječnja 2008."
+    },
+    {
+      "ministar": "Gordan Jandroković",
+      "stranka": "",
+      "pocetak": "12. siječnja 2008.",
+      "zavrsetak": "23. prosinca 2011."
+    },
+    {
+      "ministar": "Vesna Pusić",
+      "stranka": "",
+      "pocetak": "23. prosinca 2011.",
+      "zavrsetak": "22. siječnja 2016."
+    },
+    {
+      "ministar": "Miro Kovač",
+      "stranka": "",
+      "pocetak": "22. siječnja 2016.",
+      "zavrsetak": "19. listopada 2016."
+    },
+    {
+      "ministar": "Davor Ivo Stier",
+      "stranka": "",
+      "pocetak": "19. listopada 2016.",
+      "zavrsetak": "19. lipnja 2017."
+    },
+    {
+      "ministar": "Marija Pejčinović Burić",
+      "stranka": "",
+      "pocetak": "19. lipnja 2017.",
+      "zavrsetak": "19. srpnja 2019."
+    },
+    {
+      "ministar": "Gordan Grlić Radman",
+      "stranka": "",
+      "pocetak": "19. srpnja 2019.",
+      "zavrsetak": ""
+    }
+  ],
+  "meta": {
+    "title": "Ministri vanjskih poslova Republike Hrvatske - Free Download",
+    "description": "Popis ministara vanjskih (i europskih) poslova Republike Hrvatske od 1990. godine s datumima obnašanja dužnosti. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri vanjskih poslova Republike Hrvatske | ListBase",
+    "seo_description": "Download Ministri vanjskih poslova Republike Hrvatske — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Ministarstvo_vanjskih_i_europskih_poslova_Republike_Hrvatske"
+    ]
+  }
+}

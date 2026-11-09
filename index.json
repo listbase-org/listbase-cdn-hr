@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-09T02:23:54.863Z",
-  "total_datasets": 476,
-  "total_records": 826209,
+  "generated": "2026-11-09T02:24:02.023Z",
+  "total_datasets": 477,
+  "total_records": 826224,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -3665,6 +3665,31 @@
         "xlsx": {
           "name": "hr-ministri-obrane_HR.xlsx",
           "size": 7463
+        }
+      }
+    },
+    {
+      "id": "hr-ministri-vanjskih-poslova",
+      "name": "Ministri vanjskih poslova Republike Hrvatske",
+      "category": "politics",
+      "record_count": 15,
+      "columns": [
+        "ministar",
+        "stranka",
+        "pocetak",
+        "zavrsetak"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Ministarstvo_vanjskih_i_europskih_poslova_Republike_Hrvatske",
+      "updated": "2026-11",
+      "size": 3962,
+      "files": {
+        "csv": {
+          "name": "hr-ministri-vanjskih-poslova_HR.csv",
+          "size": 981
+        },
+        "xlsx": {
+          "name": "hr-ministri-vanjskih-poslova_HR.xlsx",
+          "size": 7344
         }
       }
     },
