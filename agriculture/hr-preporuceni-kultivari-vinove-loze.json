@@ -1,0 +1,3148 @@
+{
+  "id": "hr-preporuceni-kultivari-vinove-loze",
+  "name": "Preporučeni kultivari vinove loze po podregijama Hrvatske",
+  "title": "Preporučeni kultivari vinove loze po podregijama Hrvatske",
+  "description": "Preporučeni kultivari (sorte) vinove loze za svaku vinogradarsku podregiju Republike Hrvatske prema Nacionalnoj listi priznatih kultivara vinove loze.",
+  "category": "agriculture",
+  "source": "https://hr.wikipedia.org/wiki/Vinogradarska_područja_Republike_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Vinogradarska_područja_Republike_Hrvatske",
+  "updated": "2026-11",
+  "record_count": 517,
+  "columns": [
+    {
+      "key": "kultivar",
+      "label": "Kultivar",
+      "type": "string"
+    },
+    {
+      "key": "podregija",
+      "label": "Podregija",
+      "type": "string"
+    },
+    {
+      "key": "regija",
+      "label": "Regija",
+      "type": "string"
+    },
+    {
+      "key": "zona",
+      "label": "Zona",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Cabernet franc",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Cabernet sauvignon",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Frankovka",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Gamay bojadiser",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Gamay crni",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Graševina",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Kadarka",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Kerner bijeli",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Manzoni bijeli",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Moslavac",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Muškat bijeli",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Muškat ottonel",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Pinot bijeli",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Pinot crni",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Pinot sivi",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Portugizac",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Rajnski rizling",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Rizvanac",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Ružica crvena",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Sauvignon",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Semillon",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Silvanac zeleni",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Syrah",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Traminac bijeli",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Traminac crveni",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Zweigelt",
+      "podregija": "Hrvatsko Podunavlje",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Blauburger",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Cabernet franc",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Cabernet sauvignon",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Frankovka",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Gamay bojadiser",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Gamay crni",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Graševina",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Kadarka",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Kerner bijeli",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Malbec crni",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Manzoni bijeli",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Moslavac",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Muškat bijeli",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Muškat ottonel",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Muškat ruža crni",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Nebiolo",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Neuburger",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Pinot bijeli",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Pinot crni",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Pinot sivi",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Portugizac",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Radgonska ranina",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Rajnski rizling",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Ranfol",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Rizvanac",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Ružica crvena",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Sauvignon",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Semillon",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Silvanac zeleni",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Syrah",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Traminac bijeli",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Traminac crveni",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Tribidrag",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Verduzzo",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Viognier bijeli",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Zelenac slatki",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Zweigelt",
+      "podregija": "Slavonija",
+      "regija": "Istočna kontinentalna Hrvatska",
+      "zona": "CI"
+    },
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Blauburger",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet cortis",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet franc",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet sauvignon",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Dišeća ranina bijela",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Dornfelder",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Frankovka",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Gamay bojadiser",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Gamay crni",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Graševina",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Johanniter",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kadarka",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kerner bijeli",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kraljevina",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Lovrijenac",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Manzoni bijeli",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Merzling",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Moslavac",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat bijeli",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat ottonel",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Neuburger",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Phoenix",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot bijeli",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot crni",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot sivi",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Plavec žuti",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Portugizac",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Radgonska ranina",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Rajnski rizling",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Ranfol",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Regent",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Rizvanac",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Sauvignon",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Semillon",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Silvanac zeleni",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Solaris",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Staufer",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Syrah",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Škrlet",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Traminac bijeli",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Traminac crveni",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Zweigelt",
+      "podregija": "Moslavina",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Blauburger",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet cortis",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet franc",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet sauvignon",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Dornfelder",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Frankovka",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Gamay bojadiser",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Gamay crni",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Graševina",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Johanniter",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kadarka",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kerner bijeli",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kleščec bijeli",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kraljevina",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Lovrijenac",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Manzoni bijeli",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Merzling",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Moslavac",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat bijeli",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Phoenix",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot bijeli",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot crni",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot sivi",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Plavec žuti",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Portugizac",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Radgonska ranina",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Rajnski rizling",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Ranfol",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Regent",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Rizvanac",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Sauvignon",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Semillon",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Silvanac zeleni",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Solaris",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Staufer",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Syrah",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Škrlet",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Traminac bijeli",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Traminac crveni",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Veltlinac crveni",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Zweigelt",
+      "podregija": "Prigorje – Bilogora",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Blauburger",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet cortis",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet franc",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet sauvignon",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Dornfelder",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Frankovka",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Gamay bojadiser",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Gamay crni",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Graševina",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Johanniter",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kadarka",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kavčina crna",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kerner bijeli",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kraljevina",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Lipovina",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Lovrijenac",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Manzoni bijeli",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Merzling",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Moslavac",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat bijeli",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat morio",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat ottonel",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Neuburger",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Phoenix",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot bijeli",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot crni",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot sivi",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Plavec žuti",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Portugizac",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Radgonska ranina",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Rajnski rizling",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Ranfol",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Regent",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Rizvanac",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Sauvignon",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Semillon",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Silvanac zeleni",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Solaris",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Staufer",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Syrah",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Šipelj",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Traminac bijeli",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Traminac crveni",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Veltlinac crveni",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Veltlinac zeleni",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Zelenac slatki",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Zweigelt",
+      "podregija": "Plešivica",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Blauburger",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet cortis",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Dišeća ranina bijela",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Dornfelder",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Frankovka",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Graševina",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Johanniter",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kavčina crna",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kerner bijeli",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Lovrijenac",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Manzoni bijeli",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Merzling",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Moslavac",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat bijeli",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat ottonel",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Phoenix",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot bijeli",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot crni",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot sivi",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Plavec žuti",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Portugizac",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Radgonska ranina",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Rajnski rizling",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Ranfol",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Regent",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Rizvanac",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Sauvignon",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Semillon",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Silvanac zeleni",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Solaris",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Staufer",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Šipelj",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Škrlet",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Traminac bijeli",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Traminac crveni",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Zelenac slatki",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Zweigelt",
+      "podregija": "Pokuplje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Belina Hižakovo",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Blauburger",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet cortis",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet franc",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Cabernet sauvignon",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Dišeća ranina bijela",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Frankovka",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Gamay bojadiser",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Graševina",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Johanniter",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kavčina crna",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kerner bijeli",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Kraljevina",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Lipovina",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Lovrijenac",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Manzoni bijeli",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Merzling",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Mirkovača",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Modra kosovina",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Moslavac",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat bijeli",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat ottonel",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Phoenix",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot bijeli",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot crni",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Pinot sivi",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Portugizac",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Radgonska ranina",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Rajnski rizling",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Ranfol",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Regent",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Rizvanac",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Sauvignon",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Semillon",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Silvanac zeleni",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Smudna belina",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Sokol",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Solaris",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Stara hrvatska belina",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Staufer",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Svetokriška belina",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Syrah",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Traminac bijeli",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Traminac crveni",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Trollinger blau",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Veltlinac crveni",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Veltlinac zeleni",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Zelenac slatki",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Zweigelt",
+      "podregija": "Zagorje – Međimurje",
+      "regija": "Zapadna kontinentalna Hrvatska",
+      "zona": "B"
+    },
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Ancellotta",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Barbera",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Cabernet franc",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Cabernet sauvignon",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Carmenere crni",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Croatina crna",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Frankovka",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Gamay bojadiser",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Hrvatica",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Malvazija istarska",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Manzoni bijeli",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Muškat bijeli",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Muškat ottonel",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Muškat ruža crni",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Nebiolo",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Petit verdot",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Pinot bijeli",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Pinot crni",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Pinot sivi",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Refošk",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Sauvignon",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Sauvignonasse",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Semillon",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Syrah",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Tempranillo",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Teran",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Trebbiano Toscano",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Verduzzo",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Viognier bijeli",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Žlahtina",
+      "podregija": "Hrvatska Istra",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Babić",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Bilan bijeli",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Brajda crna",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Brajdica bijela",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Cabernet franc",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Cabernet sauvignon",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Croatina crna",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Debejan crni",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Debit",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Draganela",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Frankovka",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Gamay bojadiser",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Gegić",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Grenache blanc",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Grenache noir",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Hrvatica",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Jarbola",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Magrovina",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Malvazija istarska",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Manzoni bijeli",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Maraština",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Mejsko belo",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Muškat ruža crni",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Nebiolo",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Ošljevina",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Pinot bijeli",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Pinot crni",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Pinot sivi",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Plavac mali crni",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Plavčina",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Plavica",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Plavina",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Refošk",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Rušljin crni",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Sansigot",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Sauvignon",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Semillon",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Syrah",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Teran",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Trbljan",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Tribidrag",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Trojišćina crvena",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Verdić",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Volarovo",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Žlahtina",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Žumić",
+      "podregija": "Hrvatsko primorje",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Babić",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Cabernet franc",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Cabernet sauvignon",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Carignan",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Cinsaut",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Debit",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Grenache blanc",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Grenache noir",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Lasina",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Maraština",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Mourverdre",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Plavac mali crni",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Plavina",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Pošip bijeli",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Rkaciteli",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Sauvignon",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Svrdlovina crna",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Syrah",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Trebbiano Romagnolo",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Trebbiano Toscano",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Trbljan",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Tribidrag",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Vranac",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Zadarka",
+      "podregija": "Sjeverna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Babić",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Blatina",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Cabernet franc",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Cabernet sauvignon",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Carignan",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Cinsaut",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Debit",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Glavinuša",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Graševina",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Grenache blanc",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Grenache noir",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Kujundžuša",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Lasina",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Maraština",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Medna",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Mourverdre",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Ninčuša",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Okatica bijela",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Pinot bijeli",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Pinot crni",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Pinot sivi",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Plavac mali crni",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Plavina",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Pošip bijeli",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Rkaciteli",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Sauvignon",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Svrdlovina crna",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Syrah",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Trebbiano Toscano",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Trbljan",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Tribidrag",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Trnjak",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Viognier bijeli",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Vranac",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Zlatarica",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Žilavka",
+      "podregija": "Dalmatinska zagora",
+      "regija": "Primorska Hrvatska",
+      "zona": "CII"
+    },
+    {
+      "kultivar": "Alicante Bouschet",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Babica",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Babić",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Bogdanuša",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Bratkovina",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Bratkovina crvena",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Cabernet franc",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Cabernet sauvignon",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Cetinka",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Chardonnay",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Crljenak viški",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Debit",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Dobričić",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Drnekuša",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Glavinuša",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Graševina",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Grk",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Kadarun",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Kurtelaška bijela",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Ljutac",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Malvasija dubrovačka bijela",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Maraština",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Merlot",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Mladenka",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Mourverdre",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Muškat crveni",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Muškat ruža crni",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Muškat žuti",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Ninčuša",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Plavac mali crni",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Plavac mali sivi",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Plavina",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Pošip bijeli",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Pošip crni",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Prč",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Rkaciteli",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Syrah",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Tempranillo",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Trebbiano Toscano",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Trbljan",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Tribidrag",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Viognier bijeli",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Vlaška",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Vranac",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Vugava",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Zlatarica",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    },
+    {
+      "kultivar": "Žilavka",
+      "podregija": "Srednja i Južna Dalmacija",
+      "regija": "Primorska Hrvatska",
+      "zona": "CIII"
+    }
+  ],
+  "meta": {
+    "title": "Preporučeni kultivari vinove loze po podregijama Hrvatske - Free Download",
+    "description": "Preporučeni kultivari (sorte) vinove loze za svaku vinogradarsku podregiju Republike Hrvatske prema Nacionalnoj listi priznatih kultivara vinove loze. Contains 517 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Preporučeni kultivari vinove loze po podregijama Hrvatske | ListBase",
+    "seo_description": "Download Preporučeni kultivari vinove loze po podregijama Hrvatske — 517 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 517 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Vinogradarska_područja_Republike_Hrvatske"
+    ]
+  }
+}

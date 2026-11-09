@@ -1,12 +1,12 @@
 {
   "lang": "hr",
-  "generated": "2026-11-09T02:24:08.693Z",
-  "total_datasets": 478,
-  "total_records": 826273,
+  "generated": "2026-11-09T02:24:15.559Z",
+  "total_datasets": 479,
+  "total_records": 826790,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -147,6 +147,31 @@
         "xlsx": {
           "name": "hr-pasmine-domacih-zivotinja_HR.xlsx",
           "size": 8309
+        }
+      }
+    },
+    {
+      "id": "hr-preporuceni-kultivari-vinove-loze",
+      "name": "Preporučeni kultivari vinove loze po podregijama Hrvatske",
+      "category": "agriculture",
+      "record_count": 517,
+      "columns": [
+        "kultivar",
+        "podregija",
+        "regija",
+        "zona"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Vinogradarska_područja_Republike_Hrvatske",
+      "updated": "2026-11",
+      "size": 79118,
+      "files": {
+        "csv": {
+          "name": "hr-preporuceni-kultivari-vinove-loze_HR.csv",
+          "size": 34430
+        },
+        "xlsx": {
+          "name": "hr-preporuceni-kultivari-vinove-loze_HR.xlsx",
+          "size": 16766
         }
       }
     },
