@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-09T02:24:30.808Z",
-  "total_datasets": 481,
-  "total_records": 826910,
+  "generated": "2026-11-10T02:26:42.762Z",
+  "total_datasets": 482,
+  "total_records": 827288,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -3564,6 +3564,32 @@
         "xlsx": {
           "name": "hr-zatvori-i-kaznionice_HR.xlsx",
           "size": 7790
+        }
+      }
+    },
+    {
+      "id": "hr-dobitnici-porina",
+      "name": "Dobitnici nagrade Porin",
+      "category": "music",
+      "record_count": 378,
+      "columns": [
+        "kategorija",
+        "godina",
+        "djelo",
+        "izvodac",
+        "zapis"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Porin_(nagrada)",
+      "updated": "2026-11",
+      "size": 83313,
+      "files": {
+        "csv": {
+          "name": "hr-dobitnici-porina_HR.csv",
+          "size": 44766
+        },
+        "xlsx": {
+          "name": "hr-dobitnici-porina_HR.xlsx",
+          "size": 22000
         }
       }
     },
