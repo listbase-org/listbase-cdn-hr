@@ -1,0 +1,135 @@
+{
+  "id": "hr-predsjednici-vrhovnog-suda",
+  "name": "Predsjednici Vrhovnog suda Republike Hrvatske",
+  "title": "Predsjednici Vrhovnog suda Republike Hrvatske",
+  "description": "Popis predsjednika Vrhovnog suda Republike Hrvatske od 1990. godine.",
+  "category": "law",
+  "source": "https://hr.wikipedia.org/wiki/Vrhovni_sud_Republike_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Vrhovni_sud_Republike_Hrvatske",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "rbr",
+      "label": "Rbr",
+      "type": "number"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "number"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "number"
+    },
+    {
+      "key": "predsjednik",
+      "label": "Predsjednik",
+      "type": "string"
+    },
+    {
+      "key": "biljeske",
+      "label": "Biljeske",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rbr": 1,
+      "od": "1990",
+      "do": "1992",
+      "predsjednik": "Vjekoslav Vidović",
+      "biljeske": ""
+    },
+    {
+      "rbr": 2,
+      "od": "1992",
+      "do": "1992",
+      "predsjednik": "Zlatko Crnić",
+      "biljeske": ""
+    },
+    {
+      "rbr": 3,
+      "od": "1992",
+      "do": "1995",
+      "predsjednik": "Milan Vuković",
+      "biljeske": ""
+    },
+    {
+      "rbr": 4,
+      "od": "1995",
+      "do": "1997",
+      "predsjednik": "Krunislav Olujić",
+      "biljeske": ""
+    },
+    {
+      "rbr": 5,
+      "od": "1997",
+      "do": "1999",
+      "predsjednik": "Milan Vuković",
+      "biljeske": ""
+    },
+    {
+      "rbr": 6,
+      "od": "1999",
+      "do": "2001",
+      "predsjednik": "Marijan Ramušćak",
+      "biljeske": ""
+    },
+    {
+      "rbr": 7,
+      "od": "2001",
+      "do": "2005",
+      "predsjednik": "Ivica Crnić",
+      "biljeske": ""
+    },
+    {
+      "rbr": 8,
+      "od": "2005",
+      "do": "2017",
+      "predsjednik": "Branko Hrvatin",
+      "biljeske": ""
+    },
+    {
+      "rbr": 9,
+      "od": "2017",
+      "do": "2021",
+      "predsjednik": "Đuro Sessa",
+      "biljeske": ""
+    },
+    {
+      "rbr": 10,
+      "od": "18. listopada 2021",
+      "do": "8. ožujka 2025",
+      "predsjednik": "Radovan Dobronić",
+      "biljeske": "Preminuo na dužnosti."
+    },
+    {
+      "rbr": "(v.d.)",
+      "od": "10. ožujka 2025",
+      "do": "15. svibnja 2026",
+      "predsjednik": "Gordana Jalšovečki",
+      "biljeske": "Vršiteljica dužnosti kao zamjenica predsjednika"
+    },
+    {
+      "rbr": 11,
+      "od": "15. svibnja 2026",
+      "do": "",
+      "predsjednik": "Mirta Matić",
+      "biljeske": ""
+    }
+  ],
+  "meta": {
+    "title": "Predsjednici Vrhovnog suda Republike Hrvatske - Free Download",
+    "description": "Popis predsjednika Vrhovnog suda Republike Hrvatske od 1990. godine. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Predsjednici Vrhovnog suda Republike Hrvatske | ListBase",
+    "seo_description": "Download Predsjednici Vrhovnog suda Republike Hrvatske — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Vrhovni_sud_Republike_Hrvatske"
+    ]
+  }
+}

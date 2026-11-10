@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-10T02:26:53.648Z",
-  "total_datasets": 483,
-  "total_records": 827306,
+  "generated": "2026-11-10T02:27:02.184Z",
+  "total_datasets": 484,
+  "total_records": 827318,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -3490,6 +3490,32 @@
         "xlsx": {
           "name": "hr-ministri-pravosudja_HR.xlsx",
           "size": 7359
+        }
+      }
+    },
+    {
+      "id": "hr-predsjednici-vrhovnog-suda",
+      "name": "Predsjednici Vrhovnog suda Republike Hrvatske",
+      "category": "law",
+      "record_count": 12,
+      "columns": [
+        "rbr",
+        "od",
+        "do",
+        "predsjednik",
+        "biljeske"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Vrhovni_sud_Republike_Hrvatske",
+      "updated": "2026-11",
+      "size": 3299,
+      "files": {
+        "csv": {
+          "name": "hr-predsjednici-vrhovnog-suda_HR.csv",
+          "size": 646
+        },
+        "xlsx": {
+          "name": "hr-predsjednici-vrhovnog-suda_HR.xlsx",
+          "size": 7280
         }
       }
     },
