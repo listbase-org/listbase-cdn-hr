@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-10T02:26:42.762Z",
-  "total_datasets": 482,
-  "total_records": 827288,
+  "generated": "2026-11-10T02:26:53.648Z",
+  "total_datasets": 483,
+  "total_records": 827306,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "society",
@@ -10969,6 +10969,31 @@
         "xlsx": {
           "name": "hr-paleontoloska-nalazista_HR.xlsx",
           "size": 21505
+        }
+      }
+    },
+    {
+      "id": "hr-predsjednici-hazu",
+      "name": "Predsjednici Hrvatske akademije znanosti i umjetnosti",
+      "category": "science",
+      "record_count": 18,
+      "columns": [
+        "ime",
+        "od",
+        "do",
+        "akademija"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Hrvatska_akademija_znanosti_i_umjetnosti",
+      "updated": "2026-11",
+      "size": 3498,
+      "files": {
+        "csv": {
+          "name": "hr-predsjednici-hazu_HR.csv",
+          "size": 711
+        },
+        "xlsx": {
+          "name": "hr-predsjednici-hazu_HR.xlsx",
+          "size": 7296
         }
       }
     },

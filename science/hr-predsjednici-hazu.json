@@ -1,0 +1,154 @@
+{
+  "id": "hr-predsjednici-hazu",
+  "name": "Predsjednici Hrvatske akademije znanosti i umjetnosti",
+  "title": "Predsjednici Hrvatske akademije znanosti i umjetnosti",
+  "description": "Popis predsjednika JAZU/HAZU od osnutka 1866. do danas s razdobljem mandata.",
+  "category": "science",
+  "source": "https://hr.wikipedia.org/wiki/Hrvatska_akademija_znanosti_i_umjetnosti",
+  "source_url": "https://hr.wikipedia.org/wiki/Hrvatska_akademija_znanosti_i_umjetnosti",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "number"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "number"
+    },
+    {
+      "key": "akademija",
+      "label": "Akademija",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ime": "Franjo Rački",
+      "od": 1866,
+      "do": 1886,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Pavao Muhić",
+      "od": 1887,
+      "do": 1890,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Josip Torbar",
+      "od": 1890,
+      "do": 1900,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Tadija Smičiklas",
+      "od": 1900,
+      "do": 1914,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Tomislav Maretić",
+      "od": 1914,
+      "do": 1918,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Vladimir Mažuranić",
+      "od": 1918,
+      "do": 1921,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Gustav Janeček",
+      "od": 1921,
+      "do": 1924,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Gavro Manojlović",
+      "od": 1924,
+      "do": 1933,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Albert Bazala",
+      "od": 1933,
+      "do": 1941,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Tomo Matić",
+      "od": 1942,
+      "do": 1945,
+      "akademija": "HAZU"
+    },
+    {
+      "ime": "Andrija Štampar",
+      "od": 1947,
+      "do": 1958,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Grga Novak",
+      "od": 1958,
+      "do": 1978,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Jakov Sirotković",
+      "od": 1978,
+      "do": 1991,
+      "akademija": "JAZU"
+    },
+    {
+      "ime": "Ivan Supek",
+      "od": 1991,
+      "do": 1997,
+      "akademija": "HAZU"
+    },
+    {
+      "ime": "Ivo Padovan",
+      "od": 1997,
+      "do": 2003,
+      "akademija": "HAZU"
+    },
+    {
+      "ime": "Milan Moguš",
+      "od": 2004,
+      "do": 2010,
+      "akademija": "HAZU"
+    },
+    {
+      "ime": "Zvonko Kusić",
+      "od": 2011,
+      "do": 2018,
+      "akademija": "HAZU"
+    },
+    {
+      "ime": "Velimir Neidhardt",
+      "od": 2019,
+      "do": "",
+      "akademija": "HAZU"
+    }
+  ],
+  "meta": {
+    "title": "Predsjednici Hrvatske akademije znanosti i umjetnosti - Free Download",
+    "description": "Popis predsjednika JAZU/HAZU od osnutka 1866. do danas s razdobljem mandata. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Predsjednici Hrvatske akademije znanosti i umjetnosti | ListBase",
+    "seo_description": "Download Predsjednici Hrvatske akademije znanosti i umjetnosti — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Hrvatska_akademija_znanosti_i_umjetnosti"
+    ]
+  }
+}
