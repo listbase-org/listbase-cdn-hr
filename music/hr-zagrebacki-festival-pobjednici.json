@@ -1,0 +1,440 @@
+{
+  "id": "hr-zagrebacki-festival-pobjednici",
+  "name": "Zagrebački festival — pobjedničke pjesme",
+  "title": "Zagrebački festival — pobjedničke pjesme",
+  "description": "Pobjedničke pjesme Zagrebačkog festivala zabavne glazbe od 1953. godine: nagrada publike i stručnog žirija, autori i izvođači.",
+  "category": "music",
+  "source": "https://hr.wikipedia.org/wiki/Zagrebački_festival",
+  "source_url": "https://hr.wikipedia.org/wiki/Zagrebački_festival",
+  "updated": "2026-11",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "string"
+    },
+    {
+      "key": "nagrada_publike",
+      "label": "Nagrada Publike",
+      "type": "string"
+    },
+    {
+      "key": "autori",
+      "label": "Autori",
+      "type": "string"
+    },
+    {
+      "key": "izvodac",
+      "label": "Izvodac",
+      "type": "string"
+    },
+    {
+      "key": "nagrada_strucnog_zirija",
+      "label": "Nagrada Strucnog Zirija",
+      "type": "string"
+    },
+    {
+      "key": "nagradjene_sansone",
+      "label": "Nagradjene Sansone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "godina": "1953 / 54.",
+      "nagrada_publike": "Ta tvoja ruka mala",
+      "autori": "Ljubo Kuntarić / Blanka Chudoba / Stjepan Mihaljinec",
+      "izvodac": "Ivo Robić",
+      "nagrada_strucnog_zirija": "",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1955.",
+      "nagrada_publike": "Mambo, mambo",
+      "autori": "Marijan Marjanović",
+      "izvodac": "Rajka Vali",
+      "nagrada_strucnog_zirija": "",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1956.",
+      "nagrada_publike": "Ako nećeš da te ljubim",
+      "autori": "Ljubo Kuntarić / Blanka Chudoba / Stjepan Mihaljinec",
+      "izvodac": "Ivo Robić",
+      "nagrada_strucnog_zirija": "",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1957. / 58.",
+      "nagrada_publike": "Žuti cvijet",
+      "autori": "Maks Mottl / Radivoj Pilje",
+      "izvodac": "Anica Zubović",
+      "nagrada_strucnog_zirija": "",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1959.",
+      "nagrada_publike": "Ljubav ili šala",
+      "autori": "Milutin Vandekar / Alka Ruben / Radan Bosner",
+      "izvodac": "Gabi Novak / Ivo Robić (alternativne verzije)",
+      "nagrada_strucnog_zirija": "",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1960.",
+      "nagrada_publike": "Meštrovićev zdenac",
+      "autori": "Vilibal Čaklec / Dragutin Britvić",
+      "izvodac": "Ivo Robić / Gabi Novak",
+      "nagrada_strucnog_zirija": "Ti si moja obala (Stipica Kalogjera)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1961.",
+      "nagrada_publike": "Svitanje",
+      "autori": "Stjepan Mihaljinec / Slobodan Šelebaj / Milivoj Korbler",
+      "izvodac": "Lola Novaković / Vice Vukov",
+      "nagrada_strucnog_zirija": "Odgovor u vjetru (Mario Nardelli)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1962.",
+      "nagrada_publike": "Ti nisi došao",
+      "autori": "Alfons Vučer / Silvija Sentinella / Stipica Kalogjera",
+      "izvodac": "Lola Novaković / Gabi Novak",
+      "nagrada_strucnog_zirija": "",
+      "nagradjene_sansone": "Ko' crne ruže cvijet (Ivo Kustan)"
+    },
+    {
+      "godina": "1963.",
+      "nagrada_publike": "Platno, boje, kist i twist",
+      "autori": "Ivica Krajač / Ivica Krajač",
+      "izvodac": "Kvartet 4M / Zdenka Vučković",
+      "nagrada_strucnog_zirija": "Bolero noći (Milutin Vandekar)",
+      "nagradjene_sansone": "Zagreb, Zagreb (Alfons Vučer)"
+    },
+    {
+      "godina": "1964.",
+      "nagrada_publike": "Balada",
+      "autori": "Pero Gotovac / Zvonimir Golob",
+      "izvodac": "Zvonko Špišić / Ana Štefok",
+      "nagrada_strucnog_zirija": "Golubovi (Branko Mihaljević)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1965.",
+      "nagrada_publike": "Zbog čega te volim",
+      "autori": "Mario Bogliuni / Slobodan Šelebaj",
+      "izvodac": "Ivo Robić / Marko Novosel",
+      "nagrada_strucnog_zirija": "Kratak susret (Nenad Grčević)",
+      "nagradjene_sansone": "Parkovi (Alfi Kabiljo)"
+    },
+    {
+      "godina": "1966.",
+      "nagrada_publike": "Za našu ljubav to je kraj",
+      "autori": "Alfons Vučer / Mario Kinel",
+      "izvodac": "Gabi Novak / Dragan Stojnić",
+      "nagrada_strucnog_zirija": "Mirjana (Alfons Vučer)",
+      "nagradjene_sansone": "Kockar (Zvonko Špišić)"
+    },
+    {
+      "godina": "1967.",
+      "nagrada_publike": "Ne pitajte za nju",
+      "autori": "Alfons Vučer / Justina Sappe / Alfons Vučer",
+      "izvodac": "Milan Bačić / Crveni koralji",
+      "nagrada_strucnog_zirija": "Svemu dođe kraj (Alfi Kabiljo)",
+      "nagradjene_sansone": "Balada iz predgrađa (Hrvoje Hegedušić)"
+    },
+    {
+      "godina": "1968.",
+      "nagrada_publike": "Samo ti",
+      "autori": "Marija Radić / Toma Adnimi",
+      "izvodac": "Mirko Bačič i Meteori",
+      "nagrada_strucnog_zirija": "Prije ili kasnije (Alfi Kabiljo)",
+      "nagradjene_sansone": "Celuloidni pajac (Pero Gotovac)"
+    },
+    {
+      "godina": "1969.",
+      "nagrada_publike": "Bar nešto za laku noć i san",
+      "autori": "Alfons Vučer / Mario Longhino / Pero Gotovac",
+      "izvodac": "Vice Vukov",
+      "nagrada_strucnog_zirija": "Igra života (Drago Diklić)",
+      "nagradjene_sansone": "Još uvijek ne znam neke važne stvari (Pero Gotovac)"
+    },
+    {
+      "godina": "1969.",
+      "nagrada_publike": "Bar nešto za laku noć i san",
+      "autori": "Alfons Vučer / Mario Longhino / Pero Gotovac",
+      "izvodac": "Vice Vukov",
+      "nagrada_strucnog_zirija": "Igra života (Drago Diklić)",
+      "nagradjene_sansone": "Još uvijek ne znam neke važne stvari (Pero Gotovac)"
+    },
+    {
+      "godina": "1970.",
+      "nagrada_publike": "Svijet je velik",
+      "autori": "Alfi Kabiljo / Drago Britvić / Alfi Kabiljo",
+      "izvodac": "Vice Vukov",
+      "nagrada_strucnog_zirija": "Partija karata (Zvonko Špišić)",
+      "nagradjene_sansone": "Mačka (Pero Gotovac)"
+    },
+    {
+      "godina": "1971.",
+      "nagrada_publike": "Gazi, gazi srce moje",
+      "autori": "Hrvoje Hegedušić / Maja Perfiljeva",
+      "izvodac": "Gabi Novak",
+      "nagrada_strucnog_zirija": "Zemljo moja (Pero Gotovac)",
+      "nagradjene_sansone": "Bicikl (Zvonko Špišić)"
+    },
+    {
+      "godina": "1972.",
+      "nagrada_publike": "Dok razmišljam o nama",
+      "autori": "Karlo Metikoš / Ivica Krajač / Ozren Depolo",
+      "izvodac": "Josipa Lisac",
+      "nagrada_strucnog_zirija": "Samo ljubav zna (Arsen Dedić)",
+      "nagradjene_sansone": "Kako sam volio Liču (Mile Rupčić)"
+    },
+    {
+      "godina": "1973.",
+      "nagrada_publike": "Otkad si tuđa žena",
+      "autori": "Hrvoje Hegedušić / Maja Perfiljeva / Stipica Kalogjera",
+      "izvodac": "Dalibor Brun",
+      "nagrada_strucnog_zirija": "Kuća za ptice (Arsen Dedić)",
+      "nagradjene_sansone": "Modra rijeka (Arsen Dedić"
+    },
+    {
+      "godina": "1974.",
+      "nagrada_publike": "Riječi pomirenja",
+      "autori": "Đorđe Novković / Željko Sabol / Đorđe Novković",
+      "izvodac": "Duško Lokin",
+      "nagrada_strucnog_zirija": "Kruh (Zvonko Špišić)",
+      "nagradjene_sansone": "Dugo u noć, u zimsku bijelu noć (Ivica Stamać)"
+    },
+    {
+      "godina": "1975.",
+      "nagrada_publike": "Zaboravi ako možeš",
+      "autori": "Đelo Jusić / Sveto Vuković / Stipica Kalogjera",
+      "izvodac": "Tereza Kesovija",
+      "nagrada_strucnog_zirija": "Ljutit će se moja mama (Nikica Kalogjera)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1976.",
+      "nagrada_publike": "Ženo moja",
+      "autori": "Vladimir Delač / Maja Perfiljeva / Đorđe Novković",
+      "izvodac": "Duško Lokin",
+      "nagrada_strucnog_zirija": "Budi dobar i misli na mene (Kornelije Kovač)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1977.",
+      "nagrada_publike": "Sve se vraća, sve se plaća",
+      "autori": "Đelo Jusić / Željko Sabol / Đelo Jusić",
+      "izvodac": "Tereza Kesovija",
+      "nagrada_strucnog_zirija": "Sve se vraća, sve se plaća (Đelo Jusić)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1978.",
+      "nagrada_publike": "Što je ostalo od ljubavi",
+      "autori": "Đelo Jusić / Željko Sabol / Đelo Jusić",
+      "izvodac": "Tereza Kesovija",
+      "nagrada_strucnog_zirija": "Najljepša si (Tomislav Ivčić)?",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1979.",
+      "nagrada_publike": "Na Stradunu",
+      "autori": "Đelo Jusić / Luko Paljetak / Đelo Jusić",
+      "izvodac": "Tereza Kesovija",
+      "nagrada_strucnog_zirija": "",
+      "nagradjene_sansone": "Pamtim samo sretne dane (Kemal Monteno)"
+    },
+    {
+      "godina": "1980.",
+      "nagrada_publike": "Nemaš vremena za mene",
+      "autori": "Rajko Dujmić / Momčilo Popadić",
+      "izvodac": "Novi fosili",
+      "nagrada_strucnog_zirija": "On me voli na svoj način (Arsen Dedić)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1981.",
+      "nagrada_publike": "Plava ruža zaborava",
+      "autori": "Arsen Dedić / Arsen Dedić / Mato Došen",
+      "izvodac": "Gabi Novak",
+      "nagrada_strucnog_zirija": "",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1982.",
+      "nagrada_publike": "Zaboravi sve",
+      "autori": "Vlado Kalember / Mario Mihaljević / Mato Došen",
+      "izvodac": "Zlatko Pejaković",
+      "nagrada_strucnog_zirija": "Marijana, Marijana (Bogdan Sretan)",
+      "nagradjene_sansone": "Da se razumijemo (Marija Radić)"
+    },
+    {
+      "godina": "1983.",
+      "nagrada_publike": "Kako naći pravi put",
+      "autori": "Davor Jašek / Davor Jašek / Igor Savin",
+      "izvodac": "Krunoslav Slabinac",
+      "nagrada_strucnog_zirija": "Prevario sam se u tebi (Dejan Petković)",
+      "nagradjene_sansone": "C'est la vie (Alfi Kabiljo)"
+    },
+    {
+      "godina": "1984.",
+      "nagrada_publike": "Povedi me",
+      "autori": "Rajko Dujmić / Mario Mihaljević / Rajko Dujmić",
+      "izvodac": "Jasna Zlokić",
+      "nagrada_strucnog_zirija": "Traži se jedan Vanja (Davor Jašek)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1985.",
+      "nagrada_publike": "Probudi se",
+      "autori": "Đelo Jusić / Margit Antauer / Đelo Jusić",
+      "izvodac": "Snježana Naumovska",
+      "nagrada_strucnog_zirija": "Osjećam to (Vladimir Delač / Krste Juras)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1986.",
+      "nagrada_publike": "Te oči zelene / Ne mogu više bez tebe (jednak broj glasova)",
+      "autori": "Ivica Šerfezi / Jasminka Holt; Tony Glowatzky / Jasminka Holt",
+      "izvodac": "Ivica Šerfezi; Krunoslav Slabinac",
+      "nagrada_strucnog_zirija": "Kraljica divljine (Krešimir Klemenčić)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1987.",
+      "nagrada_publike": "Nije nam bilo suđeno",
+      "autori": "Krunoslav Slabinac / Maja Perfiljeva / Dragan Laban",
+      "izvodac": "Krunoslav Slabinac",
+      "nagrada_strucnog_zirija": "Kako da ti kažem (Srećko Zubak)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1988.",
+      "nagrada_publike": "Kad te napuste svi",
+      "autori": "Tonči Huljić / Bratislav Zlatanović / Mato Došen",
+      "izvodac": "Zlatko Pejaković",
+      "nagrada_strucnog_zirija": "Suze ljubavi (Ivo Lesić)",
+      "nagradjene_sansone": "Kad se Zagrebom prošećem (Mario Kinel)"
+    },
+    {
+      "godina": "1989.",
+      "nagrada_publike": "Kad odu svi",
+      "autori": "Đorđe Novković / M.Vukelić – Ž.Pavičić",
+      "izvodac": "Jasna Zlokić",
+      "nagrada_strucnog_zirija": "Kad sam nemirna u snu (Dalibor Paulik)",
+      "nagradjene_sansone": "Balada o Trnju?"
+    },
+    {
+      "godina": "1990.",
+      "nagrada_publike": "Zlatna noć",
+      "autori": "Ilan Kabiljo / Ilan Kabiljo / Ilan Kabiljo",
+      "izvodac": "Ilan i Ivana",
+      "nagrada_strucnog_zirija": "",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1992.",
+      "nagrada_publike": "Voli me ili oslobodi me",
+      "autori": "Senad Galijašević / Stevo Cvikić",
+      "izvodac": "Anamarija",
+      "nagrada_strucnog_zirija": "Santa Maria (Zrinko Tutić)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "1993.",
+      "nagrada_publike": "Ti si čovjek moj",
+      "autori": "Zrinko Tutić / Nenad Ninčević / Nikša Bratoš",
+      "izvodac": "Maja Blagdan",
+      "nagrada_strucnog_zirija": "Da te mogu vratiti (Davor Devčić) / Nudiš mi razloge za kraj (Silvester Dragoje)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "2000.",
+      "nagrada_publike": "Vrati se u moje dane",
+      "autori": "Marko Tomasović / Inge Privora / Duško Mandić",
+      "izvodac": "Zdenka Kovačićek",
+      "nagrada_strucnog_zirija": "Putujem (Tihomir Preradović)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "2001.",
+      "nagrada_publike": "Živim u snu",
+      "autori": "Đorđe Novković / Arsen Dedić",
+      "izvodac": "Gabi Novak",
+      "nagrada_strucnog_zirija": "Sve jeseni zime (Boris Novković)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "2002.",
+      "nagrada_publike": "24 sata s tobom",
+      "autori": "Miro Ungar / Milivoj Briški",
+      "izvodac": "Miro Ungar",
+      "nagrada_strucnog_zirija": "Zagreb noću (Dražen Čuturić)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "2006.",
+      "nagrada_publike": "Danas i jučer",
+      "autori": "Vatroslav Štefanec / Jadranka Krištof / Josip Cvitanović)",
+      "izvodac": "Đani Stipaničev",
+      "nagrada_strucnog_zirija": "Svako jutro još po tebi miriše (Marko Tomasović)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "2007.",
+      "nagrada_publike": "Moja prva zagrebačka ljubav",
+      "autori": "Đelo Jusić / Nedo Zuban",
+      "izvodac": "Stijepo Gleđ Markos",
+      "nagrada_strucnog_zirija": "Pusti otok (Dražen Žanko)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "2008.",
+      "nagrada_publike": "Kiša",
+      "autori": "Marko Tomasović / Mario Šimunović",
+      "izvodac": "Lidija Bačić",
+      "nagrada_strucnog_zirija": "Kiša (Marko Tomasović)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "2009.",
+      "nagrada_publike": "Zagrebačka puca",
+      "autori": "Rajko Suhodolčan / Tomislav Baran / Josip Cvitanović",
+      "izvodac": "Rajko Suhodolčan",
+      "nagrada_strucnog_zirija": "Sama (Ante Pecotić)",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "2010.",
+      "nagrada_publike": "Kad me ljubiš ovako",
+      "autori": "Ante Pecotić / Ante Pecotić / Ante Pecotić",
+      "izvodac": "Sabrina",
+      "nagrada_strucnog_zirija": "",
+      "nagradjene_sansone": ""
+    },
+    {
+      "godina": "2011.",
+      "nagrada_publike": "Tako Lako",
+      "autori": "Branimir Mihaljević / Fayo / Branimir Mihaljević",
+      "izvodac": "Tvrtko Stipić",
+      "nagrada_strucnog_zirija": "Ljubav u boji (Marko Tolja)",
+      "nagradjene_sansone": ""
+    }
+  ],
+  "meta": {
+    "title": "Zagrebački festival — pobjedničke pjesme - Free Download",
+    "description": "Pobjedničke pjesme Zagrebačkog festivala zabavne glazbe od 1953. godine: nagrada publike i stručnog žirija, autori i izvođači. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Zagrebački festival — pobjedničke pjesme | ListBase",
+    "seo_description": "Download Zagrebački festival — pobjedničke pjesme — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Zagrebački_festival"
+    ]
+  }
+}
