@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-10T02:27:11.309Z",
-  "total_datasets": 485,
-  "total_records": 827366,
+  "generated": "2026-11-11T02:13:03.104Z",
+  "total_datasets": 486,
+  "total_records": 827393,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -3240,6 +3240,29 @@
         "xlsx": {
           "name": "hr-kraljevi_HR.xlsx",
           "size": 8974
+        }
+      }
+    },
+    {
+      "id": "hr-kurije",
+      "name": "Kurije u Hrvatskoj",
+      "category": "history",
+      "record_count": 27,
+      "columns": [
+        "name",
+        "place"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_kurija_u_Hrvatskoj",
+      "updated": "2026-11",
+      "size": 3219,
+      "files": {
+        "csv": {
+          "name": "hr-kurije_HR.csv",
+          "size": 864
+        },
+        "xlsx": {
+          "name": "hr-kurije_HR.xlsx",
+          "size": 7390
         }
       }
     },
