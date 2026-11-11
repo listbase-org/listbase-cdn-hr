@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-11T02:13:14.840Z",
-  "total_datasets": 487,
-  "total_records": 827405,
+  "generated": "2026-11-11T02:13:27.279Z",
+  "total_datasets": 488,
+  "total_records": 829132,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 26
+      "dataset_count": 27
     },
     {
       "id": "entertainment",
@@ -1554,6 +1554,41 @@
         "xlsx": {
           "name": "hr-srednje-skole_HR.xlsx",
           "size": 33027
+        }
+      }
+    },
+    {
+      "id": "hr-studijski-programi-visokih-ucilista",
+      "name": "Studijski programi visokih učilišta u Hrvatskoj",
+      "category": "education",
+      "record_count": 1727,
+      "columns": [
+        "code",
+        "name",
+        "study_type",
+        "kind",
+        "field",
+        "institution",
+        "holder",
+        "city",
+        "ects",
+        "duration_years",
+        "language",
+        "delivery",
+        "academic_title",
+        "holder_type"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/studijski-programi-visokih-ucilista",
+      "updated": "2026-11",
+      "size": 1046847,
+      "files": {
+        "csv": {
+          "name": "hr-studijski-programi-visokih-ucilista_HR.csv",
+          "size": 583193
+        },
+        "xlsx": {
+          "name": "hr-studijski-programi-visokih-ucilista_HR.xlsx",
+          "size": 126996
         }
       }
     },
