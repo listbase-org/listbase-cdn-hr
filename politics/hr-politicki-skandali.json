@@ -1,0 +1,101 @@
+{
+  "id": "hr-politicki-skandali",
+  "name": "Politički skandali u Hrvatskoj",
+  "title": "Politički skandali u Hrvatskoj",
+  "description": "Popis poznatih političkih skandala i afera u Hrvatskoj od 1990-ih, s godinom i desetljećem.",
+  "category": "politics",
+  "source": "https://hr.wikipedia.org/wiki/Popis_političkih_skandala_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_političkih_skandala_u_Hrvatskoj",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "years",
+      "label": "Years",
+      "type": "string"
+    },
+    {
+      "key": "decade",
+      "label": "Decade",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Afera Ankica Lepej",
+      "years": "1998.",
+      "decade": "1990-ih"
+    },
+    {
+      "name": "Afera Fimi Medija",
+      "years": "2007.",
+      "decade": "2000-ih"
+    },
+    {
+      "name": "Afera INA-MOL",
+      "years": "2008.",
+      "decade": "2000-ih"
+    },
+    {
+      "name": "Afera Konzultantica",
+      "years": "2013.",
+      "decade": "2010-ih"
+    },
+    {
+      "name": "Afera softver",
+      "years": "2017.",
+      "decade": "2010-ih"
+    },
+    {
+      "name": "Skandal s bordelom",
+      "years": "2019.",
+      "decade": "2010-ih"
+    },
+    {
+      "name": "Afera „Preskakanje reda”",
+      "years": "2020.",
+      "decade": "2020-ih"
+    },
+    {
+      "name": "Afera JANAF / „Tajni klub”",
+      "years": "2020.",
+      "decade": "2020-ih"
+    },
+    {
+      "name": "Afera s vinskom omotnicom",
+      "years": "2020.",
+      "decade": "2020-ih"
+    },
+    {
+      "name": "Mito za gradonačelnika",
+      "years": "2021.",
+      "decade": "2020-ih"
+    },
+    {
+      "name": "Krađa s gradilišta",
+      "years": "2022.",
+      "decade": "2020-ih"
+    },
+    {
+      "name": "Afera Papac",
+      "years": "2023., 2025.",
+      "decade": "2020-ih"
+    }
+  ],
+  "meta": {
+    "title": "Politički skandali u Hrvatskoj - Free Download",
+    "description": "Popis poznatih političkih skandala i afera u Hrvatskoj od 1990-ih, s godinom i desetljećem. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Politički skandali u Hrvatskoj | ListBase",
+    "seo_description": "Download Politički skandali u Hrvatskoj — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_političkih_skandala_u_Hrvatskoj"
+    ]
+  }
+}

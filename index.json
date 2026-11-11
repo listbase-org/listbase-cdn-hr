@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-11T02:13:03.104Z",
-  "total_datasets": 486,
-  "total_records": 827393,
+  "generated": "2026-11-11T02:13:14.840Z",
+  "total_datasets": 487,
+  "total_records": 827405,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "reference",
@@ -3929,6 +3929,30 @@
         "xlsx": {
           "name": "hr-politicke-stranke-funkcije_HR.xlsx",
           "size": 206373
+        }
+      }
+    },
+    {
+      "id": "hr-politicki-skandali",
+      "name": "Politički skandali u Hrvatskoj",
+      "category": "politics",
+      "record_count": 12,
+      "columns": [
+        "name",
+        "years",
+        "decade"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_političkih_skandala_u_Hrvatskoj",
+      "updated": "2026-11",
+      "size": 2651,
+      "files": {
+        "csv": {
+          "name": "hr-politicki-skandali_HR.csv",
+          "size": 520
+        },
+        "xlsx": {
+          "name": "hr-politicki-skandali_HR.xlsx",
+          "size": 7108
         }
       }
     },
