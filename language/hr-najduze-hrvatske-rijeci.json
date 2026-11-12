@@ -1,0 +1,304 @@
+{
+  "id": "hr-najduze-hrvatske-rijeci",
+  "name": "Najduže hrvatske riječi",
+  "title": "Najduže hrvatske riječi",
+  "description": "Popis najdužih riječi u hrvatskom jeziku s brojem slova i značenjem.",
+  "category": "language",
+  "source": "https://hr.wikipedia.org/wiki/Popis_najdužih_hrvatskih_riječi",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_najdužih_hrvatskih_riječi",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "letters",
+      "label": "Letters",
+      "type": "number"
+    },
+    {
+      "key": "meaning",
+      "label": "Meaning",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "word": "antisamoupravnosocijalističkoga",
+      "letters": 31,
+      "meaning": "koji je protiv samoupravnog i socijalističkog"
+    },
+    {
+      "rank": 1,
+      "word": "prijestolonasljednikovičičinima",
+      "letters": 31,
+      "meaning": "onima koji pripadaju prijestolonasljednikovoj maloj supruzi"
+    },
+    {
+      "rank": 2,
+      "word": "ezofagogastroduodenoskopija",
+      "letters": 27,
+      "meaning": "gastroenterološki terapijski postupak"
+    },
+    {
+      "rank": 2,
+      "word": "samoupravnosocijalističkoga",
+      "letters": 27,
+      "meaning": "koji je i samoupravni i socijalistički"
+    },
+    {
+      "rank": 3,
+      "word": "najneindustrijaliziranija",
+      "letters": 25,
+      "meaning": "koja ima najmanji stupanj industrijalizacija"
+    },
+    {
+      "rank": 3,
+      "word": "prijestolonasljednikovica",
+      "letters": 25,
+      "meaning": "prijestolonasljednikova supruga"
+    },
+    {
+      "rank": 4,
+      "word": "encefaliarteriografija",
+      "letters": 23,
+      "meaning": "dijagnostička metoda, rendgenski prikaz krvnih žila mozga"
+    },
+    {
+      "rank": 4,
+      "word": "sedamnaestogodišnjakinja",
+      "letters": 23,
+      "meaning": "ženska osoba koja ima 17 godina"
+    },
+    {
+      "rank": 4,
+      "word": "encefalocisternografija",
+      "letters": 23,
+      "meaning": "rendgenska pretraga cisternskih prostora mozga primjenom kontrasnih sredstava"
+    },
+    {
+      "rank": 5,
+      "word": "elektronistagmografija",
+      "letters": 22,
+      "meaning": "bilježenje spontanih titranja pokreta oka"
+    },
+    {
+      "rank": 5,
+      "word": "elektroencefalografija",
+      "letters": 22,
+      "meaning": "snimanje električnih aktivnosti mozga"
+    },
+    {
+      "rank": 6,
+      "word": "heilognatopalatoshiza",
+      "letters": 21,
+      "meaning": "urođeni rascjep usne, čeljusti i nepca"
+    },
+    {
+      "rank": 7,
+      "word": "autoreferencijalnost",
+      "letters": 20,
+      "meaning": "pjesnik u svom djelu spominje samog sebe i svoje djelo"
+    },
+    {
+      "rank": 7,
+      "word": "elektrokardiografija",
+      "letters": 20,
+      "meaning": ""
+    },
+    {
+      "rank": 7,
+      "word": "deindustrijalizacija",
+      "letters": 20,
+      "meaning": ""
+    },
+    {
+      "rank": 7,
+      "word": "deprofesionalizirati",
+      "letters": 20,
+      "meaning": "odvojiti od profesionalne kontrole"
+    },
+    {
+      "rank": 7,
+      "word": "internacionalizacija",
+      "letters": 20,
+      "meaning": "proces prilagodbe za svjetsko tržište"
+    },
+    {
+      "rank": 7,
+      "word": "lapalohisterektomija",
+      "letters": 20,
+      "meaning": "operacija maternice kroz rez na trbuhu"
+    },
+    {
+      "rank": 7,
+      "word": "otorinolaringologija",
+      "letters": 20,
+      "meaning": "grana medicine"
+    },
+    {
+      "rank": 7,
+      "word": "otorinolaringologica",
+      "letters": 20,
+      "meaning": "ženska osoba koja se bavi otorinolaringologijom"
+    },
+    {
+      "rank": 7,
+      "word": "prijestolonasljednica",
+      "letters": 20,
+      "meaning": "nasljednica prijestolja"
+    },
+    {
+      "rank": 7,
+      "word": "stereofotogrametrija",
+      "letters": 20,
+      "meaning": ""
+    },
+    {
+      "rank": 8,
+      "word": "encefalomeningokela",
+      "letters": 19,
+      "meaning": "izbočenje mozgovine zajedno s ovojnicama kroz defekt lubanje"
+    },
+    {
+      "rank": 8,
+      "word": "najnezainteresiraniji",
+      "letters": 19,
+      "meaning": "osoba koja je najviše nezainteresirana za nešto"
+    },
+    {
+      "rank": 8,
+      "word": "nekarakterističnost",
+      "letters": 19,
+      "meaning": "ne priliči nečemu, ne obilježava"
+    },
+    {
+      "rank": 9,
+      "word": "automehatroničarka",
+      "letters": 18,
+      "meaning": "objedinjava poslove automehaničara i autoelektričara"
+    },
+    {
+      "rank": 9,
+      "word": "dermatofibrosarkom",
+      "letters": 18,
+      "meaning": "kožni tumor s kliničkim i histološkim obilježjima dermatofiboma i fibrosarkoma"
+    },
+    {
+      "rank": 9,
+      "word": "gamaradioaktivnost",
+      "letters": 18,
+      "meaning": ""
+    },
+    {
+      "rank": 9,
+      "word": "medijastinoskopija",
+      "letters": 18,
+      "meaning": "endoskopski postupak pregleda i biopsije limfnih čvorova u medijastinumu"
+    },
+    {
+      "rank": 9,
+      "word": "elektrostimulacija",
+      "letters": 18,
+      "meaning": ""
+    },
+    {
+      "rank": 10,
+      "word": "najzainteresiraniji",
+      "letters": 17,
+      "meaning": "osoba koja je najviše zainteresanija za nešto"
+    },
+    {
+      "rank": 10,
+      "word": "neprepoznatljivost",
+      "letters": 17,
+      "meaning": ""
+    },
+    {
+      "rank": 10,
+      "word": "samoupravnopravni",
+      "letters": 17,
+      "meaning": ""
+    },
+    {
+      "rank": 11,
+      "word": "prenezaposlenost",
+      "letters": 16,
+      "meaning": "prevelika količina nezaposlenih ljudi"
+    },
+    {
+      "rank": 11,
+      "word": "makrovaskulatura",
+      "letters": 16,
+      "meaning": "skupni naziv za žile i arterije promjera većeg od 0,1 mm"
+    },
+    {
+      "rank": 11,
+      "word": "epifenomenalizam",
+      "letters": 16,
+      "meaning": "shvaćanje da je psihičko sporedan produkt fizioloških procesa"
+    },
+    {
+      "rank": 12,
+      "word": "brodogradilište",
+      "letters": 15,
+      "meaning": "industrija koja se bavi proizvodnjom brodova"
+    },
+    {
+      "rank": 12,
+      "word": "kinematografija",
+      "letters": 15,
+      "meaning": "svi filmovi jedne države"
+    },
+    {
+      "rank": 12,
+      "word": "fundamentalizam",
+      "letters": 15,
+      "meaning": ""
+    },
+    {
+      "rank": 12,
+      "word": "elektroprivreda",
+      "letters": 15,
+      "meaning": "bavi se opskrbom električne energije"
+    },
+    {
+      "rank": 12,
+      "word": "farmakodinamika",
+      "letters": 15,
+      "meaning": "dio farmakologije"
+    },
+    {
+      "rank": 12,
+      "word": "pluskvamperfekt",
+      "letters": 15,
+      "meaning": "pretprošlo vrijeme"
+    },
+    {
+      "rank": 12,
+      "word": "kontinentalnost",
+      "letters": 15,
+      "meaning": "obilježje kopna bez utjecaja mora"
+    }
+  ],
+  "meta": {
+    "title": "Najduže hrvatske riječi - Free Download",
+    "description": "Popis najdužih riječi u hrvatskom jeziku s brojem slova i značenjem. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najduže hrvatske riječi | ListBase",
+    "seo_description": "Download Najduže hrvatske riječi — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_najdužih_hrvatskih_riječi"
+    ]
+  }
+}

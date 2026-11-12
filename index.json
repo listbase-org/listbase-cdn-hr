@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-11T02:13:27.279Z",
-  "total_datasets": 488,
-  "total_records": 829132,
+  "generated": "2026-11-12T01:59:37.091Z",
+  "total_datasets": 489,
+  "total_records": 829175,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -3420,6 +3420,31 @@
         "xlsx": {
           "name": "hr-jezikoslovci_HR.xlsx",
           "size": 8650
+        }
+      }
+    },
+    {
+      "id": "hr-najduze-hrvatske-rijeci",
+      "name": "Najduže hrvatske riječi",
+      "category": "language",
+      "record_count": 43,
+      "columns": [
+        "rank",
+        "word",
+        "letters",
+        "meaning"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_najdužih_hrvatskih_riječi",
+      "updated": "2026-11",
+      "size": 7676,
+      "files": {
+        "csv": {
+          "name": "hr-najduze-hrvatske-rijeci_HR.csv",
+          "size": 3091
+        },
+        "xlsx": {
+          "name": "hr-najduze-hrvatske-rijeci_HR.xlsx",
+          "size": 8785
         }
       }
     },
