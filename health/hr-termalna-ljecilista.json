@@ -1,0 +1,112 @@
+{
+  "id": "hr-termalna-ljecilista",
+  "name": "Termalna lječilišta u Hrvatskoj",
+  "title": "Termalna lječilišta u Hrvatskoj",
+  "description": "Toplice i termalna lječilišta u Hrvatskoj s najbližim mjestom, regijom i napomenom.",
+  "category": "health",
+  "source": "https://hr.wikipedia.org/wiki/Popis_termalnih_lječilišta_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_termalnih_lječilišta_u_Hrvatskoj",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "nearest_place",
+      "label": "Nearest Place",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bizovačke toplice",
+      "nearest_place": "Bizovac i Valpovo",
+      "region": "Slavonija",
+      "note": "najvruća slatina Europe"
+    },
+    {
+      "name": "Daruvarske toplice",
+      "nearest_place": "Daruvar",
+      "region": "Slavonija",
+      "note": "korištena za vrijeme Rimljana i Turaka"
+    },
+    {
+      "name": "Istarske toplice",
+      "nearest_place": "Buzet i Motovun",
+      "region": "Istra",
+      "note": "korištena za vrijeme Rimljana"
+    },
+    {
+      "name": "Terme Jezerčica",
+      "nearest_place": "Donja Stubica",
+      "region": "Zagorje",
+      "note": "blizu Parka prirode Medvednice"
+    },
+    {
+      "name": "Krapinske Toplice",
+      "nearest_place": "Krapina, Zabok, Marija Bistrica",
+      "region": "Zagorje",
+      "note": "voda osobito bogata kalcijem i magnezijem"
+    },
+    {
+      "name": "Naftalan",
+      "nearest_place": "Ivanić-Grad",
+      "region": "kraj Zagreba",
+      "note": "jedinstven u Europi"
+    },
+    {
+      "name": "Stubičke Toplice",
+      "nearest_place": "Stubica i Marija Bistrica",
+      "region": "Zagorje",
+      "note": "temperatura vode na izvoru 43-69 °C"
+    },
+    {
+      "name": "Toplice Sveti Martin (Vučkovec)",
+      "nearest_place": "Sveti Martin na Muri",
+      "region": "Međimurje",
+      "note": "temperatura vode na izvoru 33-34 °C, popularno wellness odredište Hrvatske"
+    },
+    {
+      "name": "Toplice Topusko",
+      "nearest_place": "Topusko",
+      "region": "Banovina",
+      "note": "korištena za vrijema Rimljana, temperatura vode na izvoru 80 °C"
+    },
+    {
+      "name": "Tuheljske Toplice",
+      "nearest_place": "Krapina, Zabok, Marija Bistrica",
+      "region": "Zagorje",
+      "note": "popularno wellness odredište Hrvatske"
+    },
+    {
+      "name": "Varaždinske Toplice",
+      "nearest_place": "Varaždin",
+      "region": "Zagorje",
+      "note": "najstarije toplice u Hrvatskoj"
+    }
+  ],
+  "meta": {
+    "title": "Termalna lječilišta u Hrvatskoj - Free Download",
+    "description": "Toplice i termalna lječilišta u Hrvatskoj s najbližim mjestom, regijom i napomenom. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Termalna lječilišta u Hrvatskoj | ListBase",
+    "seo_description": "Download Termalna lječilišta u Hrvatskoj — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_termalnih_lječilišta_u_Hrvatskoj"
+    ]
+  }
+}
