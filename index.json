@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-12T01:59:45.945Z",
-  "total_datasets": 490,
-  "total_records": 830248,
+  "generated": "2026-11-12T01:59:54.661Z",
+  "total_datasets": 491,
+  "total_records": 830540,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -3350,6 +3350,32 @@
         "xlsx": {
           "name": "hr-najsmrtonosnije-katastrofe_HR.xlsx",
           "size": 7725
+        }
+      }
+    },
+    {
+      "id": "hr-narodni-heroji",
+      "name": "Narodni heroji iz Hrvatske",
+      "category": "history",
+      "record_count": 292,
+      "columns": [
+        "name",
+        "born",
+        "died",
+        "award",
+        "date"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_narodnih_heroja_iz_Hrvatske",
+      "updated": "2026-11",
+      "size": 44558,
+      "files": {
+        "csv": {
+          "name": "hr-narodni-heroji_HR.csv",
+          "size": 18428
+        },
+        "xlsx": {
+          "name": "hr-narodni-heroji_HR.xlsx",
+          "size": 16635
         }
       }
     },

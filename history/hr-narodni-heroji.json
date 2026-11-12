@@ -1,0 +1,2095 @@
+{
+  "id": "hr-narodni-heroji",
+  "name": "Narodni heroji iz Hrvatske",
+  "title": "Narodni heroji iz Hrvatske",
+  "description": "Narodni heroji Jugoslavije iz Hrvatske s godinama rođenja i smrti te datumom proglašenja ili odlikovanja Ordenom narodnog heroja.",
+  "category": "history",
+  "source": "https://hr.wikipedia.org/wiki/Popis_narodnih_heroja_iz_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_narodnih_heroja_iz_Hrvatske",
+  "updated": "2026-11",
+  "record_count": 292,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "number"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "number"
+    },
+    {
+      "key": "award",
+      "label": "Award",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Stjepan Abrlić",
+      "born": 1914,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "9. listopada 1953"
+    },
+    {
+      "name": "Božidar Adžija",
+      "born": 1890,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "26. srpnja 1945"
+    },
+    {
+      "name": "Vicko Antić",
+      "born": 1912,
+      "died": 1999,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Josip Antolović",
+      "born": 1916,
+      "died": 1997,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Milan Antončić",
+      "born": 1918,
+      "died": 1997,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ilija Antunović",
+      "born": 1919,
+      "died": 2005,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Tadija Anušić",
+      "born": 1896,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Nikola Babić Mika",
+      "born": 1917,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Petar Babić",
+      "born": 1919,
+      "died": 2006,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Maksimilijan Baće",
+      "born": 1914,
+      "died": 2005,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Marijan Badel",
+      "born": 1920,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "6. srpnja 1944"
+    },
+    {
+      "name": "Vlado Bagat",
+      "born": 1915,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "10. rujna 1948"
+    },
+    {
+      "name": "Đuro Baić",
+      "born": 1921,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Vladimir Bakarić",
+      "born": 1912,
+      "died": 1983,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Rajka Baković",
+      "born": 1920,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Đuro Bakrač",
+      "born": 1915,
+      "died": 1996,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Milutin Baltić",
+      "born": 1920,
+      "died": 2013,
+      "award": "odlikovan",
+      "date": "29. studenog 1953"
+    },
+    {
+      "name": "Olga Ban",
+      "born": 1926,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "26. rujna 1973"
+    },
+    {
+      "name": "Ante Banina",
+      "born": 1915,
+      "died": 1977,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ignjo Batrnek",
+      "born": 1923,
+      "died": 1945,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Dragomir Benčić",
+      "born": 1911,
+      "died": 1967,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Marko Belinić",
+      "born": 1911,
+      "died": 2004,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Mijo Benić",
+      "born": 1916,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "24. jula 1953"
+    },
+    {
+      "name": "Matteo Benussi Cio",
+      "born": 1906,
+      "died": 1951,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Anka Berus",
+      "born": 1903,
+      "died": 1991,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Antun Biber",
+      "born": 1910,
+      "died": 1995,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Božo Bilić",
+      "born": 1913,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ante Bilobrk",
+      "born": 1919,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Mojica Birta",
+      "born": 1916,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Petar Biškup Veno",
+      "born": 1918,
+      "died": 1945,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Stanko Bjelajac",
+      "born": 1912,
+      "died": 2001,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Jakov Blažević",
+      "born": 1912,
+      "died": 1996,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Antun Blažić",
+      "born": 1916,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Mate Blažina",
+      "born": 1925,
+      "died": 1945,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Florijan Bobić",
+      "born": 1913,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Stjepan Bobinec",
+      "born": 1919,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Petar Bogdan",
+      "born": 1915,
+      "died": "",
+      "award": "proglašen",
+      "date": "27. rujna 1953"
+    },
+    {
+      "name": "Gedeon Bogdanović",
+      "born": 1912,
+      "died": 1987,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Bogdan Bolta",
+      "born": 1923,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "13. ožujka 1945"
+    },
+    {
+      "name": "Persa Bosanac",
+      "born": 1922,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Andrija Božanić",
+      "born": 1906,
+      "died": 1989,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Nikola Božić",
+      "born": 1910,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Zvonko Brkić",
+      "born": 1912,
+      "died": 1977,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Milenko Brković",
+      "born": 1912,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Živko Bronzić",
+      "born": 1921,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "30. travnja 1943"
+    },
+    {
+      "name": "Josip Broz Tito",
+      "born": 1892,
+      "died": 1980,
+      "award": "odlikovan",
+      "date": "18. studenog 1944"
+    },
+    {
+      "name": "Nikola Bubalo",
+      "born": 1921,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Stjepan Bubanić",
+      "born": 1913,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Viktor Bubanj",
+      "born": 1918,
+      "died": 1972,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Dragan Bubić",
+      "born": 1911,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Divko Budak",
+      "born": 1897,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Giuseppe Pino Budicin",
+      "born": 1911,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "26. rujna 1973"
+    },
+    {
+      "name": "Boško Buha",
+      "born": 1926,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ivica Bujić",
+      "born": 1913,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. studenog 1951"
+    },
+    {
+      "name": "Rade Bulat",
+      "born": 1920,
+      "died": 2013,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Anka Butorac",
+      "born": 1905,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Nikola Car Crni",
+      "born": 1910,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Pero Car",
+      "born": 1920,
+      "died": 1985,
+      "award": "odlikovan",
+      "date": "23. srpnja 1953"
+    },
+    {
+      "name": "Većeslav Cvetko",
+      "born": 1917,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "16. srpnja 1951"
+    },
+    {
+      "name": "Marijan Cvetković",
+      "born": 1920,
+      "died": 1990,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Dušan Čalić",
+      "born": 1918,
+      "died": 1993,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Marijan Čavić",
+      "born": 1915,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Milan Čakširan",
+      "born": 1908,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Jandro Čipor",
+      "born": 1902,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Vlado Ćetković",
+      "born": 1909,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "13. kolovoza 1945"
+    },
+    {
+      "name": "Božidar Dakić",
+      "born": 1909,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "27. travnja 1946"
+    },
+    {
+      "name": "Milisav Dakić",
+      "born": 1912,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "12. srpnja 1949"
+    },
+    {
+      "name": "Danić Damjanović",
+      "born": 1915,
+      "died": 1990,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Stjepan Debeljak Bil",
+      "born": 1908,
+      "died": 1968,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Nikola Demonja",
+      "born": 1919,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "19. lipnja 1945"
+    },
+    {
+      "name": "Ivan Denac",
+      "born": 1917,
+      "died": "",
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Nada Dimić",
+      "born": 1923,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "7. srpnja 1951"
+    },
+    {
+      "name": "Robert Domany",
+      "born": 1918,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Stevo Došen",
+      "born": 1919,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "20. prosinca 1950"
+    },
+    {
+      "name": "Simica Dragić",
+      "born": 1911,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Petar Drapšin",
+      "born": 1914,
+      "died": 1945,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Branko Dude",
+      "born": 1913,
+      "died": 1997,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Jakov Dugandžić",
+      "born": 1905,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Đuro Dulić",
+      "born": 1912,
+      "died": 2006,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Kata Dumbović",
+      "born": 1903,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ljubo Dumičić",
+      "born": 1920,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Jošo Durbaba",
+      "born": 1920,
+      "died": 2012,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Đuro Đapić",
+      "born": 1920,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Obrad Egić",
+      "born": 1908,
+      "died": 1986,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Ilija Engel",
+      "born": 1912,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Mirko Fiket",
+      "born": 1899,
+      "died": 1976,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Stjepan Filipović",
+      "born": 1916,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Stjepan Funarić",
+      "born": 1921,
+      "died": 1979,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Vasilj Gaćeša",
+      "born": 1906,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "6. prosinca 1944"
+    },
+    {
+      "name": "Jure Galić",
+      "born": 1912,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Vilim Galjer",
+      "born": 1911,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Ljubica Gerovac",
+      "born": 1919,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Ivica Gluhak",
+      "born": 1922,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Mate Golem",
+      "born": 1923,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Ivan Gošnjak",
+      "born": 1909,
+      "died": 1980,
+      "award": "odlikovan",
+      "date": "17. studenog 1953"
+    },
+    {
+      "name": "Čedo Grbić",
+      "born": 1921,
+      "died": 1994,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Janko Gredelj",
+      "born": 1916,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Jože Gregorčič",
+      "born": 1907,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Pavle Gregorić",
+      "born": 1892,
+      "died": 1989,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Radovan Grmuša",
+      "born": 1917,
+      "died": 1974,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Petar Grubor",
+      "born": 1902,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ivan Guvo",
+      "born": 1910,
+      "died": 1992,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Ivan Hariš-Gromovnik",
+      "born": 1903,
+      "died": 1989,
+      "award": "odlikovan",
+      "date": "25. rujna 1944"
+    },
+    {
+      "name": "Nikola Hećimović Bracija",
+      "born": 1920,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Većeslav Holjevac",
+      "born": 1917,
+      "died": 1970,
+      "award": "odlikovan",
+      "date": "23. srpnja 1951"
+    },
+    {
+      "name": "Ljubo Ilić",
+      "born": 1905,
+      "died": 1994,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Vojislav Ivetić",
+      "born": 1920,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Pavle Jakšić",
+      "born": 1913,
+      "died": 2005,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Vlado Janić",
+      "born": 1904,
+      "died": 1991,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Grga Jankes",
+      "born": 1906,
+      "died": 1974,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Rade Janjanin",
+      "born": 1919,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Savka Javorina-Vujović",
+      "born": 1918,
+      "died": 2002,
+      "award": "odlikovan",
+      "date": "9. listopada 1953"
+    },
+    {
+      "name": "Mate Jerković",
+      "born": 1915,
+      "died": 1980,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Milan Joka",
+      "born": 1922,
+      "died": 1991,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ante Jonić",
+      "born": 1918,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "7. kolovoza 1942"
+    },
+    {
+      "name": "Đoko Jovanić",
+      "born": 1917,
+      "died": 2000,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ante Jurjević",
+      "born": 1913,
+      "died": 1994,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Josip Jutriša",
+      "born": 1920,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "9. veljače 1953"
+    },
+    {
+      "name": "Petar Kalanja",
+      "born": 1915,
+      "died": 1995,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Jurica Kalc",
+      "born": 1908,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "26. rujna 1973"
+    },
+    {
+      "name": "Petar Kesić",
+      "born": 1918,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Đuro Kladarin",
+      "born": 1916,
+      "died": 1987,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Vjekoslav Klobučar",
+      "born": 1919,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Filip Kljajić",
+      "born": 1913,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "25. rujna 1944"
+    },
+    {
+      "name": "Milanka Kljajić",
+      "born": 1924,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Miloš Kljajić",
+      "born": 1916,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "6. prosinca 1944"
+    },
+    {
+      "name": "Mirko Kljajić",
+      "born": 1912,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Franjo Knebl",
+      "born": 1915,
+      "died": 2006,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Radovan Knežević",
+      "born": 1916,
+      "died": 1988,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Slavko Komar",
+      "born": 1918,
+      "died": 2012,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Stojan Komljenović",
+      "born": 1920,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Dragica Končar",
+      "born": 1915,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Marko Končar",
+      "born": 1919,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Rade Končar",
+      "born": 1911,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "7. kolovoza 1942"
+    },
+    {
+      "name": "Stevan Korica",
+      "born": 1916,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Đuro Kosanović",
+      "born": 1917,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Vojin Kovačević",
+      "born": 1913,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Ivan Krajačić",
+      "born": 1906,
+      "died": 1986,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Josip Kraš",
+      "born": 1900,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "26. srpnja 1945"
+    },
+    {
+      "name": "Ivan Krkač",
+      "born": 1911,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "9. veljače 1952"
+    },
+    {
+      "name": "Rudolf Kroflin",
+      "born": 1916,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Vicko Krstulović",
+      "born": 1905,
+      "died": 1988,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Uroš Krunić",
+      "born": 1914,
+      "died": 1973,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Milka Kufrin",
+      "born": 1921,
+      "died": 2000,
+      "award": "odlikovan",
+      "date": "23. srpnja 1953"
+    },
+    {
+      "name": "Nikola Kukić",
+      "born": 1914,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Milan Kuprešanin",
+      "born": 1911,
+      "died": 2005,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Ivan Lenac",
+      "born": 1906,
+      "died": 1945,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Janko Lisak",
+      "born": 1914,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "5. srpnja 1952"
+    },
+    {
+      "name": "Ivica Lovinčić",
+      "born": 1911,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Josip Lozovina",
+      "born": 1919,
+      "died": 1946,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ivan Lučić-Lavčević",
+      "born": 1905,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "5. prosinca 1944"
+    },
+    {
+      "name": "Slobodan Macura",
+      "born": 1918,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Dane Majstorović",
+      "born": 1922,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Bogdan Mamula",
+      "born": 1918,
+      "died": 2002,
+      "award": "odlikovan",
+      "date": "22. prosinca 1951"
+    },
+    {
+      "name": "Srećko Manola",
+      "born": 1914,
+      "died": 1979,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Nikola Maraković",
+      "born": 1912,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "6. srpnja 1943"
+    },
+    {
+      "name": "Stanko Marević",
+      "born": 1922,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ivan Marinković",
+      "born": 1905,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "26. srpnja 1945"
+    },
+    {
+      "name": "Jovan Marinković",
+      "born": 1913,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Josip Marjanović",
+      "born": 1905,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Drago Marković",
+      "born": 1901,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Milan Marković",
+      "born": 1906,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Aleksandar Marović",
+      "born": 1918,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Ivica Marušić",
+      "born": 1912,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Božidar Maslarić",
+      "born": 1895,
+      "died": 1963,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Stojan Matić",
+      "born": 1915,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Miloš Matijević",
+      "born": 1902,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "16. srpnja 1951"
+    },
+    {
+      "name": "Ivan Mečar",
+      "born": 1909,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Petar Mećava",
+      "born": 1913,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "27. srpnja 1945"
+    },
+    {
+      "name": "Stjepan Milašinović",
+      "born": 1910,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Vicko Milat",
+      "born": 1914,
+      "died": 2003,
+      "award": "odlikovan",
+      "date": "8. rujna 1952"
+    },
+    {
+      "name": "Rade Milojević",
+      "born": 1918,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Nikola Miljanović",
+      "born": 1914,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "19. lipnja 1945"
+    },
+    {
+      "name": "Joco Miljković",
+      "born": 1920,
+      "died": 1984,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Danko Mitrov",
+      "born": 1919,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "26. srpnja 1945"
+    },
+    {
+      "name": "Ivan Morđin",
+      "born": 1911,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Ivan Muker",
+      "born": 1914,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "8. listopada 1953"
+    },
+    {
+      "name": "Milan Mraović",
+      "born": 1919,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Karlo Mrazović",
+      "born": 1902,
+      "died": 1987,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Marko Mrkoci",
+      "born": 1918,
+      "died": 1997,
+      "award": "odlikovan",
+      "date": "9. svibnja 1952"
+    },
+    {
+      "name": "Slavko Mrkoci",
+      "born": 1922,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "9. svibnja 1952"
+    },
+    {
+      "name": "Vladimir Nemet",
+      "born": 1918,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Gojko Nikoliš",
+      "born": 1911,
+      "died": 1995,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Momčilo Novaković",
+      "born": 1916,
+      "died": 1988,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Franjo Ogulinac Seljo",
+      "born": 1904,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "11. srpnja 1945"
+    },
+    {
+      "name": "Stevo G. Opačić",
+      "born": 1923,
+      "died": "",
+      "award": "odlikovan",
+      "date": "23. srpnja 1953"
+    },
+    {
+      "name": "Stevo J. Opačić",
+      "born": 1921,
+      "died": 2005,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Stevo Opačić (Stevanov)",
+      "born": 1923,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Stanko Opsenica",
+      "born": 1907,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "16. rujna 1945"
+    },
+    {
+      "name": "Stevan Opsenica",
+      "born": 1913,
+      "died": 2002,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Bogdan Oreščanin",
+      "born": 1916,
+      "died": 1978,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Marko Orešković",
+      "born": 1896,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "26. srpnja 1945"
+    },
+    {
+      "name": "Pajo Orozović",
+      "born": 1914,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Anka Pađen",
+      "born": 1924,
+      "died": 1945,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Vinko Paić-Ožić",
+      "born": 1912,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Nenad Parenta",
+      "born": 1913,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Stanko Parmać",
+      "born": 1913,
+      "died": 1982,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Bogdan Pecotić",
+      "born": 1912,
+      "died": 1998,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Slavko Pejak",
+      "born": 1919,
+      "died": 1992,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Kata Pejnović",
+      "born": 1899,
+      "died": 1966,
+      "award": "proglašen",
+      "date": "3. lipnja 1968"
+    },
+    {
+      "name": "Dušan Pekić",
+      "born": 1921,
+      "died": 2007,
+      "award": "odlikovan",
+      "date": "6. prosinca 1944"
+    },
+    {
+      "name": "Petar Pekiša",
+      "born": 1905,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Bogdan Peko",
+      "born": 1915,
+      "died": "",
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Vladimir Peran",
+      "born": 1922,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Branko Perišić",
+      "born": 1923,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Zdenko Petranović",
+      "born": 1919,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Adam Petrović",
+      "born": 1913,
+      "died": 1984,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Mile Počuča",
+      "born": 1899,
+      "died": 1980,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Smilja Pokrajac",
+      "born": 1920,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ilija Popović",
+      "born": 1917,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Momčilo Popović",
+      "born": 1919,
+      "died": 1962,
+      "award": "proglašen",
+      "date": "15. prosinca 1962"
+    },
+    {
+      "name": "Tomica Popović",
+      "born": 1915,
+      "died": 1972,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Mirko Poštić",
+      "born": 1913,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "6. prosinca 1944"
+    },
+    {
+      "name": "Rudolf Primorac",
+      "born": 1904,
+      "died": 1979,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Josip Prša",
+      "born": 1922,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "27. srpnja 1953"
+    },
+    {
+      "name": "Dako Puač",
+      "born": 1919,
+      "died": 1994,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Nikola Rački",
+      "born": 1914,
+      "died": 1994,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Ilija Radaković",
+      "born": 1923,
+      "died": "",
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Lazar Radaković",
+      "born": 1913,
+      "died": 2014,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Mićo Radaković",
+      "born": 1912,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Dragan Rakić",
+      "born": 1914,
+      "died": 1959,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Krešo Rakić",
+      "born": 1919,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Joakim Rakovac",
+      "born": 1914,
+      "died": 1945,
+      "award": "proglašen",
+      "date": "9. prosinca 1952"
+    },
+    {
+      "name": "Miloš Rastović",
+      "born": 1921,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Srećko Reić",
+      "born": 1914,
+      "died": 1987,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Ivo Lola Ribar",
+      "born": 1916,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "18. studenog 1944"
+    },
+    {
+      "name": "Ante Roje",
+      "born": 1914,
+      "died": 1982,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Paško Romac",
+      "born": 1913,
+      "died": 1982,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Ivan Rukavina",
+      "born": 1912,
+      "died": 1992,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ivan Rukavina Siđo",
+      "born": 1901,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Milan Rustanbeg",
+      "born": 1914,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Josip Ružička",
+      "born": 1919,
+      "died": 1945,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Ivan Sabljak",
+      "born": 1919,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Ante Savin",
+      "born": 1916,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Nikola Sekulić",
+      "born": 1911,
+      "died": 2002,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Stjepan Sekulić",
+      "born": 1922,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "26. srpnja 1945"
+    },
+    {
+      "name": "Đermano Senjanović",
+      "born": 1923,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Ivan Senjug",
+      "born": 1920,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "19. lipnja 1945"
+    },
+    {
+      "name": "Nikola Severović",
+      "born": 1919,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Josip Joža Skočilić",
+      "born": 1915,
+      "died": 2001,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Nikola Sovilj",
+      "born": 1919,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "13. ožujka 1945"
+    },
+    {
+      "name": "Slavko Stančir",
+      "born": 1925,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Mate Staničić",
+      "born": 1920,
+      "died": 1985,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Milan Stanivuković",
+      "born": 1912,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "13. ožujka 1945"
+    },
+    {
+      "name": "Tomo Strižić",
+      "born": 1906,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Miloš Suzić",
+      "born": 1903,
+      "died": 1945,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Milan Šakić",
+      "born": 1915,
+      "died": 1971,
+      "award": "odlikovan",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Nikola Šakić",
+      "born": 1916,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Jefto Šašić",
+      "born": 1917,
+      "died": 1998,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Ivan Šibl",
+      "born": 1917,
+      "died": 1989,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Milan Šijan",
+      "born": 1914,
+      "died": 2004,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Vitomir Širola Pajo",
+      "born": 1916,
+      "died": 1957,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Velimir Škorpik",
+      "born": 1919,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "8. rujna 1952"
+    },
+    {
+      "name": "Milan Špalj",
+      "born": 1918,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Ilija Španović",
+      "born": 1918,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Lovro Šperac",
+      "born": 1906,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Mika Špiljak",
+      "born": 1916,
+      "died": 2007,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Drago Štajnberger",
+      "born": 1916,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "27. srpnja 1953"
+    },
+    {
+      "name": "Jovan Štokovac",
+      "born": 1922,
+      "died": "",
+      "award": "odlikovan",
+      "date": "5. srpnja 1952"
+    },
+    {
+      "name": "Izidor Štrok",
+      "born": 1911,
+      "died": 1984,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Mirko Štulić",
+      "born": 1914,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Miloš Šumonja",
+      "born": 1918,
+      "died": 2006,
+      "award": "odlikovan",
+      "date": "23. srpnja 1952"
+    },
+    {
+      "name": "Rade Šupica",
+      "born": 1902,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Jože Šuran",
+      "born": 1890,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Dinko Šurkalo",
+      "born": 1920,
+      "died": 2010,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Joco Tarabić",
+      "born": 1916,
+      "died": 1995,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Milan Tomić",
+      "born": 1921,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Đuro Trbović",
+      "born": 1913,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Rajko Trbović",
+      "born": 1921,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ivanka Trohar",
+      "born": 1923,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "24. srpnja 1953"
+    },
+    {
+      "name": "Ljubo Truta",
+      "born": 1915,
+      "died": 1991,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Gojko Ujdurović",
+      "born": 1918,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Mate Ujević",
+      "born": 1920,
+      "died": 2002,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Mile Uzelac",
+      "born": 1913,
+      "died": 1987,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Srđan Uzelac",
+      "born": 1913,
+      "died": 1944,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Dušan Vergaš",
+      "born": 1909,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ivan Videković",
+      "born": 1908,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Marija Vidović Abesinka",
+      "born": 1924,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Nikola Vidović",
+      "born": 1917,
+      "died": 2000,
+      "award": "odlikovan",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Miro Višić",
+      "born": 1919,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "August Arsen Vivoda",
+      "born": 1917,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "26. rujna 1973"
+    },
+    {
+      "name": "Branko Vladušić",
+      "born": 1917,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Joža Vlahović",
+      "born": 1916,
+      "died": 1941,
+      "award": "proglašen",
+      "date": "14. prosinca 1949"
+    },
+    {
+      "name": "Vaclav Vostrel",
+      "born": 1904,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Ante Vučić",
+      "born": 1913,
+      "died": 1942,
+      "award": "proglašen",
+      "date": "5. srpnja 1951"
+    },
+    {
+      "name": "Simo Vučinić",
+      "born": 1916,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "20. prosinca 1951"
+    },
+    {
+      "name": "Bogoljub Vukajlović",
+      "born": 1911,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Savo Vukelić",
+      "born": 1917,
+      "died": 1974,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Pavle Vukomanović",
+      "born": 1903,
+      "died": 1977,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Dmitar Zaklan",
+      "born": 1915,
+      "died": 1988,
+      "award": "odlikovan",
+      "date": "27. studenog 1953"
+    },
+    {
+      "name": "Milan Žeželj",
+      "born": 1917,
+      "died": 1995,
+      "award": "odlikovan",
+      "date": "12. siječnja 1945"
+    },
+    {
+      "name": "Boško Žunić",
+      "born": 1920,
+      "died": 1943,
+      "award": "proglašen",
+      "date": "23. srpnja 1952"
+    }
+  ],
+  "meta": {
+    "title": "Narodni heroji iz Hrvatske - Free Download",
+    "description": "Narodni heroji Jugoslavije iz Hrvatske s godinama rođenja i smrti te datumom proglašenja ili odlikovanja Ordenom narodnog heroja. Contains 292 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Narodni heroji iz Hrvatske | ListBase",
+    "seo_description": "Download Narodni heroji iz Hrvatske — 292 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 292 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_narodnih_heroja_iz_Hrvatske"
+    ]
+  }
+}
