@@ -1,0 +1,496 @@
+{
+  "id": "hr-sveci-i-blazenici",
+  "name": "Hrvatski sveci i blaženici",
+  "title": "Hrvatski sveci i blaženici",
+  "description": "Popis hrvatskih svetaca, blaženika, slugu Božjih i ranokršćanskih svetaca s područja Hrvatske.",
+  "category": "culture",
+  "source": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_svetaca_i_blaženika",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_hrvatskih_svetaca_i_blaženika",
+  "updated": "2026-11",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Sveti Bono Vukovarski",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Donat",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Dujam",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Eleuterije",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Euzebije i Polion",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Gaudencije",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Jeronim",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Julijan",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Kajo",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Kvirin Sisački",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Marin",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Mauro Porečki",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Peregrin Umaški",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Silvano",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveta Vincenca",
+      "group": "Ranokršćanski sveci na području Hrvatske"
+    },
+    {
+      "name": "Sveti Marko Križevčanin",
+      "group": "Hrvatski sveci"
+    },
+    {
+      "name": "Sveti Leopold Mandić",
+      "group": "Hrvatski sveci"
+    },
+    {
+      "name": "Sveti Nikola Tavelić",
+      "group": "Hrvatski sveci"
+    },
+    {
+      "name": "Blaženi Franjo Bonifacio",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Miroslav Bulešić",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Drinske mučenice Blažena Jula Ivanišević Blažena Berchmana Leidenix (Austrijanka) Blažena Krizina Bojanc (Slovenka) Blažena Antonija Fabjan (Slovenka) Blažena Bernadeta Banja (Mađarica rođena u Hrvatskoj)",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Anton Durković (Hrvat po ocu, Austrijanac po majci, služio u Rumunjskoj)",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Julijan iz Bala",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Augustin Kažotić",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Serafin Kodić Glasnović",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blažena Katarina Kosača-Kotromanić",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blažena Ozana Kotorska",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Gracija Kotorski",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi kralj Karlo IV. (hrvatski kralj)",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Ivan Merz",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Anton Muzić",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Alojzije Palić",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blažena Marija Petković",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Oton iz Pule",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Alojzije Stepinac",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "Blaženi Jakov Zadranin",
+      "group": "Hrvatski blaženici"
+    },
+    {
+      "name": "fra Ante Antić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "b. Petar Barbarić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "msgr. Nikola Bijanković",
+      "group": "Kandidati"
+    },
+    {
+      "name": "fra Didak Buntić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "fra Aleksa Benigar",
+      "group": "Kandidati"
+    },
+    {
+      "name": "s. Klaudija Böllein",
+      "group": "Kandidati"
+    },
+    {
+      "name": "fra Egidije Bulešić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "s. Giacoma Giorgia Colombis",
+      "group": "Kandidati"
+    },
+    {
+      "name": "fra Placido Cortese",
+      "group": "Kandidati"
+    },
+    {
+      "name": "fra Vjeko Ćurić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "fra Šimun Filipović",
+      "group": "Kandidati"
+    },
+    {
+      "name": "Rikard Friedl",
+      "group": "Kandidati"
+    },
+    {
+      "name": "o. Ante Gabrić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "Hercegovački franjevački mučenici",
+      "group": "Kandidati"
+    },
+    {
+      "name": "kraljica Zita Haburško-Lotarinška (hrvatska kraljica, službenica Božja)",
+      "group": "Kandidati"
+    },
+    {
+      "name": "Žarka Ivasić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "msgr. Josip Lang",
+      "group": "Kandidati"
+    },
+    {
+      "name": "majka Marija Krucifiksa Kozulić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "Stjepan Kranjčić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "Franjo Kuharić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "msgr. Antun Mahnić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "s. Ana Marija Marović",
+      "group": "Kandidati"
+    },
+    {
+      "name": "Lino Maupas",
+      "group": "Kandidati"
+    },
+    {
+      "name": "b. Bonifacije Pavletić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "fra Ivo Peran",
+      "group": "Kandidati"
+    },
+    {
+      "name": "Antun Rendić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "msgr. Josip Stadler",
+      "group": "Kandidati"
+    },
+    {
+      "name": "Marica Stanković",
+      "group": "Kandidati"
+    },
+    {
+      "name": "o. Gerard Tomo Stantić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "fra Ante Josip Tomičić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "fra Marko Tvrdeić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "fra Vendelin Vošnjak",
+      "group": "Kandidati"
+    },
+    {
+      "name": "majka Klara Žižić",
+      "group": "Kandidati"
+    },
+    {
+      "name": "fra Marijan Blažić",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "s. Cecilija Grgić",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "Juraj Gospodnetić",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "fra Rafael Kalinić",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "fra Lovro Karaula",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "Pavao Kolarić (umro kao bogoslov u Rimu)",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "Filip Lukenda",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "fra Lovro Milanović",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "o. Petar Perica",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "fra Bernardin Tomašić",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "fra Celestin Tomić",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "fra Anđeo Zvizdović",
+      "group": "Drugi ugodnici Božji"
+    },
+    {
+      "name": "fra Stanko Banić",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Josip Belović SDB",
+      "group": "Uzornici"
+    },
+    {
+      "name": "fra Benedikt Dubrovčanin",
+      "group": "Uzornici"
+    },
+    {
+      "name": "mons. Petar Berislavić",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Ruđer Bošković DI",
+      "group": "Uzornici"
+    },
+    {
+      "name": "mons. Martin Borković",
+      "group": "Uzornici"
+    },
+    {
+      "name": "fra Blago Brkić, misionar",
+      "group": "Uzornici"
+    },
+    {
+      "name": "mons. fra Fulgencije Carev",
+      "group": "Uzornici"
+    },
+    {
+      "name": "s. Marija Leopoldina Čović, bunjevačka časna sestra milosrdnica",
+      "group": "Uzornici"
+    },
+    {
+      "name": "mons. Petar Čule, mučenik, mostarsko-duvanjski biskup",
+      "group": "Uzornici"
+    },
+    {
+      "name": "fra Matija Divković",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Rudolf Eckert, katolički novinar",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Jozo Furundžija",
+      "group": "Uzornici"
+    },
+    {
+      "name": "fra Filip Grabovac",
+      "group": "Uzornici"
+    },
+    {
+      "name": "fra Julijan Jelenić",
+      "group": "Uzornici"
+    },
+    {
+      "name": "s. Danka Jurčević, mučenica",
+      "group": "Uzornici"
+    },
+    {
+      "name": "fra Andrija Kačić Miošić",
+      "group": "Uzornici"
+    },
+    {
+      "name": "o. Antun Kanižlić",
+      "group": "Uzornici"
+    },
+    {
+      "name": "pater Marko Majstorović",
+      "group": "Uzornici"
+    },
+    {
+      "name": "fra Marko Malović",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Marko Marulić",
+      "group": "Uzornici"
+    },
+    {
+      "name": "fra Lino Maupas",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Feliks Niedzielski",
+      "group": "Uzornici"
+    },
+    {
+      "name": "sveti otac Nikola IV., papa",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Mihovil Pavlinović",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Branka Perković",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Ivo Protulipac",
+      "group": "Uzornici"
+    },
+    {
+      "name": "mons. Marijan Radanović",
+      "group": "Uzornici"
+    },
+    {
+      "name": "fra Rupert Rozmarić",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Stjepan Sećak, zagrebački služnik",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Danica Širola",
+      "group": "Uzornici"
+    },
+    {
+      "name": "don Dinko Vranković (svećenik)",
+      "group": "Uzornici"
+    },
+    {
+      "name": "fra Frane Vlašić",
+      "group": "Uzornici"
+    },
+    {
+      "name": "Ana Katarina Zrinski",
+      "group": "Uzornici"
+    }
+  ],
+  "meta": {
+    "title": "Hrvatski sveci i blaženici - Free Download",
+    "description": "Popis hrvatskih svetaca, blaženika, slugu Božjih i ranokršćanskih svetaca s područja Hrvatske. Contains 115 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrvatski sveci i blaženici | ListBase",
+    "seo_description": "Download Hrvatski sveci i blaženici — 115 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 115 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_hrvatskih_svetaca_i_blaženika"
+    ]
+  }
+}
