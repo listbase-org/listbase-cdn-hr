@@ -1,0 +1,191 @@
+{
+  "id": "hr-vodece-sorte-vinove-loze",
+  "name": "20 vodećih sorata vinove loze u Hrvatskoj",
+  "title": "20 vodećih sorata vinove loze u Hrvatskoj",
+  "description": "Dvadeset sorata vinove loze s najvećom zasađenom površinom u Hrvatskoj na dan 31.12.2024., sa sinonimima, površinom (ha) i brojem trsova.",
+  "category": "agriculture",
+  "source": "https://data.gov.hr/ckan/dataset/podaci-iz-vinogradarskog-registra-za-2024-godinu",
+  "source_url": "https://data.gov.hr/ckan/dataset/podaci-iz-vinogradarskog-registra-za-2024-godinu",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "variety",
+      "label": "Variety",
+      "type": "string"
+    },
+    {
+      "key": "synonyms",
+      "label": "Synonyms",
+      "type": "string"
+    },
+    {
+      "key": "planted_area_ha",
+      "label": "Planted Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "vines",
+      "label": "Vines",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "variety": "GRAŠEVINA",
+      "synonyms": "LAŠKI RIZLING, RIESLING ITALICO, TALIJANSKI RIZLING, RYZLINK VLAŠSKÝ, WELSCHRIESLING, RIZLING VLASSKÝ, OLASZ RIZLING, GRAŠICA",
+      "planted_area_ha": 4267.47,
+      "vines": 20610978
+    },
+    {
+      "rank": 2,
+      "variety": "MALVAZIJA ISTARSKA",
+      "synonyms": "MALVAZIJA, VRBIĆ",
+      "planted_area_ha": 1529.23,
+      "vines": 6572602
+    },
+    {
+      "rank": 3,
+      "variety": "PLAVAC MALI CRNI",
+      "synonyms": "PLAVAC MALI, PLAVAC VELIKI, CRLJENAK MALI, CRLJENAC, PAGADEBIT CRNI, ZELENKA, GREŠTAVAC",
+      "planted_area_ha": 1183.99,
+      "vines": 9756526
+    },
+    {
+      "rank": 4,
+      "variety": "MERLOT",
+      "synonyms": "",
+      "planted_area_ha": 775.84,
+      "vines": 3900139
+    },
+    {
+      "rank": 5,
+      "variety": "CABERNET SAUVIGNON",
+      "synonyms": "",
+      "planted_area_ha": 634.92,
+      "vines": 3067168
+    },
+    {
+      "rank": 6,
+      "variety": "CHARDONNAY",
+      "synonyms": "",
+      "planted_area_ha": 565.33,
+      "vines": 2809093
+    },
+    {
+      "rank": 7,
+      "variety": "PLAVINA",
+      "synonyms": "PLAJKA, PLAVKA, PLAVINAC, MODRULJ, BRAJDA, BRAJDICA CRNA, MARASOVKA",
+      "planted_area_ha": 481.01,
+      "vines": 2891354
+    },
+    {
+      "rank": 8,
+      "variety": "RAJNSKI RIZLING",
+      "synonyms": "RIESLING=RHEINRIESLING",
+      "planted_area_ha": 467.75,
+      "vines": 2533113
+    },
+    {
+      "rank": 9,
+      "variety": "FRANKOVKA",
+      "synonyms": "BLAUFRÄNKISCH, FRANKINJA, MORAVKA, BORGONJA, BORGONJA ISTARSKA",
+      "planted_area_ha": 396.9,
+      "vines": 1832718
+    },
+    {
+      "rank": 10,
+      "variety": "POŠIP BIJELI",
+      "synonyms": "POŠIP, POŠIPAK, POŠIPICA",
+      "planted_area_ha": 337.28,
+      "vines": 2379900
+    },
+    {
+      "rank": 11,
+      "variety": "SAUVIGNON",
+      "synonyms": "SAUVIGNON BLANC=SAUVIGNON BIJELI, MUŠKATNI SILVANAC",
+      "planted_area_ha": 311.64,
+      "vines": 1627538
+    },
+    {
+      "rank": 12,
+      "variety": "MARAŠTINA",
+      "synonyms": "RUKATAC, MARAŠKIN, MAREŠTINA, KRIZOL, VIŠANA, MALVASIA DEL CHIANTI, MALVASIA LUNGA, PAVLOS",
+      "planted_area_ha": 305.36,
+      "vines": 1901088
+    },
+    {
+      "rank": 13,
+      "variety": "DEBIT",
+      "synonyms": "PULJIŽANAC, BILINA, BJELINA, ČARAPAR, DEBIĆ",
+      "planted_area_ha": 302.05,
+      "vines": 1679620
+    },
+    {
+      "rank": 14,
+      "variety": "BABIĆ",
+      "synonyms": "ŠIBENČANAC, BABIČEVIĆ, ROGULJANAC, ROGOZNIČKA",
+      "planted_area_ha": 268.44,
+      "vines": 1622002
+    },
+    {
+      "rank": 15,
+      "variety": "TERAN",
+      "synonyms": "ISTRIJANAC",
+      "planted_area_ha": 228.94,
+      "vines": 973462
+    },
+    {
+      "rank": 16,
+      "variety": "TRAMINAC CRVENI",
+      "synonyms": "GEWURTZTRAMINER, TRAMINAC MIRISAVI, TRAMINAC",
+      "planted_area_ha": 224.28,
+      "vines": 1060496
+    },
+    {
+      "rank": 17,
+      "variety": "SYRAH",
+      "synonyms": "SIRAH, SIRAC, SHIRAZ",
+      "planted_area_ha": 222.25,
+      "vines": 1121135
+    },
+    {
+      "rank": 18,
+      "variety": "PINOT CRNI",
+      "synonyms": "PINOT NOIR=BURGUNDAC CRNI",
+      "planted_area_ha": 177.89,
+      "vines": 956752
+    },
+    {
+      "rank": 19,
+      "variety": "PINOT SIVI",
+      "synonyms": "PINOT GRIS=BURGUNDAC SIVI",
+      "planted_area_ha": 167.69,
+      "vines": 875972
+    },
+    {
+      "rank": 20,
+      "variety": "KUJUNDŽUŠA",
+      "synonyms": "TVRDAC, ŽUTKA, ŽUTAC, KOJUNDŽUŠA",
+      "planted_area_ha": 159.6,
+      "vines": 818652
+    }
+  ],
+  "meta": {
+    "title": "20 vodećih sorata vinove loze u Hrvatskoj - Free Download",
+    "description": "Dvadeset sorata vinove loze s najvećom zasađenom površinom u Hrvatskoj na dan 31.12.2024., sa sinonimima, površinom (ha) i brojem trsova. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "20 vodećih sorata vinove loze u Hrvatskoj | ListBase",
+    "seo_description": "Download 20 vodećih sorata vinove loze u Hrvatskoj — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/podaci-iz-vinogradarskog-registra-za-2024-godinu"
+    ]
+  }
+}

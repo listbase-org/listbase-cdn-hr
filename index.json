@@ -1,12 +1,12 @@
 {
   "lang": "hr",
-  "generated": "2026-11-13T02:29:42.323Z",
-  "total_datasets": 494,
-  "total_records": 830687,
+  "generated": "2026-11-13T02:29:51.867Z",
+  "total_datasets": 495,
+  "total_records": 830707,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -228,6 +228,32 @@
         "xlsx": {
           "name": "hr-vinogradi-po-zupanijama_HR.xlsx",
           "size": 8463
+        }
+      }
+    },
+    {
+      "id": "hr-vodece-sorte-vinove-loze",
+      "name": "20 vodećih sorata vinove loze u Hrvatskoj",
+      "category": "agriculture",
+      "record_count": 20,
+      "columns": [
+        "rank",
+        "variety",
+        "synonyms",
+        "planted_area_ha",
+        "vines"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/podaci-iz-vinogradarskog-registra-za-2024-godinu",
+      "updated": "2026-11",
+      "size": 5441,
+      "files": {
+        "csv": {
+          "name": "hr-vodece-sorte-vinove-loze_HR.csv",
+          "size": 1669
+        },
+        "xlsx": {
+          "name": "hr-vodece-sorte-vinove-loze_HR.xlsx",
+          "size": 7994
         }
       }
     },
