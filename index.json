@@ -1,12 +1,12 @@
 {
   "lang": "hr",
-  "generated": "2026-11-12T02:00:12.285Z",
-  "total_datasets": 493,
-  "total_records": 830666,
+  "generated": "2026-11-13T02:29:42.323Z",
+  "total_datasets": 494,
+  "total_records": 830687,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -197,6 +197,37 @@
         "xlsx": {
           "name": "hr-vinogorja_HR.xlsx",
           "size": 8462
+        }
+      }
+    },
+    {
+      "id": "hr-vinogradi-po-zupanijama",
+      "name": "Vinogradi i proizvodnja vina po županijama",
+      "category": "agriculture",
+      "record_count": 21,
+      "columns": [
+        "county",
+        "vineyard_area_ha",
+        "parcels",
+        "farms",
+        "vines",
+        "grubbed_area_ha",
+        "grubbed_parcels",
+        "grapes_2023_t",
+        "wine_2023_hl",
+        "producers_2023"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/podaci-iz-vinogradarskog-registra-za-2024-godinu",
+      "updated": "2026-11",
+      "size": 9022,
+      "files": {
+        "csv": {
+          "name": "hr-vinogradi-po-zupanijama_HR.csv",
+          "size": 2205
+        },
+        "xlsx": {
+          "name": "hr-vinogradi-po-zupanijama_HR.xlsx",
+          "size": 8463
         }
       }
     },

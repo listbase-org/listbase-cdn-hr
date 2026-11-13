@@ -1,0 +1,328 @@
+{
+  "id": "hr-vinogradi-po-zupanijama",
+  "name": "Vinogradi i proizvodnja vina po županijama",
+  "title": "Vinogradi i proizvodnja vina po županijama",
+  "description": "Površina vinograda, broj parcela, poljoprivrednih gospodarstava i trsova po županijama na dan 31.12.2024., iskrčeni vinogradi te prijavljena proizvodnja grožđa i vina za vinsku godinu 2023. (Vinogradarski registar, APPRRR).",
+  "category": "agriculture",
+  "source": "https://data.gov.hr/ckan/dataset/podaci-iz-vinogradarskog-registra-za-2024-godinu",
+  "source_url": "https://data.gov.hr/ckan/dataset/podaci-iz-vinogradarskog-registra-za-2024-godinu",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "vineyard_area_ha",
+      "label": "Vineyard Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "parcels",
+      "label": "Parcels",
+      "type": "number"
+    },
+    {
+      "key": "farms",
+      "label": "Farms",
+      "type": "number"
+    },
+    {
+      "key": "vines",
+      "label": "Vines",
+      "type": "number"
+    },
+    {
+      "key": "grubbed_area_ha",
+      "label": "Grubbed Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "grubbed_parcels",
+      "label": "Grubbed Parcels",
+      "type": "number"
+    },
+    {
+      "key": "grapes_2023_t",
+      "label": "Grapes 2023 T",
+      "type": "number"
+    },
+    {
+      "key": "wine_2023_hl",
+      "label": "Wine 2023 Hl",
+      "type": "number"
+    },
+    {
+      "key": "producers_2023",
+      "label": "Producers 2023",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "county": "Bjelovarsko-bilogorska županija",
+      "vineyard_area_ha": 185.21,
+      "parcels": 679,
+      "farms": 492,
+      "vines": 760625,
+      "grubbed_area_ha": 16.31,
+      "grubbed_parcels": 28,
+      "grapes_2023_t": 200.95,
+      "wine_2023_hl": 1077.9,
+      "producers_2023": 31
+    },
+    {
+      "county": "Brodsko-posavska županija",
+      "vineyard_area_ha": 231.02,
+      "parcels": 595,
+      "farms": 403,
+      "vines": 978500,
+      "grubbed_area_ha": 0.3,
+      "grubbed_parcels": 4,
+      "grapes_2023_t": 156.93,
+      "wine_2023_hl": 842.85,
+      "producers_2023": 40
+    },
+    {
+      "county": "Dubrovačko-neretvanska županija",
+      "vineyard_area_ha": 1766.91,
+      "parcels": 11207,
+      "farms": 2660,
+      "vines": 13261136,
+      "grubbed_area_ha": 31.71,
+      "grubbed_parcels": 334,
+      "grapes_2023_t": 4965.19,
+      "wine_2023_hl": 32081.25,
+      "producers_2023": 249
+    },
+    {
+      "county": "Grad Zagreb",
+      "vineyard_area_ha": 71.47,
+      "parcels": 710,
+      "farms": 455,
+      "vines": 369935,
+      "grubbed_area_ha": 1.05,
+      "grubbed_parcels": 14,
+      "grapes_2023_t": 2152.21,
+      "wine_2023_hl": 13457.32,
+      "producers_2023": 63
+    },
+    {
+      "county": "Istarska županija",
+      "vineyard_area_ha": 2740.25,
+      "parcels": 5627,
+      "farms": 2498,
+      "vines": 11524184,
+      "grubbed_area_ha": 96.08,
+      "grubbed_parcels": 171,
+      "grapes_2023_t": 14897.79,
+      "wine_2023_hl": 97304.47,
+      "producers_2023": 580
+    },
+    {
+      "county": "Karlovačka županija",
+      "vineyard_area_ha": 94.48,
+      "parcels": 487,
+      "farms": 272,
+      "vines": 451519,
+      "grubbed_area_ha": 0.31,
+      "grubbed_parcels": 5,
+      "grapes_2023_t": 279.71,
+      "wine_2023_hl": 1722.58,
+      "producers_2023": 33
+    },
+    {
+      "county": "Koprivničko-križevačka županija",
+      "vineyard_area_ha": 322.41,
+      "parcels": 2914,
+      "farms": 2110,
+      "vines": 1415224,
+      "grubbed_area_ha": 3.94,
+      "grubbed_parcels": 46,
+      "grapes_2023_t": 570.66,
+      "wine_2023_hl": 3090.25,
+      "producers_2023": 63
+    },
+    {
+      "county": "Krapinsko-zagorska županija",
+      "vineyard_area_ha": 592.29,
+      "parcels": 6118,
+      "farms": 4502,
+      "vines": 3014275,
+      "grubbed_area_ha": 32.59,
+      "grubbed_parcels": 412,
+      "grapes_2023_t": 955.24,
+      "wine_2023_hl": 6719.39,
+      "producers_2023": 169
+    },
+    {
+      "county": "Ličko-senjska županija",
+      "vineyard_area_ha": 14.81,
+      "parcels": 90,
+      "farms": 51,
+      "vines": 94272,
+      "grubbed_area_ha": 0.32,
+      "grubbed_parcels": 2,
+      "grapes_2023_t": 26.95,
+      "wine_2023_hl": 160.83,
+      "producers_2023": 5
+    },
+    {
+      "county": "Međimurska županija",
+      "vineyard_area_ha": 455.46,
+      "parcels": 874,
+      "farms": 385,
+      "vines": 2218169,
+      "grubbed_area_ha": 38.69,
+      "grubbed_parcels": 79,
+      "grapes_2023_t": 2396.54,
+      "wine_2023_hl": 15021.4,
+      "producers_2023": 123
+    },
+    {
+      "county": "Osječko-baranjska županija",
+      "vineyard_area_ha": 2070.44,
+      "parcels": 1115,
+      "farms": 513,
+      "vines": 8782088,
+      "grubbed_area_ha": 107.77,
+      "grubbed_parcels": 63,
+      "grapes_2023_t": 12047.05,
+      "wine_2023_hl": 79350.69,
+      "producers_2023": 75
+    },
+    {
+      "county": "Požeško-slavonska županija",
+      "vineyard_area_ha": 1489.07,
+      "parcels": 1584,
+      "farms": 605,
+      "vines": 7092183,
+      "grubbed_area_ha": 51.24,
+      "grubbed_parcels": 41,
+      "grapes_2023_t": 8642.96,
+      "wine_2023_hl": 56576.39,
+      "producers_2023": 92
+    },
+    {
+      "county": "Primorsko-goranska županija",
+      "vineyard_area_ha": 180,
+      "parcels": 1413,
+      "farms": 314,
+      "vines": 1146867,
+      "grubbed_area_ha": 5.61,
+      "grubbed_parcels": 28,
+      "grapes_2023_t": 2441.38,
+      "wine_2023_hl": 15806.85,
+      "producers_2023": 59
+    },
+    {
+      "county": "Sisačko-moslavačka županija",
+      "vineyard_area_ha": 213.17,
+      "parcels": 889,
+      "farms": 594,
+      "vines": 987516,
+      "grubbed_area_ha": 0.58,
+      "grubbed_parcels": 9,
+      "grapes_2023_t": 385.51,
+      "wine_2023_hl": 2168.87,
+      "producers_2023": 50
+    },
+    {
+      "county": "Splitsko-dalmatinska županija",
+      "vineyard_area_ha": 1371.62,
+      "parcels": 8770,
+      "farms": 3498,
+      "vines": 8811943,
+      "grubbed_area_ha": 21.9,
+      "grubbed_parcels": 135,
+      "grapes_2023_t": 1563.18,
+      "wine_2023_hl": 9247.2,
+      "producers_2023": 177
+    },
+    {
+      "county": "Šibensko-kninska županija",
+      "vineyard_area_ha": 800.27,
+      "parcels": 2441,
+      "farms": 1616,
+      "vines": 4984833,
+      "grubbed_area_ha": 8.22,
+      "grubbed_parcels": 22,
+      "grapes_2023_t": 1527.84,
+      "wine_2023_hl": 8994.24,
+      "producers_2023": 169
+    },
+    {
+      "county": "Varaždinska županija",
+      "vineyard_area_ha": 341.99,
+      "parcels": 3320,
+      "farms": 2485,
+      "vines": 1353193,
+      "grubbed_area_ha": 23.26,
+      "grubbed_parcels": 339,
+      "grapes_2023_t": 1060.95,
+      "wine_2023_hl": 6984.1,
+      "producers_2023": 123
+    },
+    {
+      "county": "Virovitičko-podravska županija",
+      "vineyard_area_ha": 382.59,
+      "parcels": 888,
+      "farms": 658,
+      "vines": 1621765,
+      "grubbed_area_ha": 10.76,
+      "grubbed_parcels": 16,
+      "grapes_2023_t": 792.04,
+      "wine_2023_hl": 5108.56,
+      "producers_2023": 40
+    },
+    {
+      "county": "Vukovarsko-srijemska županija",
+      "vineyard_area_ha": 1571.95,
+      "parcels": 1164,
+      "farms": 387,
+      "vines": 7458467,
+      "grubbed_area_ha": 6.59,
+      "grubbed_parcels": 10,
+      "grapes_2023_t": 9951.03,
+      "wine_2023_hl": 66043.92,
+      "producers_2023": 51
+    },
+    {
+      "county": "Zadarska županija",
+      "vineyard_area_ha": 1247.1,
+      "parcels": 3447,
+      "farms": 2470,
+      "vines": 5257454,
+      "grubbed_area_ha": 9.58,
+      "grubbed_parcels": 43,
+      "grapes_2023_t": 957.58,
+      "wine_2023_hl": 4844.04,
+      "producers_2023": 173
+    },
+    {
+      "county": "Zagrebačka županija",
+      "vineyard_area_ha": 646.68,
+      "parcels": 4351,
+      "farms": 2876,
+      "vines": 3441811,
+      "grubbed_area_ha": 14.9,
+      "grubbed_parcels": 166,
+      "grapes_2023_t": 2928.63,
+      "wine_2023_hl": 28150.26,
+      "producers_2023": 237
+    }
+  ],
+  "meta": {
+    "title": "Vinogradi i proizvodnja vina po županijama - Free Download",
+    "description": "Površina vinograda, broj parcela, poljoprivrednih gospodarstava i trsova po županijama na dan 31.12.2024., iskrčeni vinogradi te prijavljena proizvodnja grožđa i vina za vinsku godinu 2023. (Vinogradarski registar, APPRRR). Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vinogradi i proizvodnja vina po županijama | ListBase",
+    "seo_description": "Download Vinogradi i proizvodnja vina po županijama — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/podaci-iz-vinogradarskog-registra-za-2024-godinu"
+    ]
+  }
+}
