@@ -1,0 +1,1741 @@
+{
+  "id": "hr-pjesme-dorda-novkovica",
+  "name": "Pjesme Đorđa Novkovića",
+  "title": "Pjesme Đorđa Novkovića",
+  "description": "Popis skladbi hrvatskog skladatelja zabavne glazbe Đorđa Novkovića s izvođačima.",
+  "category": "music",
+  "source": "https://hr.wikipedia.org/wiki/Popis_kompozicija_Đorđa_Novkovića",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_kompozicija_Đorđa_Novkovića",
+  "updated": "2026-11",
+  "record_count": 340,
+  "columns": [
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "performer",
+      "label": "Performer",
+      "type": "string"
+    },
+    {
+      "key": "letter",
+      "label": "Letter",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "song": "Adio, do novog bala",
+      "performer": "Elio Pisak",
+      "letter": "A"
+    },
+    {
+      "song": "Adio i piši mi",
+      "performer": "Jasna Zlokić",
+      "letter": "A"
+    },
+    {
+      "song": "Adio ljubavi",
+      "performer": "Elio Pisak",
+      "letter": "A"
+    },
+    {
+      "song": "Ah, Nina, baš si fina",
+      "performer": "Duško Lokin",
+      "letter": "A"
+    },
+    {
+      "song": "Ajde ajde zlato moje",
+      "performer": "Severina",
+      "letter": "A"
+    },
+    {
+      "song": "Ako me ostaviš",
+      "performer": "Mate Mišo Kovač",
+      "letter": "A"
+    },
+    {
+      "song": "Ako vide sve, oči božje",
+      "performer": "Duško Lokin",
+      "letter": "A"
+    },
+    {
+      "song": "Amorcito",
+      "performer": "Plava trava zaborava",
+      "letter": "A"
+    },
+    {
+      "song": "Ana",
+      "performer": "Srebrna krila",
+      "letter": "A"
+    },
+    {
+      "song": "Anabela",
+      "performer": "Duško Lokin",
+      "letter": "A"
+    },
+    {
+      "song": "Anita",
+      "performer": "Elio Pisak",
+      "letter": "A"
+    },
+    {
+      "song": "Aoj Saša, dušo naša",
+      "performer": "Pro arte",
+      "letter": "A"
+    },
+    {
+      "song": "Bez rastanka suza nema",
+      "performer": "Mate Mišo Kovač",
+      "letter": "B"
+    },
+    {
+      "song": "Bila jedna djevojčica",
+      "performer": "Duško Lokin",
+      "letter": "B"
+    },
+    {
+      "song": "Bila je tako lijepa, bila je tako mlada (Krunoslav Kićo Slabinac)",
+      "performer": "",
+      "letter": "B"
+    },
+    {
+      "song": "Bio sam naivan",
+      "performer": "Daniel",
+      "letter": "B"
+    },
+    {
+      "song": "Bog samo zna",
+      "performer": "Mate Bulić",
+      "letter": "B"
+    },
+    {
+      "song": "Boli, boli",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "B"
+    },
+    {
+      "song": "Bolje da se nikad sreli nismo",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "B"
+    },
+    {
+      "song": "Boškarin",
+      "performer": "Boris Vižantin Vito",
+      "letter": "B"
+    },
+    {
+      "song": "Budi moja ljubav nova",
+      "performer": "Minea",
+      "letter": "B"
+    },
+    {
+      "song": "Cherie Cherie",
+      "performer": "Zdravko Čolić",
+      "letter": "C"
+    },
+    {
+      "song": "Ciao amici",
+      "performer": "Elio Pisak",
+      "letter": "C"
+    },
+    {
+      "song": "Cica",
+      "performer": "Darko Domijan",
+      "letter": "C"
+    },
+    {
+      "song": "Crna ruža",
+      "performer": "Ljupka Dimitrovska",
+      "letter": "C"
+    },
+    {
+      "song": "Curo mala",
+      "performer": "Tomislav Ivčić",
+      "letter": "C"
+    },
+    {
+      "song": "Cvijeće samo jednom cvijeta",
+      "performer": "Duško Lokin",
+      "letter": "C"
+    },
+    {
+      "song": "Ćao bambina ćao",
+      "performer": "Tomislav Ivčić",
+      "letter": "ć"
+    },
+    {
+      "song": "Ča je lipa naša Istria",
+      "performer": "Elio Pisak",
+      "letter": "Č"
+    },
+    {
+      "song": "Čekaj me Silvija",
+      "performer": "Tomislav Ivčić",
+      "letter": "Č"
+    },
+    {
+      "song": "Čemu da živim",
+      "performer": "Mate Mišo Kovač",
+      "letter": "Č"
+    },
+    {
+      "song": "Da imam srca dva",
+      "performer": "Vlado Kalember",
+      "letter": "D"
+    },
+    {
+      "song": "Da l' se sjetiš nekad mene",
+      "performer": "Džo Maračić Maki",
+      "letter": "D"
+    },
+    {
+      "song": "Da li si me voljela",
+      "performer": "Džo Maračić Maki",
+      "letter": "D"
+    },
+    {
+      "song": "Da li znaš kako tvoja majka plače",
+      "performer": "Pro arte",
+      "letter": "D"
+    },
+    {
+      "song": "Da mi je",
+      "performer": "Zdravko Škender",
+      "letter": "D"
+    },
+    {
+      "song": "Da mi je",
+      "performer": "(Krunoslav Kićo Slabinac)",
+      "letter": "D"
+    },
+    {
+      "song": "Da si moj",
+      "performer": "Severina",
+      "letter": "D"
+    },
+    {
+      "song": "Da te barem nisam srela",
+      "performer": "Jasna Zlokić",
+      "letter": "D"
+    },
+    {
+      "song": "Da te vidim pa da ozdravim",
+      "performer": "Duško Lokin",
+      "letter": "D"
+    },
+    {
+      "song": "Daj me iznenadi",
+      "performer": "Minea",
+      "letter": "D"
+    },
+    {
+      "song": "Daj mi snage",
+      "performer": "Zdravko Škender",
+      "letter": "D"
+    },
+    {
+      "song": "Dalmatinac",
+      "performer": "Mate Mišo Kovač",
+      "letter": "D"
+    },
+    {
+      "song": "Dalmatinca srića prati",
+      "performer": "Duško Lokin & Dolores",
+      "letter": "D"
+    },
+    {
+      "song": "Danke Deutschland",
+      "performer": "Sanja Trumbić",
+      "letter": "D"
+    },
+    {
+      "song": "Dao sam ti dušu",
+      "performer": "Alen Slavica",
+      "letter": "D"
+    },
+    {
+      "song": "Dobro došla ljubavi",
+      "performer": "Vlado Kalember",
+      "letter": "D"
+    },
+    {
+      "song": "Dobro došli",
+      "performer": "Neda Ukraden",
+      "letter": "D"
+    },
+    {
+      "song": "Dobro došli, prijatelji",
+      "performer": "Dolores",
+      "letter": "D"
+    },
+    {
+      "song": "Dođi",
+      "performer": "Duško Lokin",
+      "letter": "D"
+    },
+    {
+      "song": "Dođi bar jednom na kavu",
+      "performer": "Elio Pisak",
+      "letter": "D"
+    },
+    {
+      "song": "Dođi u mali cafe",
+      "performer": "Jasna Zlokić",
+      "letter": "D"
+    },
+    {
+      "song": "Dolina našeg sna",
+      "performer": "Pro arte, Srebrna krila",
+      "letter": "D"
+    },
+    {
+      "song": "Don't ever cry",
+      "performer": "Put",
+      "letter": "D"
+    },
+    {
+      "song": "Došlo doba da se rastajemo",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "D"
+    },
+    {
+      "song": "Doviđenja",
+      "performer": "Džo Maračić Maki, Jole",
+      "letter": "D"
+    },
+    {
+      "song": "Doviđenja, sayonara",
+      "performer": "Ljupka Dimitrovska",
+      "letter": "D"
+    },
+    {
+      "song": "Draga, vrati se",
+      "performer": "Džo Maračić Maki",
+      "letter": "D"
+    },
+    {
+      "song": "Drugi joj raspliće kosu, a ja je volim",
+      "performer": "Mate Mišo Kovač",
+      "letter": "D"
+    },
+    {
+      "song": "Druže Tito mi ti se kunemo",
+      "performer": "Zdravko Čolić",
+      "letter": "D"
+    },
+    {
+      "song": "Dugo će, dugo boljeti",
+      "performer": "Darko Domijan",
+      "letter": "D"
+    },
+    {
+      "song": "Dugo nisi kucala na vrata",
+      "performer": "Duško Lokin",
+      "letter": "D"
+    },
+    {
+      "song": "Dvije djevojčice",
+      "performer": "Tomislav Ivčić",
+      "letter": "D"
+    },
+    {
+      "song": "Đeni nosi kečke",
+      "performer": "Daniel",
+      "letter": "Đ"
+    },
+    {
+      "song": "Ej, sviraču",
+      "performer": "Dalibor Brun",
+      "letter": "E"
+    },
+    {
+      "song": "Elena",
+      "performer": "Pro arte",
+      "letter": "E"
+    },
+    {
+      "song": "Evo mene opet",
+      "performer": "Jasmin Stavros",
+      "letter": "E"
+    },
+    {
+      "song": "Evo ti sve što imam",
+      "performer": "Dolores",
+      "letter": "E"
+    },
+    {
+      "song": "Glas dječaka",
+      "performer": "(Krunoslav Kićo Slabinac)",
+      "letter": "G"
+    },
+    {
+      "song": "Gori gori srce moje",
+      "performer": "Duško Jaramaz",
+      "letter": "G"
+    },
+    {
+      "song": "Grlim jastuk",
+      "performer": "Dolores",
+      "letter": "G"
+    },
+    {
+      "song": "Grube riječi",
+      "performer": "Danijela Martinović",
+      "letter": "G"
+    },
+    {
+      "song": "Hajde da se kladimo",
+      "performer": "Duško Jaramaz",
+      "letter": "H"
+    },
+    {
+      "song": "Halo, srce",
+      "performer": "Džo Maračić Maki",
+      "letter": "H"
+    },
+    {
+      "song": "Hej, živote, lopove",
+      "performer": "Duško Lokin",
+      "letter": "H"
+    },
+    {
+      "song": "Hiljadu suza",
+      "performer": "Lidija Percan",
+      "letter": "H"
+    },
+    {
+      "song": "Hodam krivom stranom",
+      "performer": "Mate Bulić",
+      "letter": "H"
+    },
+    {
+      "song": "Hrabri ljudi",
+      "performer": "Gabi Novak",
+      "letter": "H"
+    },
+    {
+      "song": "I dođe dan",
+      "performer": "Mate Mišo Kovač",
+      "letter": "I"
+    },
+    {
+      "song": "I dok piće pijemo polako",
+      "performer": "Dolores",
+      "letter": "I"
+    },
+    {
+      "song": "Idi iz mog života",
+      "performer": "Duško Lokin",
+      "letter": "I"
+    },
+    {
+      "song": "Idi neću zaplakati",
+      "performer": "Neda Ukraden",
+      "letter": "I"
+    },
+    {
+      "song": "Isplači tugu, jedino moje",
+      "performer": "Ljupka Dimitrovska",
+      "letter": "I"
+    },
+    {
+      "song": "Izabela",
+      "performer": "Tomislav Ivčić",
+      "letter": "I"
+    },
+    {
+      "song": "Izmisli pravu stvar",
+      "performer": "Džo Maračić Maki",
+      "letter": "I"
+    },
+    {
+      "song": "Ja bez tebe dalje neću",
+      "performer": "Duško Lokin",
+      "letter": "J"
+    },
+    {
+      "song": "Ja bez tebe nemam sreće",
+      "performer": "Jasna Zlokić",
+      "letter": "J"
+    },
+    {
+      "song": "Ja, ja, ja",
+      "performer": "Danijela Martinović",
+      "letter": "J"
+    },
+    {
+      "song": "Ja kakva je na Bembaši trava",
+      "performer": "(Krunoslav Kićo Slabinac)",
+      "letter": "J"
+    },
+    {
+      "song": "Ja ludujem",
+      "performer": "Alen Slavica",
+      "letter": "J"
+    },
+    {
+      "song": "Ja ne žalim",
+      "performer": "Duško Lokin",
+      "letter": "J"
+    },
+    {
+      "song": "Ja nemam u životu što izgubiti",
+      "performer": "Duško Lokin",
+      "letter": "J"
+    },
+    {
+      "song": "Ja nemam više razloga da živim",
+      "performer": "Mate Mišo Kovač",
+      "letter": "J"
+    },
+    {
+      "song": "Ja nisam kockar",
+      "performer": "Srebrna krila",
+      "letter": "J"
+    },
+    {
+      "song": "Ja plaćam noćas",
+      "performer": "Darko Domijan",
+      "letter": "J"
+    },
+    {
+      "song": "Ja sam žena",
+      "performer": "Dolores",
+      "letter": "J"
+    },
+    {
+      "song": "Ja sam šef",
+      "performer": "Novi fosili",
+      "letter": "J"
+    },
+    {
+      "song": "Ja te nisam znao voljeti",
+      "performer": "Duško Lokin",
+      "letter": "J"
+    },
+    {
+      "song": "Januarske noći",
+      "performer": "Ljupka Dimitrovska",
+      "letter": "J"
+    },
+    {
+      "song": "Jedan čovjek i gitara",
+      "performer": "Elio Pisak",
+      "letter": "J"
+    },
+    {
+      "song": "Jedan mladić živi sam",
+      "performer": "Tomislav Ivčić",
+      "letter": "J"
+    },
+    {
+      "song": "Jedina prava bila je ona",
+      "performer": "Mišo Kovač",
+      "letter": "J"
+    },
+    {
+      "song": "Jedna lađa morem plovi",
+      "performer": "Jasna Zlokić",
+      "letter": "J"
+    },
+    {
+      "song": "Jedne zimske noći",
+      "performer": "Duško Lokin",
+      "letter": "J"
+    },
+    {
+      "song": "Jelena je bila lijepa",
+      "performer": "Darko Domijan",
+      "letter": "J"
+    },
+    {
+      "song": "Jesen u vrtu mom",
+      "performer": "Tomislav, Đani i Vedran, Nedžad Salković",
+      "letter": "J"
+    },
+    {
+      "song": "Još i danas teku suze jedne žene",
+      "performer": "Mate Mišo Kovač",
+      "letter": "J"
+    },
+    {
+      "song": "Justina",
+      "performer": "Duško Lokin",
+      "letter": "J"
+    },
+    {
+      "song": "Kad bi bilo ko na filmskom platnu",
+      "performer": "VIS Stakleno Zvono",
+      "letter": "K"
+    },
+    {
+      "song": "Kad bi znala",
+      "performer": "Dalibor Brun",
+      "letter": "K"
+    },
+    {
+      "song": "Kad čuješ u noći",
+      "performer": "Duško Lokin",
+      "letter": "K"
+    },
+    {
+      "song": "Kad dunje požute",
+      "performer": "Darko Domijan",
+      "letter": "K"
+    },
+    {
+      "song": "Kad odu svi",
+      "performer": "Jasna Zlokić",
+      "letter": "K"
+    },
+    {
+      "song": "Kad se srce nekom da",
+      "performer": "Darko Domijan",
+      "letter": "K"
+    },
+    {
+      "song": "Kad volim, volim",
+      "performer": "Minea",
+      "letter": "K"
+    },
+    {
+      "song": "Kako došlo tako prošlo",
+      "performer": "Željko Bebek",
+      "letter": "K"
+    },
+    {
+      "song": "Kako mi je, tako mi je",
+      "performer": "Vesna Pezo",
+      "letter": "K"
+    },
+    {
+      "song": "Kako živiš sada",
+      "performer": "Ljupka Dimitrovska",
+      "letter": "K"
+    },
+    {
+      "song": "Kradeš mi snove",
+      "performer": "Neda Ukraden",
+      "letter": "K"
+    },
+    {
+      "song": "Kaznili me i nebo i zemlja",
+      "performer": "Elio Pisak",
+      "letter": "K"
+    },
+    {
+      "song": "Kaži mi, nije istina",
+      "performer": "Ljupka Dimitrovska",
+      "letter": "K"
+    },
+    {
+      "song": "L'armonica triestina",
+      "performer": "Elio Pisak",
+      "letter": "L"
+    },
+    {
+      "song": "Lagala bih",
+      "performer": "Jasna Zlokić",
+      "letter": "L"
+    },
+    {
+      "song": "Laku noć svirači",
+      "performer": "Željko Bebek",
+      "letter": "L"
+    },
+    {
+      "song": "Lana, moja Lana",
+      "performer": "Darko Domijan",
+      "letter": "L"
+    },
+    {
+      "song": "Leno, Eleno",
+      "performer": "Ljupka Dimitrovska",
+      "letter": "L"
+    },
+    {
+      "song": "Leo",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "L"
+    },
+    {
+      "song": "Lili",
+      "performer": "Srebrna krila",
+      "letter": "L"
+    },
+    {
+      "song": "Lola",
+      "performer": "Pro arte",
+      "letter": "L"
+    },
+    {
+      "song": "Lutaj ranjeno srce",
+      "performer": "Duško Lokin",
+      "letter": "L"
+    },
+    {
+      "song": "Lutalice skitnice",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "L"
+    },
+    {
+      "song": "Ljubav je lutkica",
+      "performer": "Elio Pisak",
+      "letter": "Lj"
+    },
+    {
+      "song": "Ljubav je lutkice balon sapunice",
+      "performer": "Pro arte",
+      "letter": "Lj"
+    },
+    {
+      "song": "Ljubavi se po pjesmama pamte",
+      "performer": "Ljupka Dimitrovska",
+      "letter": "Lj"
+    },
+    {
+      "song": "Ljubiš me u vrat",
+      "performer": "Đurđica Barlović, Oliver Dragojević",
+      "letter": "Lj"
+    },
+    {
+      "song": "Ljudi",
+      "performer": "Tereza Kesovija",
+      "letter": "Lj"
+    },
+    {
+      "song": "Majko",
+      "performer": "Dolores",
+      "letter": "M"
+    },
+    {
+      "song": "Majko, majko",
+      "performer": "Neda Ukraden",
+      "letter": "M"
+    },
+    {
+      "song": "Mala je dala",
+      "performer": "Severina",
+      "letter": "M"
+    },
+    {
+      "song": "Malim selom",
+      "performer": "Miro Ungar",
+      "letter": "M"
+    },
+    {
+      "song": "Malo mi je jedan život s tobom",
+      "performer": "Mate Mišo Kovač",
+      "letter": "M"
+    },
+    {
+      "song": "Mandolina",
+      "performer": "Đani Maršan",
+      "letter": "M"
+    },
+    {
+      "song": "Manuela cha-cha-cha",
+      "performer": "Srebrna krila",
+      "letter": "M"
+    },
+    {
+      "song": "Marinero",
+      "performer": "Duško Lokin",
+      "letter": "M"
+    },
+    {
+      "song": "Marinero",
+      "performer": "Maja Blagdan",
+      "letter": "M"
+    },
+    {
+      "song": "Medeni",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "M"
+    },
+    {
+      "song": "Meni je sreća okrenula leđa",
+      "performer": "Jasna Zlokić",
+      "letter": "M"
+    },
+    {
+      "song": "Mi smo se ponovo sreli",
+      "performer": "Duško Jaramaz",
+      "letter": "M"
+    },
+    {
+      "song": "Mirišu li naše ruže",
+      "performer": "Mahir Paloš, Duško Lokin",
+      "letter": "M"
+    },
+    {
+      "song": "Mirno spavaj, stara moja",
+      "performer": "Džo Maračić Maki",
+      "letter": "M"
+    },
+    {
+      "song": "Moja je soba samica",
+      "performer": "Vlado Kalember",
+      "letter": "M"
+    },
+    {
+      "song": "Moja mala, zvjezdo sjajna",
+      "performer": "Duško Lokin",
+      "letter": "M"
+    },
+    {
+      "song": "Moje su pjesme ranjeno srce",
+      "performer": "Hašim Kučuk Hoki",
+      "letter": "M"
+    },
+    {
+      "song": "Moram li da umrem",
+      "performer": "Mate Mišo Kovač",
+      "letter": "M"
+    },
+    {
+      "song": "Možda se više nećemo sresti",
+      "performer": "Darko Domijan",
+      "letter": "M"
+    },
+    {
+      "song": "Nada",
+      "performer": "Gabi Novak",
+      "letter": "N"
+    },
+    {
+      "song": "Najljepše su oči moje majke",
+      "performer": "Mate Mišo Kovač",
+      "letter": "N"
+    },
+    {
+      "song": "Ne izlazi stalno iz kuće",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "N"
+    },
+    {
+      "song": "Ne mogu da te zaboravim",
+      "performer": "Mate Mišo Kovač",
+      "letter": "N"
+    },
+    {
+      "song": "Ne molim te",
+      "performer": "Elio Pisak",
+      "letter": "N"
+    },
+    {
+      "song": "Ne traži me",
+      "performer": "Jasna Zlokić",
+      "letter": "N"
+    },
+    {
+      "song": "Ne zovi me u ponoć",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "N"
+    },
+    {
+      "song": "Nebu puštam bijelu pticu",
+      "performer": "Mate Mišo Kovač",
+      "letter": "N"
+    },
+    {
+      "song": "Neće srce",
+      "performer": "Pro arte",
+      "letter": "N"
+    },
+    {
+      "song": "Neće srce",
+      "performer": "Elio Pisak",
+      "letter": "N"
+    },
+    {
+      "song": "Neću biti sam",
+      "performer": "Indexi",
+      "letter": "N"
+    },
+    {
+      "song": "Neću da te ljubim",
+      "performer": "Duško Lokin",
+      "letter": "N"
+    },
+    {
+      "song": "Neću opraštati",
+      "performer": "Vlado Kalember",
+      "letter": "N"
+    },
+    {
+      "song": "Neću poslije drugog da te ljubim",
+      "performer": "Duško Lokin",
+      "letter": "N"
+    },
+    {
+      "song": "Nedjeljom ujutro",
+      "performer": "Indexi",
+      "letter": "N"
+    },
+    {
+      "song": "Nek te drugi ljubi",
+      "performer": "Duško Lokin",
+      "letter": "N"
+    },
+    {
+      "song": "Neka neka nek se zna",
+      "performer": "Tomislav Ivčić",
+      "letter": "N"
+    },
+    {
+      "song": "Neka plaču mandoline",
+      "performer": "Elio Pisak",
+      "letter": "N"
+    },
+    {
+      "song": "Neka sviri roženica",
+      "performer": "Vesna Nežić Ružić",
+      "letter": "N"
+    },
+    {
+      "song": "Nemoj se šaliti",
+      "performer": "Ljupka Dimitrovska",
+      "letter": "N"
+    },
+    {
+      "song": "Netko te tajno voli",
+      "performer": "Duško Lokin",
+      "letter": "N"
+    },
+    {
+      "song": "Ni srebro ni zlato",
+      "performer": "Đurđica Barlović",
+      "letter": "N"
+    },
+    {
+      "song": "Nije tebi do mene",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "N"
+    },
+    {
+      "song": "Nije vrijeme da se rastanemo",
+      "performer": "Mate Mišo Kovač",
+      "letter": "N"
+    },
+    {
+      "song": "Nikad ne reci zbogom",
+      "performer": "Džo Maračić Maki",
+      "letter": "N"
+    },
+    {
+      "song": "Nikoga nisam volio tako",
+      "performer": "Mate Mišo Kovač, 4 asa, Petar Grašo",
+      "letter": "N"
+    },
+    {
+      "song": "Nino",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "N"
+    },
+    {
+      "song": "Nisam se kajala",
+      "performer": "Ljupka Dimitrovska, Dolores",
+      "letter": "N"
+    },
+    {
+      "song": "Nisam tebi ja srce ukrao",
+      "performer": "Elio Pisak",
+      "letter": "N"
+    },
+    {
+      "song": "Nisam žena bez tebe",
+      "performer": "Tereza Kesovija",
+      "letter": "N"
+    },
+    {
+      "song": "Nisi ti bio za mene",
+      "performer": "Neda Ukraden",
+      "letter": "N"
+    },
+    {
+      "song": "Nisi ti više crno vino",
+      "performer": "Dalibor Brun",
+      "letter": "N"
+    },
+    {
+      "song": "Noćas smo se obećali",
+      "performer": "Džo Maračić Maki",
+      "letter": "N"
+    },
+    {
+      "song": "Nove lakovane cipelice",
+      "performer": "Zdravko Čolić",
+      "letter": "N"
+    },
+    {
+      "song": "O, mama, mama",
+      "performer": "Vlado Kalember",
+      "letter": "O"
+    },
+    {
+      "song": "O, mama, mama",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "O"
+    },
+    {
+      "song": "Obala duše moje",
+      "performer": "Elio Pisak",
+      "letter": "O"
+    },
+    {
+      "song": "Obećao si sve",
+      "performer": "Neda Ukraden",
+      "letter": "O"
+    },
+    {
+      "song": "Oči crne nevjerne",
+      "performer": "Džo Maračić Maki, Elio Pisak",
+      "letter": "O"
+    },
+    {
+      "song": "Oči od safira",
+      "performer": "Danijela Martinović",
+      "letter": "O"
+    },
+    {
+      "song": "Od mora do planina",
+      "performer": "Vlado Kalember",
+      "letter": "O"
+    },
+    {
+      "song": "Odavno više ne plačem zbog tebe",
+      "performer": "Mate Mišo Kovač",
+      "letter": "O"
+    },
+    {
+      "song": "Odlaze sanjari",
+      "performer": "Mišo Kovač",
+      "letter": "O"
+    },
+    {
+      "song": "Odlazi, odlazi",
+      "performer": "Zdravko Škender",
+      "letter": "O"
+    },
+    {
+      "song": "Odlazim",
+      "performer": "Džo Maračić Maki",
+      "letter": "O"
+    },
+    {
+      "song": "Odlazim",
+      "performer": "Vlado Kalember",
+      "letter": "O"
+    },
+    {
+      "song": "Oko moje",
+      "performer": "Dolores, Neda Ukraden",
+      "letter": "O"
+    },
+    {
+      "song": "Okreni drugu stranu",
+      "performer": "Jasna Zlokić",
+      "letter": "O"
+    },
+    {
+      "song": "Oluja ti ime nosi",
+      "performer": "Ljupka Dimitrovska",
+      "letter": "O"
+    },
+    {
+      "song": "On mi treba do neba",
+      "performer": "Jasna Zlokić",
+      "letter": "O"
+    },
+    {
+      "song": "Opijaš me jače nego vino",
+      "performer": "Duško Lokin",
+      "letter": "O"
+    },
+    {
+      "song": "Oprosti mi",
+      "performer": "Mišo Kovač",
+      "letter": "O"
+    },
+    {
+      "song": "Opusti se sada srce",
+      "performer": "Duško Lokin",
+      "letter": "O"
+    },
+    {
+      "song": "Orasi i med",
+      "performer": "Pro arte",
+      "letter": "O"
+    },
+    {
+      "song": "Ostala si uvijek ista",
+      "performer": "Mate Mišo Kovač, Ante Radošević, Marijan Ban, Leo",
+      "letter": "O"
+    },
+    {
+      "song": "Ostarit ću čekajući na te",
+      "performer": "Neda Ukraden",
+      "letter": "O"
+    },
+    {
+      "song": "Pismo bratu",
+      "performer": "Duško Lokin",
+      "letter": "P"
+    },
+    {
+      "song": "Pismo voljenoj",
+      "performer": "Džo Maračić Maki",
+      "letter": "P"
+    },
+    {
+      "song": "Pjesma mi je sve što život nije",
+      "performer": "Džo Maračić Maki",
+      "letter": "P"
+    },
+    {
+      "song": "Pjevaj, legendo",
+      "performer": "Mate Mišo Kovač",
+      "letter": "P"
+    },
+    {
+      "song": "Plačem u duši",
+      "performer": "Dalibor Brun",
+      "letter": "P"
+    },
+    {
+      "song": "Plavi pingvin",
+      "performer": "(Krunoslav Kićo Slabinac)",
+      "letter": "P"
+    },
+    {
+      "song": "Plovi brod iz Amerike",
+      "performer": "Džo Maračić Maki",
+      "letter": "P"
+    },
+    {
+      "song": "Pogledaj me",
+      "performer": "Đani Maršan",
+      "letter": "P"
+    },
+    {
+      "song": "Pogriješit ću",
+      "performer": "Dalibor Brun",
+      "letter": "P"
+    },
+    {
+      "song": "Poludio sam za tobom",
+      "performer": "Pro arte",
+      "letter": "P"
+    },
+    {
+      "song": "Ponoć je",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "P"
+    },
+    {
+      "song": "Posljednja jesen",
+      "performer": "Džo Maračić Maki",
+      "letter": "P"
+    },
+    {
+      "song": "Postojiš samo ti",
+      "performer": "Leo",
+      "letter": "P"
+    },
+    {
+      "song": "Proći će sto godina",
+      "performer": "Elio Pisak",
+      "letter": "P"
+    },
+    {
+      "song": "Profesore, dal' se sjetiš svojih đaka",
+      "performer": "VIS Stakleno zvono",
+      "letter": "P"
+    },
+    {
+      "song": "Progovori tiha noći",
+      "performer": "Neda Ukraden",
+      "letter": "P"
+    },
+    {
+      "song": "Proklela me ljubav stara",
+      "performer": "Dalibor Brun",
+      "letter": "P"
+    },
+    {
+      "song": "Prokleta je nedjelja",
+      "performer": "Džo Maračić Maki",
+      "letter": "P"
+    },
+    {
+      "song": "Prokljin'o sam sudbinu",
+      "performer": "Duško Lokin",
+      "letter": "P"
+    },
+    {
+      "song": "Pruži mi ruku ljubavi",
+      "performer": "Pro arte",
+      "letter": "P"
+    },
+    {
+      "song": "Puklo srce",
+      "performer": "Dalibor Brun",
+      "letter": "P"
+    },
+    {
+      "song": "Pusti nočas svoje kose",
+      "performer": "(Krunoslav Kićo Slabinac)",
+      "letter": "P"
+    },
+    {
+      "song": "Pustite srcu neka voli",
+      "performer": "Džo Maračić Maki",
+      "letter": "P"
+    },
+    {
+      "song": "Rano je rano",
+      "performer": "Danijela Martinović",
+      "letter": "R"
+    },
+    {
+      "song": "Raspleti vijenac ljubavi",
+      "performer": "Duško Lokin",
+      "letter": "R"
+    },
+    {
+      "song": "Reci mi gdje sam pogriješila",
+      "performer": "Neda Ukraden",
+      "letter": "R"
+    },
+    {
+      "song": "Riječi pomirenja",
+      "performer": "Duško Lokin",
+      "letter": "R"
+    },
+    {
+      "song": "Rozi, Rozana",
+      "performer": "Elio Pisak",
+      "letter": "R"
+    },
+    {
+      "song": "Roža, Roža",
+      "performer": "Elio Pisak",
+      "letter": "R"
+    },
+    {
+      "song": "Sada ljubim iz inata",
+      "performer": "Pro arte",
+      "letter": "S"
+    },
+    {
+      "song": "Samo je nebo iznad nas",
+      "performer": "Neda Ukraden",
+      "letter": "S"
+    },
+    {
+      "song": "Samo me nemoj pitati za ljubav",
+      "performer": "Mišo Kovač",
+      "letter": "S"
+    },
+    {
+      "song": "Samo nas nebo rastavit može",
+      "performer": "Mate Mišo Kovač",
+      "letter": "S"
+    },
+    {
+      "song": "Samo simpatija",
+      "performer": "More, Meri Cetinić",
+      "letter": "S"
+    },
+    {
+      "song": "Sele se ptice selice",
+      "performer": "Dolores",
+      "letter": "S"
+    },
+    {
+      "song": "Sentimentalno putovanje",
+      "performer": "Miro Ungar",
+      "letter": "S"
+    },
+    {
+      "song": "Simpa mala",
+      "performer": "Elio Pisak",
+      "letter": "S"
+    },
+    {
+      "song": "Sliku tvoju ljubim",
+      "performer": "Duško Lokin",
+      "letter": "S"
+    },
+    {
+      "song": "Slušaj majko, moju pjesmu",
+      "performer": "Mate Mišo Kovač",
+      "letter": "S"
+    },
+    {
+      "song": "Srce ti je kamen",
+      "performer": "Džo Maračić Maki",
+      "letter": "S"
+    },
+    {
+      "song": "Srce vuče južnom kraju",
+      "performer": "Doris Dragović",
+      "letter": "S"
+    },
+    {
+      "song": "Sretno ti bilo, sine",
+      "performer": "Neda Ukraden",
+      "letter": "S"
+    },
+    {
+      "song": "Stala zora",
+      "performer": "Dolores",
+      "letter": "S"
+    },
+    {
+      "song": "Stani suzo, stani",
+      "performer": "(Krunoslav kićo Slabinac)",
+      "letter": "S"
+    },
+    {
+      "song": "Stare nevjere",
+      "performer": "Vlado Kalember",
+      "letter": "S"
+    },
+    {
+      "song": "Stari Pjer",
+      "performer": "Ivica Percl",
+      "letter": "S"
+    },
+    {
+      "song": "Suši lasi, bionda",
+      "performer": "Džo Maračić Maki",
+      "letter": "S"
+    },
+    {
+      "song": "Sutra mi sude",
+      "performer": "Mate Mišo Kovač",
+      "letter": "S"
+    },
+    {
+      "song": "Suzo, Suzana",
+      "performer": "Vlado Kalember",
+      "letter": "S"
+    },
+    {
+      "song": "Suze vi ste moji jedini drugari",
+      "performer": "Tomislav Ivčić",
+      "letter": "S"
+    },
+    {
+      "song": "Svatovi",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "S"
+    },
+    {
+      "song": "Sve na tebe još me podsjeća",
+      "performer": "Zdravko Škender",
+      "letter": "S"
+    },
+    {
+      "song": "Sve bih dao da te zaboravim",
+      "performer": "Duško Jaramaz",
+      "letter": "S"
+    },
+    {
+      "song": "Sve su se laste vratile s juga",
+      "performer": "Lidija Percan",
+      "letter": "S"
+    },
+    {
+      "song": "Sve su žene varljive",
+      "performer": "Elio Pisak",
+      "letter": "S"
+    },
+    {
+      "song": "Sve što radiš sebi radiš",
+      "performer": "(Krunoslav Kićo Slabinac)",
+      "letter": "S"
+    },
+    {
+      "song": "Sve više želim da sam s tobom",
+      "performer": "Duško Lokin",
+      "letter": "S"
+    },
+    {
+      "song": "Svi me znaju u mom zavičaju",
+      "performer": "Mate Mišo Kovač",
+      "letter": "S"
+    },
+    {
+      "song": "Svi pjevaju, ja ne čujem",
+      "performer": "Mate Mišo Kovač",
+      "letter": "S"
+    },
+    {
+      "song": "Svirači",
+      "performer": "Duško Lokin",
+      "letter": "S"
+    },
+    {
+      "song": "Svirajte mi marijači",
+      "performer": "Mate Mišo Kovač",
+      "letter": "S"
+    },
+    {
+      "song": "Svud se svira",
+      "performer": "Mate Mišo Kovač",
+      "letter": "S"
+    },
+    {
+      "song": "Šaj rode šaj",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "Š"
+    },
+    {
+      "song": "Šalio se ja",
+      "performer": "Srebrna krila",
+      "letter": "Š"
+    },
+    {
+      "song": "Što je nema",
+      "performer": "Duško Lokin",
+      "letter": "Š"
+    },
+    {
+      "song": "Šumi, šumi, javore",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "Š"
+    },
+    {
+      "song": "Tako mi je kako mi je",
+      "performer": "Jasna Zlokić",
+      "letter": "T"
+    },
+    {
+      "song": "Tango u Parizu",
+      "performer": "Nano Prša",
+      "letter": "T"
+    },
+    {
+      "song": "Teško mi je prijatelji",
+      "performer": "Dalibor Brun",
+      "letter": "T"
+    },
+    {
+      "song": "Teško mi te spominjati",
+      "performer": "Dalibor Brun",
+      "letter": "T"
+    },
+    {
+      "song": "Ti me uzbuđuješ",
+      "performer": "Daniel",
+      "letter": "T"
+    },
+    {
+      "song": "Ti muškarac...",
+      "performer": "Dolores",
+      "letter": "T"
+    },
+    {
+      "song": "Ti si moja slatka, mala maca",
+      "performer": "(Krunoslav Kićo Slabinac)",
+      "letter": "T"
+    },
+    {
+      "song": "Tiho padaj, kišo zemlje moje",
+      "performer": "Džo Maračić Maki",
+      "letter": "T"
+    },
+    {
+      "song": "Tike tike tačke",
+      "performer": "Pro arte",
+      "letter": "T"
+    },
+    {
+      "song": "To je ona ljubav prava",
+      "performer": "Duško Lokin",
+      "letter": "T"
+    },
+    {
+      "song": "Tri godine, rane tri",
+      "performer": "Zdravko Škender",
+      "letter": "T"
+    },
+    {
+      "song": "Treba mi nešto",
+      "performer": "Darko Domijan",
+      "letter": "T"
+    },
+    {
+      "song": "Tri suze",
+      "performer": "Mate Mišo Kovač",
+      "letter": "T"
+    },
+    {
+      "song": "Tuga, samo tuga",
+      "performer": "Dolores",
+      "letter": "T"
+    },
+    {
+      "song": "Tužna su zelena polja",
+      "performer": "Pro arte",
+      "letter": "T"
+    },
+    {
+      "song": "Tužno plačem kuću ostavljam",
+      "performer": "Pro arte",
+      "letter": "T"
+    },
+    {
+      "song": "Tvoje oko rani me duboko",
+      "performer": "Đani Maršan",
+      "letter": "T"
+    },
+    {
+      "song": "U trosjedu za dvoje",
+      "performer": "Duško Lokin",
+      "letter": "U"
+    },
+    {
+      "song": "Ubola se djevojka na trn",
+      "performer": "VIS 777",
+      "letter": "U"
+    },
+    {
+      "song": "Uspomene",
+      "performer": "Džo Maračić Maki",
+      "letter": "U"
+    },
+    {
+      "song": "Uzalud je jedna ruža cvala",
+      "performer": "Alaga Gagić",
+      "letter": "U"
+    },
+    {
+      "song": "Vino na usnama",
+      "performer": "Vlado Kalember, Feminnem",
+      "letter": "V"
+    },
+    {
+      "song": "Vino piju",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "V"
+    },
+    {
+      "song": "Virujen u te",
+      "performer": "Severina Vučković",
+      "letter": "V"
+    },
+    {
+      "song": "Više se nećeš vratiti",
+      "performer": "Mate Mišo Kovač",
+      "letter": "V"
+    },
+    {
+      "song": "Vjetar huji, puše sve jače",
+      "performer": "Duško Lokin",
+      "letter": "V"
+    },
+    {
+      "song": "Vojnikovo pismo",
+      "performer": "Duško Lokin",
+      "letter": "V"
+    },
+    {
+      "song": "Volim jednu crne kose",
+      "performer": "Miro Ungar, Elio Pisak",
+      "letter": "V"
+    },
+    {
+      "song": "Volim te",
+      "performer": "Duško Lokin",
+      "letter": "V"
+    },
+    {
+      "song": "Volim, volim",
+      "performer": "Elio Pisak",
+      "letter": "V"
+    },
+    {
+      "song": "Volio sam oči te",
+      "performer": "Zdravko Škender",
+      "letter": "V"
+    },
+    {
+      "song": "Voljeli smo te jeseni",
+      "performer": "Darko Domijan",
+      "letter": "V"
+    },
+    {
+      "song": "Vračam se tebi, Jugo",
+      "performer": "(Krunoslav Kićo Slabinac)",
+      "letter": "V"
+    },
+    {
+      "song": "Vratio se barba iz Amerike",
+      "performer": "Pro arte",
+      "letter": "V"
+    },
+    {
+      "song": "Za kim zvono plače",
+      "performer": "Mate Mišo Kovač",
+      "letter": "Z"
+    },
+    {
+      "song": "Za tebe ću ako treba",
+      "performer": "Đurđica Barlović",
+      "letter": "Z"
+    },
+    {
+      "song": "Zaboravi me, Gorane",
+      "performer": "Đurđica Barlović, Dolores",
+      "letter": "Z"
+    },
+    {
+      "song": "Za tebe pekmez ja sam krao",
+      "performer": "VIS Stakleno Zvono",
+      "letter": "Z"
+    },
+    {
+      "song": "Zakuni se",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "Z"
+    },
+    {
+      "song": "Zakuni se ljubavi",
+      "performer": "Srebrna krila, Severina",
+      "letter": "Z"
+    },
+    {
+      "song": "Zapjevaj mi ispod glasa",
+      "performer": "Jasna Zlokić",
+      "letter": "Z"
+    },
+    {
+      "song": "Zar me možeš ostaviti",
+      "performer": "Marijan Miše",
+      "letter": "Z"
+    },
+    {
+      "song": "Zašto me ostavi",
+      "performer": "Elio Pisak",
+      "letter": "Z"
+    },
+    {
+      "song": "Zašto me zoveš",
+      "performer": "Dalibor Brun",
+      "letter": "Z"
+    },
+    {
+      "song": "Zašto tvoj telefon šuti",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "Z"
+    },
+    {
+      "song": "Zašto zatvaraš oči dok te ljubim",
+      "performer": "Mahir Paloš, Duško Lokin",
+      "letter": "Z"
+    },
+    {
+      "song": "Zbog kog srce nosim",
+      "performer": "Dalibor Brun",
+      "letter": "Z"
+    },
+    {
+      "song": "Zbogom mi kažeš",
+      "performer": "Darko Domijan",
+      "letter": "Z"
+    },
+    {
+      "song": "Zbogom nevjerna ljubavi",
+      "performer": "Duško Lokin",
+      "letter": "Z"
+    },
+    {
+      "song": "Zbogom sad",
+      "performer": "Vjekoslav Jutt",
+      "letter": "Z"
+    },
+    {
+      "song": "Zingarella",
+      "performer": "Darko Domijan",
+      "letter": "Z"
+    },
+    {
+      "song": "Zlato moje, zlatane",
+      "performer": "Neda Ukraden, Dolores",
+      "letter": "Z"
+    },
+    {
+      "song": "Znam da negdje živi žena",
+      "performer": "Duško Lokin",
+      "letter": "Z"
+    },
+    {
+      "song": "Zora je",
+      "performer": "Neda Ukraden, Dolores, Vesna Pezo",
+      "letter": "Z"
+    },
+    {
+      "song": "Zovi cigane",
+      "performer": "Vlado Kalember",
+      "letter": "Z"
+    },
+    {
+      "song": "Žao mi je",
+      "performer": "Đurđica Barlović",
+      "letter": "Ž"
+    },
+    {
+      "song": "Želim Vam laku i ugodnu noć",
+      "performer": "(Krunoslav Kićo Slabinac)",
+      "letter": "Ž"
+    },
+    {
+      "song": "Žene su varljive",
+      "performer": "Džo Maračić Maki",
+      "letter": "Ž"
+    },
+    {
+      "song": "Ženo bijela, noć te kune",
+      "performer": "Duško Lokin",
+      "letter": "Ž"
+    },
+    {
+      "song": "Ženo moja, srce moje",
+      "performer": "Darko Domijan",
+      "letter": "Ž"
+    },
+    {
+      "song": "Ženo ženo",
+      "performer": "Dalibor Brun",
+      "letter": "Ž"
+    },
+    {
+      "song": "Živim u snu",
+      "performer": "Gabi Novak",
+      "letter": "Ž"
+    },
+    {
+      "song": "Žuta ruža",
+      "performer": "Željko Bebek",
+      "letter": "Ž"
+    }
+  ],
+  "meta": {
+    "title": "Pjesme Đorđa Novkovića - Free Download",
+    "description": "Popis skladbi hrvatskog skladatelja zabavne glazbe Đorđa Novkovića s izvođačima. Contains 340 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pjesme Đorđa Novkovića | ListBase",
+    "seo_description": "Download Pjesme Đorđa Novkovića — 340 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 340 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_kompozicija_Đorđa_Novkovića"
+    ]
+  }
+}

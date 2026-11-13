@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-13T02:29:51.867Z",
-  "total_datasets": 495,
-  "total_records": 830707,
+  "generated": "2026-11-13T02:30:01.369Z",
+  "total_datasets": 496,
+  "total_records": 831047,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -3934,6 +3934,30 @@
         "xlsx": {
           "name": "hr-operni-pjevaci_HR.xlsx",
           "size": 8058
+        }
+      }
+    },
+    {
+      "id": "hr-pjesme-dorda-novkovica",
+      "name": "Pjesme Đorđa Novkovića",
+      "category": "music",
+      "record_count": 340,
+      "columns": [
+        "song",
+        "performer",
+        "letter"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_kompozicija_Đorđa_Novkovića",
+      "updated": "2026-11",
+      "size": 37756,
+      "files": {
+        "csv": {
+          "name": "hr-pjesme-dorda-novkovica_HR.csv",
+          "size": 14628
+        },
+        "xlsx": {
+          "name": "hr-pjesme-dorda-novkovica_HR.xlsx",
+          "size": 16379
         }
       }
     },
