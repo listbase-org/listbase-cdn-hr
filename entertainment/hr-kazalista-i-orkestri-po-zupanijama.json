@@ -1,0 +1,250 @@
+{
+  "id": "hr-kazalista-i-orkestri-po-zupanijama",
+  "name": "Kazališta, orkestri i ansambli po županijama (2025.)",
+  "title": "Kazališta, orkestri i ansambli po županijama (2025.)",
+  "description": "Broj kazališta i orkestara/ansambala, predstava, koncerata i posjetitelja po županijama Hrvatske u 2025., prema Državnom zavodu za statistiku.",
+  "category": "entertainment",
+  "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-obrazovanje-i-kultura",
+  "source_url": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-obrazovanje-i-kultura",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "theatres",
+      "label": "Theatres",
+      "type": "number"
+    },
+    {
+      "key": "orchestras_ensembles",
+      "label": "Orchestras Ensembles",
+      "type": "number"
+    },
+    {
+      "key": "theatre_performances",
+      "label": "Theatre Performances",
+      "type": "number"
+    },
+    {
+      "key": "concerts",
+      "label": "Concerts",
+      "type": "number"
+    },
+    {
+      "key": "theatre_attendance",
+      "label": "Theatre Attendance",
+      "type": "number"
+    },
+    {
+      "key": "concert_attendance",
+      "label": "Concert Attendance",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "county": "Zagrebačka",
+      "theatres": 13,
+      "orchestras_ensembles": 5,
+      "theatre_performances": 533,
+      "concerts": 80,
+      "theatre_attendance": 73799,
+      "concert_attendance": 23820
+    },
+    {
+      "county": "Krapinsko-zagorska",
+      "theatres": 4,
+      "orchestras_ensembles": 3,
+      "theatre_performances": 57,
+      "concerts": 22,
+      "theatre_attendance": 3396,
+      "concert_attendance": 4800
+    },
+    {
+      "county": "Sisačko-moslavačka",
+      "theatres": 3,
+      "orchestras_ensembles": 3,
+      "theatre_performances": 68,
+      "concerts": 38,
+      "theatre_attendance": 11371,
+      "concert_attendance": 4800
+    },
+    {
+      "county": "Karlovačka",
+      "theatres": 3,
+      "orchestras_ensembles": 1,
+      "theatre_performances": 134,
+      "concerts": 8,
+      "theatre_attendance": 24845,
+      "concert_attendance": 1920
+    },
+    {
+      "county": "Varaždinska",
+      "theatres": 5,
+      "orchestras_ensembles": 2,
+      "theatre_performances": 569,
+      "concerts": 29,
+      "theatre_attendance": 168028,
+      "concert_attendance": 7120
+    },
+    {
+      "county": "Koprivničko-križevačka",
+      "theatres": 4,
+      "orchestras_ensembles": 1,
+      "theatre_performances": 56,
+      "concerts": 4,
+      "theatre_attendance": 6580,
+      "concert_attendance": 1550
+    },
+    {
+      "county": "Bjelovarsko-bilogorska",
+      "theatres": 5,
+      "orchestras_ensembles": "",
+      "theatre_performances": 147,
+      "concerts": "",
+      "theatre_attendance": 11751,
+      "concert_attendance": ""
+    },
+    {
+      "county": "Primorsko-goranska",
+      "theatres": 12,
+      "orchestras_ensembles": 8,
+      "theatre_performances": 907,
+      "concerts": 194,
+      "theatre_attendance": 135103,
+      "concert_attendance": 37050
+    },
+    {
+      "county": "Ličko-senjska",
+      "theatres": 1,
+      "orchestras_ensembles": "",
+      "theatre_performances": 5,
+      "concerts": "",
+      "theatre_attendance": 430,
+      "concert_attendance": ""
+    },
+    {
+      "county": "Virovitičko-podravska",
+      "theatres": 1,
+      "orchestras_ensembles": 1,
+      "theatre_performances": 91,
+      "concerts": 16,
+      "theatre_attendance": 13224,
+      "concert_attendance": 600
+    },
+    {
+      "county": "Požeško-slavonska",
+      "theatres": 1,
+      "orchestras_ensembles": 2,
+      "theatre_performances": 169,
+      "concerts": 22,
+      "theatre_attendance": 33360,
+      "concert_attendance": 2270
+    },
+    {
+      "county": "Brodsko-posavska",
+      "theatres": 2,
+      "orchestras_ensembles": 2,
+      "theatre_performances": 123,
+      "concerts": 30,
+      "theatre_attendance": 16473,
+      "concert_attendance": 1900
+    },
+    {
+      "county": "Zadarska",
+      "theatres": 4,
+      "orchestras_ensembles": 1,
+      "theatre_performances": 259,
+      "concerts": 9,
+      "theatre_attendance": 35518,
+      "concert_attendance": 4750
+    },
+    {
+      "county": "Osječko-baranjska",
+      "theatres": 10,
+      "orchestras_ensembles": 6,
+      "theatre_performances": 553,
+      "concerts": 104,
+      "theatre_attendance": 103037,
+      "concert_attendance": 24212
+    },
+    {
+      "county": "Šibensko-kninska",
+      "theatres": 1,
+      "orchestras_ensembles": "",
+      "theatre_performances": 53,
+      "concerts": "",
+      "theatre_attendance": 7977,
+      "concert_attendance": ""
+    },
+    {
+      "county": "Vukovarsko-srijemska",
+      "theatres": 2,
+      "orchestras_ensembles": "",
+      "theatre_performances": 174,
+      "concerts": "",
+      "theatre_attendance": 25421,
+      "concert_attendance": ""
+    },
+    {
+      "county": "Splitsko-dalmatinska",
+      "theatres": 12,
+      "orchestras_ensembles": 9,
+      "theatre_performances": 2019,
+      "concerts": 189,
+      "theatre_attendance": 219918,
+      "concert_attendance": 37760
+    },
+    {
+      "county": "Istarska",
+      "theatres": 3,
+      "orchestras_ensembles": 5,
+      "theatre_performances": 79,
+      "concerts": 85,
+      "theatre_attendance": 13172,
+      "concert_attendance": 18180
+    },
+    {
+      "county": "Dubrovačko-neretvanska",
+      "theatres": 4,
+      "orchestras_ensembles": 8,
+      "theatre_performances": 135,
+      "concerts": 108,
+      "theatre_attendance": 15285,
+      "concert_attendance": 22069
+    },
+    {
+      "county": "Međimurska",
+      "theatres": 4,
+      "orchestras_ensembles": "",
+      "theatre_performances": 141,
+      "concerts": "",
+      "theatre_attendance": 20000,
+      "concert_attendance": ""
+    },
+    {
+      "county": "Grad Zagreb",
+      "theatres": 93,
+      "orchestras_ensembles": 23,
+      "theatre_performances": 7328,
+      "concerts": 465,
+      "theatre_attendance": 984761,
+      "concert_attendance": 233490
+    }
+  ],
+  "meta": {
+    "title": "Kazališta, orkestri i ansambli po županijama (2025.) - Free Download",
+    "description": "Broj kazališta i orkestara/ansambala, predstava, koncerata i posjetitelja po županijama Hrvatske u 2025., prema Državnom zavodu za statistiku. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kazališta, orkestri i ansambli po županijama (2025.) | ListBase",
+    "seo_description": "Download Kazališta, orkestri i ansambli po županijama (2025.) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/statistika-u-nizu-obrazovanje-i-kultura"
+    ]
+  }
+}
