@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-14T02:01:47.220Z",
-  "total_datasets": 497,
-  "total_records": 831068,
+  "generated": "2026-11-14T02:01:55.966Z",
+  "total_datasets": 498,
+  "total_records": 831089,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -2069,6 +2069,32 @@
         "xlsx": {
           "name": "hr-javna-odvodnja-po-zupanijama_HR.xlsx",
           "size": 7648
+        }
+      }
+    },
+    {
+      "id": "hr-javna-vodoopskrba-po-zupanijama",
+      "name": "Javna vodoopskrba po županijama",
+      "category": "environment",
+      "record_count": 21,
+      "columns": [
+        "county",
+        "water_abstracted_2025_thousand_m3",
+        "water_abstracted_2024_thousand_m3",
+        "water_supply_network_2025_km",
+        "water_supply_network_2014_km"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-okoli",
+      "updated": "2026-11",
+      "size": 6862,
+      "files": {
+        "csv": {
+          "name": "hr-javna-vodoopskrba-po-zupanijama_HR.csv",
+          "size": 1166
+        },
+        "xlsx": {
+          "name": "hr-javna-vodoopskrba-po-zupanijama_HR.xlsx",
+          "size": 7672
         }
       }
     },

@@ -1,0 +1,198 @@
+{
+  "id": "hr-javna-vodoopskrba-po-zupanijama",
+  "name": "Javna vodoopskrba po županijama",
+  "title": "Javna vodoopskrba po županijama",
+  "description": "Zahvaćene količine vode (tis. m³) u 2024. i 2025. te ukupna duljina mreže javne vodoopskrbe (km) u 2014. i 2025. po županijama Hrvatske, prema DZS-u.",
+  "category": "environment",
+  "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-okoli",
+  "source_url": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-okoli",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "water_abstracted_2025_thousand_m3",
+      "label": "Water Abstracted 2025 Thousand M3",
+      "type": "number"
+    },
+    {
+      "key": "water_abstracted_2024_thousand_m3",
+      "label": "Water Abstracted 2024 Thousand M3",
+      "type": "number"
+    },
+    {
+      "key": "water_supply_network_2025_km",
+      "label": "Water Supply Network 2025 Km",
+      "type": "number"
+    },
+    {
+      "key": "water_supply_network_2014_km",
+      "label": "Water Supply Network 2014 Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "county": "Zagrebačka",
+      "water_abstracted_2025_thousand_m3": 28995,
+      "water_abstracted_2024_thousand_m3": 28665,
+      "water_supply_network_2025_km": 3374,
+      "water_supply_network_2014_km": 2989
+    },
+    {
+      "county": "Krapinsko-zagorska",
+      "water_abstracted_2025_thousand_m3": 9645,
+      "water_abstracted_2024_thousand_m3": 9007,
+      "water_supply_network_2025_km": 3323,
+      "water_supply_network_2014_km": 3046
+    },
+    {
+      "county": "Sisačko-moslavčka",
+      "water_abstracted_2025_thousand_m3": 14202,
+      "water_abstracted_2024_thousand_m3": 13940,
+      "water_supply_network_2025_km": 2157,
+      "water_supply_network_2014_km": 1756
+    },
+    {
+      "county": "Karlovačka",
+      "water_abstracted_2025_thousand_m3": 16575,
+      "water_abstracted_2024_thousand_m3": 15641,
+      "water_supply_network_2025_km": 2771,
+      "water_supply_network_2014_km": 2257
+    },
+    {
+      "county": "Varaždinska",
+      "water_abstracted_2025_thousand_m3": 14183,
+      "water_abstracted_2024_thousand_m3": 14566,
+      "water_supply_network_2025_km": 2158,
+      "water_supply_network_2014_km": 1854
+    },
+    {
+      "county": "Koprivničko-križevačka",
+      "water_abstracted_2025_thousand_m3": 5298,
+      "water_abstracted_2024_thousand_m3": 4822,
+      "water_supply_network_2025_km": 1782,
+      "water_supply_network_2014_km": 1400
+    },
+    {
+      "county": "Bjelovarsko-bilogorska",
+      "water_abstracted_2025_thousand_m3": 5571,
+      "water_abstracted_2024_thousand_m3": 5326,
+      "water_supply_network_2025_km": 1398,
+      "water_supply_network_2014_km": 998
+    },
+    {
+      "county": "Primorsko-goranska",
+      "water_abstracted_2025_thousand_m3": 39880,
+      "water_abstracted_2024_thousand_m3": 38015,
+      "water_supply_network_2025_km": 3834,
+      "water_supply_network_2014_km": 3450
+    },
+    {
+      "county": "Ličko-senjska",
+      "water_abstracted_2025_thousand_m3": 12563,
+      "water_abstracted_2024_thousand_m3": 10364,
+      "water_supply_network_2025_km": 2173,
+      "water_supply_network_2014_km": 1873
+    },
+    {
+      "county": "Virovitičko-podravska",
+      "water_abstracted_2025_thousand_m3": 4884,
+      "water_abstracted_2024_thousand_m3": 4710,
+      "water_supply_network_2025_km": 1453,
+      "water_supply_network_2014_km": 1006
+    },
+    {
+      "county": "Požeško-slavonska",
+      "water_abstracted_2025_thousand_m3": 4739,
+      "water_abstracted_2024_thousand_m3": 4374,
+      "water_supply_network_2025_km": 1025,
+      "water_supply_network_2014_km": 806
+    },
+    {
+      "county": "Brodsko-posavska",
+      "water_abstracted_2025_thousand_m3": 12283,
+      "water_abstracted_2024_thousand_m3": 12439,
+      "water_supply_network_2025_km": 1614,
+      "water_supply_network_2014_km": 1372
+    },
+    {
+      "county": "Zadarska",
+      "water_abstracted_2025_thousand_m3": 29892,
+      "water_abstracted_2024_thousand_m3": 32326,
+      "water_supply_network_2025_km": 2442,
+      "water_supply_network_2014_km": 1771
+    },
+    {
+      "county": "Osječko-baranjska",
+      "water_abstracted_2025_thousand_m3": 21076,
+      "water_abstracted_2024_thousand_m3": 19256,
+      "water_supply_network_2025_km": 3035,
+      "water_supply_network_2014_km": 2579
+    },
+    {
+      "county": "Šibensko-kninska",
+      "water_abstracted_2025_thousand_m3": 22883,
+      "water_abstracted_2024_thousand_m3": 20836,
+      "water_supply_network_2025_km": 2179,
+      "water_supply_network_2014_km": 1792
+    },
+    {
+      "county": "Vukovarsko-srijemska",
+      "water_abstracted_2025_thousand_m3": 5455,
+      "water_abstracted_2024_thousand_m3": 4499,
+      "water_supply_network_2025_km": 1698,
+      "water_supply_network_2014_km": 1549
+    },
+    {
+      "county": "Splitsko-dalmatinska",
+      "water_abstracted_2025_thousand_m3": 77127,
+      "water_abstracted_2024_thousand_m3": 78271,
+      "water_supply_network_2025_km": 4371,
+      "water_supply_network_2014_km": 3801
+    },
+    {
+      "county": "Istarska",
+      "water_abstracted_2025_thousand_m3": 29281,
+      "water_abstracted_2024_thousand_m3": 31313,
+      "water_supply_network_2025_km": 3950,
+      "water_supply_network_2014_km": 3555
+    },
+    {
+      "county": "Dubrovačko-neretvanska",
+      "water_abstracted_2025_thousand_m3": 21124,
+      "water_abstracted_2024_thousand_m3": 18770,
+      "water_supply_network_2025_km": 1799,
+      "water_supply_network_2014_km": 1228
+    },
+    {
+      "county": "Međimurska",
+      "water_abstracted_2025_thousand_m3": 6469,
+      "water_abstracted_2024_thousand_m3": 6278,
+      "water_supply_network_2025_km": 1125,
+      "water_supply_network_2014_km": 916
+    },
+    {
+      "county": "Grad Zagreb",
+      "water_abstracted_2025_thousand_m3": 121815,
+      "water_abstracted_2024_thousand_m3": 119171,
+      "water_supply_network_2025_km": 3944,
+      "water_supply_network_2014_km": 2611
+    }
+  ],
+  "meta": {
+    "title": "Javna vodoopskrba po županijama - Free Download",
+    "description": "Zahvaćene količine vode (tis. m³) u 2024. i 2025. te ukupna duljina mreže javne vodoopskrbe (km) u 2014. i 2025. po županijama Hrvatske, prema DZS-u. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Javna vodoopskrba po županijama | ListBase",
+    "seo_description": "Download Javna vodoopskrba po županijama — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/statistika-u-nizu-okoli"
+    ]
+  }
+}
