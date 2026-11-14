@@ -1,0 +1,198 @@
+{
+  "id": "hr-kinoprikazivaci-po-zupanijama",
+  "name": "Kina, sjedala i posjetitelji kina po županijama",
+  "title": "Kina, sjedala i posjetitelji kina po županijama",
+  "description": "Broj kinoprikazivača, sjedala i posjetitelja kina po županijama Hrvatske za 2025. (i posjetitelji 2024.), prema Državnom zavodu za statistiku.",
+  "category": "entertainment",
+  "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-obrazovanje-i-kultura",
+  "source_url": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-obrazovanje-i-kultura",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "cinemas_2025",
+      "label": "Cinemas 2025",
+      "type": "number"
+    },
+    {
+      "key": "seats_2025",
+      "label": "Seats 2025",
+      "type": "number"
+    },
+    {
+      "key": "attendance_2025",
+      "label": "Attendance 2025",
+      "type": "number"
+    },
+    {
+      "key": "attendance_2024",
+      "label": "Attendance 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "county": "Zagrebačka",
+      "cinemas_2025": 8,
+      "seats_2025": 1994,
+      "attendance_2025": 76620,
+      "attendance_2024": 58535
+    },
+    {
+      "county": "Krapinsko-zagorska",
+      "cinemas_2025": 5,
+      "seats_2025": 1532,
+      "attendance_2025": 17345,
+      "attendance_2024": 17491
+    },
+    {
+      "county": "Sisačko-moslavačka",
+      "cinemas_2025": 6,
+      "seats_2025": 1376,
+      "attendance_2025": 21259,
+      "attendance_2024": 14145
+    },
+    {
+      "county": "Karlovačka",
+      "cinemas_2025": 5,
+      "seats_2025": 1362,
+      "attendance_2025": 53331,
+      "attendance_2024": 47960
+    },
+    {
+      "county": "Varaždinska",
+      "cinemas_2025": 5,
+      "seats_2025": 1833,
+      "attendance_2025": 159121,
+      "attendance_2024": 150675
+    },
+    {
+      "county": "Koprivničko-križevačka",
+      "cinemas_2025": 3,
+      "seats_2025": 502,
+      "attendance_2025": 41614,
+      "attendance_2024": 12058
+    },
+    {
+      "county": "Bjelovarsko-bilogorska",
+      "cinemas_2025": 4,
+      "seats_2025": 878,
+      "attendance_2025": 47941,
+      "attendance_2024": 46738
+    },
+    {
+      "county": "Primorsko-goranska",
+      "cinemas_2025": 13,
+      "seats_2025": 4730,
+      "attendance_2025": 249147,
+      "attendance_2024": 235180
+    },
+    {
+      "county": "Ličko-senjska",
+      "cinemas_2025": 5,
+      "seats_2025": 996,
+      "attendance_2025": 6053,
+      "attendance_2024": 5056
+    },
+    {
+      "county": "Virovitičko-podravska",
+      "cinemas_2025": 3,
+      "seats_2025": 790,
+      "attendance_2025": 22197,
+      "attendance_2024": 18548
+    },
+    {
+      "county": "Požeško-slavonska",
+      "cinemas_2025": 3,
+      "seats_2025": 566,
+      "attendance_2025": 8093,
+      "attendance_2024": 4212
+    },
+    {
+      "county": "Brodsko-posavska",
+      "cinemas_2025": 2,
+      "seats_2025": 723,
+      "attendance_2025": 81911,
+      "attendance_2024": 78850
+    },
+    {
+      "county": "Zadarska",
+      "cinemas_2025": 5,
+      "seats_2025": 2006,
+      "attendance_2025": 129720,
+      "attendance_2024": 131422
+    },
+    {
+      "county": "Osječko-baranjska",
+      "cinemas_2025": 5,
+      "seats_2025": 2147,
+      "attendance_2025": 226977,
+      "attendance_2024": 217673
+    },
+    {
+      "county": "Šibensko-kninska",
+      "cinemas_2025": 4,
+      "seats_2025": 1364,
+      "attendance_2025": 80434,
+      "attendance_2024": 79072
+    },
+    {
+      "county": "Vukovarsko-srijemska",
+      "cinemas_2025": 1,
+      "seats_2025": 419,
+      "attendance_2025": 35221,
+      "attendance_2024": 33369
+    },
+    {
+      "county": "Splitsko-dalmatinska",
+      "cinemas_2025": 18,
+      "seats_2025": 5989,
+      "attendance_2025": 500501,
+      "attendance_2024": 469441
+    },
+    {
+      "county": "Istarska",
+      "cinemas_2025": 8,
+      "seats_2025": 2653,
+      "attendance_2025": 152698,
+      "attendance_2024": 142339
+    },
+    {
+      "county": "Dubrovačko-neretvanska",
+      "cinemas_2025": 8,
+      "seats_2025": 2925,
+      "attendance_2025": 86289,
+      "attendance_2024": 78755
+    },
+    {
+      "county": "Međimurska",
+      "cinemas_2025": 3,
+      "seats_2025": 1114,
+      "attendance_2025": 15926,
+      "attendance_2024": 17447
+    },
+    {
+      "county": "Grad Zagreb",
+      "cinemas_2025": 11,
+      "seats_2025": 10642,
+      "attendance_2025": 1529103,
+      "attendance_2024": 1567355
+    }
+  ],
+  "meta": {
+    "title": "Kina, sjedala i posjetitelji kina po županijama - Free Download",
+    "description": "Broj kinoprikazivača, sjedala i posjetitelja kina po županijama Hrvatske za 2025. (i posjetitelji 2024.), prema Državnom zavodu za statistiku. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kina, sjedala i posjetitelji kina po županijama | ListBase",
+    "seo_description": "Download Kina, sjedala i posjetitelji kina po županijama — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/statistika-u-nizu-obrazovanje-i-kultura"
+    ]
+  }
+}

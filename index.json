@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-14T02:02:05.399Z",
-  "total_datasets": 499,
-  "total_records": 831110,
+  "generated": "2026-11-14T02:02:14.791Z",
+  "total_datasets": 500,
+  "total_records": 831131,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -1909,6 +1909,32 @@
         "xlsx": {
           "name": "hr-kazalista-i-orkestri-po-zupanijama_HR.xlsx",
           "size": 7787
+        }
+      }
+    },
+    {
+      "id": "hr-kinoprikazivaci-po-zupanijama",
+      "name": "Kina, sjedala i posjetitelji kina po županijama",
+      "category": "entertainment",
+      "record_count": 21,
+      "columns": [
+        "county",
+        "cinemas_2025",
+        "seats_2025",
+        "attendance_2025",
+        "attendance_2024"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-obrazovanje-i-kultura",
+      "updated": "2026-11",
+      "size": 5324,
+      "files": {
+        "csv": {
+          "name": "hr-kinoprikazivaci-po-zupanijama_HR.csv",
+          "size": 1058
+        },
+        "xlsx": {
+          "name": "hr-kinoprikazivaci-po-zupanijama_HR.xlsx",
+          "size": 7632
         }
       }
     },
