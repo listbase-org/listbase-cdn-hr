@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-13T02:30:01.369Z",
-  "total_datasets": 496,
-  "total_records": 831047,
+  "generated": "2026-11-14T02:01:47.220Z",
+  "total_datasets": 497,
+  "total_records": 831068,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -2043,6 +2043,32 @@
         "xlsx": {
           "name": "hr-elektrane_HR.xlsx",
           "size": 17933
+        }
+      }
+    },
+    {
+      "id": "hr-javna-odvodnja-po-zupanijama",
+      "name": "Javna odvodnja otpadnih voda po županijama",
+      "category": "environment",
+      "record_count": 21,
+      "columns": [
+        "county",
+        "wastewater_discharged_2025_thousand_m3",
+        "wastewater_discharged_2024_thousand_m3",
+        "sewerage_network_2025_km",
+        "sewerage_network_2014_km"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-okoli",
+      "updated": "2026-11",
+      "size": 6902,
+      "files": {
+        "csv": {
+          "name": "hr-javna-odvodnja-po-zupanijama_HR.csv",
+          "size": 1120
+        },
+        "xlsx": {
+          "name": "hr-javna-odvodnja-po-zupanijama_HR.xlsx",
+          "size": 7648
         }
       }
     },

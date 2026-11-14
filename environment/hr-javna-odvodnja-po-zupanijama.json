@@ -1,0 +1,198 @@
+{
+  "id": "hr-javna-odvodnja-po-zupanijama",
+  "name": "Javna odvodnja otpadnih voda po županijama",
+  "title": "Javna odvodnja otpadnih voda po županijama",
+  "description": "Ispuštene otpadne vode (tis. m³) u 2024. i 2025. te ukupna duljina mreže javne odvodnje (km) u 2014. i 2025. po županijama Hrvatske, prema DZS-u.",
+  "category": "environment",
+  "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-okoli",
+  "source_url": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-okoli",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "wastewater_discharged_2025_thousand_m3",
+      "label": "Wastewater Discharged 2025 Thousand M3",
+      "type": "number"
+    },
+    {
+      "key": "wastewater_discharged_2024_thousand_m3",
+      "label": "Wastewater Discharged 2024 Thousand M3",
+      "type": "number"
+    },
+    {
+      "key": "sewerage_network_2025_km",
+      "label": "Sewerage Network 2025 Km",
+      "type": "number"
+    },
+    {
+      "key": "sewerage_network_2014_km",
+      "label": "Sewerage Network 2014 Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "county": "Zagrebačka",
+      "wastewater_discharged_2025_thousand_m3": 18018,
+      "wastewater_discharged_2024_thousand_m3": 19987,
+      "sewerage_network_2025_km": 1304,
+      "sewerage_network_2014_km": 776
+    },
+    {
+      "county": "Krapinsko-zagorska",
+      "wastewater_discharged_2025_thousand_m3": 2019,
+      "wastewater_discharged_2024_thousand_m3": 2494,
+      "sewerage_network_2025_km": 445,
+      "sewerage_network_2014_km": 200
+    },
+    {
+      "county": "Sisačko-moslavčka",
+      "wastewater_discharged_2025_thousand_m3": 8019,
+      "wastewater_discharged_2024_thousand_m3": 8202,
+      "sewerage_network_2025_km": 648,
+      "sewerage_network_2014_km": 410
+    },
+    {
+      "county": "Karlovačka",
+      "wastewater_discharged_2025_thousand_m3": 6601,
+      "wastewater_discharged_2024_thousand_m3": 6782,
+      "sewerage_network_2025_km": 341,
+      "sewerage_network_2014_km": 204
+    },
+    {
+      "county": "Varaždinska",
+      "wastewater_discharged_2025_thousand_m3": 7497,
+      "wastewater_discharged_2024_thousand_m3": 7660,
+      "sewerage_network_2025_km": 375,
+      "sewerage_network_2014_km": 284
+    },
+    {
+      "county": "Koprivničko-križevačka",
+      "wastewater_discharged_2025_thousand_m3": 4035,
+      "wastewater_discharged_2024_thousand_m3": 4270,
+      "sewerage_network_2025_km": 493,
+      "sewerage_network_2014_km": 373
+    },
+    {
+      "county": "Bjelovarsko-bilogorska",
+      "wastewater_discharged_2025_thousand_m3": 3465,
+      "wastewater_discharged_2024_thousand_m3": 3431,
+      "sewerage_network_2025_km": 345,
+      "sewerage_network_2014_km": 209
+    },
+    {
+      "county": "Primorsko-goranska",
+      "wastewater_discharged_2025_thousand_m3": 18053,
+      "wastewater_discharged_2024_thousand_m3": 20395,
+      "sewerage_network_2025_km": 1312,
+      "sewerage_network_2014_km": 857
+    },
+    {
+      "county": "Ličko-senjska",
+      "wastewater_discharged_2025_thousand_m3": 2893,
+      "wastewater_discharged_2024_thousand_m3": 2539,
+      "sewerage_network_2025_km": 237,
+      "sewerage_network_2014_km": 92
+    },
+    {
+      "county": "Virovitičko-podravska",
+      "wastewater_discharged_2025_thousand_m3": 2316,
+      "wastewater_discharged_2024_thousand_m3": 2437,
+      "sewerage_network_2025_km": 485,
+      "sewerage_network_2014_km": 239
+    },
+    {
+      "county": "Požeško-slavonska",
+      "wastewater_discharged_2025_thousand_m3": 3230,
+      "wastewater_discharged_2024_thousand_m3": 3692,
+      "sewerage_network_2025_km": 529,
+      "sewerage_network_2014_km": 287
+    },
+    {
+      "county": "Brodsko-posavska",
+      "wastewater_discharged_2025_thousand_m3": 6717,
+      "wastewater_discharged_2024_thousand_m3": 9106,
+      "sewerage_network_2025_km": 477,
+      "sewerage_network_2014_km": 310
+    },
+    {
+      "county": "Zadarska",
+      "wastewater_discharged_2025_thousand_m3": 9694,
+      "wastewater_discharged_2024_thousand_m3": 9289,
+      "sewerage_network_2025_km": 504,
+      "sewerage_network_2014_km": 234
+    },
+    {
+      "county": "Osječko-baranjska",
+      "wastewater_discharged_2025_thousand_m3": 16509,
+      "wastewater_discharged_2024_thousand_m3": 18791,
+      "sewerage_network_2025_km": 1198,
+      "sewerage_network_2014_km": 711
+    },
+    {
+      "county": "Šibensko-kninska",
+      "wastewater_discharged_2025_thousand_m3": 4306,
+      "wastewater_discharged_2024_thousand_m3": 4200,
+      "sewerage_network_2025_km": 333,
+      "sewerage_network_2014_km": 161
+    },
+    {
+      "county": "Vukovarsko-srijemska",
+      "wastewater_discharged_2025_thousand_m3": 8857,
+      "wastewater_discharged_2024_thousand_m3": 8808,
+      "sewerage_network_2025_km": 842,
+      "sewerage_network_2014_km": 397
+    },
+    {
+      "county": "Splitsko-dalmatinska",
+      "wastewater_discharged_2025_thousand_m3": 22169,
+      "wastewater_discharged_2024_thousand_m3": 22894,
+      "sewerage_network_2025_km": 1386,
+      "sewerage_network_2014_km": 641
+    },
+    {
+      "county": "Istarska",
+      "wastewater_discharged_2025_thousand_m3": 14760,
+      "wastewater_discharged_2024_thousand_m3": 14233,
+      "sewerage_network_2025_km": 1584,
+      "sewerage_network_2014_km": 830
+    },
+    {
+      "county": "Dubrovačko-neretvanska",
+      "wastewater_discharged_2025_thousand_m3": 8594,
+      "wastewater_discharged_2024_thousand_m3": 10337,
+      "sewerage_network_2025_km": 302,
+      "sewerage_network_2014_km": 146
+    },
+    {
+      "county": "Međimurska",
+      "wastewater_discharged_2025_thousand_m3": 4032,
+      "wastewater_discharged_2024_thousand_m3": 4332,
+      "sewerage_network_2025_km": 472,
+      "sewerage_network_2014_km": 355
+    },
+    {
+      "county": "Grad Zagreb",
+      "wastewater_discharged_2025_thousand_m3": 178309,
+      "wastewater_discharged_2024_thousand_m3": 184217,
+      "sewerage_network_2025_km": 2678,
+      "sewerage_network_2014_km": 1933
+    }
+  ],
+  "meta": {
+    "title": "Javna odvodnja otpadnih voda po županijama - Free Download",
+    "description": "Ispuštene otpadne vode (tis. m³) u 2024. i 2025. te ukupna duljina mreže javne odvodnje (km) u 2014. i 2025. po županijama Hrvatske, prema DZS-u. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Javna odvodnja otpadnih voda po županijama | ListBase",
+    "seo_description": "Download Javna odvodnja otpadnih voda po županijama — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/statistika-u-nizu-okoli"
+    ]
+  }
+}
