@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-14T02:02:14.791Z",
-  "total_datasets": 500,
-  "total_records": 831131,
+  "generated": "2026-11-15T02:08:12.279Z",
+  "total_datasets": 501,
+  "total_records": 831249,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -11364,6 +11364,33 @@
         "xlsx": {
           "name": "hr-hrvatski-izumi_HR.xlsx",
           "size": 7850
+        }
+      }
+    },
+    {
+      "id": "hr-kemijski-elementi",
+      "name": "Popis kemijskih elemenata",
+      "category": "science",
+      "record_count": 118,
+      "columns": [
+        "atomic_number",
+        "symbol",
+        "name",
+        "name_origin",
+        "group",
+        "period"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_kemijskih_elemenata",
+      "updated": "2026-11",
+      "size": 24345,
+      "files": {
+        "csv": {
+          "name": "hr-kemijski-elementi_HR.csv",
+          "size": 8774
+        },
+        "xlsx": {
+          "name": "hr-kemijski-elementi_HR.xlsx",
+          "size": 13441
         }
       }
     },

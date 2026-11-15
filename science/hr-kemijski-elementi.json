@@ -1,0 +1,1000 @@
+{
+  "id": "hr-kemijski-elementi",
+  "name": "Popis kemijskih elemenata",
+  "title": "Popis kemijskih elemenata",
+  "description": "Svi kemijski elementi s atomskim brojem, simbolom, hrvatskim nazivom, podrijetlom imena, skupinom i periodom u periodnom sustavu, prema hrvatskoj Wikipediji.",
+  "category": "science",
+  "source": "https://hr.wikipedia.org/wiki/Popis_kemijskih_elemenata",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_kemijskih_elemenata",
+  "updated": "2026-11",
+  "record_count": 118,
+  "columns": [
+    {
+      "key": "atomic_number",
+      "label": "Atomic Number",
+      "type": "number"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_origin",
+      "label": "Name Origin",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "number"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "atomic_number": 1,
+      "symbol": "H",
+      "name": "Vodik",
+      "name_origin": "sastoji se od grčki elemenata hidro- i -gen što znači 'koji tvori vodu'",
+      "group": 1,
+      "period": 1
+    },
+    {
+      "atomic_number": 2,
+      "symbol": "He",
+      "name": "Helij",
+      "name_origin": "grčka riječ helios, 'sunce'",
+      "group": 18,
+      "period": 1
+    },
+    {
+      "atomic_number": 3,
+      "symbol": "Li",
+      "name": "Litij",
+      "name_origin": "grčka riječ lithos, 'kamen'",
+      "group": 1,
+      "period": 2
+    },
+    {
+      "atomic_number": 4,
+      "symbol": "Be",
+      "name": "Berilij",
+      "name_origin": "beril, mineral",
+      "group": 2,
+      "period": 2
+    },
+    {
+      "atomic_number": 5,
+      "symbol": "B",
+      "name": "Bor",
+      "name_origin": "boraks, mineral",
+      "group": 13,
+      "period": 2
+    },
+    {
+      "atomic_number": 6,
+      "symbol": "C",
+      "name": "Ugljik",
+      "name_origin": "latinski riječ carbo, 'karkol'",
+      "group": 14,
+      "period": 2
+    },
+    {
+      "atomic_number": 7,
+      "symbol": "N",
+      "name": "Dušik",
+      "name_origin": "od grčkih riječi \"nitron\" i \"-gen\" sa značenjem \"koji tvori kalijev nitrat \"",
+      "group": 15,
+      "period": 2
+    },
+    {
+      "atomic_number": 8,
+      "symbol": "O",
+      "name": "Kisik",
+      "name_origin": "od grčkog \"oxy-\", što znači \"oštar\" i \"kiselina\", i \"-gen\", što znači \"tvori kiselinu\"",
+      "group": 16,
+      "period": 2
+    },
+    {
+      "atomic_number": 9,
+      "symbol": "F",
+      "name": "Fluor",
+      "name_origin": "od latinskog \"fluer\", \"teče\"",
+      "group": 17,
+      "period": 2
+    },
+    {
+      "atomic_number": 10,
+      "symbol": "Ne",
+      "name": "Neon",
+      "name_origin": "od grčke riječi \"neos\", što znači \"novo\"",
+      "group": 18,
+      "period": 2
+    },
+    {
+      "atomic_number": 11,
+      "symbol": "Na",
+      "name": "Natrij",
+      "name_origin": "iz engleske riječi soda (natrij na latinskom)",
+      "group": 1,
+      "period": 3
+    },
+    {
+      "atomic_number": 12,
+      "symbol": "Mg",
+      "name": "Magnezij",
+      "name_origin": "Magnezija, okrug istočne Tesalije u Grčkoj",
+      "group": 2,
+      "period": 3
+    },
+    {
+      "atomic_number": 13,
+      "symbol": "Al",
+      "name": "Aluminij",
+      "name_origin": "aluminij, spoj (izvorno aluminij)",
+      "group": 13,
+      "period": 3
+    },
+    {
+      "atomic_number": 14,
+      "symbol": "Si",
+      "name": "Silicij",
+      "name_origin": "od latinske riječi silex, (originalno silicium)",
+      "group": 14,
+      "period": 3
+    },
+    {
+      "atomic_number": 15,
+      "symbol": "P",
+      "name": "Fosfor",
+      "name_origin": "od grčke riječi \"fosforos\", \"svjetlonosni\"",
+      "group": 15,
+      "period": 3
+    },
+    {
+      "atomic_number": 16,
+      "symbol": "S",
+      "name": "Sumpor",
+      "name_origin": "latinski: phoosphoros, 'sumpor'",
+      "group": 16,
+      "period": 3
+    },
+    {
+      "atomic_number": 17,
+      "symbol": "Cl",
+      "name": "Klor",
+      "name_origin": "grčka riječ chloros, 'zelenkasto žuta'",
+      "group": 17,
+      "period": 3
+    },
+    {
+      "atomic_number": 18,
+      "symbol": "Ar",
+      "name": "Argon",
+      "name_origin": "grčka riječ \"argos\", \"tašt\"",
+      "group": 18,
+      "period": 3
+    },
+    {
+      "atomic_number": 19,
+      "symbol": "K",
+      "name": "Kalij",
+      "name_origin": "nova latinska riječ potassa, (kalij na latinskom)",
+      "group": 1,
+      "period": 4
+    },
+    {
+      "atomic_number": 20,
+      "symbol": "Ca",
+      "name": "Kalcij",
+      "name_origin": "latinska riječ \"calx\", \"vapno\"",
+      "group": 2,
+      "period": 4
+    },
+    {
+      "atomic_number": 21,
+      "symbol": "Sc",
+      "name": "Skandij",
+      "name_origin": "Scandia, latinski naziv za Skandinaviju",
+      "group": 3,
+      "period": 4
+    },
+    {
+      "atomic_number": 22,
+      "symbol": "Ti",
+      "name": "Titan",
+      "name_origin": "Titani, sinovi božice Zemlje u grčkoj mitologiji",
+      "group": 4,
+      "period": 4
+    },
+    {
+      "atomic_number": 23,
+      "symbol": "V",
+      "name": "Vanadij",
+      "name_origin": "Vanadis, stari nordijski naziv za skandinavsku božicu Freyju",
+      "group": 5,
+      "period": 4
+    },
+    {
+      "atomic_number": 24,
+      "symbol": "Cr",
+      "name": "Krom",
+      "name_origin": "grčka riječ \"chroma\", \"boja\"",
+      "group": 6,
+      "period": 4
+    },
+    {
+      "atomic_number": 25,
+      "symbol": "Mn",
+      "name": "Mangan",
+      "name_origin": "izvedeno od \"magnesia negra\", vidi magnezij",
+      "group": 7,
+      "period": 4
+    },
+    {
+      "atomic_number": 26,
+      "symbol": "Fe",
+      "name": "Željezo",
+      "name_origin": "ferrum na latinskom",
+      "group": 8,
+      "period": 4
+    },
+    {
+      "atomic_number": 27,
+      "symbol": "Co",
+      "name": "Kobalt",
+      "name_origin": "njemačka riječ Kobold, 'goblin'",
+      "group": 9,
+      "period": 4
+    },
+    {
+      "atomic_number": 28,
+      "symbol": "Ni",
+      "name": "Nikal",
+      "name_origin": "Nikal, nestašni duh iz mitologije njemačkog rudara",
+      "group": 10,
+      "period": 4
+    },
+    {
+      "atomic_number": 29,
+      "symbol": "Cu",
+      "name": "Bakar",
+      "name_origin": "latinski cuprum",
+      "group": 11,
+      "period": 4
+    },
+    {
+      "atomic_number": 30,
+      "symbol": "Zn",
+      "name": "Cink",
+      "name_origin": "njemačka riječ \"Zinke\" = zub ili zubac",
+      "group": 12,
+      "period": 4
+    },
+    {
+      "atomic_number": 31,
+      "symbol": "Ga",
+      "name": "Galij",
+      "name_origin": "Gallia, latinski naziv za Francusku",
+      "group": 13,
+      "period": 4
+    },
+    {
+      "atomic_number": 32,
+      "symbol": "Ge",
+      "name": "Germanij",
+      "name_origin": "Germania, latinski naziv za Njemačku",
+      "group": 14,
+      "period": 4
+    },
+    {
+      "atomic_number": 33,
+      "symbol": "As",
+      "name": "Arsen",
+      "name_origin": "latinski arsenicum",
+      "group": 15,
+      "period": 4
+    },
+    {
+      "atomic_number": 34,
+      "symbol": "Se",
+      "name": "Selen",
+      "name_origin": "grčka riječ \"selene\", \"mjesec\"",
+      "group": 16,
+      "period": 4
+    },
+    {
+      "atomic_number": 35,
+      "symbol": "Br",
+      "name": "Brom",
+      "name_origin": "grčka riječ \"bromos\", \"dah\"",
+      "group": 17,
+      "period": 4
+    },
+    {
+      "atomic_number": 36,
+      "symbol": "Kr",
+      "name": "Kripton",
+      "name_origin": "grčka riječ kryptos, 'skriven'",
+      "group": 18,
+      "period": 4
+    },
+    {
+      "atomic_number": 37,
+      "symbol": "Rb",
+      "name": "Rubidij",
+      "name_origin": "latinska riječ rubidus, 'duboko crven'",
+      "group": 1,
+      "period": 5
+    },
+    {
+      "atomic_number": 38,
+      "symbol": "Sr",
+      "name": "Stroncij",
+      "name_origin": "Strontian, mali grad u Škotskoj",
+      "group": 2,
+      "period": 5
+    },
+    {
+      "atomic_number": 39,
+      "symbol": "Y",
+      "name": "Itrij",
+      "name_origin": "Ytterby, Švedska",
+      "group": 3,
+      "period": 5
+    },
+    {
+      "atomic_number": 40,
+      "symbol": "Zr",
+      "name": "Cirkonij",
+      "name_origin": "njemačka riječ Zirkoon, ' cirkon '",
+      "group": 4,
+      "period": 5
+    },
+    {
+      "atomic_number": 41,
+      "symbol": "Nb",
+      "name": "Niobij",
+      "name_origin": "Nioba, kći kralja Tantala iz grčke mitologije",
+      "group": 5,
+      "period": 5
+    },
+    {
+      "atomic_number": 42,
+      "symbol": "Mo",
+      "name": "Molibden",
+      "name_origin": "grčka riječ molybdos sa značenjem 'olovo'",
+      "group": 6,
+      "period": 5
+    },
+    {
+      "atomic_number": 43,
+      "symbol": "Tc",
+      "name": "Tehnecij",
+      "name_origin": "grčka riječ tekhnètos sa značenjem 'umjetni'",
+      "group": 7,
+      "period": 5
+    },
+    {
+      "atomic_number": 44,
+      "symbol": "Ru",
+      "name": "Rutenij",
+      "name_origin": "Rutenija, novo latinsko ime za Rusiju",
+      "group": 8,
+      "period": 5
+    },
+    {
+      "atomic_number": 45,
+      "symbol": "Rh",
+      "name": "Rodij",
+      "name_origin": "grčka riječ rhodos, sa značenjem 'sa bojom ruže'",
+      "group": 9,
+      "period": 5
+    },
+    {
+      "atomic_number": 46,
+      "symbol": "Pd",
+      "name": "Paladij",
+      "name_origin": "nedavno otkriveni asteroid Palas, koji se svojevremeno smatrao planetom",
+      "group": 10,
+      "period": 5
+    },
+    {
+      "atomic_number": 47,
+      "symbol": "Ag",
+      "name": "Srebro",
+      "name_origin": "argentum u latinskom",
+      "group": 11,
+      "period": 5
+    },
+    {
+      "atomic_number": 48,
+      "symbol": "Cd",
+      "name": "Kadmij",
+      "name_origin": "novolatinska riječ cadmia, za kralja Kadmo",
+      "group": 12,
+      "period": 5
+    },
+    {
+      "atomic_number": 49,
+      "symbol": "In",
+      "name": "Indij",
+      "name_origin": "indigo",
+      "group": 13,
+      "period": 5
+    },
+    {
+      "atomic_number": 50,
+      "symbol": "Sn",
+      "name": "Kositar",
+      "name_origin": "stannum u latinskom",
+      "group": 14,
+      "period": 5
+    },
+    {
+      "atomic_number": 51,
+      "symbol": "Sb",
+      "name": "Antimon",
+      "name_origin": "od grčkog anti, 'protiv', i monos, 'sam' (stibium u latinskom)",
+      "group": 15,
+      "period": 5
+    },
+    {
+      "atomic_number": 52,
+      "symbol": "Te",
+      "name": "Telur",
+      "name_origin": "latinska riječ tellus, 'zemlja'",
+      "group": 16,
+      "period": 5
+    },
+    {
+      "atomic_number": 53,
+      "symbol": "I",
+      "name": "Jod",
+      "name_origin": "francuska riječ iode (po grčkom ioeides, 'ljubičast')",
+      "group": 17,
+      "period": 5
+    },
+    {
+      "atomic_number": 54,
+      "symbol": "Xe",
+      "name": "Ksenon",
+      "name_origin": "grčka riječ xenos, 'čudan'",
+      "group": 18,
+      "period": 5
+    },
+    {
+      "atomic_number": 55,
+      "symbol": "Cs",
+      "name": "Cezij",
+      "name_origin": "latinska riječ caesius, 'plavo nebo'",
+      "group": 1,
+      "period": 6
+    },
+    {
+      "atomic_number": 56,
+      "symbol": "Ba",
+      "name": "Barij",
+      "name_origin": "grčka riječ barys, 'težak'",
+      "group": 2,
+      "period": 6
+    },
+    {
+      "atomic_number": 57,
+      "symbol": "La",
+      "name": "Lantan",
+      "name_origin": "grčka riječ lanthanein, 'ležati skriven'",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 58,
+      "symbol": "Ce",
+      "name": "Cerij",
+      "name_origin": "nedavno otkriveni asteroid Ceres, koji se svojevremeno smatrao planetom",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 59,
+      "symbol": "Pr",
+      "name": "Praseodimij",
+      "name_origin": "grčke riječ praseios didymos sa značenjem 'zeleni blizanac'",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 60,
+      "symbol": "Nd",
+      "name": "Neodimij",
+      "name_origin": "grčke riječi neos didymos sa značenjem 'novi blizanac'",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 61,
+      "symbol": "Pm",
+      "name": "Prometij",
+      "name_origin": "Prometej iz grčke mitologije koji je ukrao vatru od bogova i dao je ljudima",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 62,
+      "symbol": "Sm",
+      "name": "Samarij",
+      "name_origin": "Samarskit, ime minerala iz koga je prvobitno izoliran",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 63,
+      "symbol": "Eu",
+      "name": "Europij",
+      "name_origin": "Europa",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 64,
+      "symbol": "Gd",
+      "name": "Gadolinij",
+      "name_origin": "Johan Gadolin, kemičar, fizičar i mineralog",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 65,
+      "symbol": "Tb",
+      "name": "Terbij",
+      "name_origin": "Ytterby u Švedskoj",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 66,
+      "symbol": "Dy",
+      "name": "Disprozij",
+      "name_origin": "grčka riječ dysprositos, 'do koga se teško dolazi'",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 67,
+      "symbol": "Ho",
+      "name": "Holmij",
+      "name_origin": "Holmia, novo latinsko ime za Stockholm",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 68,
+      "symbol": "Er",
+      "name": "Erbij",
+      "name_origin": "Ytterby, Švedska",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 69,
+      "symbol": "Tm",
+      "name": "Tulij",
+      "name_origin": "Thule, antičko ime za Skandinaviju",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 70,
+      "symbol": "Yb",
+      "name": "Iterbij",
+      "name_origin": "Ytterby, Švedska",
+      "group": "",
+      "period": 6
+    },
+    {
+      "atomic_number": 71,
+      "symbol": "Lu",
+      "name": "Lutecij",
+      "name_origin": "Lutetia, latinsko ime za Pariz",
+      "group": 3,
+      "period": 6
+    },
+    {
+      "atomic_number": 72,
+      "symbol": "Hf",
+      "name": "Hafnij",
+      "name_origin": "Hafnia, novo latinsko ime za Kopenhagen",
+      "group": 4,
+      "period": 6
+    },
+    {
+      "atomic_number": 73,
+      "symbol": "Ta",
+      "name": "Tantal",
+      "name_origin": "Kralj Tantal, otac Niobe iz grčke mitologije",
+      "group": 5,
+      "period": 6
+    },
+    {
+      "atomic_number": 74,
+      "symbol": "W",
+      "name": "Volfram",
+      "name_origin": "švedska riječ tung sten, 'teški kamen' (W dolazi od wolfram, starog imena minerala volframita)",
+      "group": 6,
+      "period": 6
+    },
+    {
+      "atomic_number": 75,
+      "symbol": "Re",
+      "name": "Renij",
+      "name_origin": "Rhenus, latinsko ime za reku Rajnu",
+      "group": 7,
+      "period": 6
+    },
+    {
+      "atomic_number": 76,
+      "symbol": "Os",
+      "name": "Osmij",
+      "name_origin": "grčka riječ osmè, sa značenjem 'miris'",
+      "group": 8,
+      "period": 6
+    },
+    {
+      "atomic_number": 77,
+      "symbol": "Ir",
+      "name": "Iridij",
+      "name_origin": "Irida, grčka boginja duge",
+      "group": 9,
+      "period": 6
+    },
+    {
+      "atomic_number": 78,
+      "symbol": "Pt",
+      "name": "Platina",
+      "name_origin": "španjolska riječ platina, sa značenjem 'malo srebro'",
+      "group": 10,
+      "period": 6
+    },
+    {
+      "atomic_number": 79,
+      "symbol": "Au",
+      "name": "Zlato",
+      "name_origin": "aurum u latinskom",
+      "group": 11,
+      "period": 6
+    },
+    {
+      "atomic_number": 80,
+      "symbol": "Hg",
+      "name": "Živa",
+      "name_origin": "novo latinsko ime mercurius, dato po rimskom bogu (Hg dolazi od bivšeg imena hydrargyrum, od grčkog hydr-, 'voda', i argyros, 'srebro')",
+      "group": 12,
+      "period": 6
+    },
+    {
+      "atomic_number": 81,
+      "symbol": "Tl",
+      "name": "Talij",
+      "name_origin": "grčka riječ thallos, 'zelena grančica'",
+      "group": 13,
+      "period": 6
+    },
+    {
+      "atomic_number": 82,
+      "symbol": "Pb",
+      "name": "Olovo",
+      "name_origin": "plumbum u latinskom",
+      "group": 14,
+      "period": 6
+    },
+    {
+      "atomic_number": 83,
+      "symbol": "Bi",
+      "name": "Bizmut",
+      "name_origin": "njemačka riječ: Wismut, od „weiß Masse” 'bijela masa'",
+      "group": 15,
+      "period": 6
+    },
+    {
+      "atomic_number": 84,
+      "symbol": "Po",
+      "name": "Polonij",
+      "name_origin": "Polonia, novo latinsko ime za Poljsku",
+      "group": 16,
+      "period": 6
+    },
+    {
+      "atomic_number": 85,
+      "symbol": "At",
+      "name": "Astat",
+      "name_origin": "grčka riječ astatos, 'nestabilan'",
+      "group": 17,
+      "period": 6
+    },
+    {
+      "atomic_number": 86,
+      "symbol": "Rn",
+      "name": "Radon",
+      "name_origin": "od radium, pošto je prvobitno detektiran kao emisija iz radija tijekom radioaktivnog raspada",
+      "group": 18,
+      "period": 6
+    },
+    {
+      "atomic_number": 87,
+      "symbol": "Fr",
+      "name": "Francij",
+      "name_origin": "Francia, novo latinsko ime za Francusku",
+      "group": 1,
+      "period": 7
+    },
+    {
+      "atomic_number": 88,
+      "symbol": "Ra",
+      "name": "Radij",
+      "name_origin": "latinska riječ radius, 'zrak'",
+      "group": 2,
+      "period": 7
+    },
+    {
+      "atomic_number": 89,
+      "symbol": "Ac",
+      "name": "Aktinij",
+      "name_origin": "grčka riječ aktis, 'zrak'",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 90,
+      "symbol": "Th",
+      "name": "Torij",
+      "name_origin": "Thor, skandinavski bog grmljavine",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 91,
+      "symbol": "Pa",
+      "name": "Protaktinij",
+      "name_origin": "grčka riječ protos, 'prvi', i aktinij, koji se formira putem radioaktivnog raspada protaktinija",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 92,
+      "symbol": "U",
+      "name": "Uranij",
+      "name_origin": "Uran, sedmi planet u Sunčevu sustavu",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 93,
+      "symbol": "Np",
+      "name": "Neptunij",
+      "name_origin": "Neptun, osmi planet u Sunčevu sustavu",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 94,
+      "symbol": "Pu",
+      "name": "Plutonij",
+      "name_origin": "Pluton, patuljasti planet u Sunčevu sustavu",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 95,
+      "symbol": "Am",
+      "name": "Americij",
+      "name_origin": "Amerika, element je prvobitno sintetiziran na tom kontinentu, po analogiji s europijem",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 96,
+      "symbol": "Cm",
+      "name": "Kirij",
+      "name_origin": "Pierre Curie, fizičar, i Marie Curie, fizičarka i kemičarka, imenovan po ovim velikim znanstvenicima po analogiji s gadolinijem",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 97,
+      "symbol": "Bk",
+      "name": "Berkelij",
+      "name_origin": "Berkeley, Kalifornija, mjesto gdje je element prvi put sintetiziran, po analogiji s terbijem",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 98,
+      "symbol": "Cf",
+      "name": "Kalifornij",
+      "name_origin": "Kalifornija, gdje je element prvi put sintetiziran",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 99,
+      "symbol": "Es",
+      "name": "Ajnštajnij",
+      "name_origin": "Albert Einstein, fizičar",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 100,
+      "symbol": "Fm",
+      "name": "Fermij",
+      "name_origin": "Enrico Fermi, fizičar",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 101,
+      "symbol": "Md",
+      "name": "Mendelevij",
+      "name_origin": "Dmitrij Mendeljejev, kemičar i izumitelj",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 102,
+      "symbol": "No",
+      "name": "Nobelij",
+      "name_origin": "Alfred Nobel, kemičar, inženjer, pronalazač i proizvođač oružja",
+      "group": "",
+      "period": 7
+    },
+    {
+      "atomic_number": 103,
+      "symbol": "Lr",
+      "name": "Lorensij",
+      "name_origin": "Ernest Orlando Lawrence, fizičar",
+      "group": 3,
+      "period": 7
+    },
+    {
+      "atomic_number": 104,
+      "symbol": "Rf",
+      "name": "Raderfordij",
+      "name_origin": "Ernest Rutherford, kemičar i fizičar",
+      "group": 4,
+      "period": 7
+    },
+    {
+      "atomic_number": 105,
+      "symbol": "Db",
+      "name": "Dubnij",
+      "name_origin": "Dubna, Rusija",
+      "group": 5,
+      "period": 7
+    },
+    {
+      "atomic_number": 106,
+      "symbol": "Sg",
+      "name": "Siborgij",
+      "name_origin": "Glenn T. Seaborg, znanstvenik",
+      "group": 6,
+      "period": 7
+    },
+    {
+      "atomic_number": 107,
+      "symbol": "Bh",
+      "name": "Borij",
+      "name_origin": "Niels Bohr, fizičar",
+      "group": 7,
+      "period": 7
+    },
+    {
+      "atomic_number": 108,
+      "symbol": "Hs",
+      "name": "Hasij",
+      "name_origin": "Hessen, Njemačka, gdje je element prvi put sintetiziran",
+      "group": 8,
+      "period": 7
+    },
+    {
+      "atomic_number": 109,
+      "symbol": "Mt",
+      "name": "Majtnerij",
+      "name_origin": "Lise Meitner, fizičar",
+      "group": 9,
+      "period": 7
+    },
+    {
+      "atomic_number": 110,
+      "symbol": "Ds",
+      "name": "Darmštatij",
+      "name_origin": "Darmstadt, Njemačka, gdje je element prvi put sintetiziran",
+      "group": 10,
+      "period": 7
+    },
+    {
+      "atomic_number": 111,
+      "symbol": "Rg",
+      "name": "Roentgenij",
+      "name_origin": "Wilhelm Conrad Röntgen, fizičar",
+      "group": 11,
+      "period": 7
+    },
+    {
+      "atomic_number": 112,
+      "symbol": "Cn",
+      "name": "Kopernicij",
+      "name_origin": "Nikola Kopernik, astronom",
+      "group": 12,
+      "period": 7
+    },
+    {
+      "atomic_number": 113,
+      "symbol": "Nh",
+      "name": "Nihonij",
+      "name_origin": "IUPAC sistematsko ime elementa",
+      "group": 13,
+      "period": 7
+    },
+    {
+      "atomic_number": 114,
+      "symbol": "Fl",
+      "name": "Flerovij",
+      "name_origin": "Georgij Fljorov, fizičar",
+      "group": 14,
+      "period": 7
+    },
+    {
+      "atomic_number": 115,
+      "symbol": "Mc",
+      "name": "Moskovij",
+      "name_origin": "IUPAC sistematsko ime elementa",
+      "group": 15,
+      "period": 7
+    },
+    {
+      "atomic_number": 116,
+      "symbol": "Lv",
+      "name": "Livermorij",
+      "name_origin": "Nacionalni laboratorij Lawrence Livermore (u Livermoru u Kaliforniji) koja je surađivala s institutom za nuklearna istraživanja na njegovoj sintezi",
+      "group": 16,
+      "period": 7
+    },
+    {
+      "atomic_number": 117,
+      "symbol": "Ts",
+      "name": "Tenesin",
+      "name_origin": "IUPAC sistematsko ime elementa",
+      "group": 17,
+      "period": 7
+    },
+    {
+      "atomic_number": 118,
+      "symbol": "Og",
+      "name": "Oganeson",
+      "name_origin": "IUPAC sistematsko ime elementa",
+      "group": 18,
+      "period": 7
+    }
+  ],
+  "meta": {
+    "title": "Popis kemijskih elemenata - Free Download",
+    "description": "Svi kemijski elementi s atomskim brojem, simbolom, hrvatskim nazivom, podrijetlom imena, skupinom i periodom u periodnom sustavu, prema hrvatskoj Wikipediji. Contains 118 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Popis kemijskih elemenata | ListBase",
+    "seo_description": "Download Popis kemijskih elemenata — 118 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 118 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_kemijskih_elemenata"
+    ]
+  }
+}
