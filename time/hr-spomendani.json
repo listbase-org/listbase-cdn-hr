@@ -1,0 +1,106 @@
+{
+  "id": "hr-spomendani",
+  "name": "Spomendani u Republici Hrvatskoj",
+  "title": "Spomendani u Republici Hrvatskoj",
+  "description": "Popis spomendana propisanih Zakonom o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj, s datumom obilježavanja, prema hrvatskoj Wikipediji.",
+  "category": "time",
+  "source": "https://hr.wikipedia.org/wiki/Blagdani_i_spomendani_u_Hrvatskoj",
+  "source_url": "https://hr.wikipedia.org/wiki/Blagdani_i_spomendani_u_Hrvatskoj",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "9. siječnja",
+      "name": "Dan sjedinjenja Međimurja s maticom zemljom Hrvatskom (1919.)",
+      "note": ""
+    },
+    {
+      "date": "15. siječnja",
+      "name": "Dan međunarodnog priznanja Republike Hrvatske (1992.) i Dan mirne reintegracije hrvatskog Podunavlja (1998.)",
+      "note": ""
+    },
+    {
+      "date": "15. ožujka",
+      "name": "Dan osnivanja Narodne zaštite u Republici Hrvatskoj (1991.)",
+      "note": ""
+    },
+    {
+      "date": "30. travnja",
+      "name": "Dan pogibije Zrinskog i Frankopana (1671.)",
+      "note": ""
+    },
+    {
+      "date": "3. svibnja",
+      "name": "Dan sjećanja na ubijenu i stradalu djecu u Domovinskom ratu",
+      "note": ""
+    },
+    {
+      "date": "9. svibnja",
+      "name": "Dan Europe i Dan pobjede nad fašizmom",
+      "note": ""
+    },
+    {
+      "date": "nedjelja najbliža 15. svibnju",
+      "name": "Dan spomena na hrvatske žrtve u borbi za slobodu i nezavisnost",
+      "note": ""
+    },
+    {
+      "date": "5. lipnja",
+      "name": "Dan hrvatske zastave",
+      "note": ""
+    },
+    {
+      "date": "25. lipnja",
+      "name": "Dan neovisnosti",
+      "note": "obilježavao se 8. listopada kao blagdan od 2001. do 2019."
+    },
+    {
+      "date": "23. kolovoza",
+      "name": "Europski dan sjećanja na žrtve totalitarnih i autoritarnih režima – nacizma, fašizma i komunizma",
+      "note": ""
+    },
+    {
+      "date": "30. kolovoza",
+      "name": "Dan sjećanja na nestale osobe u Domovinskom ratu",
+      "note": ""
+    },
+    {
+      "date": "25. rujna",
+      "name": "Dan donošenja Odluke o sjedinjenju Istre, Rijeke, Zadra i otoka s maticom zemljom Hrvatskom (1943.)",
+      "note": ""
+    },
+    {
+      "date": "8. listopada",
+      "name": "Dan Hrvatskoga sabora",
+      "note": "obilježavao se 30. svibnja od 2001. do 2019."
+    }
+  ],
+  "meta": {
+    "title": "Spomendani u Republici Hrvatskoj - Free Download",
+    "description": "Popis spomendana propisanih Zakonom o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj, s datumom obilježavanja, prema hrvatskoj Wikipediji. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Spomendani u Republici Hrvatskoj | ListBase",
+    "seo_description": "Download Spomendani u Republici Hrvatskoj — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Blagdani_i_spomendani_u_Hrvatskoj"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-15T02:08:20.975Z",
-  "total_datasets": 502,
-  "total_records": 831275,
+  "generated": "2026-11-15T02:08:29.341Z",
+  "total_datasets": 503,
+  "total_records": 831288,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -12338,6 +12338,30 @@
         "xlsx": {
           "name": "hr-slavenski-nazivi-mjeseci_HR.xlsx",
           "size": 9769
+        }
+      }
+    },
+    {
+      "id": "hr-spomendani",
+      "name": "Spomendani u Republici Hrvatskoj",
+      "category": "time",
+      "record_count": 13,
+      "columns": [
+        "date",
+        "name",
+        "note"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Blagdani_i_spomendani_u_Hrvatskoj",
+      "updated": "2026-11",
+      "size": 3400,
+      "files": {
+        "csv": {
+          "name": "hr-spomendani_HR.csv",
+          "size": 1145
+        },
+        "xlsx": {
+          "name": "hr-spomendani_HR.xlsx",
+          "size": 7431
         }
       }
     },
