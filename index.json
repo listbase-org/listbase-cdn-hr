@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-15T02:08:29.341Z",
-  "total_datasets": 503,
-  "total_records": 831288,
+  "generated": "2026-11-15T02:08:37.570Z",
+  "total_datasets": 504,
+  "total_records": 831376,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -11442,6 +11442,36 @@
         "xlsx": {
           "name": "hr-predsjednici-hazu_HR.xlsx",
           "size": 7296
+        }
+      }
+    },
+    {
+      "id": "hr-zvijezdja-po-povrsini",
+      "name": "Zviježđa po površini",
+      "category": "science",
+      "record_count": 88,
+      "columns": [
+        "rank",
+        "constellation",
+        "abbreviation",
+        "family",
+        "area_sq_deg",
+        "sky_percent",
+        "ra_hm",
+        "dec_dm",
+        "quadrant"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_zviježđa_po_površini",
+      "updated": "2026-11",
+      "size": 24434,
+      "files": {
+        "csv": {
+          "name": "hr-zvijezdja-po-povrsini_HR.csv",
+          "size": 6541
+        },
+        "xlsx": {
+          "name": "hr-zvijezdja-po-povrsini_HR.xlsx",
+          "size": 12979
         }
       }
     },
