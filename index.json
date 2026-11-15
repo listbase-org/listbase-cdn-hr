@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-15T02:08:12.279Z",
-  "total_datasets": 501,
-  "total_records": 831249,
+  "generated": "2026-11-15T02:08:20.975Z",
+  "total_datasets": 502,
+  "total_records": 831275,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -12304,6 +12304,40 @@
         "xlsx": {
           "name": "hr-mjeseci-po-kalendarima_HR.xlsx",
           "size": 9155
+        }
+      }
+    },
+    {
+      "id": "hr-slavenski-nazivi-mjeseci",
+      "name": "Nazivi mjeseci u slavenskim jezicima",
+      "category": "time",
+      "record_count": 26,
+      "columns": [
+        "language",
+        "january",
+        "february",
+        "march",
+        "april",
+        "may",
+        "june",
+        "july",
+        "august",
+        "september",
+        "october",
+        "november",
+        "december"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Slavenski_kalendar",
+      "updated": "2026-11",
+      "size": 13622,
+      "files": {
+        "csv": {
+          "name": "hr-slavenski-nazivi-mjeseci_HR.csv",
+          "size": 5126
+        },
+        "xlsx": {
+          "name": "hr-slavenski-nazivi-mjeseci_HR.xlsx",
+          "size": 9769
         }
       }
     },
