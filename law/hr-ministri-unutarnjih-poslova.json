@@ -1,0 +1,142 @@
+{
+  "id": "hr-ministri-unutarnjih-poslova",
+  "name": "Ministri unutarnjih poslova Republike Hrvatske",
+  "title": "Ministri unutarnjih poslova Republike Hrvatske",
+  "description": "Popis ministara unutarnjih poslova Republike Hrvatske od 1990. s datumima početka i završetka mandata te stažem.",
+  "category": "law",
+  "source": "https://hr.wikipedia.org/wiki/Ministarstvo_unutarnjih_poslova_Republike_Hrvatske",
+  "source_url": "https://hr.wikipedia.org/wiki/Ministarstvo_unutarnjih_poslova_Republike_Hrvatske",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "minister",
+      "label": "Minister",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "tenure",
+      "label": "Tenure",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "minister": "Josip Boljkovac",
+      "party": "HDZ",
+      "term_start": "30. svibnja 1990.",
+      "term_end": "2. srpnja 1991.",
+      "tenure": "1 godina, 1 mjesec i 2 dana"
+    },
+    {
+      "minister": "Onesin Cvitan",
+      "party": "HDZ",
+      "term_start": "2. srpnja 1991.",
+      "term_end": "17. srpnja 1991.",
+      "tenure": "15 dana"
+    },
+    {
+      "minister": "Ivan Vekić",
+      "party": "HDZ",
+      "term_start": "31. srpnja 1991.",
+      "term_end": "15. travnja 1992.",
+      "tenure": "8 mjeseci i 29 dana"
+    },
+    {
+      "minister": "Ivan Jarnjak",
+      "party": "HDZ",
+      "term_start": "15. travnja 1992.",
+      "term_end": "16. prosinca 1996.",
+      "tenure": "4 godine, 8 mjeseci i 1 dan"
+    },
+    {
+      "minister": "Ivan Penić",
+      "party": "HDZ",
+      "term_start": "16. prosinca 1996.",
+      "term_end": "27. siječnja 2000.",
+      "tenure": "3 godine, 1 mjesec i 11 dana"
+    },
+    {
+      "minister": "Šime Lučin",
+      "party": "SDP",
+      "term_start": "27. siječnja 2000.",
+      "term_end": "23. prosinca 2003.",
+      "tenure": "3 godine, 10 mjeseci i 26 dana"
+    },
+    {
+      "minister": "Marijan Mlinarić",
+      "party": "HDZ",
+      "term_start": "23. prosinca 2003.",
+      "term_end": "17. veljače 2005.",
+      "tenure": "1 godina, 1 mjesec i 25 dana"
+    },
+    {
+      "minister": "Ivica Kirin",
+      "party": "HDZ",
+      "term_start": "17. veljače 2005.",
+      "term_end": "2. siječnja 2008.",
+      "tenure": "2 godine, 10 mjeseci i 16 dana"
+    },
+    {
+      "minister": "Berislav Rončević",
+      "party": "HDZ",
+      "term_start": "12. siječnja 2008.",
+      "term_end": "10. listopada 2008.",
+      "tenure": "8 mjeseci i 30 dana"
+    },
+    {
+      "minister": "Tomislav Karamarko",
+      "party": "Nezavisni, kasnije HDZ",
+      "term_start": "10. listopada 2008.",
+      "term_end": "23. prosinca 2011.",
+      "tenure": "3 godine, 2 mjeseca i 13 dana"
+    },
+    {
+      "minister": "Ranko Ostojić",
+      "party": "SDP",
+      "term_start": "23. prosinca 2011.",
+      "term_end": "22. siječnja 2016.",
+      "tenure": "4 godine i 1 mjesec"
+    },
+    {
+      "minister": "Vlaho Orepić",
+      "party": "MOST",
+      "term_start": "22. siječnja 2016.",
+      "term_end": "27. travnja 2017.",
+      "tenure": "1 godina, 3 mjeseca i 6 dana"
+    },
+    {
+      "minister": "Davor Božinović",
+      "party": "HDZ",
+      "term_start": "9. lipnja 2017.",
+      "term_end": "",
+      "tenure": ""
+    }
+  ],
+  "meta": {
+    "title": "Ministri unutarnjih poslova Republike Hrvatske - Free Download",
+    "description": "Popis ministara unutarnjih poslova Republike Hrvatske od 1990. s datumima početka i završetka mandata te stažem. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri unutarnjih poslova Republike Hrvatske | ListBase",
+    "seo_description": "Download Ministri unutarnjih poslova Republike Hrvatske — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Ministarstvo_unutarnjih_poslova_Republike_Hrvatske"
+    ]
+  }
+}

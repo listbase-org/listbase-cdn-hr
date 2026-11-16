@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-16T02:08:57.878Z",
-  "total_datasets": 506,
-  "total_records": 831434,
+  "generated": "2026-11-16T02:09:06.335Z",
+  "total_datasets": 507,
+  "total_records": 831447,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -3837,6 +3837,32 @@
         "xlsx": {
           "name": "hr-ministri-pravosudja_HR.xlsx",
           "size": 7359
+        }
+      }
+    },
+    {
+      "id": "hr-ministri-unutarnjih-poslova",
+      "name": "Ministri unutarnjih poslova Republike Hrvatske",
+      "category": "law",
+      "record_count": 13,
+      "columns": [
+        "minister",
+        "party",
+        "term_start",
+        "term_end",
+        "tenure"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Ministarstvo_unutarnjih_poslova_Republike_Hrvatske",
+      "updated": "2026-11",
+      "size": 4304,
+      "files": {
+        "csv": {
+          "name": "hr-ministri-unutarnjih-poslova_HR.csv",
+          "size": 1222
+        },
+        "xlsx": {
+          "name": "hr-ministri-unutarnjih-poslova_HR.xlsx",
+          "size": 7458
         }
       }
     },
