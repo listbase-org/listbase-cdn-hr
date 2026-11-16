@@ -1,6 +1,6 @@
 {
   "lang": "hr",
-  "generated": "2026-11-16T02:09:23.363Z",
+  "generated": "2026-11-16T02:09:49.021Z",
   "total_datasets": 509,
   "total_records": 831486,
   "categories": [
@@ -4423,20 +4423,19 @@
         "ministry",
         "term_start",
         "dismissal_date",
-        "reason",
-        "note"
+        "reason"
       ],
       "source": "https://hr.wikipedia.org/wiki/Popis_smijenjenih_ministara_Vlada_Andreja_Plenkovića",
       "updated": "2026-11",
-      "size": 8529,
+      "size": 8143,
       "files": {
         "csv": {
           "name": "hr-smijenjeni-ministri-vlade-plenkovica_HR.csv",
-          "size": 4317
+          "size": 4259
         },
         "xlsx": {
           "name": "hr-smijenjeni-ministri-vlade-plenkovica_HR.xlsx",
-          "size": 8883
+          "size": 8816
         }
       }
     },
