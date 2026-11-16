@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-16T02:09:15.270Z",
-  "total_datasets": 508,
-  "total_records": 831464,
+  "generated": "2026-11-16T02:09:23.363Z",
+  "total_datasets": 509,
+  "total_records": 831486,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -994,6 +994,33 @@
         "xlsx": {
           "name": "hr-ministri-financija_HR.xlsx",
           "size": 7167
+        }
+      }
+    },
+    {
+      "id": "hr-stopa-registrirane-nezaposlenosti-po-zupanijama",
+      "name": "Stopa registrirane nezaposlenosti po županijama",
+      "category": "economy",
+      "record_count": 22,
+      "columns": [
+        "county",
+        "unemployed_2025",
+        "rate_2025",
+        "rate_2024",
+        "rate_2023",
+        "rate_2022"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-zaposlenost-i-pla-e",
+      "updated": "2026-11",
+      "size": 5888,
+      "files": {
+        "csv": {
+          "name": "hr-stopa-registrirane-nezaposlenosti-po-zupanijama_HR.csv",
+          "size": 1209
+        },
+        "xlsx": {
+          "name": "hr-stopa-registrirane-nezaposlenosti-po-zupanijama_HR.xlsx",
+          "size": 7724
         }
       }
     },

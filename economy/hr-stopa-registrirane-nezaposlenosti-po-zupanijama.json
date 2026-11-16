@@ -1,0 +1,232 @@
+{
+  "id": "hr-stopa-registrirane-nezaposlenosti-po-zupanijama",
+  "name": "Stopa registrirane nezaposlenosti po županijama",
+  "title": "Stopa registrirane nezaposlenosti po županijama",
+  "description": "Broj registriranih nezaposlenih i stopa registrirane nezaposlenosti (%) po županijama Hrvatske, stanje 31. ožujka 2022.–2025., prema Državnom zavodu za statistiku.",
+  "category": "economy",
+  "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-zaposlenost-i-pla-e",
+  "source_url": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-zaposlenost-i-pla-e",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "unemployed_2025",
+      "label": "Unemployed 2025",
+      "type": "number"
+    },
+    {
+      "key": "rate_2025",
+      "label": "Rate 2025",
+      "type": "number"
+    },
+    {
+      "key": "rate_2024",
+      "label": "Rate 2024",
+      "type": "number"
+    },
+    {
+      "key": "rate_2023",
+      "label": "Rate 2023",
+      "type": "number"
+    },
+    {
+      "key": "rate_2022",
+      "label": "Rate 2022",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "county": "Republika Hrvatska",
+      "unemployed_2025": 90729,
+      "rate_2025": 5.1,
+      "rate_2024": 6.4,
+      "rate_2023": 6.6,
+      "rate_2022": 7.6
+    },
+    {
+      "county": "Zagrebačka",
+      "unemployed_2025": 4246,
+      "rate_2025": 2.8,
+      "rate_2024": 4.1,
+      "rate_2023": 4.4,
+      "rate_2022": 4.9
+    },
+    {
+      "county": "Krapinsko-zagorska",
+      "unemployed_2025": 1597,
+      "rate_2025": 2.8,
+      "rate_2024": 4.7,
+      "rate_2023": 4.7,
+      "rate_2022": 4.9
+    },
+    {
+      "county": "Sisačko-moslavačka",
+      "unemployed_2025": 4825,
+      "rate_2025": 8.1,
+      "rate_2024": 13.2,
+      "rate_2023": 13.6,
+      "rate_2022": 14.7
+    },
+    {
+      "county": "Karlovačka",
+      "unemployed_2025": 1670,
+      "rate_2025": 3.5,
+      "rate_2024": 5.8,
+      "rate_2023": 5.9,
+      "rate_2022": 6.9
+    },
+    {
+      "county": "Varaždinska",
+      "unemployed_2025": 2301,
+      "rate_2025": 3.1,
+      "rate_2024": 3.2,
+      "rate_2023": 3.1,
+      "rate_2022": 3.2
+    },
+    {
+      "county": "Koprivničko-križevačka",
+      "unemployed_2025": 1401,
+      "rate_2025": 3.3,
+      "rate_2024": 5,
+      "rate_2023": 5.3,
+      "rate_2022": 5.6
+    },
+    {
+      "county": "Bjelovarsko-bilogorska",
+      "unemployed_2025": 2132,
+      "rate_2025": 5.3,
+      "rate_2024": 9.4,
+      "rate_2023": 9.2,
+      "rate_2022": 10.2
+    },
+    {
+      "county": "Primorsko-goranska",
+      "unemployed_2025": 4931,
+      "rate_2025": 3.9,
+      "rate_2024": 4.8,
+      "rate_2023": 5.4,
+      "rate_2022": 6.2
+    },
+    {
+      "county": "Ličko-senjska",
+      "unemployed_2025": 1156,
+      "rate_2025": 6.2,
+      "rate_2024": 8.2,
+      "rate_2023": 8.1,
+      "rate_2022": 10.2
+    },
+    {
+      "county": "Virovitičko-podravska",
+      "unemployed_2025": 2876,
+      "rate_2025": 10.3,
+      "rate_2024": 15,
+      "rate_2023": 15.3,
+      "rate_2022": 15.7
+    },
+    {
+      "county": "Požeško-slavonska",
+      "unemployed_2025": 1695,
+      "rate_2025": 6.9,
+      "rate_2024": 10.6,
+      "rate_2023": 10.7,
+      "rate_2022": 11.9
+    },
+    {
+      "county": "Brodsko-posavska",
+      "unemployed_2025": 4074,
+      "rate_2025": 7.7,
+      "rate_2024": 11.4,
+      "rate_2023": 12.2,
+      "rate_2022": 14.5
+    },
+    {
+      "county": "Zadarska",
+      "unemployed_2025": 3178,
+      "rate_2025": 4.5,
+      "rate_2024": 5.8,
+      "rate_2023": 5.3,
+      "rate_2022": 6.7
+    },
+    {
+      "county": "Osječko-baranjska",
+      "unemployed_2025": 11914,
+      "rate_2025": 10.5,
+      "rate_2024": 13.6,
+      "rate_2023": 13.5,
+      "rate_2022": 14.9
+    },
+    {
+      "county": "Šibensko-kninska",
+      "unemployed_2025": 3420,
+      "rate_2025": 8.5,
+      "rate_2024": 11.2,
+      "rate_2023": 10.9,
+      "rate_2022": 12.8
+    },
+    {
+      "county": "Vukovarsko-srijemska",
+      "unemployed_2025": 4435,
+      "rate_2025": 8,
+      "rate_2024": 11.7,
+      "rate_2023": 10.8,
+      "rate_2022": 13
+    },
+    {
+      "county": "Splitsko-dalmatinska",
+      "unemployed_2025": 15712,
+      "rate_2025": 8.2,
+      "rate_2024": 11.2,
+      "rate_2023": 11.8,
+      "rate_2022": 13.8
+    },
+    {
+      "county": "Istarska",
+      "unemployed_2025": 2780,
+      "rate_2025": 2.7,
+      "rate_2024": 3.1,
+      "rate_2023": 3.6,
+      "rate_2022": 4
+    },
+    {
+      "county": "Dubrovačko-neretvanska",
+      "unemployed_2025": 4129,
+      "rate_2025": 7.5,
+      "rate_2024": 9.4,
+      "rate_2023": 10.6,
+      "rate_2022": 12
+    },
+    {
+      "county": "Međimurska",
+      "unemployed_2025": 1961,
+      "rate_2025": 4.3,
+      "rate_2024": 4.9,
+      "rate_2023": 4.9,
+      "rate_2022": 4.5
+    },
+    {
+      "county": "Grad Zagreb",
+      "unemployed_2025": 10296,
+      "rate_2025": 2.7,
+      "rate_2024": 2.4,
+      "rate_2023": 2.6,
+      "rate_2022": 3.1
+    }
+  ],
+  "meta": {
+    "title": "Stopa registrirane nezaposlenosti po županijama - Free Download",
+    "description": "Broj registriranih nezaposlenih i stopa registrirane nezaposlenosti (%) po županijama Hrvatske, stanje 31. ožujka 2022.–2025., prema Državnom zavodu za statistiku. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stopa registrirane nezaposlenosti po županijama | ListBase",
+    "seo_description": "Download Stopa registrirane nezaposlenosti po županijama — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/statistika-u-nizu-zaposlenost-i-pla-e"
+    ]
+  }
+}
