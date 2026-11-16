@@ -1,0 +1,214 @@
+{
+  "id": "hr-smijenjeni-ministri-vlade-plenkovica",
+  "name": "Smijenjeni ministri Vlada Andreja Plenkovića",
+  "title": "Smijenjeni ministri Vlada Andreja Plenkovića",
+  "description": "Popis ministara koji su smijenjeni ili podnijeli ostavku u vladama Andreja Plenkovića, s ministarstvom, datumima i razlogom.",
+  "category": "politics",
+  "source": "https://hr.wikipedia.org/wiki/Popis_smijenjenih_ministara_Vlada_Andreja_Plenkovića",
+  "source_url": "https://hr.wikipedia.org/wiki/Popis_smijenjenih_ministara_Vlada_Andreja_Plenkovića",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "ministry",
+      "label": "Ministry",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "dismissal_date",
+      "label": "Dismissal Date",
+      "type": "string"
+    },
+    {
+      "key": "reason",
+      "label": "Reason",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "Vlaho Orepić",
+      "ministry": "Ministarstvo unutarnjih poslova",
+      "term_start": "22. siječnja 2016.",
+      "dismissal_date": "27. travnja 2017.",
+      "reason": "Smijenjeni nakon što su se, prateći skupnu odluku svoje stranke Most, složili s prijedlogom oporbe o izglasavanju nepovjerenja ministru financija Zdravku Mariću.",
+      "note": ""
+    },
+    {
+      "no": 2,
+      "name": "Ante Šprlje",
+      "ministry": "Ministarstvo pravosuđa",
+      "term_start": "22. siječnja 2016.",
+      "dismissal_date": "27. travnja 2017.",
+      "reason": "Smijenjeni nakon što su se, prateći skupnu odluku svoje stranke Most, složili s prijedlogom oporbe o izglasavanju nepovjerenja ministru financija Zdravku Mariću.",
+      "note": ""
+    },
+    {
+      "no": 3,
+      "name": "Slaven Dobrović",
+      "ministry": "Ministarstvo zaštite okoliša i energetike",
+      "term_start": "22. siječnja 2016.",
+      "dismissal_date": "27. travnja 2017.",
+      "reason": "Smijenjeni nakon što su se, prateći skupnu odluku svoje stranke Most, složili s prijedlogom oporbe o izglasavanju nepovjerenja ministru financija Zdravku Mariću.",
+      "note": ""
+    },
+    {
+      "no": 4,
+      "name": "Martina Dalić",
+      "ministry": "Ministarstvo gospodarstva",
+      "term_start": "19. listopada 2016.",
+      "dismissal_date": "14. svibnja 2018.",
+      "reason": "Dala je ostavku uslijed pritiska javnosti zbog afere Hotmail (zvane i afera Borg): kontroverznog pisanja zakona o sanaciji Agrokora.",
+      "note": ""
+    },
+    {
+      "no": 5,
+      "name": "Lovro Kuščević",
+      "ministry": "Ministarstvo uprave",
+      "term_start": "19. listopada 2016.",
+      "dismissal_date": "8. srpnja 2019.",
+      "reason": "Dao ostavku uslijed pristiska javnosti i opozicije zbog optužbe da je zlorabio položaje za imovinsku dobit.",
+      "note": ""
+    },
+    {
+      "no": 6,
+      "name": "Goran Marić",
+      "ministry": "Ministarstvo državne imovine",
+      "term_start": "19. listopada 2016.",
+      "dismissal_date": "15. srpnja 2019.",
+      "reason": "Podnio ostavku uslijed pritiska javnosti i istrage USKOK -a o navodnom mešetarenju s nekretninama.",
+      "note": ""
+    },
+    {
+      "no": 7,
+      "name": "Gabrijela Žalac",
+      "ministry": "Ministarstvo regionalnog razvoja i fondova Europske unije",
+      "term_start": "19. listopada 2016.",
+      "dismissal_date": "17. srpnja 2019.",
+      "reason": "Smijenjena uslijed rekonstrukcije Vlade. Bila je dio niza afera, poput afere Softver.",
+      "note": ""
+    },
+    {
+      "no": 8,
+      "name": "Tomislav Tolušić",
+      "ministry": "Ministarstvo poljoprivrede",
+      "term_start": "25. svibnja 2018.",
+      "dismissal_date": "17. srpnja 2019.",
+      "reason": "Smijenjen uslijed rekonstrukcije Vlade. Povezivan je s nizom afera o nekretninama i imovinskom karticom, te optužen u aferi Po babi i stričevima.",
+      "note": ""
+    },
+    {
+      "no": 9,
+      "name": "Nada Murganić",
+      "ministry": "Ministarstvo za demografiju, obitelj, mlade i socijalnu politiku",
+      "term_start": "19. listopada 2016.",
+      "dismissal_date": "17. srpnja 2019.",
+      "reason": "Smijenjena uslijed rekonstrukcije Vlade. Bila je dio niza afera, poput afere Paketići: darovni paketići za socijalno ugroženu djecu koji su završili u privatnom dječjem vrtiću.",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "Milan Kujundžić",
+      "ministry": "Ministarstvo zdravstva",
+      "term_start": "19. listopada 2016.",
+      "dismissal_date": "28. siječnja 2020.",
+      "reason": "Smijenjen zbog afere oko imovinske kartice i neprijavljene imovine.",
+      "note": ""
+    },
+    {
+      "no": 11,
+      "name": "Damir Krstičević",
+      "ministry": "Ministarstvo obrane",
+      "term_start": "19. listopada 2016.",
+      "dismissal_date": "7. svibnja 2020.",
+      "reason": "Podnio ostavku nakon pada vojnog školskog zrakoplova kod Zadra 2020. godine, u kojemu su poginula dva vojnika HV -a.",
+      "note": ""
+    },
+    {
+      "no": 12,
+      "name": "Darko Horvat",
+      "ministry": "Ministarstvo prostornog uređenja, graditeljstva i državne imovine",
+      "term_start": "23. srpnja 2020.",
+      "dismissal_date": "19. veljače 2022.",
+      "reason": "Smijenjen nakon USKOK-ove optužnice zbog malverzacija u dodjeli bespovratnih sredstava za razvoj malog i srednjeg poduzetništva na područjima nacionalnih manjina, poznato i kao dio afere Po babi i stričevima.",
+      "note": ""
+    },
+    {
+      "no": 13,
+      "name": "Josip Aladrović",
+      "ministry": "Ministarstvo rada i mirovinskog sustava",
+      "term_start": "23. srpnja 2020.",
+      "dismissal_date": "29. travnja 2022.",
+      "reason": "Napustio Vladu nakon što je USKOK podignuo optižnicu protiv njega kao dijela afere Po babi i stričevima: Aladrovića se teretilo za pogodovanje pri zapošljavanju u Hrvatskom zavodu za mirovinsko osiguranje.",
+      "note": ""
+    },
+    {
+      "no": 14,
+      "name": "Ivan Paladina",
+      "ministry": "Ministarstvo prostornog uređenja, graditeljstva i državne imovine",
+      "term_start": "9. ožujka 2022.",
+      "dismissal_date": "17. siječnja 2023.",
+      "reason": "Napustio je Vladu zbog navodnog pritiska javnosti uslijed spore obnove područja pogođenih potresima 2020. godine na područjima Petrinje, Zagreba i njihovih okolica.",
+      "note": ""
+    },
+    {
+      "no": 15,
+      "name": "Mario Banožić",
+      "ministry": "Ministarstvo obrane",
+      "term_start": "23. srpnja 2020.",
+      "dismissal_date": "11. studenog 2023.",
+      "reason": "Izvanredno smijenjen zbog prometne nesreće u kojoj je smrtno stradala jedna osoba; Banožića se tereti da je uzrokovao nesreću.",
+      "note": ""
+    },
+    {
+      "no": 16,
+      "name": "Vili Beroš",
+      "ministry": "Ministarstvo zdravstva",
+      "term_start": "31. siječnja 2024.",
+      "dismissal_date": "15. studenog 2024.",
+      "reason": "Smijenjen uslijed istrage Ureda europskog javnog tužitelja (EPPO) zbog sumnji u korupciju u javnoj nabavi.",
+      "note": ""
+    },
+    {
+      "no": 17,
+      "name": "Josip Dabro",
+      "ministry": "Ministarstvo poljoprivrede, šumarstva i ribarstva",
+      "term_start": "17. svibnja 2024.",
+      "dismissal_date": "18. siječnja 2025.",
+      "reason": "Dao ostavku nakon curenja u javnost videa kako iz pištolja puca kroz otvoreni prozor automobila dok ga druga osoba vozi naseljenim mjestom.",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Smijenjeni ministri Vlada Andreja Plenkovića - Free Download",
+    "description": "Popis ministara koji su smijenjeni ili podnijeli ostavku u vladama Andreja Plenkovića, s ministarstvom, datumima i razlogom. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Smijenjeni ministri Vlada Andreja Plenkovića | ListBase",
+    "seo_description": "Download Smijenjeni ministri Vlada Andreja Plenkovića — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Popis_smijenjenih_ministara_Vlada_Andreja_Plenkovića"
+    ]
+  }
+}

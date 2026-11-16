@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-16T02:09:06.335Z",
-  "total_datasets": 507,
-  "total_records": 831447,
+  "generated": "2026-11-16T02:09:15.270Z",
+  "total_datasets": 508,
+  "total_records": 831464,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "reference",
@@ -4382,6 +4382,34 @@
         "xlsx": {
           "name": "hr-predsjednici-vlade_HR.xlsx",
           "size": 8921
+        }
+      }
+    },
+    {
+      "id": "hr-smijenjeni-ministri-vlade-plenkovica",
+      "name": "Smijenjeni ministri Vlada Andreja Plenkovića",
+      "category": "politics",
+      "record_count": 17,
+      "columns": [
+        "no",
+        "name",
+        "ministry",
+        "term_start",
+        "dismissal_date",
+        "reason",
+        "note"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Popis_smijenjenih_ministara_Vlada_Andreja_Plenkovića",
+      "updated": "2026-11",
+      "size": 8529,
+      "files": {
+        "csv": {
+          "name": "hr-smijenjeni-ministri-vlade-plenkovica_HR.csv",
+          "size": 4317
+        },
+        "xlsx": {
+          "name": "hr-smijenjeni-ministri-vlade-plenkovica_HR.xlsx",
+          "size": 8883
         }
       }
     },
