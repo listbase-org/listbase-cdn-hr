@@ -1,0 +1,376 @@
+{
+  "id": "hr-doseljeni-i-odseljeni-po-zemljama",
+  "name": "Doseljeni i odseljeni stanovnici prema zemlji podrijetla/odredišta",
+  "title": "Doseljeni i odseljeni stanovnici prema zemlji podrijetla/odredišta",
+  "description": "Vanjska migracija stanovništva Republike Hrvatske: broj doseljenih i odseljenih osoba prema zemlji podrijetla odnosno odredišta u 2024. i 2025., prema DZS-u.",
+  "category": "society",
+  "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-stanovni-tvo",
+  "source_url": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-stanovni-tvo",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "immigrants_2025",
+      "label": "Immigrants 2025",
+      "type": "number"
+    },
+    {
+      "key": "emigrants_2025",
+      "label": "Emigrants 2025",
+      "type": "number"
+    },
+    {
+      "key": "net_migration_2025",
+      "label": "Net Migration 2025",
+      "type": "number"
+    },
+    {
+      "key": "immigrants_2024",
+      "label": "Immigrants 2024",
+      "type": "number"
+    },
+    {
+      "key": "emigrants_2024",
+      "label": "Emigrants 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Austrija",
+      "continent": "Europa",
+      "immigrants_2025": 2033,
+      "emigrants_2025": 2053,
+      "net_migration_2025": -20,
+      "immigrants_2024": 1429,
+      "emigrants_2024": 3181
+    },
+    {
+      "country": "Belgija",
+      "continent": "Europa",
+      "immigrants_2025": 137,
+      "emigrants_2025": 95,
+      "net_migration_2025": 42,
+      "immigrants_2024": 113,
+      "emigrants_2024": 141
+    },
+    {
+      "country": "Bugarska",
+      "continent": "Europa",
+      "immigrants_2025": 183,
+      "emigrants_2025": 23,
+      "net_migration_2025": 160,
+      "immigrants_2024": 156,
+      "emigrants_2024": 22
+    },
+    {
+      "country": "Cipar",
+      "continent": "Europa",
+      "immigrants_2025": 11,
+      "emigrants_2025": 2,
+      "net_migration_2025": 9,
+      "immigrants_2024": 9,
+      "emigrants_2024": 9
+    },
+    {
+      "country": "Češka",
+      "continent": "Europa",
+      "immigrants_2025": 209,
+      "emigrants_2025": 34,
+      "net_migration_2025": 175,
+      "immigrants_2024": 187,
+      "emigrants_2024": 73
+    },
+    {
+      "country": "Danska",
+      "continent": "Europa",
+      "immigrants_2025": 100,
+      "emigrants_2025": 73,
+      "net_migration_2025": 27,
+      "immigrants_2024": 97,
+      "emigrants_2024": 115
+    },
+    {
+      "country": "Estonija",
+      "continent": "Europa",
+      "immigrants_2025": 16,
+      "emigrants_2025": 2,
+      "net_migration_2025": 14,
+      "immigrants_2024": 8,
+      "emigrants_2024": 3
+    },
+    {
+      "country": "Finska",
+      "continent": "Europa",
+      "immigrants_2025": 22,
+      "emigrants_2025": 8,
+      "net_migration_2025": 14,
+      "immigrants_2024": 17,
+      "emigrants_2024": 15
+    },
+    {
+      "country": "Francuska",
+      "continent": "Europa",
+      "immigrants_2025": 241,
+      "emigrants_2025": 76,
+      "net_migration_2025": 165,
+      "immigrants_2024": 268,
+      "emigrants_2024": 178
+    },
+    {
+      "country": "Grčka",
+      "continent": "Europa",
+      "immigrants_2025": 21,
+      "emigrants_2025": 13,
+      "net_migration_2025": 8,
+      "immigrants_2024": 21,
+      "emigrants_2024": 5
+    },
+    {
+      "country": "Irska",
+      "continent": "Europa",
+      "immigrants_2025": 686,
+      "emigrants_2025": 269,
+      "net_migration_2025": 417,
+      "immigrants_2024": 496,
+      "emigrants_2024": 425
+    },
+    {
+      "country": "Italija",
+      "continent": "Europa",
+      "immigrants_2025": 633,
+      "emigrants_2025": 323,
+      "net_migration_2025": 310,
+      "immigrants_2024": 625,
+      "emigrants_2024": 551
+    },
+    {
+      "country": "Latvija",
+      "continent": "Europa",
+      "immigrants_2025": 14,
+      "emigrants_2025": 4,
+      "net_migration_2025": 10,
+      "immigrants_2024": 16,
+      "emigrants_2024": 4
+    },
+    {
+      "country": "Litva",
+      "continent": "Europa",
+      "immigrants_2025": 28,
+      "emigrants_2025": 1,
+      "net_migration_2025": 27,
+      "immigrants_2024": 17,
+      "emigrants_2024": 15
+    },
+    {
+      "country": "Luksemburg",
+      "continent": "Europa",
+      "immigrants_2025": 45,
+      "emigrants_2025": 40,
+      "net_migration_2025": 5,
+      "immigrants_2024": 34,
+      "emigrants_2024": 34
+    },
+    {
+      "country": "Mađarska",
+      "continent": "Europa",
+      "immigrants_2025": 246,
+      "emigrants_2025": 31,
+      "net_migration_2025": 215,
+      "immigrants_2024": 217,
+      "emigrants_2024": 48
+    },
+    {
+      "country": "Malta",
+      "continent": "Europa",
+      "immigrants_2025": 21,
+      "emigrants_2025": 15,
+      "net_migration_2025": 6,
+      "immigrants_2024": 12,
+      "emigrants_2024": 7
+    },
+    {
+      "country": "Nizozemska",
+      "continent": "Europa",
+      "immigrants_2025": 303,
+      "emigrants_2025": 223,
+      "net_migration_2025": 80,
+      "immigrants_2024": 237,
+      "emigrants_2024": 305
+    },
+    {
+      "country": "Njemačka",
+      "continent": "Europa",
+      "immigrants_2025": 9628,
+      "emigrants_2025": 6238,
+      "net_migration_2025": 3390,
+      "immigrants_2024": 7563,
+      "emigrants_2024": 8233
+    },
+    {
+      "country": "Poljska",
+      "continent": "Europa",
+      "immigrants_2025": 205,
+      "emigrants_2025": 34,
+      "net_migration_2025": 171,
+      "immigrants_2024": 215,
+      "emigrants_2024": 48
+    },
+    {
+      "country": "Portugal",
+      "continent": "Europa",
+      "immigrants_2025": 52,
+      "emigrants_2025": 14,
+      "net_migration_2025": 38,
+      "immigrants_2024": 40,
+      "emigrants_2024": 24
+    },
+    {
+      "country": "Rumunjska",
+      "continent": "Europa",
+      "immigrants_2025": 132,
+      "emigrants_2025": 22,
+      "net_migration_2025": 110,
+      "immigrants_2024": 143,
+      "emigrants_2024": 32
+    },
+    {
+      "country": "Slovačka",
+      "continent": "Europa",
+      "immigrants_2025": 148,
+      "emigrants_2025": 29,
+      "net_migration_2025": 119,
+      "immigrants_2024": 161,
+      "emigrants_2024": 30
+    },
+    {
+      "country": "Slovenija",
+      "continent": "Europa",
+      "immigrants_2025": 1152,
+      "emigrants_2025": 371,
+      "net_migration_2025": 781,
+      "immigrants_2024": 1140,
+      "emigrants_2024": 450
+    },
+    {
+      "country": "Španjolska",
+      "continent": "Europa",
+      "immigrants_2025": 173,
+      "emigrants_2025": 87,
+      "net_migration_2025": 86,
+      "immigrants_2024": 134,
+      "emigrants_2024": 95
+    },
+    {
+      "country": "Švedska",
+      "continent": "Europa",
+      "immigrants_2025": 382,
+      "emigrants_2025": 151,
+      "net_migration_2025": 231,
+      "immigrants_2024": 367,
+      "emigrants_2024": 323
+    },
+    {
+      "country": "Bosna i Hercegovina",
+      "continent": "Europa",
+      "immigrants_2025": 6306,
+      "emigrants_2025": 4988,
+      "net_migration_2025": 1318,
+      "immigrants_2024": 7940,
+      "emigrants_2024": 5561
+    },
+    {
+      "country": "Sjeverna Makedonija3)",
+      "continent": "Europa",
+      "immigrants_2025": 1620,
+      "emigrants_2025": 1260,
+      "net_migration_2025": 360,
+      "immigrants_2024": 2117,
+      "emigrants_2024": 1119
+    },
+    {
+      "country": "Norveška",
+      "continent": "Europa",
+      "immigrants_2025": 162,
+      "emigrants_2025": 97,
+      "net_migration_2025": 65,
+      "immigrants_2024": 134,
+      "emigrants_2024": 151
+    },
+    {
+      "country": "Srbija",
+      "continent": "Europa",
+      "immigrants_2025": 4275,
+      "emigrants_2025": 3954,
+      "net_migration_2025": 321,
+      "immigrants_2024": 5525,
+      "emigrants_2024": 4026
+    },
+    {
+      "country": "Švicarska",
+      "continent": "Europa",
+      "immigrants_2025": 932,
+      "emigrants_2025": 913,
+      "net_migration_2025": 19,
+      "immigrants_2024": 741,
+      "emigrants_2024": 1304
+    },
+    {
+      "country": "Ujedinjena Kraljevina",
+      "continent": "Europa",
+      "immigrants_2025": 384,
+      "emigrants_2025": 211,
+      "net_migration_2025": 173,
+      "immigrants_2024": 331,
+      "emigrants_2024": 365
+    },
+    {
+      "country": "Kanada",
+      "continent": "Sjeverna i Srednja Amerika",
+      "immigrants_2025": 315,
+      "emigrants_2025": 95,
+      "net_migration_2025": 220,
+      "immigrants_2024": 312,
+      "emigrants_2024": 176
+    },
+    {
+      "country": "SAD",
+      "continent": "Sjeverna i Srednja Amerika",
+      "immigrants_2025": 571,
+      "emigrants_2025": 252,
+      "net_migration_2025": 319,
+      "immigrants_2024": 527,
+      "emigrants_2024": 388
+    },
+    {
+      "country": "Australija",
+      "continent": "Oceanija",
+      "immigrants_2025": 222,
+      "emigrants_2025": 82,
+      "net_migration_2025": 140,
+      "immigrants_2024": 254,
+      "emigrants_2024": 171
+    }
+  ],
+  "meta": {
+    "title": "Doseljeni i odseljeni stanovnici prema zemlji podrijetla/odredišta - Free Download",
+    "description": "Vanjska migracija stanovništva Republike Hrvatske: broj doseljenih i odseljenih osoba prema zemlji podrijetla odnosno odredišta u 2024. i 2025., prema DZS-u. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Doseljeni i odseljeni stanovnici prema zemlji podrijetla/odredišta | ListBase",
+    "seo_description": "Download Doseljeni i odseljeni stanovnici prema zemlji podrijetla/odredišta — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/statistika-u-nizu-stanovni-tvo"
+    ]
+  }
+}

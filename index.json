@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-15T02:08:37.570Z",
-  "total_datasets": 504,
-  "total_records": 831376,
+  "generated": "2026-11-16T02:08:49.818Z",
+  "total_datasets": 505,
+  "total_records": 831411,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -11472,6 +11472,34 @@
         "xlsx": {
           "name": "hr-zvijezdja-po-povrsini_HR.xlsx",
           "size": 12979
+        }
+      }
+    },
+    {
+      "id": "hr-doseljeni-i-odseljeni-po-zemljama",
+      "name": "Doseljeni i odseljeni stanovnici prema zemlji podrijetla/odredišta",
+      "category": "society",
+      "record_count": 35,
+      "columns": [
+        "country",
+        "continent",
+        "immigrants_2025",
+        "emigrants_2025",
+        "net_migration_2025",
+        "immigrants_2024",
+        "emigrants_2024"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-stanovni-tvo",
+      "updated": "2026-11",
+      "size": 9927,
+      "files": {
+        "csv": {
+          "name": "hr-doseljeni-i-odseljeni-po-zemljama_HR.csv",
+          "size": 1867
+        },
+        "xlsx": {
+          "name": "hr-doseljeni-i-odseljeni-po-zemljama_HR.xlsx",
+          "size": 8347
         }
       }
     },
