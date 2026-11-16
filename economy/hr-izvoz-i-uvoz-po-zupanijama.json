@@ -1,0 +1,240 @@
+{
+  "id": "hr-izvoz-i-uvoz-po-zupanijama",
+  "name": "Izvoz i uvoz robe po županijama",
+  "title": "Izvoz i uvoz robe po županijama",
+  "description": "Izvoz i uvoz robe Republike Hrvatske po županijama u 2024. i 2025. (u tisućama eura) te saldo robne razmjene u 2025., prema Državnom zavodu za statistiku.",
+  "category": "economy",
+  "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-robna-razmjena-s-inozemstvom",
+  "source_url": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-robna-razmjena-s-inozemstvom",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "export_2025",
+      "label": "Export 2025",
+      "type": "number"
+    },
+    {
+      "key": "import_2025",
+      "label": "Import 2025",
+      "type": "number"
+    },
+    {
+      "key": "balance_2025",
+      "label": "Balance 2025",
+      "type": "number"
+    },
+    {
+      "key": "export_2024",
+      "label": "Export 2024",
+      "type": "number"
+    },
+    {
+      "key": "import_2024",
+      "label": "Import 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "county": "Republika Hrvatska",
+      "export_2025": 25241764,
+      "import_2025": 45231804,
+      "balance_2025": -19990040,
+      "export_2024": 24054720,
+      "import_2024": 42869924
+    },
+    {
+      "county": "Zagrebačka",
+      "export_2025": 1930300,
+      "import_2025": 4406860,
+      "balance_2025": -2476560,
+      "export_2024": 1610786,
+      "import_2024": 4033082
+    },
+    {
+      "county": "Krapinsko-zagorska",
+      "export_2025": 788010,
+      "import_2025": 774015,
+      "balance_2025": 13995,
+      "export_2024": 779179,
+      "import_2024": 762030
+    },
+    {
+      "county": "Sisačko-moslavačka",
+      "export_2025": 501217,
+      "import_2025": 360182,
+      "balance_2025": 141035,
+      "export_2024": 564532,
+      "import_2024": 390131
+    },
+    {
+      "county": "Karlovačka",
+      "export_2025": 484445,
+      "import_2025": 432624,
+      "balance_2025": 51821,
+      "export_2024": 461558,
+      "import_2024": 411776
+    },
+    {
+      "county": "Varaždinska",
+      "export_2025": 1248209,
+      "import_2025": 1317280,
+      "balance_2025": -69071,
+      "export_2024": 1203076,
+      "import_2024": 1228178
+    },
+    {
+      "county": "Koprivničko-križevačka",
+      "export_2025": 640422,
+      "import_2025": 497611,
+      "balance_2025": 142811,
+      "export_2024": 607292,
+      "import_2024": 465397
+    },
+    {
+      "county": "Bjelovarsko-bilogorska",
+      "export_2025": 311513,
+      "import_2025": 359280,
+      "balance_2025": -47767,
+      "export_2024": 274794,
+      "import_2024": 319433
+    },
+    {
+      "county": "Primorsko-goranska",
+      "export_2025": 807503,
+      "import_2025": 1597180,
+      "balance_2025": -789677,
+      "export_2024": 698957,
+      "import_2024": 1426350
+    },
+    {
+      "county": "Ličko-senjska",
+      "export_2025": 83875,
+      "import_2025": 30471,
+      "balance_2025": 53404,
+      "export_2024": 79081,
+      "import_2024": 29013
+    },
+    {
+      "county": "Virovitičko-podravska",
+      "export_2025": 226672,
+      "import_2025": 112785,
+      "balance_2025": 113887,
+      "export_2024": 212805,
+      "import_2024": 114737
+    },
+    {
+      "county": "Požeško-slavonska",
+      "export_2025": 188211,
+      "import_2025": 148310,
+      "balance_2025": 39901,
+      "export_2024": 176477,
+      "import_2024": 124351
+    },
+    {
+      "county": "Brodsko-posavska",
+      "export_2025": 721062,
+      "import_2025": 572541,
+      "balance_2025": 148521,
+      "export_2024": 578760,
+      "import_2024": 505141
+    },
+    {
+      "county": "Zadarska",
+      "export_2025": 472415,
+      "import_2025": 461653,
+      "balance_2025": 10762,
+      "export_2024": 467212,
+      "import_2024": 438083
+    },
+    {
+      "county": "Osječko-baranjska",
+      "export_2025": 795214,
+      "import_2025": 845704,
+      "balance_2025": -50490,
+      "export_2024": 851482,
+      "import_2024": 896664
+    },
+    {
+      "county": "Šibensko-kninska",
+      "export_2025": 137934,
+      "import_2025": 196823,
+      "balance_2025": -58889,
+      "export_2024": 135468,
+      "import_2024": 178333
+    },
+    {
+      "county": "Vukovarsko-srijemska",
+      "export_2025": 519017,
+      "import_2025": 569194,
+      "balance_2025": -50177,
+      "export_2024": 675564,
+      "import_2024": 533839
+    },
+    {
+      "county": "Splitsko-dalmatinska",
+      "export_2025": 725669,
+      "import_2025": 1651398,
+      "balance_2025": -925729,
+      "export_2024": 696274,
+      "import_2024": 1580919
+    },
+    {
+      "county": "Istarska",
+      "export_2025": 835157,
+      "import_2025": 1072877,
+      "balance_2025": -237720,
+      "export_2024": 740192,
+      "import_2024": 1047559
+    },
+    {
+      "county": "Dubrovačko-neretvanska",
+      "export_2025": 194598,
+      "import_2025": 109304,
+      "balance_2025": 85294,
+      "export_2024": 201885,
+      "import_2024": 104141
+    },
+    {
+      "county": "Međimurska",
+      "export_2025": 1085023,
+      "import_2025": 968145,
+      "balance_2025": 116878,
+      "export_2024": 1028420,
+      "import_2024": 902682
+    },
+    {
+      "county": "Grad Zagreb",
+      "export_2025": 8435944,
+      "import_2025": 22947469,
+      "balance_2025": -14511525,
+      "export_2024": 7906105,
+      "import_2024": 21740571
+    },
+    {
+      "county": "Neraspoređeno",
+      "export_2025": 4109354,
+      "import_2025": 5800099,
+      "balance_2025": -1690745,
+      "export_2024": 4104822,
+      "import_2024": 5637513
+    }
+  ],
+  "meta": {
+    "title": "Izvoz i uvoz robe po županijama - Free Download",
+    "description": "Izvoz i uvoz robe Republike Hrvatske po županijama u 2024. i 2025. (u tisućama eura) te saldo robne razmjene u 2025., prema Državnom zavodu za statistiku. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Izvoz i uvoz robe po županijama | ListBase",
+    "seo_description": "Download Izvoz i uvoz robe po županijama — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/statistika-u-nizu-robna-razmjena-s-inozemstvom"
+    ]
+  }
+}

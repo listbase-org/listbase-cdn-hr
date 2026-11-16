@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-16T02:08:49.818Z",
-  "total_datasets": 505,
-  "total_records": 831411,
+  "generated": "2026-11-16T02:08:57.878Z",
+  "total_datasets": 506,
+  "total_records": 831434,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -920,6 +920,33 @@
         "xlsx": {
           "name": "hr-ekonomisti_HR.xlsx",
           "size": 6966
+        }
+      }
+    },
+    {
+      "id": "hr-izvoz-i-uvoz-po-zupanijama",
+      "name": "Izvoz i uvoz robe po županijama",
+      "category": "economy",
+      "record_count": 23,
+      "columns": [
+        "county",
+        "export_2025",
+        "import_2025",
+        "balance_2025",
+        "export_2024",
+        "import_2024"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-robna-razmjena-s-inozemstvom",
+      "updated": "2026-11",
+      "size": 6427,
+      "files": {
+        "csv": {
+          "name": "hr-izvoz-i-uvoz-po-zupanijama_HR.csv",
+          "size": 1599
+        },
+        "xlsx": {
+          "name": "hr-izvoz-i-uvoz-po-zupanijama_HR.xlsx",
+          "size": 8045
         }
       }
     },
