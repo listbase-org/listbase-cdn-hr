@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-17T02:23:59.505Z",
-  "total_datasets": 511,
-  "total_records": 831865,
+  "generated": "2026-11-17T02:24:08.311Z",
+  "total_datasets": 512,
+  "total_records": 831878,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -3784,6 +3784,32 @@
         "xlsx": {
           "name": "hr-najduze-hrvatske-rijeci_HR.xlsx",
           "size": 8785
+        }
+      }
+    },
+    {
+      "id": "hr-najstariji-kajkavski-zapisi",
+      "name": "Najstariji kajkavski zapisi",
+      "category": "language",
+      "record_count": 13,
+      "columns": [
+        "author",
+        "record",
+        "location",
+        "dating",
+        "script"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Kajkavsko_narječje",
+      "updated": "2026-11",
+      "size": 4392,
+      "files": {
+        "csv": {
+          "name": "hr-najstariji-kajkavski-zapisi_HR.csv",
+          "size": 1579
+        },
+        "xlsx": {
+          "name": "hr-najstariji-kajkavski-zapisi_HR.xlsx",
+          "size": 7829
         }
       }
     },

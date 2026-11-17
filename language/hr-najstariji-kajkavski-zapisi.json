@@ -1,0 +1,142 @@
+{
+  "id": "hr-najstariji-kajkavski-zapisi",
+  "name": "Najstariji kajkavski zapisi",
+  "title": "Najstariji kajkavski zapisi",
+  "description": "Najstariji pisani spomenici kajkavskoga narječja s autorom, nazivom zapisa, lokacijom, datacijom i pismom.",
+  "category": "language",
+  "source": "https://hr.wikipedia.org/wiki/Kajkavsko_narječje",
+  "source_url": "https://hr.wikipedia.org/wiki/Kajkavsko_narječje",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "author",
+      "label": "Author",
+      "type": "string"
+    },
+    {
+      "key": "record",
+      "label": "Record",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "dating",
+      "label": "Dating",
+      "type": "string"
+    },
+    {
+      "key": "script",
+      "label": "Script",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "author": "Juraj Vuković",
+      "record": "Klimpuški rukopis",
+      "location": "",
+      "dating": "1564.",
+      "script": "bosančica"
+    },
+    {
+      "author": "Ivanuš Pergošić",
+      "record": "Decretum koteroga je Verbeci Ištvan dijački popisal",
+      "location": "Nedelišće",
+      "dating": "1574.",
+      "script": "latinica"
+    },
+    {
+      "author": "Antun Vramec",
+      "record": "Kronika vezda znovič spravljena kratka slovenskim jezikom po D. Antolu Pope Vramce kanoniku zagrebečkom",
+      "location": "Ljubljana",
+      "dating": "1578.",
+      "script": "latinica"
+    },
+    {
+      "author": "Antun Vramec",
+      "record": "Postilla po nedelne i po godovne dni na vse leto vezda znovič spravlena po Antonu Vramcu Svetoga pisma doktoru i cirkve varaždinske plebanušu",
+      "location": "",
+      "dating": "1586.",
+      "script": "latinica"
+    },
+    {
+      "author": "Nikola Krajačević",
+      "record": "Molitvene knjižice vsem Hristuševem vernem slovenskoga jezika, pristojne i hasnovite",
+      "location": "",
+      "dating": "1640. (2. izdanje, 1. izdanje izgubljeno)",
+      "script": "latinica"
+    },
+    {
+      "author": "Juraj Ratkaj Velikotaborski",
+      "record": "Kriposti Ferdinanda II.",
+      "location": "",
+      "dating": "1640.",
+      "script": "latinica"
+    },
+    {
+      "author": "Ana Katarina Zrinski",
+      "record": "Putni tovaruš",
+      "location": "Venecija, Ljubljana",
+      "dating": "1661., pretisak 1687. i 1715.",
+      "script": "latinica"
+    },
+    {
+      "author": "Juraj Habdelić",
+      "record": "Zercalo Mariansko",
+      "location": "",
+      "dating": "1662.",
+      "script": "latinica"
+    },
+    {
+      "author": "Juraj Habdelić",
+      "record": "Dictionar, ili reči slovenske zvekšega v kup zebrane, v red postavljene i dijačkemi zlahkotene",
+      "location": "",
+      "dating": "1670.",
+      "script": "latinica"
+    },
+    {
+      "author": "Juraj Habdelić",
+      "record": "Pervi otca našega Adama greh",
+      "location": "",
+      "dating": "1674.",
+      "script": "latinica"
+    },
+    {
+      "author": "Ivan Belostenec",
+      "record": "Gazophylacium seu Latino-Illyricorum onomatum aerarium",
+      "location": "",
+      "dating": "1675. (rukopis), 1740. (tiskano)",
+      "script": "latinica"
+    },
+    {
+      "author": "Juraj Mulih",
+      "record": "Regule dvorjanstva Abecevica Posel apoštolski Škola Kristuševa Nebeska hrana Duhovna pisanica",
+      "location": "",
+      "dating": "1742. – 1754.",
+      "script": ""
+    },
+    {
+      "author": "Tituš Brezovački",
+      "record": "Sv. Aleksi Matijaš Grabancijaš dijak Diogeneš ili sluga dveh zgubljeneh bratov",
+      "location": "Zagreb",
+      "dating": "1804. – 1823.",
+      "script": ""
+    }
+  ],
+  "meta": {
+    "title": "Najstariji kajkavski zapisi - Free Download",
+    "description": "Najstariji pisani spomenici kajkavskoga narječja s autorom, nazivom zapisa, lokacijom, datacijom i pismom. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najstariji kajkavski zapisi | ListBase",
+    "seo_description": "Download Najstariji kajkavski zapisi — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Kajkavsko_narječje"
+    ]
+  }
+}
