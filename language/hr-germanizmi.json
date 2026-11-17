@@ -1,0 +1,1341 @@
+{
+  "id": "hr-germanizmi",
+  "name": "Germanizmi u hrvatskom jeziku",
+  "title": "Germanizmi u hrvatskom jeziku",
+  "description": "Riječi njemačkoga podrijetla (germanizmi) u hrvatskom jeziku i govorima, s izvornom njemačkom riječi i značenjem.",
+  "category": "language",
+  "source": "https://hr.wikipedia.org/wiki/Germanizam",
+  "source_url": "https://hr.wikipedia.org/wiki/Germanizam",
+  "updated": "2026-11",
+  "record_count": 260,
+  "columns": [
+    {
+      "key": "word",
+      "label": "Word",
+      "type": "string"
+    },
+    {
+      "key": "german_source",
+      "label": "German Source",
+      "type": "string"
+    },
+    {
+      "key": "meaning",
+      "label": "Meaning",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "word": "ablendati",
+      "german_source": "abblenden",
+      "meaning": "prigušiti svjetlo, usp. die Blende – zaslon"
+    },
+    {
+      "word": "ajnc",
+      "german_source": "die Eins",
+      "meaning": "broj jedan (1)"
+    },
+    {
+      "word": "ajeršpajz",
+      "german_source": "das Ei",
+      "meaning": "jaje (množina Eier – jaja) + die Speise – jelo – kajgana"
+    },
+    {
+      "word": "akšenka",
+      "german_source": "der Achsschenkel",
+      "meaning": "rukavac ili članak osovine"
+    },
+    {
+      "word": "aktentaška Aktentasche",
+      "german_source": "aktovka ili ručna torba",
+      "meaning": ""
+    },
+    {
+      "word": "ancug",
+      "german_source": "der Anzug",
+      "meaning": "odijelo"
+    },
+    {
+      "word": "anlaser",
+      "german_source": "der Anlasser",
+      "meaning": "pokretač motora. Na hrvatskom zbog metateze i alnaser"
+    },
+    {
+      "word": "aufenger",
+      "german_source": "der Aufhänger",
+      "meaning": "vješalica, petlja (na odjeći da se može objesiti)"
+    },
+    {
+      "word": "auspuh",
+      "german_source": "der Auspuff",
+      "meaning": "ispušna cijev, ispušnik"
+    },
+    {
+      "word": "bajc ili pajc",
+      "german_source": "der Beiz",
+      "meaning": "namakati u sredstvo za skladištenje/čuvanje (drvo ili hranu)"
+    },
+    {
+      "word": "bauštelac",
+      "german_source": "od riječi die Baustelle",
+      "meaning": "gradilište – radnik na gradilištu"
+    },
+    {
+      "word": "badecimer",
+      "german_source": "das Badezimmer",
+      "meaning": "kupaonica"
+    },
+    {
+      "word": "bedinerica",
+      "german_source": "die Bedienerin",
+      "meaning": "spremačica"
+    },
+    {
+      "word": "beštek",
+      "german_source": "das Besteck",
+      "meaning": "pribor za jelo"
+    },
+    {
+      "word": "bina",
+      "german_source": "die Bühne",
+      "meaning": "pozornica"
+    },
+    {
+      "word": "bišobrot",
+      "german_source": "das Bischofsbrot",
+      "meaning": "bišobrot (kruh u koji se stavljaju grožđice i želatinasti bomboni)"
+    },
+    {
+      "word": "blic",
+      "german_source": "der Blitz",
+      "meaning": "bljesak, bljeskalica"
+    },
+    {
+      "word": "bluza",
+      "german_source": "die Bluse",
+      "meaning": ""
+    },
+    {
+      "word": "borer",
+      "german_source": "der Bohrer",
+      "meaning": "svrdlo"
+    },
+    {
+      "word": "bormašina",
+      "german_source": "die Bohrmaschine",
+      "meaning": "bušilica"
+    },
+    {
+      "word": "bremza",
+      "german_source": "die Bremse",
+      "meaning": "kočnica"
+    },
+    {
+      "word": "brenati",
+      "german_source": "brennen",
+      "meaning": "(primarno značenje pržiti) urediti kosu škarama za kovrčanje"
+    },
+    {
+      "word": "brener",
+      "german_source": "der Brenner",
+      "meaning": "plinski plamenik; željezna naprava za kovrčanje kose"
+    },
+    {
+      "word": "bruh",
+      "german_source": "der Bruch",
+      "meaning": "kila, primarno značenje pukotina, odn. prelom, lom"
+    },
+    {
+      "word": "buhtla",
+      "german_source": "die Buchtel (austrijski)",
+      "meaning": "vrsta peciva, napuhnjača"
+    },
+    {
+      "word": "cajger",
+      "german_source": "der Zeiger",
+      "meaning": "kazaljka na satu"
+    },
+    {
+      "word": "cajtnot",
+      "german_source": "die Zeitnot",
+      "meaning": "vremenska stiska"
+    },
+    {
+      "word": "cange",
+      "german_source": "die Zange",
+      "meaning": "kliješta"
+    },
+    {
+      "word": "canšteher",
+      "german_source": "der Zahnstocher",
+      "meaning": "čačkalica"
+    },
+    {
+      "word": "ceh",
+      "german_source": "die Zeche",
+      "meaning": "ceh; račun"
+    },
+    {
+      "word": "ceker ili ceger",
+      "german_source": "der Zecker, Zegger ili Zöger (austrijski)",
+      "meaning": "košara ili torba za kupovinu"
+    },
+    {
+      "word": "ciferšlus",
+      "german_source": "der Ziehverschluss",
+      "meaning": "patentni zatvarač"
+    },
+    {
+      "word": "cigla",
+      "german_source": "die Ziegel",
+      "meaning": "puna opeka"
+    },
+    {
+      "word": "cimer",
+      "german_source": "das Zimmer",
+      "meaning": "soba (također kod nas poznati germanizam cimer fraj)"
+    },
+    {
+      "word": "cug",
+      "german_source": "der Zug",
+      "meaning": "povlak (u jednom cugu, ili od cuga – naiskap) na njemačkom također u značenju vlak"
+    },
+    {
+      "word": "curikati/curiknuti",
+      "german_source": "vući natrag (od pridjeva zurück",
+      "meaning": "natrag)"
+    },
+    {
+      "word": "cvikati",
+      "german_source": "zwicken",
+      "meaning": "poništiti voznu kartu, primarno značenje uštinuti"
+    },
+    {
+      "word": "cviker(i)",
+      "german_source": "der Zwicker",
+      "meaning": "naočale"
+    },
+    {
+      "word": "deka",
+      "german_source": "die Decke",
+      "meaning": "pokrivač ili plafon/strop"
+    },
+    {
+      "word": "dihtung",
+      "german_source": "die Dichtung brtva, usp. glagol dihtati",
+      "meaning": "dichten u značenju brtviti, zaptivati"
+    },
+    {
+      "word": "dinstati",
+      "german_source": "dünsten",
+      "meaning": "pirjati, usp. der Dunst – para"
+    },
+    {
+      "word": "dizna",
+      "german_source": "die Düse",
+      "meaning": "sapnica"
+    },
+    {
+      "word": "drek",
+      "german_source": "der Dreck",
+      "meaning": "izmet, prljavština"
+    },
+    {
+      "word": "drot",
+      "german_source": "der Draht",
+      "meaning": "žica"
+    },
+    {
+      "word": "drukholc",
+      "german_source": "das Druckholz (starinski za das Bügeleisen",
+      "meaning": "glačalo)"
+    },
+    {
+      "word": "Escajg",
+      "german_source": "essen",
+      "meaning": "jesti zeug – stvar (na njemačkom riječ zastarjela, danas (Ess)besteck, usp. beštek)"
+    },
+    {
+      "word": "fajnšmeker",
+      "german_source": "der Feinschmecker",
+      "meaning": "gurman, hedonista"
+    },
+    {
+      "word": "fajrcajg",
+      "german_source": "das Feuerzeug",
+      "meaning": "upaljač"
+    },
+    {
+      "word": "fajront ili fajrunt",
+      "german_source": "der Feierabend",
+      "meaning": "kraj radnog vremena"
+    },
+    {
+      "word": "faliti",
+      "german_source": "fehlen",
+      "meaning": "nedostajati, manjkati, izostati"
+    },
+    {
+      "word": "farba",
+      "german_source": "die Farbe",
+      "meaning": "boja"
+    },
+    {
+      "word": "fasovati",
+      "german_source": "fassen (primarno značenje obuhvatiti, shvatiti)",
+      "meaning": "dobiti svoje"
+    },
+    {
+      "word": "fašnik",
+      "german_source": "der Fasching",
+      "meaning": "poklade, karneval"
+    },
+    {
+      "word": "faširati, odn. faširano",
+      "german_source": "faschieren, faschiert",
+      "meaning": "isjeckati meso, odn. sjeckano meso"
+    },
+    {
+      "word": "feder",
+      "german_source": "die Feder",
+      "meaning": "opruga (na njemačkom znači također pero)"
+    },
+    {
+      "word": "felga",
+      "german_source": "die Felge",
+      "meaning": "naplatak"
+    },
+    {
+      "word": "fen",
+      "german_source": "Föhn {m}; Fön",
+      "meaning": "topli alpski vjetar; sušilica za kosu"
+    },
+    {
+      "word": "fišpaprikaš",
+      "german_source": "der Fisch (riba) + paprikaš",
+      "meaning": ""
+    },
+    {
+      "word": "flaša",
+      "german_source": "die Flasche",
+      "meaning": "boca"
+    },
+    {
+      "word": "fleka",
+      "german_source": "der Fleck",
+      "meaning": "mrlja"
+    },
+    {
+      "word": "foranga",
+      "german_source": "der Vorhang",
+      "meaning": "zavjesa, zastor (također i firanga)"
+    },
+    {
+      "word": "forcimer",
+      "german_source": "das Vorzimmer",
+      "meaning": "predsoblje"
+    },
+    {
+      "word": "foršpan",
+      "german_source": "der Vorspann",
+      "meaning": "kratak uvod, uvodni odlomak (novinskog članka); popis imena glumaca, redatelja, producenata itd. na početku filma"
+    },
+    {
+      "word": "frajla",
+      "german_source": "das Fräulein",
+      "meaning": "gospođica"
+    },
+    {
+      "word": "frket",
+      "german_source": "verkehrt",
+      "meaning": "naopako, suprotno, obratno"
+    },
+    {
+      "word": "friško",
+      "german_source": "frisch",
+      "meaning": "svježe"
+    },
+    {
+      "word": "furati",
+      "german_source": "die Fuhre (podvoz, kola, tovar)",
+      "meaning": "voziti"
+    },
+    {
+      "word": "frištikat",
+      "german_source": "das Frühstück (doručak)",
+      "meaning": "frühstücken doručkovati (također i fruštuk – doručak)"
+    },
+    {
+      "word": "fuš",
+      "german_source": "der Pfusch",
+      "meaning": "rad na crno"
+    },
+    {
+      "word": "fušariti ili (s)fušeriti",
+      "german_source": "pfuschen",
+      "meaning": "žarg. nestručno obaviti posao"
+    },
+    {
+      "word": "gardina",
+      "german_source": "die Gardine",
+      "meaning": "zavjesa, zastor"
+    },
+    {
+      "word": "ganjak",
+      "german_source": "der Gang",
+      "meaning": "hodnik"
+    },
+    {
+      "word": "gastarbajter",
+      "german_source": "der Gastarbeiter",
+      "meaning": "strani radnik u Njemačkoj i Austriji (doslovno \"radnik gost\")"
+    },
+    {
+      "word": "gemišt",
+      "german_source": "gemischt",
+      "meaning": "pomiješano"
+    },
+    {
+      "word": "geltašn",
+      "german_source": "geldtashen",
+      "meaning": "novčanik (doslovno torba s novcem)"
+    },
+    {
+      "word": "getriba",
+      "german_source": "Getriebe",
+      "meaning": "mehanizam za prijenos snage s pogonskog stroja"
+    },
+    {
+      "word": "glancati",
+      "german_source": "glänzen",
+      "meaning": "sjajiti se, također i glanc > der Glanz – sjaj"
+    },
+    {
+      "word": "gletati",
+      "german_source": "gletovati < glätten",
+      "meaning": "izravnati"
+    },
+    {
+      "word": "graba",
+      "german_source": "der Graben",
+      "meaning": "iskopano udubljenje u zemlji, rov, jama"
+    },
+    {
+      "word": "grif",
+      "german_source": "der Griff",
+      "meaning": "zahvat; u frazi imati grifa – pren. biti vješt"
+    },
+    {
+      "word": "grunt",
+      "german_source": "der Grund (dno, podnožje, podloga, temelj)",
+      "meaning": "zemlja, zemljišni posjed (od toga potječe i imenica gruntovnica)"
+    },
+    {
+      "word": "gojzerica",
+      "german_source": "der Goiserer (Schuh)",
+      "meaning": "brdska, okovana cipela nazvana po austrijskom gradu Bad Goisern, okovanka"
+    },
+    {
+      "word": "gvirc, rjeđe gverc",
+      "german_source": "das Gewürz",
+      "meaning": "fermentirano ili nefermentirano alkoholno piće od vode i meda, medovina"
+    },
+    {
+      "word": "gurtna",
+      "german_source": "Gürtel",
+      "meaning": "opasač, pojas, traka"
+    },
+    {
+      "word": "hauba",
+      "german_source": "die Haube",
+      "meaning": "pokrivač/poklopac motora, naprava za sušenje kose"
+    },
+    {
+      "word": "haustor",
+      "german_source": "das Haustor",
+      "meaning": "vrata na ulazu u kućno dvorište, die Haustür kućna vrata"
+    },
+    {
+      "word": "heftati",
+      "german_source": "heften",
+      "meaning": "pričvršćivati"
+    },
+    {
+      "word": "herc",
+      "german_source": "das Herz",
+      "meaning": "srce"
+    },
+    {
+      "word": "hohštapler",
+      "german_source": "der Hochstapler",
+      "meaning": "samozvanac, umišljena osoba, varalica"
+    },
+    {
+      "word": "hausmajstor",
+      "german_source": "der Hausmeister",
+      "meaning": "kućepazitelj"
+    },
+    {
+      "word": "iberlauf",
+      "german_source": "das Überlauf(ventil) = preliv",
+      "meaning": "prelivni ventil"
+    },
+    {
+      "word": "jegervuršt",
+      "german_source": "Jägerwurst",
+      "meaning": "lovačka kobasica"
+    },
+    {
+      "word": "junferica",
+      "german_source": "die Jungfer",
+      "meaning": "djevica"
+    },
+    {
+      "word": "kajla",
+      "german_source": "der Keil",
+      "meaning": "klin"
+    },
+    {
+      "word": "karfiol",
+      "german_source": "der Karfiol (na austrijskom dijalektu)",
+      "meaning": "cvjetača"
+    },
+    {
+      "word": "kauguma",
+      "german_source": "der/das Kaugummi",
+      "meaning": "guma za žvakanje"
+    },
+    {
+      "word": "kelner",
+      "german_source": "Kellner",
+      "meaning": "konobar"
+    },
+    {
+      "word": "keks",
+      "german_source": "Keks",
+      "meaning": "biskvit"
+    },
+    {
+      "word": "kibla",
+      "german_source": "der Kübel (uglavnom austrijski dijalekt)",
+      "meaning": "kanta"
+    },
+    {
+      "word": "kifla",
+      "german_source": "der Kipfel (na austrijskom dijalektu)",
+      "meaning": "vrsta peciva (roščić)"
+    },
+    {
+      "word": "kinderbet",
+      "german_source": "das Kind (dijete) + das Bett (krevet)",
+      "meaning": "dječji krevet, krevetac"
+    },
+    {
+      "word": "kirvaj/kirbaj",
+      "german_source": "die Kirchweih",
+      "meaning": "kirvaj (Kirche – crkve, Weihe – posveta: religiozna proslava koja se slavi povodom posvete neke kršćanske crkve, nekada poganska zahvalnica za dobru žetvu i plodnost koji je kasnije preuzela Crkva i dala mu novo značenje)"
+    },
+    {
+      "word": "klofati",
+      "german_source": "klopfen",
+      "meaning": "udarati, kucati (npr. na vrata) – isprašivati tepihe (kloferom – njem. Klopfer se isprašuju tepisi)"
+    },
+    {
+      "word": "klot",
+      "german_source": "Glatt",
+      "meaning": "pravo, glatko, ravno"
+    },
+    {
+      "word": "knap",
+      "german_source": "knapp",
+      "meaning": "tijesno, oskudno, jedva (Malo sam knap s vremenom. Ovo je bilo na knap. > Ovo je bilo gusto/za dlaku.)"
+    },
+    {
+      "word": "knedla",
+      "german_source": "der Knödel (austrijski, južnonjemački)",
+      "meaning": "okruglica"
+    },
+    {
+      "word": "kofer/kufer",
+      "german_source": "der Koffer",
+      "meaning": "kovčeg (Pun mi je kufer! > Dosta mi je svega!)"
+    },
+    {
+      "word": "korpa",
+      "german_source": "der Korb",
+      "meaning": "košara"
+    },
+    {
+      "word": "koštati",
+      "german_source": "kosten",
+      "meaning": "stajati (u smislu novčane ili druge vrijednosti)"
+    },
+    {
+      "word": "krafna",
+      "german_source": "Krapfen",
+      "meaning": "prsten (vrsta slatkoga tijesta s nadjevom)"
+    },
+    {
+      "word": "krafna",
+      "german_source": "Krapfen (austrijski)",
+      "meaning": "vrsta slatkog tijesta s nadjevom prženo u dubokoj masnoći, uštipak, prsten"
+    },
+    {
+      "word": "kremšnita",
+      "german_source": "Kremschnitte",
+      "meaning": "vrsta kolača"
+    },
+    {
+      "word": "krampus",
+      "german_source": "der Krampus",
+      "meaning": "krampus (vrag u likovnoj predodžbi s repom i rogovima koji se javlja zločestoj djeci u pričama i običajima)"
+    },
+    {
+      "word": "krigla",
+      "german_source": "der Krügel (austrijski, južnonjemački)",
+      "meaning": "čaša za pivo s drškom"
+    },
+    {
+      "word": "krizbam/križbam",
+      "german_source": "der Christbaum",
+      "meaning": "božićno drvce"
+    },
+    {
+      "word": "krumpir",
+      "german_source": "austr. (zastarjelo, rijetko regionalno) die Grundbirne, (ili Krummbirne",
+      "meaning": "pogrbljena kruška) koruški krumpir/grumper – krumpir"
+    },
+    {
+      "word": "kugla",
+      "german_source": "die Kugel",
+      "meaning": "kugla, zrno (metak), tane"
+    },
+    {
+      "word": "kuglof/kuglov/kugluv",
+      "german_source": "der Gugelhupf (austrijski dijalekt)",
+      "meaning": "kuglof (kolač od dizanog tijesta sa suhim grožđem, okruglasta je oblika sa šupljinom u sredini)"
+    },
+    {
+      "word": "kupleraj",
+      "german_source": "die Kuppelei",
+      "meaning": "svodništvo; javna kuća; usp. kuppeln – spojiti"
+    },
+    {
+      "word": "kuplung",
+      "german_source": "die Kupplung",
+      "meaning": "spojka, kvačilo (uređaj za prijenos okretaja u motornom vozilu)"
+    },
+    {
+      "word": "kvarcanje",
+      "german_source": "Quarzlampe",
+      "meaning": "umjetno sunčanje"
+    },
+    {
+      "word": "kvirc",
+      "german_source": "vidi gvirc",
+      "meaning": ""
+    },
+    {
+      "word": "lajbek",
+      "german_source": "das Leibchen",
+      "meaning": "prsluk"
+    },
+    {
+      "word": "lauf",
+      "german_source": "der Lauf",
+      "meaning": "trk, trčanje"
+    },
+    {
+      "word": "larfa",
+      "german_source": "die Larve",
+      "meaning": "krinka, maska (na hrvatskom zbog metateze i lafra)"
+    },
+    {
+      "word": "ler",
+      "german_source": "leer",
+      "meaning": "prazan, u leru – u praznom hodu (njem. Leerlauf)"
+    },
+    {
+      "word": "lifrati",
+      "german_source": "liefern",
+      "meaning": "dostaviti"
+    },
+    {
+      "word": "lojtre",
+      "german_source": "die Leiter",
+      "meaning": "ljestve"
+    },
+    {
+      "word": "mansarda",
+      "german_source": "Mansarde",
+      "meaning": "potkrovlje"
+    },
+    {
+      "word": "majstor",
+      "german_source": "der Meister",
+      "meaning": "zanatlija, znalac"
+    },
+    {
+      "word": "melšpajz",
+      "german_source": "Mehlspeisen",
+      "meaning": "kolači, poslastice"
+    },
+    {
+      "word": "miliprot",
+      "german_source": "das Milchbrot, dial. Milichbrot",
+      "meaning": "miliprot (bijeli pšenični kruh koji se sprema za Uskrs i Božić)"
+    },
+    {
+      "word": "mišafl",
+      "german_source": "Mistschaufel, Kehrschaufel",
+      "meaning": "lopatica za smeće (U Zagrebačkom dijalektu se izgovara miščafl)"
+    },
+    {
+      "word": "mišung",
+      "german_source": "die Mischung (mješavina)",
+      "meaning": ""
+    },
+    {
+      "word": "nahtkasl",
+      "german_source": "das Nachtkastl, austrijski dijalekt",
+      "meaning": "Kast(er)l je umanjenica od Kasten – ormar – dakle noćni ormarić"
+    },
+    {
+      "word": "nojgvirc",
+      "german_source": "das Neugewürz",
+      "meaning": "piment (svojedobno novi začin)"
+    },
+    {
+      "word": "ofinger",
+      "german_source": "(način izgovora riječi Aufhänger na austrijskom i južnonjemačkim dijalektima), usp. aufenger",
+      "meaning": "vješalica za odjeću"
+    },
+    {
+      "word": "pofezna",
+      "german_source": "Pofese, Pofesen (pl.) (austrijski, bavarski dijalekti)",
+      "meaning": "pohani kruh"
+    },
+    {
+      "word": "paradajz",
+      "german_source": "– Paradeiser (austrijski dijalektalno)",
+      "meaning": "rajčica"
+    },
+    {
+      "word": "plac",
+      "german_source": "der Platz",
+      "meaning": "trg"
+    },
+    {
+      "word": "peglati",
+      "german_source": "bügeln",
+      "meaning": "glačati, usp. der Bügeleisen – pegla, glačalo,"
+    },
+    {
+      "word": "penzl",
+      "german_source": "der Pinsel",
+      "meaning": "kist"
+    },
+    {
+      "word": "penzija",
+      "german_source": "die Pension",
+      "meaning": "mirovina (penzioner – umirovljenik)"
+    },
+    {
+      "word": "pikzibner",
+      "german_source": "Pik sieben (pikova sedmica",
+      "meaning": "nevažna karta) – izraz koristimo kao \"nitko i ništa\""
+    },
+    {
+      "word": "platfus",
+      "german_source": "der Plattfuß",
+      "meaning": "ravno stopalo"
+    },
+    {
+      "word": "prezvuršt",
+      "german_source": "die Presswurst",
+      "meaning": "doslovce presana kobasica vrsta kobasice, tlačenica"
+    },
+    {
+      "word": "poblajhati",
+      "german_source": "bleichen",
+      "meaning": "izbijeliti (još se može reći i zblajhati)"
+    },
+    {
+      "word": "pofajhtati",
+      "german_source": "feucht",
+      "meaning": "vlažno izraz koristimo za navlažiti"
+    },
+    {
+      "word": "pofloktati",
+      "german_source": "Flocken",
+      "meaning": "slang riječ za pojesti sve do kraja dolazi od riječi pahuljice"
+    },
+    {
+      "word": "purger",
+      "german_source": "Bürger",
+      "meaning": "građanin"
+    },
+    {
+      "word": "rapšicer",
+      "german_source": "der Raubschütze",
+      "meaning": "krivolovac"
+    },
+    {
+      "word": "ratkapa",
+      "german_source": "die Radkappe",
+      "meaning": "poklopac kotača"
+    },
+    {
+      "word": "remen",
+      "german_source": "Riemen",
+      "meaning": "pojas"
+    },
+    {
+      "word": "restati",
+      "german_source": "rösten",
+      "meaning": "dulje vrijeme pržiti (bez mnogo masnoće), tako da krumpir postane hrskav, odn. reš"
+    },
+    {
+      "word": "resch ili rösch",
+      "german_source": "hrskavo pečen",
+      "meaning": ""
+    },
+    {
+      "word": "rikverc rückwärts",
+      "german_source": "(u)natrag, (u)nazad",
+      "meaning": ""
+    },
+    {
+      "word": "rolati se",
+      "german_source": "rollen",
+      "meaning": "koturati se"
+    },
+    {
+      "word": "rolete",
+      "german_source": "rollo, Rollos",
+      "meaning": "platnena žaluzina"
+    },
+    {
+      "word": "rolšuhe",
+      "german_source": "die Rollschuhe",
+      "meaning": "koturaljke"
+    },
+    {
+      "word": "rosfraj",
+      "german_source": "rostfrei",
+      "meaning": "doslovce bez hrđe, tj. nehrđajući"
+    },
+    {
+      "word": "roštilj",
+      "german_source": "der Rost",
+      "meaning": "rešetka (za pečenje mesa, skraćeno od Bratrost), također gril (njem. der Grill)"
+    },
+    {
+      "word": "ruksak",
+      "german_source": "der Rucksack",
+      "meaning": "naprtnjača"
+    },
+    {
+      "word": "sajla",
+      "german_source": "das Seil",
+      "meaning": "(metalno) uže"
+    },
+    {
+      "word": "sala",
+      "german_source": "der Saal",
+      "meaning": "dvorana"
+    },
+    {
+      "word": "sekirati (se, koga)",
+      "german_source": "sekkieren (austrijski)",
+      "meaning": "brinuti, smetati, opteretiti brigama"
+    },
+    {
+      "word": "šajba",
+      "german_source": "die Scheibe",
+      "meaning": "ploča, pločica, disk"
+    },
+    {
+      "word": "šaht",
+      "german_source": "der Schacht",
+      "meaning": "okno, otvor za kanalizaciju"
+    },
+    {
+      "word": "šalter",
+      "german_source": "der Schalter",
+      "meaning": "prekidač; šalter (na pošti, kolodvoru, u banci)"
+    },
+    {
+      "word": "šamrl",
+      "german_source": "das Schammerl (austrijski)",
+      "meaning": "stolac bez naslona, tronožac"
+    },
+    {
+      "word": "šank",
+      "german_source": "die Schank (austrijski), Ausschank, također die Schenke",
+      "meaning": ""
+    },
+    {
+      "word": "šaraf",
+      "german_source": "dijalektalni južnonjemački i austrijski način izgovora riječi die Schraube",
+      "meaning": "vijak, zavrtanj"
+    },
+    {
+      "word": "šarmer",
+      "german_source": "Charmeur",
+      "meaning": "zanosan, dražestan, ljubak, očaravajuć"
+    },
+    {
+      "word": "šeflja",
+      "german_source": "Schaufel, Schippe",
+      "meaning": "kutljača"
+    },
+    {
+      "word": "šihta",
+      "german_source": "die Schicht",
+      "meaning": "smjena"
+    },
+    {
+      "word": "šircl",
+      "german_source": "die Schürze",
+      "meaning": "pregača"
+    },
+    {
+      "word": "širhakl (širajzl)",
+      "german_source": "der Schürhaken, das Schüreisen",
+      "meaning": "žarač"
+    },
+    {
+      "word": "šlafcimer",
+      "german_source": "das Schlafzimmer",
+      "meaning": "spavaća soba"
+    },
+    {
+      "word": "šlag",
+      "german_source": "der Schlag",
+      "meaning": "udarac, udar; kap (srčana i moždana); tučeno slatko vrhnje"
+    },
+    {
+      "word": "šlager",
+      "german_source": "der Schlager",
+      "meaning": ""
+    },
+    {
+      "word": "šlafrok",
+      "german_source": "schlafen (spavati) + der Rock (suknja, haljina)",
+      "meaning": "kućna haljina"
+    },
+    {
+      "word": "šlagvort",
+      "german_source": "das Schlagwort",
+      "meaning": "krilatica, geslo, parola"
+    },
+    {
+      "word": "šlajdrati",
+      "german_source": "schleudern",
+      "meaning": "proklizati se, zanijeti se"
+    },
+    {
+      "word": "šlajfati",
+      "german_source": "schleifen",
+      "meaning": "izbrusiti"
+    },
+    {
+      "word": "šlank",
+      "german_source": "schlank",
+      "meaning": "mršav"
+    },
+    {
+      "word": "šlape",
+      "german_source": "der Schlappen ili Schlapfen (na austrijskom i bavarskom dijalektu)",
+      "meaning": "papuče"
+    },
+    {
+      "word": "šlauf",
+      "german_source": "der Schlauch",
+      "meaning": "gumena cijev; mijeh"
+    },
+    {
+      "word": "šnupftuh",
+      "german_source": "das Schnupftuch",
+      "meaning": "maramica"
+    },
+    {
+      "word": "šlampav",
+      "german_source": "schlampig",
+      "meaning": "neuredan, nemaran, površan"
+    },
+    {
+      "word": "šlempav",
+      "german_source": "schlumper",
+      "meaning": "majmun (pogrdno)"
+    },
+    {
+      "word": "šlamperaj",
+      "german_source": "die Schlamperei",
+      "meaning": "nemarnost, neurednost, traljavost"
+    },
+    {
+      "word": "šleper",
+      "german_source": "der Schlepper",
+      "meaning": "tegljač"
+    },
+    {
+      "word": "šlus",
+      "german_source": "der Schluss",
+      "meaning": "kraj"
+    },
+    {
+      "word": "šljaka",
+      "german_source": "die Schlacke (drozga, šljaka, talog; troska, ostaci izgorjelog koksa, ugljena)",
+      "meaning": "rad, posao (glagol je šljakati, a onaj tko \"šljaka\" je šljaker)"
+    },
+    {
+      "word": "šmekt, šmeka",
+      "german_source": "schmeckt",
+      "meaning": "ukusno je"
+    },
+    {
+      "word": "šminka",
+      "german_source": "die Schminke",
+      "meaning": ""
+    },
+    {
+      "word": "šmucig",
+      "german_source": "schmutzig",
+      "meaning": "zmazan (Purgerski), umazan, prljav (Purgerski – sprljan)"
+    },
+    {
+      "word": "šnajder",
+      "german_source": "der Schneider",
+      "meaning": "krojač"
+    },
+    {
+      "word": "šnala",
+      "german_source": "Schnalle",
+      "meaning": "kopča"
+    },
+    {
+      "word": "šnicla",
+      "german_source": "das Schnitzel",
+      "meaning": "odrezak"
+    },
+    {
+      "word": "šnit",
+      "german_source": "der Schnitt",
+      "meaning": "rez"
+    },
+    {
+      "word": "šnita",
+      "german_source": "die Schnitte",
+      "meaning": "kriška"
+    },
+    {
+      "word": "špahtla",
+      "german_source": "der Spachtel",
+      "meaning": "lopatica za struganje gipsa, boje"
+    },
+    {
+      "word": "špancir",
+      "german_source": "spazieren",
+      "meaning": "šetati"
+    },
+    {
+      "word": "špajscimer",
+      "german_source": "das Speisezimmer",
+      "meaning": "trpezarija"
+    },
+    {
+      "word": "špajza",
+      "german_source": "die Speis (austrijski, južnonjemački), die Speisekammer",
+      "meaning": "smočnica"
+    },
+    {
+      "word": "španga",
+      "german_source": "die Spange",
+      "meaning": "broš, nakit za kosu"
+    },
+    {
+      "word": "šparhet (špaher, šporer)",
+      "german_source": "der Sparherd od sparen",
+      "meaning": "štedjeti; Herd – žarište, grijna ploča (izraz koristimo za štednjak)"
+    },
+    {
+      "word": "špek",
+      "german_source": "der Speck",
+      "meaning": "slanina"
+    },
+    {
+      "word": "špenadla",
+      "german_source": "die Nadel",
+      "meaning": "igla"
+    },
+    {
+      "word": "špic",
+      "german_source": "der Spitz (austrijski, južnonjemački) za die Spitze",
+      "meaning": "šiljak, vrh"
+    },
+    {
+      "word": "špica",
+      "german_source": "die Spitze",
+      "meaning": "šiljak, vrh; skraćeno za die Spitzenzeit – vrijeme vreve, najgušćeg prometa"
+    },
+    {
+      "word": "špigla",
+      "german_source": "der Spiegel",
+      "meaning": "ogledalo ili zrcalo"
+    },
+    {
+      "word": "špil",
+      "german_source": "das Spiel (primarno značenje igra)",
+      "meaning": "skupina predmena za društvene igre, npr. špil karata"
+    },
+    {
+      "word": "špotati",
+      "german_source": "spotten",
+      "meaning": "izrugivati se (zapravo ga koristimo u značenju prekoravati koga, ljutiti se na koga)"
+    },
+    {
+      "word": "šprehati",
+      "german_source": "sprechen",
+      "meaning": "govoriti"
+    },
+    {
+      "word": "šprica",
+      "german_source": "die Spritze",
+      "meaning": "brizgalica, štrcaljka; injekcija"
+    },
+    {
+      "word": "špricer",
+      "german_source": "gespritz (na austrijskom dijalektu)",
+      "meaning": "gaziran"
+    },
+    {
+      "word": "špur(a)",
+      "german_source": "die Spur",
+      "meaning": "traka/kolotrak"
+    },
+    {
+      "word": "šrafciger (šerafnciger)",
+      "german_source": "der Schraubenzieher",
+      "meaning": "odvijač"
+    },
+    {
+      "word": "štab",
+      "german_source": "der Stab",
+      "meaning": "štap; osoblje (izraz koristimo za stožer)"
+    },
+    {
+      "word": "štambilj",
+      "german_source": "der Stempel",
+      "meaning": "žig"
+    },
+    {
+      "word": "štand",
+      "german_source": "der Stand",
+      "meaning": "prodajno ili izložbeno mjesto na sajmu"
+    },
+    {
+      "word": "štanga",
+      "german_source": "die Stange",
+      "meaning": "motka, pritka, šipka"
+    },
+    {
+      "word": "štaubšećer, štaubcuker",
+      "german_source": "njem. Staubzucker, der Staub",
+      "meaning": "prašina (izraz koristimo za šećer u prahu)"
+    },
+    {
+      "word": "štaubzauger",
+      "german_source": "der Staubsauger od Staub",
+      "meaning": "prašina i saugen – sisati – usisavač"
+    },
+    {
+      "word": "šteker",
+      "german_source": "der Stecker",
+      "meaning": "utičnica (od glagola stecken – stavljati, pričvrstiti)"
+    },
+    {
+      "word": "štift",
+      "german_source": "der Stift",
+      "meaning": "čavao bez glavice, također znači također obična (drvena) olovka (skraćeno od Bleistift)"
+    },
+    {
+      "word": "štih",
+      "german_source": "der Stich (primarno značenje bod ili ubod)",
+      "meaning": "bod u kartanju, primjesa okusa/mirisa"
+    },
+    {
+      "word": "štikla",
+      "german_source": "der Stöckel",
+      "meaning": "visoka potpetica"
+    },
+    {
+      "word": "štirka",
+      "german_source": "die Stärke",
+      "meaning": "škrob, usp. glagol štirkati rublje"
+    },
+    {
+      "word": "štimati",
+      "german_source": "stimmen",
+      "meaning": "biti točan/u redu; ugađati žice glazbala"
+    },
+    {
+      "word": "štimung",
+      "german_source": "die Stimmung",
+      "meaning": "raspoloženje, ugođaj, atmosfera"
+    },
+    {
+      "word": "štof",
+      "german_source": "Stoff",
+      "meaning": "materijal"
+    },
+    {
+      "word": "štokrla",
+      "german_source": "Stockerl (austrijski, južnonjemački)",
+      "meaning": "stolac"
+    },
+    {
+      "word": "štos",
+      "german_source": "der Stoß",
+      "meaning": "potisak, udarac; hrpa, recimo štos papira"
+    },
+    {
+      "word": "štrebati",
+      "german_source": "streben",
+      "meaning": "nastojati, težiti (štreber (der Streber – austrijski) učenik koji uči i bez razumijevanja, samo da bi znao podatke > strebern (dijalektalno austrijski) – učiti na takav način)"
+    },
+    {
+      "word": "štrik",
+      "german_source": "der Strick",
+      "meaning": "uže, konopac"
+    },
+    {
+      "word": "štrikati",
+      "german_source": "stricken",
+      "meaning": "plesti"
+    },
+    {
+      "word": "štruc",
+      "german_source": "der Strutz (austrijski dijalektalno, rijetko)",
+      "meaning": "komad, oblik kruha, vekna"
+    },
+    {
+      "word": "štrudla",
+      "german_source": "der Strudel",
+      "meaning": "pita savijača, primarno značenje na njemačkom: vir (u vodi)"
+    },
+    {
+      "word": "šub",
+      "german_source": "der Schub",
+      "meaning": "potisak, u frazi od šuba – odmah, iz prve"
+    },
+    {
+      "word": "šuft",
+      "german_source": "der Schuft",
+      "meaning": "hulja, lopov, lupež, nitkov"
+    },
+    {
+      "word": "šukara",
+      "german_source": "die Schubkarre",
+      "meaning": "vrtna kolica"
+    },
+    {
+      "word": "šuster",
+      "german_source": "der Schuster",
+      "meaning": "postolar, cipelar"
+    },
+    {
+      "word": "švercer",
+      "german_source": "der Schwärzer",
+      "meaning": "krijumčar"
+    },
+    {
+      "word": "tipl",
+      "german_source": "der Dübel",
+      "meaning": "usadak u koji se navrće vijak, učvrsnica"
+    },
+    {
+      "word": "tipfeler",
+      "german_source": "der Tippfehler",
+      "meaning": "zatipak, tiskarska greška"
+    },
+    {
+      "word": "tišler",
+      "german_source": "der Tischler",
+      "meaning": "stolar"
+    },
+    {
+      "word": "trajbana jaja",
+      "german_source": "treiben",
+      "meaning": "gurati (u hrv. jeziku izraz koristimo za kajganu)"
+    },
+    {
+      "word": "trefiti",
+      "german_source": "treffen",
+      "meaning": "pogoditi (svršeni oblik je potrefiti)"
+    },
+    {
+      "word": "trotl",
+      "german_source": "der Trottel",
+      "meaning": "nespretnjaković, šeprtlja, šonjo"
+    },
+    {
+      "word": "veker(ica)",
+      "german_source": "der Wecker",
+      "meaning": "budilica"
+    },
+    {
+      "word": "veš",
+      "german_source": "die Wäsche",
+      "meaning": "rublje"
+    },
+    {
+      "word": "vešmašina",
+      "german_source": "die Waschmaschine",
+      "meaning": "perilica rublja"
+    },
+    {
+      "word": "vic",
+      "german_source": "der Witz",
+      "meaning": "šala"
+    },
+    {
+      "word": "viršla",
+      "german_source": "das Würstel (deminutiv riječi Wurst na austrijskim i južnonjemačkim dijalektima",
+      "meaning": "kobasičica) < Wurst – hrenovka"
+    },
+    {
+      "word": "vekna",
+      "german_source": "der Wecken (austrijski, južnonjemački, umanjenica: das Weckerl)",
+      "meaning": "oblik kruha duguljasti kruh"
+    },
+    {
+      "word": "ziher",
+      "german_source": "sicher",
+      "meaning": "siguran, sigurna, sigurno (osoba koja ne voli riskirati je ziheraš)"
+    },
+    {
+      "word": "zihernadla, ziherica",
+      "german_source": "die Sicherheitsnadel od riječi: sicher/Sicherheit i Nadel",
+      "meaning": "sigurno/sigurnost i igla, sigurnosnica"
+    },
+    {
+      "word": "žemlja",
+      "german_source": "die Semmel",
+      "meaning": "pecivo za doručak, kruščić"
+    }
+  ],
+  "meta": {
+    "title": "Germanizmi u hrvatskom jeziku - Free Download",
+    "description": "Riječi njemačkoga podrijetla (germanizmi) u hrvatskom jeziku i govorima, s izvornom njemačkom riječi i značenjem. Contains 260 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Germanizmi u hrvatskom jeziku | ListBase",
+    "seo_description": "Download Germanizmi u hrvatskom jeziku — 260 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 260 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Germanizam"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-17T02:23:51.369Z",
-  "total_datasets": 510,
-  "total_records": 831605,
+  "generated": "2026-11-17T02:23:59.505Z",
+  "total_datasets": 511,
+  "total_records": 831865,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -3689,6 +3689,30 @@
         "xlsx": {
           "name": "hr-operacije-domovinski-rat_HR.xlsx",
           "size": 8879
+        }
+      }
+    },
+    {
+      "id": "hr-germanizmi",
+      "name": "Germanizmi u hrvatskom jeziku",
+      "category": "language",
+      "record_count": 260,
+      "columns": [
+        "word",
+        "german_source",
+        "meaning"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Germanizam",
+      "updated": "2026-11",
+      "size": 35625,
+      "files": {
+        "csv": {
+          "name": "hr-germanizmi_HR.csv",
+          "size": 16313
+        },
+        "xlsx": {
+          "name": "hr-germanizmi_HR.xlsx",
+          "size": 18704
         }
       }
     },
