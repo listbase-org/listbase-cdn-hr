@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-16T02:09:49.021Z",
-  "total_datasets": 509,
-  "total_records": 831486,
+  "generated": "2026-11-17T02:23:51.369Z",
+  "total_datasets": 510,
+  "total_records": 831605,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -3515,6 +3515,30 @@
         "xlsx": {
           "name": "hr-banovi_HR.xlsx",
           "size": 13450
+        }
+      }
+    },
+    {
+      "id": "hr-dvorci-po-zupanijama",
+      "name": "Dvorci u Hrvatskoj po županijama",
+      "category": "history",
+      "record_count": 119,
+      "columns": [
+        "castle",
+        "place",
+        "county"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_dvoraca_i_utvrda",
+      "updated": "2026-11",
+      "size": 16430,
+      "files": {
+        "csv": {
+          "name": "hr-dvorci-po-zupanijama_HR.csv",
+          "size": 7670
+        },
+        "xlsx": {
+          "name": "hr-dvorci-po-zupanijama_HR.xlsx",
+          "size": 10385
         }
       }
     },

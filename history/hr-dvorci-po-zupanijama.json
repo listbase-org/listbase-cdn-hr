@@ -1,0 +1,636 @@
+{
+  "id": "hr-dvorci-po-zupanijama",
+  "name": "Dvorci u Hrvatskoj po županijama",
+  "title": "Dvorci u Hrvatskoj po županijama",
+  "description": "Popis dvoraca u Hrvatskoj s mjestom u kojem se nalaze i županijom.",
+  "category": "history",
+  "source": "https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_dvoraca_i_utvrda",
+  "source_url": "https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_dvoraca_i_utvrda",
+  "updated": "2026-11",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "castle",
+      "label": "Castle",
+      "type": "string"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "castle": "Dvorac Janković",
+      "place": "Daruvar",
+      "county": "Bjelovarsko-bilogorska županija"
+    },
+    {
+      "castle": "Dvorac Dioš",
+      "place": "Končanica",
+      "county": "Bjelovarsko-bilogorska županija"
+    },
+    {
+      "castle": "dvorac Cernik",
+      "place": "Cernik",
+      "county": "Brodsko-posavska županija"
+    },
+    {
+      "castle": "dvorac Arapovo",
+      "place": "Orašac",
+      "county": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "castle": "dvorac obitelji Stjepović – Skočibuha",
+      "place": "Suđurađ Šipan",
+      "county": "Dubrovačko-neretvanska županija"
+    },
+    {
+      "castle": "dvorac Isabella",
+      "place": "Poreč Sveti Nikola (otok)",
+      "county": "Istarska županija"
+    },
+    {
+      "castle": "Dvorac Türk – Mažuranić",
+      "place": "Gornje Pokupje",
+      "county": "Karlovačka županija"
+    },
+    {
+      "castle": "dvorac Drašković",
+      "place": "Rečica",
+      "county": "Karlovačka županija"
+    },
+    {
+      "castle": "Dvorac Erdődy-Rubido",
+      "place": "Gornja Rijeka",
+      "county": "Koprivničko-križevačka županija"
+    },
+    {
+      "castle": "Dvorac Patačić (srušen)",
+      "place": "Guščerovec",
+      "county": "Koprivničko-križevačka županija"
+    },
+    {
+      "castle": "Dvorac Kiepach (srušen)",
+      "place": "Križevci",
+      "county": "Koprivničko-križevačka županija"
+    },
+    {
+      "castle": "Dvorac Inkey",
+      "place": "Rasinja",
+      "county": "Koprivničko-križevačka županija"
+    },
+    {
+      "castle": "kurija dvorac Donja Bedekovčina",
+      "place": "Bedekovčina",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Gornja Bedekovčina",
+      "place": "Bedekovčina",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Selnica",
+      "place": "Belec",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Bračak",
+      "place": "Bračak",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Stubički Golubovec",
+      "place": "Donja Stubica",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "Dvorac Oršić",
+      "place": "Gornja Stubica",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Jakovlje",
+      "place": "Jakovlje",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Klokovec",
+      "place": "Klokovec",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "Dvorac Keglević",
+      "place": "Lobor",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "Dvorac Hellenbach",
+      "place": "Marija Bistrica",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Gornje Oroslavje (srušen)",
+      "place": "Oroslavje",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Donje Oroslavje",
+      "place": "Oroslavje",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Poznanovec",
+      "place": "Poznanovec",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "Dvorac Miljana",
+      "place": "Poljana Sutlanska",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "Valentinovo – dvorac Bežanec",
+      "place": "Pregrada",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Dubrava",
+      "place": "Pregrada",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Gorica",
+      "place": "Pregrada",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Sveti Križ Začretje",
+      "place": "Sveti Križ Začretje",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Velika Horvatska",
+      "place": "Velika Horvatska",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Popovec",
+      "place": "Velika Ves",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Gredice (Dvorac Gredice)",
+      "place": "Zabok",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Zajezda",
+      "place": "Zajezda",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Ščrbinec",
+      "place": "Zlatar",
+      "county": "Krapinsko-zagorska županija"
+    },
+    {
+      "castle": "dvorac Lapšina (srušen)",
+      "place": "Lapšina",
+      "county": "Međimurska županija"
+    },
+    {
+      "castle": "Dvorac Feštetić",
+      "place": "Pribislavec",
+      "county": "Međimurska županija"
+    },
+    {
+      "castle": "Dvorac Banfi",
+      "place": "Štrigova",
+      "county": "Međimurska županija"
+    },
+    {
+      "castle": "dvorac Tkalec",
+      "place": "Štrigova",
+      "county": "Međimurska županija"
+    },
+    {
+      "castle": "dvorac Zichy-Terbocz",
+      "place": "Železna Gora",
+      "county": "Međimurska županija"
+    },
+    {
+      "castle": "Dvorac i kurija Adamović",
+      "place": "Aljmaš",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "dvorac Eugena Savojskog",
+      "place": "Bilje",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "dvorac Tikveš",
+      "place": "Bilje",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Dvorac Adamović",
+      "place": "Čepin",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Dvorac Esterházy",
+      "place": "Darda",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Dvorac Mailáth",
+      "place": "Donji Miholjac",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Dvorac Adamović",
+      "place": "Erdut",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Dvorac princa Karla Ludwiga",
+      "place": "Kneževo",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Isusovački dvorac",
+      "place": "Kutjevo",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Dvorac Pejačević",
+      "place": "Našice",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Retfala – Dvorac Pejačević",
+      "place": "Osijek",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Dvorac Jelengrad (srušen)",
+      "place": "Petrijevci",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Dvorac Adamović",
+      "place": "Tenja",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Dvorac Hilleprand-Prandau",
+      "place": "Valpovo",
+      "county": "Osječko-baranjska županija"
+    },
+    {
+      "castle": "Dvorac Požeškog kaptola",
+      "place": "Kaptol",
+      "county": "Požeško-slavonska županija"
+    },
+    {
+      "castle": "Trenkov dvorac",
+      "place": "Pakrac",
+      "county": "Požeško-slavonska županija"
+    },
+    {
+      "castle": "Dvorac Trenk (srušen)",
+      "place": "Pleternica",
+      "county": "Požeško-slavonska županija"
+    },
+    {
+      "castle": "Dvorac Janković (srušen)",
+      "place": "Stražeman",
+      "county": "Požeško-slavonska županija"
+    },
+    {
+      "castle": "Dvorac Trenk",
+      "place": "Trenkovo",
+      "county": "Požeško-slavonska županija"
+    },
+    {
+      "castle": "dvorac Petra Zrinskog",
+      "place": "Čabar",
+      "county": "Primorsko-goranska županija"
+    },
+    {
+      "castle": "dvorac Nova Kraljevica",
+      "place": "Kraljevica",
+      "county": "Primorsko-goranska županija"
+    },
+    {
+      "castle": "dvorac Stara Kraljevica",
+      "place": "Kraljevica",
+      "county": "Primorsko-goranska županija"
+    },
+    {
+      "castle": "dvorac Stara Sušica",
+      "place": "Ravna Gora",
+      "county": "Primorsko-goranska županija"
+    },
+    {
+      "castle": "dvorac Frankopana",
+      "place": "Severin na Kupi",
+      "county": "Primorsko-goranska županija"
+    },
+    {
+      "castle": "Dvorac Erdődy (neuropsihijatrijska bolnica dr. Ivan Barbot)",
+      "place": "Popovača",
+      "county": "Sisačko-moslavačka županija"
+    },
+    {
+      "castle": "dvorac Moretti",
+      "place": "Drvenik Veliki",
+      "county": "Splitsko-dalmatinska županija"
+    },
+    {
+      "castle": "kaštel dvorac Rušinac (Miljenkov dvorac)",
+      "place": "Kaštel Lukšić",
+      "county": "Splitsko-dalmatinska županija"
+    },
+    {
+      "castle": "dvorac Martinis – Marchi",
+      "place": "Maslinica (Šolta)",
+      "county": "Splitsko-dalmatinska županija"
+    },
+    {
+      "castle": "dvorac Bela",
+      "place": "Bela (Novi Marof)",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Šaulovec",
+      "place": "Beretinec",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Bisag",
+      "place": "Bisag",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Biškupec",
+      "place": "Biškupec (Varaždin)",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Čalinec",
+      "place": "Čalinec",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac grofa Merveldta (Črleni grad) (ruševina)",
+      "place": "Čanjevo Donje",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Jalkovec",
+      "place": "Jalkovec",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Jalžabet",
+      "place": "Jalžabet",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Klenovnik",
+      "place": "Klenovnik",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Križovljan – grad",
+      "place": "Križovljan Radovečki",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Krkanec",
+      "place": "Krkanec",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "Dvorac Batthyany",
+      "place": "Ludbreg",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Ljubeščica",
+      "place": "Ljubešćica",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Martijanec",
+      "place": "Martijanec",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Maruševec",
+      "place": "Maruševec",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Miljana",
+      "place": "Miljana",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Mirkovec",
+      "place": "Mirkovec",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Erdoedy",
+      "place": "Novi Marof",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Zelendvor (srušen)",
+      "place": "Petrijanec",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Seketin",
+      "place": "Seketin",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "Dvorac Trakošćan",
+      "place": "",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Drašković",
+      "place": "Veliki Bukovec",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Vidovec",
+      "place": "Vidovec",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Opeka",
+      "place": "Vinica",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Donja Vinica",
+      "place": "Vinica",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "dvorac Gornja Vinica",
+      "place": "Vinica",
+      "county": "Varaždinska županija"
+    },
+    {
+      "castle": "Dvorac Janković",
+      "place": "Cabuna",
+      "county": "Virovitičko-podravska županija"
+    },
+    {
+      "castle": "Dvorac Janković",
+      "place": "Suhopolje",
+      "county": "Virovitičko-podravska županija"
+    },
+    {
+      "castle": "Dvorac Pejačević",
+      "place": "Virovitica",
+      "county": "Virovitičko-podravska županija"
+    },
+    {
+      "castle": "Dvorac Janković (srušen)",
+      "place": "Voćin",
+      "county": "Virovitičko-podravska županija"
+    },
+    {
+      "castle": "Dvorac Odescalchi",
+      "place": "Ilok",
+      "county": "Vukovarsko-srijemska županija"
+    },
+    {
+      "castle": "dvorac Eltz u Vukovaru",
+      "place": "Vukovar",
+      "county": "Vukovarsko-srijemska županija"
+    },
+    {
+      "castle": "dvorac Nuštar",
+      "place": "Nuštar",
+      "county": "Vukovarsko-srijemska županija"
+    },
+    {
+      "castle": "dvorac Canagietti",
+      "place": "Iž",
+      "county": "Zadarska županija"
+    },
+    {
+      "castle": "dvorac Ugrinić ruševina",
+      "place": "Tkon (Pašman)",
+      "county": "Zadarska županija"
+    },
+    {
+      "castle": "Dvorac Blahimir",
+      "place": "Božjakovina",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "Dvorac Drašković",
+      "place": "Božjakovina",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "dvorac Januševec",
+      "place": "Brdovec",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "Dvorac Oršić",
+      "place": "Gornja Bistra",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "Dvorac Križevačke biskupije (srušen)",
+      "place": "Gornji Tkalec",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "Dvorac Zagrebačke nadbiskupije",
+      "place": "Gradec",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "dvorac Jakovlje",
+      "place": "Jakovlje",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "Dvorac Erdődy",
+      "place": "Jastrebarsko",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "Dvorac Erdődy",
+      "place": "Kerestinec",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "dvorac Laduč",
+      "place": "Laduč",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "Dvorac Hellenbach",
+      "place": "Marija Bistrica",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "Isusovački dvorac (srušen)",
+      "place": "Paukovec",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "Dvorac Adamović (srušen)",
+      "place": "Sveta Helena (Sveti Ivan Zelina)",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "dvorac Lužnica",
+      "place": "Zaprešić",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "dvorac Novi dvori",
+      "place": "Zaprešić",
+      "county": "Zagrebačka županija"
+    },
+    {
+      "castle": "dvorac Brezovica",
+      "place": "Brezovica",
+      "county": "Grad Zagreb"
+    }
+  ],
+  "meta": {
+    "title": "Dvorci u Hrvatskoj po županijama - Free Download",
+    "description": "Popis dvoraca u Hrvatskoj s mjestom u kojem se nalaze i županijom. Contains 119 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Dvorci u Hrvatskoj po županijama | ListBase",
+    "seo_description": "Download Dvorci u Hrvatskoj po županijama — 119 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 119 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Dodatak:Popis_hrvatskih_dvoraca_i_utvrda"
+    ]
+  }
+}
