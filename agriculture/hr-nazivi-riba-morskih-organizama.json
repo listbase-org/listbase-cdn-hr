@@ -1,0 +1,844 @@
+{
+  "id": "hr-nazivi-riba-morskih-organizama",
+  "name": "Popis naziva riba i drugih morskih organizama",
+  "title": "Popis naziva riba i drugih morskih organizama",
+  "description": "Službeni hrvatski nazivi riba i drugih morskih organizama za evidenciju ulova u gospodarskom ribolovu na moru, sa znanstvenim nazivom, FAO kodom i skupinom (Ministarstvo poljoprivrede, 2023.).",
+  "category": "agriculture",
+  "source": "https://data.gov.hr/ckan/dataset/popis-naziva-riba-i-ili-drugih-morskih-organizama",
+  "source_url": "https://data.gov.hr/ckan/dataset/popis-naziva-riba-i-ili-drugih-morskih-organizama",
+  "updated": "2026-11",
+  "record_count": 133,
+  "columns": [
+    {
+      "key": "croatian_name",
+      "label": "Croatian Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "fao_code",
+      "label": "Fao Code",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "croatian_name": "ARBUN",
+      "scientific_name": "Pagellus erythrinus",
+      "fao_code": "PAC",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "BATOGLAVAC (divlji arbun)",
+      "scientific_name": "Pagellus acarne",
+      "fao_code": "SBA",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "BEŽMEK",
+      "scientific_name": "Uranoscopus scaber",
+      "fao_code": "UUC",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "BUKVA, BUGVA",
+      "scientific_name": "Boops boops",
+      "fao_code": "BOG",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "CIPAL BALAVAC, SKOČAC",
+      "scientific_name": "Chelon ramada",
+      "fao_code": "MGC",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "CIPAL ZLATAR",
+      "scientific_name": "Chelon auratus",
+      "fao_code": "MGA",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "CIPLI",
+      "scientific_name": "Mugilidae",
+      "fao_code": "MUL",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "CRVENI BODEČ, ŠKRPINICA",
+      "scientific_name": "Scorpaena notata",
+      "fao_code": "SNQ",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "FRATAR",
+      "scientific_name": "Diplodus vulgaris",
+      "fao_code": "CTB",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "GAVUN",
+      "scientific_name": "Atherina hepsetus",
+      "fao_code": "AHH",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "GAVUNIĆ, OLIGA",
+      "scientific_name": "Atherina boyeri",
+      "fao_code": "ATB",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "GIRA OBLICA, MANULA",
+      "scientific_name": "Spicara smaris",
+      "fao_code": "SPC",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "GIRA OŠTRULJA",
+      "scientific_name": "Spicara flexuosa",
+      "fao_code": "PIC",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "GRDOBINE",
+      "scientific_name": "Lophius spp",
+      "fao_code": "MNZ",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "HAMA",
+      "scientific_name": "Argyrosomus regius",
+      "fao_code": "MGR",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "IVERAK ZLATOPJEG",
+      "scientific_name": "Pleuronectes platessa",
+      "fao_code": "PLE",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "IVERCI",
+      "scientific_name": "Pleuronectidae",
+      "fao_code": "PLZ",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "JEGULJA",
+      "scientific_name": "Anguilla anguilla",
+      "fao_code": "ELE",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "KANTAR",
+      "scientific_name": "Spondyliosoma cantharus",
+      "fao_code": "BRB",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "KANJAC",
+      "scientific_name": "Serranus cabrilla",
+      "fao_code": "CBR",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "KAVALA",
+      "scientific_name": "Sciaena umbra",
+      "fao_code": "CBM",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "KIRNJA GLAVULJA",
+      "scientific_name": "Polyprion americanus",
+      "fao_code": "WRF",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "KIRNJE",
+      "scientific_name": "Epinephelus spp",
+      "fao_code": "GPX",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "KOKOTI",
+      "scientific_name": "Triglidae",
+      "fao_code": "GUX",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "KOMARČA",
+      "scientific_name": "Sparus aurata",
+      "fao_code": "SBG",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "KORAF",
+      "scientific_name": "Umbrina cirrosa",
+      "fao_code": "COB",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "KOVAČ",
+      "scientific_name": "Zeus faber",
+      "fao_code": "JOD",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "LAMPUGA",
+      "scientific_name": "Coryphaena hippurus",
+      "fao_code": "DOL",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "LIST, ŠVOJA",
+      "scientific_name": "Solea solea",
+      "fao_code": "SOL",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "LUBIN",
+      "scientific_name": "Dicentrarchus labrax",
+      "fao_code": "BSS",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "LUMBRACI, HINCI",
+      "scientific_name": "Symphodus spp.",
+      "fao_code": "YFX",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "MODRAŠ",
+      "scientific_name": "Spicara maena",
+      "fao_code": "BPI",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "MURINA",
+      "scientific_name": "Muraena helena",
+      "fao_code": "MMH",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "OKAN, RUMENAC",
+      "scientific_name": "Pagellus bogaraveo",
+      "fao_code": "SBR",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "OSLIĆ",
+      "scientific_name": "Merluccius merluccius",
+      "fao_code": "HKE",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "OVČICA",
+      "scientific_name": "Lithognathus mormyrus",
+      "fao_code": "SSB",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "PAGAR",
+      "scientific_name": "Pagrus pagrus",
+      "fao_code": "RPG",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "PATARAČE",
+      "scientific_name": "Lepidorhombus spp",
+      "fao_code": "LEZ",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "PAUCI",
+      "scientific_name": "Trachinus spp",
+      "fao_code": "WEX",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "PIC",
+      "scientific_name": "Diplodus puntazzo",
+      "fao_code": "SHR",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "PIRKA",
+      "scientific_name": "Serranus scriba",
+      "fao_code": "SRK",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "PIŠMOLJ",
+      "scientific_name": "Merlangius merlangus",
+      "fao_code": "WHG",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "REPAŠ ZMIJIČNJAK (MAČ)",
+      "scientific_name": "Lepidopus caudatus",
+      "fao_code": "SFS",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "ROMB",
+      "scientific_name": "Scophthalmus maximus",
+      "fao_code": "TUR",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "SALPA",
+      "scientific_name": "Sarpa salpa",
+      "fao_code": "SLM",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "STRIJELKA",
+      "scientific_name": "Pomatomus saltatrix (saltator)",
+      "fao_code": "BLU",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "ŠARAG",
+      "scientific_name": "Diplodus sargus",
+      "fao_code": "SWA",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "ŠKARAM",
+      "scientific_name": "Sphyraena sphyraena",
+      "fao_code": "YRS",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "ŠKRPINA",
+      "scientific_name": "Scorpaena scrofa",
+      "fao_code": "RSE",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "ŠKRPUN",
+      "scientific_name": "Scorpaena porcus",
+      "fao_code": "BBS",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "ŠPAR",
+      "scientific_name": "Diplodus annularis",
+      "fao_code": "ANN",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "TABINJE",
+      "scientific_name": "Phycis spp",
+      "fao_code": "FOX",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "TRLJA BLATARICA",
+      "scientific_name": "Mullus barbatus",
+      "fao_code": "MUT",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "TRLJA KAMENJARKA",
+      "scientific_name": "Mullus surmuletus",
+      "fao_code": "MUR",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "UGOR",
+      "scientific_name": "Conger conger",
+      "fao_code": "COE",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "UGOTICA",
+      "scientific_name": "Micromesistius poutassou",
+      "fao_code": "WHB",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "UŠATA",
+      "scientific_name": "Oblada melanura",
+      "fao_code": "SBS",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "VRANA",
+      "scientific_name": "Labrus merula",
+      "fao_code": "WRM",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "ZUBATAC",
+      "scientific_name": "Dentex dentex",
+      "fao_code": "DEC",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "ZUBATAC KRUNAŠ",
+      "scientific_name": "Dentex gibbosus",
+      "fao_code": "DEP",
+      "group": "bijela riba"
+    },
+    {
+      "croatian_name": "HOBOTNICA",
+      "scientific_name": "Octopus vulgaris",
+      "fao_code": "OCC",
+      "group": "glavonošci"
+    },
+    {
+      "croatian_name": "LIGNJA",
+      "scientific_name": "Loligo vulgaris",
+      "fao_code": "SQR",
+      "group": "glavonošci"
+    },
+    {
+      "croatian_name": "LIGNJUNI",
+      "scientific_name": "Ommastrephidae",
+      "fao_code": "SQU",
+      "group": "glavonošci"
+    },
+    {
+      "croatian_name": "MUZGAVAC",
+      "scientific_name": "Eledone spp",
+      "fao_code": "OCM",
+      "group": "glavonošci"
+    },
+    {
+      "croatian_name": "MUZGAVAC BIJELI",
+      "scientific_name": "Eledone cirrhosa",
+      "fao_code": "EOI",
+      "group": "glavonošci"
+    },
+    {
+      "croatian_name": "MUZGAVAC CRNI",
+      "scientific_name": "Eledone moschata",
+      "fao_code": "EDT",
+      "group": "glavonošci"
+    },
+    {
+      "croatian_name": "SIPA",
+      "scientific_name": "Sepia officinalis",
+      "fao_code": "CTC",
+      "group": "glavonošci"
+    },
+    {
+      "croatian_name": "SIPICE",
+      "scientific_name": "Sepiidae, Sepiolidae",
+      "fao_code": "CTL",
+      "group": "glavonošci"
+    },
+    {
+      "croatian_name": "DRHTULJA MRKULJA",
+      "scientific_name": "Tetronarce nobiliana",
+      "fao_code": "TTO",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "DRHTULJA ŠARULJA",
+      "scientific_name": "Dasyatis marmorata",
+      "fao_code": "TTR",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "GOLUB",
+      "scientific_name": "Myliobatis aquila",
+      "fao_code": "MYL",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "MAČKA BLJEDICA",
+      "scientific_name": "Scyliorhinus canicula",
+      "fao_code": "SYC",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "MAČKA MRKULJA",
+      "scientific_name": "Scyliorhinus stellaris",
+      "fao_code": "SYT",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "MAČKE",
+      "scientific_name": "Scyliorhinus spp",
+      "fao_code": "SCL",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "PAS KOSTELJ",
+      "scientific_name": "Squalus acanthias",
+      "fao_code": "DGS",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "PAS MEKUŠ",
+      "scientific_name": "Mustelus asterias",
+      "fao_code": "SDS",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "PAS MEKUŠ, ČUKOV",
+      "scientific_name": "Mustelus mustelus",
+      "fao_code": "SMD",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "PJEGAVI PAS",
+      "scientific_name": "Mustelus punctulatus",
+      "fao_code": "MPT",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "RAŽA KAMENICA",
+      "scientific_name": "Raja clavata",
+      "fao_code": "RJC",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "RAŽA MODROPJEGA, BARAKOKULA",
+      "scientific_name": "Raja miraletus",
+      "fao_code": "JAI",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "RAŽA TUPONOSKA",
+      "scientific_name": "Raja radula",
+      "fao_code": "JAR",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "RAŽA VIJOŠARKA",
+      "scientific_name": "Raja undulata",
+      "fao_code": "RJU",
+      "group": "hrskavičnjače"
+    },
+    {
+      "croatian_name": "IGLICA",
+      "scientific_name": "Belone belone",
+      "fao_code": "GAR",
+      "group": "mala plava riba"
+    },
+    {
+      "croatian_name": "INĆUN",
+      "scientific_name": "Engraulis encrasicolus",
+      "fao_code": "ANE",
+      "group": "mala plava riba"
+    },
+    {
+      "croatian_name": "PAPALINA",
+      "scientific_name": "Sprattus sprattus",
+      "fao_code": "SPR",
+      "group": "mala plava riba"
+    },
+    {
+      "croatian_name": "PLAVICA, LOKARDA",
+      "scientific_name": "Scomber colias",
+      "fao_code": "VMA",
+      "group": "mala plava riba"
+    },
+    {
+      "croatian_name": "SKUŠA",
+      "scientific_name": "Scomber scombrus",
+      "fao_code": "MAC",
+      "group": "mala plava riba"
+    },
+    {
+      "croatian_name": "SRDELA",
+      "scientific_name": "Sardina pilchardus",
+      "fao_code": "PIL",
+      "group": "mala plava riba"
+    },
+    {
+      "croatian_name": "SRDELA GOLEMA",
+      "scientific_name": "Sardinella aurita",
+      "fao_code": "SAA",
+      "group": "mala plava riba"
+    },
+    {
+      "croatian_name": "ŠARUN",
+      "scientific_name": "Trachurus trachurus",
+      "fao_code": "HOM",
+      "group": "mala plava riba"
+    },
+    {
+      "croatian_name": "ŠARUN MEDITERANSKI, USKI",
+      "scientific_name": "Trachurus mediterraneus",
+      "fao_code": "HMM",
+      "group": "mala plava riba"
+    },
+    {
+      "croatian_name": "BIBI (MORSKI ŠTRCALJAC)",
+      "scientific_name": "Sipunculus nudus",
+      "fao_code": "SIU",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "CRNI JEŽINAC",
+      "scientific_name": "Arbacia lixula",
+      "fao_code": "UKB",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "CRVENI KORALJ",
+      "scientific_name": "Corallium rubrum",
+      "fao_code": "COL",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "JEŽINAC HRIDINSKI",
+      "scientific_name": "Paracentrotus lividus",
+      "fao_code": "URM",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "MORSKA JAJA",
+      "scientific_name": "Microcosmus vulgaris",
+      "fao_code": "SSG",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "MORSKI CRVI",
+      "scientific_name": "Polychaeta",
+      "fao_code": "WOR",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "PUŽEVI OSTALI",
+      "scientific_name": "Gastropoda",
+      "fao_code": "GAS",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "SPUŽVA OBIČNA",
+      "scientific_name": "Spongia officinalis",
+      "fao_code": "QGO",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "SPUŽVE",
+      "scientific_name": "Spongiidae",
+      "fao_code": "SPO",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "TRP OBIČNI",
+      "scientific_name": "Holothuria tubulosa",
+      "fao_code": "HFT",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "TRPOVI",
+      "scientific_name": "Holothuroidea",
+      "fao_code": "CUX",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "VELIKI MORSKI CRVI",
+      "scientific_name": "Eunice spp.",
+      "fao_code": "FXX",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "VOLCI",
+      "scientific_name": "Murex spp",
+      "fao_code": "MUE",
+      "group": "ostali organizmi"
+    },
+    {
+      "croatian_name": "HLAP",
+      "scientific_name": "Homarus gammarus",
+      "fao_code": "LBE",
+      "group": "rakovi"
+    },
+    {
+      "croatian_name": "JASTOG",
+      "scientific_name": "Palinurus elephas",
+      "fao_code": "SLO",
+      "group": "rakovi"
+    },
+    {
+      "croatian_name": "KANOĆA",
+      "scientific_name": "Squilla mantis",
+      "fao_code": "MTS",
+      "group": "rakovi"
+    },
+    {
+      "croatian_name": "KOZICA",
+      "scientific_name": "Parapenaeus longirostris",
+      "fao_code": "DPS",
+      "group": "rakovi"
+    },
+    {
+      "croatian_name": "KUKA",
+      "scientific_name": "Scyllarides latus",
+      "fao_code": "YLL",
+      "group": "rakovi"
+    },
+    {
+      "croatian_name": "PLAVI RAK",
+      "scientific_name": "Callinectes sapidus",
+      "fao_code": "CRB",
+      "group": "rakovi"
+    },
+    {
+      "croatian_name": "RAKOVICA",
+      "scientific_name": "Maja squinado",
+      "fao_code": "SCR",
+      "group": "rakovi"
+    },
+    {
+      "croatian_name": "ŠKAMP",
+      "scientific_name": "Nephrops norvegicus",
+      "fao_code": "NEP",
+      "group": "rakovi"
+    },
+    {
+      "croatian_name": "TIGRASTA KOZICA",
+      "scientific_name": "Penaeus monodon",
+      "fao_code": "GIT",
+      "group": "rakovi"
+    },
+    {
+      "croatian_name": "ZEZAVAC",
+      "scientific_name": "Scyllarus arctus",
+      "fao_code": "SCY",
+      "group": "rakovi"
+    },
+    {
+      "croatian_name": "DAGNJA",
+      "scientific_name": "Mytilus galloprovincialis",
+      "fao_code": "MSM",
+      "group": "školjkaši"
+    },
+    {
+      "croatian_name": "JAKOVLJEVA KAPICA",
+      "scientific_name": "Pecten jacobaeus",
+      "fao_code": "SJA",
+      "group": "školjkaši"
+    },
+    {
+      "croatian_name": "KAMENICA",
+      "scientific_name": "Ostrea edulis",
+      "fao_code": "OYF",
+      "group": "školjkaši"
+    },
+    {
+      "croatian_name": "KAPICE",
+      "scientific_name": "Pectinidae",
+      "fao_code": "SCX",
+      "group": "školjkaši"
+    },
+    {
+      "croatian_name": "KOKOŠ",
+      "scientific_name": "Chamelea gallina",
+      "fao_code": "SVE",
+      "group": "školjkaši"
+    },
+    {
+      "croatian_name": "KUĆICA",
+      "scientific_name": "Ruditapes decussatus",
+      "fao_code": "CTG",
+      "group": "školjkaši"
+    },
+    {
+      "croatian_name": "KUNJKA",
+      "scientific_name": "Arca noae",
+      "fao_code": "RKQ",
+      "group": "školjkaši"
+    },
+    {
+      "croatian_name": "MALA KAPICA",
+      "scientific_name": "Chlamys varia",
+      "fao_code": "VSC",
+      "group": "školjkaši"
+    },
+    {
+      "croatian_name": "PRNJAVICA, BRBAVICA",
+      "scientific_name": "Venus verrucosa",
+      "fao_code": "VEV",
+      "group": "školjkaši"
+    },
+    {
+      "croatian_name": "RUMENKA",
+      "scientific_name": "Callista chione",
+      "fao_code": "KLK",
+      "group": "školjkaši"
+    },
+    {
+      "croatian_name": "GOF",
+      "scientific_name": "Seriola dumerili",
+      "fao_code": "AMB",
+      "group": "velika plava riba"
+    },
+    {
+      "croatian_name": "IGLAN",
+      "scientific_name": "Tetrapturus belone",
+      "fao_code": "MSP",
+      "group": "velika plava riba"
+    },
+    {
+      "croatian_name": "IGLUN, SABLJARKA",
+      "scientific_name": "Xiphias gladius",
+      "fao_code": "SWO",
+      "group": "velika plava riba"
+    },
+    {
+      "croatian_name": "LICA",
+      "scientific_name": "Lichia amia",
+      "fao_code": "LEE",
+      "group": "velika plava riba"
+    },
+    {
+      "croatian_name": "LUC",
+      "scientific_name": "Euthynnus alletteratus",
+      "fao_code": "LTA",
+      "group": "velika plava riba"
+    },
+    {
+      "croatian_name": "PALAMIDA",
+      "scientific_name": "Sarda sarda",
+      "fao_code": "BON",
+      "group": "velika plava riba"
+    },
+    {
+      "croatian_name": "TRUP, RUMBAC",
+      "scientific_name": "Auxis rochei",
+      "fao_code": "BLT",
+      "group": "velika plava riba"
+    },
+    {
+      "croatian_name": "TUNA ALBAKORE",
+      "scientific_name": "Thunnus alalunga",
+      "fao_code": "ALB",
+      "group": "velika plava riba"
+    },
+    {
+      "croatian_name": "TUNA PLAVOPERAJNA",
+      "scientific_name": "Thunnus thynnus",
+      "fao_code": "BFT",
+      "group": "velika plava riba"
+    }
+  ],
+  "meta": {
+    "title": "Popis naziva riba i drugih morskih organizama - Free Download",
+    "description": "Službeni hrvatski nazivi riba i drugih morskih organizama za evidenciju ulova u gospodarskom ribolovu na moru, sa znanstvenim nazivom, FAO kodom i skupinom (Ministarstvo poljoprivrede, 2023.). Contains 133 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Popis naziva riba i drugih morskih organizama | ListBase",
+    "seo_description": "Download Popis naziva riba i drugih morskih organizama — 133 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 133 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/popis-naziva-riba-i-ili-drugih-morskih-organizama"
+    ]
+  }
+}
