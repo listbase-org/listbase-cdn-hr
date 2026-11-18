@@ -1,0 +1,415 @@
+{
+  "id": "hr-osjetljive-morske-vrste-slucajni-ulov",
+  "name": "Osjetljive morske vrste – slučajni ulov u Jadranu",
+  "title": "Osjetljive morske vrste – slučajni ulov u Jadranu",
+  "description": "Popis osjetljivih vrsta morskih sisavaca, hrskavičnjača, morskih ptica i morskih kornjača za koje se bilježi slučajni ulov u gospodarskom ribolovu, sa znanstvenim nazivom, FAO kodom i oznakom prioriteta praćenja (Ministarstvo poljoprivrede, 2023.).",
+  "category": "environment",
+  "source": "https://data.gov.hr/ckan/dataset/popis-osjetljivih-vrsta",
+  "source_url": "https://data.gov.hr/ckan/dataset/popis-osjetljivih-vrsta",
+  "updated": "2026-11",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "croatian_name",
+      "label": "Croatian Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "fao_code",
+      "label": "Fao Code",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "monitoring_priority",
+      "label": "Monitoring Priority",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "croatian_name": "BUTOR",
+      "scientific_name": "Galeorhinus galeus",
+      "fao_code": "GAG",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "JARAM, MLAT",
+      "scientific_name": "Sphyrna zygaena",
+      "fao_code": "SPZ",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "KUČAK",
+      "scientific_name": "Isurus oxyrinchus",
+      "fao_code": "SMA",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "KUČINA",
+      "scientific_name": "Lamna nasus",
+      "fao_code": "POR",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "MODRULJ",
+      "scientific_name": "Prionace glauca",
+      "fao_code": "BSH",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "PAS LISICA",
+      "scientific_name": "Alopias vulpinus",
+      "fao_code": "ALV",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "PAS TUPAN",
+      "scientific_name": "Carcharhinus plumbeus",
+      "fao_code": "CCP",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "PILAN",
+      "scientific_name": "Pristis pectinata",
+      "fao_code": "RPP",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "PRASAC",
+      "scientific_name": "Oxynotus centrina",
+      "fao_code": "OXY",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "PSINA GOLEMA",
+      "scientific_name": "Cetorhinus maximus",
+      "fao_code": "BSK",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "PSINA ZMIJOZUBA PETOŠILJKA",
+      "scientific_name": "Odontaspis ferox",
+      "fao_code": "LOO",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "PSINA ZMIJOZUBA TROŠILJKA",
+      "scientific_name": "Carcharias taurus",
+      "fao_code": "CCT",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "SKLAT SIVAC",
+      "scientific_name": "Squatina squatina",
+      "fao_code": "AGN",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "SKLAT ŽUTAN",
+      "scientific_name": "Squatina oculata",
+      "fao_code": "SUT",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "VELIKA BIJELA PSINA",
+      "scientific_name": "Carcharodon carcharias",
+      "fao_code": "WSH",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "VELIKOOKI PAS LISICA",
+      "scientific_name": "Alopias superciliosus",
+      "fao_code": "BTH",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "VOLONJA",
+      "scientific_name": "Hexanchus griseus",
+      "fao_code": "SBL",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "VOLONJA PEPELJAK",
+      "scientific_name": "Heptranchias perlo",
+      "fao_code": "HXT",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "RAŽOPAS",
+      "scientific_name": "Rhinobatos rhinobatos",
+      "fao_code": "RBX",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "KLINKA",
+      "scientific_name": "Dipturus oxyrinchus",
+      "fao_code": "RJO",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "RAŽA SMEĐA",
+      "scientific_name": "Leucoraja circularis",
+      "fao_code": "RJI",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "VOLINA",
+      "scientific_name": "Dipturus cf. batis",
+      "fao_code": "RJB",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "VOLINA BJELICA",
+      "scientific_name": "Rostroraja alba",
+      "fao_code": "RJA",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "GOLUB UHAN",
+      "scientific_name": "Mobula mobular",
+      "fao_code": "RMM",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "GOLUB ĆUKAN",
+      "scientific_name": "Aetomylaeus bovinus",
+      "fao_code": "MPO",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "LEPTIRICA",
+      "scientific_name": "Gymnura altavela",
+      "fao_code": "RGL",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "ŽUTUGA",
+      "scientific_name": "Dasyatis pastinaca",
+      "fao_code": "JDP",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "ŽUTUGA DRAČOREPA",
+      "scientific_name": "Bathytoshia lata",
+      "fao_code": "RDC",
+      "group": "Hrskavične ribe",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "GLAVATA ŽELVA",
+      "scientific_name": "Caretta caretta",
+      "fao_code": "TTL",
+      "group": "Gmazovi",
+      "monitoring_priority": "da"
+    },
+    {
+      "croatian_name": "SEDMOPRUGA USMINJAČA",
+      "scientific_name": "Dermochelys coriacea",
+      "fao_code": "DKK",
+      "group": "Gmazovi",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "ZELENA ŽELVA",
+      "scientific_name": "Chelonia mydas",
+      "fao_code": "TUG",
+      "group": "Gmazovi",
+      "monitoring_priority": "da"
+    },
+    {
+      "croatian_name": "BUKOČ",
+      "scientific_name": "Pandion haliaetus",
+      "fao_code": "",
+      "group": "Ptice",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "BURNICA",
+      "scientific_name": "Hydrobates pelagicus",
+      "fao_code": "DAZ",
+      "group": "Ptice",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "CRNOGLAVI GALEB",
+      "scientific_name": "Larus melanocephalus",
+      "fao_code": "",
+      "group": "Ptice",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "DUGOKLJUNA ČIGRA",
+      "scientific_name": "Sterna sandvicensis",
+      "fao_code": "",
+      "group": "Ptice",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "GREGULA",
+      "scientific_name": "Puffinus yelkouan",
+      "fao_code": "",
+      "group": "Ptice",
+      "monitoring_priority": "da"
+    },
+    {
+      "croatian_name": "KAUKAL, VELIKI ZOVOJ",
+      "scientific_name": "Calonectris diomedea",
+      "fao_code": "CDI",
+      "group": "Ptice",
+      "monitoring_priority": "da"
+    },
+    {
+      "croatian_name": "MALA ČIGRA",
+      "scientific_name": "Sterna albifrons",
+      "fao_code": "",
+      "group": "Ptice",
+      "monitoring_priority": "da"
+    },
+    {
+      "croatian_name": "MALI VRANAC",
+      "scientific_name": "Phalacrocorax pygmaeus",
+      "fao_code": "",
+      "group": "Ptice",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "MORSKI VRANAC",
+      "scientific_name": "Phalacrocorax aristotelis",
+      "fao_code": "ISW",
+      "group": "Ptice",
+      "monitoring_priority": "da"
+    },
+    {
+      "croatian_name": "SREDOZEMNI GALEB",
+      "scientific_name": "Larus audouinii",
+      "fao_code": "LVH",
+      "group": "Ptice",
+      "monitoring_priority": "da"
+    },
+    {
+      "croatian_name": "VELIKA ČIGRA",
+      "scientific_name": "Sterna caspia",
+      "fao_code": "",
+      "group": "Ptice",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "BJELOGRLI DUPIN",
+      "scientific_name": "Globicephala melas",
+      "fao_code": "PIW",
+      "group": "Sisavci",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "CRNI DUPIN",
+      "scientific_name": "Pseudorca crassidens",
+      "fao_code": "FAW",
+      "group": "Sisavci",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "CUVIEROV KLJUNASTI KIT, KRUPNOZUBI DUPIN",
+      "scientific_name": "Ziphius cavirostris",
+      "fao_code": "BCW",
+      "group": "Sisavci",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "DOBRI DUPIN",
+      "scientific_name": "Tursiops truncatus",
+      "fao_code": "DBO",
+      "group": "Sisavci",
+      "monitoring_priority": "da"
+    },
+    {
+      "croatian_name": "RISSOV (GLAVATI) DUPIN",
+      "scientific_name": "Grampus griseus",
+      "fao_code": "DRR",
+      "group": "Sisavci",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "OBIČNI DUPIN",
+      "scientific_name": "Delphinus delphis",
+      "fao_code": "DCO",
+      "group": "Sisavci",
+      "monitoring_priority": "da"
+    },
+    {
+      "croatian_name": "PRUGASTI DUPIN",
+      "scientific_name": "Stenella coeruleoalba",
+      "fao_code": "DST",
+      "group": "Sisavci",
+      "monitoring_priority": "da"
+    },
+    {
+      "croatian_name": "ULJEŠURA",
+      "scientific_name": "Physeter macrocephalus",
+      "fao_code": "SPW",
+      "group": "Sisavci",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "VELIKI KIT",
+      "scientific_name": "Balaenoptera physalus",
+      "fao_code": "FIW",
+      "group": "Sisavci",
+      "monitoring_priority": "ne"
+    },
+    {
+      "croatian_name": "SREDOZEMNA MEDVJEDICA",
+      "scientific_name": "Monachus monachus",
+      "fao_code": "SMM",
+      "group": "Sisavci",
+      "monitoring_priority": "ne"
+    }
+  ],
+  "meta": {
+    "title": "Osjetljive morske vrste – slučajni ulov u Jadranu - Free Download",
+    "description": "Popis osjetljivih vrsta morskih sisavaca, hrskavičnjača, morskih ptica i morskih kornjača za koje se bilježi slučajni ulov u gospodarskom ribolovu, sa znanstvenim nazivom, FAO kodom i oznakom prioriteta praćenja (Ministarstvo poljoprivrede, 2023.). Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Osjetljive morske vrste – slučajni ulov u Jadranu | ListBase",
+    "seo_description": "Download Osjetljive morske vrste – slučajni ulov u Jadranu — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/popis-osjetljivih-vrsta"
+    ]
+  }
+}

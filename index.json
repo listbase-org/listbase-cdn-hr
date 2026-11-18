@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-18T02:34:58.942Z",
-  "total_datasets": 513,
-  "total_records": 832011,
+  "generated": "2026-11-18T02:35:07.097Z",
+  "total_datasets": 514,
+  "total_records": 832063,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -2284,6 +2284,32 @@
         "xlsx": {
           "name": "hr-mjerne-jedinice-temperature_HR.xlsx",
           "size": 7049
+        }
+      }
+    },
+    {
+      "id": "hr-osjetljive-morske-vrste-slucajni-ulov",
+      "name": "Osjetljive morske vrste – slučajni ulov u Jadranu",
+      "category": "environment",
+      "record_count": 52,
+      "columns": [
+        "croatian_name",
+        "scientific_name",
+        "fao_code",
+        "group",
+        "monitoring_priority"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/popis-osjetljivih-vrsta",
+      "updated": "2026-11",
+      "size": 11894,
+      "files": {
+        "csv": {
+          "name": "hr-osjetljive-morske-vrste-slucajni-ulov_HR.csv",
+          "size": 3283
+        },
+        "xlsx": {
+          "name": "hr-osjetljive-morske-vrste-slucajni-ulov_HR.xlsx",
+          "size": 9193
         }
       }
     },
