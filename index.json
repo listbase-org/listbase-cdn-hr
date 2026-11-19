@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-19T02:39:33.347Z",
-  "total_datasets": 515,
-  "total_records": 832085,
+  "generated": "2026-11-19T02:39:46.212Z",
+  "total_datasets": 516,
+  "total_records": 832098,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -11838,6 +11838,39 @@
         "xlsx": {
           "name": "hr-narodnosti-popis-2021_HR.xlsx",
           "size": 7480
+        }
+      }
+    },
+    {
+      "id": "hr-pokazatelji-siromastva-2010-2022",
+      "name": "Pokazatelji siromaštva i socijalne isključenosti u Hrvatskoj (2010.–2022.)",
+      "category": "society",
+      "record_count": 13,
+      "columns": [
+        "godina",
+        "stopa_rizika_od_siromastva_pct",
+        "prag_siromastva_jednoclano_kucanstvo_eur",
+        "prag_siromastva_2_odrasla_2_djece_eur",
+        "prag_siromastva_jednoclano_kucanstvo_kn",
+        "prag_siromastva_2_odrasla_2_djece_kn",
+        "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct",
+        "teska_materijalna_deprivacija_4_stavke_pct",
+        "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct",
+        "vrlo_nizak_intenzitet_rada_pct",
+        "kvintilni_omjer_s80_s20",
+        "ginijev_koeficijent"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-pokazatelji-siroma-tva-i-socijalne-isklju-enosti",
+      "updated": "2026-11",
+      "size": 11547,
+      "files": {
+        "csv": {
+          "name": "hr-pokazatelji-siromastva-2010-2022_HR.csv",
+          "size": 1478
+        },
+        "xlsx": {
+          "name": "hr-pokazatelji-siromastva-2010-2022_HR.xlsx",
+          "size": 7898
         }
       }
     },

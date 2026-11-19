@@ -1,0 +1,268 @@
+{
+  "id": "hr-pokazatelji-siromastva-2010-2022",
+  "name": "Pokazatelji siromaštva i socijalne isključenosti u Hrvatskoj (2010.–2022.)",
+  "title": "Pokazatelji siromaštva i socijalne isključenosti u Hrvatskoj (2010.–2022.)",
+  "description": "Godišnji pokazatelji siromaštva u Hrvatskoj: stopa rizika od siromaštva, prag rizika od siromaštva (euri i kune), stopa rizika od siromaštva ili socijalne isključenosti, materijalna deprivacija, kvintilni omjer S80/S20 i Ginijev koeficijent (DZS, Anketa o dohotku stanovništva).",
+  "category": "society",
+  "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-pokazatelji-siroma-tva-i-socijalne-isklju-enosti",
+  "source_url": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-pokazatelji-siroma-tva-i-socijalne-isklju-enosti",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "stopa_rizika_od_siromastva_pct",
+      "label": "Stopa Rizika Od Siromastva Pct",
+      "type": "number"
+    },
+    {
+      "key": "prag_siromastva_jednoclano_kucanstvo_eur",
+      "label": "Prag Siromastva Jednoclano Kucanstvo Eur",
+      "type": "number"
+    },
+    {
+      "key": "prag_siromastva_2_odrasla_2_djece_eur",
+      "label": "Prag Siromastva 2 Odrasla 2 Djece Eur",
+      "type": "number"
+    },
+    {
+      "key": "prag_siromastva_jednoclano_kucanstvo_kn",
+      "label": "Prag Siromastva Jednoclano Kucanstvo Kn",
+      "type": "number"
+    },
+    {
+      "key": "prag_siromastva_2_odrasla_2_djece_kn",
+      "label": "Prag Siromastva 2 Odrasla 2 Djece Kn",
+      "type": "number"
+    },
+    {
+      "key": "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct",
+      "label": "Osobe U Riziku Od Siromastva Ili Soc Iskljucenosti Pct",
+      "type": "number"
+    },
+    {
+      "key": "teska_materijalna_deprivacija_4_stavke_pct",
+      "label": "Teska Materijalna Deprivacija 4 Stavke Pct",
+      "type": "number"
+    },
+    {
+      "key": "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct",
+      "label": "Teska Materijalna I Socijalna Deprivacija 7 Stavki Pct",
+      "type": "number"
+    },
+    {
+      "key": "vrlo_nizak_intenzitet_rada_pct",
+      "label": "Vrlo Nizak Intenzitet Rada Pct",
+      "type": "number"
+    },
+    {
+      "key": "kvintilni_omjer_s80_s20",
+      "label": "Kvintilni Omjer S80 S20",
+      "type": "number"
+    },
+    {
+      "key": "ginijev_koeficijent",
+      "label": "Ginijev Koeficijent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "godina": 2010,
+      "stopa_rizika_od_siromastva_pct": 20.6,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 3396,
+      "prag_siromastva_2_odrasla_2_djece_eur": 7131,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 25586,
+      "prag_siromastva_2_odrasla_2_djece_kn": 53731,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 31.1,
+      "teska_materijalna_deprivacija_4_stavke_pct": 14.3,
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": "",
+      "vrlo_nizak_intenzitet_rada_pct": 13.9,
+      "kvintilni_omjer_s80_s20": 5.5,
+      "ginijev_koeficijent": 31.6
+    },
+    {
+      "godina": 2011,
+      "stopa_rizika_od_siromastva_pct": 20.9,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 3238,
+      "prag_siromastva_2_odrasla_2_djece_eur": 6801,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 24400,
+      "prag_siromastva_2_odrasla_2_djece_kn": 51240,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 32.6,
+      "teska_materijalna_deprivacija_4_stavke_pct": 15.2,
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": "",
+      "vrlo_nizak_intenzitet_rada_pct": 15.9,
+      "kvintilni_omjer_s80_s20": 5.6,
+      "ginijev_koeficijent": 31.2
+    },
+    {
+      "godina": 2012,
+      "stopa_rizika_od_siromastva_pct": 20.4,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 3185,
+      "prag_siromastva_2_odrasla_2_djece_eur": 6689,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 24000,
+      "prag_siromastva_2_odrasla_2_djece_kn": 50400,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 32.6,
+      "teska_materijalna_deprivacija_4_stavke_pct": 15.9,
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": "",
+      "vrlo_nizak_intenzitet_rada_pct": 16.8,
+      "kvintilni_omjer_s80_s20": 5.4,
+      "ginijev_koeficijent": 30.9
+    },
+    {
+      "godina": 2013,
+      "stopa_rizika_od_siromastva_pct": 19.5,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 3041,
+      "prag_siromastva_2_odrasla_2_djece_eur": 6387,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 22916,
+      "prag_siromastva_2_odrasla_2_djece_kn": 48124,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 29.9,
+      "teska_materijalna_deprivacija_4_stavke_pct": 14.7,
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": "",
+      "vrlo_nizak_intenzitet_rada_pct": 14.8,
+      "kvintilni_omjer_s80_s20": 5.3,
+      "ginijev_koeficijent": 30.9
+    },
+    {
+      "godina": 2014,
+      "stopa_rizika_od_siromastva_pct": 19.4,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 3153,
+      "prag_siromastva_2_odrasla_2_djece_eur": 6622,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 23760,
+      "prag_siromastva_2_odrasla_2_djece_kn": 49896,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 29.3,
+      "teska_materijalna_deprivacija_4_stavke_pct": 13.9,
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": "",
+      "vrlo_nizak_intenzitet_rada_pct": 14.7,
+      "kvintilni_omjer_s80_s20": 5.1,
+      "ginijev_koeficijent": 30.2
+    },
+    {
+      "godina": 2015,
+      "stopa_rizika_od_siromastva_pct": 20,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 3315,
+      "prag_siromastva_2_odrasla_2_djece_eur": 6962,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 24979,
+      "prag_siromastva_2_odrasla_2_djece_kn": 52456,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 29.1,
+      "teska_materijalna_deprivacija_4_stavke_pct": 13.7,
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": "",
+      "vrlo_nizak_intenzitet_rada_pct": 14.4,
+      "kvintilni_omjer_s80_s20": 5.2,
+      "ginijev_koeficijent": 30.4
+    },
+    {
+      "godina": 2016,
+      "stopa_rizika_od_siromastva_pct": 19.5,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 3471,
+      "prag_siromastva_2_odrasla_2_djece_eur": 7290,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 26156,
+      "prag_siromastva_2_odrasla_2_djece_kn": 54928,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 27.9,
+      "teska_materijalna_deprivacija_4_stavke_pct": 12.5,
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": "",
+      "vrlo_nizak_intenzitet_rada_pct": 13,
+      "kvintilni_omjer_s80_s20": 5,
+      "ginijev_koeficijent": 29.8
+    },
+    {
+      "godina": 2017,
+      "stopa_rizika_od_siromastva_pct": 20,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 3726,
+      "prag_siromastva_2_odrasla_2_djece_eur": 7823,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 28070,
+      "prag_siromastva_2_odrasla_2_djece_kn": 58946,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 26.4,
+      "teska_materijalna_deprivacija_4_stavke_pct": 10.3,
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": "",
+      "vrlo_nizak_intenzitet_rada_pct": 12.2,
+      "kvintilni_omjer_s80_s20": 5,
+      "ginijev_koeficijent": 29.9
+    },
+    {
+      "godina": 2018,
+      "stopa_rizika_od_siromastva_pct": 19.3,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 3958,
+      "prag_siromastva_2_odrasla_2_djece_eur": 8311,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 29820,
+      "prag_siromastva_2_odrasla_2_djece_kn": 62622,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 24.8,
+      "teska_materijalna_deprivacija_4_stavke_pct": 8.6,
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": "",
+      "vrlo_nizak_intenzitet_rada_pct": 11.2,
+      "kvintilni_omjer_s80_s20": 5,
+      "ginijev_koeficijent": 29.7
+    },
+    {
+      "godina": 2019,
+      "stopa_rizika_od_siromastva_pct": 18.3,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 4316,
+      "prag_siromastva_2_odrasla_2_djece_eur": 9064,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 32520,
+      "prag_siromastva_2_odrasla_2_djece_kn": 68292,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 23.3,
+      "teska_materijalna_deprivacija_4_stavke_pct": 7.3,
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": "",
+      "vrlo_nizak_intenzitet_rada_pct": 9.2,
+      "kvintilni_omjer_s80_s20": 4.8,
+      "ginijev_koeficijent": 29.2
+    },
+    {
+      "godina": 2020,
+      "stopa_rizika_od_siromastva_pct": 18.3,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 4662,
+      "prag_siromastva_2_odrasla_2_djece_eur": 9790,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 35124,
+      "prag_siromastva_2_odrasla_2_djece_kn": 73761,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 23.2,
+      "teska_materijalna_deprivacija_4_stavke_pct": 6.9,
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": "",
+      "vrlo_nizak_intenzitet_rada_pct": 8.6,
+      "kvintilni_omjer_s80_s20": 4.6,
+      "ginijev_koeficijent": 28.3
+    },
+    {
+      "godina": 2021,
+      "stopa_rizika_od_siromastva_pct": 19.2,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 4839,
+      "prag_siromastva_2_odrasla_2_djece_eur": 10162,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 36461,
+      "prag_siromastva_2_odrasla_2_djece_kn": 76568,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 20.9,
+      "teska_materijalna_deprivacija_4_stavke_pct": "",
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": 3.5,
+      "vrlo_nizak_intenzitet_rada_pct": 7.5,
+      "kvintilni_omjer_s80_s20": 4.8,
+      "ginijev_koeficijent": 29.2
+    },
+    {
+      "godina": 2022,
+      "stopa_rizika_od_siromastva_pct": 18,
+      "prag_siromastva_jednoclano_kucanstvo_eur": 5256,
+      "prag_siromastva_2_odrasla_2_djece_eur": 11037,
+      "prag_siromastva_jednoclano_kucanstvo_kn": 39600,
+      "prag_siromastva_2_odrasla_2_djece_kn": 83160,
+      "osobe_u_riziku_od_siromastva_ili_soc_iskljucenosti_pct": 19.9,
+      "teska_materijalna_deprivacija_4_stavke_pct": "",
+      "teska_materijalna_i_socijalna_deprivacija_7_stavki_pct": 4,
+      "vrlo_nizak_intenzitet_rada_pct": 6.3,
+      "kvintilni_omjer_s80_s20": 4.6,
+      "ginijev_koeficijent": 28.5
+    }
+  ],
+  "meta": {
+    "title": "Pokazatelji siromaštva i socijalne isključenosti u Hrvatskoj (2010.–2022.) - Free Download",
+    "description": "Godišnji pokazatelji siromaštva u Hrvatskoj: stopa rizika od siromaštva, prag rizika od siromaštva (euri i kune), stopa rizika od siromaštva ili socijalne isključenosti, materijalna deprivacija, kvintilni omjer S80/S20 i Ginijev koeficijent (DZS, Anketa o dohotku stanovništva). Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pokazatelji siromaštva i socijalne isključenosti u Hrvatskoj (2010.–2022.) | ListBase",
+    "seo_description": "Download Pokazatelji siromaštva i socijalne isključenosti u Hrvatskoj (2010.–2022.) — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/statistika-u-nizu-pokazatelji-siroma-tva-i-socijalne-isklju-enosti"
+    ]
+  }
+}
