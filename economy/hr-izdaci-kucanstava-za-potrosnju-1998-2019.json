@@ -1,0 +1,368 @@
+{
+  "id": "hr-izdaci-kucanstava-za-potrosnju-1998-2019",
+  "name": "Prosječni izdaci kućanstava za potrošnju po skupinama (1998.–2019.)",
+  "title": "Prosječni izdaci kućanstava za potrošnju po skupinama (1998.–2019.)",
+  "description": "Prosječni godišnji izdaci za potrošnju po kućanstvu u Hrvatskoj u eurima prema skupinama COICOP (hrana, stanovanje, prijevoz, zdravstvo itd.), iz Ankete o potrošnji kućanstava DZS-a.",
+  "category": "economy",
+  "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-rezultati-ankete-o-potrosnji-kucanstava",
+  "source_url": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-rezultati-ankete-o-potrosnji-kucanstava",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "ukupno",
+      "label": "Ukupno",
+      "type": "number"
+    },
+    {
+      "key": "hrana_i_bezalkoholna_pica",
+      "label": "Hrana I Bezalkoholna Pica",
+      "type": "number"
+    },
+    {
+      "key": "alkoholna_pica_i_duhan",
+      "label": "Alkoholna Pica I Duhan",
+      "type": "number"
+    },
+    {
+      "key": "odjeca_i_obuca",
+      "label": "Odjeca I Obuca",
+      "type": "number"
+    },
+    {
+      "key": "stanovanje_i_energija",
+      "label": "Stanovanje I Energija",
+      "type": "number"
+    },
+    {
+      "key": "pokucstvo_i_odrzavanje",
+      "label": "Pokucstvo I Odrzavanje",
+      "type": "number"
+    },
+    {
+      "key": "zdravstvo",
+      "label": "Zdravstvo",
+      "type": "number"
+    },
+    {
+      "key": "prijevoz",
+      "label": "Prijevoz",
+      "type": "number"
+    },
+    {
+      "key": "komunikacije",
+      "label": "Komunikacije",
+      "type": "number"
+    },
+    {
+      "key": "rekreacija_i_kultura",
+      "label": "Rekreacija I Kultura",
+      "type": "number"
+    },
+    {
+      "key": "obrazovanje",
+      "label": "Obrazovanje",
+      "type": "number"
+    },
+    {
+      "key": "restorani_i_hoteli",
+      "label": "Restorani I Hoteli",
+      "type": "number"
+    },
+    {
+      "key": "razna_dobra_i_usluge",
+      "label": "Razna Dobra I Usluge",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "godina": 1998,
+      "ukupno": 7124,
+      "hrana_i_bezalkoholna_pica": 2719,
+      "alkoholna_pica_i_duhan": 328,
+      "odjeca_i_obuca": 447,
+      "stanovanje_i_energija": 770,
+      "pokucstvo_i_odrzavanje": 450,
+      "zdravstvo": 119,
+      "prijevoz": 956,
+      "komunikacije": 134,
+      "rekreacija_i_kultura": 366,
+      "obrazovanje": 44,
+      "restorani_i_hoteli": 217,
+      "razna_dobra_i_usluge": 575
+    },
+    {
+      "godina": 1999,
+      "ukupno": 6952,
+      "hrana_i_bezalkoholna_pica": 2631,
+      "alkoholna_pica_i_duhan": 317,
+      "odjeca_i_obuca": 519,
+      "stanovanje_i_energija": 923,
+      "pokucstvo_i_odrzavanje": 409,
+      "zdravstvo": 127,
+      "prijevoz": 763,
+      "komunikacije": 148,
+      "rekreacija_i_kultura": 397,
+      "obrazovanje": 49,
+      "restorani_i_hoteli": 190,
+      "razna_dobra_i_usluge": 478
+    },
+    {
+      "godina": 2000,
+      "ukupno": 7779,
+      "hrana_i_bezalkoholna_pica": 2501,
+      "alkoholna_pica_i_duhan": 302,
+      "odjeca_i_obuca": 784,
+      "stanovanje_i_energija": 1037,
+      "pokucstvo_i_odrzavanje": 382,
+      "zdravstvo": 163,
+      "prijevoz": 950,
+      "komunikacije": 215,
+      "rekreacija_i_kultura": 522,
+      "obrazovanje": 57,
+      "restorani_i_hoteli": 286,
+      "razna_dobra_i_usluge": 581
+    },
+    {
+      "godina": 2001,
+      "ukupno": 8115,
+      "hrana_i_bezalkoholna_pica": 2732,
+      "alkoholna_pica_i_duhan": 330,
+      "odjeca_i_obuca": 741,
+      "stanovanje_i_energija": 1087,
+      "pokucstvo_i_odrzavanje": 458,
+      "zdravstvo": 164,
+      "prijevoz": 933,
+      "komunikacije": 282,
+      "rekreacija_i_kultura": 475,
+      "obrazovanje": 67,
+      "restorani_i_hoteli": 242,
+      "razna_dobra_i_usluge": 605
+    },
+    {
+      "godina": 2002,
+      "ukupno": 8592,
+      "hrana_i_bezalkoholna_pica": 2763,
+      "alkoholna_pica_i_duhan": 342,
+      "odjeca_i_obuca": 761,
+      "stanovanje_i_energija": 1178,
+      "pokucstvo_i_odrzavanje": 474,
+      "zdravstvo": 191,
+      "prijevoz": 951,
+      "komunikacije": 413,
+      "rekreacija_i_kultura": 551,
+      "obrazovanje": 58,
+      "restorani_i_hoteli": 272,
+      "razna_dobra_i_usluge": 636
+    },
+    {
+      "godina": 2003,
+      "ukupno": 8706,
+      "hrana_i_bezalkoholna_pica": 2838,
+      "alkoholna_pica_i_duhan": 365,
+      "odjeca_i_obuca": 725,
+      "stanovanje_i_energija": 1199,
+      "pokucstvo_i_odrzavanje": 467,
+      "zdravstvo": 184,
+      "prijevoz": 997,
+      "komunikacije": 432,
+      "rekreacija_i_kultura": 538,
+      "obrazovanje": 58,
+      "restorani_i_hoteli": 241,
+      "razna_dobra_i_usluge": 661
+    },
+    {
+      "godina": 2004,
+      "ukupno": 9095,
+      "hrana_i_bezalkoholna_pica": 2865,
+      "alkoholna_pica_i_duhan": 369,
+      "odjeca_i_obuca": 733,
+      "stanovanje_i_energija": 1184,
+      "pokucstvo_i_odrzavanje": 486,
+      "zdravstvo": 218,
+      "prijevoz": 1078,
+      "komunikacije": 487,
+      "rekreacija_i_kultura": 595,
+      "obrazovanje": 68,
+      "restorani_i_hoteli": 310,
+      "razna_dobra_i_usluge": 702
+    },
+    {
+      "godina": 2005,
+      "ukupno": 9249,
+      "hrana_i_bezalkoholna_pica": 3071,
+      "alkoholna_pica_i_duhan": 370,
+      "odjeca_i_obuca": 714,
+      "stanovanje_i_energija": 1254,
+      "pokucstvo_i_odrzavanje": 471,
+      "zdravstvo": 212,
+      "prijevoz": 1005,
+      "komunikacije": 492,
+      "rekreacija_i_kultura": 575,
+      "obrazovanje": 70,
+      "restorani_i_hoteli": 314,
+      "razna_dobra_i_usluge": 701
+    },
+    {
+      "godina": 2006,
+      "ukupno": 9219,
+      "hrana_i_bezalkoholna_pica": 3008,
+      "alkoholna_pica_i_duhan": 338,
+      "odjeca_i_obuca": 738,
+      "stanovanje_i_energija": 1261,
+      "pokucstvo_i_odrzavanje": 472,
+      "zdravstvo": 231,
+      "prijevoz": 1052,
+      "komunikacije": 471,
+      "rekreacija_i_kultura": 572,
+      "obrazovanje": 62,
+      "restorani_i_hoteli": 302,
+      "razna_dobra_i_usluge": 712
+    },
+    {
+      "godina": 2007,
+      "ukupno": 9822,
+      "hrana_i_bezalkoholna_pica": 3106,
+      "alkoholna_pica_i_duhan": 381,
+      "odjeca_i_obuca": 779,
+      "stanovanje_i_energija": 1311,
+      "pokucstvo_i_odrzavanje": 532,
+      "zdravstvo": 259,
+      "prijevoz": 1133,
+      "komunikacije": 512,
+      "rekreacija_i_kultura": 611,
+      "obrazovanje": 86,
+      "restorani_i_hoteli": 311,
+      "razna_dobra_i_usluge": 802
+    },
+    {
+      "godina": 2008,
+      "ukupno": 9891,
+      "hrana_i_bezalkoholna_pica": 3174,
+      "alkoholna_pica_i_duhan": 344,
+      "odjeca_i_obuca": 783,
+      "stanovanje_i_energija": 1367,
+      "pokucstvo_i_odrzavanje": 528,
+      "zdravstvo": 275,
+      "prijevoz": 1187,
+      "komunikacije": 532,
+      "rekreacija_i_kultura": 538,
+      "obrazovanje": 88,
+      "restorani_i_hoteli": 311,
+      "razna_dobra_i_usluge": 763
+    },
+    {
+      "godina": 2009,
+      "ukupno": 10112,
+      "hrana_i_bezalkoholna_pica": 3242,
+      "alkoholna_pica_i_duhan": 363,
+      "odjeca_i_obuca": 737,
+      "stanovanje_i_energija": 1455,
+      "pokucstvo_i_odrzavanje": 528,
+      "zdravstvo": 280,
+      "prijevoz": 1110,
+      "komunikacije": 520,
+      "rekreacija_i_kultura": 606,
+      "obrazovanje": 101,
+      "restorani_i_hoteli": 315,
+      "razna_dobra_i_usluge": 854
+    },
+    {
+      "godina": 2010,
+      "ukupno": 9976,
+      "hrana_i_bezalkoholna_pica": 3206,
+      "alkoholna_pica_i_duhan": 380,
+      "odjeca_i_obuca": 635,
+      "stanovanje_i_energija": 1489,
+      "pokucstvo_i_odrzavanje": 491,
+      "zdravstvo": 324,
+      "prijevoz": 1194,
+      "komunikacije": 524,
+      "rekreacija_i_kultura": 557,
+      "obrazovanje": 85,
+      "restorani_i_hoteli": 241,
+      "razna_dobra_i_usluge": 850
+    },
+    {
+      "godina": 2011,
+      "ukupno": 9946,
+      "hrana_i_bezalkoholna_pica": 3150,
+      "alkoholna_pica_i_duhan": 371,
+      "odjeca_i_obuca": 596,
+      "stanovanje_i_energija": 1566,
+      "pokucstvo_i_odrzavanje": 454,
+      "zdravstvo": 271,
+      "prijevoz": 1288,
+      "komunikacije": 532,
+      "rekreacija_i_kultura": 523,
+      "obrazovanje": 92,
+      "restorani_i_hoteli": 235,
+      "razna_dobra_i_usluge": 867
+    },
+    {
+      "godina": 2014,
+      "ukupno": 10792,
+      "hrana_i_bezalkoholna_pica": 3185,
+      "alkoholna_pica_i_duhan": 356,
+      "odjeca_i_obuca": 729,
+      "stanovanje_i_energija": 1751,
+      "pokucstvo_i_odrzavanje": 487,
+      "zdravstvo": 314,
+      "prijevoz": 1403,
+      "komunikacije": 598,
+      "rekreacija_i_kultura": 642,
+      "obrazovanje": 113,
+      "restorani_i_hoteli": 291,
+      "razna_dobra_i_usluge": 922
+    },
+    {
+      "godina": 2017,
+      "ukupno": 10954,
+      "hrana_i_bezalkoholna_pica": 3086,
+      "alkoholna_pica_i_duhan": 321,
+      "odjeca_i_obuca": 801,
+      "stanovanje_i_energija": 1721,
+      "pokucstvo_i_odrzavanje": 600,
+      "zdravstvo": 294,
+      "prijevoz": 1694,
+      "komunikacije": 590,
+      "rekreacija_i_kultura": 598,
+      "obrazovanje": 100,
+      "restorani_i_hoteli": 317,
+      "razna_dobra_i_usluge": 830
+    },
+    {
+      "godina": 2019,
+      "ukupno": 12413,
+      "hrana_i_bezalkoholna_pica": 3257,
+      "alkoholna_pica_i_duhan": 325,
+      "odjeca_i_obuca": 1002,
+      "stanovanje_i_energija": 1926,
+      "pokucstvo_i_odrzavanje": 779,
+      "zdravstvo": 390,
+      "prijevoz": 1966,
+      "komunikacije": 653,
+      "rekreacija_i_kultura": 661,
+      "obrazovanje": 86,
+      "restorani_i_hoteli": 431,
+      "razna_dobra_i_usluge": 937
+    }
+  ],
+  "meta": {
+    "title": "Prosječni izdaci kućanstava za potrošnju po skupinama (1998.–2019.) - Free Download",
+    "description": "Prosječni godišnji izdaci za potrošnju po kućanstvu u Hrvatskoj u eurima prema skupinama COICOP (hrana, stanovanje, prijevoz, zdravstvo itd.), iz Ankete o potrošnji kućanstava DZS-a. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prosječni izdaci kućanstava za potrošnju po skupinama (1998.–2019.) | ListBase",
+    "seo_description": "Download Prosječni izdaci kućanstava za potrošnju po skupinama (1998.–2019.) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 14 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/statistika-u-nizu-rezultati-ankete-o-potrosnji-kucanstava"
+    ]
+  }
+}

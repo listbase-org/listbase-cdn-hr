@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-19T02:39:46.212Z",
-  "total_datasets": 516,
-  "total_records": 832098,
+  "generated": "2026-11-20T02:13:13.741Z",
+  "total_datasets": 517,
+  "total_records": 832115,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -945,6 +945,41 @@
         "xlsx": {
           "name": "hr-ekonomisti_HR.xlsx",
           "size": 6966
+        }
+      }
+    },
+    {
+      "id": "hr-izdaci-kucanstava-za-potrosnju-1998-2019",
+      "name": "Prosječni izdaci kućanstava za potrošnju po skupinama (1998.–2019.)",
+      "category": "economy",
+      "record_count": 17,
+      "columns": [
+        "godina",
+        "ukupno",
+        "hrana_i_bezalkoholna_pica",
+        "alkoholna_pica_i_duhan",
+        "odjeca_i_obuca",
+        "stanovanje_i_energija",
+        "pokucstvo_i_odrzavanje",
+        "zdravstvo",
+        "prijevoz",
+        "komunikacije",
+        "rekreacija_i_kultura",
+        "obrazovanje",
+        "restorani_i_hoteli",
+        "razna_dobra_i_usluge"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-rezultati-ankete-o-potrosnji-kucanstava",
+      "updated": "2026-11",
+      "size": 10590,
+      "files": {
+        "csv": {
+          "name": "hr-izdaci-kucanstava-za-potrosnju-1998-2019_HR.csv",
+          "size": 1754
+        },
+        "xlsx": {
+          "name": "hr-izdaci-kucanstava-za-potrosnju-1998-2019_HR.xlsx",
+          "size": 8298
         }
       }
     },
