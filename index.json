@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-20T02:13:13.741Z",
-  "total_datasets": 517,
-  "total_records": 832115,
+  "generated": "2026-11-20T02:13:23.638Z",
+  "total_datasets": 518,
+  "total_records": 832135,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -4034,6 +4034,34 @@
         "xlsx": {
           "name": "hr-javni-biljeznici_HR.xlsx",
           "size": 42030
+        }
+      }
+    },
+    {
+      "id": "hr-kaznena-djela-po-policijskim-upravama-2022",
+      "name": "Kaznena djela po policijskim upravama (2022.)",
+      "category": "law",
+      "record_count": 20,
+      "columns": [
+        "policijska_uprava",
+        "prijavljeno",
+        "zateceni_pocinitelj",
+        "nepoznati_pocinitelj",
+        "razrijeseno",
+        "razrijeseno_pct",
+        "naknadno_razrijeseno"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/evidentirana-kaznena-djela-u-rh-i-rasprostranjenost-po-policijskim-upravama-u-2022",
+      "updated": "2026-11",
+      "size": 7266,
+      "files": {
+        "csv": {
+          "name": "hr-kaznena-djela-po-policijskim-upravama-2022_HR.csv",
+          "size": 1305
+        },
+        "xlsx": {
+          "name": "hr-kaznena-djela-po-policijskim-upravama-2022_HR.xlsx",
+          "size": 7867
         }
       }
     },

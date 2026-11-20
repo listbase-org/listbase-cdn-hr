@@ -1,0 +1,241 @@
+{
+  "id": "hr-kaznena-djela-po-policijskim-upravama-2022",
+  "name": "Kaznena djela po policijskim upravama (2022.)",
+  "title": "Kaznena djela po policijskim upravama (2022.)",
+  "description": "Ukupan broj prijavljenih, razriješenih i naknadno razriješenih kaznenih djela u 2022. po policijskim upravama Republike Hrvatske, s postotkom razriješenosti (MUP).",
+  "category": "law",
+  "source": "https://data.gov.hr/ckan/dataset/evidentirana-kaznena-djela-u-rh-i-rasprostranjenost-po-policijskim-upravama-u-2022",
+  "source_url": "https://data.gov.hr/ckan/dataset/evidentirana-kaznena-djela-u-rh-i-rasprostranjenost-po-policijskim-upravama-u-2022",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "policijska_uprava",
+      "label": "Policijska Uprava",
+      "type": "string"
+    },
+    {
+      "key": "prijavljeno",
+      "label": "Prijavljeno",
+      "type": "number"
+    },
+    {
+      "key": "zateceni_pocinitelj",
+      "label": "Zateceni Pocinitelj",
+      "type": "number"
+    },
+    {
+      "key": "nepoznati_pocinitelj",
+      "label": "Nepoznati Pocinitelj",
+      "type": "number"
+    },
+    {
+      "key": "razrijeseno",
+      "label": "Razrijeseno",
+      "type": "number"
+    },
+    {
+      "key": "razrijeseno_pct",
+      "label": "Razrijeseno Pct",
+      "type": "number"
+    },
+    {
+      "key": "naknadno_razrijeseno",
+      "label": "Naknadno Razrijeseno",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "policijska_uprava": "Zagrebačka",
+      "prijavljeno": 13409,
+      "zateceni_pocinitelj": 288,
+      "nepoznati_pocinitelj": 9859,
+      "razrijeseno": 8356,
+      "razrijeseno_pct": 62.3,
+      "naknadno_razrijeseno": 4806
+    },
+    {
+      "policijska_uprava": "Splitsko-dalmatinska",
+      "prijavljeno": 5627,
+      "zateceni_pocinitelj": 202,
+      "nepoznati_pocinitelj": 3407,
+      "razrijeseno": 4243,
+      "razrijeseno_pct": 75.4,
+      "naknadno_razrijeseno": 2023
+    },
+    {
+      "policijska_uprava": "Primorsko-goranska",
+      "prijavljeno": 4481,
+      "zateceni_pocinitelj": 76,
+      "nepoznati_pocinitelj": 3356,
+      "razrijeseno": 2846,
+      "razrijeseno_pct": 63.5,
+      "naknadno_razrijeseno": 1721
+    },
+    {
+      "policijska_uprava": "Osječko-baranjska",
+      "prijavljeno": 3715,
+      "zateceni_pocinitelj": 100,
+      "nepoznati_pocinitelj": 2635,
+      "razrijeseno": 2994,
+      "razrijeseno_pct": 80.6,
+      "naknadno_razrijeseno": 1914
+    },
+    {
+      "policijska_uprava": "Istarska",
+      "prijavljeno": 3655,
+      "zateceni_pocinitelj": 82,
+      "nepoznati_pocinitelj": 2734,
+      "razrijeseno": 2265,
+      "razrijeseno_pct": 62,
+      "naknadno_razrijeseno": 1344
+    },
+    {
+      "policijska_uprava": "Dubrovačko-neretvanska",
+      "prijavljeno": 1550,
+      "zateceni_pocinitelj": 134,
+      "nepoznati_pocinitelj": 530,
+      "razrijeseno": 1299,
+      "razrijeseno_pct": 83.8,
+      "naknadno_razrijeseno": 279
+    },
+    {
+      "policijska_uprava": "Karlovačka",
+      "prijavljeno": 1801,
+      "zateceni_pocinitelj": 199,
+      "nepoznati_pocinitelj": 545,
+      "razrijeseno": 1601,
+      "razrijeseno_pct": 88.9,
+      "naknadno_razrijeseno": 345
+    },
+    {
+      "policijska_uprava": "Sisačko-moslavačka",
+      "prijavljeno": 2188,
+      "zateceni_pocinitelj": 113,
+      "nepoznati_pocinitelj": 930,
+      "razrijeseno": 1769,
+      "razrijeseno_pct": 80.9,
+      "naknadno_razrijeseno": 511
+    },
+    {
+      "policijska_uprava": "Šibensko-kninska",
+      "prijavljeno": 1704,
+      "zateceni_pocinitelj": 21,
+      "nepoznati_pocinitelj": 1123,
+      "razrijeseno": 1327,
+      "razrijeseno_pct": 77.9,
+      "naknadno_razrijeseno": 746
+    },
+    {
+      "policijska_uprava": "Vukovarsko-srijemska",
+      "prijavljeno": 1926,
+      "zateceni_pocinitelj": 247,
+      "nepoznati_pocinitelj": 883,
+      "razrijeseno": 1545,
+      "razrijeseno_pct": 80.2,
+      "naknadno_razrijeseno": 502
+    },
+    {
+      "policijska_uprava": "Zadarska",
+      "prijavljeno": 3207,
+      "zateceni_pocinitelj": 108,
+      "nepoznati_pocinitelj": 2030,
+      "razrijeseno": 2132,
+      "razrijeseno_pct": 66.5,
+      "naknadno_razrijeseno": 955
+    },
+    {
+      "policijska_uprava": "Bjelovarsko-bilogorska",
+      "prijavljeno": 1354,
+      "zateceni_pocinitelj": 24,
+      "nepoznati_pocinitelj": 529,
+      "razrijeseno": 1047,
+      "razrijeseno_pct": 77.3,
+      "naknadno_razrijeseno": 222
+    },
+    {
+      "policijska_uprava": "Brodsko-posavska",
+      "prijavljeno": 1639,
+      "zateceni_pocinitelj": 159,
+      "nepoznati_pocinitelj": 980,
+      "razrijeseno": 1187,
+      "razrijeseno_pct": 72.4,
+      "naknadno_razrijeseno": 528
+    },
+    {
+      "policijska_uprava": "Koprivničko-križevačka",
+      "prijavljeno": 1565,
+      "zateceni_pocinitelj": 11,
+      "nepoznati_pocinitelj": 1022,
+      "razrijeseno": 1353,
+      "razrijeseno_pct": 86.5,
+      "naknadno_razrijeseno": 810
+    },
+    {
+      "policijska_uprava": "Krapinsko-zagorska",
+      "prijavljeno": 1176,
+      "zateceni_pocinitelj": 51,
+      "nepoznati_pocinitelj": 519,
+      "razrijeseno": 949,
+      "razrijeseno_pct": 80.7,
+      "naknadno_razrijeseno": 292
+    },
+    {
+      "policijska_uprava": "Ličko-senjska",
+      "prijavljeno": 1078,
+      "zateceni_pocinitelj": 35,
+      "nepoznati_pocinitelj": 908,
+      "razrijeseno": 757,
+      "razrijeseno_pct": 70.2,
+      "naknadno_razrijeseno": 587
+    },
+    {
+      "policijska_uprava": "Međimurska",
+      "prijavljeno": 1317,
+      "zateceni_pocinitelj": 58,
+      "nepoznati_pocinitelj": 710,
+      "razrijeseno": 900,
+      "razrijeseno_pct": 68.3,
+      "naknadno_razrijeseno": 293
+    },
+    {
+      "policijska_uprava": "Požeško-slavonska",
+      "prijavljeno": 739,
+      "zateceni_pocinitelj": 25,
+      "nepoznati_pocinitelj": 301,
+      "razrijeseno": 654,
+      "razrijeseno_pct": 88.5,
+      "naknadno_razrijeseno": 216
+    },
+    {
+      "policijska_uprava": "Varaždinska",
+      "prijavljeno": 1955,
+      "zateceni_pocinitelj": 24,
+      "nepoznati_pocinitelj": 1353,
+      "razrijeseno": 1551,
+      "razrijeseno_pct": 79.3,
+      "naknadno_razrijeseno": 949
+    },
+    {
+      "policijska_uprava": "Virovitičko-podravska",
+      "prijavljeno": 1045,
+      "zateceni_pocinitelj": 33,
+      "nepoznati_pocinitelj": 563,
+      "razrijeseno": 885,
+      "razrijeseno_pct": 84.7,
+      "naknadno_razrijeseno": 403
+    }
+  ],
+  "meta": {
+    "title": "Kaznena djela po policijskim upravama (2022.) - Free Download",
+    "description": "Ukupan broj prijavljenih, razriješenih i naknadno razriješenih kaznenih djela u 2022. po policijskim upravama Republike Hrvatske, s postotkom razriješenosti (MUP). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kaznena djela po policijskim upravama (2022.) | ListBase",
+    "seo_description": "Download Kaznena djela po policijskim upravama (2022.) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/evidentirana-kaznena-djela-u-rh-i-rasprostranjenost-po-policijskim-upravama-u-2022"
+    ]
+  }
+}
