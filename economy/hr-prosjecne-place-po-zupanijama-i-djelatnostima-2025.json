@@ -1,0 +1,3285 @@
+{
+  "id": "hr-prosjecne-place-po-zupanijama-i-djelatnostima-2025",
+  "name": "Prosječne neto i bruto plaće po županijama i djelatnostima (2025.)",
+  "title": "Prosječne neto i bruto plaće po županijama i djelatnostima (2025.)",
+  "description": "Prosječna mjesečna isplaćena neto i bruto plaća po zaposlenome u 2025. godini (u eurima) za Republiku Hrvatsku i svaku županiju, prema područjima djelatnosti NKD-a 2025., obrada prema obrascu JOPPD (DZS).",
+  "category": "economy",
+  "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-zaposlenost-i-pla-e",
+  "source_url": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-zaposlenost-i-pla-e",
+  "updated": "2026-11",
+  "record_count": 462,
+  "columns": [
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "sifra_nkd",
+      "label": "Sifra Nkd",
+      "type": "string"
+    },
+    {
+      "key": "djelatnost",
+      "label": "Djelatnost",
+      "type": "string"
+    },
+    {
+      "key": "prosjecna_neto_placa_eur",
+      "label": "Prosjecna Neto Placa Eur",
+      "type": "number"
+    },
+    {
+      "key": "prosjecna_bruto_placa_eur",
+      "label": "Prosjecna Bruto Placa Eur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1449,
+      "prosjecna_bruto_placa_eur": 2016
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1268,
+      "prosjecna_bruto_placa_eur": 1715
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1471,
+      "prosjecna_bruto_placa_eur": 2042
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1330,
+      "prosjecna_bruto_placa_eur": 1833
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1796,
+      "prosjecna_bruto_placa_eur": 2473
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1329,
+      "prosjecna_bruto_placa_eur": 1818
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1166,
+      "prosjecna_bruto_placa_eur": 1596
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1304,
+      "prosjecna_bruto_placa_eur": 1802
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1345,
+      "prosjecna_bruto_placa_eur": 1856
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1165,
+      "prosjecna_bruto_placa_eur": 1595
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1555,
+      "prosjecna_bruto_placa_eur": 2239
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1943,
+      "prosjecna_bruto_placa_eur": 2823
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1820,
+      "prosjecna_bruto_placa_eur": 2609
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1292,
+      "prosjecna_bruto_placa_eur": 1799
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1554,
+      "prosjecna_bruto_placa_eur": 2206
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1126,
+      "prosjecna_bruto_placa_eur": 1537
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1807,
+      "prosjecna_bruto_placa_eur": 2527
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1602,
+      "prosjecna_bruto_placa_eur": 2221
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1871,
+      "prosjecna_bruto_placa_eur": 2646
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1397,
+      "prosjecna_bruto_placa_eur": 1947
+    },
+    {
+      "zupanija": "Republika Hrvatska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1133,
+      "prosjecna_bruto_placa_eur": 1536
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1474,
+      "prosjecna_bruto_placa_eur": 2035
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1163,
+      "prosjecna_bruto_placa_eur": 1580
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1632,
+      "prosjecna_bruto_placa_eur": 2285
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1418,
+      "prosjecna_bruto_placa_eur": 1959
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1770,
+      "prosjecna_bruto_placa_eur": 2407
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1373,
+      "prosjecna_bruto_placa_eur": 1893
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1161,
+      "prosjecna_bruto_placa_eur": 1579
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1418,
+      "prosjecna_bruto_placa_eur": 1954
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1370,
+      "prosjecna_bruto_placa_eur": 1884
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1114,
+      "prosjecna_bruto_placa_eur": 1510
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1678,
+      "prosjecna_bruto_placa_eur": 2395
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 2029,
+      "prosjecna_bruto_placa_eur": 2890
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1860,
+      "prosjecna_bruto_placa_eur": 2613
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1379,
+      "prosjecna_bruto_placa_eur": 1911
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1657,
+      "prosjecna_bruto_placa_eur": 2324
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1123,
+      "prosjecna_bruto_placa_eur": 1518
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1889,
+      "prosjecna_bruto_placa_eur": 2625
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1551,
+      "prosjecna_bruto_placa_eur": 2119
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1743,
+      "prosjecna_bruto_placa_eur": 2400
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1448,
+      "prosjecna_bruto_placa_eur": 1997
+    },
+    {
+      "zupanija": "Zagrebačka",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1135,
+      "prosjecna_bruto_placa_eur": 1528
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1411,
+      "prosjecna_bruto_placa_eur": 1931
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1175,
+      "prosjecna_bruto_placa_eur": 1609
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1511,
+      "prosjecna_bruto_placa_eur": 2133
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1357,
+      "prosjecna_bruto_placa_eur": 1869
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1833,
+      "prosjecna_bruto_placa_eur": 2420
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1319,
+      "prosjecna_bruto_placa_eur": 1813
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1192,
+      "prosjecna_bruto_placa_eur": 1623
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1238,
+      "prosjecna_bruto_placa_eur": 1677
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1291,
+      "prosjecna_bruto_placa_eur": 1767
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1122,
+      "prosjecna_bruto_placa_eur": 1531
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1590,
+      "prosjecna_bruto_placa_eur": 2251
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1881,
+      "prosjecna_bruto_placa_eur": 2683
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1694,
+      "prosjecna_bruto_placa_eur": 2376
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1435,
+      "prosjecna_bruto_placa_eur": 1987
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1514,
+      "prosjecna_bruto_placa_eur": 2102
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1118,
+      "prosjecna_bruto_placa_eur": 1520
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1832,
+      "prosjecna_bruto_placa_eur": 2506
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1549,
+      "prosjecna_bruto_placa_eur": 2096
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1658,
+      "prosjecna_bruto_placa_eur": 2245
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1367,
+      "prosjecna_bruto_placa_eur": 1863
+    },
+    {
+      "zupanija": "Krapinsko-zagorska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1150,
+      "prosjecna_bruto_placa_eur": 1548
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1357,
+      "prosjecna_bruto_placa_eur": 1857
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1282,
+      "prosjecna_bruto_placa_eur": 1740
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1521,
+      "prosjecna_bruto_placa_eur": 2090
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1272,
+      "prosjecna_bruto_placa_eur": 1742
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1727,
+      "prosjecna_bruto_placa_eur": 2327
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1208,
+      "prosjecna_bruto_placa_eur": 1637
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1128,
+      "prosjecna_bruto_placa_eur": 1518
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1156,
+      "prosjecna_bruto_placa_eur": 1560
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1321,
+      "prosjecna_bruto_placa_eur": 1808
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1027,
+      "prosjecna_bruto_placa_eur": 1387
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1360,
+      "prosjecna_bruto_placa_eur": 1886
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1699,
+      "prosjecna_bruto_placa_eur": 2414
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1542,
+      "prosjecna_bruto_placa_eur": 2156
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1172,
+      "prosjecna_bruto_placa_eur": 1597
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1390,
+      "prosjecna_bruto_placa_eur": 1926
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1022,
+      "prosjecna_bruto_placa_eur": 1370
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1702,
+      "prosjecna_bruto_placa_eur": 2348
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1519,
+      "prosjecna_bruto_placa_eur": 2077
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1662,
+      "prosjecna_bruto_placa_eur": 2297
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1264,
+      "prosjecna_bruto_placa_eur": 1727
+    },
+    {
+      "zupanija": "Sisačko-moslavačka",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1024,
+      "prosjecna_bruto_placa_eur": 1365
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1435,
+      "prosjecna_bruto_placa_eur": 1956
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1322,
+      "prosjecna_bruto_placa_eur": 1801
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1306,
+      "prosjecna_bruto_placa_eur": 1822
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1363,
+      "prosjecna_bruto_placa_eur": 1851
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1761,
+      "prosjecna_bruto_placa_eur": 2369
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1264,
+      "prosjecna_bruto_placa_eur": 1699
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1225,
+      "prosjecna_bruto_placa_eur": 1667
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1293,
+      "prosjecna_bruto_placa_eur": 1740
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1308,
+      "prosjecna_bruto_placa_eur": 1774
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1098,
+      "prosjecna_bruto_placa_eur": 1488
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1375,
+      "prosjecna_bruto_placa_eur": 1906
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1831,
+      "prosjecna_bruto_placa_eur": 2578
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1637,
+      "prosjecna_bruto_placa_eur": 2270
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1307,
+      "prosjecna_bruto_placa_eur": 1803
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1480,
+      "prosjecna_bruto_placa_eur": 2043
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1090,
+      "prosjecna_bruto_placa_eur": 1449
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1794,
+      "prosjecna_bruto_placa_eur": 2470
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1574,
+      "prosjecna_bruto_placa_eur": 2151
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1802,
+      "prosjecna_bruto_placa_eur": 2488
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1328,
+      "prosjecna_bruto_placa_eur": 1790
+    },
+    {
+      "zupanija": "Karlovačka",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1080,
+      "prosjecna_bruto_placa_eur": 1431
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1353,
+      "prosjecna_bruto_placa_eur": 1856
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1191,
+      "prosjecna_bruto_placa_eur": 1634
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1480,
+      "prosjecna_bruto_placa_eur": 2075
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1233,
+      "prosjecna_bruto_placa_eur": 1677
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1774,
+      "prosjecna_bruto_placa_eur": 2420
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1278,
+      "prosjecna_bruto_placa_eur": 1714
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1217,
+      "prosjecna_bruto_placa_eur": 1683
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1214,
+      "prosjecna_bruto_placa_eur": 1653
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1134,
+      "prosjecna_bruto_placa_eur": 1546
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1083,
+      "prosjecna_bruto_placa_eur": 1458
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1313,
+      "prosjecna_bruto_placa_eur": 1839
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1846,
+      "prosjecna_bruto_placa_eur": 2648
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1644,
+      "prosjecna_bruto_placa_eur": 2316
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1214,
+      "prosjecna_bruto_placa_eur": 1679
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1394,
+      "prosjecna_bruto_placa_eur": 1934
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1071,
+      "prosjecna_bruto_placa_eur": 1440
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1830,
+      "prosjecna_bruto_placa_eur": 2537
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1577,
+      "prosjecna_bruto_placa_eur": 2161
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1740,
+      "prosjecna_bruto_placa_eur": 2400
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1300,
+      "prosjecna_bruto_placa_eur": 1776
+    },
+    {
+      "zupanija": "Varaždinska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1159,
+      "prosjecna_bruto_placa_eur": 1568
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1334,
+      "prosjecna_bruto_placa_eur": 1823
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1276,
+      "prosjecna_bruto_placa_eur": 1729
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1446,
+      "prosjecna_bruto_placa_eur": 1949
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1236,
+      "prosjecna_bruto_placa_eur": 1684
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1673,
+      "prosjecna_bruto_placa_eur": 2290
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1214,
+      "prosjecna_bruto_placa_eur": 1639
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1161,
+      "prosjecna_bruto_placa_eur": 1586
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1176,
+      "prosjecna_bruto_placa_eur": 1591
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1228,
+      "prosjecna_bruto_placa_eur": 1667
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1026,
+      "prosjecna_bruto_placa_eur": 1380
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1280,
+      "prosjecna_bruto_placa_eur": 1770
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1760,
+      "prosjecna_bruto_placa_eur": 2496
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1652,
+      "prosjecna_bruto_placa_eur": 2323
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1160,
+      "prosjecna_bruto_placa_eur": 1576
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1410,
+      "prosjecna_bruto_placa_eur": 1946
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1001,
+      "prosjecna_bruto_placa_eur": 1340
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1689,
+      "prosjecna_bruto_placa_eur": 2320
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1572,
+      "prosjecna_bruto_placa_eur": 2152
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1732,
+      "prosjecna_bruto_placa_eur": 2393
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1311,
+      "prosjecna_bruto_placa_eur": 1804
+    },
+    {
+      "zupanija": "Koprivničko-križevačka",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1064,
+      "prosjecna_bruto_placa_eur": 1418
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1317,
+      "prosjecna_bruto_placa_eur": 1779
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1296,
+      "prosjecna_bruto_placa_eur": 1759
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1303,
+      "prosjecna_bruto_placa_eur": 1792
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1144,
+      "prosjecna_bruto_placa_eur": 1524
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1486,
+      "prosjecna_bruto_placa_eur": 1986
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1234,
+      "prosjecna_bruto_placa_eur": 1653
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1119,
+      "prosjecna_bruto_placa_eur": 1501
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1141,
+      "prosjecna_bruto_placa_eur": 1520
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1140,
+      "prosjecna_bruto_placa_eur": 1516
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1032,
+      "prosjecna_bruto_placa_eur": 1387
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1390,
+      "prosjecna_bruto_placa_eur": 1928
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1669,
+      "prosjecna_bruto_placa_eur": 2329
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1590,
+      "prosjecna_bruto_placa_eur": 2206
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1029,
+      "prosjecna_bruto_placa_eur": 1354
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1342,
+      "prosjecna_bruto_placa_eur": 1825
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1006,
+      "prosjecna_bruto_placa_eur": 1335
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1657,
+      "prosjecna_bruto_placa_eur": 2262
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1538,
+      "prosjecna_bruto_placa_eur": 2086
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1723,
+      "prosjecna_bruto_placa_eur": 2360
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1205,
+      "prosjecna_bruto_placa_eur": 1634
+    },
+    {
+      "zupanija": "Bjelovarsko-bilogorska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1062,
+      "prosjecna_bruto_placa_eur": 1400
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1459,
+      "prosjecna_bruto_placa_eur": 2035
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1301,
+      "prosjecna_bruto_placa_eur": 1784
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1526,
+      "prosjecna_bruto_placa_eur": 2171
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1408,
+      "prosjecna_bruto_placa_eur": 1965
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1787,
+      "prosjecna_bruto_placa_eur": 2428
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1360,
+      "prosjecna_bruto_placa_eur": 1879
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1180,
+      "prosjecna_bruto_placa_eur": 1628
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1279,
+      "prosjecna_bruto_placa_eur": 1763
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1470,
+      "prosjecna_bruto_placa_eur": 2059
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1219,
+      "prosjecna_bruto_placa_eur": 1682
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1400,
+      "prosjecna_bruto_placa_eur": 1973
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1775,
+      "prosjecna_bruto_placa_eur": 2551
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1583,
+      "prosjecna_bruto_placa_eur": 2234
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1205,
+      "prosjecna_bruto_placa_eur": 1662
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1521,
+      "prosjecna_bruto_placa_eur": 2148
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1134,
+      "prosjecna_bruto_placa_eur": 1553
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1840,
+      "prosjecna_bruto_placa_eur": 2584
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1677,
+      "prosjecna_bruto_placa_eur": 2337
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1959,
+      "prosjecna_bruto_placa_eur": 2788
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1413,
+      "prosjecna_bruto_placa_eur": 1960
+    },
+    {
+      "zupanija": "Primorsko-goranska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1178,
+      "prosjecna_bruto_placa_eur": 1604
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1329,
+      "prosjecna_bruto_placa_eur": 1813
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1380,
+      "prosjecna_bruto_placa_eur": 1903
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1392,
+      "prosjecna_bruto_placa_eur": 1956
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1140,
+      "prosjecna_bruto_placa_eur": 1524
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1698,
+      "prosjecna_bruto_placa_eur": 2288
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1215,
+      "prosjecna_bruto_placa_eur": 1647
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1109,
+      "prosjecna_bruto_placa_eur": 1492
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1133,
+      "prosjecna_bruto_placa_eur": 1523
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1273,
+      "prosjecna_bruto_placa_eur": 1730
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1057,
+      "prosjecna_bruto_placa_eur": 1431
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1256,
+      "prosjecna_bruto_placa_eur": 1759
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1469,
+      "prosjecna_bruto_placa_eur": 2048
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1364,
+      "prosjecna_bruto_placa_eur": 1888
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 972,
+      "prosjecna_bruto_placa_eur": 1293
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1305,
+      "prosjecna_bruto_placa_eur": 1815
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1016,
+      "prosjecna_bruto_placa_eur": 1349
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1631,
+      "prosjecna_bruto_placa_eur": 2251
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1499,
+      "prosjecna_bruto_placa_eur": 2045
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1759,
+      "prosjecna_bruto_placa_eur": 2471
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1321,
+      "prosjecna_bruto_placa_eur": 1812
+    },
+    {
+      "zupanija": "Ličko-senjska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1176,
+      "prosjecna_bruto_placa_eur": 1606
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1281,
+      "prosjecna_bruto_placa_eur": 1724
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1209,
+      "prosjecna_bruto_placa_eur": 1596
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1556,
+      "prosjecna_bruto_placa_eur": 2152
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1066,
+      "prosjecna_bruto_placa_eur": 1414
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1492,
+      "prosjecna_bruto_placa_eur": 2004
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1195,
+      "prosjecna_bruto_placa_eur": 1577
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1107,
+      "prosjecna_bruto_placa_eur": 1482
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1070,
+      "prosjecna_bruto_placa_eur": 1423
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1135,
+      "prosjecna_bruto_placa_eur": 1501
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1000,
+      "prosjecna_bruto_placa_eur": 1339
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1142,
+      "prosjecna_bruto_placa_eur": 1556
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1589,
+      "prosjecna_bruto_placa_eur": 2229
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1367,
+      "prosjecna_bruto_placa_eur": 1874
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1087,
+      "prosjecna_bruto_placa_eur": 1431
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1269,
+      "prosjecna_bruto_placa_eur": 1732
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 987,
+      "prosjecna_bruto_placa_eur": 1302
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1690,
+      "prosjecna_bruto_placa_eur": 2305
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1565,
+      "prosjecna_bruto_placa_eur": 2125
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1601,
+      "prosjecna_bruto_placa_eur": 2190
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1215,
+      "prosjecna_bruto_placa_eur": 1651
+    },
+    {
+      "zupanija": "Virovitičko-podravska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1012,
+      "prosjecna_bruto_placa_eur": 1334
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1334,
+      "prosjecna_bruto_placa_eur": 1808
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1375,
+      "prosjecna_bruto_placa_eur": 1872
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1338,
+      "prosjecna_bruto_placa_eur": 1835
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1119,
+      "prosjecna_bruto_placa_eur": 1492
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1747,
+      "prosjecna_bruto_placa_eur": 2354
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1382,
+      "prosjecna_bruto_placa_eur": 1877
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1148,
+      "prosjecna_bruto_placa_eur": 1540
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1095,
+      "prosjecna_bruto_placa_eur": 1467
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1084,
+      "prosjecna_bruto_placa_eur": 1438
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1015,
+      "prosjecna_bruto_placa_eur": 1367
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1171,
+      "prosjecna_bruto_placa_eur": 1606
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1559,
+      "prosjecna_bruto_placa_eur": 2168
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1425,
+      "prosjecna_bruto_placa_eur": 1965
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1283,
+      "prosjecna_bruto_placa_eur": 1780
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1287,
+      "prosjecna_bruto_placa_eur": 1764
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1014,
+      "prosjecna_bruto_placa_eur": 1334
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1662,
+      "prosjecna_bruto_placa_eur": 2285
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1564,
+      "prosjecna_bruto_placa_eur": 2132
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1750,
+      "prosjecna_bruto_placa_eur": 2403
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1254,
+      "prosjecna_bruto_placa_eur": 1715
+    },
+    {
+      "zupanija": "Požeško-slavonska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 973,
+      "prosjecna_bruto_placa_eur": 1265
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1305,
+      "prosjecna_bruto_placa_eur": 1760
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1336,
+      "prosjecna_bruto_placa_eur": 1804
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1195,
+      "prosjecna_bruto_placa_eur": 1610
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1155,
+      "prosjecna_bruto_placa_eur": 1507
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1558,
+      "prosjecna_bruto_placa_eur": 2134
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1232,
+      "prosjecna_bruto_placa_eur": 1651
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1140,
+      "prosjecna_bruto_placa_eur": 1525
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1112,
+      "prosjecna_bruto_placa_eur": 1489
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1172,
+      "prosjecna_bruto_placa_eur": 1579
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1022,
+      "prosjecna_bruto_placa_eur": 1359
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1196,
+      "prosjecna_bruto_placa_eur": 1650
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1543,
+      "prosjecna_bruto_placa_eur": 2165
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1461,
+      "prosjecna_bruto_placa_eur": 2033
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1277,
+      "prosjecna_bruto_placa_eur": 1681
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1381,
+      "prosjecna_bruto_placa_eur": 1909
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1026,
+      "prosjecna_bruto_placa_eur": 1367
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1609,
+      "prosjecna_bruto_placa_eur": 2199
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1548,
+      "prosjecna_bruto_placa_eur": 2095
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1850,
+      "prosjecna_bruto_placa_eur": 2612
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1169,
+      "prosjecna_bruto_placa_eur": 1585
+    },
+    {
+      "zupanija": "Brodsko-posavska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1042,
+      "prosjecna_bruto_placa_eur": 1384
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1367,
+      "prosjecna_bruto_placa_eur": 1869
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1241,
+      "prosjecna_bruto_placa_eur": 1693
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1200,
+      "prosjecna_bruto_placa_eur": 1606
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1227,
+      "prosjecna_bruto_placa_eur": 1662
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1718,
+      "prosjecna_bruto_placa_eur": 2312
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1333,
+      "prosjecna_bruto_placa_eur": 1786
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1078,
+      "prosjecna_bruto_placa_eur": 1460
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1201,
+      "prosjecna_bruto_placa_eur": 1621
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1384,
+      "prosjecna_bruto_placa_eur": 1903
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1185,
+      "prosjecna_bruto_placa_eur": 1619
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1374,
+      "prosjecna_bruto_placa_eur": 1926
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1670,
+      "prosjecna_bruto_placa_eur": 2366
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1766,
+      "prosjecna_bruto_placa_eur": 2455
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1158,
+      "prosjecna_bruto_placa_eur": 1580
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1428,
+      "prosjecna_bruto_placa_eur": 1972
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1130,
+      "prosjecna_bruto_placa_eur": 1530
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1758,
+      "prosjecna_bruto_placa_eur": 2428
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1582,
+      "prosjecna_bruto_placa_eur": 2169
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1829,
+      "prosjecna_bruto_placa_eur": 2536
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1348,
+      "prosjecna_bruto_placa_eur": 1846
+    },
+    {
+      "zupanija": "Zadarska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1126,
+      "prosjecna_bruto_placa_eur": 1520
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1376,
+      "prosjecna_bruto_placa_eur": 1874
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1253,
+      "prosjecna_bruto_placa_eur": 1682
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1667,
+      "prosjecna_bruto_placa_eur": 2304
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1196,
+      "prosjecna_bruto_placa_eur": 1600
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1706,
+      "prosjecna_bruto_placa_eur": 2317
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1262,
+      "prosjecna_bruto_placa_eur": 1708
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1167,
+      "prosjecna_bruto_placa_eur": 1568
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1172,
+      "prosjecna_bruto_placa_eur": 1578
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1173,
+      "prosjecna_bruto_placa_eur": 1549
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1025,
+      "prosjecna_bruto_placa_eur": 1378
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1323,
+      "prosjecna_bruto_placa_eur": 1848
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1656,
+      "prosjecna_bruto_placa_eur": 2339
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1468,
+      "prosjecna_bruto_placa_eur": 2022
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1166,
+      "prosjecna_bruto_placa_eur": 1572
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1400,
+      "prosjecna_bruto_placa_eur": 1926
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1042,
+      "prosjecna_bruto_placa_eur": 1388
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1672,
+      "prosjecna_bruto_placa_eur": 2285
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1675,
+      "prosjecna_bruto_placa_eur": 2296
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1911,
+      "prosjecna_bruto_placa_eur": 2707
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1246,
+      "prosjecna_bruto_placa_eur": 1702
+    },
+    {
+      "zupanija": "Osječko-baranjska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1018,
+      "prosjecna_bruto_placa_eur": 1348
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1367,
+      "prosjecna_bruto_placa_eur": 1876
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1181,
+      "prosjecna_bruto_placa_eur": 1612
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1647,
+      "prosjecna_bruto_placa_eur": 2330
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1276,
+      "prosjecna_bruto_placa_eur": 1746
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1760,
+      "prosjecna_bruto_placa_eur": 2410
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1255,
+      "prosjecna_bruto_placa_eur": 1679
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1115,
+      "prosjecna_bruto_placa_eur": 1516
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1153,
+      "prosjecna_bruto_placa_eur": 1557
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1256,
+      "prosjecna_bruto_placa_eur": 1711
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1283,
+      "prosjecna_bruto_placa_eur": 1778
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1265,
+      "prosjecna_bruto_placa_eur": 1754
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1696,
+      "prosjecna_bruto_placa_eur": 2408
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1463,
+      "prosjecna_bruto_placa_eur": 2006
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1204,
+      "prosjecna_bruto_placa_eur": 1647
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1404,
+      "prosjecna_bruto_placa_eur": 1932
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1162,
+      "prosjecna_bruto_placa_eur": 1579
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1692,
+      "prosjecna_bruto_placa_eur": 2349
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1518,
+      "prosjecna_bruto_placa_eur": 2067
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1828,
+      "prosjecna_bruto_placa_eur": 2587
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1368,
+      "prosjecna_bruto_placa_eur": 1862
+    },
+    {
+      "zupanija": "Šibensko-kninska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1054,
+      "prosjecna_bruto_placa_eur": 1401
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1316,
+      "prosjecna_bruto_placa_eur": 1758
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1265,
+      "prosjecna_bruto_placa_eur": 1655
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 2059,
+      "prosjecna_bruto_placa_eur": 2867
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1080,
+      "prosjecna_bruto_placa_eur": 1425
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1582,
+      "prosjecna_bruto_placa_eur": 2087
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1127,
+      "prosjecna_bruto_placa_eur": 1483
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1154,
+      "prosjecna_bruto_placa_eur": 1531
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1073,
+      "prosjecna_bruto_placa_eur": 1405
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1208,
+      "prosjecna_bruto_placa_eur": 1620
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1020,
+      "prosjecna_bruto_placa_eur": 1366
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1245,
+      "prosjecna_bruto_placa_eur": 1695
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1570,
+      "prosjecna_bruto_placa_eur": 2158
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1468,
+      "prosjecna_bruto_placa_eur": 1994
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1134,
+      "prosjecna_bruto_placa_eur": 1492
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1347,
+      "prosjecna_bruto_placa_eur": 1822
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 995,
+      "prosjecna_bruto_placa_eur": 1306
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1664,
+      "prosjecna_bruto_placa_eur": 2238
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1533,
+      "prosjecna_bruto_placa_eur": 2054
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1740,
+      "prosjecna_bruto_placa_eur": 2401
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1229,
+      "prosjecna_bruto_placa_eur": 1637
+    },
+    {
+      "zupanija": "Vukovarsko-srijemska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1035,
+      "prosjecna_bruto_placa_eur": 1353
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1393,
+      "prosjecna_bruto_placa_eur": 1925
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1211,
+      "prosjecna_bruto_placa_eur": 1659
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1193,
+      "prosjecna_bruto_placa_eur": 1635
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1285,
+      "prosjecna_bruto_placa_eur": 1776
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1769,
+      "prosjecna_bruto_placa_eur": 2413
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1367,
+      "prosjecna_bruto_placa_eur": 1865
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1128,
+      "prosjecna_bruto_placa_eur": 1542
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1235,
+      "prosjecna_bruto_placa_eur": 1685
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1355,
+      "prosjecna_bruto_placa_eur": 1873
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1157,
+      "prosjecna_bruto_placa_eur": 1584
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1386,
+      "prosjecna_bruto_placa_eur": 1957
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1831,
+      "prosjecna_bruto_placa_eur": 2624
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1588,
+      "prosjecna_bruto_placa_eur": 2213
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1197,
+      "prosjecna_bruto_placa_eur": 1644
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1379,
+      "prosjecna_bruto_placa_eur": 1925
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1157,
+      "prosjecna_bruto_placa_eur": 1578
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1753,
+      "prosjecna_bruto_placa_eur": 2437
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1579,
+      "prosjecna_bruto_placa_eur": 2182
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1908,
+      "prosjecna_bruto_placa_eur": 2692
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1352,
+      "prosjecna_bruto_placa_eur": 1875
+    },
+    {
+      "zupanija": "Splitsko-dalmatinska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1109,
+      "prosjecna_bruto_placa_eur": 1493
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1358,
+      "prosjecna_bruto_placa_eur": 1870
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1243,
+      "prosjecna_bruto_placa_eur": 1699
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1467,
+      "prosjecna_bruto_placa_eur": 2031
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1316,
+      "prosjecna_bruto_placa_eur": 1808
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1859,
+      "prosjecna_bruto_placa_eur": 2535
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1423,
+      "prosjecna_bruto_placa_eur": 1945
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1122,
+      "prosjecna_bruto_placa_eur": 1530
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1239,
+      "prosjecna_bruto_placa_eur": 1688
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1237,
+      "prosjecna_bruto_placa_eur": 1677
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1269,
+      "prosjecna_bruto_placa_eur": 1741
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1525,
+      "prosjecna_bruto_placa_eur": 2172
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1952,
+      "prosjecna_bruto_placa_eur": 2825
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1623,
+      "prosjecna_bruto_placa_eur": 2286
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1161,
+      "prosjecna_bruto_placa_eur": 1591
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1402,
+      "prosjecna_bruto_placa_eur": 1949
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1066,
+      "prosjecna_bruto_placa_eur": 1437
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1812,
+      "prosjecna_bruto_placa_eur": 2543
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1520,
+      "prosjecna_bruto_placa_eur": 2088
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1791,
+      "prosjecna_bruto_placa_eur": 2513
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1319,
+      "prosjecna_bruto_placa_eur": 1814
+    },
+    {
+      "zupanija": "Istarska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1129,
+      "prosjecna_bruto_placa_eur": 1529
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1358,
+      "prosjecna_bruto_placa_eur": 1856
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1163,
+      "prosjecna_bruto_placa_eur": 1573
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1563,
+      "prosjecna_bruto_placa_eur": 2168
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1122,
+      "prosjecna_bruto_placa_eur": 1513
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1698,
+      "prosjecna_bruto_placa_eur": 2307
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1268,
+      "prosjecna_bruto_placa_eur": 1682
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1074,
+      "prosjecna_bruto_placa_eur": 1461
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1136,
+      "prosjecna_bruto_placa_eur": 1525
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1419,
+      "prosjecna_bruto_placa_eur": 1955
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1244,
+      "prosjecna_bruto_placa_eur": 1706
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1191,
+      "prosjecna_bruto_placa_eur": 1622
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1522,
+      "prosjecna_bruto_placa_eur": 2131
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1417,
+      "prosjecna_bruto_placa_eur": 1935
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1175,
+      "prosjecna_bruto_placa_eur": 1612
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1300,
+      "prosjecna_bruto_placa_eur": 1785
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1222,
+      "prosjecna_bruto_placa_eur": 1674
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1782,
+      "prosjecna_bruto_placa_eur": 2443
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1541,
+      "prosjecna_bruto_placa_eur": 2102
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1974,
+      "prosjecna_bruto_placa_eur": 2754
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1356,
+      "prosjecna_bruto_placa_eur": 1866
+    },
+    {
+      "zupanija": "Dubrovačko-neretvanska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1108,
+      "prosjecna_bruto_placa_eur": 1498
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1339,
+      "prosjecna_bruto_placa_eur": 1813
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1186,
+      "prosjecna_bruto_placa_eur": 1588
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 1366,
+      "prosjecna_bruto_placa_eur": 1884
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1280,
+      "prosjecna_bruto_placa_eur": 1734
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 1842,
+      "prosjecna_bruto_placa_eur": 2452
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1286,
+      "prosjecna_bruto_placa_eur": 1731
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1154,
+      "prosjecna_bruto_placa_eur": 1550
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1167,
+      "prosjecna_bruto_placa_eur": 1555
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1170,
+      "prosjecna_bruto_placa_eur": 1565
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1026,
+      "prosjecna_bruto_placa_eur": 1364
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1139,
+      "prosjecna_bruto_placa_eur": 1530
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1752,
+      "prosjecna_bruto_placa_eur": 2475
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 1628,
+      "prosjecna_bruto_placa_eur": 2291
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1177,
+      "prosjecna_bruto_placa_eur": 1568
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1368,
+      "prosjecna_bruto_placa_eur": 1861
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1047,
+      "prosjecna_bruto_placa_eur": 1384
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 1784,
+      "prosjecna_bruto_placa_eur": 2437
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1572,
+      "prosjecna_bruto_placa_eur": 2133
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 1815,
+      "prosjecna_bruto_placa_eur": 2480
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1270,
+      "prosjecna_bruto_placa_eur": 1706
+    },
+    {
+      "zupanija": "Međimurska",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1019,
+      "prosjecna_bruto_placa_eur": 1337
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "Ukupno",
+      "djelatnost": "Ukupno",
+      "prosjecna_neto_placa_eur": 1661,
+      "prosjecna_bruto_placa_eur": 2402
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "A",
+      "djelatnost": "Poljoprivreda, šumarstvo i ribarstvo",
+      "prosjecna_neto_placa_eur": 1366,
+      "prosjecna_bruto_placa_eur": 1934
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "B",
+      "djelatnost": "Rudarstvo i vađenje",
+      "prosjecna_neto_placa_eur": 2076,
+      "prosjecna_bruto_placa_eur": 3035
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "C",
+      "djelatnost": "Prerađivačka industrija",
+      "prosjecna_neto_placa_eur": 1644,
+      "prosjecna_bruto_placa_eur": 2382
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "D",
+      "djelatnost": "Opskrba električnom energijom, plinom, parom i klimatizacija",
+      "prosjecna_neto_placa_eur": 2087,
+      "prosjecna_bruto_placa_eur": 3047
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "E",
+      "djelatnost": "Opskrba vodom; uklanjanje otpadnih voda, gospodarenje otpadom te djelatnosti sanacije okoliša",
+      "prosjecna_neto_placa_eur": 1454,
+      "prosjecna_bruto_placa_eur": 2064
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "F",
+      "djelatnost": "Građevinarstvo",
+      "prosjecna_neto_placa_eur": 1242,
+      "prosjecna_bruto_placa_eur": 1751
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "G",
+      "djelatnost": "Trgovina na veliko i na malo",
+      "prosjecna_neto_placa_eur": 1516,
+      "prosjecna_bruto_placa_eur": 2176
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "H",
+      "djelatnost": "Prijevoz i skladištenje",
+      "prosjecna_neto_placa_eur": 1485,
+      "prosjecna_bruto_placa_eur": 2113
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "I",
+      "djelatnost": "Smještaj te priprema i usluživanje hrane",
+      "prosjecna_neto_placa_eur": 1097,
+      "prosjecna_bruto_placa_eur": 1514
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "J",
+      "djelatnost": "Izdavačke djelatnosti, djelatnosti emitiranja te proizvodnje i distribucije sadržaja",
+      "prosjecna_neto_placa_eur": 1672,
+      "prosjecna_bruto_placa_eur": 2451
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "K",
+      "djelatnost": "Telekomunikacije, računalno programiranje, savjetovanje, računalna infrastruktura i ostale informacijske uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 2098,
+      "prosjecna_bruto_placa_eur": 3110
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "L",
+      "djelatnost": "Financijske djelatnosti i djelatnosti osiguranja",
+      "prosjecna_neto_placa_eur": 2099,
+      "prosjecna_bruto_placa_eur": 3097
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "M",
+      "djelatnost": "Poslovanje nekretninama",
+      "prosjecna_neto_placa_eur": 1447,
+      "prosjecna_bruto_placa_eur": 2068
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "N",
+      "djelatnost": "Stručne, znanstvene i tehničke djelatnosti",
+      "prosjecna_neto_placa_eur": 1714,
+      "prosjecna_bruto_placa_eur": 2498
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "O",
+      "djelatnost": "Administrativne i pomoćne uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1199,
+      "prosjecna_bruto_placa_eur": 1682
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "P",
+      "djelatnost": "Javna uprava i obrana; obvezno socijalno osiguranje",
+      "prosjecna_neto_placa_eur": 2000,
+      "prosjecna_bruto_placa_eur": 2908
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "Q",
+      "djelatnost": "Obrazovanje",
+      "prosjecna_neto_placa_eur": 1681,
+      "prosjecna_bruto_placa_eur": 2415
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "R",
+      "djelatnost": "Djelatnosti zdravstvene zaštite i socijalne skrbi",
+      "prosjecna_neto_placa_eur": 2058,
+      "prosjecna_bruto_placa_eur": 3026
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "S",
+      "djelatnost": "Umjetnost, sport i rekreacija",
+      "prosjecna_neto_placa_eur": 1556,
+      "prosjecna_bruto_placa_eur": 2244
+    },
+    {
+      "zupanija": "Grad Zagreb",
+      "sifra_nkd": "T",
+      "djelatnost": "Ostale uslužne djelatnosti",
+      "prosjecna_neto_placa_eur": 1249,
+      "prosjecna_bruto_placa_eur": 1746
+    }
+  ],
+  "meta": {
+    "title": "Prosječne neto i bruto plaće po županijama i djelatnostima (2025.) - Free Download",
+    "description": "Prosječna mjesečna isplaćena neto i bruto plaća po zaposlenome u 2025. godini (u eurima) za Republiku Hrvatsku i svaku županiju, prema područjima djelatnosti NKD-a 2025., obrada prema obrascu JOPPD (DZS). Contains 462 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prosječne neto i bruto plaće po županijama i djelatnostima (2025.) | ListBase",
+    "seo_description": "Download Prosječne neto i bruto plaće po županijama i djelatnostima (2025.) — 462 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 462 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://data.gov.hr/ckan/dataset/statistika-u-nizu-zaposlenost-i-pla-e"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-23T02:26:39.389Z",
-  "total_datasets": 520,
-  "total_records": 832424,
+  "generated": "2026-11-23T02:26:50.886Z",
+  "total_datasets": 521,
+  "total_records": 832886,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "education",
@@ -1054,6 +1054,32 @@
         "xlsx": {
           "name": "hr-ministri-financija_HR.xlsx",
           "size": 7167
+        }
+      }
+    },
+    {
+      "id": "hr-prosjecne-place-po-zupanijama-i-djelatnostima-2025",
+      "name": "Prosječne neto i bruto plaće po županijama i djelatnostima (2025.)",
+      "category": "economy",
+      "record_count": 462,
+      "columns": [
+        "zupanija",
+        "sifra_nkd",
+        "djelatnost",
+        "prosjecna_neto_placa_eur",
+        "prosjecna_bruto_placa_eur"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-zaposlenost-i-pla-e",
+      "updated": "2026-11",
+      "size": 104872,
+      "files": {
+        "csv": {
+          "name": "hr-prosjecne-place-po-zupanijama-i-djelatnostima-2025_HR.csv",
+          "size": 38579
+        },
+        "xlsx": {
+          "name": "hr-prosjecne-place-po-zupanijama-i-djelatnostima-2025_HR.xlsx",
+          "size": 19226
         }
       }
     },
