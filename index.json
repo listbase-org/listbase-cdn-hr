@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-20T02:13:31.875Z",
-  "total_datasets": 519,
-  "total_records": 832295,
+  "generated": "2026-11-23T02:26:39.389Z",
+  "total_datasets": 520,
+  "total_records": 832424,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -2379,6 +2379,38 @@
         "xlsx": {
           "name": "hr-osjetljive-morske-vrste-slucajni-ulov_HR.xlsx",
           "size": 9193
+        }
+      }
+    },
+    {
+      "id": "hr-proizvodnja-elektricne-energije-po-izvorima-mjesecno",
+      "name": "Proizvodnja električne energije u Hrvatskoj po izvorima – mjesečno (od 2016.)",
+      "category": "environment",
+      "record_count": 129,
+      "columns": [
+        "godina",
+        "mjesec",
+        "ukupna_bruto_proizvodnja_gwh",
+        "hidroelektrane_gwh",
+        "termoelektrane_fosilna_goriva_gwh",
+        "termoelektrane_obnovljiva_goriva_gwh",
+        "vjetroelektrane_gwh",
+        "suncane_elektrane_gwh",
+        "uvoz_gwh",
+        "izvoz_gwh",
+        "raspolozivo_za_tuzemnu_potrosnju_gwh"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-energija",
+      "updated": "2026-11",
+      "size": 54159,
+      "files": {
+        "csv": {
+          "name": "hr-proizvodnja-elektricne-energije-po-izvorima-mjesecno_HR.csv",
+          "size": 8595
+        },
+        "xlsx": {
+          "name": "hr-proizvodnja-elektricne-energije-po-izvorima-mjesecno_HR.xlsx",
+          "size": 13794
         }
       }
     },
