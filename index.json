@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-24T02:16:27.890Z",
-  "total_datasets": 522,
-  "total_records": 833031,
+  "generated": "2026-11-24T02:16:36.173Z",
+  "total_datasets": 523,
+  "total_records": 833233,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "time",
@@ -12420,6 +12420,30 @@
         "xlsx": {
           "name": "hr-najvisi-neboderi_HR.xlsx",
           "size": 9477
+        }
+      }
+    },
+    {
+      "id": "hr-opremljenost-kucanstava-trajnim-dobrima",
+      "name": "Opremljenost kućanstava trajnim dobrima (1998.–2022.)",
+      "category": "tech",
+      "record_count": 202,
+      "columns": [
+        "trajno_dobro",
+        "godina",
+        "udio_kucanstava_pct"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-rezultati-ankete-o-potrosnji-kucanstava",
+      "updated": "2026-11",
+      "size": 23996,
+      "files": {
+        "csv": {
+          "name": "hr-opremljenost-kucanstava-trajnim-dobrima_HR.csv",
+          "size": 6305
+        },
+        "xlsx": {
+          "name": "hr-opremljenost-kucanstava-trajnim-dobrima_HR.xlsx",
+          "size": 10083
         }
       }
     },
