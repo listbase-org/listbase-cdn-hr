@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-23T02:26:50.886Z",
-  "total_datasets": 521,
-  "total_records": 832886,
+  "generated": "2026-11-24T02:16:27.890Z",
+  "total_datasets": 522,
+  "total_records": 833031,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -2703,6 +2703,37 @@
         "xlsx": {
           "name": "hr-zagreb-banke_HR.xlsx",
           "size": 8230
+        }
+      }
+    },
+    {
+      "id": "hr-kravlje-mlijeko-i-mlijecni-proizvodi-mjesecno",
+      "name": "Prikupljeno kravlje mlijeko i proizvodnja mliječnih proizvoda po mjesecima (2010.–2022.)",
+      "category": "food",
+      "record_count": 145,
+      "columns": [
+        "godina",
+        "mjesec",
+        "prikupljeno_mlijeko_t",
+        "sadrzaj_masti_pct",
+        "sadrzaj_proteina_pct",
+        "mlijeko_za_pice_t",
+        "vrhnje_t",
+        "fermentirani_proizvodi_t",
+        "maslac_t",
+        "kravlji_sir_t"
+      ],
+      "source": "https://data.gov.hr/ckan/dataset/statistika-u-nizu-poljoprivreda-umarstvo-i-ribarstvo",
+      "updated": "2026-11",
+      "size": 47770,
+      "files": {
+        "csv": {
+          "name": "hr-kravlje-mlijeko-i-mlijecni-proizvodi-mjesecno_HR.csv",
+          "size": 10038
+        },
+        "xlsx": {
+          "name": "hr-kravlje-mlijeko-i-mlijecni-proizvodi-mjesecno_HR.xlsx",
+          "size": 14626
         }
       }
     },
