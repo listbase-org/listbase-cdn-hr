@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-25T02:17:37.796Z",
-  "total_datasets": 525,
-  "total_records": 833344,
+  "generated": "2026-11-25T02:17:46.199Z",
+  "total_datasets": 526,
+  "total_records": 834211,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 42
+      "dataset_count": 43
     },
     {
       "id": "units",
@@ -14198,6 +14198,33 @@
         "xlsx": {
           "name": "hr-primorsko-goranska-zracne-luke_HR.xlsx",
           "size": 7203
+        }
+      }
+    },
+    {
+      "id": "hr-promet-putnika-u-morskim-lukama",
+      "name": "Promet putnika u morskim lukama Hrvatske po lukama (2013.–2025.)",
+      "category": "transport",
+      "record_count": 867,
+      "columns": [
+        "luka",
+        "unlocode",
+        "godina",
+        "otputovali",
+        "doputovali",
+        "ukupno"
+      ],
+      "source": "https://web.dzs.hr/PXWeb/Menu.aspx?px_db=Transport+i+komunikacije&px_language=hr",
+      "updated": "2026-11",
+      "size": 143745,
+      "files": {
+        "csv": {
+          "name": "hr-promet-putnika-u-morskim-lukama_HR.csv",
+          "size": 42867
+        },
+        "xlsx": {
+          "name": "hr-promet-putnika-u-morskim-lukama_HR.xlsx",
+          "size": 35658
         }
       }
     },

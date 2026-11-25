@@ -1,0 +1,6992 @@
+{
+  "id": "hr-promet-putnika-u-morskim-lukama",
+  "name": "Promet putnika u morskim lukama Hrvatske po lukama (2013.–2025.)",
+  "title": "Promet putnika u morskim lukama Hrvatske po lukama (2013.–2025.)",
+  "description": "Godišnji broj putnika koji su otputovali i doputovali u hrvatskim morskim lukama (Split, Zadar, Dubrovnik, Rijeka i dr.), ukupni unutarnji i međunarodni promet, prema DZS-u.",
+  "category": "transport",
+  "source": "https://web.dzs.hr/PXWeb/Menu.aspx?px_db=Transport+i+komunikacije&px_language=hr",
+  "source_url": "https://web.dzs.hr/PXWeb/Menu.aspx?px_db=Transport+i+komunikacije&px_language=hr",
+  "updated": "2026-11",
+  "record_count": 867,
+  "columns": [
+    {
+      "key": "luka",
+      "label": "Luka",
+      "type": "string"
+    },
+    {
+      "key": "unlocode",
+      "label": "Unlocode",
+      "type": "string"
+    },
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "otputovali",
+      "label": "Otputovali",
+      "type": "number"
+    },
+    {
+      "key": "doputovali",
+      "label": "Doputovali",
+      "type": "number"
+    },
+    {
+      "key": "ukupno",
+      "label": "Ukupno",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2013,
+      "otputovali": 13688896,
+      "doputovali": 15102391,
+      "ukupno": 28791287
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2014,
+      "otputovali": 11615525,
+      "doputovali": 13095389,
+      "ukupno": 24710914
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2015,
+      "otputovali": 13296871,
+      "doputovali": 15216494,
+      "ukupno": 28513365
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2016,
+      "otputovali": 14584374,
+      "doputovali": 16398962,
+      "ukupno": 30983336
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2017,
+      "otputovali": 15351342,
+      "doputovali": 17171859,
+      "ukupno": 32523201
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2018,
+      "otputovali": 16101093,
+      "doputovali": 17872846,
+      "ukupno": 33973939
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2019,
+      "otputovali": 17039069,
+      "doputovali": 18536867,
+      "ukupno": 35575936
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2020,
+      "otputovali": 9390435,
+      "doputovali": 9396147,
+      "ukupno": 18786582
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2021,
+      "otputovali": 13535627,
+      "doputovali": 13787740,
+      "ukupno": 27323367
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2022,
+      "otputovali": 16471106,
+      "doputovali": 17362825,
+      "ukupno": 33833931
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2023,
+      "otputovali": 16878565,
+      "doputovali": 18125345,
+      "ukupno": 35003910
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2024,
+      "otputovali": 17368045,
+      "doputovali": 18821688,
+      "ukupno": 36189733
+    },
+    {
+      "luka": "Republika Hrvatska",
+      "unlocode": "HR (ukupno)",
+      "godina": 2025,
+      "otputovali": 17287632,
+      "doputovali": 18809340,
+      "ukupno": 36096972
+    },
+    {
+      "luka": "Bakar",
+      "unlocode": "HRBAK",
+      "godina": 2019,
+      "otputovali": 95,
+      "doputovali": 208,
+      "ukupno": 303
+    },
+    {
+      "luka": "Bakar",
+      "unlocode": "HRBAK",
+      "godina": 2022,
+      "otputovali": 164,
+      "doputovali": 193,
+      "ukupno": 357
+    },
+    {
+      "luka": "Bakar",
+      "unlocode": "HRBAK",
+      "godina": 2024,
+      "otputovali": 26,
+      "doputovali": 36,
+      "ukupno": 62
+    },
+    {
+      "luka": "Bakar",
+      "unlocode": "HRBAK",
+      "godina": 2025,
+      "otputovali": 10,
+      "doputovali": 10,
+      "ukupno": 20
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2013,
+      "otputovali": 9003,
+      "doputovali": 9019,
+      "ukupno": 18022
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2014,
+      "otputovali": 5470,
+      "doputovali": 8961,
+      "ukupno": 14431
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2015,
+      "otputovali": 5441,
+      "doputovali": 7398,
+      "ukupno": 12839
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2016,
+      "otputovali": 7230,
+      "doputovali": 7517,
+      "ukupno": 14747
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2017,
+      "otputovali": 12139,
+      "doputovali": 12338,
+      "ukupno": 24477
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2018,
+      "otputovali": 13058,
+      "doputovali": 14763,
+      "ukupno": 27821
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2019,
+      "otputovali": 20481,
+      "doputovali": 25761,
+      "ukupno": 46242
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2020,
+      "otputovali": 8384,
+      "doputovali": 10110,
+      "ukupno": 18494
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2021,
+      "otputovali": 16612,
+      "doputovali": 18814,
+      "ukupno": 35426
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2022,
+      "otputovali": 20014,
+      "doputovali": 22600,
+      "ukupno": 42614
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2023,
+      "otputovali": 15771,
+      "doputovali": 15984,
+      "ukupno": 31755
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2024,
+      "otputovali": 17175,
+      "doputovali": 16702,
+      "ukupno": 33877
+    },
+    {
+      "luka": "Baška",
+      "unlocode": "HRBAS",
+      "godina": 2025,
+      "otputovali": 10619,
+      "doputovali": 10592,
+      "ukupno": 21211
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2013,
+      "otputovali": 459970,
+      "doputovali": 455780,
+      "ukupno": 915750
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2014,
+      "otputovali": 447812,
+      "doputovali": 461275,
+      "ukupno": 909087
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2015,
+      "otputovali": 480029,
+      "doputovali": 481992,
+      "ukupno": 962021
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2016,
+      "otputovali": 509242,
+      "doputovali": 507000,
+      "ukupno": 1016242
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2017,
+      "otputovali": 533159,
+      "doputovali": 533309,
+      "ukupno": 1066468
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2018,
+      "otputovali": 534619,
+      "doputovali": 535400,
+      "ukupno": 1070019
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2019,
+      "otputovali": 552563,
+      "doputovali": 552854,
+      "ukupno": 1105417
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2020,
+      "otputovali": 380044,
+      "doputovali": 380272,
+      "ukupno": 760316
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2021,
+      "otputovali": 486159,
+      "doputovali": 485941,
+      "ukupno": 972100
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2022,
+      "otputovali": 528040,
+      "doputovali": 527912,
+      "ukupno": 1055952
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2023,
+      "otputovali": 550409,
+      "doputovali": 550428,
+      "ukupno": 1100837
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2024,
+      "otputovali": 567427,
+      "doputovali": 567375,
+      "ukupno": 1134802
+    },
+    {
+      "luka": "Biograd",
+      "unlocode": "HRBNM",
+      "godina": 2025,
+      "otputovali": 572572,
+      "doputovali": 572439,
+      "ukupno": 1145011
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2013,
+      "otputovali": 91559,
+      "doputovali": 91633,
+      "ukupno": 183192
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2014,
+      "otputovali": 34282,
+      "doputovali": 49925,
+      "ukupno": 84207
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2015,
+      "otputovali": 31009,
+      "doputovali": 64234,
+      "ukupno": 95243
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2016,
+      "otputovali": 35333,
+      "doputovali": 56979,
+      "ukupno": 92312
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2017,
+      "otputovali": 57770,
+      "doputovali": 102331,
+      "ukupno": 160101
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2018,
+      "otputovali": 65355,
+      "doputovali": 91225,
+      "ukupno": 156580
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2019,
+      "otputovali": 78760,
+      "doputovali": 106959,
+      "ukupno": 185719
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2020,
+      "otputovali": 12382,
+      "doputovali": 28859,
+      "ukupno": 41241
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2021,
+      "otputovali": 48272,
+      "doputovali": 71839,
+      "ukupno": 120111
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2022,
+      "otputovali": 60301,
+      "doputovali": 90977,
+      "ukupno": 151278
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2023,
+      "otputovali": 80516,
+      "doputovali": 111070,
+      "ukupno": 191586
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2024,
+      "otputovali": 50035,
+      "doputovali": 78327,
+      "ukupno": 128362
+    },
+    {
+      "luka": "Bol",
+      "unlocode": "HRBOL",
+      "godina": 2025,
+      "otputovali": 62809,
+      "doputovali": 86934,
+      "ukupno": 149743
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2013,
+      "otputovali": 82827,
+      "doputovali": 83688,
+      "ukupno": 166515
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2014,
+      "otputovali": 88392,
+      "doputovali": 90468,
+      "ukupno": 178860
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2015,
+      "otputovali": 99203,
+      "doputovali": 103346,
+      "ukupno": 202549
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2016,
+      "otputovali": 107445,
+      "doputovali": 112212,
+      "ukupno": 219657
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2017,
+      "otputovali": 112222,
+      "doputovali": 116803,
+      "ukupno": 229025
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2018,
+      "otputovali": 115314,
+      "doputovali": 121667,
+      "ukupno": 236981
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2019,
+      "otputovali": 117588,
+      "doputovali": 127453,
+      "ukupno": 245041
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2020,
+      "otputovali": 84509,
+      "doputovali": 87738,
+      "ukupno": 172247
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2021,
+      "otputovali": 120265,
+      "doputovali": 123857,
+      "ukupno": 244122
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2022,
+      "otputovali": 121539,
+      "doputovali": 127815,
+      "ukupno": 249354
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2023,
+      "otputovali": 124470,
+      "doputovali": 128604,
+      "ukupno": 253074
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2024,
+      "otputovali": 125028,
+      "doputovali": 129153,
+      "ukupno": 254181
+    },
+    {
+      "luka": "Božava",
+      "unlocode": "HRBZA",
+      "godina": 2025,
+      "otputovali": 125177,
+      "doputovali": 128333,
+      "ukupno": 253510
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2013,
+      "otputovali": 10945,
+      "doputovali": 9067,
+      "ukupno": 20012
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2014,
+      "otputovali": 11661,
+      "doputovali": 14124,
+      "ukupno": 25785
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2015,
+      "otputovali": 40629,
+      "doputovali": 70379,
+      "ukupno": 111008
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2016,
+      "otputovali": 50464,
+      "doputovali": 71278,
+      "ukupno": 121742
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2017,
+      "otputovali": 47698,
+      "doputovali": 60674,
+      "ukupno": 108372
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2018,
+      "otputovali": 59891,
+      "doputovali": 80463,
+      "ukupno": 140354
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2019,
+      "otputovali": 83140,
+      "doputovali": 77383,
+      "ukupno": 160523
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2020,
+      "otputovali": 6543,
+      "doputovali": 4925,
+      "ukupno": 11468
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2021,
+      "otputovali": 24578,
+      "doputovali": 19159,
+      "ukupno": 43737
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2022,
+      "otputovali": 71032,
+      "doputovali": 65238,
+      "ukupno": 136270
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2023,
+      "otputovali": 67610,
+      "doputovali": 59006,
+      "ukupno": 126616
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2024,
+      "otputovali": 70252,
+      "doputovali": 59385,
+      "ukupno": 129637
+    },
+    {
+      "luka": "Cavtat",
+      "unlocode": "HRCVT",
+      "godina": 2025,
+      "otputovali": 78325,
+      "doputovali": 67138,
+      "ukupno": 145463
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2013,
+      "otputovali": 781265,
+      "doputovali": 796135,
+      "ukupno": 1577400
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2014,
+      "otputovali": 676748,
+      "doputovali": 671535,
+      "ukupno": 1348283
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2015,
+      "otputovali": 798043,
+      "doputovali": 813091,
+      "ukupno": 1611134
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2016,
+      "otputovali": 835266,
+      "doputovali": 840861,
+      "ukupno": 1676127
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2017,
+      "otputovali": 857590,
+      "doputovali": 873369,
+      "ukupno": 1730959
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2018,
+      "otputovali": 885984,
+      "doputovali": 922668,
+      "ukupno": 1808652
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2019,
+      "otputovali": 907833,
+      "doputovali": 932261,
+      "ukupno": 1840094
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2020,
+      "otputovali": 513557,
+      "doputovali": 524004,
+      "ukupno": 1037561
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2021,
+      "otputovali": 729193,
+      "doputovali": 750616,
+      "ukupno": 1479809
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2022,
+      "otputovali": 869257,
+      "doputovali": 893487,
+      "ukupno": 1762744
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2023,
+      "otputovali": 895612,
+      "doputovali": 920346,
+      "ukupno": 1815958
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2024,
+      "otputovali": 920741,
+      "doputovali": 947907,
+      "ukupno": 1868648
+    },
+    {
+      "luka": "Cres",
+      "unlocode": "HRCRS",
+      "godina": 2025,
+      "otputovali": 915987,
+      "doputovali": 939971,
+      "ukupno": 1855958
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2013,
+      "otputovali": 36431,
+      "doputovali": 36278,
+      "ukupno": 72709
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2014,
+      "otputovali": 7966,
+      "doputovali": 8372,
+      "ukupno": 16338
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2015,
+      "otputovali": 6658,
+      "doputovali": 7232,
+      "ukupno": 13890
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2016,
+      "otputovali": 11094,
+      "doputovali": 10521,
+      "ukupno": 21615
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2017,
+      "otputovali": 20374,
+      "doputovali": 20544,
+      "ukupno": 40918
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2018,
+      "otputovali": 21246,
+      "doputovali": 19712,
+      "ukupno": 40958
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2019,
+      "otputovali": 22218,
+      "doputovali": 17699,
+      "ukupno": 39917
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2020,
+      "otputovali": 5690,
+      "doputovali": 5975,
+      "ukupno": 11665
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2021,
+      "otputovali": 13750,
+      "doputovali": 12258,
+      "ukupno": 26008
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2022,
+      "otputovali": 15210,
+      "doputovali": 14312,
+      "ukupno": 29522
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2023,
+      "otputovali": 7417,
+      "doputovali": 6890,
+      "ukupno": 14307
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2024,
+      "otputovali": 12072,
+      "doputovali": 11723,
+      "ukupno": 23795
+    },
+    {
+      "luka": "Crikvenica",
+      "unlocode": "HRCRA",
+      "godina": 2025,
+      "otputovali": 7322,
+      "doputovali": 7216,
+      "ukupno": 14538
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2013,
+      "otputovali": 620966,
+      "doputovali": 1690511,
+      "ukupno": 2311477
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2014,
+      "otputovali": 589509,
+      "doputovali": 1451285,
+      "ukupno": 2040794
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2015,
+      "otputovali": 439205,
+      "doputovali": 1570755,
+      "ukupno": 2009960
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2016,
+      "otputovali": 557067,
+      "doputovali": 1750523,
+      "ukupno": 2307590
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2017,
+      "otputovali": 528692,
+      "doputovali": 1796232,
+      "ukupno": 2324924
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2018,
+      "otputovali": 779396,
+      "doputovali": 1878426,
+      "ukupno": 2657822
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2019,
+      "otputovali": 1180278,
+      "doputovali": 1960805,
+      "ukupno": 3141083
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2020,
+      "otputovali": 328078,
+      "doputovali": 348856,
+      "ukupno": 676934
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2021,
+      "otputovali": 578920,
+      "doputovali": 719027,
+      "ukupno": 1297947
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2022,
+      "otputovali": 1030811,
+      "doputovali": 1420608,
+      "ukupno": 2451419
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2023,
+      "otputovali": 1047408,
+      "doputovali": 1595293,
+      "ukupno": 2642701
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2024,
+      "otputovali": 1210160,
+      "doputovali": 1797539,
+      "ukupno": 3007699
+    },
+    {
+      "luka": "Dubrovnik",
+      "unlocode": "HRDBV",
+      "godina": 2025,
+      "otputovali": 1260334,
+      "doputovali": 1886193,
+      "ukupno": 3146527
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2013,
+      "otputovali": 236157,
+      "doputovali": 247049,
+      "ukupno": 483206
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2014,
+      "otputovali": 171510,
+      "doputovali": 211945,
+      "ukupno": 383455
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2015,
+      "otputovali": 219505,
+      "doputovali": 322166,
+      "ukupno": 541671
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2016,
+      "otputovali": 247407,
+      "doputovali": 346596,
+      "ukupno": 594003
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2017,
+      "otputovali": 241853,
+      "doputovali": 331545,
+      "ukupno": 573398
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2018,
+      "otputovali": 324416,
+      "doputovali": 402120,
+      "ukupno": 726536
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2019,
+      "otputovali": 382754,
+      "doputovali": 454282,
+      "ukupno": 837036
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2020,
+      "otputovali": 72864,
+      "doputovali": 109216,
+      "ukupno": 182080
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2021,
+      "otputovali": 205753,
+      "doputovali": 249757,
+      "ukupno": 455510
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2022,
+      "otputovali": 359486,
+      "doputovali": 420443,
+      "ukupno": 779929
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2023,
+      "otputovali": 354947,
+      "doputovali": 418730,
+      "ukupno": 773677
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2024,
+      "otputovali": 338201,
+      "doputovali": 408734,
+      "ukupno": 746935
+    },
+    {
+      "luka": "Hvar",
+      "unlocode": "HRHVA",
+      "godina": 2025,
+      "otputovali": 243491,
+      "doputovali": 261168,
+      "ukupno": 504659
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2013,
+      "otputovali": 10499,
+      "doputovali": 10739,
+      "ukupno": 21238
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2014,
+      "otputovali": 14617,
+      "doputovali": 15238,
+      "ukupno": 29855
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2015,
+      "otputovali": 25847,
+      "doputovali": 41246,
+      "ukupno": 67093
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2016,
+      "otputovali": 26954,
+      "doputovali": 43886,
+      "ukupno": 70840
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2017,
+      "otputovali": 28105,
+      "doputovali": 44675,
+      "ukupno": 72780
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2018,
+      "otputovali": 28240,
+      "doputovali": 45059,
+      "ukupno": 73299
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2019,
+      "otputovali": 28943,
+      "doputovali": 45618,
+      "ukupno": 74561
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2020,
+      "otputovali": 21831,
+      "doputovali": 33219,
+      "ukupno": 55050
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2021,
+      "otputovali": 26272,
+      "doputovali": 39843,
+      "ukupno": 66115
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2022,
+      "otputovali": 28393,
+      "doputovali": 43529,
+      "ukupno": 71922
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2023,
+      "otputovali": 29275,
+      "doputovali": 43445,
+      "ukupno": 72720
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2024,
+      "otputovali": 28284,
+      "doputovali": 42747,
+      "ukupno": 71031
+    },
+    {
+      "luka": "Ist",
+      "unlocode": "HRIST",
+      "godina": 2025,
+      "otputovali": 29864,
+      "doputovali": 44985,
+      "ukupno": 74849
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2013,
+      "otputovali": 788597,
+      "doputovali": 752234,
+      "ukupno": 1540831
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2014,
+      "otputovali": 510711,
+      "doputovali": 502743,
+      "ukupno": 1013454
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2015,
+      "otputovali": 815572,
+      "doputovali": 801713,
+      "ukupno": 1617285
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2016,
+      "otputovali": 804088,
+      "doputovali": 790757,
+      "ukupno": 1594845
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2017,
+      "otputovali": 871255,
+      "doputovali": 858895,
+      "ukupno": 1730150
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2018,
+      "otputovali": 897310,
+      "doputovali": 882425,
+      "ukupno": 1779735
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2019,
+      "otputovali": 914724,
+      "doputovali": 901863,
+      "ukupno": 1816587
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2020,
+      "otputovali": 540099,
+      "doputovali": 532758,
+      "ukupno": 1072857
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2021,
+      "otputovali": 795492,
+      "doputovali": 777660,
+      "ukupno": 1573152
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2022,
+      "otputovali": 961615,
+      "doputovali": 933468,
+      "ukupno": 1895083
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2023,
+      "otputovali": 989060,
+      "doputovali": 960750,
+      "ukupno": 1949810
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2024,
+      "otputovali": 988816,
+      "doputovali": 963405,
+      "ukupno": 1952221
+    },
+    {
+      "luka": "Jablanac",
+      "unlocode": "HRJAB",
+      "godina": 2025,
+      "otputovali": 990204,
+      "doputovali": 972317,
+      "ukupno": 1962521
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2013,
+      "otputovali": 72151,
+      "doputovali": 76075,
+      "ukupno": 148226
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2014,
+      "otputovali": 16759,
+      "doputovali": 29499,
+      "ukupno": 46258
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2015,
+      "otputovali": 12540,
+      "doputovali": 16203,
+      "ukupno": 28743
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2016,
+      "otputovali": 12175,
+      "doputovali": 5202,
+      "ukupno": 17377
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2017,
+      "otputovali": 16237,
+      "doputovali": 8210,
+      "ukupno": 24447
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2018,
+      "otputovali": 15915,
+      "doputovali": 6454,
+      "ukupno": 22369
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2019,
+      "otputovali": 16392,
+      "doputovali": 7107,
+      "ukupno": 23499
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2020,
+      "otputovali": 7978,
+      "doputovali": 2528,
+      "ukupno": 10506
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2021,
+      "otputovali": 11446,
+      "doputovali": 3349,
+      "ukupno": 14795
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2022,
+      "otputovali": 14480,
+      "doputovali": 5244,
+      "ukupno": 19724
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2023,
+      "otputovali": 13529,
+      "doputovali": 4935,
+      "ukupno": 18464
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2024,
+      "otputovali": 15564,
+      "doputovali": 7056,
+      "ukupno": 22620
+    },
+    {
+      "luka": "Jelsa",
+      "unlocode": "HRJSA",
+      "godina": 2025,
+      "otputovali": 15451,
+      "doputovali": 5474,
+      "ukupno": 20925
+    },
+    {
+      "luka": "Karlobag",
+      "unlocode": "HRKAB",
+      "godina": 2013,
+      "otputovali": 214,
+      "doputovali": 184,
+      "ukupno": 398
+    },
+    {
+      "luka": "Karlobag",
+      "unlocode": "HRKAB",
+      "godina": 2016,
+      "otputovali": 647,
+      "doputovali": 650,
+      "ukupno": 1297
+    },
+    {
+      "luka": "Karlobag",
+      "unlocode": "HRKAB",
+      "godina": 2017,
+      "otputovali": 2636,
+      "doputovali": 2834,
+      "ukupno": 5470
+    },
+    {
+      "luka": "Karlobag",
+      "unlocode": "HRKAB",
+      "godina": 2018,
+      "otputovali": 2517,
+      "doputovali": 2607,
+      "ukupno": 5124
+    },
+    {
+      "luka": "Karlobag",
+      "unlocode": "HRKAB",
+      "godina": 2019,
+      "otputovali": 2684,
+      "doputovali": 2778,
+      "ukupno": 5462
+    },
+    {
+      "luka": "Karlobag",
+      "unlocode": "HRKAB",
+      "godina": 2020,
+      "otputovali": 1151,
+      "doputovali": 1106,
+      "ukupno": 2257
+    },
+    {
+      "luka": "Karlobag",
+      "unlocode": "HRKAB",
+      "godina": 2021,
+      "otputovali": 1415,
+      "doputovali": 1457,
+      "ukupno": 2872
+    },
+    {
+      "luka": "Karlobag",
+      "unlocode": "HRKAB",
+      "godina": 2022,
+      "otputovali": 2418,
+      "doputovali": 2418,
+      "ukupno": 4836
+    },
+    {
+      "luka": "Karlobag",
+      "unlocode": "HRKAB",
+      "godina": 2023,
+      "otputovali": 2682,
+      "doputovali": 2694,
+      "ukupno": 5376
+    },
+    {
+      "luka": "Karlobag",
+      "unlocode": "HRKAB",
+      "godina": 2024,
+      "otputovali": 2458,
+      "doputovali": 2493,
+      "ukupno": 4951
+    },
+    {
+      "luka": "Karlobag",
+      "unlocode": "HRKAB",
+      "godina": 2025,
+      "otputovali": 1955,
+      "doputovali": 1984,
+      "ukupno": 3939
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2013,
+      "otputovali": 11318,
+      "doputovali": 11197,
+      "ukupno": 22515
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2014,
+      "otputovali": 7873,
+      "doputovali": 7969,
+      "ukupno": 15842
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2015,
+      "otputovali": 8812,
+      "doputovali": 8609,
+      "ukupno": 17421
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2016,
+      "otputovali": 9912,
+      "doputovali": 10342,
+      "ukupno": 20254
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2017,
+      "otputovali": 8580,
+      "doputovali": 9537,
+      "ukupno": 18117
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2018,
+      "otputovali": 9221,
+      "doputovali": 10010,
+      "ukupno": 19231
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2019,
+      "otputovali": 3187,
+      "doputovali": 3461,
+      "ukupno": 6648
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2020,
+      "otputovali": 2979,
+      "doputovali": 3160,
+      "ukupno": 6139
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2021,
+      "otputovali": 4124,
+      "doputovali": 5641,
+      "ukupno": 9765
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2022,
+      "otputovali": 4035,
+      "doputovali": 5814,
+      "ukupno": 9849
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2023,
+      "otputovali": 4295,
+      "doputovali": 6210,
+      "ukupno": 10505
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2024,
+      "otputovali": 4406,
+      "doputovali": 6249,
+      "ukupno": 10655
+    },
+    {
+      "luka": "Komiža",
+      "unlocode": "HRKMZ",
+      "godina": 2025,
+      "otputovali": 4541,
+      "doputovali": 7998,
+      "ukupno": 12539
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2013,
+      "otputovali": 808807,
+      "doputovali": 853791,
+      "ukupno": 1662598
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2014,
+      "otputovali": 844405,
+      "doputovali": 886624,
+      "ukupno": 1731029
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2015,
+      "otputovali": 848220,
+      "doputovali": 866696,
+      "ukupno": 1714916
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2016,
+      "otputovali": 903400,
+      "doputovali": 924753,
+      "ukupno": 1828153
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2017,
+      "otputovali": 990015,
+      "doputovali": 1010706,
+      "ukupno": 2000721
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2018,
+      "otputovali": 1012793,
+      "doputovali": 1059814,
+      "ukupno": 2072607
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2019,
+      "otputovali": 1040218,
+      "doputovali": 1116482,
+      "ukupno": 2156700
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2020,
+      "otputovali": 561288,
+      "doputovali": 561393,
+      "ukupno": 1122681
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2021,
+      "otputovali": 832456,
+      "doputovali": 853211,
+      "ukupno": 1685667
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2022,
+      "otputovali": 1054075,
+      "doputovali": 1101110,
+      "ukupno": 2155185
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2023,
+      "otputovali": 1169412,
+      "doputovali": 1212632,
+      "ukupno": 2382044
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2024,
+      "otputovali": 1214468,
+      "doputovali": 1238613,
+      "ukupno": 2453081
+    },
+    {
+      "luka": "Korčula",
+      "unlocode": "HRKOR",
+      "godina": 2025,
+      "otputovali": 1237721,
+      "doputovali": 1286292,
+      "ukupno": 2524013
+    },
+    {
+      "luka": "Kraljevica",
+      "unlocode": "HRKRA",
+      "godina": 2014,
+      "otputovali": 329,
+      "doputovali": 287,
+      "ukupno": 616
+    },
+    {
+      "luka": "Kraljevica",
+      "unlocode": "HRKRA",
+      "godina": 2015,
+      "otputovali": 78,
+      "doputovali": 10,
+      "ukupno": 88
+    },
+    {
+      "luka": "Kraljevica",
+      "unlocode": "HRKRA",
+      "godina": 2016,
+      "otputovali": 30,
+      "doputovali": 30,
+      "ukupno": 60
+    },
+    {
+      "luka": "Kraljevica",
+      "unlocode": "HRKRA",
+      "godina": 2017,
+      "otputovali": 161,
+      "doputovali": 161,
+      "ukupno": 322
+    },
+    {
+      "luka": "Kraljevica",
+      "unlocode": "HRKRA",
+      "godina": 2019,
+      "otputovali": 74,
+      "doputovali": 74,
+      "ukupno": 148
+    },
+    {
+      "luka": "Kraljevica",
+      "unlocode": "HRKRA",
+      "godina": 2020,
+      "otputovali": 76,
+      "doputovali": 76,
+      "ukupno": 152
+    },
+    {
+      "luka": "Kraljevica",
+      "unlocode": "HRKRA",
+      "godina": 2021,
+      "otputovali": 231,
+      "doputovali": 231,
+      "ukupno": 462
+    },
+    {
+      "luka": "Kraljevica",
+      "unlocode": "HRKRA",
+      "godina": 2022,
+      "otputovali": 240,
+      "doputovali": 232,
+      "ukupno": 472
+    },
+    {
+      "luka": "Kraljevica",
+      "unlocode": "HRKRA",
+      "godina": 2023,
+      "otputovali": 515,
+      "doputovali": 515,
+      "ukupno": 1030
+    },
+    {
+      "luka": "Kraljevica",
+      "unlocode": "HRKRA",
+      "godina": 2024,
+      "otputovali": 516,
+      "doputovali": 514,
+      "ukupno": 1030
+    },
+    {
+      "luka": "Kraljevica",
+      "unlocode": "HRKRA",
+      "godina": 2025,
+      "otputovali": 136,
+      "doputovali": 134,
+      "ukupno": 270
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2013,
+      "otputovali": 517289,
+      "doputovali": 575945,
+      "ukupno": 1093234
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2014,
+      "otputovali": 548805,
+      "doputovali": 558834,
+      "ukupno": 1107639
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2015,
+      "otputovali": 544464,
+      "doputovali": 617795,
+      "ukupno": 1162259
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2016,
+      "otputovali": 586171,
+      "doputovali": 642630,
+      "ukupno": 1228801
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2017,
+      "otputovali": 621159,
+      "doputovali": 668944,
+      "ukupno": 1290103
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2018,
+      "otputovali": 653979,
+      "doputovali": 704933,
+      "ukupno": 1358912
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2019,
+      "otputovali": 680643,
+      "doputovali": 730960,
+      "ukupno": 1411603
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2020,
+      "otputovali": 418947,
+      "doputovali": 440414,
+      "ukupno": 859361
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2021,
+      "otputovali": 557981,
+      "doputovali": 582051,
+      "ukupno": 1140032
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2022,
+      "otputovali": 665486,
+      "doputovali": 698583,
+      "ukupno": 1364069
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2023,
+      "otputovali": 717271,
+      "doputovali": 742241,
+      "ukupno": 1459512
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2024,
+      "otputovali": 737852,
+      "doputovali": 756550,
+      "ukupno": 1494402
+    },
+    {
+      "luka": "Krk",
+      "unlocode": "HRKRK",
+      "godina": 2025,
+      "otputovali": 749853,
+      "doputovali": 763180,
+      "ukupno": 1513033
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2013,
+      "otputovali": 304276,
+      "doputovali": 315230,
+      "ukupno": 619506
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2014,
+      "otputovali": 245486,
+      "doputovali": 272066,
+      "ukupno": 517552
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2015,
+      "otputovali": 241083,
+      "doputovali": 296115,
+      "ukupno": 537198
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2016,
+      "otputovali": 288041,
+      "doputovali": 293558,
+      "ukupno": 581599
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2017,
+      "otputovali": 319524,
+      "doputovali": 330772,
+      "ukupno": 650296
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2018,
+      "otputovali": 320985,
+      "doputovali": 332440,
+      "ukupno": 653425
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2019,
+      "otputovali": 322899,
+      "doputovali": 330804,
+      "ukupno": 653703
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2020,
+      "otputovali": 166570,
+      "doputovali": 165448,
+      "ukupno": 332018
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2021,
+      "otputovali": 256640,
+      "doputovali": 258134,
+      "ukupno": 514774
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2022,
+      "otputovali": 296024,
+      "doputovali": 297974,
+      "ukupno": 593998
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2023,
+      "otputovali": 308463,
+      "doputovali": 315648,
+      "ukupno": 624111
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2024,
+      "otputovali": 326593,
+      "doputovali": 334911,
+      "ukupno": 661504
+    },
+    {
+      "luka": "Makarska",
+      "unlocode": "HRMAK",
+      "godina": 2025,
+      "otputovali": 309849,
+      "doputovali": 317835,
+      "ukupno": 627684
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2013,
+      "otputovali": 60569,
+      "doputovali": 60228,
+      "ukupno": 120797
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2014,
+      "otputovali": 51196,
+      "doputovali": 57797,
+      "ukupno": 108993
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2015,
+      "otputovali": 66424,
+      "doputovali": 64850,
+      "ukupno": 131274
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2016,
+      "otputovali": 72344,
+      "doputovali": 60249,
+      "ukupno": 132593
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2017,
+      "otputovali": 74057,
+      "doputovali": 65575,
+      "ukupno": 139632
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2018,
+      "otputovali": 77144,
+      "doputovali": 61404,
+      "ukupno": 138548
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2019,
+      "otputovali": 78188,
+      "doputovali": 62659,
+      "ukupno": 140847
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2020,
+      "otputovali": 47023,
+      "doputovali": 36708,
+      "ukupno": 83731
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2021,
+      "otputovali": 60844,
+      "doputovali": 49607,
+      "ukupno": 110451
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2022,
+      "otputovali": 68593,
+      "doputovali": 58967,
+      "ukupno": 127560
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2023,
+      "otputovali": 84494,
+      "doputovali": 71984,
+      "ukupno": 156478
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2024,
+      "otputovali": 83673,
+      "doputovali": 71336,
+      "ukupno": 155009
+    },
+    {
+      "luka": "Mali Lošinj",
+      "unlocode": "HRLSZ",
+      "godina": 2025,
+      "otputovali": 85315,
+      "doputovali": 73041,
+      "ukupno": 158356
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2013,
+      "otputovali": 11388,
+      "doputovali": 11032,
+      "ukupno": 22420
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2014,
+      "otputovali": 5809,
+      "doputovali": 5418,
+      "ukupno": 11227
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2015,
+      "otputovali": 5787,
+      "doputovali": 5730,
+      "ukupno": 11517
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2016,
+      "otputovali": 4362,
+      "doputovali": 4471,
+      "ukupno": 8833
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2017,
+      "otputovali": 2742,
+      "doputovali": 2883,
+      "ukupno": 5625
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2018,
+      "otputovali": 3409,
+      "doputovali": 3458,
+      "ukupno": 6867
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2019,
+      "otputovali": 6517,
+      "doputovali": 7267,
+      "ukupno": 13784
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2020,
+      "otputovali": 2026,
+      "doputovali": 2009,
+      "ukupno": 4035
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2021,
+      "otputovali": 4196,
+      "doputovali": 4177,
+      "ukupno": 8373
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2022,
+      "otputovali": 3676,
+      "doputovali": 5037,
+      "ukupno": 8713
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2023,
+      "otputovali": 4729,
+      "doputovali": 4729,
+      "ukupno": 9458
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2024,
+      "otputovali": 1156,
+      "doputovali": 1156,
+      "ukupno": 2312
+    },
+    {
+      "luka": "Malinska",
+      "unlocode": "HRMAL",
+      "godina": 2025,
+      "otputovali": 1012,
+      "doputovali": 1038,
+      "ukupno": 2050
+    },
+    {
+      "luka": "Maslenica",
+      "unlocode": "HRMAS",
+      "godina": 2019,
+      "otputovali": 96,
+      "doputovali": 77,
+      "ukupno": 173
+    },
+    {
+      "luka": "Metković",
+      "unlocode": "HRMET",
+      "godina": 2013,
+      "otputovali": 1158,
+      "doputovali": 2020,
+      "ukupno": 3178
+    },
+    {
+      "luka": "Metković",
+      "unlocode": "HRMET",
+      "godina": 2014,
+      "otputovali": 489,
+      "doputovali": 503,
+      "ukupno": 992
+    },
+    {
+      "luka": "Metković",
+      "unlocode": "HRMET",
+      "godina": 2015,
+      "otputovali": 565,
+      "doputovali": 379,
+      "ukupno": 944
+    },
+    {
+      "luka": "Metković",
+      "unlocode": "HRMET",
+      "godina": 2017,
+      "otputovali": 346,
+      "doputovali": 4,
+      "ukupno": 350
+    },
+    {
+      "luka": "Metković",
+      "unlocode": "HRMET",
+      "godina": 2018,
+      "otputovali": 96,
+      "doputovali": 95,
+      "ukupno": 191
+    },
+    {
+      "luka": "Metković",
+      "unlocode": "HRMET",
+      "godina": 2019,
+      "otputovali": 331,
+      "doputovali": 119,
+      "ukupno": 450
+    },
+    {
+      "luka": "Metković",
+      "unlocode": "HRMET",
+      "godina": 2020,
+      "otputovali": 68,
+      "doputovali": 36,
+      "ukupno": 104
+    },
+    {
+      "luka": "Metković",
+      "unlocode": "HRMET",
+      "godina": 2022,
+      "otputovali": 660,
+      "doputovali": 171,
+      "ukupno": 831
+    },
+    {
+      "luka": "Metković",
+      "unlocode": "HRMET",
+      "godina": 2023,
+      "otputovali": 453,
+      "doputovali": 37,
+      "ukupno": 490
+    },
+    {
+      "luka": "Metković",
+      "unlocode": "HRMET",
+      "godina": 2025,
+      "otputovali": 730,
+      "doputovali": 190,
+      "ukupno": 920
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2013,
+      "otputovali": 13211,
+      "doputovali": 12673,
+      "ukupno": 25884
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2014,
+      "otputovali": 5309,
+      "doputovali": 13025,
+      "ukupno": 18334
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2015,
+      "otputovali": 8506,
+      "doputovali": 16311,
+      "ukupno": 24817
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2016,
+      "otputovali": 9118,
+      "doputovali": 16835,
+      "ukupno": 25953
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2017,
+      "otputovali": 11506,
+      "doputovali": 18655,
+      "ukupno": 30161
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2018,
+      "otputovali": 12189,
+      "doputovali": 21368,
+      "ukupno": 33557
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2019,
+      "otputovali": 13542,
+      "doputovali": 19941,
+      "ukupno": 33483
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2020,
+      "otputovali": 7911,
+      "doputovali": 10077,
+      "ukupno": 17988
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2021,
+      "otputovali": 13797,
+      "doputovali": 16620,
+      "ukupno": 30417
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2022,
+      "otputovali": 20172,
+      "doputovali": 24222,
+      "ukupno": 44394
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2023,
+      "otputovali": 16562,
+      "doputovali": 20034,
+      "ukupno": 36596
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2024,
+      "otputovali": 25564,
+      "doputovali": 29676,
+      "ukupno": 55240
+    },
+    {
+      "luka": "Milna",
+      "unlocode": "HRMIL",
+      "godina": 2025,
+      "otputovali": 29167,
+      "doputovali": 31490,
+      "ukupno": 60657
+    },
+    {
+      "luka": "Mošćenička Draga",
+      "unlocode": "HRMOD",
+      "godina": 2013,
+      "otputovali": 5,
+      "doputovali": 5,
+      "ukupno": 10
+    },
+    {
+      "luka": "Mošćenička Draga",
+      "unlocode": "HRMOD",
+      "godina": 2014,
+      "otputovali": 44,
+      "doputovali": 117,
+      "ukupno": 161
+    },
+    {
+      "luka": "Mošćenička Draga",
+      "unlocode": "HRMOD",
+      "godina": 2015,
+      "otputovali": 226,
+      "doputovali": 175,
+      "ukupno": 401
+    },
+    {
+      "luka": "Mošćenička Draga",
+      "unlocode": "HRMOD",
+      "godina": 2019,
+      "otputovali": 497,
+      "doputovali": 375,
+      "ukupno": 872
+    },
+    {
+      "luka": "Mošćenička Draga",
+      "unlocode": "HRMOD",
+      "godina": 2020,
+      "otputovali": 59,
+      "doputovali": 59,
+      "ukupno": 118
+    },
+    {
+      "luka": "Mošćenička Draga",
+      "unlocode": "HRMOD",
+      "godina": 2021,
+      "otputovali": 48,
+      "doputovali": 48,
+      "ukupno": 96
+    },
+    {
+      "luka": "Mošćenička Draga",
+      "unlocode": "HRMOD",
+      "godina": 2022,
+      "otputovali": 121,
+      "doputovali": 142,
+      "ukupno": 263
+    },
+    {
+      "luka": "Mošćenička Draga",
+      "unlocode": "HRMOD",
+      "godina": 2023,
+      "otputovali": 166,
+      "doputovali": 132,
+      "ukupno": 298
+    },
+    {
+      "luka": "Mošćenička Draga",
+      "unlocode": "HRMOD",
+      "godina": 2024,
+      "otputovali": 70,
+      "doputovali": 70,
+      "ukupno": 140
+    },
+    {
+      "luka": "Mošćenička Draga",
+      "unlocode": "HRMOD",
+      "godina": 2025,
+      "otputovali": 265,
+      "doputovali": 225,
+      "ukupno": 490
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2013,
+      "otputovali": 10289,
+      "doputovali": 10299,
+      "ukupno": 20588
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2014,
+      "otputovali": 2954,
+      "doputovali": 12717,
+      "ukupno": 15671
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2015,
+      "otputovali": 198,
+      "doputovali": 7978,
+      "ukupno": 8176
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2016,
+      "otputovali": 3705,
+      "doputovali": 8933,
+      "ukupno": 12638
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2017,
+      "otputovali": 8860,
+      "doputovali": 10075,
+      "ukupno": 18935
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2018,
+      "otputovali": 11753,
+      "doputovali": 11704,
+      "ukupno": 23457
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2019,
+      "otputovali": 7001,
+      "doputovali": 7346,
+      "ukupno": 14347
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2020,
+      "otputovali": 1781,
+      "doputovali": 1781,
+      "ukupno": 3562
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2021,
+      "otputovali": 5478,
+      "doputovali": 5486,
+      "ukupno": 10964
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2022,
+      "otputovali": 8062,
+      "doputovali": 7939,
+      "ukupno": 16001
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2023,
+      "otputovali": 7420,
+      "doputovali": 7420,
+      "ukupno": 14840
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2024,
+      "otputovali": 7096,
+      "doputovali": 7096,
+      "ukupno": 14192
+    },
+    {
+      "luka": "Murter",
+      "unlocode": "HRMUR",
+      "godina": 2025,
+      "otputovali": 5711,
+      "doputovali": 5631,
+      "ukupno": 11342
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2013,
+      "otputovali": 381610,
+      "doputovali": 394152,
+      "ukupno": 775762
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2014,
+      "otputovali": 174145,
+      "doputovali": 187015,
+      "ukupno": 361160
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2015,
+      "otputovali": 395761,
+      "doputovali": 388907,
+      "ukupno": 784668
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2016,
+      "otputovali": 405740,
+      "doputovali": 402344,
+      "ukupno": 808084
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2017,
+      "otputovali": 433450,
+      "doputovali": 436379,
+      "ukupno": 869829
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2018,
+      "otputovali": 445939,
+      "doputovali": 446373,
+      "ukupno": 892312
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2019,
+      "otputovali": 473844,
+      "doputovali": 473810,
+      "ukupno": 947654
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2020,
+      "otputovali": 259922,
+      "doputovali": 255738,
+      "ukupno": 515660
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2021,
+      "otputovali": 400913,
+      "doputovali": 401905,
+      "ukupno": 802818
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2022,
+      "otputovali": 505953,
+      "doputovali": 504986,
+      "ukupno": 1010939
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2023,
+      "otputovali": 494984,
+      "doputovali": 498358,
+      "ukupno": 993342
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2024,
+      "otputovali": 529342,
+      "doputovali": 522995,
+      "ukupno": 1052337
+    },
+    {
+      "luka": "Novalja",
+      "unlocode": "HRNVL",
+      "godina": 2025,
+      "otputovali": 483224,
+      "doputovali": 478742,
+      "ukupno": 961966
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2013,
+      "otputovali": 2278,
+      "doputovali": 2362,
+      "ukupno": 4640
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2014,
+      "otputovali": 553,
+      "doputovali": 1415,
+      "ukupno": 1968
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2015,
+      "otputovali": 88,
+      "doputovali": 58,
+      "ukupno": 146
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2016,
+      "otputovali": 1798,
+      "doputovali": 1708,
+      "ukupno": 3506
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2017,
+      "otputovali": 2390,
+      "doputovali": 2310,
+      "ukupno": 4700
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2018,
+      "otputovali": 2138,
+      "doputovali": 2251,
+      "ukupno": 4389
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2019,
+      "otputovali": 1162,
+      "doputovali": 1028,
+      "ukupno": 2190
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2020,
+      "otputovali": 80,
+      "doputovali": 2,
+      "ukupno": 82
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2021,
+      "otputovali": 271,
+      "doputovali": 271,
+      "ukupno": 542
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2022,
+      "otputovali": 1104,
+      "doputovali": 831,
+      "ukupno": 1935
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2023,
+      "otputovali": 1248,
+      "doputovali": 983,
+      "ukupno": 2231
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2024,
+      "otputovali": 390,
+      "doputovali": 390,
+      "ukupno": 780
+    },
+    {
+      "luka": "Novi Vinodolski",
+      "unlocode": "HRNVD",
+      "godina": 2025,
+      "otputovali": 446,
+      "doputovali": 459,
+      "ukupno": 905
+    },
+    {
+      "luka": "Novigrad",
+      "unlocode": "HRNVG",
+      "godina": 2013,
+      "otputovali": 14620,
+      "doputovali": 13780,
+      "ukupno": 28400
+    },
+    {
+      "luka": "Novigrad",
+      "unlocode": "HRNVG",
+      "godina": 2014,
+      "otputovali": 10884,
+      "doputovali": 10134,
+      "ukupno": 21018
+    },
+    {
+      "luka": "Novigrad",
+      "unlocode": "HRNVG",
+      "godina": 2015,
+      "otputovali": 8605,
+      "doputovali": 8756,
+      "ukupno": 17361
+    },
+    {
+      "luka": "Novigrad",
+      "unlocode": "HRNVG",
+      "godina": 2016,
+      "otputovali": 455,
+      "doputovali": 212,
+      "ukupno": 667
+    },
+    {
+      "luka": "Novigrad",
+      "unlocode": "HRNVG",
+      "godina": 2017,
+      "otputovali": 2606,
+      "doputovali": 2769,
+      "ukupno": 5375
+    },
+    {
+      "luka": "Novigrad",
+      "unlocode": "HRNVG",
+      "godina": 2018,
+      "otputovali": 2400,
+      "doputovali": 2532,
+      "ukupno": 4932
+    },
+    {
+      "luka": "Novigrad",
+      "unlocode": "HRNVG",
+      "godina": 2019,
+      "otputovali": 2364,
+      "doputovali": 2359,
+      "ukupno": 4723
+    },
+    {
+      "luka": "Novigrad",
+      "unlocode": "HRNVG",
+      "godina": 2020,
+      "otputovali": 77,
+      "doputovali": 99,
+      "ukupno": 176
+    },
+    {
+      "luka": "Novigrad",
+      "unlocode": "HRNVG",
+      "godina": 2024,
+      "otputovali": 215,
+      "doputovali": 215,
+      "ukupno": 430
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2013,
+      "otputovali": 23441,
+      "doputovali": 23285,
+      "ukupno": 46726
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2014,
+      "otputovali": 3323,
+      "doputovali": 15942,
+      "ukupno": 19265
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2015,
+      "otputovali": 7019,
+      "doputovali": 16196,
+      "ukupno": 23215
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2016,
+      "otputovali": 15693,
+      "doputovali": 15461,
+      "ukupno": 31154
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2017,
+      "otputovali": 25699,
+      "doputovali": 25770,
+      "ukupno": 51469
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2018,
+      "otputovali": 27070,
+      "doputovali": 25005,
+      "ukupno": 52075
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2019,
+      "otputovali": 32803,
+      "doputovali": 31358,
+      "ukupno": 64161
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2020,
+      "otputovali": 9475,
+      "doputovali": 9572,
+      "ukupno": 19047
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2021,
+      "otputovali": 24080,
+      "doputovali": 23419,
+      "ukupno": 47499
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2022,
+      "otputovali": 30120,
+      "doputovali": 27366,
+      "ukupno": 57486
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2023,
+      "otputovali": 23530,
+      "doputovali": 21660,
+      "ukupno": 45190
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2024,
+      "otputovali": 24013,
+      "doputovali": 21987,
+      "ukupno": 46000
+    },
+    {
+      "luka": "Omiš",
+      "unlocode": "HROMS",
+      "godina": 2025,
+      "otputovali": 32444,
+      "doputovali": 29985,
+      "ukupno": 62429
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2013,
+      "otputovali": 1413,
+      "doputovali": 1668,
+      "ukupno": 3081
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2014,
+      "otputovali": 1526,
+      "doputovali": 1682,
+      "ukupno": 3208
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2015,
+      "otputovali": 1582,
+      "doputovali": 1409,
+      "ukupno": 2991
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2016,
+      "otputovali": 1435,
+      "doputovali": 1298,
+      "ukupno": 2733
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2017,
+      "otputovali": 2250,
+      "doputovali": 2310,
+      "ukupno": 4560
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2018,
+      "otputovali": 3357,
+      "doputovali": 3237,
+      "ukupno": 6594
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2019,
+      "otputovali": 3196,
+      "doputovali": 2899,
+      "ukupno": 6095
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2020,
+      "otputovali": 560,
+      "doputovali": 510,
+      "ukupno": 1070
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2021,
+      "otputovali": 1978,
+      "doputovali": 2030,
+      "ukupno": 4008
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2022,
+      "otputovali": 9495,
+      "doputovali": 9715,
+      "ukupno": 19210
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2023,
+      "otputovali": 7108,
+      "doputovali": 6849,
+      "ukupno": 13957
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2024,
+      "otputovali": 8170,
+      "doputovali": 8036,
+      "ukupno": 16206
+    },
+    {
+      "luka": "Omišalj",
+      "unlocode": "HROMI",
+      "godina": 2025,
+      "otputovali": 6459,
+      "doputovali": 6434,
+      "ukupno": 12893
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2013,
+      "otputovali": 14350,
+      "doputovali": 17070,
+      "ukupno": 31420
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2014,
+      "otputovali": 5375,
+      "doputovali": 2643,
+      "ukupno": 8018
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2015,
+      "otputovali": 9592,
+      "doputovali": 7014,
+      "ukupno": 16606
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2016,
+      "otputovali": 6586,
+      "doputovali": 9829,
+      "ukupno": 16415
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2017,
+      "otputovali": 7175,
+      "doputovali": 9049,
+      "ukupno": 16224
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2018,
+      "otputovali": 7754,
+      "doputovali": 10192,
+      "ukupno": 17946
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2019,
+      "otputovali": 17224,
+      "doputovali": 19127,
+      "ukupno": 36351
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2020,
+      "otputovali": 3617,
+      "doputovali": 3672,
+      "ukupno": 7289
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2021,
+      "otputovali": 7193,
+      "doputovali": 7686,
+      "ukupno": 14879
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2022,
+      "otputovali": 10832,
+      "doputovali": 13503,
+      "ukupno": 24335
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2023,
+      "otputovali": 10707,
+      "doputovali": 16958,
+      "ukupno": 27665
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2024,
+      "otputovali": 9100,
+      "doputovali": 18393,
+      "ukupno": 27493
+    },
+    {
+      "luka": "Opatija",
+      "unlocode": "HROPA",
+      "godina": 2025,
+      "otputovali": 7147,
+      "doputovali": 9742,
+      "ukupno": 16889
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2013,
+      "otputovali": 7719,
+      "doputovali": 7870,
+      "ukupno": 15589
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2014,
+      "otputovali": 6423,
+      "doputovali": 11320,
+      "ukupno": 17743
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2015,
+      "otputovali": 5879,
+      "doputovali": 6611,
+      "ukupno": 12490
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2016,
+      "otputovali": 4359,
+      "doputovali": 5869,
+      "ukupno": 10228
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2017,
+      "otputovali": 926,
+      "doputovali": 940,
+      "ukupno": 1866
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2018,
+      "otputovali": 3416,
+      "doputovali": 3524,
+      "ukupno": 6940
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2019,
+      "otputovali": 2519,
+      "doputovali": 2751,
+      "ukupno": 5270
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2020,
+      "otputovali": 7,
+      "doputovali": 52,
+      "ukupno": 59
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2021,
+      "otputovali": 93,
+      "doputovali": 184,
+      "ukupno": 277
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2022,
+      "otputovali": 248,
+      "doputovali": 201,
+      "ukupno": 449
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2023,
+      "otputovali": 1344,
+      "doputovali": 1363,
+      "ukupno": 2707
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2024,
+      "otputovali": 1486,
+      "doputovali": 1402,
+      "ukupno": 2888
+    },
+    {
+      "luka": "Pag",
+      "unlocode": "HRPAG",
+      "godina": 2025,
+      "otputovali": 2646,
+      "doputovali": 2646,
+      "ukupno": 5292
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2013,
+      "otputovali": 117539,
+      "doputovali": 119256,
+      "ukupno": 236795
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2014,
+      "otputovali": 130760,
+      "doputovali": 137113,
+      "ukupno": 267873
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2015,
+      "otputovali": 151858,
+      "doputovali": 148781,
+      "ukupno": 300639
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2016,
+      "otputovali": 165169,
+      "doputovali": 164915,
+      "ukupno": 330084
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2017,
+      "otputovali": 182966,
+      "doputovali": 183708,
+      "ukupno": 366674
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2018,
+      "otputovali": 183845,
+      "doputovali": 185046,
+      "ukupno": 368891
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2019,
+      "otputovali": 193701,
+      "doputovali": 190497,
+      "ukupno": 384198
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2020,
+      "otputovali": 147086,
+      "doputovali": 139779,
+      "ukupno": 286865
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2021,
+      "otputovali": 196322,
+      "doputovali": 186021,
+      "ukupno": 382343
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2022,
+      "otputovali": 128407,
+      "doputovali": 111531,
+      "ukupno": 239938
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2023,
+      "otputovali": 28279,
+      "doputovali": 27184,
+      "ukupno": 55463
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2024,
+      "otputovali": 21865,
+      "doputovali": 24902,
+      "ukupno": 46767
+    },
+    {
+      "luka": "Ploče",
+      "unlocode": "HRPLE",
+      "godina": 2025,
+      "otputovali": 20888,
+      "doputovali": 23418,
+      "ukupno": 44306
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2013,
+      "otputovali": 104539,
+      "doputovali": 106816,
+      "ukupno": 211355
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2014,
+      "otputovali": 67981,
+      "doputovali": 98927,
+      "ukupno": 166908
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2015,
+      "otputovali": 82105,
+      "doputovali": 93364,
+      "ukupno": 175469
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2016,
+      "otputovali": 149346,
+      "doputovali": 156532,
+      "ukupno": 305878
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2017,
+      "otputovali": 169597,
+      "doputovali": 174932,
+      "ukupno": 344529
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2018,
+      "otputovali": 161948,
+      "doputovali": 170610,
+      "ukupno": 332558
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2019,
+      "otputovali": 155995,
+      "doputovali": 160290,
+      "ukupno": 316285
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2020,
+      "otputovali": 38657,
+      "doputovali": 38814,
+      "ukupno": 77471
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2021,
+      "otputovali": 59374,
+      "doputovali": 60120,
+      "ukupno": 119494
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2022,
+      "otputovali": 71902,
+      "doputovali": 71939,
+      "ukupno": 143841
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2023,
+      "otputovali": 89889,
+      "doputovali": 91909,
+      "ukupno": 181798
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2024,
+      "otputovali": 90876,
+      "doputovali": 95300,
+      "ukupno": 186176
+    },
+    {
+      "luka": "Poreč",
+      "unlocode": "HRPOR",
+      "godina": 2025,
+      "otputovali": 62236,
+      "doputovali": 67651,
+      "ukupno": 129887
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2013,
+      "otputovali": 715958,
+      "doputovali": 732383,
+      "ukupno": 1448341
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2014,
+      "otputovali": 627232,
+      "doputovali": 665725,
+      "ukupno": 1292957
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2015,
+      "otputovali": 752231,
+      "doputovali": 864297,
+      "ukupno": 1616528
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2016,
+      "otputovali": 847950,
+      "doputovali": 956098,
+      "ukupno": 1804048
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2017,
+      "otputovali": 884629,
+      "doputovali": 993225,
+      "ukupno": 1877854
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2018,
+      "otputovali": 882685,
+      "doputovali": 990421,
+      "ukupno": 1873106
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2019,
+      "otputovali": 903124,
+      "doputovali": 1018263,
+      "ukupno": 1921387
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2020,
+      "otputovali": 660611,
+      "doputovali": 757633,
+      "ukupno": 1418244
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2021,
+      "otputovali": 836112,
+      "doputovali": 945883,
+      "ukupno": 1781995
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2022,
+      "otputovali": 927062,
+      "doputovali": 1043914,
+      "ukupno": 1970976
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2023,
+      "otputovali": 976139,
+      "doputovali": 1090731,
+      "ukupno": 2066870
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2024,
+      "otputovali": 1022006,
+      "doputovali": 1141257,
+      "ukupno": 2163263
+    },
+    {
+      "luka": "Preko",
+      "unlocode": "HRPRE",
+      "godina": 2025,
+      "otputovali": 1031981,
+      "doputovali": 1159477,
+      "ukupno": 2191458
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2013,
+      "otputovali": 5244,
+      "doputovali": 7151,
+      "ukupno": 12395
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2014,
+      "otputovali": 190,
+      "doputovali": 7846,
+      "ukupno": 8036
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2015,
+      "otputovali": 353,
+      "doputovali": 7828,
+      "ukupno": 8181
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2016,
+      "otputovali": 5966,
+      "doputovali": 11807,
+      "ukupno": 17773
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2017,
+      "otputovali": 3317,
+      "doputovali": 5497,
+      "ukupno": 8814
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2018,
+      "otputovali": 4459,
+      "doputovali": 4643,
+      "ukupno": 9102
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2019,
+      "otputovali": 4998,
+      "doputovali": 5058,
+      "ukupno": 10056
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2020,
+      "otputovali": 109,
+      "doputovali": 115,
+      "ukupno": 224
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2021,
+      "otputovali": 2170,
+      "doputovali": 2413,
+      "ukupno": 4583
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2022,
+      "otputovali": 3315,
+      "doputovali": 3408,
+      "ukupno": 6723
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2023,
+      "otputovali": 2399,
+      "doputovali": 2380,
+      "ukupno": 4779
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2024,
+      "otputovali": 2946,
+      "doputovali": 3588,
+      "ukupno": 6534
+    },
+    {
+      "luka": "Primošten",
+      "unlocode": "HRPRI",
+      "godina": 2025,
+      "otputovali": 4029,
+      "doputovali": 5317,
+      "ukupno": 9346
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2013,
+      "otputovali": 241486,
+      "doputovali": 247318,
+      "ukupno": 488804
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2014,
+      "otputovali": 221572,
+      "doputovali": 226017,
+      "ukupno": 447589
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2015,
+      "otputovali": 237681,
+      "doputovali": 244755,
+      "ukupno": 482436
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2016,
+      "otputovali": 476218,
+      "doputovali": 488189,
+      "ukupno": 964407
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2017,
+      "otputovali": 460293,
+      "doputovali": 462672,
+      "ukupno": 922965
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2018,
+      "otputovali": 479231,
+      "doputovali": 481793,
+      "ukupno": 961024
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2019,
+      "otputovali": 491602,
+      "doputovali": 490149,
+      "ukupno": 981751
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2020,
+      "otputovali": 256479,
+      "doputovali": 258492,
+      "ukupno": 514971
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2021,
+      "otputovali": 462654,
+      "doputovali": 461292,
+      "ukupno": 923946
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2022,
+      "otputovali": 579761,
+      "doputovali": 576885,
+      "ukupno": 1156646
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2023,
+      "otputovali": 520389,
+      "doputovali": 520218,
+      "ukupno": 1040607
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2024,
+      "otputovali": 569075,
+      "doputovali": 571789,
+      "ukupno": 1140864
+    },
+    {
+      "luka": "Pula",
+      "unlocode": "HRPUY",
+      "godina": 2025,
+      "otputovali": 577668,
+      "doputovali": 583030,
+      "ukupno": 1160698
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2013,
+      "otputovali": 42766,
+      "doputovali": 43057,
+      "ukupno": 85823
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2014,
+      "otputovali": 15909,
+      "doputovali": 8851,
+      "ukupno": 24760
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2015,
+      "otputovali": 16875,
+      "doputovali": 17754,
+      "ukupno": 34629
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2016,
+      "otputovali": 17310,
+      "doputovali": 15456,
+      "ukupno": 32766
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2017,
+      "otputovali": 8238,
+      "doputovali": 7406,
+      "ukupno": 15644
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2018,
+      "otputovali": 13752,
+      "doputovali": 13703,
+      "ukupno": 27455
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2019,
+      "otputovali": 10281,
+      "doputovali": 9573,
+      "ukupno": 19854
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2020,
+      "otputovali": 4294,
+      "doputovali": 4179,
+      "ukupno": 8473
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2021,
+      "otputovali": 2340,
+      "doputovali": 2448,
+      "ukupno": 4788
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2022,
+      "otputovali": 5928,
+      "doputovali": 5143,
+      "ukupno": 11071
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2023,
+      "otputovali": 10028,
+      "doputovali": 9621,
+      "ukupno": 19649
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2024,
+      "otputovali": 10362,
+      "doputovali": 10155,
+      "ukupno": 20517
+    },
+    {
+      "luka": "Punat",
+      "unlocode": "HRPNT",
+      "godina": 2025,
+      "otputovali": 16882,
+      "doputovali": 16299,
+      "ukupno": 33181
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2013,
+      "otputovali": 507813,
+      "doputovali": 507354,
+      "ukupno": 1015167
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2014,
+      "otputovali": 472793,
+      "doputovali": 477973,
+      "ukupno": 950766
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2015,
+      "otputovali": 512455,
+      "doputovali": 540849,
+      "ukupno": 1053304
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2016,
+      "otputovali": 496462,
+      "doputovali": 515426,
+      "ukupno": 1011888
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2017,
+      "otputovali": 543925,
+      "doputovali": 558791,
+      "ukupno": 1102716
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2018,
+      "otputovali": 553975,
+      "doputovali": 577129,
+      "ukupno": 1131104
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2019,
+      "otputovali": 564632,
+      "doputovali": 581961,
+      "ukupno": 1146593
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2020,
+      "otputovali": 353233,
+      "doputovali": 359475,
+      "ukupno": 712708
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2021,
+      "otputovali": 497408,
+      "doputovali": 506877,
+      "ukupno": 1004285
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2022,
+      "otputovali": 588840,
+      "doputovali": 610310,
+      "ukupno": 1199150
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2023,
+      "otputovali": 604141,
+      "doputovali": 628008,
+      "ukupno": 1232149
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2024,
+      "otputovali": 597174,
+      "doputovali": 624656,
+      "ukupno": 1221830
+    },
+    {
+      "luka": "Rab",
+      "unlocode": "HRRAB",
+      "godina": 2025,
+      "otputovali": 631600,
+      "doputovali": 648353,
+      "ukupno": 1279953
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2013,
+      "otputovali": 348902,
+      "doputovali": 310527,
+      "ukupno": 659429
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2014,
+      "otputovali": 262449,
+      "doputovali": 239538,
+      "ukupno": 501987
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2015,
+      "otputovali": 302318,
+      "doputovali": 263703,
+      "ukupno": 566021
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2016,
+      "otputovali": 324885,
+      "doputovali": 282202,
+      "ukupno": 607087
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2017,
+      "otputovali": 330449,
+      "doputovali": 279954,
+      "ukupno": 610403
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2018,
+      "otputovali": 332035,
+      "doputovali": 285387,
+      "ukupno": 617422
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2019,
+      "otputovali": 330255,
+      "doputovali": 287769,
+      "ukupno": 618024
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2020,
+      "otputovali": 140605,
+      "doputovali": 130512,
+      "ukupno": 271117
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2021,
+      "otputovali": 250611,
+      "doputovali": 232696,
+      "ukupno": 483307
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2022,
+      "otputovali": 302077,
+      "doputovali": 280728,
+      "ukupno": 582805
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2023,
+      "otputovali": 280963,
+      "doputovali": 266385,
+      "ukupno": 547348
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2024,
+      "otputovali": 285568,
+      "doputovali": 277814,
+      "ukupno": 563382
+    },
+    {
+      "luka": "Rabac",
+      "unlocode": "HRRBC",
+      "godina": 2025,
+      "otputovali": 277721,
+      "doputovali": 275614,
+      "ukupno": 553335
+    },
+    {
+      "luka": "Raša",
+      "unlocode": "HRRAS",
+      "godina": 2013,
+      "otputovali": 5,
+      "doputovali": 4,
+      "ukupno": 9
+    },
+    {
+      "luka": "Raša",
+      "unlocode": "HRRAS",
+      "godina": 2014,
+      "otputovali": 5,
+      "doputovali": 5,
+      "ukupno": 10
+    },
+    {
+      "luka": "Raša",
+      "unlocode": "HRRAS",
+      "godina": 2019,
+      "otputovali": 1,
+      "doputovali": 1,
+      "ukupno": 2
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2013,
+      "otputovali": 88266,
+      "doputovali": 86052,
+      "ukupno": 174318
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2014,
+      "otputovali": 79153,
+      "doputovali": 70822,
+      "ukupno": 149975
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2015,
+      "otputovali": 70188,
+      "doputovali": 63926,
+      "ukupno": 134114
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2016,
+      "otputovali": 67573,
+      "doputovali": 66786,
+      "ukupno": 134359
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2017,
+      "otputovali": 68830,
+      "doputovali": 67188,
+      "ukupno": 136018
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2018,
+      "otputovali": 68277,
+      "doputovali": 48424,
+      "ukupno": 116701
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2019,
+      "otputovali": 71916,
+      "doputovali": 83462,
+      "ukupno": 155378
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2020,
+      "otputovali": 42213,
+      "doputovali": 24172,
+      "ukupno": 66385
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2021,
+      "otputovali": 54608,
+      "doputovali": 32613,
+      "ukupno": 87221
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2022,
+      "otputovali": 74818,
+      "doputovali": 72215,
+      "ukupno": 147033
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2023,
+      "otputovali": 72174,
+      "doputovali": 79021,
+      "ukupno": 151195
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2024,
+      "otputovali": 67248,
+      "doputovali": 82968,
+      "ukupno": 150216
+    },
+    {
+      "luka": "Rijeka",
+      "unlocode": "HRRJK",
+      "godina": 2025,
+      "otputovali": 60306,
+      "doputovali": 62537,
+      "ukupno": 122843
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2013,
+      "otputovali": 170222,
+      "doputovali": 165539,
+      "ukupno": 335761
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2014,
+      "otputovali": 133421,
+      "doputovali": 130957,
+      "ukupno": 264378
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2015,
+      "otputovali": 171061,
+      "doputovali": 171162,
+      "ukupno": 342223
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2016,
+      "otputovali": 178886,
+      "doputovali": 178057,
+      "ukupno": 356943
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2017,
+      "otputovali": 193340,
+      "doputovali": 195037,
+      "ukupno": 388377
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2018,
+      "otputovali": 198136,
+      "doputovali": 196043,
+      "ukupno": 394179
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2019,
+      "otputovali": 209267,
+      "doputovali": 204334,
+      "ukupno": 413601
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2020,
+      "otputovali": 153946,
+      "doputovali": 153260,
+      "ukupno": 307206
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2021,
+      "otputovali": 196283,
+      "doputovali": 192192,
+      "ukupno": 388475
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2022,
+      "otputovali": 203487,
+      "doputovali": 199688,
+      "ukupno": 403175
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2023,
+      "otputovali": 202420,
+      "doputovali": 203367,
+      "ukupno": 405787
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2024,
+      "otputovali": 219030,
+      "doputovali": 220835,
+      "ukupno": 439865
+    },
+    {
+      "luka": "Rogač",
+      "unlocode": "HRRGC",
+      "godina": 2025,
+      "otputovali": 224504,
+      "doputovali": 226169,
+      "ukupno": 450673
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2013,
+      "otputovali": 1142,
+      "doputovali": 3523,
+      "ukupno": 4665
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2014,
+      "otputovali": 37,
+      "doputovali": 2,
+      "ukupno": 39
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2016,
+      "otputovali": 128,
+      "doputovali": 72,
+      "ukupno": 200
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2017,
+      "otputovali": 312,
+      "doputovali": 202,
+      "ukupno": 514
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2018,
+      "otputovali": 206,
+      "doputovali": 238,
+      "ukupno": 444
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2019,
+      "otputovali": 4453,
+      "doputovali": 4089,
+      "ukupno": 8542
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2020,
+      "otputovali": 60,
+      "doputovali": 60,
+      "ukupno": 120
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2021,
+      "otputovali": 10326,
+      "doputovali": 10271,
+      "ukupno": 20597
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2022,
+      "otputovali": 16287,
+      "doputovali": 16156,
+      "ukupno": 32443
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2023,
+      "otputovali": 12572,
+      "doputovali": 12510,
+      "ukupno": 25082
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2024,
+      "otputovali": 18940,
+      "doputovali": 18916,
+      "ukupno": 37856
+    },
+    {
+      "luka": "Rogoznica",
+      "unlocode": "HRRGN",
+      "godina": 2025,
+      "otputovali": 15403,
+      "doputovali": 15324,
+      "ukupno": 30727
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2013,
+      "otputovali": 271114,
+      "doputovali": 249852,
+      "ukupno": 520966
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2014,
+      "otputovali": 19517,
+      "doputovali": 39437,
+      "ukupno": 58954
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2015,
+      "otputovali": 22274,
+      "doputovali": 45741,
+      "ukupno": 68015
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2016,
+      "otputovali": 19186,
+      "doputovali": 43756,
+      "ukupno": 62942
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2017,
+      "otputovali": 34194,
+      "doputovali": 34882,
+      "ukupno": 69076
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2018,
+      "otputovali": 50033,
+      "doputovali": 68354,
+      "ukupno": 118387
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2019,
+      "otputovali": 78213,
+      "doputovali": 76047,
+      "ukupno": 154260
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2020,
+      "otputovali": 10349,
+      "doputovali": 10213,
+      "ukupno": 20562
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2021,
+      "otputovali": 34209,
+      "doputovali": 36044,
+      "ukupno": 70253
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2022,
+      "otputovali": 67860,
+      "doputovali": 66394,
+      "ukupno": 134254
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2023,
+      "otputovali": 75912,
+      "doputovali": 91875,
+      "ukupno": 167787
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2024,
+      "otputovali": 63808,
+      "doputovali": 76034,
+      "ukupno": 139842
+    },
+    {
+      "luka": "Rovinj",
+      "unlocode": "HRROV",
+      "godina": 2025,
+      "otputovali": 71954,
+      "doputovali": 87678,
+      "ukupno": 159632
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2013,
+      "otputovali": 60665,
+      "doputovali": 66215,
+      "ukupno": 126880
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2014,
+      "otputovali": 67168,
+      "doputovali": 77572,
+      "ukupno": 144740
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2015,
+      "otputovali": 71462,
+      "doputovali": 90199,
+      "ukupno": 161661
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2016,
+      "otputovali": 76648,
+      "doputovali": 79601,
+      "ukupno": 156249
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2017,
+      "otputovali": 81930,
+      "doputovali": 80491,
+      "ukupno": 162421
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2018,
+      "otputovali": 86312,
+      "doputovali": 87420,
+      "ukupno": 173732
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2019,
+      "otputovali": 85263,
+      "doputovali": 90782,
+      "ukupno": 176045
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2020,
+      "otputovali": 51095,
+      "doputovali": 49709,
+      "ukupno": 100804
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2021,
+      "otputovali": 69674,
+      "doputovali": 68267,
+      "ukupno": 137941
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2022,
+      "otputovali": 70500,
+      "doputovali": 68193,
+      "ukupno": 138693
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2023,
+      "otputovali": 71768,
+      "doputovali": 69828,
+      "ukupno": 141596
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2024,
+      "otputovali": 76600,
+      "doputovali": 78022,
+      "ukupno": 154622
+    },
+    {
+      "luka": "Sali",
+      "unlocode": "HRSAL",
+      "godina": 2025,
+      "otputovali": 75025,
+      "doputovali": 74159,
+      "ukupno": 149184
+    },
+    {
+      "luka": "Senj",
+      "unlocode": "HRSEN",
+      "godina": 2013,
+      "otputovali": 43,
+      "doputovali": 43,
+      "ukupno": 86
+    },
+    {
+      "luka": "Senj",
+      "unlocode": "HRSEN",
+      "godina": 2014,
+      "otputovali": 564,
+      "doputovali": 129,
+      "ukupno": 693
+    },
+    {
+      "luka": "Senj",
+      "unlocode": "HRSEN",
+      "godina": 2015,
+      "otputovali": 41,
+      "doputovali": 1809,
+      "ukupno": 1850
+    },
+    {
+      "luka": "Senj",
+      "unlocode": "HRSEN",
+      "godina": 2016,
+      "otputovali": 729,
+      "doputovali": 1320,
+      "ukupno": 2049
+    },
+    {
+      "luka": "Senj",
+      "unlocode": "HRSEN",
+      "godina": 2017,
+      "otputovali": 1876,
+      "doputovali": 2048,
+      "ukupno": 3924
+    },
+    {
+      "luka": "Senj",
+      "unlocode": "HRSEN",
+      "godina": 2018,
+      "otputovali": 1214,
+      "doputovali": 1378,
+      "ukupno": 2592
+    },
+    {
+      "luka": "Senj",
+      "unlocode": "HRSEN",
+      "godina": 2019,
+      "otputovali": 714,
+      "doputovali": 714,
+      "ukupno": 1428
+    },
+    {
+      "luka": "Senj",
+      "unlocode": "HRSEN",
+      "godina": 2020,
+      "otputovali": 266,
+      "doputovali": 266,
+      "ukupno": 532
+    },
+    {
+      "luka": "Senj",
+      "unlocode": "HRSEN",
+      "godina": 2021,
+      "otputovali": 346,
+      "doputovali": 346,
+      "ukupno": 692
+    },
+    {
+      "luka": "Senj",
+      "unlocode": "HRSEN",
+      "godina": 2022,
+      "otputovali": 399,
+      "doputovali": 419,
+      "ukupno": 818
+    },
+    {
+      "luka": "Senj",
+      "unlocode": "HRSEN",
+      "godina": 2023,
+      "otputovali": 3,
+      "doputovali": 3,
+      "ukupno": 6
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2013,
+      "otputovali": 54619,
+      "doputovali": 56137,
+      "ukupno": 110756
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2014,
+      "otputovali": 38536,
+      "doputovali": 36858,
+      "ukupno": 75394
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2015,
+      "otputovali": 61169,
+      "doputovali": 45716,
+      "ukupno": 106885
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2016,
+      "otputovali": 47815,
+      "doputovali": 46949,
+      "ukupno": 94764
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2017,
+      "otputovali": 43152,
+      "doputovali": 53222,
+      "ukupno": 96374
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2018,
+      "otputovali": 53577,
+      "doputovali": 50676,
+      "ukupno": 104253
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2019,
+      "otputovali": 50908,
+      "doputovali": 50097,
+      "ukupno": 101005
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2020,
+      "otputovali": 36971,
+      "doputovali": 33933,
+      "ukupno": 70904
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2021,
+      "otputovali": 46435,
+      "doputovali": 47267,
+      "ukupno": 93702
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2022,
+      "otputovali": 64874,
+      "doputovali": 60298,
+      "ukupno": 125172
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2023,
+      "otputovali": 72367,
+      "doputovali": 72705,
+      "ukupno": 145072
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2024,
+      "otputovali": 73018,
+      "doputovali": 78179,
+      "ukupno": 151197
+    },
+    {
+      "luka": "Silba",
+      "unlocode": "HRSIL",
+      "godina": 2025,
+      "otputovali": 69917,
+      "doputovali": 73572,
+      "ukupno": 143489
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2013,
+      "otputovali": 28053,
+      "doputovali": 23654,
+      "ukupno": 51707
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2014,
+      "otputovali": 27954,
+      "doputovali": 20159,
+      "ukupno": 48113
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2015,
+      "otputovali": 37723,
+      "doputovali": 23465,
+      "ukupno": 61188
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2016,
+      "otputovali": 40152,
+      "doputovali": 23857,
+      "ukupno": 64009
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2017,
+      "otputovali": 39004,
+      "doputovali": 22503,
+      "ukupno": 61507
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2018,
+      "otputovali": 42851,
+      "doputovali": 24316,
+      "ukupno": 67167
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2019,
+      "otputovali": 43600,
+      "doputovali": 26157,
+      "ukupno": 69757
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2020,
+      "otputovali": 23057,
+      "doputovali": 10992,
+      "ukupno": 34049
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2021,
+      "otputovali": 33108,
+      "doputovali": 21159,
+      "ukupno": 54267
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2022,
+      "otputovali": 42981,
+      "doputovali": 36266,
+      "ukupno": 79247
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2023,
+      "otputovali": 47078,
+      "doputovali": 35749,
+      "ukupno": 82827
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2024,
+      "otputovali": 52574,
+      "doputovali": 35207,
+      "ukupno": 87781
+    },
+    {
+      "luka": "Slano",
+      "unlocode": "HRSLA",
+      "godina": 2025,
+      "otputovali": 52676,
+      "doputovali": 33351,
+      "ukupno": 86027
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2013,
+      "otputovali": 91533,
+      "doputovali": 93413,
+      "ukupno": 184946
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2014,
+      "otputovali": 68208,
+      "doputovali": 77148,
+      "ukupno": 145356
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2015,
+      "otputovali": 99854,
+      "doputovali": 109771,
+      "ukupno": 209625
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2016,
+      "otputovali": 108293,
+      "doputovali": 115673,
+      "ukupno": 223966
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2017,
+      "otputovali": 123914,
+      "doputovali": 129517,
+      "ukupno": 253431
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2018,
+      "otputovali": 121298,
+      "doputovali": 126804,
+      "ukupno": 248102
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2019,
+      "otputovali": 122277,
+      "doputovali": 127985,
+      "ukupno": 250262
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2020,
+      "otputovali": 65368,
+      "doputovali": 65672,
+      "ukupno": 131040
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2021,
+      "otputovali": 95809,
+      "doputovali": 97525,
+      "ukupno": 193334
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2022,
+      "otputovali": 110207,
+      "doputovali": 111016,
+      "ukupno": 221223
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2023,
+      "otputovali": 115069,
+      "doputovali": 117943,
+      "ukupno": 233012
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2024,
+      "otputovali": 111647,
+      "doputovali": 115879,
+      "ukupno": 227526
+    },
+    {
+      "luka": "Sobra",
+      "unlocode": "HRSBR",
+      "godina": 2025,
+      "otputovali": 115473,
+      "doputovali": 119212,
+      "ukupno": 234685
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2013,
+      "otputovali": 1897684,
+      "doputovali": 2096483,
+      "ukupno": 3994167
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2014,
+      "otputovali": 1788308,
+      "doputovali": 1891951,
+      "ukupno": 3680259
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2015,
+      "otputovali": 2043257,
+      "doputovali": 2221656,
+      "ukupno": 4264913
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2016,
+      "otputovali": 2175585,
+      "doputovali": 2360873,
+      "ukupno": 4536458
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2017,
+      "otputovali": 2256362,
+      "doputovali": 2362317,
+      "ukupno": 4618679
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2018,
+      "otputovali": 2421684,
+      "doputovali": 2645759,
+      "ukupno": 5067443
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2019,
+      "otputovali": 2518939,
+      "doputovali": 2800502,
+      "ukupno": 5319441
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2020,
+      "otputovali": 1279900,
+      "doputovali": 1243764,
+      "ukupno": 2523664
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2021,
+      "otputovali": 1896556,
+      "doputovali": 1939040,
+      "ukupno": 3835596
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2022,
+      "otputovali": 2389791,
+      "doputovali": 2597028,
+      "ukupno": 4986819
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2023,
+      "otputovali": 2546443,
+      "doputovali": 2854668,
+      "ukupno": 5401111
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2024,
+      "otputovali": 2558356,
+      "doputovali": 2960454,
+      "ukupno": 5518810
+    },
+    {
+      "luka": "Split",
+      "unlocode": "HRSPU",
+      "godina": 2025,
+      "otputovali": 2485878,
+      "doputovali": 2911439,
+      "ukupno": 5397317
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2013,
+      "otputovali": 358073,
+      "doputovali": 370310,
+      "ukupno": 728383
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2014,
+      "otputovali": 275832,
+      "doputovali": 295294,
+      "ukupno": 571126
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2015,
+      "otputovali": 317591,
+      "doputovali": 333114,
+      "ukupno": 650705
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2016,
+      "otputovali": 364310,
+      "doputovali": 371104,
+      "ukupno": 735414
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2017,
+      "otputovali": 400947,
+      "doputovali": 420059,
+      "ukupno": 821006
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2018,
+      "otputovali": 366271,
+      "doputovali": 379610,
+      "ukupno": 745881
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2019,
+      "otputovali": 356917,
+      "doputovali": 370056,
+      "ukupno": 726973
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2020,
+      "otputovali": 209873,
+      "doputovali": 203941,
+      "ukupno": 413814
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2021,
+      "otputovali": 305943,
+      "doputovali": 300042,
+      "ukupno": 605985
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2022,
+      "otputovali": 351559,
+      "doputovali": 353126,
+      "ukupno": 704685
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2023,
+      "otputovali": 376628,
+      "doputovali": 381999,
+      "ukupno": 758627
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2024,
+      "otputovali": 389657,
+      "doputovali": 395597,
+      "ukupno": 785254
+    },
+    {
+      "luka": "Stari Grad",
+      "unlocode": "HRSGD",
+      "godina": 2025,
+      "otputovali": 391783,
+      "doputovali": 398929,
+      "ukupno": 790712
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2013,
+      "otputovali": 53814,
+      "doputovali": 53409,
+      "ukupno": 107223
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2014,
+      "otputovali": 44944,
+      "doputovali": 42415,
+      "ukupno": 87359
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2015,
+      "otputovali": 63178,
+      "doputovali": 62904,
+      "ukupno": 126082
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2016,
+      "otputovali": 68620,
+      "doputovali": 67908,
+      "ukupno": 136528
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2017,
+      "otputovali": 77057,
+      "doputovali": 76834,
+      "ukupno": 153891
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2018,
+      "otputovali": 75133,
+      "doputovali": 74393,
+      "ukupno": 149526
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2019,
+      "otputovali": 79475,
+      "doputovali": 78134,
+      "ukupno": 157609
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2020,
+      "otputovali": 49482,
+      "doputovali": 49651,
+      "ukupno": 99133
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2021,
+      "otputovali": 66693,
+      "doputovali": 67561,
+      "ukupno": 134254
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2022,
+      "otputovali": 72181,
+      "doputovali": 73989,
+      "ukupno": 146170
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2023,
+      "otputovali": 80312,
+      "doputovali": 81079,
+      "ukupno": 161391
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2024,
+      "otputovali": 79837,
+      "doputovali": 80060,
+      "ukupno": 159897
+    },
+    {
+      "luka": "Ston",
+      "unlocode": "HRSTO",
+      "godina": 2025,
+      "otputovali": 82441,
+      "doputovali": 83013,
+      "ukupno": 165454
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2013,
+      "otputovali": 54605,
+      "doputovali": 48628,
+      "ukupno": 103233
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2014,
+      "otputovali": 52324,
+      "doputovali": 50369,
+      "ukupno": 102693
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2015,
+      "otputovali": 55372,
+      "doputovali": 54885,
+      "ukupno": 110257
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2016,
+      "otputovali": 58849,
+      "doputovali": 58395,
+      "ukupno": 117244
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2017,
+      "otputovali": 62559,
+      "doputovali": 62988,
+      "ukupno": 125547
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2018,
+      "otputovali": 64469,
+      "doputovali": 63609,
+      "ukupno": 128078
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2019,
+      "otputovali": 68101,
+      "doputovali": 67196,
+      "ukupno": 135297
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2020,
+      "otputovali": 40545,
+      "doputovali": 37861,
+      "ukupno": 78406
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2021,
+      "otputovali": 58662,
+      "doputovali": 55533,
+      "ukupno": 114195
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2022,
+      "otputovali": 72602,
+      "doputovali": 72105,
+      "ukupno": 144707
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2023,
+      "otputovali": 69718,
+      "doputovali": 69128,
+      "ukupno": 138846
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2024,
+      "otputovali": 71823,
+      "doputovali": 70314,
+      "ukupno": 142137
+    },
+    {
+      "luka": "Sumartin",
+      "unlocode": "HRSMN",
+      "godina": 2025,
+      "otputovali": 80880,
+      "doputovali": 77854,
+      "ukupno": 158734
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2013,
+      "otputovali": 816244,
+      "doputovali": 794510,
+      "ukupno": 1610754
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2014,
+      "otputovali": 781075,
+      "doputovali": 770913,
+      "ukupno": 1551988
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2015,
+      "otputovali": 836346,
+      "doputovali": 851661,
+      "ukupno": 1688007
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2016,
+      "otputovali": 937889,
+      "doputovali": 949011,
+      "ukupno": 1886900
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2017,
+      "otputovali": 958138,
+      "doputovali": 990467,
+      "ukupno": 1948605
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2018,
+      "otputovali": 955569,
+      "doputovali": 975618,
+      "ukupno": 1931187
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2019,
+      "otputovali": 971407,
+      "doputovali": 994652,
+      "ukupno": 1966059
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2020,
+      "otputovali": 582229,
+      "doputovali": 585797,
+      "ukupno": 1168026
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2021,
+      "otputovali": 794953,
+      "doputovali": 801722,
+      "ukupno": 1596675
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2022,
+      "otputovali": 959566,
+      "doputovali": 972043,
+      "ukupno": 1931609
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2023,
+      "otputovali": 1022349,
+      "doputovali": 1029603,
+      "ukupno": 2051952
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2024,
+      "otputovali": 1044389,
+      "doputovali": 1053303,
+      "ukupno": 2097692
+    },
+    {
+      "luka": "Supetar",
+      "unlocode": "HRSUP",
+      "godina": 2025,
+      "otputovali": 1042687,
+      "doputovali": 1055448,
+      "ukupno": 2098135
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2013,
+      "otputovali": 19879,
+      "doputovali": 19452,
+      "ukupno": 39331
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2014,
+      "otputovali": 14700,
+      "doputovali": 14304,
+      "ukupno": 29004
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2015,
+      "otputovali": 19654,
+      "doputovali": 27801,
+      "ukupno": 47455
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2016,
+      "otputovali": 20808,
+      "doputovali": 29003,
+      "ukupno": 49811
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2017,
+      "otputovali": 20928,
+      "doputovali": 31723,
+      "ukupno": 52651
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2018,
+      "otputovali": 24797,
+      "doputovali": 26224,
+      "ukupno": 51021
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2019,
+      "otputovali": 24681,
+      "doputovali": 26824,
+      "ukupno": 51505
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2020,
+      "otputovali": 15814,
+      "doputovali": 19347,
+      "ukupno": 35161
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2021,
+      "otputovali": 21476,
+      "doputovali": 25044,
+      "ukupno": 46520
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2022,
+      "otputovali": 23422,
+      "doputovali": 25824,
+      "ukupno": 49246
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2023,
+      "otputovali": 25508,
+      "doputovali": 29312,
+      "ukupno": 54820
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2024,
+      "otputovali": 25150,
+      "doputovali": 29626,
+      "ukupno": 54776
+    },
+    {
+      "luka": "Susak",
+      "unlocode": "HRSSK",
+      "godina": 2025,
+      "otputovali": 25011,
+      "doputovali": 29284,
+      "ukupno": 54295
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2013,
+      "otputovali": 167303,
+      "doputovali": 162361,
+      "ukupno": 329664
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2014,
+      "otputovali": 180133,
+      "doputovali": 161842,
+      "ukupno": 341975
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2015,
+      "otputovali": 174374,
+      "doputovali": 170431,
+      "ukupno": 344805
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2016,
+      "otputovali": 179389,
+      "doputovali": 176463,
+      "ukupno": 355852
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2017,
+      "otputovali": 196755,
+      "doputovali": 188027,
+      "ukupno": 384782
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2018,
+      "otputovali": 196981,
+      "doputovali": 189488,
+      "ukupno": 386469
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2019,
+      "otputovali": 196480,
+      "doputovali": 192358,
+      "ukupno": 388838
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2020,
+      "otputovali": 110789,
+      "doputovali": 114614,
+      "ukupno": 225403
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2021,
+      "otputovali": 166842,
+      "doputovali": 168135,
+      "ukupno": 334977
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2022,
+      "otputovali": 182915,
+      "doputovali": 180999,
+      "ukupno": 363914
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2023,
+      "otputovali": 200471,
+      "doputovali": 194705,
+      "ukupno": 395176
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2024,
+      "otputovali": 203900,
+      "doputovali": 197486,
+      "ukupno": 401386
+    },
+    {
+      "luka": "Sućuraj",
+      "unlocode": "HRSUC",
+      "godina": 2025,
+      "otputovali": 205443,
+      "doputovali": 200212,
+      "ukupno": 405655
+    },
+    {
+      "luka": "Sveti Juraj",
+      "unlocode": "HRSVJ",
+      "godina": 2016,
+      "otputovali": 63,
+      "doputovali": 63,
+      "ukupno": 126
+    },
+    {
+      "luka": "Sveti Juraj",
+      "unlocode": "HRSVJ",
+      "godina": 2017,
+      "otputovali": 70,
+      "doputovali": 70,
+      "ukupno": 140
+    },
+    {
+      "luka": "Sveti Juraj",
+      "unlocode": "HRSVJ",
+      "godina": 2019,
+      "otputovali": 48,
+      "doputovali": 48,
+      "ukupno": 96
+    },
+    {
+      "luka": "Sveti Juraj",
+      "unlocode": "HRSVJ",
+      "godina": 2022,
+      "otputovali": 125,
+      "doputovali": 125,
+      "ukupno": 250
+    },
+    {
+      "luka": "Sveti Juraj",
+      "unlocode": "HRSVJ",
+      "godina": 2024,
+      "otputovali": 84,
+      "doputovali": 40,
+      "ukupno": 124
+    },
+    {
+      "luka": "Sveti Juraj",
+      "unlocode": "HRSVJ",
+      "godina": 2025,
+      "otputovali": 148,
+      "doputovali": 148,
+      "ukupno": 296
+    },
+    {
+      "luka": "Tisno",
+      "unlocode": "HRTNO",
+      "godina": 2022,
+      "otputovali": 90,
+      "doputovali": 90,
+      "ukupno": 180
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2013,
+      "otputovali": 127678,
+      "doputovali": 140648,
+      "ukupno": 268326
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2014,
+      "otputovali": 112689,
+      "doputovali": 127079,
+      "ukupno": 239768
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2015,
+      "otputovali": 125425,
+      "doputovali": 133223,
+      "ukupno": 258648
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2016,
+      "otputovali": 112776,
+      "doputovali": 118066,
+      "ukupno": 230842
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2017,
+      "otputovali": 106998,
+      "doputovali": 113943,
+      "ukupno": 220941
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2018,
+      "otputovali": 136607,
+      "doputovali": 138010,
+      "ukupno": 274617
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2019,
+      "otputovali": 145472,
+      "doputovali": 148137,
+      "ukupno": 293609
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2020,
+      "otputovali": 88640,
+      "doputovali": 88943,
+      "ukupno": 177583
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2021,
+      "otputovali": 123142,
+      "doputovali": 125642,
+      "ukupno": 248784
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2022,
+      "otputovali": 132571,
+      "doputovali": 133193,
+      "ukupno": 265764
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2023,
+      "otputovali": 137234,
+      "doputovali": 140676,
+      "ukupno": 277910
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2024,
+      "otputovali": 129785,
+      "doputovali": 131856,
+      "ukupno": 261641
+    },
+    {
+      "luka": "Trogir",
+      "unlocode": "HRTRO",
+      "godina": 2025,
+      "otputovali": 147640,
+      "doputovali": 150456,
+      "ukupno": 298096
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2013,
+      "otputovali": 120532,
+      "doputovali": 120161,
+      "ukupno": 240693
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2014,
+      "otputovali": 139566,
+      "doputovali": 134475,
+      "ukupno": 274041
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2015,
+      "otputovali": 148269,
+      "doputovali": 152111,
+      "ukupno": 300380
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2016,
+      "otputovali": 164142,
+      "doputovali": 165262,
+      "ukupno": 329404
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2017,
+      "otputovali": 182185,
+      "doputovali": 182876,
+      "ukupno": 365061
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2018,
+      "otputovali": 184037,
+      "doputovali": 183533,
+      "ukupno": 367570
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2019,
+      "otputovali": 189254,
+      "doputovali": 193844,
+      "ukupno": 383098
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2020,
+      "otputovali": 139747,
+      "doputovali": 147116,
+      "ukupno": 286863
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2021,
+      "otputovali": 185879,
+      "doputovali": 196322,
+      "ukupno": 382201
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2022,
+      "otputovali": 111068,
+      "doputovali": 128038,
+      "ukupno": 239106
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2023,
+      "otputovali": 26648,
+      "doputovali": 28307,
+      "ukupno": 54955
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2024,
+      "otputovali": 24441,
+      "doputovali": 21837,
+      "ukupno": 46278
+    },
+    {
+      "luka": "Trpanj",
+      "unlocode": "HRTRJ",
+      "godina": 2025,
+      "otputovali": 23088,
+      "doputovali": 20857,
+      "ukupno": 43945
+    },
+    {
+      "luka": "Trstenik",
+      "unlocode": "HRTRK",
+      "godina": 2013,
+      "otputovali": 278,
+      "doputovali": 10731,
+      "ukupno": 11009
+    },
+    {
+      "luka": "Trstenik",
+      "unlocode": "HRTRK",
+      "godina": 2014,
+      "otputovali": 188,
+      "doputovali": 1734,
+      "ukupno": 1922
+    },
+    {
+      "luka": "Trstenik",
+      "unlocode": "HRTRK",
+      "godina": 2015,
+      "otputovali": 173,
+      "doputovali": 241,
+      "ukupno": 414
+    },
+    {
+      "luka": "Trstenik",
+      "unlocode": "HRTRK",
+      "godina": 2016,
+      "otputovali": 1472,
+      "doputovali": 1232,
+      "ukupno": 2704
+    },
+    {
+      "luka": "Trstenik",
+      "unlocode": "HRTRK",
+      "godina": 2017,
+      "otputovali": 1714,
+      "doputovali": 1718,
+      "ukupno": 3432
+    },
+    {
+      "luka": "Trstenik",
+      "unlocode": "HRTRK",
+      "godina": 2018,
+      "otputovali": 2160,
+      "doputovali": 1733,
+      "ukupno": 3893
+    },
+    {
+      "luka": "Trstenik",
+      "unlocode": "HRTRK",
+      "godina": 2019,
+      "otputovali": 1912,
+      "doputovali": 1794,
+      "ukupno": 3706
+    },
+    {
+      "luka": "Trstenik",
+      "unlocode": "HRTRK",
+      "godina": 2021,
+      "otputovali": 62,
+      "doputovali": 173,
+      "ukupno": 235
+    },
+    {
+      "luka": "Trstenik",
+      "unlocode": "HRTRK",
+      "godina": 2022,
+      "otputovali": 1085,
+      "doputovali": 1012,
+      "ukupno": 2097
+    },
+    {
+      "luka": "Trstenik",
+      "unlocode": "HRTRK",
+      "godina": 2023,
+      "otputovali": 786,
+      "doputovali": 455,
+      "ukupno": 1241
+    },
+    {
+      "luka": "Trstenik",
+      "unlocode": "HRTRK",
+      "godina": 2024,
+      "otputovali": 760,
+      "doputovali": 760,
+      "ukupno": 1520
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2013,
+      "otputovali": 21604,
+      "doputovali": 23623,
+      "ukupno": 45227
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2014,
+      "otputovali": 16331,
+      "doputovali": 13670,
+      "ukupno": 30001
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2015,
+      "otputovali": 23807,
+      "doputovali": 11180,
+      "ukupno": 34987
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2016,
+      "otputovali": 25226,
+      "doputovali": 12012,
+      "ukupno": 37238
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2017,
+      "otputovali": 24103,
+      "doputovali": 11161,
+      "ukupno": 35264
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2018,
+      "otputovali": 27870,
+      "doputovali": 12097,
+      "ukupno": 39967
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2019,
+      "otputovali": 30048,
+      "doputovali": 14445,
+      "ukupno": 44493
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2020,
+      "otputovali": 21284,
+      "doputovali": 10089,
+      "ukupno": 31373
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2021,
+      "otputovali": 29930,
+      "doputovali": 10192,
+      "ukupno": 40122
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2022,
+      "otputovali": 32625,
+      "doputovali": 11525,
+      "ukupno": 44150
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2023,
+      "otputovali": 35635,
+      "doputovali": 12848,
+      "ukupno": 48483
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2024,
+      "otputovali": 34803,
+      "doputovali": 13079,
+      "ukupno": 47882
+    },
+    {
+      "luka": "Ubli",
+      "unlocode": "HRUBL",
+      "godina": 2025,
+      "otputovali": 37113,
+      "doputovali": 16179,
+      "ukupno": 53292
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2013,
+      "otputovali": 22073,
+      "doputovali": 23166,
+      "ukupno": 45239
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2014,
+      "otputovali": 21719,
+      "doputovali": 23466,
+      "ukupno": 45185
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2015,
+      "otputovali": 11099,
+      "doputovali": 14377,
+      "ukupno": 25476
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2016,
+      "otputovali": 12473,
+      "doputovali": 11680,
+      "ukupno": 24153
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2017,
+      "otputovali": 14559,
+      "doputovali": 15351,
+      "ukupno": 29910
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2018,
+      "otputovali": 17314,
+      "doputovali": 17814,
+      "ukupno": 35128
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2019,
+      "otputovali": 13780,
+      "doputovali": 13869,
+      "ukupno": 27649
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2020,
+      "otputovali": 37,
+      "doputovali": 30,
+      "ukupno": 67
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2021,
+      "otputovali": 100,
+      "doputovali": 87,
+      "ukupno": 187
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2022,
+      "otputovali": 2496,
+      "doputovali": 2663,
+      "ukupno": 5159
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2023,
+      "otputovali": 2191,
+      "doputovali": 2177,
+      "ukupno": 4368
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2024,
+      "otputovali": 2513,
+      "doputovali": 2452,
+      "ukupno": 4965
+    },
+    {
+      "luka": "Umag",
+      "unlocode": "HRUMG",
+      "godina": 2025,
+      "otputovali": 3186,
+      "doputovali": 3157,
+      "ukupno": 6343
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2013,
+      "otputovali": 102027,
+      "doputovali": 90229,
+      "ukupno": 192256
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2014,
+      "otputovali": 76214,
+      "doputovali": 83757,
+      "ukupno": 159971
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2015,
+      "otputovali": 118725,
+      "doputovali": 140059,
+      "ukupno": 258784
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2016,
+      "otputovali": 121561,
+      "doputovali": 142777,
+      "ukupno": 264338
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2017,
+      "otputovali": 123380,
+      "doputovali": 145608,
+      "ukupno": 268988
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2018,
+      "otputovali": 132210,
+      "doputovali": 138505,
+      "ukupno": 270715
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2019,
+      "otputovali": 136032,
+      "doputovali": 142418,
+      "ukupno": 278450
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2020,
+      "otputovali": 89813,
+      "doputovali": 90946,
+      "ukupno": 180759
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2021,
+      "otputovali": 114057,
+      "doputovali": 123453,
+      "ukupno": 237510
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2022,
+      "otputovali": 122690,
+      "doputovali": 132197,
+      "ukupno": 254887
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2023,
+      "otputovali": 114570,
+      "doputovali": 129060,
+      "ukupno": 243630
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2024,
+      "otputovali": 112285,
+      "doputovali": 126274,
+      "ukupno": 238559
+    },
+    {
+      "luka": "Vela Luka",
+      "unlocode": "HRVLK",
+      "godina": 2025,
+      "otputovali": 114602,
+      "doputovali": 134792,
+      "ukupno": 249394
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2013,
+      "otputovali": 125586,
+      "doputovali": 135238,
+      "ukupno": 260824
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2014,
+      "otputovali": 90632,
+      "doputovali": 95039,
+      "ukupno": 185671
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2015,
+      "otputovali": 122140,
+      "doputovali": 128344,
+      "ukupno": 250484
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2016,
+      "otputovali": 132621,
+      "doputovali": 141375,
+      "ukupno": 273996
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2017,
+      "otputovali": 146024,
+      "doputovali": 153609,
+      "ukupno": 299633
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2018,
+      "otputovali": 150114,
+      "doputovali": 151738,
+      "ukupno": 301852
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2019,
+      "otputovali": 155838,
+      "doputovali": 158005,
+      "ukupno": 313843
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2020,
+      "otputovali": 102191,
+      "doputovali": 99992,
+      "ukupno": 202183
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2021,
+      "otputovali": 137579,
+      "doputovali": 135613,
+      "ukupno": 273192
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2022,
+      "otputovali": 162062,
+      "doputovali": 159525,
+      "ukupno": 321587
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2023,
+      "otputovali": 172942,
+      "doputovali": 172697,
+      "ukupno": 345639
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2024,
+      "otputovali": 181001,
+      "doputovali": 182438,
+      "ukupno": 363439
+    },
+    {
+      "luka": "Vis",
+      "unlocode": "HRVIS",
+      "godina": 2025,
+      "otputovali": 181582,
+      "doputovali": 182846,
+      "ukupno": 364428
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2013,
+      "otputovali": 80522,
+      "doputovali": 86489,
+      "ukupno": 167011
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2014,
+      "otputovali": 57202,
+      "doputovali": 55746,
+      "ukupno": 112948
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2015,
+      "otputovali": 74859,
+      "doputovali": 67087,
+      "ukupno": 141946
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2016,
+      "otputovali": 77600,
+      "doputovali": 73802,
+      "ukupno": 151402
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2017,
+      "otputovali": 84037,
+      "doputovali": 75549,
+      "ukupno": 159586
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2018,
+      "otputovali": 84573,
+      "doputovali": 77368,
+      "ukupno": 161941
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2019,
+      "otputovali": 86893,
+      "doputovali": 79164,
+      "ukupno": 166057
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2020,
+      "otputovali": 55681,
+      "doputovali": 50596,
+      "ukupno": 106277
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2021,
+      "otputovali": 79382,
+      "doputovali": 72516,
+      "ukupno": 151898
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2022,
+      "otputovali": 95919,
+      "doputovali": 90163,
+      "ukupno": 186082
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2023,
+      "otputovali": 96221,
+      "doputovali": 93805,
+      "ukupno": 190026
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2024,
+      "otputovali": 100842,
+      "doputovali": 97465,
+      "ukupno": 198307
+    },
+    {
+      "luka": "Vodice",
+      "unlocode": "HRVDC",
+      "godina": 2025,
+      "otputovali": 88608,
+      "doputovali": 84177,
+      "ukupno": 172785
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2013,
+      "otputovali": 1066654,
+      "doputovali": 1099511,
+      "ukupno": 2166165
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2014,
+      "otputovali": 915496,
+      "doputovali": 928903,
+      "ukupno": 1844399
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2015,
+      "otputovali": 989048,
+      "doputovali": 954158,
+      "ukupno": 1943206
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2016,
+      "otputovali": 1115150,
+      "doputovali": 1131693,
+      "ukupno": 2246843
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2017,
+      "otputovali": 1183017,
+      "doputovali": 1187656,
+      "ukupno": 2370673
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2018,
+      "otputovali": 1182681,
+      "doputovali": 1225338,
+      "ukupno": 2408019
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2019,
+      "otputovali": 1228929,
+      "doputovali": 1271839,
+      "ukupno": 2500768
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2020,
+      "otputovali": 856724,
+      "doputovali": 752726,
+      "ukupno": 1609450
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2021,
+      "otputovali": 1102355,
+      "doputovali": 988410,
+      "ukupno": 2090765
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2022,
+      "otputovali": 1250992,
+      "doputovali": 1249802,
+      "ukupno": 2500794
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2023,
+      "otputovali": 1301443,
+      "doputovali": 1346941,
+      "ukupno": 2648384
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2024,
+      "otputovali": 1361814,
+      "doputovali": 1467889,
+      "ukupno": 2829703
+    },
+    {
+      "luka": "Zadar",
+      "unlocode": "HRZAD",
+      "godina": 2025,
+      "otputovali": 1384832,
+      "doputovali": 1534323,
+      "ukupno": 2919155
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2013,
+      "otputovali": 406322,
+      "doputovali": 424363,
+      "ukupno": 830685
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2014,
+      "otputovali": 324210,
+      "doputovali": 528304,
+      "ukupno": 852514
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2015,
+      "otputovali": 457118,
+      "doputovali": 546621,
+      "ukupno": 1003739
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2016,
+      "otputovali": 473862,
+      "doputovali": 497666,
+      "ukupno": 971528
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2017,
+      "otputovali": 494473,
+      "doputovali": 535634,
+      "ukupno": 1030107
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2018,
+      "otputovali": 499594,
+      "doputovali": 550232,
+      "ukupno": 1049826
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2019,
+      "otputovali": 513445,
+      "doputovali": 545046,
+      "ukupno": 1058491
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2020,
+      "otputovali": 296444,
+      "doputovali": 302077,
+      "ukupno": 598521
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2021,
+      "otputovali": 372413,
+      "doputovali": 387187,
+      "ukupno": 759600
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2022,
+      "otputovali": 484439,
+      "doputovali": 516964,
+      "ukupno": 1001403
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2023,
+      "otputovali": 454045,
+      "doputovali": 489546,
+      "ukupno": 943591
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2024,
+      "otputovali": 438926,
+      "doputovali": 478722,
+      "ukupno": 917648
+    },
+    {
+      "luka": "Šibenik",
+      "unlocode": "HRSIB",
+      "godina": 2025,
+      "otputovali": 409680,
+      "doputovali": 451176,
+      "ukupno": 860856
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2013,
+      "otputovali": 13784,
+      "doputovali": 13773,
+      "ukupno": 27557
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2014,
+      "otputovali": 148,
+      "doputovali": 171,
+      "ukupno": 319
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2015,
+      "otputovali": 126,
+      "doputovali": 162,
+      "ukupno": 288
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2016,
+      "otputovali": 521,
+      "doputovali": 1377,
+      "ukupno": 1898
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2017,
+      "otputovali": 6706,
+      "doputovali": 6366,
+      "ukupno": 13072
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2018,
+      "otputovali": 8272,
+      "doputovali": 8063,
+      "ukupno": 16335
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2019,
+      "otputovali": 5460,
+      "doputovali": 5380,
+      "ukupno": 10840
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2020,
+      "otputovali": 1256,
+      "doputovali": 1009,
+      "ukupno": 2265
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2021,
+      "otputovali": 3008,
+      "doputovali": 3332,
+      "ukupno": 6340
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2022,
+      "otputovali": 2547,
+      "doputovali": 2874,
+      "ukupno": 5421
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2023,
+      "otputovali": 2410,
+      "doputovali": 2794,
+      "ukupno": 5204
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2024,
+      "otputovali": 4269,
+      "doputovali": 4364,
+      "ukupno": 8633
+    },
+    {
+      "luka": "Šilo",
+      "unlocode": "HRSLO",
+      "godina": 2025,
+      "otputovali": 3892,
+      "doputovali": 4036,
+      "ukupno": 7928
+    }
+  ],
+  "meta": {
+    "title": "Promet putnika u morskim lukama Hrvatske po lukama (2013.–2025.) - Free Download",
+    "description": "Godišnji broj putnika koji su otputovali i doputovali u hrvatskim morskim lukama (Split, Zadar, Dubrovnik, Rijeka i dr.), ukupni unutarnji i međunarodni promet, prema DZS-u. Contains 867 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Promet putnika u morskim lukama Hrvatske po lukama (2013.–2025.) | ListBase",
+    "seo_description": "Download Promet putnika u morskim lukama Hrvatske po lukama (2013.–2025.) — 867 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 867 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://web.dzs.hr/PXWeb/Menu.aspx?px_db=Transport+i+komunikacije&px_language=hr"
+    ]
+  }
+}
