@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-24T02:16:36.173Z",
-  "total_datasets": 523,
-  "total_records": 833233,
+  "generated": "2026-11-25T02:17:28.273Z",
+  "total_datasets": 524,
+  "total_records": 833272,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -12775,6 +12775,31 @@
         "xlsx": {
           "name": "hr-dani-kvartali-ere_HR.xlsx",
           "size": 7544
+        }
+      }
+    },
+    {
+      "id": "hr-datumi-uskrsa-zapadni-istocni",
+      "name": "Datumi Uskrsa – zapadno i istočno kršćanstvo (2000.–2038.)",
+      "category": "time",
+      "record_count": 39,
+      "columns": [
+        "godina",
+        "zapadni_uskrs",
+        "istocni_uskrs",
+        "isti_datum"
+      ],
+      "source": "https://hr.wikipedia.org/wiki/Računanje_nadnevka_Uskrsa",
+      "updated": "2026-11",
+      "size": 7065,
+      "files": {
+        "csv": {
+          "name": "hr-datumi-uskrsa-zapadni-istocni_HR.csv",
+          "size": 1591
+        },
+        "xlsx": {
+          "name": "hr-datumi-uskrsa-zapadni-istocni_HR.xlsx",
+          "size": 7648
         }
       }
     },

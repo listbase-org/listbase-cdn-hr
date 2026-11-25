@@ -1,0 +1,280 @@
+{
+  "id": "hr-datumi-uskrsa-zapadni-istocni",
+  "name": "Datumi Uskrsa – zapadno i istočno kršćanstvo (2000.–2038.)",
+  "title": "Datumi Uskrsa – zapadno i istočno kršćanstvo (2000.–2038.)",
+  "description": "Nadnevci Uskrsa po godinama za zapadno (katoličko) i istočno (pravoslavno) kršćanstvo, s oznakom godina kada se slave istoga dana.",
+  "category": "time",
+  "source": "https://hr.wikipedia.org/wiki/Računanje_nadnevka_Uskrsa",
+  "source_url": "https://hr.wikipedia.org/wiki/Računanje_nadnevka_Uskrsa",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "zapadni_uskrs",
+      "label": "Zapadni Uskrs",
+      "type": "string"
+    },
+    {
+      "key": "istocni_uskrs",
+      "label": "Istocni Uskrs",
+      "type": "string"
+    },
+    {
+      "key": "isti_datum",
+      "label": "Isti Datum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "godina": 2000,
+      "zapadni_uskrs": "23. travnja",
+      "istocni_uskrs": "30. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2001,
+      "zapadni_uskrs": "15. travnja",
+      "istocni_uskrs": "15. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2002,
+      "zapadni_uskrs": "31. ožujka",
+      "istocni_uskrs": "5. svibnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2003,
+      "zapadni_uskrs": "20. travnja",
+      "istocni_uskrs": "27. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2004,
+      "zapadni_uskrs": "11. travnja",
+      "istocni_uskrs": "11. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2005,
+      "zapadni_uskrs": "27. ožujka",
+      "istocni_uskrs": "1. svibnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2006,
+      "zapadni_uskrs": "16. travnja",
+      "istocni_uskrs": "23. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2007,
+      "zapadni_uskrs": "8. travnja",
+      "istocni_uskrs": "8. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2008,
+      "zapadni_uskrs": "23. ožujka",
+      "istocni_uskrs": "27. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2009,
+      "zapadni_uskrs": "12. travnja",
+      "istocni_uskrs": "19. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2010,
+      "zapadni_uskrs": "4. travnja",
+      "istocni_uskrs": "4. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2011,
+      "zapadni_uskrs": "24. travnja",
+      "istocni_uskrs": "24. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2012,
+      "zapadni_uskrs": "8. travnja",
+      "istocni_uskrs": "15. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2013,
+      "zapadni_uskrs": "31. ožujka",
+      "istocni_uskrs": "5. svibnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2014,
+      "zapadni_uskrs": "20. travnja",
+      "istocni_uskrs": "20. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2015,
+      "zapadni_uskrs": "5. travnja",
+      "istocni_uskrs": "12. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2016,
+      "zapadni_uskrs": "27. ožujka",
+      "istocni_uskrs": "1. svibnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2017,
+      "zapadni_uskrs": "16. travnja",
+      "istocni_uskrs": "16. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2018,
+      "zapadni_uskrs": "1. travnja",
+      "istocni_uskrs": "8. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2019,
+      "zapadni_uskrs": "21. travnja",
+      "istocni_uskrs": "28. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2020,
+      "zapadni_uskrs": "12. travnja",
+      "istocni_uskrs": "19. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2021,
+      "zapadni_uskrs": "4. travnja",
+      "istocni_uskrs": "2. svibnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2022,
+      "zapadni_uskrs": "17. travnja",
+      "istocni_uskrs": "24. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2023,
+      "zapadni_uskrs": "9. travnja",
+      "istocni_uskrs": "16. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2024,
+      "zapadni_uskrs": "31. ožujka",
+      "istocni_uskrs": "5. svibnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2025,
+      "zapadni_uskrs": "20. travnja",
+      "istocni_uskrs": "20. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2026,
+      "zapadni_uskrs": "5. travnja",
+      "istocni_uskrs": "12. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2027,
+      "zapadni_uskrs": "28. ožujka",
+      "istocni_uskrs": "2. svibnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2028,
+      "zapadni_uskrs": "16. travnja",
+      "istocni_uskrs": "16. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2029,
+      "zapadni_uskrs": "1. travnja",
+      "istocni_uskrs": "8. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2030,
+      "zapadni_uskrs": "21. travnja",
+      "istocni_uskrs": "28. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2031,
+      "zapadni_uskrs": "13. travnja",
+      "istocni_uskrs": "13. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2032,
+      "zapadni_uskrs": "28. ožujka",
+      "istocni_uskrs": "2. svibnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2033,
+      "zapadni_uskrs": "17. travnja",
+      "istocni_uskrs": "24. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2034,
+      "zapadni_uskrs": "9. travnja",
+      "istocni_uskrs": "9. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2035,
+      "zapadni_uskrs": "25. ožujka",
+      "istocni_uskrs": "29. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2036,
+      "zapadni_uskrs": "13. travnja",
+      "istocni_uskrs": "20. travnja",
+      "isti_datum": "ne"
+    },
+    {
+      "godina": 2037,
+      "zapadni_uskrs": "5. travnja",
+      "istocni_uskrs": "5. travnja",
+      "isti_datum": "da"
+    },
+    {
+      "godina": 2038,
+      "zapadni_uskrs": "25. travnja",
+      "istocni_uskrs": "25. travnja",
+      "isti_datum": "da"
+    }
+  ],
+  "meta": {
+    "title": "Datumi Uskrsa – zapadno i istočno kršćanstvo (2000.–2038.) - Free Download",
+    "description": "Nadnevci Uskrsa po godinama za zapadno (katoličko) i istočno (pravoslavno) kršćanstvo, s oznakom godina kada se slave istoga dana. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Datumi Uskrsa – zapadno i istočno kršćanstvo (2000.–2038.) | ListBase",
+    "seo_description": "Download Datumi Uskrsa – zapadno i istočno kršćanstvo (2000.–2038.) — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hr.wikipedia.org/wiki/Računanje_nadnevka_Uskrsa"
+    ]
+  }
+}
