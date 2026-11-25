@@ -1,0 +1,863 @@
+{
+  "id": "hr-istrazivaci-po-podrucjima-znanosti",
+  "name": "Istraživači u Hrvatskoj po sektorima i područjima znanosti (2023.–2024.)",
+  "title": "Istraživači u Hrvatskoj po sektorima i područjima znanosti (2023.–2024.)",
+  "description": "Broj zaposlenih istraživača (HC) u Hrvatskoj prema sektoru, znanstvenom području i postignutom obrazovanju (doktorat, diplomska, preddiplomska razina), s brojem žena istraživačica (DZS, Tablica 2.2.).",
+  "category": "science",
+  "source": "https://web.dzs.hr/PXWeb/Menu.aspx?px_db=Znanost%2c+tehnologija+i+informacijsko+dru%u0161tvo&px_language=hr",
+  "source_url": "https://web.dzs.hr/PXWeb/Menu.aspx?px_db=Znanost%2c+tehnologija+i+informacijsko+dru%u0161tvo&px_language=hr",
+  "updated": "2026-11",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "sektor",
+      "label": "Sektor",
+      "type": "string"
+    },
+    {
+      "key": "podrucje_znanosti",
+      "label": "Podrucje Znanosti",
+      "type": "string"
+    },
+    {
+      "key": "istrazivaci_ukupno",
+      "label": "Istrazivaci Ukupno",
+      "type": "number"
+    },
+    {
+      "key": "zene",
+      "label": "Zene",
+      "type": "number"
+    },
+    {
+      "key": "doktorat_znanosti",
+      "label": "Doktorat Znanosti",
+      "type": "number"
+    },
+    {
+      "key": "diplomska_razina",
+      "label": "Diplomska Razina",
+      "type": "number"
+    },
+    {
+      "key": "preddiplomska_razina",
+      "label": "Preddiplomska Razina",
+      "type": "number"
+    },
+    {
+      "key": "kratki_strucni_studij",
+      "label": "Kratki Strucni Studij",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "godina": 2023,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Ukupno",
+      "istrazivaci_ukupno": 16191,
+      "zene": 7992,
+      "doktorat_znanosti": 10483,
+      "diplomska_razina": 5341,
+      "preddiplomska_razina": 278,
+      "kratki_strucni_studij": 89
+    },
+    {
+      "godina": 2024,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Ukupno",
+      "istrazivaci_ukupno": 16357,
+      "zene": 8078,
+      "doktorat_znanosti": 10447,
+      "diplomska_razina": 5400,
+      "preddiplomska_razina": 406,
+      "kratki_strucni_studij": 104
+    },
+    {
+      "godina": 2023,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Prirodne znanosti",
+      "istrazivaci_ukupno": 1924,
+      "zene": 1079,
+      "doktorat_znanosti": 1359,
+      "diplomska_razina": 563,
+      "preddiplomska_razina": 2,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Prirodne znanosti",
+      "istrazivaci_ukupno": 1770,
+      "zene": 981,
+      "doktorat_znanosti": 1305,
+      "diplomska_razina": 461,
+      "preddiplomska_razina": 3,
+      "kratki_strucni_studij": 1
+    },
+    {
+      "godina": 2023,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Tehničke znanosti",
+      "istrazivaci_ukupno": 4551,
+      "zene": 1287,
+      "doktorat_znanosti": 1849,
+      "diplomska_razina": 2420,
+      "preddiplomska_razina": 218,
+      "kratki_strucni_studij": 64
+    },
+    {
+      "godina": 2024,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Tehničke znanosti",
+      "istrazivaci_ukupno": 4827,
+      "zene": 1461,
+      "doktorat_znanosti": 1985,
+      "diplomska_razina": 2455,
+      "preddiplomska_razina": 318,
+      "kratki_strucni_studij": 69
+    },
+    {
+      "godina": 2023,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Biomedicina i zdravstvo",
+      "istrazivaci_ukupno": 3818,
+      "zene": 2277,
+      "doktorat_znanosti": 2916,
+      "diplomska_razina": 890,
+      "preddiplomska_razina": 7,
+      "kratki_strucni_studij": 5
+    },
+    {
+      "godina": 2024,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Biomedicina i zdravstvo",
+      "istrazivaci_ukupno": 3806,
+      "zene": 2287,
+      "doktorat_znanosti": 2872,
+      "diplomska_razina": 904,
+      "preddiplomska_razina": 26,
+      "kratki_strucni_studij": 4
+    },
+    {
+      "godina": 2023,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Biotehničke znanosti",
+      "istrazivaci_ukupno": 1240,
+      "zene": 691,
+      "doktorat_znanosti": 813,
+      "diplomska_razina": 404,
+      "preddiplomska_razina": 10,
+      "kratki_strucni_studij": 13
+    },
+    {
+      "godina": 2024,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Biotehničke znanosti",
+      "istrazivaci_ukupno": 1177,
+      "zene": 672,
+      "doktorat_znanosti": 782,
+      "diplomska_razina": 367,
+      "preddiplomska_razina": 11,
+      "kratki_strucni_studij": 17
+    },
+    {
+      "godina": 2023,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Društvene znanosti",
+      "istrazivaci_ukupno": 2739,
+      "zene": 1581,
+      "doktorat_znanosti": 2148,
+      "diplomska_razina": 550,
+      "preddiplomska_razina": 37,
+      "kratki_strucni_studij": 4
+    },
+    {
+      "godina": 2024,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Društvene znanosti",
+      "istrazivaci_ukupno": 2404,
+      "zene": 1337,
+      "doktorat_znanosti": 1804,
+      "diplomska_razina": 554,
+      "preddiplomska_razina": 37,
+      "kratki_strucni_studij": 9
+    },
+    {
+      "godina": 2023,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Humanističke znanosti",
+      "istrazivaci_ukupno": 1389,
+      "zene": 803,
+      "doktorat_znanosti": 1130,
+      "diplomska_razina": 252,
+      "preddiplomska_razina": 4,
+      "kratki_strucni_studij": 3
+    },
+    {
+      "godina": 2024,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Humanističke znanosti",
+      "istrazivaci_ukupno": 1847,
+      "zene": 1086,
+      "doktorat_znanosti": 1469,
+      "diplomska_razina": 372,
+      "preddiplomska_razina": 6,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Umjetničko područje",
+      "istrazivaci_ukupno": 315,
+      "zene": 129,
+      "doktorat_znanosti": 124,
+      "diplomska_razina": 191,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Umjetničko područje",
+      "istrazivaci_ukupno": 368,
+      "zene": 136,
+      "doktorat_znanosti": 125,
+      "diplomska_razina": 234,
+      "preddiplomska_razina": 5,
+      "kratki_strucni_studij": 4
+    },
+    {
+      "godina": 2023,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Interdisciplinarna područja znanosti",
+      "istrazivaci_ukupno": 215,
+      "zene": 145,
+      "doktorat_znanosti": 144,
+      "diplomska_razina": 71,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Sektori - ukupno",
+      "podrucje_znanosti": "Interdisciplinarna područja znanosti",
+      "istrazivaci_ukupno": 158,
+      "zene": 118,
+      "doktorat_znanosti": 105,
+      "diplomska_razina": 53,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Ukupno",
+      "istrazivaci_ukupno": 3012,
+      "zene": 959,
+      "doktorat_znanosti": 306,
+      "diplomska_razina": 2358,
+      "preddiplomska_razina": 259,
+      "kratki_strucni_studij": 89
+    },
+    {
+      "godina": 2024,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Ukupno",
+      "istrazivaci_ukupno": 3160,
+      "zene": 1038,
+      "doktorat_znanosti": 333,
+      "diplomska_razina": 2358,
+      "preddiplomska_razina": 365,
+      "kratki_strucni_studij": 104
+    },
+    {
+      "godina": 2023,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Prirodne znanosti",
+      "istrazivaci_ukupno": 117,
+      "zene": 66,
+      "doktorat_znanosti": 33,
+      "diplomska_razina": 83,
+      "preddiplomska_razina": 1,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Prirodne znanosti",
+      "istrazivaci_ukupno": 120,
+      "zene": 67,
+      "doktorat_znanosti": 52,
+      "diplomska_razina": 65,
+      "preddiplomska_razina": 2,
+      "kratki_strucni_studij": 1
+    },
+    {
+      "godina": 2023,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Tehničke znanosti",
+      "istrazivaci_ukupno": 2008,
+      "zene": 355,
+      "doktorat_znanosti": 129,
+      "diplomska_razina": 1597,
+      "preddiplomska_razina": 218,
+      "kratki_strucni_studij": 64
+    },
+    {
+      "godina": 2024,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Tehničke znanosti",
+      "istrazivaci_ukupno": 2056,
+      "zene": 395,
+      "doktorat_znanosti": 129,
+      "diplomska_razina": 1541,
+      "preddiplomska_razina": 317,
+      "kratki_strucni_studij": 69
+    },
+    {
+      "godina": 2023,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Biomedicina i zdravstvo",
+      "istrazivaci_ukupno": 421,
+      "zene": 301,
+      "doktorat_znanosti": 70,
+      "diplomska_razina": 339,
+      "preddiplomska_razina": 7,
+      "kratki_strucni_studij": 5
+    },
+    {
+      "godina": 2024,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Biomedicina i zdravstvo",
+      "istrazivaci_ukupno": 419,
+      "zene": 321,
+      "doktorat_znanosti": 69,
+      "diplomska_razina": 340,
+      "preddiplomska_razina": 6,
+      "kratki_strucni_studij": 4
+    },
+    {
+      "godina": 2023,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Biotehničke znanosti",
+      "istrazivaci_ukupno": 293,
+      "zene": 183,
+      "doktorat_znanosti": 58,
+      "diplomska_razina": 213,
+      "preddiplomska_razina": 9,
+      "kratki_strucni_studij": 13
+    },
+    {
+      "godina": 2024,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Biotehničke znanosti",
+      "istrazivaci_ukupno": 309,
+      "zene": 193,
+      "doktorat_znanosti": 69,
+      "diplomska_razina": 212,
+      "preddiplomska_razina": 11,
+      "kratki_strucni_studij": 17
+    },
+    {
+      "godina": 2023,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Društvene znanosti",
+      "istrazivaci_ukupno": 149,
+      "zene": 41,
+      "doktorat_znanosti": 10,
+      "diplomska_razina": 115,
+      "preddiplomska_razina": 20,
+      "kratki_strucni_studij": 4
+    },
+    {
+      "godina": 2024,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Društvene znanosti",
+      "istrazivaci_ukupno": 180,
+      "zene": 44,
+      "doktorat_znanosti": 7,
+      "diplomska_razina": 146,
+      "preddiplomska_razina": 18,
+      "kratki_strucni_studij": 9
+    },
+    {
+      "godina": 2023,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Humanističke znanosti",
+      "istrazivaci_ukupno": 16,
+      "zene": 8,
+      "doktorat_znanosti": 1,
+      "diplomska_razina": 8,
+      "preddiplomska_razina": 4,
+      "kratki_strucni_studij": 3
+    },
+    {
+      "godina": 2024,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Humanističke znanosti",
+      "istrazivaci_ukupno": 30,
+      "zene": 10,
+      "doktorat_znanosti": 6,
+      "diplomska_razina": 18,
+      "preddiplomska_razina": 6,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Umjetničko područje",
+      "istrazivaci_ukupno": "",
+      "zene": "",
+      "doktorat_znanosti": "",
+      "diplomska_razina": "",
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Umjetničko područje",
+      "istrazivaci_ukupno": 42,
+      "zene": 5,
+      "doktorat_znanosti": "",
+      "diplomska_razina": 33,
+      "preddiplomska_razina": 5,
+      "kratki_strucni_studij": 4
+    },
+    {
+      "godina": 2023,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Interdisciplinarna područja znanosti",
+      "istrazivaci_ukupno": 8,
+      "zene": 5,
+      "doktorat_znanosti": 5,
+      "diplomska_razina": 3,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Poslovni sektor",
+      "podrucje_znanosti": "Interdisciplinarna područja znanosti",
+      "istrazivaci_ukupno": 4,
+      "zene": 3,
+      "doktorat_znanosti": 1,
+      "diplomska_razina": 3,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Ukupno",
+      "istrazivaci_ukupno": 3017,
+      "zene": 1763,
+      "doktorat_znanosti": 2440,
+      "diplomska_razina": 575,
+      "preddiplomska_razina": 2,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Ukupno",
+      "istrazivaci_ukupno": 2897,
+      "zene": 1696,
+      "doktorat_znanosti": 2363,
+      "diplomska_razina": 531,
+      "preddiplomska_razina": 3,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Prirodne znanosti",
+      "istrazivaci_ukupno": 856,
+      "zene": 504,
+      "doktorat_znanosti": 621,
+      "diplomska_razina": 234,
+      "preddiplomska_razina": 1,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Prirodne znanosti",
+      "istrazivaci_ukupno": 837,
+      "zene": 495,
+      "doktorat_znanosti": 615,
+      "diplomska_razina": 221,
+      "preddiplomska_razina": 1,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Tehničke znanosti",
+      "istrazivaci_ukupno": 8,
+      "zene": 5,
+      "doktorat_znanosti": 6,
+      "diplomska_razina": 2,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Tehničke znanosti",
+      "istrazivaci_ukupno": 5,
+      "zene": 2,
+      "doktorat_znanosti": 5,
+      "diplomska_razina": "",
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Biomedicina i zdravstvo",
+      "istrazivaci_ukupno": 1392,
+      "zene": 819,
+      "doktorat_znanosti": 1174,
+      "diplomska_razina": 218,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Biomedicina i zdravstvo",
+      "istrazivaci_ukupno": 1283,
+      "zene": 755,
+      "doktorat_znanosti": 1073,
+      "diplomska_razina": 210,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Biotehničke znanosti",
+      "istrazivaci_ukupno": 151,
+      "zene": 80,
+      "doktorat_znanosti": 114,
+      "diplomska_razina": 36,
+      "preddiplomska_razina": 1,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Biotehničke znanosti",
+      "istrazivaci_ukupno": 162,
+      "zene": 87,
+      "doktorat_znanosti": 137,
+      "diplomska_razina": 25,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Društvene znanosti",
+      "istrazivaci_ukupno": 331,
+      "zene": 203,
+      "doktorat_znanosti": 287,
+      "diplomska_razina": 44,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Društvene znanosti",
+      "istrazivaci_ukupno": 341,
+      "zene": 211,
+      "doktorat_znanosti": 290,
+      "diplomska_razina": 49,
+      "preddiplomska_razina": 2,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Humanističke znanosti",
+      "istrazivaci_ukupno": 279,
+      "zene": 152,
+      "doktorat_znanosti": 238,
+      "diplomska_razina": 41,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Humanističke znanosti",
+      "istrazivaci_ukupno": 269,
+      "zene": 146,
+      "doktorat_znanosti": 243,
+      "diplomska_razina": 26,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Umjetničko područje",
+      "istrazivaci_ukupno": "",
+      "zene": "",
+      "doktorat_znanosti": "",
+      "diplomska_razina": "",
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Umjetničko područje",
+      "istrazivaci_ukupno": "",
+      "zene": "",
+      "doktorat_znanosti": "",
+      "diplomska_razina": "",
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Interdisciplinarna područja znanosti",
+      "istrazivaci_ukupno": "",
+      "zene": "",
+      "doktorat_znanosti": "",
+      "diplomska_razina": "",
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Državni sektor i privatni neprofitni sektor",
+      "podrucje_znanosti": "Interdisciplinarna područja znanosti",
+      "istrazivaci_ukupno": "",
+      "zene": "",
+      "doktorat_znanosti": "",
+      "diplomska_razina": "",
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Ukupno",
+      "istrazivaci_ukupno": 10162,
+      "zene": 5270,
+      "doktorat_znanosti": 7737,
+      "diplomska_razina": 2408,
+      "preddiplomska_razina": 17,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Ukupno",
+      "istrazivaci_ukupno": 10300,
+      "zene": 5344,
+      "doktorat_znanosti": 7751,
+      "diplomska_razina": 2511,
+      "preddiplomska_razina": 38,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Prirodne znanosti",
+      "istrazivaci_ukupno": 951,
+      "zene": 509,
+      "doktorat_znanosti": 705,
+      "diplomska_razina": 246,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Prirodne znanosti",
+      "istrazivaci_ukupno": 813,
+      "zene": 419,
+      "doktorat_znanosti": 638,
+      "diplomska_razina": 175,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Tehničke znanosti",
+      "istrazivaci_ukupno": 2535,
+      "zene": 927,
+      "doktorat_znanosti": 1714,
+      "diplomska_razina": 821,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Tehničke znanosti",
+      "istrazivaci_ukupno": 2766,
+      "zene": 1064,
+      "doktorat_znanosti": 1851,
+      "diplomska_razina": 914,
+      "preddiplomska_razina": 1,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Biomedicina i zdravstvo",
+      "istrazivaci_ukupno": 2005,
+      "zene": 1157,
+      "doktorat_znanosti": 1672,
+      "diplomska_razina": 333,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Biomedicina i zdravstvo",
+      "istrazivaci_ukupno": 2104,
+      "zene": 1211,
+      "doktorat_znanosti": 1730,
+      "diplomska_razina": 354,
+      "preddiplomska_razina": 20,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Biotehničke znanosti",
+      "istrazivaci_ukupno": 796,
+      "zene": 428,
+      "doktorat_znanosti": 641,
+      "diplomska_razina": 155,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Biotehničke znanosti",
+      "istrazivaci_ukupno": 706,
+      "zene": 392,
+      "doktorat_znanosti": 576,
+      "diplomska_razina": 130,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Društvene znanosti",
+      "istrazivaci_ukupno": 2259,
+      "zene": 1337,
+      "doktorat_znanosti": 1851,
+      "diplomska_razina": 391,
+      "preddiplomska_razina": 17,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Društvene znanosti",
+      "istrazivaci_ukupno": 1883,
+      "zene": 1082,
+      "doktorat_znanosti": 1507,
+      "diplomska_razina": 359,
+      "preddiplomska_razina": 17,
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Humanističke znanosti",
+      "istrazivaci_ukupno": 1094,
+      "zene": 643,
+      "doktorat_znanosti": 891,
+      "diplomska_razina": 203,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Humanističke znanosti",
+      "istrazivaci_ukupno": 1548,
+      "zene": 930,
+      "doktorat_znanosti": 1220,
+      "diplomska_razina": 328,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Umjetničko područje",
+      "istrazivaci_ukupno": 315,
+      "zene": 129,
+      "doktorat_znanosti": 124,
+      "diplomska_razina": 191,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Umjetničko područje",
+      "istrazivaci_ukupno": 326,
+      "zene": 131,
+      "doktorat_znanosti": 125,
+      "diplomska_razina": 201,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2023,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Interdisciplinarna područja znanosti",
+      "istrazivaci_ukupno": 207,
+      "zene": 140,
+      "doktorat_znanosti": 139,
+      "diplomska_razina": 68,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    },
+    {
+      "godina": 2024,
+      "sektor": "Visoko obrazovanje",
+      "podrucje_znanosti": "Interdisciplinarna područja znanosti",
+      "istrazivaci_ukupno": 154,
+      "zene": 115,
+      "doktorat_znanosti": 104,
+      "diplomska_razina": 50,
+      "preddiplomska_razina": "",
+      "kratki_strucni_studij": ""
+    }
+  ],
+  "meta": {
+    "title": "Istraživači u Hrvatskoj po sektorima i područjima znanosti (2023.–2024.) - Free Download",
+    "description": "Broj zaposlenih istraživača (HC) u Hrvatskoj prema sektoru, znanstvenom području i postignutom obrazovanju (doktorat, diplomska, preddiplomska razina), s brojem žena istraživačica (DZS, Tablica 2.2.). Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Istraživači u Hrvatskoj po sektorima i područjima znanosti (2023.–2024.) | ListBase",
+    "seo_description": "Download Istraživači u Hrvatskoj po sektorima i područjima znanosti (2023.–2024.) — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://web.dzs.hr/PXWeb/Menu.aspx?px_db=Znanost%2c+tehnologija+i+informacijsko+dru%u0161tvo&px_language=hr"
+    ]
+  }
+}

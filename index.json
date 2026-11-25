@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-25T02:17:28.273Z",
-  "total_datasets": 524,
-  "total_records": 833272,
+  "generated": "2026-11-25T02:17:37.796Z",
+  "total_datasets": 525,
+  "total_records": 833344,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -11812,6 +11812,36 @@
         "xlsx": {
           "name": "hr-hrvatski-izumi_HR.xlsx",
           "size": 7850
+        }
+      }
+    },
+    {
+      "id": "hr-istrazivaci-po-podrucjima-znanosti",
+      "name": "Istraživači u Hrvatskoj po sektorima i područjima znanosti (2023.–2024.)",
+      "category": "science",
+      "record_count": 72,
+      "columns": [
+        "godina",
+        "sektor",
+        "podrucje_znanosti",
+        "istrazivaci_ukupno",
+        "zene",
+        "doktorat_znanosti",
+        "diplomska_razina",
+        "preddiplomska_razina",
+        "kratki_strucni_studij"
+      ],
+      "source": "https://web.dzs.hr/PXWeb/Menu.aspx?px_db=Znanost%2c+tehnologija+i+informacijsko+dru%u0161tvo&px_language=hr",
+      "updated": "2026-11",
+      "size": 25164,
+      "files": {
+        "csv": {
+          "name": "hr-istrazivaci-po-podrucjima-znanosti_HR.csv",
+          "size": 6461
+        },
+        "xlsx": {
+          "name": "hr-istrazivaci-po-podrucjima-znanosti_HR.xlsx",
+          "size": 9950
         }
       }
     },
