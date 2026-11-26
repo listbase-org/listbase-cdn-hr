@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-25T02:17:46.199Z",
-  "total_datasets": 526,
-  "total_records": 834211,
+  "generated": "2026-11-26T02:16:29.094Z",
+  "total_datasets": 527,
+  "total_records": 834235,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "geography",
@@ -2703,6 +2703,35 @@
         "xlsx": {
           "name": "hr-zagreb-banke_HR.xlsx",
           "size": 8230
+        }
+      }
+    },
+    {
+      "id": "hr-bilanca-vina-proizvodnja-i-potrosnja",
+      "name": "Bilanca vina u Hrvatskoj – proizvodnja, uvoz, izvoz i potrošnja (2000./2001.–2023./2024.)",
+      "category": "food",
+      "record_count": 24,
+      "columns": [
+        "vinska_godina",
+        "proizvodnja_tis_hl",
+        "uvoz_tis_hl",
+        "izvoz_tis_hl",
+        "domaca_potrosnja_tis_hl",
+        "potrosnja_za_prehranu_tis_hl",
+        "samodostatnost_pct",
+        "potrosnja_po_stanovniku_l"
+      ],
+      "source": "https://podaci.dzs.hr/",
+      "updated": "2026-11",
+      "size": 9853,
+      "files": {
+        "csv": {
+          "name": "hr-bilanca-vina-proizvodnja-i-potrosnja_HR.csv",
+          "size": 1937
+        },
+        "xlsx": {
+          "name": "hr-bilanca-vina-proizvodnja-i-potrosnja_HR.xlsx",
+          "size": 8307
         }
       }
     },

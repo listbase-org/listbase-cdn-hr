@@ -1,0 +1,306 @@
+{
+  "id": "hr-bilanca-vina-proizvodnja-i-potrosnja",
+  "name": "Bilanca vina u Hrvatskoj – proizvodnja, uvoz, izvoz i potrošnja (2000./2001.–2023./2024.)",
+  "title": "Bilanca vina u Hrvatskoj – proizvodnja, uvoz, izvoz i potrošnja (2000./2001.–2023./2024.)",
+  "description": "Godišnja bilanca vina u Hrvatskoj po vinskim godinama: proizvodnja, uvoz, izvoz i domaća potrošnja (tis. hl), stupanj samodostatnosti (%) i potrošnja vina po stanovniku u litrama (DZS, Bilanca vina).",
+  "category": "food",
+  "source": "https://podaci.dzs.hr/",
+  "source_url": "https://podaci.dzs.hr/",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "vinska_godina",
+      "label": "Vinska Godina",
+      "type": "string"
+    },
+    {
+      "key": "proizvodnja_tis_hl",
+      "label": "Proizvodnja Tis Hl",
+      "type": "number"
+    },
+    {
+      "key": "uvoz_tis_hl",
+      "label": "Uvoz Tis Hl",
+      "type": "number"
+    },
+    {
+      "key": "izvoz_tis_hl",
+      "label": "Izvoz Tis Hl",
+      "type": "number"
+    },
+    {
+      "key": "domaca_potrosnja_tis_hl",
+      "label": "Domaca Potrosnja Tis Hl",
+      "type": "number"
+    },
+    {
+      "key": "potrosnja_za_prehranu_tis_hl",
+      "label": "Potrosnja Za Prehranu Tis Hl",
+      "type": "number"
+    },
+    {
+      "key": "samodostatnost_pct",
+      "label": "Samodostatnost Pct",
+      "type": "number"
+    },
+    {
+      "key": "potrosnja_po_stanovniku_l",
+      "label": "Potrosnja Po Stanovniku L",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "vinska_godina": "2000./2001.",
+      "proizvodnja_tis_hl": 1258.18,
+      "uvoz_tis_hl": 64.41,
+      "izvoz_tis_hl": 93.63,
+      "domaca_potrosnja_tis_hl": 1265.5,
+      "potrosnja_za_prehranu_tis_hl": 1010.97,
+      "samodostatnost_pct": 99.42,
+      "potrosnja_po_stanovniku_l": 23.46
+    },
+    {
+      "vinska_godina": "2001./2002.",
+      "proizvodnja_tis_hl": 1283.96,
+      "uvoz_tis_hl": 79.19,
+      "izvoz_tis_hl": 107.46,
+      "domaca_potrosnja_tis_hl": 1269.09,
+      "potrosnja_za_prehranu_tis_hl": 1040.87,
+      "samodostatnost_pct": 101.17,
+      "potrosnja_po_stanovniku_l": 24.15
+    },
+    {
+      "vinska_godina": "2002./2003.",
+      "proizvodnja_tis_hl": 1301.72,
+      "uvoz_tis_hl": 91.64,
+      "izvoz_tis_hl": 83.69,
+      "domaca_potrosnja_tis_hl": 1321.15,
+      "potrosnja_za_prehranu_tis_hl": 1054.65,
+      "samodostatnost_pct": 98.53,
+      "potrosnja_po_stanovniku_l": 24.47
+    },
+    {
+      "vinska_godina": "2003./2004.",
+      "proizvodnja_tis_hl": 1265.18,
+      "uvoz_tis_hl": 134.86,
+      "izvoz_tis_hl": 88.9,
+      "domaca_potrosnja_tis_hl": 1274.43,
+      "potrosnja_za_prehranu_tis_hl": 1052.26,
+      "samodostatnost_pct": 99.27,
+      "potrosnja_po_stanovniku_l": 24.41
+    },
+    {
+      "vinska_godina": "2004./2005.",
+      "proizvodnja_tis_hl": 1203.7,
+      "uvoz_tis_hl": 133.92,
+      "izvoz_tis_hl": 28.57,
+      "domaca_potrosnja_tis_hl": 1295.07,
+      "potrosnja_za_prehranu_tis_hl": 1074.63,
+      "samodostatnost_pct": 92.94,
+      "potrosnja_po_stanovniku_l": 24.93
+    },
+    {
+      "vinska_godina": "2005./2006.",
+      "proizvodnja_tis_hl": 1248.42,
+      "uvoz_tis_hl": 144.42,
+      "izvoz_tis_hl": 30.2,
+      "domaca_potrosnja_tis_hl": 1413.87,
+      "potrosnja_za_prehranu_tis_hl": 1216.4,
+      "samodostatnost_pct": 88.3,
+      "potrosnja_po_stanovniku_l": 28.22
+    },
+    {
+      "vinska_godina": "2006./2007.",
+      "proizvodnja_tis_hl": 1237.42,
+      "uvoz_tis_hl": 155.63,
+      "izvoz_tis_hl": 30.23,
+      "domaca_potrosnja_tis_hl": 1091.92,
+      "potrosnja_za_prehranu_tis_hl": 932.1,
+      "samodostatnost_pct": 113.33,
+      "potrosnja_po_stanovniku_l": 21.63
+    },
+    {
+      "vinska_godina": "2007./2008.",
+      "proizvodnja_tis_hl": 1365.37,
+      "uvoz_tis_hl": 141.22,
+      "izvoz_tis_hl": 26.36,
+      "domaca_potrosnja_tis_hl": 1112.58,
+      "potrosnja_za_prehranu_tis_hl": 951.91,
+      "samodostatnost_pct": 122.72,
+      "potrosnja_po_stanovniku_l": 22.09
+    },
+    {
+      "vinska_godina": "2008./2009.",
+      "proizvodnja_tis_hl": 1277.63,
+      "uvoz_tis_hl": 135.09,
+      "izvoz_tis_hl": 25.61,
+      "domaca_potrosnja_tis_hl": 1299.7,
+      "potrosnja_za_prehranu_tis_hl": 1062.38,
+      "samodostatnost_pct": 98.3,
+      "potrosnja_po_stanovniku_l": 24.71
+    },
+    {
+      "vinska_godina": "2009./2010.",
+      "proizvodnja_tis_hl": 1424,
+      "uvoz_tis_hl": 148.39,
+      "izvoz_tis_hl": 24.27,
+      "domaca_potrosnja_tis_hl": 1568.29,
+      "potrosnja_za_prehranu_tis_hl": 1295.99,
+      "samodostatnost_pct": 90.8,
+      "potrosnja_po_stanovniku_l": 30.21
+    },
+    {
+      "vinska_godina": "2010./2011.",
+      "proizvodnja_tis_hl": 1433,
+      "uvoz_tis_hl": 146,
+      "izvoz_tis_hl": 38.48,
+      "domaca_potrosnja_tis_hl": 1528.72,
+      "potrosnja_za_prehranu_tis_hl": 1220.01,
+      "samodostatnost_pct": 93.74,
+      "potrosnja_po_stanovniku_l": 28.5
+    },
+    {
+      "vinska_godina": "2011./2012.",
+      "proizvodnja_tis_hl": 1409,
+      "uvoz_tis_hl": 145.4,
+      "izvoz_tis_hl": 57.86,
+      "domaca_potrosnja_tis_hl": 1507.2,
+      "potrosnja_za_prehranu_tis_hl": 1326.22,
+      "samodostatnost_pct": 93.48,
+      "potrosnja_po_stanovniku_l": 31.13
+    },
+    {
+      "vinska_godina": "2012./2013.",
+      "proizvodnja_tis_hl": 1293,
+      "uvoz_tis_hl": 158.03,
+      "izvoz_tis_hl": 53.07,
+      "domaca_potrosnja_tis_hl": 1754.26,
+      "potrosnja_za_prehranu_tis_hl": 1655.11,
+      "samodostatnost_pct": 73.71,
+      "potrosnja_po_stanovniku_l": 38.94
+    },
+    {
+      "vinska_godina": "2013./2014.",
+      "proizvodnja_tis_hl": 1249,
+      "uvoz_tis_hl": 201.21,
+      "izvoz_tis_hl": 32.31,
+      "domaca_potrosnja_tis_hl": 1335.14,
+      "potrosnja_za_prehranu_tis_hl": 1241.49,
+      "samodostatnost_pct": 93.55,
+      "potrosnja_po_stanovniku_l": 29.35
+    },
+    {
+      "vinska_godina": "2014./2015.",
+      "proizvodnja_tis_hl": 842,
+      "uvoz_tis_hl": 262.02,
+      "izvoz_tis_hl": 41.96,
+      "domaca_potrosnja_tis_hl": 1158.85,
+      "potrosnja_za_prehranu_tis_hl": 1085.82,
+      "samodostatnost_pct": 72.66,
+      "potrosnja_po_stanovniku_l": 25.91
+    },
+    {
+      "vinska_godina": "2015./2016.",
+      "proizvodnja_tis_hl": 992,
+      "uvoz_tis_hl": 304.32,
+      "izvoz_tis_hl": 44.07,
+      "domaca_potrosnja_tis_hl": 1207.01,
+      "potrosnja_za_prehranu_tis_hl": 1134.74,
+      "samodostatnost_pct": 82.19,
+      "potrosnja_po_stanovniku_l": 27.34
+    },
+    {
+      "vinska_godina": "2016./2017.",
+      "proizvodnja_tis_hl": 760,
+      "uvoz_tis_hl": 295.74,
+      "izvoz_tis_hl": 54.05,
+      "domaca_potrosnja_tis_hl": 1002.83,
+      "potrosnja_za_prehranu_tis_hl": 925.31,
+      "samodostatnost_pct": 75.79,
+      "potrosnja_po_stanovniku_l": 22.51
+    },
+    {
+      "vinska_godina": "2017./2018.",
+      "proizvodnja_tis_hl": 726,
+      "uvoz_tis_hl": 232.86,
+      "izvoz_tis_hl": 49.52,
+      "domaca_potrosnja_tis_hl": 984.73,
+      "potrosnja_za_prehranu_tis_hl": 904.14,
+      "samodostatnost_pct": 73.73,
+      "potrosnja_po_stanovniku_l": 22.21
+    },
+    {
+      "vinska_godina": "2018./2019.",
+      "proizvodnja_tis_hl": 952,
+      "uvoz_tis_hl": 256.87,
+      "izvoz_tis_hl": 53.6,
+      "domaca_potrosnja_tis_hl": 1061.31,
+      "potrosnja_za_prehranu_tis_hl": 984.75,
+      "samodostatnost_pct": 89.7,
+      "potrosnja_po_stanovniku_l": 24.25
+    },
+    {
+      "vinska_godina": "2019./2020.",
+      "proizvodnja_tis_hl": 704,
+      "uvoz_tis_hl": 242.54,
+      "izvoz_tis_hl": 43.85,
+      "domaca_potrosnja_tis_hl": 829.02,
+      "potrosnja_za_prehranu_tis_hl": 756.9,
+      "samodostatnost_pct": 84.92,
+      "potrosnja_po_stanovniku_l": 18.74
+    },
+    {
+      "vinska_godina": "2020./2021.",
+      "proizvodnja_tis_hl": 800,
+      "uvoz_tis_hl": 259.02,
+      "izvoz_tis_hl": 38.17,
+      "domaca_potrosnja_tis_hl": 1151.6,
+      "potrosnja_za_prehranu_tis_hl": 1082.02,
+      "samodostatnost_pct": 69.47,
+      "potrosnja_po_stanovniku_l": 28.03
+    },
+    {
+      "vinska_godina": "2021./2022.",
+      "proizvodnja_tis_hl": 765,
+      "uvoz_tis_hl": 269.42,
+      "izvoz_tis_hl": 46.85,
+      "domaca_potrosnja_tis_hl": 1080.66,
+      "potrosnja_za_prehranu_tis_hl": 1028.89,
+      "samodostatnost_pct": 70.79,
+      "potrosnja_po_stanovniku_l": 26.72
+    },
+    {
+      "vinska_godina": "2022./2023.",
+      "proizvodnja_tis_hl": 725,
+      "uvoz_tis_hl": 229.33,
+      "izvoz_tis_hl": 42.25,
+      "domaca_potrosnja_tis_hl": 535.9,
+      "potrosnja_za_prehranu_tis_hl": 479.5,
+      "samodostatnost_pct": 135.29,
+      "potrosnja_po_stanovniku_l": 12.42
+    },
+    {
+      "vinska_godina": "2023./2024.",
+      "proizvodnja_tis_hl": 612,
+      "uvoz_tis_hl": 293.26,
+      "izvoz_tis_hl": 36.07,
+      "domaca_potrosnja_tis_hl": 1417.53,
+      "potrosnja_za_prehranu_tis_hl": 1367.47,
+      "samodostatnost_pct": 43.17,
+      "potrosnja_po_stanovniku_l": 35.34
+    }
+  ],
+  "meta": {
+    "title": "Bilanca vina u Hrvatskoj – proizvodnja, uvoz, izvoz i potrošnja (2000./2001.–2023./2024.) - Free Download",
+    "description": "Godišnja bilanca vina u Hrvatskoj po vinskim godinama: proizvodnja, uvoz, izvoz i domaća potrošnja (tis. hl), stupanj samodostatnosti (%) i potrošnja vina po stanovniku u litrama (DZS, Bilanca vina). Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bilanca vina u Hrvatskoj – proizvodnja, uvoz, izvoz i potrošnja (2000./2001.–2023./2024.) | ListBase",
+    "seo_description": "Download Bilanca vina u Hrvatskoj – proizvodnja, uvoz, izvoz i potrošnja (2000./2001.–2023./2024.) — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://podaci.dzs.hr/"
+    ]
+  }
+}
