@@ -1,12 +1,12 @@
 {
   "lang": "hr",
-  "generated": "2026-11-26T02:16:29.094Z",
-  "total_datasets": 527,
-  "total_records": 834235,
+  "generated": "2026-11-26T02:16:37.130Z",
+  "total_datasets": 528,
+  "total_records": 834375,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -149,6 +149,31 @@
         "xlsx": {
           "name": "hr-nazivi-riba-morskih-organizama_HR.xlsx",
           "size": 12109
+        }
+      }
+    },
+    {
+      "id": "hr-odstrel-i-brojno-stanje-divljaci",
+      "name": "Odstrel i procjena brojnog stanja divljači u Hrvatskoj (2016.–2025.)",
+      "category": "agriculture",
+      "record_count": 140,
+      "columns": [
+        "godina",
+        "vrsta_divljaci",
+        "procjena_brojnog_stanja_1_travnja",
+        "odstrel"
+      ],
+      "source": "https://podaci.dzs.hr/",
+      "updated": "2026-11",
+      "size": 22295,
+      "files": {
+        "csv": {
+          "name": "hr-odstrel-i-brojno-stanje-divljaci_HR.csv",
+          "size": 5065
+        },
+        "xlsx": {
+          "name": "hr-odstrel-i-brojno-stanje-divljaci_HR.xlsx",
+          "size": 9883
         }
       }
     },

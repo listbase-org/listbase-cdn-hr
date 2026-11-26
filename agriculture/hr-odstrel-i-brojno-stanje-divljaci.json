@@ -1,0 +1,886 @@
+{
+  "id": "hr-odstrel-i-brojno-stanje-divljaci",
+  "name": "Odstrel i procjena brojnog stanja divljači u Hrvatskoj (2016.–2025.)",
+  "title": "Odstrel i procjena brojnog stanja divljači u Hrvatskoj (2016.–2025.)",
+  "description": "Procijenjeno brojno stanje divljači na dan 1. travnja i broj odstrijeljenih grla po vrstama (jelen obični, srna, divlja svinja, medvjed, zec, fazan, lisica i dr.) u Hrvatskoj po godinama (DZS, Lovstvo).",
+  "category": "agriculture",
+  "source": "https://podaci.dzs.hr/",
+  "source_url": "https://podaci.dzs.hr/",
+  "updated": "2026-11",
+  "record_count": 140,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "vrsta_divljaci",
+      "label": "Vrsta Divljaci",
+      "type": "string"
+    },
+    {
+      "key": "procjena_brojnog_stanja_1_travnja",
+      "label": "Procjena Brojnog Stanja 1 Travnja",
+      "type": "number"
+    },
+    {
+      "key": "odstrel",
+      "label": "Odstrel",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Jelen obični",
+      "procjena_brojnog_stanja_1_travnja": 24983,
+      "odstrel": 5863
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Jelen lopatar",
+      "procjena_brojnog_stanja_1_travnja": 2177,
+      "odstrel": 1328
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Jelen aksis",
+      "procjena_brojnog_stanja_1_travnja": 142,
+      "odstrel": 137
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Srna",
+      "procjena_brojnog_stanja_1_travnja": 73974,
+      "odstrel": 16596
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Divokoza",
+      "procjena_brojnog_stanja_1_travnja": 1280,
+      "odstrel": 171
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Muflon",
+      "procjena_brojnog_stanja_1_travnja": 2200,
+      "odstrel": 631
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Medvjed",
+      "procjena_brojnog_stanja_1_travnja": 1000,
+      "odstrel": 127
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Divlja svinja",
+      "procjena_brojnog_stanja_1_travnja": 4396,
+      "odstrel": 67857
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Zec",
+      "procjena_brojnog_stanja_1_travnja": 73732,
+      "odstrel": 27264
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Lisica",
+      "procjena_brojnog_stanja_1_travnja": 15935,
+      "odstrel": 13954
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Ostala dlakava divljač",
+      "procjena_brojnog_stanja_1_travnja": 51153,
+      "odstrel": 16415
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Fazan",
+      "procjena_brojnog_stanja_1_travnja": 84957,
+      "odstrel": 63370
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Močvarice, razne",
+      "procjena_brojnog_stanja_1_travnja": 66661,
+      "odstrel": 54294
+    },
+    {
+      "godina": 2025,
+      "vrsta_divljaci": "Ostala pernata divljač",
+      "procjena_brojnog_stanja_1_travnja": 231793,
+      "odstrel": 59812
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Jelen obični",
+      "procjena_brojnog_stanja_1_travnja": 22984,
+      "odstrel": 5486
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Jelen lopatar",
+      "procjena_brojnog_stanja_1_travnja": 2747,
+      "odstrel": 1356
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Jelen aksis",
+      "procjena_brojnog_stanja_1_travnja": 146,
+      "odstrel": 54
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Srna",
+      "procjena_brojnog_stanja_1_travnja": 76046,
+      "odstrel": 17202
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Divokoza",
+      "procjena_brojnog_stanja_1_travnja": 1314,
+      "odstrel": 132
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Muflon",
+      "procjena_brojnog_stanja_1_travnja": 2477,
+      "odstrel": 599
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Medvjed",
+      "procjena_brojnog_stanja_1_travnja": 1000,
+      "odstrel": 114
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Divlja svinja",
+      "procjena_brojnog_stanja_1_travnja": 5545,
+      "odstrel": 45397
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Zec",
+      "procjena_brojnog_stanja_1_travnja": 74896,
+      "odstrel": 27781
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Lisica",
+      "procjena_brojnog_stanja_1_travnja": 16117,
+      "odstrel": 14518
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Ostala dlakava divljač",
+      "procjena_brojnog_stanja_1_travnja": 48374,
+      "odstrel": 15938
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Fazan",
+      "procjena_brojnog_stanja_1_travnja": 85298,
+      "odstrel": 63622
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Močvarice, razne",
+      "procjena_brojnog_stanja_1_travnja": 70759,
+      "odstrel": 61673
+    },
+    {
+      "godina": 2024,
+      "vrsta_divljaci": "Ostala pernata divljač",
+      "procjena_brojnog_stanja_1_travnja": 249255,
+      "odstrel": 64353
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Jelen obični",
+      "procjena_brojnog_stanja_1_travnja": 22420,
+      "odstrel": 5428
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Jelen lopatar",
+      "procjena_brojnog_stanja_1_travnja": 2798,
+      "odstrel": 1197
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Jelen aksis",
+      "procjena_brojnog_stanja_1_travnja": 139,
+      "odstrel": 57
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Srna",
+      "procjena_brojnog_stanja_1_travnja": 77131,
+      "odstrel": 17644
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Divokoza",
+      "procjena_brojnog_stanja_1_travnja": 1327,
+      "odstrel": 152
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Muflon",
+      "procjena_brojnog_stanja_1_travnja": 2817,
+      "odstrel": 817
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Medvjed",
+      "procjena_brojnog_stanja_1_travnja": 1000,
+      "odstrel": 130
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Divlja svinja",
+      "procjena_brojnog_stanja_1_travnja": 17488,
+      "odstrel": 50030
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Zec",
+      "procjena_brojnog_stanja_1_travnja": 74941,
+      "odstrel": 27596
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Lisica",
+      "procjena_brojnog_stanja_1_travnja": 16044,
+      "odstrel": 14673
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Ostala dlakava divljač",
+      "procjena_brojnog_stanja_1_travnja": 50338,
+      "odstrel": 15409
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Fazan",
+      "procjena_brojnog_stanja_1_travnja": 85650,
+      "odstrel": 61525
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Močvarice, razne",
+      "procjena_brojnog_stanja_1_travnja": 67432,
+      "odstrel": 57977
+    },
+    {
+      "godina": 2023,
+      "vrsta_divljaci": "Ostala pernata divljač",
+      "procjena_brojnog_stanja_1_travnja": 259448,
+      "odstrel": 67147
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Jelen obični",
+      "procjena_brojnog_stanja_1_travnja": 22025,
+      "odstrel": 5449
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Jelen lopatar",
+      "procjena_brojnog_stanja_1_travnja": 2689,
+      "odstrel": 1590
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Jelen aksis",
+      "procjena_brojnog_stanja_1_travnja": 120,
+      "odstrel": 41
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Srna",
+      "procjena_brojnog_stanja_1_travnja": 79862,
+      "odstrel": 17879
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Divokoza",
+      "procjena_brojnog_stanja_1_travnja": 1291,
+      "odstrel": 153
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Muflon",
+      "procjena_brojnog_stanja_1_travnja": 2636,
+      "odstrel": 663
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Medvjed",
+      "procjena_brojnog_stanja_1_travnja": 1000,
+      "odstrel": 131
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Divlja svinja",
+      "procjena_brojnog_stanja_1_travnja": 23923,
+      "odstrel": 48893
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Zec",
+      "procjena_brojnog_stanja_1_travnja": 78073,
+      "odstrel": 27475
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Lisica",
+      "procjena_brojnog_stanja_1_travnja": 16485,
+      "odstrel": 14582
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Ostala dlakava divljač",
+      "procjena_brojnog_stanja_1_travnja": 51898,
+      "odstrel": 18922
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Fazan",
+      "procjena_brojnog_stanja_1_travnja": 93333,
+      "odstrel": 65570
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Močvarice, razne",
+      "procjena_brojnog_stanja_1_travnja": 72771,
+      "odstrel": 58051
+    },
+    {
+      "godina": 2022,
+      "vrsta_divljaci": "Ostala pernata divljač",
+      "procjena_brojnog_stanja_1_travnja": 247255,
+      "odstrel": 66184
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Jelen obični",
+      "procjena_brojnog_stanja_1_travnja": 21122,
+      "odstrel": 5073
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Jelen lopatar",
+      "procjena_brojnog_stanja_1_travnja": 2239,
+      "odstrel": 1261
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Jelen aksis",
+      "procjena_brojnog_stanja_1_travnja": 98,
+      "odstrel": 25
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Srna",
+      "procjena_brojnog_stanja_1_travnja": 77346,
+      "odstrel": 17957
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Divokoza",
+      "procjena_brojnog_stanja_1_travnja": 1291,
+      "odstrel": 145
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Muflon",
+      "procjena_brojnog_stanja_1_travnja": 2700,
+      "odstrel": 709
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Medvjed",
+      "procjena_brojnog_stanja_1_travnja": 1000,
+      "odstrel": 139
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Divlja svinja",
+      "procjena_brojnog_stanja_1_travnja": 25732,
+      "odstrel": 52381
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Zec",
+      "procjena_brojnog_stanja_1_travnja": 74848,
+      "odstrel": 27120
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Lisica",
+      "procjena_brojnog_stanja_1_travnja": 15847,
+      "odstrel": 14354
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Ostala dlakava divljač",
+      "procjena_brojnog_stanja_1_travnja": 48742,
+      "odstrel": 13704
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Fazan",
+      "procjena_brojnog_stanja_1_travnja": 86245,
+      "odstrel": 61109
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Močvarice, razne",
+      "procjena_brojnog_stanja_1_travnja": 66636,
+      "odstrel": 58625
+    },
+    {
+      "godina": 2021,
+      "vrsta_divljaci": "Ostala pernata divljač",
+      "procjena_brojnog_stanja_1_travnja": 247184,
+      "odstrel": 69046
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Jelen obični",
+      "procjena_brojnog_stanja_1_travnja": 20154,
+      "odstrel": 4398
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Jelen lopatar",
+      "procjena_brojnog_stanja_1_travnja": 2740,
+      "odstrel": 1228
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Jelen aksis",
+      "procjena_brojnog_stanja_1_travnja": 92,
+      "odstrel": 28
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Srna",
+      "procjena_brojnog_stanja_1_travnja": 75848,
+      "odstrel": 17789
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Divokoza",
+      "procjena_brojnog_stanja_1_travnja": 1149,
+      "odstrel": 88
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Muflon",
+      "procjena_brojnog_stanja_1_travnja": 2695,
+      "odstrel": 671
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Medvjed",
+      "procjena_brojnog_stanja_1_travnja": 1000,
+      "odstrel": 49
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Divlja svinja",
+      "procjena_brojnog_stanja_1_travnja": 26201,
+      "odstrel": 39778
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Zec",
+      "procjena_brojnog_stanja_1_travnja": 73027,
+      "odstrel": 26653
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Lisica",
+      "procjena_brojnog_stanja_1_travnja": 15781,
+      "odstrel": 14201
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Ostala dlakava divljač",
+      "procjena_brojnog_stanja_1_travnja": 42316,
+      "odstrel": 15904
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Fazan",
+      "procjena_brojnog_stanja_1_travnja": 82577,
+      "odstrel": 59796
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Močvarice, razne",
+      "procjena_brojnog_stanja_1_travnja": 120465,
+      "odstrel": 54053
+    },
+    {
+      "godina": 2020,
+      "vrsta_divljaci": "Ostala pernata divljač",
+      "procjena_brojnog_stanja_1_travnja": 243740,
+      "odstrel": 70134
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Jelen obični",
+      "procjena_brojnog_stanja_1_travnja": 19348,
+      "odstrel": 4112
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Jelen lopatar",
+      "procjena_brojnog_stanja_1_travnja": 2361,
+      "odstrel": 1104
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Jelen aksis",
+      "procjena_brojnog_stanja_1_travnja": 86,
+      "odstrel": 19
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Srna",
+      "procjena_brojnog_stanja_1_travnja": 69808,
+      "odstrel": 16691
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Divokoza",
+      "procjena_brojnog_stanja_1_travnja": 1245,
+      "odstrel": 125
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Muflon",
+      "procjena_brojnog_stanja_1_travnja": 2593,
+      "odstrel": 574
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Medvjed",
+      "procjena_brojnog_stanja_1_travnja": 1000,
+      "odstrel": 130
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Divlja svinja",
+      "procjena_brojnog_stanja_1_travnja": 26522,
+      "odstrel": 39713
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Zec",
+      "procjena_brojnog_stanja_1_travnja": 68660,
+      "odstrel": 24781
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Lisica",
+      "procjena_brojnog_stanja_1_travnja": 14608,
+      "odstrel": 12481
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Ostala dlakava divljač",
+      "procjena_brojnog_stanja_1_travnja": 41752,
+      "odstrel": 10120
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Fazan",
+      "procjena_brojnog_stanja_1_travnja": 79314,
+      "odstrel": 57692
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Močvarice, razne",
+      "procjena_brojnog_stanja_1_travnja": 67570,
+      "odstrel": 60273
+    },
+    {
+      "godina": 2019,
+      "vrsta_divljaci": "Ostala pernata divljač",
+      "procjena_brojnog_stanja_1_travnja": 222066,
+      "odstrel": 69684
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Jelen obični",
+      "procjena_brojnog_stanja_1_travnja": 14957,
+      "odstrel": 2944
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Jelen lopatar",
+      "procjena_brojnog_stanja_1_travnja": 1741,
+      "odstrel": 971
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Jelen aksis",
+      "procjena_brojnog_stanja_1_travnja": 99,
+      "odstrel": 18
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Srna",
+      "procjena_brojnog_stanja_1_travnja": 68478,
+      "odstrel": 16160
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Divokoza",
+      "procjena_brojnog_stanja_1_travnja": 1177,
+      "odstrel": 87
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Muflon",
+      "procjena_brojnog_stanja_1_travnja": 2132,
+      "odstrel": 497
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Medvjed",
+      "procjena_brojnog_stanja_1_travnja": 1000,
+      "odstrel": 98
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Divlja svinja",
+      "procjena_brojnog_stanja_1_travnja": 29807,
+      "odstrel": 29599
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Zec",
+      "procjena_brojnog_stanja_1_travnja": 66133,
+      "odstrel": 23960
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Lisica",
+      "procjena_brojnog_stanja_1_travnja": 13037,
+      "odstrel": 10923
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Ostala dlakava divljač",
+      "procjena_brojnog_stanja_1_travnja": 36937,
+      "odstrel": 12624
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Fazan",
+      "procjena_brojnog_stanja_1_travnja": 76288,
+      "odstrel": 56234
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Močvarice, razne",
+      "procjena_brojnog_stanja_1_travnja": 36917,
+      "odstrel": 50426
+    },
+    {
+      "godina": 2018,
+      "vrsta_divljaci": "Ostala pernata divljač",
+      "procjena_brojnog_stanja_1_travnja": 177576,
+      "odstrel": 237622
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Jelen obični",
+      "procjena_brojnog_stanja_1_travnja": 17000,
+      "odstrel": 3350
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Jelen lopatar",
+      "procjena_brojnog_stanja_1_travnja": 2000,
+      "odstrel": 880
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Jelen aksis",
+      "procjena_brojnog_stanja_1_travnja": 75,
+      "odstrel": 15
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Srna",
+      "procjena_brojnog_stanja_1_travnja": 66000,
+      "odstrel": 15400
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Divokoza",
+      "procjena_brojnog_stanja_1_travnja": 1100,
+      "odstrel": 120
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Muflon",
+      "procjena_brojnog_stanja_1_travnja": 2130,
+      "odstrel": 515
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Medvjed",
+      "procjena_brojnog_stanja_1_travnja": 1000,
+      "odstrel": 120
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Divlja svinja",
+      "procjena_brojnog_stanja_1_travnja": 30000,
+      "odstrel": 30000
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Zec",
+      "procjena_brojnog_stanja_1_travnja": 73000,
+      "odstrel": 22000
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Lisica",
+      "procjena_brojnog_stanja_1_travnja": 14000,
+      "odstrel": 13000
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Ostala dlakava divljač",
+      "procjena_brojnog_stanja_1_travnja": 45000,
+      "odstrel": 14000
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Fazan",
+      "procjena_brojnog_stanja_1_travnja": 128000,
+      "odstrel": 68000
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Močvarice, razne",
+      "procjena_brojnog_stanja_1_travnja": 53000,
+      "odstrel": 25000
+    },
+    {
+      "godina": 2017,
+      "vrsta_divljaci": "Ostala pernata divljač",
+      "procjena_brojnog_stanja_1_travnja": 170000,
+      "odstrel": 110000
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Jelen obični",
+      "procjena_brojnog_stanja_1_travnja": 15730,
+      "odstrel": 3305
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Jelen lopatar",
+      "procjena_brojnog_stanja_1_travnja": 2631,
+      "odstrel": 934
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Jelen aksis",
+      "procjena_brojnog_stanja_1_travnja": 69,
+      "odstrel": 11
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Srna",
+      "procjena_brojnog_stanja_1_travnja": 69892,
+      "odstrel": 15023
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Divokoza",
+      "procjena_brojnog_stanja_1_travnja": 1096,
+      "odstrel": 84
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Muflon",
+      "procjena_brojnog_stanja_1_travnja": 2201,
+      "odstrel": 786
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Medvjed",
+      "procjena_brojnog_stanja_1_travnja": 1000,
+      "odstrel": 120
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Divlja svinja",
+      "procjena_brojnog_stanja_1_travnja": 30234,
+      "odstrel": 29563
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Zec",
+      "procjena_brojnog_stanja_1_travnja": 74943,
+      "odstrel": 24225
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Lisica",
+      "procjena_brojnog_stanja_1_travnja": 15531,
+      "odstrel": 18248
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Ostala dlakava divljač",
+      "procjena_brojnog_stanja_1_travnja": 45321,
+      "odstrel": 14254
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Fazan",
+      "procjena_brojnog_stanja_1_travnja": 129369,
+      "odstrel": 69221
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Močvarice, razne",
+      "procjena_brojnog_stanja_1_travnja": 53564,
+      "odstrel": 25781
+    },
+    {
+      "godina": 2016,
+      "vrsta_divljaci": "Ostala pernata divljač",
+      "procjena_brojnog_stanja_1_travnja": 173159,
+      "odstrel": 110264
+    }
+  ],
+  "meta": {
+    "title": "Odstrel i procjena brojnog stanja divljači u Hrvatskoj (2016.–2025.) - Free Download",
+    "description": "Procijenjeno brojno stanje divljači na dan 1. travnja i broj odstrijeljenih grla po vrstama (jelen obični, srna, divlja svinja, medvjed, zec, fazan, lisica i dr.) u Hrvatskoj po godinama (DZS, Lovstvo). Contains 140 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Odstrel i procjena brojnog stanja divljači u Hrvatskoj (2016.–2025.) | ListBase",
+    "seo_description": "Download Odstrel i procjena brojnog stanja divljači u Hrvatskoj (2016.–2025.) — 140 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 140 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://podaci.dzs.hr/"
+    ]
+  }
+}
