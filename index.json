@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-26T02:16:37.130Z",
-  "total_datasets": 528,
-  "total_records": 834375,
+  "generated": "2026-11-26T02:16:46.237Z",
+  "total_datasets": 529,
+  "total_records": 834397,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -3730,6 +3730,36 @@
         "xlsx": {
           "name": "hr-termalna-ljecilista_HR.xlsx",
           "size": 7410
+        }
+      }
+    },
+    {
+      "id": "hr-umrli-prema-mjestu-smrti-po-zupanijama-2024",
+      "name": "Umrli prema mjestu smrti po županijama (2024.)",
+      "category": "health",
+      "record_count": 22,
+      "columns": [
+        "prostorna_jedinica",
+        "umrli_ukupno",
+        "u_zdravstvenoj_ustanovi",
+        "u_ustanovi_za_smjestaj",
+        "u_stanu",
+        "na_drugom_mjestu",
+        "lijecenih_od_bolesti",
+        "nelijecenih_od_bolesti",
+        "udio_u_zdravstvenoj_ustanovi_pct"
+      ],
+      "source": "https://podaci.dzs.hr/",
+      "updated": "2026-11",
+      "size": 10106,
+      "files": {
+        "csv": {
+          "name": "hr-umrli-prema-mjestu-smrti-po-zupanijama-2024_HR.csv",
+          "size": 1929
+        },
+        "xlsx": {
+          "name": "hr-umrli-prema-mjestu-smrti-po-zupanijama-2024_HR.xlsx",
+          "size": 8241
         }
       }
     },

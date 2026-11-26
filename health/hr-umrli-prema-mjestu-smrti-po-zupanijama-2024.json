@@ -1,0 +1,313 @@
+{
+  "id": "hr-umrli-prema-mjestu-smrti-po-zupanijama-2024",
+  "name": "Umrli prema mjestu smrti po županijama (2024.)",
+  "title": "Umrli prema mjestu smrti po županijama (2024.)",
+  "description": "Broj umrlih u 2024. po županijama prema mjestu smrti (zdravstvena ustanova, ustanova za smještaj, stan, drugo mjesto), broj umrlih koji su bili liječeni / nisu bili liječeni od bolesti od koje su umrli te udio umrlih u zdravstvenoj ustanovi (DZS, Vitalna statistika).",
+  "category": "health",
+  "source": "https://podaci.dzs.hr/",
+  "source_url": "https://podaci.dzs.hr/",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "prostorna_jedinica",
+      "label": "Prostorna Jedinica",
+      "type": "string"
+    },
+    {
+      "key": "umrli_ukupno",
+      "label": "Umrli Ukupno",
+      "type": "number"
+    },
+    {
+      "key": "u_zdravstvenoj_ustanovi",
+      "label": "U Zdravstvenoj Ustanovi",
+      "type": "number"
+    },
+    {
+      "key": "u_ustanovi_za_smjestaj",
+      "label": "U Ustanovi Za Smjestaj",
+      "type": "number"
+    },
+    {
+      "key": "u_stanu",
+      "label": "U Stanu",
+      "type": "number"
+    },
+    {
+      "key": "na_drugom_mjestu",
+      "label": "Na Drugom Mjestu",
+      "type": "number"
+    },
+    {
+      "key": "lijecenih_od_bolesti",
+      "label": "Lijecenih Od Bolesti",
+      "type": "number"
+    },
+    {
+      "key": "nelijecenih_od_bolesti",
+      "label": "Nelijecenih Od Bolesti",
+      "type": "number"
+    },
+    {
+      "key": "udio_u_zdravstvenoj_ustanovi_pct",
+      "label": "Udio U Zdravstvenoj Ustanovi Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "prostorna_jedinica": "Republika Hrvatska",
+      "umrli_ukupno": 51080,
+      "u_zdravstvenoj_ustanovi": 25491,
+      "u_ustanovi_za_smjestaj": 9884,
+      "u_stanu": 14149,
+      "na_drugom_mjestu": 1556,
+      "lijecenih_od_bolesti": 49439,
+      "nelijecenih_od_bolesti": 861,
+      "udio_u_zdravstvenoj_ustanovi_pct": 49.9
+    },
+    {
+      "prostorna_jedinica": "Zagrebačka županija",
+      "umrli_ukupno": 3603,
+      "u_zdravstvenoj_ustanovi": 1693,
+      "u_ustanovi_za_smjestaj": 702,
+      "u_stanu": 1091,
+      "na_drugom_mjestu": 117,
+      "lijecenih_od_bolesti": 3446,
+      "nelijecenih_od_bolesti": 47,
+      "udio_u_zdravstvenoj_ustanovi_pct": 47
+    },
+    {
+      "prostorna_jedinica": "Krapinsko-zagorska županija",
+      "umrli_ukupno": 1685,
+      "u_zdravstvenoj_ustanovi": 878,
+      "u_ustanovi_za_smjestaj": 280,
+      "u_stanu": 470,
+      "na_drugom_mjestu": 57,
+      "lijecenih_od_bolesti": 1612,
+      "nelijecenih_od_bolesti": 24,
+      "udio_u_zdravstvenoj_ustanovi_pct": 52.1
+    },
+    {
+      "prostorna_jedinica": "Sisačko-moslavačka županija",
+      "umrli_ukupno": 2266,
+      "u_zdravstvenoj_ustanovi": 1346,
+      "u_ustanovi_za_smjestaj": 309,
+      "u_stanu": 541,
+      "na_drugom_mjestu": 70,
+      "lijecenih_od_bolesti": 2200,
+      "nelijecenih_od_bolesti": 42,
+      "udio_u_zdravstvenoj_ustanovi_pct": 59.4
+    },
+    {
+      "prostorna_jedinica": "Karlovačka županija",
+      "umrli_ukupno": 1695,
+      "u_zdravstvenoj_ustanovi": 997,
+      "u_ustanovi_za_smjestaj": 280,
+      "u_stanu": 383,
+      "na_drugom_mjestu": 35,
+      "lijecenih_od_bolesti": 1628,
+      "nelijecenih_od_bolesti": 38,
+      "udio_u_zdravstvenoj_ustanovi_pct": 58.8
+    },
+    {
+      "prostorna_jedinica": "Varaždinska županija",
+      "umrli_ukupno": 2131,
+      "u_zdravstvenoj_ustanovi": 1424,
+      "u_ustanovi_za_smjestaj": 241,
+      "u_stanu": 415,
+      "na_drugom_mjestu": 51,
+      "lijecenih_od_bolesti": 2078,
+      "nelijecenih_od_bolesti": 35,
+      "udio_u_zdravstvenoj_ustanovi_pct": 66.8
+    },
+    {
+      "prostorna_jedinica": "Koprivničko-križevačka županija",
+      "umrli_ukupno": 1528,
+      "u_zdravstvenoj_ustanovi": 643,
+      "u_ustanovi_za_smjestaj": 415,
+      "u_stanu": 432,
+      "na_drugom_mjestu": 38,
+      "lijecenih_od_bolesti": 1477,
+      "nelijecenih_od_bolesti": 47,
+      "udio_u_zdravstvenoj_ustanovi_pct": 42.1
+    },
+    {
+      "prostorna_jedinica": "Bjelovarsko-bilogorska županija",
+      "umrli_ukupno": 1549,
+      "u_zdravstvenoj_ustanovi": 754,
+      "u_ustanovi_za_smjestaj": 322,
+      "u_stanu": 419,
+      "na_drugom_mjestu": 54,
+      "lijecenih_od_bolesti": 1496,
+      "nelijecenih_od_bolesti": 42,
+      "udio_u_zdravstvenoj_ustanovi_pct": 48.7
+    },
+    {
+      "prostorna_jedinica": "Primorsko-goranska županija",
+      "umrli_ukupno": 3758,
+      "u_zdravstvenoj_ustanovi": 1594,
+      "u_ustanovi_za_smjestaj": 846,
+      "u_stanu": 1212,
+      "na_drugom_mjestu": 106,
+      "lijecenih_od_bolesti": 3671,
+      "nelijecenih_od_bolesti": 49,
+      "udio_u_zdravstvenoj_ustanovi_pct": 42.4
+    },
+    {
+      "prostorna_jedinica": "Ličko-senjska županija",
+      "umrli_ukupno": 785,
+      "u_zdravstvenoj_ustanovi": 430,
+      "u_ustanovi_za_smjestaj": 134,
+      "u_stanu": 202,
+      "na_drugom_mjestu": 19,
+      "lijecenih_od_bolesti": 753,
+      "nelijecenih_od_bolesti": 22,
+      "udio_u_zdravstvenoj_ustanovi_pct": 54.8
+    },
+    {
+      "prostorna_jedinica": "Virovitičko-podravska županija",
+      "umrli_ukupno": 1118,
+      "u_zdravstvenoj_ustanovi": 597,
+      "u_ustanovi_za_smjestaj": 248,
+      "u_stanu": 248,
+      "na_drugom_mjestu": 25,
+      "lijecenih_od_bolesti": 1094,
+      "nelijecenih_od_bolesti": 18,
+      "udio_u_zdravstvenoj_ustanovi_pct": 53.4
+    },
+    {
+      "prostorna_jedinica": "Požeško-slavonska županija",
+      "umrli_ukupno": 953,
+      "u_zdravstvenoj_ustanovi": 543,
+      "u_ustanovi_za_smjestaj": 186,
+      "u_stanu": 206,
+      "na_drugom_mjestu": 18,
+      "lijecenih_od_bolesti": 935,
+      "nelijecenih_od_bolesti": 12,
+      "udio_u_zdravstvenoj_ustanovi_pct": 57
+    },
+    {
+      "prostorna_jedinica": "Brodsko-posavska županija",
+      "umrli_ukupno": 1871,
+      "u_zdravstvenoj_ustanovi": 992,
+      "u_ustanovi_za_smjestaj": 368,
+      "u_stanu": 472,
+      "na_drugom_mjestu": 39,
+      "lijecenih_od_bolesti": 1831,
+      "nelijecenih_od_bolesti": 30,
+      "udio_u_zdravstvenoj_ustanovi_pct": 53
+    },
+    {
+      "prostorna_jedinica": "Zadarska županija",
+      "umrli_ukupno": 2121,
+      "u_zdravstvenoj_ustanovi": 1000,
+      "u_ustanovi_za_smjestaj": 418,
+      "u_stanu": 630,
+      "na_drugom_mjestu": 73,
+      "lijecenih_od_bolesti": 2063,
+      "nelijecenih_od_bolesti": 49,
+      "udio_u_zdravstvenoj_ustanovi_pct": 47.1
+    },
+    {
+      "prostorna_jedinica": "Osječko-baranjska županija",
+      "umrli_ukupno": 3797,
+      "u_zdravstvenoj_ustanovi": 1854,
+      "u_ustanovi_za_smjestaj": 699,
+      "u_stanu": 1126,
+      "na_drugom_mjestu": 118,
+      "lijecenih_od_bolesti": 3686,
+      "nelijecenih_od_bolesti": 84,
+      "udio_u_zdravstvenoj_ustanovi_pct": 48.8
+    },
+    {
+      "prostorna_jedinica": "Šibensko-kninska županija",
+      "umrli_ukupno": 1437,
+      "u_zdravstvenoj_ustanovi": 860,
+      "u_ustanovi_za_smjestaj": 184,
+      "u_stanu": 345,
+      "na_drugom_mjestu": 48,
+      "lijecenih_od_bolesti": 1382,
+      "nelijecenih_od_bolesti": 39,
+      "udio_u_zdravstvenoj_ustanovi_pct": 59.8
+    },
+    {
+      "prostorna_jedinica": "Vukovarsko-srijemska županija",
+      "umrli_ukupno": 2210,
+      "u_zdravstvenoj_ustanovi": 1053,
+      "u_ustanovi_za_smjestaj": 485,
+      "u_stanu": 622,
+      "na_drugom_mjestu": 50,
+      "lijecenih_od_bolesti": 2154,
+      "nelijecenih_od_bolesti": 37,
+      "udio_u_zdravstvenoj_ustanovi_pct": 47.6
+    },
+    {
+      "prostorna_jedinica": "Splitsko-dalmatinska županija",
+      "umrli_ukupno": 4921,
+      "u_zdravstvenoj_ustanovi": 2226,
+      "u_ustanovi_za_smjestaj": 731,
+      "u_stanu": 1792,
+      "na_drugom_mjestu": 172,
+      "lijecenih_od_bolesti": 4749,
+      "nelijecenih_od_bolesti": 125,
+      "udio_u_zdravstvenoj_ustanovi_pct": 45.2
+    },
+    {
+      "prostorna_jedinica": "Istarska županija",
+      "umrli_ukupno": 2510,
+      "u_zdravstvenoj_ustanovi": 1217,
+      "u_ustanovi_za_smjestaj": 488,
+      "u_stanu": 726,
+      "na_drugom_mjestu": 79,
+      "lijecenih_od_bolesti": 2445,
+      "nelijecenih_od_bolesti": 31,
+      "udio_u_zdravstvenoj_ustanovi_pct": 48.5
+    },
+    {
+      "prostorna_jedinica": "Dubrovačko-neretvanska županija",
+      "umrli_ukupno": 1316,
+      "u_zdravstvenoj_ustanovi": 576,
+      "u_ustanovi_za_smjestaj": 167,
+      "u_stanu": 526,
+      "na_drugom_mjestu": 47,
+      "lijecenih_od_bolesti": 1266,
+      "nelijecenih_od_bolesti": 33,
+      "udio_u_zdravstvenoj_ustanovi_pct": 43.8
+    },
+    {
+      "prostorna_jedinica": "Međimurska županija",
+      "umrli_ukupno": 1191,
+      "u_zdravstvenoj_ustanovi": 571,
+      "u_ustanovi_za_smjestaj": 305,
+      "u_stanu": 300,
+      "na_drugom_mjestu": 15,
+      "lijecenih_od_bolesti": 1173,
+      "nelijecenih_od_bolesti": 12,
+      "udio_u_zdravstvenoj_ustanovi_pct": 47.9
+    },
+    {
+      "prostorna_jedinica": "Grad Zagreb",
+      "umrli_ukupno": 8635,
+      "u_zdravstvenoj_ustanovi": 4243,
+      "u_ustanovi_za_smjestaj": 2076,
+      "u_stanu": 1991,
+      "na_drugom_mjestu": 325,
+      "lijecenih_od_bolesti": 8300,
+      "nelijecenih_od_bolesti": 45,
+      "udio_u_zdravstvenoj_ustanovi_pct": 49.1
+    }
+  ],
+  "meta": {
+    "title": "Umrli prema mjestu smrti po županijama (2024.) - Free Download",
+    "description": "Broj umrlih u 2024. po županijama prema mjestu smrti (zdravstvena ustanova, ustanova za smještaj, stan, drugo mjesto), broj umrlih koji su bili liječeni / nisu bili liječeni od bolesti od koje su umrli te udio umrlih u zdravstvenoj ustanovi (DZS, Vitalna statistika). Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Umrli prema mjestu smrti po županijama (2024.) | ListBase",
+    "seo_description": "Download Umrli prema mjestu smrti po županijama (2024.) — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://podaci.dzs.hr/"
+    ]
+  }
+}
