@@ -1,0 +1,128 @@
+{
+  "id": "hr-izdaci-za-istrazivanje-i-razvoj-po-podrucjima-znanosti",
+  "name": "Izdaci za istraživanje i razvoj po područjima znanosti (2023.–2024.)",
+  "title": "Izdaci za istraživanje i razvoj po područjima znanosti (2023.–2024.)",
+  "description": "Bruto domaći izdaci za istraživanje i razvoj u Hrvatskoj u tisućama eura po područjima znanosti (prirodne, tehničke, biomedicina i zdravstvo, biotehničke, društvene, humanističke, umjetničko i interdisciplinarna) za 2023. i 2024. te po sektorima za 2024. (DZS). Prazna vrijednost = nije iskazano.",
+  "category": "science",
+  "source": "https://podaci.dzs.hr/",
+  "source_url": "https://podaci.dzs.hr/",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "podrucje_znanosti",
+      "label": "Podrucje Znanosti",
+      "type": "string"
+    },
+    {
+      "key": "ukupno_2023_tis_eur",
+      "label": "Ukupno 2023 Tis Eur",
+      "type": "number"
+    },
+    {
+      "key": "ukupno_2024_tis_eur",
+      "label": "Ukupno 2024 Tis Eur",
+      "type": "number"
+    },
+    {
+      "key": "poslovni_sektor_2024_tis_eur",
+      "label": "Poslovni Sektor 2024 Tis Eur",
+      "type": "number"
+    },
+    {
+      "key": "drzavni_i_neprofitni_sektor_2024_tis_eur",
+      "label": "Drzavni I Neprofitni Sektor 2024 Tis Eur",
+      "type": "number"
+    },
+    {
+      "key": "visoko_obrazovanje_2024_tis_eur",
+      "label": "Visoko Obrazovanje 2024 Tis Eur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "podrucje_znanosti": "Ukupno",
+      "ukupno_2023_tis_eur": 1081918,
+      "ukupno_2024_tis_eur": 1208810,
+      "poslovni_sektor_2024_tis_eur": 685910,
+      "drzavni_i_neprofitni_sektor_2024_tis_eur": 207391,
+      "visoko_obrazovanje_2024_tis_eur": 315510
+    },
+    {
+      "podrucje_znanosti": "Prirodne znanosti",
+      "ukupno_2023_tis_eur": 122768,
+      "ukupno_2024_tis_eur": 109270,
+      "poslovni_sektor_2024_tis_eur": 8528,
+      "drzavni_i_neprofitni_sektor_2024_tis_eur": 81455,
+      "visoko_obrazovanje_2024_tis_eur": 19287
+    },
+    {
+      "podrucje_znanosti": "Tehničke znanosti",
+      "ukupno_2023_tis_eur": 523029,
+      "ukupno_2024_tis_eur": 442041,
+      "poslovni_sektor_2024_tis_eur": 336343,
+      "drzavni_i_neprofitni_sektor_2024_tis_eur": 195,
+      "visoko_obrazovanje_2024_tis_eur": 105502
+    },
+    {
+      "podrucje_znanosti": "Biomedicina i zdravstvo",
+      "ukupno_2023_tis_eur": 183622,
+      "ukupno_2024_tis_eur": 204781,
+      "poslovni_sektor_2024_tis_eur": 82464,
+      "drzavni_i_neprofitni_sektor_2024_tis_eur": 56341,
+      "visoko_obrazovanje_2024_tis_eur": 65977
+    },
+    {
+      "podrucje_znanosti": "Biotehničke znanosti",
+      "ukupno_2023_tis_eur": 59056,
+      "ukupno_2024_tis_eur": 55244,
+      "poslovni_sektor_2024_tis_eur": 22553,
+      "drzavni_i_neprofitni_sektor_2024_tis_eur": 12577,
+      "visoko_obrazovanje_2024_tis_eur": 20114
+    },
+    {
+      "podrucje_znanosti": "Društvene znanosti",
+      "ukupno_2023_tis_eur": 131967,
+      "ukupno_2024_tis_eur": 153682,
+      "poslovni_sektor_2024_tis_eur": 57453,
+      "drzavni_i_neprofitni_sektor_2024_tis_eur": 34685,
+      "visoko_obrazovanje_2024_tis_eur": 61544
+    },
+    {
+      "podrucje_znanosti": "Humanističke znanosti",
+      "ukupno_2023_tis_eur": 50675,
+      "ukupno_2024_tis_eur": 57550,
+      "poslovni_sektor_2024_tis_eur": 675,
+      "drzavni_i_neprofitni_sektor_2024_tis_eur": 22137,
+      "visoko_obrazovanje_2024_tis_eur": 34737
+    },
+    {
+      "podrucje_znanosti": "Umjetničko područje",
+      "ukupno_2023_tis_eur": 5207,
+      "ukupno_2024_tis_eur": 183413,
+      "poslovni_sektor_2024_tis_eur": 177583,
+      "drzavni_i_neprofitni_sektor_2024_tis_eur": "",
+      "visoko_obrazovanje_2024_tis_eur": 5830
+    },
+    {
+      "podrucje_znanosti": "Interdisciplinarna područja znanosti",
+      "ukupno_2023_tis_eur": 5594,
+      "ukupno_2024_tis_eur": 2829,
+      "poslovni_sektor_2024_tis_eur": 312,
+      "drzavni_i_neprofitni_sektor_2024_tis_eur": "",
+      "visoko_obrazovanje_2024_tis_eur": 2518
+    }
+  ],
+  "meta": {
+    "title": "Izdaci za istraživanje i razvoj po područjima znanosti (2023.–2024.) - Free Download",
+    "description": "Bruto domaći izdaci za istraživanje i razvoj u Hrvatskoj u tisućama eura po područjima znanosti (prirodne, tehničke, biomedicina i zdravstvo, biotehničke, društvene, humanističke, umjetničko i interdisciplinarna) za 2023. i 2024. te po sektorima za 2024. (DZS). Prazna vrijednost = nije iskazano. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Izdaci za istraživanje i razvoj po područjima znanosti (2023.–2024.) | ListBase",
+    "seo_description": "Download Izdaci za istraživanje i razvoj po područjima znanosti (2023.–2024.) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://podaci.dzs.hr/"
+    ]
+  }
+}

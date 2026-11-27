@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-26T02:16:46.237Z",
-  "total_datasets": 529,
-  "total_records": 834397,
+  "generated": "2026-11-27T02:27:24.079Z",
+  "total_datasets": 530,
+  "total_records": 834406,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -11926,6 +11926,33 @@
         "xlsx": {
           "name": "hr-istrazivaci-po-podrucjima-znanosti_HR.xlsx",
           "size": 9950
+        }
+      }
+    },
+    {
+      "id": "hr-izdaci-za-istrazivanje-i-razvoj-po-podrucjima-znanosti",
+      "name": "Izdaci za istraživanje i razvoj po područjima znanosti (2023.–2024.)",
+      "category": "science",
+      "record_count": 9,
+      "columns": [
+        "podrucje_znanosti",
+        "ukupno_2023_tis_eur",
+        "ukupno_2024_tis_eur",
+        "poslovni_sektor_2024_tis_eur",
+        "drzavni_i_neprofitni_sektor_2024_tis_eur",
+        "visoko_obrazovanje_2024_tis_eur"
+      ],
+      "source": "https://podaci.dzs.hr/",
+      "updated": "2026-11",
+      "size": 5023,
+      "files": {
+        "csv": {
+          "name": "hr-izdaci-za-istrazivanje-i-razvoj-po-podrucjima-znanosti_HR.csv",
+          "size": 742
+        },
+        "xlsx": {
+          "name": "hr-izdaci-za-istrazivanje-i-razvoj-po-podrucjima-znanosti_HR.xlsx",
+          "size": 7286
         }
       }
     },
