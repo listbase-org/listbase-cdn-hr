@@ -1,8 +1,8 @@
 {
   "lang": "hr",
-  "generated": "2026-11-27T02:27:24.079Z",
-  "total_datasets": 530,
-  "total_records": 834406,
+  "generated": "2026-11-27T02:27:33.427Z",
+  "total_datasets": 531,
+  "total_records": 834962,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -12247,6 +12247,34 @@
         "xlsx": {
           "name": "hr-prirodno-kretanje-stanovnistva_HR.xlsx",
           "size": 10822
+        }
+      }
+    },
+    {
+      "id": "hr-procjena-stanovnistva-gradovi-opcine-2024",
+      "name": "Procjena stanovništva po gradovima i općinama (2014., 2019. i 2024.)",
+      "category": "society",
+      "record_count": 556,
+      "columns": [
+        "grad_opcina",
+        "zupanija",
+        "stanovnistvo_2014",
+        "stanovnistvo_2019",
+        "stanovnistvo_2024",
+        "muskarci_2024",
+        "zene_2024"
+      ],
+      "source": "https://podaci.dzs.hr/",
+      "updated": "2026-11",
+      "size": 139633,
+      "files": {
+        "csv": {
+          "name": "hr-procjena-stanovnistva-gradovi-opcine-2024_HR.csv",
+          "size": 42496
+        },
+        "xlsx": {
+          "name": "hr-procjena-stanovnistva-gradovi-opcine-2024_HR.xlsx",
+          "size": 31197
         }
       }
     },

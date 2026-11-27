@@ -1,0 +1,5065 @@
+{
+  "id": "hr-procjena-stanovnistva-gradovi-opcine-2024",
+  "name": "Procjena stanovništva po gradovima i općinama (2014., 2019. i 2024.)",
+  "title": "Procjena stanovništva po gradovima i općinama (2014., 2019. i 2024.)",
+  "description": "Procijenjeni broj stanovnika svih gradova i općina Republike Hrvatske na dan 31. 12. 2014., 2019. i 2024. te broj muškaraca i žena u 2024., s pripadajućom županijom (DZS, procjene stanovništva).",
+  "category": "society",
+  "source": "https://podaci.dzs.hr/",
+  "source_url": "https://podaci.dzs.hr/",
+  "updated": "2026-11",
+  "record_count": 556,
+  "columns": [
+    {
+      "key": "grad_opcina",
+      "label": "Grad Opcina",
+      "type": "string"
+    },
+    {
+      "key": "zupanija",
+      "label": "Zupanija",
+      "type": "string"
+    },
+    {
+      "key": "stanovnistvo_2014",
+      "label": "Stanovnistvo 2014",
+      "type": "number"
+    },
+    {
+      "key": "stanovnistvo_2019",
+      "label": "Stanovnistvo 2019",
+      "type": "number"
+    },
+    {
+      "key": "stanovnistvo_2024",
+      "label": "Stanovnistvo 2024",
+      "type": "number"
+    },
+    {
+      "key": "muskarci_2024",
+      "label": "Muskarci 2024",
+      "type": "number"
+    },
+    {
+      "key": "zene_2024",
+      "label": "Zene 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "grad_opcina": "Bedenica",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 1376,
+      "stanovnistvo_2019": 1277,
+      "stanovnistvo_2024": 1256,
+      "muskarci_2024": 615,
+      "zene_2024": 641
+    },
+    {
+      "grad_opcina": "Bistra",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 6636,
+      "stanovnistvo_2019": 6503,
+      "stanovnistvo_2024": 6560,
+      "muskarci_2024": 3215,
+      "zene_2024": 3345
+    },
+    {
+      "grad_opcina": "Brckovljani",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 6662,
+      "stanovnistvo_2019": 5949,
+      "stanovnistvo_2024": 6149,
+      "muskarci_2024": 3218,
+      "zene_2024": 2931
+    },
+    {
+      "grad_opcina": "Brdovec",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 11265,
+      "stanovnistvo_2019": 10839,
+      "stanovnistvo_2024": 10796,
+      "muskarci_2024": 5286,
+      "zene_2024": 5510
+    },
+    {
+      "grad_opcina": "Dubrava",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 4923,
+      "stanovnistvo_2019": 4600,
+      "stanovnistvo_2024": 4420,
+      "muskarci_2024": 2185,
+      "zene_2024": 2235
+    },
+    {
+      "grad_opcina": "Dubravica",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 1362,
+      "stanovnistvo_2019": 1224,
+      "stanovnistvo_2024": 1174,
+      "muskarci_2024": 591,
+      "zene_2024": 583
+    },
+    {
+      "grad_opcina": "Dugo Selo",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 18077,
+      "stanovnistvo_2019": 17474,
+      "stanovnistvo_2024": 19163,
+      "muskarci_2024": 9404,
+      "zene_2024": 9759
+    },
+    {
+      "grad_opcina": "Farkaševac",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 1819,
+      "stanovnistvo_2019": 1606,
+      "stanovnistvo_2024": 1498,
+      "muskarci_2024": 727,
+      "zene_2024": 771
+    },
+    {
+      "grad_opcina": "Gradec",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 3536,
+      "stanovnistvo_2019": 3278,
+      "stanovnistvo_2024": 3137,
+      "muskarci_2024": 1529,
+      "zene_2024": 1608
+    },
+    {
+      "grad_opcina": "Ivanić-Grad",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 14114,
+      "stanovnistvo_2019": 13268,
+      "stanovnistvo_2024": 13091,
+      "muskarci_2024": 6553,
+      "zene_2024": 6538
+    },
+    {
+      "grad_opcina": "Jakovlje",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 3864,
+      "stanovnistvo_2019": 3796,
+      "stanovnistvo_2024": 3918,
+      "muskarci_2024": 1918,
+      "zene_2024": 2000
+    },
+    {
+      "grad_opcina": "Jastrebarsko",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 15486,
+      "stanovnistvo_2019": 14755,
+      "stanovnistvo_2024": 15076,
+      "muskarci_2024": 7553,
+      "zene_2024": 7523
+    },
+    {
+      "grad_opcina": "Klinča Sela",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 5195,
+      "stanovnistvo_2019": 5038,
+      "stanovnistvo_2024": 5294,
+      "muskarci_2024": 2604,
+      "zene_2024": 2690
+    },
+    {
+      "grad_opcina": "Kloštar Ivanić",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 6035,
+      "stanovnistvo_2019": 5656,
+      "stanovnistvo_2024": 5487,
+      "muskarci_2024": 2748,
+      "zene_2024": 2739
+    },
+    {
+      "grad_opcina": "Krašić",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 2501,
+      "stanovnistvo_2019": 2343,
+      "stanovnistvo_2024": 2194,
+      "muskarci_2024": 1078,
+      "zene_2024": 1116
+    },
+    {
+      "grad_opcina": "Kravarsko",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 1940,
+      "stanovnistvo_2019": 1801,
+      "stanovnistvo_2024": 1830,
+      "muskarci_2024": 935,
+      "zene_2024": 895
+    },
+    {
+      "grad_opcina": "Križ",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 6750,
+      "stanovnistvo_2019": 6194,
+      "stanovnistvo_2024": 6009,
+      "muskarci_2024": 3013,
+      "zene_2024": 2996
+    },
+    {
+      "grad_opcina": "Luka",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 1361,
+      "stanovnistvo_2019": 1289,
+      "stanovnistvo_2024": 1284,
+      "muskarci_2024": 656,
+      "zene_2024": 628
+    },
+    {
+      "grad_opcina": "Marija Gorica",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 2217,
+      "stanovnistvo_2019": 2093,
+      "stanovnistvo_2024": 2129,
+      "muskarci_2024": 1081,
+      "zene_2024": 1048
+    },
+    {
+      "grad_opcina": "Orle",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 1913,
+      "stanovnistvo_2019": 1766,
+      "stanovnistvo_2024": 1823,
+      "muskarci_2024": 926,
+      "zene_2024": 897
+    },
+    {
+      "grad_opcina": "Pisarovina",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 3622,
+      "stanovnistvo_2019": 3523,
+      "stanovnistvo_2024": 3544,
+      "muskarci_2024": 1794,
+      "zene_2024": 1750
+    },
+    {
+      "grad_opcina": "Pokupsko",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 2188,
+      "stanovnistvo_2019": 1942,
+      "stanovnistvo_2024": 1829,
+      "muskarci_2024": 934,
+      "zene_2024": 895
+    },
+    {
+      "grad_opcina": "Preseka",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 1321,
+      "stanovnistvo_2019": 1150,
+      "stanovnistvo_2024": 1051,
+      "muskarci_2024": 559,
+      "zene_2024": 492
+    },
+    {
+      "grad_opcina": "Pušća",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 2728,
+      "stanovnistvo_2019": 2595,
+      "stanovnistvo_2024": 2592,
+      "muskarci_2024": 1270,
+      "zene_2024": 1322
+    },
+    {
+      "grad_opcina": "Rakovec",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 1211,
+      "stanovnistvo_2019": 1168,
+      "stanovnistvo_2024": 1087,
+      "muskarci_2024": 515,
+      "zene_2024": 572
+    },
+    {
+      "grad_opcina": "Rugvica",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 7771,
+      "stanovnistvo_2019": 7122,
+      "stanovnistvo_2024": 7605,
+      "muskarci_2024": 3886,
+      "zene_2024": 3719
+    },
+    {
+      "grad_opcina": "Samobor",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 37483,
+      "stanovnistvo_2019": 37076,
+      "stanovnistvo_2024": 38536,
+      "muskarci_2024": 18841,
+      "zene_2024": 19695
+    },
+    {
+      "grad_opcina": "Stupnik",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 3861,
+      "stanovnistvo_2019": 3842,
+      "stanovnistvo_2024": 4336,
+      "muskarci_2024": 2270,
+      "zene_2024": 2066
+    },
+    {
+      "grad_opcina": "Sveta Nedelja (Zagrebačka županija)",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 18124,
+      "stanovnistvo_2019": 18048,
+      "stanovnistvo_2024": 19779,
+      "muskarci_2024": 10054,
+      "zene_2024": 9725
+    },
+    {
+      "grad_opcina": "Sveti Ivan Zelina",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 15561,
+      "stanovnistvo_2019": 14636,
+      "stanovnistvo_2024": 15144,
+      "muskarci_2024": 7528,
+      "zene_2024": 7616
+    },
+    {
+      "grad_opcina": "Velika Gorica",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 63388,
+      "stanovnistvo_2019": 61001,
+      "stanovnistvo_2024": 63841,
+      "muskarci_2024": 31528,
+      "zene_2024": 32313
+    },
+    {
+      "grad_opcina": "Vrbovec",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 14359,
+      "stanovnistvo_2019": 13300,
+      "stanovnistvo_2024": 13223,
+      "muskarci_2024": 6445,
+      "zene_2024": 6778
+    },
+    {
+      "grad_opcina": "Zaprešić",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 25143,
+      "stanovnistvo_2019": 24392,
+      "stanovnistvo_2024": 24572,
+      "muskarci_2024": 11799,
+      "zene_2024": 12773
+    },
+    {
+      "grad_opcina": "Žumberak",
+      "zupanija": "Zagrebačka županija",
+      "stanovnistvo_2014": 784,
+      "stanovnistvo_2019": 621,
+      "stanovnistvo_2024": 537,
+      "muskarci_2024": 287,
+      "zene_2024": 250
+    },
+    {
+      "grad_opcina": "Bedekovčina",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 7841,
+      "stanovnistvo_2019": 7459,
+      "stanovnistvo_2024": 7101,
+      "muskarci_2024": 3488,
+      "zene_2024": 3613
+    },
+    {
+      "grad_opcina": "Budinščina",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 2391,
+      "stanovnistvo_2019": 2234,
+      "stanovnistvo_2024": 2108,
+      "muskarci_2024": 1091,
+      "zene_2024": 1017
+    },
+    {
+      "grad_opcina": "Desinić",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 2680,
+      "stanovnistvo_2019": 2583,
+      "stanovnistvo_2024": 2458,
+      "muskarci_2024": 1251,
+      "zene_2024": 1207
+    },
+    {
+      "grad_opcina": "Donja Stubica",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 5497,
+      "stanovnistvo_2019": 5240,
+      "stanovnistvo_2024": 5206,
+      "muskarci_2024": 2546,
+      "zene_2024": 2660
+    },
+    {
+      "grad_opcina": "Đurmanec",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 4109,
+      "stanovnistvo_2019": 3842,
+      "stanovnistvo_2024": 3684,
+      "muskarci_2024": 1892,
+      "zene_2024": 1792
+    },
+    {
+      "grad_opcina": "Gornja Stubica",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 5112,
+      "stanovnistvo_2019": 4711,
+      "stanovnistvo_2024": 4474,
+      "muskarci_2024": 2284,
+      "zene_2024": 2190
+    },
+    {
+      "grad_opcina": "Hrašćina",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 1513,
+      "stanovnistvo_2019": 1432,
+      "stanovnistvo_2024": 1321,
+      "muskarci_2024": 631,
+      "zene_2024": 690
+    },
+    {
+      "grad_opcina": "Hum na Sutli",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 4802,
+      "stanovnistvo_2019": 4589,
+      "stanovnistvo_2024": 4463,
+      "muskarci_2024": 2184,
+      "zene_2024": 2279
+    },
+    {
+      "grad_opcina": "Jesenje",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 1494,
+      "stanovnistvo_2019": 1393,
+      "stanovnistvo_2024": 1324,
+      "muskarci_2024": 653,
+      "zene_2024": 671
+    },
+    {
+      "grad_opcina": "Klanjec",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 2795,
+      "stanovnistvo_2019": 2609,
+      "stanovnistvo_2024": 2467,
+      "muskarci_2024": 1229,
+      "zene_2024": 1238
+    },
+    {
+      "grad_opcina": "Konjščina",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 3612,
+      "stanovnistvo_2019": 3387,
+      "stanovnistvo_2024": 3206,
+      "muskarci_2024": 1554,
+      "zene_2024": 1652
+    },
+    {
+      "grad_opcina": "Kraljevec na Sutli",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 1652,
+      "stanovnistvo_2019": 1594,
+      "stanovnistvo_2024": 1609,
+      "muskarci_2024": 798,
+      "zene_2024": 811
+    },
+    {
+      "grad_opcina": "Krapina",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 12294,
+      "stanovnistvo_2019": 11648,
+      "stanovnistvo_2024": 11621,
+      "muskarci_2024": 5735,
+      "zene_2024": 5886
+    },
+    {
+      "grad_opcina": "Krapinske Toplice",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 5179,
+      "stanovnistvo_2019": 4874,
+      "stanovnistvo_2024": 4781,
+      "muskarci_2024": 2359,
+      "zene_2024": 2422
+    },
+    {
+      "grad_opcina": "Kumrovec",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 1512,
+      "stanovnistvo_2019": 1436,
+      "stanovnistvo_2024": 1362,
+      "muskarci_2024": 682,
+      "zene_2024": 680
+    },
+    {
+      "grad_opcina": "Lobor",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 2771,
+      "stanovnistvo_2019": 2681,
+      "stanovnistvo_2024": 2605,
+      "muskarci_2024": 1270,
+      "zene_2024": 1335
+    },
+    {
+      "grad_opcina": "Mače",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 2501,
+      "stanovnistvo_2019": 2328,
+      "stanovnistvo_2024": 2210,
+      "muskarci_2024": 1107,
+      "zene_2024": 1103
+    },
+    {
+      "grad_opcina": "Marija Bistrica",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 5819,
+      "stanovnistvo_2019": 5531,
+      "stanovnistvo_2024": 5452,
+      "muskarci_2024": 2631,
+      "zene_2024": 2821
+    },
+    {
+      "grad_opcina": "Mihovljan",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 1845,
+      "stanovnistvo_2019": 1715,
+      "stanovnistvo_2024": 1550,
+      "muskarci_2024": 803,
+      "zene_2024": 747
+    },
+    {
+      "grad_opcina": "Novi Golubovec",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 951,
+      "stanovnistvo_2019": 849,
+      "stanovnistvo_2024": 764,
+      "muskarci_2024": 387,
+      "zene_2024": 377
+    },
+    {
+      "grad_opcina": "Oroslavje",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 6086,
+      "stanovnistvo_2019": 5868,
+      "stanovnistvo_2024": 5925,
+      "muskarci_2024": 2857,
+      "zene_2024": 3068
+    },
+    {
+      "grad_opcina": "Petrovsko",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 2524,
+      "stanovnistvo_2019": 2309,
+      "stanovnistvo_2024": 2193,
+      "muskarci_2024": 1109,
+      "zene_2024": 1084
+    },
+    {
+      "grad_opcina": "Pregrada",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 6393,
+      "stanovnistvo_2019": 6022,
+      "stanovnistvo_2024": 5893,
+      "muskarci_2024": 2926,
+      "zene_2024": 2967
+    },
+    {
+      "grad_opcina": "Radoboj",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 3252,
+      "stanovnistvo_2019": 3024,
+      "stanovnistvo_2024": 2954,
+      "muskarci_2024": 1442,
+      "zene_2024": 1512
+    },
+    {
+      "grad_opcina": "Stubičke Toplice",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 2696,
+      "stanovnistvo_2019": 2636,
+      "stanovnistvo_2024": 2920,
+      "muskarci_2024": 1422,
+      "zene_2024": 1498
+    },
+    {
+      "grad_opcina": "Sveti Križ Začretje",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 6040,
+      "stanovnistvo_2019": 5795,
+      "stanovnistvo_2024": 5642,
+      "muskarci_2024": 2807,
+      "zene_2024": 2835
+    },
+    {
+      "grad_opcina": "Tuhelj",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 2072,
+      "stanovnistvo_2019": 2070,
+      "stanovnistvo_2024": 2182,
+      "muskarci_2024": 1097,
+      "zene_2024": 1085
+    },
+    {
+      "grad_opcina": "Veliko Trgovišće",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 4817,
+      "stanovnistvo_2019": 4526,
+      "stanovnistvo_2024": 4439,
+      "muskarci_2024": 2139,
+      "zene_2024": 2300
+    },
+    {
+      "grad_opcina": "Zabok",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 8930,
+      "stanovnistvo_2019": 8672,
+      "stanovnistvo_2024": 8696,
+      "muskarci_2024": 4213,
+      "zene_2024": 4483
+    },
+    {
+      "grad_opcina": "Zagorska Sela",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 960,
+      "stanovnistvo_2019": 925,
+      "stanovnistvo_2024": 888,
+      "muskarci_2024": 442,
+      "zene_2024": 446
+    },
+    {
+      "grad_opcina": "Zlatar",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 5986,
+      "stanovnistvo_2019": 5619,
+      "stanovnistvo_2024": 5543,
+      "muskarci_2024": 2740,
+      "zene_2024": 2803
+    },
+    {
+      "grad_opcina": "Zlatar Bistrica",
+      "zupanija": "Krapinsko-zagorska županija",
+      "stanovnistvo_2014": 2527,
+      "stanovnistvo_2019": 2365,
+      "stanovnistvo_2024": 2279,
+      "muskarci_2024": 1120,
+      "zene_2024": 1159
+    },
+    {
+      "grad_opcina": "Donji Kukuruzari",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 1431,
+      "stanovnistvo_2019": 1124,
+      "stanovnistvo_2024": 983,
+      "muskarci_2024": 513,
+      "zene_2024": 470
+    },
+    {
+      "grad_opcina": "Dvor",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 4408,
+      "stanovnistvo_2019": 3239,
+      "stanovnistvo_2024": 2664,
+      "muskarci_2024": 1316,
+      "zene_2024": 1348
+    },
+    {
+      "grad_opcina": "Glina",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 8196,
+      "stanovnistvo_2019": 7253,
+      "stanovnistvo_2024": 6742,
+      "muskarci_2024": 3635,
+      "zene_2024": 3107
+    },
+    {
+      "grad_opcina": "Gvozd",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 2471,
+      "stanovnistvo_2019": 2109,
+      "stanovnistvo_2024": 1831,
+      "muskarci_2024": 906,
+      "zene_2024": 925
+    },
+    {
+      "grad_opcina": "Hrvatska Dubica",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 1851,
+      "stanovnistvo_2019": 1532,
+      "stanovnistvo_2024": 1342,
+      "muskarci_2024": 675,
+      "zene_2024": 667
+    },
+    {
+      "grad_opcina": "Hrvatska Kostajnica",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 2389,
+      "stanovnistvo_2019": 1933,
+      "stanovnistvo_2024": 1738,
+      "muskarci_2024": 832,
+      "zene_2024": 906
+    },
+    {
+      "grad_opcina": "Jasenovac",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 1907,
+      "stanovnistvo_2019": 1638,
+      "stanovnistvo_2024": 1491,
+      "muskarci_2024": 750,
+      "zene_2024": 741
+    },
+    {
+      "grad_opcina": "Kutina",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 22020,
+      "stanovnistvo_2019": 19913,
+      "stanovnistvo_2024": 18736,
+      "muskarci_2024": 9076,
+      "zene_2024": 9660
+    },
+    {
+      "grad_opcina": "Lekenik",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 5901,
+      "stanovnistvo_2019": 5443,
+      "stanovnistvo_2024": 5365,
+      "muskarci_2024": 2771,
+      "zene_2024": 2594
+    },
+    {
+      "grad_opcina": "Lipovljani",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 3316,
+      "stanovnistvo_2019": 2933,
+      "stanovnistvo_2024": 2650,
+      "muskarci_2024": 1316,
+      "zene_2024": 1334
+    },
+    {
+      "grad_opcina": "Majur",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 1007,
+      "stanovnistvo_2019": 790,
+      "stanovnistvo_2024": 710,
+      "muskarci_2024": 340,
+      "zene_2024": 370
+    },
+    {
+      "grad_opcina": "Martinska Ves",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 3350,
+      "stanovnistvo_2019": 2949,
+      "stanovnistvo_2024": 2744,
+      "muskarci_2024": 1362,
+      "zene_2024": 1382
+    },
+    {
+      "grad_opcina": "Novska",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 12983,
+      "stanovnistvo_2019": 11456,
+      "stanovnistvo_2024": 10522,
+      "muskarci_2024": 5147,
+      "zene_2024": 5375
+    },
+    {
+      "grad_opcina": "Petrinja",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 23245,
+      "stanovnistvo_2019": 20392,
+      "stanovnistvo_2024": 19431,
+      "muskarci_2024": 9817,
+      "zene_2024": 9614
+    },
+    {
+      "grad_opcina": "Popovača",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 11525,
+      "stanovnistvo_2019": 10465,
+      "stanovnistvo_2024": 10074,
+      "muskarci_2024": 5104,
+      "zene_2024": 4970
+    },
+    {
+      "grad_opcina": "Sisak",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 45481,
+      "stanovnistvo_2019": 41268,
+      "stanovnistvo_2024": 38892,
+      "muskarci_2024": 18614,
+      "zene_2024": 20278
+    },
+    {
+      "grad_opcina": "Sunja",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 5177,
+      "stanovnistvo_2019": 4311,
+      "stanovnistvo_2024": 3732,
+      "muskarci_2024": 1928,
+      "zene_2024": 1804
+    },
+    {
+      "grad_opcina": "Topusko",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 2773,
+      "stanovnistvo_2019": 2322,
+      "stanovnistvo_2024": 2078,
+      "muskarci_2024": 1028,
+      "zene_2024": 1050
+    },
+    {
+      "grad_opcina": "Velika Ludina",
+      "zupanija": "Sisačko-moslavačka županija",
+      "stanovnistvo_2014": 2560,
+      "stanovnistvo_2019": 2310,
+      "stanovnistvo_2024": 2283,
+      "muskarci_2024": 1156,
+      "zene_2024": 1127
+    },
+    {
+      "grad_opcina": "Barilović",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 2895,
+      "stanovnistvo_2019": 2749,
+      "stanovnistvo_2024": 2629,
+      "muskarci_2024": 1330,
+      "zene_2024": 1299
+    },
+    {
+      "grad_opcina": "Bosiljevo",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 1197,
+      "stanovnistvo_2019": 1068,
+      "stanovnistvo_2024": 1009,
+      "muskarci_2024": 528,
+      "zene_2024": 481
+    },
+    {
+      "grad_opcina": "Cetingrad",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 1774,
+      "stanovnistvo_2019": 1543,
+      "stanovnistvo_2024": 1302,
+      "muskarci_2024": 657,
+      "zene_2024": 645
+    },
+    {
+      "grad_opcina": "Draganić",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 2679,
+      "stanovnistvo_2019": 2592,
+      "stanovnistvo_2024": 2602,
+      "muskarci_2024": 1283,
+      "zene_2024": 1319
+    },
+    {
+      "grad_opcina": "Duga Resa",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 10838,
+      "stanovnistvo_2019": 10228,
+      "stanovnistvo_2024": 10166,
+      "muskarci_2024": 5036,
+      "zene_2024": 5130
+    },
+    {
+      "grad_opcina": "Generalski Stol",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 2491,
+      "stanovnistvo_2019": 2254,
+      "stanovnistvo_2024": 2070,
+      "muskarci_2024": 1078,
+      "zene_2024": 992
+    },
+    {
+      "grad_opcina": "Josipdol",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 3636,
+      "stanovnistvo_2019": 3473,
+      "stanovnistvo_2024": 3319,
+      "muskarci_2024": 1685,
+      "zene_2024": 1634
+    },
+    {
+      "grad_opcina": "Kamanje",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 861,
+      "stanovnistvo_2019": 823,
+      "stanovnistvo_2024": 819,
+      "muskarci_2024": 422,
+      "zene_2024": 397
+    },
+    {
+      "grad_opcina": "Karlovac",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 53526,
+      "stanovnistvo_2019": 50345,
+      "stanovnistvo_2024": 48207,
+      "muskarci_2024": 22905,
+      "zene_2024": 25302
+    },
+    {
+      "grad_opcina": "Krnjak",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 1621,
+      "stanovnistvo_2019": 1283,
+      "stanovnistvo_2024": 1275,
+      "muskarci_2024": 644,
+      "zene_2024": 631
+    },
+    {
+      "grad_opcina": "Lasinja",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 1483,
+      "stanovnistvo_2019": 1342,
+      "stanovnistvo_2024": 1251,
+      "muskarci_2024": 606,
+      "zene_2024": 645
+    },
+    {
+      "grad_opcina": "Netretić",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 2707,
+      "stanovnistvo_2019": 2503,
+      "stanovnistvo_2024": 2369,
+      "muskarci_2024": 1219,
+      "zene_2024": 1150
+    },
+    {
+      "grad_opcina": "Ogulin",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 13513,
+      "stanovnistvo_2019": 12594,
+      "stanovnistvo_2024": 12097,
+      "muskarci_2024": 6016,
+      "zene_2024": 6081
+    },
+    {
+      "grad_opcina": "Ozalj",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 6571,
+      "stanovnistvo_2019": 5992,
+      "stanovnistvo_2024": 5786,
+      "muskarci_2024": 2942,
+      "zene_2024": 2844
+    },
+    {
+      "grad_opcina": "Plaški",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 1950,
+      "stanovnistvo_2019": 1673,
+      "stanovnistvo_2024": 1579,
+      "muskarci_2024": 801,
+      "zene_2024": 778
+    },
+    {
+      "grad_opcina": "Rakovica",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 2327,
+      "stanovnistvo_2019": 2267,
+      "stanovnistvo_2024": 2393,
+      "muskarci_2024": 1180,
+      "zene_2024": 1213
+    },
+    {
+      "grad_opcina": "Ribnik",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 438,
+      "stanovnistvo_2019": 380,
+      "stanovnistvo_2024": 320,
+      "muskarci_2024": 172,
+      "zene_2024": 148
+    },
+    {
+      "grad_opcina": "Saborsko",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 562,
+      "stanovnistvo_2019": 494,
+      "stanovnistvo_2024": 422,
+      "muskarci_2024": 226,
+      "zene_2024": 196
+    },
+    {
+      "grad_opcina": "Slunj",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 4690,
+      "stanovnistvo_2019": 4289,
+      "stanovnistvo_2024": 4079,
+      "muskarci_2024": 2098,
+      "zene_2024": 1981
+    },
+    {
+      "grad_opcina": "Tounj",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 1095,
+      "stanovnistvo_2019": 1007,
+      "stanovnistvo_2024": 976,
+      "muskarci_2024": 510,
+      "zene_2024": 466
+    },
+    {
+      "grad_opcina": "Vojnić",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 4178,
+      "stanovnistvo_2019": 3712,
+      "stanovnistvo_2024": 3244,
+      "muskarci_2024": 1635,
+      "zene_2024": 1609
+    },
+    {
+      "grad_opcina": "Žakanje",
+      "zupanija": "Karlovačka županija",
+      "stanovnistvo_2014": 1851,
+      "stanovnistvo_2019": 1735,
+      "stanovnistvo_2024": 1647,
+      "muskarci_2024": 818,
+      "zene_2024": 829
+    },
+    {
+      "grad_opcina": "Bednja",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 3797,
+      "stanovnistvo_2019": 3485,
+      "stanovnistvo_2024": 3338,
+      "muskarci_2024": 1779,
+      "zene_2024": 1559
+    },
+    {
+      "grad_opcina": "Beretinec",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 2146,
+      "stanovnistvo_2019": 2067,
+      "stanovnistvo_2024": 2023,
+      "muskarci_2024": 1019,
+      "zene_2024": 1004
+    },
+    {
+      "grad_opcina": "Breznica",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 2138,
+      "stanovnistvo_2019": 2026,
+      "stanovnistvo_2024": 1915,
+      "muskarci_2024": 968,
+      "zene_2024": 947
+    },
+    {
+      "grad_opcina": "Breznički Hum",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 1299,
+      "stanovnistvo_2019": 1162,
+      "stanovnistvo_2024": 1102,
+      "muskarci_2024": 559,
+      "zene_2024": 543
+    },
+    {
+      "grad_opcina": "Cestica",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 5687,
+      "stanovnistvo_2019": 5505,
+      "stanovnistvo_2024": 5477,
+      "muskarci_2024": 2678,
+      "zene_2024": 2799
+    },
+    {
+      "grad_opcina": "Donja Voća",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 2280,
+      "stanovnistvo_2019": 2076,
+      "stanovnistvo_2024": 1924,
+      "muskarci_2024": 1036,
+      "zene_2024": 888
+    },
+    {
+      "grad_opcina": "Gornji Kneginec",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 5309,
+      "stanovnistvo_2019": 4960,
+      "stanovnistvo_2024": 4940,
+      "muskarci_2024": 2468,
+      "zene_2024": 2472
+    },
+    {
+      "grad_opcina": "Ivanec",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 13430,
+      "stanovnistvo_2019": 12837,
+      "stanovnistvo_2024": 12931,
+      "muskarci_2024": 6356,
+      "zene_2024": 6575
+    },
+    {
+      "grad_opcina": "Jalžabet",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 3441,
+      "stanovnistvo_2019": 3292,
+      "stanovnistvo_2024": 3192,
+      "muskarci_2024": 1571,
+      "zene_2024": 1621
+    },
+    {
+      "grad_opcina": "Klenovnik",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 1976,
+      "stanovnistvo_2019": 1840,
+      "stanovnistvo_2024": 1754,
+      "muskarci_2024": 889,
+      "zene_2024": 865
+    },
+    {
+      "grad_opcina": "Lepoglava",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 7873,
+      "stanovnistvo_2019": 7133,
+      "stanovnistvo_2024": 6742,
+      "muskarci_2024": 3657,
+      "zene_2024": 3085
+    },
+    {
+      "grad_opcina": "Ludbreg",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 9071,
+      "stanovnistvo_2019": 8569,
+      "stanovnistvo_2024": 8529,
+      "muskarci_2024": 4174,
+      "zene_2024": 4355
+    },
+    {
+      "grad_opcina": "Ljubešćica",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 1807,
+      "stanovnistvo_2019": 1735,
+      "stanovnistvo_2024": 1646,
+      "muskarci_2024": 799,
+      "zene_2024": 847
+    },
+    {
+      "grad_opcina": "Mali Bukovec",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 2114,
+      "stanovnistvo_2019": 1903,
+      "stanovnistvo_2024": 1684,
+      "muskarci_2024": 839,
+      "zene_2024": 845
+    },
+    {
+      "grad_opcina": "Martijanec",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 2990,
+      "stanovnistvo_2019": 2718,
+      "stanovnistvo_2024": 2495,
+      "muskarci_2024": 1221,
+      "zene_2024": 1274
+    },
+    {
+      "grad_opcina": "Maruševec",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 6205,
+      "stanovnistvo_2019": 5733,
+      "stanovnistvo_2024": 5567,
+      "muskarci_2024": 2784,
+      "zene_2024": 2783
+    },
+    {
+      "grad_opcina": "Novi Marof",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 12983,
+      "stanovnistvo_2019": 12065,
+      "stanovnistvo_2024": 11476,
+      "muskarci_2024": 5729,
+      "zene_2024": 5747
+    },
+    {
+      "grad_opcina": "Petrijanec",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 4720,
+      "stanovnistvo_2019": 4595,
+      "stanovnistvo_2024": 4577,
+      "muskarci_2024": 2383,
+      "zene_2024": 2194
+    },
+    {
+      "grad_opcina": "Sračinec",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 4902,
+      "stanovnistvo_2019": 4757,
+      "stanovnistvo_2024": 4602,
+      "muskarci_2024": 2288,
+      "zene_2024": 2314
+    },
+    {
+      "grad_opcina": "Sveti Đurđ",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 3687,
+      "stanovnistvo_2019": 3368,
+      "stanovnistvo_2024": 3127,
+      "muskarci_2024": 1576,
+      "zene_2024": 1551
+    },
+    {
+      "grad_opcina": "Sveti Ilija",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 3482,
+      "stanovnistvo_2019": 3275,
+      "stanovnistvo_2024": 3211,
+      "muskarci_2024": 1598,
+      "zene_2024": 1613
+    },
+    {
+      "grad_opcina": "Trnovec Bartolovečki",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 6689,
+      "stanovnistvo_2019": 6281,
+      "stanovnistvo_2024": 6064,
+      "muskarci_2024": 2978,
+      "zene_2024": 3086
+    },
+    {
+      "grad_opcina": "Varaždin",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 45743,
+      "stanovnistvo_2019": 44381,
+      "stanovnistvo_2024": 44520,
+      "muskarci_2024": 21597,
+      "zene_2024": 22923
+    },
+    {
+      "grad_opcina": "Varaždinske Toplice",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 6213,
+      "stanovnistvo_2019": 5652,
+      "stanovnistvo_2024": 5550,
+      "muskarci_2024": 2668,
+      "zene_2024": 2882
+    },
+    {
+      "grad_opcina": "Veliki Bukovec",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 1391,
+      "stanovnistvo_2019": 1350,
+      "stanovnistvo_2024": 1373,
+      "muskarci_2024": 731,
+      "zene_2024": 642
+    },
+    {
+      "grad_opcina": "Vidovec",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 5301,
+      "stanovnistvo_2019": 5016,
+      "stanovnistvo_2024": 4823,
+      "muskarci_2024": 2416,
+      "zene_2024": 2407
+    },
+    {
+      "grad_opcina": "Vinica",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 3290,
+      "stanovnistvo_2019": 3027,
+      "stanovnistvo_2024": 2990,
+      "muskarci_2024": 1479,
+      "zene_2024": 1511
+    },
+    {
+      "grad_opcina": "Visoko",
+      "zupanija": "Varaždinska županija",
+      "stanovnistvo_2014": 1490,
+      "stanovnistvo_2019": 1362,
+      "stanovnistvo_2024": 1288,
+      "muskarci_2024": 620,
+      "zene_2024": 668
+    },
+    {
+      "grad_opcina": "Drnje",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 1806,
+      "stanovnistvo_2019": 1573,
+      "stanovnistvo_2024": 1484,
+      "muskarci_2024": 729,
+      "zene_2024": 755
+    },
+    {
+      "grad_opcina": "Đelekovec",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 1482,
+      "stanovnistvo_2019": 1312,
+      "stanovnistvo_2024": 1249,
+      "muskarci_2024": 613,
+      "zene_2024": 636
+    },
+    {
+      "grad_opcina": "Đurđevac",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 8026,
+      "stanovnistvo_2019": 7496,
+      "stanovnistvo_2024": 7424,
+      "muskarci_2024": 3692,
+      "zene_2024": 3732
+    },
+    {
+      "grad_opcina": "Ferdinandovac",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 1653,
+      "stanovnistvo_2019": 1461,
+      "stanovnistvo_2024": 1300,
+      "muskarci_2024": 637,
+      "zene_2024": 663
+    },
+    {
+      "grad_opcina": "Gola",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 2305,
+      "stanovnistvo_2019": 2118,
+      "stanovnistvo_2024": 1959,
+      "muskarci_2024": 1015,
+      "zene_2024": 944
+    },
+    {
+      "grad_opcina": "Gornja Rijeka",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 1710,
+      "stanovnistvo_2019": 1603,
+      "stanovnistvo_2024": 1503,
+      "muskarci_2024": 757,
+      "zene_2024": 746
+    },
+    {
+      "grad_opcina": "Hlebine",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 1309,
+      "stanovnistvo_2019": 1216,
+      "stanovnistvo_2024": 1127,
+      "muskarci_2024": 549,
+      "zene_2024": 578
+    },
+    {
+      "grad_opcina": "Kalinovac",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 1514,
+      "stanovnistvo_2019": 1321,
+      "stanovnistvo_2024": 1245,
+      "muskarci_2024": 630,
+      "zene_2024": 615
+    },
+    {
+      "grad_opcina": "Kalnik",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 1285,
+      "stanovnistvo_2019": 1173,
+      "stanovnistvo_2024": 1093,
+      "muskarci_2024": 530,
+      "zene_2024": 563
+    },
+    {
+      "grad_opcina": "Kloštar Podravski",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 3181,
+      "stanovnistvo_2019": 2842,
+      "stanovnistvo_2024": 2647,
+      "muskarci_2024": 1335,
+      "zene_2024": 1312
+    },
+    {
+      "grad_opcina": "Koprivnica",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 30741,
+      "stanovnistvo_2019": 29043,
+      "stanovnistvo_2024": 27997,
+      "muskarci_2024": 13305,
+      "zene_2024": 14692
+    },
+    {
+      "grad_opcina": "Koprivnički Bregi",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 2188,
+      "stanovnistvo_2019": 2038,
+      "stanovnistvo_2024": 1929,
+      "muskarci_2024": 991,
+      "zene_2024": 938
+    },
+    {
+      "grad_opcina": "Koprivnički Ivanec",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 2051,
+      "stanovnistvo_2019": 1864,
+      "stanovnistvo_2024": 1762,
+      "muskarci_2024": 862,
+      "zene_2024": 900
+    },
+    {
+      "grad_opcina": "Križevci",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 20463,
+      "stanovnistvo_2019": 18933,
+      "stanovnistvo_2024": 19414,
+      "muskarci_2024": 9847,
+      "zene_2024": 9567
+    },
+    {
+      "grad_opcina": "Legrad",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 2117,
+      "stanovnistvo_2019": 1926,
+      "stanovnistvo_2024": 1808,
+      "muskarci_2024": 904,
+      "zene_2024": 904
+    },
+    {
+      "grad_opcina": "Molve",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 2040,
+      "stanovnistvo_2019": 1843,
+      "stanovnistvo_2024": 1713,
+      "muskarci_2024": 868,
+      "zene_2024": 845
+    },
+    {
+      "grad_opcina": "Novigrad Podravski",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 2728,
+      "stanovnistvo_2019": 2392,
+      "stanovnistvo_2024": 2152,
+      "muskarci_2024": 1066,
+      "zene_2024": 1086
+    },
+    {
+      "grad_opcina": "Novo Virje",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 1164,
+      "stanovnistvo_2019": 1052,
+      "stanovnistvo_2024": 934,
+      "muskarci_2024": 480,
+      "zene_2024": 454
+    },
+    {
+      "grad_opcina": "Peteranec",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 2628,
+      "stanovnistvo_2019": 2360,
+      "stanovnistvo_2024": 2193,
+      "muskarci_2024": 1091,
+      "zene_2024": 1102
+    },
+    {
+      "grad_opcina": "Podravske Sesvete",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 1591,
+      "stanovnistvo_2019": 1494,
+      "stanovnistvo_2024": 1402,
+      "muskarci_2024": 706,
+      "zene_2024": 696
+    },
+    {
+      "grad_opcina": "Rasinja",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 3083,
+      "stanovnistvo_2019": 2714,
+      "stanovnistvo_2024": 2515,
+      "muskarci_2024": 1246,
+      "zene_2024": 1269
+    },
+    {
+      "grad_opcina": "Sokolovac",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 3238,
+      "stanovnistvo_2019": 2892,
+      "stanovnistvo_2024": 2660,
+      "muskarci_2024": 1346,
+      "zene_2024": 1314
+    },
+    {
+      "grad_opcina": "Sveti Ivan Žabno",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 4969,
+      "stanovnistvo_2019": 4476,
+      "stanovnistvo_2024": 4208,
+      "muskarci_2024": 2058,
+      "zene_2024": 2150
+    },
+    {
+      "grad_opcina": "Sveti Petar Orehovec",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 4414,
+      "stanovnistvo_2019": 4055,
+      "stanovnistvo_2024": 3795,
+      "muskarci_2024": 1855,
+      "zene_2024": 1940
+    },
+    {
+      "grad_opcina": "Virje",
+      "zupanija": "Koprivničko-križevačka županija",
+      "stanovnistvo_2014": 4345,
+      "stanovnistvo_2019": 3915,
+      "stanovnistvo_2024": 3690,
+      "muskarci_2024": 1838,
+      "zene_2024": 1852
+    },
+    {
+      "grad_opcina": "Berek",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 1371,
+      "stanovnistvo_2019": 1133,
+      "stanovnistvo_2024": 1025,
+      "muskarci_2024": 520,
+      "zene_2024": 505
+    },
+    {
+      "grad_opcina": "Bjelovar",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 39241,
+      "stanovnistvo_2019": 37124,
+      "stanovnistvo_2024": 35682,
+      "muskarci_2024": 17208,
+      "zene_2024": 18474
+    },
+    {
+      "grad_opcina": "Čazma",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 7695,
+      "stanovnistvo_2019": 7058,
+      "stanovnistvo_2024": 6799,
+      "muskarci_2024": 3382,
+      "zene_2024": 3417
+    },
+    {
+      "grad_opcina": "Daruvar",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 11237,
+      "stanovnistvo_2019": 10290,
+      "stanovnistvo_2024": 9728,
+      "muskarci_2024": 4678,
+      "zene_2024": 5050
+    },
+    {
+      "grad_opcina": "Dežanovac",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 2503,
+      "stanovnistvo_2019": 2085,
+      "stanovnistvo_2024": 1855,
+      "muskarci_2024": 923,
+      "zene_2024": 932
+    },
+    {
+      "grad_opcina": "Đulovac",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 3072,
+      "stanovnistvo_2019": 2847,
+      "stanovnistvo_2024": 2722,
+      "muskarci_2024": 1462,
+      "zene_2024": 1260
+    },
+    {
+      "grad_opcina": "Garešnica",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 9883,
+      "stanovnistvo_2019": 8850,
+      "stanovnistvo_2024": 8250,
+      "muskarci_2024": 4007,
+      "zene_2024": 4243
+    },
+    {
+      "grad_opcina": "Grubišno Polje",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 6117,
+      "stanovnistvo_2019": 5470,
+      "stanovnistvo_2024": 5116,
+      "muskarci_2024": 2506,
+      "zene_2024": 2610
+    },
+    {
+      "grad_opcina": "Hercegovac",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 2242,
+      "stanovnistvo_2019": 1949,
+      "stanovnistvo_2024": 1835,
+      "muskarci_2024": 901,
+      "zene_2024": 934
+    },
+    {
+      "grad_opcina": "Ivanska",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 2669,
+      "stanovnistvo_2019": 2321,
+      "stanovnistvo_2024": 2095,
+      "muskarci_2024": 1076,
+      "zene_2024": 1019
+    },
+    {
+      "grad_opcina": "Kapela",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 2851,
+      "stanovnistvo_2019": 2510,
+      "stanovnistvo_2024": 2230,
+      "muskarci_2024": 1133,
+      "zene_2024": 1097
+    },
+    {
+      "grad_opcina": "Končanica",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 2203,
+      "stanovnistvo_2019": 1886,
+      "stanovnistvo_2024": 1669,
+      "muskarci_2024": 828,
+      "zene_2024": 841
+    },
+    {
+      "grad_opcina": "Nova Rača",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 3229,
+      "stanovnistvo_2019": 2894,
+      "stanovnistvo_2024": 2564,
+      "muskarci_2024": 1296,
+      "zene_2024": 1268
+    },
+    {
+      "grad_opcina": "Rovišće",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 4587,
+      "stanovnistvo_2019": 4233,
+      "stanovnistvo_2024": 3947,
+      "muskarci_2024": 1921,
+      "zene_2024": 2026
+    },
+    {
+      "grad_opcina": "Severin",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 850,
+      "stanovnistvo_2019": 712,
+      "stanovnistvo_2024": 671,
+      "muskarci_2024": 352,
+      "zene_2024": 319
+    },
+    {
+      "grad_opcina": "Sirač",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 2112,
+      "stanovnistvo_2019": 1867,
+      "stanovnistvo_2024": 1760,
+      "muskarci_2024": 919,
+      "zene_2024": 841
+    },
+    {
+      "grad_opcina": "Šandrovac",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 1642,
+      "stanovnistvo_2019": 1491,
+      "stanovnistvo_2024": 1365,
+      "muskarci_2024": 656,
+      "zene_2024": 709
+    },
+    {
+      "grad_opcina": "Štefanje",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 1941,
+      "stanovnistvo_2019": 1756,
+      "stanovnistvo_2024": 1625,
+      "muskarci_2024": 819,
+      "zene_2024": 806
+    },
+    {
+      "grad_opcina": "Velika Pisanica",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 1598,
+      "stanovnistvo_2019": 1328,
+      "stanovnistvo_2024": 1197,
+      "muskarci_2024": 585,
+      "zene_2024": 612
+    },
+    {
+      "grad_opcina": "Velika Trnovitica",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 1293,
+      "stanovnistvo_2019": 1140,
+      "stanovnistvo_2024": 1021,
+      "muskarci_2024": 538,
+      "zene_2024": 483
+    },
+    {
+      "grad_opcina": "Veliki Grđevac",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 2689,
+      "stanovnistvo_2019": 2395,
+      "stanovnistvo_2024": 2132,
+      "muskarci_2024": 1098,
+      "zene_2024": 1034
+    },
+    {
+      "grad_opcina": "Veliko Trojstvo",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 2632,
+      "stanovnistvo_2019": 2440,
+      "stanovnistvo_2024": 2286,
+      "muskarci_2024": 1137,
+      "zene_2024": 1149
+    },
+    {
+      "grad_opcina": "Zrinski Topolovac",
+      "zupanija": "Bjelovarsko-bilogorska županija",
+      "stanovnistvo_2014": 825,
+      "stanovnistvo_2019": 759,
+      "stanovnistvo_2024": 692,
+      "muskarci_2024": 325,
+      "zene_2024": 367
+    },
+    {
+      "grad_opcina": "Bakar",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 8102,
+      "stanovnistvo_2019": 7737,
+      "stanovnistvo_2024": 7622,
+      "muskarci_2024": 3770,
+      "zene_2024": 3852
+    },
+    {
+      "grad_opcina": "Baška",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 1708,
+      "stanovnistvo_2019": 1656,
+      "stanovnistvo_2024": 1748,
+      "muskarci_2024": 861,
+      "zene_2024": 887
+    },
+    {
+      "grad_opcina": "Brod Moravice",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 818,
+      "stanovnistvo_2019": 677,
+      "stanovnistvo_2024": 630,
+      "muskarci_2024": 317,
+      "zene_2024": 313
+    },
+    {
+      "grad_opcina": "Cres",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 2871,
+      "stanovnistvo_2019": 2692,
+      "stanovnistvo_2024": 2789,
+      "muskarci_2024": 1425,
+      "zene_2024": 1364
+    },
+    {
+      "grad_opcina": "Crikvenica",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 11052,
+      "stanovnistvo_2019": 10201,
+      "stanovnistvo_2024": 9951,
+      "muskarci_2024": 4724,
+      "zene_2024": 5227
+    },
+    {
+      "grad_opcina": "Čabar",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 3645,
+      "stanovnistvo_2019": 3304,
+      "stanovnistvo_2024": 3002,
+      "muskarci_2024": 1542,
+      "zene_2024": 1460
+    },
+    {
+      "grad_opcina": "Čavle",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 7329,
+      "stanovnistvo_2019": 7088,
+      "stanovnistvo_2024": 7175,
+      "muskarci_2024": 3505,
+      "zene_2024": 3670
+    },
+    {
+      "grad_opcina": "Delnice",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 5704,
+      "stanovnistvo_2019": 5259,
+      "stanovnistvo_2024": 5076,
+      "muskarci_2024": 2540,
+      "zene_2024": 2536
+    },
+    {
+      "grad_opcina": "Dobrinj",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 2134,
+      "stanovnistvo_2019": 2168,
+      "stanovnistvo_2024": 2405,
+      "muskarci_2024": 1201,
+      "zene_2024": 1204
+    },
+    {
+      "grad_opcina": "Fužine",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 1508,
+      "stanovnistvo_2019": 1404,
+      "stanovnistvo_2024": 1417,
+      "muskarci_2024": 714,
+      "zene_2024": 703
+    },
+    {
+      "grad_opcina": "Jelenje",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 5368,
+      "stanovnistvo_2019": 5170,
+      "stanovnistvo_2024": 5146,
+      "muskarci_2024": 2546,
+      "zene_2024": 2600
+    },
+    {
+      "grad_opcina": "Kastav",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 10396,
+      "stanovnistvo_2019": 10200,
+      "stanovnistvo_2024": 10340,
+      "muskarci_2024": 5075,
+      "zene_2024": 5265
+    },
+    {
+      "grad_opcina": "Klana",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 1891,
+      "stanovnistvo_2019": 1862,
+      "stanovnistvo_2024": 1904,
+      "muskarci_2024": 993,
+      "zene_2024": 911
+    },
+    {
+      "grad_opcina": "Kostrena",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 4295,
+      "stanovnistvo_2019": 4388,
+      "stanovnistvo_2024": 4691,
+      "muskarci_2024": 2308,
+      "zene_2024": 2383
+    },
+    {
+      "grad_opcina": "Kraljevica",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 4482,
+      "stanovnistvo_2019": 4177,
+      "stanovnistvo_2024": 4172,
+      "muskarci_2024": 2018,
+      "zene_2024": 2154
+    },
+    {
+      "grad_opcina": "Krk",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 6563,
+      "stanovnistvo_2019": 6809,
+      "stanovnistvo_2024": 7252,
+      "muskarci_2024": 3656,
+      "zene_2024": 3596
+    },
+    {
+      "grad_opcina": "Lokve",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 957,
+      "stanovnistvo_2019": 889,
+      "stanovnistvo_2024": 847,
+      "muskarci_2024": 416,
+      "zene_2024": 431
+    },
+    {
+      "grad_opcina": "Lopar",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 1244,
+      "stanovnistvo_2019": 1135,
+      "stanovnistvo_2024": 1117,
+      "muskarci_2024": 572,
+      "zene_2024": 545
+    },
+    {
+      "grad_opcina": "Lovran",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 3937,
+      "stanovnistvo_2019": 3623,
+      "stanovnistvo_2024": 3647,
+      "muskarci_2024": 1724,
+      "zene_2024": 1923
+    },
+    {
+      "grad_opcina": "Mali Lošinj",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 8064,
+      "stanovnistvo_2019": 7574,
+      "stanovnistvo_2024": 7661,
+      "muskarci_2024": 3880,
+      "zene_2024": 3781
+    },
+    {
+      "grad_opcina": "Malinska Dubašnica",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 3288,
+      "stanovnistvo_2019": 3281,
+      "stanovnistvo_2024": 3388,
+      "muskarci_2024": 1643,
+      "zene_2024": 1745
+    },
+    {
+      "grad_opcina": "Matulji",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 11293,
+      "stanovnistvo_2019": 10854,
+      "stanovnistvo_2024": 10937,
+      "muskarci_2024": 5286,
+      "zene_2024": 5651
+    },
+    {
+      "grad_opcina": "Mošćenička Draga",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 1489,
+      "stanovnistvo_2019": 1304,
+      "stanovnistvo_2024": 1286,
+      "muskarci_2024": 663,
+      "zene_2024": 623
+    },
+    {
+      "grad_opcina": "Mrkopalj",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 1098,
+      "stanovnistvo_2019": 943,
+      "stanovnistvo_2024": 889,
+      "muskarci_2024": 449,
+      "zene_2024": 440
+    },
+    {
+      "grad_opcina": "Novi Vinodolski",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 4954,
+      "stanovnistvo_2019": 4411,
+      "stanovnistvo_2024": 4341,
+      "muskarci_2024": 2109,
+      "zene_2024": 2232
+    },
+    {
+      "grad_opcina": "Omišalj",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 3065,
+      "stanovnistvo_2019": 3030,
+      "stanovnistvo_2024": 3048,
+      "muskarci_2024": 1499,
+      "zene_2024": 1549
+    },
+    {
+      "grad_opcina": "Opatija",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 11314,
+      "stanovnistvo_2019": 10732,
+      "stanovnistvo_2024": 10846,
+      "muskarci_2024": 5040,
+      "zene_2024": 5806
+    },
+    {
+      "grad_opcina": "Punat",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 2018,
+      "stanovnistvo_2019": 1947,
+      "stanovnistvo_2024": 1889,
+      "muskarci_2024": 938,
+      "zene_2024": 951
+    },
+    {
+      "grad_opcina": "Rab",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 7934,
+      "stanovnistvo_2019": 7268,
+      "stanovnistvo_2024": 7159,
+      "muskarci_2024": 3437,
+      "zene_2024": 3722
+    },
+    {
+      "grad_opcina": "Ravna Gora",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 2309,
+      "stanovnistvo_2019": 2055,
+      "stanovnistvo_2024": 2011,
+      "muskarci_2024": 1015,
+      "zene_2024": 996
+    },
+    {
+      "grad_opcina": "Rijeka",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 122269,
+      "stanovnistvo_2019": 111847,
+      "stanovnistvo_2024": 105705,
+      "muskarci_2024": 49829,
+      "zene_2024": 55876
+    },
+    {
+      "grad_opcina": "Skrad",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 981,
+      "stanovnistvo_2019": 882,
+      "stanovnistvo_2024": 793,
+      "muskarci_2024": 399,
+      "zene_2024": 394
+    },
+    {
+      "grad_opcina": "Vinodolska općina",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 3526,
+      "stanovnistvo_2019": 3262,
+      "stanovnistvo_2024": 3227,
+      "muskarci_2024": 1603,
+      "zene_2024": 1624
+    },
+    {
+      "grad_opcina": "Viškovo",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 15614,
+      "stanovnistvo_2019": 15897,
+      "stanovnistvo_2024": 17005,
+      "muskarci_2024": 8496,
+      "zene_2024": 8509
+    },
+    {
+      "grad_opcina": "Vrbnik",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 1233,
+      "stanovnistvo_2019": 1171,
+      "stanovnistvo_2024": 1186,
+      "muskarci_2024": 590,
+      "zene_2024": 596
+    },
+    {
+      "grad_opcina": "Vrbovsko",
+      "zupanija": "Primorsko-goranska županija",
+      "stanovnistvo_2014": 4702,
+      "stanovnistvo_2019": 4028,
+      "stanovnistvo_2024": 3688,
+      "muskarci_2024": 1878,
+      "zene_2024": 1810
+    },
+    {
+      "grad_opcina": "Brinje",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 3045,
+      "stanovnistvo_2019": 2652,
+      "stanovnistvo_2024": 2345,
+      "muskarci_2024": 1220,
+      "zene_2024": 1125
+    },
+    {
+      "grad_opcina": "Donji Lapac",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 1785,
+      "stanovnistvo_2019": 1440,
+      "stanovnistvo_2024": 1231,
+      "muskarci_2024": 626,
+      "zene_2024": 605
+    },
+    {
+      "grad_opcina": "Gospić",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 12279,
+      "stanovnistvo_2019": 11747,
+      "stanovnistvo_2024": 11784,
+      "muskarci_2024": 5830,
+      "zene_2024": 5954
+    },
+    {
+      "grad_opcina": "Karlobag",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 946,
+      "stanovnistvo_2019": 774,
+      "stanovnistvo_2024": 803,
+      "muskarci_2024": 397,
+      "zene_2024": 406
+    },
+    {
+      "grad_opcina": "Lovinac",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 951,
+      "stanovnistvo_2019": 931,
+      "stanovnistvo_2024": 986,
+      "muskarci_2024": 493,
+      "zene_2024": 493
+    },
+    {
+      "grad_opcina": "Novalja",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 3778,
+      "stanovnistvo_2019": 3686,
+      "stanovnistvo_2024": 4285,
+      "muskarci_2024": 2188,
+      "zene_2024": 2097
+    },
+    {
+      "grad_opcina": "Otočac",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 9304,
+      "stanovnistvo_2019": 8618,
+      "stanovnistvo_2024": 7900,
+      "muskarci_2024": 3876,
+      "zene_2024": 4024
+    },
+    {
+      "grad_opcina": "Perušić",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 2375,
+      "stanovnistvo_2019": 2072,
+      "stanovnistvo_2024": 1915,
+      "muskarci_2024": 1034,
+      "zene_2024": 881
+    },
+    {
+      "grad_opcina": "Plitvička Jezera",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 4001,
+      "stanovnistvo_2019": 3705,
+      "stanovnistvo_2024": 4178,
+      "muskarci_2024": 2001,
+      "zene_2024": 2177
+    },
+    {
+      "grad_opcina": "Senj",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 6854,
+      "stanovnistvo_2019": 6125,
+      "stanovnistvo_2024": 5668,
+      "muskarci_2024": 2863,
+      "zene_2024": 2805
+    },
+    {
+      "grad_opcina": "Udbina",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 1630,
+      "stanovnistvo_2019": 1391,
+      "stanovnistvo_2024": 1259,
+      "muskarci_2024": 638,
+      "zene_2024": 621
+    },
+    {
+      "grad_opcina": "Vrhovine",
+      "zupanija": "Ličko-senjska županija",
+      "stanovnistvo_2014": 1068,
+      "stanovnistvo_2019": 697,
+      "stanovnistvo_2024": 846,
+      "muskarci_2024": 412,
+      "zene_2024": 434
+    },
+    {
+      "grad_opcina": "Crnac",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 1329,
+      "stanovnistvo_2019": 1165,
+      "stanovnistvo_2024": 1020,
+      "muskarci_2024": 515,
+      "zene_2024": 505
+    },
+    {
+      "grad_opcina": "Čačinci",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 2629,
+      "stanovnistvo_2019": 2235,
+      "stanovnistvo_2024": 2062,
+      "muskarci_2024": 1000,
+      "zene_2024": 1062
+    },
+    {
+      "grad_opcina": "Čađavica",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 1889,
+      "stanovnistvo_2019": 1611,
+      "stanovnistvo_2024": 1476,
+      "muskarci_2024": 729,
+      "zene_2024": 747
+    },
+    {
+      "grad_opcina": "Gradina",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 3549,
+      "stanovnistvo_2019": 3009,
+      "stanovnistvo_2024": 2622,
+      "muskarci_2024": 1327,
+      "zene_2024": 1295
+    },
+    {
+      "grad_opcina": "Lukač",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 3391,
+      "stanovnistvo_2019": 2877,
+      "stanovnistvo_2024": 2617,
+      "muskarci_2024": 1327,
+      "zene_2024": 1290
+    },
+    {
+      "grad_opcina": "Mikleuš",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 1409,
+      "stanovnistvo_2019": 1112,
+      "stanovnistvo_2024": 983,
+      "muskarci_2024": 485,
+      "zene_2024": 498
+    },
+    {
+      "grad_opcina": "Nova Bukovica",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 1606,
+      "stanovnistvo_2019": 1351,
+      "stanovnistvo_2024": 1198,
+      "muskarci_2024": 618,
+      "zene_2024": 580
+    },
+    {
+      "grad_opcina": "Orahovica",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 5100,
+      "stanovnistvo_2019": 4641,
+      "stanovnistvo_2024": 4307,
+      "muskarci_2024": 2088,
+      "zene_2024": 2219
+    },
+    {
+      "grad_opcina": "Pitomača",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 9652,
+      "stanovnistvo_2019": 8607,
+      "stanovnistvo_2024": 8175,
+      "muskarci_2024": 3952,
+      "zene_2024": 4223
+    },
+    {
+      "grad_opcina": "Slatina",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 13127,
+      "stanovnistvo_2019": 11767,
+      "stanovnistvo_2024": 11070,
+      "muskarci_2024": 5345,
+      "zene_2024": 5725
+    },
+    {
+      "grad_opcina": "Sopje",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 2213,
+      "stanovnistvo_2019": 1964,
+      "stanovnistvo_2024": 1858,
+      "muskarci_2024": 935,
+      "zene_2024": 923
+    },
+    {
+      "grad_opcina": "Suhopolje",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 6258,
+      "stanovnistvo_2019": 5455,
+      "stanovnistvo_2024": 4958,
+      "muskarci_2024": 2426,
+      "zene_2024": 2532
+    },
+    {
+      "grad_opcina": "Špišić Bukovica",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 4016,
+      "stanovnistvo_2019": 3427,
+      "stanovnistvo_2024": 3127,
+      "muskarci_2024": 1529,
+      "zene_2024": 1598
+    },
+    {
+      "grad_opcina": "Virovitica",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 21124,
+      "stanovnistvo_2019": 19560,
+      "stanovnistvo_2024": 18580,
+      "muskarci_2024": 8863,
+      "zene_2024": 9717
+    },
+    {
+      "grad_opcina": "Voćin",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 2309,
+      "stanovnistvo_2019": 1967,
+      "stanovnistvo_2024": 1765,
+      "muskarci_2024": 954,
+      "zene_2024": 811
+    },
+    {
+      "grad_opcina": "Zdenci",
+      "zupanija": "Virovitičko-podravska županija",
+      "stanovnistvo_2014": 1768,
+      "stanovnistvo_2019": 1526,
+      "stanovnistvo_2024": 1403,
+      "muskarci_2024": 695,
+      "zene_2024": 708
+    },
+    {
+      "grad_opcina": "Brestovac",
+      "zupanija": "Požeško-slavonska županija",
+      "stanovnistvo_2014": 3569,
+      "stanovnistvo_2019": 3056,
+      "stanovnistvo_2024": 2633,
+      "muskarci_2024": 1310,
+      "zene_2024": 1323
+    },
+    {
+      "grad_opcina": "Čaglin",
+      "zupanija": "Požeško-slavonska županija",
+      "stanovnistvo_2014": 2419,
+      "stanovnistvo_2019": 2268,
+      "stanovnistvo_2024": 1947,
+      "muskarci_2024": 1008,
+      "zene_2024": 939
+    },
+    {
+      "grad_opcina": "Jakšić",
+      "zupanija": "Požeško-slavonska županija",
+      "stanovnistvo_2014": 3932,
+      "stanovnistvo_2019": 3464,
+      "stanovnistvo_2024": 3182,
+      "muskarci_2024": 1549,
+      "zene_2024": 1633
+    },
+    {
+      "grad_opcina": "Kaptol",
+      "zupanija": "Požeško-slavonska županija",
+      "stanovnistvo_2014": 3364,
+      "stanovnistvo_2019": 2742,
+      "stanovnistvo_2024": 2417,
+      "muskarci_2024": 1242,
+      "zene_2024": 1175
+    },
+    {
+      "grad_opcina": "Kutjevo",
+      "zupanija": "Požeško-slavonska županija",
+      "stanovnistvo_2014": 6007,
+      "stanovnistvo_2019": 5076,
+      "stanovnistvo_2024": 4425,
+      "muskarci_2024": 2194,
+      "zene_2024": 2231
+    },
+    {
+      "grad_opcina": "Lipik",
+      "zupanija": "Požeško-slavonska županija",
+      "stanovnistvo_2014": 5707,
+      "stanovnistvo_2019": 5255,
+      "stanovnistvo_2024": 4939,
+      "muskarci_2024": 2381,
+      "zene_2024": 2558
+    },
+    {
+      "grad_opcina": "Pakrac",
+      "zupanija": "Požeško-slavonska županija",
+      "stanovnistvo_2014": 7906,
+      "stanovnistvo_2019": 7069,
+      "stanovnistvo_2024": 6845,
+      "muskarci_2024": 3239,
+      "zene_2024": 3606
+    },
+    {
+      "grad_opcina": "Pleternica",
+      "zupanija": "Požeško-slavonska županija",
+      "stanovnistvo_2014": 10922,
+      "stanovnistvo_2019": 9423,
+      "stanovnistvo_2024": 8572,
+      "muskarci_2024": 4266,
+      "zene_2024": 4306
+    },
+    {
+      "grad_opcina": "Požega",
+      "zupanija": "Požeško-slavonska županija",
+      "stanovnistvo_2014": 25327,
+      "stanovnistvo_2019": 22821,
+      "stanovnistvo_2024": 21390,
+      "muskarci_2024": 10295,
+      "zene_2024": 11095
+    },
+    {
+      "grad_opcina": "Velika",
+      "zupanija": "Požeško-slavonska županija",
+      "stanovnistvo_2014": 5394,
+      "stanovnistvo_2019": 4683,
+      "stanovnistvo_2024": 4244,
+      "muskarci_2024": 2096,
+      "zene_2024": 2148
+    },
+    {
+      "grad_opcina": "Bebrina",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 3145,
+      "stanovnistvo_2019": 2883,
+      "stanovnistvo_2024": 2725,
+      "muskarci_2024": 1380,
+      "zene_2024": 1345
+    },
+    {
+      "grad_opcina": "Brodski Stupnik",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 2863,
+      "stanovnistvo_2019": 2443,
+      "stanovnistvo_2024": 2203,
+      "muskarci_2024": 1081,
+      "zene_2024": 1122
+    },
+    {
+      "grad_opcina": "Bukovlje",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 3121,
+      "stanovnistvo_2019": 2801,
+      "stanovnistvo_2024": 2664,
+      "muskarci_2024": 1360,
+      "zene_2024": 1304
+    },
+    {
+      "grad_opcina": "Cernik",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 3505,
+      "stanovnistvo_2019": 3028,
+      "stanovnistvo_2024": 2831,
+      "muskarci_2024": 1399,
+      "zene_2024": 1432
+    },
+    {
+      "grad_opcina": "Davor",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 2926,
+      "stanovnistvo_2019": 2603,
+      "stanovnistvo_2024": 2370,
+      "muskarci_2024": 1197,
+      "zene_2024": 1173
+    },
+    {
+      "grad_opcina": "Donji Andrijevci",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 3564,
+      "stanovnistvo_2019": 3185,
+      "stanovnistvo_2024": 2866,
+      "muskarci_2024": 1431,
+      "zene_2024": 1435
+    },
+    {
+      "grad_opcina": "Dragalić",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 1264,
+      "stanovnistvo_2019": 1077,
+      "stanovnistvo_2024": 1030,
+      "muskarci_2024": 532,
+      "zene_2024": 498
+    },
+    {
+      "grad_opcina": "Garčin",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 4595,
+      "stanovnistvo_2019": 4060,
+      "stanovnistvo_2024": 3766,
+      "muskarci_2024": 1891,
+      "zene_2024": 1875
+    },
+    {
+      "grad_opcina": "Gornja Vrba",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 2442,
+      "stanovnistvo_2019": 2186,
+      "stanovnistvo_2024": 2420,
+      "muskarci_2024": 1392,
+      "zene_2024": 1028
+    },
+    {
+      "grad_opcina": "Gornji Bogićevci",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 1902,
+      "stanovnistvo_2019": 1475,
+      "stanovnistvo_2024": 1304,
+      "muskarci_2024": 687,
+      "zene_2024": 617
+    },
+    {
+      "grad_opcina": "Gundinci",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 1929,
+      "stanovnistvo_2019": 1644,
+      "stanovnistvo_2024": 1544,
+      "muskarci_2024": 805,
+      "zene_2024": 739
+    },
+    {
+      "grad_opcina": "Klakar",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 2243,
+      "stanovnistvo_2019": 2047,
+      "stanovnistvo_2024": 1972,
+      "muskarci_2024": 1023,
+      "zene_2024": 949
+    },
+    {
+      "grad_opcina": "Nova Gradiška",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 13613,
+      "stanovnistvo_2019": 12133,
+      "stanovnistvo_2024": 11204,
+      "muskarci_2024": 5264,
+      "zene_2024": 5940
+    },
+    {
+      "grad_opcina": "Nova Kapela",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 3980,
+      "stanovnistvo_2019": 3469,
+      "stanovnistvo_2024": 3101,
+      "muskarci_2024": 1522,
+      "zene_2024": 1579
+    },
+    {
+      "grad_opcina": "Okučani",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 3124,
+      "stanovnistvo_2019": 2451,
+      "stanovnistvo_2024": 2173,
+      "muskarci_2024": 1070,
+      "zene_2024": 1103
+    },
+    {
+      "grad_opcina": "Oprisavci",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 2345,
+      "stanovnistvo_2019": 2049,
+      "stanovnistvo_2024": 1861,
+      "muskarci_2024": 932,
+      "zene_2024": 929
+    },
+    {
+      "grad_opcina": "Oriovac",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 5506,
+      "stanovnistvo_2019": 4937,
+      "stanovnistvo_2024": 4563,
+      "muskarci_2024": 2232,
+      "zene_2024": 2331
+    },
+    {
+      "grad_opcina": "Podcrkavlje",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 2505,
+      "stanovnistvo_2019": 2281,
+      "stanovnistvo_2024": 2156,
+      "muskarci_2024": 1076,
+      "zene_2024": 1080
+    },
+    {
+      "grad_opcina": "Rešetari",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 4555,
+      "stanovnistvo_2019": 3994,
+      "stanovnistvo_2024": 3643,
+      "muskarci_2024": 1800,
+      "zene_2024": 1843
+    },
+    {
+      "grad_opcina": "Sibinj",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 6662,
+      "stanovnistvo_2019": 5880,
+      "stanovnistvo_2024": 5486,
+      "muskarci_2024": 2774,
+      "zene_2024": 2712
+    },
+    {
+      "grad_opcina": "Sikirevci",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 2404,
+      "stanovnistvo_2019": 2087,
+      "stanovnistvo_2024": 1903,
+      "muskarci_2024": 945,
+      "zene_2024": 958
+    },
+    {
+      "grad_opcina": "Slavonski Brod",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 57067,
+      "stanovnistvo_2019": 51069,
+      "stanovnistvo_2024": 49471,
+      "muskarci_2024": 24357,
+      "zene_2024": 25114
+    },
+    {
+      "grad_opcina": "Slavonski Šamac",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 2007,
+      "stanovnistvo_2019": 1660,
+      "stanovnistvo_2024": 1406,
+      "muskarci_2024": 741,
+      "zene_2024": 665
+    },
+    {
+      "grad_opcina": "Stara Gradiška",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 1211,
+      "stanovnistvo_2019": 957,
+      "stanovnistvo_2024": 818,
+      "muskarci_2024": 430,
+      "zene_2024": 388
+    },
+    {
+      "grad_opcina": "Staro Petrovo Selo",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 4981,
+      "stanovnistvo_2019": 4264,
+      "stanovnistvo_2024": 3881,
+      "muskarci_2024": 1977,
+      "zene_2024": 1904
+    },
+    {
+      "grad_opcina": "Velika Kopanica",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 3144,
+      "stanovnistvo_2019": 2738,
+      "stanovnistvo_2024": 2404,
+      "muskarci_2024": 1203,
+      "zene_2024": 1201
+    },
+    {
+      "grad_opcina": "Vrbje",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 2100,
+      "stanovnistvo_2019": 1760,
+      "stanovnistvo_2024": 1570,
+      "muskarci_2024": 770,
+      "zene_2024": 800
+    },
+    {
+      "grad_opcina": "Vrpolje",
+      "zupanija": "Brodsko-posavska županija",
+      "stanovnistvo_2014": 3362,
+      "stanovnistvo_2019": 2886,
+      "stanovnistvo_2024": 2643,
+      "muskarci_2024": 1324,
+      "zene_2024": 1319
+    },
+    {
+      "grad_opcina": "Benkovac",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 11037,
+      "stanovnistvo_2019": 9945,
+      "stanovnistvo_2024": 8950,
+      "muskarci_2024": 4547,
+      "zene_2024": 4403
+    },
+    {
+      "grad_opcina": "Bibinje",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 4019,
+      "stanovnistvo_2019": 3942,
+      "stanovnistvo_2024": 4179,
+      "muskarci_2024": 2114,
+      "zene_2024": 2065
+    },
+    {
+      "grad_opcina": "Biograd na Moru",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 5649,
+      "stanovnistvo_2019": 5626,
+      "stanovnistvo_2024": 6052,
+      "muskarci_2024": 2968,
+      "zene_2024": 3084
+    },
+    {
+      "grad_opcina": "Galovac",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 1231,
+      "stanovnistvo_2019": 1252,
+      "stanovnistvo_2024": 1254,
+      "muskarci_2024": 637,
+      "zene_2024": 617
+    },
+    {
+      "grad_opcina": "Gračac",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 4060,
+      "stanovnistvo_2019": 3233,
+      "stanovnistvo_2024": 2855,
+      "muskarci_2024": 1464,
+      "zene_2024": 1391
+    },
+    {
+      "grad_opcina": "Jasenice",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 1424,
+      "stanovnistvo_2019": 1382,
+      "stanovnistvo_2024": 1421,
+      "muskarci_2024": 733,
+      "zene_2024": 688
+    },
+    {
+      "grad_opcina": "Kali",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 1652,
+      "stanovnistvo_2019": 1590,
+      "stanovnistvo_2024": 1651,
+      "muskarci_2024": 890,
+      "zene_2024": 761
+    },
+    {
+      "grad_opcina": "Kolan",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 808,
+      "stanovnistvo_2019": 803,
+      "stanovnistvo_2024": 881,
+      "muskarci_2024": 469,
+      "zene_2024": 412
+    },
+    {
+      "grad_opcina": "Kukljica",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 736,
+      "stanovnistvo_2019": 640,
+      "stanovnistvo_2024": 638,
+      "muskarci_2024": 318,
+      "zene_2024": 320
+    },
+    {
+      "grad_opcina": "Lišane Ostrovičke",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 695,
+      "stanovnistvo_2019": 652,
+      "stanovnistvo_2024": 541,
+      "muskarci_2024": 269,
+      "zene_2024": 272
+    },
+    {
+      "grad_opcina": "Nin",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 2756,
+      "stanovnistvo_2019": 2663,
+      "stanovnistvo_2024": 3175,
+      "muskarci_2024": 1594,
+      "zene_2024": 1581
+    },
+    {
+      "grad_opcina": "Novigrad",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 2324,
+      "stanovnistvo_2019": 2181,
+      "stanovnistvo_2024": 2100,
+      "muskarci_2024": 1098,
+      "zene_2024": 1002
+    },
+    {
+      "grad_opcina": "Obrovac",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 3924,
+      "stanovnistvo_2019": 3488,
+      "stanovnistvo_2024": 3411,
+      "muskarci_2024": 1741,
+      "zene_2024": 1670
+    },
+    {
+      "grad_opcina": "Pag",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 3558,
+      "stanovnistvo_2019": 3231,
+      "stanovnistvo_2024": 3352,
+      "muskarci_2024": 1736,
+      "zene_2024": 1616
+    },
+    {
+      "grad_opcina": "Pakoštane",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 4184,
+      "stanovnistvo_2019": 4135,
+      "stanovnistvo_2024": 4330,
+      "muskarci_2024": 2266,
+      "zene_2024": 2064
+    },
+    {
+      "grad_opcina": "Pašman",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 2212,
+      "stanovnistvo_2019": 2137,
+      "stanovnistvo_2024": 2296,
+      "muskarci_2024": 1163,
+      "zene_2024": 1133
+    },
+    {
+      "grad_opcina": "Polača",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 1493,
+      "stanovnistvo_2019": 1419,
+      "stanovnistvo_2024": 1380,
+      "muskarci_2024": 740,
+      "zene_2024": 640
+    },
+    {
+      "grad_opcina": "Poličnik",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 4595,
+      "stanovnistvo_2019": 4659,
+      "stanovnistvo_2024": 5091,
+      "muskarci_2024": 2691,
+      "zene_2024": 2400
+    },
+    {
+      "grad_opcina": "Posedarje",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 3603,
+      "stanovnistvo_2019": 3472,
+      "stanovnistvo_2024": 3445,
+      "muskarci_2024": 1733,
+      "zene_2024": 1712
+    },
+    {
+      "grad_opcina": "Povljana",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 718,
+      "stanovnistvo_2019": 670,
+      "stanovnistvo_2024": 690,
+      "muskarci_2024": 350,
+      "zene_2024": 340
+    },
+    {
+      "grad_opcina": "Preko",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 3928,
+      "stanovnistvo_2019": 3623,
+      "stanovnistvo_2024": 3673,
+      "muskarci_2024": 1883,
+      "zene_2024": 1790
+    },
+    {
+      "grad_opcina": "Privlaka (Zadarska županija)",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 2242,
+      "stanovnistvo_2019": 2183,
+      "stanovnistvo_2024": 2355,
+      "muskarci_2024": 1121,
+      "zene_2024": 1234
+    },
+    {
+      "grad_opcina": "Ražanac",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 2952,
+      "stanovnistvo_2019": 2795,
+      "stanovnistvo_2024": 2815,
+      "muskarci_2024": 1425,
+      "zene_2024": 1390
+    },
+    {
+      "grad_opcina": "Sali",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 1794,
+      "stanovnistvo_2019": 1749,
+      "stanovnistvo_2024": 1920,
+      "muskarci_2024": 940,
+      "zene_2024": 980
+    },
+    {
+      "grad_opcina": "Stankovci",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 1977,
+      "stanovnistvo_2019": 1872,
+      "stanovnistvo_2024": 1780,
+      "muskarci_2024": 913,
+      "zene_2024": 867
+    },
+    {
+      "grad_opcina": "Starigrad",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 1897,
+      "stanovnistvo_2019": 1738,
+      "stanovnistvo_2024": 1756,
+      "muskarci_2024": 890,
+      "zene_2024": 866
+    },
+    {
+      "grad_opcina": "Sukošan",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 4697,
+      "stanovnistvo_2019": 4681,
+      "stanovnistvo_2024": 4955,
+      "muskarci_2024": 2485,
+      "zene_2024": 2470
+    },
+    {
+      "grad_opcina": "Sveti Filip i Jakov",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 4597,
+      "stanovnistvo_2019": 4499,
+      "stanovnistvo_2024": 4798,
+      "muskarci_2024": 2392,
+      "zene_2024": 2406
+    },
+    {
+      "grad_opcina": "Škabrnja",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 1751,
+      "stanovnistvo_2019": 1688,
+      "stanovnistvo_2024": 1645,
+      "muskarci_2024": 855,
+      "zene_2024": 790
+    },
+    {
+      "grad_opcina": "Tkon",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 778,
+      "stanovnistvo_2019": 737,
+      "stanovnistvo_2024": 772,
+      "muskarci_2024": 383,
+      "zene_2024": 389
+    },
+    {
+      "grad_opcina": "Vir",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 3201,
+      "stanovnistvo_2019": 3050,
+      "stanovnistvo_2024": 3405,
+      "muskarci_2024": 1717,
+      "zene_2024": 1688
+    },
+    {
+      "grad_opcina": "Vrsi",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 2089,
+      "stanovnistvo_2019": 2051,
+      "stanovnistvo_2024": 2183,
+      "muskarci_2024": 1093,
+      "zene_2024": 1090
+    },
+    {
+      "grad_opcina": "Zadar",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 74037,
+      "stanovnistvo_2019": 71541,
+      "stanovnistvo_2024": 73749,
+      "muskarci_2024": 35298,
+      "zene_2024": 38451
+    },
+    {
+      "grad_opcina": "Zemunik Donji",
+      "zupanija": "Zadarska županija",
+      "stanovnistvo_2014": 2061,
+      "stanovnistvo_2019": 2134,
+      "stanovnistvo_2024": 2268,
+      "muskarci_2024": 1172,
+      "zene_2024": 1096
+    },
+    {
+      "grad_opcina": "Antunovac",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 3691,
+      "stanovnistvo_2019": 3448,
+      "stanovnistvo_2024": 3413,
+      "muskarci_2024": 1704,
+      "zene_2024": 1709
+    },
+    {
+      "grad_opcina": "Beli Manastir",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 9430,
+      "stanovnistvo_2019": 8235,
+      "stanovnistvo_2024": 7636,
+      "muskarci_2024": 3597,
+      "zene_2024": 4039
+    },
+    {
+      "grad_opcina": "Belišće",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 10380,
+      "stanovnistvo_2019": 9141,
+      "stanovnistvo_2024": 8629,
+      "muskarci_2024": 4206,
+      "zene_2024": 4423
+    },
+    {
+      "grad_opcina": "Bilje",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 5475,
+      "stanovnistvo_2019": 4858,
+      "stanovnistvo_2024": 4655,
+      "muskarci_2024": 2325,
+      "zene_2024": 2330
+    },
+    {
+      "grad_opcina": "Bizovac",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 4349,
+      "stanovnistvo_2019": 3870,
+      "stanovnistvo_2024": 3541,
+      "muskarci_2024": 1756,
+      "zene_2024": 1785
+    },
+    {
+      "grad_opcina": "Čeminac",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 2861,
+      "stanovnistvo_2019": 2518,
+      "stanovnistvo_2024": 2289,
+      "muskarci_2024": 1141,
+      "zene_2024": 1148
+    },
+    {
+      "grad_opcina": "Čepin",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 11054,
+      "stanovnistvo_2019": 9874,
+      "stanovnistvo_2024": 9444,
+      "muskarci_2024": 4524,
+      "zene_2024": 4920
+    },
+    {
+      "grad_opcina": "Darda",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 6594,
+      "stanovnistvo_2019": 5578,
+      "stanovnistvo_2024": 5320,
+      "muskarci_2024": 2642,
+      "zene_2024": 2678
+    },
+    {
+      "grad_opcina": "Donja Motičina",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1572,
+      "stanovnistvo_2019": 1386,
+      "stanovnistvo_2024": 1267,
+      "muskarci_2024": 629,
+      "zene_2024": 638
+    },
+    {
+      "grad_opcina": "Donji Miholjac",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 9133,
+      "stanovnistvo_2019": 8270,
+      "stanovnistvo_2024": 7628,
+      "muskarci_2024": 3803,
+      "zene_2024": 3825
+    },
+    {
+      "grad_opcina": "Draž",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 2568,
+      "stanovnistvo_2019": 2029,
+      "stanovnistvo_2024": 1758,
+      "muskarci_2024": 880,
+      "zene_2024": 878
+    },
+    {
+      "grad_opcina": "Drenje",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 2537,
+      "stanovnistvo_2019": 2196,
+      "stanovnistvo_2024": 1948,
+      "muskarci_2024": 996,
+      "zene_2024": 952
+    },
+    {
+      "grad_opcina": "Đakovo",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 26902,
+      "stanovnistvo_2019": 24163,
+      "stanovnistvo_2024": 22550,
+      "muskarci_2024": 11002,
+      "zene_2024": 11548
+    },
+    {
+      "grad_opcina": "Đurđenovac",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 6329,
+      "stanovnistvo_2019": 5473,
+      "stanovnistvo_2024": 4977,
+      "muskarci_2024": 2494,
+      "zene_2024": 2483
+    },
+    {
+      "grad_opcina": "Erdut",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 6757,
+      "stanovnistvo_2019": 5610,
+      "stanovnistvo_2024": 5069,
+      "muskarci_2024": 2466,
+      "zene_2024": 2603
+    },
+    {
+      "grad_opcina": "Ernestinovo",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 2196,
+      "stanovnistvo_2019": 1993,
+      "stanovnistvo_2024": 1960,
+      "muskarci_2024": 947,
+      "zene_2024": 1013
+    },
+    {
+      "grad_opcina": "Feričanci",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 2061,
+      "stanovnistvo_2019": 1792,
+      "stanovnistvo_2024": 1618,
+      "muskarci_2024": 771,
+      "zene_2024": 847
+    },
+    {
+      "grad_opcina": "Gorjani",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1520,
+      "stanovnistvo_2019": 1285,
+      "stanovnistvo_2024": 1112,
+      "muskarci_2024": 554,
+      "zene_2024": 558
+    },
+    {
+      "grad_opcina": "Jagodnjak",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1888,
+      "stanovnistvo_2019": 1549,
+      "stanovnistvo_2024": 1367,
+      "muskarci_2024": 667,
+      "zene_2024": 700
+    },
+    {
+      "grad_opcina": "Kneževi Vinogradi",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 4287,
+      "stanovnistvo_2019": 3513,
+      "stanovnistvo_2024": 3155,
+      "muskarci_2024": 1558,
+      "zene_2024": 1597
+    },
+    {
+      "grad_opcina": "Koška",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 3798,
+      "stanovnistvo_2019": 3288,
+      "stanovnistvo_2024": 3009,
+      "muskarci_2024": 1494,
+      "zene_2024": 1515
+    },
+    {
+      "grad_opcina": "Levanjska Varoš",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1070,
+      "stanovnistvo_2019": 810,
+      "stanovnistvo_2024": 682,
+      "muskarci_2024": 357,
+      "zene_2024": 325
+    },
+    {
+      "grad_opcina": "Magadenovac",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1852,
+      "stanovnistvo_2019": 1634,
+      "stanovnistvo_2024": 1515,
+      "muskarci_2024": 776,
+      "zene_2024": 739
+    },
+    {
+      "grad_opcina": "Marijanci",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 2294,
+      "stanovnistvo_2019": 2010,
+      "stanovnistvo_2024": 1812,
+      "muskarci_2024": 947,
+      "zene_2024": 865
+    },
+    {
+      "grad_opcina": "Našice",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 16019,
+      "stanovnistvo_2019": 14609,
+      "stanovnistvo_2024": 13708,
+      "muskarci_2024": 6698,
+      "zene_2024": 7010
+    },
+    {
+      "grad_opcina": "Osijek",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 105520,
+      "stanovnistvo_2019": 98104,
+      "stanovnistvo_2024": 95252,
+      "muskarci_2024": 44911,
+      "zene_2024": 50341
+    },
+    {
+      "grad_opcina": "Petlovac",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 2250,
+      "stanovnistvo_2019": 1910,
+      "stanovnistvo_2024": 1754,
+      "muskarci_2024": 896,
+      "zene_2024": 858
+    },
+    {
+      "grad_opcina": "Petrijevci",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 2815,
+      "stanovnistvo_2019": 2566,
+      "stanovnistvo_2024": 2414,
+      "muskarci_2024": 1214,
+      "zene_2024": 1200
+    },
+    {
+      "grad_opcina": "Podgorač",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 2832,
+      "stanovnistvo_2019": 2510,
+      "stanovnistvo_2024": 2435,
+      "muskarci_2024": 1281,
+      "zene_2024": 1154
+    },
+    {
+      "grad_opcina": "Podravska Moslavina",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1136,
+      "stanovnistvo_2019": 987,
+      "stanovnistvo_2024": 866,
+      "muskarci_2024": 432,
+      "zene_2024": 434
+    },
+    {
+      "grad_opcina": "Popovac",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1914,
+      "stanovnistvo_2019": 1535,
+      "stanovnistvo_2024": 1309,
+      "muskarci_2024": 640,
+      "zene_2024": 669
+    },
+    {
+      "grad_opcina": "Punitovci",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1745,
+      "stanovnistvo_2019": 1579,
+      "stanovnistvo_2024": 1541,
+      "muskarci_2024": 766,
+      "zene_2024": 775
+    },
+    {
+      "grad_opcina": "Satnica Đakovačka",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 2053,
+      "stanovnistvo_2019": 1818,
+      "stanovnistvo_2024": 1636,
+      "muskarci_2024": 853,
+      "zene_2024": 783
+    },
+    {
+      "grad_opcina": "Semeljci",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 4191,
+      "stanovnistvo_2019": 3662,
+      "stanovnistvo_2024": 3358,
+      "muskarci_2024": 1724,
+      "zene_2024": 1634
+    },
+    {
+      "grad_opcina": "Strizivojna",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 2444,
+      "stanovnistvo_2019": 2119,
+      "stanovnistvo_2024": 1889,
+      "muskarci_2024": 955,
+      "zene_2024": 934
+    },
+    {
+      "grad_opcina": "Šodolovci",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1482,
+      "stanovnistvo_2019": 1270,
+      "stanovnistvo_2024": 1155,
+      "muskarci_2024": 572,
+      "zene_2024": 583
+    },
+    {
+      "grad_opcina": "Trnava",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1514,
+      "stanovnistvo_2019": 1285,
+      "stanovnistvo_2024": 1160,
+      "muskarci_2024": 589,
+      "zene_2024": 571
+    },
+    {
+      "grad_opcina": "Valpovo",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 11150,
+      "stanovnistvo_2019": 10065,
+      "stanovnistvo_2024": 9516,
+      "muskarci_2024": 4585,
+      "zene_2024": 4931
+    },
+    {
+      "grad_opcina": "Viljevo",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1964,
+      "stanovnistvo_2019": 1676,
+      "stanovnistvo_2024": 1579,
+      "muskarci_2024": 808,
+      "zene_2024": 771
+    },
+    {
+      "grad_opcina": "Viškovci",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1811,
+      "stanovnistvo_2019": 1545,
+      "stanovnistvo_2024": 1379,
+      "muskarci_2024": 682,
+      "zene_2024": 697
+    },
+    {
+      "grad_opcina": "Vladislavci",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1812,
+      "stanovnistvo_2019": 1607,
+      "stanovnistvo_2024": 1496,
+      "muskarci_2024": 760,
+      "zene_2024": 736
+    },
+    {
+      "grad_opcina": "Vuka",
+      "zupanija": "Osječko-baranjska županija",
+      "stanovnistvo_2014": 1143,
+      "stanovnistvo_2019": 996,
+      "stanovnistvo_2024": 933,
+      "muskarci_2024": 445,
+      "zene_2024": 488
+    },
+    {
+      "grad_opcina": "Bilice",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 2468,
+      "stanovnistvo_2019": 2544,
+      "stanovnistvo_2024": 2649,
+      "muskarci_2024": 1312,
+      "zene_2024": 1337
+    },
+    {
+      "grad_opcina": "Biskupija",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 1355,
+      "stanovnistvo_2019": 1206,
+      "stanovnistvo_2024": 1099,
+      "muskarci_2024": 582,
+      "zene_2024": 517
+    },
+    {
+      "grad_opcina": "Civljane",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 166,
+      "stanovnistvo_2019": 176,
+      "stanovnistvo_2024": 148,
+      "muskarci_2024": 71,
+      "zene_2024": 77
+    },
+    {
+      "grad_opcina": "Drniš",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 7066,
+      "stanovnistvo_2019": 6314,
+      "stanovnistvo_2024": 6157,
+      "muskarci_2024": 3169,
+      "zene_2024": 2988
+    },
+    {
+      "grad_opcina": "Ervenik",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 836,
+      "stanovnistvo_2019": 814,
+      "stanovnistvo_2024": 704,
+      "muskarci_2024": 379,
+      "zene_2024": 325
+    },
+    {
+      "grad_opcina": "Kijevo",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 322,
+      "stanovnistvo_2019": 302,
+      "stanovnistvo_2024": 262,
+      "muskarci_2024": 139,
+      "zene_2024": 123
+    },
+    {
+      "grad_opcina": "Kistanje",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 2953,
+      "stanovnistvo_2019": 2716,
+      "stanovnistvo_2024": 2518,
+      "muskarci_2024": 1315,
+      "zene_2024": 1203
+    },
+    {
+      "grad_opcina": "Knin",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 13733,
+      "stanovnistvo_2019": 12053,
+      "stanovnistvo_2024": 10674,
+      "muskarci_2024": 5252,
+      "zene_2024": 5422
+    },
+    {
+      "grad_opcina": "Murter-Kornati",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 2068,
+      "stanovnistvo_2019": 1987,
+      "stanovnistvo_2024": 1994,
+      "muskarci_2024": 982,
+      "zene_2024": 1012
+    },
+    {
+      "grad_opcina": "Pirovac",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 1839,
+      "stanovnistvo_2019": 1673,
+      "stanovnistvo_2024": 1764,
+      "muskarci_2024": 945,
+      "zene_2024": 819
+    },
+    {
+      "grad_opcina": "Primošten",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 2803,
+      "stanovnistvo_2019": 2649,
+      "stanovnistvo_2024": 2628,
+      "muskarci_2024": 1325,
+      "zene_2024": 1303
+    },
+    {
+      "grad_opcina": "Promina",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 1030,
+      "stanovnistvo_2019": 1006,
+      "stanovnistvo_2024": 936,
+      "muskarci_2024": 462,
+      "zene_2024": 474
+    },
+    {
+      "grad_opcina": "Rogoznica",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 2374,
+      "stanovnistvo_2019": 2158,
+      "stanovnistvo_2024": 2260,
+      "muskarci_2024": 1156,
+      "zene_2024": 1104
+    },
+    {
+      "grad_opcina": "Ružić",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 1502,
+      "stanovnistvo_2019": 1320,
+      "stanovnistvo_2024": 1243,
+      "muskarci_2024": 622,
+      "zene_2024": 621
+    },
+    {
+      "grad_opcina": "Skradin",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 3722,
+      "stanovnistvo_2019": 3491,
+      "stanovnistvo_2024": 3006,
+      "muskarci_2024": 1578,
+      "zene_2024": 1428
+    },
+    {
+      "grad_opcina": "Šibenik",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 45449,
+      "stanovnistvo_2019": 43512,
+      "stanovnistvo_2024": 42337,
+      "muskarci_2024": 20553,
+      "zene_2024": 21784
+    },
+    {
+      "grad_opcina": "Tisno",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 3100,
+      "stanovnistvo_2019": 2922,
+      "stanovnistvo_2024": 3102,
+      "muskarci_2024": 1522,
+      "zene_2024": 1580
+    },
+    {
+      "grad_opcina": "Tribunj",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 1570,
+      "stanovnistvo_2019": 1586,
+      "stanovnistvo_2024": 1655,
+      "muskarci_2024": 788,
+      "zene_2024": 867
+    },
+    {
+      "grad_opcina": "Unešić",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 1476,
+      "stanovnistvo_2019": 1272,
+      "stanovnistvo_2024": 1203,
+      "muskarci_2024": 620,
+      "zene_2024": 583
+    },
+    {
+      "grad_opcina": "Vodice",
+      "zupanija": "Šibensko-kninska županija",
+      "stanovnistvo_2014": 9071,
+      "stanovnistvo_2019": 8655,
+      "stanovnistvo_2024": 9559,
+      "muskarci_2024": 4801,
+      "zene_2024": 4758
+    },
+    {
+      "grad_opcina": "Andrijaševci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 4003,
+      "stanovnistvo_2019": 3523,
+      "stanovnistvo_2024": 3290,
+      "muskarci_2024": 1615,
+      "zene_2024": 1675
+    },
+    {
+      "grad_opcina": "Babina Greda",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 3473,
+      "stanovnistvo_2019": 2842,
+      "stanovnistvo_2024": 2633,
+      "muskarci_2024": 1343,
+      "zene_2024": 1290
+    },
+    {
+      "grad_opcina": "Bogdanovci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 1867,
+      "stanovnistvo_2019": 1572,
+      "stanovnistvo_2024": 1423,
+      "muskarci_2024": 722,
+      "zene_2024": 701
+    },
+    {
+      "grad_opcina": "Borovo",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 4681,
+      "stanovnistvo_2019": 3750,
+      "stanovnistvo_2024": 3382,
+      "muskarci_2024": 1655,
+      "zene_2024": 1727
+    },
+    {
+      "grad_opcina": "Bošnjaci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 3589,
+      "stanovnistvo_2019": 2989,
+      "stanovnistvo_2024": 2617,
+      "muskarci_2024": 1302,
+      "zene_2024": 1315
+    },
+    {
+      "grad_opcina": "Cerna",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 4447,
+      "stanovnistvo_2019": 3780,
+      "stanovnistvo_2024": 3503,
+      "muskarci_2024": 1754,
+      "zene_2024": 1749
+    },
+    {
+      "grad_opcina": "Drenovci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 4796,
+      "stanovnistvo_2019": 3878,
+      "stanovnistvo_2024": 3366,
+      "muskarci_2024": 1676,
+      "zene_2024": 1690
+    },
+    {
+      "grad_opcina": "Gradište",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 2686,
+      "stanovnistvo_2019": 2318,
+      "stanovnistvo_2024": 2071,
+      "muskarci_2024": 1057,
+      "zene_2024": 1014
+    },
+    {
+      "grad_opcina": "Gunja",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 3487,
+      "stanovnistvo_2019": 2732,
+      "stanovnistvo_2024": 2344,
+      "muskarci_2024": 1105,
+      "zene_2024": 1239
+    },
+    {
+      "grad_opcina": "Ilok",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 6368,
+      "stanovnistvo_2019": 5329,
+      "stanovnistvo_2024": 4897,
+      "muskarci_2024": 2344,
+      "zene_2024": 2553
+    },
+    {
+      "grad_opcina": "Ivankovo",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 7728,
+      "stanovnistvo_2019": 6703,
+      "stanovnistvo_2024": 6386,
+      "muskarci_2024": 3220,
+      "zene_2024": 3166
+    },
+    {
+      "grad_opcina": "Jarmina",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 2357,
+      "stanovnistvo_2019": 2114,
+      "stanovnistvo_2024": 1937,
+      "muskarci_2024": 935,
+      "zene_2024": 1002
+    },
+    {
+      "grad_opcina": "Lovas",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 1128,
+      "stanovnistvo_2019": 1002,
+      "stanovnistvo_2024": 920,
+      "muskarci_2024": 447,
+      "zene_2024": 473
+    },
+    {
+      "grad_opcina": "Markušica",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 2321,
+      "stanovnistvo_2019": 1878,
+      "stanovnistvo_2024": 1582,
+      "muskarci_2024": 761,
+      "zene_2024": 821
+    },
+    {
+      "grad_opcina": "Negoslavci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 1314,
+      "stanovnistvo_2019": 1053,
+      "stanovnistvo_2024": 898,
+      "muskarci_2024": 442,
+      "zene_2024": 456
+    },
+    {
+      "grad_opcina": "Nijemci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 4297,
+      "stanovnistvo_2019": 3643,
+      "stanovnistvo_2024": 3273,
+      "muskarci_2024": 1650,
+      "zene_2024": 1623
+    },
+    {
+      "grad_opcina": "Nuštar",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 5578,
+      "stanovnistvo_2019": 5017,
+      "stanovnistvo_2024": 4677,
+      "muskarci_2024": 2331,
+      "zene_2024": 2346
+    },
+    {
+      "grad_opcina": "Otok (Vukovarsko-srijemska županija)",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 6042,
+      "stanovnistvo_2019": 5106,
+      "stanovnistvo_2024": 4627,
+      "muskarci_2024": 2323,
+      "zene_2024": 2304
+    },
+    {
+      "grad_opcina": "Privlaka (Vukovarsko-srijemska županija)",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 2747,
+      "stanovnistvo_2019": 2271,
+      "stanovnistvo_2024": 2028,
+      "muskarci_2024": 1020,
+      "zene_2024": 1008
+    },
+    {
+      "grad_opcina": "Stari Jankovci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 4093,
+      "stanovnistvo_2019": 3431,
+      "stanovnistvo_2024": 3014,
+      "muskarci_2024": 1471,
+      "zene_2024": 1543
+    },
+    {
+      "grad_opcina": "Stari Mikanovci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 2817,
+      "stanovnistvo_2019": 2512,
+      "stanovnistvo_2024": 2252,
+      "muskarci_2024": 1089,
+      "zene_2024": 1163
+    },
+    {
+      "grad_opcina": "Štitar",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 2063,
+      "stanovnistvo_2019": 1613,
+      "stanovnistvo_2024": 1452,
+      "muskarci_2024": 775,
+      "zene_2024": 677
+    },
+    {
+      "grad_opcina": "Tompojevci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 1430,
+      "stanovnistvo_2019": 1159,
+      "stanovnistvo_2024": 1019,
+      "muskarci_2024": 498,
+      "zene_2024": 521
+    },
+    {
+      "grad_opcina": "Tordinci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 1903,
+      "stanovnistvo_2019": 1710,
+      "stanovnistvo_2024": 1576,
+      "muskarci_2024": 813,
+      "zene_2024": 763
+    },
+    {
+      "grad_opcina": "Tovarnik",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 2596,
+      "stanovnistvo_2019": 2132,
+      "stanovnistvo_2024": 1961,
+      "muskarci_2024": 998,
+      "zene_2024": 963
+    },
+    {
+      "grad_opcina": "Trpinja",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 5150,
+      "stanovnistvo_2019": 4396,
+      "stanovnistvo_2024": 3817,
+      "muskarci_2024": 1857,
+      "zene_2024": 1960
+    },
+    {
+      "grad_opcina": "Vinkovci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 34775,
+      "stanovnistvo_2019": 31631,
+      "stanovnistvo_2024": 30199,
+      "muskarci_2024": 14429,
+      "zene_2024": 15770
+    },
+    {
+      "grad_opcina": "Vođinci",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 1904,
+      "stanovnistvo_2019": 1681,
+      "stanovnistvo_2024": 1571,
+      "muskarci_2024": 804,
+      "zene_2024": 767
+    },
+    {
+      "grad_opcina": "Vrbanja",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 3697,
+      "stanovnistvo_2019": 3030,
+      "stanovnistvo_2024": 2697,
+      "muskarci_2024": 1362,
+      "zene_2024": 1335
+    },
+    {
+      "grad_opcina": "Vukovar",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 25876,
+      "stanovnistvo_2019": 23334,
+      "stanovnistvo_2024": 22695,
+      "muskarci_2024": 10773,
+      "zene_2024": 11922
+    },
+    {
+      "grad_opcina": "Županja",
+      "zupanija": "Vukovarsko-srijemska županija",
+      "stanovnistvo_2014": 11565,
+      "stanovnistvo_2019": 9501,
+      "stanovnistvo_2024": 8690,
+      "muskarci_2024": 4227,
+      "zene_2024": 4463
+    },
+    {
+      "grad_opcina": "Baška Voda",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 2800,
+      "stanovnistvo_2019": 2637,
+      "stanovnistvo_2024": 2643,
+      "muskarci_2024": 1275,
+      "zene_2024": 1368
+    },
+    {
+      "grad_opcina": "Bol",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1703,
+      "stanovnistvo_2019": 1695,
+      "stanovnistvo_2024": 1740,
+      "muskarci_2024": 857,
+      "zene_2024": 883
+    },
+    {
+      "grad_opcina": "Brela",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1699,
+      "stanovnistvo_2019": 1637,
+      "stanovnistvo_2024": 1724,
+      "muskarci_2024": 812,
+      "zene_2024": 912
+    },
+    {
+      "grad_opcina": "Cista Provo",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 2100,
+      "stanovnistvo_2019": 1859,
+      "stanovnistvo_2024": 1712,
+      "muskarci_2024": 862,
+      "zene_2024": 850
+    },
+    {
+      "grad_opcina": "Dicmo",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 2750,
+      "stanovnistvo_2019": 2836,
+      "stanovnistvo_2024": 2976,
+      "muskarci_2024": 1529,
+      "zene_2024": 1447
+    },
+    {
+      "grad_opcina": "Dugi Rat",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 7085,
+      "stanovnistvo_2019": 6931,
+      "stanovnistvo_2024": 6834,
+      "muskarci_2024": 3358,
+      "zene_2024": 3476
+    },
+    {
+      "grad_opcina": "Dugopolje",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 3691,
+      "stanovnistvo_2019": 3713,
+      "stanovnistvo_2024": 4022,
+      "muskarci_2024": 2053,
+      "zene_2024": 1969
+    },
+    {
+      "grad_opcina": "Gradac",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 2986,
+      "stanovnistvo_2019": 2477,
+      "stanovnistvo_2024": 2404,
+      "muskarci_2024": 1153,
+      "zene_2024": 1251
+    },
+    {
+      "grad_opcina": "Hrvace",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 3348,
+      "stanovnistvo_2019": 3178,
+      "stanovnistvo_2024": 3043,
+      "muskarci_2024": 1602,
+      "zene_2024": 1441
+    },
+    {
+      "grad_opcina": "Hvar",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 4244,
+      "stanovnistvo_2019": 4027,
+      "stanovnistvo_2024": 4192,
+      "muskarci_2024": 1994,
+      "zene_2024": 2198
+    },
+    {
+      "grad_opcina": "Imotski",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 10305,
+      "stanovnistvo_2019": 9343,
+      "stanovnistvo_2024": 9174,
+      "muskarci_2024": 4557,
+      "zene_2024": 4617
+    },
+    {
+      "grad_opcina": "Jelsa",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 3511,
+      "stanovnistvo_2019": 3479,
+      "stanovnistvo_2024": 3830,
+      "muskarci_2024": 1963,
+      "zene_2024": 1867
+    },
+    {
+      "grad_opcina": "Kaštela",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 39512,
+      "stanovnistvo_2019": 38285,
+      "stanovnistvo_2024": 39618,
+      "muskarci_2024": 19469,
+      "zene_2024": 20149
+    },
+    {
+      "grad_opcina": "Klis",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 4917,
+      "stanovnistvo_2019": 5154,
+      "stanovnistvo_2024": 5688,
+      "muskarci_2024": 2893,
+      "zene_2024": 2795
+    },
+    {
+      "grad_opcina": "Komiža",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1518,
+      "stanovnistvo_2019": 1372,
+      "stanovnistvo_2024": 1437,
+      "muskarci_2024": 755,
+      "zene_2024": 682
+    },
+    {
+      "grad_opcina": "Lećevica",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 514,
+      "stanovnistvo_2019": 492,
+      "stanovnistvo_2024": 476,
+      "muskarci_2024": 274,
+      "zene_2024": 202
+    },
+    {
+      "grad_opcina": "Lokvičići",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 740,
+      "stanovnistvo_2019": 680,
+      "stanovnistvo_2024": 620,
+      "muskarci_2024": 315,
+      "zene_2024": 305
+    },
+    {
+      "grad_opcina": "Lovreć",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1521,
+      "stanovnistvo_2019": 1391,
+      "stanovnistvo_2024": 1385,
+      "muskarci_2024": 716,
+      "zene_2024": 669
+    },
+    {
+      "grad_opcina": "Makarska",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 13908,
+      "stanovnistvo_2019": 13483,
+      "stanovnistvo_2024": 14153,
+      "muskarci_2024": 6807,
+      "zene_2024": 7346
+    },
+    {
+      "grad_opcina": "Marina",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 4520,
+      "stanovnistvo_2019": 4314,
+      "stanovnistvo_2024": 4371,
+      "muskarci_2024": 2187,
+      "zene_2024": 2184
+    },
+    {
+      "grad_opcina": "Milna",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1050,
+      "stanovnistvo_2019": 938,
+      "stanovnistvo_2024": 1031,
+      "muskarci_2024": 525,
+      "zene_2024": 506
+    },
+    {
+      "grad_opcina": "Muć",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 3762,
+      "stanovnistvo_2019": 3541,
+      "stanovnistvo_2024": 3432,
+      "muskarci_2024": 1795,
+      "zene_2024": 1637
+    },
+    {
+      "grad_opcina": "Nerežišća",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 887,
+      "stanovnistvo_2019": 860,
+      "stanovnistvo_2024": 906,
+      "muskarci_2024": 462,
+      "zene_2024": 444
+    },
+    {
+      "grad_opcina": "Okrug",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 3463,
+      "stanovnistvo_2019": 3138,
+      "stanovnistvo_2024": 3314,
+      "muskarci_2024": 1606,
+      "zene_2024": 1708
+    },
+    {
+      "grad_opcina": "Omiš",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 14770,
+      "stanovnistvo_2019": 14297,
+      "stanovnistvo_2024": 14356,
+      "muskarci_2024": 7187,
+      "zene_2024": 7169
+    },
+    {
+      "grad_opcina": "Otok (Splitsko-dalmatinska županija)",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 5252,
+      "stanovnistvo_2019": 5037,
+      "stanovnistvo_2024": 5143,
+      "muskarci_2024": 2701,
+      "zene_2024": 2442
+    },
+    {
+      "grad_opcina": "Podbablje",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 4381,
+      "stanovnistvo_2019": 4082,
+      "stanovnistvo_2024": 3938,
+      "muskarci_2024": 1966,
+      "zene_2024": 1972
+    },
+    {
+      "grad_opcina": "Podgora",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 2462,
+      "stanovnistvo_2019": 2303,
+      "stanovnistvo_2024": 2283,
+      "muskarci_2024": 1129,
+      "zene_2024": 1154
+    },
+    {
+      "grad_opcina": "Podstrana",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 10055,
+      "stanovnistvo_2019": 10414,
+      "stanovnistvo_2024": 11825,
+      "muskarci_2024": 5867,
+      "zene_2024": 5958
+    },
+    {
+      "grad_opcina": "Postira",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1564,
+      "stanovnistvo_2019": 1556,
+      "stanovnistvo_2024": 1569,
+      "muskarci_2024": 795,
+      "zene_2024": 774
+    },
+    {
+      "grad_opcina": "Prgomet",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 594,
+      "stanovnistvo_2019": 533,
+      "stanovnistvo_2024": 456,
+      "muskarci_2024": 237,
+      "zene_2024": 219
+    },
+    {
+      "grad_opcina": "Primorski Dolac",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 739,
+      "stanovnistvo_2019": 699,
+      "stanovnistvo_2024": 669,
+      "muskarci_2024": 334,
+      "zene_2024": 335
+    },
+    {
+      "grad_opcina": "Proložac",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 3510,
+      "stanovnistvo_2019": 3157,
+      "stanovnistvo_2024": 3080,
+      "muskarci_2024": 1569,
+      "zene_2024": 1511
+    },
+    {
+      "grad_opcina": "Pučišća",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 2156,
+      "stanovnistvo_2019": 1997,
+      "stanovnistvo_2024": 1846,
+      "muskarci_2024": 937,
+      "zene_2024": 909
+    },
+    {
+      "grad_opcina": "Runovići",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 2273,
+      "stanovnistvo_2019": 2051,
+      "stanovnistvo_2024": 1892,
+      "muskarci_2024": 947,
+      "zene_2024": 945
+    },
+    {
+      "grad_opcina": "Seget",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 4748,
+      "stanovnistvo_2019": 4515,
+      "stanovnistvo_2024": 4834,
+      "muskarci_2024": 2368,
+      "zene_2024": 2466
+    },
+    {
+      "grad_opcina": "Selca",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1765,
+      "stanovnistvo_2019": 1608,
+      "stanovnistvo_2024": 1639,
+      "muskarci_2024": 830,
+      "zene_2024": 809
+    },
+    {
+      "grad_opcina": "Sinj",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 24479,
+      "stanovnistvo_2019": 23612,
+      "stanovnistvo_2024": 23616,
+      "muskarci_2024": 11687,
+      "zene_2024": 11929
+    },
+    {
+      "grad_opcina": "Solin",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 24706,
+      "stanovnistvo_2019": 24868,
+      "stanovnistvo_2024": 26018,
+      "muskarci_2024": 12851,
+      "zene_2024": 13167
+    },
+    {
+      "grad_opcina": "Split",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 172372,
+      "stanovnistvo_2019": 164198,
+      "stanovnistvo_2024": 158636,
+      "muskarci_2024": 75136,
+      "zene_2024": 83500
+    },
+    {
+      "grad_opcina": "Stari Grad",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 2796,
+      "stanovnistvo_2019": 2720,
+      "stanovnistvo_2024": 2963,
+      "muskarci_2024": 1492,
+      "zene_2024": 1471
+    },
+    {
+      "grad_opcina": "Sućuraj",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 491,
+      "stanovnistvo_2019": 430,
+      "stanovnistvo_2024": 455,
+      "muskarci_2024": 234,
+      "zene_2024": 221
+    },
+    {
+      "grad_opcina": "Supetar",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 4285,
+      "stanovnistvo_2019": 4332,
+      "stanovnistvo_2024": 4665,
+      "muskarci_2024": 2296,
+      "zene_2024": 2369
+    },
+    {
+      "grad_opcina": "Sutivan",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 879,
+      "stanovnistvo_2019": 907,
+      "stanovnistvo_2024": 1058,
+      "muskarci_2024": 524,
+      "zene_2024": 534
+    },
+    {
+      "grad_opcina": "Šestanovac",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1792,
+      "stanovnistvo_2019": 1694,
+      "stanovnistvo_2024": 1611,
+      "muskarci_2024": 847,
+      "zene_2024": 764
+    },
+    {
+      "grad_opcina": "Šolta",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1895,
+      "stanovnistvo_2019": 1972,
+      "stanovnistvo_2024": 2113,
+      "muskarci_2024": 1090,
+      "zene_2024": 1023
+    },
+    {
+      "grad_opcina": "Trilj",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 8722,
+      "stanovnistvo_2019": 8245,
+      "stanovnistvo_2024": 8166,
+      "muskarci_2024": 4128,
+      "zene_2024": 4038
+    },
+    {
+      "grad_opcina": "Trogir",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 13097,
+      "stanovnistvo_2019": 12560,
+      "stanovnistvo_2024": 12764,
+      "muskarci_2024": 6142,
+      "zene_2024": 6622
+    },
+    {
+      "grad_opcina": "Tučepi",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1930,
+      "stanovnistvo_2019": 1835,
+      "stanovnistvo_2024": 1882,
+      "muskarci_2024": 899,
+      "zene_2024": 983
+    },
+    {
+      "grad_opcina": "Vis",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1991,
+      "stanovnistvo_2019": 1943,
+      "stanovnistvo_2024": 2075,
+      "muskarci_2024": 1007,
+      "zene_2024": 1068
+    },
+    {
+      "grad_opcina": "Vrgorac",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 6129,
+      "stanovnistvo_2019": 5760,
+      "stanovnistvo_2024": 5730,
+      "muskarci_2024": 2919,
+      "zene_2024": 2811
+    },
+    {
+      "grad_opcina": "Vrlika",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1888,
+      "stanovnistvo_2019": 1774,
+      "stanovnistvo_2024": 1648,
+      "muskarci_2024": 848,
+      "zene_2024": 800
+    },
+    {
+      "grad_opcina": "Zadvarje",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 302,
+      "stanovnistvo_2019": 289,
+      "stanovnistvo_2024": 287,
+      "muskarci_2024": 136,
+      "zene_2024": 151
+    },
+    {
+      "grad_opcina": "Zagvozd",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1045,
+      "stanovnistvo_2019": 958,
+      "stanovnistvo_2024": 935,
+      "muskarci_2024": 475,
+      "zene_2024": 460
+    },
+    {
+      "grad_opcina": "Zmijavci",
+      "zupanija": "Splitsko-dalmatinska županija",
+      "stanovnistvo_2014": 1920,
+      "stanovnistvo_2019": 1708,
+      "stanovnistvo_2024": 1649,
+      "muskarci_2024": 821,
+      "zene_2024": 828
+    },
+    {
+      "grad_opcina": "Bale - Valle",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1132,
+      "stanovnistvo_2019": 1144,
+      "stanovnistvo_2024": 1330,
+      "muskarci_2024": 697,
+      "zene_2024": 633
+    },
+    {
+      "grad_opcina": "Barban",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 2677,
+      "stanovnistvo_2019": 2504,
+      "stanovnistvo_2024": 2570,
+      "muskarci_2024": 1256,
+      "zene_2024": 1314
+    },
+    {
+      "grad_opcina": "Brtonigla - Verteneglio",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1572,
+      "stanovnistvo_2019": 1535,
+      "stanovnistvo_2024": 1552,
+      "muskarci_2024": 795,
+      "zene_2024": 757
+    },
+    {
+      "grad_opcina": "Buje - Buie",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 4914,
+      "stanovnistvo_2019": 4298,
+      "stanovnistvo_2024": 4481,
+      "muskarci_2024": 2192,
+      "zene_2024": 2289
+    },
+    {
+      "grad_opcina": "Buzet",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 6033,
+      "stanovnistvo_2019": 5936,
+      "stanovnistvo_2024": 6271,
+      "muskarci_2024": 3192,
+      "zene_2024": 3079
+    },
+    {
+      "grad_opcina": "Cerovlje",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1586,
+      "stanovnistvo_2019": 1495,
+      "stanovnistvo_2024": 1432,
+      "muskarci_2024": 739,
+      "zene_2024": 693
+    },
+    {
+      "grad_opcina": "Fažana - Fasana",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 3641,
+      "stanovnistvo_2019": 3447,
+      "stanovnistvo_2024": 3640,
+      "muskarci_2024": 1799,
+      "zene_2024": 1841
+    },
+    {
+      "grad_opcina": "Funtana - Fontane",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 901,
+      "stanovnistvo_2019": 907,
+      "stanovnistvo_2024": 1153,
+      "muskarci_2024": 504,
+      "zene_2024": 649
+    },
+    {
+      "grad_opcina": "Gračišće",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1378,
+      "stanovnistvo_2019": 1313,
+      "stanovnistvo_2024": 1301,
+      "muskarci_2024": 672,
+      "zene_2024": 629
+    },
+    {
+      "grad_opcina": "Grožnjan - Grisignana",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 704,
+      "stanovnistvo_2019": 669,
+      "stanovnistvo_2024": 648,
+      "muskarci_2024": 310,
+      "zene_2024": 338
+    },
+    {
+      "grad_opcina": "Kanfanar",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1445,
+      "stanovnistvo_2019": 1465,
+      "stanovnistvo_2024": 1830,
+      "muskarci_2024": 1010,
+      "zene_2024": 820
+    },
+    {
+      "grad_opcina": "Karojba",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1406,
+      "stanovnistvo_2019": 1398,
+      "stanovnistvo_2024": 1425,
+      "muskarci_2024": 694,
+      "zene_2024": 731
+    },
+    {
+      "grad_opcina": "Kaštelir-Labinci-Castellie-S.Domenica",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1439,
+      "stanovnistvo_2019": 1454,
+      "stanovnistvo_2024": 1669,
+      "muskarci_2024": 867,
+      "zene_2024": 802
+    },
+    {
+      "grad_opcina": "Kršan",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 2878,
+      "stanovnistvo_2019": 2812,
+      "stanovnistvo_2024": 2964,
+      "muskarci_2024": 1523,
+      "zene_2024": 1441
+    },
+    {
+      "grad_opcina": "Labin",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 11196,
+      "stanovnistvo_2019": 10504,
+      "stanovnistvo_2024": 10315,
+      "muskarci_2024": 5002,
+      "zene_2024": 5313
+    },
+    {
+      "grad_opcina": "Lanišće",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 311,
+      "stanovnistvo_2019": 268,
+      "stanovnistvo_2024": 259,
+      "muskarci_2024": 138,
+      "zene_2024": 121
+    },
+    {
+      "grad_opcina": "Ližnjan- Lisignano",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 4115,
+      "stanovnistvo_2019": 4092,
+      "stanovnistvo_2024": 4508,
+      "muskarci_2024": 2231,
+      "zene_2024": 2277
+    },
+    {
+      "grad_opcina": "Lupoglav",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 904,
+      "stanovnistvo_2019": 834,
+      "stanovnistvo_2024": 825,
+      "muskarci_2024": 440,
+      "zene_2024": 385
+    },
+    {
+      "grad_opcina": "Marčana",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 4309,
+      "stanovnistvo_2019": 4212,
+      "stanovnistvo_2024": 4550,
+      "muskarci_2024": 2251,
+      "zene_2024": 2299
+    },
+    {
+      "grad_opcina": "Medulin",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 6539,
+      "stanovnistvo_2019": 6586,
+      "stanovnistvo_2024": 7875,
+      "muskarci_2024": 3962,
+      "zene_2024": 3913
+    },
+    {
+      "grad_opcina": "Motovun - Montona",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 939,
+      "stanovnistvo_2019": 936,
+      "stanovnistvo_2024": 926,
+      "muskarci_2024": 482,
+      "zene_2024": 444
+    },
+    {
+      "grad_opcina": "Novigrad - Cittanova",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 4094,
+      "stanovnistvo_2019": 3983,
+      "stanovnistvo_2024": 4116,
+      "muskarci_2024": 1923,
+      "zene_2024": 2193
+    },
+    {
+      "grad_opcina": "Oprtalj - Portole",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 821,
+      "stanovnistvo_2019": 728,
+      "stanovnistvo_2024": 763,
+      "muskarci_2024": 361,
+      "zene_2024": 402
+    },
+    {
+      "grad_opcina": "Pazin",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 8477,
+      "stanovnistvo_2019": 8347,
+      "stanovnistvo_2024": 8289,
+      "muskarci_2024": 4124,
+      "zene_2024": 4165
+    },
+    {
+      "grad_opcina": "Pićan",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1785,
+      "stanovnistvo_2019": 1728,
+      "stanovnistvo_2024": 1700,
+      "muskarci_2024": 857,
+      "zene_2024": 843
+    },
+    {
+      "grad_opcina": "Poreč - Parenzo",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 16512,
+      "stanovnistvo_2019": 16669,
+      "stanovnistvo_2024": 18262,
+      "muskarci_2024": 9037,
+      "zene_2024": 9225
+    },
+    {
+      "grad_opcina": "Pula - Pola",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 55622,
+      "stanovnistvo_2019": 53377,
+      "stanovnistvo_2024": 53357,
+      "muskarci_2024": 25809,
+      "zene_2024": 27548
+    },
+    {
+      "grad_opcina": "Raša",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 3060,
+      "stanovnistvo_2019": 2855,
+      "stanovnistvo_2024": 2770,
+      "muskarci_2024": 1365,
+      "zene_2024": 1405
+    },
+    {
+      "grad_opcina": "Rovinj - Rovigno",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 13992,
+      "stanovnistvo_2019": 13262,
+      "stanovnistvo_2024": 13914,
+      "muskarci_2024": 6618,
+      "zene_2024": 7296
+    },
+    {
+      "grad_opcina": "Sveta Nedelja (Istarska županija)",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 2967,
+      "stanovnistvo_2019": 2920,
+      "stanovnistvo_2024": 3000,
+      "muskarci_2024": 1496,
+      "zene_2024": 1504
+    },
+    {
+      "grad_opcina": "Sveti Lovreč",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1007,
+      "stanovnistvo_2019": 955,
+      "stanovnistvo_2024": 1023,
+      "muskarci_2024": 504,
+      "zene_2024": 519
+    },
+    {
+      "grad_opcina": "Sveti Petar u Šumi",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1037,
+      "stanovnistvo_2019": 1027,
+      "stanovnistvo_2024": 1193,
+      "muskarci_2024": 594,
+      "zene_2024": 599
+    },
+    {
+      "grad_opcina": "Svetvinčenat",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 2201,
+      "stanovnistvo_2019": 2148,
+      "stanovnistvo_2024": 2248,
+      "muskarci_2024": 1151,
+      "zene_2024": 1097
+    },
+    {
+      "grad_opcina": "Tar-Vabriga - Torre-Abrega",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 2027,
+      "stanovnistvo_2019": 2112,
+      "stanovnistvo_2024": 2430,
+      "muskarci_2024": 1178,
+      "zene_2024": 1252
+    },
+    {
+      "grad_opcina": "Tinjan",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1664,
+      "stanovnistvo_2019": 1694,
+      "stanovnistvo_2024": 1783,
+      "muskarci_2024": 895,
+      "zene_2024": 888
+    },
+    {
+      "grad_opcina": "Umag - Umago",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 13172,
+      "stanovnistvo_2019": 12630,
+      "stanovnistvo_2024": 13250,
+      "muskarci_2024": 6484,
+      "zene_2024": 6766
+    },
+    {
+      "grad_opcina": "Višnjan - Visignano",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 2230,
+      "stanovnistvo_2019": 2101,
+      "stanovnistvo_2024": 2190,
+      "muskarci_2024": 1106,
+      "zene_2024": 1084
+    },
+    {
+      "grad_opcina": "Vižinada - Visinada",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 1156,
+      "stanovnistvo_2019": 1104,
+      "stanovnistvo_2024": 1200,
+      "muskarci_2024": 616,
+      "zene_2024": 584
+    },
+    {
+      "grad_opcina": "Vodnjan - Dignano",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 6018,
+      "stanovnistvo_2019": 5834,
+      "stanovnistvo_2024": 6144,
+      "muskarci_2024": 3040,
+      "zene_2024": 3104
+    },
+    {
+      "grad_opcina": "Vrsar - Orsera",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 2084,
+      "stanovnistvo_2019": 1936,
+      "stanovnistvo_2024": 2149,
+      "muskarci_2024": 1031,
+      "zene_2024": 1118
+    },
+    {
+      "grad_opcina": "Žminj",
+      "zupanija": "Istarska županija",
+      "stanovnistvo_2014": 3461,
+      "stanovnistvo_2019": 3352,
+      "stanovnistvo_2024": 3404,
+      "muskarci_2024": 1669,
+      "zene_2024": 1735
+    },
+    {
+      "grad_opcina": "Blato",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 3569,
+      "stanovnistvo_2019": 3413,
+      "stanovnistvo_2024": 3388,
+      "muskarci_2024": 1663,
+      "zene_2024": 1725
+    },
+    {
+      "grad_opcina": "Dubrovačko primorje",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 2014,
+      "stanovnistvo_2019": 1667,
+      "stanovnistvo_2024": 1552,
+      "muskarci_2024": 799,
+      "zene_2024": 753
+    },
+    {
+      "grad_opcina": "Dubrovnik",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 42518,
+      "stanovnistvo_2019": 42258,
+      "stanovnistvo_2024": 42016,
+      "muskarci_2024": 19970,
+      "zene_2024": 22046
+    },
+    {
+      "grad_opcina": "Janjina",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 533,
+      "stanovnistvo_2019": 542,
+      "stanovnistvo_2024": 543,
+      "muskarci_2024": 292,
+      "zene_2024": 251
+    },
+    {
+      "grad_opcina": "Konavle",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 8460,
+      "stanovnistvo_2019": 8608,
+      "stanovnistvo_2024": 8897,
+      "muskarci_2024": 4400,
+      "zene_2024": 4497
+    },
+    {
+      "grad_opcina": "Korčula",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 5568,
+      "stanovnistvo_2019": 5406,
+      "stanovnistvo_2024": 5539,
+      "muskarci_2024": 2744,
+      "zene_2024": 2795
+    },
+    {
+      "grad_opcina": "Kula Norinska",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 1635,
+      "stanovnistvo_2019": 1469,
+      "stanovnistvo_2024": 1365,
+      "muskarci_2024": 712,
+      "zene_2024": 653
+    },
+    {
+      "grad_opcina": "Lastovo",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 788,
+      "stanovnistvo_2019": 753,
+      "stanovnistvo_2024": 716,
+      "muskarci_2024": 363,
+      "zene_2024": 353
+    },
+    {
+      "grad_opcina": "Lumbarda",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 1212,
+      "stanovnistvo_2019": 1185,
+      "stanovnistvo_2024": 1248,
+      "muskarci_2024": 624,
+      "zene_2024": 624
+    },
+    {
+      "grad_opcina": "Metković",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 16400,
+      "stanovnistvo_2019": 15354,
+      "stanovnistvo_2024": 15496,
+      "muskarci_2024": 7802,
+      "zene_2024": 7694
+    },
+    {
+      "grad_opcina": "Mljet",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 1105,
+      "stanovnistvo_2019": 1076,
+      "stanovnistvo_2024": 1073,
+      "muskarci_2024": 575,
+      "zene_2024": 498
+    },
+    {
+      "grad_opcina": "Opuzen",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 3095,
+      "stanovnistvo_2019": 2902,
+      "stanovnistvo_2024": 2807,
+      "muskarci_2024": 1419,
+      "zene_2024": 1388
+    },
+    {
+      "grad_opcina": "Orebić",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 4033,
+      "stanovnistvo_2019": 3769,
+      "stanovnistvo_2024": 3852,
+      "muskarci_2024": 1953,
+      "zene_2024": 1899
+    },
+    {
+      "grad_opcina": "Ploče",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 9367,
+      "stanovnistvo_2019": 8449,
+      "stanovnistvo_2024": 7867,
+      "muskarci_2024": 3860,
+      "zene_2024": 4007
+    },
+    {
+      "grad_opcina": "Pojezerje",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 971,
+      "stanovnistvo_2019": 938,
+      "stanovnistvo_2024": 892,
+      "muskarci_2024": 454,
+      "zene_2024": 438
+    },
+    {
+      "grad_opcina": "Slivno",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 1911,
+      "stanovnistvo_2019": 2057,
+      "stanovnistvo_2024": 1802,
+      "muskarci_2024": 1023,
+      "zene_2024": 779
+    },
+    {
+      "grad_opcina": "Smokvica",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 888,
+      "stanovnistvo_2019": 851,
+      "stanovnistvo_2024": 835,
+      "muskarci_2024": 425,
+      "zene_2024": 410
+    },
+    {
+      "grad_opcina": "Ston",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 2304,
+      "stanovnistvo_2019": 2402,
+      "stanovnistvo_2024": 2250,
+      "muskarci_2024": 1187,
+      "zene_2024": 1063
+    },
+    {
+      "grad_opcina": "Trpanj",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 722,
+      "stanovnistvo_2019": 700,
+      "stanovnistvo_2024": 659,
+      "muskarci_2024": 345,
+      "zene_2024": 314
+    },
+    {
+      "grad_opcina": "Vela Luka",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 4037,
+      "stanovnistvo_2019": 3843,
+      "stanovnistvo_2024": 3737,
+      "muskarci_2024": 1815,
+      "zene_2024": 1922
+    },
+    {
+      "grad_opcina": "Zažablje",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 679,
+      "stanovnistvo_2019": 582,
+      "stanovnistvo_2024": 488,
+      "muskarci_2024": 281,
+      "zene_2024": 207
+    },
+    {
+      "grad_opcina": "Župa dubrovačka",
+      "zupanija": "Dubrovačko-neretvanska županija",
+      "stanovnistvo_2014": 8599,
+      "stanovnistvo_2019": 8711,
+      "stanovnistvo_2024": 9371,
+      "muskarci_2024": 4711,
+      "zene_2024": 4660
+    },
+    {
+      "grad_opcina": "Belica",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 3080,
+      "stanovnistvo_2019": 2871,
+      "stanovnistvo_2024": 2755,
+      "muskarci_2024": 1337,
+      "zene_2024": 1418
+    },
+    {
+      "grad_opcina": "Čakovec",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 27614,
+      "stanovnistvo_2019": 27133,
+      "stanovnistvo_2024": 27958,
+      "muskarci_2024": 13661,
+      "zene_2024": 14297
+    },
+    {
+      "grad_opcina": "Dekanovec",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 771,
+      "stanovnistvo_2019": 753,
+      "stanovnistvo_2024": 697,
+      "muskarci_2024": 345,
+      "zene_2024": 352
+    },
+    {
+      "grad_opcina": "Domašinec",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 2162,
+      "stanovnistvo_2019": 1983,
+      "stanovnistvo_2024": 1811,
+      "muskarci_2024": 844,
+      "zene_2024": 967
+    },
+    {
+      "grad_opcina": "Donja Dubrava",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 1835,
+      "stanovnistvo_2019": 1666,
+      "stanovnistvo_2024": 1640,
+      "muskarci_2024": 792,
+      "zene_2024": 848
+    },
+    {
+      "grad_opcina": "Donji Kraljevec",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 4417,
+      "stanovnistvo_2019": 4138,
+      "stanovnistvo_2024": 4218,
+      "muskarci_2024": 2158,
+      "zene_2024": 2060
+    },
+    {
+      "grad_opcina": "Donji Vidovec",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 1358,
+      "stanovnistvo_2019": 1204,
+      "stanovnistvo_2024": 1144,
+      "muskarci_2024": 592,
+      "zene_2024": 552
+    },
+    {
+      "grad_opcina": "Goričan",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 2675,
+      "stanovnistvo_2019": 2440,
+      "stanovnistvo_2024": 2193,
+      "muskarci_2024": 1105,
+      "zene_2024": 1088
+    },
+    {
+      "grad_opcina": "Gornji Mihaljevec",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 1856,
+      "stanovnistvo_2019": 1786,
+      "stanovnistvo_2024": 1667,
+      "muskarci_2024": 825,
+      "zene_2024": 842
+    },
+    {
+      "grad_opcina": "Kotoriba",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 3114,
+      "stanovnistvo_2019": 2991,
+      "stanovnistvo_2024": 2831,
+      "muskarci_2024": 1463,
+      "zene_2024": 1368
+    },
+    {
+      "grad_opcina": "Mala Subotica",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 4687,
+      "stanovnistvo_2019": 4379,
+      "stanovnistvo_2024": 4260,
+      "muskarci_2024": 2135,
+      "zene_2024": 2125
+    },
+    {
+      "grad_opcina": "Mursko Središće",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 6208,
+      "stanovnistvo_2019": 5942,
+      "stanovnistvo_2024": 5648,
+      "muskarci_2024": 2769,
+      "zene_2024": 2879
+    },
+    {
+      "grad_opcina": "Nedelišće",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 11863,
+      "stanovnistvo_2019": 11195,
+      "stanovnistvo_2024": 11119,
+      "muskarci_2024": 5501,
+      "zene_2024": 5618
+    },
+    {
+      "grad_opcina": "Orehovica",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 2671,
+      "stanovnistvo_2019": 2789,
+      "stanovnistvo_2024": 2740,
+      "muskarci_2024": 1374,
+      "zene_2024": 1366
+    },
+    {
+      "grad_opcina": "Podturen",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 3829,
+      "stanovnistvo_2019": 3596,
+      "stanovnistvo_2024": 3373,
+      "muskarci_2024": 1678,
+      "zene_2024": 1695
+    },
+    {
+      "grad_opcina": "Prelog",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 7587,
+      "stanovnistvo_2019": 7127,
+      "stanovnistvo_2024": 7098,
+      "muskarci_2024": 3623,
+      "zene_2024": 3475
+    },
+    {
+      "grad_opcina": "Pribislavec",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 3142,
+      "stanovnistvo_2019": 2925,
+      "stanovnistvo_2024": 3014,
+      "muskarci_2024": 1488,
+      "zene_2024": 1526
+    },
+    {
+      "grad_opcina": "Selnica",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 2948,
+      "stanovnistvo_2019": 2711,
+      "stanovnistvo_2024": 2515,
+      "muskarci_2024": 1271,
+      "zene_2024": 1244
+    },
+    {
+      "grad_opcina": "Strahoninec",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 2643,
+      "stanovnistvo_2019": 2592,
+      "stanovnistvo_2024": 2687,
+      "muskarci_2024": 1312,
+      "zene_2024": 1375
+    },
+    {
+      "grad_opcina": "Sveta Marija",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 2231,
+      "stanovnistvo_2019": 2018,
+      "stanovnistvo_2024": 1901,
+      "muskarci_2024": 966,
+      "zene_2024": 935
+    },
+    {
+      "grad_opcina": "Sveti Juraj na Bregu",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 5168,
+      "stanovnistvo_2019": 4964,
+      "stanovnistvo_2024": 4829,
+      "muskarci_2024": 2394,
+      "zene_2024": 2435
+    },
+    {
+      "grad_opcina": "Sveti Martin na Muri",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 2591,
+      "stanovnistvo_2019": 2451,
+      "stanovnistvo_2024": 2346,
+      "muskarci_2024": 1150,
+      "zene_2024": 1196
+    },
+    {
+      "grad_opcina": "Šenkovec",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 2902,
+      "stanovnistvo_2019": 2797,
+      "stanovnistvo_2024": 2660,
+      "muskarci_2024": 1339,
+      "zene_2024": 1321
+    },
+    {
+      "grad_opcina": "Štrigova",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 2694,
+      "stanovnistvo_2019": 2473,
+      "stanovnistvo_2024": 2312,
+      "muskarci_2024": 1125,
+      "zene_2024": 1187
+    },
+    {
+      "grad_opcina": "Vratišinec",
+      "zupanija": "Međimurska županija",
+      "stanovnistvo_2014": 1936,
+      "stanovnistvo_2019": 1716,
+      "stanovnistvo_2024": 1587,
+      "muskarci_2024": 800,
+      "zene_2024": 787
+    },
+    {
+      "grad_opcina": "Zagreb",
+      "zupanija": "Grad Zagreb",
+      "stanovnistvo_2014": 787622,
+      "stanovnistvo_2019": 774420,
+      "stanovnistvo_2024": 777359,
+      "muskarci_2024": 370560,
+      "zene_2024": 406799
+    }
+  ],
+  "meta": {
+    "title": "Procjena stanovništva po gradovima i općinama (2014., 2019. i 2024.) - Free Download",
+    "description": "Procijenjeni broj stanovnika svih gradova i općina Republike Hrvatske na dan 31. 12. 2014., 2019. i 2024. te broj muškaraca i žena u 2024., s pripadajućom županijom (DZS, procjene stanovništva). Contains 556 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Procjena stanovništva po gradovima i općinama (2014., 2019. i 2024.) | ListBase",
+    "seo_description": "Download Procjena stanovništva po gradovima i općinama (2014., 2019. i 2024.) — 556 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 556 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://podaci.dzs.hr/"
+    ]
+  }
+}
